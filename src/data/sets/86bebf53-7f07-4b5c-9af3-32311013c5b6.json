@@ -1,0 +1,198 @@
+[
+    {
+        "id": "a5c3eb4a-5af2-4df2-8ca1-c9a154f3eaa5",
+        "word": "circle",
+        "phonetic": "sɜːkəl ",
+        "type": "noun",
+        "defineEn": "a completely round, plain shape",
+        "defineVi": "một hình dạng hoàn toàn tròn, đơn giản",
+        "hasImg": true
+    },
+    {
+        "id": "61231d54-4046-4d22-bd97-a713d7117de5",
+        "word": "triangle",
+        "phonetic": "tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape consisting of three straight sides and three angles",
+        "defineVi": "(hình học) hình phẳng có ba cạnh thẳng và ba góc",
+        "hasImg": true
+    },
+    {
+        "id": "f7c3fc70-54c3-4ff4-a438-c55b2be7a67d",
+        "word": "rectangle",
+        "phonetic": "ɹɛktæŋɡəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape with four right angles, especially one with opposing sides that are equal and parallel to each other",
+        "defineVi": "(hình học) hình phẳng có bốn góc vuông, đặc biệt là góc có các cạnh đối bằng nhau và song song với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "0f0ea17f-a611-4f04-855c-3916b7536325",
+        "word": "kite",
+        "phonetic": "kaɪt ",
+        "type": "noun",
+        "defineEn": "a quadrilateral shape with two pairs of congruent sides that are connected at a right angle, with one pair longer than the other",
+        "defineVi": "một hình tứ giác có hai cặp cạnh bằng nhau được nối với nhau ở một góc vuông, với một cặp dài hơn cặp kia",
+        "hasImg": true
+    },
+    {
+        "id": "2608d344-d9c7-4d8b-b6a4-c70c0902f040",
+        "word": "square",
+        "phonetic": "skwɛɹ ",
+        "type": "noun",
+        "defineEn": "a shape with four equal straight sides and four right angles (90°)",
+        "defineVi": "một hình có bốn cạnh thẳng bằng nhau và bốn góc vuông (90°)",
+        "hasImg": true
+    },
+    {
+        "id": "fa869768-0373-4f5b-8b6b-fc153ef104dd",
+        "word": "trapezoid",
+        "phonetic": "tɹæpɪzɔɪd ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape with four flat sides, two of which are parallel",
+        "defineVi": "(hình học) hình phẳng có bốn cạnh phẳng, trong đó có hai cạnh song song",
+        "hasImg": true
+    },
+    {
+        "id": "95e59c20-70c0-4386-ac24-84d2df48ae9c",
+        "word": "parallelogram",
+        "phonetic": "pæɹəlɛləɡɹæm ",
+        "type": "noun",
+        "defineEn": "(geometry) any flat shape with four straight sides, the opposite sides of which are equal and parallel to each other",
+        "defineVi": "(hình học) bất kỳ hình phẳng nào có bốn cạnh thẳng hàng, các cạnh đối diện của chúng bằng nhau và song song với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "ec846e8e-5c99-415d-bc40-064d5ab7140e",
+        "word": "rhombus",
+        "phonetic": "ɹɑːmbəs ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape with four equal sides in which opposite angles are equal",
+        "defineVi": "(hình học) hình phẳng có bốn cạnh bằng nhau, trong đó các góc đối diện bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "90a4601c-99e4-4dab-a51b-5ee6b91fb5a9",
+        "word": "polygon",
+        "phonetic": "pɑːlɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape consisting of three or more straight sides",
+        "defineVi": "(hình học) hình phẳng có ba cạnh thẳng trở lên",
+        "hasImg": true
+    },
+    {
+        "id": "4b1c760f-b0be-4ed5-957f-5086d78188f8",
+        "word": "right triangle",
+        "phonetic": "ɹaɪt tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape consisting of three straight sides and one right angle",
+        "defineVi": "(hình học) hình phẳng có ba cạnh thẳng và một góc vuông",
+        "hasImg": true
+    },
+    {
+        "id": "1c5a7d3b-df81-445c-a62a-434f0df07fd3",
+        "word": "oblique triangle",
+        "phonetic": "oʊbliːk tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a triangle that contains no right angle",
+        "defineVi": "tam giác không có góc vuông",
+        "hasImg": true
+    },
+    {
+        "id": "d7a03588-80b5-4b46-ac60-0925112486c3",
+        "word": "scalene triangle",
+        "phonetic": "skeɪliːn tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a triangle with no two sides of equal length",
+        "defineVi": "tam giác không có hai cạnh nào bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "a86197bd-df62-4ec8-b239-1dddddfe6905",
+        "word": "isosceles triangle",
+        "phonetic": "aɪsɑːsəliːz tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a triangle with two equal sides",
+        "defineVi": "một tam giác có hai cạnh bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "46bf52f4-38f4-4aa5-8d2e-5df391e0ee76",
+        "word": "equilateral triangle",
+        "phonetic": "iːkwɪlæɾɚɹəl tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a three-sided regular polygon",
+        "defineVi": "đa giác đều ba cạnh",
+        "hasImg": true
+    },
+    {
+        "id": "b85b6802-64a7-4672-afbb-795606c63952",
+        "word": "acute-angled triangle",
+        "phonetic": "ɐkjuːtæŋɡəld tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a triangle whose interior angles are all acute",
+        "defineVi": "tam giác có các góc trong đều nhọn"
+    },
+    {
+        "id": "68ad951f-7e74-4d96-b052-01695dad048f",
+        "word": "obtuse-angled triangle",
+        "phonetic": "əbtuːsæŋɡəld tɹaɪæŋɡəl ",
+        "type": "noun",
+        "defineEn": "a triangle that contains an obtuse interior angle",
+        "defineVi": "tam giác có một góc tù trong",
+        "hasImg": true
+    },
+    {
+        "id": "0b0675c4-e0be-47b5-b5c2-d33211d31d40",
+        "word": "rhomboid",
+        "phonetic": "ɹɑːmbɔɪd ",
+        "type": "noun",
+        "defineEn": "(geometry) a parallelogram with four straight sides and no right angles",
+        "defineVi": "(hình học) hình bình hành có bốn cạnh thẳng và không có góc vuông",
+        "hasImg": true
+    },
+    {
+        "id": "3e47a943-f16d-4b86-a14b-bca93c91dc4c",
+        "word": "semicircle",
+        "phonetic": "sɛmɪsɜːkəl ",
+        "type": "noun",
+        "defineEn": "any half of a circle",
+        "defineVi": "nửa hình tròn bất kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "3afe943d-24e3-489d-a029-a6cba5a9b201",
+        "word": "torus",
+        "phonetic": "toːɹəs ",
+        "type": "noun",
+        "defineEn": "a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle",
+        "defineVi": "một bề mặt hình vòng được tạo ra bằng cách xoay một vòng tròn quanh một trục không cắt vòng tròn"
+    },
+    {
+        "id": "5757cca0-45dd-408a-a2b0-a026376ef412",
+        "word": "lozenge",
+        "phonetic": "loʊzɛndʒ ",
+        "type": "noun",
+        "defineEn": "(geometry) a figure with four sides and two opposite angles more than 90° and two of less than 90°",
+        "defineVi": "(hình học) hình có bốn cạnh và hai góc đối diện lớn hơn 90° và hai góc nhỏ hơn 90°",
+        "hasImg": true
+    },
+    {
+        "id": "c4b8627a-fd60-4466-9d51-861b5b369671",
+        "word": "oblong",
+        "phonetic": "ɑːblɔŋ ",
+        "type": "noun",
+        "defineEn": "a rectangular figure that has unequal adjacent sides with arched angles",
+        "defineVi": "một hình chữ nhật có các cạnh liền kề không bằng nhau với các góc cong",
+        "hasImg": true
+    },
+    {
+        "id": "b13bf5e0-5aa6-40c4-a862-04190b5e4848",
+        "word": "oval",
+        "phonetic": "oʊvəl ",
+        "type": "noun",
+        "defineEn": "a shape that is wide in the middle and narrow at both ends",
+        "defineVi": "một hình dạng rộng ở giữa và hẹp ở hai đầu",
+        "hasImg": true
+    }
+]

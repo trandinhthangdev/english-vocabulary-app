@@ -1,0 +1,542 @@
+[
+    {
+        "id": "c7399057-6195-46c7-a565-e5bec419fc06",
+        "word": "palm",
+        "phonetic": "pɑːm ",
+        "type": "noun",
+        "defineEn": "the inner surface of the hand between the wrist and fingers",
+        "defineVi": "bề mặt bên trong của bàn tay giữa cổ tay và ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "bc7d1efd-3f75-4dcc-bb5e-d3a237a8fd1b",
+        "word": "wrist",
+        "phonetic": "ɹɪst ",
+        "type": "noun",
+        "defineEn": "the joint connecting the hand to the arm",
+        "defineVi": "khớp nối bàn tay với cánh tay",
+        "hasImg": true
+    },
+    {
+        "id": "9f5361a4-a853-43d5-a1f8-a85556b7bcbe",
+        "word": "bottom",
+        "phonetic": "bɑːɾəm ",
+        "type": "noun",
+        "defineEn": "the part of the body that we sit on",
+        "defineVi": "một phần của cơ thể mà chúng ta ngồi trên",
+        "hasImg": true
+    },
+    {
+        "id": "294a638f-2f5d-417c-bc8b-baf1b7b50ccf",
+        "word": "chest",
+        "phonetic": "tʃɛst ",
+        "type": "noun",
+        "defineEn": "the front part of the body between the neck and the stomach",
+        "defineVi": "phần phía trước của cơ thể giữa cổ và dạ dày",
+        "hasImg": true
+    },
+    {
+        "id": "4bbcc31f-7098-49ff-94f4-357eac5cfe35",
+        "word": "hip",
+        "phonetic": "hɪp ",
+        "type": "noun",
+        "defineEn": "each of the parts above the legs and below the waist at either side of the body",
+        "defineVi": "mỗi bộ phận phía trên chân và dưới thắt lưng ở hai bên cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "88195d0a-dcf9-4e4b-b5da-270000a0990c",
+        "word": "thigh",
+        "phonetic": "θaɪ ",
+        "type": "noun",
+        "defineEn": "the top part of the leg between the hip and the knee",
+        "defineVi": "phần trên cùng của chân giữa hông và đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "44dd9bbf-65a7-4c3e-a59e-ce6292dca0cf",
+        "word": "waist",
+        "phonetic": "weɪst ",
+        "type": "noun",
+        "defineEn": "the part of the body between the ribs and hips, which is usually narrower than the parts mentioned",
+        "defineVi": "phần cơ thể giữa xương sườn và hông, thường hẹp hơn các phần được đề cập",
+        "hasImg": true
+    },
+    {
+        "id": "c57273aa-7beb-4181-ac5f-b8439c7b1ccc",
+        "word": "brain",
+        "phonetic": "bɹeɪn ",
+        "type": "noun",
+        "defineEn": "the body part that is inside our head controlling how we feel, think, move, etc.",
+        "defineVi": "phần cơ thể nằm trong đầu kiểm soát cách chúng ta cảm nhận, suy nghĩ, di chuyển, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c7ec3b9d-cceb-4601-8230-62e99e0c9df7",
+        "word": "heart",
+        "phonetic": "hɑːɹt ",
+        "type": "noun",
+        "defineEn": "the body part that pushes the blood to go to all parts of our body",
+        "defineVi": "bộ phận cơ thể đẩy máu đi đến tất cả các bộ phận của cơ thể chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "06ad94af-c250-4cbb-8586-2a003212b3fe",
+        "word": "kidney",
+        "phonetic": "kɪdni ",
+        "type": "noun",
+        "defineEn": "each of the two bean-shaped organs in the lower back of the body that separate wastes from the blood and make urine",
+        "defineVi": "mỗi cơ quan trong số hai cơ quan hình hạt đậu ở phần lưng dưới của cơ thể giúp tách chất thải ra khỏi máu và tạo ra nước tiểu",
+        "hasImg": true
+    },
+    {
+        "id": "504144ee-c5ec-4e5f-a25c-c529e4223b83",
+        "word": "liver",
+        "phonetic": "lɪvɚ ",
+        "type": "noun",
+        "defineEn": "a large organ in the body that produces bile and cleans the blood",
+        "defineVi": "một cơ quan lớn trong cơ thể sản xuất mật và làm sạch máu",
+        "hasImg": true
+    },
+    {
+        "id": "fb260201-a0e7-4fd2-b3cf-75e6c81cc41d",
+        "word": "lung",
+        "phonetic": "lʌŋ ",
+        "type": "noun",
+        "defineEn": "each of the two organs in the chest that help us breathe",
+        "defineVi": "mỗi cơ quan trong lồng ngực giúp chúng ta thở",
+        "hasImg": true
+    },
+    {
+        "id": "04662e14-8394-4415-a18c-18b55997cbd8",
+        "word": "arm",
+        "phonetic": "ɑːɹm ",
+        "type": "noun",
+        "defineEn": "one of the two body parts that is connected to the shoulder and ends with fingers",
+        "defineVi": "một trong hai bộ phận cơ thể được nối với vai và kết thúc bằng ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "fc05251c-0fea-4d2f-b19c-feb65cd38582",
+        "word": "eyebrow",
+        "phonetic": "aɪbɹaʊ ",
+        "type": "noun",
+        "defineEn": "one of the two lines of hair that grow above our eyes",
+        "defineVi": "một trong hai dòng tóc mọc phía trên mắt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "5c30130e-e04f-4790-a96e-b1dd1fc47655",
+        "word": "hair",
+        "phonetic": "hɛɹ ",
+        "type": "noun",
+        "defineEn": "the thin thread-like things that grow on our head",
+        "defineVi": "những thứ giống như sợi chỉ mọc trên đầu chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "34f2dc61-8f06-4ded-928c-c89d9e3ea7ce",
+        "word": "hand",
+        "phonetic": "hænd ",
+        "type": "noun",
+        "defineEn": "the part of our body that is at the end of our arm and we use to grab, move, or feel things",
+        "defineVi": "phần cơ thể nằm ở cuối cánh tay và chúng ta dùng để nắm lấy, di chuyển hoặc cảm nhận đồ vật",
+        "hasImg": true
+    },
+    {
+        "id": "3c3c5841-fbe4-4b75-8bb5-a8db3ba5e853",
+        "word": "head",
+        "phonetic": "hɛd ",
+        "type": "noun",
+        "defineEn": "the top part of our body, where our brain and face are located",
+        "defineVi": "phần trên cùng của cơ thể chúng ta, nơi đặt bộ não và khuôn mặt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "14430911-629e-4805-a0a7-7ca62002c7cb",
+        "word": "nose",
+        "phonetic": "noʊz ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of our face and we use to smell and breathe",
+        "defineVi": "phần cơ thể ở giữa khuôn mặt của chúng tôi và chúng tôi sử dụng để ngửi và thở",
+        "hasImg": true
+    },
+    {
+        "id": "9fb79dae-d56a-4914-a38b-c370677c2345",
+        "word": "shoulder",
+        "phonetic": "ʃoʊldɚ ",
+        "type": "noun",
+        "defineEn": "each of the two parts of the body between the top of the arms and the neck",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận của cơ thể giữa đầu cánh tay và cổ",
+        "hasImg": true
+    },
+    {
+        "id": "41bbc6c6-d965-487b-a253-9dafe1275456",
+        "word": "body",
+        "phonetic": "bɑːdi ",
+        "type": "noun",
+        "defineEn": "our or an animal's hands, legs, head, and every other part together",
+        "defineVi": "tay, chân, đầu và mọi bộ phận khác của chúng ta hoặc động vật cùng với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "dfc1f987-05e8-4e86-91c3-ae18369b3187",
+        "word": "cheek",
+        "phonetic": "tʃiːk ",
+        "type": "noun",
+        "defineEn": "any of the two soft sides of our face that are bellow our eyes",
+        "defineVi": "bất kỳ hai mặt mềm mại nào trên khuôn mặt của chúng ta dưới mắt chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "6db7c670-0aab-400c-a6d3-6f6381fdaa9e",
+        "word": "chin",
+        "phonetic": "tʃɪn ",
+        "type": "noun",
+        "defineEn": "the lowest part of our face that is below our mouth",
+        "defineVi": "phần thấp nhất của khuôn mặt của chúng tôi là dưới miệng của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "7bd9b406-bf47-4fd9-ab27-af456c391c8f",
+        "word": "eye",
+        "phonetic": "aɪ ",
+        "type": "noun",
+        "defineEn": "a body part on our face that we have two of and use for seeing",
+        "defineVi": "một bộ phận cơ thể trên khuôn mặt của chúng ta mà chúng ta có hai và sử dụng để nhìn",
+        "hasImg": true
+    },
+    {
+        "id": "c61bbf18-da71-4970-a821-050747d1f957",
+        "word": "forehead",
+        "phonetic": "fɔːɹhɛd ",
+        "type": "noun",
+        "defineEn": "the part of the face above the eyebrows and below the hair",
+        "defineVi": "một phần của khuôn mặt trên lông mày và dưới tóc",
+        "hasImg": true
+    },
+    {
+        "id": "38d7b3a1-8515-48a3-8c67-a277ba089b3b",
+        "word": "lip",
+        "phonetic": "lɪp ",
+        "type": "noun",
+        "defineEn": "each of the two body parts that are soft and surround our mouth",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mềm và bao quanh miệng của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "9612d7ef-a07d-4f0d-b6e2-0f685915f69d",
+        "word": "neck",
+        "phonetic": "nɛk ",
+        "type": "noun",
+        "defineEn": "the body part that is connecting the head to the shoulders",
+        "defineVi": "phần cơ thể nối đầu với vai",
+        "hasImg": true
+    },
+    {
+        "id": "eb44893c-578a-4dc1-909e-c79adcc5a36d",
+        "word": "stubble",
+        "phonetic": "stʌbəl ",
+        "type": "noun",
+        "defineEn": "short stiff hair growing on the skin when it is not shaved, typically on a man's face",
+        "defineVi": "lông ngắn cứng mọc trên da khi không cạo, điển hình là trên mặt nam giới",
+        "hasImg": true
+    },
+    {
+        "id": "141974c9-f7e8-42c0-b884-e8c620947c9e",
+        "word": "wrinkle",
+        "phonetic": "ɹɪŋkəl ",
+        "type": "noun",
+        "defineEn": "a small fold or line in a piece of cloth or in the skin, particularly the face",
+        "defineVi": "một nếp gấp hoặc đường nhỏ trên một mảnh vải hoặc trên da, đặc biệt là trên mặt",
+        "hasImg": true
+    },
+    {
+        "id": "3fc6bfb2-a21f-4146-a648-1121f48f8cd8",
+        "word": "ankle",
+        "phonetic": "æŋkəl ",
+        "type": "noun",
+        "defineEn": "the joint that connects the foot to the leg",
+        "defineVi": "khớp nối bàn chân với chân",
+        "hasImg": true
+    },
+    {
+        "id": "e772253d-9823-49bd-8b81-1eb9edf1b01d",
+        "word": "calf",
+        "phonetic": "kæf ",
+        "type": "noun",
+        "defineEn": "the muscular part at the back of the leg between the knee and the ankle",
+        "defineVi": "phần cơ ở phía sau chân giữa đầu gối và mắt cá chân",
+        "hasImg": true
+    },
+    {
+        "id": "c4aca249-5658-441b-991b-e97bef5de45c",
+        "word": "heel",
+        "phonetic": "hiːl ",
+        "type": "noun",
+        "defineEn": "the back part of the foot, below the ankle",
+        "defineVi": "phần sau của bàn chân, dưới mắt cá chân",
+        "hasImg": true
+    },
+    {
+        "id": "7e8fde3c-3c2f-410e-8d96-fd8b9f7aca5a",
+        "word": "knee",
+        "phonetic": "niː ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of the leg and helps it bend",
+        "defineVi": "phần cơ thể ở giữa chân và giúp nó uốn cong",
+        "hasImg": true
+    },
+    {
+        "id": "4c600b78-20ce-4ecd-8071-61591b241645",
+        "word": "elbow",
+        "phonetic": "ɛlboʊ ",
+        "type": "noun",
+        "defineEn": "the joint where arms bend; between the upper and lower parts of the arm",
+        "defineVi": "khớp nơi cánh tay uốn cong; giữa phần trên và phần dưới của cánh tay",
+        "hasImg": true
+    },
+    {
+        "id": "0a79132e-991b-4bb7-97ae-3c3a94f4dcc3",
+        "word": "fist",
+        "phonetic": "fɪst ",
+        "type": "noun",
+        "defineEn": "the hand with the fingers tightly bent toward the palm",
+        "defineVi": "bàn tay với các ngón tay uốn cong về phía lòng bàn tay",
+        "hasImg": true
+    },
+    {
+        "id": "e663e9f4-00d5-481d-8dd9-24f93ff805b8",
+        "word": "nail",
+        "phonetic": "neɪl ",
+        "type": "noun",
+        "defineEn": "the hard, thin layer on the upper surface of the tip of the finger and toe",
+        "defineVi": "lớp cứng, mỏng ở mặt trên của đầu ngón tay và ngón chân",
+        "hasImg": true
+    },
+    {
+        "id": "ace703db-23fd-46f4-8434-d3fd29559b21",
+        "word": "thumb",
+        "phonetic": "θʌm ",
+        "type": "noun",
+        "defineEn": "the thick finger that has a different position than the other four",
+        "defineVi": "ngón dày có vị trí khác với bốn ngón còn lại",
+        "hasImg": true
+    },
+    {
+        "id": "71d8d8dd-b1a7-4369-8482-15c943363fdf",
+        "word": "toe",
+        "phonetic": "toʊ ",
+        "type": "noun",
+        "defineEn": "each of the five parts sticking out from the foot",
+        "defineVi": "mỗi trong số năm phần nhô ra từ bàn chân",
+        "hasImg": true
+    },
+    {
+        "id": "c6243b08-bbe2-454d-95cd-3f7272de18b2",
+        "word": "to bite",
+        "phonetic": "tə baɪt ",
+        "type": "verb",
+        "defineEn": "to cut into flesh using the teeth",
+        "defineVi": "để cắt vào thịt bằng cách sử dụng răng",
+        "hasImg": true
+    },
+    {
+        "id": "23726c24-bf93-4996-9c75-9a6d065eed4a",
+        "word": "to blow",
+        "phonetic": "tə bloʊ ",
+        "type": "verb",
+        "defineEn": "to exhale forcefully through the mouth",
+        "defineVi": "thở ra mạnh mẽ qua miệng",
+        "hasImg": true
+    },
+    {
+        "id": "c7d8b07e-f264-4ffe-a646-2aad629ab33f",
+        "word": "to brush",
+        "phonetic": "tə bɹʌʃ ",
+        "type": "verb",
+        "defineEn": "to arrange or tidy up one's hair with a brush",
+        "defineVi": "để sắp xếp hoặc dọn dẹp tóc của một người với một bàn chải",
+        "hasImg": true
+    },
+    {
+        "id": "11d8a66d-d1bc-4423-8a3c-afa2dc5f5041",
+        "word": "to comb",
+        "phonetic": "tə koʊm ",
+        "type": "verb",
+        "defineEn": "to use a comb to tidy or arrange the hair",
+        "defineVi": "sử dụng lược để gọn gàng hoặc sắp xếp tóc",
+        "hasImg": true
+    },
+    {
+        "id": "bc317d41-7aa1-45ff-b558-dd647c285482",
+        "word": "to fold",
+        "phonetic": "tə foʊld ",
+        "type": "verb",
+        "defineEn": "to bend something in a way that one part of it touches or covers another",
+        "defineVi": "để uốn cong một cái gì đó trong một cách mà một phần của nó chạm vào hoặc bao phủ khác",
+        "hasImg": true
+    },
+    {
+        "id": "c55552c9-27bf-432b-8bd2-141ca6fdfa2e",
+        "word": "to hold",
+        "phonetic": "tə hoʊld ",
+        "type": "verb",
+        "defineEn": "to have in one's hands or arms",
+        "defineVi": "có trong tay hoặc cánh tay của một người",
+        "hasImg": true
+    },
+    {
+        "id": "d7163728-5f99-422d-82b2-30fb6a314152",
+        "word": "to touch",
+        "phonetic": "tə tʌtʃ ",
+        "type": "verb",
+        "defineEn": "to put our hand or body part on a thing or person",
+        "defineVi": "để đặt bàn tay hoặc bộ phận cơ thể của chúng tôi trên một điều hoặc người",
+        "hasImg": true
+    },
+    {
+        "id": "7148bde2-d0f6-4463-b9fd-17dce1f57967",
+        "word": "to suck",
+        "phonetic": "tə sʌk ",
+        "type": "verb",
+        "defineEn": "to pull air, liquid, etc. into the mouth by using the muscles of the mouth and the lips",
+        "defineVi": "để kéo không khí, chất lỏng, vv vào miệng bằng cách sử dụng các cơ miệng và môi",
+        "hasImg": true
+    },
+    {
+        "id": "d22dcdf3-256b-412e-ad62-b3764762586e",
+        "word": "to shake",
+        "phonetic": "tə ʃeɪk ",
+        "type": "verb",
+        "defineEn": "to move from side to side or up and down",
+        "defineVi": "để di chuyển từ bên này sang bên kia hoặc lên và xuống",
+        "hasImg": true
+    },
+    {
+        "id": "425ad660-0510-4288-9a7c-4a746d53851f",
+        "word": "to shrug",
+        "phonetic": "tə ʃɹʌɡ ",
+        "type": "verb",
+        "defineEn": "to momentarily raise one's shoulders to express indifference",
+        "defineVi": "tạm thời nâng cao vai của một người để thể hiện sự thờ ơ",
+        "hasImg": true
+    },
+    {
+        "id": "057907c2-f370-4c54-b656-bd58cd5bdc54",
+        "word": "to raise",
+        "phonetic": "tə ɹeɪz ",
+        "type": "verb",
+        "defineEn": "to put something in a higher place or lift it to a higher position",
+        "defineVi": "để đặt một cái gì đó ở một nơi cao hơn hoặc nâng nó lên một vị trí cao hơn",
+        "hasImg": true
+    },
+    {
+        "id": "693e2112-6250-4dd2-903d-b96b1eb6e481",
+        "word": "to wink",
+        "phonetic": "tə wɪŋk ",
+        "type": "verb",
+        "defineEn": "to quickly open and close one eye as a sign of affection, or to indicate something is a secret or a joke",
+        "defineVi": "nhanh chóng mở và nhắm một mắt như một dấu hiệu của tình cảm, hoặc để biểu thị điều gì đó là một bí mật hoặc một trò đùa",
+        "hasImg": true
+    },
+    {
+        "id": "69d30c94-6f5f-49ca-aa8b-10d26d7d89c1",
+        "word": "to chew",
+        "phonetic": "tə tʃuː ",
+        "type": "verb",
+        "defineEn": "to bite and crush food into smaller pieces with the teeth to make it easier to swallow",
+        "defineVi": "cắn và nghiền thức ăn thành những miếng nhỏ hơn bằng răng để dễ nuốt hơn",
+        "hasImg": true
+    },
+    {
+        "id": "181e7890-a234-45b1-8581-6bfe2fd05bbb",
+        "word": "to hug",
+        "phonetic": "tə hʌɡ ",
+        "type": "verb",
+        "defineEn": "to tightly hold a person that one loves in their arms",
+        "defineVi": "ôm chặt người mình yêu trong vòng tay",
+        "hasImg": true
+    },
+    {
+        "id": "0e4cded3-3e69-492b-8163-7b3e35163f7a",
+        "word": "to scratch",
+        "phonetic": "tə skɹætʃ ",
+        "type": "verb",
+        "defineEn": "to rub a person's or one's own skin to relieve an itching sensation, particularly with one's fingernails",
+        "defineVi": "chà xát da của một người hoặc của chính mình để giảm cảm giác ngứa, đặc biệt là bằng móng tay của một người",
+        "hasImg": true
+    },
+    {
+        "id": "93e71ae0-b766-4be5-953c-45a8bbe1a9d0",
+        "word": "to wave",
+        "phonetic": "tə weɪv ",
+        "type": "verb",
+        "defineEn": "to raise one's hand and move it from side to side to greet someone or attract their attention",
+        "defineVi": "giơ tay và di chuyển nó từ bên này sang bên kia để chào ai đó hoặc thu hút sự chú ý của họ",
+        "hasImg": true
+    },
+    {
+        "id": "62538fa3-521c-47ca-8050-e2ced511ad5c",
+        "word": "to kneel",
+        "phonetic": "tə niːl ",
+        "type": "verb",
+        "defineEn": "to support the weight of the body on a knee or both knees",
+        "defineVi": "để hỗ trợ trọng lượng của cơ thể trên một đầu gối hoặc cả hai đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "c1692cf0-7fe0-415d-9317-049f0c3b464b",
+        "word": "to frown",
+        "phonetic": "tə fɹaʊn ",
+        "type": "verb",
+        "defineEn": "to bring your eyebrows closer together showing anger, sadness or confusion",
+        "defineVi": "đưa lông mày của bạn lại gần nhau thể hiện sự tức giận, buồn bã hoặc bối rối",
+        "hasImg": true
+    },
+    {
+        "id": "b865067c-d4cc-413e-ade7-694ee120a49b",
+        "word": "to stare",
+        "phonetic": "tə stɛɹ ",
+        "type": "verb",
+        "defineEn": "to look at someone or something without moving the eyes or blinking, usually devoid of any expression or for a long time",
+        "defineVi": "nhìn vào ai đó hoặc cái gì đó mà không di chuyển mắt hoặc chớp mắt, thường không có bất kỳ biểu hiện nào hoặc trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "e5953c07-c2d4-4778-9fa8-e51da55da647",
+        "word": "to yawn",
+        "phonetic": "tə jɔːn ",
+        "type": "verb",
+        "defineEn": "to unexpectedly open one's mouth wide and deeply breathe in because of being bored or tired",
+        "defineVi": "bất ngờ mở to miệng và hít vào thật sâu vì buồn chán hoặc mệt mỏi",
+        "hasImg": true
+    },
+    {
+        "id": "10acd4d1-2556-4ab0-a23b-2aa684af4898",
+        "word": "to stretch",
+        "phonetic": "tə stɹɛtʃ ",
+        "type": "verb",
+        "defineEn": "to make something longer, looser, or wider, especially by pulling it",
+        "defineVi": "để làm cho một cái gì đó dài hơn, lỏng hơn hoặc rộng hơn, đặc biệt là bằng cách kéo nó",
+        "hasImg": true
+    },
+    {
+        "id": "e3072181-4377-4503-98cf-b01dbf5b41fd",
+        "word": "to point",
+        "phonetic": "tə pɔɪnt ",
+        "type": "verb",
+        "defineEn": "to show the place or direction of someone or something by holding out a finger or an object",
+        "defineVi": "để hiển thị địa điểm hoặc hướng của một ai đó hoặc một cái gì đó bằng cách đưa ra một ngón tay hoặc một đối tượng",
+        "hasImg": true
+    },
+    {
+        "id": "5896d0fc-3f5e-448a-9bbe-8fc003d1fd58",
+        "word": "tooth",
+        "phonetic": "tuːθ ",
+        "type": "noun",
+        "defineEn": "one of the things in our mouth that are hard and white and we use to chew and bite food with",
+        "defineVi": "một trong những thứ cứng và trắng trong miệng của chúng ta và chúng ta dùng để nhai và cắn thức ăn bằng",
+        "hasImg": true
+    }
+]

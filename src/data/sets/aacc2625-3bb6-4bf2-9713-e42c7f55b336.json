@@ -1,0 +1,315 @@
+[
+    {
+        "id": "532d07d1-e41e-47f1-9de4-c6146716248d",
+        "word": "intelligent",
+        "phonetic": "ɪntɛlɪdʒənt ",
+        "type": "adjective",
+        "defineEn": "having or showing a high level of intelligence; good at learning things, understanding ideas, and thinking clearly",
+        "defineVi": "có hoặc thể hiện mức độ thông minh cao; giỏi học hỏi mọi thứ, hiểu ý tưởng và suy nghĩ rõ ràng",
+        "hasImg": true
+    },
+    {
+        "id": "84dd9e4b-2105-4735-91a2-27672db970c8",
+        "word": "unintelligent",
+        "phonetic": "ʌnɪntɛlɪdʒənt ",
+        "type": "adjective",
+        "defineEn": "lacking the ability to understand, reason, or make good decisions",
+        "defineVi": "thiếu khả năng hiểu, lý luận hoặc đưa ra quyết định tốt",
+        "hasImg": true
+    },
+    {
+        "id": "61128156-333e-49d2-8e46-6dc4f75e57d2",
+        "word": "pleasant",
+        "phonetic": "plɛzənt ",
+        "type": "adjective",
+        "defineEn": "bringing enjoyment and happiness",
+        "defineVi": "mang lại niềm vui và hạnh phúc",
+        "hasImg": true
+    },
+    {
+        "id": "1626d2bf-342e-49ad-a3c3-f9a615042778",
+        "word": "unpleasant",
+        "phonetic": "ʌnplɛzənt ",
+        "type": "adjective",
+        "defineEn": "not liked or enjoyed",
+        "defineVi": "không thích hoặc thích",
+        "hasImg": true
+    },
+    {
+        "id": "e33fc1ab-3510-4ac9-8b15-65e5c8c06f1b",
+        "word": "careful",
+        "phonetic": "kɛɹfəl ",
+        "type": "adjective",
+        "defineEn": "giving attention or thought to what we are doing to avoid doing something wrong, hurting ourselves, or damaging something",
+        "defineVi": "chú ý hoặc suy nghĩ về những gì chúng ta đang làm để tránh làm sai, làm tổn thương bản thân hoặc làm hỏng thứ gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "6e77159d-c4b8-4f8b-a38e-8d4f25b21a95",
+        "word": "careless",
+        "phonetic": "kɛɹləs ",
+        "type": "adjective",
+        "defineEn": "not paying enough attention to what we are doing",
+        "defineVi": "không chú ý đầy đủ đến những gì chúng ta đang làm",
+        "hasImg": true
+    },
+    {
+        "id": "266a923d-d703-4cd5-9146-cdbaf5353c1a",
+        "word": "polite",
+        "phonetic": "pəlaɪt ",
+        "type": "adjective",
+        "defineEn": "showing a type of behavior that is considerate of other people",
+        "defineVi": "thể hiện một loại hành vi quan tâm đến người khác",
+        "hasImg": true
+    },
+    {
+        "id": "1e12dc72-ede6-46c2-9852-1bc476342a84",
+        "word": "impolite",
+        "phonetic": "ɪmpəlaɪt ",
+        "type": "adjective",
+        "defineEn": "having bad manners or behavior",
+        "defineVi": "có cách cư xử hoặc hành vi xấu",
+        "hasImg": true
+    },
+    {
+        "id": "8f912835-a2e2-4b97-a9be-6c03e3f421f6",
+        "word": "friendly",
+        "phonetic": "fɹɛndli ",
+        "type": "adjective",
+        "defineEn": "kind and nice toward other people",
+        "defineVi": "tử tế và tốt đẹp đối với người khác",
+        "hasImg": true
+    },
+    {
+        "id": "38481342-b417-46eb-88c5-7416c3453e81",
+        "word": "unfriendly",
+        "phonetic": "ʌnfɹɛndli ",
+        "type": "adjective",
+        "defineEn": "not kind or nice toward other people",
+        "defineVi": "không tử tế hoặc tốt đẹp đối với người khác",
+        "hasImg": true
+    },
+    {
+        "id": "dab9af31-6040-4f42-a029-b850a43187c6",
+        "word": "usual",
+        "phonetic": "juːʒuːəl ",
+        "type": "adjective",
+        "defineEn": "happening or done most of the time",
+        "defineVi": "xảy ra hoặc thực hiện hầu hết thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "0645b0c6-ffbd-4efa-9185-fd8b337d26fe",
+        "word": "unusual",
+        "phonetic": "ʌnjuːʒuːəl ",
+        "type": "adjective",
+        "defineEn": "not commonly happening or done",
+        "defineVi": "không thường xảy ra hoặc thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "cc63c205-d36d-4348-8ee3-976f9bcc5d3e",
+        "word": "lucky",
+        "phonetic": "lʌki ",
+        "type": "adjective",
+        "defineEn": "having or bringing good luck",
+        "defineVi": "có hoặc mang lại may mắn",
+        "hasImg": true
+    },
+    {
+        "id": "4fbb571a-7f54-4a23-87da-254c1e8eb092",
+        "word": "unlucky",
+        "phonetic": "ʌnlʌki ",
+        "type": "adjective",
+        "defineEn": "having or bringing bad luck",
+        "defineVi": "có hoặc mang lại xui xẻo",
+        "hasImg": true
+    },
+    {
+        "id": "06feb5ac-abd2-47c9-ae72-1abae8e8114c",
+        "word": "complete",
+        "phonetic": "kəmpliːt ",
+        "type": "adjective",
+        "defineEn": "having all the necessary parts",
+        "defineVi": "có tất cả các bộ phận cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "9772a5ac-3163-47e0-bc56-4fe01b7c5ce5",
+        "word": "incomplete",
+        "phonetic": "ɪŋkəmpliːt ",
+        "type": "adjective",
+        "defineEn": "not having all the necessary parts",
+        "defineVi": "không có tất cả các bộ phận cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "19a8fbc5-7322-4652-bcdb-dc5dfb846995",
+        "word": "healthy",
+        "phonetic": "hɛlθi ",
+        "type": "adjective",
+        "defineEn": "not having physical or mental problems",
+        "defineVi": "không có vấn đề về thể chất hoặc tinh thần",
+        "hasImg": true
+    },
+    {
+        "id": "c21719b7-95a0-4b3d-b586-faea05ea2cd4",
+        "word": "unhealthy",
+        "phonetic": "ʌnhɛlθi ",
+        "type": "adjective",
+        "defineEn": "not having a good physical or mental condition",
+        "defineVi": "không có tình trạng thể chất hoặc tinh thần tốt",
+        "hasImg": true
+    },
+    {
+        "id": "0c042101-a729-415c-b36d-56065ba51358",
+        "word": "popular",
+        "phonetic": "pɑːpjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "receiving a lot of love and attention from many people",
+        "defineVi": "nhận được rất nhiều tình cảm và sự quan tâm của nhiều người",
+        "hasImg": true
+    },
+    {
+        "id": "22cfdfa8-6e43-45a9-bf19-1bd43104698d",
+        "word": "unpopular",
+        "phonetic": "ʌnpɑːpjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "not liked or approved of by a large number of people",
+        "defineVi": "không thích hoặc được chấp thuận bởi một số lượng lớn người",
+        "hasImg": true
+    },
+    {
+        "id": "ccf93b1a-7bce-4e87-b790-3a63614f8f11",
+        "word": "safe",
+        "phonetic": "seɪf ",
+        "type": "adjective",
+        "defineEn": "being without danger or harm",
+        "defineVi": "không có nguy hiểm hoặc tổn hại",
+        "hasImg": true
+    },
+    {
+        "id": "ecffbc04-b5c7-4594-a63d-94ab53d314e5",
+        "word": "unsafe",
+        "phonetic": "ʌnseɪf ",
+        "type": "adjective",
+        "defineEn": "having a high degree of risk or danger",
+        "defineVi": "có mức độ rủi ro hoặc nguy hiểm cao",
+        "hasImg": true
+    },
+    {
+        "id": "975f5cd1-03c3-4165-92b1-44433d23a263",
+        "word": "well",
+        "phonetic": "wɛl ",
+        "type": "adjective",
+        "defineEn": "healthy or in good health; recovered from illness",
+        "defineVi": "khỏe mạnh hoặc sức khỏe tốt; khỏi bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "b6cbca3b-4c8d-49ec-ae51-f6feb6cb9093",
+        "word": "unwell",
+        "phonetic": "ʌnwɛl ",
+        "type": "adjective",
+        "defineEn": "not feeling physically or mentally healthy or fit",
+        "defineVi": "không cảm thấy khỏe mạnh về thể chất hoặc tinh thần hoặc phù hợp",
+        "hasImg": true
+    },
+    {
+        "id": "feca1d53-a801-455f-8ceb-888a418aa4dd",
+        "word": "important",
+        "phonetic": "ɪmpoːɹtənt ",
+        "type": "adjective",
+        "defineEn": "having a lot of value",
+        "defineVi": "có nhiều giá trị",
+        "hasImg": true
+    },
+    {
+        "id": "a83865f8-d888-49dd-b623-1fe84d55f44f",
+        "word": "unimportant",
+        "phonetic": "ʌnɪmpoːɹtənt ",
+        "type": "adjective",
+        "defineEn": "not important; having no value",
+        "defineVi": "không quan trọng; không có giá trị",
+        "hasImg": true
+    },
+    {
+        "id": "0f050b3d-4c97-4a0e-9675-108f6aa9ebdd",
+        "word": "possible",
+        "phonetic": "pɑːsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "able to exist, happen, or be done",
+        "defineVi": "có thể tồn tại, xảy ra, hoặc được thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "475a638a-b9a1-4228-bc8b-36a6099ac241",
+        "word": "impossible",
+        "phonetic": "ɪmpɑːsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "not able to be or happen; not possible to do",
+        "defineVi": "không thể hoặc xảy ra; không thể làm",
+        "hasImg": true
+    },
+    {
+        "id": "3137614a-6553-4211-a948-2fe277b14771",
+        "word": "formal",
+        "phonetic": "fɔːɹməl ",
+        "type": "adjective",
+        "defineEn": "suitable for fancy, important, serious, or official occasions and situations",
+        "defineVi": "thích hợp cho những dịp và tình huống ưa thích, quan trọng, nghiêm túc hoặc chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "9d1f2708-e762-4333-a909-eaefb7b50d6d",
+        "word": "informal",
+        "phonetic": "ɪnfɔːɹməl ",
+        "type": "adjective",
+        "defineEn": "suitable for friendly, relaxed, casual, or unofficial occasions and situations",
+        "defineVi": "thích hợp cho những dịp và tình huống thân thiện, thoải mái, bình thường hoặc không chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "2fa7285a-edd9-4858-8972-b01d158ae974",
+        "word": "own",
+        "phonetic": "oʊn ",
+        "type": "adjective",
+        "defineEn": "used for showing that someone or something belongs to or is connected with a particular person or thing",
+        "defineVi": "được sử dụng để hiển thị rằng ai đó hoặc một cái gì đó thuộc về hoặc được kết nối với một người hoặc vật cụ thể"
+    },
+    {
+        "id": "30a7a592-a2b8-4571-8ac9-e76c2c8a3558",
+        "word": "other",
+        "phonetic": "ʌðɚ ",
+        "type": "adjective",
+        "defineEn": "being the one that is different, extra, or not included",
+        "defineVi": "là cái khác, bổ sung hoặc không được bao gồm"
+    },
+    {
+        "id": "84b591c2-bc64-486b-acb3-30b3a7fa5d4d",
+        "word": "same",
+        "phonetic": "seɪm ",
+        "type": "adjective",
+        "defineEn": "like another thing or person in every way",
+        "defineVi": "thích một thứ khác hoặc một người theo mọi cách",
+        "hasImg": true
+    },
+    {
+        "id": "730ff624-bdc6-42f6-87c9-f2fe9dbbe1fe",
+        "word": "dead",
+        "phonetic": "dɛd ",
+        "type": "adjective",
+        "defineEn": "not alive anymore",
+        "defineVi": "không còn sống nữa",
+        "hasImg": true
+    },
+    {
+        "id": "79ec8502-31a3-4acf-b762-2d2645fd860b",
+        "word": "alive",
+        "phonetic": "ɐlaɪv ",
+        "type": "adjective",
+        "defineEn": "not dead; living",
+        "defineVi": "không chết; cuộc sống",
+        "hasImg": true
+    }
+]

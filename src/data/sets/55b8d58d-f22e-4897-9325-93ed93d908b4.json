@@ -1,0 +1,374 @@
+[
+    {
+        "id": "3aa37780-6306-472e-a754-2e9b377f95a8",
+        "word": "calloused",
+        "phonetic": "kæləst ",
+        "type": "adjective",
+        "defineEn": "having calluses, which are areas of toughened skin caused by repeated friction or pressure",
+        "defineVi": "có vết chai, là vùng da cứng do ma sát hoặc áp lực lặp đi lặp lại"
+    },
+    {
+        "id": "518173a0-a5ac-4272-8cb3-2ef9dbf23c83",
+        "word": "freckled",
+        "phonetic": "fɹɛkəld ",
+        "type": "adjective",
+        "defineEn": "(of the skin) covered in pale brown spots",
+        "defineVi": "(của da) được bao phủ bởi những đốm nâu nhạt",
+        "hasImg": true
+    },
+    {
+        "id": "2fd4a5ff-0ed5-4e7a-91f3-8361f200ba6c",
+        "word": "lined",
+        "phonetic": "laɪnd ",
+        "type": "adjective",
+        "defineEn": "having wrinkles or creases on the surface",
+        "defineVi": "có nếp nhăn hoặc nếp gấp trên bề mặt"
+    },
+    {
+        "id": "629dfd85-04b4-4fb2-9ee5-53016ff19633",
+        "word": "scabby",
+        "phonetic": "skæbi ",
+        "type": "adjective",
+        "defineEn": "having scabs or crusty patches on the surface, often due to healing from an injury or skin condition",
+        "defineVi": "có vảy hoặc mảng cứng trên bề mặt, thường là do vết thương hoặc tình trạng da đang lành"
+    },
+    {
+        "id": "4b025db0-5637-4839-bb5f-5699a00804e1",
+        "word": "wrinkled",
+        "phonetic": "ɹɪŋkəld ",
+        "type": "adjective",
+        "defineEn": "having lines, creases, or folds on the surface, often as a result of aging, sun exposure, or other environmental factors",
+        "defineVi": "có các đường, nếp nhăn hoặc nếp gấp trên bề mặt, thường là do lão hóa, phơi nắng hoặc các yếu tố môi trường khác",
+        "hasImg": true
+    },
+    {
+        "id": "57d3cc44-40cf-4159-b607-7a7e9cd144c0",
+        "word": "wrinkly",
+        "phonetic": "ɹɪŋkli ",
+        "type": "adjective",
+        "defineEn": "having many wrinkles",
+        "defineVi": "có nhiều nếp nhăn",
+        "hasImg": true
+    },
+    {
+        "id": "773ca2fa-4df6-4e6b-b291-cbb632301758",
+        "word": "blackhead",
+        "phonetic": "blækhɛd ",
+        "type": "noun",
+        "defineEn": "a small black spot often on the face caused by dirt blocking the small holes in the skin",
+        "defineVi": "một đốm đen nhỏ thường xuất hiện trên mặt do bụi bẩn chặn các lỗ nhỏ trên da",
+        "hasImg": true
+    },
+    {
+        "id": "17e92203-0e25-4056-96fe-a40798c4288b",
+        "word": "blemish",
+        "phonetic": "blɛmɪʃ ",
+        "type": "noun",
+        "defineEn": "a mark or spot on something or someone's skin that spoils the appearance",
+        "defineVi": "một dấu hiệu hoặc đốm trên một cái gì đó hoặc da của ai đó làm hỏng sự xuất hiện",
+        "hasImg": true
+    },
+    {
+        "id": "1afcf3b2-5610-41de-94cb-1ef481fae408",
+        "word": "blotch",
+        "phonetic": "blɑːtʃ ",
+        "type": "noun",
+        "defineEn": "a strange mark, usually red in color, on the surface of something or someone's skin",
+        "defineVi": "một vết lạ, thường có màu đỏ, trên bề mặt của thứ gì đó hoặc da của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "bd0fde7a-3a17-4a8f-972a-7ab0b728466e",
+        "word": "callus",
+        "phonetic": "kæləs ",
+        "type": "noun",
+        "defineEn": "an area of skin that has turned hard and rough by being constantly exposed to friction",
+        "defineVi": "một vùng da trở nên cứng và thô ráp do thường xuyên bị ma sát",
+        "hasImg": true
+    },
+    {
+        "id": "644c5c0d-392f-4d1a-b548-f4e0deec3b53",
+        "word": "bloom",
+        "phonetic": "bluːm ",
+        "type": "noun",
+        "defineEn": "a cheerful, youthful, or healthy glow on someone's face",
+        "defineVi": "một ánh sáng vui vẻ, trẻ trung hoặc khỏe mạnh trên khuôn mặt của ai đó"
+    },
+    {
+        "id": "08123e40-4181-4aea-94ab-1cc2cfdfb0ab",
+        "word": "blotchy",
+        "phonetic": "blɑːtʃi ",
+        "type": "adjective",
+        "defineEn": "having irregularly shaped or discolored areas on the skin's surface, often due to a rash, allergic reaction, or other skin condition",
+        "defineVi": "có các vùng có hình dạng hoặc đổi màu bất thường trên bề mặt da, thường là do phát ban, phản ứng dị ứng hoặc tình trạng da khác"
+    },
+    {
+        "id": "1691fc1c-6cb1-4fce-aff4-690170f631b5",
+        "word": "to chap",
+        "phonetic": "tə tʃæp ",
+        "type": "verb",
+        "defineEn": "to crack, split or become rough, typically due to dryness or exposure to cold weather",
+        "defineVi": "nứt, tách hoặc trở nên thô ráp, điển hình là do khô hoặc tiếp xúc với thời tiết lạnh"
+    },
+    {
+        "id": "9ec3a7d6-5b24-4f5b-81e7-7ab453cf3579",
+        "word": "dandruff",
+        "phonetic": "dændɹʌf ",
+        "type": "noun",
+        "defineEn": "small white flakes of dead skin cells in the hair",
+        "defineVi": "vảy trắng nhỏ của các tế bào da chết trên tóc",
+        "hasImg": true
+    },
+    {
+        "id": "e0b3108e-a264-4fc0-9e10-f5fe3f19fb36",
+        "word": "eczema",
+        "phonetic": "ɛkzəmə ",
+        "type": "noun",
+        "defineEn": "a very common skin condition that causes one's skin to become dry, red, itchy, and bumpy",
+        "defineVi": "một tình trạng da rất phổ biến khiến da của một người trở nên khô, đỏ, ngứa và sần sùi"
+    },
+    {
+        "id": "e2ecc177-aeb6-447f-ad15-3d701659a319",
+        "word": "liver spot",
+        "phonetic": "lɪvɚ spɑːt ",
+        "type": "noun",
+        "defineEn": "a small brown spot on the skin caused by sunlight exposure or aging",
+        "defineVi": "một đốm nâu nhỏ trên da do tiếp xúc với ánh nắng mặt trời hoặc lão hóa",
+        "hasImg": true
+    },
+    {
+        "id": "029042e4-a7fb-4063-8e56-c5b7660f04ed",
+        "word": "zit",
+        "phonetic": "zɪt ",
+        "type": "noun",
+        "defineEn": "a small, inflamed swelling on the skin that is filled with pus, typically associated with acne",
+        "defineVi": "một vết sưng nhỏ, viêm trên da chứa đầy mủ, thường liên quan đến mụn trứng cá",
+        "hasImg": true
+    },
+    {
+        "id": "e16b39d0-2cc5-4a27-b3f6-b6eeee0fc15c",
+        "word": "tanning",
+        "phonetic": "tænɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of darkening of the skin through exposure to UV rays or artificial methods",
+        "defineVi": "quá trình làm đen da do tiếp xúc với tia UV hoặc các phương pháp nhân tạo"
+    },
+    {
+        "id": "8138e3f3-d5d1-45d4-b48a-0e3875890396",
+        "word": "tan",
+        "phonetic": "tæn ",
+        "type": "noun",
+        "defineEn": "darkened or brown skin caused by long exposure to the sun",
+        "defineVi": "da sẫm màu hoặc nâu do tiếp xúc lâu với ánh nắng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "698b6174-9ea5-4d6c-a62c-27111bcf34ff",
+        "word": "tanned",
+        "phonetic": "tænd ",
+        "type": "adjective",
+        "defineEn": "(of skin) having a dark shade because of direct exposure to sunlight",
+        "defineVi": "(da) có màu tối vì tiếp xúc trực tiếp với ánh sáng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "fa59639d-ea18-479b-aaad-fa015ecab6f9",
+        "word": "suntan",
+        "phonetic": "sʌntæn ",
+        "type": "noun",
+        "defineEn": "the darkened or brown color of a person's skin that is caused by spending much time in the sun",
+        "defineVi": "màu da sẫm hoặc nâu của một người do dành nhiều thời gian dưới ánh nắng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "03780ca3-a275-4e1d-8d54-fefdfce4e896",
+        "word": "suntanned",
+        "phonetic": "sʌntænd ",
+        "type": "adjective",
+        "defineEn": "(of a person's skin) having a dark color after being exposed to the sun",
+        "defineVi": "(của một người da) có màu tối sau khi tiếp xúc với ánh nắng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "8bc047e9-2b3a-4ff9-8988-623cc79f78cd",
+        "word": "birthmark",
+        "phonetic": "bɜːθmɑːɹk ",
+        "type": "noun",
+        "defineEn": "a brownish or reddish mark that some people have on their skin since they are born",
+        "defineVi": "một vết màu nâu hoặc đỏ mà một số người có trên da kể từ khi họ được sinh ra",
+        "hasImg": true
+    },
+    {
+        "id": "004ef443-4f61-4e60-a1ab-4dc2c9a72e52",
+        "word": "acne",
+        "phonetic": "ækni ",
+        "type": "noun",
+        "defineEn": "a skin condition in which small red spots appear on the face or the neck, mainly affecting teenagers",
+        "defineVi": "một tình trạng da trong đó các đốm nhỏ màu đỏ xuất hiện trên mặt hoặc cổ, chủ yếu ảnh hưởng đến thanh thiếu niên",
+        "hasImg": true
+    },
+    {
+        "id": "fc4ac040-837b-49db-9209-ef550ad764c6",
+        "word": "bronzed",
+        "phonetic": "bɹɑːnzd ",
+        "type": "adjective",
+        "defineEn": "having skin that is suntanned and turned brownish in an attractive way",
+        "defineVi": "có làn da rám nắng và chuyển sang màu nâu một cách hấp dẫn",
+        "hasImg": true
+    },
+    {
+        "id": "131f7632-1fd7-49af-a0bd-43032e3a37a3",
+        "word": "crow\\'s feet",
+        "phonetic": "kɹoʊ bækslæʃ ɛs fiːt ",
+        "type": "noun",
+        "defineEn": "lines or wrinkles at the outside corner of someone's eye",
+        "defineVi": "đường hoặc nếp nhăn ở góc ngoài của mắt ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "2031ceca-bd77-4f92-b58e-a2f058eaff3e",
+        "word": "freckle",
+        "phonetic": "fɹɛkəl ",
+        "type": "noun",
+        "defineEn": "(usually plural) a small light brown spot, found mostly on the face, which becomes darker and larger in number when exposed to the sun",
+        "defineVi": "(thường là số nhiều) một đốm nhỏ màu nâu nhạt, chủ yếu được tìm thấy trên mặt, trở nên sẫm màu hơn và số lượng lớn hơn khi tiếp xúc với ánh nắng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "72f6c9c5-15c8-411b-bfc8-68a3a8867e08",
+        "word": "mole",
+        "phonetic": "moʊl ",
+        "type": "noun",
+        "defineEn": "a small dark brown spot or lump on the skin",
+        "defineVi": "một đốm nhỏ màu nâu sẫm hoặc cục u trên da",
+        "hasImg": true
+    },
+    {
+        "id": "83dac7e9-5e69-4122-acd2-d8c33002e6d5",
+        "word": "pale",
+        "phonetic": "peɪl ",
+        "type": "adjective",
+        "defineEn": "having less color than usual, caused by fear, illness, etc.",
+        "defineVi": "có ít màu sắc hơn bình thường, do sợ hãi, bệnh tật, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "3b41a580-0d03-4071-aa4f-448ad7d76a07",
+        "word": "permatan",
+        "phonetic": "pɜːmætən ",
+        "type": "noun",
+        "defineEn": "an artificial brown skin color that someone has all year long",
+        "defineVi": "một màu da nâu nhân tạo mà ai đó có quanh năm"
+    },
+    {
+        "id": "97368d90-c8a9-4c91-88ce-dd97691b5583",
+        "word": "pimple",
+        "phonetic": "pɪmpəl ",
+        "type": "noun",
+        "defineEn": "a small red swelling on the skin, especially on the face",
+        "defineVi": "một vết sưng đỏ nhỏ trên da, đặc biệt là trên mặt",
+        "hasImg": true
+    },
+    {
+        "id": "2a707c0c-0793-46fd-8004-c00e166a5426",
+        "word": "pimply",
+        "phonetic": "pɪmpli ",
+        "type": "adjective",
+        "defineEn": "(of skin) covered in small red lumps, called pimples",
+        "defineVi": "(của da) được bao phủ bởi những cục nhỏ màu đỏ, được gọi là mụn nhọt"
+    },
+    {
+        "id": "dd5fbf7f-fe1c-4846-8492-8ca71ef6352d",
+        "word": "pore",
+        "phonetic": "poːɹ ",
+        "type": "noun",
+        "defineEn": "any tiny opening in the skin through which sweat can pass",
+        "defineVi": "bất kỳ lỗ nhỏ nào trên da mà mồ hôi có thể đi qua"
+    },
+    {
+        "id": "ed130f6a-93ae-41cd-9d6d-dd194daae9af",
+        "word": "port wine stain",
+        "phonetic": "poːɹt waɪn steɪn ",
+        "type": "noun",
+        "defineEn": "a large dark red birthmark, usually on someone's face",
+        "defineVi": "một vết bớt lớn màu đỏ sẫm, thường trên khuôn mặt của ai đó"
+    },
+    {
+        "id": "5630f893-5a56-4b54-9a5a-7d90a97f1902",
+        "word": "rosy",
+        "phonetic": "ɹoʊzi ",
+        "type": "adjective",
+        "defineEn": "(of skin) pinkish red in color, indicating health",
+        "defineVi": "(của da) màu đỏ hồng, biểu thị sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "06ce4e05-6ad4-482e-99c8-5b4380f83bc0",
+        "word": "sunburned",
+        "phonetic": "sʌnbɜːnd ",
+        "type": "adjective",
+        "defineEn": "(of skin) reddened or inflamed by being overly exposed to the sunlight",
+        "defineVi": "(da) đỏ hoặc viêm do tiếp xúc quá nhiều với ánh sáng mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "fe667346-a94f-4d2d-95af-2fd6ae8d063c",
+        "word": "swarthy",
+        "phonetic": "swɔːɹði ",
+        "type": "adjective",
+        "defineEn": "having a naturally dark face or complexion",
+        "defineVi": "có khuôn mặt hoặc nước da sẫm màu tự nhiên",
+        "hasImg": true
+    },
+    {
+        "id": "2903780c-e76d-4154-9a3e-ee2cd683b1a7",
+        "word": "tattoo",
+        "phonetic": "tætuː ",
+        "type": "noun",
+        "defineEn": "a design on the skin marked permanently by putting colored ink in the small holes of the skin",
+        "defineVi": "một thiết kế trên da được đánh dấu vĩnh viễn bằng cách đặt mực màu vào các lỗ nhỏ trên da",
+        "hasImg": true
+    },
+    {
+        "id": "f4259552-28d9-4e2f-8516-f4b59508fa0c",
+        "word": "blush",
+        "phonetic": "blʌʃ ",
+        "type": "noun",
+        "defineEn": "a pink or reddish color, especially in the cheeks, has traditionally been considered a sign of good health",
+        "defineVi": "màu hồng hoặc đỏ, đặc biệt là ở má, theo truyền thống được coi là dấu hiệu của sức khỏe tốt"
+    },
+    {
+        "id": "da661bb5-2454-44b0-a586-c69322388b9f",
+        "word": "spot",
+        "phonetic": "spɑːt ",
+        "type": "noun",
+        "defineEn": "a small red circle on someone's skin that is raised, particularly on their face",
+        "defineVi": "một vòng tròn nhỏ màu đỏ nổi lên trên da của ai đó, đặc biệt là trên khuôn mặt của họ",
+        "hasImg": true
+    },
+    {
+        "id": "b48f0005-c7c0-4856-8860-6ded6e2ad3b9",
+        "word": "strawberry mark",
+        "phonetic": "stɹɔːbɛɹi mɑːɹk ",
+        "type": "noun",
+        "defineEn": "a red, raised birthmark caused by an overgrowth of blood vessels near the surface of the skin that typically disappears on its own within a few years",
+        "defineVi": "một vết bớt màu đỏ, nổi lên do sự phát triển quá mức của các mạch máu gần bề mặt da thường tự biến mất trong vòng vài năm"
+    },
+    {
+        "id": "e8579dfb-2177-41e7-8e39-f413dd3a1c52",
+        "word": "wrinkle",
+        "phonetic": "ɹɪŋkəl ",
+        "type": "noun",
+        "defineEn": "a small fold or line in a piece of cloth or in the skin, particularly the face",
+        "defineVi": "một nếp gấp hoặc đường nhỏ trên một mảnh vải hoặc trên da, đặc biệt là trên mặt",
+        "hasImg": true
+    },
+    {
+        "id": "13d6c912-f46b-4279-a931-f362f66f8c77",
+        "word": "spotty",
+        "phonetic": "spɑːɾi ",
+        "type": "adjective",
+        "defineEn": "having acne, pimples, or other blemishes on the surface, often in a clustered or patchy pattern",
+        "defineVi": "có mụn trứng cá, mụn nhọt hoặc các vết thâm khác trên bề mặt, thường mọc thành cụm hoặc loang lổ"
+    }
+]

@@ -1,0 +1,413 @@
+[
+    {
+        "id": "f12a0503-2eb7-4e59-939c-ae79a2a42f93",
+        "word": "gland",
+        "phonetic": "ɡlænd ",
+        "type": "noun",
+        "defineEn": "an organ in the body that produces certain chemical substances to be used in the body or to be discharged into the surroundings",
+        "defineVi": "một cơ quan trong cơ thể sản xuất một số chất hóa học được sử dụng trong cơ thể hoặc thải ra môi trường xung quanh",
+        "hasImg": true
+    },
+    {
+        "id": "00579962-f611-4148-8661-967ab1d52272",
+        "word": "tarsal gland",
+        "phonetic": "tɑːɹsəl ɡlænd ",
+        "type": "noun",
+        "defineEn": "a sebaceous gland located in the eyelid that produces and secretes oil to lubricate the surface of the eye",
+        "defineVi": "một tuyến bã nhờn nằm trong mí mắt sản xuất và tiết ra dầu để bôi trơn bề mặt của mắt"
+    },
+    {
+        "id": "0e632c82-d77e-42ab-9733-3ea7b5a199e0",
+        "word": "pituitary gland",
+        "phonetic": "pɪtuːətɛɹi ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small gland located at the base of the brain that secretes hormones and regulates various bodily functions",
+        "defineVi": "một tuyến nhỏ nằm ở đáy não tiết ra kích thích tố và điều chỉnh các chức năng cơ thể khác nhau"
+    },
+    {
+        "id": "f398dfe1-39d5-46a9-8da7-ab228ffbb778",
+        "word": "pineal gland",
+        "phonetic": "pɪniəl ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small endocrine gland located in the brain that secretes melatonin and helps regulate the sleep-wake cycle",
+        "defineVi": "một tuyến nội tiết nhỏ nằm trong não tiết ra melatonin và giúp điều chỉnh chu kỳ đánh thức giấc ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "a89d074c-0f29-4feb-9bbc-7a918d45a157",
+        "word": "thyroid gland",
+        "phonetic": "θaɪɹɔɪd ɡlænd ",
+        "type": "noun",
+        "defineEn": "an endocrine gland located in the neck that produces hormones essential for regulating metabolism and growth",
+        "defineVi": "một tuyến nội tiết nằm ở cổ tạo ra các hormone cần thiết để điều chỉnh quá trình trao đổi chất và tăng trưởng",
+        "hasImg": true
+    },
+    {
+        "id": "dc6357e9-7f5e-45b4-8ada-8c592468a2f1",
+        "word": "parathyroid gland",
+        "phonetic": "pæɹəθɪɹɔɪd ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small endocrine gland near the thyroid gland that produces parathyroid hormone",
+        "defineVi": "một tuyến nội tiết nhỏ gần tuyến giáp sản xuất hormone tuyến cận giáp"
+    },
+    {
+        "id": "8259b24c-36b7-4790-bfef-c1bd0600af9d",
+        "word": "thymus",
+        "phonetic": "θaɪməs ",
+        "type": "noun",
+        "defineEn": "a specialized organ of the immune system located near the heart that produces T cells and plays a crucial role in the development of the immune system in early life",
+        "defineVi": "một cơ quan chuyên biệt của hệ thống miễn dịch nằm gần tim tạo ra các tế bào T và đóng một vai trò quan trọng trong sự phát triển của hệ thống miễn dịch trong giai đoạn đầu đời"
+    },
+    {
+        "id": "a10d880e-b0fc-4820-aa3e-63ec032074c7",
+        "word": "adrenal",
+        "phonetic": "ɐdɹiːnəl ",
+        "type": "noun",
+        "defineEn": "a small endocrine organ located on top of the kidneys that produces hormones",
+        "defineVi": "một cơ quan nội tiết nhỏ nằm trên đỉnh thận sản xuất kích thích tố"
+    },
+    {
+        "id": "2513268f-d4d3-4e50-8fa9-c56a2e85d30e",
+        "word": "aldosterone",
+        "phonetic": "ɔːldɑːstɚɹoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the adrenal glands that regulates electrolyte balance and fluid levels in the body",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến thượng thận điều chỉnh sự cân bằng điện giải và mức chất lỏng trong cơ thể"
+    },
+    {
+        "id": "5c2d9219-4646-4a7d-ba3c-22e4786e6640",
+        "word": "corticosteroid",
+        "phonetic": "kɔːɹɾɪkɔstɚɹɔɪd ",
+        "type": "noun",
+        "defineEn": "a class of hormones produced by the adrenal glands",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến thượng thận"
+    },
+    {
+        "id": "5d816c6b-7a16-4848-a5c1-75f72e498f4a",
+        "word": "adrenaline",
+        "phonetic": "ɐdɹɛnəlɪn ",
+        "type": "noun",
+        "defineEn": "a body hormone produced in case of anger, fear, or excitement that makes the heart beat faster and the body react quicker",
+        "defineVi": "một loại hormone cơ thể được sản xuất trong trường hợp tức giận, sợ hãi hoặc phấn khích khiến tim đập nhanh hơn và cơ thể phản ứng nhanh hơn"
+    },
+    {
+        "id": "0a8ea210-9c55-40d4-93f8-7efd2986ebee",
+        "word": "adrenocorticotrophic hormone",
+        "phonetic": "ɐdɹɛnəkɔːɹɾɪkətɹoʊfɪk hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone secreted by the pituitary gland that stimulates the production and release of cortisol from the adrenal glands",
+        "defineVi": "một loại hormone do tuyến yên tiết ra kích thích sản xuất và giải phóng cortisol từ tuyến thượng thận"
+    },
+    {
+        "id": "1a31e967-7922-4c92-bfa7-86ad235770f9",
+        "word": "antidiuretic hormone",
+        "phonetic": "æntɪdɪjuːɹɛɾɪk hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the hypothalamus and released by the pituitary gland that regulates water balance in the body",
+        "defineVi": "một loại hormone được sản xuất bởi vùng dưới đồi và được giải phóng bởi tuyến yên điều chỉnh sự cân bằng nước trong cơ thể"
+    },
+    {
+        "id": "a00c4164-5e4f-4ec2-ac14-1237c7f2f728",
+        "word": "growth hormone",
+        "phonetic": "ɡɹoʊθ hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates growth, development, and metabolism in the body",
+        "defineVi": "một loại hormone kích thích sự tăng trưởng, phát triển và trao đổi chất trong cơ thể"
+    },
+    {
+        "id": "a71bca2d-f848-47c3-9433-51291c4ccebf",
+        "word": "luteinizing hormone",
+        "phonetic": "luːteɪnaɪzɪŋ hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone secreted by the pituitary gland that regulates ovulation and testosterone production",
+        "defineVi": "một loại hormone được tiết ra bởi tuyến yên điều chỉnh sự rụng trứng và sản xuất testosterone"
+    },
+    {
+        "id": "db841302-0b30-4d40-a8bb-8de12ce8ad89",
+        "word": "follicle-stimulating hormone",
+        "phonetic": "fɑːlɪkəlstɪmjʊleɪɾɪŋ hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone that regulates the growth and development of follicles in the ovaries and the production of sperm in the testes",
+        "defineVi": "một loại hormone điều chỉnh sự tăng trưởng và phát triển của các nang trứng trong buồng trứng và sản xuất tinh trùng trong tinh hoàn"
+    },
+    {
+        "id": "05f44a92-0835-4731-9def-68079dc87d89",
+        "word": "oxytocin",
+        "phonetic": "ɑːksɪtɑːsɪn ",
+        "type": "noun",
+        "defineEn": "a hormone that regulates childbirth, lactation, and social bonding",
+        "defineVi": "một loại hormone điều chỉnh việc sinh nở, cho con bú và liên kết xã hội"
+    },
+    {
+        "id": "6e72ca23-248c-4996-99ec-7217c29b40f8",
+        "word": "prolactin",
+        "phonetic": "pɹɑːlɐktɪn ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates milk production and plays a role in reproductive functions",
+        "defineVi": "một loại hormone kích thích sản xuất sữa và đóng một vai trò trong chức năng sinh sản"
+    },
+    {
+        "id": "4515908b-d9ef-42ac-ac3e-0615915a660a",
+        "word": "thyroid-stimulating hormone",
+        "phonetic": "θaɪɹɔɪdstɪmjʊleɪɾɪŋ hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates the thyroid gland to produce and release thyroid hormones",
+        "defineVi": "một loại hormone kích thích tuyến giáp sản xuất và giải phóng hormone tuyến giáp"
+    },
+    {
+        "id": "b90cb705-a950-4925-bc4a-7e76b6144a08",
+        "word": "renin",
+        "phonetic": "ɹᵻnɪn ",
+        "type": "noun",
+        "defineEn": "an enzyme involved in regulating blood pressure and fluid balance by initiating the production of angiotensin II",
+        "defineVi": "một loại enzyme liên quan đến việc điều chỉnh huyết áp và cân bằng chất lỏng bằng cách bắt đầu sản xuất angiotensin II"
+    },
+    {
+        "id": "94195041-1554-4ba5-92fc-89cb585c171a",
+        "word": "angiotensin",
+        "phonetic": "æŋɡɪoʊtənsɪn ",
+        "type": "noun",
+        "defineEn": "a peptide hormone that constricts blood vessels and stimulates the release of aldosterone",
+        "defineVi": "một loại hormone peptide làm co mạch máu và kích thích giải phóng aldosterone"
+    },
+    {
+        "id": "b4d500d5-b918-44d3-9adc-61254964bdb2",
+        "word": "erythropoietin",
+        "phonetic": "ɜːɹɪθɹɑːpɔɪɛtɪn ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates the production of red blood cells in the body",
+        "defineVi": "một loại hormone kích thích sản xuất các tế bào hồng cầu trong cơ thể"
+    },
+    {
+        "id": "3213b61e-00d7-46d1-8d0a-f10fce66d5ee",
+        "word": "glucagon",
+        "phonetic": "ɡluːkæɡən ",
+        "type": "noun",
+        "defineEn": "a hormone that raises blood sugar levels by promoting the breakdown of glycogen in the liver",
+        "defineVi": "một loại hormone làm tăng lượng đường trong máu bằng cách thúc đẩy sự phân hủy glycogen trong gan"
+    },
+    {
+        "id": "0d49678e-ab64-42b8-9acf-5182a6f8aeb1",
+        "word": "insulin",
+        "phonetic": "ɪnsəlɪn ",
+        "type": "noun",
+        "defineEn": "a hormone that is responsible for controlling the level of glucose in the blood, the lack of which can cause diabetes",
+        "defineVi": "một loại hormone chịu trách nhiệm kiểm soát mức độ glucose trong máu, sự thiếu hụt này có thể gây ra bệnh tiểu đường"
+    },
+    {
+        "id": "d3c852d1-cb54-4a3e-a033-2481934b47f6",
+        "word": "estrogen",
+        "phonetic": "ɛstɹədʒən ",
+        "type": "noun",
+        "defineEn": "a hormone primarily responsible for female reproductive development and regulation",
+        "defineVi": "một loại hormone chủ yếu chịu trách nhiệm cho sự phát triển và điều hòa sinh sản nữ"
+    },
+    {
+        "id": "eb8ff05c-1b9e-4024-8789-637bf4555eac",
+        "word": "progesterone",
+        "phonetic": "pɹoʊdʒɛstɚɹoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the ovaries that plays a vital role in regulating the menstrual cycle and supporting pregnancy",
+        "defineVi": "một loại hormone do buồng trứng sản xuất đóng vai trò quan trọng trong việc điều chỉnh chu kỳ kinh nguyệt và hỗ trợ mang thai"
+    },
+    {
+        "id": "b0d44891-70ea-46c4-a9ef-aeb1e006536c",
+        "word": "thyroid hormone",
+        "phonetic": "θaɪɹɔɪd hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the thyroid gland that regulates metabolism and various physiological processes in the body",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến giáp điều chỉnh quá trình trao đổi chất và các quá trình sinh lý khác nhau trong cơ thể"
+    },
+    {
+        "id": "263e44b2-3de1-4104-bb45-9288653a2562",
+        "word": "parathyroid hormone",
+        "phonetic": "pæɹəθɪɹɔɪd hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the parathyroid glands that regulates calcium and phosphate levels in the body",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến cận giáp điều chỉnh nồng độ canxi và phốt phát trong cơ thể"
+    },
+    {
+        "id": "bb9c1ab9-1207-4363-9125-fd0c40126cf1",
+        "word": "epinephrine",
+        "phonetic": "ɛpɪnɛfɹiːn ",
+        "type": "noun",
+        "defineEn": "a hormone that increases heart rate and blood flow",
+        "defineVi": "một loại hormone làm tăng nhịp tim và lưu lượng máu"
+    },
+    {
+        "id": "64ba5d0f-0e90-48b3-b5f0-b5338e1855d7",
+        "word": "norepinephrine",
+        "phonetic": "noːɹpaɪnfɹiːn ",
+        "type": "noun",
+        "defineEn": "a hormone and neurotransmitter that regulates the body's stress response",
+        "defineVi": "một loại hormone và chất dẫn truyền thần kinh điều chỉnh phản ứng căng thẳng của cơ thể"
+    },
+    {
+        "id": "c3ea66e6-30f5-4973-b5db-18e96955e49e",
+        "word": "melatonin",
+        "phonetic": "mɛlɐtɑːnɪn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the pineal gland that regulates sleep-wake cycles and promotes restful sleep",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến tùng điều chỉnh chu kỳ đánh thức giấc ngủ và thúc đẩy giấc ngủ ngon"
+    },
+    {
+        "id": "a0c67b56-5f71-4b07-a34a-86018122c4b7",
+        "word": "growth hormone-releasing factor",
+        "phonetic": "ɡɹoʊθ hoːɹmoʊnɹᵻliːsɪŋ fæktɚ ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates the release of growth hormone from the pituitary gland, regulating growth and metabolism",
+        "defineVi": "một loại hormone kích thích giải phóng hormone tăng trưởng từ tuyến yên, điều chỉnh sự tăng trưởng và trao đổi chất"
+    },
+    {
+        "id": "628d4c22-9493-4f7f-8cca-05e52d341d56",
+        "word": "thyrotrophic hormone",
+        "phonetic": "θaɪɹətɹoʊfɪk hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone produced by the pituitary gland that stimulates the thyroid gland to produce and release thyroid hormones",
+        "defineVi": "một loại hormone được sản xuất bởi tuyến yên kích thích tuyến giáp sản xuất và giải phóng hormone tuyến giáp"
+    },
+    {
+        "id": "ce11ba7e-c1fd-4306-8aea-2fb3839ca7a7",
+        "word": "thyrotropin-releasing factor",
+        "phonetic": "θaɪɹətɹɑːpɪnɹᵻliːsɪŋ fæktɚ ",
+        "type": "noun",
+        "defineEn": "a hormone generated by the hypothalamus that triggers the secretion of thyroid-stimulating hormone from the pituitary gland",
+        "defineVi": "một loại hormone được tạo ra bởi vùng dưới đồi kích hoạt sự tiết hormone kích thích tuyến giáp từ tuyến yên"
+    },
+    {
+        "id": "532e58b8-3cc8-447a-8596-f2c85aed22c5",
+        "word": "corticotropin",
+        "phonetic": "kɔːɹɾɪkɑːtɹəpɪn ",
+        "type": "noun",
+        "defineEn": "a hormone that stimulates the release of cortisol from the adrenal glands",
+        "defineVi": "một loại hormone kích thích giải phóng cortisol từ tuyến thượng thận"
+    },
+    {
+        "id": "78331238-b32b-4c1d-ac71-7b22e549a77f",
+        "word": "salivary gland",
+        "phonetic": "sælɪvɛɹi ɡlænd ",
+        "type": "noun",
+        "defineEn": "an exocrine gland that produces and releases saliva into the mouth, aiding in digestion",
+        "defineVi": "một tuyến ngoại tiết sản xuất và giải phóng nước bọt vào miệng, hỗ trợ tiêu hóa"
+    },
+    {
+        "id": "1cd40b4d-e26e-44de-abac-b5e24875d37f",
+        "word": "seminal vesicle",
+        "phonetic": "sɛmɪnəl vɛsɪkəl ",
+        "type": "noun",
+        "defineEn": "a paired gland in the male reproductive system that secretes fluids to nourish and support the sperm cells",
+        "defineVi": "một cặp tuyến trong hệ thống sinh sản nam tiết ra chất lỏng để nuôi dưỡng và hỗ trợ các tế bào tinh trùng"
+    },
+    {
+        "id": "817478e2-b084-4c1e-b9a8-30e64d15fa73",
+        "word": "prostate gland",
+        "phonetic": "pɹɑːsteɪt ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small organ of the male reproductive system close to the bladder, which releases a liquid that contains sperm",
+        "defineVi": "một cơ quan nhỏ của hệ thống sinh sản nam gần bàng quang, tiết ra chất lỏng có chứa tinh trùng"
+    },
+    {
+        "id": "bac86e85-c500-4cbc-9841-18c3f276eec0",
+        "word": "gonad",
+        "phonetic": "ɡɑːnæd ",
+        "type": "noun",
+        "defineEn": "a reproductive organ that produces gametes and sex hormones",
+        "defineVi": "một cơ quan sinh sản tạo ra giao tử và hormone giới tính"
+    },
+    {
+        "id": "e04af4d7-ebd1-426c-a5eb-d65eba003eaf",
+        "word": "mammary gland",
+        "phonetic": "mæmɚɹi ɡlænd ",
+        "type": "noun",
+        "defineEn": "a glandular organ in mammals that produces and secretes milk for nourishing offspring",
+        "defineVi": "một cơ quan tuyến ở động vật có vú sản xuất và tiết ra sữa để nuôi dưỡng con cái"
+    },
+    {
+        "id": "ede7fc57-7266-4a7a-beee-fabae8b41793",
+        "word": "sublingual gland",
+        "phonetic": "sʌblɪŋɡwəl ɡlænd ",
+        "type": "noun",
+        "defineEn": "a salivary gland located beneath the tongue that produces and secretes saliva",
+        "defineVi": "một tuyến nước bọt nằm bên dưới lưỡi sản xuất và tiết ra nước bọt"
+    },
+    {
+        "id": "f557e947-81c5-4a8c-b797-51b9a46ff4d2",
+        "word": "submandibular gland",
+        "phonetic": "sʌbmɐndɪbjʊlɚ ɡlænd ",
+        "type": "noun",
+        "defineEn": "a salivary gland located beneath the jaw that produces and releases saliva",
+        "defineVi": "một tuyến nước bọt nằm bên dưới hàm sản xuất và giải phóng nước bọt"
+    },
+    {
+        "id": "f4db5f2c-3836-43ce-b3cf-814a6dfb4ae8",
+        "word": "parotid gland",
+        "phonetic": "pæɹətɪd ɡlænd ",
+        "type": "noun",
+        "defineEn": "a major salivary gland located near the ear that produces and secretes saliva into the mouth",
+        "defineVi": "một tuyến nước bọt chính nằm gần tai sản xuất và tiết nước bọt vào miệng"
+    },
+    {
+        "id": "adf2ee6a-37e4-4946-97f5-52ba92c71035",
+        "word": "sweat gland",
+        "phonetic": "swɛt ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small exocrine gland in the skin that produces and secretes sweat",
+        "defineVi": "một tuyến ngoại tiết nhỏ trong da sản xuất và tiết ra mồ hôi"
+    },
+    {
+        "id": "6a735208-5e07-484e-810d-e5201026e9bc",
+        "word": "sebaceous gland",
+        "phonetic": "sɛbeɪʃəs ɡlænd ",
+        "type": "noun",
+        "defineEn": "a small exocrine gland in the skin that produces and secretes sebum",
+        "defineVi": "một tuyến ngoại tiết nhỏ trong da sản xuất và tiết ra bã nhờn"
+    },
+    {
+        "id": "cb7b3e9d-3812-4348-87d6-3d3bce3b9084",
+        "word": "eccrine gland",
+        "phonetic": "ɛkɹaɪn ɡlænd ",
+        "type": "noun",
+        "defineEn": "a sweat gland responsible for regulating body temperature through the production and secretion of sweat",
+        "defineVi": "một tuyến mồ hôi chịu trách nhiệm điều chỉnh nhiệt độ cơ thể thông qua việc sản xuất và bài tiết mồ hôi"
+    },
+    {
+        "id": "45b8d1d5-10e8-4625-b833-3482bd4ee5da",
+        "word": "apocrine gland",
+        "phonetic": "ɐpɑːkɹaɪn ɡlænd ",
+        "type": "noun",
+        "defineEn": "a type of sweat gland that produces a thicker secretion containing proteins and lipids",
+        "defineVi": "một loại tuyến mồ hôi tạo ra chất tiết đặc hơn có chứa protein và lipid"
+    },
+    {
+        "id": "4d622bf7-ca71-4a53-b558-4694ebcf485e",
+        "word": "gonadotrophic hormone",
+        "phonetic": "ɡɑːnɐdətɹoʊfɪk hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a hormone that regulates the activity of the gonads, promoting their development and function",
+        "defineVi": "một loại hormone điều chỉnh hoạt động của tuyến sinh dục, thúc đẩy sự phát triển và chức năng của chúng"
+    },
+    {
+        "id": "0d48c61b-6cee-49e1-acf7-d066a7bad7ab",
+        "word": "testis",
+        "phonetic": "tɛstiz ",
+        "type": "noun",
+        "defineEn": "a male reproductive organ responsible for the production of sperm and the secretion of testosterone",
+        "defineVi": "một cơ quan sinh sản nam chịu trách nhiệm sản xuất tinh trùng và bài tiết testosterone"
+    },
+    {
+        "id": "53ee6dbe-3fec-4e5a-8081-12c93c1fe21b",
+        "word": "duct gland",
+        "phonetic": "dʌkt ɡlænd ",
+        "type": "noun",
+        "defineEn": "a specialized structure in the human body that produces and releases substances through a duct",
+        "defineVi": "một cấu trúc chuyên biệt trong cơ thể con người sản xuất và giải phóng các chất thông qua một ống dẫn"
+    },
+    {
+        "id": "3eb38a9f-512e-4513-bcae-caa4c86300a8",
+        "word": "gastrointestinal hormone",
+        "phonetic": "ɡæstɹoʊɪntɛstɪnəl hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a group of hormones secreted by cells in the digestive system that regulate various processes",
+        "defineVi": "một nhóm các hormone được tiết ra bởi các tế bào trong hệ thống tiêu hóa điều chỉnh các quá trình khác nhau"
+    }
+]

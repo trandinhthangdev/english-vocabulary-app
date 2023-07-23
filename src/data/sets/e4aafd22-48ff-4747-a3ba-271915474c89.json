@@ -1,0 +1,128 @@
+[
+    {
+        "id": "f582b72a-7583-424d-9ed3-6aa71f079a9b",
+        "word": "head",
+        "phonetic": "hɛd ",
+        "type": "noun",
+        "defineEn": "the top part of our body, where our brain and face are located",
+        "defineVi": "phần trên cùng của cơ thể chúng ta, nơi đặt bộ não và khuôn mặt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "f4916847-7793-414e-b64b-d6bfca78bb1a",
+        "word": "hair",
+        "phonetic": "hɛɹ ",
+        "type": "noun",
+        "defineEn": "the thin thread-like things that grow on our head",
+        "defineVi": "những thứ giống như sợi chỉ mọc trên đầu chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "d15fc476-eeb0-4b03-8e38-f479dd2c4d4f",
+        "word": "brain",
+        "phonetic": "bɹeɪn ",
+        "type": "noun",
+        "defineEn": "the body part that is inside our head controlling how we feel, think, move, etc.",
+        "defineVi": "phần cơ thể nằm trong đầu kiểm soát cách chúng ta cảm nhận, suy nghĩ, di chuyển, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b9e4eb91-9cb1-45b5-a271-c193d10927a4",
+        "word": "neck",
+        "phonetic": "nɛk ",
+        "type": "noun",
+        "defineEn": "the body part that is connecting the head to the shoulders",
+        "defineVi": "phần cơ thể nối đầu với vai",
+        "hasImg": true
+    },
+    {
+        "id": "b8762289-1984-4058-aa23-1572dde938f8",
+        "word": "face",
+        "phonetic": "feɪs ",
+        "type": "noun",
+        "defineEn": "the front part of our head, that is the place our eyes, lips, and nose are",
+        "defineVi": "phần trước của đầu chúng ta, đó là nơi có mắt, môi và mũi",
+        "hasImg": true
+    },
+    {
+        "id": "ff1abd0f-4b2e-414a-828e-c218af58e3e6",
+        "word": "eye",
+        "phonetic": "aɪ ",
+        "type": "noun",
+        "defineEn": "a body part on our face that we have two of and use for seeing",
+        "defineVi": "một bộ phận cơ thể trên khuôn mặt của chúng ta mà chúng ta có hai và sử dụng để nhìn",
+        "hasImg": true
+    },
+    {
+        "id": "874b3ff3-c234-4c5a-85f1-68f9bdfac330",
+        "word": "eyebrow",
+        "phonetic": "aɪbɹaʊ ",
+        "type": "noun",
+        "defineEn": "one of the two lines of hair that grow above our eyes",
+        "defineVi": "một trong hai dòng tóc mọc phía trên mắt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "5d004026-84c3-4573-bfce-a5a69c3ea33f",
+        "word": "nose",
+        "phonetic": "noʊz ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of our face and we use to smell and breathe",
+        "defineVi": "phần cơ thể ở giữa khuôn mặt của chúng tôi và chúng tôi sử dụng để ngửi và thở",
+        "hasImg": true
+    },
+    {
+        "id": "24fbb947-a924-4619-8823-1b6b807ab190",
+        "word": "ear",
+        "phonetic": "ɪɹ ",
+        "type": "noun",
+        "defineEn": "each of the two body parts that we use for hearing",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mà chúng ta sử dụng để nghe",
+        "hasImg": true
+    },
+    {
+        "id": "223b92c0-dd80-4f21-8479-6ba5eb1fd275",
+        "word": "cheek",
+        "phonetic": "tʃiːk ",
+        "type": "noun",
+        "defineEn": "any of the two soft sides of our face that are bellow our eyes",
+        "defineVi": "bất kỳ hai mặt mềm mại nào trên khuôn mặt của chúng ta dưới mắt chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "5fcf5451-aa89-4763-9e13-349175993295",
+        "word": "chin",
+        "phonetic": "tʃɪn ",
+        "type": "noun",
+        "defineEn": "the lowest part of our face that is below our mouth",
+        "defineVi": "phần thấp nhất của khuôn mặt của chúng tôi là dưới miệng của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "a45bd98e-5ad4-4663-927c-06e1e7becb78",
+        "word": "mouth",
+        "phonetic": "maʊθ ",
+        "type": "noun",
+        "defineEn": "our body part that we use for eating, speaking, or breathing",
+        "defineVi": "bộ phận cơ thể của chúng ta mà chúng ta sử dụng để ăn, nói hoặc thở",
+        "hasImg": true
+    },
+    {
+        "id": "0112ba0f-2f32-48ef-b305-9f6850404cd8",
+        "word": "tooth",
+        "phonetic": "tuːθ ",
+        "type": "noun",
+        "defineEn": "one of the things in our mouth that are hard and white and we use to chew and bite food with",
+        "defineVi": "một trong những thứ cứng và trắng trong miệng của chúng ta và chúng ta dùng để nhai và cắn thức ăn bằng",
+        "hasImg": true
+    },
+    {
+        "id": "ebcfb7bf-4ff4-48dd-a7eb-1cc3a6ac71b3",
+        "word": "lip",
+        "phonetic": "lɪp ",
+        "type": "noun",
+        "defineEn": "each of the two body parts that are soft and surround our mouth",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mềm và bao quanh miệng của chúng ta",
+        "hasImg": true
+    }
+]

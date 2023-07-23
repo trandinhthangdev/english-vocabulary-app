@@ -1,0 +1,311 @@
+[
+    {
+        "id": "bce1c7c6-38db-4927-964c-5525eb572c69",
+        "word": "playlist",
+        "phonetic": "pleɪlɪst ",
+        "type": "noun",
+        "defineEn": "a set of recorded songs and pieces of music that have been selected to be broadcast on a radio station or a radio program",
+        "defineVi": "một tập hợp các bài hát và đoạn nhạc đã ghi âm đã được chọn để phát trên đài phát thanh hoặc chương trình phát thanh"
+    },
+    {
+        "id": "36348b04-2772-4c6a-8b83-ce0a750a38dd",
+        "word": "acoustic",
+        "phonetic": "ɐkuːstɪk ",
+        "type": "adjective",
+        "defineEn": "(of a musical instrument) making a sound that is natural not amplified",
+        "defineVi": "(của một loại nhạc cụ) tạo ra âm thanh tự nhiên không khuếch đại",
+        "hasImg": true
+    },
+    {
+        "id": "c2625321-c635-4f80-95b3-91ef30d458c6",
+        "word": "instrumental",
+        "phonetic": "ɪnstɹəmɛntəl ",
+        "type": "adjective",
+        "defineEn": "(of music) made only by instruments, instead of being sung",
+        "defineVi": "(của âm nhạc) chỉ được thực hiện bởi nhạc cụ, thay vì được hát"
+    },
+    {
+        "id": "7720f195-14ce-463f-9d75-d89e91aaedc7",
+        "word": "tuneless",
+        "phonetic": "tuːnləs ",
+        "type": "adjective",
+        "defineEn": "lacking a pleasant tune",
+        "defineVi": "thiếu một giai điệu dễ chịu"
+    },
+    {
+        "id": "e4845df3-53a0-4861-af22-6f44c3066af0",
+        "word": "amplifier",
+        "phonetic": "æmplɪfaɪɚ ",
+        "type": "noun",
+        "defineEn": "an electronic device that strengthens electrical signals or causes sounds to get louder",
+        "defineVi": "một thiết bị điện tử tăng cường tín hiệu điện hoặc làm cho âm thanh to hơn",
+        "hasImg": true
+    },
+    {
+        "id": "ac45c39d-773a-4d40-b911-00889e6cb753",
+        "word": "jukebox",
+        "phonetic": "dʒuːkbɑːks ",
+        "type": "noun",
+        "defineEn": "a machine that can play a chosen song when one inserts a coin or pays by card, found in bars, etc.",
+        "defineVi": "một máy có thể phát một bài hát đã chọn khi một người đưa đồng xu vào hoặc thanh toán bằng thẻ, được tìm thấy trong các quán bar, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6345de73-5cd3-46a8-9985-b7bebfd5180a",
+        "word": "synthesizer",
+        "phonetic": "sɪnθəsaɪzɚ ",
+        "type": "noun",
+        "defineEn": "an electronic musical instrument that produces the sounds of other instruments",
+        "defineVi": "một nhạc cụ điện tử tạo ra âm thanh của các nhạc cụ khác",
+        "hasImg": true
+    },
+    {
+        "id": "5aaf7662-2f55-46bf-a7b6-e08fb2298c40",
+        "word": "anthem",
+        "phonetic": "ænθəm ",
+        "type": "noun",
+        "defineEn": "an official song of great importance for a particular country that is performed on certain occasions",
+        "defineVi": "một bài hát chính thức có tầm quan trọng lớn đối với một quốc gia cụ thể được thực hiện vào những dịp nhất định"
+    },
+    {
+        "id": "35d929c9-454c-41c0-8013-4c5bf2a1ef78",
+        "word": "ballad",
+        "phonetic": "bæləd ",
+        "type": "noun",
+        "defineEn": "a tale that is narrated in the form of a song or poem",
+        "defineVi": "một câu chuyện được thuật lại dưới hình thức một bài hát hoặc bài thơ"
+    },
+    {
+        "id": "847ca1d3-c915-4b60-ae58-9b8d51182c75",
+        "word": "bagpipe",
+        "phonetic": "bæɡpaɪp ",
+        "type": "noun",
+        "defineEn": "a woodwind instrument with a reed and several sticks, played by squeezing a bag and blowing through one of its pipes, originated from Scotland",
+        "defineVi": "một nhạc cụ hơi bằng gỗ với một cây sậy và một số que, được chơi bằng cách bóp một cái túi và thổi qua một trong các ống của nó, có nguồn gốc từ Scotland",
+        "hasImg": true
+    },
+    {
+        "id": "161158f1-ead9-4b6a-aa3f-9d4a47d0b2f8",
+        "word": "bow",
+        "phonetic": "boʊ ",
+        "type": "noun",
+        "defineEn": "a long and partially curved, thin rod made out of wood with horsehair strings stretched alongside it, used to play stringed instruments such as the cello and violin",
+        "defineVi": "một thanh mỏng, dài và cong một phần làm bằng gỗ với dây lông ngựa kéo dài dọc theo nó, được sử dụng để chơi các nhạc cụ có dây như đàn Cello và violin",
+        "hasImg": true
+    },
+    {
+        "id": "ca8b81c2-d602-4c81-b408-f18b8b4241d2",
+        "word": "string",
+        "phonetic": "stɹɪŋ ",
+        "type": "noun",
+        "defineEn": "a cord of stretched wire, nylon, etc. on a musical instrument that is plucked to produce sound",
+        "defineVi": "một sợi dây bằng dây căng, nylon, v.v. trên một nhạc cụ được gảy để tạo ra âm thanh",
+        "hasImg": true
+    },
+    {
+        "id": "0f863a67-114c-4189-a220-01a689f9140e",
+        "word": "harp",
+        "phonetic": "hɑːɹp ",
+        "type": "noun",
+        "defineEn": "a triangular musical instrument with a row of strings that are stretched vertically, played with the fingers",
+        "defineVi": "một nhạc cụ hình tam giác với một hàng dây được kéo dài theo chiều dọc, chơi bằng ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "6486cd9d-8169-41be-92e4-340a351e32b0",
+        "word": "percussion",
+        "phonetic": "pɚkʌʃən ",
+        "type": "noun",
+        "defineEn": "any musical instrument that is played by hitting with the hand or a stick, such as cymbals, drums, etc.",
+        "defineVi": "bất kỳ nhạc cụ nào được chơi bằng cách đánh bằng tay hoặc gậy, chẳng hạn như chũm chọe, trống, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "ca67490b-68f4-4427-beb7-f962322c234c",
+        "word": "brass",
+        "phonetic": "bɹæs ",
+        "type": "noun",
+        "defineEn": "any musical instrument that is made of metal, such as the trombone and the trumpet",
+        "defineVi": "bất kỳ nhạc cụ nào được làm bằng kim loại, chẳng hạn như kèn trombone và kèn",
+        "hasImg": true
+    },
+    {
+        "id": "5550f2eb-f2ed-4251-8374-2204ade10843",
+        "word": "woodwind",
+        "phonetic": "wʊdwɪnd ",
+        "type": "noun",
+        "defineEn": "any musical instrument that is usually made of wood or metal and is played by blowing, such as a flute, clarinet, etc.",
+        "defineVi": "bất kỳ nhạc cụ nào thường được làm bằng gỗ hoặc kim loại và được chơi bằng cách thổi, chẳng hạn như sáo, kèn clarinet, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "20110d42-55a4-4210-9518-8a725bb681fd",
+        "word": "in tune",
+        "phonetic": "ɪn tuːn ",
+        "type": "phrase",
+        "defineEn": "singing or playing with correct intonation or pitch",
+        "defineVi": "hát hoặc chơi đúng ngữ điệu hoặc cao độ"
+    },
+    {
+        "id": "852f4923-e5b8-4e5c-bfe9-5f23ba1c7352",
+        "word": "concerto",
+        "phonetic": "kəntʃɛɹɾoʊ ",
+        "type": "noun",
+        "defineEn": "a musical composition that is written for one or more solo instruments and accompanied by an orchestra with three movements",
+        "defineVi": "một tác phẩm âm nhạc được viết cho một hoặc nhiều nhạc cụ độc tấu và kèm theo một dàn nhạc với ba chuyển động"
+    },
+    {
+        "id": "61cc5d12-448d-4959-9126-c86c24d89166",
+        "word": "duo",
+        "phonetic": "duːoʊ ",
+        "type": "noun",
+        "defineEn": "a musical work for two singers or players",
+        "defineVi": "một tác phẩm âm nhạc cho hai ca sĩ hoặc người chơi",
+        "hasImg": true
+    },
+    {
+        "id": "db164b52-82b5-4aa7-b8e0-e954beca491a",
+        "word": "bar",
+        "phonetic": "bɑːɹ ",
+        "type": "noun",
+        "defineEn": "any of the short sections of equal length consisting of musical beats located between two consecutive lines",
+        "defineVi": "bất kỳ phần ngắn nào có độ dài bằng nhau bao gồm các nhịp nhạc nằm giữa hai dòng liên tiếp",
+        "hasImg": true
+    },
+    {
+        "id": "0273cb67-90fa-4961-8396-5363b752dfa3",
+        "word": "key",
+        "phonetic": "kiː ",
+        "type": "noun",
+        "defineEn": "a set of notes based on a particular note that form the tonal basis of a musical passage",
+        "defineVi": "một tập hợp các ghi chú dựa trên một ghi chú cụ thể tạo thành cơ sở âm thanh của một đoạn nhạc"
+    },
+    {
+        "id": "94e9ef54-c3ce-4c2a-a31d-e32be40b01f2",
+        "word": "pitch",
+        "phonetic": "pɪtʃ ",
+        "type": "noun",
+        "defineEn": "the degree of highness or lowness of a tone that is determined by the frequency of waves producing it",
+        "defineVi": "mức độ cao hay thấp của âm thanh được xác định bởi tần số của sóng tạo ra nó"
+    },
+    {
+        "id": "c97031c7-515c-4e36-a3e0-e2de5b21ab98",
+        "word": "scale",
+        "phonetic": "skeɪl ",
+        "type": "noun",
+        "defineEn": "an arrangement of a series of musical notes with specified intervals, in ascending or descending pitch order",
+        "defineVi": "một sự sắp xếp của một loạt các nốt nhạc với các khoảng thời gian xác định, theo thứ tự cao độ tăng dần hoặc giảm dần",
+        "hasImg": true
+    },
+    {
+        "id": "c78866a0-4c53-4ff6-ba0d-5b6dfcaf8f7e",
+        "word": "harmony",
+        "phonetic": "hɑːɹməni ",
+        "type": "noun",
+        "defineEn": "notes of music played or sung in a combination that produces a pleasing effect",
+        "defineVi": "các nốt nhạc được chơi hoặc hát trong sự kết hợp tạo ra hiệu ứng dễ chịu"
+    },
+    {
+        "id": "0c7ddb64-7495-49fa-a3d0-bd8dcc33a570",
+        "word": "symphony",
+        "phonetic": "sɪmfəni ",
+        "type": "noun",
+        "defineEn": "a long and sophisticated musical composition written for a large orchestra, in three or four movements",
+        "defineVi": "một tác phẩm âm nhạc dài và phức tạp được viết cho một dàn nhạc lớn, trong ba hoặc bốn chuyển động"
+    },
+    {
+        "id": "2401bd42-9f08-4fda-9086-b070d8f48fe6",
+        "word": "melody",
+        "phonetic": "mɛlədi ",
+        "type": "noun",
+        "defineEn": "the arrangement or succession of single musical notes in a tune or piece of music",
+        "defineVi": "sự sắp xếp hoặc nối tiếp các nốt nhạc đơn lẻ trong một giai điệu hoặc một đoạn nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "4f5e6dac-0adf-46ad-b7cf-38a72d6c89d0",
+        "word": "movement",
+        "phonetic": "muːvmənt ",
+        "type": "noun",
+        "defineEn": "one of the main parts that a long musical work is divided into, having its own structure",
+        "defineVi": "một trong những phần chính mà một tác phẩm âm nhạc dài được chia thành, có cấu trúc riêng"
+    },
+    {
+        "id": "77109eb8-115f-4670-b0ca-3459e539d37e",
+        "word": "to improvise",
+        "phonetic": "tʊ ɪmpɹəvaɪz ",
+        "type": "verb",
+        "defineEn": "to create and perform words of a play, music, etc. on impulse and without preparation, particularly because one is forced to do so",
+        "defineVi": "để tạo và biểu diễn các từ của một vở kịch, âm nhạc, v.v. một cách bốc đồng và không có sự chuẩn bị trước, đặc biệt là vì một người bị buộc phải làm như vậy"
+    },
+    {
+        "id": "e8e61933-a6f9-49bf-bb4c-fc8c58640854",
+        "word": "to stream",
+        "phonetic": "tə stɹiːm ",
+        "type": "verb",
+        "defineEn": "to play audio or video material from the Internet without needing to download the whole file on one's device",
+        "defineVi": "để phát tài liệu âm thanh hoặc video từ Internet mà không cần tải xuống toàn bộ tệp trên thiết bị của một người",
+        "hasImg": true
+    },
+    {
+        "id": "8440bf19-57bb-4caa-93b3-133305cc65cf",
+        "word": "to hum",
+        "phonetic": "tə hʌm ",
+        "type": "verb",
+        "defineEn": "to sing a tune with closed lips",
+        "defineVi": "để hát một giai điệu với đôi môi khép kín"
+    },
+    {
+        "id": "d93c2cbf-b622-4e46-abf0-fc4b216b0146",
+        "word": "to whistle",
+        "phonetic": "tə wɪsəl ",
+        "type": "verb",
+        "defineEn": "to make a high-pitched sound by forcing air out through one's partly closed lips",
+        "defineVi": "để tạo ra âm thanh the thé bằng cách đẩy không khí ra ngoài qua đôi môi khép hờ của một người",
+        "hasImg": true
+    },
+    {
+        "id": "8966b2ff-89d7-458a-abc2-ec3a98c43f07",
+        "word": "gospel",
+        "phonetic": "ɡɑːspəl ",
+        "type": "noun",
+        "defineEn": "a type of religious music in which singers sing loudly, originally performed by African Americans",
+        "defineVi": "một loại nhạc tôn giáo trong đó các ca sĩ hát to, ban đầu được biểu diễn bởi người Mỹ gốc Phi",
+        "hasImg": true
+    },
+    {
+        "id": "48464db2-15f8-4964-b30c-0456eeddc85a",
+        "word": "funk",
+        "phonetic": "fʌŋk ",
+        "type": "noun",
+        "defineEn": "a style of dance music originated from African music and jazz, characterized by having a strong rhythm",
+        "defineVi": "một phong cách nhạc khiêu vũ có nguồn gốc từ nhạc jazz và nhạc châu Phi, đặc trưng bởi nhịp điệu mạnh mẽ",
+        "hasImg": true
+    },
+    {
+        "id": "3218b39b-ceb7-4e2c-9ab8-218f33c4dc09",
+        "word": "soul",
+        "phonetic": "soʊl ",
+        "type": "noun",
+        "defineEn": "a type of music popularized by African American musicians that expresses strong and deep emotions",
+        "defineVi": "một thể loại âm nhạc được phổ biến bởi các nhạc sĩ người Mỹ gốc Phi thể hiện cảm xúc mạnh mẽ và sâu sắc"
+    },
+    {
+        "id": "dfe84c94-1948-41d3-a99f-84f49c0236e4",
+        "word": "samba",
+        "phonetic": "sæmbə ",
+        "type": "noun",
+        "defineEn": "a piece of music that is composed for a fast dance of Brazilian origin called samba",
+        "defineVi": "một bản nhạc được sáng tác cho một điệu nhảy nhanh có nguồn gốc từ Brazil được gọi là samba",
+        "hasImg": true
+    },
+    {
+        "id": "0d381e9b-2686-4830-9ee8-c2f894944955",
+        "word": "tango",
+        "phonetic": "tæŋɡoʊ ",
+        "type": "noun",
+        "defineEn": "a piece of music written for a South American dance called tango in which a male and female hold hands tightly and walk in the same direction",
+        "defineVi": "một bản nhạc viết cho một điệu nhảy Nam Mỹ gọi là tango, trong đó nam và nữ nắm chặt tay nhau và đi về cùng một hướng",
+        "hasImg": true
+    }
+]

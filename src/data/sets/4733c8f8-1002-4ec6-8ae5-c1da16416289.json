@@ -1,0 +1,320 @@
+[
+    {
+        "id": "9dffe6f8-3e6c-4d60-8ada-3c5240bf0416",
+        "word": "living room",
+        "phonetic": "lɪvɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "the part of a house where people spend time together talking, watching television, relaxing, etc.",
+        "defineVi": "một phần của ngôi nhà nơi mọi người dành thời gian cùng nhau nói chuyện, xem truyền hình, thư giãn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "311453a6-e737-410f-8b3c-40725fe0876d",
+        "word": "bedroom",
+        "phonetic": "bɛdɹuːm ",
+        "type": "noun",
+        "defineEn": "a room we use for sleeping",
+        "defineVi": "một căn phòng chúng tôi sử dụng để ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "8bc56d55-5792-4393-9149-56299adddb96",
+        "word": "kitchen",
+        "phonetic": "kɪtʃən ",
+        "type": "noun",
+        "defineEn": "the place in a building or home where we make food",
+        "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "1fe54c46-bea9-4c86-860e-7637be4d3b38",
+        "word": "bathroom",
+        "phonetic": "bæθɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that has a toilet and a sink, and often times a bathtub or a shower as well",
+        "defineVi": "một căn phòng có nhà vệ sinh và bồn rửa, và thường có cả bồn tắm hoặc vòi hoa sen",
+        "hasImg": true
+    },
+    {
+        "id": "29bc07ae-fed5-4380-8c50-1ae627625228",
+        "word": "dining room",
+        "phonetic": "daɪnɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that we use to eat meals in",
+        "defineVi": "một căn phòng mà chúng tôi sử dụng để ăn bữa ăn trong",
+        "hasImg": true
+    },
+    {
+        "id": "6888c6f9-3ee4-48df-a406-6c58fd3f20e9",
+        "word": "home office",
+        "phonetic": "hoʊm ɑːfɪs ",
+        "type": "noun",
+        "defineEn": "a room in a private house that a person uses for work, which often contains a computer, working desk, printer, etc.",
+        "defineVi": "một căn phòng trong một ngôi nhà riêng mà một người sử dụng để làm việc, thường chứa máy tính, bàn làm việc, máy in, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f34da6c7-0704-4a5f-adab-7311c4a0c4c6",
+        "word": "media room",
+        "phonetic": "miːdiːɚ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a space in a house dedicated to entertainment and relaxation, equipped with audiovisual equipment such as a large screen, surround sound, and comfortable seating",
+        "defineVi": "một không gian trong ngôi nhà dành riêng cho giải trí và thư giãn, được trang bị các thiết bị nghe nhìn như màn hình lớn, âm thanh vòm, chỗ ngồi thoải mái"
+    },
+    {
+        "id": "b78ce41c-3163-4dfc-b5ec-b1dd66a2af3d",
+        "word": "home theater room",
+        "phonetic": "hoʊm θiəɾɚ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a dedicated room in a house equipped for watching movies or TV shows with high-quality audio and video systems",
+        "defineVi": "một phòng chuyên dụng trong một ngôi nhà được trang bị để xem phim hoặc chương trình truyền hình với hệ thống âm thanh và video chất lượng cao"
+    },
+    {
+        "id": "e4839f01-9a82-417a-88dd-23afb3c55104",
+        "word": "laundry room",
+        "phonetic": "lɔːndɹi ɹuːm ",
+        "type": "noun",
+        "defineEn": "a dedicated space for washing, drying, folding, and ironing clothes and linens, typically equipped with a washer, dryer, ironing board, and storage cabinets",
+        "defineVi": "một không gian dành riêng để giặt, sấy, gấp và ủi quần áo và khăn trải giường, thường được trang bị máy giặt, máy sấy, bàn ủi và tủ đựng đồ"
+    },
+    {
+        "id": "e8867183-37ae-472f-99f4-07f526135c40",
+        "word": "guest room",
+        "phonetic": "ɡɛst ɹuːm ",
+        "type": "noun",
+        "defineEn": "a bedroom in a house for guests to stay or sleep in",
+        "defineVi": "một phòng ngủ trong một ngôi nhà cho khách ở lại hoặc ngủ trong",
+        "hasImg": true
+    },
+    {
+        "id": "538fee32-6a18-49df-bffa-7c1051523b07",
+        "word": "playroom",
+        "phonetic": "pleɪɹuːm ",
+        "type": "noun",
+        "defineEn": "a room in an apartment or house for children to play in",
+        "defineVi": "một căn phòng trong một căn hộ hoặc nhà cho trẻ em chơi trong",
+        "hasImg": true
+    },
+    {
+        "id": "705fcd73-bde2-405f-9402-18ed73083cd1",
+        "word": "mudroom",
+        "phonetic": "mʌdɹuːm ",
+        "type": "noun",
+        "defineEn": "a small room or area for putting in wet or dirty footwear and clothes before entering a house",
+        "defineVi": "một căn phòng nhỏ hoặc khu vực để đặt giày dép và quần áo ướt hoặc bẩn trước khi vào nhà",
+        "hasImg": true
+    },
+    {
+        "id": "c5e3d28d-1fc5-4893-a419-01ccad34586c",
+        "word": "library",
+        "phonetic": "laɪbɹɛɹi ",
+        "type": "noun",
+        "defineEn": "a room in a private residence that is used for keeping books",
+        "defineVi": "một căn phòng trong một nơi cư trú tư nhân được sử dụng để giữ sách",
+        "hasImg": true
+    },
+    {
+        "id": "162d0f30-45d3-4345-ba99-cc16efd6a236",
+        "word": "home gym",
+        "phonetic": "hoʊm dʒɪm ",
+        "type": "noun",
+        "defineEn": "a space in a residence designed for fitness and exercise activities, equipped with various fitness equipment and accessories",
+        "defineVi": "một không gian trong một nơi cư trú được thiết kế cho các hoạt động thể dục và thể thao, được trang bị nhiều thiết bị và phụ kiện thể dục"
+    },
+    {
+        "id": "e04bc8bc-c177-4d5e-9627-368fcd5e10b3",
+        "word": "sunroom",
+        "phonetic": "sʌnɹuːm ",
+        "type": "noun",
+        "defineEn": "a room enclosed largely with glass and affording exposure to the sun",
+        "defineVi": "một căn phòng được bao bọc phần lớn bằng kính và cho phép tiếp xúc với ánh nắng mặt trời"
+    },
+    {
+        "id": "ec49d6e7-391a-4b51-a633-9747eab782b7",
+        "word": "attic",
+        "phonetic": "æɾɪk ",
+        "type": "noun",
+        "defineEn": "an area or room directly under the roof of a house, particularly used as a storage",
+        "defineVi": "một khu vực hoặc căn phòng ngay dưới mái nhà, đặc biệt được sử dụng làm kho chứa",
+        "hasImg": true
+    },
+    {
+        "id": "06632133-3591-49b4-932a-e1dfdae2d36a",
+        "word": "basement",
+        "phonetic": "beɪsmənt ",
+        "type": "noun",
+        "defineEn": "an area or room in a house or building that is partially or completely below the ground level",
+        "defineVi": "một khu vực hoặc căn phòng trong một ngôi nhà hoặc tòa nhà nằm dưới mặt đất một phần hoặc hoàn toàn",
+        "hasImg": true
+    },
+    {
+        "id": "555e297d-70c2-4b37-8d94-360c3274f15d",
+        "word": "family room",
+        "phonetic": "fæmɪli ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room in an apartment or house in which the family gathers to watch TV, relax, etc.",
+        "defineVi": "một căn phòng trong một căn hộ hoặc ngôi nhà trong đó gia đình quây quần để xem TV, thư giãn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "cb1290f9-ea97-48a7-8cbd-748eafacb8a9",
+        "word": "powder room",
+        "phonetic": "paʊdɚ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a small bathroom that usually contains only a toilet and a sink, intended for use by guests",
+        "defineVi": "một phòng tắm nhỏ thường chỉ có nhà vệ sinh và bồn rửa, dành cho khách sử dụng"
+    },
+    {
+        "id": "f96b46a4-6578-488e-a796-aa34f090f3e3",
+        "word": "master bedroom",
+        "phonetic": "mæstɚ bɛdɹuːm ",
+        "type": "noun",
+        "defineEn": "the principal bedroom in a house; usually occupied by the head of the household",
+        "defineVi": "phòng ngủ chính trong một ngôi nhà; chủ hộ thường ở"
+    },
+    {
+        "id": "5f744336-a47a-4882-a155-87aa6fdd35dc",
+        "word": "dressing room",
+        "phonetic": "dɹɛsɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a small room situated beside the bedroom of a large house, where people get dressed and store their clothes",
+        "defineVi": "một căn phòng nhỏ nằm bên cạnh phòng ngủ của một ngôi nhà lớn, nơi mọi người mặc quần áo và cất giữ quần áo của họ",
+        "hasImg": true
+    },
+    {
+        "id": "ced74fce-8e31-45b2-805d-525e3783f186",
+        "word": "nursery",
+        "phonetic": "nɜːsɚɹi ",
+        "type": "noun",
+        "defineEn": "a room in an apartment or house that a baby sleeps in",
+        "defineVi": "một căn phòng trong một căn hộ hoặc ngôi nhà mà em bé ngủ trong",
+        "hasImg": true
+    },
+    {
+        "id": "ad6da459-490f-4dc0-907b-93e639743cd7",
+        "word": "game room",
+        "phonetic": "ɡeɪm ɹuːm ",
+        "type": "noun",
+        "defineEn": "a designated space in a house or building that is used for playing games, such as video games, board games, or billiards",
+        "defineVi": "một không gian được chỉ định trong một ngôi nhà hoặc tòa nhà được sử dụng để chơi trò chơi, chẳng hạn như trò chơi điện tử, trò chơi trên bàn hoặc bi-a"
+    },
+    {
+        "id": "0d0a1bcb-21bb-4545-bc51-e3afd36d2782",
+        "word": "parlor",
+        "phonetic": "pɑːɹlɚ ",
+        "type": "noun",
+        "defineEn": "a room where one can relax in a private house",
+        "defineVi": "một căn phòng nơi người ta có thể thư giãn trong một ngôi nhà riêng",
+        "hasImg": true
+    },
+    {
+        "id": "4cbf5ca2-c626-4fbb-a283-3fff04b1d020",
+        "word": "den",
+        "phonetic": "dɛn ",
+        "type": "noun",
+        "defineEn": "a small, cozy room in a house, typically used as a private study, home office, or a space for relaxation and entertainment",
+        "defineVi": "một căn phòng nhỏ, ấm cúng trong một ngôi nhà, thường được sử dụng làm phòng làm việc riêng, văn phòng tại nhà hoặc không gian để thư giãn và giải trí"
+    },
+    {
+        "id": "deb26043-3cfa-418f-9ed3-b67e9df987a9",
+        "word": "great room",
+        "phonetic": "ɡɹeɪt ɹuːm ",
+        "type": "noun",
+        "defineEn": "a large and open living space that combines multiple functions like a living room, dining room, and sometimes a kitchen, into one area",
+        "defineVi": "một không gian sống rộng và mở kết hợp nhiều chức năng như phòng khách, phòng ăn và đôi khi là nhà bếp vào một khu vực"
+    },
+    {
+        "id": "2d1effb3-2fa5-4e9d-840f-421ea2909d0f",
+        "word": "bunk room",
+        "phonetic": "bʌŋk ɹuːm ",
+        "type": "noun",
+        "defineEn": "a type of shared sleeping quarters that typically has multiple bunk beds arranged in the same room",
+        "defineVi": "một loại chỗ ngủ chung thường có nhiều giường tầng được bố trí trong cùng một phòng"
+    },
+    {
+        "id": "ec0caaf4-05a6-4565-9388-bd182d68f335",
+        "word": "home spa",
+        "phonetic": "hoʊm spɑː ",
+        "type": "noun",
+        "defineEn": "a private relaxation area in a home, equipped with features like hot tubs, saunas, steam rooms, or massage areas",
+        "defineVi": "khu vực thư giãn riêng trong nhà, được trang bị các tính năng như bồn tắm nước nóng, phòng xông hơi khô, phòng xông hơi ướt hoặc khu vực mát-xa"
+    },
+    {
+        "id": "573cb601-5688-4726-93f8-81091105a302",
+        "word": "sauna",
+        "phonetic": "sɔːnə ",
+        "type": "noun",
+        "defineEn": "a small room that is often heated with steam and has wooden walls, where people sit for relaxation or health benefits",
+        "defineVi": "một căn phòng nhỏ thường được sưởi ấm bằng hơi nước và có những bức tường bằng gỗ, nơi mọi người ngồi để thư giãn hoặc có lợi cho sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "5c833e29-9267-439f-bcd0-50d7aabf7213",
+        "word": "recreation room",
+        "phonetic": "ɹɛkɹiːeɪʃən ɹuːm ",
+        "type": "noun",
+        "defineEn": "a designated space within a home or building designed for leisure activities such as playing games, watching movies, or socializing with friends and family",
+        "defineVi": "một không gian được chỉ định trong nhà hoặc tòa nhà được thiết kế cho các hoạt động giải trí như chơi trò chơi, xem phim hoặc giao lưu với bạn bè và gia đình"
+    },
+    {
+        "id": "a12d46c3-4572-4afc-a958-9475fc94a5f7",
+        "word": "drawing room",
+        "phonetic": "dɹɔːɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room, particularly found in a large house, used for entertaining guests or relaxing",
+        "defineVi": "một căn phòng, đặc biệt được tìm thấy trong một ngôi nhà lớn, được sử dụng để giải trí cho khách hoặc thư giãn",
+        "hasImg": true
+    },
+    {
+        "id": "ea47858e-b65a-4402-b854-36ac7881a600",
+        "word": "front room",
+        "phonetic": "fɹʌnt ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room at the front of a house where family members usually gather to talk to each other, relax, watch television, etc.",
+        "defineVi": "một căn phòng ở phía trước của một ngôi nhà, nơi các thành viên trong gia đình thường tụ tập để nói chuyện với nhau, thư giãn, xem tivi, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "dae7d974-bf05-4c9a-8e35-25d651140195",
+        "word": "mother-in-law apartment",
+        "phonetic": "mʌðɚɹɪnlɔː ɐpɑːɹtmənt ",
+        "type": "noun",
+        "defineEn": "a living space, usually as a smaller part of a house, in which an elderly family member lives",
+        "defineVi": "một không gian sống, thường là một phần nhỏ hơn của một ngôi nhà, trong đó một thành viên lớn tuổi trong gia đình sống"
+    },
+    {
+        "id": "809f5da2-4414-4d2b-b8c4-82d668f87b11",
+        "word": "loft",
+        "phonetic": "lɔft ",
+        "type": "noun",
+        "defineEn": "a room immediately under the roof of a house, which is used as a storage or living space",
+        "defineVi": "một căn phòng ngay dưới mái nhà, được sử dụng làm kho chứa hoặc không gian sống",
+        "hasImg": true
+    },
+    {
+        "id": "d2bc558f-e52f-4ec2-82c6-f8edf08c22f9",
+        "word": "man cave",
+        "phonetic": "mæn keɪv ",
+        "type": "noun",
+        "defineEn": "a room or area in a house where a man can spend time doing his favorite hobbies and activities alone",
+        "defineVi": "một căn phòng hoặc khu vực trong một ngôi nhà nơi một người đàn ông có thể dành thời gian thực hiện sở thích và hoạt động yêu thích của mình một mình",
+        "hasImg": true
+    },
+    {
+        "id": "52f65f58-3864-43d4-8867-4150268dae92",
+        "word": "panic room",
+        "phonetic": "pænɪk ɹuːm ",
+        "type": "noun",
+        "defineEn": "a safe room in an office or house where people can escape into in case of danger",
+        "defineVi": "một căn phòng an toàn trong một văn phòng hoặc ngôi nhà nơi mọi người có thể thoát vào trong trường hợp nguy hiểm"
+    },
+    {
+        "id": "5d0c7a86-5cd0-4d10-aba3-0e7090d98bfa",
+        "word": "utility room",
+        "phonetic": "juːtɪlᵻɾi ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room in which there are large pieces of household equipment such as a dishwasher",
+        "defineVi": "một căn phòng trong đó có những thiết bị gia dụng lớn như máy rửa chén",
+        "hasImg": true
+    }
+]

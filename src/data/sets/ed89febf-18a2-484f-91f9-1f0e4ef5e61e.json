@@ -1,0 +1,459 @@
+[
+    {
+        "id": "7f33e9ce-1683-4a8e-8123-5fc3cabcdcc5",
+        "word": "daily",
+        "phonetic": "deɪli ",
+        "type": "adverb",
+        "defineEn": "in a way that happens every day or once a day",
+        "defineVi": "trong một cách mà xảy ra mỗi ngày hoặc một lần một ngày"
+    },
+    {
+        "id": "78b2d76b-2480-4f14-b90c-67a014406fd4",
+        "word": "need",
+        "phonetic": "niːd ",
+        "type": "noun",
+        "defineEn": "a condition or situation in which something is necessary",
+        "defineVi": "một điều kiện hoặc tình huống trong đó một cái gì đó là cần thiết"
+    },
+    {
+        "id": "5c6cfc20-4a04-4f49-9f99-c009e3478559",
+        "word": "newsagent",
+        "phonetic": "nuːzeɪdʒənt ",
+        "type": "noun",
+        "defineEn": "a person or a shop that sells newspapers, magazines, and other items related to reading materials, such as stationery, cards, and sometimes snacks",
+        "defineVi": "một người hoặc một cửa hàng bán báo, tạp chí và các mặt hàng khác liên quan đến tài liệu đọc, chẳng hạn như văn phòng phẩm, thẻ và đôi khi là đồ ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "56b04543-8907-478f-bccd-a952022e4197",
+        "word": "chemist",
+        "phonetic": "kɛmɪst ",
+        "type": "noun",
+        "defineEn": "a scientist who studies chemistry",
+        "defineVi": "một nhà khoa học nghiên cứu hóa học",
+        "hasImg": true
+    },
+    {
+        "id": "22263c20-2d5e-44ae-816b-60e4221277c3",
+        "word": "stationer",
+        "phonetic": "steɪʃənɚ ",
+        "type": "noun",
+        "defineEn": "someone who sells writing materials, such as pens, pencils, paper, etc.",
+        "defineVi": "một người bán tài liệu viết, chẳng hạn như bút, bút chì, giấy, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "15123e18-8c84-4264-9193-68a67c7e5d5e",
+        "word": "aspirin",
+        "phonetic": "æspɹɪn ",
+        "type": "noun",
+        "defineEn": "a type of medicine taken to relieve pain, bring down a fever, etc.",
+        "defineVi": "một loại thuốc dùng để giảm đau, hạ sốt, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "37b48c51-c777-47aa-8f5d-6507012515e1",
+        "word": "plaster",
+        "phonetic": "plæstɚ ",
+        "type": "noun",
+        "defineEn": "a small medical dressing that one can stick over a wound or cut in order to keep it clean and  protect it",
+        "defineVi": "một loại băng y tế nhỏ mà người ta có thể dán lên vết thương hoặc vết cắt để giữ sạch và bảo vệ vết thương",
+        "hasImg": true
+    },
+    {
+        "id": "b468853b-f97e-4bf0-86b9-f44b18acb54a",
+        "word": "deodorant",
+        "phonetic": "diːoʊdɚɹənt ",
+        "type": "noun",
+        "defineEn": "a substance that people put on their skin to make it smell better or to hide bad ones",
+        "defineVi": "một chất mà mọi người đặt trên da của họ để làm cho nó có mùi thơm hơn hoặc để che giấu mùi hôi",
+        "hasImg": true
+    },
+    {
+        "id": "967f2991-d18a-4643-bfb8-30060e29c498",
+        "word": "toothpaste",
+        "phonetic": "tuːθpeɪst ",
+        "type": "noun",
+        "defineEn": "a soft and thick substance we put on a toothbrush to clean our teeth",
+        "defineVi": "một chất mềm và đặc mà chúng ta bôi lên bàn chải đánh răng để làm sạch răng",
+        "hasImg": true
+    },
+    {
+        "id": "bbce1e01-7050-4e86-b38f-ccb7f6f5ea66",
+        "word": "shampoo",
+        "phonetic": "ʃæmpuː ",
+        "type": "noun",
+        "defineEn": "a liquid used to wash one's hair, carpet, etc.",
+        "defineVi": "một chất lỏng được sử dụng để gội đầu, thảm, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "a8626531-192b-487b-a880-b20c8c1ed8af",
+        "word": "sunscreen",
+        "phonetic": "sʌnskɹiːn ",
+        "type": "noun",
+        "defineEn": "a cream that is applied to the skin to protect it from the harmful rays of the sun",
+        "defineVi": "một loại kem được áp dụng cho da để bảo vệ nó khỏi các tia có hại của mặt trời",
+        "hasImg": true
+    },
+    {
+        "id": "d878d012-7829-4c26-ab68-3d43770f6cb3",
+        "word": "battery",
+        "phonetic": "bæɾɚɹi ",
+        "type": "noun",
+        "defineEn": "an object that turns chemical energy to electricity to give power to a device or machine",
+        "defineVi": "một đối tượng biến năng lượng hóa học thành điện để cung cấp năng lượng cho thiết bị hoặc máy móc",
+        "hasImg": true
+    },
+    {
+        "id": "c7aead8c-f811-447d-af0a-3463652ed3c8",
+        "word": "scissors",
+        "phonetic": "sɪsɚz ",
+        "type": "noun",
+        "defineEn": "a tool used to cut paper, cloth, etc. with two handles and two sharp edges, joined in the middle",
+        "defineVi": "một công cụ dùng để cắt giấy, vải, v.v. có hai tay cầm và hai cạnh sắc, được nối ở giữa",
+        "hasImg": true
+    },
+    {
+        "id": "094ed233-91e0-4339-a0e3-7b42dd0e06f3",
+        "word": "adaptor",
+        "phonetic": "ɐdæptɚ ",
+        "type": "noun",
+        "defineEn": "a device used to connect two pieces of equipment that do not connect to each other on their own",
+        "defineVi": "một thiết bị được sử dụng để kết nối hai thiết bị không tự kết nối với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "8c69cc4f-015c-406b-84ee-e40e52e77f48",
+        "word": "notebook",
+        "phonetic": "noʊtbʊk ",
+        "type": "noun",
+        "defineEn": "a small book with plain or ruled pages for writing notes in",
+        "defineVi": "một cuốn sách nhỏ với các trang đơn giản hoặc được đánh dấu để viết ghi chú trong",
+        "hasImg": true
+    },
+    {
+        "id": "7a5f2282-a49e-4d07-b0af-eac8e2566fd0",
+        "word": "pen",
+        "phonetic": "pɛn ",
+        "type": "noun",
+        "defineEn": "an instrument for writing or drawing with ink, usually made of plastic or metal",
+        "defineVi": "một công cụ để viết hoặc vẽ bằng mực, thường được làm bằng nhựa hoặc kim loại",
+        "hasImg": true
+    },
+    {
+        "id": "1fc2e201-308b-43c6-9dd5-2747bd31fcd6",
+        "word": "pencil",
+        "phonetic": "pɛnsəl ",
+        "type": "noun",
+        "defineEn": "an instrument consisting of a narrow piece of wood and a thin piece of a black or colored substance in the middle, used for writing, drawing, etc.",
+        "defineVi": "một nhạc cụ bao gồm một mảnh gỗ hẹp và một mảnh mỏng màu đen hoặc màu ở giữa, được sử dụng để viết, vẽ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "fb1e8d28-224b-4cc2-9b72-0f8fae7c690d",
+        "word": "envelope",
+        "phonetic": "ɑːnvəloʊp ",
+        "type": "noun",
+        "defineEn": "a thin, paper cover in which we put and send a letter",
+        "defineVi": "một bìa giấy mỏng, trong đó chúng tôi đặt và gửi một lá thư",
+        "hasImg": true
+    },
+    {
+        "id": "98cb264d-05ef-42f5-9bbd-69c24a83d698",
+        "word": "sellotape",
+        "phonetic": "sɛləteɪp ",
+        "type": "noun",
+        "defineEn": "a type of adhesive tape that is transparent, sticky on one side, and used for various purposes such as sealing, repairing, or wrapping",
+        "defineVi": "một loại băng dính trong suốt, dính một mặt và được sử dụng cho nhiều mục đích khác nhau như niêm phong, sửa chữa hoặc bọc",
+        "hasImg": true
+    },
+    {
+        "id": "1ec94c84-66fd-4c33-acfe-9d46ef31677c",
+        "word": "magazine",
+        "phonetic": "mæɡɐziːn ",
+        "type": "noun",
+        "defineEn": "a periodic publication or a large thin book with a paper cover that contains news stories, articles, photographs, etc., usually on a particular topic, sold weekly or monthly",
+        "defineVi": "một ấn phẩm định kỳ hoặc một cuốn sách mỏng lớn có bìa giấy chứa các câu chuyện tin tức, bài báo, ảnh, v.v., thường về một chủ đề cụ thể, được bán hàng tuần hoặc hàng tháng",
+        "hasImg": true
+    },
+    {
+        "id": "b9de52cd-2730-43e8-9f64-737722eafa23",
+        "word": "chocolate",
+        "phonetic": "tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of food that is brown and sweet and is made from ground cocoa seeds",
+        "defineVi": "một loại thực phẩm có màu nâu và ngọt và được làm từ hạt ca cao xay",
+        "hasImg": true
+    },
+    {
+        "id": "163f6493-7b94-4f2b-a350-8a7a928c620b",
+        "word": "bakery",
+        "phonetic": "beɪkɚɹi ",
+        "type": "noun",
+        "defineEn": "a place where bread and cakes are made and often sold",
+        "defineVi": "một nơi bánh mì và bánh ngọt được làm và thường bán",
+        "hasImg": true
+    },
+    {
+        "id": "6602fd2b-0a59-4e9e-8b83-bb3385803548",
+        "word": "hardware",
+        "phonetic": "hɑːɹdwɛɹ ",
+        "type": "noun",
+        "defineEn": "the physical and electronic parts of a computer or other similar system",
+        "defineVi": "các bộ phận vật lý và điện tử của máy tính hoặc hệ thống tương tự khác",
+        "hasImg": true
+    },
+    {
+        "id": "d8d403db-5205-47a6-b2ec-73f3517d32b2",
+        "word": "dry cleaner",
+        "phonetic": "dɹaɪ kliːnɚ ",
+        "type": "noun",
+        "defineEn": "an individual who works or owns a business specializing in the cleaning and maintenance of garments and textiles using methods that do not involve water",
+        "defineVi": "một cá nhân làm việc hoặc sở hữu một doanh nghiệp chuyên làm sạch và bảo dưỡng hàng may mặc bằng các phương pháp không sử dụng nước",
+        "hasImg": true
+    },
+    {
+        "id": "9f55d6a4-ea13-4996-a257-ae7b5a3bfb61",
+        "word": "to dispense",
+        "phonetic": "tə dɪspɛns ",
+        "type": "verb",
+        "defineEn": "(of medicine) to prepare and give out according to doctor's prescription, especially as a job",
+        "defineVi": "(thuốc) chuẩn bị và phát theo đơn của bác sĩ, đặc biệt là công việc",
+        "hasImg": true
+    },
+    {
+        "id": "638365aa-54c5-4404-8a79-e839f6724777",
+        "word": "chemist",
+        "phonetic": "kɛmɪst ",
+        "type": "noun",
+        "defineEn": "someone whose job is to prepare and sell drugs in a pharmacy",
+        "defineVi": "một người có công việc là chuẩn bị và bán thuốc trong hiệu thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "4edfc8b5-b027-4228-9822-6cee217694bd",
+        "word": "tea",
+        "phonetic": "tiː ",
+        "type": "noun",
+        "defineEn": "a hot drink that is made by soaking dried leaves, called tea leaves, in hot water",
+        "defineVi": "một thức uống nóng được làm bằng cách ngâm lá khô, được gọi là lá trà, trong nước nóng",
+        "hasImg": true
+    },
+    {
+        "id": "bda11912-8622-4281-bbb2-e87688f550d3",
+        "word": "coffee",
+        "phonetic": "kɔfi ",
+        "type": "noun",
+        "defineEn": "a drink that is made from mixing water with some crushed seeds, called coffee beans, usually hot and brown in color",
+        "defineVi": "một thức uống được làm từ nước trộn với một số hạt nghiền nhỏ, được gọi là hạt cà phê, thường nóng và có màu nâu",
+        "hasImg": true
+    },
+    {
+        "id": "ffb931dc-8c2f-4e5d-8aa8-c17df168f361",
+        "word": "wine",
+        "phonetic": "waɪn ",
+        "type": "noun",
+        "defineEn": "a drink that is alcoholic and mostly made from grape juice",
+        "defineVi": "một thức uống có cồn và chủ yếu được làm từ nước ép nho",
+        "hasImg": true
+    },
+    {
+        "id": "0df759ba-e3c8-49d0-ad0c-f50b7c9f0ed2",
+        "word": "cheese",
+        "phonetic": "tʃiːz ",
+        "type": "noun",
+        "defineEn": "a soft or hard food made from milk that is usually yellow or white in color",
+        "defineVi": "thức ăn mềm hoặc cứng làm từ sữa thường có màu vàng hoặc trắng",
+        "hasImg": true
+    },
+    {
+        "id": "5ad50056-5483-48c8-a5a9-fb4dfad89729",
+        "word": "yoghurt",
+        "phonetic": "joʊɡɚt ",
+        "type": "noun",
+        "defineEn": "a thick and creamy dairy product made by fermenting milk with bacteria",
+        "defineVi": "một sản phẩm sữa dày và kem được làm bằng cách lên men sữa với vi khuẩn",
+        "hasImg": true
+    },
+    {
+        "id": "6f2afdd8-f12f-4fe8-b972-5965b07693ec",
+        "word": "pasta",
+        "phonetic": "pɑːstə ",
+        "type": "noun",
+        "defineEn": "an Italian food that is a mixture of flour, water, and at times eggs formed it into different shapes, typically eaten with a sauce when cooked",
+        "defineVi": "một món ăn của Ý là hỗn hợp của bột mì, nước và đôi khi là trứng tạo thành những hình dạng khác nhau, thường được ăn với nước sốt khi nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "f8e81665-d46b-4d06-9782-5ded247525dc",
+        "word": "ice cream",
+        "phonetic": "aɪs kɹiːm ",
+        "type": "noun",
+        "defineEn": "a sweet and cold dessert that is made from a mixture of milk, cream, sugar, and various flavorings",
+        "defineVi": "một món tráng miệng ngọt và lạnh được làm từ hỗn hợp sữa, kem, đường và các hương liệu khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "4e0ab0a6-9d86-425c-b6af-cbbdf8c6cf0b",
+        "word": "apple juice",
+        "phonetic": "æpəl dʒuːs ",
+        "type": "noun",
+        "defineEn": "a drink that is made from apples",
+        "defineVi": "một thức uống được làm từ táo",
+        "hasImg": true
+    },
+    {
+        "id": "41db1a6f-6848-4486-a6aa-34085704b356",
+        "word": "bread",
+        "phonetic": "bɹɛd ",
+        "type": "noun",
+        "defineEn": "a type of food made from flour, water and usually yeast mixed together and baked",
+        "defineVi": "một loại thực phẩm được làm từ bột mì, nước và thường là men trộn với nhau và nướng",
+        "hasImg": true
+    },
+    {
+        "id": "d4250baf-af6b-4420-bb79-2dca111bf2f4",
+        "word": "milk",
+        "phonetic": "mɪlk ",
+        "type": "noun",
+        "defineEn": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc.",
+        "defineVi": "chất lỏng màu trắng chúng ta lấy từ bò, cừu hoặc dê mà chúng ta uống và sử dụng để làm pho mát, bơ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c7075f47-1dcb-412e-a766-55302137e601",
+        "word": "broccoli",
+        "phonetic": "bɹɑːkəli ",
+        "type": "noun",
+        "defineEn": "a vegetable from the cabbage family with a thick stem and many green or purplish flower buds",
+        "defineVi": "một loại rau thuộc họ bắp cải có thân dày và nhiều nụ hoa màu xanh lục hoặc tía",
+        "hasImg": true
+    },
+    {
+        "id": "50859bf6-16be-4e00-8f44-5bb9fe7cdc1b",
+        "word": "chicken",
+        "phonetic": "tʃɪkɪn ",
+        "type": "noun",
+        "defineEn": "the flesh of a chicken that is used as food",
+        "defineVi": "thịt của một con gà được sử dụng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "449c7225-865b-4068-b438-fb223d8c4eb8",
+        "word": "banana",
+        "phonetic": "bɐnænə ",
+        "type": "noun",
+        "defineEn": "a soft fruit that is long and curved and has hard yellow skin",
+        "defineVi": "một quả mềm dài và cong và có vỏ cứng màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "78b83557-9f65-48e9-80a1-7e20c5f59ab0",
+        "word": "apple",
+        "phonetic": "æpəl ",
+        "type": "noun",
+        "defineEn": "a fruit that is round and has thin yellow, red, or green skin",
+        "defineVi": "một quả tròn và có vỏ mỏng màu vàng, đỏ hoặc xanh",
+        "hasImg": true
+    },
+    {
+        "id": "d90166af-42c8-4a49-bb9f-f1e9928b2194",
+        "word": "strawberry",
+        "phonetic": "stɹɔːbɛɹi ",
+        "type": "noun",
+        "defineEn": "a soft, red juicy fruit with small seeds on its surface",
+        "defineVi": "một loại trái cây mềm, mọng nước màu đỏ với những hạt nhỏ trên bề mặt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "21595733-4b59-49cc-acb8-320d2ba52d29",
+        "word": "potato",
+        "phonetic": "pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+        "defineVi": "một loại rau tròn mọc dưới đất, có vỏ màu nâu nhạt và được dùng nấu chín hoặc chiên",
+        "hasImg": true
+    },
+    {
+        "id": "e5d48fd8-7f00-47ba-82e1-ecc8ff5bb55e",
+        "word": "carrot",
+        "phonetic": "kæɹət ",
+        "type": "noun",
+        "defineEn": "a long orange vegetable that grows beneath the ground and is eaten cooked or raw",
+        "defineVi": "một loại rau màu cam dài mọc dưới đất và được ăn chín hoặc sống",
+        "hasImg": true
+    },
+    {
+        "id": "fa306396-533f-4518-87ca-3dade7629c10",
+        "word": "pea",
+        "phonetic": "piː ",
+        "type": "noun",
+        "defineEn": "a green seed, eaten as a vegetable",
+        "defineVi": "một hạt màu xanh lá cây, ăn như một loại rau",
+        "hasImg": true
+    },
+    {
+        "id": "3614e2d9-6f55-459a-a342-37a87efbc3a3",
+        "word": "onion",
+        "phonetic": "ʌniən ",
+        "type": "noun",
+        "defineEn": "a round yellow, white, or red vegetable with many layers and a smell and taste that is strong",
+        "defineVi": "một loại rau tròn màu vàng, trắng hoặc đỏ với nhiều lớp, có mùi và vị đậm đà",
+        "hasImg": true
+    },
+    {
+        "id": "1e60054f-8c51-45ac-b075-2d578dbbfb43",
+        "word": "tomato",
+        "phonetic": "təmeɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a soft and round fruit that is red and is used a lot in salads and many other foods",
+        "defineVi": "một loại trái cây mềm và tròn có màu đỏ và được sử dụng nhiều trong món salad và nhiều món ăn khác",
+        "hasImg": true
+    },
+    {
+        "id": "f94dbb3a-84df-4445-a3c4-f0e9bfb976d0",
+        "word": "egg",
+        "phonetic": "ɛɡ ",
+        "type": "noun",
+        "defineEn": "an oval or round thing that is produced by a chicken and can be used for food",
+        "defineVi": "một thứ hình bầu dục hoặc tròn được sản xuất bởi một con gà và có thể được sử dụng cho thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "3773caff-69d9-4bc9-b4fd-ac92ad3df515",
+        "word": "biscuit",
+        "phonetic": "bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a soft cake that is small and round",
+        "defineVi": "một chiếc bánh mềm nhỏ và tròn",
+        "hasImg": true
+    },
+    {
+        "id": "8749b384-b726-4693-a35b-c5f7a0cc9661",
+        "word": "crisp",
+        "phonetic": "kɹɪsp ",
+        "type": "noun",
+        "defineEn": "a thin, round piece of potato, cooked in hot oil and eaten cold as a snack",
+        "defineVi": "một miếng khoai tây tròn, mỏng, nấu trong dầu nóng và ăn nguội như một món ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "233a0a78-af44-4999-96a5-53bf20838a64",
+        "word": "chips",
+        "phonetic": "tʃɪps ",
+        "type": "noun",
+        "defineEn": "potato that is cut into long and thin rectangular pieces and fried in oil",
+        "defineVi": "khoai tây được cắt thành miếng dài và mỏng hình chữ nhật và chiên trong dầu",
+        "hasImg": true
+    },
+    {
+        "id": "32256ec4-95a5-4c2c-b0f2-f654610c7f83",
+        "word": "sausage",
+        "phonetic": "sɔːsɪdʒ ",
+        "type": "noun",
+        "defineEn": "‌a mixture of meat, bread, etc. cut into small pieces and put into a long tube of skin, typically sold raw to be cooked before eating",
+        "defineVi": "‌hỗn hợp thịt, bánh mì, v.v. được cắt thành từng miếng nhỏ và cho vào một ống da dài, thường được bán sống để nấu chín trước khi ăn",
+        "hasImg": true
+    }
+]

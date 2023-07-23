@@ -1,0 +1,614 @@
+[
+    {
+        "id": "738b7181-da62-45e2-a786-320231451ce9",
+        "word": "to find",
+        "phonetic": "tə faɪnd ",
+        "type": "verb",
+        "defineEn": "to randomly discover someone or something, particularly in a way that is surprising or unexpected",
+        "defineVi": "để khám phá ngẫu nhiên một ai đó hoặc một cái gì đó, đặc biệt là trong một cách đó là đáng ngạc nhiên hoặc bất ngờ",
+        "hasImg": true
+    },
+    {
+        "id": "83f7840f-693d-414e-9061-eec82d7b0f11",
+        "word": "to say",
+        "phonetic": "tə seɪ ",
+        "type": "verb",
+        "defineEn": "to use words and our voice to show what we are thinking or feeling",
+        "defineVi": "để sử dụng các từ và giọng nói của chúng tôi để hiển thị những gì chúng tôi đang suy nghĩ hoặc cảm thấy",
+        "hasImg": true
+    },
+    {
+        "id": "7189b0e4-fa57-42ba-87ad-4804586753d5",
+        "word": "to wear",
+        "phonetic": "tə wɛɹ ",
+        "type": "verb",
+        "defineEn": "to have something such as clothes, shoes, etc. on your body",
+        "defineVi": "để có một cái gì đó như quần áo, giày dép, vv trên cơ thể của bạn",
+        "hasImg": true
+    },
+    {
+        "id": "bf0c6131-b60a-43a5-b925-579283e61160",
+        "word": "jewellery",
+        "phonetic": "dʒuːəlɹi ",
+        "type": "noun",
+        "defineEn": "objects such as necklaces, bracelets or rings, typically made from gold, silver, etc. that we wear as decoration",
+        "defineVi": "các đồ vật như dây chuyền, vòng tay hoặc nhẫn, thường được làm từ vàng, bạc, v.v. mà chúng ta đeo để trang trí",
+        "hasImg": true
+    },
+    {
+        "id": "b88f79d5-0eb7-4451-b149-a120975c446b",
+        "word": "clothes",
+        "phonetic": "kloʊðz ",
+        "type": "noun",
+        "defineEn": "the things we wear to cover our body, such as pants, shirts, and jackets",
+        "defineVi": "những thứ chúng ta mặc để che thân, chẳng hạn như quần, áo sơ mi và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "78a3f803-32f4-401e-9d33-3fbf42f1a5f9",
+        "word": "to carry",
+        "phonetic": "tə kæɹi ",
+        "type": "verb",
+        "defineEn": "to hold someone or something and take them from one place to another",
+        "defineVi": "để giữ một ai đó hoặc một cái gì đó và đưa họ từ nơi này sang nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "69d31e02-548f-4b95-8849-7277437926aa",
+        "word": "bag",
+        "phonetic": "bæɡ ",
+        "type": "noun",
+        "defineEn": "something made of leather, cloth, plastic, or paper that we use to carry things in, particularly when we are traveling or shopping",
+        "defineVi": "thứ gì đó làm bằng da, vải, nhựa hoặc giấy mà chúng ta dùng để đựng đồ, đặc biệt khi chúng ta đi du lịch hoặc mua sắm",
+        "hasImg": true
+    },
+    {
+        "id": "4b717fc4-4eb8-4692-bff2-ccbe8070afa2",
+        "word": "baby",
+        "phonetic": "beɪbi ",
+        "type": "noun",
+        "defineEn": "a child who is very young, usually too young to walk or speak",
+        "defineVi": "một đứa trẻ còn rất nhỏ, thường còn quá nhỏ để đi hoặc nói",
+        "hasImg": true
+    },
+    {
+        "id": "39729439-bae8-4d9e-9f69-f6d5823298ca",
+        "word": "to win",
+        "phonetic": "tə wɪn ",
+        "type": "verb",
+        "defineEn": "to become the most successful, the luckiest, or the best in a game, race, fight, etc.",
+        "defineVi": "để trở thành người thành công nhất, may mắn nhất hoặc giỏi nhất trong một trò chơi, cuộc đua, cuộc chiến, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "566aa3ec-337c-40b8-af59-19ab2a58fa2b",
+        "word": "match",
+        "phonetic": "mætʃ ",
+        "type": "noun",
+        "defineEn": "a competition in which two players or teams compete against one another such as soccer, boxing, etc.",
+        "defineVi": "một cuộc thi trong đó hai cầu thủ hoặc đội thi đấu với nhau như bóng đá, đấm bốc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b70e9e00-0784-4104-9c33-f7f9d94e9721",
+        "word": "medal",
+        "phonetic": "mɛdəl ",
+        "type": "noun",
+        "defineEn": "a flat piece of metal, typically of the size and shape of a large coin, given to the winner of a competition or to someone who has done an act of bravery in war, etc.",
+        "defineVi": "một miếng kim loại phẳng, thường có kích thước và hình dạng của một đồng xu lớn, được trao cho người chiến thắng trong một cuộc thi hoặc cho người đã thực hiện một hành động dũng cảm trong chiến tranh, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "38a0bea5-ad0e-4502-8984-a089bdd44ac0",
+        "word": "prize",
+        "phonetic": "pɹaɪz ",
+        "type": "noun",
+        "defineEn": "anything that is given as a reward to someone who has done very good work or to the winner of a contest, game of chance, etc.",
+        "defineVi": "bất cứ thứ gì được trao như một phần thưởng cho người đã làm rất tốt hoặc cho người chiến thắng trong một cuộc thi, trò chơi may rủi, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8b775ee0-f65f-4772-b7e1-2a71a423e694",
+        "word": "to earn",
+        "phonetic": "tʊ ɜːn ",
+        "type": "verb",
+        "defineEn": "to get money for the job that we do or services that we provide",
+        "defineVi": "để có được tiền cho công việc mà chúng tôi làm hoặc dịch vụ mà chúng tôi cung cấp",
+        "hasImg": true
+    },
+    {
+        "id": "3240bc6f-fac3-4a49-9aea-4fb35b50e883",
+        "word": "salary",
+        "phonetic": "sælɚɹi ",
+        "type": "noun",
+        "defineEn": "an amount of money we receive for doing our job, usually monthly",
+        "defineVi": "một số tiền chúng tôi nhận được để thực hiện công việc của mình, thường là hàng tháng",
+        "hasImg": true
+    },
+    {
+        "id": "480f2087-4bea-4214-9346-705ef3d00160",
+        "word": "money",
+        "phonetic": "mʌni ",
+        "type": "noun",
+        "defineEn": "something that people use to buy and sell goods and services, can be in the form of coins or paper bills",
+        "defineVi": "thứ mà mọi người sử dụng để mua và bán hàng hóa và dịch vụ, có thể ở dạng tiền xu hoặc hóa đơn giấy",
+        "hasImg": true
+    },
+    {
+        "id": "b6128bd2-60db-4fe8-ae43-9801e998f41a",
+        "word": "to know",
+        "phonetic": "tə noʊ ",
+        "type": "verb",
+        "defineEn": "to have some type of information about something or to be aware of something",
+        "defineVi": "để có một số loại thông tin về một cái gì đó hoặc để nhận thức được một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "08e8604d-6e56-4995-a79f-e9093fc7111a",
+        "word": "well",
+        "phonetic": "wɛl ",
+        "type": "adverb",
+        "defineEn": "in a way that is right, good, or satisfactory",
+        "defineVi": "trong một cách đó là đúng, tốt, hoặc thỏa đáng",
+        "hasImg": true
+    },
+    {
+        "id": "f7556506-a895-47c2-a93f-8c9f4eb58467",
+        "word": "to meet",
+        "phonetic": "tə miːt ",
+        "type": "verb",
+        "defineEn": "to come together in a place with others to do something special",
+        "defineVi": "đến với nhau ở một nơi với những người khác để làm điều gì đó đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "b4b6db75-064f-420c-9ac4-27b53cb99a69",
+        "word": "first",
+        "phonetic": "fɜːst ",
+        "type": "determiner",
+        "defineEn": "coming or happening before any other person or thing",
+        "defineVi": "đến hoặc xảy ra trước bất kỳ người nào khác hoặc điều",
+        "hasImg": true
+    },
+    {
+        "id": "6889be1f-6643-4ade-9fd3-a818778b495a",
+        "word": "time",
+        "phonetic": "taɪm ",
+        "type": "noun",
+        "defineEn": "the quantity that is measured in seconds, minutes, hours, etc. using a device like clock",
+        "defineVi": "số lượng được đo bằng giây, phút, giờ, v.v. bằng thiết bị như đồng hồ",
+        "hasImg": true
+    },
+    {
+        "id": "b545de34-9003-4a21-b27e-50b421f90118",
+        "word": "o\\'clock",
+        "phonetic": "oʊ bækslæʃ klɑːk ",
+        "type": "adverb",
+        "defineEn": "put after the numbers one to twelve to show or tell what time it is, only when it is at that exact hour",
+        "defineVi": "đặt sau các số từ một đến mười hai để hiển thị hoặc cho biết mấy giờ rồi, chỉ khi nó vào chính xác giờ đó",
+        "hasImg": true
+    },
+    {
+        "id": "2358b175-ceb5-412e-b7e4-85353e10a791",
+        "word": "to hope",
+        "phonetic": "tə hoʊp ",
+        "type": "verb",
+        "defineEn": "to want something to happen or be true",
+        "defineVi": "để muốn một cái gì đó xảy ra hoặc là sự thật"
+    },
+    {
+        "id": "7e03674b-4155-43b3-b40f-5ee67feb56e7",
+        "word": "good",
+        "phonetic": "ɡʊd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is satisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "7b1610f2-d40b-4f96-978a-a076b9e3f75a",
+        "word": "will",
+        "phonetic": "wɪl ",
+        "type": "verb",
+        "defineEn": "expressing the future tense",
+        "defineVi": "diễn đạt thì tương lai"
+    },
+    {
+        "id": "5b253fe7-e326-42fc-a919-5326fd61206a",
+        "word": "to happen",
+        "phonetic": "tə hæpən ",
+        "type": "verb",
+        "defineEn": "to take place, particularly with no plan",
+        "defineVi": "diễn ra, đặc biệt là không có kế hoạch"
+    },
+    {
+        "id": "f095c5a8-62a6-4d2b-9a71-bad21ccc96e0",
+        "word": "to do",
+        "phonetic": "tə duː ",
+        "type": "verb",
+        "defineEn": "to perform an action or activity that is not mentioned by name",
+        "defineVi": "để thực hiện một hành động hoặc hoạt động không được đề cập theo tên"
+    },
+    {
+        "id": "d4a38ab8-1914-44b8-98df-7d1089462d33",
+        "word": "to wait for  sb/sth",
+        "phonetic": "tə weɪt fɔːɹ ɛsbiː slæʃ ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "to remain in a state of expectation or anticipation for something or someone",
+        "defineVi": "để ở trong một trạng thái mong đợi hoặc dự đoán cho một cái gì đó hoặc ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "276a6add-36ad-4dbe-b740-5d94dae869e2",
+        "word": "bus",
+        "phonetic": "bʌs ",
+        "type": "noun",
+        "defineEn": "a large vehicle that carries many passengers by road",
+        "defineVi": "một chiếc xe lớn chở nhiều hành khách bằng đường bộ",
+        "hasImg": true
+    },
+    {
+        "id": "94d94349-f30d-4e5f-8933-2f75dcc46248",
+        "word": "long time",
+        "phonetic": "lɔŋ taɪm ",
+        "type": "noun",
+        "defineEn": "an extended duration of time that is typically longer than what is considered normal or expected",
+        "defineVi": "một khoảng thời gian kéo dài thường dài hơn những gì được coi là bình thường hoặc dự kiến"
+    },
+    {
+        "id": "55c73d24-b790-44a5-a2b1-a61f3d127d10",
+        "word": "to watch",
+        "phonetic": "tə wɑːtʃ ",
+        "type": "verb",
+        "defineEn": "to look at a thing or person and pay attention to it for some time",
+        "defineVi": "để nhìn vào một điều hoặc người và chú ý đến nó trong một thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "249633e8-50b3-4af5-9b25-1ac41b162ecf",
+        "word": "TV",
+        "phonetic": "tiːviː ",
+        "type": "noun",
+        "defineEn": "an electronic device that shows images and videos and plays sounds and people use to watch different programs",
+        "defineVi": "một thiết bị điện tử hiển thị hình ảnh và video và phát âm thanh và mọi người sử dụng để xem các chương trình khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "62431d73-7df9-4aab-9c60-2b54cad0c505",
+        "word": "to look",
+        "phonetic": "tə lʊk ",
+        "type": "verb",
+        "defineEn": "to have a particular appearance or give a particular impression",
+        "defineVi": "để có một sự xuất hiện cụ thể hoặc cho một ấn tượng cụ thể"
+    },
+    {
+        "id": "056264a9-326e-41d9-a84f-b6417e4a57f2",
+        "word": "photo",
+        "phonetic": "foʊɾoʊ ",
+        "type": "noun",
+        "defineEn": "an image captured by a camera",
+        "defineVi": "một hình ảnh được chụp bởi một máy ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "d24cd25a-8f14-44b7-ad70-29abbdc2f75f",
+        "word": "happy",
+        "phonetic": "hæpi ",
+        "type": "adjective",
+        "defineEn": "emotionally feeling good",
+        "defineVi": "cảm xúc tốt",
+        "hasImg": true
+    },
+    {
+        "id": "26a5aa2f-9cef-4629-9f33-7f7145c27509",
+        "word": "to look like",
+        "phonetic": "tə lʊk laɪk ",
+        "type": "verb",
+        "defineEn": "to resemble a thing or person in appearance",
+        "defineVi": "để giống với một điều hoặc người xuất hiện"
+    },
+    {
+        "id": "8291b7f9-0a47-4577-b0d7-f997219576ec",
+        "word": "mother",
+        "phonetic": "mʌðɚ ",
+        "type": "noun",
+        "defineEn": "a child's female parent",
+        "defineVi": "cha mẹ của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "4fbfdd7c-1c6e-465a-9b8c-6cc35d9f8701",
+        "word": "model",
+        "phonetic": "mɑːdəl ",
+        "type": "noun",
+        "defineEn": "a person who is employed by an artist to pose for a painting, photograph, etc.",
+        "defineVi": "một người được một nghệ sĩ thuê để tạo dáng cho một bức tranh, bức ảnh, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "a8ebba2e-4f6f-4330-908a-298d9e7222d4",
+        "word": "to miss",
+        "phonetic": "tə mɪs ",
+        "type": "verb",
+        "defineEn": "to fail to catch a bus, airplane, etc.",
+        "defineVi": "không bắt được xe buýt, máy bay, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "bbc64b24-6b73-4f41-bcbe-9b7c3a096b1c",
+        "word": "class",
+        "phonetic": "klæs ",
+        "type": "noun",
+        "defineEn": "students as a whole that are taught together",
+        "defineVi": "học sinh như một toàn thể được dạy cùng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "6d40eabb-a999-4006-b3d2-5af94be8742d",
+        "word": "to lose",
+        "phonetic": "tə luːz ",
+        "type": "verb",
+        "defineEn": "to be deprived of or stop having someone or something",
+        "defineVi": "bị tước đoạt hoặc ngừng có một ai đó hoặc một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "b9f0df42-21e0-4a9a-84bc-2060136c7b00",
+        "word": "glasses",
+        "phonetic": "ɡlæsᵻz ",
+        "type": "noun",
+        "defineEn": "a pair of lenses set in a frame that rests on the nose and ears, which we wear to see more clearly",
+        "defineVi": "một cặp thấu kính được đặt trong một khung nằm trên mũi và tai mà chúng ta đeo để nhìn rõ hơn",
+        "hasImg": true
+    },
+    {
+        "id": "d02cc6c7-70d0-4d9c-a83b-7a8c7c5e4fa0",
+        "word": "to bring",
+        "phonetic": "tə bɹɪŋ ",
+        "type": "verb",
+        "defineEn": "to take someone or something to a place or to come to a place with someone or something",
+        "defineVi": "đưa ai đó hoặc cái gì đó đến một nơi hoặc đến một nơi với ai đó hoặc cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "1167dadb-b0a6-450b-8a80-a2ab4837a127",
+        "word": "dictionary",
+        "phonetic": "dɪkʃənɛɹi ",
+        "type": "noun",
+        "defineEn": "a book or electronic resource that gives a list of words in alphabetical order and explains their meanings, or gives the equivalent words in a different language",
+        "defineVi": "một cuốn sách hoặc tài nguyên điện tử cung cấp danh sách các từ theo thứ tự bảng chữ cái và giải thích nghĩa của chúng hoặc đưa ra các từ tương đương trong một ngôn ngữ khác",
+        "hasImg": true
+    },
+    {
+        "id": "06a1a436-4bc0-4ec8-845b-8aeb0aefda30",
+        "word": "to bring back",
+        "phonetic": "tə bɹɪŋ bæk ",
+        "type": "verb",
+        "defineEn": "to make something or someone return or be returned",
+        "defineVi": "để làm cho một cái gì đó hoặc ai đó trả lại hoặc được trả lại"
+    },
+    {
+        "id": "a63977c1-47d0-4228-80bf-6fe5e0924c98",
+        "word": "holiday",
+        "phonetic": "hɑːlɪdeɪ ",
+        "type": "noun",
+        "defineEn": "a period of recreation away from home or work",
+        "defineVi": "một khoảng thời gian giải trí xa nhà hoặc nơi làm việc",
+        "hasImg": true
+    },
+    {
+        "id": "139f8476-3da5-4ec2-a5a4-730174df2d08",
+        "word": "to take",
+        "phonetic": "tə teɪk ",
+        "type": "verb",
+        "defineEn": "to reach for something and hold it",
+        "defineVi": "để đạt được cho một cái gì đó và giữ nó",
+        "hasImg": true
+    },
+    {
+        "id": "c9013a9e-d578-4f94-95ed-0a2d5bc24c94",
+        "word": "umbrella",
+        "phonetic": "ʌmbɹɛlə ",
+        "type": "noun",
+        "defineEn": "an object with a circular folding frame covered in cloth, used as protection against rain or hot sun",
+        "defineVi": "một vật có khung gấp hình tròn được bọc vải, dùng để che mưa nắng",
+        "hasImg": true
+    },
+    {
+        "id": "2e07bd82-a6f7-460a-bf00-fbc23ca6a8f6",
+        "word": "school",
+        "phonetic": "skuːl ",
+        "type": "noun",
+        "defineEn": "a place where children learn things from teachers",
+        "defineVi": "một nơi mà trẻ em học những điều từ giáo viên",
+        "hasImg": true
+    },
+    {
+        "id": "cdff6eec-1add-4f5a-953a-02be0844212d",
+        "word": "to look for",
+        "phonetic": "tə lʊk fɔːɹ ",
+        "type": "verb",
+        "defineEn": "to expect or hope for something",
+        "defineVi": "để mong đợi hoặc hy vọng cho một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "7dba50a0-da44-40a0-82a1-b82fc8d3de3c",
+        "word": "sorry",
+        "phonetic": "sɑːɹi ",
+        "type": "adjective",
+        "defineEn": "feeling ashamed or sad about something that one has or has not done",
+        "defineVi": "cảm thấy xấu hổ hoặc buồn về điều gì đó mà một người đã hoặc chưa làm",
+        "hasImg": true
+    },
+    {
+        "id": "ccc1cabe-5035-4d6d-ab39-5128a7fe9cfa",
+        "word": "hello",
+        "phonetic": "həloʊ ",
+        "type": "interjection",
+        "defineEn": "a word we say when we see someone and want to greet them, or when we begin to talk on the phone",
+        "defineVi": "một từ chúng ta nói khi nhìn thấy ai đó và muốn chào họ, hoặc khi chúng ta bắt đầu nói chuyện điện thoại",
+        "hasImg": true
+    },
+    {
+        "id": "3a8d1093-ea32-4eb5-8fae-36dfa1d88e01",
+        "word": "to tell",
+        "phonetic": "tə tɛl ",
+        "type": "verb",
+        "defineEn": "to use words and give someone information",
+        "defineVi": "để sử dụng các từ và cung cấp cho ai đó thông tin",
+        "hasImg": true
+    },
+    {
+        "id": "24bdcb0e-fe99-432b-9acf-682650ac54fd",
+        "word": "joke",
+        "phonetic": "dʒoʊk ",
+        "type": "noun",
+        "defineEn": "something a person says that is intended to make others laugh",
+        "defineVi": "một cái gì đó một người nói rằng đó là nhằm làm cho người khác cười",
+        "hasImg": true
+    },
+    {
+        "id": "c012961b-c296-4f1c-8073-f71bed2119bb",
+        "word": "lie",
+        "phonetic": "laɪ ",
+        "type": "noun",
+        "defineEn": "a statement that is false and used intentionally to deceive someone",
+        "defineVi": "một tuyên bố đó là sai và sử dụng cố ý để đánh lừa một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "5c03b775-c178-4a62-9434-03e2a1a0d930",
+        "word": "to make",
+        "phonetic": "tə meɪk ",
+        "type": "verb",
+        "defineEn": "to form, produce, or prepare something, by putting parts together or by combining materials",
+        "defineVi": "để hình thành, sản xuất hoặc chuẩn bị một cái gì đó, bằng cách đặt các bộ phận lại với nhau hoặc bằng cách kết hợp các vật liệu",
+        "hasImg": true
+    },
+    {
+        "id": "59f6a31c-bf4e-484c-a254-5f14ec9ac17e",
+        "word": "to misbehave",
+        "phonetic": "tə mɪsbᵻheɪv ",
+        "type": "verb",
+        "defineEn": "to act in an improper or unacceptable way",
+        "defineVi": "để hành động trong một cách không phù hợp hoặc không thể chấp nhận",
+        "hasImg": true
+    },
+    {
+        "id": "7082d861-ffd4-4cb1-aabc-f37164f90c91",
+        "word": "to fail",
+        "phonetic": "tə feɪl ",
+        "type": "verb",
+        "defineEn": "to be unsuccessful in an examination or course",
+        "defineVi": "không thành công trong một kỳ thi hoặc khóa học",
+        "hasImg": true
+    },
+    {
+        "id": "0286c10a-bb54-40cb-b597-419cc4b16275",
+        "word": "to pass",
+        "phonetic": "tə pæs ",
+        "type": "verb",
+        "defineEn": "to get the necessary grades in an exam, test, course, etc.",
+        "defineVi": "để đạt điểm cần thiết trong một kỳ thi, bài kiểm tra, khóa học, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "485a9bf3-444d-4771-a77c-c72bcf3afe22",
+        "word": "result",
+        "phonetic": "ɹɪzʌlt ",
+        "type": "noun",
+        "defineEn": "the final outcome or score of a competition, match, etc.",
+        "defineVi": "kết quả hoặc tỷ số cuối cùng của một cuộc thi, trận đấu, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "34122989-bfc0-42c1-86ad-4822411e3d6a",
+        "word": "to revise",
+        "phonetic": "tə ɹᵻvaɪz ",
+        "type": "verb",
+        "defineEn": "to make changes to something because of new information, etc.",
+        "defineVi": "để thay đổi một cái gì đó vì thông tin mới, vv",
+        "hasImg": true
+    },
+    {
+        "id": "7ec9c865-7149-412c-906c-7947b06c045c",
+        "word": "to take",
+        "phonetic": "tə teɪk ",
+        "type": "verb",
+        "defineEn": "to study or be examined in a particular subject",
+        "defineVi": "để nghiên cứu hoặc được kiểm tra trong một chủ đề cụ thể"
+    },
+    {
+        "id": "e3e69de7-a25f-4c91-9e49-c390d7b710d9",
+        "word": "to lend",
+        "phonetic": "tə lɛnd ",
+        "type": "verb",
+        "defineEn": "to allow someone to have or use something that you own which must be returned to you later",
+        "defineVi": "để cho phép ai đó có hoặc sử dụng một cái gì đó mà bạn sở hữu mà phải được trả lại cho bạn sau này",
+        "hasImg": true
+    },
+    {
+        "id": "b9658338-33e2-406d-b2ad-90835a48563c",
+        "word": "to borrow",
+        "phonetic": "tə bɑːɹoʊ ",
+        "type": "verb",
+        "defineEn": "to use or take something that someone else owns, which must be given back to them later on",
+        "defineVi": "sử dụng hoặc lấy thứ gì đó mà người khác sở hữu, sau này phải trả lại cho họ",
+        "hasImg": true
+    },
+    {
+        "id": "cfd93423-bf60-4114-8710-f83d636758b7",
+        "word": "to hear",
+        "phonetic": "tə hɪɹ ",
+        "type": "verb",
+        "defineEn": "to notice the sound a person or thing is making",
+        "defineVi": "để ý đến âm thanh mà một người hoặc vật đang tạo ra",
+        "hasImg": true
+    },
+    {
+        "id": "7ccec14f-22a8-4340-b419-e0beda51d0c5",
+        "word": "noise",
+        "phonetic": "nɔɪz ",
+        "type": "noun",
+        "defineEn": "sounds that are usually unwanted or loud",
+        "defineVi": "âm thanh thường không mong muốn hoặc lớn",
+        "hasImg": true
+    },
+    {
+        "id": "5cf77f2a-afe7-4087-9447-b53ca08d9cbd",
+        "word": "doorbell",
+        "phonetic": "doːɹbɛl ",
+        "type": "noun",
+        "defineEn": "a bell operated by a button outside a house or apartment that makes a sound when pushed, particularly to inform the inhabitants inside",
+        "defineVi": "một cái chuông được vận hành bởi một nút bên ngoài một ngôi nhà hoặc căn hộ phát ra âm thanh khi được đẩy, đặc biệt là để thông báo cho những người ở bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "fa30ec84-8af4-4bdd-9cff-f21752d23507",
+        "word": "to listen to",
+        "phonetic": "tə lɪsən tuː ",
+        "type": "verb",
+        "defineEn": "to receive and pay attention to sounds with the ears, often with the intention of understanding or gaining information",
+        "defineVi": "tiếp nhận và chú ý đến âm thanh bằng tai, thường với ý định hiểu hoặc thu thập thông tin",
+        "hasImg": true
+    },
+    {
+        "id": "b6bb0631-b526-4241-b991-863fffc2265c",
+        "word": "music",
+        "phonetic": "mjuːzɪk ",
+        "type": "noun",
+        "defineEn": "a series of sounds made by instruments or voices, arranged in a way that is pleasant or exciting to listen to",
+        "defineVi": "một loạt âm thanh được tạo ra bởi các nhạc cụ hoặc giọng nói, được sắp xếp theo cách dễ chịu hoặc thú vị để nghe",
+        "hasImg": true
+    },
+    {
+        "id": "de607701-07df-4ac3-ad60-765704c7bece",
+        "word": "radio",
+        "phonetic": "ɹeɪdɪoʊ ",
+        "type": "noun",
+        "defineEn": "a device that is used for listening to programs that are broadcast",
+        "defineVi": "một thiết bị được sử dụng để nghe các chương trình được phát sóng",
+        "hasImg": true
+    }
+]

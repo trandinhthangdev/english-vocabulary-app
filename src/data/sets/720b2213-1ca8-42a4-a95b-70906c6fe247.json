@@ -1,0 +1,362 @@
+[
+    {
+        "id": "5939b8f0-4d2b-420b-ab63-e50e64fc00ed",
+        "word": "American cheese",
+        "phonetic": "ɐmɛɹɪkən tʃiːz ",
+        "type": "noun",
+        "defineEn": "a mild processed cheese based on cheddar with a soft texture, usually sliced and wrapped in plastic",
+        "defineVi": "một loại phô mai chế biến nhẹ dựa trên cheddar với kết cấu mềm, thường được cắt lát và bọc trong nhựa",
+        "hasImg": true
+    },
+    {
+        "id": "3f20c483-ade6-4f7e-b26f-89641dfd25a9",
+        "word": "blue cheese",
+        "phonetic": "bluː tʃiːz ",
+        "type": "noun",
+        "defineEn": "any type of cheese containing blue lines or mold",
+        "defineVi": "bất kỳ loại phô mai nào có đường màu xanh hoặc nấm mốc",
+        "hasImg": true
+    },
+    {
+        "id": "bb47aafa-fc2e-4193-a285-537076057152",
+        "word": "camembert",
+        "phonetic": "keɪmɛmbɚt ",
+        "type": "noun",
+        "defineEn": "a rich creamy cheese with a soft texture and a white rind that has a strong taste and is originally made in Normandy, France",
+        "defineVi": "một loại phô mai béo ngậy với kết cấu mềm và vỏ màu trắng có hương vị đậm đà và được sản xuất lần đầu ở Normandy, Pháp",
+        "hasImg": true
+    },
+    {
+        "id": "d282c285-adfe-448b-869a-07cc8acc5431",
+        "word": "Cheddar",
+        "phonetic": "tʃɛdɚ ",
+        "type": "noun",
+        "defineEn": "a type of hard yellow cheese from Cheddar, England",
+        "defineVi": "một loại phô mai vàng cứng từ Cheddar, Anh",
+        "hasImg": true
+    },
+    {
+        "id": "6fd074eb-72f4-4ef9-ad7b-6fa6b3def6fa",
+        "word": "cheese rind",
+        "phonetic": "tʃiːz ɹaɪnd ",
+        "type": "noun",
+        "defineEn": "the outer, edible layer that develops during the aging process of certain cheeses",
+        "defineVi": "lớp bên ngoài, ăn được phát triển trong quá trình lão hóa của một số loại phô mai",
+        "hasImg": true
+    },
+    {
+        "id": "7962dfde-c200-4284-bc0a-7263e9ba6833",
+        "word": "Cheshire cheese",
+        "phonetic": "tʃɛʃɚ tʃiːz ",
+        "type": "noun",
+        "defineEn": "a crumbly and tangy cheese originating from the English county of Cheshire",
+        "defineVi": "một loại pho mát vụn và thơm có nguồn gốc từ hạt Cheshire của Anh",
+        "hasImg": true
+    },
+    {
+        "id": "1dc6290b-9f5b-4b46-b840-b53a9f9dbf74",
+        "word": "cottage cheese",
+        "phonetic": "kɑːɾɪdʒ tʃiːz ",
+        "type": "noun",
+        "defineEn": "a mild white cheese made with curds of milk which its cream has been taken",
+        "defineVi": "một loại phô mai trắng nhẹ làm từ sữa đông mà kem của nó đã được lấy",
+        "hasImg": true
+    },
+    {
+        "id": "1c97c384-1cda-4fad-94ea-6ddfd2fef5eb",
+        "word": "cream cheese",
+        "phonetic": "kɹiːm tʃiːz ",
+        "type": "noun",
+        "defineEn": "a type of smooth soft cheese that is made from unskimmed milk and cream",
+        "defineVi": "một loại phô mai mềm mịn được làm từ sữa và kem không béo",
+        "hasImg": true
+    },
+    {
+        "id": "d8500420-c839-4ef2-8711-94d0995329a3",
+        "word": "curd cheese",
+        "phonetic": "kɜːd tʃiːz ",
+        "type": "noun",
+        "defineEn": "a type of cottage cheese that is low in fat",
+        "defineVi": "một loại phô mai ít chất béo",
+        "hasImg": true
+    },
+    {
+        "id": "fec9b953-18d0-430b-96a3-c4a9d40df826",
+        "word": "Edam",
+        "phonetic": "ɛdəm ",
+        "type": "noun",
+        "defineEn": "a mild semi-firm cheese that is round and wrapped in red wax, originally made in the Netherlands",
+        "defineVi": "một loại pho mát nửa cứng, tròn và được bọc trong sáp đỏ, ban đầu được sản xuất tại Hà Lan",
+        "hasImg": true
+    },
+    {
+        "id": "c28c4683-4440-40ce-9d77-07749174f67e",
+        "word": "farmer\\'s cheese",
+        "phonetic": "fɑːɹmɚ bækslæʃ ɛs tʃiːz ",
+        "type": "noun",
+        "defineEn": "a fresh cheese made from cow's milk that has a mild, slightly tangy flavor",
+        "defineVi": "một loại phô mai tươi làm từ sữa bò có hương vị nhẹ, hơi thơm",
+        "hasImg": true
+    },
+    {
+        "id": "50384c0f-a5c1-454c-b28c-4c4f073c27ee",
+        "word": "feta cheese",
+        "phonetic": "fiːɾə tʃiːz ",
+        "type": "noun",
+        "defineEn": "a Greek cheese taken from a mixture of goat's and sheep's milk that is white and has holes in it",
+        "defineVi": "một loại pho mát Hy Lạp lấy từ hỗn hợp sữa dê và cừu có màu trắng và có lỗ trên đó",
+        "hasImg": true
+    },
+    {
+        "id": "0d2697f5-d479-4c69-932f-50213bed5512",
+        "word": "fromage frais",
+        "phonetic": "fɹɑːmɪdʒ fɹaɪz ",
+        "type": "noun",
+        "defineEn": "a fresh and creamy cheese that is white in color originally made in northern France or southern Belgium",
+        "defineVi": "một loại phô mai tươi và kem có màu trắng ban đầu được sản xuất ở miền bắc nước Pháp hoặc miền nam nước Bỉ",
+        "hasImg": true
+    },
+    {
+        "id": "e6e88864-9a6c-403a-b599-0cb598734ce4",
+        "word": "goat cheese",
+        "phonetic": "ɡoʊt tʃiːz ",
+        "type": "noun",
+        "defineEn": "any cheese that is made from goat's milk",
+        "defineVi": "bất kỳ pho mát nào được làm từ sữa dê",
+        "hasImg": true
+    },
+    {
+        "id": "f11735be-3cc9-42d3-8d6c-3c8a70ed7254",
+        "word": "gorgonzola",
+        "phonetic": "ɡoːɹɡənzoʊlə ",
+        "type": "noun",
+        "defineEn": "an Italian blue cheese with a pungent taste and smell",
+        "defineVi": "một loại phô mai xanh của Ý có vị cay và mùi",
+        "hasImg": true
+    },
+    {
+        "id": "6f277b0c-8c2f-4d16-afb3-2d6826844a0e",
+        "word": "Gouda",
+        "phonetic": "ɡaʊdə ",
+        "type": "noun",
+        "defineEn": "a yellow, round cheese from the Netherlands",
+        "defineVi": "một loại phô mai tròn, màu vàng từ Hà Lan",
+        "hasImg": true
+    },
+    {
+        "id": "d443d2a3-354c-425e-91ce-6200fb13d422",
+        "word": "process cheese",
+        "phonetic": "pɹɑːsɛs tʃiːz ",
+        "type": "noun",
+        "defineEn": "a cheese product made by blending natural cheese with emulsifying salts and other ingredients",
+        "defineVi": "một sản phẩm phô mai được làm bằng cách trộn phô mai tự nhiên với muối nhũ hóa và các thành phần khác",
+        "hasImg": true
+    },
+    {
+        "id": "ebb12cf9-27a5-4077-8be9-d02a569600a5",
+        "word": "ricotta",
+        "phonetic": "ɹɪkɑːɾə ",
+        "type": "noun",
+        "defineEn": "a white whey cheese that is soft and unsalted, made in Italy",
+        "defineVi": "một loại phô mai whey trắng mềm và không ướp muối, được sản xuất tại Ý",
+        "hasImg": true
+    },
+    {
+        "id": "4a4b7cc2-58f6-4e34-9fd6-7f103ac53254",
+        "word": "stilton",
+        "phonetic": "stɪltən ",
+        "type": "noun",
+        "defineEn": "a type of English cheese with a strong flavor that is made in Leicestershire, usually with blue mold",
+        "defineVi": "một loại phô mai Anh có hương vị đậm đà được làm ở Leicestershire, thường có mốc xanh",
+        "hasImg": true
+    },
+    {
+        "id": "0785a076-4e32-4919-b65e-55a8d0909baa",
+        "word": "string cheese",
+        "phonetic": "stɹɪŋ tʃiːz ",
+        "type": "noun",
+        "defineEn": "cheese, usually mozzarella that is formed in tube shape",
+        "defineVi": "phô mai, thường là phô mai mozzarella được hình thành ở dạng ống",
+        "hasImg": true
+    },
+    {
+        "id": "9572ced0-af0a-4737-b51a-d251e95626e1",
+        "word": "Swiss cheese",
+        "phonetic": "swɪs tʃiːz ",
+        "type": "noun",
+        "defineEn": "a type of hard cheese with many holes",
+        "defineVi": "một loại phô mai cứng có nhiều lỗ",
+        "hasImg": true
+    },
+    {
+        "id": "58b0d868-5c9d-4d58-8b63-42db11472ed2",
+        "word": "Danish blue",
+        "phonetic": "deɪnɪʃ bluː ",
+        "type": "noun",
+        "defineEn": "a soft salty cheese with blue mold and a strong flavor",
+        "defineVi": "một loại phô mai mặn mềm có mốc xanh và hương vị đậm đà",
+        "hasImg": true
+    },
+    {
+        "id": "3a7842b5-d5e6-40b1-8c3f-f81da200e9d3",
+        "word": "Emmental",
+        "phonetic": "ɛmɛntəl ",
+        "type": "noun",
+        "defineEn": "a yellow semi-hard cheese from Switzerland that has a lot of holes, similar to Gruyère",
+        "defineVi": "một loại phô mai bán cứng màu vàng từ Thụy Sĩ có nhiều lỗ, tương tự như Gruyère",
+        "hasImg": true
+    },
+    {
+        "id": "79fcca7c-c856-4e9b-ae76-1487d00fbd6f",
+        "word": "brie",
+        "phonetic": "bɹiː ",
+        "type": "noun",
+        "defineEn": "a soft creamy cheese with a strong taste and a firm white skin made from cow's milk, originally made in France",
+        "defineVi": "một loại phô mai kem mềm với hương vị đậm đà và lớp da trắng săn chắc được làm từ sữa bò, nguyên bản được sản xuất tại Pháp",
+        "hasImg": true
+    },
+    {
+        "id": "fa0a6da6-0738-43df-b5ab-94745e2a5b02",
+        "word": "crowdie",
+        "phonetic": "kɹaʊdi ",
+        "type": "noun",
+        "defineEn": "a type of soft cheese made from sour milk that is partially cooked, from a Scottish origin",
+        "defineVi": "một loại phô mai mềm làm từ sữa chua được nấu chín một phần, có nguồn gốc từ Scotland",
+        "hasImg": true
+    },
+    {
+        "id": "4c4572c5-8fc6-4951-80ee-ec462b82d25d",
+        "word": "halloumi",
+        "phonetic": "hælaʊmi ",
+        "type": "noun",
+        "defineEn": "a white cheese made in Greece that is semi-hard and is used in cooking",
+        "defineVi": "một loại pho mát trắng được sản xuất ở Hy Lạp, hơi cứng và được sử dụng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "c32f6ef6-62d4-495f-b531-c506225b7932",
+        "word": "mascarpone",
+        "phonetic": "mæskɑːɹpoʊn ",
+        "type": "noun",
+        "defineEn": "a soft and creamy cheese that is made in Italy",
+        "defineVi": "một loại phô mai mềm và kem được sản xuất tại Ý",
+        "hasImg": true
+    },
+    {
+        "id": "06cea3f4-a60c-4c0d-b661-1484b0ba304c",
+        "word": "muenster",
+        "phonetic": "mjuːənstɚ ",
+        "type": "noun",
+        "defineEn": "a yellow and mild cheese made from whole milk",
+        "defineVi": "một loại phô mai vàng và nhẹ làm từ sữa nguyên chất",
+        "hasImg": true
+    },
+    {
+        "id": "008de4ac-8853-436a-8e4b-0d6d083d1b13",
+        "word": "paneer",
+        "phonetic": "pænɪɹ ",
+        "type": "noun",
+        "defineEn": "a white uncured cheese that is used in Indian, Iranian or afghan cuisines",
+        "defineVi": "một loại phô mai trắng chưa được xử lý được sử dụng trong các món ăn Ấn Độ, Iran hoặc Afghanistan",
+        "hasImg": true
+    },
+    {
+        "id": "3b64ecf9-85c8-4567-b209-26f8b1b62d4b",
+        "word": "quark",
+        "phonetic": "kwɑːɹk ",
+        "type": "noun",
+        "defineEn": "a type of curd cheese made in central Europe that is low in fat",
+        "defineVi": "một loại phô mai sữa đông được sản xuất ở trung tâm châu Âu ít chất béo",
+        "hasImg": true
+    },
+    {
+        "id": "72585ffc-dceb-4ff9-9816-05a46c8608cc",
+        "word": "Roquefort",
+        "phonetic": "ɹɑːkwɪfɔːɹt ",
+        "type": "noun",
+        "defineEn": "a French blue cheese made from sheep's milk and ripened in limestone caves that has a strong taste",
+        "defineVi": "một loại phô mai xanh của Pháp làm từ sữa cừu và chín trong hang đá vôi có hương vị đậm đà",
+        "hasImg": true
+    },
+    {
+        "id": "a852df50-d37c-4c97-b8aa-a6df6a1653d8",
+        "word": "grated cheese",
+        "phonetic": "ɡɹeɪɾᵻd tʃiːz ",
+        "type": "noun",
+        "defineEn": "cheese that has been shredded or grated into small pieces using a grater or other similar tool",
+        "defineVi": "phô mai đã được cắt nhỏ hoặc bào thành miếng nhỏ bằng dụng cụ vắt hoặc dụng cụ tương tự khác",
+        "hasImg": true
+    },
+    {
+        "id": "322227a1-db97-40e1-89d6-69ab272370a5",
+        "word": "gruyere",
+        "phonetic": "ɡɹaɪɚ ",
+        "type": "noun",
+        "defineEn": "a firm Swiss cheese with holes in it that has a strong taste",
+        "defineVi": "một loại phô mai Thụy Sĩ cứng có lỗ trong đó có hương vị mạnh",
+        "hasImg": true
+    },
+    {
+        "id": "572c8a82-cf09-4020-a813-2080739e01ee",
+        "word": "Jack cheese",
+        "phonetic": "dʒæk tʃiːz ",
+        "type": "noun",
+        "defineEn": "a white American cheese with a mild taste, made from whole milk",
+        "defineVi": "một loại phô mai trắng của Mỹ với hương vị nhẹ, được làm từ sữa nguyên chất",
+        "hasImg": true
+    },
+    {
+        "id": "ea87f25f-f300-44d6-9ffc-c1bb23a9e724",
+        "word": "limburger",
+        "phonetic": "lɪmbɜːɡɚ ",
+        "type": "noun",
+        "defineEn": "a pungent and creamy cheese made from cow's milk, known for its strong aroma",
+        "defineVi": "một loại phô mai cay và kem làm từ sữa bò, được biết đến với hương thơm mạnh mẽ",
+        "hasImg": true
+    },
+    {
+        "id": "c3066c0b-4446-4a74-b2ae-ef5ba46e72ed",
+        "word": "mozzarella",
+        "phonetic": "mɑːzɚɹɛlə ",
+        "type": "noun",
+        "defineEn": "a mild semi-soft cheese that is white in color and is unsalted, used in Italian cuisine",
+        "defineVi": "một loại phô mai nửa mềm nhẹ có màu trắng và không ướp muối, được sử dụng trong ẩm thực Ý",
+        "hasImg": true
+    },
+    {
+        "id": "188e2c40-3a0f-4489-b84b-3996f5c8f4b2",
+        "word": "parmesan",
+        "phonetic": "pɑːɹmᵻzɑːn ",
+        "type": "noun",
+        "defineEn": "a whitish cheese with a hard texture that is grated and used in Italian cuisine",
+        "defineVi": "một loại phô mai trắng có kết cấu cứng được nghiền và sử dụng trong ẩm thực Ý",
+        "hasImg": true
+    },
+    {
+        "id": "4e53329c-77aa-4e8b-ad8a-277b99609b67",
+        "word": "pot cheese",
+        "phonetic": "pɑːt tʃiːz ",
+        "type": "noun",
+        "defineEn": "a soft white type of curd cheese",
+        "defineVi": "một loại phô mai sữa đông mềm màu trắng",
+        "hasImg": true
+    },
+    {
+        "id": "ea1a4408-a3a0-4be0-ae29-ea2946c5f14d",
+        "word": "tofu",
+        "phonetic": "toʊfuː ",
+        "type": "noun",
+        "defineEn": "a soft white food made with mashed soybean",
+        "defineVi": "một loại thực phẩm mềm màu trắng được làm từ đậu tương nghiền",
+        "hasImg": true
+    },
+    {
+        "id": "96da7fff-d0cb-4f3e-ab54-aa0ad61b8eae",
+        "word": "brick cheese",
+        "phonetic": "bɹɪk tʃiːz ",
+        "type": "noun",
+        "defineEn": "a mild, semi-soft cheese with a creamy texture, originally made in the United States",
+        "defineVi": "một loại pho mát nhẹ, hơi mềm với kết cấu kem, ban đầu được sản xuất tại Hoa Kỳ",
+        "hasImg": true
+    }
+]

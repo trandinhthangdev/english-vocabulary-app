@@ -1,0 +1,280 @@
+[
+    {
+        "id": "cca92796-da8f-429b-aba9-67a53f54f775",
+        "word": "good",
+        "phonetic": "ɡʊd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is satisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "c0eaf855-5694-4065-92e5-4698cc5314cc",
+        "word": "bad",
+        "phonetic": "bæd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is unsatisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng không thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "21dd9b35-3149-405f-a44f-c7dd971b67f2",
+        "word": "high",
+        "phonetic": "haɪ ",
+        "type": "adjective",
+        "defineEn": "having an amount, degree, size, etc, that is greater than normal",
+        "defineVi": "có số lượng, mức độ, kích thước, v.v., lớn hơn bình thường",
+        "hasImg": true
+    },
+    {
+        "id": "18df7f4b-6f16-4649-9828-0777393bf586",
+        "word": "big",
+        "phonetic": "bɪɡ ",
+        "type": "adjective",
+        "defineEn": "large or above average in size, amount, degree, etc.",
+        "defineVi": "lớn hoặc trên mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "33fc4960-61ae-46ba-9a20-7d0da4678ffd",
+        "word": "small",
+        "phonetic": "smɔːl ",
+        "type": "adjective",
+        "defineEn": "little or below average in size, amount, degree, etc.",
+        "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "e65bfd18-a0cd-4686-a055-fe8c4eaf6966",
+        "word": "heavy",
+        "phonetic": "hɛvi ",
+        "type": "adjective",
+        "defineEn": "having a lot of weight and not easy to move or pick up",
+        "defineVi": "có nhiều trọng lượng và không dễ di chuyển hoặc nhặt lên",
+        "hasImg": true
+    },
+    {
+        "id": "f28977b9-9b83-44d5-a2a2-367cad778911",
+        "word": "light",
+        "phonetic": "laɪt ",
+        "type": "adjective",
+        "defineEn": "having very little weight and easy to move or pick up",
+        "defineVi": "có rất ít trọng lượng và dễ dàng di chuyển hoặc lấy",
+        "hasImg": true
+    },
+    {
+        "id": "8a83d369-bb77-4b35-8103-c3c81ba384b9",
+        "word": "expensive",
+        "phonetic": "ɛkspɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "having a high price",
+        "defineVi": "có giá cao",
+        "hasImg": true
+    },
+    {
+        "id": "7dbebd59-01d2-4830-9fe6-c231ae86d3ff",
+        "word": "cheap",
+        "phonetic": "tʃiːp ",
+        "type": "adjective",
+        "defineEn": "having a low price",
+        "defineVi": "có giá thấp",
+        "hasImg": true
+    },
+    {
+        "id": "ccfa8b06-82ce-4337-aaed-a8bd9f24cf52",
+        "word": "old",
+        "phonetic": "oʊld ",
+        "type": "adjective",
+        "defineEn": "(of a thing) having been used or existing for a long period of time",
+        "defineVi": "(của một thứ) đã được sử dụng hoặc tồn tại trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "83e2f076-c65e-4e9f-9187-972df9ce3285",
+        "word": "new",
+        "phonetic": "nuː ",
+        "type": "adjective",
+        "defineEn": "recently built, invented, made, etc.",
+        "defineVi": "được xây dựng, phát minh, chế tạo gần đây, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "0ca85fe8-5d4d-4fa9-9828-62182c68c4e7",
+        "word": "beautiful",
+        "phonetic": "bjuːɾifəl ",
+        "type": "adjective",
+        "defineEn": "extremely pleasing to the mind or senses",
+        "defineVi": "cực kỳ dễ chịu cho tâm trí hoặc các giác quan",
+        "hasImg": true
+    },
+    {
+        "id": "f5f8e046-df8e-4785-8935-c30b6acf3106",
+        "word": "ugly",
+        "phonetic": "ʌɡli ",
+        "type": "adjective",
+        "defineEn": "not pleasant to the mind or senses",
+        "defineVi": "không dễ chịu cho tâm trí hoặc các giác quan",
+        "hasImg": true
+    },
+    {
+        "id": "7e2cfdb2-fbc6-4521-b968-8b7db18d4cff",
+        "word": "clean",
+        "phonetic": "kliːn ",
+        "type": "adjective",
+        "defineEn": "not having any stains, bacteria, marks, or dirt",
+        "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "63ffb7a6-b519-4148-9dee-c0b9379456d1",
+        "word": "dirty",
+        "phonetic": "dɜːɾi ",
+        "type": "adjective",
+        "defineEn": "having stains, bacteria, marks, or dirt",
+        "defineVi": "có vết bẩn, vi khuẩn, vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "182f5502-5f67-4802-ab45-5ec473d07c6d",
+        "word": "easy",
+        "phonetic": "iːzi ",
+        "type": "adjective",
+        "defineEn": "needing little skill or effort to do or understand",
+        "defineVi": "cần ít kỹ năng hoặc nỗ lực để làm hoặc hiểu",
+        "hasImg": true
+    },
+    {
+        "id": "d6dcbd08-4d19-4f2f-a692-36549331d874",
+        "word": "fast",
+        "phonetic": "fæst ",
+        "type": "adjective",
+        "defineEn": "having a high speed when moving or doing something",
+        "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "adcd618a-cd94-4e45-a222-2de8b8d8c12a",
+        "word": "slow",
+        "phonetic": "sloʊ ",
+        "type": "adjective",
+        "defineEn": "moving, happening, or being done at a speed that is low",
+        "defineVi": "di chuyển, xảy ra hoặc được thực hiện ở tốc độ thấp",
+        "hasImg": true
+    },
+    {
+        "id": "58f04de1-c655-4ba7-a700-df8eadcbd0be",
+        "word": "different",
+        "phonetic": "dɪfɹənt ",
+        "type": "adjective",
+        "defineEn": "not like another thing or person in form, quality, nature, etc.",
+        "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8c95ed0c-9893-4f9a-a136-6645b9ab1fde",
+        "word": "similar",
+        "phonetic": "sɪmɪlɚ ",
+        "type": "adjective",
+        "defineEn": "(of two or more things) having qualities in common that are not exactly the same",
+        "defineVi": "(của hai hoặc nhiều thứ) có những phẩm chất chung không hoàn toàn giống nhau",
+        "hasImg": true
+    },
+    {
+        "id": "60394a2a-e103-43cd-956c-e70551ae0140",
+        "word": "right",
+        "phonetic": "ɹaɪt ",
+        "type": "adjective",
+        "defineEn": "based on facts or the truth",
+        "defineVi": "dựa trên sự thật hoặc sự thật",
+        "hasImg": true
+    },
+    {
+        "id": "1e1979d6-da95-42bb-bdfa-6bd48c052d48",
+        "word": "wrong",
+        "phonetic": "ɹɔŋ ",
+        "type": "adjective",
+        "defineEn": "not based on facts or the truth",
+        "defineVi": "không dựa trên sự thật hay sự thật",
+        "hasImg": true
+    },
+    {
+        "id": "88f5ac70-426c-4c89-8615-36ac91f63c1f",
+        "word": "open",
+        "phonetic": "oʊpən ",
+        "type": "adjective",
+        "defineEn": "letting people or things pass through",
+        "defineVi": "để người hoặc vật đi qua",
+        "hasImg": true
+    },
+    {
+        "id": "81768977-f1e2-4ac8-8e71-1c861d380509",
+        "word": "closed",
+        "phonetic": "kloʊzd ",
+        "type": "adjective",
+        "defineEn": "not letting things, people, etc. go in or out",
+        "defineVi": "không cho đồ vật, người, v.v. ra vào",
+        "hasImg": true
+    },
+    {
+        "id": "343c5ff1-7175-42ba-aff3-c74dbc59303e",
+        "word": "true",
+        "phonetic": "tɹuː ",
+        "type": "adjective",
+        "defineEn": "according to reality or facts",
+        "defineVi": "theo thực tế hoặc sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "37f0b0aa-275a-4ab6-84bc-55a1b9b0a8ec",
+        "word": "false",
+        "phonetic": "fɔls ",
+        "type": "adjective",
+        "defineEn": "not according to reality or facts",
+        "defineVi": "không theo thực tế hoặc sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "bbdc2cd0-c819-45bb-80d8-1814ce8c5677",
+        "word": "rich",
+        "phonetic": "ɹɪtʃ ",
+        "type": "adjective",
+        "defineEn": "owning a great amount of money or many things that cost a lot",
+        "defineVi": "sở hữu một số tiền lớn hoặc nhiều thứ có giá rất cao",
+        "hasImg": true
+    },
+    {
+        "id": "3046709b-2cb9-4697-8364-1cfd1fe3dcb9",
+        "word": "poor",
+        "phonetic": "pʊɹ ",
+        "type": "adjective",
+        "defineEn": "owning a very small amount of money or a very small number of things",
+        "defineVi": "sở hữu một số tiền rất nhỏ hoặc một số lượng rất nhỏ của những thứ",
+        "hasImg": true
+    },
+    {
+        "id": "b38b2c7b-8301-461a-a745-37721c8874c1",
+        "word": "sure",
+        "phonetic": "ʃʊɹ ",
+        "type": "adjective",
+        "defineEn": "feeling confident about something being correct or true",
+        "defineVi": "cảm thấy tự tin về một cái gì đó là đúng hoặc đúng"
+    },
+    {
+        "id": "b6ac764a-d01e-4958-bec5-1405f2991e25",
+        "word": "correct",
+        "phonetic": "kɚɹɛkt ",
+        "type": "adjective",
+        "defineEn": "based on the truth and without mistakes",
+        "defineVi": "dựa trên sự thật và không có sai lầm",
+        "hasImg": true
+    },
+    {
+        "id": "bc508e20-64f4-4211-9739-8616a352dd45",
+        "word": "incorrect",
+        "phonetic": "ɪŋkɚɹɛkt ",
+        "type": "adjective",
+        "defineEn": "having mistakes; not correct or true",
+        "defineVi": "có lỗi lầm; không đúng hoặc đúng",
+        "hasImg": true
+    }
+]

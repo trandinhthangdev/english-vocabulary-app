@@ -1,0 +1,355 @@
+[
+    {
+        "id": "c250d7bc-5719-4c96-ac47-34beff29805f",
+        "word": "linguistic context",
+        "phonetic": "lɪŋɡwɪstɪk kɑːntɛkst ",
+        "type": "noun",
+        "defineEn": "the surrounding linguistic elements that contribute to the interpretation and meaning of a specific expression or utterance",
+        "defineVi": "các yếu tố ngôn ngữ xung quanh góp phần giải thích và ý nghĩa của một cách diễn đạt hoặc cách nói cụ thể"
+    },
+    {
+        "id": "b9861060-0f64-4d85-8fa7-abd4ea77124f",
+        "word": "deixis",
+        "phonetic": "deɪksɪs ",
+        "type": "noun",
+        "defineEn": "the phenomenon in language where the interpretation of certain words or expressions depends on the context of the speaker, listener, and the surrounding situation",
+        "defineVi": "hiện tượng trong ngôn ngữ mà việc giải thích một số từ hoặc cách diễn đạt phụ thuộc vào ngữ cảnh của người nói, người nghe và tình huống xung quanh"
+    },
+    {
+        "id": "a6b1c98e-be26-4f65-8dc3-dec3cb8d8b26",
+        "word": "person deixis",
+        "phonetic": "pɜːsən deɪksɪs ",
+        "type": "noun",
+        "defineEn": "a type of deixis that involves the use of pronouns and verb forms to refer to the participants in a conversation",
+        "defineVi": "một loại deixis liên quan đến việc sử dụng các đại từ và dạng động từ để chỉ những người tham gia cuộc trò chuyện"
+    },
+    {
+        "id": "058df49f-4f4b-485b-b9c1-0adbeb6576da",
+        "word": "spatial deixis",
+        "phonetic": "speɪʃəl deɪksɪs ",
+        "type": "noun",
+        "defineEn": "a type of deixis that involves the use of language to refer to spatial locations, such as indicating the direction, distance, or proximity of objects or places in relation to the speaker or the context of the conversation",
+        "defineVi": "một loại deixis liên quan đến việc sử dụng ngôn ngữ để chỉ các vị trí không gian, chẳng hạn như chỉ ra hướng, khoảng cách hoặc khoảng cách gần của các đối tượng hoặc địa điểm liên quan đến người nói hoặc bối cảnh của cuộc trò chuyện"
+    },
+    {
+        "id": "a5e0e7d5-9e90-49ad-8f1a-8542da72dadc",
+        "word": "temporal deixis",
+        "phonetic": "tɛmpɚɹəl deɪksɪs ",
+        "type": "noun",
+        "defineEn": "a type of deixis that involves the use of language to refer to specific points in time, such as indicating the past, present, or future, or expressing temporal relations and sequencing of events",
+        "defineVi": "một loại deixis liên quan đến việc sử dụng ngôn ngữ để chỉ các thời điểm cụ thể, chẳng hạn như chỉ ra quá khứ, hiện tại hoặc tương lai hoặc thể hiện các mối quan hệ thời gian và trình tự các sự kiện"
+    },
+    {
+        "id": "35ef4a3e-b171-4b23-99fe-8e5e02220a9d",
+        "word": "direct speech",
+        "phonetic": "dᵻɹɛkt spiːtʃ ",
+        "type": "noun",
+        "defineEn": "the representation of someone's words using quotation marks, presenting their exact utterances as they were spoken or written",
+        "defineVi": "đại diện cho các từ của ai đó bằng cách sử dụng dấu ngoặc kép, trình bày cách nói chính xác của họ khi họ nói hoặc viết"
+    },
+    {
+        "id": "0ed3846e-5ab2-4d4e-b67e-60fc12beae76",
+        "word": "indirect speech",
+        "phonetic": "ɪndɚɹɛkt spiːtʃ ",
+        "type": "noun",
+        "defineEn": "the representation of someone's words by reporting or paraphrasing their statements without using direct quotation marks",
+        "defineVi": "đại diện cho các từ của ai đó bằng cách báo cáo hoặc diễn giải các tuyên bố của họ mà không sử dụng dấu ngoặc kép trực tiếp"
+    },
+    {
+        "id": "92b878ba-86e6-4e25-ba37-161fc6e12df6",
+        "word": "speech act",
+        "phonetic": "spiːtʃ ækt ",
+        "type": "noun",
+        "defineEn": "an utterance or expression that not only conveys meaning but also performs a particular function or action in communication, such as making a request, giving an order, or making a promise",
+        "defineVi": "một cách nói hoặc cách diễn đạt không chỉ truyền đạt ý nghĩa mà còn thực hiện một chức năng hoặc hành động cụ thể trong giao tiếp, chẳng hạn như đưa ra yêu cầu, ra lệnh hoặc hứa hẹn"
+    },
+    {
+        "id": "5ad1e828-9482-4ab2-a401-baa4265cca3a",
+        "word": "reference",
+        "phonetic": "ɹɛfɹəns ",
+        "type": "noun",
+        "defineEn": "the act of referring to or indicating something or someone in language, where words or expressions are used to point to or denote specific entities, objects, or concepts",
+        "defineVi": "hành động đề cập đến hoặc chỉ ra một cái gì đó hoặc một ai đó trong ngôn ngữ, trong đó các từ hoặc biểu thức được sử dụng để chỉ hoặc biểu thị các thực thể, đối tượng hoặc khái niệm cụ thể"
+    },
+    {
+        "id": "003d7e4e-08bd-4255-87f9-753f6ec4a227",
+        "word": "face-threatening act",
+        "phonetic": "feɪsθɹɛʔn̩ɪŋ ækt ",
+        "type": "noun",
+        "defineEn": "a communicative behavior or action that poses a risk to someone's positive face, their desired self-image or social identity, potentially leading to face loss or face-threatening situations.",
+        "defineVi": "một hành vi hoặc hành động giao tiếp gây rủi ro cho khuôn mặt tích cực của ai đó, hình ảnh mong muốn về bản thân hoặc bản sắc xã hội của họ, có khả năng dẫn đến tình huống mất thể diện hoặc đe dọa thể diện."
+    },
+    {
+        "id": "bc7bc7a4-9696-48eb-add3-be4097e8e72f",
+        "word": "face-saving act",
+        "phonetic": "feɪsseɪvɪŋ ækt ",
+        "type": "noun",
+        "defineEn": "a communicative behavior or action that helps to protect or restore someone's positive face, their desired self-image or social identity, in order to avoid or mitigate face loss or face-threatening situations",
+        "defineVi": "một hành vi hoặc hành động giao tiếp giúp bảo vệ hoặc khôi phục khuôn mặt tích cực của ai đó, hình ảnh bản thân hoặc bản sắc xã hội mong muốn của họ, nhằm tránh hoặc giảm thiểu tình trạng mất thể diện hoặc đe dọa thể diện"
+    },
+    {
+        "id": "5bc1791e-bd7b-450c-95c1-5be7f69b6797",
+        "word": "expression",
+        "phonetic": "ɛkspɹɛʃən ",
+        "type": "noun",
+        "defineEn": "a word or phrase, often an idiomatic one",
+        "defineVi": "một từ hoặc cụm từ, thường là một thành ngữ"
+    },
+    {
+        "id": "4f889569-a7e9-4b69-93ad-7f33fcf07bb2",
+        "word": "caregiver speech",
+        "phonetic": "kɛɹɡɪvɚ spiːtʃ ",
+        "type": "noun",
+        "defineEn": "a speech style characterized by simplified language, exaggerated prosody, repetition, and high pitch, commonly used by caregivers when interacting with infants and young children",
+        "defineVi": "một phong cách nói được đặc trưng bởi ngôn ngữ đơn giản hóa, cường điệu cường điệu, lặp lại và cao độ, thường được người chăm sóc sử dụng khi tương tác với trẻ sơ sinh và trẻ nhỏ"
+    },
+    {
+        "id": "816bac3a-6c50-4c65-bf74-5e38d6442059",
+        "word": "connected speech",
+        "phonetic": "kənɛktᵻd spiːtʃ ",
+        "type": "noun",
+        "defineEn": "the natural flow of spoken language where words and sounds are connected together, often resulting in changes in pronunciation, elision of sounds, and modifications in speech patterns",
+        "defineVi": "dòng chảy tự nhiên của ngôn ngữ nói trong đó các từ và âm thanh được kết nối với nhau, thường dẫn đến những thay đổi trong cách phát âm, bỏ qua âm thanh và sửa đổi các mẫu lời nói"
+    },
+    {
+        "id": "64419892-a1dd-483b-8023-60112401fa06",
+        "word": "discourse marker",
+        "phonetic": "dɪskoːɹs mɑːɹkɚ ",
+        "type": "noun",
+        "defineEn": "a linguistic element or phrase used in speech or writing to indicate the structure, organization, or relationship between different parts of a discourse, often serving to facilitate communication and signal the speaker's intentions or attitudes",
+        "defineVi": "một yếu tố ngôn ngữ hoặc cụm từ được sử dụng trong lời nói hoặc văn bản để chỉ ra cấu trúc, tổ chức hoặc mối quan hệ giữa các phần khác nhau của diễn ngôn, thường phục vụ để tạo điều kiện giao tiếp và báo hiệu ý định hoặc thái độ của người nói"
+    },
+    {
+        "id": "70da2be9-ad98-43b1-b6d8-88e8611c2eb3",
+        "word": "framing",
+        "phonetic": "fɹeɪmɪŋ ",
+        "type": "noun",
+        "defineEn": "the cognitive and linguistic process of shaping and presenting information in a particular way to influence how people perceive and interpret it",
+        "defineVi": "quá trình nhận thức và ngôn ngữ của việc định hình và trình bày thông tin theo một cách cụ thể để ảnh hưởng đến cách mọi người nhận thức và giải thích nó"
+    },
+    {
+        "id": "05ad162a-dff0-4251-8309-5275357e8e24",
+        "word": "dialogue",
+        "phonetic": "daɪəlɑːɡ ",
+        "type": "noun",
+        "defineEn": "a conversation or exchange of ideas between two or more individuals, typically characterized by turn-taking, interactive communication, and mutual understanding",
+        "defineVi": "một cuộc trò chuyện hoặc trao đổi ý kiến giữa hai hoặc nhiều cá nhân, thường được đặc trưng bởi sự thay phiên nhau, giao tiếp tương tác và hiểu biết lẫn nhau"
+    },
+    {
+        "id": "2f4a6e9e-f8c4-41cb-87b9-8eed19e21e34",
+        "word": "discourse",
+        "phonetic": "dɪskoːɹs ",
+        "type": "noun",
+        "defineEn": "the use of language in a larger context, including conversations, written texts, and social interactions, where meaning is constructed and communicated through the organization and flow of language",
+        "defineVi": "việc sử dụng ngôn ngữ trong một bối cảnh lớn hơn, bao gồm các cuộc hội thoại, văn bản viết và các tương tác xã hội, trong đó ý nghĩa được xây dựng và truyền đạt thông qua tổ chức và dòng ngôn ngữ"
+    },
+    {
+        "id": "fddb11f9-e914-4c67-89bd-ae7b49b6dc92",
+        "word": "intertextuality",
+        "phonetic": "ɪntɚtɛkstʃuːælᵻɾi ",
+        "type": "noun",
+        "defineEn": "the interconnectedness and referencing of texts, where one text refers to or influences another, creating layers of meaning and a complex web of relationships between texts",
+        "defineVi": "tính liên kết và quy chiếu của các văn bản, trong đó một văn bản đề cập hoặc ảnh hưởng đến một văn bản khác, tạo ra các lớp ý nghĩa và một mạng lưới phức tạp các mối quan hệ giữa các văn bản"
+    },
+    {
+        "id": "7a24214a-f417-4596-87b3-b5edd4339d09",
+        "word": "text",
+        "phonetic": "tɛkst ",
+        "type": "noun",
+        "defineEn": "anything that is in written form",
+        "defineVi": "bất cứ thứ gì ở dạng viết",
+        "hasImg": true
+    },
+    {
+        "id": "a8e678cb-cb86-41dd-a916-0f30c4b0ac52",
+        "word": "pejorative",
+        "phonetic": "pədʒɔːɹətɪv ",
+        "type": "noun",
+        "defineEn": "language, words, or expressions that convey a negative or derogatory connotation and are intended to belittle, criticize, or insult someone or something",
+        "defineVi": "ngôn ngữ, từ ngữ hoặc cách diễn đạt mang ý nghĩa tiêu cực hoặc xúc phạm và nhằm mục đích coi thường, chỉ trích hoặc xúc phạm ai đó hoặc điều gì đó"
+    },
+    {
+        "id": "dce1dfc8-fd93-464e-bccb-0977c5312db6",
+        "word": "turn-taking",
+        "phonetic": "tɜːnteɪkɪŋ ",
+        "type": "noun",
+        "defineEn": "the process by which participants in a conversation alternate speaking and listening, following certain rules and cues to facilitate smooth and coherent communication",
+        "defineVi": "quá trình mà những người tham gia trong một cuộc trò chuyện luân phiên nói và nghe, tuân theo các quy tắc và tín hiệu nhất định để tạo điều kiện giao tiếp trôi chảy và mạch lạc"
+    },
+    {
+        "id": "a2fb79bc-676d-4d9a-a5d1-e3598a04cbbc",
+        "word": "hedge",
+        "phonetic": "hɛdʒ ",
+        "type": "noun",
+        "defineEn": "a linguistic device used to express uncertainty or vagueness, often through words or phrases that indicate a lack of commitment or certainty in one's statement",
+        "defineVi": "một thiết bị ngôn ngữ được sử dụng để thể hiện sự không chắc chắn hoặc mơ hồ, thường thông qua các từ hoặc cụm từ cho thấy sự thiếu cam kết hoặc chắc chắn trong tuyên bố của một người"
+    },
+    {
+        "id": "256887f8-ba82-43fd-a42b-7a1807883d48",
+        "word": "implicature",
+        "phonetic": "ɪmplɪkətʃʊɹ ",
+        "type": "noun",
+        "defineEn": "the meaning that is inferred or implied by a speaker in a conversation, beyond the literal or explicit meaning of the words used, relying on context and shared knowledge between the participants",
+        "defineVi": "ý nghĩa được người nói suy luận hoặc ngụ ý trong một cuộc trò chuyện, ngoài nghĩa đen hoặc nghĩa rõ ràng của các từ được sử dụng, dựa trên ngữ cảnh và kiến thức được chia sẻ giữa những người tham gia"
+    },
+    {
+        "id": "ceabf23c-34ca-4250-b1ca-fe5b911e6d8b",
+        "word": "coherence",
+        "phonetic": "koʊhɪɹəns ",
+        "type": "noun",
+        "defineEn": "the overall sense of unity, logic, and connectedness in a text or discourse, where the ideas, information, and elements are organized and presented in a clear and meaningful way",
+        "defineVi": "ý nghĩa tổng thể của sự thống nhất, logic và sự liên kết trong một văn bản hoặc diễn ngôn, trong đó các ý tưởng, thông tin và các yếu tố được tổ chức và trình bày một cách rõ ràng và có ý nghĩa"
+    },
+    {
+        "id": "0fc4d1a8-85b7-43a3-8464-776763e982e1",
+        "word": "cohesion",
+        "phonetic": "koʊhiːʒən ",
+        "type": "noun",
+        "defineEn": "the linguistic mechanisms used to create connections and coherence within a text by employing various cohesive devices and techniques",
+        "defineVi": "các cơ chế ngôn ngữ được sử dụng để tạo ra các kết nối và sự gắn kết trong một văn bản bằng cách sử dụng các thiết bị và kỹ thuật gắn kết khác nhau"
+    },
+    {
+        "id": "81e79cd7-3c07-4de7-830c-11a18d17d880",
+        "word": "cohesion tie",
+        "phonetic": "koʊhiːʒən taɪ ",
+        "type": "noun",
+        "defineEn": "a specific linguistic element or device that connects different parts of a text, contributing to the overall coherence and unity of the discourse",
+        "defineVi": "một yếu tố hoặc thiết bị ngôn ngữ cụ thể kết nối các phần khác nhau của văn bản, góp phần tạo nên sự mạch lạc và thống nhất tổng thể của diễn ngôn"
+    },
+    {
+        "id": "eec77d8d-834d-43c7-a3e6-76d453a12e91",
+        "word": "circumlocution",
+        "phonetic": "sɜːkəmləkjuːʃən ",
+        "type": "noun",
+        "defineEn": "a way of expressing something in an evasive way",
+        "defineVi": "một cách để thể hiện một cái gì đó trong một cách lảng tránh"
+    },
+    {
+        "id": "329d421e-8bfc-4ba3-9fdb-c9beeb1e90cc",
+        "word": "euphemism",
+        "phonetic": "juːfəmɪzəm ",
+        "type": "noun",
+        "defineEn": "a word or expression that is used instead of a harsh or insulting one in order to be more tactful and polite",
+        "defineVi": "một từ hoặc cách diễn đạt được sử dụng thay vì một từ gay gắt hoặc xúc phạm để trở nên khéo léo và lịch sự hơn"
+    },
+    {
+        "id": "34f1992b-4556-401d-adc0-f9b98b9dab51",
+        "word": "equivocation",
+        "phonetic": "ɪkwɪvəkeɪʃən ",
+        "type": "noun",
+        "defineEn": "the deliberate use of ambiguous language or expressions to avoid making a clear or definite statement",
+        "defineVi": "cố ý sử dụng ngôn ngữ hoặc cách diễn đạt mơ hồ để tránh đưa ra một tuyên bố rõ ràng hoặc xác định"
+    },
+    {
+        "id": "b736f912-6eaf-4583-8c40-f45aa0a2fb61",
+        "word": "holophrasis",
+        "phonetic": "hɑːləfɹɑːsiz ",
+        "type": "noun",
+        "defineEn": "(linguistics) the prelinguistic practice of expressing a whole idea in a single word",
+        "defineVi": "(ngôn ngữ học) thực hành tiền ngôn ngữ để diễn đạt toàn bộ ý tưởng trong một từ"
+    },
+    {
+        "id": "6e36aebf-d39d-4a64-aadb-ab5efb8ac177",
+        "word": "colloquialism",
+        "phonetic": "kəloʊkwɪəlɪzəm ",
+        "type": "noun",
+        "defineEn": "a word or phrase that is not formal or literary and is used in everyday conversations",
+        "defineVi": "một từ hoặc cụm từ không trang trọng hoặc văn chương và được sử dụng trong các cuộc trò chuyện hàng ngày"
+    },
+    {
+        "id": "5ad84229-1986-41b4-a200-0e00556cb953",
+        "word": "malapropism",
+        "phonetic": "mælɐpɹɑːpɪzəm ",
+        "type": "noun",
+        "defineEn": "the humorous and incorrect use of a word that sounds similar to the intended word",
+        "defineVi": "việc sử dụng một từ hài hước và không chính xác có vẻ giống với từ dự định"
+    },
+    {
+        "id": "8c26bb17-e73f-4f61-a14e-40f60a6118b2",
+        "word": "utterance",
+        "phonetic": "ʌɾɚɹəns ",
+        "type": "noun",
+        "defineEn": "a unit of speech or writing that is complete and coherent, usually consisting of one or more words and conveying a specific meaning or message",
+        "defineVi": "một đơn vị lời nói hoặc bài viết hoàn chỉnh và mạch lạc, thường bao gồm một hoặc nhiều từ và truyền đạt một ý nghĩa hoặc thông điệp cụ thể"
+    },
+    {
+        "id": "bd6a87b9-c005-49d1-a323-7db9a1c79cfb",
+        "word": "pleonasm",
+        "phonetic": "plɪɑːnæzəm ",
+        "type": "noun",
+        "defineEn": "(linguistics) the redundant use of words in a way that might be considered a fault of style, or to create an emphatic effect",
+        "defineVi": "(ngôn ngữ học) việc sử dụng các từ dư thừa theo cách có thể bị coi là lỗi về văn phong hoặc để tạo hiệu ứng nhấn mạnh"
+    },
+    {
+        "id": "86bcb8bb-07fd-49ce-9032-70fb5bf2d7e4",
+        "word": "tmesis",
+        "phonetic": "tiːmiːsɪs ",
+        "type": "noun",
+        "defineEn": "(linguistics) the separation of parts of a compound word by insertion of one or more words, often in informal speech",
+        "defineVi": "(ngôn ngữ học) sự tách rời các bộ phận của từ ghép bằng cách thêm vào một hoặc nhiều từ, thường dùng trong cách nói thân mật"
+    },
+    {
+        "id": "48e11d1b-9acd-4742-a26c-2f90ac1f563d",
+        "word": "rhetorical question",
+        "phonetic": "ɹɛtɔːɹɪkəl kwɛstʃən ",
+        "type": "noun",
+        "defineEn": "a question that is not meant to be answered, but is instead used to make a point or to create emphasis or effect",
+        "defineVi": "một câu hỏi không có nghĩa là để trả lời, mà thay vào đó được sử dụng để đưa ra quan điểm hoặc để tạo sự nhấn mạnh hoặc hiệu ứng"
+    },
+    {
+        "id": "38f5f6be-fd9b-4df6-8829-e26f1b699c75",
+        "word": "display question",
+        "phonetic": "dɪspleɪ kwɛstʃən ",
+        "type": "noun",
+        "defineEn": "a type of interrogative sentence that is asked not to obtain information but rather to make a statement or express an attitude",
+        "defineVi": "một loại câu nghi vấn được yêu cầu không phải để lấy thông tin mà là để đưa ra tuyên bố hoặc bày tỏ thái độ"
+    },
+    {
+        "id": "2121bdd6-2b33-4477-97cd-55753ef85db5",
+        "word": "referential question",
+        "phonetic": "ɹɛfɚɹɛnʃəl kwɛstʃən ",
+        "type": "noun",
+        "defineEn": "a type of interrogative sentence that seeks specific information or references a particular entity, object, or concept",
+        "defineVi": "một loại câu nghi vấn tìm kiếm thông tin cụ thể hoặc tham chiếu đến một thực thể, đối tượng hoặc khái niệm cụ thể"
+    },
+    {
+        "id": "e55b2ef5-0655-44e0-ad60-f9a3797db6a4",
+        "word": "focus",
+        "phonetic": "foʊkəs ",
+        "type": "noun",
+        "defineEn": "the emphasis or prominence placed on a particular element or information in a sentence or discourse",
+        "defineVi": "sự nhấn mạnh hoặc nổi bật được đặt trên một yếu tố hoặc thông tin cụ thể trong một câu hoặc diễn ngôn"
+    },
+    {
+        "id": "86785ffc-be97-4bab-b00c-7dd620d49f62",
+        "word": "bilingual pun",
+        "phonetic": "baɪlɪŋɡwəl pʌn ",
+        "type": "noun",
+        "defineEn": "a wordplay or joke that relies on the use of multiple languages, often involving the similarity or ambiguity of words or phrases in different languages to create humorous or clever effects",
+        "defineVi": "một trò chơi chữ hoặc trò đùa dựa trên việc sử dụng nhiều ngôn ngữ, thường liên quan đến sự giống nhau hoặc mơ hồ của các từ hoặc cụm từ trong các ngôn ngữ khác nhau để tạo hiệu ứng hài hước hoặc thông minh"
+    },
+    {
+        "id": "a98b6de5-7770-467e-a934-f4d8019be7cd",
+        "word": "backchannel",
+        "phonetic": "bæktʃænəl ",
+        "type": "noun",
+        "defineEn": "the verbal and non-verbal cues, such as nodding, \"uh-huh,\" or other short responses, that listeners use to indicate their engagement and understanding during a conversation",
+        "defineVi": "các tín hiệu bằng lời nói và phi ngôn ngữ, chẳng hạn như gật đầu, \"uh-huh\" hoặc các câu trả lời ngắn khác mà người nghe sử dụng để biểu thị sự tham gia và hiểu biết của họ trong cuộc trò chuyện"
+    },
+    {
+        "id": "c1e6a6b8-60a0-4601-a2c7-6cee6fb97151",
+        "word": "proverb",
+        "phonetic": "pɹɑːvɜːb ",
+        "type": "noun",
+        "defineEn": "a well-known statement or phrase that expresses a general truth or gives advice",
+        "defineVi": "một tuyên bố hoặc cụm từ nổi tiếng thể hiện một sự thật chung hoặc đưa ra lời khuyên"
+    },
+    {
+        "id": "22032f35-0b8f-48e2-8d10-0c22c0b62df9",
+        "word": "deictic",
+        "phonetic": "deɪktɪk ",
+        "type": "noun",
+        "defineEn": "a word or expression that relies on the context of the utterance for its interpretation, particularly in terms of spatial, temporal, or personal reference",
+        "defineVi": "một từ hoặc biểu thức dựa vào ngữ cảnh của cách nói để giải thích nó, đặc biệt là về mặt tham chiếu không gian, thời gian hoặc cá nhân"
+    }
+]

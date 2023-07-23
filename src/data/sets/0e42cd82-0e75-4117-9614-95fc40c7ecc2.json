@@ -1,0 +1,209 @@
+[
+    {
+        "id": "0bc87179-fd04-4b4e-8fbc-75c448837bbc",
+        "word": "agriculture",
+        "phonetic": "æɡɹɪkʌltʃɚ ",
+        "type": "noun",
+        "defineEn": "farming and its science",
+        "defineVi": "nông nghiệp và khoa học của nó",
+        "hasImg": true
+    },
+    {
+        "id": "7c298d47-85bc-487e-acb7-0b40dd9a4e5d",
+        "word": "barn",
+        "phonetic": "bɑːɹn ",
+        "type": "noun",
+        "defineEn": "a building on a farm in which people keep their animals, straw, hay, or grains",
+        "defineVi": "một tòa nhà trong một trang trại, trong đó mọi người giữ động vật, rơm, cỏ khô hoặc ngũ cốc của họ",
+        "hasImg": true
+    },
+    {
+        "id": "8521c8bb-3ab7-42ea-9635-ad5110ae471d",
+        "word": "cattle",
+        "phonetic": "kæɾəl ",
+        "type": "noun",
+        "defineEn": "the group of cows and bulls, kept for their meat or milk",
+        "defineVi": "nhóm bò và bò đực, được giữ để lấy thịt hoặc sữa",
+        "hasImg": true
+    },
+    {
+        "id": "ccc9f181-162b-4b47-a489-1cd37e8fd45c",
+        "word": "crop",
+        "phonetic": "kɹɑːp ",
+        "type": "noun",
+        "defineEn": "a plant that is grown for food over large areas of land",
+        "defineVi": "một loại cây được trồng để làm thực phẩm trên diện tích đất rộng lớn",
+        "hasImg": true
+    },
+    {
+        "id": "43b109bf-0315-48cc-acef-ac427f026f6c",
+        "word": "farmhouse",
+        "phonetic": "fɑːɹmhaʊs ",
+        "type": "noun",
+        "defineEn": "a house near a farm in which a farmer lives",
+        "defineVi": "một ngôi nhà gần một trang trại mà một người nông dân sống",
+        "hasImg": true
+    },
+    {
+        "id": "7eaf9dd5-1b52-49b0-9291-764e842568b3",
+        "word": "fish farm",
+        "phonetic": "fɪʃ fɑːɹm ",
+        "type": "noun",
+        "defineEn": "an area or a place where fish are kept to increase their number and then be sold",
+        "defineVi": "một khu vực hoặc một nơi giữ cá để tăng số lượng của chúng và sau đó được bán",
+        "hasImg": true
+    },
+    {
+        "id": "5dc2f8d5-fb39-401a-8e3a-6a348c8b9a61",
+        "word": "grain",
+        "phonetic": "ɡɹeɪn ",
+        "type": "noun",
+        "defineEn": "the small seeds of wheat, corn, rice, and other such crops",
+        "defineVi": "những hạt nhỏ của lúa mì, ngô, gạo và các loại cây trồng khác",
+        "hasImg": true
+    },
+    {
+        "id": "0eae8f1b-5a5f-4f48-b335-3f45421033b5",
+        "word": "greenhouse",
+        "phonetic": "ɡɹiːnhaʊs ",
+        "type": "noun",
+        "defineEn": "a glass structure used for growing plants in and protecting them from cold weather",
+        "defineVi": "một cấu trúc thủy tinh được sử dụng để trồng cây và bảo vệ chúng khỏi thời tiết lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "9662f1ce-463c-414f-976d-7acb46585ed3",
+        "word": "to harvest",
+        "phonetic": "tə hɑːɹvɪst ",
+        "type": "verb",
+        "defineEn": "to cut and collect a crop",
+        "defineVi": "để cắt và thu thập một vụ mùa",
+        "hasImg": true
+    },
+    {
+        "id": "b1261721-62c6-4497-abeb-8f08a5206ead",
+        "word": "land",
+        "phonetic": "lænd ",
+        "type": "noun",
+        "defineEn": "an area of ground used for farming",
+        "defineVi": "một diện tích đất được sử dụng cho nông nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "bf7b8a1f-6cf1-452e-9b24-87bcd4259eae",
+        "word": "to milk",
+        "phonetic": "tə mɪlk ",
+        "type": "verb",
+        "defineEn": "to collect milk from animals such as cows, goats, etc.",
+        "defineVi": "để lấy sữa từ động vật như bò, dê, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "93941c32-645f-464b-b62f-0111a13285c5",
+        "word": "organic",
+        "phonetic": "ɔːɹɡænɪk ",
+        "type": "adjective",
+        "defineEn": "(of food or farming techniques) produced or done without any artificial or chemical substances",
+        "defineVi": "(của thực phẩm hoặc kỹ thuật canh tác) được sản xuất hoặc thực hiện mà không có bất kỳ chất nhân tạo hoặc hóa chất nào",
+        "hasImg": true
+    },
+    {
+        "id": "bef5c86b-e6a0-49a9-863b-1738d76fd9e7",
+        "word": "pest",
+        "phonetic": "pɛst ",
+        "type": "noun",
+        "defineEn": "an insect or small animal that destroys or damages crops, food, etc.",
+        "defineVi": "một loại côn trùng hoặc động vật nhỏ phá hoại hoặc làm hỏng mùa màng, thực phẩm, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b76978d9-25cc-4c99-8626-2ca46855e658",
+        "word": "plow",
+        "phonetic": "plaʊ ",
+        "type": "noun",
+        "defineEn": "a large farm tool with heavy blades used to turn over soil and prepare it for sowing",
+        "defineVi": "một nông cụ lớn với những lưỡi dao nặng được sử dụng để lật đất và chuẩn bị gieo hạt",
+        "hasImg": true
+    },
+    {
+        "id": "6883cea9-123d-42a1-af8f-d563b7d5e27a",
+        "word": "ranch",
+        "phonetic": "ɹæntʃ ",
+        "type": "noun",
+        "defineEn": "a large farm in which animals are kept to increase their number",
+        "defineVi": "một trang trại lớn trong đó động vật được giữ để tăng số lượng của họ",
+        "hasImg": true
+    },
+    {
+        "id": "8cb94e3c-e65a-4ca6-9d4d-75c7aeb40cfb",
+        "word": "scarecrow",
+        "phonetic": "skɛɹkɹoʊ ",
+        "type": "noun",
+        "defineEn": "an object that looks like a person and is made to scare birds away",
+        "defineVi": "một đối tượng trông giống như một người và được thực hiện để xua đuổi chim",
+        "hasImg": true
+    },
+    {
+        "id": "e73277fe-374a-4d1b-8a04-81d2ea6a6b44",
+        "word": "seed",
+        "phonetic": "siːd ",
+        "type": "noun",
+        "defineEn": "a small living object from a plant that when put in the ground, grows into a new one",
+        "defineVi": "một vật thể sống nhỏ từ một cái cây khi được đặt xuống đất sẽ phát triển thành một cái mới",
+        "hasImg": true
+    },
+    {
+        "id": "f4b8b354-abd6-4f23-b23f-4859022961a1",
+        "word": "shepherd",
+        "phonetic": "ʃɛpɚd ",
+        "type": "noun",
+        "defineEn": "a person who protects a large group of sheep as a job",
+        "defineVi": "một người bảo vệ một nhóm cừu lớn như một công việc",
+        "hasImg": true
+    },
+    {
+        "id": "7e22137e-d948-4d2c-a520-63f95c712cf8",
+        "word": "to sow",
+        "phonetic": "tə soʊ ",
+        "type": "verb",
+        "defineEn": "to plant seeds in the earth or scatter them over the ground",
+        "defineVi": "để trồng hạt giống trong trái đất hoặc phân tán chúng trên mặt đất",
+        "hasImg": true
+    },
+    {
+        "id": "6b4e2658-87d0-4441-908e-bed2ca2b8a9a",
+        "word": "stable",
+        "phonetic": "steɪbəl ",
+        "type": "noun",
+        "defineEn": "a building on a farm to house horses",
+        "defineVi": "một tòa nhà trong một trang trại để nuôi ngựa",
+        "hasImg": true
+    },
+    {
+        "id": "8bf978fa-4618-4e0b-8238-7ec92d466384",
+        "word": "tractor",
+        "phonetic": "tɹæktɚ ",
+        "type": "noun",
+        "defineEn": "a vehicle with large rear wheels and thick tires, mostly used on farms",
+        "defineVi": "một chiếc xe có bánh sau lớn và lốp dày, chủ yếu được sử dụng trong các trang trại",
+        "hasImg": true
+    },
+    {
+        "id": "723ecf17-a8a0-44e4-8b65-6f229b2fe98b",
+        "word": "vineyard",
+        "phonetic": "vɪnjɚd ",
+        "type": "noun",
+        "defineEn": "a piece of land on which grapes are grown to make wine",
+        "defineVi": "một mảnh đất trên đó nho được trồng để làm rượu vang",
+        "hasImg": true
+    },
+    {
+        "id": "e13e0288-aeff-4dce-a201-f8929c8b2790",
+        "word": "windmill",
+        "phonetic": "wɪndmɪl ",
+        "type": "noun",
+        "defineEn": "a large, tall building with long blades, called sails, that turn in the wind, used to make flour out of grain or produce electricity",
+        "defineVi": "một tòa nhà lớn, cao với những cánh buồm dài, được gọi là cánh buồm, quay trong gió, được sử dụng để tạo ra bột từ ngũ cốc hoặc sản xuất điện",
+        "hasImg": true
+    }
+]

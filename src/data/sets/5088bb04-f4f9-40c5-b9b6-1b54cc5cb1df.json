@@ -1,0 +1,310 @@
+[
+    {
+        "id": "97a94f92-b578-40c8-8aa7-6a55be0ff8f5",
+        "word": "kind",
+        "phonetic": "kaɪnd ",
+        "type": "noun",
+        "defineEn": "a group of people or things that have similar characteristics or share particular qualities",
+        "defineVi": "một nhóm người hoặc những thứ có đặc điểm tương tự hoặc chia sẻ phẩm chất cụ thể"
+    },
+    {
+        "id": "2a8a0776-5587-471c-9202-984bcef6f8f7",
+        "word": "film",
+        "phonetic": "fɪlm ",
+        "type": "noun",
+        "defineEn": "a story that we can watch on a screen, like a TV or in a theater, with moving pictures and sound",
+        "defineVi": "một câu chuyện mà chúng ta có thể xem trên màn hình, chẳng hạn như TV hoặc trong rạp hát, với hình ảnh và âm thanh chuyển động",
+        "hasImg": true
+    },
+    {
+        "id": "fd568945-4630-4b7e-9a63-9d9436edfb06",
+        "word": "action film",
+        "phonetic": "ækʃən fɪlm ",
+        "type": "noun",
+        "defineEn": "a film genre that has a lot of exciting events, and usually contains violence",
+        "defineVi": "một thể loại phim có nhiều sự kiện thú vị và thường có bạo lực",
+        "hasImg": true
+    },
+    {
+        "id": "a8053cab-69e8-42b6-ac56-d085a330cf8d",
+        "word": "animation",
+        "phonetic": "ænɪmeɪʃən ",
+        "type": "noun",
+        "defineEn": "a movie in which animated characters move",
+        "defineVi": "một bộ phim trong đó các nhân vật hoạt hình di chuyển",
+        "hasImg": true
+    },
+    {
+        "id": "28c1392b-e1d3-4060-bbb3-2f65a0456471",
+        "word": "comedy",
+        "phonetic": "kɑːmədi ",
+        "type": "noun",
+        "defineEn": "professional entertainment that contains jokes and sketches, intended to make people laugh",
+        "defineVi": "giải trí chuyên nghiệp chứa những câu chuyện cười và bản phác thảo, nhằm làm cho mọi người cười",
+        "hasImg": true
+    },
+    {
+        "id": "4cf9cfec-8c19-45b5-87f4-19e6bc5dabc8",
+        "word": "drama",
+        "phonetic": "dɹɑːmə ",
+        "type": "noun",
+        "defineEn": "a play that is performed in a theater, on TV, or radio",
+        "defineVi": "một vở kịch được thực hiện trong một nhà hát, trên TV, hoặc đài phát thanh",
+        "hasImg": true
+    },
+    {
+        "id": "26c71a9a-6d77-433d-a10e-84d4801804a9",
+        "word": "historical",
+        "phonetic": "hɪstɔːɹɪkəl ",
+        "type": "adjective",
+        "defineEn": "(of books, movies, etc.) about the people or events of the past",
+        "defineVi": "(về sách, phim, v.v.) về những người hoặc sự kiện trong quá khứ",
+        "hasImg": true
+    },
+    {
+        "id": "63cc70cc-c98b-4467-8313-ae10af0e1742",
+        "word": "musical",
+        "phonetic": "mjuːzɪkəl ",
+        "type": "noun",
+        "defineEn": "any theatrical performance that combines singing, dancing, and acting to tell a story",
+        "defineVi": "bất kỳ buổi biểu diễn sân khấu nào kết hợp ca hát, nhảy múa và diễn xuất để kể một câu chuyện",
+        "hasImg": true
+    },
+    {
+        "id": "4a4bee49-2884-46d2-8bce-1b2b7e201cae",
+        "word": "rom-com",
+        "phonetic": "ɹɑːmkɑːm ",
+        "type": "noun",
+        "defineEn": "a genre that has comedic and romantic elements",
+        "defineVi": "một thể loại có yếu tố hài hước và lãng mạn",
+        "hasImg": true
+    },
+    {
+        "id": "af5f35c9-c8b2-43f7-aa61-91c764720041",
+        "word": "science fiction",
+        "phonetic": "saɪəns fɪkʃən ",
+        "type": "noun",
+        "defineEn": "books, movies, etc. about imaginary things based on science",
+        "defineVi": "sách, phim, v.v. về những điều tưởng tượng dựa trên khoa học",
+        "hasImg": true
+    },
+    {
+        "id": "71f6c3e7-9669-4ff6-a8fb-e4d908775921",
+        "word": "thriller",
+        "phonetic": "θɹɪlɚ ",
+        "type": "noun",
+        "defineEn": "a movie, novel, etc. with an exciting plot that deals with crime",
+        "defineVi": "một bộ phim, tiểu thuyết, v.v. với cốt truyện thú vị liên quan đến tội phạm",
+        "hasImg": true
+    },
+    {
+        "id": "c9e4f7ba-3164-4a9a-afb9-3836067f2c3d",
+        "word": "war film",
+        "phonetic": "wɔːɹ fɪlm ",
+        "type": "noun",
+        "defineEn": "a type of movie that shows stories about wars and the people involved, with a focus on action, drama, and the effects of war",
+        "defineVi": "một loại phim chiếu những câu chuyện về chiến tranh và những người liên quan, tập trung vào hành động, kịch tính và tác động của chiến tranh",
+        "hasImg": true
+    },
+    {
+        "id": "fa94b0bc-11ec-4117-8aae-3cad3ab12081",
+        "word": "cast",
+        "phonetic": "kæst ",
+        "type": "noun",
+        "defineEn": "all the actors and actresses in a movie, play, etc.",
+        "defineVi": "tất cả các nam nữ diễn viên trong một bộ phim, vở kịch, v.v."
+    },
+    {
+        "id": "9e90d191-b252-42f2-8c86-cb70559590d3",
+        "word": "critic",
+        "phonetic": "kɹɪɾɪk ",
+        "type": "noun",
+        "defineEn": "someone who gives their personal standpoint of a movie, play, etc. as a job",
+        "defineVi": "ai đó đưa ra quan điểm cá nhân của họ về một bộ phim, vở kịch, v.v. như một công việc",
+        "hasImg": true
+    },
+    {
+        "id": "eab3dd8c-f2c0-4d39-a837-8dc26bd5a4ad",
+        "word": "extra",
+        "phonetic": "ɛkstɹə ",
+        "type": "adjective",
+        "defineEn": "more than enough or the amount needed",
+        "defineVi": "quá đủ hoặc số lượng cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "62c3c6ea-d739-432b-a74c-ab1b246b67dd",
+        "word": "plot",
+        "phonetic": "plɑːt ",
+        "type": "noun",
+        "defineEn": "a plan that is made secretly, particularly to do something that is wrong, damaging, or illegal",
+        "defineVi": "một kế hoạch được thực hiện một cách bí mật, đặc biệt là làm điều gì đó sai trái, gây tổn hại hoặc bất hợp pháp"
+    },
+    {
+        "id": "4c55185c-1b0c-4fd8-a164-af7fd1e0d938",
+        "word": "to review",
+        "phonetic": "tə ɹᵻvjuː ",
+        "type": "verb",
+        "defineEn": "to write an article in which one shares their opinion about a book, movie, etc.",
+        "defineVi": "để viết một bài báo trong đó một người chia sẻ ý kiến của họ về một cuốn sách, bộ phim, v.v."
+    },
+    {
+        "id": "8206272e-624b-466f-99f8-5d8b444ece61",
+        "word": "scene",
+        "phonetic": "siːn ",
+        "type": "noun",
+        "defineEn": "a part of a movie, play or book in which the action happens in one place or is of one particular type",
+        "defineVi": "một phần của bộ phim, vở kịch hoặc cuốn sách trong đó hành động xảy ra ở một nơi hoặc thuộc một loại cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "ae540b63-34c8-4355-bb22-fc2275807a32",
+        "word": "script",
+        "phonetic": "skɹɪpt ",
+        "type": "noun",
+        "defineEn": "a written text that a movie, show, or play is based on",
+        "defineVi": "một văn bản bằng văn bản mà một bộ phim, chương trình hoặc vở kịch dựa trên",
+        "hasImg": true
+    },
+    {
+        "id": "6da514f2-40c8-463d-9220-d71928c6a0b2",
+        "word": "sequel",
+        "phonetic": "siːkwəl ",
+        "type": "noun",
+        "defineEn": "a book, movie, play, etc. that continues and extends the story of an earlier one",
+        "defineVi": "một cuốn sách, bộ phim, vở kịch, v.v. tiếp tục và mở rộng câu chuyện của một cuốn trước đó",
+        "hasImg": true
+    },
+    {
+        "id": "9b384202-bf83-4f82-9a7c-c6b3ef5e02f8",
+        "word": "set",
+        "phonetic": "sɛt ",
+        "type": "noun",
+        "defineEn": "a stage where a play is performed or a location where a motion picture is recorded",
+        "defineVi": "một sân khấu nơi một vở kịch được biểu diễn hoặc một địa điểm ghi lại một hình ảnh chuyển động"
+    },
+    {
+        "id": "bb98c74e-84bc-458b-96c1-919f9595eaff",
+        "word": "soundtrack",
+        "phonetic": "saʊndtɹæk ",
+        "type": "noun",
+        "defineEn": "the recorded sounds, speeches, or music of a movie, play, or musical",
+        "defineVi": "âm thanh, bài phát biểu hoặc âm nhạc được ghi lại của một bộ phim, vở kịch hoặc vở nhạc kịch"
+    },
+    {
+        "id": "216aa935-2049-4409-84a4-5080f29bccf9",
+        "word": "special effects",
+        "phonetic": "spɛʃəl ɪfɛkts ",
+        "type": "noun",
+        "defineEn": "unreal materials or scenes that are put into movies or TV shows using computers or filmmaking tricks to add excitement",
+        "defineVi": "vật liệu hoặc cảnh không có thật được đưa vào phim hoặc chương trình truyền hình bằng máy tính hoặc thủ thuật làm phim để thêm phần thú vị"
+    },
+    {
+        "id": "4217160a-0354-47f7-aa17-868da3333401",
+        "word": "star",
+        "phonetic": "stɑːɹ ",
+        "type": "noun",
+        "defineEn": "a famous and popular performer, artist, etc.",
+        "defineVi": "một nghệ sĩ, nghệ sĩ nổi tiếng và nổi tiếng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "d1c83c0c-344b-447f-b7af-db62d3d3cee1",
+        "word": "subtitle",
+        "phonetic": "sʌbtaɪɾəl ",
+        "type": "noun",
+        "defineEn": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who don't understand the language",
+        "defineVi": "các từ phiên âm hoặc dịch của câu chuyện hoặc lời thoại của một bộ phim hoặc chương trình truyền hình, xuất hiện ở cuối màn hình để giúp người khiếm thính hoặc những người không hiểu ngôn ngữ",
+        "hasImg": true
+    },
+    {
+        "id": "3de0877f-3b1f-4f59-ae3d-dde8a805edba",
+        "word": "trailer",
+        "phonetic": "tɹeɪlɚ ",
+        "type": "noun",
+        "defineEn": "a selection from different parts of a movie, TV series, games, etc. shown before they become available to the public",
+        "defineVi": "lựa chọn từ các phần khác nhau của phim, phim truyền hình, trò chơi, v.v. được trình chiếu trước khi chúng ra mắt công chúng"
+    },
+    {
+        "id": "effd0993-a5fb-4c93-b9b6-94e1a7a09977",
+        "word": "to base on",
+        "phonetic": "tə beɪs ɔn ",
+        "type": "verb",
+        "defineEn": "to develop something using certain facts, ideas, situations, etc.",
+        "defineVi": "để phát triển một cái gì đó bằng cách sử dụng các sự kiện, ý tưởng, tình huống nhất định, v.v."
+    },
+    {
+        "id": "e81cc469-9c46-43ef-9340-c43918283fb9",
+        "word": "to set",
+        "phonetic": "tə sɛt ",
+        "type": "verb",
+        "defineEn": "to place the events of a play, movie, novel, etc. in a particular time or place",
+        "defineVi": "để đặt các sự kiện của một vở kịch, phim, tiểu thuyết, vv trong một thời gian hoặc địa điểm cụ thể"
+    },
+    {
+        "id": "33b40fa0-44f0-4258-80b3-a2128325c52d",
+        "word": "directed",
+        "phonetic": "dᵻɹɛktᵻd ",
+        "type": "adjective",
+        "defineEn": "supervised, guided, or managed by someone",
+        "defineVi": "được giám sát, hướng dẫn hoặc quản lý bởi ai đó"
+    },
+    {
+        "id": "66fbadc4-a647-4647-ace6-2cd1432d90ac",
+        "word": "Western",
+        "phonetic": "wɛstɚn ",
+        "type": "noun",
+        "defineEn": "a movie or book that usually involves the lives and adventures of cowboys in western US",
+        "defineVi": "một bộ phim hoặc cuốn sách thường liên quan đến cuộc sống và cuộc phiêu lưu của những chàng cao bồi ở miền tây Hoa Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "f7de3c6e-20db-4b83-9408-3aeef305b0e5",
+        "word": "audience",
+        "phonetic": "ɔːdiəns ",
+        "type": "noun",
+        "defineEn": "the group of people who have assembled to watch and listen to a play, concert, etc.",
+        "defineVi": "nhóm người đã tụ tập để xem và nghe một vở kịch, buổi hòa nhạc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f4cd200c-b457-4c87-ab7e-3d8afb88d43d",
+        "word": "to play a part",
+        "phonetic": "tə pleɪ ɐ pɑːɹt ",
+        "type": "phrase",
+        "defineEn": "to contribute and be involved in something",
+        "defineVi": "để đóng góp và được tham gia vào một cái gì đó"
+    },
+    {
+        "id": "5ce6a824-2009-4106-b322-e07a7be43fc4",
+        "word": "shot",
+        "phonetic": "ʃɑːt ",
+        "type": "noun",
+        "defineEn": "an independent sequence of a motion picture or TV program that is recorded by one camera without any interruption",
+        "defineVi": "một chuỗi độc lập của một hình ảnh chuyển động hoặc chương trình truyền hình được ghi lại bởi một camera mà không bị gián đoạn"
+    },
+    {
+        "id": "013f30c6-ee39-4f54-8a23-412ca8405f55",
+        "word": "filmed",
+        "phonetic": "fɪlmd ",
+        "type": "adjective",
+        "defineEn": "captured as a series of moving pictures",
+        "defineVi": "chụp như một loạt các hình ảnh chuyển động"
+    },
+    {
+        "id": "fd748972-55ef-49e0-a7fe-4aadc7207315",
+        "word": "to dub",
+        "phonetic": "tə dʌb ",
+        "type": "verb",
+        "defineEn": "to change the original language of a movie or TV show into another language",
+        "defineVi": "để thay đổi ngôn ngữ gốc của một bộ phim hoặc chương trình truyền hình sang một ngôn ngữ khác"
+    },
+    {
+        "id": "52a626ca-5046-45a5-b510-6646866d7af2",
+        "word": "epic",
+        "phonetic": "ɛpɪk ",
+        "type": "noun",
+        "defineEn": "a long movie or book full of adventure that could be about a historical event",
+        "defineVi": "một bộ phim dài hoặc cuốn sách đầy phiêu lưu có thể là về một sự kiện lịch sử"
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "id": "7e19690d-127e-47f7-9ec2-151d764f6609",
+        "word": "adjacent",
+        "phonetic": "ɐdʒeɪsənt ",
+        "type": "adjective",
+        "defineEn": "situated next to or near something",
+        "defineVi": "nằm bên cạnh hoặc gần một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "1d1d6720-d3be-4ab5-8b0b-f01de8deacd5",
+        "word": "architectural",
+        "phonetic": "ɑːɹkɪtɛktʃɚɹəl ",
+        "type": "adjective",
+        "defineEn": "relating to the study or art of constructing or designing a building",
+        "defineVi": "liên quan đến nghiên cứu hoặc nghệ thuật xây dựng hoặc thiết kế một tòa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "c44436a0-5c6a-444a-a66d-88d498cd1f44",
+        "word": "interior",
+        "phonetic": "ɪntɪɹiɚ ",
+        "type": "adjective",
+        "defineEn": "relating to or located on the inside part of a particular thing",
+        "defineVi": "liên quan đến hoặc nằm ở phần bên trong của một điều cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "3335d4ee-4e1e-4c59-bfda-b556cd10d7da",
+        "word": "exterior",
+        "phonetic": "ɛkstɪɹiɚ ",
+        "type": "adjective",
+        "defineEn": "relating to or located on the outside part of a particular thing",
+        "defineVi": "liên quan đến hoặc nằm ở phần bên ngoài của một điều cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "a8e88d5f-10f5-4591-a998-b53543b4e452",
+        "word": "insulated",
+        "phonetic": "ɪnsəleɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "covered with a substance that does not let heat, electricity, or sound to enter or escape through it",
+        "defineVi": "được bao phủ bởi một chất không cho phép nhiệt, điện hoặc âm thanh đi vào hoặc thoát qua nó"
+    },
+    {
+        "id": "3fa95e5f-45ce-4d18-a376-d392d599fb50",
+        "word": "municipal",
+        "phonetic": "mjuːnɪsɪpəl ",
+        "type": "adjective",
+        "defineEn": "involving or belonging to the government of a city, town, etc.",
+        "defineVi": "liên quan hoặc thuộc về chính quyền của một thành phố, thị trấn, v.v."
+    },
+    {
+        "id": "0b3c6edf-6276-4760-b2da-ce3452080d5d",
+        "word": "residential",
+        "phonetic": "ɹɛzᵻdɛnʃəl ",
+        "type": "adjective",
+        "defineEn": "(of an area with buildings) designed specially for people to live in; relating to houses in which people live rather than offices, factories, etc.",
+        "defineVi": "(của một khu vực có các tòa nhà) được thiết kế đặc biệt cho người dân sinh sống; liên quan đến những ngôi nhà mà mọi người sống chứ không phải là văn phòng, nhà máy, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "200995fa-69a8-454c-8973-02ab4056a142",
+        "word": "godforsaken",
+        "phonetic": "ɡɑːdfoːɹseɪkən ",
+        "type": "adjective",
+        "defineEn": "(of a place) remote and without any appealing or interesting qualities",
+        "defineVi": "(của một nơi) xa xôi và không có bất kỳ phẩm chất hấp dẫn hoặc thú vị nào"
+    },
+    {
+        "id": "fff4f173-631a-4a3a-b79d-fef5b2101d02",
+        "word": "suburban",
+        "phonetic": "səbɜːbən ",
+        "type": "adjective",
+        "defineEn": "in or relating to a residential area outside a city",
+        "defineVi": "trong hoặc liên quan đến một khu dân cư bên ngoài thành phố",
+        "hasImg": true
+    },
+    {
+        "id": "65e46db6-d733-4713-95ec-4afcc6ec40f8",
+        "word": "vacant",
+        "phonetic": "veɪkənt ",
+        "type": "adjective",
+        "defineEn": "(of a house, room, seat, etc. ) empty or unoccupied and available to be used",
+        "defineVi": "(của một ngôi nhà, căn phòng, chỗ ngồi, v.v.) trống hoặc không có người ở và sẵn sàng để sử dụng"
+    },
+    {
+        "id": "15acdbe4-9767-4394-8fd4-cfb7be58d54c",
+        "word": "to assemble",
+        "phonetic": "tʊ ɐsɛmbəl ",
+        "type": "verb",
+        "defineEn": "to make something by putting separate parts of something together",
+        "defineVi": "để làm một cái gì đó bằng cách đặt các phần riêng biệt của một cái gì đó lại với nhau"
+    },
+    {
+        "id": "829bd3a6-0401-4f04-ae26-6146e6ba7295",
+        "word": "to decay",
+        "phonetic": "tə dᵻkeɪ ",
+        "type": "verb",
+        "defineEn": "(of a structure or an area) to become worse gradually",
+        "defineVi": "(của một cấu trúc hoặc một khu vực) dần dần trở nên tồi tệ hơn",
+        "hasImg": true
+    },
+    {
+        "id": "f19b26eb-05bc-4940-84d2-de9496fdc39a",
+        "word": "to demolish",
+        "phonetic": "tə dᵻmɑːlɪʃ ",
+        "type": "verb",
+        "defineEn": "to completely destroy or to knock down a building or another structure",
+        "defineVi": "để phá hủy hoàn toàn hoặc đánh sập một tòa nhà hoặc cấu trúc khác"
+    },
+    {
+        "id": "28be1d18-557e-4025-b26c-de10f69cb1ea",
+        "word": "to erect",
+        "phonetic": "tʊ ɪɹɛkt ",
+        "type": "verb",
+        "defineEn": "to construct, build, or assemble something in an upright position, typically referring to the creation of a structure or object that stands vertically",
+        "defineVi": "để xây dựng, xây dựng hoặc lắp ráp một cái gì đó ở vị trí thẳng đứng, thường đề cập đến việc tạo ra một cấu trúc hoặc đối tượng đứng thẳng đứng",
+        "hasImg": true
+    },
+    {
+        "id": "7ec1d3e4-46bf-41f7-ab50-eb1946355cbc",
+        "word": "to refurbish",
+        "phonetic": "tə ɹᵻfɜːbɪʃ ",
+        "type": "verb",
+        "defineEn": "to make a room or building look more attractive by repairing, redecorating, or cleaning it",
+        "defineVi": "để làm cho một căn phòng hoặc tòa nhà trông hấp dẫn hơn bằng cách sửa chữa, trang trí lại hoặc làm sạch nó"
+    },
+    {
+        "id": "fc5ed518-075f-4200-841d-a54000480667",
+        "word": "to renovate",
+        "phonetic": "tə ɹɛnəveɪt ",
+        "type": "verb",
+        "defineEn": "to make a building or a piece of furniture look good again by repairing or painting it",
+        "defineVi": "để làm cho một tòa nhà hoặc một mảnh đồ nội thất đẹp trở lại bằng cách sửa chữa hoặc sơn nó"
+    },
+    {
+        "id": "34d40873-da74-4ea1-8606-799b2ea98645",
+        "word": "bungalow",
+        "phonetic": "bʌŋɡɐloʊ ",
+        "type": "noun",
+        "defineEn": "a house that is only consisted of one floor or another smaller floor set in the roof",
+        "defineVi": "một ngôi nhà chỉ bao gồm một tầng hoặc một tầng nhỏ hơn khác được đặt trên mái nhà",
+        "hasImg": true
+    },
+    {
+        "id": "4f7060ab-120e-4fa6-998f-81c3038dcbc2",
+        "word": "court",
+        "phonetic": "koːɹt ",
+        "type": "noun",
+        "defineEn": "an area surrounded by walls or buildings, often part of a large house",
+        "defineVi": "một khu vực được bao quanh bởi những bức tường hoặc tòa nhà, thường là một phần của ngôi nhà lớn"
+    },
+    {
+        "id": "7298baa9-1e8e-4e88-bbee-7a974b56723e",
+        "word": "dome",
+        "phonetic": "doʊm ",
+        "type": "noun",
+        "defineEn": "a building's roof that is rounded",
+        "defineVi": "mái nhà của một tòa nhà được làm tròn",
+        "hasImg": true
+    },
+    {
+        "id": "d99b983f-da96-4fe5-b86e-01cf6ff6d4f6",
+        "word": "sauna",
+        "phonetic": "sɔːnə ",
+        "type": "noun",
+        "defineEn": "a small room that is often heated with steam and has wooden walls, where people sit for relaxation or health benefits",
+        "defineVi": "một căn phòng nhỏ thường được sưởi ấm bằng hơi nước và có những bức tường bằng gỗ, nơi mọi người ngồi để thư giãn hoặc có lợi cho sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "e26a2e61-3a4a-48c8-b97d-5f8d64a48ac8",
+        "word": "igloo",
+        "phonetic": "ɪɡluː ",
+        "type": "noun",
+        "defineEn": "a house or shelter in the shape of a dome that is built from blocks of ice or hard snow",
+        "defineVi": "một ngôi nhà hoặc nơi trú ẩn trong hình dạng của một mái vòm được xây dựng từ khối băng hoặc tuyết cứng",
+        "hasImg": true
+    },
+    {
+        "id": "d266da2e-6587-455f-af83-a9a0fc024e88",
+        "word": "high-rise",
+        "phonetic": "haɪɹaɪz ",
+        "type": "noun",
+        "defineEn": "a very tall building with many floors",
+        "defineVi": "một tòa nhà rất cao với nhiều tầng",
+        "hasImg": true
+    },
+    {
+        "id": "9e6b9a35-586e-405f-a4c6-4220ef1665d9",
+        "word": "lighthouse",
+        "phonetic": "laɪthaʊs ",
+        "type": "noun",
+        "defineEn": "a large structure, such as a tower, placed near the coast and equipped with a powerful light that guides or warns the approaching ships",
+        "defineVi": "một cấu trúc lớn, chẳng hạn như tháp, được đặt gần bờ biển và được trang bị ánh sáng mạnh để hướng dẫn hoặc cảnh báo các tàu đang đến gần",
+        "hasImg": true
+    },
+    {
+        "id": "9c64c6c1-0b01-4799-b617-42352a415c9f",
+        "word": "pier",
+        "phonetic": "pɪɹ ",
+        "type": "noun",
+        "defineEn": "a long platform built from the shore into the sea that people can go for entertainment or a walk",
+        "defineVi": "một nền tảng dài được xây dựng từ bờ biển ra biển mà mọi người có thể giải trí hoặc đi dạo",
+        "hasImg": true
+    },
+    {
+        "id": "ee16a4ac-a2a1-4976-aec5-7b0a3f833d33",
+        "word": "premises",
+        "phonetic": "pɹɛmɪsᵻz ",
+        "type": "noun",
+        "defineEn": "the building and its surrounding land owned or used by a business",
+        "defineVi": "tòa nhà và khu đất xung quanh do một doanh nghiệp sở hữu hoặc sử dụng"
+    },
+    {
+        "id": "2d8e3434-e7dd-4ef8-8ad7-3bb0cdfbf7e5",
+        "word": "arch",
+        "phonetic": "ɑːɹtʃ ",
+        "type": "noun",
+        "defineEn": "a curved symmetrical structure that supports the weight above it, used in bridges or buildings",
+        "defineVi": "một cấu trúc đối xứng cong hỗ trợ trọng lượng bên trên nó, được sử dụng trong các cây cầu hoặc tòa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "da471570-2134-473b-8aaa-5d5514b394d8",
+        "word": "beam",
+        "phonetic": "biːm ",
+        "type": "noun",
+        "defineEn": "a long bar of wood, metal, etc. that supports the weight of a building",
+        "defineVi": "một thanh dài bằng gỗ, kim loại, vv hỗ trợ trọng lượng của một tòa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "6c72a79f-866d-4a33-80eb-c56d97a7c6c0",
+        "word": "cement",
+        "phonetic": "sᵻmɛnt ",
+        "type": "noun",
+        "defineEn": "a gray powdery substance that becomes hard if it is mixed with water and sand, used for construction purposes such as sticking bricks of a wall together",
+        "defineVi": "một chất bột màu xám trở nên cứng nếu được trộn với nước và cát, được sử dụng cho mục đích xây dựng như dán các viên gạch của một bức tường lại với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "0d834d8d-602e-4d2c-8433-3b324f98ed69",
+        "word": "tile",
+        "phonetic": "taɪl ",
+        "type": "noun",
+        "defineEn": "a flat piece of baked clay or other material, mostly in the shape of a square, used for covering floors or walls",
+        "defineVi": "một mảnh phẳng bằng đất sét nung hoặc vật liệu khác, chủ yếu có hình vuông, được sử dụng để phủ sàn hoặc tường",
+        "hasImg": true
+    },
+    {
+        "id": "313bcdf1-4901-4e39-bd9a-c52cc7ffd7f8",
+        "word": "marble",
+        "phonetic": "mɑːɹbəl ",
+        "type": "noun",
+        "defineEn": "a type of hard smooth rock that is mostly white in color and has colored lines, which is used as building material or in making statues",
+        "defineVi": "một loại đá cứng, mịn, hầu hết có màu trắng và có các đường màu, được sử dụng làm vật liệu xây dựng hoặc tạc tượng",
+        "hasImg": true
+    },
+    {
+        "id": "c8c59c51-f95e-481c-915c-b095622a4ded",
+        "word": "crane",
+        "phonetic": "kɹeɪn ",
+        "type": "noun",
+        "defineEn": "a very large tall machine used for lifting heavy objects",
+        "defineVi": "một cỗ máy cao rất lớn được sử dụng để nâng vật nặng",
+        "hasImg": true
+    },
+    {
+        "id": "9b6de8e0-e36e-49df-bbea-4e6db6113530",
+        "word": "escalator",
+        "phonetic": "ɛskɐleɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a staircase that moves and takes people up or down different levels easily, often found in large buildings like airports, department stores, etc.",
+        "defineVi": "một cầu thang di chuyển và đưa mọi người lên hoặc xuống các cấp độ khác nhau một cách dễ dàng, thường được tìm thấy trong các tòa nhà lớn như sân bay, cửa hàng bách hóa, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4f0c9992-ce3b-4ee4-a899-a86c881d4843",
+        "word": "addition",
+        "phonetic": "ɐdɪʃən ",
+        "type": "noun",
+        "defineEn": "a new room added to a building",
+        "defineVi": "một căn phòng mới được thêm vào một tòa nhà"
+    },
+    {
+        "id": "1358fb53-d811-4639-9a3f-cf5a59aab155",
+        "word": "flooring",
+        "phonetic": "floːɹɪŋ ",
+        "type": "noun",
+        "defineEn": "the materials that make up the floor of a building or room",
+        "defineVi": "các vật liệu tạo nên sàn của một tòa nhà hoặc phòng",
+        "hasImg": true
+    },
+    {
+        "id": "9feb9461-1a35-477c-9c1b-0d17e084ac0d",
+        "word": "foundation",
+        "phonetic": "faʊndeɪʃən ",
+        "type": "noun",
+        "defineEn": "a hard layer of cement, stone, etc. that serves as the underground support of a building",
+        "defineVi": "một lớp cứng bằng xi măng, đá, v.v. đóng vai trò là giá đỡ ngầm của một tòa nhà"
+    },
+    {
+        "id": "868f9371-ae5e-4ee1-857d-d105bcc19020",
+        "word": "layout",
+        "phonetic": "leɪaʊt ",
+        "type": "noun",
+        "defineEn": "the specific way by which a building, book page, garden, etc. is arranged",
+        "defineVi": "cách cụ thể mà một tòa nhà, trang sách, khu vườn, vv được sắp xếp"
+    },
+    {
+        "id": "104c8f47-06ac-443c-a5c1-4db1030719be",
+        "word": "embassy",
+        "phonetic": "ɛmbəsi ",
+        "type": "noun",
+        "defineEn": "a building used as the office or residence of the officials who represent their government in another country",
+        "defineVi": "một tòa nhà được sử dụng làm văn phòng hoặc nơi ở của các quan chức đại diện cho chính phủ của họ ở một quốc gia khác"
+    },
+    {
+        "id": "ee6cb8b0-6fa7-42de-9363-f28e9a35454e",
+        "word": "plumbing",
+        "phonetic": "plʌmɪŋ ",
+        "type": "noun",
+        "defineEn": "the system of pipes for the distribution of water in a building",
+        "defineVi": "hệ thống đường ống phân phối nước trong tòa nhà"
+    },
+    {
+        "id": "743ec152-7d28-46a0-9dd2-8e7030324832",
+        "word": "chalet",
+        "phonetic": "ʃæleɪ ",
+        "type": "noun",
+        "defineEn": "a wooden house with a steep sloping roof, often found in mountainous areas in Switzerland",
+        "defineVi": "một ngôi nhà gỗ với mái dốc dốc, thường được tìm thấy ở các vùng núi ở Thụy Sĩ",
+        "hasImg": true
+    },
+    {
+        "id": "d71937e6-be26-4564-8584-33c8dcce353d",
+        "word": "windowpane",
+        "phonetic": "wɪndoʊpeɪn ",
+        "type": "noun",
+        "defineEn": "a single piece of glass in a window",
+        "defineVi": "một mảnh kính trong cửa sổ",
+        "hasImg": true
+    },
+    {
+        "id": "0a451afb-dc56-4090-a8ed-7f490f2fb86e",
+        "word": "lobby",
+        "phonetic": "lɑːbi ",
+        "type": "noun",
+        "defineEn": "the area just inside the entrance of a public building such as a hotel, etc.",
+        "defineVi": "khu vực ngay bên trong lối vào của một tòa nhà công cộng như khách sạn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "cf32a0f7-f49c-4ff8-93c4-7117d58eca20",
+        "word": "thatched",
+        "phonetic": "θætʃt ",
+        "type": "adjective",
+        "defineEn": "(of a house or building) having a roof made of dried straw, leaves etc.",
+        "defineVi": "(của một ngôi nhà hoặc tòa nhà) có mái nhà làm bằng rơm khô, lá, v.v."
+    },
+    {
+        "id": "a321b2f3-e6d4-4d38-9a09-344ecaf4bede",
+        "word": "shovel-ready",
+        "phonetic": "ʃʌvəlɹɛdi ",
+        "type": "adjective",
+        "defineEn": "(of a construction project) prepared for the building stage to begin",
+        "defineVi": "(của một dự án xây dựng) chuẩn bị cho giai đoạn xây dựng bắt đầu"
+    },
+    {
+        "id": "057d171d-3b1d-43b8-a0ab-f2fa55abb808",
+        "word": "to desecrate",
+        "phonetic": "tə dɛsɪkɹeɪt ",
+        "type": "verb",
+        "defineEn": "to treat something valuable inconsiderately, in a way that affects it badly",
+        "defineVi": "để đối xử với một cái gì đó có giá trị một cách thiếu thận trọng, trong một cách ảnh hưởng xấu đến nó"
+    }
+]

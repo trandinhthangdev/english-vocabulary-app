@@ -1,0 +1,366 @@
+[
+    {
+        "id": "45f0d486-189f-4766-8ea9-a849bde4be83",
+        "word": "action",
+        "phonetic": "ækʃən ",
+        "type": "noun",
+        "defineEn": "the act of fighting a war or battle",
+        "defineVi": "hành động chiến đấu trong một cuộc chiến tranh hoặc trận chiến"
+    },
+    {
+        "id": "1ce47603-28fb-4be7-a395-de35ae5bd1db",
+        "word": "advance",
+        "phonetic": "ɐdvæns ",
+        "type": "noun",
+        "defineEn": "a forward movement by soldiers",
+        "defineVi": "một phong trào về phía trước bởi những người lính"
+    },
+    {
+        "id": "72b54b94-1182-42d6-b2cd-1b531c345cd6",
+        "word": "camp",
+        "phonetic": "kæmp ",
+        "type": "noun",
+        "defineEn": "a temporary place of residence for people provided by a government, typically used by soldiers, refugees, etc.",
+        "defineVi": "một nơi cư trú tạm thời cho những người được chính phủ cung cấp, thường được sử dụng bởi binh lính, người tị nạn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "961734b4-f95e-4af9-9195-c0e676d119ba",
+        "word": "military",
+        "phonetic": "mɪlətɛɹi ",
+        "type": "noun",
+        "defineEn": "the armed forces of a country",
+        "defineVi": "các lực lượng vũ trang của một quốc gia",
+        "hasImg": true
+    },
+    {
+        "id": "11af1b29-d403-430a-a9a1-5ed0151be6ba",
+        "word": "air force",
+        "phonetic": "ɛɹ foːɹs ",
+        "type": "noun",
+        "defineEn": "the branch of the armed forces that operates in the air using fighter aircraft",
+        "defineVi": "chi nhánh của lực lượng vũ trang hoạt động trên không sử dụng máy bay chiến đấu",
+        "hasImg": true
+    },
+    {
+        "id": "0e86c540-9eb9-4757-90d5-fb36c3d12abd",
+        "word": "navy",
+        "phonetic": "neɪvi ",
+        "type": "noun",
+        "defineEn": "the branch of the armed forces that operates at sea using warships, destroyers, etc.",
+        "defineVi": "chi nhánh của lực lượng vũ trang hoạt động trên biển sử dụng tàu chiến, tàu khu trục, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "3005b0c8-7cbe-4c94-a217-b82259fcd96f",
+        "word": "strategy",
+        "phonetic": "stɹæɾədʒi ",
+        "type": "noun",
+        "defineEn": "a field of military science that deals with the planning of an attack or defense",
+        "defineVi": "một lĩnh vực khoa học quân sự liên quan đến việc lập kế hoạch tấn công hoặc phòng thủ"
+    },
+    {
+        "id": "a1047756-ecec-4cbd-b349-21d45cc99179",
+        "word": "arms",
+        "phonetic": "ɑːɹmz ",
+        "type": "noun",
+        "defineEn": "weapons in general, especially those used by the military",
+        "defineVi": "vũ khí nói chung, đặc biệt là những vũ khí được sử dụng bởi quân đội",
+        "hasImg": true
+    },
+    {
+        "id": "7e670798-4f43-4371-81dd-2977e9b9a447",
+        "word": "grenade",
+        "phonetic": "ɡɹəneɪd ",
+        "type": "noun",
+        "defineEn": "a small bomb that explodes in a few seconds, can be thrown by hand or fired from a gun",
+        "defineVi": "một quả bom nhỏ phát nổ trong vài giây, có thể ném bằng tay hoặc bắn từ súng",
+        "hasImg": true
+    },
+    {
+        "id": "f8094358-71c1-40ed-9108-73232e0d311b",
+        "word": "handgun",
+        "phonetic": "hændɡʌn ",
+        "type": "noun",
+        "defineEn": "a gun that can be used with one hand",
+        "defineVi": "một khẩu súng có thể được sử dụng bằng một tay",
+        "hasImg": true
+    },
+    {
+        "id": "2fbc0079-8d50-41ed-b021-d03e2dcc3193",
+        "word": "mine",
+        "phonetic": "maɪn ",
+        "type": "noun",
+        "defineEn": "a piece of military equipment that is put on or just under the ground or in the sea, which explodes when it is touched",
+        "defineVi": "một phần của thiết bị quân sự được đặt trên hoặc ngay dưới mặt đất hoặc trên biển, phát nổ khi chạm vào"
+    },
+    {
+        "id": "01b3769a-8448-402c-894b-2faf6a5a5751",
+        "word": "campaign",
+        "phonetic": "kæmpeɪn ",
+        "type": "noun",
+        "defineEn": "a series of operations carried out to achieve a certain military objective",
+        "defineVi": "một loạt các hoạt động được thực hiện để đạt được một mục tiêu quân sự nhất định"
+    },
+    {
+        "id": "094da3cc-b560-4147-aa07-989b6b1210a5",
+        "word": "to command",
+        "phonetic": "tə kəmænd ",
+        "type": "verb",
+        "defineEn": "to have authority over or be in charge of a unit in the army",
+        "defineVi": "có thẩm quyền hoặc chịu trách nhiệm về một đơn vị trong quân đội",
+        "hasImg": true
+    },
+    {
+        "id": "ab3e9100-d8b6-4fe2-ab91-b0d2f1de8b90",
+        "word": "to desert",
+        "phonetic": "tə dᵻzɜːt ",
+        "type": "verb",
+        "defineEn": "to leave the army, navy, etc. with no permission",
+        "defineVi": "rời quân đội, hải quân, v.v. mà không được phép"
+    },
+    {
+        "id": "91ffac0b-c695-42e4-af0e-c130754278e4",
+        "word": "to dominate",
+        "phonetic": "tə dɑːmᵻneɪt ",
+        "type": "verb",
+        "defineEn": "to have the power to completely or partially control someone or something",
+        "defineVi": "để có sức mạnh để kiểm soát hoàn toàn hoặc một phần ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "a4aed5e2-4b96-4399-a13d-8825caca1871",
+        "word": "to invade",
+        "phonetic": "tʊ ɪnveɪd ",
+        "type": "verb",
+        "defineEn": "to enter a territory using armed forces in order to occupy or take control of it",
+        "defineVi": "để vào một lãnh thổ sử dụng lực lượng vũ trang để chiếm hoặc kiểm soát nó"
+    },
+    {
+        "id": "5bedc952-69bc-4f43-b8f8-60ffcceb0310",
+        "word": "to recruit",
+        "phonetic": "tə ɹᵻkɹuːt ",
+        "type": "verb",
+        "defineEn": "to find people to join the armed forces",
+        "defineVi": "tìm người gia nhập lực lượng vũ trang"
+    },
+    {
+        "id": "b1c1c24a-3973-4d72-8874-c56a05e0763f",
+        "word": "to strike",
+        "phonetic": "tə stɹaɪk ",
+        "type": "verb",
+        "defineEn": "to hit using hands or weapons",
+        "defineVi": "đánh bằng tay hoặc vũ khí"
+    },
+    {
+        "id": "0c3f4773-7df6-402c-ab53-d1d7d03bb4b5",
+        "word": "gunfight",
+        "phonetic": "ɡʌnfaɪt ",
+        "type": "noun",
+        "defineEn": "a fight in which fighters use guns",
+        "defineVi": "một cuộc chiến trong đó máy bay chiến đấu sử dụng súng"
+    },
+    {
+        "id": "9abaf6d2-72d3-4bcd-9b9e-6dc5b5c7550b",
+        "word": "armed",
+        "phonetic": "ɑːɹmd ",
+        "type": "adjective",
+        "defineEn": "describing someone or something that is equipped with weapons",
+        "defineVi": "mô tả một ai đó hoặc một cái gì đó được trang bị vũ khí"
+    },
+    {
+        "id": "15f27b8f-55b8-4cfe-8a10-f1d8a4ffec3d",
+        "word": "civil",
+        "phonetic": "sɪvəl ",
+        "type": "adjective",
+        "defineEn": "involving ordinary people who are not part of the armed forces",
+        "defineVi": "liên quan đến những người bình thường không thuộc lực lượng vũ trang"
+    },
+    {
+        "id": "e0c8c2e6-76a0-4dbb-85b8-477b07d397ca",
+        "word": "occupied",
+        "phonetic": "ɑːkjʊpaɪd ",
+        "type": "adjective",
+        "defineEn": "describing a city, country, etc. that is taken and controlled by enemy forces",
+        "defineVi": "mô tả một thành phố, quốc gia, v.v. bị quân địch chiếm và kiểm soát"
+    },
+    {
+        "id": "9118d015-5bfc-480d-be3c-a7417d4f0acf",
+        "word": "parade",
+        "phonetic": "pɚɹeɪd ",
+        "type": "noun",
+        "defineEn": "a military event in which soldiers march or stand together to display power or be inspected",
+        "defineVi": "một sự kiện quân sự trong đó những người lính diễu hành hoặc đứng cùng nhau để thể hiện sức mạnh hoặc được kiểm tra"
+    },
+    {
+        "id": "3889a535-1d44-4d78-981e-b4515c23112e",
+        "word": "prisoner of war",
+        "phonetic": "pɹɪzənɚɹ ʌv wɔːɹ ",
+        "type": "noun",
+        "defineEn": "someone who is captured by the enemy during a war",
+        "defineVi": "một người bị bắt bởi kẻ thù trong một cuộc chiến tranh"
+    },
+    {
+        "id": "9f804cdd-9247-4f65-b06e-6e0241d858ce",
+        "word": "rank",
+        "phonetic": "ɹæŋk ",
+        "type": "noun",
+        "defineEn": "members of the armed forces involving only soldiers",
+        "defineVi": "thành viên của lực lượng vũ trang chỉ liên quan đến binh lính"
+    },
+    {
+        "id": "32206a93-27ec-41fc-b9f5-d9ad1c011f84",
+        "word": "refugee",
+        "phonetic": "ɹɛfjuːdʒiː ",
+        "type": "noun",
+        "defineEn": "a person who is forced to leave their own country because of war, fear of prosecution, etc.",
+        "defineVi": "một người buộc phải rời khỏi đất nước của họ vì chiến tranh, sợ bị truy tố, v.v."
+    },
+    {
+        "id": "f6895e8a-8807-46ed-84cd-c136cff7c6a3",
+        "word": "volunteer",
+        "phonetic": "vɑːləntɪɹ ",
+        "type": "noun",
+        "defineEn": "someone who enlists in the armed forces without being forced",
+        "defineVi": "một người gia nhập lực lượng vũ trang mà không bị ép buộc"
+    },
+    {
+        "id": "73d99e50-366b-473c-8a63-f52e3e0787df",
+        "word": "service",
+        "phonetic": "sɜːvɪs ",
+        "type": "noun",
+        "defineEn": "a member or a branch of the armed forces",
+        "defineVi": "một thành viên hoặc một chi nhánh của lực lượng vũ trang"
+    },
+    {
+        "id": "50c7f4d8-c98d-4b9b-a6aa-46c82bfe53e3",
+        "word": "tank",
+        "phonetic": "tæŋk ",
+        "type": "noun",
+        "defineEn": "an extremely heavy armored vehicle mounted with guns and a large barrel",
+        "defineVi": "một chiếc xe bọc thép cực nặng gắn súng và một cái thùng lớn",
+        "hasImg": true
+    },
+    {
+        "id": "cf4c9a07-c873-4253-8d84-78accd21d319",
+        "word": "warship",
+        "phonetic": "wɔːɹʃɪp ",
+        "type": "noun",
+        "defineEn": "a ship that is made for war and has weapons",
+        "defineVi": "một con tàu được tạo ra cho chiến tranh và có vũ khí"
+    },
+    {
+        "id": "952b3eaf-8c74-4590-bb13-0368607824d7",
+        "word": "war crime",
+        "phonetic": "wɔːɹ kɹaɪm ",
+        "type": "noun",
+        "defineEn": "an inhuman act that is done during a war, which is against the rules of war",
+        "defineVi": "một hành động vô nhân đạo được thực hiện trong chiến tranh, đó là chống lại các quy tắc của chiến tranh"
+    },
+    {
+        "id": "c81921fd-75e6-4f0c-b6e5-c8e5ce4def15",
+        "word": "nuclear submarine",
+        "phonetic": "nuːklɪɹ sʌbmɚɹiːn ",
+        "type": "noun",
+        "defineEn": "a ship moving above and below the sea, which is powered by nuclear energy and is usually armed with weapons such as missile",
+        "defineVi": "một con tàu di chuyển trên và dưới biển, chạy bằng năng lượng hạt nhân và thường được trang bị vũ khí như tên lửa"
+    },
+    {
+        "id": "f4b028ee-a0c7-4c05-8e5e-b650bf8e104a",
+        "word": "target",
+        "phonetic": "tɑːɹɡɪt ",
+        "type": "noun",
+        "defineEn": "a person, building, or area marked to be attacked",
+        "defineVi": "một người, tòa nhà, hoặc khu vực được đánh dấu để bị tấn công"
+    },
+    {
+        "id": "81c4e365-1166-4a24-9d8f-14db7eccc201",
+        "word": "to wreck",
+        "phonetic": "tə ɹɛk ",
+        "type": "verb",
+        "defineEn": "to harm, destroy, or endanger something",
+        "defineVi": "để làm hại, phá hủy, hoặc gây nguy hiểm cho một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "2005a0f8-f20d-4c23-be41-c197c70601ae",
+        "word": "spoil",
+        "phonetic": "spɔɪl ",
+        "type": "noun",
+        "defineEn": "valuable items or goods that are taken by force, especially during a war",
+        "defineVi": "vật phẩm hoặc hàng hóa có giá trị bị chiếm đoạt bằng vũ lực, đặc biệt là trong chiến tranh"
+    },
+    {
+        "id": "06bc569d-37bd-4275-9106-872c72bb912a",
+        "word": "to wound",
+        "phonetic": "tə wuːnd ",
+        "type": "verb",
+        "defineEn": "to be hurt or hurt someone physically",
+        "defineVi": "bị tổn thương hoặc làm tổn thương ai đó về thể chất",
+        "hasImg": true
+    },
+    {
+        "id": "21f4fe3e-460d-4759-ac77-944000371470",
+        "word": "ground-to-air missile",
+        "phonetic": "ɡɹaʊndtʊɛɹ mɪsəl ",
+        "type": "noun",
+        "defineEn": "a missile aimed at an aircraft from the ground or a ship",
+        "defineVi": "một tên lửa nhằm vào một máy bay từ mặt đất hoặc một con tàu"
+    },
+    {
+        "id": "42dbf5e8-14b3-451a-829c-b2733c9fc7ab",
+        "word": "air-to-ground missile",
+        "phonetic": "ɛɹɾəɡɹaʊnd mɪsəl ",
+        "type": "noun",
+        "defineEn": "a missile that is aimed from an aircraft at a surface on the ground or sea",
+        "defineVi": "một tên lửa được nhắm từ một chiếc máy bay trên bề mặt trên mặt đất hoặc trên biển"
+    },
+    {
+        "id": "bca28456-559e-4c27-b13a-b851145fb882",
+        "word": "brass knuckles",
+        "phonetic": "bɹæs nʌkəlz ",
+        "type": "noun",
+        "defineEn": "a metal weapon that is consisted of a group of connected rings, which is worn on one's fingers in order hit someone with",
+        "defineVi": "một vũ khí kim loại bao gồm một nhóm các vòng được kết nối, được đeo trên ngón tay của một người để đánh ai đó bằng",
+        "hasImg": true
+    },
+    {
+        "id": "e4cdce59-67f1-4953-bf63-e5a1e48ad3de",
+        "word": "dogfight",
+        "phonetic": "dɑːɡfaɪt ",
+        "type": "noun",
+        "defineEn": "an aerial combat in which two or more fighter aircraft are engaged",
+        "defineVi": "một trận chiến trên không trong đó hai hoặc nhiều máy bay chiến đấu đang tham gia"
+    },
+    {
+        "id": "282fe324-87e6-4ada-90cf-22a8ec46c744",
+        "word": "USMC",
+        "phonetic": "ʌzmk ",
+        "type": "noun",
+        "defineEn": "an armed force of the United States trained for conducting specific military operations such as fighting from the sea",
+        "defineVi": "một lực lượng vũ trang của Hoa Kỳ được đào tạo để tiến hành các hoạt động quân sự cụ thể như chiến đấu từ biển"
+    },
+    {
+        "id": "0b235e16-17ac-4601-8658-a0dd8fa4984d",
+        "word": "marine",
+        "phonetic": "mɚɹiːn ",
+        "type": "noun",
+        "defineEn": "a member of one of the armed forces who can engage in operations taking place both on land and at sea, particularly a member of Royal Marines or United States Marine Corps",
+        "defineVi": "một thành viên của một trong các lực lượng vũ trang có thể tham gia vào các hoạt động diễn ra cả trên bộ và trên biển, đặc biệt là thành viên của Thủy quân lục chiến Hoàng gia hoặc Thủy quân lục chiến Hoa Kỳ"
+    },
+    {
+        "id": "bf6ef3a3-2beb-4b42-9820-ff1cb19ab924",
+        "word": "to gun down",
+        "phonetic": "tə ɡʌn daʊn ",
+        "type": "verb",
+        "defineEn": "to seriously injure or kill a person by shooting them, particularly someone who is defenseless",
+        "defineVi": "làm bị thương nặng hoặc giết một người bằng cách bắn họ, đặc biệt là người không có khả năng tự vệ"
+    },
+    {
+        "id": "1f1e1993-1a53-489d-a972-db330ef66120",
+        "word": "sidearm",
+        "phonetic": "saɪdɑːɹm ",
+        "type": "noun",
+        "defineEn": "a weapon, such as a gun or knife, that is carried on the side of the body",
+        "defineVi": "một vũ khí, chẳng hạn như súng hoặc dao, được mang ở bên cạnh cơ thể"
+    }
+]

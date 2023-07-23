@@ -1,0 +1,190 @@
+[
+    {
+        "id": "1310e584-ddb4-4c83-bc7e-a4be2a26405a",
+        "word": "wife",
+        "phonetic": "waɪf ",
+        "type": "noun",
+        "defineEn": "the lady you are officially married to",
+        "defineVi": "người phụ nữ bạn đã chính thức kết hôn",
+        "hasImg": true
+    },
+    {
+        "id": "03d730f1-512e-4f1a-b20c-9878bb4d6287",
+        "word": "grandparent",
+        "phonetic": "ɡɹændpɛɹənt ",
+        "type": "noun",
+        "defineEn": "someone who is our mom or dad's parent",
+        "defineVi": "ai đó là cha mẹ của chúng tôi hoặc cha mẹ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "6e39614e-1ae8-4e15-a5f0-8f9c90ae0709",
+        "word": "grandmother",
+        "phonetic": "ɡɹændmʌðɚ ",
+        "type": "noun",
+        "defineEn": "the woman who is our mom or dad's mother",
+        "defineVi": "người phụ nữ là mẹ của chúng tôi hoặc mẹ của cha",
+        "hasImg": true
+    },
+    {
+        "id": "83c685a0-d130-4d42-b4e4-1bfe7f591d22",
+        "word": "grandfather",
+        "phonetic": "ɡɹændfɑːðɚ ",
+        "type": "noun",
+        "defineEn": "the man who is our mom or dad's father",
+        "defineVi": "người đàn ông là cha hoặc mẹ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "53eda644-a3a6-4b29-810e-9ff7e729f95a",
+        "word": "uncle",
+        "phonetic": "ʌŋkəl ",
+        "type": "noun",
+        "defineEn": "the brother of our father or mother or their sibling's husband",
+        "defineVi": "anh trai của cha hoặc mẹ của chúng tôi hoặc chồng của anh chị em ruột của họ",
+        "hasImg": true
+    },
+    {
+        "id": "3f493dac-8dfa-4613-ab27-119f4076c837",
+        "word": "aunt",
+        "phonetic": "ænt ",
+        "type": "noun",
+        "defineEn": "the sister of our mother or father or their sibling's wife",
+        "defineVi": "em gái của mẹ hoặc cha của chúng tôi hoặc vợ của anh chị em ruột của họ",
+        "hasImg": true
+    },
+    {
+        "id": "100acb47-b10b-4aba-8760-cbcaecee9baa",
+        "word": "cousin",
+        "phonetic": "kʌzən ",
+        "type": "noun",
+        "defineEn": "our aunt or uncle's child",
+        "defineVi": "con của dì hoặc chú của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "e2d01736-19aa-4ca9-ac1a-32ebac160eb6",
+        "word": "parent",
+        "phonetic": "pɛɹənt ",
+        "type": "noun",
+        "defineEn": "our mother or our father",
+        "defineVi": "mẹ của chúng tôi hoặc cha của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "7e2b1a2a-23d8-4bc3-90ca-9b2785a68daa",
+        "word": "mother",
+        "phonetic": "mʌðɚ ",
+        "type": "noun",
+        "defineEn": "a child's female parent",
+        "defineVi": "cha mẹ của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "36636b74-0804-47f5-a170-223c7682360d",
+        "word": "father",
+        "phonetic": "fɑːðɚ ",
+        "type": "noun",
+        "defineEn": "a child's male parent",
+        "defineVi": "cha mẹ nam của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "9e75952c-d33f-494e-9cfb-b11540648a25",
+        "word": "in-law",
+        "phonetic": "ɪnlɔː ",
+        "type": "noun",
+        "defineEn": "a person who is related to someone by marriage",
+        "defineVi": "một người có liên quan đến một người nào đó bằng hôn nhân"
+    },
+    {
+        "id": "e44deee4-e9ad-4c63-8afc-44012ee84243",
+        "word": "mother-in-law",
+        "phonetic": "mʌðɚɹɪnlɔː ",
+        "type": "noun",
+        "defineEn": "someone who is the mother of a person's wife or husband",
+        "defineVi": "ai đó là mẹ của vợ hoặc chồng của một người",
+        "hasImg": true
+    },
+    {
+        "id": "0e35abd7-41aa-4d36-8b24-03645ae13324",
+        "word": "father-in-law",
+        "phonetic": "fɑːðɚɹɪnlɔː ",
+        "type": "noun",
+        "defineEn": "someone who is the father of a person's wife or husband",
+        "defineVi": "ai đó là cha của vợ hoặc chồng của một người",
+        "hasImg": true
+    },
+    {
+        "id": "5881fe3e-93ce-49ff-b4d9-0a93ce8bb741",
+        "word": "sister-in-law",
+        "phonetic": "sɪstɚɹɪnlɔː ",
+        "type": "noun",
+        "defineEn": "the person who is the sister of one's spouse",
+        "defineVi": "người là em gái của vợ / chồng của một người",
+        "hasImg": true
+    },
+    {
+        "id": "0f27da34-4cd4-4096-9a94-517341a7e1cd",
+        "word": "brother",
+        "phonetic": "bɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "a man who shares a mother and father with us",
+        "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "64549e6d-2a05-45a5-9933-9b7e85e4e65d",
+        "word": "child",
+        "phonetic": "tʃaɪld ",
+        "type": "noun",
+        "defineEn": "a young person who has not reached puberty or adulthood yet",
+        "defineVi": "một người trẻ chưa đến tuổi dậy thì hoặc trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "f75cfb14-e0f6-45db-8d66-05494d706e46",
+        "word": "niece",
+        "phonetic": "niːs ",
+        "type": "noun",
+        "defineEn": "our sister or brother's daughter, or the daughter of our husband or wife's siblings",
+        "defineVi": "con gái của chị gái hoặc anh trai của chúng tôi, hoặc con gái của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "316f380e-0d2a-405f-a18e-5955aefec3ed",
+        "word": "nephew",
+        "phonetic": "nɛfjuː ",
+        "type": "noun",
+        "defineEn": "our sister or brother's son, or the son of our husband or wife's siblings",
+        "defineVi": "con trai của chị gái hoặc anh trai của chúng tôi, hoặc con trai của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "9f44c630-0f03-4d3e-87bb-33d8e6e941c1",
+        "word": "son",
+        "phonetic": "sʌn ",
+        "type": "noun",
+        "defineEn": "a person's male child",
+        "defineVi": "con trai của một người",
+        "hasImg": true
+    },
+    {
+        "id": "c522b419-fb30-4461-b309-54d4243ca580",
+        "word": "daughter",
+        "phonetic": "dɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "a person's female child",
+        "defineVi": "con gái của một người",
+        "hasImg": true
+    },
+    {
+        "id": "113ca6e7-3c75-4f20-96e9-c90e25945efc",
+        "word": "brother-in-law",
+        "phonetic": "bɹʌðɚɹɪnlɔː ",
+        "type": "noun",
+        "defineEn": "the person who is the brother of one's spouse",
+        "defineVi": "người là anh trai của vợ / chồng của một người",
+        "hasImg": true
+    }
+]

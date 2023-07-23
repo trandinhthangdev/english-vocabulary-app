@@ -1,0 +1,316 @@
+[
+    {
+        "id": "ff8a15c3-5ff3-4c54-85c5-c8b9b3768767",
+        "word": "alma mater",
+        "phonetic": "ɔlmə meɪɾɚ ",
+        "type": "noun",
+        "defineEn": "the university, college, or school that one used to study at",
+        "defineVi": "trường đại học, cao đẳng hoặc trường học mà một người từng học"
+    },
+    {
+        "id": "f6daebf4-4711-41c0-8bed-5003ea7bbbac",
+        "word": "alumna",
+        "phonetic": "ɐlʌmnə ",
+        "type": "noun",
+        "defineEn": "a former female student or pupil of a school, university, or college",
+        "defineVi": "một cựu học sinh nữ hoặc học sinh của một trường học, trường đại học hoặc cao đẳng",
+        "hasImg": true
+    },
+    {
+        "id": "78fc9cef-753b-4ea5-9f36-b2dd248edcdc",
+        "word": "alumnus",
+        "phonetic": "ɐlʌmnəs ",
+        "type": "noun",
+        "defineEn": "a person, particularly a male one, who is a former student of a college, university, or school",
+        "defineVi": "một người, đặc biệt là nam giới, là cựu sinh viên của một trường cao đẳng, đại học hoặc trường học"
+    },
+    {
+        "id": "ee5f5e3e-d5e7-4f15-a0bc-e58663e3516e",
+        "word": "colloquium",
+        "phonetic": "kəloʊkwiəm ",
+        "type": "noun",
+        "defineEn": "a formal and academic conference or seminar",
+        "defineVi": "một hội nghị hoặc hội thảo chính thức và học thuật"
+    },
+    {
+        "id": "c4af42c3-6d93-4300-ac9d-c43765b7a212",
+        "word": "collegiate",
+        "phonetic": "kəliːdʒiət ",
+        "type": "adjective",
+        "defineEn": "of or relating to a college or its students",
+        "defineVi": "của hoặc liên quan đến một trường đại học hoặc sinh viên của nó"
+    },
+    {
+        "id": "0ca33356-bb6f-4025-9d92-4bb93d7e08ab",
+        "word": "commencement",
+        "phonetic": "kəmɛnsmənt ",
+        "type": "noun",
+        "defineEn": "an academic exercise in which diplomas are conferred",
+        "defineVi": "một bài tập học thuật trong đó văn bằng được trao"
+    },
+    {
+        "id": "89afe2ce-a647-4f6e-8e07-059cb8336b3b",
+        "word": "to confer",
+        "phonetic": "tə kənfɜː ",
+        "type": "verb",
+        "defineEn": "to give an official degree, title, right, etc. to someone",
+        "defineVi": "để cung cấp một mức độ chính thức, tiêu đề, quyền, vv cho một ai đó"
+    },
+    {
+        "id": "6130ffa2-e7e5-4a51-84d5-7fc9769e42a8",
+        "word": "convocation",
+        "phonetic": "kɑːnvəkeɪʃən ",
+        "type": "noun",
+        "defineEn": "a group gathered in response to a summons",
+        "defineVi": "một nhóm tập hợp để đáp lại một lệnh triệu tập"
+    },
+    {
+        "id": "2cdb3f07-6f63-460d-8eaf-3fbdbd03c989",
+        "word": "cum laude",
+        "phonetic": "kʊmlaʊdi ",
+        "type": "adverb",
+        "defineEn": "(in the US) with the third highest level of distinction achievable by a student",
+        "defineVi": "(ở Hoa Kỳ) với mức độ xuất sắc cao thứ ba mà một học sinh có thể đạt được"
+    },
+    {
+        "id": "e578a333-1eec-4f1c-a664-cd1dc5a30c6c",
+        "word": "curricular",
+        "phonetic": "kɜːɹɪkjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "relating to the topics that a course of study in a school or college consists of",
+        "defineVi": "liên quan đến các chủ đề mà một khóa học trong một trường học hoặc đại học bao gồm"
+    },
+    {
+        "id": "50b15623-91fd-4499-943b-94114f01789a",
+        "word": "magna cum laude",
+        "phonetic": "mæɡnə kʊmlaʊdi ",
+        "type": "adverb",
+        "defineEn": "(in the US) with the second highest level of distinction achievable by a student",
+        "defineVi": "(ở Hoa Kỳ) với mức độ xuất sắc cao thứ hai mà một học sinh có thể đạt được"
+    },
+    {
+        "id": "1a91224e-2175-44ad-bb6c-9671670818f0",
+        "word": "summa cum laude",
+        "phonetic": "sʌmə kʊmlaʊdi ",
+        "type": "adverb",
+        "defineEn": "(in the US) with the highest level of distinction achievable by a student",
+        "defineVi": "(ở Hoa Kỳ) với mức độ xuất sắc cao nhất mà một học sinh có thể đạt được"
+    },
+    {
+        "id": "f064ed4f-c9de-469a-9022-2c03f2932ad3",
+        "word": "demerit",
+        "phonetic": "dɛmɚɹɪt ",
+        "type": "noun",
+        "defineEn": "a mark against a person for misconduct or failure; usually given in school or armed forces",
+        "defineVi": "đánh dấu một người vì hành vi sai trái hoặc thất bại; thường được đưa ra trong trường học hoặc lực lượng vũ trang"
+    },
+    {
+        "id": "46b11b14-cda6-42e9-8f29-6b44c29532cc",
+        "word": "disciplinary",
+        "phonetic": "dɪsɪplɪnɛɹi ",
+        "type": "adjective",
+        "defineEn": "relating to a specific field of academic study",
+        "defineVi": "liên quan đến một lĩnh vực nghiên cứu học thuật cụ thể"
+    },
+    {
+        "id": "da3e49af-006e-4dc1-83b5-56538c943fa6",
+        "word": "dissertation",
+        "phonetic": "dɪsɚteɪʃən ",
+        "type": "noun",
+        "defineEn": "a long piece of writing on a particular subject that a university student presents in order to get an advanced degree",
+        "defineVi": "một bài viết dài về một chủ đề cụ thể mà một sinh viên đại học trình bày để lấy bằng cấp cao"
+    },
+    {
+        "id": "9a2ea94f-2eda-496c-be78-a24f322f270a",
+        "word": "elective",
+        "phonetic": "ᵻlɛktɪv ",
+        "type": "adjective",
+        "defineEn": "not compulsory",
+        "defineVi": "không bắt buộc"
+    },
+    {
+        "id": "27a62868-ce6a-4783-9a21-c1cf05af9af7",
+        "word": "expulsion",
+        "phonetic": "ɛkspʌlʃən ",
+        "type": "noun",
+        "defineEn": "the act of expelling or forcing someone to leave a particular place, especially a school",
+        "defineVi": "hành động trục xuất hoặc buộc ai đó rời khỏi một địa điểm cụ thể, đặc biệt là trường học"
+    },
+    {
+        "id": "f513e39f-1d50-4ae7-bb8d-16a760a10e20",
+        "word": "entrant",
+        "phonetic": "ɛntɹənt ",
+        "type": "noun",
+        "defineEn": "any individual or entity that is newly participating in a particular activity or competition",
+        "defineVi": "bất kỳ cá nhân hoặc tổ chức nào mới tham gia vào một hoạt động hoặc cuộc thi cụ thể"
+    },
+    {
+        "id": "27a58b72-5d5d-40c4-81f2-de153259eb0c",
+        "word": "endowment",
+        "phonetic": "ɛndaʊmənt ",
+        "type": "noun",
+        "defineEn": "the capital that provides income for an institution",
+        "defineVi": "vốn cung cấp thu nhập cho một tổ chức"
+    },
+    {
+        "id": "3b801491-d985-4068-be78-ae0613e27332",
+        "word": "GED",
+        "phonetic": "dʒɛd ",
+        "type": "noun",
+        "defineEn": "an official certificate in the US that people who did not complete high school can obtain by taking some classes and successfully passing a test, which is the equivalent of the actual high school diploma",
+        "defineVi": "chứng chỉ chính thức ở Hoa Kỳ mà những người chưa hoàn thành bậc trung học có thể nhận được bằng cách tham gia một số lớp học và vượt qua bài kiểm tra thành công, tương đương với bằng tốt nghiệp trung học thực tế"
+    },
+    {
+        "id": "589fd8eb-286d-4157-8bcd-71633144f2e7",
+        "word": "grammar school",
+        "phonetic": "ɡɹæmɚ skuːl ",
+        "type": "noun",
+        "defineEn": "a school for young children; usually the first 6 or 8 grades",
+        "defineVi": "một trường học cho trẻ nhỏ; thường là 6 hoặc 8 lớp đầu tiên"
+    },
+    {
+        "id": "ad9c1a1a-803d-40ec-bdd4-fedf9d7e5b55",
+        "word": "headmaster",
+        "phonetic": "hɛdmæstɚ ",
+        "type": "noun",
+        "defineEn": "a person, typically a man, who is in charge of a school",
+        "defineVi": "một người, điển hình là một người đàn ông, phụ trách một trường học"
+    },
+    {
+        "id": "c1c2daac-ebb2-4209-bd77-b3483db7491c",
+        "word": "interdisciplinary",
+        "phonetic": "ɪntɚdɪsɪplɪnɛɹi ",
+        "type": "adjective",
+        "defineEn": "drawing from or characterized by participation of two or more fields of study",
+        "defineVi": "rút ra từ hoặc đặc trưng bởi sự tham gia của hai hoặc nhiều lĩnh vực nghiên cứu"
+    },
+    {
+        "id": "d41aa1df-aca3-4ee8-8580-1928cc99fb01",
+        "word": "to invigilate",
+        "phonetic": "tʊ ɪnvɪdʒᵻleɪt ",
+        "type": "verb",
+        "defineEn": "watch over (students taking an exam, to prevent cheating)",
+        "defineVi": "giám sát (học sinh làm bài kiểm tra, để ngăn chặn gian lận)"
+    },
+    {
+        "id": "643c8554-56f2-4cba-b3f6-731b56cdf2a9",
+        "word": "ivy league",
+        "phonetic": "aɪvi liːɡ ",
+        "type": "noun",
+        "defineEn": "a league of universities and colleges in the northeastern United States that have a reputation for scholastic achievement and social prestige",
+        "defineVi": "một liên minh các trường đại học và cao đẳng ở đông bắc Hoa Kỳ có danh tiếng về thành tích học tập và uy tín xã hội"
+    },
+    {
+        "id": "13cf495a-3049-4de4-a986-ced86e74ef66",
+        "word": "literacy",
+        "phonetic": "lɪɾɚɹəsi ",
+        "type": "noun",
+        "defineEn": "the ability to read and write; one's ability to read and write",
+        "defineVi": "khả năng đọc và viết; khả năng của một người để đọc và viết"
+    },
+    {
+        "id": "253954c1-2e9d-4669-9955-c5e95aada943",
+        "word": "magnet school",
+        "phonetic": "mæɡnɪt skuːl ",
+        "type": "noun",
+        "defineEn": "*** (in the US) a school in a large city that offers extra courses in some subjects in order to attract students from other areas of the city",
+        "defineVi": "*** (ở Mỹ) một trường học ở một thành phố lớn cung cấp các khóa học bổ sung trong một số môn học để thu hút học sinh từ các khu vực khác của thành phố"
+    },
+    {
+        "id": "700e0f4b-d832-4f12-bdc3-6bfb9af03ea7",
+        "word": "to matriculate",
+        "phonetic": "tə mætɹɪkjʊleɪt ",
+        "type": "verb",
+        "defineEn": "enroll as a student",
+        "defineVi": "đăng ký làm sinh viên"
+    },
+    {
+        "id": "b62ca143-0b80-4609-88e4-094a718e1b50",
+        "word": "prospectus",
+        "phonetic": "pɹəspɛktəs ",
+        "type": "noun",
+        "defineEn": "a catalog listing the courses offered by a college or university",
+        "defineVi": "một danh mục liệt kê các khóa học được cung cấp bởi một trường cao đẳng hoặc đại học"
+    },
+    {
+        "id": "79b1b7a8-a860-4d84-90d9-3a6f15308456",
+        "word": "scholastic",
+        "phonetic": "skəlæstɪk ",
+        "type": "adjective",
+        "defineEn": "of or relating to schools",
+        "defineVi": "của hoặc liên quan đến các trường học"
+    },
+    {
+        "id": "907aecfb-e53a-43b8-bc79-aa4b83dd33b0",
+        "word": "sophomore",
+        "phonetic": "sɑːfəmoːɹ ",
+        "type": "noun",
+        "defineEn": "a student at a high school or university in their second year of education",
+        "defineVi": "một học sinh tại một trường trung học hoặc đại học trong năm thứ hai của giáo dục",
+        "hasImg": true
+    },
+    {
+        "id": "cc9380cd-9ac1-44eb-b83a-f0c5334e1dac",
+        "word": "sorority",
+        "phonetic": "soːɹɔːɹᵻɾi ",
+        "type": "noun",
+        "defineEn": "a social club for female students in a university or college, especially in the US and Canada",
+        "defineVi": "một câu lạc bộ xã hội dành cho sinh viên nữ trong một trường đại học hoặc cao đẳng, đặc biệt là ở Hoa Kỳ và Canada"
+    },
+    {
+        "id": "dcdd2a0f-c88d-47a4-ab0b-bba254b51866",
+        "word": "to suspend",
+        "phonetic": "tə səspɛnd ",
+        "type": "verb",
+        "defineEn": "to temporarily prevent someone from going to school as a punishment because they did something wrong",
+        "defineVi": "để tạm thời ngăn không cho ai đó đến trường như một hình phạt vì họ đã làm điều gì đó sai trái"
+    },
+    {
+        "id": "db0b5cba-0caf-4077-8f8a-1951973b3256",
+        "word": "recess",
+        "phonetic": "ɹiːsɛs ",
+        "type": "noun",
+        "defineEn": "*** a period of time between lessons at school",
+        "defineVi": "*** một khoảng thời gian giữa các bài học ở trường"
+    },
+    {
+        "id": "6512837f-2441-4cb7-aa03-a7535d891bfc",
+        "word": "tertiary college",
+        "phonetic": "tɜːʃjɚɹi kɑːlɪdʒ ",
+        "type": "noun",
+        "defineEn": "*** ‌(in Britain) a college that provides education for people aged 16 and older, but that is not a university",
+        "defineVi": "*** ‌(ở Anh) trường cao đẳng cung cấp giáo dục cho người từ 16 tuổi trở lên, nhưng đó không phải là trường đại học"
+    },
+    {
+        "id": "b416954f-1876-4354-bfc1-d7627e4d2d3c",
+        "word": "vocational",
+        "phonetic": "voʊkeɪʃənəl ",
+        "type": "adjective",
+        "defineEn": "involving the necessary knowledge or skills for a certain occupation",
+        "defineVi": "liên quan đến kiến thức hoặc kỹ năng cần thiết cho một nghề nghiệp nhất định"
+    },
+    {
+        "id": "66cc5053-1553-48eb-a443-47f373beeb34",
+        "word": "tenure",
+        "phonetic": "tɛnjɚ ",
+        "type": "noun",
+        "defineEn": "*** guaranteed permanent employment, especially as a teacher or professor, after a probationary period",
+        "defineVi": "*** đảm bảo việc làm lâu dài, đặc biệt là giáo viên hoặc giáo sư, sau thời gian thử việc"
+    },
+    {
+        "id": "643c2785-db46-40b4-91f9-468cf66873dc",
+        "word": "syllabus",
+        "phonetic": "sɪlæbəs ",
+        "type": "noun",
+        "defineEn": "books and subjects that students should study in a school or college course",
+        "defineVi": "sách và môn học mà học sinh nên học trong một khóa học ở trường hoặc đại học"
+    },
+    {
+        "id": "791ba245-af11-41ad-8792-7901179a9e36",
+        "word": "studious",
+        "phonetic": "stuːdiəs ",
+        "type": "adjective",
+        "defineEn": "characterized by diligent study and fondness for reading",
+        "defineVi": "đặc trưng bởi sự học tập siêng năng và thích đọc sách"
+    }
+]

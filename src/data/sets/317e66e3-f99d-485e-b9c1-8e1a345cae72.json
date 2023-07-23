@@ -1,0 +1,289 @@
+[
+    {
+        "id": "875bd5b0-9b13-457c-9ce1-6cc0ff562150",
+        "word": "cafe",
+        "phonetic": "kæfeɪ ",
+        "type": "noun",
+        "defineEn": "a small restaurant that sells drinks and meals",
+        "defineVi": "một nhà hàng nhỏ bán đồ uống và bữa ăn",
+        "hasImg": true
+    },
+    {
+        "id": "1d51fc91-d327-45c2-9526-7712aebc8725",
+        "word": "gallery",
+        "phonetic": "ɡælɚɹi ",
+        "type": "noun",
+        "defineEn": "a place in which works of art are shown or sold to the public",
+        "defineVi": "một nơi mà các tác phẩm nghệ thuật được hiển thị hoặc bán cho công chúng",
+        "hasImg": true
+    },
+    {
+        "id": "5878a3ac-a58a-4e1f-a5e4-7f2284bafa34",
+        "word": "nightclub",
+        "phonetic": "naɪtklʌb ",
+        "type": "noun",
+        "defineEn": "a place that is open during nighttime in which people can dance, eat, and drink",
+        "defineVi": "một nơi mở cửa vào ban đêm, nơi mọi người có thể khiêu vũ, ăn và uống",
+        "hasImg": true
+    },
+    {
+        "id": "7b6b8b0f-ec67-455e-849f-7eff5ada7289",
+        "word": "fire station",
+        "phonetic": "faɪɚ steɪʃən ",
+        "type": "noun",
+        "defineEn": "a building that houses firefighters as well as their equipment",
+        "defineVi": "một tòa nhà chứa nhân viên cứu hỏa cũng như thiết bị của họ",
+        "hasImg": true
+    },
+    {
+        "id": "6abe663f-8af7-4a11-934d-73401fc16b73",
+        "word": "gym",
+        "phonetic": "dʒɪm ",
+        "type": "noun",
+        "defineEn": "a place with special equipment that people go to exercise or play sports",
+        "defineVi": "một nơi có thiết bị đặc biệt mà mọi người đi tập thể dục hoặc chơi thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "056a0c39-dca7-4218-9ff0-f5b04923e410",
+        "word": "playground",
+        "phonetic": "pleɪɡɹaʊnd ",
+        "type": "noun",
+        "defineEn": "a playing area built outdoors for children, particularly inside parks or schools",
+        "defineVi": "một khu vui chơi được xây dựng ngoài trời cho trẻ em, đặc biệt là bên trong công viên hoặc trường học",
+        "hasImg": true
+    },
+    {
+        "id": "435b7e6d-0bcd-4f9b-bdf7-fbe2edc9f2f3",
+        "word": "barbershop",
+        "phonetic": "bɑːɹbɚʃɑːp ",
+        "type": "noun",
+        "defineEn": "a shop where a barber works and men can get haircuts",
+        "defineVi": "một cửa hàng nơi thợ cắt tóc làm việc và đàn ông có thể cắt tóc",
+        "hasImg": true
+    },
+    {
+        "id": "a90d62ea-4d8b-4a75-a320-7d0c6ca454c5",
+        "word": "urban",
+        "phonetic": "ɜːbən ",
+        "type": "adjective",
+        "defineEn": "relating to, situated in, or characteristic of a city or town",
+        "defineVi": "liên quan đến, tọa lạc tại, hoặc đặc trưng của một thành phố hoặc thị trấn",
+        "hasImg": true
+    },
+    {
+        "id": "92851fbf-45d3-4212-af93-b9c50ecbd4fc",
+        "word": "suburb",
+        "phonetic": "sʌbɜːb ",
+        "type": "noun",
+        "defineEn": "a residential area outside a city",
+        "defineVi": "một khu dân cư bên ngoài một thành phố",
+        "hasImg": true
+    },
+    {
+        "id": "722c1a1e-5398-4333-9106-d00a3d783fb5",
+        "word": "outskirts",
+        "phonetic": "aʊtskɜːts ",
+        "type": "noun",
+        "defineEn": "the outer areas or parts of a city or town",
+        "defineVi": "các khu vực bên ngoài hoặc các bộ phận của một thành phố hoặc thị trấn",
+        "hasImg": true
+    },
+    {
+        "id": "ac7aa48c-5b5a-4bb8-bef5-2216ae5c979d",
+        "word": "uptown",
+        "phonetic": "ʌptaʊn ",
+        "type": "noun",
+        "defineEn": "a town or city's upper area",
+        "defineVi": "một thị trấn hoặc khu vực trên của thành phố",
+        "hasImg": true
+    },
+    {
+        "id": "731087c2-ee3d-4cb8-bd96-d719dd727aaa",
+        "word": "inner city",
+        "phonetic": "ɪnɚ sɪɾi ",
+        "type": "noun",
+        "defineEn": "an area close to the center of a city that usually suffers from economic problems",
+        "defineVi": "một khu vực gần trung tâm của một thành phố thường bị các vấn đề kinh tế",
+        "hasImg": true
+    },
+    {
+        "id": "7a006fea-1104-4d64-833f-ce91d68ed83d",
+        "word": "community",
+        "phonetic": "kəmjuːnᵻɾi ",
+        "type": "noun",
+        "defineEn": "a group of people who live in the same area",
+        "defineVi": "một nhóm người sống trong cùng một khu vực",
+        "hasImg": true
+    },
+    {
+        "id": "043a1ea9-0e5c-42a4-8b8b-cbbb1f55ef4d",
+        "word": "commuter",
+        "phonetic": "kəmjuːɾɚ ",
+        "type": "noun",
+        "defineEn": "a person who regularly travels to city for work",
+        "defineVi": "một người thường xuyên đến thành phố để làm việc",
+        "hasImg": true
+    },
+    {
+        "id": "a0f2b067-92c7-4d5c-8386-91f164c18e0f",
+        "word": "population",
+        "phonetic": "pɑːpjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the number of people who live in a particular city or country",
+        "defineVi": "số người sống ở một thành phố hoặc quốc gia cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "83d7ca9e-6347-4628-b01c-bffbf0ceb3b4",
+        "word": "housing",
+        "phonetic": "haʊzɪŋ ",
+        "type": "noun",
+        "defineEn": "buildings in which people live, including their condition, prices, or types",
+        "defineVi": "các tòa nhà nơi mọi người sinh sống, bao gồm tình trạng, giá cả hoặc loại của họ",
+        "hasImg": true
+    },
+    {
+        "id": "f7372c7a-121f-4e5e-b8ae-5c40b988ede5",
+        "word": "parking lot",
+        "phonetic": "pɑːɹkɪŋ lɑːt ",
+        "type": "noun",
+        "defineEn": "an area in which people leave their vehicles",
+        "defineVi": "một khu vực mà mọi người rời khỏi phương tiện của họ",
+        "hasImg": true
+    },
+    {
+        "id": "e436c7e5-b2a7-4b2a-9eb2-c53b107d9791",
+        "word": "road sign",
+        "phonetic": "ɹoʊd saɪn ",
+        "type": "noun",
+        "defineEn": "a sign that shows warnings or information to drivers",
+        "defineVi": "một dấu hiệu hiển thị cảnh báo hoặc thông tin cho người lái xe",
+        "hasImg": true
+    },
+    {
+        "id": "5e664193-e353-4087-bd8f-478aa1b0dcc6",
+        "word": "pedestrian",
+        "phonetic": "pədɛstɹiən ",
+        "type": "noun",
+        "defineEn": "a person who is on foot and not in or on a vehicle",
+        "defineVi": "một người đang đi bộ và không trong hoặc trên một chiếc xe",
+        "hasImg": true
+    },
+    {
+        "id": "60faa20d-7736-444e-baa3-12d6fddeca5e",
+        "word": "street light",
+        "phonetic": "stɹiːt laɪt ",
+        "type": "noun",
+        "defineEn": "a tall post that lights the street",
+        "defineVi": "một cột cao thắp sáng đường phố",
+        "hasImg": true
+    },
+    {
+        "id": "a7f8a0a4-de56-4b8a-8ec6-6c6ce9a748d3",
+        "word": "lane",
+        "phonetic": "leɪn ",
+        "type": "noun",
+        "defineEn": "a narrow path in the countryside",
+        "defineVi": "một con đường hẹp ở nông thôn",
+        "hasImg": true
+    },
+    {
+        "id": "33e63d18-df5d-4ec4-93d1-635afa15cfdc",
+        "word": "overpass",
+        "phonetic": "oʊvɚpæs ",
+        "type": "noun",
+        "defineEn": "a type of bridge that is built over a road to provide a different passage",
+        "defineVi": "một loại cầu được xây dựng trên một con đường để cung cấp một lối đi khác",
+        "hasImg": true
+    },
+    {
+        "id": "5c998570-b617-49e5-9c4d-93af4509c20d",
+        "word": "crossroad",
+        "phonetic": "kɹɔsɹoʊd ",
+        "type": "noun",
+        "defineEn": "the place where a road is crossed by another",
+        "defineVi": "nơi mà một con đường bị cắt ngang bởi một con đường khác",
+        "hasImg": true
+    },
+    {
+        "id": "9f219547-1846-4783-8e79-7aa106640caf",
+        "word": "farmland",
+        "phonetic": "fɑːɹmlənd ",
+        "type": "noun",
+        "defineEn": "a land that is used for farming, especially in rural areas",
+        "defineVi": "một vùng đất được sử dụng cho nông nghiệp, đặc biệt là ở khu vực nông thôn",
+        "hasImg": true
+    },
+    {
+        "id": "55bbb0bd-19b6-40dc-829c-c20a05e33e6b",
+        "word": "grassland",
+        "phonetic": "ɡɹæslənd ",
+        "type": "noun",
+        "defineEn": "a large, open, and grass-covered area",
+        "defineVi": "một khu vực rộng lớn, cởi mở và phủ đầy cỏ",
+        "hasImg": true
+    },
+    {
+        "id": "d64c11c6-482c-4e19-9a8c-09f39f1a7a17",
+        "word": "county",
+        "phonetic": "kaʊnti ",
+        "type": "noun",
+        "defineEn": "(in the US) one of the areas into which a state is divided and that has a local government of its own",
+        "defineVi": "(ở Hoa Kỳ) một trong những khu vực mà một tiểu bang được chia thành và có chính quyền địa phương của riêng mình",
+        "hasImg": true
+    },
+    {
+        "id": "e06a80ca-ece6-41f8-a21a-05f291078114",
+        "word": "orchard",
+        "phonetic": "ɔːɹtʃɚd ",
+        "type": "noun",
+        "defineEn": "an area of land that is usually enclosed and is used to grow fruit trees in",
+        "defineVi": "một diện tích đất thường được bao quanh và được sử dụng để trồng cây ăn quả trong",
+        "hasImg": true
+    },
+    {
+        "id": "6459b20c-fbb5-4427-a18e-3804c07c9526",
+        "word": "well",
+        "phonetic": "wɛl ",
+        "type": "noun",
+        "defineEn": "a deep hole dug in the ground to get access to the resources beneath, such as water, oil, etc.",
+        "defineVi": "một hố sâu được đào trong lòng đất để tiếp cận các nguồn tài nguyên bên dưới, chẳng hạn như nước, dầu, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "37a60140-ac81-4219-8594-da8b0afd0c04",
+        "word": "pizzeria",
+        "phonetic": "piːtsɚɹiə ",
+        "type": "noun",
+        "defineEn": "a restaurant where mainly pizza is served",
+        "defineVi": "một nhà hàng chủ yếu phục vụ bánh pizza",
+        "hasImg": true
+    },
+    {
+        "id": "cef2ddff-1869-40d4-a214-f04c051b58b5",
+        "word": "dam",
+        "phonetic": "dæm ",
+        "type": "noun",
+        "defineEn": "a massive wall built to keep water from entering an area or to contain and use water as a power source to produce electricity",
+        "defineVi": "một bức tường lớn được xây dựng để ngăn nước xâm nhập vào một khu vực hoặc chứa và sử dụng nước làm nguồn năng lượng để sản xuất điện",
+        "hasImg": true
+    },
+    {
+        "id": "32788827-af23-47c7-b6ad-0c3c722d9141",
+        "word": "sidewalk",
+        "phonetic": "saɪdwɔːk ",
+        "type": "noun",
+        "defineEn": "a hard surface or paved path at the side of a street for people to walk on",
+        "defineVi": "một bề mặt cứng hoặc con đường trải nhựa ở bên đường để mọi người đi bộ",
+        "hasImg": true
+    },
+    {
+        "id": "579a7ddd-3ce9-4661-873b-06eded73cabc",
+        "word": "homeland",
+        "phonetic": "hoʊmlənd ",
+        "type": "noun",
+        "defineEn": "the place where someone or a group of people come from and feel a strong connection to",
+        "defineVi": "nơi mà ai đó hoặc một nhóm người đến và cảm thấy có mối liên hệ chặt chẽ với"
+    }
+]

@@ -1,0 +1,423 @@
+[
+    {
+        "id": "9feb6d1c-24af-4ed4-84e9-ecd95a586f60",
+        "word": "coffee",
+        "phonetic": "kɔfi ",
+        "type": "noun",
+        "defineEn": "a drink that is made from mixing water with some crushed seeds, called coffee beans, usually hot and brown in color",
+        "defineVi": "một thức uống được làm từ nước trộn với một số hạt nghiền nhỏ, được gọi là hạt cà phê, thường nóng và có màu nâu",
+        "hasImg": true
+    },
+    {
+        "id": "90dbbe2a-8d6a-43be-bb21-e03732719108",
+        "word": "espresso",
+        "phonetic": "ɛspɹɛsoʊ ",
+        "type": "noun",
+        "defineEn": "a kind of strong black drink made by forcing hot water or steam through coffee",
+        "defineVi": "một loại đồ uống đen mạnh được làm bằng cách ép nước nóng hoặc hơi nước qua cà phê",
+        "hasImg": true
+    },
+    {
+        "id": "3066faf8-ffb9-41ee-9a98-b7f1f9d44af9",
+        "word": "cappuccino",
+        "phonetic": "kæpuːtʃiːnoʊ ",
+        "type": "noun",
+        "defineEn": "a type of coffee made with espresso, hot milk, cinnamon, and cream",
+        "defineVi": "một loại cà phê pha với cà phê espresso, sữa nóng, quế và kem",
+        "hasImg": true
+    },
+    {
+        "id": "fbda489a-ccb1-401a-8ae9-ba09ddeebdcb",
+        "word": "black tea",
+        "phonetic": "blæk tiː ",
+        "type": "noun",
+        "defineEn": "a type of tea made from the leaves of the Camellia sinensis plant that has been fully oxidized",
+        "defineVi": "một loại trà được làm từ lá của cây Camellia sinensis đã được oxy hóa hoàn toàn"
+    },
+    {
+        "id": "65a48a54-f2e1-41bf-9117-e7de219380ff",
+        "word": "matcha",
+        "phonetic": "mætʃə ",
+        "type": "noun",
+        "defineEn": "a type of powdered green tea that is traditionally used in Japanese tea ceremonies",
+        "defineVi": "một loại trà xanh dạng bột được sử dụng theo truyền thống trong các nghi lễ trà đạo của Nhật Bản"
+    },
+    {
+        "id": "b748e883-20ed-4aa4-bda5-633846165ef4",
+        "word": "green tea",
+        "phonetic": "ɡɹiːn tiː ",
+        "type": "noun",
+        "defineEn": "a type of tea made from the leaves and buds of the tea plant, and it has a green color and a slightly bitter taste",
+        "defineVi": "một loại trà được làm từ lá và búp của cây trà, có màu xanh lục, vị hơi đắng",
+        "hasImg": true
+    },
+    {
+        "id": "fe5c71e3-3869-470f-bb44-e5ec38795354",
+        "word": "cortado",
+        "phonetic": "kɔːɹtɑːdoʊ ",
+        "type": "noun",
+        "defineEn": "a type of coffee beverage that consists of equal parts espresso and steamed milk",
+        "defineVi": "một loại đồ uống cà phê bao gồm các phần bằng nhau cà phê espresso và sữa hấp"
+    },
+    {
+        "id": "89ba765f-baf4-41bf-bb02-569098e17370",
+        "word": "Earl Grey",
+        "phonetic": "ɜːl ɡɹeɪ ",
+        "type": "noun",
+        "defineEn": "a type of black tea that is flavored with oil extracted from the rind of bergamot oranges",
+        "defineVi": "một loại trà đen có hương vị với dầu chiết xuất từ vỏ cam bergamot"
+    },
+    {
+        "id": "533b413f-20d8-4ec3-b15b-dc3cb84abc49",
+        "word": "ristretto",
+        "phonetic": "ɹɪstɹɛɾoʊ ",
+        "type": "noun",
+        "defineEn": "a short and concentrated shot of espresso that is brewed with a smaller amount of water",
+        "defineVi": "một tách espresso ngắn và đậm đặc được pha với một lượng nước nhỏ hơn"
+    },
+    {
+        "id": "9f57aaff-2e7d-48c0-99ce-0c40e941aa0e",
+        "word": "oolong",
+        "phonetic": "uːlɔŋ ",
+        "type": "noun",
+        "defineEn": "a type of tea made from the leaves of the Camellia sinensis plant that has been partially oxidized",
+        "defineVi": "một loại trà được làm từ lá của cây Camellia sinensis đã bị oxy hóa một phần"
+    },
+    {
+        "id": "ccacd187-51c5-4365-9b75-9aa7d5f27457",
+        "word": "Turkish coffee",
+        "phonetic": "tɜːkɪʃ kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee drink made from finely ground coffee beans and water",
+        "defineVi": "một loại thức uống cà phê được làm từ hạt cà phê xay mịn và nước"
+    },
+    {
+        "id": "1a77569a-c6cf-4116-bce6-37ddcc8fff70",
+        "word": "mint tea",
+        "phonetic": "mɪnt tiː ",
+        "type": "noun",
+        "defineEn": "a type of tea made from fresh or dried mint leaves steeped in hot water",
+        "defineVi": "một loại trà làm từ lá bạc hà tươi hoặc khô ngâm trong nước nóng"
+    },
+    {
+        "id": "a31f7cfb-e0b5-4c1d-bc8c-db7ac0a506be",
+        "word": "flat white",
+        "phonetic": "flæt waɪt ",
+        "type": "noun",
+        "defineEn": "a coffee-based beverage consisting of a shot of espresso with steamed milk and a thin layer of microfoam on top",
+        "defineVi": "một loại đồ uống làm từ cà phê bao gồm một tách cà phê espresso với sữa hấp và một lớp bọt xốp mỏng ở trên"
+    },
+    {
+        "id": "703a1380-2574-497a-9460-ea167452b453",
+        "word": "Caffe Americano",
+        "phonetic": "kæf ɐmɛɹɪkɑːnoʊ ",
+        "type": "noun",
+        "defineEn": "a coffee-based beverage made by diluting a shot of espresso with hot water",
+        "defineVi": "một loại đồ uống làm từ cà phê được làm bằng cách pha loãng một tách cà phê espresso với nước nóng"
+    },
+    {
+        "id": "c9fd1420-1d76-4796-8b9b-fe7cca1bf6a1",
+        "word": "rooibos",
+        "phonetic": "ɹuːiːboʊz ",
+        "type": "noun",
+        "defineEn": "a type of herbal tea made from the leaves of the Aspalathus linearis plant",
+        "defineVi": "một loại trà thảo dược làm từ lá của cây Aspalathus linearis"
+    },
+    {
+        "id": "3f18d9ec-92e2-4a81-bb8d-84114d1e0623",
+        "word": "white tea",
+        "phonetic": "waɪt tiː ",
+        "type": "noun",
+        "defineEn": "a type of tea made from the youngest leaves and buds of the tea plant, which are minimally processed to preserve their delicate flavors and natural appearance",
+        "defineVi": "một loại trà được làm từ những lá và chồi non nhất của cây trà, được chế biến ở mức tối thiểu để giữ được hương vị tinh tế và vẻ ngoài tự nhiên của chúng"
+    },
+    {
+        "id": "7115f564-f568-42f4-b4b3-5322e66c4433",
+        "word": "salep",
+        "phonetic": "seɪləp ",
+        "type": "noun",
+        "defineEn": "a traditional Middle Eastern beverage made from a starchy powder extracted from the roots of certain species of orchids",
+        "defineVi": "một loại đồ uống truyền thống của Trung Đông được làm từ một loại bột tinh bột được chiết xuất từ rễ của một số loài hoa lan"
+    },
+    {
+        "id": "2a966b04-66b7-4d97-a06a-73d3138ff42d",
+        "word": "mate",
+        "phonetic": "meɪt ",
+        "type": "noun",
+        "defineEn": "a traditional South American beverage made from steeping dried leaves of the yerba maté plant in hot water",
+        "defineVi": "một loại đồ uống truyền thống của Nam Mỹ được làm từ lá khô của cây yerba maté ngâm trong nước nóng"
+    },
+    {
+        "id": "8a90faab-1ef2-4938-9652-7c83dcff84b1",
+        "word": "macchiato",
+        "phonetic": "mækɪɑːɾoʊ ",
+        "type": "noun",
+        "defineEn": "a drink consisting of espresso coffee and a small amount of milk on top",
+        "defineVi": "một thức uống bao gồm cà phê espresso và một lượng nhỏ sữa trên đầu",
+        "hasImg": true
+    },
+    {
+        "id": "8ec06a4e-8af0-49cc-9de4-82dcdca25b35",
+        "word": "long black",
+        "phonetic": "lɔŋ blæk ",
+        "type": "noun",
+        "defineEn": "a coffee beverage made by pouring a double shot of espresso over hot water, creating a strong, black coffee with a layer of crema on top",
+        "defineVi": "một loại đồ uống cà phê được pha bằng cách rót một tách cà phê espresso kép vào nước nóng, tạo ra một loại cà phê đen, đậm đặc với một lớp crema bên trên"
+    },
+    {
+        "id": "20f40619-a4af-484d-83fc-c011b20bab2c",
+        "word": "white coffee",
+        "phonetic": "waɪt kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee made from coffee beans that are lightly roasted",
+        "defineVi": "một loại cà phê làm từ hạt cà phê được rang nhẹ"
+    },
+    {
+        "id": "55d5313d-ed68-47f2-9668-88e6a7055b64",
+        "word": "Darjeeling",
+        "phonetic": "dɑːɹdʒiːlɪŋ ",
+        "type": "noun",
+        "defineEn": "a type of black tea made from the leaves of the Camellia sinensis plant that is grown in the Darjeeling region of India",
+        "defineVi": "một loại trà đen được làm từ lá của cây Camellia sinensis được trồng ở vùng Darjeeling của Ấn Độ"
+    },
+    {
+        "id": "98e7eed0-6b7c-4ef2-8682-1cb13d990131",
+        "word": "English Breakfast tea",
+        "phonetic": "ɪŋɡlɪʃ bɹɛkfəst tiː ",
+        "type": "noun",
+        "defineEn": "a type of black tea made from the leaves of the Camellia sinensis plant that is blended with other black teas for a strong, full-bodied flavor",
+        "defineVi": "một loại trà đen được làm từ lá của cây Camellia sinensis được pha trộn với các loại trà đen khác để có hương vị đậm đà, đậm đà"
+    },
+    {
+        "id": "70cdbdd6-5165-4769-b48b-d3f32bfd3d16",
+        "word": "milk tea",
+        "phonetic": "mɪlk tiː ",
+        "type": "noun",
+        "defineEn": "a type of tea-based beverage that typically includes black tea, milk, and sweeteners",
+        "defineVi": "một loại đồ uống làm từ trà thường bao gồm trà đen, sữa và chất làm ngọt"
+    },
+    {
+        "id": "a69f81a1-c7e3-4832-9e60-c9dafe41eebf",
+        "word": "French press",
+        "phonetic": "fɹɛntʃ pɹɛs ",
+        "type": "noun",
+        "defineEn": "a manual coffee brewing device that uses steeping and pressing to extract the flavors from coffee grounds",
+        "defineVi": "một thiết bị pha cà phê thủ công sử dụng phương pháp ngâm và ép để chiết xuất hương vị từ bã cà phê"
+    },
+    {
+        "id": "4e642327-0d18-4722-b2f7-0041d61bfab7",
+        "word": "masala chai",
+        "phonetic": "mɐzɑːlə tʃaɪ ",
+        "type": "noun",
+        "defineEn": "a traditional Indian tea beverage made with black tea, milk, and a blend of spices",
+        "defineVi": "một loại đồ uống trà truyền thống của Ấn Độ được làm bằng trà đen, sữa và hỗn hợp các loại gia vị"
+    },
+    {
+        "id": "bf2a01cd-37ae-4723-ac84-6fe19e071286",
+        "word": "tea",
+        "phonetic": "tiː ",
+        "type": "noun",
+        "defineEn": "a hot drink that is made by soaking dried leaves, called tea leaves, in hot water",
+        "defineVi": "một thức uống nóng được làm bằng cách ngâm lá khô, được gọi là lá trà, trong nước nóng",
+        "hasImg": true
+    },
+    {
+        "id": "9b69e370-d5e3-44d5-ac5b-28f72b1ebfb4",
+        "word": "Irish coffee",
+        "phonetic": "aɪɹɪʃ kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee drink made from espresso, Irish whiskey, and sugar, topped with cream",
+        "defineVi": "một loại thức uống cà phê được làm từ cà phê espresso, rượu whisky Ailen và đường, phủ kem"
+    },
+    {
+        "id": "e3535451-3dad-4f43-95f9-dae4af0c1556",
+        "word": "hot toddy",
+        "phonetic": "hɑːt tɑːdi ",
+        "type": "noun",
+        "defineEn": "a type of hot drink made from whiskey, honey, lemon, and hot water",
+        "defineVi": "một loại đồ uống nóng được làm từ rượu whisky, mật ong, chanh và nước nóng"
+    },
+    {
+        "id": "e17893d6-c53c-491b-9a44-3e410958c084",
+        "word": "hot chocolate",
+        "phonetic": "hɑːt tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a hot drink, made by mixing cocoa powder with water or milk",
+        "defineVi": "một thức uống nóng, được làm bằng cách trộn bột ca cao với nước hoặc sữa",
+        "hasImg": true
+    },
+    {
+        "id": "a9298adf-5abc-4c3d-b599-c0c5780ae5c1",
+        "word": "herbal tea",
+        "phonetic": "hɜːbəl tiː ",
+        "type": "noun",
+        "defineEn": "a hot drink that is made by soaking different fruits, leaves, flowers, etc. in hot water",
+        "defineVi": "một thức uống nóng được làm bằng cách ngâm các loại trái cây, lá, hoa, v.v. trong nước nóng",
+        "hasImg": true
+    },
+    {
+        "id": "67980f2b-2a73-426e-aa1d-2ac13bdee16c",
+        "word": "beef tea",
+        "phonetic": "biːf tiː ",
+        "type": "noun",
+        "defineEn": "a drink made by leaving beef in boiling water, served hot and given to patients",
+        "defineVi": "một thức uống được làm bằng cách để thịt bò trong nước sôi, phục vụ nóng và đưa cho bệnh nhân",
+        "hasImg": true
+    },
+    {
+        "id": "713a1a50-cf20-4c72-8465-ee6cfe259ffd",
+        "word": "chai",
+        "phonetic": "tʃaɪ ",
+        "type": "noun",
+        "defineEn": "a type of tea beverage that originated in India and typically consists of black tea, milk, and a blend of spices",
+        "defineVi": "một loại đồ uống trà có nguồn gốc từ Ấn Độ và thường bao gồm trà đen, sữa và hỗn hợp các loại gia vị"
+    },
+    {
+        "id": "62c4c401-8c35-48d5-85f4-c73f5fe775c6",
+        "word": "chocolate",
+        "phonetic": "tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of hot drink made from cocoa powder, milk, and sugar",
+        "defineVi": "một loại đồ uống nóng làm từ bột ca cao, sữa và đường",
+        "hasImg": true
+    },
+    {
+        "id": "811e9784-46fb-4cd6-b33c-7d3466ce7d66",
+        "word": "decaffeinated coffee",
+        "phonetic": "diːkæfɪneɪɾᵻd kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee that has had most of its caffeine content removed",
+        "defineVi": "một loại cà phê đã loại bỏ hầu hết hàm lượng caffein"
+    },
+    {
+        "id": "f007a418-55c5-4c2e-b53d-856d3276b9ea",
+        "word": "double-double",
+        "phonetic": "dʌbəldʌbəl ",
+        "type": "noun",
+        "defineEn": "a term often used in Canada to refer to a coffee order with two creams and two sugars added to it",
+        "defineVi": "một thuật ngữ thường được sử dụng ở Canada để chỉ một đơn hàng cà phê có thêm hai loại kem và hai loại đường"
+    },
+    {
+        "id": "07ac714c-45cd-4608-af73-ac324d224988",
+        "word": "drinking chocolate",
+        "phonetic": "dɹɪŋkɪŋ tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a beverage made from melted chocolate or cocoa powder, often sweetened and mixed with milk or water, and served hot or cold",
+        "defineVi": "một loại đồ uống làm từ sô cô la tan chảy hoặc bột ca cao, thường được làm ngọt và pha với sữa hoặc nước, dùng nóng hoặc lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "25948f6a-817c-4024-bd98-5b497727d118",
+        "word": "Joe",
+        "phonetic": "dʒoʊ ",
+        "type": "noun",
+        "defineEn": "a slang term for coffee, commonly used in North America",
+        "defineVi": "một thuật ngữ tiếng lóng cho cà phê, thường được sử dụng ở Bắc Mỹ"
+    },
+    {
+        "id": "9318fb1b-a2b1-4efb-82dd-1b76550adb3c",
+        "word": "mocha",
+        "phonetic": "moʊkə ",
+        "type": "noun",
+        "defineEn": "a type of drink made with mocha coffee and chocolate",
+        "defineVi": "một loại thức uống làm bằng cà phê mocha và sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "ddb17c81-4b4c-4af7-a267-e8f234fd2470",
+        "word": "cafe au lait",
+        "phonetic": "kæfeɪ oʊ leɪt ",
+        "type": "noun",
+        "defineEn": "a coffee beverage that consists of brewed coffee and steamed milk in equal parts",
+        "defineVi": "một loại đồ uống cà phê bao gồm cà phê pha và sữa hấp ở những phần bằng nhau"
+    },
+    {
+        "id": "4a78b737-a710-4ceb-a230-033f97abb36a",
+        "word": "drip coffee",
+        "phonetic": "dɹɪp kɔfi ",
+        "type": "noun",
+        "defineEn": "a simple and popular brewing method in which hot water is poured over ground coffee beans contained in a filter, allowing the water to slowly drip through and extract the coffee flavor",
+        "defineVi": "một phương pháp pha cà phê đơn giản và phổ biến, trong đó nước nóng được đổ lên hạt cà phê xay chứa trong một bộ lọc, cho phép nước từ từ chảy qua và chiết xuất hương vị cà phê"
+    },
+    {
+        "id": "fc599680-8fee-427f-b269-422492cb68ed",
+        "word": "instant coffee",
+        "phonetic": "ɪnstənt kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee that has been processed, brewed, and dried into a concentrated form, allowing for quick and easy preparation",
+        "defineVi": "một loại cà phê đã được chế biến, ủ và sấy khô thành dạng cô đặc, cho phép pha chế nhanh chóng và dễ dàng"
+    },
+    {
+        "id": "736fa90d-189f-4587-b11f-8ab0d8c4bf29",
+        "word": "Arabica",
+        "phonetic": "ɚɹæbɪkə ",
+        "type": "noun",
+        "defineEn": "a species of coffee plant, known for its mild and nuanced flavor profile",
+        "defineVi": "một loài cây cà phê, được biết đến với hương vị nhẹ và sắc thái"
+    },
+    {
+        "id": "c4de9a57-45d5-4091-8741-888faac379f3",
+        "word": "robusta coffee",
+        "phonetic": "ɹəbʌstə kɔfi ",
+        "type": "noun",
+        "defineEn": "a type of coffee plant known for its hardiness and high caffeine content",
+        "defineVi": "một loại cây cà phê được biết đến với độ cứng và hàm lượng caffein cao"
+    },
+    {
+        "id": "6fc606f6-c9f2-491c-9d21-cc2d589b529f",
+        "word": "affogato",
+        "phonetic": "ɐfəɡɑːɾoʊ ",
+        "type": "noun",
+        "defineEn": "a classic Italian dessert made by pouring a shot of hot espresso over a scoop of vanilla ice cream or gelato",
+        "defineVi": "một món tráng miệng cổ điển của Ý được làm bằng cách đổ một tách cà phê espresso nóng lên trên một muỗng kem vani hoặc gelato"
+    },
+    {
+        "id": "21b7f48c-03ae-4cc2-bba5-6c8968b90e68",
+        "word": "filter coffee",
+        "phonetic": "fɪltɚ kɔfi ",
+        "type": "noun",
+        "defineEn": "a method of brewing coffee in which hot water passes through coffee grounds",
+        "defineVi": "một phương pháp pha cà phê trong đó nước nóng đi qua bã cà phê"
+    },
+    {
+        "id": "a8cb084c-68d4-4f7e-b656-213dd80ba387",
+        "word": "moka",
+        "phonetic": "moʊkə ",
+        "type": "noun",
+        "defineEn": "a type of coffee beverage that combines espresso with steamed milk and chocolate",
+        "defineVi": "một loại đồ uống cà phê kết hợp cà phê espresso với sữa hấp và sô cô la"
+    },
+    {
+        "id": "e2f2b766-1d50-470b-b31f-12180269d398",
+        "word": "milk coffee",
+        "phonetic": "mɪlk kɔfi ",
+        "type": "noun",
+        "defineEn": "any type of coffee that is made with the addition of milk, either steamed or frothed",
+        "defineVi": "bất kỳ loại cà phê nào được pha thêm sữa, hấp hoặc sủi bọt"
+    },
+    {
+        "id": "e4168c45-ce66-4b0e-aaf3-da824f174af6",
+        "word": "Americano",
+        "phonetic": "ɐmɛɹɪkɑːnoʊ ",
+        "type": "noun",
+        "defineEn": "a type of coffee drink made by adding hot water to a shot or two of espresso, creating a milder and larger coffee beverage",
+        "defineVi": "một loại thức uống cà phê được pha bằng cách thêm nước nóng vào một hoặc hai ly cà phê espresso, tạo ra một thức uống cà phê nhẹ hơn và lớn hơn"
+    },
+    {
+        "id": "71a4a4be-98ff-4968-a8a1-6c769efc7626",
+        "word": "cafe noir",
+        "phonetic": "kæfeɪ nwɑːɹ ",
+        "type": "noun",
+        "defineEn": "a French term that refers to a simple cup of black coffee without any added milk or cream, typically made with a dark roast coffee bean",
+        "defineVi": "một thuật ngữ tiếng Pháp dùng để chỉ một tách cà phê đen đơn giản không thêm sữa hoặc kem, thường được làm bằng hạt cà phê rang sẫm màu"
+    },
+    {
+        "id": "cae253ae-0ee6-413e-a0de-cf4c09ee4ea9",
+        "word": "latte",
+        "phonetic": "lɑːteɪ ",
+        "type": "noun",
+        "defineEn": "a drink made from espresso with steamed milk on top",
+        "defineVi": "một thức uống làm từ cà phê espresso với sữa hấp trên đầu",
+        "hasImg": true
+    }
+]

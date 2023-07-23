@@ -1,0 +1,484 @@
+[
+    {
+        "id": "575445e7-6379-4797-a86d-ef265120a5e9",
+        "word": "aspirate",
+        "phonetic": "æspɚɹeɪt ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is pronounced accompanying a strong expulsion of air",
+        "defineVi": "(ngữ âm học) một phụ âm được phát âm kèm theo một luồng không khí mạnh"
+    },
+    {
+        "id": "f6ad8e7a-d4a7-4f27-ba84-d77244ff85aa",
+        "word": "closed syllable",
+        "phonetic": "kloʊzd sɪləbəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a syllable that consists of one vowel that is followed by a consonant, ending the syllable",
+        "defineVi": "(ngữ âm) một âm tiết bao gồm một nguyên âm theo sau là một phụ âm, kết thúc âm tiết"
+    },
+    {
+        "id": "2c7cb640-2b34-4869-b1f1-6c15afe64214",
+        "word": "consonant",
+        "phonetic": "kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "‌(phonetics) a speech sound produced by interfering with or stopping the flow of air through the mouth or nose",
+        "defineVi": "‌(ngữ âm) một âm thanh lời nói được tạo ra bằng cách cản trở hoặc ngăn chặn luồng không khí đi qua miệng hoặc mũi"
+    },
+    {
+        "id": "95411cb6-a2f6-4381-ab95-9393594e765f",
+        "word": "continuant",
+        "phonetic": "kəntɪnjuːənt ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is sounded with the vocal tract half-open, allowing the air to pass through",
+        "defineVi": "(ngữ âm học) một phụ âm được phát ra khi thanh quản mở một nửa, cho phép không khí đi qua"
+    },
+    {
+        "id": "c2e00773-a51e-43f0-8c26-9ca098655af9",
+        "word": "vowel",
+        "phonetic": "vaʊəl ",
+        "type": "noun",
+        "defineEn": "‌(phonetics) a speech sound produced without interfering with the flow of air coming through the mouth or nose",
+        "defineVi": "‌(ngữ âm) một âm thanh lời nói được tạo ra mà không cản trở luồng không khí đi qua miệng hoặc mũi"
+    },
+    {
+        "id": "95594f89-ec8c-4c0d-9307-63c427da97b1",
+        "word": "consonant",
+        "phonetic": "kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "‌(phonetics) a speech sound produced by interfering with or stopping the flow of air through the mouth or nose",
+        "defineVi": "‌(ngữ âm) một âm thanh lời nói được tạo ra bằng cách cản trở hoặc ngăn chặn luồng không khí đi qua miệng hoặc mũi"
+    },
+    {
+        "id": "8d7e66bd-3c07-49f9-94fd-876bb5b033ef",
+        "word": "palatal",
+        "phonetic": "pælæɾəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a speech sound produced by the blade of tongue near or touching the hard palate or the back of the roof of mouth",
+        "defineVi": "(ngữ âm) âm thanh lời nói do lưỡi tạo ra gần hoặc chạm vào vòm miệng cứng hoặc phía sau vòm miệng"
+    },
+    {
+        "id": "dfceb651-781c-41ad-8fe9-53c5dc1952b4",
+        "word": "phoneme",
+        "phonetic": "foʊniːm ",
+        "type": "noun",
+        "defineEn": "the smallest unit of sound in a language that can distinguish meaning, often represented by a specific symbol in phonetic notation",
+        "defineVi": "đơn vị âm thanh nhỏ nhất trong ngôn ngữ có thể phân biệt nghĩa, thường được biểu thị bằng một ký hiệu cụ thể trong ký hiệu ngữ âm"
+    },
+    {
+        "id": "8a6b4882-d6ba-4d6f-8bb9-b5ac8a742c5f",
+        "word": "alveolar",
+        "phonetic": "ælvɪoʊlɚ ",
+        "type": "noun",
+        "defineEn": "a sound produced with the tip or blade of the tongue touching or near the alveolar ridge",
+        "defineVi": "một âm thanh được tạo ra khi đầu hoặc lưỡi chạm vào hoặc gần sườn phế nang"
+    },
+    {
+        "id": "f8ba0e22-a9de-4384-be35-5793e0d72b85",
+        "word": "diphthong",
+        "phonetic": "dɪfθɑːŋ ",
+        "type": "noun",
+        "defineEn": "(phonetics) a gliding speech sound formed by the combination of two vowels in a single syllable",
+        "defineVi": "(ngữ âm) một âm thanh lời nói lướt được hình thành bởi sự kết hợp của hai nguyên âm trong một âm tiết"
+    },
+    {
+        "id": "23ab3ddf-2508-4f6f-a5c3-e93639057a15",
+        "word": "postalveolar consonant",
+        "phonetic": "poʊstɐlvɪoʊlɚ kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "a specific class of consonant sounds produced with the tongue near or touching the area just behind the alveolar ridge",
+        "defineVi": "một loại phụ âm cụ thể được tạo ra khi lưỡi ở gần hoặc chạm vào khu vực ngay phía sau rặng phế nang"
+    },
+    {
+        "id": "fb628b60-1ce7-4397-b40c-4637bd731ed9",
+        "word": "dental consonant",
+        "phonetic": "dɛntəl kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "a specific class of consonant sounds produced with the tongue in contact with or close to the upper front teeth",
+        "defineVi": "một loại phụ âm cụ thể được tạo ra khi lưỡi tiếp xúc với hoặc gần với răng cửa trên"
+    },
+    {
+        "id": "9573c2c3-495c-4b24-ba9d-842d7e18f059",
+        "word": "affricate",
+        "phonetic": "ɐfɹᵻkeɪt ",
+        "type": "noun",
+        "defineEn": "a specific type of consonant sound that begins as a stop consonant and releases into a fricative, characterized by a brief period of complete closure followed by a slow release of air",
+        "defineVi": "một loại phụ âm cụ thể bắt đầu như một phụ âm tắc và phát ra thành một phụ âm ma sát, được đặc trưng bởi một khoảng thời gian ngắn hoàn toàn đóng lại, sau đó là một luồng khí thoát ra chậm"
+    },
+    {
+        "id": "89f0b55a-1d37-4b67-bb70-a76df8fd08ee",
+        "word": "fricative",
+        "phonetic": "fɹɪkətɪv ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is sounded with the vocal tract half-open, allowing the air to pass through",
+        "defineVi": "(ngữ âm học) một phụ âm được phát ra khi thanh quản mở một nửa, cho phép không khí đi qua"
+    },
+    {
+        "id": "947308a3-1f3b-449f-ae47-daa18839de55",
+        "word": "lateral consonant",
+        "phonetic": "læɾɚɹəl kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "a specific type of consonant sound produced by allowing air to flow over the sides of the tongue, while maintaining closure in the center of the mouth",
+        "defineVi": "một loại âm thanh phụ âm cụ thể được tạo ra bằng cách cho phép không khí chảy qua hai bên lưỡi, đồng thời duy trì sự đóng lại ở giữa miệng"
+    },
+    {
+        "id": "eb4e99dc-8e1b-4c28-9e74-7cff4c0c8b4c",
+        "word": "plosive",
+        "phonetic": "ploʊsɪv ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is produced by a sudden stop of the airflow and releasing it again, using the lips, teeth or palate",
+        "defineVi": "(ngữ âm học) một phụ âm được tạo ra khi luồng không khí dừng lại đột ngột và phát ra lại bằng cách sử dụng môi, răng hoặc vòm miệng"
+    },
+    {
+        "id": "e32b0fa4-e98d-4c16-9362-b1dabb54be11",
+        "word": "pitch",
+        "phonetic": "pɪtʃ ",
+        "type": "noun",
+        "defineEn": "the degree of highness or lowness of a tone that is determined by the frequency of waves producing it",
+        "defineVi": "mức độ cao hay thấp của âm thanh được xác định bởi tần số của sóng tạo ra nó"
+    },
+    {
+        "id": "516c7015-8c3b-4923-98d1-4a2536918149",
+        "word": "prosody",
+        "phonetic": "pɹɑːsədi ",
+        "type": "noun",
+        "defineEn": "(phonetics) a subdivision of phonetics dealing with stress and intonation",
+        "defineVi": "(ngữ âm) một bộ phận ngữ âm liên quan đến trọng âm và ngữ điệu"
+    },
+    {
+        "id": "b7235766-4222-4dfa-9fc9-84435ebe526e",
+        "word": "schwa",
+        "phonetic": "ʃwɑː ",
+        "type": "noun",
+        "defineEn": "(phonetics) an unstressed central vowel that is produced with the tongue in a lax position, represented by /ə/ symbol",
+        "defineVi": "(ngữ âm học) một nguyên âm trung tâm không nhấn được tạo ra khi lưỡi ở vị trí lỏng lẻo, được thể hiện bằng ký hiệu /ə/"
+    },
+    {
+        "id": "f1949dc3-6614-4b6e-ac3a-cebde50a8c63",
+        "word": "sibilant",
+        "phonetic": "sɪbɪlənt ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that makes a hissing sound when pronounced",
+        "defineVi": "(ngữ âm học) phụ âm khi phát âm phát ra tiếng rít"
+    },
+    {
+        "id": "f410c26c-f07c-4103-a087-a4536765d12b",
+        "word": "stress",
+        "phonetic": "stɹɛs ",
+        "type": "noun",
+        "defineEn": "(phonetics) an added force when pronouncing a syllable or word",
+        "defineVi": "(ngữ âm) một lực bổ sung khi phát âm một âm tiết hoặc từ"
+    },
+    {
+        "id": "f341211b-dc09-4a6f-8cc2-0f7806d46615",
+        "word": "velar",
+        "phonetic": "vɛlɚ ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant pronounced by the back of the tongue approaching the soft palate",
+        "defineVi": "(ngữ âm học) một phụ âm được phát âm bởi phần sau của lưỡi khi tiếp cận với vòm miệng mềm"
+    },
+    {
+        "id": "6150c3d2-7806-4e9d-8d59-6dcb987df545",
+        "word": "stress mark",
+        "phonetic": "stɹɛs mɑːɹk ",
+        "type": "noun",
+        "defineEn": "a symbol that indicates which syllable in a word is uttered with more emphasis",
+        "defineVi": "một biểu tượng cho biết âm tiết nào trong một từ được nhấn mạnh hơn"
+    },
+    {
+        "id": "e7481ce8-c898-4253-ba35-cf7d82da4444",
+        "word": "syllable",
+        "phonetic": "sɪləbəl ",
+        "type": "noun",
+        "defineEn": "a word or part of a word, which contains a vowel sound and usually one or more consonants",
+        "defineVi": "một từ hoặc một phần của từ, có chứa một nguyên âm và thường là một hoặc nhiều phụ âm"
+    },
+    {
+        "id": "79064521-ce97-47dc-bcfb-209c493b9b6d",
+        "word": "trill",
+        "phonetic": "tɹɪl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a /r/ sound that is produced by a rapid vibration of the tongue against the palate",
+        "defineVi": "(ngữ âm) âm /r/ được tạo ra khi lưỡi chạm vào vòm miệng một cách nhanh chóng"
+    },
+    {
+        "id": "c64d5835-43f9-4acd-96bf-55ed8a51babe",
+        "word": "tone",
+        "phonetic": "toʊn ",
+        "type": "noun",
+        "defineEn": "(phonetics) a degree of lowness or highness, called pitch, in a language that signifies different meanings",
+        "defineVi": "(ngữ âm) mức độ cao thấp, gọi là cao độ, trong ngôn ngữ biểu thị các nghĩa khác nhau"
+    },
+    {
+        "id": "a6aeef27-6fbd-43be-8c3b-2564533b7688",
+        "word": "glide",
+        "phonetic": "ɡlaɪd ",
+        "type": "noun",
+        "defineEn": "(phonetics) a speech sound produced while moving the tongue from its initial position",
+        "defineVi": "(ngữ âm học) âm thanh lời nói được tạo ra khi di chuyển lưỡi khỏi vị trí ban đầu"
+    },
+    {
+        "id": "ce783449-c3e9-4162-ae2b-04aa1e61df72",
+        "word": "glottal",
+        "phonetic": "ɡlɑːɾəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a speech sound produced by opening and closing the glottis",
+        "defineVi": "(ngữ âm học) âm thanh lời nói được tạo ra bằng cách đóng mở thanh môn"
+    },
+    {
+        "id": "a2101da6-62cc-4068-a0be-896692cd3ff8",
+        "word": "glottal stop",
+        "phonetic": "ɡlɑːɾəl stɑːp ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant made by fully closing the glottis releasing an audible airstream",
+        "defineVi": "(ngữ âm học) một phụ âm được tạo ra bằng cách đóng hoàn toàn thanh môn phát ra một luồng không khí có thể nghe được"
+    },
+    {
+        "id": "acb2756a-20ce-4d59-ac52-28f514b0b71e",
+        "word": "intonation",
+        "phonetic": "ɪntəneɪʃən ",
+        "type": "noun",
+        "defineEn": "(phonetics) the rising and falling of the voice when speaking",
+        "defineVi": "(ngữ âm) sự lên xuống của giọng nói khi nói"
+    },
+    {
+        "id": "a421a0cb-1938-4692-8280-f5842e1d8308",
+        "word": "labial",
+        "phonetic": "leɪbɪəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a speech sound that is produced using one or both lips",
+        "defineVi": "(ngữ âm) âm thanh lời nói được tạo ra bằng một hoặc cả hai môi"
+    },
+    {
+        "id": "31e7d087-70f2-403b-90e7-a684b485f375",
+        "word": "labiodental",
+        "phonetic": "leɪbɪoʊdɛntəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is uttered using the lips and teeth",
+        "defineVi": "(ngữ âm) một phụ âm được thốt ra bằng môi và răng"
+    },
+    {
+        "id": "2d836bdd-0168-4464-80da-b3799c83ec5d",
+        "word": "labiovelar",
+        "phonetic": "leɪbɪoʊvlɚ ",
+        "type": "noun",
+        "defineEn": "(phonetics) ‌a speech sound that is made by the lips and soft palate",
+        "defineVi": "(ngữ âm) ‌âm thanh lời nói được tạo ra bởi môi và vòm miệng mềm"
+    },
+    {
+        "id": "4a9181d2-f39d-46bc-8cf4-8f3c6f0c2e9a",
+        "word": "open syllable",
+        "phonetic": "oʊpən sɪləbəl ",
+        "type": "noun",
+        "defineEn": "a syllable that ends with a vowel sound and does not have a consonant sound following it",
+        "defineVi": "một âm tiết kết thúc bằng một nguyên âm và không có phụ âm theo sau nó"
+    },
+    {
+        "id": "7182356b-2652-446e-a82e-47b90aa54d99",
+        "word": "nasal",
+        "phonetic": "neɪzəl ",
+        "type": "noun",
+        "defineEn": "(phonetics) a consonant that is pronounced by resonating the nose with the mouth fully closed",
+        "defineVi": "(ngữ âm học) một phụ âm được phát âm bằng cách cộng hưởng mũi với miệng đóng hoàn toàn"
+    },
+    {
+        "id": "85929f7b-41ce-4d52-9e28-b3586661ce04",
+        "word": "pronunciation",
+        "phonetic": "pɹənʌnsɪeɪʃən ",
+        "type": "noun",
+        "defineEn": "the way a word is pronounced",
+        "defineVi": "cách một từ được phát âm",
+        "hasImg": true
+    },
+    {
+        "id": "64feeafc-e428-4c7a-bd05-2e0b00daed41",
+        "word": "rhythm",
+        "phonetic": "ɹɪðəm ",
+        "type": "noun",
+        "defineEn": "the pattern or arrangement of stressed and unstressed syllables in speech",
+        "defineVi": "mô hình hoặc sự sắp xếp của các âm tiết nhấn mạnh và không nhấn mạnh trong bài phát biểu"
+    },
+    {
+        "id": "ea97b7b2-8346-44ef-8f75-be9e9f22f984",
+        "word": "primary stress",
+        "phonetic": "pɹaɪmɚɹi stɹɛs ",
+        "type": "noun",
+        "defineEn": "(phonetics) the strongest emphasis in a word of two or more syllables when it is uttered",
+        "defineVi": "(ngữ âm) sự nhấn mạnh mạnh nhất trong một từ có hai âm tiết trở lên khi nó được thốt ra"
+    },
+    {
+        "id": "baf2557e-4f7a-45d8-ae72-32ba2480ec85",
+        "word": "secondary stress",
+        "phonetic": "sɛkəndɚɹi stɹɛs ",
+        "type": "noun",
+        "defineEn": "(phonetics) the second strongest emphatic syllable of a word or phrase when it is uttered",
+        "defineVi": "(ngữ âm) âm tiết nhấn mạnh thứ hai của một từ hoặc cụm từ khi nó được thốt ra"
+    },
+    {
+        "id": "6f7cd1b1-55ef-410e-a787-196b06e21be9",
+        "word": "IPA",
+        "phonetic": "aɪpiːeɪ ",
+        "type": "noun",
+        "defineEn": "a system of symbols used to represent the sounds of human language and facilitating accurate transcription",
+        "defineVi": "một hệ thống các ký hiệu được sử dụng để thể hiện âm thanh của ngôn ngữ con người và tạo điều kiện cho việc phiên âm chính xác"
+    },
+    {
+        "id": "cea617d0-fb93-454b-a69e-e36e4fb8d5cd",
+        "word": "articulation",
+        "phonetic": "ɑːɹtɪkjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the physical movements and coordination of speech organs, such as the tongue, lips, and vocal cords, to produce speech sounds",
+        "defineVi": "các chuyển động vật lý và sự phối hợp của các cơ quan ngôn luận, chẳng hạn như lưỡi, môi và dây thanh âm, để tạo ra âm thanh lời nói"
+    },
+    {
+        "id": "674bf54d-d2fe-43c4-8671-50b88696148b",
+        "word": "voice",
+        "phonetic": "vɔɪs ",
+        "type": "noun",
+        "defineEn": "the sounds that a person makes when speaking or singing",
+        "defineVi": "những âm thanh mà một người làm khi nói hoặc hát",
+        "hasImg": true
+    },
+    {
+        "id": "1721a926-4da8-4330-b22c-511f4c74d1df",
+        "word": "voiced sound",
+        "phonetic": "vɔɪst saʊnd ",
+        "type": "noun",
+        "defineEn": "a speech sound that is produced with the vocal cords vibrating, resulting in a vocalic or resonant quality",
+        "defineVi": "một âm thanh lời nói được tạo ra với dây thanh âm rung, dẫn đến chất lượng âm thanh hoặc âm vang"
+    },
+    {
+        "id": "4c8986c2-85a3-4968-806c-c34aa31c1611",
+        "word": "voiceless sound",
+        "phonetic": "vɔɪsləs saʊnd ",
+        "type": "noun",
+        "defineEn": "a speech sound produced without vibration of the vocal cords, resulting in the absence of vocal cord involvement in its production",
+        "defineVi": "một âm thanh lời nói được tạo ra mà không có sự rung động của dây thanh âm, dẫn đến việc không có sự tham gia của dây thanh âm trong quá trình tạo ra nó"
+    },
+    {
+        "id": "a7e521b8-4096-429d-bbc6-4e842afe86e1",
+        "word": "length",
+        "phonetic": "lɛŋθ ",
+        "type": "noun",
+        "defineEn": "the duration of a speech sound, whether it is a vowel or a consonant",
+        "defineVi": "thời lượng của âm thanh lời nói, cho dù đó là nguyên âm hay phụ âm"
+    },
+    {
+        "id": "94e5f76a-8f9c-44c7-959f-2b57aaf5bfc1",
+        "word": "coarticulation",
+        "phonetic": "koːɹɾɪkjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the phenomenon in which speech sounds overlap or influence each other in their articulation, resulting in modified or assimilated articulatory characteristics",
+        "defineVi": "hiện tượng trong đó âm thanh lời nói chồng chéo hoặc ảnh hưởng lẫn nhau trong cách phát âm của chúng, dẫn đến các đặc điểm phát âm được sửa đổi hoặc đồng hóa"
+    },
+    {
+        "id": "23de4b90-47d5-404c-8de2-b57ccd35b1a3",
+        "word": "phonetic transcription",
+        "phonetic": "fənɛɾɪk tɹænskɹɪpʃən ",
+        "type": "noun",
+        "defineEn": "the representation of speech sounds using a system of symbols that accurately captures the precise articulatory, acoustic, and perceptual properties of the sounds, allowing for detailed phonetic analysis",
+        "defineVi": "sự thể hiện âm thanh lời nói bằng cách sử dụng một hệ thống ký hiệu nắm bắt chính xác các thuộc tính phát âm, âm thanh và nhận thức chính xác của âm thanh, cho phép phân tích ngữ âm chi tiết"
+    },
+    {
+        "id": "198ebeea-dd59-4064-a18f-b0b7f29cc197",
+        "word": "broad transcription",
+        "phonetic": "bɹɔːd tɹænskɹɪpʃən ",
+        "type": "noun",
+        "defineEn": "a type of phonetic transcription that represents the general phonetic characteristics of speech sounds, often using a simplified set of symbols and not indicating fine phonetic details or allophonic variations",
+        "defineVi": "một loại phiên âm biểu thị các đặc điểm ngữ âm chung của âm thanh lời nói, thường sử dụng một bộ ký hiệu đơn giản hóa và không chỉ ra các chi tiết ngữ âm tinh tế hoặc các biến thể đối âm"
+    },
+    {
+        "id": "1053d682-cd8d-4844-846d-1d28ca9ebb42",
+        "word": "narrow transcription",
+        "phonetic": "næɹoʊ tɹænskɹɪpʃən ",
+        "type": "noun",
+        "defineEn": "a detailed form of phonetic transcription that includes additional phonetic symbols and diacritics to represent finer phonetic details such as specific articulatory features, allophonic variations, and suprasegmental aspects of speech",
+        "defineVi": "một dạng phiên âm chi tiết bao gồm các ký hiệu ngữ âm và dấu phụ bổ sung để thể hiện các chi tiết ngữ âm tinh vi hơn như các đặc điểm phát âm cụ thể, các biến thể dị âm và các khía cạnh siêu âm của lời nói"
+    },
+    {
+        "id": "c6287c4e-cb43-423d-bdaa-d4131b09ee66",
+        "word": "roundness",
+        "phonetic": "ɹaʊndnəs ",
+        "type": "noun",
+        "defineEn": "a feature of vowel sounds in phonetics that describes the shape and position of the lips during their articulation, indicating whether the lips are rounded or unrounded",
+        "defineVi": "một đặc điểm của nguyên âm trong ngữ âm mô tả hình dạng và vị trí của môi trong quá trình phát âm của chúng, cho biết môi tròn hay không tròn"
+    },
+    {
+        "id": "227ad568-0ea8-44da-b596-79ce684dd3ac",
+        "word": "front vowel",
+        "phonetic": "fɹʌnt vaʊəl ",
+        "type": "noun",
+        "defineEn": "a classification of vowel sounds in phonetics that are produced with the front part of the tongue positioned closer to the front of the mouth",
+        "defineVi": "một phân loại các nguyên âm trong ngữ âm được tạo ra với phần trước của lưỡi được đặt gần phía trước của miệng"
+    },
+    {
+        "id": "07647685-9ef4-4846-a08a-d6c4c36d0d61",
+        "word": "back vowel",
+        "phonetic": "bæk vaʊəl ",
+        "type": "noun",
+        "defineEn": "a classification of vowel sounds in phonetics that are produced with the back part of the tongue positioned closer to the back of the mouth",
+        "defineVi": "một phân loại các nguyên âm trong ngữ âm được tạo ra với phần sau của lưỡi được đặt gần phía sau của miệng"
+    },
+    {
+        "id": "d8e80734-cac8-4227-bb24-485a3a7c3370",
+        "word": "tenseness",
+        "phonetic": "tɛnsnəs ",
+        "type": "noun",
+        "defineEn": "a distinction in vowel sounds based on how tense or lax the muscles are when pronouncing them",
+        "defineVi": "một sự khác biệt trong các nguyên âm dựa trên mức độ căng thẳng hoặc lỏng lẻo của các cơ khi phát âm chúng"
+    },
+    {
+        "id": "f4f50379-9087-403e-a327-010ab954d447",
+        "word": "tense vowel",
+        "phonetic": "tɛns vaʊəl ",
+        "type": "noun",
+        "defineEn": "a vowel sound that is produced with greater muscle tension in the vocal tract, resulting in a longer duration and often a more prominent or \"tense\" quality compared to lax vowels",
+        "defineVi": "một nguyên âm được tạo ra với độ căng cơ lớn hơn trong thanh quản, dẫn đến thời lượng dài hơn và thường có chất lượng nổi bật hoặc \"căng\" hơn so với các nguyên âm lỏng lẻo"
+    },
+    {
+        "id": "0b24c29e-40f0-44ef-8909-501ec3366d0e",
+        "word": "lax vowel",
+        "phonetic": "læks vaʊəl ",
+        "type": "noun",
+        "defineEn": "a vowel sound that is produced with less muscle tension in the vocal tract, resulting in a shorter duration and a more relaxed or \"lax\" quality compared to tense vowels",
+        "defineVi": "một nguyên âm được tạo ra với ít căng cơ hơn trong đường phát âm, dẫn đến thời lượng ngắn hơn và chất lượng thoải mái hoặc \"lỏng lẻo\" hơn so với các nguyên âm căng thẳng"
+    },
+    {
+        "id": "06e6c32d-0c2d-4a66-bf48-0cd372166f34",
+        "word": "toneme",
+        "phonetic": "toʊniːm ",
+        "type": "noun",
+        "defineEn": "a distinctive unit of pitch or tone in a particular language or phonological system, representing the phonemic or contrastive aspect of tonal variation",
+        "defineVi": "một đơn vị cao độ hoặc âm điệu đặc biệt trong một ngôn ngữ hoặc hệ thống âm vị học cụ thể, đại diện cho khía cạnh âm vị hoặc tương phản của sự biến đổi âm điệu"
+    },
+    {
+        "id": "114a7be4-6e51-47d1-a0ee-85f43891c09f",
+        "word": "dorsal consonant",
+        "phonetic": "doːɹsəl kɑːnsənənt ",
+        "type": "noun",
+        "defineEn": "a consonant sound produced with the back of the tongue approaching or making contact with the roof of the mouth, such as /k/, /g/, and /ŋ/",
+        "defineVi": "một phụ âm được tạo ra khi phần sau của lưỡi tiếp cận hoặc tiếp xúc với vòm miệng, chẳng hạn như /k/, /g/, và /ŋ/"
+    },
+    {
+        "id": "1affc712-15b5-4809-b755-c7e6a5e31dad",
+        "word": "interdental",
+        "phonetic": "ɪntɚdɛntəl ",
+        "type": "noun",
+        "defineEn": "a consonant sound produced with the tip of the tongue placed between the upper and lower front teeth",
+        "defineVi": "một âm thanh phụ âm được tạo ra với đầu lưỡi đặt giữa răng cửa trên và dưới"
+    },
+    {
+        "id": "b26222b7-8be4-49b1-b25d-8ba6188225a2",
+        "word": "phone",
+        "phonetic": "foʊn ",
+        "type": "noun",
+        "defineEn": "(phonetics) a distinct sound uttered, considered as a physical occurrence not as a part of the sound system",
+        "defineVi": "(ngữ âm học) một âm thanh riêng biệt được phát ra, được coi như một sự xuất hiện tự nhiên không phải là một phần của hệ thống âm thanh"
+    },
+    {
+        "id": "852f76e7-2db7-4611-a566-c250b51ecf7d",
+        "word": "allophone",
+        "phonetic": "æləfoʊn ",
+        "type": "noun",
+        "defineEn": "a variant pronunciation of a phoneme, which can occur due to phonetic differences in specific contexts or environments within a language",
+        "defineVi": "một cách phát âm biến thể của một âm vị, có thể xảy ra do sự khác biệt về ngữ âm trong các ngữ cảnh hoặc môi trường cụ thể trong một ngôn ngữ"
+    }
+]

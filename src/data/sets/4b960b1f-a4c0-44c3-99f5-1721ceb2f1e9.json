@@ -1,0 +1,511 @@
+[
+    {
+        "id": "70a7b41f-142a-40f4-b912-e7585509e4a3",
+        "word": "trainer",
+        "phonetic": "tɹeɪnɚ ",
+        "type": "noun",
+        "defineEn": "a sports shoe with a rubber sole that is worn casually or for doing exercise",
+        "defineVi": "một đôi giày thể thao có đế cao su được mang tùy tiện hoặc để tập thể dục",
+        "hasImg": true
+    },
+    {
+        "id": "ad8fa4b0-f7da-42dd-bea1-17227a9615be",
+        "word": "to describe",
+        "phonetic": "tə dᵻskɹaɪb ",
+        "type": "verb",
+        "defineEn": "to give details about someone or something to say what they are like",
+        "defineVi": "để cung cấp thông tin chi tiết về một ai đó hoặc một cái gì đó để nói họ như thế nào",
+        "hasImg": true
+    },
+    {
+        "id": "87fe3407-808a-4ac9-b45b-1bc5b8449dc6",
+        "word": "fit",
+        "phonetic": "fɪt ",
+        "type": "noun",
+        "defineEn": "the way in which a piece of clothing fits the wearer",
+        "defineVi": "cách mà một mảnh quần áo phù hợp với người mặc",
+        "hasImg": true
+    },
+    {
+        "id": "507d6033-003d-41c7-b9e4-6666770d1f92",
+        "word": "loose",
+        "phonetic": "luːs ",
+        "type": "adjective",
+        "defineEn": "not tight; not fitting tightly or closely",
+        "defineVi": "không chật; không vừa vặn hoặc chặt chẽ",
+        "hasImg": true
+    },
+    {
+        "id": "5c7f804a-a52e-4dda-b37c-95077ab723a8",
+        "word": "tight",
+        "phonetic": "taɪt ",
+        "type": "adjective",
+        "defineEn": "(of clothes or shoes) fitting closely or firmly, especially in an uncomfortable way",
+        "defineVi": "(quần áo hoặc giày dép) vừa khít hoặc chắc chắn, đặc biệt là theo một cách không thoải mái",
+        "hasImg": true
+    },
+    {
+        "id": "fa99c5b1-eef9-4211-b3c4-54f6596869f4",
+        "word": "style",
+        "phonetic": "staɪl ",
+        "type": "noun",
+        "defineEn": "a particular appearance that is determined by certain principles",
+        "defineVi": "một sự xuất hiện cụ thể được xác định bởi các nguyên tắc nhất định"
+    },
+    {
+        "id": "aedbb379-5db6-4235-9200-4a4c9416b9ec",
+        "word": "clothes",
+        "phonetic": "kloʊðz ",
+        "type": "noun",
+        "defineEn": "the things we wear to cover our body, such as pants, shirts, and jackets",
+        "defineVi": "những thứ chúng ta mặc để che thân, chẳng hạn như quần, áo sơ mi và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "d15f5268-bfd1-496d-8e46-d8d23f626b68",
+        "word": "fashion",
+        "phonetic": "fæʃən ",
+        "type": "noun",
+        "defineEn": "the styles and trends of clothing, accessories, makeup, and other items that are popular in a certain time and place",
+        "defineVi": "phong cách và xu hướng quần áo, phụ kiện, đồ trang điểm và các mặt hàng khác phổ biến ở một thời điểm và địa điểm nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "8efa43da-06c4-4d2d-8f5e-bb300099dfe8",
+        "word": "dress",
+        "phonetic": "dɹɛs ",
+        "type": "noun",
+        "defineEn": "a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg",
+        "defineVi": "một bộ quần áo được mặc bởi các cô gái và phụ nữ được làm thành một mảnh và che cơ thể xuống chân nhưng không có phần riêng cho mỗi chân",
+        "hasImg": true
+    },
+    {
+        "id": "78bef392-4746-4ac9-98f5-2fdf4d4411bc",
+        "word": "jacket",
+        "phonetic": "dʒækɪt ",
+        "type": "noun",
+        "defineEn": "a short item of clothing that we wear on the top part of out body, usually has sleeves and something in the front so we could close it",
+        "defineVi": "một bộ quần áo ngắn mà chúng ta mặc ở phần trên cùng của cơ thể, thường có tay áo và một cái gì đó ở phía trước để chúng ta có thể đóng nó lại",
+        "hasImg": true
+    },
+    {
+        "id": "37f071bc-42ff-433c-bdee-083bdbba7dee",
+        "word": "jeans",
+        "phonetic": "dʒiːnz ",
+        "type": "noun",
+        "defineEn": "pants made of denim, that is a type of strong cotton cloth, and is used for a casual style",
+        "defineVi": "quần làm bằng vải denim, đó là một loại vải cotton bền và được sử dụng cho phong cách giản dị",
+        "hasImg": true
+    },
+    {
+        "id": "057f20d9-d2d5-4d42-9b93-98c6136c67ab",
+        "word": "sandal",
+        "phonetic": "sændəl ",
+        "type": "noun",
+        "defineEn": "an open shoe that fastens the sole to one's foot with straps, particularly worn when the weather is warm",
+        "defineVi": "một chiếc giày mở buộc chặt đế vào chân bằng dây đai, đặc biệt được mang khi thời tiết ấm áp",
+        "hasImg": true
+    },
+    {
+        "id": "4af13d27-66ae-467b-a2a6-448baea0e487",
+        "word": "sweater",
+        "phonetic": "swɛɾɚ ",
+        "type": "noun",
+        "defineEn": "a piece of clothing worn on the top part of our body that is made of cotton or wool, has long sleeves and a closed front",
+        "defineVi": "một bộ quần áo mặc ở phần trên của cơ thể chúng ta được làm bằng bông hoặc len, có tay áo dài và mặt trước kín",
+        "hasImg": true
+    },
+    {
+        "id": "73c8bfe2-deb8-4d91-b5c2-ea19083a0a2d",
+        "word": "top",
+        "phonetic": "tɑːp ",
+        "type": "noun",
+        "defineEn": "an item of clothing that is worn to cover the upper part of the body",
+        "defineVi": "một loại quần áo được mặc để che phần trên của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "46314d36-4fca-4da0-80ac-e4d561edb8dc",
+        "word": "hood",
+        "phonetic": "hʊd ",
+        "type": "noun",
+        "defineEn": "a part of a sweatshirt or coat that covers the head but leaves the face open",
+        "defineVi": "một phần của áo len hoặc áo khoác che đầu nhưng để hở khuôn mặt",
+        "hasImg": true
+    },
+    {
+        "id": "78cf8d5f-3fe0-4048-8499-003187fc7332",
+        "word": "long-sleeved",
+        "phonetic": "lɔŋsliːvd ",
+        "type": "adjective",
+        "defineEn": "(of an item of clothing) having sleeves that are long enough to reach one's wrist",
+        "defineVi": "(của một mặt hàng quần áo) có tay áo dài đến cổ tay của một người",
+        "hasImg": true
+    },
+    {
+        "id": "b19cc4fb-27ac-46a3-a260-8624f1bf93cc",
+        "word": "short",
+        "phonetic": "ʃɔːɹt ",
+        "type": "adjective",
+        "defineEn": "having a below-average or small distance between two points",
+        "defineVi": "có khoảng cách dưới trung bình hoặc nhỏ giữa hai điểm",
+        "hasImg": true
+    },
+    {
+        "id": "464b70fc-43be-49ce-9f24-9bf307ca5ca6",
+        "word": "polo-neck",
+        "phonetic": "poʊloʊnɛk ",
+        "type": "noun",
+        "defineEn": "a sweater that has a lifted collar folding over itself and covering the neck",
+        "defineVi": "một chiếc áo len có cổ áo nâng lên và che cổ",
+        "hasImg": true
+    },
+    {
+        "id": "58feb0cd-7160-460f-9d50-58bb2f4bd564",
+        "word": "V-neck",
+        "phonetic": "viːnɛk ",
+        "type": "noun",
+        "defineEn": "(of a piece of clothing) having a neckline in the shape of the letter V",
+        "defineVi": "(của một bộ quần áo) có đường viền cổ hình chữ V",
+        "hasImg": true
+    },
+    {
+        "id": "2e5916c4-1bd2-47b3-bb01-6dcc5699d8a7",
+        "word": "sleeveless",
+        "phonetic": "sliːvləs ",
+        "type": "adjective",
+        "defineEn": "(of clothes) without any sleeves",
+        "defineVi": "(quần áo) không có tay áo",
+        "hasImg": true
+    },
+    {
+        "id": "4f581077-83d1-4652-aa30-65acc29daf23",
+        "word": "pattern",
+        "phonetic": "pætɚn ",
+        "type": "noun",
+        "defineEn": "an arrangement of shapes, colors, etc. regularly found on a surface, done as a design",
+        "defineVi": "sự sắp xếp các hình dạng, màu sắc, v.v. thường xuyên được tìm thấy trên một bề mặt, được thực hiện như một thiết kế",
+        "hasImg": true
+    },
+    {
+        "id": "cfa2a6d7-525b-494e-af8d-e02d19d21569",
+        "word": "checked",
+        "phonetic": "tʃɛkt ",
+        "type": "adjective",
+        "defineEn": "having a pattern of small squares with usually two different colors",
+        "defineVi": "có một mô hình hình vuông nhỏ thường có hai màu khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "a8f16151-f984-459e-ae79-aa0bb984170b",
+        "word": "patterned",
+        "phonetic": "pætɚnd ",
+        "type": "adjective",
+        "defineEn": "having a repeated design or decorative arrangement of colors",
+        "defineVi": "có thiết kế lặp đi lặp lại hoặc sắp xếp màu sắc trang trí",
+        "hasImg": true
+    },
+    {
+        "id": "82a38b12-a7b0-44f8-8194-be70e0d40028",
+        "word": "cotton",
+        "phonetic": "kɑːʔn̩ ",
+        "type": "noun",
+        "defineEn": "cloth made from the fibers of the cotton plant",
+        "defineVi": "vải làm từ sợi của cây bông",
+        "hasImg": true
+    },
+    {
+        "id": "d37b637f-2041-4cd0-a296-35205ebc3587",
+        "word": "vest",
+        "phonetic": "vɛst ",
+        "type": "noun",
+        "defineEn": "a sleeveless piece of clothing that is worn under a jacket and over a shirt",
+        "defineVi": "một mảnh quần áo không tay được mặc dưới áo khoác và trên áo sơ mi",
+        "hasImg": true
+    },
+    {
+        "id": "ef82a79d-9a50-4a23-a7cc-b587fa27ccc9",
+        "word": "denim",
+        "phonetic": "dɛnɪm ",
+        "type": "noun",
+        "defineEn": "strong cotton cloth that is usually blue in color, particularly used in making jeans",
+        "defineVi": "vải cotton chắc chắn thường có màu xanh lam, đặc biệt được sử dụng để may quần jean",
+        "hasImg": true
+    },
+    {
+        "id": "cb7109a1-71e7-4c8f-b33c-9186c3514121",
+        "word": "waistcoat",
+        "phonetic": "weɪstkoʊt ",
+        "type": "noun",
+        "defineEn": "an item of clothing for the top half of one's body, traditionally worn by men, that is tight fitting, sleeveless, collarless, with buttons in the front, and worn usually under a jacket and over a shirt",
+        "defineVi": "một loại quần áo dành cho nửa thân trên của một người, theo truyền thống được nam giới mặc, bó sát, không tay, không cổ, có nút phía trước và thường được mặc bên dưới áo khoác và bên ngoài áo sơ mi",
+        "hasImg": true
+    },
+    {
+        "id": "877712a1-5c8d-4f82-9778-f9db691dee53",
+        "word": "fur",
+        "phonetic": "fɜː ",
+        "type": "noun",
+        "defineEn": "an item of clothing made of fur",
+        "defineVi": "một mặt hàng quần áo làm bằng lông thú",
+        "hasImg": true
+    },
+    {
+        "id": "74f4e245-b8c7-4230-9764-da248b4d4de7",
+        "word": "collar",
+        "phonetic": "kɑːlɚ ",
+        "type": "noun",
+        "defineEn": "the part around the neck of a piece of clothing that usually turns over",
+        "defineVi": "phần quanh cổ của một bộ quần áo thường lật lại",
+        "hasImg": true
+    },
+    {
+        "id": "5e830bfe-a65d-487b-a9b7-e06324402612",
+        "word": "lace",
+        "phonetic": "leɪs ",
+        "type": "noun",
+        "defineEn": "a delicate cotton or silky cloth with a pattern of holes",
+        "defineVi": "một miếng vải cotton hoặc lụa mềm mại với hoa văn lỗ",
+        "hasImg": true
+    },
+    {
+        "id": "5fce0e4f-2dab-48ab-8efd-0b4cb588c0c5",
+        "word": "linen",
+        "phonetic": "lɪnɪn ",
+        "type": "noun",
+        "defineEn": "cloth that is made from the fibers of a plant called flax, used to make fine clothes, etc.",
+        "defineVi": "vải được làm từ sợi của một loại cây gọi là lanh, được sử dụng để may quần áo đẹp, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6bca45b3-cc5a-41b3-8be3-6fa8f835ffc4",
+        "word": "suit",
+        "phonetic": "suːt ",
+        "type": "noun",
+        "defineEn": "a jacket with a pair of pants or a skirt that are made from the same cloth and should be worn together",
+        "defineVi": "áo khoác với quần hoặc váy được làm từ cùng một loại vải và nên được mặc cùng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "f3a073f8-b33b-4709-b405-110d23f86381",
+        "word": "lycra",
+        "phonetic": "laɪkɹə ",
+        "type": "noun",
+        "defineEn": "a type of fabric that is stretchy and used to make tight fitting clothes such as athletic wear",
+        "defineVi": "một loại vải co giãn và được sử dụng để may quần áo bó sát như quần áo thể thao"
+    },
+    {
+        "id": "15462625-1928-490e-952f-e027f8156dad",
+        "word": "swimsuit",
+        "phonetic": "swɪmsuːt ",
+        "type": "noun",
+        "defineEn": "a piece of clothing worn for swimming, especially by women and girls",
+        "defineVi": "một mảnh quần áo mặc cho bơi lội, đặc biệt là của phụ nữ và trẻ em gái",
+        "hasImg": true
+    },
+    {
+        "id": "8880c3c9-3867-4374-afb2-a3334a3bb4d2",
+        "word": "silk",
+        "phonetic": "sɪlk ",
+        "type": "noun",
+        "defineEn": "a type of smooth soft fabric made from the threads that silkworms produce",
+        "defineVi": "một loại vải mềm mịn được làm từ những sợi tơ tằm tạo ra",
+        "hasImg": true
+    },
+    {
+        "id": "31df5701-780c-475d-8a8e-d7ed130f1886",
+        "word": "scarf",
+        "phonetic": "skɑːɹf ",
+        "type": "noun",
+        "defineEn": "a piece of cloth, worn around the neck or head, especially to keep warm",
+        "defineVi": "một mảnh vải, đeo quanh cổ hoặc đầu, đặc biệt là để giữ ấm",
+        "hasImg": true
+    },
+    {
+        "id": "d44270ee-0d7a-411c-a73a-6fedcaa42d2e",
+        "word": "velvet",
+        "phonetic": "vɛlvɪt ",
+        "type": "noun",
+        "defineEn": "a cloth with a smooth and thick surface, typically made of cotton or silk",
+        "defineVi": "một miếng vải có bề mặt mịn và dày, thường được làm bằng bông hoặc lụa",
+        "hasImg": true
+    },
+    {
+        "id": "35bc4a5f-9273-4272-bc80-cc57e451b532",
+        "word": "bow tie",
+        "phonetic": "boʊ taɪ ",
+        "type": "noun",
+        "defineEn": "a narrow piece of cloth tied in a bowknot around the collar of a shirt",
+        "defineVi": "một mảnh vải hẹp thắt nơ quanh cổ áo sơ mi",
+        "hasImg": true
+    },
+    {
+        "id": "e8498d66-8e60-4ca7-81da-dbd77954f348",
+        "word": "wool",
+        "phonetic": "wʊl ",
+        "type": "noun",
+        "defineEn": "thick thread made from wool, which people use for knitting",
+        "defineVi": "sợi dày làm từ len, mà mọi người sử dụng để đan",
+        "hasImg": true
+    },
+    {
+        "id": "5985d5da-cc18-422c-9f4e-d8ffb68eaf8e",
+        "word": "woolen",
+        "phonetic": "wʊlən ",
+        "type": "adjective",
+        "defineEn": "made of or related to wool",
+        "defineVi": "làm bằng hoặc liên quan đến len",
+        "hasImg": true
+    },
+    {
+        "id": "c10c9ead-cd82-408a-a6bc-923489028250",
+        "word": "cardigan",
+        "phonetic": "kɑːɹdɪɡən ",
+        "type": "noun",
+        "defineEn": "a type of jacket that is made of wool, usually has a knitted design, and its front could be closed with buttons or a zipper",
+        "defineVi": "một loại áo khoác làm bằng len, thường có thiết kế dệt kim, mặt trước có thể đóng cúc hoặc khóa kéo",
+        "hasImg": true
+    },
+    {
+        "id": "5230a73a-f716-4109-881d-13f72749d6eb",
+        "word": "leather",
+        "phonetic": "lɛðɚ ",
+        "type": "noun",
+        "defineEn": "strong material made from animal skin and used for making clothes, bags, shoes, etc.",
+        "defineVi": "vật liệu chắc chắn làm từ da động vật và được sử dụng để làm quần áo, túi xách, giày dép, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "cffac8ad-f53c-492a-8ada-7ebdf9a52c21",
+        "word": "suede",
+        "phonetic": "sweɪd ",
+        "type": "noun",
+        "defineEn": "soft leather with a velvety surface, used for making shoes, jackets, etc.",
+        "defineVi": "da mềm với bề mặt mịn như nhung, được sử dụng để làm giày, áo khoác, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b41e6f40-f582-40f5-9a7f-6d19611a547c",
+        "word": "boot",
+        "phonetic": "buːt ",
+        "type": "noun",
+        "defineEn": "a type of strong shoe that covers the foot and ankle and often the lower part of the leg",
+        "defineVi": "một loại giày chắc chắn bao gồm bàn chân và mắt cá chân và thường là phần dưới của chân",
+        "hasImg": true
+    },
+    {
+        "id": "a3f1603e-24d5-4bbe-b5a6-f8d5f9127475",
+        "word": "casual",
+        "phonetic": "kæʒuːəl ",
+        "type": "adjective",
+        "defineEn": "(of clothing) comfortable and suitable for everyday use or informal events and occasions",
+        "defineVi": "(quần áo) thoải mái và phù hợp để sử dụng hàng ngày hoặc các sự kiện và dịp không trang trọng",
+        "hasImg": true
+    },
+    {
+        "id": "d278b3c2-9cc0-4e5a-8b79-5005a22fcb8e",
+        "word": "classic",
+        "phonetic": "klæsɪk ",
+        "type": "adjective",
+        "defineEn": "being long-standing and having a popular style",
+        "defineVi": "lâu đời và có phong cách phổ biến"
+    },
+    {
+        "id": "c566bd2c-f0f2-42ae-ab23-56c6f578bf42",
+        "word": "old-fashioned",
+        "phonetic": "oʊldfæʃənd ",
+        "type": "adjective",
+        "defineEn": "related to styles that are not fashionable anymore",
+        "defineVi": "liên quan đến phong cách không còn thời trang nữa",
+        "hasImg": true
+    },
+    {
+        "id": "d52c4a01-cfbb-4063-89ba-9accc3e78873",
+        "word": "scruffy",
+        "phonetic": "skɹʌfi ",
+        "type": "adjective",
+        "defineEn": "having an appearance that is untidy, dirty, or worn out",
+        "defineVi": "có vẻ ngoài không gọn gàng, bẩn hoặc cũ",
+        "hasImg": true
+    },
+    {
+        "id": "e32a0f3a-8bf3-49c3-a4b5-a254f41e15fa",
+        "word": "smart",
+        "phonetic": "smɑːɹt ",
+        "type": "adjective",
+        "defineEn": "(of people or clothes) looking neat, tidy, and elegantly fashionable",
+        "defineVi": "(về người hoặc quần áo) trông gọn gàng, ngăn nắp và hợp thời trang",
+        "hasImg": true
+    },
+    {
+        "id": "25619fae-ef16-476a-905f-32983d06575d",
+        "word": "to dress up",
+        "phonetic": "tə dɹɛs ʌp ",
+        "type": "verb",
+        "defineEn": "to wear formal clothes for a special occasion or event",
+        "defineVi": "mặc quần áo trang trọng cho một dịp đặc biệt hoặc sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "135da57d-02d9-44da-a6cb-f70b0a60dbfe",
+        "word": "to hang up",
+        "phonetic": "tə hæŋ ʌp ",
+        "type": "verb",
+        "defineEn": "to place a thing, typically an item of clothing, on a hanger, hook, etc.",
+        "defineVi": "để đặt một thứ, điển hình là một mặt hàng quần áo, trên móc áo, móc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c4d5a0a1-90c0-4534-bb90-671865606de4",
+        "word": "to fit",
+        "phonetic": "tə fɪt ",
+        "type": "verb",
+        "defineEn": "to be of the right size or shape for someone",
+        "defineVi": "có kích thước hoặc hình dạng phù hợp với ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "093b539a-24fd-492f-a32c-3353d5946a2d",
+        "word": "to match",
+        "phonetic": "tə mætʃ ",
+        "type": "verb",
+        "defineEn": "to have the same pattern, color, etc. with something else that makes a good combination",
+        "defineVi": "có cùng hoa văn, màu sắc, v.v. với thứ khác tạo nên sự kết hợp ăn ý",
+        "hasImg": true
+    },
+    {
+        "id": "dd8b7089-098d-4e83-bc7c-2951c63eb308",
+        "word": "to get changed",
+        "phonetic": "tə ɡɛt tʃeɪndʒd ",
+        "type": "phrase",
+        "defineEn": "to change what one is wearing",
+        "defineVi": "để thay đổi những gì một người đang mặc"
+    },
+    {
+        "id": "09c37d2c-f1ea-47e9-a218-3b1c1e50b42a",
+        "word": "to get undressed",
+        "phonetic": "tə ɡɛt ʌndɹɛst ",
+        "type": "phrase",
+        "defineEn": "to remove one's clothes from one's body",
+        "defineVi": "để loại bỏ quần áo của một người từ cơ thể của một người",
+        "hasImg": true
+    },
+    {
+        "id": "69701cc4-1b39-410b-8e2e-9f4944a959fa",
+        "word": "to get dressed",
+        "phonetic": "tə ɡɛt dɹɛst ",
+        "type": "phrase",
+        "defineEn": "to put on one's clothes",
+        "defineVi": "để mặc quần áo của một người",
+        "hasImg": true
+    },
+    {
+        "id": "6a118a00-b28d-429d-9109-fea8ebf68856",
+        "word": "to go with",
+        "phonetic": "tə ɡoʊ wɪð ",
+        "type": "verb",
+        "defineEn": "to complement and suit each other when combined or placed together, particularly regarding appearance or taste",
+        "defineVi": "để bổ sung và phù hợp với nhau khi kết hợp hoặc đặt cùng nhau, đặc biệt là về hình thức hoặc hương vị",
+        "hasImg": true
+    }
+]

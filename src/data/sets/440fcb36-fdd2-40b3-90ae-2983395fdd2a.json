@@ -1,0 +1,390 @@
+[
+    {
+        "id": "2d21511e-6d5f-438d-9681-bd86c6753e83",
+        "word": "Fahrenheit",
+        "phonetic": "fæɹənhaɪt ",
+        "type": "adjective",
+        "defineEn": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+        "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 212° và đóng băng ở 32°",
+        "hasImg": true
+    },
+    {
+        "id": "43f09cf6-8842-4438-a54b-1bbda570d900",
+        "word": "celsius",
+        "phonetic": "sɛlsɪəs ",
+        "type": "adjective",
+        "defineEn": "of or relating to the usage of a scale for measuring temperature in which water freezes at 0 degree and boils at 100 degrees",
+        "defineVi": "thuộc hoặc liên quan đến việc sử dụng thang đo nhiệt độ trong đó nước đóng băng ở 0 độ và sôi ở 100 độ",
+        "hasImg": true
+    },
+    {
+        "id": "bb2a8f4b-11ca-4c7e-be3a-a2fb62bff2d8",
+        "word": "centigrade",
+        "phonetic": "sɛntɪɡɹeɪd ",
+        "type": "adjective",
+        "defineEn": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+        "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 100° và đóng băng ở 0°",
+        "hasImg": true
+    },
+    {
+        "id": "bddbffc6-422b-4a8d-b29f-4e61fb30b810",
+        "word": "dozen",
+        "phonetic": "dʌzən ",
+        "type": "noun",
+        "defineEn": "a set of twelve",
+        "defineVi": "một bộ mười hai",
+        "hasImg": true
+    },
+    {
+        "id": "68ab9483-0fa4-4151-a3b5-9d532d84473e",
+        "word": "ounce",
+        "phonetic": "aʊns ",
+        "type": "noun",
+        "defineEn": "a unit for measuring weight equal to approximately 28.34 grams or 0.06 of a pound",
+        "defineVi": "một đơn vị đo trọng lượng bằng khoảng 28,34 gram hoặc 0,06 pound",
+        "hasImg": true
+    },
+    {
+        "id": "8f9e928b-681a-4c4e-a1b8-de9c5ff078d1",
+        "word": "gallon",
+        "phonetic": "ɡælən ",
+        "type": "noun",
+        "defineEn": "a unit, in the US, to measure the amount of a liquid equal to 3.79 liters",
+        "defineVi": "một đơn vị, ở Mỹ, để đo lượng chất lỏng bằng 3,79 lít",
+        "hasImg": true
+    },
+    {
+        "id": "045249c7-332b-45b6-a535-d1e225656244",
+        "word": "inch",
+        "phonetic": "ɪntʃ ",
+        "type": "noun",
+        "defineEn": "a unit of length equal to one-twelfth of a foot or 2.54 centimeters",
+        "defineVi": "một đơn vị chiều dài bằng một phần mười hai foot hoặc 2,54 cm",
+        "hasImg": true
+    },
+    {
+        "id": "56329245-0fc4-4fbd-a75a-c07cb0b4a8cb",
+        "word": "scale",
+        "phonetic": "skeɪl ",
+        "type": "noun",
+        "defineEn": "the size, amount, or degree of one thing compared with another",
+        "defineVi": "kích thước, số lượng, hoặc mức độ của một điều so với khác"
+    },
+    {
+        "id": "e985251c-35ef-4fe4-b507-5227c032903b",
+        "word": "piece",
+        "phonetic": "piːs ",
+        "type": "noun",
+        "defineEn": "a part or a separate part of a larger item",
+        "defineVi": "một phần hoặc một phần riêng biệt của một mặt hàng lớn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "06d6f835-c705-40c2-a458-05bc314815f2",
+        "word": "slice",
+        "phonetic": "slaɪs ",
+        "type": "noun",
+        "defineEn": "a small cut of a larger portion such as a piece of cake, pizza, etc.",
+        "defineVi": "một vết cắt nhỏ của một phần lớn hơn chẳng hạn như một miếng bánh, bánh pizza, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "0732a252-36d9-4489-9486-c0d799656b18",
+        "word": "loaf",
+        "phonetic": "loʊf ",
+        "type": "noun",
+        "defineEn": "bread that has a particular shape and is baked in one piece, usually sliced before being served",
+        "defineVi": "bánh mì có hình dạng đặc biệt và được nướng thành từng miếng, thường được cắt lát trước khi phục vụ",
+        "hasImg": true
+    },
+    {
+        "id": "54343b70-f548-45ad-820a-2b8f0a9e0629",
+        "word": "bar",
+        "phonetic": "bɑːɹ ",
+        "type": "noun",
+        "defineEn": "an amount of a substance in the shape of a block such as chocolate, soap, etc.",
+        "defineVi": "một lượng chất ở dạng khối như sô cô la, xà phòng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6dbd05f8-8bba-4563-b6d5-9ea9b8d727c4",
+        "word": "roll",
+        "phonetic": "ɹoʊl ",
+        "type": "noun",
+        "defineEn": "something or a set of things that are shaped by a tube or are like one",
+        "defineVi": "một cái gì đó hoặc một tập hợp những thứ được hình thành bởi một ống hoặc giống như một",
+        "hasImg": true
+    },
+    {
+        "id": "90085437-fc43-425c-b76c-2de67eccc11c",
+        "word": "number",
+        "phonetic": "nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "the quantity of things or people",
+        "defineVi": "số lượng của sự vật hoặc con người",
+        "hasImg": true
+    },
+    {
+        "id": "a9073070-a3b7-464d-be08-b1757e8d2b75",
+        "word": "bunch",
+        "phonetic": "bʌntʃ ",
+        "type": "noun",
+        "defineEn": "a group of things sharing the same quality, usually connected to each other",
+        "defineVi": "một nhóm những thứ có cùng chất lượng, thường được kết nối với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "0e1f840d-3a35-4fd6-a0b9-735f533783c5",
+        "word": "pile",
+        "phonetic": "paɪl ",
+        "type": "noun",
+        "defineEn": "a large number or amount",
+        "defineVi": "một số lượng lớn hoặc số tiền"
+    },
+    {
+        "id": "ab0d9110-f3c9-4a19-94f4-3b1cd9eb7496",
+        "word": "row",
+        "phonetic": "ɹoʊ ",
+        "type": "noun",
+        "defineEn": "a group of people or objects placed in a line",
+        "defineVi": "một nhóm người hoặc đối tượng được đặt trong một dòng",
+        "hasImg": true
+    },
+    {
+        "id": "31e87361-cf95-4bb6-96cc-4af83c14c9bf",
+        "word": "edge",
+        "phonetic": "ɛdʒ ",
+        "type": "noun",
+        "defineEn": "the outer part of an area or object that is furthest from the center",
+        "defineVi": "phần bên ngoài của một khu vực hoặc đối tượng xa trung tâm nhất",
+        "hasImg": true
+    },
+    {
+        "id": "4b4811de-d340-42fa-880b-32c137d6dfd8",
+        "word": "container",
+        "phonetic": "kənteɪnɚ ",
+        "type": "noun",
+        "defineEn": "any object that can be used to store something in, such as a bottle, box, etc.",
+        "defineVi": "bất kỳ đối tượng nào có thể được sử dụng để lưu trữ một cái gì đó, chẳng hạn như chai, hộp, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "007e6fec-3a88-443c-88a1-768361360e01",
+        "word": "carton",
+        "phonetic": "kɑːɹtən ",
+        "type": "noun",
+        "defineEn": "a quantity of something stored in a large container",
+        "defineVi": "một số lượng của một cái gì đó được lưu trữ trong một thùng chứa lớn",
+        "hasImg": true
+    },
+    {
+        "id": "829926ef-7b1f-4c9a-b753-208bdd062f5e",
+        "word": "case",
+        "phonetic": "keɪs ",
+        "type": "noun",
+        "defineEn": "a container in which goods can be stored",
+        "defineVi": "một container trong đó hàng hóa có thể được lưu trữ",
+        "hasImg": true
+    },
+    {
+        "id": "405ee3e8-614b-42a6-9411-c027be0a9c44",
+        "word": "pack",
+        "phonetic": "pæk ",
+        "type": "noun",
+        "defineEn": "a paper or cardboard container that is used to store items of the same type within, such as cigarettes",
+        "defineVi": "hộp đựng bằng giấy hoặc bìa cứng được sử dụng để đựng các mặt hàng cùng loại bên trong, chẳng hạn như thuốc lá",
+        "hasImg": true
+    },
+    {
+        "id": "474effeb-a72b-4dad-8312-cece35f92fed",
+        "word": "packet",
+        "phonetic": "pækɪt ",
+        "type": "noun",
+        "defineEn": "a small bag that can contain various things, such as tea, sugar, or spices",
+        "defineVi": "một túi nhỏ có thể chứa nhiều thứ khác nhau, chẳng hạn như trà, đường hoặc gia vị",
+        "hasImg": true
+    },
+    {
+        "id": "0d26bed1-2b72-489d-be9e-b5a8438b0287",
+        "word": "package",
+        "phonetic": "pækɪdʒ ",
+        "type": "noun",
+        "defineEn": "a box or container in which items are packed",
+        "defineVi": "một hộp hoặc thùng chứa trong đó các mặt hàng được đóng gói",
+        "hasImg": true
+    },
+    {
+        "id": "c2c9313e-0bd1-43a7-8784-2a835fe760a7",
+        "word": "mug",
+        "phonetic": "mʌɡ ",
+        "type": "noun",
+        "defineEn": "a large cup that has no saucer and is used for drinking",
+        "defineVi": "một cái cốc lớn không có đĩa và được dùng để uống",
+        "hasImg": true
+    },
+    {
+        "id": "80e4f114-e806-43f2-940d-a41d1c63a76f",
+        "word": "jug",
+        "phonetic": "dʒʌɡ ",
+        "type": "noun",
+        "defineEn": "a deep round container with a handle and a narrow opening that is used for keeping liquids",
+        "defineVi": "một thùng tròn sâu có tay cầm và một lỗ hẹp được sử dụng để giữ chất lỏng"
+    },
+    {
+        "id": "4384e1b7-b8ed-4a9b-8828-dd63d9c52863",
+        "word": "jar",
+        "phonetic": "dʒɑːɹ ",
+        "type": "noun",
+        "defineEn": "a glass container with a lid to store food such as honey, jam, pickles, etc.",
+        "defineVi": "hộp thủy tinh có nắp đậy để đựng thực phẩm như mật ong, mứt, dưa chua, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7c72f9aa-e3dd-48bb-a677-27674d7ac5c2",
+        "word": "tube",
+        "phonetic": "tuːb ",
+        "type": "noun",
+        "defineEn": "a flexible container that is used to store thick liquids",
+        "defineVi": "một thùng chứa linh hoạt được sử dụng để lưu trữ chất lỏng dày",
+        "hasImg": true
+    },
+    {
+        "id": "045c513b-fee0-429c-9f6c-03d994bed0e6",
+        "word": "tray",
+        "phonetic": "tɹeɪ ",
+        "type": "noun",
+        "defineEn": "a flat object with elevated edges used for holding or carrying food and drink",
+        "defineVi": "một vật phẳng với các cạnh cao được sử dụng để giữ hoặc mang thức ăn và đồ uống",
+        "hasImg": true
+    },
+    {
+        "id": "a2c03ad3-2b2d-4c54-9eee-6984f8f946de",
+        "word": "can",
+        "phonetic": "kæn ",
+        "type": "noun",
+        "defineEn": "a container, made of metal, used for storing food or drink",
+        "defineVi": "một thùng chứa, làm bằng kim loại, được sử dụng để lưu trữ thực phẩm hoặc đồ uống",
+        "hasImg": true
+    },
+    {
+        "id": "c6487988-f628-407d-9279-2fed33f8e6bd",
+        "word": "basket",
+        "phonetic": "bæskɪt ",
+        "type": "noun",
+        "defineEn": "an object, usually made of wicker or plastic, with a handle for carrying or keeping things",
+        "defineVi": "một đồ vật, thường được làm bằng liễu gai hoặc nhựa, có tay cầm để mang hoặc giữ đồ",
+        "hasImg": true
+    },
+    {
+        "id": "18bda019-3c82-420e-a82d-d138622f6382",
+        "word": "bucket",
+        "phonetic": "bʌkɪt ",
+        "type": "noun",
+        "defineEn": "a round open container, made of plastic or metal, with a handle used for keeping or carrying liquid",
+        "defineVi": "một hộp tròn mở, làm bằng nhựa hoặc kim loại, có tay cầm dùng để giữ hoặc mang chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "cd92163f-d8c1-40ae-be45-5e41da311457",
+        "word": "extra",
+        "phonetic": "ɛkstɹə ",
+        "type": "adjective",
+        "defineEn": "more than enough or the amount needed",
+        "defineVi": "quá đủ hoặc số lượng cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "c6b68ace-717a-4452-a7e0-776bf58b7521",
+        "word": "maximum",
+        "phonetic": "mæksɪməm ",
+        "type": "noun",
+        "defineEn": "the greatest amount, degree, or extent there is or is possible",
+        "defineVi": "số lượng, mức độ hoặc mức độ lớn nhất có hoặc có thể"
+    },
+    {
+        "id": "6d57dde8-b6e1-42ab-a981-92eed2c1cf6d",
+        "word": "minimum",
+        "phonetic": "mɪnɪməm ",
+        "type": "noun",
+        "defineEn": "the smallest amount, degree, or extent there is or is possible",
+        "defineVi": "số lượng, mức độ, hoặc phạm vi nhỏ nhất có hoặc có thể"
+    },
+    {
+        "id": "70365dcc-60d6-4e07-8b74-2835a681b216",
+        "word": "limited",
+        "phonetic": "lɪmɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "not being great in extent or amount",
+        "defineVi": "không lớn về mức độ hoặc số lượng"
+    },
+    {
+        "id": "9da35c5f-2e9e-434b-a0b8-7ce21dc4603d",
+        "word": "high",
+        "phonetic": "haɪ ",
+        "type": "adverb",
+        "defineEn": "at or to a great price, value, amount, degree, etc.",
+        "defineVi": "tại hoặc với một mức giá, giá trị, số lượng, mức độ tuyệt vời, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "bab5f101-cab1-4aba-b6e6-67c3278586c8",
+        "word": "double",
+        "phonetic": "dʌbəl ",
+        "type": "determiner",
+        "defineEn": "twice in number or amount",
+        "defineVi": "hai lần về số lượng hoặc số lượng",
+        "hasImg": true
+    },
+    {
+        "id": "6c9c4b11-ff7d-4552-8194-bc4344327434",
+        "word": "half",
+        "phonetic": "hæf ",
+        "type": "determiner",
+        "defineEn": "a half amount of something",
+        "defineVi": "một nửa số tiền của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "bf843049-a239-4640-96da-ba1197953dbf",
+        "word": "enough",
+        "phonetic": "ɪnʌf ",
+        "type": "determiner",
+        "defineEn": "as much or as many as is needed",
+        "defineVi": "nhiều hoặc nhiều như là cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "1eb773f7-7741-43cf-bf76-270a8b83e24e",
+        "word": "packet",
+        "phonetic": "pækɪt ",
+        "type": "noun",
+        "defineEn": "goods that a packet holds",
+        "defineVi": "hàng hóa mà một gói giữ",
+        "hasImg": true
+    },
+    {
+        "id": "51906782-5e92-4e63-8be0-24a1d18a2864",
+        "word": "bit",
+        "phonetic": "bɪt ",
+        "type": "noun",
+        "defineEn": "a small amount, quantity, or piece of something",
+        "defineVi": "một số lượng nhỏ, số lượng, hoặc mảnh của một cái gì đó"
+    },
+    {
+        "id": "9838289c-6d46-487f-9a59-970d6426f850",
+        "word": "pitcher",
+        "phonetic": "pɪtʃɚ ",
+        "type": "noun",
+        "defineEn": "the quantity that is equal to a pitcher's capacity",
+        "defineVi": "số lượng tương đương với công suất của bình"
+    },
+    {
+        "id": "4d8b3d87-f2a8-453b-b0f1-14e62457872c",
+        "word": "pitcher",
+        "phonetic": "pɪtʃɚ ",
+        "type": "noun",
+        "defineEn": "a deep round container with a handle and a lid used for pouring liquids",
+        "defineVi": "một thùng tròn sâu có tay cầm và nắp dùng để rót chất lỏng",
+        "hasImg": true
+    }
+]

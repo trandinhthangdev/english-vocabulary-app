@@ -1,0 +1,444 @@
+[
+    {
+        "id": "baf30522-362a-4d29-893b-f160b8d60e83",
+        "word": "kid",
+        "phonetic": "kɪd ",
+        "type": "noun",
+        "defineEn": "a young goat",
+        "defineVi": "một con dê non",
+        "hasImg": true
+    },
+    {
+        "id": "815eead2-12b2-4394-8b8c-f361b8d4a937",
+        "word": "baby",
+        "phonetic": "beɪbi ",
+        "type": "noun",
+        "defineEn": "a very young mammal at an early stage of development",
+        "defineVi": "một động vật có vú rất trẻ ở giai đoạn đầu phát triển"
+    },
+    {
+        "id": "8da118b0-3d0f-48b7-a0f3-f6afbd897ed6",
+        "word": "kit",
+        "phonetic": "kɪt ",
+        "type": "noun",
+        "defineEn": "a young animal, especially a young fox, mink, or rabbit",
+        "defineVi": "một con vật trẻ, đặc biệt là một con cáo nhỏ, chồn hoặc thỏ"
+    },
+    {
+        "id": "6793ee8b-bdf4-48c8-8ba4-c3ffd72f81cb",
+        "word": "hatchling",
+        "phonetic": "hætʃlɪŋ ",
+        "type": "noun",
+        "defineEn": "an animal that has recently cracked and come out of its shell",
+        "defineVi": "một con vật gần đây đã bị nứt và ra khỏi vỏ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "af6b612f-0834-403f-9e5a-1ebae2a3047e",
+        "word": "froglet",
+        "phonetic": "fɹɑːɡlɪt ",
+        "type": "noun",
+        "defineEn": "a young frog, which has recently developed from a tadpole",
+        "defineVi": "một con ếch non, gần đây đã phát triển từ một con nòng nọc",
+        "hasImg": true
+    },
+    {
+        "id": "08a96c3f-9710-42c7-a0cc-f465a4bf1251",
+        "word": "joey",
+        "phonetic": "dʒoʊi ",
+        "type": "noun",
+        "defineEn": "a young kangaroo",
+        "defineVi": "một con kangaroo trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "95972096-2c7d-4dcb-aa91-15c908652ce3",
+        "word": "lamb",
+        "phonetic": "læm ",
+        "type": "noun",
+        "defineEn": "a young sheep, especially one that is under one year",
+        "defineVi": "một con cừu non, đặc biệt là một con dưới một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "e53261ce-7ef3-4bbb-99e5-58b34a80d657",
+        "word": "calf",
+        "phonetic": "kæf ",
+        "type": "noun",
+        "defineEn": "the young offspring of a cow or bull, typically less than one year old",
+        "defineVi": "con non của bò hoặc bò đực, thường dưới một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "c235ced2-f79d-4572-adb2-8e7d59dfc9b2",
+        "word": "hind",
+        "phonetic": "haɪnd ",
+        "type": "noun",
+        "defineEn": "a female red deer, especially one that is over three years old",
+        "defineVi": "một con hươu đỏ cái, đặc biệt là một con đã hơn ba tuổi"
+    },
+    {
+        "id": "64e18784-036c-4ff8-933f-a5e4b2be55e4",
+        "word": "filly",
+        "phonetic": "fɪli ",
+        "type": "noun",
+        "defineEn": "a horse that is female and young, particularly one that is younger than four",
+        "defineVi": "một con ngựa cái và trẻ, đặc biệt là một con nhỏ hơn bốn tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "a89ec4ea-d7e7-40f0-94ac-bf585f61f59f",
+        "word": "spat",
+        "phonetic": "spæt ",
+        "type": "noun",
+        "defineEn": "a young oyster or other bivalve that has recently settled and attached itself to a surface in its natural habitat",
+        "defineVi": "một con hàu non hoặc hai mảnh vỏ khác gần đây đã định cư và bám vào một bề mặt trong môi trường sống tự nhiên của nó"
+    },
+    {
+        "id": "8ef0e798-1944-4129-bd92-425fd58fd0fc",
+        "word": "tadpole",
+        "phonetic": "tædpoʊl ",
+        "type": "noun",
+        "defineEn": "an amphibian in the larval stage",
+        "defineVi": "một loài lưỡng cư trong giai đoạn ấu trùng",
+        "hasImg": true
+    },
+    {
+        "id": "7862dd9a-fa8d-4c7c-bb22-326efb37e13b",
+        "word": "cygnet",
+        "phonetic": "sɪɡnɪt ",
+        "type": "noun",
+        "defineEn": "a newly-hatched swan",
+        "defineVi": "một con thiên nga mới nở",
+        "hasImg": true
+    },
+    {
+        "id": "a2a5f5b2-2b69-419e-a5aa-67232dfdaa71",
+        "word": "fledgling",
+        "phonetic": "flɛdʒlɪŋ ",
+        "type": "noun",
+        "defineEn": "a young bird that has recently acquired its flight feathers and is learning to fly",
+        "defineVi": "một con chim non gần đây đã có lông bay và đang học bay"
+    },
+    {
+        "id": "df37bc02-31c8-43b8-ae9b-5cd8bc8af526",
+        "word": "piglet",
+        "phonetic": "pɪɡlɪt ",
+        "type": "noun",
+        "defineEn": "a small young pig",
+        "defineVi": "một con lợn nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "12f1597d-af58-4117-9cd9-0cf46e75c035",
+        "word": "colt",
+        "phonetic": "koʊlt ",
+        "type": "noun",
+        "defineEn": "a young male horse under the age of four which is not castrated",
+        "defineVi": "một con ngựa đực dưới bốn tuổi không bị thiến",
+        "hasImg": true
+    },
+    {
+        "id": "53140344-15ea-4afe-b03f-a7fdbb8a3d8d",
+        "word": "peachick",
+        "phonetic": "piːtʃɪk ",
+        "type": "noun",
+        "defineEn": "a juvenile bird of the peafowl species",
+        "defineVi": "một con chim non của loài công"
+    },
+    {
+        "id": "1138f303-3ecb-42d1-a2f5-77f986e65fa4",
+        "word": "bantam",
+        "phonetic": "bæntæm ",
+        "type": "noun",
+        "defineEn": "a small domestic chicken or duck",
+        "defineVi": "một con gà hoặc vịt nhà nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "2e960602-939a-4421-bd59-27e2e293d78a",
+        "word": "nestling",
+        "phonetic": "nɛsəlɪŋ ",
+        "type": "noun",
+        "defineEn": "a bird that is too young to leave the nest built by its parents, especially one that has not yet learned how to fly",
+        "defineVi": "một con chim còn quá nhỏ để rời khỏi tổ do cha mẹ của nó xây dựng, đặc biệt là một con chưa học cách bay",
+        "hasImg": true
+    },
+    {
+        "id": "78efa0ed-3825-494d-acd2-d58bed5eb21c",
+        "word": "duckling",
+        "phonetic": "dʌklɪŋ ",
+        "type": "noun",
+        "defineEn": "a newly-hatched duck",
+        "defineVi": "một con vịt mới nở",
+        "hasImg": true
+    },
+    {
+        "id": "62565fcc-8af7-483d-97df-b6bf3ba6d61d",
+        "word": "eaglet",
+        "phonetic": "iːɡlɪt ",
+        "type": "noun",
+        "defineEn": "a newly-hatched eagle",
+        "defineVi": "một con đại bàng mới nở",
+        "hasImg": true
+    },
+    {
+        "id": "843bf0b2-2ae2-40a9-bf00-120c2b6e7cb1",
+        "word": "neonate",
+        "phonetic": "niːoʊneɪt ",
+        "type": "noun",
+        "defineEn": "a recently born organism, especially a newborn baby or an animal",
+        "defineVi": "một sinh vật được sinh ra gần đây, đặc biệt là một đứa trẻ sơ sinh hoặc một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "6e818e45-582c-4006-a047-f8e176ec9d39",
+        "word": "pup",
+        "phonetic": "pʌp ",
+        "type": "noun",
+        "defineEn": "a young dog, wolf, seal, etc.",
+        "defineVi": "một con chó nhỏ, chó sói, hải cẩu, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "9f9843e6-d2af-43bc-a25a-5147a4295ba4",
+        "word": "owlet",
+        "phonetic": "aʊlɪt ",
+        "type": "noun",
+        "defineEn": "a newly-hatched owl",
+        "defineVi": "một con cú mới nở",
+        "hasImg": true
+    },
+    {
+        "id": "5f1dab2f-c27d-40c8-be65-85bd9718c92b",
+        "word": "elver",
+        "phonetic": "ɛlvɚ ",
+        "type": "noun",
+        "defineEn": "a small and young eel",
+        "defineVi": "một con lươn nhỏ và non",
+        "hasImg": true
+    },
+    {
+        "id": "6d7c1b05-7d6a-435c-afaf-3200c58a7dfa",
+        "word": "gosling",
+        "phonetic": "ɡɑːslɪŋ ",
+        "type": "noun",
+        "defineEn": "a newly-hatched goose",
+        "defineVi": "một con ngỗng mới nở",
+        "hasImg": true
+    },
+    {
+        "id": "63b5c61e-5972-4c8d-8a2a-39422704078d",
+        "word": "puppy",
+        "phonetic": "pʌpi ",
+        "type": "noun",
+        "defineEn": "a young dog, especially one that is less than a year old",
+        "defineVi": "một con chó nhỏ, đặc biệt là một con chưa đầy một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "f5582b51-b71f-47a8-afe9-ecd0cd02f268",
+        "word": "larva",
+        "phonetic": "lɑːɹvə ",
+        "type": "noun",
+        "defineEn": "a young form of an insect or an animal that has come out of the egg but has not yet developed into an adult",
+        "defineVi": "dạng non của côn trùng hoặc động vật chui ra khỏi trứng nhưng chưa phát triển thành con trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "ed7ae63f-cdcf-4601-9445-a50e9250fddd",
+        "word": "kitten",
+        "phonetic": "kɪʔn̩ ",
+        "type": "noun",
+        "defineEn": "a young cat",
+        "defineVi": "một con mèo trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "a39813ec-fcd5-43a3-a112-e777deed68aa",
+        "word": "cub",
+        "phonetic": "kʌb ",
+        "type": "noun",
+        "defineEn": "a young carnivorous mammal, such as a bear, lion, fox, etc.",
+        "defineVi": "một động vật có vú ăn thịt trẻ, chẳng hạn như gấu, sư tử, cáo, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b138cb33-fbdc-401b-85dc-a3c14f81a380",
+        "word": "squab",
+        "phonetic": "skwɑːb ",
+        "type": "noun",
+        "defineEn": "a young pigeon or dove that is still in the nest and not yet able to fly",
+        "defineVi": "một con chim bồ câu hoặc chim bồ câu non vẫn còn trong tổ và chưa thể bay"
+    },
+    {
+        "id": "b467ccd8-9284-4030-9bbd-033c5c16c832",
+        "word": "shoat",
+        "phonetic": "ʃoʊt ",
+        "type": "noun",
+        "defineEn": "a young pig, especially one that has been weaned from its mother but is not yet mature",
+        "defineVi": "một con lợn con, đặc biệt là một con đã cai sữa mẹ nhưng chưa trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "4f6e748b-c51f-46e1-bc79-ea25ecfc2792",
+        "word": "eft",
+        "phonetic": "ɛft ",
+        "type": "noun",
+        "defineEn": "a juvenile newt or a terrestrial stage of a newt's life cycle",
+        "defineVi": "một con sa giông con hoặc một giai đoạn trên cạn trong vòng đời của một con sa giông"
+    },
+    {
+        "id": "3972534a-4d74-4bf1-95d7-55ba50f6990d",
+        "word": "maggot",
+        "phonetic": "mæɡət ",
+        "type": "noun",
+        "defineEn": "a soft and legless larva of a dipterous insect, such as a housefly, which could be found in decaying organic matter",
+        "defineVi": "một ấu trùng mềm và không có chân của một loài côn trùng lưỡng cư, chẳng hạn như ruồi nhà, có thể được tìm thấy trong các chất hữu cơ đang phân hủy",
+        "hasImg": true
+    },
+    {
+        "id": "150d2de6-2c0f-4ec5-b55c-b3b3d9c7b7f2",
+        "word": "polliwog",
+        "phonetic": "pəliːwɑːɡ ",
+        "type": "noun",
+        "defineEn": "an amphibian in larval stage; a tadpole",
+        "defineVi": "một loài lưỡng cư trong giai đoạn ấu trùng; một con nòng nọc",
+        "hasImg": true
+    },
+    {
+        "id": "6cc9f800-2bf8-4b5d-af67-d39bce080383",
+        "word": "eyas",
+        "phonetic": "aɪəz ",
+        "type": "noun",
+        "defineEn": "a young falcon that has not yet fledged and is still in the nest",
+        "defineVi": "một con chim ưng non chưa ra đời và vẫn đang ở trong tổ"
+    },
+    {
+        "id": "2dda458a-4baa-435c-bf27-8758087fa126",
+        "word": "yearling",
+        "phonetic": "jɪɹlɪŋ ",
+        "type": "noun",
+        "defineEn": "a young animal, usually a horse or a deer, that is between one and two years old",
+        "defineVi": "một con vật nhỏ, thường là ngựa hoặc hươu, từ một đến hai tuổi"
+    },
+    {
+        "id": "878532b4-ca02-4fed-83b8-9021d0f23e16",
+        "word": "nymph",
+        "phonetic": "nɪmf ",
+        "type": "noun",
+        "defineEn": "a larva of an insect, such as a dragonfly, which does not change as it grows",
+        "defineVi": "ấu trùng của côn trùng, chẳng hạn như chuồn chuồn, không thay đổi khi lớn lên"
+    },
+    {
+        "id": "7784f968-664d-4936-ad55-e04a1fa8c11f",
+        "word": "lambkin",
+        "phonetic": "læmbkɪn ",
+        "type": "noun",
+        "defineEn": "a young lamb, usually less than a year old",
+        "defineVi": "một con cừu non, thường dưới một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "7131e844-04a4-487d-8ff6-33cdd8b22ce5",
+        "word": "leveret",
+        "phonetic": "lɛvɚɹət ",
+        "type": "noun",
+        "defineEn": "a young hare or rabbit that is less than a year old and has not yet developed its full growth",
+        "defineVi": "một con thỏ hoặc thỏ non chưa đầy một tuổi và chưa phát triển đầy đủ"
+    },
+    {
+        "id": "e77b6dc6-e7ce-4c68-9bfd-8c9f7099beec",
+        "word": "foal",
+        "phonetic": "foʊl ",
+        "type": "noun",
+        "defineEn": "a young horse, especially one that is not older than one year",
+        "defineVi": "một con ngựa non, đặc biệt là một con không quá một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "5a375fb7-e4b9-4a72-9d80-45d496d85058",
+        "word": "animalcule",
+        "phonetic": "ænɪmælkjuːl ",
+        "type": "noun",
+        "defineEn": "a microscopic or tiny animal, typically visible only under a microscope",
+        "defineVi": "một động vật siêu nhỏ hoặc nhỏ bé, thường chỉ nhìn thấy được dưới kính hiển vi"
+    },
+    {
+        "id": "73b96664-1ac9-481e-a130-3139e5a7015e",
+        "word": "chick",
+        "phonetic": "tʃɪk ",
+        "type": "noun",
+        "defineEn": "a newly-hatched bird, especially a domestic bird",
+        "defineVi": "một con chim mới nở, đặc biệt là một con chim trong nước",
+        "hasImg": true
+    },
+    {
+        "id": "fe4fcbe5-d9d6-4caf-ad1e-9f39c5100ba1",
+        "word": "fawn",
+        "phonetic": "fɔːn ",
+        "type": "noun",
+        "defineEn": "a young deer, usually one aged under one year",
+        "defineVi": "một con hươu non, thường là một tuổi dưới một tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "6ac999eb-c60f-4d91-9a8f-e0f80831f541",
+        "word": "codling",
+        "phonetic": "kɑːdlɪŋ ",
+        "type": "noun",
+        "defineEn": "a young or small codfish",
+        "defineVi": "một con cá tuyết non hoặc nhỏ"
+    },
+    {
+        "id": "64644ca4-a83a-4a43-a392-6dace5eef6f1",
+        "word": "whelp",
+        "phonetic": "wɛlp ",
+        "type": "noun",
+        "defineEn": "a young offspring of a dog, wolf, or certain other carnivorous mammals",
+        "defineVi": "con non của chó, sói hoặc một số động vật có vú ăn thịt khác",
+        "hasImg": true
+    },
+    {
+        "id": "45b66b5d-57f3-4e16-9d67-e133891af926",
+        "word": "fingerling",
+        "phonetic": "fɪŋɡɜːlɪŋ ",
+        "type": "noun",
+        "defineEn": "a small, juvenile fish that is typically between the length of 1 and 4 inches",
+        "defineVi": "một con cá nhỏ, chưa trưởng thành thường có chiều dài từ 1 đến 4 inch"
+    },
+    {
+        "id": "3291bf0b-ac64-4f8b-9898-487c1b94f3bf",
+        "word": "brit",
+        "phonetic": "bɹɪt ",
+        "type": "noun",
+        "defineEn": "a juvenile herring, sprat or other small fish typically less than six inches long",
+        "defineVi": "một con cá trích, cá trích hoặc cá nhỏ khác thường dài dưới sáu inch"
+    },
+    {
+        "id": "1042086e-4e12-454a-9673-5719861182be",
+        "word": "parr",
+        "phonetic": "pɑːɹ ",
+        "type": "noun",
+        "defineEn": "a juvenile salmon or trout that has developed a pattern of dark vertical bars on its sides",
+        "defineVi": "một con cá hồi hoặc cá hồi con đã phát triển một mô hình các thanh dọc sẫm màu ở hai bên của nó"
+    },
+    {
+        "id": "3c53d649-e78b-4218-92f5-28d044bb6c0a",
+        "word": "dogie",
+        "phonetic": "doʊdʒi ",
+        "type": "noun",
+        "defineEn": "a motherless young cow in a cattle herd",
+        "defineVi": "một con bò non mồ côi trong đàn gia súc",
+        "hasImg": true
+    },
+    {
+        "id": "26be2b1b-48ad-4cfb-9305-23935597f6f9",
+        "word": "heifer",
+        "phonetic": "hɛfɚ ",
+        "type": "noun",
+        "defineEn": "a young female cow that has not given birth yet or has only one calf",
+        "defineVi": "một con bò cái chưa sinh con hoặc chỉ có một con bê",
+        "hasImg": true
+    }
+]

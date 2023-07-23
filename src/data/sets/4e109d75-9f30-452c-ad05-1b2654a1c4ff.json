@@ -1,0 +1,247 @@
+[
+    {
+        "id": "1d4263e5-246f-4f68-bbf5-ab078f87f023",
+        "word": "lager",
+        "phonetic": "lɑːɡɚ ",
+        "type": "noun",
+        "defineEn": "a fizzy beer that has been brewed at a low temperature",
+        "defineVi": "một loại bia có ga đã được ủ ở nhiệt độ thấp",
+        "hasImg": true
+    },
+    {
+        "id": "bcb53fb5-bed9-4993-adb4-80b21e8cd988",
+        "word": "ale",
+        "phonetic": "eɪl ",
+        "type": "noun",
+        "defineEn": "a type of beer that is dark in color and does not contain bubbles",
+        "defineVi": "một loại bia có màu sẫm và không có bọt",
+        "hasImg": true
+    },
+    {
+        "id": "5e9140b7-684e-4390-9688-b08b79f9b56c",
+        "word": "bitter",
+        "phonetic": "bɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a style of beer that is characterized by its hoppy flavor and relatively high bitterness",
+        "defineVi": "một phong cách bia được đặc trưng bởi hương vị hoppy và vị đắng tương đối cao",
+        "hasImg": true
+    },
+    {
+        "id": "006affdd-bb3a-4b24-a046-4f948035ad73",
+        "word": "Guinness",
+        "phonetic": "ɡɪnɪs ",
+        "type": "noun",
+        "defineEn": "a brand of Irish dry stout that is known for its dark color, creamy head, and distinctive roasted flavor",
+        "defineVi": "một nhãn hiệu bia đen khô của Ailen được biết đến với màu sẫm, phần đầu màu kem và hương vị rang đặc biệt"
+    },
+    {
+        "id": "a2601ec2-b08e-488e-a754-2694a7fe9a02",
+        "word": "home brew",
+        "phonetic": "hoʊm bɹuː ",
+        "type": "noun",
+        "defineEn": "beer or other alcoholic beverages that are made at home using a brewing kit or other equipment",
+        "defineVi": "bia hoặc đồ uống có cồn khác được sản xuất tại nhà bằng bộ dụng cụ pha chế hoặc thiết bị khác"
+    },
+    {
+        "id": "098993e8-eed1-46e2-ba31-dd832cab006d",
+        "word": "pale ale",
+        "phonetic": "peɪl eɪl ",
+        "type": "noun",
+        "defineEn": "a type of beer that is characterized by its light color, hoppy flavor, and refreshing finish",
+        "defineVi": "một loại bia được đặc trưng bởi màu sắc nhẹ nhàng, hương vị thơm ngon và kết thúc sảng khoái"
+    },
+    {
+        "id": "05f4a315-b221-4929-8415-5e101397414d",
+        "word": "stout",
+        "phonetic": "staʊt ",
+        "type": "noun",
+        "defineEn": "a type of dark beer that is characterized by its roasted malt flavor, full body, and creamy head",
+        "defineVi": "một loại bia đen được đặc trưng bởi hương vị mạch nha rang, toàn thân và phần đầu béo ngậy"
+    },
+    {
+        "id": "d1846ed6-9120-4fc9-8f39-6af7e372001b",
+        "word": "session beer",
+        "phonetic": "sɛʃən bɪɹ ",
+        "type": "noun",
+        "defineEn": "a low-alcohol beer intended for extended, leisurely drinking without quickly causing intoxication",
+        "defineVi": "một loại bia có độ cồn thấp dành cho việc uống kéo dài, nhàn nhã mà không nhanh chóng gây say"
+    },
+    {
+        "id": "3d4811e2-0a15-4120-8915-f947ba2c0ddb",
+        "word": "guest beer",
+        "phonetic": "ɡɛst bɪɹ ",
+        "type": "noun",
+        "defineEn": "a beer brewed by a guest brewery and offered on tap at a different brewery or establishment",
+        "defineVi": "một loại bia được ủ bởi một nhà máy bia khách và được cung cấp trên vòi tại một nhà máy bia hoặc cơ sở khác"
+    },
+    {
+        "id": "f4f1555b-4e09-4f88-b63e-0a938e3a94bf",
+        "word": "brown ale",
+        "phonetic": "bɹaʊn eɪl ",
+        "type": "noun",
+        "defineEn": "a style of beer that is typically dark in color with a malty profile and moderate alcohol content",
+        "defineVi": "một kiểu bia thường có màu sẫm với vị mạch nha và nồng độ cồn vừa phải"
+    },
+    {
+        "id": "675c259e-2664-44ca-8b0c-2f666e5bb090",
+        "word": "amber fluid",
+        "phonetic": "æmbɚ fluːɪd ",
+        "type": "noun",
+        "defineEn": "a colloquial term that is sometimes used to refer to beer",
+        "defineVi": "một thuật ngữ thông tục đôi khi được dùng để chỉ bia"
+    },
+    {
+        "id": "c93102f1-c7a4-4569-b897-4a1ac5e8ff38",
+        "word": "rice beer",
+        "phonetic": "ɹaɪs bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of beer brewed using rice as a primary ingredient",
+        "defineVi": "một loại bia được ủ bằng gạo làm nguyên liệu chính",
+        "hasImg": true
+    },
+    {
+        "id": "1656d903-6fb7-47f7-b268-a145b31bed39",
+        "word": "craft beer",
+        "phonetic": "kɹæft bɪɹ ",
+        "type": "noun",
+        "defineEn": "‌a type of beer that is produced in a classic way by a small brewery rather than a large company",
+        "defineVi": "‌một loại bia được sản xuất theo cách cổ điển bởi một nhà máy bia nhỏ hơn là một công ty lớn",
+        "hasImg": true
+    },
+    {
+        "id": "8ca80a0c-454f-4190-99c8-2d629e383e0d",
+        "word": "white beer",
+        "phonetic": "waɪt bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of wheat beer that is brewed using a mix of malted wheat and barley",
+        "defineVi": "một loại bia lúa mì được ủ bằng hỗn hợp lúa mì mạch nha và lúa mạch"
+    },
+    {
+        "id": "4009e82d-d084-4872-8623-73c248fc9d71",
+        "word": "spruce beer",
+        "phonetic": "spɹuːs bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of beer that is brewed using the tips, needles, or essence of spruce trees",
+        "defineVi": "một loại bia được ủ bằng đầu, kim hoặc tinh chất của cây vân sam"
+    },
+    {
+        "id": "2469ce5a-b367-46bc-a49f-dc9b78f7fdd2",
+        "word": "porter",
+        "phonetic": "poːɹɾɚ ",
+        "type": "noun",
+        "defineEn": "a dark, full-bodied beer brewed using roasted malt, hops, and yeast, with a chocolatey, coffee-like flavor and balancing bitterness",
+        "defineVi": "một loại bia đậm đặc được ủ bằng mạch nha rang, hoa bia và men, với hương vị sô cô la, giống như cà phê và vị đắng cân bằng"
+    },
+    {
+        "id": "a50c5be9-3981-4d13-beae-b13ca8240aa7",
+        "word": "Munchener",
+        "phonetic": "mʌntʃənɚ ",
+        "type": "noun",
+        "defineEn": "a malty and clean lager that originated in Munich, Germany",
+        "defineVi": "một loại bia mạch nha và sạch có nguồn gốc từ Munich, Đức"
+    },
+    {
+        "id": "c5c84055-cc5c-4edd-b5e9-d74cf503404c",
+        "word": "light beer",
+        "phonetic": "laɪt bɪɹ ",
+        "type": "noun",
+        "defineEn": "a low-calorie and low-alcohol beer that typically contains fewer carbohydrates and less malt than traditional beer",
+        "defineVi": "một loại bia ít calo và ít cồn, thường chứa ít carbohydrate và ít mạch nha hơn bia truyền thống"
+    },
+    {
+        "id": "be77e817-24cd-4417-999e-69f6925300ca",
+        "word": "draft beer",
+        "phonetic": "dɹæft bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of beer that is served from a keg or cask, rather than from a bottle or can",
+        "defineVi": "một loại bia được phục vụ từ thùng hoặc thùng chứ không phải từ chai hoặc lon"
+    },
+    {
+        "id": "4c5c4687-2f6a-492d-8968-4f621f79d83a",
+        "word": "bock",
+        "phonetic": "bɑːk ",
+        "type": "noun",
+        "defineEn": "a strong, malty beer that is typically lagered for an extended period of time",
+        "defineVi": "một loại bia mạnh, mạch nha thường được ủ trong một thời gian dài"
+    },
+    {
+        "id": "2109ede0-9e5c-405f-ad9e-5bfabac6e570",
+        "word": "birch beer",
+        "phonetic": "bɜːtʃ bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of carbonated soft drink that is flavored with extracts from birch bark or twigs",
+        "defineVi": "một loại nước ngọt có ga có hương vị chiết xuất từ vỏ cây hoặc cành cây bạch dương"
+    },
+    {
+        "id": "bbdc87c8-d7a1-4167-9fa2-413178cda1a5",
+        "word": "barley wine",
+        "phonetic": "bɑːɹli waɪn ",
+        "type": "noun",
+        "defineEn": "a strong, malt-driven beer style that is typically dark, full-bodied, and high in alcohol content",
+        "defineVi": "một loại bia mạnh, làm từ mạch nha, thường có màu sẫm, đậm đà và nồng độ cồn cao"
+    },
+    {
+        "id": "c42ded3c-17ed-4c75-a536-8aea4124bb1f",
+        "word": "biere de garde",
+        "phonetic": "biɛɹ də ɡɑːɹd ",
+        "type": "noun",
+        "defineEn": "a traditional style of French beer that is brewed and aged for an extended period, resulting in a beer with a rich, robust flavor and higher alcohol content",
+        "defineVi": "một kiểu bia truyền thống của Pháp được ủ và ủ trong một thời gian dài, tạo ra một loại bia có hương vị đậm đà, mạnh mẽ và nồng độ cồn cao hơn"
+    },
+    {
+        "id": "ae892f2f-7815-49bd-8fc3-ae74a3e4a76f",
+        "word": "black and tan",
+        "phonetic": "blæk ænd tæn ",
+        "type": "noun",
+        "defineEn": "a beer cocktail made by layering a pale ale or lager on top of a darker beer",
+        "defineVi": "một loại cocktail bia được làm bằng cách xếp một loại bia nhạt hoặc bia nhẹ lên trên một loại bia sẫm màu hơn"
+    },
+    {
+        "id": "d38d21e7-971c-4d53-b59b-0ac76ecab6d5",
+        "word": "boilermaker",
+        "phonetic": "bɔɪlɚmeɪkɚ ",
+        "type": "noun",
+        "defineEn": "a drink consisting of a shot of whiskey, usually served alongside a glass of beer",
+        "defineVi": "một thức uống bao gồm một ly rượu whisky, thường được phục vụ cùng với một ly bia"
+    },
+    {
+        "id": "cacc5e29-fe64-44ce-b588-a12a9e9468de",
+        "word": "draught beer",
+        "phonetic": "dɹæft bɪɹ ",
+        "type": "noun",
+        "defineEn": "a type of beer that is served from a keg or a cask and dispensed through a tap or a faucet",
+        "defineVi": "một loại bia được phục vụ từ thùng hoặc thùng và được phân phối qua vòi hoặc vòi"
+    },
+    {
+        "id": "1b45b716-4ee2-4b3e-af7c-9a5647e7c8e9",
+        "word": "gueuze",
+        "phonetic": "ɡjuːz ",
+        "type": "noun",
+        "defineEn": "a type of beer, specifically a Belgian lambic beer, that is typically sour, effervescent, and brewed using spontaneous fermentation with wild yeasts and bacteria",
+        "defineVi": "một loại bia, cụ thể là bia lambic của Bỉ, thường có vị chua, sủi bọt và được ủ bằng cách lên men tự phát với nấm men và vi khuẩn hoang dã"
+    },
+    {
+        "id": "87ceaaa6-21ce-44f6-a6b3-dcdda4ec3ef6",
+        "word": "heavy",
+        "phonetic": "hɛvi ",
+        "type": "noun",
+        "defineEn": "a beer with a high alcohol content, often above 7% ABV, and a rich, full-bodied flavor profile",
+        "defineVi": "một loại bia có nồng độ cồn cao, thường trên 7% ABV và hương vị đậm đà, đậm đà"
+    },
+    {
+        "id": "63a601fc-02df-40e7-8279-07734f3762c7",
+        "word": "keg",
+        "phonetic": "kɛɡ ",
+        "type": "noun",
+        "defineEn": "a container, usually made of metal, that is used to store and dispense beer",
+        "defineVi": "một thùng chứa, thường làm bằng kim loại, được sử dụng để lưu trữ và phân phối bia"
+    },
+    {
+        "id": "4ad45a59-f21a-4cff-b276-0e14c026cae1",
+        "word": "pilsner",
+        "phonetic": "pɪlsnɚ ",
+        "type": "noun",
+        "defineEn": "a type of light beer, flavored with hops",
+        "defineVi": "một loại bia nhẹ, có hương vị hoa bia"
+    }
+]

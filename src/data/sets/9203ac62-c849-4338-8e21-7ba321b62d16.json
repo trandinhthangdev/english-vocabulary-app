@@ -1,0 +1,460 @@
+[
+    {
+        "id": "2a1d16e3-0a8a-478c-b593-ea1ca094f88e",
+        "word": "dark chocolate",
+        "phonetic": "dɑːɹk tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "dark colored chocolate that tastes slightly bitter, often with no milk added to it",
+        "defineVi": "sô cô la màu sẫm có vị hơi đắng, thường không thêm sữa vào",
+        "hasImg": true
+    },
+    {
+        "id": "3a55bcb4-8fd6-4a4b-bc07-3d7408ab973b",
+        "word": "milk chocolate",
+        "phonetic": "mɪlk tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate that is made from cocoa solids, milk powder, sugar, and often a small amount of vanilla or other flavorings",
+        "defineVi": "một loại sô cô la được làm từ cacao rắn, sữa bột, đường và thường là một lượng nhỏ vani hoặc các hương liệu khác"
+    },
+    {
+        "id": "f97ebedf-a1ff-493c-9061-1f46ea6c5abe",
+        "word": "white chocolate",
+        "phonetic": "waɪt tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate that is made from cocoa butter, sugar, milk solids, and often a small amount of vanilla or other flavorings",
+        "defineVi": "một loại sô cô la được làm từ bơ ca cao, đường, sữa đặc và thường có một lượng nhỏ vani hoặc các hương liệu khác"
+    },
+    {
+        "id": "9fc1391a-619a-416f-8ea9-226b4c9231dd",
+        "word": "ruby chocolate",
+        "phonetic": "ɹuːbi tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate made from ruby cocoa beans, which have a naturally pinkish hue",
+        "defineVi": "một loại sô cô la làm từ hạt ca cao màu hồng ngọc, có màu hơi hồng tự nhiên"
+    },
+    {
+        "id": "ca490fd1-ed80-4efc-a3f4-a18ff652985c",
+        "word": "baking chocolate",
+        "phonetic": "beɪkɪŋ tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate that is made from pure cocoa solids and does not contain any added sugar or milk solids",
+        "defineVi": "một loại sô cô la được làm từ ca cao rắn nguyên chất và không chứa thêm đường hoặc chất rắn sữa"
+    },
+    {
+        "id": "7116236a-d209-49c5-9ca4-45ebc7e6faf5",
+        "word": "modeling chocolate",
+        "phonetic": "mɑːdəlɪŋ tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a confectionery material made from melted chocolate and corn syrup or other sweeteners, used in cake decorating",
+        "defineVi": "một loại bánh kẹo làm từ sô cô la tan chảy và xi-rô ngô hoặc chất làm ngọt khác, được sử dụng để trang trí bánh"
+    },
+    {
+        "id": "971c1dd7-1c9b-487d-a2e1-5a13de98b59d",
+        "word": "raw chocolate",
+        "phonetic": "ɹɔː tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "unprocessed or minimally processed chocolate made from cocoa beans that have not been roasted",
+        "defineVi": "sô cô la chưa qua chế biến hoặc chế biến tối thiểu làm từ hạt ca cao chưa được rang"
+    },
+    {
+        "id": "8d63e7b6-b098-4397-9d98-6ce6455689aa",
+        "word": "compound chocolate",
+        "phonetic": "kɑːmpaʊnd tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate substitute made from a combination of cocoa powder, vegetable fats or oils, and sweeteners",
+        "defineVi": "một loại sô cô la thay thế được làm từ sự kết hợp của bột ca cao, chất béo hoặc dầu thực vật và chất làm ngọt"
+    },
+    {
+        "id": "6a66156c-46fb-42a2-99c9-14f85e6f7b2b",
+        "word": "couverture chocolate",
+        "phonetic": "kuːvɜːtʃɚ tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a high-quality chocolate that has a higher percentage of cocoa solids and cocoa butter compared to regular chocolate",
+        "defineVi": "một loại sô cô la chất lượng cao có tỷ lệ chất rắn ca cao và bơ ca cao cao hơn so với sô cô la thông thường"
+    },
+    {
+        "id": "97ecadbf-12c9-4847-8325-6d997e4fc2d2",
+        "word": "chocolate bar",
+        "phonetic": "tʃɑːklət bɑːɹ ",
+        "type": "noun",
+        "defineEn": "a flat, rectangular-shaped food made from chocolate that is usually divided into smaller pieces for easy consumption",
+        "defineVi": "một loại thực phẩm phẳng, hình chữ nhật làm từ sô cô la thường được chia thành các miếng nhỏ hơn để dễ tiêu thụ",
+        "hasImg": true
+    },
+    {
+        "id": "34fc7f3d-8f59-430a-80e9-abd658f7b45e",
+        "word": "chocolate chip",
+        "phonetic": "tʃɑːklət tʃɪp ",
+        "type": "noun",
+        "defineEn": "a small, typically flat piece of chocolate used in baking or confectionery",
+        "defineVi": "một miếng sô cô la nhỏ, thường phẳng được sử dụng trong nướng bánh hoặc bánh kẹo"
+    },
+    {
+        "id": "6e2e354d-fc3a-46a6-a7ec-947064929f9d",
+        "word": "bittersweet chocolate",
+        "phonetic": "bɪɾɚswiːt tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "chocolate liquor with cocoa butter and small amounts of sugar and vanilla; lecithin is usually added",
+        "defineVi": "rượu sô cô la với bơ ca cao, một lượng nhỏ đường và vani; lecithin thường được thêm vào"
+    },
+    {
+        "id": "a77fa250-936c-4680-b8d7-c31671e39963",
+        "word": "semi-sweet chocolate",
+        "phonetic": "sɛmaɪswiːt tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of chocolate that contains a higher percentage of cocoa solids and less sugar than milk chocolate, but is sweeter than bittersweet chocolate",
+        "defineVi": "một loại sô cô la có tỷ lệ ca cao rắn cao hơn và ít đường hơn sô cô la sữa, nhưng ngọt hơn sô cô la đắng"
+    },
+    {
+        "id": "9885e0f9-707a-4b68-9643-e01e22a7d7a0",
+        "word": "candy bar",
+        "phonetic": "kændi bɑːɹ ",
+        "type": "noun",
+        "defineEn": "a type of confectionery that is made from a mixture of chocolate and other ingredients such as nuts, caramel, nougat or fruit",
+        "defineVi": "một loại bánh kẹo được làm từ hỗn hợp sô cô la và các thành phần khác như các loại hạt, caramel, kẹo hạnh phúc hoặc trái cây"
+    },
+    {
+        "id": "99dddd3d-b451-4f1e-871d-c2bd6f2b30a7",
+        "word": "sweets",
+        "phonetic": "swiːts ",
+        "type": "noun",
+        "defineEn": "a small piece of food that contains sugar and sometimes chocolate",
+        "defineVi": "một miếng thức ăn nhỏ có chứa đường và đôi khi là sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "c3db6c8b-a0b4-46d8-90d3-ced49dee4967",
+        "word": "confectionery",
+        "phonetic": "kənfɛkʃənɛɹi ",
+        "type": "noun",
+        "defineEn": "a range of sweet food items, such as candies, chocolates, and pastries, that are typically made with sugar, chocolate, and other sweeteners",
+        "defineVi": "một loạt các mặt hàng thực phẩm ngọt, chẳng hạn như kẹo, sôcôla và bánh ngọt, thường được làm bằng đường, sô cô la và các chất làm ngọt khác",
+        "hasImg": true
+    },
+    {
+        "id": "12075660-7054-4d29-a788-c5083481bcbf",
+        "word": "caramel",
+        "phonetic": "kæɹəməl ",
+        "type": "noun",
+        "defineEn": "a soft sweet made with cream, butter, and boiled sugar",
+        "defineVi": "một loại ngọt mềm làm từ kem, bơ và đường đun sôi",
+        "hasImg": true
+    },
+    {
+        "id": "fd20793b-43f1-4687-a80c-deb41c79d533",
+        "word": "marshmallow",
+        "phonetic": "mɑːɹʃmɐloʊ ",
+        "type": "noun",
+        "defineEn": "a sweet made of sugar and gelatin",
+        "defineVi": "một loại ngọt làm từ đường và gelatin",
+        "hasImg": true
+    },
+    {
+        "id": "8529e51f-3d69-46c0-b941-00fa3a33cb26",
+        "word": "marshmallow fluff",
+        "phonetic": "mɑːɹʃmɐloʊ flʌf ",
+        "type": "noun",
+        "defineEn": "a sweet, spreadable confection made from sugar, corn syrup, egg whites, and flavorings, and is often used as a topping or filling for desserts",
+        "defineVi": "một loại bánh kẹo ngọt, dễ phết được làm từ đường, xi-rô ngô, lòng trắng trứng và hương liệu, và thường được dùng làm lớp phủ hoặc nhân cho món tráng miệng"
+    },
+    {
+        "id": "fb466d67-43db-45d1-b67c-79d7b932568b",
+        "word": "taffy",
+        "phonetic": "tæfi ",
+        "type": "noun",
+        "defineEn": "a soft sweet which is made of a thick substance produced by boiling sugar and then flavored",
+        "defineVi": "một loại ngọt mềm được làm từ một chất dày được tạo ra bằng cách đun sôi đường và sau đó có hương vị",
+        "hasImg": true
+    },
+    {
+        "id": "3044c97a-035c-4ba0-a768-d12cf55fd812",
+        "word": "lemon drop",
+        "phonetic": "lɛmən dɹɑːp ",
+        "type": "noun",
+        "defineEn": "a type of hard candy that is flavored with lemon and often coated with sugar",
+        "defineVi": "một loại kẹo cứng có hương vị chanh và thường được phủ đường"
+    },
+    {
+        "id": "0004bd58-8a61-45c1-87af-d1c52ccec56f",
+        "word": "jelly bean",
+        "phonetic": "dʒɛli biːn ",
+        "type": "noun",
+        "defineEn": "a small sweet in the shape of a bean which is hard on the outside and soft on the inside",
+        "defineVi": "một loại kẹo nhỏ có hình hạt đậu cứng ở bên ngoài và mềm ở bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "91375718-2f27-471d-b1b5-465c0b1df023",
+        "word": "gumdrop",
+        "phonetic": "ɡʌmdɹɑːp ",
+        "type": "noun",
+        "defineEn": "a small sweet made of jelly",
+        "defineVi": "một món ngọt nhỏ làm từ thạch",
+        "hasImg": true
+    },
+    {
+        "id": "f18e4489-d40a-4977-b365-16bc767af288",
+        "word": "sugar candy",
+        "phonetic": "ʃʊɡɚ kændi ",
+        "type": "noun",
+        "defineEn": "a type of confectionery that is made from sugar, corn syrup, and other sweeteners, and often flavored with natural or artificial flavorings",
+        "defineVi": "một loại bánh kẹo được làm từ đường, xi-rô ngô và các chất làm ngọt khác, và thường có hương liệu tự nhiên hoặc nhân tạo"
+    },
+    {
+        "id": "145898c5-dafb-4443-9c30-84e3b59b6ff5",
+        "word": "hard candy",
+        "phonetic": "hɑːɹd kændi ",
+        "type": "noun",
+        "defineEn": "a hard and colored candy often with a fruity taste, which is made of boiled corn syrup and sugar",
+        "defineVi": "một loại kẹo cứng và có màu thường có hương vị trái cây, được làm từ xi-rô ngô đun sôi và đường",
+        "hasImg": true
+    },
+    {
+        "id": "e9693a11-11c6-47f6-9c10-0438bc524814",
+        "word": "brittle",
+        "phonetic": "bɹɪɾəl ",
+        "type": "noun",
+        "defineEn": "a type of hard, crunchy candy that is made by cooking sugar and nuts or seeds together until it hardens",
+        "defineVi": "một loại kẹo cứng, giòn được làm bằng cách nấu đường và các loại hạt hoặc hạt với nhau cho đến khi cứng lại"
+    },
+    {
+        "id": "35d53a0c-42cc-4c92-9420-2d224b6b74d9",
+        "word": "nougat",
+        "phonetic": "nuːɡət ",
+        "type": "noun",
+        "defineEn": "a thick sweet filled with nuts or fruit pieces",
+        "defineVi": "một loại kẹo dày chứa đầy các loại hạt hoặc miếng trái cây",
+        "hasImg": true
+    },
+    {
+        "id": "1b963d54-7c99-409b-90da-743cc154b02c",
+        "word": "rock candy",
+        "phonetic": "ɹɑːk kændi ",
+        "type": "noun",
+        "defineEn": "a hard sugary sweet in the shape of crystals",
+        "defineVi": "một loại đường ngọt cứng ở dạng tinh thể",
+        "hasImg": true
+    },
+    {
+        "id": "57f98b45-e1a1-432d-857f-044b1745b917",
+        "word": "cotton candy",
+        "phonetic": "kɑːʔn̩ kændi ",
+        "type": "noun",
+        "defineEn": "a mass of sticky threads made by melting sugar, served on a stick",
+        "defineVi": "một khối các sợi dính được làm bằng cách nấu chảy đường, được phục vụ trên một cây gậy",
+        "hasImg": true
+    },
+    {
+        "id": "3da868ad-0846-4d75-afea-58cf05b7d524",
+        "word": "toffee",
+        "phonetic": "tɑːfiː ",
+        "type": "noun",
+        "defineEn": "a soft sweet which is made by boiling butter and sugar together and flavoring it",
+        "defineVi": "một loại ngọt mềm được làm bằng cách đun sôi bơ và đường với nhau và tạo hương vị cho nó",
+        "hasImg": true
+    },
+    {
+        "id": "ce4372c9-3c22-45d9-94da-2e452abc5eb1",
+        "word": "butterscotch",
+        "phonetic": "bʌɾɚskɑːtʃ ",
+        "type": "noun",
+        "defineEn": "a hard brown sweet made from sugar and butter boiled together",
+        "defineVi": "một loại kẹo cứng màu nâu làm từ đường và bơ đun sôi cùng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "c74b8acc-fdf7-4175-815f-3a85c3c880ca",
+        "word": "candy cane",
+        "phonetic": "kændi keɪn ",
+        "type": "noun",
+        "defineEn": "a hard sweet on a stick with one curved end",
+        "defineVi": "kẹo cứng trên que có một đầu cong",
+        "hasImg": true
+    },
+    {
+        "id": "b67463b7-c90d-47ba-8658-1f661254740b",
+        "word": "jawbreaker",
+        "phonetic": "dʒɔːbɹeɪkɚ ",
+        "type": "noun",
+        "defineEn": "a large sweet that is hard and round",
+        "defineVi": "một loại ngọt lớn cứng và tròn",
+        "hasImg": true
+    },
+    {
+        "id": "7f2da98e-ea0e-4240-aed9-d7a0500f26f7",
+        "word": "lollipop",
+        "phonetic": "lɑːlɪpɑːp ",
+        "type": "noun",
+        "defineEn": "a type of candy that is flat or round and is on a stick",
+        "defineVi": "một loại kẹo phẳng hoặc tròn và ở trên một cây gậy",
+        "hasImg": true
+    },
+    {
+        "id": "b9c0c9dd-4314-43a2-beea-acf3a9da978a",
+        "word": "Turkish delight",
+        "phonetic": "tɜːkɪʃ dᵻlaɪt ",
+        "type": "noun",
+        "defineEn": "a soft sweet made from jelly flavored with fruit and covered with sugar",
+        "defineVi": "một loại ngọt mềm làm từ thạch có hương vị trái cây và phủ đường",
+        "hasImg": true
+    },
+    {
+        "id": "a4be0f90-70fa-432d-933c-411eb5c1efea",
+        "word": "acid drop",
+        "phonetic": "æsɪd dɹɑːp ",
+        "type": "noun",
+        "defineEn": "a hard sweet that tastes sour",
+        "defineVi": "một loại ngọt cứng có vị chua",
+        "hasImg": true
+    },
+    {
+        "id": "845ea7ab-0758-40b8-baa4-e5256d989d19",
+        "word": "barley sugar",
+        "phonetic": "bɑːɹli ʃʊɡɚ ",
+        "type": "noun",
+        "defineEn": "‌a type of hard and clear sweet which is made from boiled sugar",
+        "defineVi": "‌một loại ngọt cứng và trong được làm từ đường đun sôi",
+        "hasImg": true
+    },
+    {
+        "id": "08263c13-8b1a-41c9-b9bc-7452ff042942",
+        "word": "bonbon",
+        "phonetic": "bɑːnbɑːn ",
+        "type": "noun",
+        "defineEn": "a sweet with a nut, etc. inside covered in chocolate",
+        "defineVi": "một loại kẹo có hạt, v.v. bên trong phủ sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "7d1dd7fd-1b5c-4774-b5fb-1fab4e9472b6",
+        "word": "bubble gum",
+        "phonetic": "bʌbəl ɡʌm ",
+        "type": "noun",
+        "defineEn": "a kind of chewing gum that when blown takes the shape of a bubble",
+        "defineVi": "một loại kẹo cao su khi thổi sẽ có hình bong bóng",
+        "hasImg": true
+    },
+    {
+        "id": "227d44af-b560-41a1-87d9-4f20feff0e2b",
+        "word": "candyfloss",
+        "phonetic": "kændɪflɔs ",
+        "type": "noun",
+        "defineEn": "a mass of sticky threads made by melting sugar, served on a stick",
+        "defineVi": "một khối các sợi dính được làm bằng cách nấu chảy đường, được phục vụ trên một cây gậy",
+        "hasImg": true
+    },
+    {
+        "id": "b006aa20-0347-4721-a93c-ec16db02160f",
+        "word": "chewing gum",
+        "phonetic": "tʃuːɪŋ ɡʌm ",
+        "type": "noun",
+        "defineEn": "a substance for chewing with different tastes such as strawberry, mint, etc.",
+        "defineVi": "một chất để nhai với các vị khác nhau như dâu tây, bạc hà, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "34c24f66-4acd-4bb5-a252-3f3a7a78440c",
+        "word": "comfit",
+        "phonetic": "kʌmfɪt ",
+        "type": "noun",
+        "defineEn": "a sweet made with nuts, seeds, and pieces of dried fruit, coated in sugar",
+        "defineVi": "một món ngọt làm từ các loại hạt, hạt và miếng trái cây sấy khô, phủ đường",
+        "hasImg": true
+    },
+    {
+        "id": "4553e7c4-3ddb-4411-a818-2ce87f866311",
+        "word": "gum ball",
+        "phonetic": "ɡʌm bɔːl ",
+        "type": "noun",
+        "defineEn": "a small colored ball of chewing gum, which is sometimes covered with sugar",
+        "defineVi": "một viên kẹo cao su nhỏ có màu, đôi khi được phủ đường",
+        "hasImg": true
+    },
+    {
+        "id": "059ad426-2b5c-4e44-9dea-e978d81039e2",
+        "word": "pastille",
+        "phonetic": "pæstɪl ",
+        "type": "noun",
+        "defineEn": "a sweet that contains medicine or is flavored with fruit to treat sore throat",
+        "defineVi": "một loại ngọt có chứa thuốc hoặc có hương vị trái cây để điều trị đau họng",
+        "hasImg": true
+    },
+    {
+        "id": "216881ad-a3d6-47f7-bb9f-bef88446928c",
+        "word": "peppermint",
+        "phonetic": "pɛpɚmɪnt ",
+        "type": "noun",
+        "defineEn": "a candy made with peppermint oil",
+        "defineVi": "kẹo làm bằng dầu bạc hà",
+        "hasImg": true
+    },
+    {
+        "id": "2d9dc483-723e-4fc8-b0d8-88fd1ea0f029",
+        "word": "praline",
+        "phonetic": "pɹeɪlaɪn ",
+        "type": "noun",
+        "defineEn": "a sweet food made by cooking nuts in boiling sugar and used as a filling for chocolates",
+        "defineVi": "một món ăn ngọt được làm bằng cách nấu các loại hạt trong đường sôi và dùng làm nhân cho sôcôla",
+        "hasImg": true
+    },
+    {
+        "id": "c38a8cea-911c-4ba0-9fc0-e2be7cff5c2b",
+        "word": "sugarplum",
+        "phonetic": "ʃʊɡɚpləm ",
+        "type": "noun",
+        "defineEn": "a small round flavored sweet",
+        "defineVi": "một viên tròn nhỏ có vị ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "3d5acc63-00b2-4a38-b65d-6e1a749f3de4",
+        "word": "truffle",
+        "phonetic": "tɹʌfəl ",
+        "type": "noun",
+        "defineEn": "a soft chocolate sweet",
+        "defineVi": "một sô cô la mềm ngọt ngào",
+        "hasImg": true
+    },
+    {
+        "id": "325ad95b-af8b-4aba-bb1a-d7b793a5480a",
+        "word": "gummy candy",
+        "phonetic": "ɡʌmi kændi ",
+        "type": "noun",
+        "defineEn": "soft, chewy confectionery made from sugar, flavorings, colorings, and gelatin or gelling agents, often enjoyed as a sweet treat",
+        "defineVi": "bánh kẹo mềm, dai làm từ đường, hương liệu, chất tạo màu và gelatin hoặc chất tạo gel, thường được thưởng thức như một món ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "baf2eba9-96af-4e22-8f0b-403741dd37dc",
+        "word": "gummy bear",
+        "phonetic": "ɡʌmi bɛɹ ",
+        "type": "noun",
+        "defineEn": "a small, bear-shaped gummy candy made from sugar, flavorings, colorings, and gelatin or other gelling agents",
+        "defineVi": "một loại kẹo dẻo hình con gấu nhỏ làm từ đường, hương liệu, chất tạo màu và gelatin hoặc các chất tạo gel khác"
+    },
+    {
+        "id": "899f66d2-d41c-44a1-a066-8db0b8dc986f",
+        "word": "fudge",
+        "phonetic": "fʌdʒ ",
+        "type": "noun",
+        "defineEn": "a creamy brown sweet made with milk, sugar, and butter",
+        "defineVi": "một loại kem ngọt màu nâu được làm từ sữa, đường và bơ",
+        "hasImg": true
+    },
+    {
+        "id": "4f5900ea-8bac-4ccb-a095-d66a804e72c1",
+        "word": "gummi worm",
+        "phonetic": "ɡʌmi wɜːm ",
+        "type": "noun",
+        "defineEn": "a worm-shaped gummy candy made from sugar, flavorings, colorings, and gelatin or other gelling agents",
+        "defineVi": "một loại kẹo dẻo hình con sâu được làm từ đường, hương liệu, chất tạo màu và gelatin hoặc các chất tạo gel khác"
+    },
+    {
+        "id": "f4d346d2-9bd2-4609-be9f-b26ed9f9d5c5",
+        "word": "skittles",
+        "phonetic": "skɪɾəlz ",
+        "type": "noun",
+        "defineEn": "small, colorful, fruit-flavored candies with a hard shell and a chewy center",
+        "defineVi": "những viên kẹo nhỏ, nhiều màu sắc, có hương vị trái cây với lớp vỏ cứng và phần nhân dai"
+    }
+]

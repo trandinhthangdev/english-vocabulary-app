@@ -1,0 +1,360 @@
+[
+    {
+        "id": "bdcb84f2-90bf-43a5-b8a0-e75b4af50e9e",
+        "word": "health",
+        "phonetic": "hɛlθ ",
+        "type": "noun",
+        "defineEn": "the general condition of a person's mind or body",
+        "defineVi": "tình trạng chung của tâm trí hoặc cơ thể của một người"
+    },
+    {
+        "id": "202f3bed-6eb2-46a9-a9fb-2ad72310ba59",
+        "word": "hippocratic oath",
+        "phonetic": "hɪpəkɹæɾɪk oʊθ ",
+        "type": "noun",
+        "defineEn": "an oath taken by physicians to observe medical ethics deriving from Hippocrates",
+        "defineVi": "một lời thề của các bác sĩ để tuân thủ đạo đức y tế bắt nguồn từ Hippocrates"
+    },
+    {
+        "id": "1685e6e5-3b05-4ab8-aada-98c15091a1ba",
+        "word": "internship",
+        "phonetic": "ɪntɜːnʃɪp ",
+        "type": "noun",
+        "defineEn": "a period of time spent working for free or little pay in order to gain experience or to become qualified in a particular field",
+        "defineVi": "một khoảng thời gian làm việc miễn phí hoặc trả ít để có được kinh nghiệm hoặc để trở nên có trình độ trong một lĩnh vực cụ thể"
+    },
+    {
+        "id": "2f141ae4-dd63-4d68-9c4b-8c3f7973428f",
+        "word": "nursing",
+        "phonetic": "nɜːsɪŋ ",
+        "type": "noun",
+        "defineEn": "the profession or practice of providing medical care and attention to sick or injured people, especially in a hospital or other healthcare setting",
+        "defineVi": "nghề hoặc thực hành cung cấp dịch vụ chăm sóc y tế và chú ý đến những người bị bệnh hoặc bị thương, đặc biệt là trong bệnh viện hoặc cơ sở chăm sóc sức khỏe khác",
+        "hasImg": true
+    },
+    {
+        "id": "0faa6a2c-842c-432e-bb93-638483d9c7f3",
+        "word": "practice",
+        "phonetic": "pɹæktɪs ",
+        "type": "noun",
+        "defineEn": "the work of a doctor, lawyer, or dentist; the place where such people work",
+        "defineVi": "công việc của bác sĩ, luật sư hoặc nha sĩ; nơi mà những người như vậy làm việc"
+    },
+    {
+        "id": "c6d08811-95d6-4042-9b56-edd8e3938890",
+        "word": "prescription",
+        "phonetic": "pɹɪskɹɪpʃən ",
+        "type": "noun",
+        "defineEn": "the written instructions of a doctor that allow the patient to get the medicines needed",
+        "defineVi": "hướng dẫn bằng văn bản của bác sĩ cho phép bệnh nhân lấy các loại thuốc cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "942d5be7-8705-4bcd-914c-4778d0f0e8de",
+        "word": "socialized medicine",
+        "phonetic": "soʊʃəlaɪzd mɛdəsən ",
+        "type": "noun",
+        "defineEn": "‌medical and hospital services provided or paid for by the government for all the people in a community, nation, or district",
+        "defineVi": "‌các dịch vụ y tế và bệnh viện do chính phủ cung cấp hoặc thanh toán cho tất cả mọi người trong một cộng đồng, quốc gia hoặc quận"
+    },
+    {
+        "id": "929af1ec-9b37-4e44-9f4e-8e2d47005659",
+        "word": "triage",
+        "phonetic": "tɹiːɑːʒ ",
+        "type": "noun",
+        "defineEn": "the sorting of the sick or injured according to their need for emergency medical attention",
+        "defineVi": "phân loại người bệnh hoặc bị thương theo nhu cầu chăm sóc y tế khẩn cấp của họ"
+    },
+    {
+        "id": "16ed9ff1-bcb3-41a5-9efd-bac537a9782d",
+        "word": "administration",
+        "phonetic": "ɐdmɪnɪstɹeɪʃən ",
+        "type": "noun",
+        "defineEn": "the act of advising and authorizing the use of a medicine or treatment",
+        "defineVi": "hành động tư vấn và cho phép sử dụng thuốc hoặc điều trị",
+        "hasImg": true
+    },
+    {
+        "id": "5b2ba370-b3b0-4caf-afb1-8f2a48b7eaf8",
+        "word": "cure",
+        "phonetic": "kjʊɹ ",
+        "type": "noun",
+        "defineEn": "a treatment or medication  for a certain disease or injury",
+        "defineVi": "một phương pháp điều trị hoặc thuốc cho một số bệnh hoặc chấn thương",
+        "hasImg": true
+    },
+    {
+        "id": "769e473d-2269-4203-a89d-22687bb24609",
+        "word": "drug",
+        "phonetic": "dɹʌɡ ",
+        "type": "noun",
+        "defineEn": "any substance that is used in medicine or as a medicine",
+        "defineVi": "bất kỳ chất nào được sử dụng trong y học hoặc làm thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "8625350f-921a-484c-ab4b-d4b25cf707dc",
+        "word": "medicament",
+        "phonetic": "mɛdɪkəmənt ",
+        "type": "noun",
+        "defineEn": "(medicine) something that treats or prevents or alleviates the symptoms of disease",
+        "defineVi": "(y học) cái gì đó điều trị hoặc ngăn ngừa hoặc làm giảm bớt các triệu chứng của bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "fdfb377d-be62-45cf-a6ac-29d519865653",
+        "word": "remedy",
+        "phonetic": "ɹɛmədi ",
+        "type": "noun",
+        "defineEn": "a treatment or medicine for a disease or to reduce pain that is not severe",
+        "defineVi": "một phương pháp điều trị hoặc thuốc cho một căn bệnh hoặc để giảm đau không nghiêm trọng",
+        "hasImg": true
+    },
+    {
+        "id": "f58f624e-ce05-45de-ab11-0b8206673c08",
+        "word": "operation",
+        "phonetic": "ɑːpɚɹeɪʃən ",
+        "type": "noun",
+        "defineEn": "a medical process in which a part of body is cut open to repair or remove a damaged organ",
+        "defineVi": "một quá trình y tế trong đó một phần của cơ thể được cắt ra để sửa chữa hoặc loại bỏ một cơ quan bị hư hỏng",
+        "hasImg": true
+    },
+    {
+        "id": "1cbee5d8-137e-4405-bcd6-f4fcb97efa7b",
+        "word": "diagnosis",
+        "phonetic": "daɪəɡnoʊsɪs ",
+        "type": "noun",
+        "defineEn": "the identification of the nature and cause of an illness or other problem",
+        "defineVi": "việc xác định bản chất và nguyên nhân của một căn bệnh hoặc vấn đề khác",
+        "hasImg": true
+    },
+    {
+        "id": "6168567a-4157-4a82-8ae7-866edf12e5ae",
+        "word": "contraindication",
+        "phonetic": "kɑːntɹəɪndɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "(medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment",
+        "defineVi": "(y học) lý do khiến việc kê đơn một loại thuốc cụ thể hoặc áp dụng một thủ thuật hoặc phương pháp điều trị cụ thể là không nên"
+    },
+    {
+        "id": "19aec1e9-0cec-4f17-8c41-328bfa6aa0d1",
+        "word": "dosage",
+        "phonetic": "doʊsɪdʒ ",
+        "type": "noun",
+        "defineEn": "a prescribed amount of medicine that is taken regularly",
+        "defineVi": "một lượng thuốc theo quy định được thực hiện thường xuyên"
+    },
+    {
+        "id": "9d2f3610-6e2d-4577-a950-02a3340c2c9a",
+        "word": "injection",
+        "phonetic": "ɪndʒɛkʃən ",
+        "type": "noun",
+        "defineEn": "the action of putting a drug into a person's body using a syringe",
+        "defineVi": "hành động đưa thuốc vào cơ thể người bằng ống tiêm",
+        "hasImg": true
+    },
+    {
+        "id": "e33f8125-3bc0-4a35-b6ec-405c8c119c9e",
+        "word": "side effect",
+        "phonetic": "saɪd ɪfɛkt ",
+        "type": "noun",
+        "defineEn": "a secondary effect of any drug or medicine, usually an undesirable one",
+        "defineVi": "tác dụng phụ của bất kỳ loại thuốc hoặc thuốc nào, thường là tác dụng không mong muốn"
+    },
+    {
+        "id": "f4280fee-6ba3-4180-94a1-5d6d7082d053",
+        "word": "mental health",
+        "phonetic": "mɛntəl hɛlθ ",
+        "type": "noun",
+        "defineEn": "the well-being of a person's mind",
+        "defineVi": "hạnh phúc của tâm trí của một người"
+    },
+    {
+        "id": "163f2e98-df56-4334-b097-3e2e474c819e",
+        "word": "aftereffect",
+        "phonetic": "æftɚɹɪfɛkt ",
+        "type": "noun",
+        "defineEn": "an unexpected and mostly unpleasant effect of taking a drug, undergoing a medical treatment or procedure, etc.",
+        "defineVi": "một hiệu ứng bất ngờ và chủ yếu là khó chịu khi dùng thuốc, trải qua điều trị hoặc thủ thuật y tế, v.v."
+    },
+    {
+        "id": "a845775c-0139-4bf3-8918-2594e549ae3b",
+        "word": "medication",
+        "phonetic": "mɛdɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "something that we take to prevent or treat a disease, or to feel less pain",
+        "defineVi": "thứ gì đó mà chúng ta dùng để ngăn ngừa hoặc điều trị bệnh hoặc để cảm thấy bớt đau",
+        "hasImg": true
+    },
+    {
+        "id": "1082fe80-2634-4467-8238-468eb805e9ee",
+        "word": "doctor",
+        "phonetic": "dɑːktɚ ",
+        "type": "noun",
+        "defineEn": "someone who has studied medicine and treats sick or injured people",
+        "defineVi": "một người đã nghiên cứu y học và điều trị những người bị bệnh hoặc bị thương",
+        "hasImg": true
+    },
+    {
+        "id": "82e6b3ad-5ad4-4e2d-b7e3-52e766a351a0",
+        "word": "rejection",
+        "phonetic": "ɹᵻdʒɛkʃən ",
+        "type": "noun",
+        "defineEn": "(medicine) an immunological response that refuses to accept substances or organisms that are recognized as foreign",
+        "defineVi": "(y học) phản ứng miễn dịch từ chối tiếp nhận các chất hoặc sinh vật được coi là ngoại lai"
+    },
+    {
+        "id": "74995a63-e992-48b9-92b1-144bbc2c872d",
+        "word": "donor",
+        "phonetic": "doʊnɚ ",
+        "type": "noun",
+        "defineEn": "(medicine) someone who gives blood or tissue or an organ to be used in another person (the host)",
+        "defineVi": "(y học) người cho máu, mô hoặc cơ quan để dùng cho người khác (vật chủ)"
+    },
+    {
+        "id": "ed4f98d7-62d6-452d-ad03-7c087bbf36c5",
+        "word": "procedure",
+        "phonetic": "pɹəsiːdʒɚ ",
+        "type": "noun",
+        "defineEn": "a medical operation",
+        "defineVi": "một hoạt động y tế",
+        "hasImg": true
+    },
+    {
+        "id": "0bcb4a50-2ae7-494f-bc69-c3bbd6853a82",
+        "word": "admission",
+        "phonetic": "ɐdmɪʃən ",
+        "type": "noun",
+        "defineEn": "a person who is allowed to use a medical facility",
+        "defineVi": "một người được phép sử dụng một cơ sở y tế",
+        "hasImg": true
+    },
+    {
+        "id": "5ff4088a-9eb0-4a9e-9071-df254deb499d",
+        "word": "ambulance",
+        "phonetic": "æmbjʊləns ",
+        "type": "noun",
+        "defineEn": "‌a vehicle specially equipped to take sick or injured people to a hospital",
+        "defineVi": "‌một chiếc xe được trang bị đặc biệt để đưa người bị bệnh hoặc bị thương đến bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "df55b1f1-b373-4f1f-aa8b-23e65137e672",
+        "word": "hospitalization",
+        "phonetic": "hɑːspɪɾəlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the fact of being placed in a hospital for medical treatment",
+        "defineVi": "thực tế là được đưa vào bệnh viện để điều trị y tế",
+        "hasImg": true
+    },
+    {
+        "id": "96dc7d3a-8be2-4886-be89-af49e1d2c0b4",
+        "word": "inpatient",
+        "phonetic": "ɪnpeɪʃənt ",
+        "type": "noun",
+        "defineEn": "a patient who stays in the hospital while they receive treatment",
+        "defineVi": "một bệnh nhân ở lại bệnh viện trong khi họ được điều trị",
+        "hasImg": true
+    },
+    {
+        "id": "f6ff7d2a-a5b3-447e-8722-1d6ca341fc24",
+        "word": "anesthesia",
+        "phonetic": "ænɪsθiːʒə ",
+        "type": "noun",
+        "defineEn": "the condition of losing one's sensation or awareness during surgery and other procedures, particularly by use of special drugs",
+        "defineVi": "tình trạng mất cảm giác hoặc nhận thức trong khi phẫu thuật và các thủ tục khác, đặc biệt là do sử dụng các loại thuốc đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "02890959-abd9-47af-a024-b59286d4d50e",
+        "word": "surgery",
+        "phonetic": "sɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a medical practice that involves cutting open a body part in order to repair, remove, etc. an organ",
+        "defineVi": "một thực hành y tế liên quan đến việc cắt mở một bộ phận cơ thể để sửa chữa, loại bỏ, v.v. một cơ quan",
+        "hasImg": true
+    },
+    {
+        "id": "2eff2b60-28cd-426a-b15c-43f65550e45d",
+        "word": "clinical trial",
+        "phonetic": "klɪnɪkəl tɹaɪəl ",
+        "type": "noun",
+        "defineEn": "a controlled scientific experiment in which the effectiveness and safety of a medical treatment is measured by testing it on people",
+        "defineVi": "một thí nghiệm khoa học có kiểm soát trong đó tính hiệu quả và an toàn của một phương pháp điều trị y tế được đo lường bằng cách thử nghiệm trên người"
+    },
+    {
+        "id": "a05deeb0-1ef8-468a-bb6f-d6dfe4073d81",
+        "word": "informed consent",
+        "phonetic": "ɪnfɔːɹmd kənsɛnt ",
+        "type": "noun",
+        "defineEn": "permission given by a patient to receive a particular treatment, informed of all the possible consequences and risks",
+        "defineVi": "sự cho phép của bệnh nhân để được điều trị cụ thể, được thông báo về tất cả các hậu quả và rủi ro có thể xảy ra"
+    },
+    {
+        "id": "4c94ab41-ac6e-4755-aeba-b2fd333bfd03",
+        "word": "infusion",
+        "phonetic": "ɪnfjuːʒən ",
+        "type": "noun",
+        "defineEn": "a method of administering a drug or other substance by a needle and syringe into the bloodstream",
+        "defineVi": "một phương pháp quản lý thuốc hoặc chất khác bằng kim và ống tiêm vào máu",
+        "hasImg": true
+    },
+    {
+        "id": "82e4ec21-39ea-4769-818e-e59f3b1c1a11",
+        "word": "quarantine",
+        "phonetic": "kwɔːɹəntiːn ",
+        "type": "noun",
+        "defineEn": "a place or period of separation in which someone or something that is suspicious of carrying a dangerous disease is kept away so that others can be safe",
+        "defineVi": "một nơi hoặc khoảng thời gian tách biệt trong đó ai đó hoặc thứ gì đó nghi ngờ mang một căn bệnh nguy hiểm được tránh xa để những người khác được an toàn"
+    },
+    {
+        "id": "d8b88892-29e9-4aea-b4ee-50424db3b8a9",
+        "word": "treatment",
+        "phonetic": "tɹiːtmənt ",
+        "type": "noun",
+        "defineEn": "an action that is done to relieve pain or cure a disease or an illness",
+        "defineVi": "một hành động được thực hiện để giảm đau hoặc chữa bệnh hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "d0b8a2ef-f9cd-4454-9a95-d9ce9f2d862b",
+        "word": "healthcare",
+        "phonetic": "hɛlθkɛɹ ",
+        "type": "noun",
+        "defineEn": "the health services and  treatments given to people",
+        "defineVi": "các dịch vụ y tế và phương pháp điều trị được cung cấp cho mọi người",
+        "hasImg": true
+    },
+    {
+        "id": "44a472c2-0dfe-4f02-94d9-2a625dbb8000",
+        "word": "house call",
+        "phonetic": "haʊs kɔːl ",
+        "type": "noun",
+        "defineEn": "a visit made to a patient or client in their own home by a doctor or other professional",
+        "defineVi": "một chuyến thăm bệnh nhân hoặc khách hàng tại nhà riêng của bác sĩ hoặc chuyên gia khác"
+    },
+    {
+        "id": "55958e40-bc63-465c-8488-2101d7723fac",
+        "word": "malignancy",
+        "phonetic": "məlɪɡnənsi ",
+        "type": "noun",
+        "defineEn": "(medicine) a malignant state; progressive and resistant to treatment and tending to cause death",
+        "defineVi": "(y học) tình trạng ác tính; tiến triển và đề kháng với điều trị và có xu hướng gây tử vong"
+    },
+    {
+        "id": "c0016810-2842-4e23-9000-55f1f7893e16",
+        "word": "drip feed",
+        "phonetic": "dɹɪp fiːd ",
+        "type": "noun",
+        "defineEn": "the administration of a solution (blood or saline or plasma etc.) one drop at a time",
+        "defineVi": "việc sử dụng một dung dịch (máu hoặc nước muối hoặc huyết tương, v.v.) mỗi lần một giọt"
+    },
+    {
+        "id": "d169650c-9744-42a0-b36a-d7d2eff0044b",
+        "word": "aphrodisiac",
+        "phonetic": "æfɹədɪsiæk ",
+        "type": "noun",
+        "defineEn": "a substance or agent, such as certain foods, herbs, or drugs, that is believed to enhance or stimulate sexual desire, arousal, or performance",
+        "defineVi": "một chất hoặc tác nhân, chẳng hạn như một số loại thực phẩm, thảo mộc hoặc thuốc, được cho là có tác dụng tăng cường hoặc kích thích ham muốn, hưng phấn hoặc hiệu suất tình dục"
+    }
+]

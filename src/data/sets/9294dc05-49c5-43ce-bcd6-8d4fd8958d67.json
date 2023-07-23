@@ -1,0 +1,571 @@
+[
+    {
+        "id": "a84fcb10-ce90-4cf2-a708-5dd11abf9afe",
+        "word": "banshee",
+        "phonetic": "bænʃiː ",
+        "type": "noun",
+        "defineEn": "a female spirit from Irish folklore, associated with death and often depicted as a wailing ghostly figure",
+        "defineVi": "một linh hồn nữ trong văn hóa dân gian Ailen, gắn liền với cái chết và thường được miêu tả như một nhân vật ma quái đang than khóc"
+    },
+    {
+        "id": "72fc47ad-450b-4e5d-9dea-ff33828b202d",
+        "word": "yeti",
+        "phonetic": "jɛɾi ",
+        "type": "noun",
+        "defineEn": "a large, ape-like creature said to inhabit the Himalayan region of Nepal, Bhutan, and Tibet",
+        "defineVi": "một sinh vật lớn, giống vượn được cho là sống ở vùng Himalaya của Nepal, Bhutan và Tây Tạng"
+    },
+    {
+        "id": "26e12d4c-5f29-42e5-914c-a4f9c6eaef11",
+        "word": "angel",
+        "phonetic": "eɪndʒəl ",
+        "type": "noun",
+        "defineEn": "a spiritual and holy being with two white wings, believed to be a servant or agent of God",
+        "defineVi": "một sinh vật tâm linh và thánh thiện với hai cánh trắng, được cho là người hầu hoặc đại diện của Chúa",
+        "hasImg": true
+    },
+    {
+        "id": "968bb4cc-9477-46a7-b30e-87238a3a56e3",
+        "word": "brownie",
+        "phonetic": "bɹaʊni ",
+        "type": "noun",
+        "defineEn": "a type of fairy or hobgoblin in Scottish and English folklore, who is said to inhabit households and aid in tasks around the house in exchange for small gifts or treats",
+        "defineVi": "một loại tiên hoặc hobgoblin trong văn hóa dân gian Scotland và Anh, người được cho là sống trong các hộ gia đình và hỗ trợ các công việc xung quanh nhà để đổi lấy những món quà hoặc món quà nhỏ"
+    },
+    {
+        "id": "f1e26db0-be66-43ea-ad57-4c4ad34dc3da",
+        "word": "bunyip",
+        "phonetic": "bʌnjɪp ",
+        "type": "noun",
+        "defineEn": "a mythical creature from Australian Aboriginal mythology that is believed to inhabit bodies of water and is often described as a large, fearsome creature with a mix of different animal features",
+        "defineVi": "một sinh vật thần thoại từ thần thoại của thổ dân Úc được cho là sống ở các vùng nước và thường được mô tả là một sinh vật to lớn, đáng sợ với sự pha trộn của các đặc điểm động vật khác nhau"
+    },
+    {
+        "id": "be5716f9-4ecf-4e94-b768-4fddc4ea5681",
+        "word": "centaur",
+        "phonetic": "sɛntɔːɹ ",
+        "type": "noun",
+        "defineEn": "a mythical creature from Greek mythology with the upper body of a human and the lower body of a horse",
+        "defineVi": "một sinh vật thần thoại từ thần thoại Hy Lạp với phần trên của con người và phần dưới của một con ngựa"
+    },
+    {
+        "id": "3d302464-24c1-4a52-847d-d536197167c7",
+        "word": "cerberus",
+        "phonetic": "sɜːbɚɹəs ",
+        "type": "noun",
+        "defineEn": "a three-headed dog from Greek mythology, known for guarding the entrance to the underworld and preventing the dead from leaving",
+        "defineVi": "một con chó ba đầu trong thần thoại Hy Lạp, được biết đến với việc bảo vệ lối vào thế giới ngầm và ngăn người chết rời đi"
+    },
+    {
+        "id": "b65a963c-2677-43ea-a9f9-89b45dea9a98",
+        "word": "chimera",
+        "phonetic": "kaɪmiəɹə ",
+        "type": "noun",
+        "defineEn": "a mythological creature in Greek mythology. It is typically depicted as a fire-breathing creature with the body and head of a lion, the head of a goat protruding from its back, and a serpent for a tail",
+        "defineVi": "một sinh vật thần thoại trong thần thoại Hy Lạp. Nó thường được miêu tả là một sinh vật phun lửa với thân và đầu sư tử, đầu dê nhô ra sau lưng và đuôi rắn."
+    },
+    {
+        "id": "8b53b355-ebf1-486f-a8a2-188c1976ede8",
+        "word": "chupacabra",
+        "phonetic": "tʃuːpɐkæbɹə ",
+        "type": "noun",
+        "defineEn": "a legendary creature in Latin American folklore, known for attacking and drinking the blood of livestock, especially goats",
+        "defineVi": "một sinh vật huyền thoại trong văn hóa dân gian Mỹ Latinh, được biết đến với việc tấn công và uống máu gia súc, đặc biệt là dê"
+    },
+    {
+        "id": "97acce4b-7e8d-4a11-8b1a-0d9c9bd773f9",
+        "word": "cyclops",
+        "phonetic": "saɪkləps ",
+        "type": "noun",
+        "defineEn": "a mythical creature in Greek mythology that has a single eye in the middle of its forehead",
+        "defineVi": "một sinh vật thần thoại trong thần thoại Hy Lạp có một con mắt ở giữa trán"
+    },
+    {
+        "id": "fdcae2ca-c928-4faa-a87a-0b353ec3a2e2",
+        "word": "demon",
+        "phonetic": "diːmən ",
+        "type": "noun",
+        "defineEn": "an evil supernatural creature",
+        "defineVi": "một sinh vật siêu nhiên độc ác",
+        "hasImg": true
+    },
+    {
+        "id": "b6ee6df7-608b-486d-bb32-ba49cfd710bb",
+        "word": "dragon",
+        "phonetic": "dɹæɡən ",
+        "type": "noun",
+        "defineEn": "a fictional, large winged animal with a long tail that is usually able to breathe fire",
+        "defineVi": "một con vật hư cấu, có cánh lớn với cái đuôi dài thường có thể thở ra lửa",
+        "hasImg": true
+    },
+    {
+        "id": "860f30a8-e083-4fe0-94df-ec7280280175",
+        "word": "dwarf",
+        "phonetic": "dwɔːɹf ",
+        "type": "noun",
+        "defineEn": "a fictional, small human-like creature that generally lives under the ground and works in mines",
+        "defineVi": "một sinh vật hư cấu nhỏ giống con người thường sống dưới lòng đất và làm việc trong hầm mỏ"
+    },
+    {
+        "id": "32d61d78-e2b2-40c1-963d-5d0bda43024d",
+        "word": "echidna",
+        "phonetic": "ɛtʃɪdnə ",
+        "type": "noun",
+        "defineEn": "a half-woman, half-snake creature known as the \"Mother of Monsters\" because she was the mother of many famous monsters",
+        "defineVi": "một sinh vật nửa người nửa rắn được mệnh danh là \"Mẹ của Quái vật\" vì bà là mẹ của nhiều quái vật nổi tiếng"
+    },
+    {
+        "id": "e2735093-accf-4a6e-974a-7323c40e4984",
+        "word": "elf",
+        "phonetic": "ɛlf ",
+        "type": "noun",
+        "defineEn": "(in fairy stories) a small human-like creature that has pointed ears and magical powers",
+        "defineVi": "(trong truyện cổ tích) một sinh vật nhỏ giống người có đôi tai nhọn và sức mạnh ma thuật",
+        "hasImg": true
+    },
+    {
+        "id": "94140205-53e7-42df-a648-5c2d2a3a17f4",
+        "word": "fairy",
+        "phonetic": "fɛɹi ",
+        "type": "noun",
+        "defineEn": "a fictional, small especially female creature that has magical powers",
+        "defineVi": "một sinh vật hư cấu, nhỏ đặc biệt là nữ có sức mạnh ma thuật"
+    },
+    {
+        "id": "5e7683bb-b086-4301-bd4b-b4e6c9e0b411",
+        "word": "faun",
+        "phonetic": "fɔːn ",
+        "type": "noun",
+        "defineEn": "a rustic forest god or spirit that is part human and part goat",
+        "defineVi": "một vị thần rừng mộc mạc hoặc linh hồn là một phần của con người và một phần của dê"
+    },
+    {
+        "id": "14e8e57a-dc7d-4ad0-bad9-d511b83ccc37",
+        "word": "fury",
+        "phonetic": "fjʊɹɹi ",
+        "type": "noun",
+        "defineEn": "the female spirit who punished those who had committed crimes, especially within families",
+        "defineVi": "linh hồn phụ nữ trừng phạt những kẻ đã phạm tội, đặc biệt là trong gia đình"
+    },
+    {
+        "id": "421d495a-fde8-4f26-a80f-a500b6f17ff4",
+        "word": "genie",
+        "phonetic": "dʒiːni ",
+        "type": "noun",
+        "defineEn": "a spirit in Arabian stories that has magical powers, which grants wishes when summoned",
+        "defineVi": "một linh hồn trong những câu chuyện Ả Rập có sức mạnh ma thuật, ban cho điều ước khi được triệu tập"
+    },
+    {
+        "id": "0a5ca6aa-4a53-4ddd-a276-e7f89e7a1070",
+        "word": "giant",
+        "phonetic": "dʒaɪənt ",
+        "type": "noun",
+        "defineEn": "a fictional human-like creature that is extremely large and powerful",
+        "defineVi": "một sinh vật giống con người hư cấu cực kỳ to lớn và mạnh mẽ",
+        "hasImg": true
+    },
+    {
+        "id": "2aec0d11-734f-4a2e-82df-7772b5b6cbac",
+        "word": "gnome",
+        "phonetic": "noʊm ",
+        "type": "noun",
+        "defineEn": "a magical creature in the folklore which resembles a small old man who guards buried treasures",
+        "defineVi": "một sinh vật ma thuật trong văn hóa dân gian giống như một ông già nhỏ bé canh giữ kho báu bị chôn vùi"
+    },
+    {
+        "id": "3664f7e4-4836-419b-aee0-fa043b360ed3",
+        "word": "goblin",
+        "phonetic": "ɡɑːblɪn ",
+        "type": "noun",
+        "defineEn": "a fictional small creature that likes to make trouble for humans or trick them",
+        "defineVi": "một sinh vật nhỏ hư cấu thích gây rắc rối cho con người hoặc lừa họ"
+    },
+    {
+        "id": "ef88e88d-29d8-4f21-9184-2435a040f1ee",
+        "word": "gorgon",
+        "phonetic": "ɡoːɹɡən ",
+        "type": "noun",
+        "defineEn": "a group of three monstrous sisters in Greek mythology, known for their terrifying appearance, with snakes for hair and the ability to turn people to stone with their gaze",
+        "defineVi": "một nhóm ba chị em quái dị trong thần thoại Hy Lạp, được biết đến với vẻ ngoài đáng sợ, với mái tóc rắn và khả năng biến người ta thành đá bằng ánh mắt của họ"
+    },
+    {
+        "id": "31e1aba4-d1a5-4b67-bba0-38723a03200c",
+        "word": "griffin",
+        "phonetic": "ɡɹɪfɪn ",
+        "type": "noun",
+        "defineEn": "a mythical creature with the head, wings, and talons of an eagle, and the body of a lion",
+        "defineVi": "một sinh vật thần thoại với đầu, cánh và móng vuốt của đại bàng và cơ thể của một con sư tử"
+    },
+    {
+        "id": "df55caa2-329c-4baf-bcc6-6bd1b6319b76",
+        "word": "halfling",
+        "phonetic": "hæflɪŋ ",
+        "type": "noun",
+        "defineEn": "a fictional humanoid race that appears in various fantasy novels and games, usually characterized by their small size and agility",
+        "defineVi": "một chủng tộc hình người hư cấu xuất hiện trong nhiều tiểu thuyết và trò chơi giả tưởng khác nhau, thường được đặc trưng bởi kích thước nhỏ và sự nhanh nhẹn của chúng"
+    },
+    {
+        "id": "ac23c16a-f44f-4c79-83c8-451deadd362b",
+        "word": "harpy",
+        "phonetic": "hɑːɹpi ",
+        "type": "noun",
+        "defineEn": "a female monster with the face of a woman and the body of a bird",
+        "defineVi": "một nữ quái vật với khuôn mặt của một người phụ nữ và cơ thể của một con chim"
+    },
+    {
+        "id": "d611a93c-d1fc-4719-b7f6-4a9e73355370",
+        "word": "hippocampus",
+        "phonetic": "hɪpəkæmpəs ",
+        "type": "noun",
+        "defineEn": "a creature that has the upper body of a horse and the lower body of a fish or a dolphin",
+        "defineVi": "một sinh vật có thân trên của ngựa và thân dưới của cá hoặc cá heo"
+    },
+    {
+        "id": "a091c840-cf15-4d34-8bc3-f08e95099363",
+        "word": "hobbit",
+        "phonetic": "hɑːbɪt ",
+        "type": "noun",
+        "defineEn": "a fictional character from J.R.R. Tolkien's novel \"The Hobbit\", and is a member of a race of small, humanoid creatures with hairy feet called hobbits",
+        "defineVi": "một nhân vật hư cấu trong tiểu thuyết \"Người Hobbit\" của JRR Tolkien, và là thành viên của một chủng tộc gồm những sinh vật nhỏ, hình người với đôi chân đầy lông được gọi là hobbit"
+    },
+    {
+        "id": "1b479141-c04a-49ff-8a59-a4e0d418f906",
+        "word": "hydra",
+        "phonetic": "haɪdɹə ",
+        "type": "noun",
+        "defineEn": "a mythical serpent-like creature in Greek mythology that has multiple heads, and if one head is cut off, two more will grow in its place",
+        "defineVi": "một sinh vật giống rắn thần thoại trong thần thoại Hy Lạp có nhiều đầu và nếu một đầu bị chặt đi, hai cái khác sẽ mọc lên ở vị trí đó"
+    },
+    {
+        "id": "7aa0552c-ad79-491b-b92e-7ba2524b22bf",
+        "word": "jackalope",
+        "phonetic": "dʒækɐloʊp ",
+        "type": "noun",
+        "defineEn": "a mythical creature from North American folklore, often depicted as a rabbit with antlers, and celebrated as a symbol of ingenuity and humor",
+        "defineVi": "một sinh vật thần thoại từ văn hóa dân gian Bắc Mỹ, thường được miêu tả là một con thỏ có gạc và được coi là biểu tượng của sự khéo léo và hài hước"
+    },
+    {
+        "id": "3faaafa9-932d-48fc-b57d-5244ef74b449",
+        "word": "Jersey Devil",
+        "phonetic": "dʒɜːsi dɛvəl ",
+        "type": "noun",
+        "defineEn": "a legendary creature said to inhabit the Pine Barrens region of New Jersey in the United States, often described as a kangaroo-like creature with wings, hooves, and a forked tail",
+        "defineVi": "một sinh vật huyền thoại được cho là sống ở vùng Pine Barrens của New Jersey ở Hoa Kỳ, thường được mô tả là một sinh vật giống kangaroo có cánh, móng guốc và đuôi chẻ"
+    },
+    {
+        "id": "2e10e0eb-8906-4328-901b-6bbe56aa060d",
+        "word": "kelpie",
+        "phonetic": "kɛlpaɪ ",
+        "type": "noun",
+        "defineEn": "a shape-shifting water spirit that is said to inhabit the lochs and pools of Scotland",
+        "defineVi": "một linh hồn nước thay đổi hình dạng được cho là sống trong các hồ và hồ ở Scotland"
+    },
+    {
+        "id": "ebc81a69-452f-474b-9bde-6fb089bdc9ab",
+        "word": "kraken",
+        "phonetic": "kɹeɪkən ",
+        "type": "noun",
+        "defineEn": "a legendary sea monster from Scandinavian folklore, typically depicted as a giant squid or octopus that attacks ships",
+        "defineVi": "một con quái vật biển huyền thoại từ văn hóa dân gian Scandinavi, thường được miêu tả là một con mực hoặc bạch tuộc khổng lồ tấn công tàu"
+    },
+    {
+        "id": "8c30cdd8-96ec-4d5c-b9f9-ede8953e3d1a",
+        "word": "krampus",
+        "phonetic": "kɹæmpəs ",
+        "type": "noun",
+        "defineEn": "a figure from Alpine folklore who is depicted as a horned creature with a long tongue, known for punishing misbehaving children during the Christmas season",
+        "defineVi": "một nhân vật trong văn hóa dân gian Alpine được miêu tả là một sinh vật có sừng với chiếc lưỡi dài, được biết đến với việc trừng phạt những đứa trẻ hư trong mùa Giáng sinh"
+    },
+    {
+        "id": "67b67b60-8418-465d-a07d-c719d989068b",
+        "word": "lamia",
+        "phonetic": "læmiə ",
+        "type": "noun",
+        "defineEn": "a female demon or monster in Greek mythology who preys on young children and mothers",
+        "defineVi": "một con quỷ cái hoặc quái vật trong thần thoại Hy Lạp chuyên săn lùng trẻ nhỏ và các bà mẹ"
+    },
+    {
+        "id": "9abc92dd-cf89-45bf-88ca-537740019dfc",
+        "word": "leviathan",
+        "phonetic": "lɛvaɪəθən ",
+        "type": "noun",
+        "defineEn": "a giant sea monster who is sometimes considered to be a demon of chaos and darkness",
+        "defineVi": "một con quái vật biển khổng lồ đôi khi được coi là con quỷ của sự hỗn loạn và bóng tối"
+    },
+    {
+        "id": "ca76a046-7dbc-478f-b87d-08a4e735b76d",
+        "word": "manticore",
+        "phonetic": "mæntɪkoːɹ ",
+        "type": "noun",
+        "defineEn": "a legendary creature with the body of a lion, the wings of a bat, and a human-like face",
+        "defineVi": "một sinh vật huyền thoại với cơ thể của một con sư tử, đôi cánh của một con dơi và một khuôn mặt giống con người"
+    },
+    {
+        "id": "5c77a858-12e6-4f01-b5de-5bf37c3f5907",
+        "word": "medusa",
+        "phonetic": "məduːsə ",
+        "type": "noun",
+        "defineEn": "a creature from Greek mythology with snakes for hair and the power to turn people to stone with her gaze",
+        "defineVi": "một sinh vật trong thần thoại Hy Lạp với mái tóc rắn và sức mạnh biến người ta thành đá bằng ánh mắt của cô ấy"
+    },
+    {
+        "id": "d95ebbfa-a9c3-49c3-a53e-da401156b524",
+        "word": "mermaid",
+        "phonetic": "mɜːmeɪd ",
+        "type": "noun",
+        "defineEn": "a fictional creature that is half woman and half fish, which lives in the sea",
+        "defineVi": "một sinh vật hư cấu nửa người nửa cá, sống ở biển",
+        "hasImg": true
+    },
+    {
+        "id": "7a67859f-f963-47ce-8ff4-263462ef93bf",
+        "word": "merman",
+        "phonetic": "mɜːmən ",
+        "type": "noun",
+        "defineEn": "a mythological creature that is half-man and half-fish, and is usually depicted as having a human upper body and a fish-like tail instead of legs",
+        "defineVi": "một sinh vật thần thoại nửa người nửa cá, và thường được miêu tả là có phần thân trên của con người và một cái đuôi giống cá thay vì chân"
+    },
+    {
+        "id": "6e81bb9e-7e7b-4ec0-bf6b-71c7aaf17685",
+        "word": "minotaur",
+        "phonetic": "mɪnətɔːɹ ",
+        "type": "noun",
+        "defineEn": "a creature from Greek mythology with the head of a bull and the body of a man",
+        "defineVi": "một sinh vật từ thần thoại Hy Lạp với cái đầu của một con bò và cơ thể của một người đàn ông"
+    },
+    {
+        "id": "662e0a9c-fd2e-4224-8146-d9bd5fa970e0",
+        "word": "monster",
+        "phonetic": "mɔnstɚ ",
+        "type": "noun",
+        "defineEn": "a fictional, scary and large creature",
+        "defineVi": "một sinh vật hư cấu, đáng sợ và lớn"
+    },
+    {
+        "id": "b4c738c0-9a3c-4208-8c6b-d0a4b60740ba",
+        "word": "munchkin",
+        "phonetic": "mʌntʃkɪn ",
+        "type": "noun",
+        "defineEn": "a character from the book \"The Wonderful Wizard of Oz\" by L. Frank Baum, and later used to describe a small person, often with a humorous or endearing connotation",
+        "defineVi": "một nhân vật trong cuốn sách \"The Wonderful Wizard of Oz\" của L. Frank Baum, và sau này được dùng để mô tả một người nhỏ bé, thường có ý nghĩa hài hước hoặc đáng yêu"
+    },
+    {
+        "id": "5b4c4c9c-8ad3-4e6c-8565-92e610af4f14",
+        "word": "naga",
+        "phonetic": "nɑːɡə ",
+        "type": "noun",
+        "defineEn": "a mythical creature from Hindu and Buddhist mythology that is typically depicted as a human with the lower body of a snake or serpent",
+        "defineVi": "một sinh vật thần thoại từ thần thoại Ấn Độ giáo và Phật giáo thường được miêu tả là một con người với phần thân dưới của rắn hoặc rắn"
+    },
+    {
+        "id": "08ce400b-1e70-4457-a0df-c6f2bb2fe67e",
+        "word": "nymph",
+        "phonetic": "nɪmf ",
+        "type": "noun",
+        "defineEn": "a fictional spirit of nature that lives in woods, river, etc. and has the shape of a young woman",
+        "defineVi": "một linh hồn hư cấu của thiên nhiên sống trong rừng, sông, v.v. và có hình dạng của một phụ nữ trẻ"
+    },
+    {
+        "id": "d11af5fb-d718-42d5-9b5b-863cb7e4e128",
+        "word": "ogre",
+        "phonetic": "oʊɡɚ ",
+        "type": "noun",
+        "defineEn": "a fictional, scary large creature that likes to eat humans",
+        "defineVi": "một sinh vật to lớn hư cấu, đáng sợ, thích ăn thịt người"
+    },
+    {
+        "id": "6237d47f-50f0-45b7-869b-4ed8b94ee711",
+        "word": "oni",
+        "phonetic": "oʊni ",
+        "type": "noun",
+        "defineEn": "a type of demon or ogre in Japanese folklore",
+        "defineVi": "một loại quỷ hoặc yêu tinh trong văn hóa dân gian Nhật Bản"
+    },
+    {
+        "id": "04c78cbc-1260-4631-96df-6a7a433104d4",
+        "word": "orc",
+        "phonetic": "ɔːɹk ",
+        "type": "noun",
+        "defineEn": "a humanoid creature that is typically portrayed as brutish, aggressive, and warlike",
+        "defineVi": "một sinh vật hình người thường được miêu tả là tàn bạo, hung dữ và hiếu chiến"
+    },
+    {
+        "id": "5c35361c-d211-4452-91b2-a48ae720de19",
+        "word": "pegasus",
+        "phonetic": "pɛɡəsəs ",
+        "type": "noun",
+        "defineEn": "a mythical winged horse usually depicted as white in color",
+        "defineVi": "một con ngựa có cánh thần thoại thường được miêu tả là màu trắng"
+    },
+    {
+        "id": "1ed86b22-3180-4bf9-a670-2c1a3f42403b",
+        "word": "phoenix",
+        "phonetic": "fiːnɪks ",
+        "type": "noun",
+        "defineEn": "a fictional bird with a long life that is born from ashes",
+        "defineVi": "một con chim hư cấu với một cuộc sống lâu dài được sinh ra từ đống tro tàn",
+        "hasImg": true
+    },
+    {
+        "id": "ba632bfc-c43c-4c4f-8af8-23f303172d73",
+        "word": "pixie",
+        "phonetic": "pɪksi ",
+        "type": "noun",
+        "defineEn": "a small, mischievous, supernatural creature from English folklore, typically depicted as a small winged sprite with pointed ears and a pointed hat",
+        "defineVi": "một sinh vật nhỏ, tinh quái, siêu nhiên trong văn hóa dân gian Anh, thường được miêu tả là một thiên thần nhỏ có cánh với đôi tai nhọn và chiếc mũ nhọn",
+        "hasImg": true
+    },
+    {
+        "id": "bc2538ac-ae98-45f9-9948-d3709dae5b36",
+        "word": "roc",
+        "phonetic": "ɹɑːk ",
+        "type": "noun",
+        "defineEn": "a legendary bird of prey in Middle Eastern mythology, typically depicted as large enough to carry off and eat elephants",
+        "defineVi": "một loài chim săn mồi huyền thoại trong thần thoại Trung Đông, thường được miêu tả là đủ lớn để bắt và ăn thịt voi"
+    },
+    {
+        "id": "2118b10a-e0e1-4f40-87d6-fd0d947e6e56",
+        "word": "sasquatch",
+        "phonetic": "sæskwɑːtʃ ",
+        "type": "noun",
+        "defineEn": "a legendary creature in North American folklore that is said to inhabit remote forests, mainly in the Pacific Northwest region of the United States and western Canada",
+        "defineVi": "một sinh vật huyền thoại trong văn hóa dân gian Bắc Mỹ được cho là sống ở những khu rừng hẻo lánh, chủ yếu ở khu vực Tây Bắc Thái Bình Dương của Hoa Kỳ và miền tây Canada"
+    },
+    {
+        "id": "1a7ae39b-4ff4-4cd4-8210-ffdb2fd5225d",
+        "word": "satyr",
+        "phonetic": "sæɾɚ ",
+        "type": "noun",
+        "defineEn": "a creature from Greek mythology that is half-human and half-goat, known for its love of wine and music",
+        "defineVi": "một sinh vật trong thần thoại Hy Lạp nửa người nửa dê, được biết đến với tình yêu rượu vang và âm nhạc"
+    },
+    {
+        "id": "22434ceb-f277-4fcc-91e8-9029ebaa8330",
+        "word": "siren",
+        "phonetic": "saɪɹən ",
+        "type": "noun",
+        "defineEn": "a fictional sea creature that is half woman and half bird or fish which draws sailors to dangerous waters by singing to them",
+        "defineVi": "một sinh vật biển hư cấu nửa phụ nữ và nửa chim hoặc cá thu hút các thủy thủ đến vùng biển nguy hiểm bằng cách hát cho họ nghe"
+    },
+    {
+        "id": "2c6b0232-5bd2-43e9-b94c-50b3a70099f7",
+        "word": "sphinx",
+        "phonetic": "sfɪŋks ",
+        "type": "noun",
+        "defineEn": "a mythical creature with the body of a lion and the head of a human, often depicted in ancient Egyptian and Greek art and mythology as a guardian of temples and tombs",
+        "defineVi": "một sinh vật thần thoại với thân sư tử và đầu người, thường được miêu tả trong nghệ thuật và thần thoại Ai Cập và Hy Lạp cổ đại với tư cách là người bảo vệ các đền thờ và lăng mộ"
+    },
+    {
+        "id": "bbbe06a8-a3d5-4f1f-9622-f4f0ce621383",
+        "word": "spirit",
+        "phonetic": "spɪɹɪt ",
+        "type": "noun",
+        "defineEn": "a supernatural being or force that may be benevolent or malevolent, and which is often associated with specific locations, natural phenomena, or emotions",
+        "defineVi": "một sinh vật hoặc lực lượng siêu nhiên có thể nhân từ hoặc xấu xa và thường được liên kết với các địa điểm, hiện tượng tự nhiên hoặc cảm xúc cụ thể"
+    },
+    {
+        "id": "850908fb-6630-49de-abf6-1961480de639",
+        "word": "sprite",
+        "phonetic": "spɹaɪt ",
+        "type": "noun",
+        "defineEn": "a supernatural creature typically depicted as a small, ethereal being with wings, and is often associated with nature or elemental spirits",
+        "defineVi": "một sinh vật siêu nhiên thường được miêu tả là một sinh vật nhỏ bé, thanh tao có cánh và thường được liên kết với thiên nhiên hoặc các linh hồn nguyên tố"
+    },
+    {
+        "id": "753b9362-7ac8-4ee2-8257-64e9be7f2b74",
+        "word": "fay",
+        "phonetic": "feɪ ",
+        "type": "noun",
+        "defineEn": "a supernatural creature typically depicted as a small, ethereal being with wings, and is often associated with nature or elemental spirits",
+        "defineVi": "một sinh vật siêu nhiên thường được miêu tả là một sinh vật nhỏ bé, thanh tao có cánh và thường được liên kết với thiên nhiên hoặc các linh hồn nguyên tố"
+    },
+    {
+        "id": "98e7c257-2196-4334-a73c-19fbbc38dbf0",
+        "word": "tengu",
+        "phonetic": "tɛŋɡuː ",
+        "type": "noun",
+        "defineEn": "a type of legendary creature in Japanese folklore, often depicted as a humanoid with wings and a long nose",
+        "defineVi": "một loại sinh vật huyền thoại trong văn hóa dân gian Nhật Bản, thường được miêu tả là hình người có cánh và mũi dài"
+    },
+    {
+        "id": "dafdc1fe-1a9f-4bf4-a6b8-2ebd734ec54d",
+        "word": "thunderbird",
+        "phonetic": "θʌndɚbɜːd ",
+        "type": "noun",
+        "defineEn": "a legendary creature in the mythology of Native Americans, particularly those of the Pacific Northwest region of North America",
+        "defineVi": "một sinh vật huyền thoại trong thần thoại của người Mỹ bản địa, đặc biệt là những người ở khu vực Tây Bắc Thái Bình Dương của Bắc Mỹ"
+    },
+    {
+        "id": "7e1d0a96-2d9f-4f3f-b672-8072be48c9e1",
+        "word": "troll",
+        "phonetic": "tɹoʊl ",
+        "type": "noun",
+        "defineEn": "any fictional creature in Scandinavian stories that some of which are large and frightening and some are small and mischievous",
+        "defineVi": "bất kỳ sinh vật hư cấu nào trong các câu chuyện của người Scandinavi mà một số trong số đó to lớn và đáng sợ và một số thì nhỏ bé và tinh nghịch"
+    },
+    {
+        "id": "dd89c1a4-0402-4a05-b1a9-41fbd90b70e2",
+        "word": "undead",
+        "phonetic": "ʌndɛd ",
+        "type": "noun",
+        "defineEn": "supernatural creatures that are said to be deceased but continue to exist in some form, such as zombies, vampires, and ghosts",
+        "defineVi": "những sinh vật siêu nhiên được cho là đã chết nhưng vẫn tiếp tục tồn tại dưới một số hình thức, chẳng hạn như thây ma, ma cà rồng và ma"
+    },
+    {
+        "id": "32bc2d73-e0f5-46b4-921e-64d2be295d3e",
+        "word": "unicorn",
+        "phonetic": "juːnɪkɔːɹn ",
+        "type": "noun",
+        "defineEn": "a fictional horse with a straight horn on its forehead",
+        "defineVi": "một con ngựa hư cấu có sừng thẳng trên trán",
+        "hasImg": true
+    },
+    {
+        "id": "e2d302fc-92cc-4e33-bb29-a9ac319a89bc",
+        "word": "valkyrie",
+        "phonetic": "vælkɪɹi ",
+        "type": "noun",
+        "defineEn": "female figures from Norse mythology who were believed to choose which warriors would die in battle and be taken to Valhalla, the afterlife for heroes",
+        "defineVi": "những nhân vật nữ trong thần thoại Bắc Âu, những người được cho là sẽ chọn chiến binh nào sẽ chết trong trận chiến và được đưa đến Valhalla, thế giới bên kia của các anh hùng"
+    },
+    {
+        "id": "a452dd74-c01e-4886-8f82-7e56da112627",
+        "word": "wendigo",
+        "phonetic": "wɛndɪɡoʊ ",
+        "type": "noun",
+        "defineEn": "a mythical creature from Algonquian folklore, known for its cannibalistic nature and association with cold winter weather",
+        "defineVi": "một sinh vật thần thoại từ văn hóa dân gian Algonquian, được biết đến với bản chất ăn thịt đồng loại và liên quan đến thời tiết mùa đông lạnh giá"
+    },
+    {
+        "id": "74ac64e3-2161-4667-aaa1-5492fca33545",
+        "word": "will-o\\'-the-wisp",
+        "phonetic": "wɪloʊ bækslæʃðəwɪsp ",
+        "type": "noun",
+        "defineEn": "a light that appears at night over marshy areas or in graveyards and seems to move away as one approaches it",
+        "defineVi": "một ánh sáng xuất hiện vào ban đêm trên các khu vực đầm lầy hoặc trong nghĩa địa và dường như di chuyển ra xa khi một người đến gần nó"
+    },
+    {
+        "id": "11c95e24-0101-43eb-87d4-cbda9d8cad8c",
+        "word": "boogeyman",
+        "phonetic": "buːɡɪmən ",
+        "type": "noun",
+        "defineEn": "a mythical creature in many cultures, often portrayed as a malevolent figure used to frighten children",
+        "defineVi": "một sinh vật thần thoại trong nhiều nền văn hóa, thường được miêu tả như một nhân vật độc ác được sử dụng để khiến trẻ em sợ hãi"
+    },
+    {
+        "id": "b6702e09-ea3d-4f2f-b08b-21d5375169eb",
+        "word": "ghoul",
+        "phonetic": "ɡuːl ",
+        "type": "noun",
+        "defineEn": "a fictional evil spirit that eats buried dead bodies",
+        "defineVi": "một linh hồn xấu xa hư cấu ăn xác chết được chôn cất"
+    },
+    {
+        "id": "4969e259-4cd3-4370-87ad-ee38f0328a0b",
+        "word": "loch ness monster",
+        "phonetic": "lɑːx nɛs mɔnstɚ ",
+        "type": "noun",
+        "defineEn": "a legendary creature said to inhabit Loch Ness, a deep freshwater lake in the Scottish Highlands",
+        "defineVi": "một sinh vật huyền thoại được cho là sống ở hồ Loch Ness, một hồ nước ngọt sâu ở Cao nguyên Scotland"
+    }
+]

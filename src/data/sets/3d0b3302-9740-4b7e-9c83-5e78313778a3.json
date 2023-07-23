@@ -1,0 +1,500 @@
+[
+    {
+        "id": "77b660a6-620f-4d7a-a83a-f4be6c767fb9",
+        "word": "airport",
+        "phonetic": "ɛɹpoːɹt ",
+        "type": "noun",
+        "defineEn": "a large place where planes take off and land, with buildings and other facilities, in which passengers wait for their flights",
+        "defineVi": "một nơi rộng rãi, nơi máy bay cất cánh và hạ cánh, với các tòa nhà và cơ sở vật chất khác, trong đó hành khách đợi chuyến bay của họ",
+        "hasImg": true
+    },
+    {
+        "id": "0ad4a256-3a94-49d6-8b3c-bcecf4c98636",
+        "word": "a lot of",
+        "phonetic": "ɐ lɑːt ʌv ",
+        "type": "phrase",
+        "defineEn": "people or things in large numbers or amounts",
+        "defineVi": "người hoặc vật với số lượng lớn hoặc số lượng"
+    },
+    {
+        "id": "231f8032-84f6-45a9-90eb-1de585de1b92",
+        "word": "apartment",
+        "phonetic": "ɐpɑːɹtmənt ",
+        "type": "noun",
+        "defineEn": "a place that has a few rooms for people to live in, normally part of a building that has other such places on each floor",
+        "defineVi": "một nơi có một vài phòng để mọi người ở, thường là một phần của tòa nhà có những nơi khác như vậy trên mỗi tầng",
+        "hasImg": true
+    },
+    {
+        "id": "b8f62197-7999-4a29-b0a6-b0f43c025d66",
+        "word": "home",
+        "phonetic": "hoʊm ",
+        "type": "noun",
+        "defineEn": "the place that we live in, usually with our family",
+        "defineVi": "nơi mà chúng tôi sống, thường là với gia đình của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "1ceb4b88-070f-465d-9be9-111c0b7cc4ef",
+        "word": "boy",
+        "phonetic": "bɔɪ ",
+        "type": "noun",
+        "defineEn": "someone who is a child and a male",
+        "defineVi": "một người là một đứa trẻ và một người đàn ông",
+        "hasImg": true
+    },
+    {
+        "id": "25e44f02-f2d4-4fa4-b9a4-4e2b764f92cf",
+        "word": "boyfriend",
+        "phonetic": "bɔɪfɹɛnd ",
+        "type": "noun",
+        "defineEn": "a man that you love and are in a relationship with",
+        "defineVi": "một người đàn ông mà bạn yêu và đang trong một mối quan hệ với",
+        "hasImg": true
+    },
+    {
+        "id": "7ac60b55-7b48-46f1-8386-5ca1af136ee5",
+        "word": "business card",
+        "phonetic": "bɪznəs kɑːɹd ",
+        "type": "noun",
+        "defineEn": "a small card that contains contact information for a person or company, used to share and promote professional connections",
+        "defineVi": "một thẻ nhỏ chứa thông tin liên hệ của một người hoặc công ty, được sử dụng để chia sẻ và thúc đẩy các kết nối nghề nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "152580f7-8e60-486c-a99c-be61f6a2d572",
+        "word": "businesswoman",
+        "phonetic": "bɪznəswʊmən ",
+        "type": "noun",
+        "defineEn": "a woman who works in business, especially at a high level",
+        "defineVi": "một người phụ nữ làm việc trong kinh doanh, đặc biệt là ở cấp cao",
+        "hasImg": true
+    },
+    {
+        "id": "72541798-e474-46b4-bf07-67539c312b98",
+        "word": "charity",
+        "phonetic": "tʃæɹᵻɾi ",
+        "type": "noun",
+        "defineEn": "an organization that helps those in need by giving them money, food, etc.",
+        "defineVi": "một tổ chức giúp đỡ những người gặp khó khăn bằng cách cho họ tiền, thức ăn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2172a028-7e95-4c07-b759-9a1a2831d7fc",
+        "word": "chef",
+        "phonetic": "ʃɛf ",
+        "type": "noun",
+        "defineEn": "a highly trained cook who often cooks for hotels or restaurants",
+        "defineVi": "một đầu bếp được đào tạo chuyên sâu thường nấu ăn cho khách sạn hoặc nhà hàng",
+        "hasImg": true
+    },
+    {
+        "id": "c5fc2318-e9b2-4938-a13b-83ea80339cd4",
+        "word": "class",
+        "phonetic": "klæs ",
+        "type": "noun",
+        "defineEn": "students as a whole that are taught together",
+        "defineVi": "học sinh như một toàn thể được dạy cùng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "eca64e08-f34f-46a2-8674-c15f1b78edbc",
+        "word": "classroom",
+        "phonetic": "klæsɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that students are taught in, particularly in a college, school, or university",
+        "defineVi": "một căn phòng mà học sinh được giảng dạy, đặc biệt là trong một trường cao đẳng, trường học, hoặc trường đại học",
+        "hasImg": true
+    },
+    {
+        "id": "87442a1c-56a3-4142-9e5b-9ed56b383aa2",
+        "word": "college",
+        "phonetic": "kɑːlɪdʒ ",
+        "type": "noun",
+        "defineEn": "a university in which students can study up to a bachelor's degree after graduation from school",
+        "defineVi": "một trường đại học trong đó sinh viên có thể học lên đến bằng cử nhân sau khi tốt nghiệp ra trường",
+        "hasImg": true
+    },
+    {
+        "id": "bc95603c-f388-4ac6-968d-5af20ebccfdd",
+        "word": "competition",
+        "phonetic": "kɑːmpətɪʃən ",
+        "type": "noun",
+        "defineEn": "an event or contest in which people or teams compete against each other",
+        "defineVi": "một sự kiện hoặc cuộc thi trong đó mọi người hoặc các đội cạnh tranh với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "75105ec5-5972-4a33-92e9-1e245e8ded6e",
+        "word": "dance",
+        "phonetic": "dæns ",
+        "type": "noun",
+        "defineEn": "a series of rhythmical movements performed to a particular type of music",
+        "defineVi": "một loạt các chuyển động nhịp nhàng được thực hiện cho một loại nhạc cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "5f590506-0f78-4ab9-ae65-3ff79801cd13",
+        "word": "dancing",
+        "phonetic": "dænsɪŋ ",
+        "type": "noun",
+        "defineEn": "‌the act of moving our body to music; a set of movements performed to music",
+        "defineVi": "‌hành động di chuyển cơ thể của chúng ta theo âm nhạc; một tập hợp các phong trào thực hiện âm nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "b0b80507-1764-4c6f-b4ec-24c845ed71b7",
+        "word": "dog",
+        "phonetic": "dɑːɡ ",
+        "type": "noun",
+        "defineEn": "an animal that has a tail and four legs and we keep as a pet",
+        "defineVi": "một con vật có đuôi và bốn chân và chúng tôi giữ như một con vật cưng",
+        "hasImg": true
+    },
+    {
+        "id": "c0522e1f-430e-4ab2-beba-d13b4ab86dcd",
+        "word": "e-pal",
+        "phonetic": "iːpæl ",
+        "type": "noun",
+        "defineEn": "an online friend or correspondent with whom one communicates primarily through electronic means, such as email or online messaging",
+        "defineVi": "một người bạn hoặc phóng viên trực tuyến mà một người giao tiếp chủ yếu thông qua các phương tiện điện tử, chẳng hạn như email hoặc tin nhắn trực tuyến"
+    },
+    {
+        "id": "a834bb8d-219e-4032-9bc3-37deef9fee02",
+        "word": "famous",
+        "phonetic": "feɪməs ",
+        "type": "adjective",
+        "defineEn": "known by a lot of people",
+        "defineVi": "được nhiều người biết đến",
+        "hasImg": true
+    },
+    {
+        "id": "affe8569-d247-4f46-84f5-605d0ef145b8",
+        "word": "fan",
+        "phonetic": "fæn ",
+        "type": "noun",
+        "defineEn": "someone who has a strong admiration or interest for someone or something; a person who admires someone or something",
+        "defineVi": "ai đó có sự ngưỡng mộ hoặc quan tâm mạnh mẽ đối với ai đó hoặc cái gì đó; một người ngưỡng mộ một ai đó hoặc một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "d316258b-69c7-41a4-a48f-a047c6c0aece",
+        "word": "fashion",
+        "phonetic": "fæʃən ",
+        "type": "noun",
+        "defineEn": "the styles and trends of clothing, accessories, makeup, and other items that are popular in a certain time and place",
+        "defineVi": "phong cách và xu hướng quần áo, phụ kiện, đồ trang điểm và các mặt hàng khác phổ biến ở một thời điểm và địa điểm nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "1b74b857-0582-4f16-850a-c318d50579cb",
+        "word": "friend",
+        "phonetic": "fɹɛnd ",
+        "type": "noun",
+        "defineEn": "someone we know well, like a lot, and trust, but normally they are not part of our family",
+        "defineVi": "một người mà chúng ta biết rõ, rất thích và tin tưởng, nhưng thông thường họ không phải là một phần của gia đình chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "dd7d3bf5-b71f-4f40-924a-1f898118b59c",
+        "word": "funny",
+        "phonetic": "fʌni ",
+        "type": "adjective",
+        "defineEn": "able to make people laugh",
+        "defineVi": "có thể làm cho mọi người cười",
+        "hasImg": true
+    },
+    {
+        "id": "7b88b037-ad6e-43ab-8064-b8201704df46",
+        "word": "hard",
+        "phonetic": "hɑːɹd ",
+        "type": "adjective",
+        "defineEn": "needing a lot of skill or effort to do",
+        "defineVi": "cần rất nhiều kỹ năng hoặc nỗ lực để làm",
+        "hasImg": true
+    },
+    {
+        "id": "db340f57-f1db-43bc-bd1d-bade99f9b105",
+        "word": "to have",
+        "phonetic": "tə hæv ",
+        "type": "verb",
+        "defineEn": "to hold, possess, or own an object or a quality",
+        "defineVi": "để giữ, sở hữu, hoặc sở hữu một đối tượng hoặc một chất lượng",
+        "hasImg": true
+    },
+    {
+        "id": "0b1e3343-dbdf-4fb8-a156-77e676906ed3",
+        "word": "head teacher",
+        "phonetic": "hɛd tiːtʃɚ ",
+        "type": "noun",
+        "defineEn": "the leader of a school, responsible for managing and guiding the school",
+        "defineVi": "người đứng đầu nhà trường, chịu trách nhiệm quản lý, hướng dẫn nhà trường"
+    },
+    {
+        "id": "d173e7ad-17d3-4280-a711-3abfd75bf639",
+        "word": "important",
+        "phonetic": "ɪmpoːɹtənt ",
+        "type": "adjective",
+        "defineEn": "having a lot of value",
+        "defineVi": "có nhiều giá trị",
+        "hasImg": true
+    },
+    {
+        "id": "f724561b-708d-4d25-aeb7-da7f422d66c8",
+        "word": "interest",
+        "phonetic": "ɪntɹɛst ",
+        "type": "noun",
+        "defineEn": "the desire to find out or learn more about a person or thing",
+        "defineVi": "mong muốn tìm hiểu hoặc tìm hiểu thêm về một người hoặc vật"
+    },
+    {
+        "id": "e8c3ccde-cd1a-430e-b8a1-36aed234b686",
+        "word": "to like",
+        "phonetic": "tə laɪk ",
+        "type": "verb",
+        "defineEn": "to feel that someone or something is good, enjoyable, or interesting",
+        "defineVi": "để cảm thấy rằng một ai đó hoặc một cái gì đó là tốt, thú vị, hoặc thú vị",
+        "hasImg": true
+    },
+    {
+        "id": "b9a6e36d-7a02-4654-982d-d4802ad84137",
+        "word": "love",
+        "phonetic": "lʌv ",
+        "type": "noun",
+        "defineEn": "the very strong emotion we have for someone or something that is important to us and we like a lot and want to take care of",
+        "defineVi": "cảm xúc rất mạnh mẽ mà chúng ta dành cho ai đó hoặc điều gì đó quan trọng đối với chúng ta và chúng ta rất thích và muốn chăm sóc",
+        "hasImg": true
+    },
+    {
+        "id": "96fb4c54-fe8e-41ce-81df-06fb82904de5",
+        "word": "model",
+        "phonetic": "mɑːdəl ",
+        "type": "noun",
+        "defineEn": "a description of a process or system that is simplified to demonstrate how it works under specific circumstances, especially in mathematics",
+        "defineVi": "mô tả về một quy trình hoặc hệ thống được đơn giản hóa để chứng minh cách thức hoạt động của nó trong các trường hợp cụ thể, đặc biệt là trong toán học"
+    },
+    {
+        "id": "6130768e-a1c2-4ed0-b499-1fecd79425ea",
+        "word": "Northern Ireland",
+        "phonetic": "nɔːɹðɚn aɪɚlənd ",
+        "type": "noun",
+        "defineEn": "a region in northeastern Ireland, part of the United Kingdom, with a unique history, culture, and its own government",
+        "defineVi": "một khu vực ở phía đông bắc Ireland, một phần của Vương quốc Anh, có lịch sử, văn hóa độc đáo và chính phủ riêng",
+        "hasImg": true
+    },
+    {
+        "id": "a86fd3a6-a1c1-47a1-84df-3243c3d683ba",
+        "word": "people",
+        "phonetic": "piːpəl ",
+        "type": "noun",
+        "defineEn": "human beings as a group, including men, women, and children",
+        "defineVi": "con người như một nhóm, bao gồm cả đàn ông, phụ nữ và trẻ em",
+        "hasImg": true
+    },
+    {
+        "id": "138cc8a7-7578-4435-9b1f-e0b121efbd8c",
+        "word": "rich",
+        "phonetic": "ɹɪtʃ ",
+        "type": "adjective",
+        "defineEn": "owning a great amount of money or many things that cost a lot",
+        "defineVi": "sở hữu một số tiền lớn hoặc nhiều thứ có giá rất cao",
+        "hasImg": true
+    },
+    {
+        "id": "3cea4dbe-24e5-422c-b395-6d9603af1d09",
+        "word": "school",
+        "phonetic": "skuːl ",
+        "type": "noun",
+        "defineEn": "a place where children learn things from teachers",
+        "defineVi": "một nơi mà trẻ em học những điều từ giáo viên",
+        "hasImg": true
+    },
+    {
+        "id": "d08cf955-cf18-4350-ac61-2be779c46526",
+        "word": "girl",
+        "phonetic": "ɡɜːl ",
+        "type": "noun",
+        "defineEn": "someone who is a child and a female",
+        "defineVi": "một người là một đứa trẻ và một phụ nữ",
+        "hasImg": true
+    },
+    {
+        "id": "76eaf4ce-48eb-4591-9e51-5936e42fa188",
+        "word": "shop",
+        "phonetic": "ʃɑːp ",
+        "type": "noun",
+        "defineEn": "a building or place that sells goods or services",
+        "defineVi": "một tòa nhà hoặc địa điểm bán hàng hóa hoặc dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "a1acce6a-e881-4964-a191-437f72492f42",
+        "word": "to spell",
+        "phonetic": "tə spɛl ",
+        "type": "verb",
+        "defineEn": "to write or say the letters that form a word one by one in the right order",
+        "defineVi": "viết hoặc nói từng chữ cái tạo thành một từ theo đúng thứ tự",
+        "hasImg": true
+    },
+    {
+        "id": "0da4fda6-cbac-4aa2-b4f7-b354d53d54e0",
+        "word": "tennis",
+        "phonetic": "tɛnɪs ",
+        "type": "noun",
+        "defineEn": "a sport played with rackets by two or four players, who hit a small ball backwards and forwards over a net on a marked court",
+        "defineVi": "một môn thể thao được chơi bằng vợt bởi hai hoặc bốn người chơi, những người này đánh một quả bóng nhỏ tới lui qua lưới trên sân được đánh dấu",
+        "hasImg": true
+    },
+    {
+        "id": "071851fb-b521-4404-ac23-cb8b29badb12",
+        "word": "text",
+        "phonetic": "tɛkst ",
+        "type": "noun",
+        "defineEn": "anything that is in written form",
+        "defineVi": "bất cứ thứ gì ở dạng viết",
+        "hasImg": true
+    },
+    {
+        "id": "c1eb0c67-7015-4088-8bed-30118a018cad",
+        "word": "traditional",
+        "phonetic": "tɹɐdɪʃənəl ",
+        "type": "adjective",
+        "defineEn": "belonging to or following the methods or thoughts that are old as opposed to new or different ones",
+        "defineVi": "thuộc về hoặc tuân theo các phương pháp hoặc suy nghĩ cũ trái ngược với những phương pháp hoặc suy nghĩ mới hoặc khác"
+    },
+    {
+        "id": "43bb82b4-91a6-4d43-b498-bef2a0db39d3",
+        "word": "Turkish",
+        "phonetic": "tɜːkɪʃ ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of Turkey",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa, hoặc ngôn ngữ của Thổ Nhĩ Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "3fab577a-9c9e-4ae1-ba4e-f49ab8494d91",
+        "word": "university",
+        "phonetic": "juːnɪvɜːsᵻɾi ",
+        "type": "noun",
+        "defineEn": "an educational institution at the highest level, where we can study for a degree or do research",
+        "defineVi": "một tổ chức giáo dục ở cấp cao nhất, nơi chúng ta có thể học để lấy bằng hoặc nghiên cứu",
+        "hasImg": true
+    },
+    {
+        "id": "4c4bfa63-c64d-41b2-a315-cfde05114a7a",
+        "word": "to work",
+        "phonetic": "tə wɜːk ",
+        "type": "verb",
+        "defineEn": "to do a job or task, usually for a company or organization, in order to receive money",
+        "defineVi": "thực hiện một công việc hoặc nhiệm vụ, thường là cho một công ty hoặc tổ chức, để nhận tiền",
+        "hasImg": true
+    },
+    {
+        "id": "2e532877-df1d-421e-95f4-ca9eb71b30d6",
+        "word": "young",
+        "phonetic": "jʌŋ ",
+        "type": "adjective",
+        "defineEn": "still in the earlier stages of life",
+        "defineVi": "vẫn còn trong giai đoạn đầu của cuộc sống",
+        "hasImg": true
+    },
+    {
+        "id": "e5b0c9f7-9483-4a0d-b9a0-623d57e70142",
+        "word": "child",
+        "phonetic": "tʃaɪld ",
+        "type": "noun",
+        "defineEn": "a young person who has not reached puberty or adulthood yet",
+        "defineVi": "một người trẻ chưa đến tuổi dậy thì hoặc trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "4a2619ad-343e-4a53-ae8f-c8ce5cb5111f",
+        "word": "family",
+        "phonetic": "fæmɪli ",
+        "type": "noun",
+        "defineEn": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+        "defineVi": "những người có quan hệ huyết thống với nhau hoặc hôn nhân, thường bao gồm cha, mẹ và con cái của họ",
+        "hasImg": true
+    },
+    {
+        "id": "12e0b42a-37ff-44d2-966c-28c88bca7c79",
+        "word": "brother",
+        "phonetic": "bɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "a man who shares a mother and father with us",
+        "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "a75645da-31c8-41f0-b351-a53673296f55",
+        "word": "sister",
+        "phonetic": "sɪstɚ ",
+        "type": "noun",
+        "defineEn": "a lady who shares a mother and father with us",
+        "defineVi": "một người phụ nữ chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "3ba6b66a-2272-40df-b0a3-35daf888b953",
+        "word": "daughter",
+        "phonetic": "dɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "a person's female child",
+        "defineVi": "con gái của một người",
+        "hasImg": true
+    },
+    {
+        "id": "371750be-c110-44d1-8bc2-5bf1ecaa5e84",
+        "word": "father",
+        "phonetic": "fɑːðɚ ",
+        "type": "noun",
+        "defineEn": "a child's male parent",
+        "defineVi": "cha mẹ nam của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "eb898c0b-2ead-46e8-87a5-d61b183467d7",
+        "word": "husband",
+        "phonetic": "hʌsbənd ",
+        "type": "noun",
+        "defineEn": "the man you are officially married to",
+        "defineVi": "người đàn ông bạn đã chính thức kết hôn",
+        "hasImg": true
+    },
+    {
+        "id": "86822fd3-4dea-47f3-9ec0-27d7a0f24014",
+        "word": "mother",
+        "phonetic": "mʌðɚ ",
+        "type": "noun",
+        "defineEn": "a child's female parent",
+        "defineVi": "cha mẹ của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "a9fc412c-0a69-4fc1-89cd-54fae0d2112d",
+        "word": "son",
+        "phonetic": "sʌn ",
+        "type": "noun",
+        "defineEn": "a person's male child",
+        "defineVi": "con trai của một người",
+        "hasImg": true
+    },
+    {
+        "id": "b139b303-91af-4e74-8953-a56368e2b8fa",
+        "word": "parent",
+        "phonetic": "pɛɹənt ",
+        "type": "noun",
+        "defineEn": "our mother or our father",
+        "defineVi": "mẹ của chúng tôi hoặc cha của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "c3d4477a-ba2a-4452-8b71-8eb45b9d8fd9",
+        "word": "wife",
+        "phonetic": "waɪf ",
+        "type": "noun",
+        "defineEn": "the lady you are officially married to",
+        "defineVi": "người phụ nữ bạn đã chính thức kết hôn",
+        "hasImg": true
+    }
+]

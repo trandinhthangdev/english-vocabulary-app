@@ -1,0 +1,285 @@
+[
+    {
+        "id": "1aa82cc1-114b-402b-80ec-31bc309ca6a5",
+        "word": "bandsman",
+        "phonetic": "bændzmən ",
+        "type": "noun",
+        "defineEn": "a player in a band (especially a military band)",
+        "defineVi": "một người chơi trong một ban nhạc (đặc biệt là một ban nhạc quân đội)",
+        "hasImg": true
+    },
+    {
+        "id": "194de52b-af1d-4ff5-9ec9-66d907d597df",
+        "word": "bassist",
+        "phonetic": "beɪsɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the bass guitar or double bass",
+        "defineVi": "một người chơi guitar bass hoặc double bass",
+        "hasImg": true
+    },
+    {
+        "id": "decca3a4-f971-41f7-b447-51f371620316",
+        "word": "accompanist",
+        "phonetic": "ɐkʌmpɐnɪst ",
+        "type": "noun",
+        "defineEn": "a person who provides musical accompaniment (usually on a piano)",
+        "defineVi": "một người cung cấp nhạc đệm (thường là trên đàn piano)",
+        "hasImg": true
+    },
+    {
+        "id": "7e18387c-e2a4-4116-9eee-d6572a286486",
+        "word": "cellist",
+        "phonetic": "sɛlɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the cello",
+        "defineVi": "một người chơi cello",
+        "hasImg": true
+    },
+    {
+        "id": "2a11eecd-1408-4fae-b78d-e0c66de28be2",
+        "word": "drummer",
+        "phonetic": "dɹʌmɚ ",
+        "type": "noun",
+        "defineEn": "someone who plays a drum or a set of drums in a band",
+        "defineVi": "một người chơi trống hoặc một bộ trống trong một ban nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "e341edf4-7a9f-4b19-ada4-7a85c99bfc3d",
+        "word": "fiddler",
+        "phonetic": "fɪdlɚ ",
+        "type": "noun",
+        "defineEn": "a person who plays the violin, especially in folk music",
+        "defineVi": "một người chơi violin, đặc biệt là trong âm nhạc dân gian",
+        "hasImg": true
+    },
+    {
+        "id": "c153709d-91ab-4fa0-999d-6367783eb33a",
+        "word": "flautist",
+        "phonetic": "flɔːɾɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the flute",
+        "defineVi": "một người thổi sáo",
+        "hasImg": true
+    },
+    {
+        "id": "4ca643ad-9e3c-4490-a246-658ada6dc67c",
+        "word": "impressionist",
+        "phonetic": "ɪmpɹɛʃənɪst ",
+        "type": "noun",
+        "defineEn": "a painter, musician or writer who follows the principles of impressionism",
+        "defineVi": "một họa sĩ, nhạc sĩ hoặc nhà văn theo các nguyên tắc của trường phái ấn tượng"
+    },
+    {
+        "id": "274af85c-b268-4029-8f14-f7438438eb3e",
+        "word": "instrumentalist",
+        "phonetic": "ɪnstɹəmɛntəlɪst ",
+        "type": "noun",
+        "defineEn": "someone who plays a musical instrument (as a profession)",
+        "defineVi": "một người chơi nhạc cụ (như một nghề)",
+        "hasImg": true
+    },
+    {
+        "id": "62d865d9-1394-4845-a83c-a9a4c936505b",
+        "word": "keyboardist",
+        "phonetic": "kiːboːɹdɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays any instrument with a keyboard, especially an electric piano",
+        "defineVi": "một người chơi bất kỳ nhạc cụ nào bằng bàn phím, đặc biệt là đàn piano điện",
+        "hasImg": true
+    },
+    {
+        "id": "8a70a0fb-429d-4568-a4fa-8d9ae283158c",
+        "word": "one-man band",
+        "phonetic": "wʌnmæn bænd ",
+        "type": "noun",
+        "defineEn": "a performer who plays several instruments simultaneously",
+        "defineVi": "một nghệ sĩ chơi nhiều nhạc cụ cùng một lúc",
+        "hasImg": true
+    },
+    {
+        "id": "550d4f01-623a-4b39-9551-f7b41dd96b59",
+        "word": "organist",
+        "phonetic": "ɔːɹɡɐnɪst ",
+        "type": "noun",
+        "defineEn": "a musician who plays the organ",
+        "defineVi": "một nhạc sĩ chơi đàn organ",
+        "hasImg": true
+    },
+    {
+        "id": "4580bacd-2ed2-4915-b3b5-c0946149ff8b",
+        "word": "pianist",
+        "phonetic": "piənɪst ",
+        "type": "noun",
+        "defineEn": "someone who plays the piano, particularly a professional one",
+        "defineVi": "một người chơi piano, đặc biệt là một người chuyên nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "a9a6261e-7106-4169-893f-0c633e03d9b9",
+        "word": "piper",
+        "phonetic": "paɪpɚ ",
+        "type": "noun",
+        "defineEn": "a person who plays the musical bagpipe",
+        "defineVi": "một người chơi nhạc bagpipe",
+        "hasImg": true
+    },
+    {
+        "id": "9c3e830d-4e9f-4597-ba8e-708371505b67",
+        "word": "player",
+        "phonetic": "pleɪɚ ",
+        "type": "noun",
+        "defineEn": "a person who plays a musical instrument professionally",
+        "defineVi": "một người chơi nhạc cụ chuyên nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "04251e0b-ebba-4915-90b9-7eee80b3e5ed",
+        "word": "saxophonist",
+        "phonetic": "sæksɑːfənɪst ",
+        "type": "noun",
+        "defineEn": "someone who plays the saxophone",
+        "defineVi": "một người chơi saxophone",
+        "hasImg": true
+    },
+    {
+        "id": "bd9639b0-0730-4a3f-bb33-33a831a521e6",
+        "word": "soloist",
+        "phonetic": "soʊloʊɪst ",
+        "type": "noun",
+        "defineEn": "a singer or musician who performs alone",
+        "defineVi": "một ca sĩ hoặc nhạc sĩ biểu diễn một mình",
+        "hasImg": true
+    },
+    {
+        "id": "dfa562a4-a0bb-401d-afea-ab671a4b37cb",
+        "word": "timpanist",
+        "phonetic": "tɪmpɐnɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the kettledrums",
+        "defineVi": "một người chơi trống ấm"
+    },
+    {
+        "id": "2159a652-8b9c-427e-a466-ca92e2fe437f",
+        "word": "bassoonist",
+        "phonetic": "bæsuːnɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the bassoon",
+        "defineVi": "một người chơi bassoon",
+        "hasImg": true
+    },
+    {
+        "id": "5436253b-dfc4-4e34-a681-2050df5d1a3c",
+        "word": "clarinetist",
+        "phonetic": "klæɹaɪntɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the clarinet",
+        "defineVi": "một người chơi clarinet",
+        "hasImg": true
+    },
+    {
+        "id": "5f3c3ca5-595e-40c3-8f5d-fab3012a53aa",
+        "word": "trombonist",
+        "phonetic": "tɹɑːmboʊnɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the trombone",
+        "defineVi": "một người chơi kèn trombone",
+        "hasImg": true
+    },
+    {
+        "id": "8215743a-ebe0-47c7-a49b-1448fb73ccb7",
+        "word": "trumpeter",
+        "phonetic": "tɹʌmpɛɾɚ ",
+        "type": "noun",
+        "defineEn": "a person who plays the trumpet or cornet",
+        "defineVi": "một người chơi kèn hoặc kèn",
+        "hasImg": true
+    },
+    {
+        "id": "50c8b5ce-5e2f-49c3-b605-95f9725fb5ad",
+        "word": "bugler",
+        "phonetic": "bjuːɡlɚ ",
+        "type": "noun",
+        "defineEn": "a person who plays the bugle",
+        "defineVi": "một người chơi bugle",
+        "hasImg": true
+    },
+    {
+        "id": "80b62178-944b-463f-95e3-760fdee25cc4",
+        "word": "guitarist",
+        "phonetic": "ɡɪtɑːɹɹɪst ",
+        "type": "noun",
+        "defineEn": "someone who plays the guitar",
+        "defineVi": "một người chơi guitar",
+        "hasImg": true
+    },
+    {
+        "id": "a5891df0-ffa7-4772-b4d4-d3ab57b37253",
+        "word": "harpist",
+        "phonetic": "hɑːɹpɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the harp",
+        "defineVi": "một người chơi đàn hạc",
+        "hasImg": true
+    },
+    {
+        "id": "d7fc75fe-0aa7-4c96-a696-89f9c3266c56",
+        "word": "harpsichordist",
+        "phonetic": "hɑːɹpsɪkɔːɹdɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the harpsichord, which is a keyboard instrument",
+        "defineVi": "một người chơi harpsichord, là một nhạc cụ bàn phím",
+        "hasImg": true
+    },
+    {
+        "id": "54cc0384-8cf0-48e9-b0c3-d01c283cd1cc",
+        "word": "oboist",
+        "phonetic": "oʊboʊɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays the oboe",
+        "defineVi": "một người chơi oboe",
+        "hasImg": true
+    },
+    {
+        "id": "758b9cba-e86f-4221-9b9c-c6f3b82969cd",
+        "word": "percussionist",
+        "phonetic": "pɚkʌʃənɪst ",
+        "type": "noun",
+        "defineEn": "a person who plays percussion instruments, especially in an orchestra",
+        "defineVi": "một người chơi nhạc cụ gõ, đặc biệt là trong một dàn nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "9386ac69-6c36-4304-9318-74ca7c7074ee",
+        "word": "concertmaster",
+        "phonetic": "kənsɜːtmæstɚ ",
+        "type": "noun",
+        "defineEn": "the principal or lead violinist in an orchestra",
+        "defineVi": "nghệ sĩ vĩ cầm chính hoặc chính trong một dàn nhạc"
+    },
+    {
+        "id": "a7519bed-ae1b-4526-8c1a-d860aa2186dc",
+        "word": "busker",
+        "phonetic": "bʌskɚ ",
+        "type": "noun",
+        "defineEn": "a person who performs music in a public place asking the passers-by for money",
+        "defineVi": "một người biểu diễn âm nhạc ở nơi công cộng xin tiền người qua đường",
+        "hasImg": true
+    },
+    {
+        "id": "2d1f401e-b829-472f-bb56-d755e75e7bde",
+        "word": "virtuoso",
+        "phonetic": "vɜːtʃuːoʊsoʊ ",
+        "type": "noun",
+        "defineEn": "someone who is highly skilled at playing a musical instrument",
+        "defineVi": "một người có kỹ năng cao trong việc chơi một nhạc cụ"
+    },
+    {
+        "id": "1ad65a00-78e8-4df2-84e7-f9c276c35626",
+        "word": "first chair",
+        "phonetic": "fɜːst tʃɛɹ ",
+        "type": "noun",
+        "defineEn": "the principal or lead musician of a particular section in an orchestra or ensemble",
+        "defineVi": "nhạc sĩ chính hoặc nhạc trưởng của một phần cụ thể trong một dàn nhạc hoặc quần thể"
+    }
+]

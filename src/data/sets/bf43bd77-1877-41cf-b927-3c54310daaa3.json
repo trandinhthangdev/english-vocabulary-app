@@ -1,0 +1,171 @@
+[
+    {
+        "id": "e3a508aa-9804-4a56-b585-e8916794be26",
+        "word": "awesome",
+        "phonetic": "ɔːsʌm ",
+        "type": "adjective",
+        "defineEn": "extremely good and amazing",
+        "defineVi": "cực kỳ tốt và tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "0b86aa8e-9599-485f-bd5b-e8112b9e8367",
+        "word": "fantastic",
+        "phonetic": "fæntæstɪk ",
+        "type": "adjective",
+        "defineEn": "extremely amazing and great",
+        "defineVi": "cực kỳ tuyệt vời và tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "74f5d854-ea18-4c52-a841-7eb421395c33",
+        "word": "wonderful",
+        "phonetic": "wʌndɚfəl ",
+        "type": "adjective",
+        "defineEn": "very great and pleasant",
+        "defineVi": "rất tuyệt vời và dễ chịu",
+        "hasImg": true
+    },
+    {
+        "id": "d7321dbd-ecad-4db3-a523-f3054f2fda05",
+        "word": "great",
+        "phonetic": "ɡɹeɪt ",
+        "type": "adjective",
+        "defineEn": "worthy of being approved or admired",
+        "defineVi": "xứng đáng được chấp thuận hoặc ngưỡng mộ",
+        "hasImg": true
+    },
+    {
+        "id": "4535218d-a2e1-4787-aafd-1076c056b10a",
+        "word": "terrific",
+        "phonetic": "tɚɹɪfɪk ",
+        "type": "adjective",
+        "defineEn": "extremely great and amazing",
+        "defineVi": "cực kỳ tuyệt vời và tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "b49ecfd2-607e-466d-a78d-3d54cc8c13b6",
+        "word": "relaxing",
+        "phonetic": "ɹᵻlæksɪŋ ",
+        "type": "adjective",
+        "defineEn": "helping our body or mind rest",
+        "defineVi": "giúp cơ thể hoặc tâm trí của chúng tôi nghỉ ngơi"
+    },
+    {
+        "id": "fabe03e2-65b0-496f-995a-00d32d767f4b",
+        "word": "interesting",
+        "phonetic": "ɪntɹɛstɪŋ ",
+        "type": "adjective",
+        "defineEn": "catching and keeping our attention because of being unusual, exciting, etc.",
+        "defineVi": "thu hút và giữ sự chú ý của chúng tôi vì khác thường, thú vị, v.v."
+    },
+    {
+        "id": "19194d5e-ec25-440f-a1b3-b0ad95d11394",
+        "word": "exciting",
+        "phonetic": "ɛksaɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "making us feel interested, happy, and energetic",
+        "defineVi": "khiến chúng ta cảm thấy thích thú, hạnh phúc và tràn đầy năng lượng",
+        "hasImg": true
+    },
+    {
+        "id": "ed089537-87b0-4fc8-8e67-883fdd5fff40",
+        "word": "thrilling",
+        "phonetic": "θɹɪlɪŋ ",
+        "type": "adjective",
+        "defineEn": "causing great pleasure or excitement",
+        "defineVi": "gây ra niềm vui lớn hoặc phấn khích",
+        "hasImg": true
+    },
+    {
+        "id": "caeb1643-bb8b-41bd-aceb-92014d144dbb",
+        "word": "fascinating",
+        "phonetic": "fæsᵻneɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "extremely interesting or captivating",
+        "defineVi": "cực kỳ thú vị hoặc quyến rũ",
+        "hasImg": true
+    },
+    {
+        "id": "aad04cb9-716f-4718-96dc-22281a396e47",
+        "word": "boring",
+        "phonetic": "boːɹɪŋ ",
+        "type": "adjective",
+        "defineEn": "making us feel tired and unsatisfied because of not being interesting",
+        "defineVi": "khiến chúng ta cảm thấy mệt mỏi và không hài lòng vì không thú vị",
+        "hasImg": true
+    },
+    {
+        "id": "9a38f44e-e486-4ae0-b008-fef1dcee0059",
+        "word": "awful",
+        "phonetic": "ɔːfəl ",
+        "type": "adjective",
+        "defineEn": "extremely unpleasant, bad, or disagreeable",
+        "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "c1c4f978-edf1-45b5-95f5-e0fc6efaeea4",
+        "word": "horrible",
+        "phonetic": "hɔːɹɪbəl ",
+        "type": "adjective",
+        "defineEn": "extremely unpleasant, bad, or disagreeable",
+        "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "ad624016-bd53-4aeb-816b-b7a51d954d56",
+        "word": "terrible",
+        "phonetic": "tɛɹᵻbəl ",
+        "type": "adjective",
+        "defineEn": "very bad, disagreeable, or unpleasant",
+        "defineVi": "rất xấu, khó chịu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "82255e8c-00a8-4c61-8271-bad6bd0a35a7",
+        "word": "disgusting",
+        "phonetic": "dɪsɡʌstɪŋ ",
+        "type": "adjective",
+        "defineEn": "describing something that is very unpleasant",
+        "defineVi": "mô tả một cái gì đó là rất khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "d55a5602-d62e-48f1-8daa-ba50802ac3f2",
+        "word": "frightening",
+        "phonetic": "fɹaɪʔn̩ɪŋ ",
+        "type": "adjective",
+        "defineEn": "causing one to feel fear",
+        "defineVi": "khiến người ta cảm thấy sợ hãi",
+        "hasImg": true
+    },
+    {
+        "id": "f2f00251-04c5-4451-8de0-de21b54f7775",
+        "word": "scary",
+        "phonetic": "skɛɹi ",
+        "type": "adjective",
+        "defineEn": "making us feel fear",
+        "defineVi": "khiến chúng ta cảm thấy sợ hãi",
+        "hasImg": true
+    },
+    {
+        "id": "1e0fb7f8-efa4-4960-a728-610bde4d3323",
+        "word": "silly",
+        "phonetic": "sɪli ",
+        "type": "adjective",
+        "defineEn": "feeling embarrassed or stupid",
+        "defineVi": "cảm thấy xấu hổ hoặc ngu ngốc",
+        "hasImg": true
+    },
+    {
+        "id": "85f0cf80-d9c0-4400-b970-ed96ba3b61ef",
+        "word": "weird",
+        "phonetic": "wɪɹd ",
+        "type": "adjective",
+        "defineEn": "very strange, unusual, and not natural, in a way that is difficult to understand",
+        "defineVi": "rất lạ, khác thường và không tự nhiên, theo cách khó hiểu",
+        "hasImg": true
+    }
+]

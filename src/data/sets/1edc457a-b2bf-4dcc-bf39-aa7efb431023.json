@@ -1,0 +1,557 @@
+[
+    {
+        "id": "df7515c8-c124-49cf-9faa-82cdb41738d6",
+        "word": "high-visibility",
+        "phonetic": "haɪvɪzᵻbɪlᵻɾi ",
+        "type": "adjective",
+        "defineEn": "describing brightly colored clothing made of reflective material in a way that is easily seen",
+        "defineVi": "mô tả quần áo có màu sắc rực rỡ làm bằng vật liệu phản chiếu theo cách dễ dàng nhìn thấy",
+        "hasImg": true
+    },
+    {
+        "id": "013a9f59-69f3-454c-bbe2-445c5b891756",
+        "word": "plunging",
+        "phonetic": "plʌndʒɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of a woman's clothing) having a deep V-shaped neckline that reveals a lot of the top and cleavage",
+        "defineVi": "(của quần áo phụ nữ) có đường viền cổ áo sâu hình chữ V để lộ nhiều phần trên và khe ngực",
+        "hasImg": true
+    },
+    {
+        "id": "da8e89eb-0ced-43f5-b130-895b68a1e587",
+        "word": "worn-out",
+        "phonetic": "woːɹnaʊt ",
+        "type": "adjective",
+        "defineEn": "very damaged or old in a way that has become unusable",
+        "defineVi": "rất hư hỏng hoặc cũ theo cách đã trở nên không sử dụng được",
+        "hasImg": true
+    },
+    {
+        "id": "b2f5d4fd-4f86-4f78-8612-463cfcbdef45",
+        "word": "loose",
+        "phonetic": "luːs ",
+        "type": "adjective",
+        "defineEn": "not tight; not fitting tightly or closely",
+        "defineVi": "không chật; không vừa vặn hoặc chặt chẽ",
+        "hasImg": true
+    },
+    {
+        "id": "9e984bb1-8b37-40c6-a8bf-9c0c80d5b267",
+        "word": "tight",
+        "phonetic": "taɪt ",
+        "type": "adjective",
+        "defineEn": "(of clothes or shoes) fitting closely or firmly, especially in an uncomfortable way",
+        "defineVi": "(quần áo hoặc giày dép) vừa khít hoặc chắc chắn, đặc biệt là theo một cách không thoải mái",
+        "hasImg": true
+    },
+    {
+        "id": "afeef6ca-5ad1-42ce-ad01-0863d72e0e5a",
+        "word": "backless",
+        "phonetic": "bækləs ",
+        "type": "adjective",
+        "defineEn": "(of a woman's clothing) showing most of the back or shoulders",
+        "defineVi": "(của quần áo phụ nữ) để lộ phần lớn lưng hoặc vai",
+        "hasImg": true
+    },
+    {
+        "id": "24bc763f-de15-4b28-88d1-5533a0f22e13",
+        "word": "low-cut",
+        "phonetic": "loʊkʌt ",
+        "type": "adjective",
+        "defineEn": "(of women's clothing) revealing the neck and the upper part of the chest",
+        "defineVi": "(của quần áo phụ nữ) để lộ cổ và phần trên của ngực",
+        "hasImg": true
+    },
+    {
+        "id": "f88f9b8e-f629-436a-ba80-f2a0d11307b3",
+        "word": "clinging",
+        "phonetic": "klɪŋɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of clothes) tight-fitting in a way that shows the shape of the body",
+        "defineVi": "(quần áo) bó sát để tôn lên hình dáng cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "81d31d25-3234-41ae-a6d4-e66abad4a167",
+        "word": "ragged",
+        "phonetic": "ɹæɡᵻd ",
+        "type": "adjective",
+        "defineEn": "(of clothes) shabby, old and in poor condition",
+        "defineVi": "(quần áo) tồi tàn, cũ kỹ, tồi tàn",
+        "hasImg": true
+    },
+    {
+        "id": "7550a133-b3f8-495b-b589-d3456de59d64",
+        "word": "revealing",
+        "phonetic": "ɹᵻviːlɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of a piece of clothing) displaying more of the wearer's body than usual",
+        "defineVi": "(của một bộ quần áo) phô bày nhiều cơ thể của người mặc hơn bình thường",
+        "hasImg": true
+    },
+    {
+        "id": "918b6b45-eb91-4e90-91d5-c48767123106",
+        "word": "scanty",
+        "phonetic": "skænti ",
+        "type": "adjective",
+        "defineEn": "(of a piece of clothing) revealing and not covering much of the body",
+        "defineVi": "(của một bộ quần áo) hở hang và không che được nhiều cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "0e9f1709-adad-42af-870f-1fa8af4100b6",
+        "word": "scooped",
+        "phonetic": "skuːpt ",
+        "type": "adjective",
+        "defineEn": "(of a woman's clothing) having a rounded and low-cut neckline",
+        "defineVi": "(của quần áo phụ nữ) có đường viền cổ áo tròn và cắt thấp",
+        "hasImg": true
+    },
+    {
+        "id": "dfc326bf-8e27-417b-a6ba-c3226f35f041",
+        "word": "see-through",
+        "phonetic": "siːθɹuː ",
+        "type": "adjective",
+        "defineEn": "(particularly of clothes) so thin that light passes through and therefore one is able to see through it",
+        "defineVi": "(đặc biệt là quần áo) mỏng đến mức ánh sáng có thể xuyên qua và do đó người ta có thể nhìn xuyên qua nó",
+        "hasImg": true
+    },
+    {
+        "id": "d39b30a1-e113-49ad-a0b7-77114c27045c",
+        "word": "skimpy",
+        "phonetic": "skɪmpi ",
+        "type": "adjective",
+        "defineEn": "(of clothing) close-fitting and revealing the body",
+        "defineVi": "(về quần áo) bó sát và để lộ cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "7a3005fa-16cf-4be1-8e68-859997c5da67",
+        "word": "ready-to-wear",
+        "phonetic": "ɹɛdiɾəwɛɹ ",
+        "type": "adjective",
+        "defineEn": "(of clothes) ready-made and provided in all sizes rather than suiting only a particular customer",
+        "defineVi": "(về quần áo) được may sẵn và cung cấp với mọi kích cỡ thay vì chỉ phù hợp với một khách hàng cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "49491187-e311-4521-9941-5305c8eb9e36",
+        "word": "mini",
+        "phonetic": "mɪni ",
+        "type": "adjective",
+        "defineEn": "very small or shorter in length or duration compared to what is typical or expected",
+        "defineVi": "rất nhỏ hoặc ngắn hơn về thời lượng hoặc thời lượng so với thông thường hoặc dự kiến",
+        "hasImg": true
+    },
+    {
+        "id": "8f06a7e1-b6ed-4a12-99c6-60d18a327d1f",
+        "word": "midi",
+        "phonetic": "mɪdi ",
+        "type": "adjective",
+        "defineEn": "describing a dress or skirt that falls below the knee but above the ankle",
+        "defineVi": "mô tả một chiếc váy hoặc váy dài dưới đầu gối nhưng trên mắt cá chân",
+        "hasImg": true
+    },
+    {
+        "id": "13aa5977-642d-4668-92fc-9881ea98927b",
+        "word": "maxi",
+        "phonetic": "mæksi ",
+        "type": "adjective",
+        "defineEn": "extending down to the ankles or floor",
+        "defineVi": "kéo dài xuống mắt cá chân hoặc sàn nhà",
+        "hasImg": true
+    },
+    {
+        "id": "fa30e8e7-c0c8-4421-971d-20b0e4dc1719",
+        "word": "knitted",
+        "phonetic": "nɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "describing something that has been made by interlocking loops of yarn with knitting needles",
+        "defineVi": "mô tả một cái gì đó đã được thực hiện bằng cách lồng vào nhau các vòng sợi bằng kim đan",
+        "hasImg": true
+    },
+    {
+        "id": "9e5a5048-dd5e-49a7-a718-b2467afeb4ea",
+        "word": "A-line",
+        "phonetic": "eɪlaɪn ",
+        "type": "adjective",
+        "defineEn": "(of a skirt, dress, etc.) being narrow at top and slightly wider at the bottom",
+        "defineVi": "(váy, đầm, v.v.) hẹp ở phần trên và rộng hơn một chút ở phần dưới",
+        "hasImg": true
+    },
+    {
+        "id": "2ff31c59-b07b-4752-86b8-855aa13155f4",
+        "word": "polo-neck collar",
+        "phonetic": "poʊloʊnɛk kɑːlɚ ",
+        "type": "noun",
+        "defineEn": "a lifted collar that fits around the neck",
+        "defineVi": "một cổ áo nâng vừa vặn quanh cổ",
+        "hasImg": true
+    },
+    {
+        "id": "9be33a90-43b4-44c0-bc9f-eb9207c84f16",
+        "word": "brief",
+        "phonetic": "bɹiːf ",
+        "type": "adjective",
+        "defineEn": "(of clothes) short and revealing",
+        "defineVi": "(quần áo) ngắn và hở hang",
+        "hasImg": true
+    },
+    {
+        "id": "5f1d938a-31a7-4ded-9125-5912a2373942",
+        "word": "flared",
+        "phonetic": "flɛɹd ",
+        "type": "adjective",
+        "defineEn": "(especially of clothes) having a shape that slightly widens toward the bottom",
+        "defineVi": "(đặc biệt là quần áo) có hình dạng hơi rộng về phía dưới",
+        "hasImg": true
+    },
+    {
+        "id": "cf093165-4123-472e-b7d6-fcbe8bfd2abe",
+        "word": "skinny",
+        "phonetic": "skɪni ",
+        "type": "adjective",
+        "defineEn": "close-fitting and very tight",
+        "defineVi": "vừa vặn và rất chặt chẽ",
+        "hasImg": true
+    },
+    {
+        "id": "4540e2f6-0adc-43a2-9c41-8d84cd585ff2",
+        "word": "well-cut",
+        "phonetic": "wɛlkʌt ",
+        "type": "adjective",
+        "defineEn": "‌(of clothes) made with care and style and therefore highly priced",
+        "defineVi": "‌(quần áo) được làm cẩn thận và có phong cách và do đó có giá cao",
+        "hasImg": true
+    },
+    {
+        "id": "e887f3f3-206a-413c-8550-65b92e8635ce",
+        "word": "waterproof",
+        "phonetic": "wɔːɾɚpɹuːf ",
+        "type": "adjective",
+        "defineEn": "not damaged by the water or not letting water through",
+        "defineVi": "không bị hư hỏng bởi nước hoặc không cho nước đi qua",
+        "hasImg": true
+    },
+    {
+        "id": "f56fecf7-a93a-44fd-b019-0f860ad4a4c4",
+        "word": "skintight",
+        "phonetic": "skɪntaɪt ",
+        "type": "adjective",
+        "defineEn": "(of clothes) very tight",
+        "defineVi": "(quần áo) rất chật",
+        "hasImg": true
+    },
+    {
+        "id": "68675015-f3ae-4666-b680-43bd665da6d6",
+        "word": "sleeveless",
+        "phonetic": "sliːvləs ",
+        "type": "adjective",
+        "defineEn": "(of clothes) without any sleeves",
+        "defineVi": "(quần áo) không có tay áo",
+        "hasImg": true
+    },
+    {
+        "id": "b1cc1a13-0271-4dfa-9418-3ecd5b7af36d",
+        "word": "slinky",
+        "phonetic": "slɪŋki ",
+        "type": "adjective",
+        "defineEn": "‌(of a woman’s clothing) tight fitting in a way that makes the figure appear attractive",
+        "defineVi": "‌(quần áo của phụ nữ) bó sát theo cách làm cho dáng người trông hấp dẫn",
+        "hasImg": true
+    },
+    {
+        "id": "c952bf89-b493-4952-a798-1087715f0382",
+        "word": "strapless",
+        "phonetic": "stɹæpləs ",
+        "type": "adjective",
+        "defineEn": "(especially of a dress or bra) having no shoulder straps",
+        "defineVi": "(đặc biệt là váy hoặc áo ngực) không có dây đeo vai",
+        "hasImg": true
+    },
+    {
+        "id": "c7721ded-08f7-4db7-b72d-72c0a7304057",
+        "word": "V-neck",
+        "phonetic": "viːnɛk ",
+        "type": "noun",
+        "defineEn": "(of a piece of clothing) having a neckline in the shape of the letter V",
+        "defineVi": "(của một bộ quần áo) có đường viền cổ hình chữ V",
+        "hasImg": true
+    },
+    {
+        "id": "488e157c-a2b2-4238-83e8-ebeb97e76d2a",
+        "word": "crew neck",
+        "phonetic": "kɹuː nɛk ",
+        "type": "noun",
+        "defineEn": "a plain round neckline on a sweater or shirt that has no collar",
+        "defineVi": "một đường viền cổ tròn đơn giản trên áo len hoặc áo sơ mi không có cổ áo",
+        "hasImg": true
+    },
+    {
+        "id": "eb049cbd-66f4-485d-b31f-9833fe3974ac",
+        "word": "short sleeve",
+        "phonetic": "ʃɔːɹt sliːv ",
+        "type": "noun",
+        "defineEn": "an item of clothing with sleeves that extend from one's shoulders to one's elbows",
+        "defineVi": "một bộ quần áo có tay áo dài từ vai đến khuỷu tay của một người",
+        "hasImg": true
+    },
+    {
+        "id": "f236dd56-dd96-4336-86f9-40a949661f3d",
+        "word": "long sleeve",
+        "phonetic": "lɔŋ sliːv ",
+        "type": "noun",
+        "defineEn": "a style of garment in which the sleeves extend to cover the arm from the shoulder to the wrist",
+        "defineVi": "một kiểu quần áo trong đó tay áo mở rộng để che cánh tay từ vai đến cổ tay",
+        "hasImg": true
+    },
+    {
+        "id": "a17d4372-85f7-4d62-88a8-650129d1e0c7",
+        "word": "extra small",
+        "phonetic": "ɛkstɹə smɔːl ",
+        "type": "noun",
+        "defineEn": "clothing or garments that are designed for individuals who require sizes beyond the standard range, typically larger or smaller than the average sizes available",
+        "defineVi": "quần áo hoặc hàng may mặc được thiết kế cho những cá nhân yêu cầu kích thước vượt quá phạm vi tiêu chuẩn, thường lớn hơn hoặc nhỏ hơn kích thước trung bình hiện có",
+        "hasImg": true
+    },
+    {
+        "id": "d3ec9881-feb8-42a1-b0d2-f2679b0e9474",
+        "word": "small",
+        "phonetic": "smɔːl ",
+        "type": "noun",
+        "defineEn": "a size or measurement that is typically smaller than average, often used to describe clothing or other physical objects",
+        "defineVi": "kích thước hoặc phép đo thường nhỏ hơn mức trung bình, thường được sử dụng để mô tả quần áo hoặc các vật thể khác",
+        "hasImg": true
+    },
+    {
+        "id": "48daa98c-f9aa-42ef-b5ca-85eb4bb0d4a2",
+        "word": "medium",
+        "phonetic": "miːdiəm ",
+        "type": "adjective",
+        "defineEn": "describing a size that is neither too big nor too small, but rather in the middle",
+        "defineVi": "mô tả một kích thước không quá lớn cũng không quá nhỏ, mà ở giữa",
+        "hasImg": true
+    },
+    {
+        "id": "94169274-11c6-490a-adfb-b9766ce9637a",
+        "word": "large",
+        "phonetic": "lɑːɹdʒ ",
+        "type": "noun",
+        "defineEn": "a size or quantity that is greater than average or standard",
+        "defineVi": "kích thước hoặc số lượng lớn hơn mức trung bình hoặc tiêu chuẩn",
+        "hasImg": true
+    },
+    {
+        "id": "1495c5f0-6851-4d1d-9c2b-b9acd8fc8abc",
+        "word": "extra large",
+        "phonetic": "ɛkstɹə lɑːɹdʒ ",
+        "type": "noun",
+        "defineEn": "(of a size) bigger or larger than what is considered standard or normal",
+        "defineVi": "(của một kích thước) lớn hơn hoặc lớn hơn những gì được coi là tiêu chuẩn hoặc bình thường",
+        "hasImg": true
+    },
+    {
+        "id": "9932ca45-65f6-47ef-a6ea-d9257c3f89f7",
+        "word": "extra extra large",
+        "phonetic": "ɛkstɹə ɛkstɹə lɑːɹdʒ ",
+        "type": "noun",
+        "defineEn": "clothing or garments that are designed for individuals who require sizes larger than the standard range",
+        "defineVi": "quần áo hoặc hàng may mặc được thiết kế cho những người yêu cầu kích thước lớn hơn phạm vi tiêu chuẩn",
+        "hasImg": true
+    },
+    {
+        "id": "f298046d-e05e-4c05-8051-98e107f6952b",
+        "word": "one-size-fits-all",
+        "phonetic": "wʌnsaɪzfɪtsɔːl ",
+        "type": "noun",
+        "defineEn": "items that are designed to fit a wide range of body sizes or shapes without the need for specific sizing",
+        "defineVi": "các mặt hàng được thiết kế để phù hợp với nhiều kích cỡ hoặc hình dạng cơ thể mà không cần kích thước cụ thể"
+    },
+    {
+        "id": "579e2b1e-c8ba-4418-93fe-c566ff3b52f2",
+        "word": "loose-fitting",
+        "phonetic": "luːsfɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of clothing) large, comfortable, and not fitting the body closely",
+        "defineVi": "(quần áo) rộng rãi, thoải mái, không ôm sát cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "9bb8ed38-bb52-4495-86ea-460418e43765",
+        "word": "close-fitting",
+        "phonetic": "kloʊsfɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of clothes) fitting tightly in a way that is not annoying and shows the shape of the body",
+        "defineVi": "(quần áo) vừa vặn không gây khó chịu và tôn lên hình dáng cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "d70e2c38-b936-42ef-bbd9-6be9e5a660b2",
+        "word": "one-piece",
+        "phonetic": "wʌnpiːs ",
+        "type": "adjective",
+        "defineEn": "made in a single piece without separate parts",
+        "defineVi": "được làm thành một mảnh duy nhất không có bộ phận riêng biệt",
+        "hasImg": true
+    },
+    {
+        "id": "0e82b77d-40eb-4405-a0a3-20673007b11f",
+        "word": "two-piece",
+        "phonetic": "tuːpiːs ",
+        "type": "adjective",
+        "defineEn": "consisting of two separate pieces",
+        "defineVi": "gồm hai phần riêng biệt",
+        "hasImg": true
+    },
+    {
+        "id": "e4073bde-b479-4c65-92a0-7803200e548f",
+        "word": "tight-fitting",
+        "phonetic": "taɪtfɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "being snug and covering the body closely",
+        "defineVi": "vừa khít và bao phủ cơ thể chặt chẽ",
+        "hasImg": true
+    },
+    {
+        "id": "1d45b5ea-8e6c-4fbc-b96d-88c95a96c0b3",
+        "word": "outfitted",
+        "phonetic": "aʊtfɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "being dressed or equipped in a particular way, typically for a specific activity or purpose",
+        "defineVi": "được mặc quần áo hoặc trang bị theo một cách cụ thể, thường cho một hoạt động hoặc mục đích cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "4d11d011-e592-4f10-bdf1-90cc4d3e2bf2",
+        "word": "undressed",
+        "phonetic": "ʌndɹɛst ",
+        "type": "adjective",
+        "defineEn": "not having any clothes on",
+        "defineVi": "không có bất kỳ quần áo trên",
+        "hasImg": true
+    },
+    {
+        "id": "33cf32a4-b488-4a74-8d66-d3748e8a26e3",
+        "word": "figure-hugging",
+        "phonetic": "fɪɡjɚhʌɡɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of a piece of clothing) close-fitting in a way that shows the outline of a woman's figure",
+        "defineVi": "(của một bộ quần áo) bó sát theo cách thể hiện đường nét của dáng người phụ nữ",
+        "hasImg": true
+    },
+    {
+        "id": "979412fa-c6bc-4b1a-ae0a-00003c738e4f",
+        "word": "unfastened",
+        "phonetic": "ʌnfæsənd ",
+        "type": "adjective",
+        "defineEn": "not securely fixed or closed, often suggesting openness or looseness",
+        "defineVi": "không được cố định hoặc đóng một cách an toàn, thường gợi ý sự cởi mở hoặc lỏng lẻo",
+        "hasImg": true
+    },
+    {
+        "id": "c026df34-ce0e-4268-a471-c2a6c48ab7d4",
+        "word": "bare",
+        "phonetic": "bɛɹ ",
+        "type": "adjective",
+        "defineEn": "(of a part of the body) not covered by any clothing",
+        "defineVi": "(của một phần cơ thể) không được che phủ bởi bất kỳ quần áo nào",
+        "hasImg": true
+    },
+    {
+        "id": "86852ae3-b317-4850-b5ff-d2471a08a6f6",
+        "word": "turtleneck collar",
+        "phonetic": "tɜːtəlnɛk kɑːlɚ ",
+        "type": "noun",
+        "defineEn": "a high, close-fitting collar that covers most of the neck, often folded over and sometimes extended into a roll-neck",
+        "defineVi": "cổ áo cao, ôm sát, che gần hết cổ, thường gập lại và đôi khi kéo dài thành cổ cuộn",
+        "hasImg": true
+    },
+    {
+        "id": "b5fbbd01-c1fe-4490-a5eb-8e7c3b3127d2",
+        "word": "three-quarter length sleeve",
+        "phonetic": "θɹiːkwɔːɹɾɚ lɛŋθ sliːv ",
+        "type": "noun",
+        "defineEn": "a sleeve that ends between the elbow and wrist, covering approximately three-quarters of the arm's length",
+        "defineVi": "một tay áo kết thúc giữa khuỷu tay và cổ tay, chiếm khoảng 3/4 chiều dài của cánh tay",
+        "hasImg": true
+    },
+    {
+        "id": "6b169224-06b3-4088-8c21-da965bd105ba",
+        "word": "fringed",
+        "phonetic": "fɹɪndʒd ",
+        "type": "adjective",
+        "defineEn": "having decorative threads or strands hanging from the edge of a garment or material",
+        "defineVi": "có các sợi hoặc sợi trang trí treo trên mép quần áo hoặc vật liệu",
+        "hasImg": true
+    },
+    {
+        "id": "bfb4851e-2eaa-419f-88b1-ff7b2995140d",
+        "word": "solid",
+        "phonetic": "sɑːlɪd ",
+        "type": "adjective",
+        "defineEn": "being of a single color",
+        "defineVi": "là một màu duy nhất",
+        "hasImg": true
+    },
+    {
+        "id": "ce528874-6f5e-4bc4-b09e-cabacf818c9e",
+        "word": "mid-length",
+        "phonetic": "mɪdlɛŋθ ",
+        "type": "adjective",
+        "defineEn": "neither short nor long, but falls in between in terms of length",
+        "defineVi": "không ngắn cũng không dài, nhưng rơi vào khoảng giữa về độ dài",
+        "hasImg": true
+    },
+    {
+        "id": "39ee2be6-2022-47e9-ba52-063865a4d3a0",
+        "word": "shabby",
+        "phonetic": "ʃæbi ",
+        "type": "adjective",
+        "defineEn": "(of clothing) worn-out, frayed, or in poor condition, often indicating a lack of care or upkeep in its appearance",
+        "defineVi": "(quần áo) sờn, sờn hoặc trong tình trạng tồi tệ, thường cho thấy vẻ ngoài của nó không được chăm sóc hoặc bảo trì",
+        "hasImg": true
+    },
+    {
+        "id": "38eceb6b-6307-482a-89f6-f5dce849d8a3",
+        "word": "sleeved",
+        "phonetic": "sliːvd ",
+        "type": "adjective",
+        "defineEn": "describing the garments that have sleeves",
+        "defineVi": "mô tả các sản phẩm may mặc có tay áo",
+        "hasImg": true
+    },
+    {
+        "id": "364ad2cc-82c8-4984-8dc9-12cba1b27052",
+        "word": "long-sleeved",
+        "phonetic": "lɔŋsliːvd ",
+        "type": "adjective",
+        "defineEn": "(of an item of clothing) having sleeves that are long enough to reach one's wrist",
+        "defineVi": "(của một mặt hàng quần áo) có tay áo dài đến cổ tay của một người",
+        "hasImg": true
+    },
+    {
+        "id": "44ac6f33-5a44-4324-8573-84697dcbf9b4",
+        "word": "tall",
+        "phonetic": "tɔːl ",
+        "type": "noun",
+        "defineEn": "a size category that is designed for people who are taller than average, typically above 6 feet or 183 centimeters in height",
+        "defineVi": "một loại kích thước được thiết kế cho những người cao hơn mức trung bình, thường cao trên 6 feet hoặc 183 cm",
+        "hasImg": true
+    },
+    {
+        "id": "e9e225f3-3485-4ca7-95aa-4ed6a66d1080",
+        "word": "button-through",
+        "phonetic": "bʌʔn̩θɹuː ",
+        "type": "adjective",
+        "defineEn": "(of clothing) secured with buttons in a vertical row along the entire length of the garment",
+        "defineVi": "(quần áo) được cố định bằng các nút theo hàng dọc dọc theo toàn bộ chiều dài của quần áo"
+    },
+    {
+        "id": "007cdec8-8f1f-4843-b760-20cb0d0682a0",
+        "word": "delicate",
+        "phonetic": "dɛlᵻkət ",
+        "type": "adjective",
+        "defineEn": "fine or intricate in texture, structure, or design",
+        "defineVi": "tốt hoặc phức tạp trong kết cấu, cấu trúc hoặc thiết kế"
+    }
+]

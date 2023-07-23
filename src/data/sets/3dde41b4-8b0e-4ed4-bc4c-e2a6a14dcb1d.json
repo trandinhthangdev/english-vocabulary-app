@@ -1,0 +1,293 @@
+[
+    {
+        "id": "8e0a3bad-748a-4326-9adf-c68042faee98",
+        "word": "health",
+        "phonetic": "hɛlθ ",
+        "type": "noun",
+        "defineEn": "the state of being free from illness or injury",
+        "defineVi": "tình trạng không bị bệnh tật hoặc thương tích",
+        "hasImg": true
+    },
+    {
+        "id": "00260ef1-24c6-4083-af6d-922b52d865b8",
+        "word": "life",
+        "phonetic": "laɪf ",
+        "type": "noun",
+        "defineEn": "the state of existing as a person who is alive",
+        "defineVi": "trạng thái tồn tại như một người đang sống",
+        "hasImg": true
+    },
+    {
+        "id": "4686c54c-455b-4313-a0c2-581a9313b3b2",
+        "word": "death",
+        "phonetic": "dɛθ ",
+        "type": "noun",
+        "defineEn": "the end of life; the act of dying",
+        "defineVi": "cuối đời; hành động chết",
+        "hasImg": true
+    },
+    {
+        "id": "bf8dbf77-8aa3-44ea-8edb-b1d5ec687a58",
+        "word": "diet",
+        "phonetic": "daɪət ",
+        "type": "noun",
+        "defineEn": "a set of food that is eaten to keep healthy, thin, etc.",
+        "defineVi": "một bộ thực phẩm được ăn để giữ sức khỏe, mỏng, vv",
+        "hasImg": true
+    },
+    {
+        "id": "7671dd04-4e91-4c12-9035-2b0db518bc8b",
+        "word": "energy",
+        "phonetic": "ɛnɚdʒi ",
+        "type": "noun",
+        "defineEn": "the physical and mental strength required for activity, work, etc.",
+        "defineVi": "sức mạnh thể chất và tinh thần cần thiết cho hoạt động, công việc, v.v."
+    },
+    {
+        "id": "879b23e4-ecb8-4d8c-8b1f-79dddff4bbff",
+        "word": "habit",
+        "phonetic": "hæbɪt ",
+        "type": "noun",
+        "defineEn": "something that you regularly do almost without thinking about it, particularly one that is hard to give up or stop doing",
+        "defineVi": "điều gì đó mà bạn thường xuyên làm hầu như không nghĩ về nó, đặc biệt là điều khó từ bỏ hoặc ngừng làm"
+    },
+    {
+        "id": "65985c98-4d3e-4554-a653-c063b27a9d7d",
+        "word": "illness",
+        "phonetic": "ɪlnəs ",
+        "type": "noun",
+        "defineEn": "the state of being physically or mentally ill; a period of sickness or disease",
+        "defineVi": "tình trạng bị bệnh về thể chất hoặc tinh thần; một thời kỳ ốm đau hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "3a475310-794d-4623-b907-2e63d4412eaf",
+        "word": "disease",
+        "phonetic": "dɪziːz ",
+        "type": "noun",
+        "defineEn": "an illness in a human, animal, or plant that affects health",
+        "defineVi": "một căn bệnh ở người, động vật hoặc thực vật ảnh hưởng đến sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "a3a9215a-cf74-4243-a2fd-d1ff9d687570",
+        "word": "ache",
+        "phonetic": "eɪk ",
+        "type": "noun",
+        "defineEn": "a continuous, but dull (not acute) feeling of pain in a part of the body",
+        "defineVi": "cảm giác đau liên tục nhưng âm ỉ (không cấp tính) ở một bộ phận của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "360e5ba1-ecad-4ae9-999c-1bc63a2bbadc",
+        "word": "earache",
+        "phonetic": "ɪɹeɪk ",
+        "type": "noun",
+        "defineEn": "a pain inside the ear",
+        "defineVi": "một cơn đau bên trong tai",
+        "hasImg": true
+    },
+    {
+        "id": "d1c1710d-4898-481d-9ef2-c9678f01c42f",
+        "word": "headache",
+        "phonetic": "hɛdeɪk ",
+        "type": "noun",
+        "defineEn": "a pain in the head, usually persistent",
+        "defineVi": "đau đầu, thường dai dẳng",
+        "hasImg": true
+    },
+    {
+        "id": "5b2e4991-1dc8-4f59-8a22-2c3ed20294c8",
+        "word": "stomach ache",
+        "phonetic": "stʌmək eɪk ",
+        "type": "noun",
+        "defineEn": "a pain in or near someone's stomach",
+        "defineVi": "một cơn đau trong hoặc gần dạ dày của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "1dbc3c9a-47d8-411d-bb52-1a6b11c1cfce",
+        "word": "backache",
+        "phonetic": "bækeɪk ",
+        "type": "noun",
+        "defineEn": "a pain in someone's back",
+        "defineVi": "một nỗi đau ở lưng của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "67e53615-85dd-4e0f-84bc-fdf90e952fa3",
+        "word": "toothache",
+        "phonetic": "tuːθeɪk ",
+        "type": "noun",
+        "defineEn": "a pain in a tooth",
+        "defineVi": "đau răng",
+        "hasImg": true
+    },
+    {
+        "id": "2ff2dec4-bd71-469d-82ad-fea8ff9cb3c5",
+        "word": "flu",
+        "phonetic": "fluː ",
+        "type": "noun",
+        "defineEn": "influenza; an infectious disease similar to a bad cold, causing fever and severe pain",
+        "defineVi": "cúm; một bệnh truyền nhiễm tương tự như cảm lạnh nặng, gây sốt và đau dữ dội",
+        "hasImg": true
+    },
+    {
+        "id": "ed71b539-848e-4ad3-8a0d-17a576f59aa9",
+        "word": "virus",
+        "phonetic": "vaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a microscopic agent that causes disease in people, animals, and plants",
+        "defineVi": "một tác nhân cực nhỏ gây bệnh cho người, động vật và thực vật",
+        "hasImg": true
+    },
+    {
+        "id": "c494bf2e-8015-4aa8-816f-4fc2edd1b243",
+        "word": "effect",
+        "phonetic": "ɪfɛkt ",
+        "type": "noun",
+        "defineEn": "a change in a person or thing caused by another person or thing",
+        "defineVi": "một sự thay đổi trong một người hoặc điều gây ra bởi một người khác hoặc điều",
+        "hasImg": true
+    },
+    {
+        "id": "61edc6b9-a498-42b4-8725-66b10194d39e",
+        "word": "problem",
+        "phonetic": "pɹɑːbləm ",
+        "type": "noun",
+        "defineEn": "something that causes difficulties and is hard to overcome",
+        "defineVi": "một cái gì đó gây ra khó khăn và khó vượt qua"
+    },
+    {
+        "id": "aa31242e-b9c4-4979-bae5-d9145749f0cb",
+        "word": "fever",
+        "phonetic": "fiːvɚ ",
+        "type": "noun",
+        "defineEn": "a condition when the body temperature rises, usually when we are sick",
+        "defineVi": "một tình trạng khi nhiệt độ cơ thể tăng lên, thường là khi chúng ta bị bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "1de41254-62fb-4014-bd3d-773b287429ef",
+        "word": "cough",
+        "phonetic": "kɔf ",
+        "type": "noun",
+        "defineEn": "the action of air coming out of our mouth with force",
+        "defineVi": "hành động của không khí thoát ra khỏi miệng của chúng tôi với lực lượng",
+        "hasImg": true
+    },
+    {
+        "id": "7490d963-b298-4fc1-aac8-d5a8058fa24f",
+        "word": "sneeze",
+        "phonetic": "sniːz ",
+        "type": "noun",
+        "defineEn": "the act of air blowing out of our nose and mouth in a way that we cannot control",
+        "defineVi": "hành động thổi không khí ra khỏi mũi và miệng theo cách mà chúng ta không thể kiểm soát",
+        "hasImg": true
+    },
+    {
+        "id": "c3db00bd-8bb2-45c3-b59e-91f2c01ac682",
+        "word": "cold",
+        "phonetic": "koʊld ",
+        "type": "noun",
+        "defineEn": "a mild disease that we usually get when viruses affect our body and make us cough, sneeze, or have fever",
+        "defineVi": "một căn bệnh nhẹ mà chúng ta thường mắc phải khi vi-rút ảnh hưởng đến cơ thể và khiến chúng ta ho, hắt hơi hoặc sốt",
+        "hasImg": true
+    },
+    {
+        "id": "712a1c1f-adfb-4891-b204-3ec8beac1c1b",
+        "word": "sore throat",
+        "phonetic": "soːɹ θɹoʊt ",
+        "type": "noun",
+        "defineEn": "a condition when you feel pain in the throat, usually caused by bacteria or viruses",
+        "defineVi": "một tình trạng khi bạn cảm thấy đau ở cổ họng, thường do vi khuẩn hoặc vi rút gây ra",
+        "hasImg": true
+    },
+    {
+        "id": "1a5d8f8d-4a90-4dcb-84e4-df5f11f1d8ee",
+        "word": "medication",
+        "phonetic": "mɛdɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "something that we take to prevent or treat a disease, or to feel less pain",
+        "defineVi": "thứ gì đó mà chúng ta dùng để ngăn ngừa hoặc điều trị bệnh hoặc để cảm thấy bớt đau",
+        "hasImg": true
+    },
+    {
+        "id": "59f666db-6580-436c-9b34-2e8fb762bcbb",
+        "word": "rest",
+        "phonetic": "ɹɛst ",
+        "type": "noun",
+        "defineEn": "a period of relaxing, sleeping or doing nothing, especially after a period of activity",
+        "defineVi": "một khoảng thời gian thư giãn, ngủ hoặc không làm gì cả, đặc biệt là sau một thời gian hoạt động",
+        "hasImg": true
+    },
+    {
+        "id": "7b94a8a3-9966-47fe-9245-1bb77d816a9d",
+        "word": "pill",
+        "phonetic": "pɪl ",
+        "type": "noun",
+        "defineEn": "a small round medication we take whole when we are sick",
+        "defineVi": "một loại thuốc tròn nhỏ mà chúng ta uống khi bị ốm",
+        "hasImg": true
+    },
+    {
+        "id": "e4580ff7-4a39-483a-b1a3-1dc59361de8f",
+        "word": "patient",
+        "phonetic": "peɪʃənt ",
+        "type": "noun",
+        "defineEn": "someone who is receiving medical treatment, particularly in a hospital or from a doctor",
+        "defineVi": "một người đang được điều trị y tế, đặc biệt là trong bệnh viện hoặc từ bác sĩ",
+        "hasImg": true
+    },
+    {
+        "id": "66a3f3a0-af36-4960-a985-c652f54a68f0",
+        "word": "cure",
+        "phonetic": "kjʊɹ ",
+        "type": "noun",
+        "defineEn": "a treatment or medication  for a certain disease or injury",
+        "defineVi": "một phương pháp điều trị hoặc thuốc cho một số bệnh hoặc chấn thương",
+        "hasImg": true
+    },
+    {
+        "id": "67ee4635-5115-49a1-858d-60ba06213b7d",
+        "word": "to live",
+        "phonetic": "tə lɪv ",
+        "type": "verb",
+        "defineEn": "to be or remain alive",
+        "defineVi": "được hoặc vẫn còn sống"
+    },
+    {
+        "id": "92d40975-0d67-4a66-a781-6ddd73954fd1",
+        "word": "to die",
+        "phonetic": "tə daɪ ",
+        "type": "verb",
+        "defineEn": "to no longer be alive",
+        "defineVi": "không còn sống",
+        "hasImg": true
+    },
+    {
+        "id": "cdbcfa3d-7339-4cfb-8514-fcd9315db311",
+        "word": "need",
+        "phonetic": "niːd ",
+        "type": "noun",
+        "defineEn": "a condition or situation in which something is necessary",
+        "defineVi": "một điều kiện hoặc tình huống trong đó một cái gì đó là cần thiết"
+    },
+    {
+        "id": "5668ac31-f613-443d-8cb2-6fbde01362a2",
+        "word": "to go to bed",
+        "phonetic": "tə ɡoʊ tə bɛd ",
+        "type": "phrase",
+        "defineEn": "go to sleep; to lie down in one's bed to sleep; prepare to sleep",
+        "defineVi": "đi ngủ; nằm xuống giường để ngủ; chuẩn bị ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "93737635-5f8d-4b48-8c4f-34f946b46999",
+        "word": "leper",
+        "phonetic": "lɛpɚ ",
+        "type": "noun",
+        "defineEn": "someone who is suffering from a chronic, progressive bacterial infection called Leprosy",
+        "defineVi": "một người đang bị nhiễm trùng mãn tính, tiến triển do vi khuẩn gọi là bệnh phong"
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": "28e0016a-a966-49ed-bd80-29627d609405",
+        "word": "bar cookie",
+        "phonetic": "bɑːɹ kʊki ",
+        "type": "noun",
+        "defineEn": "a type of baked dessert that is made from a thick, dense batter or dough, typically pressed into a rectangular or square shape",
+        "defineVi": "một loại món tráng miệng nướng được làm từ bột hoặc bột dày, đặc, thường được ép thành hình chữ nhật hoặc hình vuông",
+        "hasImg": true
+    },
+    {
+        "id": "d6b5114f-3096-4934-ad5b-94717b699b56",
+        "word": "drop cookie",
+        "phonetic": "dɹɑːp kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie dough that is typically spooned or dropped onto a baking sheet and baked without being shaped or rolled",
+        "defineVi": "một loại bột nhào bánh quy thường được đổ vào khay nướng và nướng mà không cần tạo hình hoặc cuộn lại",
+        "hasImg": true
+    },
+    {
+        "id": "0a968448-f2cc-4a1d-b474-d325ce4b8c31",
+        "word": "filled cookie",
+        "phonetic": "fɪld kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie that has a filling, such as jam, chocolate, or other sweet ingredients, sandwiched between two cookie layers",
+        "defineVi": "một loại bánh quy có nhân, chẳng hạn như mứt, sô cô la hoặc các nguyên liệu ngọt khác, được kẹp giữa hai lớp bánh quy",
+        "hasImg": true
+    },
+    {
+        "id": "485bfa3b-8874-48c2-aef3-8a923fe5361b",
+        "word": "molded cookie",
+        "phonetic": "moʊldᵻd kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie that is shaped by hand or using a mold or cookie press before baking",
+        "defineVi": "một loại bánh quy được tạo hình bằng tay hoặc sử dụng khuôn hoặc máy ép bánh quy trước khi nướng",
+        "hasImg": true
+    },
+    {
+        "id": "966ac586-b322-4648-bc36-e4f55d97ecb6",
+        "word": "no-bake cookie",
+        "phonetic": "noʊbeɪk kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie that does not require baking",
+        "defineVi": "một loại cookie không cần nướng",
+        "hasImg": true
+    },
+    {
+        "id": "25a8ba84-b56e-428d-9031-7be35364b023",
+        "word": "pressed cookie",
+        "phonetic": "pɹɛst kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie that is made by pressing dough through a cookie press or a piping bag to create distinct shapes or patterns before baking",
+        "defineVi": "một loại bánh quy được làm bằng cách ép bột qua máy ép bánh quy hoặc túi bắt kem để tạo ra các hình dạng hoặc hoa văn riêng biệt trước khi nướng",
+        "hasImg": true
+    },
+    {
+        "id": "b8804f8c-5215-481b-8d0b-eb7354fe405d",
+        "word": "refrigerator cookie",
+        "phonetic": "ɹᵻfɹɪdʒɚɹeɪɾɚ kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie dough that is chilled in the refrigerator or freezer before being sliced and baked",
+        "defineVi": "một loại bột bánh quy được làm lạnh trong tủ lạnh hoặc tủ đông trước khi cắt lát và nướng"
+    },
+    {
+        "id": "b59288d8-b914-4698-aac5-87b6ab0d2e94",
+        "word": "rolled cookie",
+        "phonetic": "ɹoʊld kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie dough that is rolled out with a rolling pin and cut into desired shapes before baking",
+        "defineVi": "một loại bột bánh quy được cán ra bằng một cái cán và cắt thành những hình dạng mong muốn trước khi nướng"
+    },
+    {
+        "id": "2a040518-b090-4a75-8d7a-3453f74e9a3a",
+        "word": "sandwich cookie",
+        "phonetic": "sændwɪtʃ kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie made by sandwiching a filling (such as frosting, jam, or cream) between two cookies",
+        "defineVi": "một loại bánh quy được làm bằng cách kẹp nhân (chẳng hạn như phủ sương, mứt hoặc kem) vào giữa hai chiếc bánh quy",
+        "hasImg": true
+    },
+    {
+        "id": "6016bcf3-cb34-440e-bc40-e6040dec5c57",
+        "word": "date square",
+        "phonetic": "deɪt skwɛɹ ",
+        "type": "noun",
+        "defineEn": "a type of dessert made with a date filling sandwiched between two layers of crumbly crust or crumb topping",
+        "defineVi": "một loại món tráng miệng được làm bằng nhân chà là kẹp giữa hai lớp vỏ vụn hoặc lớp trên bề mặt vụn",
+        "hasImg": true
+    },
+    {
+        "id": "1febf55c-3c3e-400f-8ff0-a3cd61e9c702",
+        "word": "chocolate chip cookie",
+        "phonetic": "tʃɑːklət tʃɪp kʊki ",
+        "type": "noun",
+        "defineEn": "a type of drop cookie with small chunks of chocolate",
+        "defineVi": "một loại bánh quy nhỏ với những miếng sô cô la nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "064c382f-2a83-407d-93ba-e72e783396d0",
+        "word": "Toll House cookie",
+        "phonetic": "toʊl haʊs kʊki ",
+        "type": "noun",
+        "defineEn": "cookies containing chocolate chips",
+        "defineVi": "bánh quy chứa sô cô la chip",
+        "hasImg": true
+    },
+    {
+        "id": "84067a02-8d6b-49aa-b43e-d0f7cea40639",
+        "word": "oatmeal raisin cookie",
+        "phonetic": "oʊtmiəl ɹeɪzən kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie made with oats, raisins, and typically a combination of butter, sugar, flour, and other ingredients",
+        "defineVi": "một loại bánh quy được làm bằng yến mạch, nho khô và thường là sự kết hợp của bơ, đường, bột mì và các thành phần khác",
+        "hasImg": true
+    },
+    {
+        "id": "015d5e91-85f6-4d07-95a8-d6194a512b64",
+        "word": "hamantash",
+        "phonetic": "hæmɐntæʃ ",
+        "type": "noun",
+        "defineEn": "a triangular-shaped filled cookie or pastry traditionally associated with the Jewish holiday of Purim",
+        "defineVi": "một chiếc bánh quy hoặc bánh ngọt có hình tam giác theo truyền thống gắn liền với ngày lễ Purim của người Do Thái",
+        "hasImg": true
+    },
+    {
+        "id": "561c1a94-5e87-4c24-812c-e3224d81c478",
+        "word": "snickerdoodle",
+        "phonetic": "snɪkɚduːdəl ",
+        "type": "noun",
+        "defineEn": "a type of cookie made from a simple sugar cookie dough rolled in cinnamon sugar",
+        "defineVi": "một loại bánh quy làm từ bột bánh quy đường đơn giản cuộn trong đường quế",
+        "hasImg": true
+    },
+    {
+        "id": "3e41e44b-62ae-4a71-811b-83f237c67d70",
+        "word": "biscotti",
+        "phonetic": "baɪskɑːɾi ",
+        "type": "noun",
+        "defineEn": "a twice-baked biscuit that contains almonds, originally from Italy",
+        "defineVi": "một loại bánh quy nướng hai lần có chứa hạnh nhân, có nguồn gốc từ Ý",
+        "hasImg": true
+    },
+    {
+        "id": "a282c7c8-fb32-426c-9a09-a41e4494bcf8",
+        "word": "rum ball",
+        "phonetic": "ɹʌm bɔːl ",
+        "type": "noun",
+        "defineEn": "a type of no-bake cookie or confection made from crushed cookies or cake crumbs, mixed with rum or rum extract",
+        "defineVi": "một loại bánh quy hoặc bánh kẹo không nướng được làm từ bánh quy nghiền hoặc vụn bánh, trộn với rượu rum hoặc chiết xuất rượu rum",
+        "hasImg": true
+    },
+    {
+        "id": "31fe4281-dd46-481b-86a8-0f721aafa2e5",
+        "word": "spritzgeback",
+        "phonetic": "spɹɪtsdʒɪbæk ",
+        "type": "noun",
+        "defineEn": "a type of German and Scandinavian cookie made from a simple dough of butter, sugar, flour, and sometimes eggs",
+        "defineVi": "một loại bánh quy của Đức và Scandinavi được làm từ bột nhào đơn giản gồm bơ, đường, bột mì và đôi khi là trứng",
+        "hasImg": true
+    },
+    {
+        "id": "24c5eb3c-683b-473e-be49-5f4667d26da4",
+        "word": "pinwheel cookie",
+        "phonetic": "pɪnwiːl kʊki ",
+        "type": "noun",
+        "defineEn": "a swirled cookie made by rolling out two different colored doughs, stacking them, and slicing into pinwheel shapes before baking",
+        "defineVi": "một loại bánh quy xoắn được làm bằng cách cán mỏng hai loại bột có màu khác nhau, xếp chúng lên nhau và cắt thành hình chong chóng trước khi nướng",
+        "hasImg": true
+    },
+    {
+        "id": "2b70143d-0098-4d68-9297-cab549d02a6c",
+        "word": "gingerbread man",
+        "phonetic": "dʒɪndʒɚbɹɛd mæn ",
+        "type": "noun",
+        "defineEn": "a cookie shaped like a human figure, traditionally made of gingerbread and decorated with icing, candies, or other sweets",
+        "defineVi": "một chiếc bánh quy có hình người, theo truyền thống được làm bằng bánh gừng và được trang trí bằng kem, kẹo hoặc đồ ngọt khác",
+        "hasImg": true
+    },
+    {
+        "id": "b60bc0b4-8ae1-4299-b959-719d5ab8c1ce",
+        "word": "Christmas cookie",
+        "phonetic": "kɹɪsməs kʊki ",
+        "type": "noun",
+        "defineEn": "a cookie traditionally made and enjoyed during the Christmas holiday season",
+        "defineVi": "một chiếc bánh quy truyền thống được làm và thưởng thức trong mùa lễ Giáng sinh",
+        "hasImg": true
+    },
+    {
+        "id": "33910bbe-acd9-4e7b-a796-ada4a3511d84",
+        "word": "rosette",
+        "phonetic": "ɹoʊzɛt ",
+        "type": "noun",
+        "defineEn": "a delicate deep-fried Scandinavian cookie with a distinctive flower-like shape",
+        "defineVi": "một chiếc bánh quy Scandinavia chiên giòn tinh tế với hình dạng giống như bông hoa đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "0a32ab32-0419-4e3c-9ccd-f1b110525a49",
+        "word": "wafer",
+        "phonetic": "weɪfɚ ",
+        "type": "noun",
+        "defineEn": "a thin crisp biscuit often served with ice cream",
+        "defineVi": "một bánh quy giòn mỏng thường ăn kèm với kem",
+        "hasImg": true
+    },
+    {
+        "id": "41d69d40-6612-4cc8-8936-1a93219811e9",
+        "word": "tea biscuit",
+        "phonetic": "tiː bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a small, lightly sweetened baked good that is often served with tea or coffee, typically in the afternoon",
+        "defineVi": "một loại bánh nướng nhỏ, ngọt nhẹ thường được phục vụ với trà hoặc cà phê, thường là vào buổi chiều",
+        "hasImg": true
+    },
+    {
+        "id": "b0ac6bc8-5254-424c-a4e6-8186bf21b45b",
+        "word": "sugar cookie",
+        "phonetic": "ʃʊɡɚ kʊki ",
+        "type": "noun",
+        "defineEn": "a type of cookie made from flour, sugar, butter, eggs, and vanilla, and is often decorated with icing or sprinkles",
+        "defineVi": "một loại bánh quy làm từ bột mì, đường, bơ, trứng và vani, và thường được trang trí bằng kem hoặc rắc",
+        "hasImg": true
+    },
+    {
+        "id": "d6044533-7b7d-43f3-94b0-aedaeb54f726",
+        "word": "shortbread",
+        "phonetic": "ʃɔːɹtbɹɛd ",
+        "type": "noun",
+        "defineEn": "a type of cookie made with butter, sugar, and flour",
+        "defineVi": "một loại cookie được làm bằng bơ, đường và bột mì",
+        "hasImg": true
+    },
+    {
+        "id": "c0aa0e78-aa81-47fb-937a-d67418aa5a0d",
+        "word": "sable",
+        "phonetic": "seɪbəl ",
+        "type": "noun",
+        "defineEn": "a rich, crumbly French cookie often made with butter, sugar, and flour, often flavored with vanilla or almonds",
+        "defineVi": "một loại bánh quy phong phú, giòn của Pháp thường được làm bằng bơ, đường và bột mì, thường có hương vị vani hoặc hạnh nhân",
+        "hasImg": true
+    },
+    {
+        "id": "ee37cda9-0072-4bf2-ae7a-11c281f9c5e8",
+        "word": "meringue",
+        "phonetic": "mɚɹæŋ ",
+        "type": "noun",
+        "defineEn": "a crispy icing for cakes and cookies that is made with beaten egg whites and sugar",
+        "defineVi": "một lớp kem giòn cho bánh ngọt và bánh quy được làm bằng lòng trắng trứng đánh bông và đường",
+        "hasImg": true
+    },
+    {
+        "id": "4eec2185-bc44-467d-8234-98a91b41edf4",
+        "word": "macaroon",
+        "phonetic": "mækɐɹuːn ",
+        "type": "noun",
+        "defineEn": "a small cookie that is made with egg white, sugar, coconut, ground almonds or other nuts",
+        "defineVi": "một chiếc bánh quy nhỏ được làm bằng lòng trắng trứng, đường, dừa, hạnh nhân xay hoặc các loại hạt khác",
+        "hasImg": true
+    },
+    {
+        "id": "2ebf9e4c-2270-485b-9755-43cb280ce643",
+        "word": "Graham cracker",
+        "phonetic": "ɡɹeɪəm kɹækɚ ",
+        "type": "noun",
+        "defineEn": "a somewhat sweet biscuit made with whole-wheat flour",
+        "defineVi": "một loại bánh quy hơi ngọt được làm bằng bột mì nguyên chất",
+        "hasImg": true
+    },
+    {
+        "id": "9e1e1117-61eb-4bf8-90c0-6cbeccb77ae9",
+        "word": "ginger snap",
+        "phonetic": "dʒɪndʒɚ snæp ",
+        "type": "noun",
+        "defineEn": "a crisp round cookie flavored with ginger",
+        "defineVi": "một chiếc bánh quy tròn giòn có vị gừng",
+        "hasImg": true
+    },
+    {
+        "id": "1fccabd9-d8bc-4e70-a845-44fa35bffd3e",
+        "word": "fortune cookie",
+        "phonetic": "fɔːɹtʃʊn kʊki ",
+        "type": "noun",
+        "defineEn": "a sweet and crisp cookie that contains a small piece of paper with a motto or vague prophecy written on it, served in Chinese restaurants",
+        "defineVi": "một chiếc bánh quy ngọt và giòn có chứa một mảnh giấy nhỏ với phương châm hoặc lời tiên tri mơ hồ được viết trên đó, được phục vụ trong các nhà hàng Trung Quốc",
+        "hasImg": true
+    },
+    {
+        "id": "638e96f3-3d5b-4976-9b08-3afd2aedf469",
+        "word": "digestive biscuit",
+        "phonetic": "daɪdʒɛstɪv bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a round sweet biscuit made from wholemeal flour, sometimes covered with chocolate",
+        "defineVi": "một loại bánh quy ngọt tròn làm từ bột mì nguyên cám, đôi khi được phủ sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "caf8be84-7ae0-4abd-84d4-251501a82189",
+        "word": "soda biscuit",
+        "phonetic": "soʊdə bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a type of biscuit that is leavened with baking soda instead of yeast, giving it a slightly crumbly texture and a subtle tangy flavor",
+        "defineVi": "một loại bánh quy được ủ bằng baking soda thay vì men, tạo cho nó một kết cấu hơi vụn và hương vị thơm tinh tế"
+    },
+    {
+        "id": "c35dc7e4-5ba6-4a22-bb0a-1fffb0f3d620",
+        "word": "biscuit",
+        "phonetic": "bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a small dry cake, usually sweet and flat",
+        "defineVi": "một chiếc bánh khô nhỏ, thường ngọt và phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "3a083b43-1d71-4cbd-bda3-e5288d0f17e1",
+        "word": "cookie",
+        "phonetic": "kʊki ",
+        "type": "noun",
+        "defineEn": "a small round sweet cake, often with chocolate or fruit pieces in it",
+        "defineVi": "một chiếc bánh ngọt tròn nhỏ, thường có miếng sô cô la hoặc trái cây trong đó",
+        "hasImg": true
+    },
+    {
+        "id": "35a8dc17-e82b-4744-8483-018504b995cf",
+        "word": "ginger nut",
+        "phonetic": "dʒɪndʒɚ nʌt ",
+        "type": "noun",
+        "defineEn": "a bristle biscuit flavored with ginger",
+        "defineVi": "một chiếc bánh quy cứng có hương vị gừng",
+        "hasImg": true
+    },
+    {
+        "id": "2aa57e03-2d6e-4b44-a082-18d567c5a454",
+        "word": "cracker",
+        "phonetic": "kɹækɚ ",
+        "type": "noun",
+        "defineEn": "a thin and hard snack made with flour and water, usually eaten with cheese",
+        "defineVi": "một món ăn nhẹ mỏng và cứng làm bằng bột mì và nước, thường ăn với pho mát",
+        "hasImg": true
+    },
+    {
+        "id": "0e8bd14b-d334-4279-91cc-fc5f60f5584d",
+        "word": "ratafia",
+        "phonetic": "ɹæteɪfiə ",
+        "type": "noun",
+        "defineEn": "sweet liqueur made from wine and brandy flavored with plum or peach or apricot kernels and bitter almonds",
+        "defineVi": "rượu mùi ngọt làm từ rượu vang và rượu mạnh có hương vị mận hoặc đào hoặc hạt mơ và hạnh nhân đắng"
+    },
+    {
+        "id": "daf806bf-4098-4583-9cd3-15a4e111a79d",
+        "word": "hardtack",
+        "phonetic": "hɑːɹdtæk ",
+        "type": "noun",
+        "defineEn": "a type of hard, dry biscuit or cracker that is made from flour, water, and salt, and was historically used as a long-lasting food source for soldiers and sailors",
+        "defineVi": "một loại bánh quy khô, cứng hoặc bánh quy giòn được làm từ bột mì, nước và muối, và trong lịch sử được sử dụng làm nguồn thức ăn lâu dài cho binh lính và thủy thủ"
+    },
+    {
+        "id": "40948af8-84b9-4e90-8eee-7240c32ae439",
+        "word": "garibaldi",
+        "phonetic": "ɡɑːɹɹɪbɔːldi ",
+        "type": "noun",
+        "defineEn": "‌a flat dry biscuit containing currants",
+        "defineVi": "‌một chiếc bánh quy khô phẳng có chứa nho"
+    },
+    {
+        "id": "90063a7c-b81d-4962-8aba-c6fa37856b41",
+        "word": "cream cracker",
+        "phonetic": "kɹiːm kɹækɚ ",
+        "type": "noun",
+        "defineEn": "a dry biscuit, often eaten with cheese",
+        "defineVi": "một bánh quy khô, thường ăn với pho mát"
+    },
+    {
+        "id": "3bc10faf-1636-420c-8c87-250c2c294504",
+        "word": "water biscuit",
+        "phonetic": "wɔːɾɚ bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a thin and brittle cracker that is made with water and flour, paired with cheese or wine",
+        "defineVi": "một loại bánh quy mỏng và giòn được làm bằng nước và bột mì, kết hợp với pho mát hoặc rượu vang",
+        "hasImg": true
+    }
+]

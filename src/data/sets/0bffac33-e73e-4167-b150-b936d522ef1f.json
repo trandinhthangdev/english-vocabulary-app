@@ -1,0 +1,387 @@
+[
+    {
+        "id": "20282fcc-1c77-42a3-885a-92e349ca0294",
+        "word": "spelling",
+        "phonetic": "spɛlɪŋ ",
+        "type": "noun",
+        "defineEn": "the act or the ability of putting letters in the correct order to form a word",
+        "defineVi": "hành động hoặc khả năng sắp xếp các chữ cái theo đúng thứ tự để tạo thành một từ"
+    },
+    {
+        "id": "713ae393-f8f6-4e18-b826-c64f1cd8caf8",
+        "word": "capitalization",
+        "phonetic": "kæpɪɾəlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the practice of using uppercase letters to signify the beginning of a sentence, proper nouns, and certain other grammatical elements for clarity and emphasis",
+        "defineVi": "thực hành sử dụng các chữ cái viết hoa để biểu thị phần đầu của câu, danh từ riêng và một số yếu tố ngữ pháp khác để làm rõ và nhấn mạnh"
+    },
+    {
+        "id": "210e30a9-aded-4923-8693-7a2ab1d70635",
+        "word": "punctuation",
+        "phonetic": "pʌŋktʃuːeɪʃən ",
+        "type": "noun",
+        "defineEn": "the use of marks such as a period, comma, etc. in writing to divide sentences and phrases to better convey meaning",
+        "defineVi": "việc sử dụng các dấu như dấu chấm, dấu phẩy, v.v. trong văn bản để phân chia các câu và cụm từ nhằm truyền đạt ý nghĩa tốt hơn"
+    },
+    {
+        "id": "fbb124db-bc6b-40e8-ad00-5cc78b1a5d7b",
+        "word": "writing system",
+        "phonetic": "ɹaɪɾɪŋ sɪstəm ",
+        "type": "noun",
+        "defineEn": "a set of symbols or characters used to represent language in a visual or tangible form, allowing communication and the recording of information",
+        "defineVi": "một tập hợp các ký hiệu hoặc ký tự được sử dụng để thể hiện ngôn ngữ ở dạng trực quan hoặc hữu hình, cho phép giao tiếp và ghi lại thông tin"
+    },
+    {
+        "id": "62af9156-02c2-4d67-838b-0103f8f3adb2",
+        "word": "phonemic orthography",
+        "phonetic": "fɑːnɛmɪk ɔːɹθɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "a writing system that represents the sounds of a language using consistent and predictable symbols or characters, allowing for a direct correspondence between written and spoken forms",
+        "defineVi": "một hệ thống chữ viết đại diện cho âm thanh của một ngôn ngữ bằng cách sử dụng các ký hiệu hoặc ký tự nhất quán và có thể dự đoán được, cho phép tương ứng trực tiếp giữa dạng viết và dạng nói"
+    },
+    {
+        "id": "82ab6c41-2e1c-49f8-b361-1cbd4e953dee",
+        "word": "cursive",
+        "phonetic": "kɜːsɪv ",
+        "type": "noun",
+        "defineEn": "a style of handwriting in which the letters are joined together in a flowing manner, often written with continuous strokes and without lifting the pen or pencil from the paper",
+        "defineVi": "một phong cách viết tay trong đó các chữ cái được nối với nhau một cách trôi chảy, thường được viết bằng các nét liên tục và không nhấc bút hoặc bút chì ra khỏi giấy"
+    },
+    {
+        "id": "7502b1fa-80f3-492b-8f3c-1b7fafc9c3ab",
+        "word": "typography",
+        "phonetic": "taɪpɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the art and technique of arranging and organizing written text in a visually appealing and readable manner",
+        "defineVi": "nghệ thuật và kỹ thuật sắp xếp và tổ chức văn bản bằng văn bản theo cách hấp dẫn và dễ đọc"
+    },
+    {
+        "id": "1eb2bf43-1a72-4bcc-a305-231bf60baeaf",
+        "word": "paragraph",
+        "phonetic": "pæɹəɡɹæf ",
+        "type": "noun",
+        "defineEn": "a self-contained part of discourse that consists of one or more sentences dealing with a particular topic, indicated by indentation",
+        "defineVi": "một phần độc lập của bài diễn văn bao gồm một hoặc nhiều câu liên quan đến một chủ đề cụ thể, được biểu thị bằng cách thụt đầu dòng"
+    },
+    {
+        "id": "6070f7b0-76a3-4555-a17a-442dedfff9a6",
+        "word": "orthographic depth",
+        "phonetic": "ɔːɹθəɡɹæfɪk dɛpθ ",
+        "type": "noun",
+        "defineEn": "the degree of consistency between the spelling and pronunciation of words in a writing system, with shallow orthographies having a high degree of consistency such as in Spanish and deep orthographies having a lower consistency such as in English",
+        "defineVi": "mức độ nhất quán giữa cách đánh vần và cách phát âm của từ trong một hệ thống chữ viết, với các chữ viết nông có mức độ nhất quán cao như tiếng Tây Ban Nha và các chữ viết sâu có tính nhất quán thấp hơn như tiếng Anh"
+    },
+    {
+        "id": "84ed6098-bc04-4fbd-9169-4fd361284978",
+        "word": "lowercase",
+        "phonetic": "loʊɚkeɪs ",
+        "type": "noun",
+        "defineEn": "the small letters in a writing system, contrasting with uppercase, and is commonly used in regular text",
+        "defineVi": "các chữ cái nhỏ trong một hệ thống chữ viết, tương phản với chữ hoa và thường được sử dụng trong văn bản thông thường"
+    },
+    {
+        "id": "4f5a2657-e8fc-4471-aa52-8d0bbbd377c2",
+        "word": "uppercase",
+        "phonetic": "ʌpɚkeɪs ",
+        "type": "noun",
+        "defineEn": "the set of capital or large letters in the Latin alphabet or other writing systems, typically used at the beginning of a sentence, for proper nouns, and for emphasis",
+        "defineVi": "tập hợp các chữ in hoa hoặc chữ cái lớn trong bảng chữ cái Latinh hoặc các hệ thống chữ viết khác, thường được sử dụng ở đầu câu, cho danh từ riêng và để nhấn mạnh"
+    },
+    {
+        "id": "aad16e18-1485-463d-903b-e8c3b5aee190",
+        "word": "rebus principle",
+        "phonetic": "ɹᵻbjuːz pɹɪnsɪpəl ",
+        "type": "noun",
+        "defineEn": "a linguistic or writing technique that uses pictures, symbols, or combinations of letters to represent words or sounds, often based on their phonetic similarity or association, creating visual puns or wordplay",
+        "defineVi": "một kỹ thuật ngôn ngữ hoặc viết sử dụng hình ảnh, biểu tượng hoặc sự kết hợp của các chữ cái để thể hiện các từ hoặc âm thanh, thường dựa trên sự tương đồng hoặc liên kết ngữ âm của chúng, tạo ra các cách chơi chữ hoặc chơi chữ bằng hình ảnh"
+    },
+    {
+        "id": "47ca350b-bac7-47ae-8af3-7a9889e8d2d8",
+        "word": "alphabet",
+        "phonetic": "ælfəbɛt ",
+        "type": "noun",
+        "defineEn": "a set of basic written symbols, representing the sounds of a language, which if put into correct orders form the words",
+        "defineVi": "một tập hợp các ký hiệu viết cơ bản, đại diện cho âm thanh của một ngôn ngữ, nếu được sắp xếp theo đúng thứ tự sẽ tạo thành các từ"
+    },
+    {
+        "id": "a2a08639-5c41-4a73-8ec0-d0fc09d3b5c3",
+        "word": "logogram",
+        "phonetic": "lɑːɡəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a written character or symbol that represents an entire word or concept, rather than representing individual sounds or phonetic elements, as seen in some writing systems such as Chinese characters or Egyptian hieroglyphs",
+        "defineVi": "một ký tự hoặc biểu tượng bằng văn bản đại diện cho toàn bộ từ hoặc khái niệm, thay vì đại diện cho các âm thanh hoặc yếu tố ngữ âm riêng lẻ, như được thấy trong một số hệ thống chữ viết như ký tự Trung Quốc hoặc chữ tượng hình Ai Cập"
+    },
+    {
+        "id": "6712cef0-78c0-478a-abec-54966bbc9105",
+        "word": "serif",
+        "phonetic": "sɛɹɪf ",
+        "type": "noun",
+        "defineEn": "the small decorative strokes or flourishes that extend from the ends of the main strokes of letters in a typeface, giving them a more traditional or formal appearance",
+        "defineVi": "các nét trang trí nhỏ hoặc khởi sắc kéo dài từ phần cuối của các nét chính của các chữ cái trong một kiểu chữ, tạo cho chúng một diện mạo truyền thống hoặc trang trọng hơn"
+    },
+    {
+        "id": "666be986-7057-4dee-bfa1-46b2cd96f322",
+        "word": "typeface",
+        "phonetic": "taɪpfeɪs ",
+        "type": "noun",
+        "defineEn": "a particular design or style of lettering, including the shape, size, and characteristics of the characters, that make up a complete set of fonts within a specific font family",
+        "defineVi": "một thiết kế hoặc kiểu chữ cụ thể, bao gồm hình dạng, kích thước và đặc điểm của các ký tự, tạo nên một bộ phông chữ hoàn chỉnh trong một họ phông chữ cụ thể"
+    },
+    {
+        "id": "eb6ed03f-2641-471e-91d4-6349c46ebd7e",
+        "word": "allograph",
+        "phonetic": "æləɡɹæf ",
+        "type": "noun",
+        "defineEn": "a different physical or visual representation of the same grapheme or character in a writing system",
+        "defineVi": "một biểu diễn vật lý hoặc hình ảnh khác nhau của cùng một biểu đồ hoặc ký tự trong một hệ thống chữ viết"
+    },
+    {
+        "id": "0024e1af-0640-46a1-9054-6648c2b2ef6e",
+        "word": "grapheme",
+        "phonetic": "ɡɹæfiːm ",
+        "type": "noun",
+        "defineEn": "the smallest unit of a writing system that represents a distinct sound or phoneme in a language, such as a single letter, combination of letters, or symbol",
+        "defineVi": "đơn vị nhỏ nhất của hệ thống chữ viết đại diện cho một âm thanh hoặc âm vị riêng biệt trong một ngôn ngữ, chẳng hạn như một chữ cái, tổ hợp các chữ cái hoặc ký hiệu"
+    },
+    {
+        "id": "aa714b6d-7a2a-4f84-840e-6a026ed88a6b",
+        "word": "bold",
+        "phonetic": "boʊld ",
+        "type": "noun",
+        "defineEn": "a typographic style that emphasizes or highlights text by making it thicker and darker in appearance compared to the surrounding text",
+        "defineVi": "một phong cách đánh máy nhấn mạnh hoặc làm nổi bật văn bản bằng cách làm cho nó dày hơn và tối hơn so với văn bản xung quanh"
+    },
+    {
+        "id": "69b1af83-4651-4fef-998b-e2959f041163",
+        "word": "italic",
+        "phonetic": "ɪtælɪk ",
+        "type": "noun",
+        "defineEn": "a typographic style that slants the text to the right, often with a slightly different shape or design compared to the regular or \"roman\" style",
+        "defineVi": "một kiểu in nghiêng văn bản sang bên phải, thường có hình dạng hoặc thiết kế hơi khác so với kiểu thông thường hoặc kiểu \"roman\""
+    },
+    {
+        "id": "c0328ab9-53c4-45b8-ac5f-4ccf8b9f1985",
+        "word": "sans serif",
+        "phonetic": "sænz sɛɹɪf ",
+        "type": "noun",
+        "defineEn": "a typeface or font that does not have small decorative strokes or serifs at the ends of the main letterforms, giving it a clean and modern appearance",
+        "defineVi": "một kiểu chữ hoặc phông chữ không có các nét trang trí hoặc serif nhỏ ở cuối các mẫu chữ chính, tạo cho nó một diện mạo sạch sẽ và hiện đại"
+    },
+    {
+        "id": "5c2f6520-df62-4f08-be90-35a4c18782c9",
+        "word": "slashed zero",
+        "phonetic": "slæʃt ziəɹoʊ ",
+        "type": "noun",
+        "defineEn": "the typographic variation of the digit \"0\" in which a diagonal slash is added across the zero to distinguish it from the letter \"O\" and indicate that it represents the numerical zero",
+        "defineVi": "biến thể chính tả của chữ số \"0\" trong đó một dấu gạch chéo chéo được thêm vào trên số 0 để phân biệt nó với chữ \"O\" và chỉ ra rằng nó đại diện cho số 0"
+    },
+    {
+        "id": "c7049f08-9d33-47de-a51f-497001e689b5",
+        "word": "ligature",
+        "phonetic": "lɪɡətʃɚ ",
+        "type": "noun",
+        "defineEn": "a typographic term that refers to the combination of two or more letters or characters into a single interconnected glyph, often used to enhance readability or aesthetic appeal in certain typefaces or scripts",
+        "defineVi": "một thuật ngữ đánh máy đề cập đến sự kết hợp của hai hoặc nhiều chữ cái hoặc ký tự thành một nét tượng hình được kết nối với nhau, thường được sử dụng để nâng cao khả năng đọc hoặc tính thẩm mỹ trong một số kiểu chữ hoặc chữ viết nhất định"
+    },
+    {
+        "id": "5393f1a7-181b-4940-a493-3b9f22e4091e",
+        "word": "diacritic",
+        "phonetic": "daɪəkɹɪɾɪk ",
+        "type": "noun",
+        "defineEn": "(linguistics) a mark that is written below or above a letter indicating a difference in pronunciation",
+        "defineVi": "(ngôn ngữ học) dấu được viết bên dưới hoặc bên trên một chữ cái biểu thị sự khác biệt trong cách phát âm"
+    },
+    {
+        "id": "dd4fa701-36d8-41be-9533-a55b067cd3d7",
+        "word": "acute accent",
+        "phonetic": "ɐkjuːt æksənt ",
+        "type": "noun",
+        "defineEn": "a diacritic used in various languages and writing systems to indicate different linguistic features such as stress, pitch, or vowel quality",
+        "defineVi": "một dấu phụ được sử dụng trong các ngôn ngữ và hệ thống chữ viết khác nhau để biểu thị các đặc điểm ngôn ngữ khác nhau như trọng âm, cao độ hoặc chất lượng nguyên âm"
+    },
+    {
+        "id": "df86bb35-5e10-45a0-96c2-250f84fd5052",
+        "word": "accent",
+        "phonetic": "æksənt ",
+        "type": "noun",
+        "defineEn": "a mark that indicates the emphatic syllable in a word, which is stressed",
+        "defineVi": "một dấu hiệu cho biết âm tiết nhấn mạnh trong một từ, được nhấn mạnh"
+    },
+    {
+        "id": "11b31598-acae-4754-8037-7a6e5dc5cfda",
+        "word": "tilde",
+        "phonetic": "tɪldə ",
+        "type": "noun",
+        "defineEn": "the symbol ~ put over the letter n in Spanish, or a and o in Portuguese to indicate nasalization",
+        "defineVi": "ký hiệu ~ đặt trên chữ n trong tiếng Tây Ban Nha, hoặc a và o trong tiếng Bồ Đào Nha để biểu thị sự biến âm"
+    },
+    {
+        "id": "d6fd3cb2-0aef-4b90-8d4e-b4d67fe58a04",
+        "word": "cedilla",
+        "phonetic": "sɛdɪlə ",
+        "type": "noun",
+        "defineEn": "the mark , , put under the letter 'c' indicating that it has a /s/ sound, rather than a /k/ sound",
+        "defineVi": "dấu , , đặt dưới chữ 'c' cho biết nó có âm /s/, chứ không phải âm /k/"
+    },
+    {
+        "id": "6864b093-a8e2-4a0e-83d6-cfd0600197c6",
+        "word": "circumflex",
+        "phonetic": "sɜːkəmflɛks ",
+        "type": "noun",
+        "defineEn": "the mark ^, placed over a vowel in some languages indicating contraction, length, etc.",
+        "defineVi": "dấu ^, được đặt trên một nguyên âm trong một số ngôn ngữ biểu thị sự co lại, độ dài, v.v."
+    },
+    {
+        "id": "0afacc8f-575f-4cb9-b183-269db10c9afe",
+        "word": "grave",
+        "phonetic": "ɡɹeɪv ",
+        "type": "noun",
+        "defineEn": "the diacritic mark ` placed above a vowel in some languages indicating an altered pronunciation in case of quality, quantity or pitch",
+        "defineVi": "dấu phụ ` được đặt phía trên nguyên âm trong một số ngôn ngữ biểu thị cách phát âm đã thay đổi trong trường hợp chất lượng, số lượng hoặc cao độ"
+    },
+    {
+        "id": "cbb79ce8-97ff-4c1a-863e-e62dfb08d285",
+        "word": "umlaut",
+        "phonetic": "ʌmlaʊt ",
+        "type": "noun",
+        "defineEn": "the mark ¨, put over a vowel indicating an articulation with rounding or fronting",
+        "defineVi": "dấu ¨, đặt lên trên một nguyên âm biểu thị cách phát âm có làm tròn hoặc viết trước"
+    },
+    {
+        "id": "f50f51f4-c181-41b0-86fa-c65e68435726",
+        "word": "thorn",
+        "phonetic": "θɔːɹn ",
+        "type": "noun",
+        "defineEn": "a letter in some historical Germanic languages, such as Old English and Old Norse, representing the \"th\" sound, and is characterized by its distinct angular shape resembling a \"p\" with a vertical stroke",
+        "defineVi": "một chữ cái trong một số ngôn ngữ Đức lịch sử, chẳng hạn như tiếng Anh cổ và tiếng Bắc Âu cổ, đại diện cho âm \"th\" và được đặc trưng bởi hình dạng góc cạnh khác biệt giống như chữ \"p\" với một nét thẳng đứng"
+    },
+    {
+        "id": "1d990000-afa7-4850-afe8-548b845d9773",
+        "word": "pictograph",
+        "phonetic": "pɪktəɡɹæf ",
+        "type": "noun",
+        "defineEn": "a graphic symbol that signifies a word, phrase, physical object, etc.",
+        "defineVi": "một biểu tượng đồ họa biểu thị một từ, cụm từ, đối tượng vật lý, v.v."
+    },
+    {
+        "id": "d5938c47-8c5f-4a09-9afc-bc22f366d9dd",
+        "word": "ideogram",
+        "phonetic": "ɪdɪɑːɡɹæm ",
+        "type": "noun",
+        "defineEn": "a symbol or graphic representation that directly represents a concept or idea, often without relying on specific sounds or language, commonly used in pictographic or logographic writing systems",
+        "defineVi": "một biểu tượng hoặc biểu diễn đồ họa trực tiếp thể hiện một khái niệm hoặc ý tưởng, thường không dựa vào âm thanh hoặc ngôn ngữ cụ thể, thường được sử dụng trong các hệ thống chữ viết tượng hình hoặc biểu tượng"
+    },
+    {
+        "id": "5ecd05fb-609e-4927-add4-49020d0f3f4a",
+        "word": "silent letter",
+        "phonetic": "saɪlənt lɛɾɚ ",
+        "type": "noun",
+        "defineEn": "a letter in a word that is not pronounced when the word is spoken, although it may still affect the pronunciation or meaning of the word",
+        "defineVi": "một chữ cái trong một từ không được phát âm khi từ đó được nói, mặc dù nó vẫn có thể ảnh hưởng đến cách phát âm hoặc nghĩa của từ đó"
+    },
+    {
+        "id": "c1d18ba5-7cf1-4492-9c81-c78274bd6ff0",
+        "word": "eth",
+        "phonetic": "ɛθ ",
+        "type": "noun",
+        "defineEn": "a letter used in some languages, such as Old English and Icelandic, to represent the voiced \"th\" sound, and is derived from the runic letter \"d\"",
+        "defineVi": "một chữ cái được sử dụng trong một số ngôn ngữ, chẳng hạn như tiếng Anh cổ và tiếng Iceland, để thể hiện âm \"th\" hữu thanh và có nguồn gốc từ chữ runic \"d\""
+    },
+    {
+        "id": "85217e69-a47e-473e-90b2-bbfc0339a213",
+        "word": "virama",
+        "phonetic": "vɜːɹɑːmə ",
+        "type": "noun",
+        "defineEn": "a diacritic mark used in some writing systems, such as Devanagari and Indic scripts, to indicate the absence of a vowel sound following a consonant, effectively suppressing the inherent vowel",
+        "defineVi": "một dấu phụ được sử dụng trong một số hệ thống chữ viết, chẳng hạn như chữ viết Devanagari và Ấn Độ, để biểu thị sự vắng mặt của một nguyên âm theo sau một phụ âm, triệt tiêu một cách hiệu quả nguyên âm vốn có"
+    },
+    {
+        "id": "1ee91f5b-97f0-4952-8f38-098f66a236c0",
+        "word": "calligraphy",
+        "phonetic": "kælɪɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the art of producing beautiful handwriting using special writing instruments such as a dip or brush pen",
+        "defineVi": "nghệ thuật viết chữ đẹp bằng cách sử dụng các dụng cụ viết đặc biệt như bút nhúng hoặc bút lông",
+        "hasImg": true
+    },
+    {
+        "id": "33597a88-fe0b-4636-864b-059a96e70248",
+        "word": "clerical script",
+        "phonetic": "klɛɹɪkəl skɹɪpt ",
+        "type": "noun",
+        "defineEn": "a style of Chinese calligraphy that emerged during the Han Dynasty and was commonly used for official documents and bureaucratic purposes, characterized by its simplified and standardized form with square-shaped characters and clear strokes",
+        "defineVi": "một phong cách thư pháp Trung Quốc xuất hiện từ thời nhà Hán và thường được sử dụng cho các tài liệu chính thức và mục đích quan liêu, được đặc trưng bởi hình thức đơn giản hóa và tiêu chuẩn hóa với các ký tự hình vuông và nét rõ ràng"
+    },
+    {
+        "id": "a8d77175-e3fd-4458-ad37-aa1b77be6d72",
+        "word": "seal script",
+        "phonetic": "siːl skɹɪpt ",
+        "type": "noun",
+        "defineEn": "an ancient style of writing used in China during the late Zhou Dynasty and the Qin Dynasty, characterized by its pictographic and abstract forms, with characters often featuring intricate and flowing lines",
+        "defineVi": "một phong cách viết cổ xưa được sử dụng ở Trung Quốc vào cuối triều đại nhà Chu và nhà Tần, được đặc trưng bởi các hình thức tượng hình và trừu tượng, với các ký tự thường có các dòng phức tạp và trôi chảy"
+    },
+    {
+        "id": "4f2ebe48-dd2e-4b74-bee0-ec19bf8eb4a0",
+        "word": "regular script",
+        "phonetic": "ɹɛɡjʊlɚ skɹɪpt ",
+        "type": "noun",
+        "defineEn": "a standardized style of Chinese calligraphy characterized by its balanced and uniform strokes, widely used for its readability and simplicity",
+        "defineVi": "một phong cách tiêu chuẩn của thư pháp Trung Quốc được đặc trưng bởi các nét cân đối và thống nhất, được sử dụng rộng rãi vì dễ đọc và đơn giản"
+    },
+    {
+        "id": "dc7a4e10-b876-418e-a48f-770b909d4856",
+        "word": "running hand script",
+        "phonetic": "ɹʌnɪŋ hænd skɹɪpt ",
+        "type": "noun",
+        "defineEn": "a semi-cursive style of Chinese calligraphy that exhibits a fluid and connected writing with simplified strokes, striking a balance between the cursive and regular scripts",
+        "defineVi": "một phong cách thư pháp bán thảo của Trung Quốc thể hiện lối viết uyển chuyển và liên kết với các nét đơn giản, tạo sự cân bằng giữa chữ thảo và chữ viết thông thường"
+    },
+    {
+        "id": "2ef59079-0c60-47b4-b7ff-4fe653737c2b",
+        "word": "kanji",
+        "phonetic": "kændʒi ",
+        "type": "noun",
+        "defineEn": "the logographic characters adopted from Chinese characters and used in the Japanese writing system",
+        "defineVi": "các ký tự biểu tượng được lấy từ các ký tự Trung Quốc và được sử dụng trong hệ thống chữ viết của Nhật Bản"
+    },
+    {
+        "id": "ee8c9f1b-c042-415a-95d8-c347eb0c37cc",
+        "word": "hiragana",
+        "phonetic": "hɜːɹɐɡɑːnə ",
+        "type": "noun",
+        "defineEn": "a fundamental component of the Japanese writing system, comprising 46 characters that represent syllables and are utilized for native Japanese words, grammatical purposes, and verb endings",
+        "defineVi": "một thành phần cơ bản của hệ thống chữ viết tiếng Nhật, bao gồm 46 ký tự đại diện cho các âm tiết và được sử dụng cho các từ tiếng Nhật bản địa, mục đích ngữ pháp và phần cuối của động từ"
+    },
+    {
+        "id": "dbd8ddf6-eac7-414e-bae2-7c2c84cee5f0",
+        "word": "katakana",
+        "phonetic": "kæɾɐkɑːnə ",
+        "type": "noun",
+        "defineEn": "a component in the Japanese writing system, consisting of 46 characters that represent syllables and are primarily used for borrowed words, foreign names, onomatopoeia, and emphasis",
+        "defineVi": "một thành phần trong hệ thống chữ viết của Nhật Bản, bao gồm 46 ký tự đại diện cho các âm tiết và chủ yếu được sử dụng cho các từ mượn, tên nước ngoài, từ tượng thanh và nhấn mạnh"
+    },
+    {
+        "id": "153e2b25-a09a-4300-9370-ba6ff8078589",
+        "word": "hanja",
+        "phonetic": "hænjə ",
+        "type": "noun",
+        "defineEn": "the Chinese characters that are used in the Korean writing system, representing both meaning and sound and used in conjunction with the Korean alphabet, Hangul, to write words of Chinese origin or to clarify the meaning of Korean words",
+        "defineVi": "các ký tự tiếng Trung được sử dụng trong hệ thống chữ viết của Hàn Quốc, đại diện cho cả ý nghĩa và âm thanh và được sử dụng cùng với bảng chữ cái tiếng Hàn, Hangul, để viết các từ có nguồn gốc từ Trung Quốc hoặc để làm rõ nghĩa của các từ tiếng Hàn"
+    },
+    {
+        "id": "76c49241-6f8f-4631-a715-0710431f3914",
+        "word": "rune",
+        "phonetic": "ɹuːn ",
+        "type": "noun",
+        "defineEn": "a letter or character from the runic alphabet, used in various Germanic languages during the early Middle Ages",
+        "defineVi": "một chữ cái hoặc ký tự từ bảng chữ cái runic, được sử dụng trong các ngôn ngữ Đức khác nhau trong thời kỳ đầu thời Trung cổ"
+    },
+    {
+        "id": "a0722559-9f57-4ca3-a21e-cac0c75107e5",
+        "word": "stroke",
+        "phonetic": "stɹoʊk ",
+        "type": "noun",
+        "defineEn": "a single mark or brush movement used to construct characters in writing systems like Chinese, Japanese, or Korean",
+        "defineVi": "một dấu hoặc chuyển động của bút lông được sử dụng để xây dựng các ký tự trong các hệ thống chữ viết như tiếng Trung, tiếng Nhật hoặc tiếng Hàn"
+    }
+]

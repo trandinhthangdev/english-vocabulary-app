@@ -1,0 +1,319 @@
+[
+    {
+        "id": "4376ce24-c42c-4be3-b710-5dd88302bc1d",
+        "word": "atom",
+        "phonetic": "æɾəm ",
+        "type": "noun",
+        "defineEn": "(science) the smallest part of a chemical element that is found in the nature",
+        "defineVi": "(khoa học) phần nhỏ nhất của một nguyên tố hóa học được tìm thấy trong tự nhiên",
+        "hasImg": true
+    },
+    {
+        "id": "081fade8-618b-42e3-bbac-07cfc7524263",
+        "word": "organism",
+        "phonetic": "ɔːɹɡənɪzəm ",
+        "type": "noun",
+        "defineEn": "a living thing such as a plant, animal, etc., especially a very small one that lives on its own",
+        "defineVi": "một sinh vật sống như thực vật, động vật, v.v., đặc biệt là một sinh vật rất nhỏ sống một mình",
+        "hasImg": true
+    },
+    {
+        "id": "f970e61f-d3e1-4516-b6c9-4cda24138f68",
+        "word": "chemical",
+        "phonetic": "kɛmɪkəl ",
+        "type": "adjective",
+        "defineEn": "made by a process that involves chemistry",
+        "defineVi": "được thực hiện bởi một quá trình liên quan đến hóa học",
+        "hasImg": true
+    },
+    {
+        "id": "17b1ac2f-8ea7-428b-879b-c0d831a3d3bc",
+        "word": "gas",
+        "phonetic": "ɡæs ",
+        "type": "noun",
+        "defineEn": "the state of a substance that is neither solid nor liquid",
+        "defineVi": "trạng thái của một chất không rắn cũng không lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "59be09ba-75a6-4725-9a26-e41b301ec337",
+        "word": "liquid",
+        "phonetic": "lɪkwɪd ",
+        "type": "noun",
+        "defineEn": "the state of a substance that is without shape and can flow easily",
+        "defineVi": "trạng thái của một chất không có hình dạng và có thể chảy dễ dàng",
+        "hasImg": true
+    },
+    {
+        "id": "5f4daf28-e90b-4ffd-99d2-d01c2ceb466e",
+        "word": "solid",
+        "phonetic": "sɑːlɪd ",
+        "type": "noun",
+        "defineEn": "the state of a substance that is firm and has a certain shape, not like gas or liquid",
+        "defineVi": "trạng thái của một chất cứng và có hình dạng nhất định, không giống như chất khí hoặc chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "41b85ffa-e2e8-4d15-8afa-6e8f336e0829",
+        "word": "material",
+        "phonetic": "mətɪɹiəl ",
+        "type": "noun",
+        "defineEn": "a substance from which things can be made",
+        "defineVi": "một chất mà từ đó mọi thứ có thể được thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "559a541b-c0a9-4f99-a7f0-4bf030ee979f",
+        "word": "substance",
+        "phonetic": "sʌbstəns ",
+        "type": "noun",
+        "defineEn": "a particular kind of matter in gas, solid or liquid form",
+        "defineVi": "một loại vật chất cụ thể ở dạng khí, rắn hoặc lỏng"
+    },
+    {
+        "id": "458b3486-0306-45d0-97dc-1aca40204974",
+        "word": "electric",
+        "phonetic": "ᵻlɛktɹɪk ",
+        "type": "adjective",
+        "defineEn": "relating to, produced by, or using electricity",
+        "defineVi": "liên quan đến, sản xuất bởi, hoặc sử dụng điện",
+        "hasImg": true
+    },
+    {
+        "id": "1c80b716-fe60-4e6f-8b6d-d65e2e1b8b54",
+        "word": "real",
+        "phonetic": "ɹiːəl ",
+        "type": "adjective",
+        "defineEn": "happening or being in the world and not on someone's mind",
+        "defineVi": "xảy ra hoặc tồn tại trên thế giới và không có trong tâm trí của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "1c7de0b1-0d27-460c-a460-e01ab9de9067",
+        "word": "systematic",
+        "phonetic": "sɪstəmæɾɪk ",
+        "type": "adjective",
+        "defineEn": "done according to a system and in a planned way",
+        "defineVi": "được thực hiện theo một hệ thống và theo một cách có kế hoạch"
+    },
+    {
+        "id": "d6f6874a-b31e-4049-98c0-9ee05b021b99",
+        "word": "metal",
+        "phonetic": "mɛɾəl ",
+        "type": "noun",
+        "defineEn": "a usually solid and hard substance that heat and electricity can move through it, such as gold, iron, etc.",
+        "defineVi": "một chất thường rắn và cứng mà nhiệt và điện có thể di chuyển qua nó, chẳng hạn như vàng, sắt, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "557b4f8f-6d0d-4e05-ab23-c4eb2b708fb1",
+        "word": "plastic",
+        "phonetic": "plæstɪk ",
+        "type": "noun",
+        "defineEn": "a light substance produced in a chemical process that can be formed into different shapes when heated",
+        "defineVi": "một chất nhẹ được tạo ra trong một quá trình hóa học có thể tạo thành các hình dạng khác nhau khi đun nóng",
+        "hasImg": true
+    },
+    {
+        "id": "648bed9c-d426-4259-8efb-ab59a6ee3e42",
+        "word": "iron",
+        "phonetic": "aɪɚn ",
+        "type": "noun",
+        "defineEn": "a magnetic gray metal that is very hard and is used in building structures or found in the blood or some food in small amounts",
+        "defineVi": "một kim loại màu xám từ tính rất cứng và được sử dụng trong các công trình xây dựng hoặc được tìm thấy trong máu hoặc một số thực phẩm với số lượng nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "c8d651fa-ec07-458f-bf5c-8676ee01a18c",
+        "word": "gold",
+        "phonetic": "ɡoʊld ",
+        "type": "noun",
+        "defineEn": "a valuable yellow-colored metal that is used for making jewelry",
+        "defineVi": "một kim loại màu vàng có giá trị được sử dụng để làm đồ trang sức",
+        "hasImg": true
+    },
+    {
+        "id": "e8429490-0a1c-48e7-9081-53f0baee1526",
+        "word": "silver",
+        "phonetic": "sɪlvɚ ",
+        "type": "noun",
+        "defineEn": "a shiny grayish-white metal of high value that heat and electricity can move through it and is used in jewelry making, tableware, coins, electronics, etc.",
+        "defineVi": "một kim loại màu trắng xám sáng bóng có giá trị cao mà nhiệt và điện có thể di chuyển qua nó và được sử dụng trong chế tạo đồ trang sức, bộ đồ ăn, tiền xu, đồ điện tử, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "3d62d923-3bc5-4580-bc53-958ab14fceed",
+        "word": "carbon",
+        "phonetic": "kɑːɹbən ",
+        "type": "noun",
+        "defineEn": "a nonmetal element that can be found in all organic compounds and living things",
+        "defineVi": "một nguyên tố phi kim có thể được tìm thấy trong tất cả các hợp chất hữu cơ và sinh vật",
+        "hasImg": true
+    },
+    {
+        "id": "fbc6a93c-dbc5-4bff-813c-4a30a3692264",
+        "word": "oxygen",
+        "phonetic": "ɑːksɪdʒən ",
+        "type": "noun",
+        "defineEn": "a chemical element in gas form with no color that living things need for breathing",
+        "defineVi": "một nguyên tố hóa học ở dạng khí không có màu mà các sinh vật sống cần để thở",
+        "hasImg": true
+    },
+    {
+        "id": "b476de5c-336b-401f-8115-6865d8c566be",
+        "word": "chemical element",
+        "phonetic": "kɛmɪkəl ɛlɪmənt ",
+        "type": "noun",
+        "defineEn": "any of the simple chemical substances that consist of atoms of only one type, such as gold, oxygen, carbon, etc.",
+        "defineVi": "bất kỳ chất hóa học đơn giản nào bao gồm các nguyên tử chỉ thuộc một loại, chẳng hạn như vàng, oxy, carbon, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7271c43c-784c-436c-898e-26715a3f9f0e",
+        "word": "stone",
+        "phonetic": "stoʊn ",
+        "type": "noun",
+        "defineEn": "a hard and solid material that forms the rocks, which is often used for building things",
+        "defineVi": "một vật liệu cứng và rắn tạo thành đá, thường được sử dụng để xây dựng mọi thứ",
+        "hasImg": true
+    },
+    {
+        "id": "9ae34be3-5991-4996-9798-4d5698f5dd82",
+        "word": "to research",
+        "phonetic": "tə ɹᵻsɜːtʃ ",
+        "type": "verb",
+        "defineEn": "to study a subject carefully and systematically to discover new facts or information about it",
+        "defineVi": "nghiên cứu một chủ đề một cách cẩn thận và có hệ thống để khám phá những sự kiện hoặc thông tin mới về nó",
+        "hasImg": true
+    },
+    {
+        "id": "e1daf56d-a223-45fb-8b0a-9d472c0ef6eb",
+        "word": "method",
+        "phonetic": "mɛθəd ",
+        "type": "noun",
+        "defineEn": "a specific way or process of doing something, particularly an established or systematic one",
+        "defineVi": "một cách cụ thể hoặc quá trình làm một cái gì đó, đặc biệt là một thiết lập hoặc có hệ thống"
+    },
+    {
+        "id": "a211569e-34f1-4b85-934d-858eb53957d7",
+        "word": "example",
+        "phonetic": "ɛɡzæmpəl ",
+        "type": "noun",
+        "defineEn": "something such as a situation, object, fact, etc. that shows or proves what one is saying",
+        "defineVi": "một cái gì đó như một tình huống, đối tượng, thực tế, vv cho thấy hoặc chứng minh những gì một người đang nói"
+    },
+    {
+        "id": "7a429983-4f68-4b60-bc23-275922329ce9",
+        "word": "to invent",
+        "phonetic": "tʊ ɪnvɛnt ",
+        "type": "verb",
+        "defineEn": "to make or design something that did not exist before",
+        "defineVi": "để thực hiện hoặc thiết kế một cái gì đó không tồn tại trước đây",
+        "hasImg": true
+    },
+    {
+        "id": "f55e712b-77ee-4ac3-b545-a4c3371b2770",
+        "word": "inventor",
+        "phonetic": "ɪnvɛntɚ ",
+        "type": "noun",
+        "defineEn": "someone who makes or designs something that did not exist before",
+        "defineVi": "một người làm hoặc thiết kế một cái gì đó không tồn tại trước đây",
+        "hasImg": true
+    },
+    {
+        "id": "dd68a9b4-dfa5-4695-b719-cbd98d9f6183",
+        "word": "to discover",
+        "phonetic": "tə dɪskʌvɚ ",
+        "type": "verb",
+        "defineEn": "to be the first person who finds something or someplace that others did not know about",
+        "defineVi": "là người đầu tiên tìm thấy một cái gì đó hoặc một nơi nào đó mà những người khác không biết về",
+        "hasImg": true
+    },
+    {
+        "id": "576c3c07-bb19-4aea-ae7d-10f2c190a204",
+        "word": "discovery",
+        "phonetic": "dɪskʌvɚɹi ",
+        "type": "noun",
+        "defineEn": "the act of finding something for the first time and before others",
+        "defineVi": "hành động tìm kiếm một cái gì đó lần đầu tiên và trước những người khác",
+        "hasImg": true
+    },
+    {
+        "id": "ddf6629d-d0fb-4607-a81b-128d8230a883",
+        "word": "lab",
+        "phonetic": "læb ",
+        "type": "noun",
+        "defineEn": "a place that is used for research, testing, and other scientific or medical experiments",
+        "defineVi": "một nơi được sử dụng để nghiên cứu, thử nghiệm và các thí nghiệm khoa học hoặc y tế khác",
+        "hasImg": true
+    },
+    {
+        "id": "84e49d2e-8f46-49b1-93d6-5ad2fddf4f27",
+        "word": "tool",
+        "phonetic": "tuːl ",
+        "type": "noun",
+        "defineEn": "something such as a hammer, saw, etc. that is held in the hand and used for a specific job",
+        "defineVi": "một cái gì đó như búa, cưa, v.v. được cầm trên tay và được sử dụng cho một công việc cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "537a6aef-27b3-4141-ab73-d0c04aabb7f4",
+        "word": "fact",
+        "phonetic": "fækt ",
+        "type": "noun",
+        "defineEn": "something that is known to be true or real, especially when it can be proved",
+        "defineVi": "một cái gì đó được biết là đúng hoặc có thật, đặc biệt là khi nó có thể được chứng minh"
+    },
+    {
+        "id": "ed37d001-dcf0-44c7-a98e-4fc8c91ab119",
+        "word": "reason",
+        "phonetic": "ɹiːzən ",
+        "type": "noun",
+        "defineEn": "something that explains an action or event",
+        "defineVi": "một cái gì đó giải thích một hành động hoặc sự kiện"
+    },
+    {
+        "id": "13f8beb0-c0bb-417d-903b-778dc48ea046",
+        "word": "technology",
+        "phonetic": "tɛknɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "scientific knowledge put into practice in a particular area, especially in industry",
+        "defineVi": "kiến thức khoa học đưa vào thực tiễn trong một lĩnh vực cụ thể, đặc biệt là trong ngành công nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "36401b00-7ab5-405e-8ea6-142a41bd88d4",
+        "word": "data",
+        "phonetic": "deɪɾə ",
+        "type": "noun",
+        "defineEn": "information or facts collected to be used for analysis or reference",
+        "defineVi": "thông tin hoặc sự kiện được thu thập để sử dụng cho phân tích hoặc tham khảo",
+        "hasImg": true
+    },
+    {
+        "id": "98cd80d9-49c5-4cf0-a6c1-9f3739c05dff",
+        "word": "focus",
+        "phonetic": "foʊkəs ",
+        "type": "noun",
+        "defineEn": "the main point of activity or interest",
+        "defineVi": "điểm chính của hoạt động hoặc sở thích",
+        "hasImg": true
+    },
+    {
+        "id": "0704f421-617a-4ee6-bf24-88b1f5f96452",
+        "word": "sound",
+        "phonetic": "saʊnd ",
+        "type": "noun",
+        "defineEn": "anything that we can hear",
+        "defineVi": "bất cứ điều gì mà chúng ta có thể nghe thấy",
+        "hasImg": true
+    },
+    {
+        "id": "038607fb-91ee-42f0-b187-6283f51a1779",
+        "word": "result",
+        "phonetic": "ɹɪzʌlt ",
+        "type": "noun",
+        "defineEn": "something that is caused by something else",
+        "defineVi": "một cái gì đó được gây ra bởi một cái gì đó khác"
+    }
+]

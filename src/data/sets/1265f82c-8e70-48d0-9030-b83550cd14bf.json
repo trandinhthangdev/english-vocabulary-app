@@ -1,0 +1,328 @@
+[
+    {
+        "id": "162997c3-a8f7-43f5-8639-0d274eaa02a6",
+        "word": "acupuncture",
+        "phonetic": "ækjuːpʌŋktʃɚ ",
+        "type": "noun",
+        "defineEn": "a method of treatment in which thin needles are inserted in specific spots on the body, originated in China",
+        "defineVi": "một phương pháp điều trị trong đó kim mỏng được đưa vào những điểm cụ thể trên cơ thể, có nguồn gốc từ Trung Quốc",
+        "hasImg": true
+    },
+    {
+        "id": "f2b8911b-b149-4ee7-8846-88dee747d7bf",
+        "word": "clinic",
+        "phonetic": "klɪnɪk ",
+        "type": "noun",
+        "defineEn": "a part of a hospital or a healthcare facility that provides care for outpatients",
+        "defineVi": "một phần của bệnh viện hoặc cơ sở chăm sóc sức khỏe cung cấp dịch vụ chăm sóc cho bệnh nhân ngoại trú",
+        "hasImg": true
+    },
+    {
+        "id": "bd32ff0d-8e88-488d-852f-b32cb711fde8",
+        "word": "ward",
+        "phonetic": "wɔːɹd ",
+        "type": "noun",
+        "defineEn": "a separate area in a hospital for patients with similar conditions",
+        "defineVi": "một khu vực riêng biệt trong bệnh viện dành cho bệnh nhân có tình trạng tương tự",
+        "hasImg": true
+    },
+    {
+        "id": "f9d4a577-d1e6-4f99-91b4-fb3afc8ea350",
+        "word": "emergency room",
+        "phonetic": "ɪmɜːdʒənsi ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room in a hospital or clinic equipped to provide emergency care to people in need of immediate medical treatment",
+        "defineVi": "một căn phòng trong bệnh viện hoặc phòng khám được trang bị để cung cấp dịch vụ chăm sóc khẩn cấp cho những người cần điều trị y tế ngay lập tức"
+    },
+    {
+        "id": "13e29f8a-6290-48de-b131-811967a666b2",
+        "word": "ENT",
+        "phonetic": "ɛnt ",
+        "type": "noun",
+        "defineEn": "a field of medicine or a department in a hospital that deals with ear, nose, and throat problems or diseases",
+        "defineVi": "một lĩnh vực y học hoặc một khoa trong bệnh viện liên quan đến các vấn đề hoặc bệnh về tai, mũi và họng",
+        "hasImg": true
+    },
+    {
+        "id": "4f6ee5f0-fc20-4297-825a-90a29df350a7",
+        "word": "pharmacy",
+        "phonetic": "fɑːɹməsi ",
+        "type": "noun",
+        "defineEn": "a shop where medicines are sold",
+        "defineVi": "một cửa hàng bán thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "8fb5067b-707f-4901-a2ba-0fecf122865e",
+        "word": "forensics",
+        "phonetic": "fɚɹɛnsɪks ",
+        "type": "noun",
+        "defineEn": "a field of science that through the practice of scientific techniques, etc. helps the police in their cases",
+        "defineVi": "một lĩnh vực khoa học thông qua thực hành các kỹ thuật khoa học, v.v. giúp cảnh sát trong các trường hợp của họ",
+        "hasImg": true
+    },
+    {
+        "id": "49fd9ee0-3fff-4676-9392-20cf40e39cba",
+        "word": "inpatient",
+        "phonetic": "ɪnpeɪʃənt ",
+        "type": "noun",
+        "defineEn": "a patient who stays in the hospital while they receive treatment",
+        "defineVi": "một bệnh nhân ở lại bệnh viện trong khi họ được điều trị",
+        "hasImg": true
+    },
+    {
+        "id": "182732be-fd3c-47e2-8c3b-2ee91b3a22b8",
+        "word": "outpatient",
+        "phonetic": "aʊtpeɪʃənt ",
+        "type": "noun",
+        "defineEn": "a patient who receives treatment in a hospital but does not remain there",
+        "defineVi": "một bệnh nhân được điều trị trong bệnh viện nhưng không ở lại đó",
+        "hasImg": true
+    },
+    {
+        "id": "74e75ff8-41ab-4291-8dd6-e51d605a2576",
+        "word": "mental health",
+        "phonetic": "mɛntəl hɛlθ ",
+        "type": "noun",
+        "defineEn": "the well-being of a person's mind",
+        "defineVi": "hạnh phúc của tâm trí của một người"
+    },
+    {
+        "id": "18e50873-fba6-4da6-8775-9140569a9a75",
+        "word": "phobia",
+        "phonetic": "foʊbiə ",
+        "type": "noun",
+        "defineEn": "a great fear of an object or situation that is irrational",
+        "defineVi": "một nỗi sợ hãi lớn về một đối tượng hoặc tình huống không hợp lý",
+        "hasImg": true
+    },
+    {
+        "id": "7ee657d7-c745-4acd-a58b-1c7ec2f563cd",
+        "word": "specialist",
+        "phonetic": "spɛʃəlɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who is highly trained in a particular area of medicine",
+        "defineVi": "một bác sĩ được đào tạo chuyên sâu trong một lĩnh vực cụ thể của y học",
+        "hasImg": true
+    },
+    {
+        "id": "52d526dd-3556-4019-ad29-e887de47a4f8",
+        "word": "orthodontist",
+        "phonetic": "ɔːɹθədɔntɪst ",
+        "type": "noun",
+        "defineEn": "a dentist who specializes in the correction, etc. of teeth position",
+        "defineVi": "một nha sĩ chuyên chỉnh sửa, v.v. về vị trí của răng",
+        "hasImg": true
+    },
+    {
+        "id": "f6d6ed72-ee81-49d1-954c-ec51509ba360",
+        "word": "paramedic",
+        "phonetic": "pæɹəmɛdɪk ",
+        "type": "noun",
+        "defineEn": "a trained individual who gives medical aid to people in emergency before taking them to the hospital",
+        "defineVi": "một cá nhân được đào tạo để hỗ trợ y tế cho những người trong trường hợp khẩn cấp trước khi đưa họ đến bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "88375369-12c5-49d1-aa6d-08c48cd0f272",
+        "word": "pediatrician",
+        "phonetic": "piːdɪɐtɹɪʃən ",
+        "type": "noun",
+        "defineEn": "a doctor who specializes in the treatment of children",
+        "defineVi": "một bác sĩ chuyên điều trị cho trẻ em",
+        "hasImg": true
+    },
+    {
+        "id": "47658f6d-22c2-4246-b9bb-ec940d3ceed2",
+        "word": "surgeon",
+        "phonetic": "sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a doctor who performs medical operation",
+        "defineVi": "một bác sĩ thực hiện phẫu thuật y tế",
+        "hasImg": true
+    },
+    {
+        "id": "3f41bbc0-c95e-4da6-a8de-688d099142bb",
+        "word": "plastic surgeon",
+        "phonetic": "plæstɪk sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a doctor who performs medical operations to repair body parts or make them look more attractive",
+        "defineVi": "một bác sĩ thực hiện các hoạt động y tế để sửa chữa các bộ phận cơ thể hoặc làm cho chúng trông hấp dẫn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "e71ab47e-7133-45d7-a897-201c29f9acaf",
+        "word": "therapist",
+        "phonetic": "θɛɹəpɪst ",
+        "type": "noun",
+        "defineEn": "a qualified person whose job is treating people's mental issues by talking with them instead of giving them drugs",
+        "defineVi": "một người có trình độ có công việc điều trị các vấn đề tâm thần của mọi người bằng cách nói chuyện với họ thay vì cho họ uống thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "99cae25c-d1da-4fe7-ac6b-1ac18801f428",
+        "word": "procedure",
+        "phonetic": "pɹəsiːdʒɚ ",
+        "type": "noun",
+        "defineEn": "a medical operation",
+        "defineVi": "một hoạt động y tế",
+        "hasImg": true
+    },
+    {
+        "id": "2b6b379d-8e3b-4cff-b7b5-104dd41f547c",
+        "word": "protection",
+        "phonetic": "pɹətɛkʃən ",
+        "type": "noun",
+        "defineEn": "the act of keeping someone or something unharmed",
+        "defineVi": "hành động giữ một ai đó hoặc một cái gì đó không hề hấn gì"
+    },
+    {
+        "id": "43738a33-b441-4109-a920-196e88f1d9fe",
+        "word": "transplant",
+        "phonetic": "tɹænsplænt ",
+        "type": "noun",
+        "defineEn": "a tissue or organ that is removed from a body and put into another",
+        "defineVi": "một mô hoặc cơ quan được lấy ra khỏi cơ thể và đưa vào cơ thể khác"
+    },
+    {
+        "id": "9d62ad00-2c27-4330-874d-66eeec51e5ff",
+        "word": "surgery",
+        "phonetic": "sɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a medical practice that involves cutting open a body part in order to repair, remove, etc. an organ",
+        "defineVi": "một thực hành y tế liên quan đến việc cắt mở một bộ phận cơ thể để sửa chữa, loại bỏ, v.v. một cơ quan",
+        "hasImg": true
+    },
+    {
+        "id": "9f02d31a-feef-4d20-8ad3-14c1c96b4fc8",
+        "word": "dose",
+        "phonetic": "doʊs ",
+        "type": "noun",
+        "defineEn": "a measured amount of drug or medicine that is taken at a given time",
+        "defineVi": "một lượng đo lường của thuốc hoặc thuốc được thực hiện tại một thời điểm nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "55038287-02e1-40bd-ab63-b30f036307c9",
+        "word": "painkiller",
+        "phonetic": "peɪŋkɪlɚ ",
+        "type": "noun",
+        "defineEn": "a type of medicine that is used to reduce or relieve pain",
+        "defineVi": "một loại thuốc được sử dụng để giảm hoặc giảm đau",
+        "hasImg": true
+    },
+    {
+        "id": "03053463-9092-4513-8335-970929b14553",
+        "word": "plaster",
+        "phonetic": "plæstɚ ",
+        "type": "noun",
+        "defineEn": "a piece of medical material that can be put on swellings to treat it",
+        "defineVi": "một mảnh vật liệu y tế có thể được đặt trên vết sưng để điều trị nó"
+    },
+    {
+        "id": "a6cf2105-2107-4cd5-88d3-fd38faa2b34c",
+        "word": "therapy",
+        "phonetic": "θɛɹəpi ",
+        "type": "noun",
+        "defineEn": "the act of treating mental or physical illnesses",
+        "defineVi": "hành động điều trị bệnh tâm thần hoặc thể chất",
+        "hasImg": true
+    },
+    {
+        "id": "0f44072e-48a9-4713-a304-043d7a991c9f",
+        "word": "X-ray",
+        "phonetic": "ɛksɹeɪ ",
+        "type": "noun",
+        "defineEn": "an image of bones in the body produced by a machine that uses a radiation to see through objects",
+        "defineVi": "hình ảnh xương trong cơ thể được tạo ra bởi một máy sử dụng bức xạ để nhìn xuyên qua các vật thể",
+        "hasImg": true
+    },
+    {
+        "id": "3fb90bfd-4751-4e12-86c2-65ed60925768",
+        "word": "breathing apparatus",
+        "phonetic": "bɹiːðɪŋ æpɚɹæɾəs ",
+        "type": "noun",
+        "defineEn": "a piece of equipment with a container that supplies oxygen to a person, used in places or situations in which it is difficult to breathe normally",
+        "defineVi": "một thiết bị có hộp chứa cung cấp oxy cho một người, được sử dụng ở những nơi hoặc tình huống khó thở bình thường",
+        "hasImg": true
+    },
+    {
+        "id": "56194964-595f-470f-8041-46a90f998547",
+        "word": "clinical",
+        "phonetic": "klɪnɪkəl ",
+        "type": "adjective",
+        "defineEn": "involving examination of patients and their treatment",
+        "defineVi": "liên quan đến việc kiểm tra bệnh nhân và điều trị của họ"
+    },
+    {
+        "id": "01873133-4028-4a89-bd0f-213961fdd8bc",
+        "word": "to come down with",
+        "phonetic": "tə kʌm daʊn wɪð ",
+        "type": "verb",
+        "defineEn": "to start having an illness",
+        "defineVi": "bắt đầu bị bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "a394fb82-a307-4da0-8e57-17a896cf36fe",
+        "word": "to heal",
+        "phonetic": "tə hiːl ",
+        "type": "verb",
+        "defineEn": "to make an injury, etc. healthy again",
+        "defineVi": "để làm cho một chấn thương, vv khỏe mạnh trở lại",
+        "hasImg": true
+    },
+    {
+        "id": "bc32cbe6-e962-4704-b9f9-d9a28b3e36b1",
+        "word": "to hit the hay",
+        "phonetic": "tə hɪt ðə heɪ ",
+        "type": "phrase",
+        "defineEn": "to get in bed for sleeping",
+        "defineVi": "lên giường đi ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "06fb60dd-9e18-49b4-bd71-081996a0592f",
+        "word": "to implant",
+        "phonetic": "tʊ ɪmplænt ",
+        "type": "verb",
+        "defineEn": "to insert a living tissue or an artificial object into the body via medical procedure",
+        "defineVi": "để chèn một mô sống hoặc một đối tượng nhân tạo vào cơ thể thông qua thủ tục y tế",
+        "hasImg": true
+    },
+    {
+        "id": "6da9802b-52d5-47b6-817d-0cc9e652bba2",
+        "word": "to inject",
+        "phonetic": "tʊ ɪndʒɛkt ",
+        "type": "verb",
+        "defineEn": "to insert a liquid, especially a drug, into the body by using a syringe",
+        "defineVi": "để chèn một chất lỏng, đặc biệt là một loại thuốc, vào cơ thể bằng cách sử dụng một ống tiêm",
+        "hasImg": true
+    },
+    {
+        "id": "f5136274-f992-4033-b286-8268771cb3d6",
+        "word": "to pass out",
+        "phonetic": "tə pæs aʊt ",
+        "type": "verb",
+        "defineEn": "to lose consciousness",
+        "defineVi": "mất ý thức",
+        "hasImg": true
+    },
+    {
+        "id": "5e2c3da3-0130-4e18-aa44-b9e45c8c7824",
+        "word": "to relieve",
+        "phonetic": "tə ɹᵻliːv ",
+        "type": "verb",
+        "defineEn": "to decrease the amount of pain, stress, etc.",
+        "defineVi": "để giảm số lượng đau, căng thẳng, vv"
+    },
+    {
+        "id": "21c1de78-eb0b-4e86-8332-9e63b408ac06",
+        "word": "to scan",
+        "phonetic": "tə skæn ",
+        "type": "verb",
+        "defineEn": "(of a medical device) to take a picture of a body part often using X-rays for detailed examinations by a specialist",
+        "defineVi": "(của một thiết bị y tế) để chụp ảnh một bộ phận cơ thể thường sử dụng tia X để bác sĩ chuyên khoa kiểm tra chi tiết",
+        "hasImg": true
+    }
+]

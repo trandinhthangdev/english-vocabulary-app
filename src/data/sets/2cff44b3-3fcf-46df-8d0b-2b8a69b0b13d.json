@@ -1,0 +1,338 @@
+[
+    {
+        "id": "4d71cb94-ba78-443d-a3f0-67fc173ad778",
+        "word": "housework",
+        "phonetic": "haʊswɜːk ",
+        "type": "noun",
+        "defineEn": "regular work done in a house, especially cleaning, washing, etc.",
+        "defineVi": "công việc thường xuyên được thực hiện trong nhà, đặc biệt là dọn dẹp, giặt giũ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "658cc710-3665-4077-a669-ddd3abc95439",
+        "word": "to do",
+        "phonetic": "tə duː ",
+        "type": "verb",
+        "defineEn": "to perform an action or activity that is not mentioned by name",
+        "defineVi": "để thực hiện một hành động hoặc hoạt động không được đề cập theo tên"
+    },
+    {
+        "id": "fdd6ee62-7ab6-4d97-b1bb-c426731ebc83",
+        "word": "to make",
+        "phonetic": "tə meɪk ",
+        "type": "verb",
+        "defineEn": "to prepare or cook something",
+        "defineVi": "để chuẩn bị hoặc nấu một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "187a9ba1-e53e-4a30-8e00-4519790b84bb",
+        "word": "to clean",
+        "phonetic": "tə kliːn ",
+        "type": "verb",
+        "defineEn": "to make something have no stains, bacteria, dust, marks, or dirt",
+        "defineVi": "để làm cho một cái gì đó không có vết bẩn, vi khuẩn, bụi, vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "58af5ca7-c40b-4eef-b612-4d4ed2d9eaed",
+        "word": "floor",
+        "phonetic": "floːɹ ",
+        "type": "noun",
+        "defineEn": "the bottom of a room that we walk on",
+        "defineVi": "dưới cùng của một căn phòng mà chúng tôi đi bộ trên",
+        "hasImg": true
+    },
+    {
+        "id": "a92ab736-53d1-4de7-95e4-5e6fc6ab8da8",
+        "word": "ironing",
+        "phonetic": "aɪɚnɪŋ ",
+        "type": "noun",
+        "defineEn": "the activity of making clothes, etc. smooth using an iron",
+        "defineVi": "hoạt động làm quần áo, v.v. làm phẳng bằng bàn ủi",
+        "hasImg": true
+    },
+    {
+        "id": "e699befe-c7e3-4d1b-8439-d5f97c501776",
+        "word": "shopping",
+        "phonetic": "ʃɑːpɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of buying goods from stores",
+        "defineVi": "hành động mua hàng hóa từ các cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "d334f1a9-ddda-4f1b-b8c7-34e9f33b3ee3",
+        "word": "to vacuum",
+        "phonetic": "tə vækjuːm ",
+        "type": "verb",
+        "defineEn": "to use a vacuum cleaner to clean a place",
+        "defineVi": "sử dụng máy hút bụi để làm sạch một nơi",
+        "hasImg": true
+    },
+    {
+        "id": "8f7a3823-306a-4f56-bf7d-83607e771862",
+        "word": "to hoover",
+        "phonetic": "tə huːvɚ ",
+        "type": "verb",
+        "defineEn": "to clean an area using a vacuum cleaner",
+        "defineVi": "để làm sạch một khu vực sử dụng máy hút bụi",
+        "hasImg": true
+    },
+    {
+        "id": "7eed2c56-c0db-4a68-a9ed-e13cba3f1984",
+        "word": "washing-up",
+        "phonetic": "wɑːʃɪŋʌp ",
+        "type": "noun",
+        "defineEn": "the activity of washing the dishes, glasses, etc. particularly after a meal",
+        "defineVi": "hoạt động rửa chén, ly, v.v. đặc biệt là sau bữa ăn",
+        "hasImg": true
+    },
+    {
+        "id": "5a2462cb-803c-43ab-bea3-6b6f9cfae3ce",
+        "word": "to dust",
+        "phonetic": "tə dʌst ",
+        "type": "verb",
+        "defineEn": "to use a soft cloth to remove dust from the surface of something like pieces of furniture",
+        "defineVi": "để sử dụng một miếng vải mềm để loại bỏ bụi từ bề mặt của một cái gì đó giống như mảnh đồ nội thất",
+        "hasImg": true
+    },
+    {
+        "id": "ccaee6d3-05d7-44e0-bdce-d756f2622a37",
+        "word": "furniture",
+        "phonetic": "fɜːnɪtʃɚ ",
+        "type": "noun",
+        "defineEn": "pieces of equipment such as tables, desks, beds, etc. that we put in a house or office so that it becomes suitable for living or working in",
+        "defineVi": "các thiết bị như bàn, bàn, giường, v.v. mà chúng ta đặt trong một ngôi nhà hoặc văn phòng để nó trở nên phù hợp để sống hoặc làm việc trong đó",
+        "hasImg": true
+    },
+    {
+        "id": "05ae1543-b6f0-47de-88e9-b90471ab495a",
+        "word": "to lay",
+        "phonetic": "tə leɪ ",
+        "type": "verb",
+        "defineEn": "to put or place something in a certain position or location",
+        "defineVi": "để đặt hoặc đặt một cái gì đó ở một vị trí hoặc vị trí nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "47feecfc-ef6e-42ed-9614-c208dccd712f",
+        "word": "table",
+        "phonetic": "teɪbəl ",
+        "type": "noun",
+        "defineEn": "furniture with a usually flat surface on top of one or multiple legs that we can sit at or put things on",
+        "defineVi": "đồ nội thất có bề mặt thường bằng phẳng trên một hoặc nhiều chân mà chúng ta có thể ngồi hoặc đặt đồ vật lên",
+        "hasImg": true
+    },
+    {
+        "id": "293b822a-1b9c-4aae-8265-2b470a897fa2",
+        "word": "to clear",
+        "phonetic": "tə klɪɹ ",
+        "type": "verb",
+        "defineEn": "to remove unwanted or unnecessary things from something or somewhere",
+        "defineVi": "để loại bỏ những thứ không mong muốn hoặc không cần thiết từ một cái gì đó hoặc một nơi nào đó"
+    },
+    {
+        "id": "c961e270-23d0-4d3f-b6df-d5574e8811fc",
+        "word": "to load",
+        "phonetic": "tə loʊd ",
+        "type": "verb",
+        "defineEn": "to put a large number of people or things into a container, vehicle, etc.",
+        "defineVi": "để đưa một số lượng lớn người hoặc vật vào thùng chứa, phương tiện, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "e0d08246-53fe-4ae5-b799-b45fe67cc276",
+        "word": "dishwasher",
+        "phonetic": "dɪʃwɑːʃɚ ",
+        "type": "noun",
+        "defineEn": "an electric machine that is used to clean dishes, spoons, cups, etc.",
+        "defineVi": "một máy điện được sử dụng để làm sạch bát đĩa, thìa, cốc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b026749d-246c-4610-9be9-86c64d30d72b",
+        "word": "to unload",
+        "phonetic": "tʊ ʌnloʊd ",
+        "type": "verb",
+        "defineEn": "to remove things or goods from a container, vehicle, etc.",
+        "defineVi": "để loại bỏ những thứ hoặc hàng hóa từ một container, xe, vv",
+        "hasImg": true
+    },
+    {
+        "id": "33d3d528-f202-401a-8927-ce576faae4d8",
+        "word": "lunch",
+        "phonetic": "lʌntʃ ",
+        "type": "noun",
+        "defineEn": "a meal eaten in the middle of the day",
+        "defineVi": "một bữa ăn vào giữa ngày",
+        "hasImg": true
+    },
+    {
+        "id": "4e7ab356-baa4-43d4-8568-3a03dc12c886",
+        "word": "dinner",
+        "phonetic": "dɪnɚ ",
+        "type": "noun",
+        "defineEn": "the main meal of the day, eaten either in the middle of the day or in the evening",
+        "defineVi": "bữa ăn chính trong ngày, ăn vào giữa ngày hoặc vào buổi tối",
+        "hasImg": true
+    },
+    {
+        "id": "77b8fa3d-32dd-4733-af88-c73bd2173dde",
+        "word": "bed",
+        "phonetic": "bɛd ",
+        "type": "noun",
+        "defineEn": "furniture we use to sleep on that normally has a frame and mattress",
+        "defineVi": "đồ nội thất chúng ta sử dụng để ngủ thường có khung và nệm",
+        "hasImg": true
+    },
+    {
+        "id": "6658751d-f9d8-48a4-8c9a-90e0e3cc8cd7",
+        "word": "to pick up",
+        "phonetic": "tə pɪk ʌp ",
+        "type": "verb",
+        "defineEn": "to take and lift something up",
+        "defineVi": "để lấy và nâng một cái gì đó lên",
+        "hasImg": true
+    },
+    {
+        "id": "b9868062-48a3-4d03-9d7e-2ed5d099b1b4",
+        "word": "dirty",
+        "phonetic": "dɜːɾi ",
+        "type": "adjective",
+        "defineEn": "having stains, bacteria, marks, or dirt",
+        "defineVi": "có vết bẩn, vi khuẩn, vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "3638a026-475f-4c43-8919-7175dbef9a2a",
+        "word": "clothes",
+        "phonetic": "kloʊðz ",
+        "type": "noun",
+        "defineEn": "the things we wear to cover our body, such as pants, shirts, and jackets",
+        "defineVi": "những thứ chúng ta mặc để che thân, chẳng hạn như quần, áo sơ mi và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "5add13f9-03a2-45df-a6bc-ed4383256fdf",
+        "word": "to put away",
+        "phonetic": "tə pʊt ɐweɪ ",
+        "type": "verb",
+        "defineEn": "to place something back where it should be after using it",
+        "defineVi": "để đặt một cái gì đó trở lại vị trí của nó sau khi sử dụng nó"
+    },
+    {
+        "id": "5e789c96-c39b-4048-babe-88c6049d3960",
+        "word": "to take out",
+        "phonetic": "tə teɪk aʊt ",
+        "type": "verb",
+        "defineEn": "to remove a thing from somewhere or something",
+        "defineVi": "để loại bỏ một điều từ một nơi nào đó hoặc một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "583e7d7e-d926-45b2-985f-d7f6683a7bb9",
+        "word": "rubbish",
+        "phonetic": "ɹʌbɪʃ ",
+        "type": "noun",
+        "defineEn": "unwanted, worthless, and unneeded things that people throw away",
+        "defineVi": "những thứ không mong muốn, vô giá trị và không cần thiết mà mọi người vứt đi",
+        "hasImg": true
+    },
+    {
+        "id": "f3e2bacf-5797-42c5-a79b-c26d58226e12",
+        "word": "to tidy",
+        "phonetic": "tə taɪdi ",
+        "type": "verb",
+        "defineEn": "to organize a place and put things where they belong",
+        "defineVi": "để tổ chức một nơi và đặt những thứ mà họ thuộc về",
+        "hasImg": true
+    },
+    {
+        "id": "3a1a26f4-3ebe-4527-a7ee-a93ff4d210ec",
+        "word": "room",
+        "phonetic": "ɹuːm ",
+        "type": "noun",
+        "defineEn": "each of the different parts of a building that are divided by their own floors, ceilings, and walls, and are used for a specific reason",
+        "defineVi": "mỗi phần khác nhau của một tòa nhà được phân chia bởi các tầng, trần và tường riêng của chúng và được sử dụng cho một mục đích cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "68e86745-2253-4488-8b94-8ccc4b48752f",
+        "word": "course",
+        "phonetic": "koːɹs ",
+        "type": "noun",
+        "defineEn": "a series of lessons or lectures on a particular subject",
+        "defineVi": "một loạt các bài học hoặc bài giảng về một chủ đề cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "9626b8a6-3817-476a-af1f-c4402dbb46d5",
+        "word": "mistake",
+        "phonetic": "mɪsteɪk ",
+        "type": "noun",
+        "defineEn": "an act or opinion that is wrong",
+        "defineVi": "một hành động hoặc ý kiến đó là sai"
+    },
+    {
+        "id": "ed8f0813-990b-4d07-891c-751246133395",
+        "word": "exam",
+        "phonetic": "ɛɡzæm ",
+        "type": "noun",
+        "defineEn": "a way of testing how much someone knows about a subject",
+        "defineVi": "một cách kiểm tra xem ai đó biết bao nhiêu về một chủ đề",
+        "hasImg": true
+    },
+    {
+        "id": "6b4609e3-7217-474f-bc07-e4465bec3aee",
+        "word": "exercise",
+        "phonetic": "ɛksɚsaɪz ",
+        "type": "noun",
+        "defineEn": "a series of questions in a book set to test one's knowledge or skill",
+        "defineVi": "một loạt các câu hỏi trong một bộ sách để kiểm tra kiến thức hoặc kỹ năng của một người"
+    },
+    {
+        "id": "a1e67d24-5ab5-482e-89e5-145d44ea334b",
+        "word": "to make noise",
+        "phonetic": "tə meɪk nɔɪz ",
+        "type": "phrase",
+        "defineEn": "to create unwanted, unpleasant, or loud sounds",
+        "defineVi": "để tạo ra âm thanh không mong muốn, khó chịu, hoặc lớn",
+        "hasImg": true
+    },
+    {
+        "id": "09bccf18-943b-4ca1-bfc6-c9a93ed852e8",
+        "word": "phone call",
+        "phonetic": "foʊn kɔːl ",
+        "type": "noun",
+        "defineEn": "the act of speaking to someone or trying to reach them on the phone",
+        "defineVi": "hành động nói chuyện với ai đó hoặc cố gắng liên lạc với họ qua điện thoại",
+        "hasImg": true
+    },
+    {
+        "id": "84b1c4ff-ca09-4d4a-bfb7-ed57c60a572f",
+        "word": "sport",
+        "phonetic": "spoːɹt ",
+        "type": "noun",
+        "defineEn": "a physical activity that has special rules, needs effort and skill, and can be a competitive game as well as entertainment and exercise",
+        "defineVi": "một hoạt động thể chất có các quy tắc đặc biệt, cần nỗ lực và kỹ năng, đồng thời có thể là một trò chơi cạnh tranh cũng như giải trí và rèn luyện sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "4b504b93-1096-455d-89b2-74dc34d33468",
+        "word": "plan",
+        "phonetic": "plæn ",
+        "type": "noun",
+        "defineEn": "a chain of actions that will help us reach our goals",
+        "defineVi": "một chuỗi các hành động sẽ giúp chúng tôi đạt được mục tiêu của mình",
+        "hasImg": true
+    },
+    {
+        "id": "c9a59fcc-d3b3-47c4-884e-544a692a6a7a",
+        "word": "excuse",
+        "phonetic": "ɛkskjuːs ",
+        "type": "noun",
+        "defineEn": "a reason given to explain one's careless, offensive, or wrong behavior or action",
+        "defineVi": "một lý do được đưa ra để giải thích hành vi hoặc hành động bất cẩn, gây khó chịu hoặc sai trái của một người"
+    }
+]

@@ -1,0 +1,497 @@
+[
+    {
+        "id": "46c0a96a-9a51-477d-ad51-ec298c169d46",
+        "word": "boiled",
+        "phonetic": "bɔɪld ",
+        "type": "adjective",
+        "defineEn": "cooked in extremely hot liquids",
+        "defineVi": "nấu trong chất lỏng cực nóng",
+        "hasImg": true
+    },
+    {
+        "id": "1c2539c5-409f-4c7e-837e-d9cc49690efe",
+        "word": "chopped",
+        "phonetic": "tʃɑːpt ",
+        "type": "adjective",
+        "defineEn": "having been cut or divided into small pieces or fragments",
+        "defineVi": "đã bị cắt hoặc chia thành các mảnh hoặc mảnh nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "43a52a7f-9515-4264-ab5b-ca0d9b3bdae9",
+        "word": "parsley",
+        "phonetic": "pɑːɹsli ",
+        "type": "noun",
+        "defineEn": "an aromatic plant with curly green leaves, used for garnishing food or in cooking",
+        "defineVi": "một loại cây thơm có lá xanh xoăn, dùng để trang trí thức ăn hoặc nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "ae3846d5-f0a4-41d5-a5e1-90bc501650f8",
+        "word": "deep-fried",
+        "phonetic": "diːpfɹaɪd ",
+        "type": "adjective",
+        "defineEn": "describing food that has been cooked by submerging it completely in hot oil",
+        "defineVi": "mô tả thực phẩm đã được nấu chín bằng cách ngâm nó hoàn toàn trong dầu nóng",
+        "hasImg": true
+    },
+    {
+        "id": "23c4b4a2-2a31-4a57-8b61-e2786ade5cb3",
+        "word": "onion ring",
+        "phonetic": "ʌniən ɹɪŋ ",
+        "type": "noun",
+        "defineEn": "a ring-shaped slice of onion that is dipped in batter or bread crumbs and then fried until crispy, often served as a snack or a side dish",
+        "defineVi": "một lát hành tây hình vòng được nhúng vào bột hoặc vụn bánh mì rồi chiên cho đến khi giòn, thường được dùng như một món ăn nhẹ hoặc món ăn phụ",
+        "hasImg": true
+    },
+    {
+        "id": "81026047-fbb3-4780-ad02-7bcb539adf79",
+        "word": "grated cheese",
+        "phonetic": "ɡɹeɪɾᵻd tʃiːz ",
+        "type": "noun",
+        "defineEn": "cheese that has been shredded or grated into small pieces using a grater or other similar tool",
+        "defineVi": "phô mai đã được cắt nhỏ hoặc bào thành miếng nhỏ bằng dụng cụ vắt hoặc dụng cụ tương tự khác",
+        "hasImg": true
+    },
+    {
+        "id": "22a4932c-5fcc-4a3a-bddf-591b7a390773",
+        "word": "grilled",
+        "phonetic": "ɡɹɪld ",
+        "type": "adjective",
+        "defineEn": "cooked on a fire",
+        "defineVi": "nấu trên lửa",
+        "hasImg": true
+    },
+    {
+        "id": "63222956-0d16-4f3e-a629-5686083c090b",
+        "word": "fillet",
+        "phonetic": "fɪleɪ ",
+        "type": "noun",
+        "defineEn": "a piece of boneless meat or fish cut from near the ribs of an animal",
+        "defineVi": "một miếng thịt hoặc cá không xương được cắt từ gần xương sườn của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "26a054cd-d73d-4f00-a25f-573af640bfe1",
+        "word": "mashed potato",
+        "phonetic": "mæʃt pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "potatoes that are boiled and then crushed to become soft and smooth",
+        "defineVi": "khoai tây được luộc và sau đó nghiền nát để trở nên mềm và mịn",
+        "hasImg": true
+    },
+    {
+        "id": "5321ecaf-f9a4-4256-a262-ba334d4d7f50",
+        "word": "melted",
+        "phonetic": "mɛltᵻd ",
+        "type": "adjective",
+        "defineEn": "converted from a solid state to a liquid state as a result of exposure to heat",
+        "defineVi": "chuyển đổi từ trạng thái rắn sang trạng thái lỏng do tiếp xúc với nhiệt",
+        "hasImg": true
+    },
+    {
+        "id": "abf76f8f-4e62-4ae1-8fbc-836c4bd8130b",
+        "word": "chocolate",
+        "phonetic": "tʃɑːklət ",
+        "type": "noun",
+        "defineEn": "a type of food that is brown and sweet and is made from ground cocoa seeds",
+        "defineVi": "một loại thực phẩm có màu nâu và ngọt và được làm từ hạt ca cao xay",
+        "hasImg": true
+    },
+    {
+        "id": "91309c2b-d393-4c56-90ca-c124643df9f1",
+        "word": "to mince",
+        "phonetic": "tə mɪns ",
+        "type": "verb",
+        "defineEn": "to cut meat or other food into very small pieces, usually using a meat grinder",
+        "defineVi": "để cắt thịt hoặc thực phẩm khác thành miếng rất nhỏ, thường sử dụng một máy xay thịt",
+        "hasImg": true
+    },
+    {
+        "id": "3dfc86d3-7d14-4afa-adaa-2c86549a95e7",
+        "word": "beef",
+        "phonetic": "biːf ",
+        "type": "noun",
+        "defineEn": "meat that is from a cow",
+        "defineVi": "thịt đó là từ một con bò",
+        "hasImg": true
+    },
+    {
+        "id": "b3442f70-36c0-4655-952a-85d7c152435c",
+        "word": "peeled",
+        "phonetic": "piːld ",
+        "type": "adjective",
+        "defineEn": "describing something from which the skin or outer layer has been removed, typically fruits or vegetables",
+        "defineVi": "mô tả một cái gì đó mà da hoặc lớp bên ngoài đã bị loại bỏ, điển hình là trái cây hoặc rau quả",
+        "hasImg": true
+    },
+    {
+        "id": "077e3040-6c4f-4778-9c47-78b6b5b95dde",
+        "word": "prawn",
+        "phonetic": "pɹɔːn ",
+        "type": "noun",
+        "defineEn": "a marine crustacean with a compressed abdomen that is cooked as food",
+        "defineVi": "một loài giáp xác biển có phần bụng bị nén lại được nấu chín làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "debdb4f0-66d0-4e01-8c2f-0d83e252e042",
+        "word": "poached egg",
+        "phonetic": "poʊtʃt ɛɡ ",
+        "type": "noun",
+        "defineEn": "an egg that has been cooked by being gently simmered in water without its shell",
+        "defineVi": "một quả trứng đã được nấu chín bằng cách đun sôi nhẹ trong nước mà không có vỏ",
+        "hasImg": true
+    },
+    {
+        "id": "7c3d027a-0b86-4156-94bb-b667e592e40f",
+        "word": "roast lamb",
+        "phonetic": "ɹoʊst læm ",
+        "type": "noun",
+        "defineEn": "a dish made by cooking a lamb in an oven or over an open flame until the meat is crispy on the outside and tender on the inside",
+        "defineVi": "một món ăn được làm bằng cách nấu thịt cừu trong lò nướng hoặc trên ngọn lửa trần cho đến khi thịt giòn bên ngoài và mềm bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "b66f0f60-7a33-4dae-bda7-00fd0ad5d1d9",
+        "word": "scrambled eggs",
+        "phonetic": "skɹæmbəld ɛɡz ",
+        "type": "noun",
+        "defineEn": "a dish made by beating eggs together in a bowl and then cooking them in a pan while stirring",
+        "defineVi": "một món ăn được làm bằng cách đánh trứng với nhau trong một cái bát và sau đó nấu chúng trong chảo trong khi khuấy",
+        "hasImg": true
+    },
+    {
+        "id": "bd14667f-f62c-42ec-84ab-d92a95f7a811",
+        "word": "sliced bread",
+        "phonetic": "slaɪst bɹɛd ",
+        "type": "noun",
+        "defineEn": "bread that has been cut into several individual pieces of equal size",
+        "defineVi": "bánh mì đã được cắt thành nhiều miếng riêng lẻ có kích thước bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "cc0f1a75-9ad1-42eb-be24-ad8e5b26ee54",
+        "word": "steamed",
+        "phonetic": "stiːmd ",
+        "type": "adjective",
+        "defineEn": "cooked using the steam of boiling water",
+        "defineVi": "nấu chín bằng hơi nước sôi",
+        "hasImg": true
+    },
+    {
+        "id": "4a67bfce-7d4c-4096-815e-5e535f5cfdd7",
+        "word": "mussel",
+        "phonetic": "mʌsəl ",
+        "type": "noun",
+        "defineEn": "an edible bivalve mollusk with a dark shell that is found in saltwater or freshwater habitats",
+        "defineVi": "một loài nhuyễn thể hai mảnh vỏ ăn được có vỏ sẫm màu được tìm thấy trong môi trường nước mặn hoặc nước ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "bcb5df2e-5515-4685-8f56-147fa23236b1",
+        "word": "stewed",
+        "phonetic": "stuːd ",
+        "type": "adjective",
+        "defineEn": "cooked slowly in a liquid until it becomes tender and flavorful",
+        "defineVi": "nấu từ từ trong chất lỏng cho đến khi mềm và có hương vị",
+        "hasImg": true
+    },
+    {
+        "id": "9570bb25-2889-4796-93c6-60e0f17eaf76",
+        "word": "plum",
+        "phonetic": "plʌm ",
+        "type": "noun",
+        "defineEn": "a small round fruit with juicy flesh and purple or yellow skin and a pit",
+        "defineVi": "một quả tròn nhỏ với thịt mọng nước và da màu tím hoặc vàng và một cái hố",
+        "hasImg": true
+    },
+    {
+        "id": "0e33e3a3-9b82-436a-84e9-2f89514abdc7",
+        "word": "stuffed",
+        "phonetic": "stʌft ",
+        "type": "adjective",
+        "defineEn": "feeling very full or overeaten, as if one has eaten too much food",
+        "defineVi": "cảm thấy rất no hoặc ăn quá nhiều, như thể một người đã ăn quá nhiều thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "11301507-8e70-4d6f-98f8-b46d4ae07865",
+        "word": "chicken breast",
+        "phonetic": "tʃɪkɪn bɹɛst ",
+        "type": "noun",
+        "defineEn": "the cut of meat from the breast of a chicken, typically boneless and skinless",
+        "defineVi": "phần thịt từ ức gà, thường không xương và không da",
+        "hasImg": true
+    },
+    {
+        "id": "98666e07-be1c-49e4-af3b-1ecdf8554312",
+        "word": "toasted",
+        "phonetic": "toʊstᵻd ",
+        "type": "adjective",
+        "defineEn": "describing food that has been browned or crisped by exposure to heat",
+        "defineVi": "mô tả thực phẩm đã được chuyển sang màu nâu hoặc giòn do tiếp xúc với nhiệt",
+        "hasImg": true
+    },
+    {
+        "id": "71773928-1d3c-4738-8331-651d8f21eb11",
+        "word": "sandwich",
+        "phonetic": "sændwɪtʃ ",
+        "type": "noun",
+        "defineEn": "two pieces of bread with cheese, meat, etc. between them",
+        "defineVi": "hai miếng bánh mì với phô mai, thịt, v.v... ở giữa",
+        "hasImg": true
+    },
+    {
+        "id": "81083edb-7e1a-4589-a4fd-984ebddc7e5e",
+        "word": "whipped cream",
+        "phonetic": "wɪpt kɹiːm ",
+        "type": "noun",
+        "defineEn": "cream that has been beaten by a mixer or whisk until it becomes light and fluffy",
+        "defineVi": "kem đã được đánh bằng máy trộn hoặc máy đánh trứng cho đến khi nó trở nên nhẹ và bông",
+        "hasImg": true
+    },
+    {
+        "id": "1bd8e6fa-9e37-4878-a8b4-3249e4b4c39c",
+        "word": "utensil",
+        "phonetic": "juːtɛnsəl ",
+        "type": "noun",
+        "defineEn": "an object that is used for cooking or eating",
+        "defineVi": "một đối tượng được sử dụng để nấu ăn hoặc ăn uống",
+        "hasImg": true
+    },
+    {
+        "id": "eaaa8af9-8cfe-4447-bd14-c701b1cfd3ea",
+        "word": "baking tray",
+        "phonetic": "beɪkɪŋ tɹeɪ ",
+        "type": "noun",
+        "defineEn": "a flat, rectangular metal pan that is used for baking and cooking food in the oven",
+        "defineVi": "một chảo kim loại phẳng, hình chữ nhật được sử dụng để nướng và nấu thức ăn trong lò",
+        "hasImg": true
+    },
+    {
+        "id": "b01df552-c4a8-4c84-9d7c-b0dfc4165cef",
+        "word": "chopping board",
+        "phonetic": "tʃɑːpɪŋ boːɹd ",
+        "type": "noun",
+        "defineEn": "a flat board used in the kitchen for cutting vegetables, fruits, meat, and other food items",
+        "defineVi": "một tấm phẳng được sử dụng trong nhà bếp để cắt rau, trái cây, thịt và các mặt hàng thực phẩm khác",
+        "hasImg": true
+    },
+    {
+        "id": "51da3a36-e7e3-43e8-a498-b44aa7800da5",
+        "word": "colander",
+        "phonetic": "kɑːləndɚ ",
+        "type": "noun",
+        "defineEn": "a plastic or metal bowl with many holes that is used for separating water from washed or cooked food",
+        "defineVi": "một bát nhựa hoặc kim loại có nhiều lỗ được sử dụng để tách nước khỏi thức ăn đã rửa hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "f2f0e93a-5b5a-496f-9ea5-703a4a728365",
+        "word": "food processor",
+        "phonetic": "fuːd pɹɑːsɛsɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that can quickly mix, cut, slice, etc. food",
+        "defineVi": "một thiết bị nhà bếp có thể trộn, cắt, thái, v.v. thực phẩm một cách nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "80cb4867-4f76-4f18-86b1-954dadd23c29",
+        "word": "frying pan",
+        "phonetic": "fɹaɪɪŋ pæn ",
+        "type": "noun",
+        "defineEn": "a shallow pan with a long handle, used for frying food",
+        "defineVi": "một cái chảo nông có tay cầm dài, dùng để chiên thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "1b4917cd-3ebc-4fc2-8123-e6890f496ed4",
+        "word": "mixing bowl",
+        "phonetic": "mɪksɪŋ boʊl ",
+        "type": "noun",
+        "defineEn": "a bowl in which ingredients are mixed",
+        "defineVi": "một cái bát trong đó các thành phần được trộn lẫn",
+        "hasImg": true
+    },
+    {
+        "id": "87a188ef-8802-45c8-b489-317b73236931",
+        "word": "saucepan",
+        "phonetic": "sɔːspən ",
+        "type": "noun",
+        "defineEn": "a round metal container, which is deep and has a long handle and a lid, used for cooking",
+        "defineVi": "một hộp kim loại tròn, sâu, có tay cầm dài và nắp, dùng để nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "33fd7b2a-afbe-4ab7-aa58-5e69fbd35e0e",
+        "word": "scale",
+        "phonetic": "skeɪl ",
+        "type": "noun",
+        "defineEn": "a device used to weigh people or objects",
+        "defineVi": "một thiết bị dùng để cân người hoặc vật",
+        "hasImg": true
+    },
+    {
+        "id": "dad01996-4f61-45e7-b4c9-9f37aee939e2",
+        "word": "sieve",
+        "phonetic": "sɪv ",
+        "type": "noun",
+        "defineEn": "a tool with many small holes and a wire net used for separating solid materials from smaller ones or liquids",
+        "defineVi": "một công cụ có nhiều lỗ nhỏ và lưới thép được sử dụng để tách vật liệu rắn khỏi vật liệu nhỏ hơn hoặc chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "6dc7ed7c-9f15-49d7-8208-11d9f80a6098",
+        "word": "spatula",
+        "phonetic": "spætʃələ ",
+        "type": "noun",
+        "defineEn": "a kitchen tool with a broad and flat part on one end, used for turning and lifting food",
+        "defineVi": "một dụng cụ nhà bếp có phần rộng và phẳng ở một đầu, dùng để lật và nhấc thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "3c23f1ec-c229-4180-9249-1718f1d2fcea",
+        "word": "whisk",
+        "phonetic": "wɪsk ",
+        "type": "noun",
+        "defineEn": "‌a handheld object with small pieces of curved wire used for whipping cream or eggs",
+        "defineVi": "‌một vật cầm tay có những đoạn dây cong nhỏ dùng để đánh kem hoặc đánh trứng",
+        "hasImg": true
+    },
+    {
+        "id": "2e1f9624-3ee9-41d8-8c51-2fd7c97efa84",
+        "word": "omelette",
+        "phonetic": "ɑːmlət ",
+        "type": "noun",
+        "defineEn": "a dish that consists of eggs mixed together and cooked in a frying pan",
+        "defineVi": "một món ăn bao gồm trứng trộn với nhau và nấu trong chảo",
+        "hasImg": true
+    },
+    {
+        "id": "21145a34-a6ea-4063-93ff-4f09f99cdee7",
+        "word": "spaghetti",
+        "phonetic": "spɐɡɛɾi ",
+        "type": "noun",
+        "defineEn": "a type of pasta in very long thin pieces that is cooked in boiling water",
+        "defineVi": "một loại mì ống ở dạng miếng rất dài được nấu trong nước sôi",
+        "hasImg": true
+    },
+    {
+        "id": "444a6668-6a51-4278-a0d6-87bc4f7472e3",
+        "word": "biscuit",
+        "phonetic": "bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a soft cake that is small and round",
+        "defineVi": "một chiếc bánh mềm nhỏ và tròn",
+        "hasImg": true
+    },
+    {
+        "id": "6a02fb65-c130-47a2-addc-b7deeff37d9b",
+        "word": "to prepare",
+        "phonetic": "tə pɹɪpɛɹ ",
+        "type": "verb",
+        "defineEn": "to make a person or thing ready for doing something",
+        "defineVi": "để làm cho một người hoặc điều sẵn sàng để làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "ec1aaf52-74ff-42fd-8cf2-e8c0a81f88f2",
+        "word": "food",
+        "phonetic": "fuːd ",
+        "type": "noun",
+        "defineEn": "things that people and animals eat, such as meat or vegetables",
+        "defineVi": "những thứ mà con người và động vật ăn, chẳng hạn như thịt hoặc rau",
+        "hasImg": true
+    },
+    {
+        "id": "47c523df-2c92-45f8-a14e-b63411c785b5",
+        "word": "chicken",
+        "phonetic": "tʃɪkɪn ",
+        "type": "noun",
+        "defineEn": "the flesh of a chicken that is used as food",
+        "defineVi": "thịt của một con gà được sử dụng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "bde0234c-2590-4998-8353-dee7bba5bb0f",
+        "word": "egg",
+        "phonetic": "ɛɡ ",
+        "type": "noun",
+        "defineEn": "an oval or round thing that is produced by a chicken and can be used for food",
+        "defineVi": "một thứ hình bầu dục hoặc tròn được sản xuất bởi một con gà và có thể được sử dụng cho thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "65e270ae-7b0b-461a-8d15-283c6ef3123a",
+        "word": "potato",
+        "phonetic": "pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+        "defineVi": "một loại rau tròn mọc dưới đất, có vỏ màu nâu nhạt và được dùng nấu chín hoặc chiên",
+        "hasImg": true
+    },
+    {
+        "id": "d6f9019a-3769-4b8d-bb54-bdd98d4e6ac0",
+        "word": "fish",
+        "phonetic": "fɪʃ ",
+        "type": "noun",
+        "defineEn": "an animal with a tail, gills and fins that lives in water",
+        "defineVi": "một con vật có đuôi, mang và vây sống dưới nước",
+        "hasImg": true
+    },
+    {
+        "id": "b095a862-6b78-4e03-86eb-e1f83d0af3b7",
+        "word": "rice",
+        "phonetic": "ɹaɪs ",
+        "type": "noun",
+        "defineEn": "a small and short grain that is white or brown and usually grown and eaten a lot in Asia",
+        "defineVi": "một loại hạt nhỏ và ngắn có màu trắng hoặc nâu và thường được trồng và ăn nhiều ở châu Á",
+        "hasImg": true
+    },
+    {
+        "id": "92201de9-0876-46f7-8954-10eb543b89f2",
+        "word": "baked",
+        "phonetic": "beɪkt ",
+        "type": "adjective",
+        "defineEn": "cooked with dry heat, particularly in an oven",
+        "defineVi": "nấu với nhiệt khô, đặc biệt là trong lò nướng",
+        "hasImg": true
+    },
+    {
+        "id": "29106fc5-a56b-4888-82e7-658b3b4a293c",
+        "word": "fig",
+        "phonetic": "fɪɡ ",
+        "type": "noun",
+        "defineEn": "a small soft fruit, containing many small seeds, with green or purple skin and is eaten dried or fresh",
+        "defineVi": "một loại trái cây nhỏ mềm, chứa nhiều hạt nhỏ, có vỏ màu xanh lục hoặc tím và được ăn khô hoặc tươi",
+        "hasImg": true
+    },
+    {
+        "id": "b7e9d2ff-a312-497a-a1bc-e97bfc5ea598",
+        "word": "barbecued",
+        "phonetic": "bɑːɹbɪkjuːd ",
+        "type": "adjective",
+        "defineEn": "cooked using a grill or open flame, often resulting in a charred or smoky flavor",
+        "defineVi": "nấu chín bằng vỉ nướng hoặc ngọn lửa trần, thường dẫn đến hương vị cháy hoặc khói",
+        "hasImg": true
+    },
+    {
+        "id": "88ae08f4-27f3-4c0d-8f98-1339325485de",
+        "word": "pork",
+        "phonetic": "poːɹk ",
+        "type": "noun",
+        "defineEn": "meat from a pig, eaten as food",
+        "defineVi": "thịt từ một con lợn, ăn như thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "87c27040-f4a9-4999-8dd8-39e35185d849",
+        "word": "rib",
+        "phonetic": "ɹɪb ",
+        "type": "noun",
+        "defineEn": "a piece of meat with one or more rib bones",
+        "defineVi": "một miếng thịt với một hoặc nhiều xương sườn",
+        "hasImg": true
+    }
+]

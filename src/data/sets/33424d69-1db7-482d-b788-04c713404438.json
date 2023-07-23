@@ -1,0 +1,443 @@
+[
+    {
+        "id": "aa7775d2-6ed5-4f3f-842b-55c9cd5f0d79",
+        "word": "fish and chips",
+        "phonetic": "fɪʃ ænd tʃɪps ",
+        "type": "phrase",
+        "defineEn": "a dish of fried fish served with chips",
+        "defineVi": "một món cá chiên ăn kèm với khoai tây chiên",
+        "hasImg": true
+    },
+    {
+        "id": "23416099-4087-49f9-ab9d-b1d0e119717e",
+        "word": "paella",
+        "phonetic": "paɪeɪə ",
+        "type": "noun",
+        "defineEn": "a dish of rice, seafood, chicken, and vegetables, which is cooked and served in a large shallow pan, originated in Spain",
+        "defineVi": "một món cơm, hải sản, thịt gà và rau, được nấu và phục vụ trong một cái chảo nông lớn, có nguồn gốc từ Tây Ban Nha",
+        "hasImg": true
+    },
+    {
+        "id": "250cdac2-3b8c-4925-aeb4-9409bca1bd84",
+        "word": "currywurst",
+        "phonetic": "kɜːɹɪwɜːst ",
+        "type": "noun",
+        "defineEn": "a popular German street food dish made from grilled or fried pork sausage",
+        "defineVi": "một món ăn đường phố nổi tiếng của Đức làm từ xúc xích lợn nướng hoặc chiên"
+    },
+    {
+        "id": "f5fdd64a-6d36-433a-8dc0-766a3930d63d",
+        "word": "haggis",
+        "phonetic": "hæɡɪs ",
+        "type": "noun",
+        "defineEn": "a dish made with minced internal organs of a sheep or calf such as the heart, liver, and kidneys mixed with oatmeal and onions, etc. and boiled in a bag made from the animal's stomach, originated in Scotland",
+        "defineVi": "một món ăn được làm từ nội tạng cừu hoặc bê như tim, gan, cật băm nhỏ trộn với bột yến mạch và hành tây, v.v. và luộc trong túi làm từ dạ dày động vật, có nguồn gốc từ Scotland",
+        "hasImg": true
+    },
+    {
+        "id": "a6bc21ed-db40-4a95-8d89-205596d1f70f",
+        "word": "schnitzel",
+        "phonetic": "ʃnɪtsəl ",
+        "type": "noun",
+        "defineEn": "a thin slice of meat that is coated with breadcrumbs and then fried",
+        "defineVi": "một lát thịt mỏng được phủ một lớp vụn bánh mì và sau đó chiên",
+        "hasImg": true
+    },
+    {
+        "id": "ee762de0-6137-40c5-96e7-b01f2b9f33f9",
+        "word": "fondue",
+        "phonetic": "fɑːnduː ",
+        "type": "noun",
+        "defineEn": "a dish in which small pieces of seafood, meat, or vegetables are dipped in a hot oil",
+        "defineVi": "một món ăn trong đó những miếng hải sản, thịt hoặc rau nhỏ được nhúng trong dầu nóng",
+        "hasImg": true
+    },
+    {
+        "id": "5c828dde-b74f-4790-b60d-c82abfbe45a4",
+        "word": "Swedish meatball",
+        "phonetic": "swiːdɪʃ miːtbɔːl ",
+        "type": "noun",
+        "defineEn": "small, seasoned balls of ground meat, typically made from a mixture of beef and pork, and often served with a creamy sauce and lingonberry jam",
+        "defineVi": "viên thịt xay nhỏ, dày dặn, thường được làm từ hỗn hợp thịt bò và thịt lợn, thường ăn kèm với sốt kem và mứt dâu tây"
+    },
+    {
+        "id": "78f83b65-ac15-47ec-9a7c-776940a1c292",
+        "word": "cevapi",
+        "phonetic": "sɛvæpi ",
+        "type": "noun",
+        "defineEn": "a traditional Balkan dish made of grilled minced meat, shaped into small sausages and served with bread",
+        "defineVi": "một món ăn truyền thống của vùng Balkan làm từ thịt băm nướng, được nặn thành xúc xích nhỏ và ăn kèm với bánh mì"
+    },
+    {
+        "id": "52004859-69ab-4ac5-9423-8d2e481f0d77",
+        "word": "raclette",
+        "phonetic": "ɹæklɛt ",
+        "type": "noun",
+        "defineEn": "a Swiss dish where cheese is melted and scraped onto accompaniments such as potatoes, pickles, and onions",
+        "defineVi": "một món ăn của Thụy Sĩ trong đó pho mát được nấu chảy và phết lên các món ăn kèm như khoai tây, dưa chua và hành tây"
+    },
+    {
+        "id": "dec6c7c1-000c-430f-bbed-d5cf957a9544",
+        "word": "Sunday roast",
+        "phonetic": "sʌndeɪ ɹoʊst ",
+        "type": "noun",
+        "defineEn": "a traditional British meal typically consisting of roasted meat served with roasted vegetables, gravy, and other accompaniments",
+        "defineVi": "một bữa ăn truyền thống của Anh thường bao gồm thịt nướng ăn kèm với rau củ nướng, nước thịt và các món ăn kèm khác"
+    },
+    {
+        "id": "3111708d-8a30-4ae5-9c8f-d1a0b264861a",
+        "word": "lasagna",
+        "phonetic": "ləzɑːnjə ",
+        "type": "noun",
+        "defineEn": "a type of dish made with layers of lasagna topped with meat or vegetables and sauce and then cooked, originated in Italy",
+        "defineVi": "một loại món ăn được làm bằng các lớp lasagna với thịt hoặc rau và nước sốt rồi nấu chín, có nguồn gốc từ Ý",
+        "hasImg": true
+    },
+    {
+        "id": "fb6b8c8f-23b8-4041-9dd3-5958a48d679f",
+        "word": "risotto",
+        "phonetic": "ɹɪsɑːɾoʊ ",
+        "type": "noun",
+        "defineEn": "a dish of rice cooked with meat, vegetables, etc., originated in Italy",
+        "defineVi": "một món cơm nấu với thịt, rau, v.v., có nguồn gốc từ Ý",
+        "hasImg": true
+    },
+    {
+        "id": "58b8af37-b91e-4b7b-90d9-4bc634f66f93",
+        "word": "spaghetti",
+        "phonetic": "spɐɡɛɾi ",
+        "type": "noun",
+        "defineEn": "an Italian dish made by spaghetti (strings of pasta), and a sauce",
+        "defineVi": "một món ăn Ý được làm bằng spaghetti (dây mì ống) và nước sốt",
+        "hasImg": true
+    },
+    {
+        "id": "57086bd1-a23c-4446-8d97-2c2ffe362499",
+        "word": "spaghetti Bolognese",
+        "phonetic": "spɐɡɛɾi bɑːləneɪz ",
+        "type": "noun",
+        "defineEn": "a dish consisting of spaghetti with a sauce of minced beef and vegetables",
+        "defineVi": "một món ăn bao gồm mì spaghetti với nước sốt thịt bò băm và rau",
+        "hasImg": true
+    },
+    {
+        "id": "8eb6097d-f31e-40b5-837a-d153d49c36f1",
+        "word": "carbonara",
+        "phonetic": "kɑːɹbənɑːɹɹə ",
+        "type": "noun",
+        "defineEn": "a classic Italian pasta dish made with spaghetti or other pasta, eggs, cheese, pancetta or bacon, and black pepper",
+        "defineVi": "một món mì Ý cổ điển được làm từ mì spaghetti hoặc mì ống khác, trứng, phô mai, pancetta hoặc thịt xông khói và hạt tiêu đen",
+        "hasImg": true
+    },
+    {
+        "id": "404785a9-1d97-4366-94d3-4e5db9ec345d",
+        "word": "macaroni and cheese",
+        "phonetic": "mækɐɹoʊni ænd tʃiːz ",
+        "type": "noun",
+        "defineEn": "a dish that consists of pasta in a cheese sauce",
+        "defineVi": "một món ăn bao gồm mì ống trong nước sốt phô mai",
+        "hasImg": true
+    },
+    {
+        "id": "2e186906-2ed3-4b1b-9e83-eab3d777f64b",
+        "word": "foie gras",
+        "phonetic": "fɔɪ ɡɹɑːz ",
+        "type": "noun",
+        "defineEn": "a delicacy made from the liver of a duck or goose that has been specially fattened",
+        "defineVi": "một món ngon làm từ gan vịt hoặc ngỗng đã được vỗ béo đặc biệt"
+    },
+    {
+        "id": "1bff4968-d3a3-46f0-a2d7-9fff24e17ce6",
+        "word": "carpaccio",
+        "phonetic": "kɑːɹpæksɪoʊ ",
+        "type": "noun",
+        "defineEn": "a dish made with thinly sliced raw meat or fish, typically beef, veal, or fish, served with a dressing or marinade",
+        "defineVi": "một món ăn được làm từ thịt hoặc cá sống thái lát mỏng, thường là thịt bò, thịt bê hoặc cá, ăn kèm với nước xốt hoặc nước xốt"
+    },
+    {
+        "id": "7387883e-c923-4162-9149-2c6e7afed03a",
+        "word": "cocido",
+        "phonetic": "kəsiːdoʊ ",
+        "type": "noun",
+        "defineEn": "a traditional Spanish stew made with meat, vegetables, and chickpeas",
+        "defineVi": "một món hầm truyền thống của Tây Ban Nha được làm từ thịt, rau và đậu xanh"
+    },
+    {
+        "id": "75153d5e-95ca-44a9-85ab-d78500ef7107",
+        "word": "cordon bleu",
+        "phonetic": "kɔːɹdən bluː ",
+        "type": "noun",
+        "defineEn": "a dish made of breaded and fried chicken or pork cutlets filled with ham and cheese",
+        "defineVi": "một món ăn làm từ thịt gà hoặc thịt lợn cốt lết tẩm bột và chiên với giăm bông và pho mát"
+    },
+    {
+        "id": "981b9221-5225-4192-b4ee-81d7eda0b289",
+        "word": "mititei",
+        "phonetic": "mɪɾaɪtaɪ ",
+        "type": "noun",
+        "defineEn": "Romanian sausages made from minced meat mixed with spices and grilled to perfection",
+        "defineVi": "Xúc xích Rumani làm từ thịt băm trộn với gia vị và nướng chín"
+    },
+    {
+        "id": "d844a806-8222-404a-b83c-ce04d751b69e",
+        "word": "wiener schnitzel",
+        "phonetic": "wiːnɚ ʃnɪtsəl ",
+        "type": "noun",
+        "defineEn": "a traditional Austrian dish made from veal that is pounded thin, breaded, and fried",
+        "defineVi": "một món ăn truyền thống của Áo làm từ thịt bê được đập mỏng, tẩm bột và chiên",
+        "hasImg": true
+    },
+    {
+        "id": "e1e54d92-cbba-4c1e-8706-306c14a89ce1",
+        "word": "pasty",
+        "phonetic": "pæsti ",
+        "type": "noun",
+        "defineEn": "a pastry case stuffed with meat or vegetables",
+        "defineVi": "một hộp bánh ngọt nhồi thịt hoặc rau",
+        "hasImg": true
+    },
+    {
+        "id": "7f60f298-4603-4b9a-99cc-51dbb8f56820",
+        "word": "omelette",
+        "phonetic": "ɑːmlət ",
+        "type": "noun",
+        "defineEn": "a dish that consists of eggs mixed together and cooked in a frying pan",
+        "defineVi": "một món ăn bao gồm trứng trộn với nhau và nấu trong chảo",
+        "hasImg": true
+    },
+    {
+        "id": "adfdd799-29b6-4a35-9780-086cc525e983",
+        "word": "fricassee",
+        "phonetic": "fɹɪkɐseɪ ",
+        "type": "noun",
+        "defineEn": "a type of stew made from meat, poultry, or fish that is cut into small pieces and cooked in a sauce",
+        "defineVi": "một loại món hầm làm từ thịt, thịt gia cầm hoặc cá được cắt thành miếng nhỏ và nấu trong nước sốt"
+    },
+    {
+        "id": "9b06b8be-5332-4c38-b0ad-c95c7f386733",
+        "word": "polenta",
+        "phonetic": "poʊlɛntə ",
+        "type": "noun",
+        "defineEn": "an Italian thick porridge made with maize flour that could be baked or fried",
+        "defineVi": "một loại cháo đặc của Ý làm bằng bột ngô có thể nướng hoặc chiên",
+        "hasImg": true
+    },
+    {
+        "id": "b72453ea-0664-4780-9b00-70ca37e4acc9",
+        "word": "taramasalata",
+        "phonetic": "tæɹɐmeɪzɐlɑːɾə ",
+        "type": "noun",
+        "defineEn": "a type of food made with fish eggs, originated in Greece",
+        "defineVi": "một loại thực phẩm làm từ trứng cá, có nguồn gốc từ Hy Lạp",
+        "hasImg": true
+    },
+    {
+        "id": "b606914f-bf2c-4807-92e8-68c1aa722eea",
+        "word": "bubble and squeak",
+        "phonetic": "bʌbəl ænd skwiːk ",
+        "type": "noun",
+        "defineEn": "a traditional British dish made from mashed potatoes and vegetables that are fried together until crisp",
+        "defineVi": "một món ăn truyền thống của Anh làm từ khoai tây nghiền và rau được chiên cùng nhau cho đến khi giòn"
+    },
+    {
+        "id": "0c85b72f-2621-489b-9d18-9069d0d0b5a7",
+        "word": "casserole",
+        "phonetic": "kæsɚɹoʊl ",
+        "type": "noun",
+        "defineEn": "a dish that is typically made by baking a mixture of ingredients, such as meat, vegetables, potatoes, and cheese, in a large, deep dish",
+        "defineVi": "một món ăn thường được làm bằng cách nướng hỗn hợp các nguyên liệu, chẳng hạn như thịt, rau, khoai tây và pho mát, trong một đĩa lớn và sâu",
+        "hasImg": true
+    },
+    {
+        "id": "b55e2256-2eae-4c84-9948-50385ecd8504",
+        "word": "gratin",
+        "phonetic": "ɡɹætɪn ",
+        "type": "noun",
+        "defineEn": "a dish of fish or vegetables covered with a layer of breadcrumbs or cheese",
+        "defineVi": "một món cá hoặc rau phủ một lớp vụn bánh mì hoặc pho mát",
+        "hasImg": true
+    },
+    {
+        "id": "a335367e-7e8f-4725-a29d-e927cdf6cf51",
+        "word": "hash",
+        "phonetic": "hæʃ ",
+        "type": "noun",
+        "defineEn": "a spicy dish of cooked potatoes and meat that have chopped and mixed together",
+        "defineVi": "một món cay gồm khoai tây nấu chín và thịt đã cắt nhỏ và trộn với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "ddd5d57c-12da-4d03-af54-6bbfaf30c268",
+        "word": "jambalaya",
+        "phonetic": "dʒæmbɐleɪə ",
+        "type": "noun",
+        "defineEn": "a dish of rice, chicken, seafood, etc., originated in Louisiana, US",
+        "defineVi": "một món cơm, thịt gà, hải sản, v.v., có nguồn gốc từ Louisiana, Hoa Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "8dc9550c-e4a9-43f1-a762-1a210f588b97",
+        "word": "kedgeree",
+        "phonetic": "kɛdʒɹiː ",
+        "type": "noun",
+        "defineEn": "a dish originating from British India, consisting primarily of flaked cooked fish, rice, hard-boiled eggs, and cream or butter",
+        "defineVi": "một món ăn có nguồn gốc từ Ấn Độ thuộc Anh, bao gồm chủ yếu là cá nấu chín, cơm, trứng luộc và kem hoặc bơ"
+    },
+    {
+        "id": "fd6198ac-a000-4683-ae69-8eb471a4bffc",
+        "word": "mixed grill",
+        "phonetic": "mɪkst ɡɹɪl ",
+        "type": "noun",
+        "defineEn": "a dish of various meats and vegetables which have been grilled",
+        "defineVi": "một món ăn gồm nhiều loại thịt và rau đã được nướng",
+        "hasImg": true
+    },
+    {
+        "id": "6ddc3c12-cdeb-48b4-afba-33ae1c0649cc",
+        "word": "ploughman\\'s lunch",
+        "phonetic": "plaʊmən bækslæʃ ɛs lʌntʃ ",
+        "type": "noun",
+        "defineEn": "bread with cheese, salad, and pickle served cold, originated in England",
+        "defineVi": "bánh mì với phô mai, salad và dưa chua ăn lạnh, có nguồn gốc từ Anh",
+        "hasImg": true
+    },
+    {
+        "id": "23ffd0a3-a41d-4bde-9d1e-3b286a2acf81",
+        "word": "steak tartare",
+        "phonetic": "steɪk tɑːɹɾɛɹ ",
+        "type": "noun",
+        "defineEn": "a raw meat dish consisting of ground beef or steak seasoned with spices and garnished with quail eggs and onions",
+        "defineVi": "một món thịt sống bao gồm thịt bò xay hoặc bít tết được tẩm gia vị và trang trí bằng trứng cút và hành tây"
+    },
+    {
+        "id": "2f6af864-1f5f-468a-ba9b-6833480aad9e",
+        "word": "terrine",
+        "phonetic": "tɛɹiːn ",
+        "type": "noun",
+        "defineEn": "a mixture of fish or meat, etc. in the shape of a loaf, served cold and in slices",
+        "defineVi": "hỗn hợp cá hoặc thịt, v.v. ở dạng ổ bánh mì, được phục vụ lạnh và cắt lát",
+        "hasImg": true
+    },
+    {
+        "id": "cc34c67d-9677-41b5-b095-4b0112579177",
+        "word": "toad-in-the-hole",
+        "phonetic": "toʊdɪnðəhoʊl ",
+        "type": "noun",
+        "defineEn": "a dish of sausages cooked in batter, originated in Britain",
+        "defineVi": "một món xúc xích nấu trong bột, có nguồn gốc từ Anh",
+        "hasImg": true
+    },
+    {
+        "id": "36ab4199-84cb-4972-a088-5a8122f22ebd",
+        "word": "Scotch egg",
+        "phonetic": "skɑːtʃ ɛɡ ",
+        "type": "noun",
+        "defineEn": "a traditional British snack consisting of a hard-boiled egg wrapped in sausage meat andbreadcrumbs",
+        "defineVi": "một món ăn nhẹ truyền thống của Anh bao gồm một quả trứng luộc chín bọc trong thịt xúc xích và vụn bánh mì"
+    },
+    {
+        "id": "49cb51cb-ddee-4602-b617-6d2beb6e06f3",
+        "word": "scrambled eggs",
+        "phonetic": "skɹæmbəld ɛɡz ",
+        "type": "noun",
+        "defineEn": "a dish made by beating eggs together in a bowl and then cooking them in a pan while stirring",
+        "defineVi": "một món ăn được làm bằng cách đánh trứng với nhau trong một cái bát và sau đó nấu chúng trong chảo trong khi khuấy",
+        "hasImg": true
+    },
+    {
+        "id": "e3b39569-5676-49d5-83e3-d5a5e371e9d3",
+        "word": "pot roast",
+        "phonetic": "pɑːt ɹoʊst ",
+        "type": "noun",
+        "defineEn": "a dish made by browning a large cut of beef or pork and then braising it slowly in a covered pot or Dutch oven with liquid such as stock or wine, vegetables and herbs",
+        "defineVi": "một món ăn được làm bằng cách làm nâu một miếng thịt bò hoặc thịt lợn lớn và sau đó om nó từ từ trong nồi có nắp đậy hoặc lò kiểu Hà Lan với chất lỏng như nước dùng hoặc rượu, rau và thảo mộc"
+    },
+    {
+        "id": "a0409630-03c1-493e-ac29-09ab81d6a422",
+        "word": "poutine",
+        "phonetic": "paʊtiːn ",
+        "type": "noun",
+        "defineEn": "a dish consisting of French fries topped with melted cheese, usually served with a gravy, originated in Canada",
+        "defineVi": "một món ăn bao gồm khoai tây chiên với phô mai tan chảy, thường được phục vụ với nước thịt, có nguồn gốc từ Canada",
+        "hasImg": true
+    },
+    {
+        "id": "c9de4571-beab-4090-9583-8f41cda452e2",
+        "word": "poached egg",
+        "phonetic": "poʊtʃt ɛɡ ",
+        "type": "noun",
+        "defineEn": "an egg that has been cooked by being gently simmered in water without its shell",
+        "defineVi": "một quả trứng đã được nấu chín bằng cách đun sôi nhẹ trong nước mà không có vỏ",
+        "hasImg": true
+    },
+    {
+        "id": "c3e03722-cfdc-431d-bb23-00d3f598085f",
+        "word": "egg over easy",
+        "phonetic": "ɛɡ oʊvɚɹ iːzi ",
+        "type": "noun",
+        "defineEn": "a way of preparing fried eggs where the egg is cooked on one side until the white is set, and then flipped briefly to cook the yolk slightly while keeping it partially runny",
+        "defineVi": "một cách chế biến món trứng chiên trong đó trứng được nấu chín một mặt cho đến khi lòng trắng đông lại, sau đó lật nhanh để lòng đỏ chín một chút trong khi vẫn giữ được nước chảy một phần",
+        "hasImg": true
+    },
+    {
+        "id": "506b2f59-864a-4f2f-8f8c-c28158b8e34e",
+        "word": "sunny-side up",
+        "phonetic": "sʌnisaɪd ʌp ",
+        "type": "adjective",
+        "defineEn": "a dish made from an egg that is fried on one side until the white is set and the yolk is still runny",
+        "defineVi": "một món ăn làm từ một quả trứng được chiên một mặt cho đến khi lòng trắng se lại và lòng đỏ vẫn chảy nước",
+        "hasImg": true
+    },
+    {
+        "id": "f073ba49-c7db-43c5-9732-ac1101434ab8",
+        "word": "baked beans",
+        "phonetic": "beɪkt biːnz ",
+        "type": "noun",
+        "defineEn": "a dish made from cooked beans, typically navy beans, that are baked in a sauce made with ingredients",
+        "defineVi": "một món ăn làm từ đậu nấu chín, điển hình là đậu hải quân, được nướng trong nước sốt được làm bằng nguyên liệu",
+        "hasImg": true
+    },
+    {
+        "id": "fa85076c-7693-4e32-8f75-a368a0739497",
+        "word": "mushy peas",
+        "phonetic": "mʌʃi piːz ",
+        "type": "noun",
+        "defineEn": "a traditional British dish made from cooked and mashed peas",
+        "defineVi": "một món ăn truyền thống của Anh làm từ đậu Hà Lan nấu chín và nghiền"
+    },
+    {
+        "id": "fbaadbae-08db-477d-9d2b-18781ed98e5e",
+        "word": "hash browns",
+        "phonetic": "hæʃ bɹaʊnz ",
+        "type": "noun",
+        "defineEn": "‌a dish of cooked potatoes and onions that have been chopped and mixed together then pressed into flat shapes and fried until crispy and brown",
+        "defineVi": "‌một đĩa khoai tây nấu chín và hành tây đã được cắt nhỏ và trộn với nhau sau đó ép thành hình phẳng và chiên cho đến khi giòn và có màu nâu",
+        "hasImg": true
+    },
+    {
+        "id": "aa8971f3-c02d-4792-a862-45767f7da237",
+        "word": "mashed potato",
+        "phonetic": "mæʃt pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "potatoes that are boiled and then crushed to become soft and smooth",
+        "defineVi": "khoai tây được luộc và sau đó nghiền nát để trở nên mềm và mịn",
+        "hasImg": true
+    },
+    {
+        "id": "edf962b7-d2ee-4a50-8e7d-9f45414d908d",
+        "word": "escargot",
+        "phonetic": "ᵻskɑːɹɡoʊ ",
+        "type": "noun",
+        "defineEn": "a French dish that consists of cooked land snails, usually served in a garlic-butter sauce",
+        "defineVi": "một món ăn Pháp bao gồm ốc đất nấu chín, thường được phục vụ trong nước sốt bơ tỏi",
+        "hasImg": true
+    },
+    {
+        "id": "4a0845fb-9f2e-4bc1-a888-bdbbb4cd6166",
+        "word": "pizza margherita",
+        "phonetic": "piːtsə mɑːɹɡɚɹiːɾə ",
+        "type": "noun",
+        "defineEn": "a classic Italian pizza made with a thin crust, tomato sauce, fresh mozzarella cheese, and fresh basil leaves",
+        "defineVi": "một loại bánh pizza cổ điển của Ý được làm bằng lớp vỏ mỏng, sốt cà chua, phô mai mozzarella tươi và lá húng quế tươi"
+    }
+]

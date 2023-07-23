@@ -1,0 +1,303 @@
+[
+    {
+        "id": "1fd06a7f-7d36-4d69-956d-031943df75e9",
+        "word": "cash",
+        "phonetic": "kæʃ ",
+        "type": "noun",
+        "defineEn": "money in bills or coins, rather than checks, credit, etc.",
+        "defineVi": "tiền dưới dạng hóa đơn hoặc tiền xu, thay vì séc, tín dụng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "414325ce-ab41-4daa-89c1-5001da288109",
+        "word": "dollar",
+        "phonetic": "dɑːlɚ ",
+        "type": "noun",
+        "defineEn": "the unit of money in the US, Canada, Australia and several other countries, equal to 100 cents",
+        "defineVi": "đơn vị tiền ở Hoa Kỳ, Canada, Úc và một số quốc gia khác, bằng 100 xu",
+        "hasImg": true
+    },
+    {
+        "id": "ec97b1af-7637-4f2c-889d-4aa44476eaa5",
+        "word": "euro",
+        "phonetic": "jʊɹɹoʊ ",
+        "type": "noun",
+        "defineEn": "the money that most countries in Europe use",
+        "defineVi": "tiền mà hầu hết các nước ở châu Âu sử dụng",
+        "hasImg": true
+    },
+    {
+        "id": "8e2af108-eb30-4eed-9ebd-df17af076bcd",
+        "word": "pound",
+        "phonetic": "paʊnd ",
+        "type": "noun",
+        "defineEn": "the currency of the UK and some other countries that is equal to 100 pence",
+        "defineVi": "tiền tệ của Vương quốc Anh và một số quốc gia khác bằng 100 pence",
+        "hasImg": true
+    },
+    {
+        "id": "706c93a5-24eb-40e5-ac6c-e743681a5d74",
+        "word": "cent",
+        "phonetic": "sɛnt ",
+        "type": "noun",
+        "defineEn": "a unit of money in some countries, equal to one hundredth of a dollar or euro",
+        "defineVi": "một đơn vị tiền ở một số quốc gia, bằng một phần trăm đô la hoặc euro",
+        "hasImg": true
+    },
+    {
+        "id": "7f891601-ad20-4b12-ab18-633a106d5e00",
+        "word": "penny",
+        "phonetic": "pɛni ",
+        "type": "noun",
+        "defineEn": "a unit of currency or coin used in several countries, equal to one hundredth of a dollar or pound",
+        "defineVi": "một đơn vị tiền tệ hoặc tiền xu được sử dụng ở một số quốc gia, bằng một phần trăm đô la hoặc bảng Anh",
+        "hasImg": true
+    },
+    {
+        "id": "7c7501fb-1a23-47cd-a0c0-7670453e40ff",
+        "word": "credit card",
+        "phonetic": "kɹɛdɪt kɑːɹd ",
+        "type": "noun",
+        "defineEn": "a plastic card, usually given to us by a bank, that we use to pay for goods and services",
+        "defineVi": "một thẻ nhựa, thường được ngân hàng cấp cho chúng tôi, mà chúng tôi sử dụng để thanh toán hàng hóa và dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "3ec68ccc-fec4-48bd-adc3-e84a4da23668",
+        "word": "debit card",
+        "phonetic": "dɛbɪt kɑːɹd ",
+        "type": "noun",
+        "defineEn": "a small plastic card we use to pay for what we buy with the money taken directly from our bank account",
+        "defineVi": "một thẻ nhựa nhỏ mà chúng tôi sử dụng để thanh toán cho những gì chúng tôi mua bằng số tiền được lấy trực tiếp từ tài khoản ngân hàng của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "66caebe0-3d95-45c4-abef-8346648c8ebb",
+        "word": "check",
+        "phonetic": "tʃɛk ",
+        "type": "noun",
+        "defineEn": "‌a printed form that we can write an amount of money on, sign, and use instead of money to pay for things",
+        "defineVi": "‌một mẫu in mà chúng ta có thể viết một số tiền, ký tên và sử dụng thay vì tiền để thanh toán mọi thứ",
+        "hasImg": true
+    },
+    {
+        "id": "1368bb92-2378-4bc9-b85d-982aefbaf0a9",
+        "word": "receipt",
+        "phonetic": "ɹᵻsiːt ",
+        "type": "noun",
+        "defineEn": "a written or printed document that shows a number of goods or services which are bought or delivered are paid for",
+        "defineVi": "một tài liệu bằng văn bản hoặc in cho thấy một số hàng hóa hoặc dịch vụ được mua hoặc giao được trả tiền cho",
+        "hasImg": true
+    },
+    {
+        "id": "dfbbbd20-360a-4c3a-9f26-3060f15ef0c4",
+        "word": "bill",
+        "phonetic": "bɪl ",
+        "type": "noun",
+        "defineEn": "a piece of paper money",
+        "defineVi": "một tờ tiền giấy",
+        "hasImg": true
+    },
+    {
+        "id": "9c2a315f-e2b9-493c-a933-e7dfe1e3316c",
+        "word": "price",
+        "phonetic": "pɹaɪs ",
+        "type": "noun",
+        "defineEn": "the amount of money required for buying or obtaining something",
+        "defineVi": "số tiền cần thiết để mua hoặc có được một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "7cbbe671-5d22-4774-909a-0e560f39f0da",
+        "word": "cost",
+        "phonetic": "kɔst ",
+        "type": "noun",
+        "defineEn": "an amount we pay to buy, do, or make something",
+        "defineVi": "một số tiền chúng tôi phải trả để mua, làm, hoặc thực hiện một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "c94455f9-369c-4c54-bc70-66de8a558704",
+        "word": "shopping",
+        "phonetic": "ʃɑːpɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of buying goods from stores",
+        "defineVi": "hành động mua hàng hóa từ các cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "5f46f351-2b2f-44fd-86d6-81b6323521f6",
+        "word": "store",
+        "phonetic": "stoːɹ ",
+        "type": "noun",
+        "defineEn": "a shop of any size or kind that sells goods",
+        "defineVi": "một cửa hàng thuộc mọi quy mô hoặc loại bán hàng hóa",
+        "hasImg": true
+    },
+    {
+        "id": "a51ee505-dd94-4ea2-a159-eb2d32d921ac",
+        "word": "clothes store",
+        "phonetic": "kloʊðz stoːɹ ",
+        "type": "noun",
+        "defineEn": "a shop or store that sells clothing",
+        "defineVi": "một cửa hàng hoặc cửa hàng bán quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "dc2339fa-0fc2-4cf9-8b38-5f4d569fb364",
+        "word": "shopping bag",
+        "phonetic": "ʃɑːpɪŋ bæɡ ",
+        "type": "noun",
+        "defineEn": "a bag made of cloth, paper, or plastic with two handles, used for carrying what you buy",
+        "defineVi": "một chiếc túi làm bằng vải, giấy hoặc nhựa có hai tay cầm, được sử dụng để đựng những thứ bạn mua",
+        "hasImg": true
+    },
+    {
+        "id": "5574545e-2c68-450b-9d18-16be45c09dd6",
+        "word": "shopping center",
+        "phonetic": "ʃɑːpɪŋ sɛntɚ ",
+        "type": "noun",
+        "defineEn": "an area of stores or a group of stores built together in one area",
+        "defineVi": "một khu vực cửa hàng hoặc một nhóm các cửa hàng được xây dựng cùng nhau trong một khu vực",
+        "hasImg": true
+    },
+    {
+        "id": "eae1fd21-4eb4-42d7-b25c-56685c878e2d",
+        "word": "department",
+        "phonetic": "dᵻpɑːɹtmənt ",
+        "type": "noun",
+        "defineEn": "an area within a large store where a specific category of goods are sold",
+        "defineVi": "một khu vực trong một cửa hàng lớn nơi bán một loại hàng hóa cụ thể"
+    },
+    {
+        "id": "3ff55836-170e-4747-a776-b5df2ee458ea",
+        "word": "customer",
+        "phonetic": "kʌstəmɚ ",
+        "type": "noun",
+        "defineEn": "a person, organization, company, etc. that pays to get things from businesses or stores",
+        "defineVi": "một người, tổ chức, công ty, v.v. trả tiền để lấy đồ từ doanh nghiệp hoặc cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "6e4d65b0-e18b-4f07-868d-921d2e71781d",
+        "word": "item",
+        "phonetic": "aɪɾəm ",
+        "type": "noun",
+        "defineEn": "a single thing or object, especially one that is part of a list, set, or collection",
+        "defineVi": "một thứ hoặc đối tượng, đặc biệt là một thứ là một phần của danh sách, tập hợp hoặc bộ sưu tập"
+    },
+    {
+        "id": "7bf5297a-88a2-4ec1-9e82-33b6c5b5ebbd",
+        "word": "gift",
+        "phonetic": "ɡɪft ",
+        "type": "noun",
+        "defineEn": "something that we give to someone because we like them, especially on a special occasion, or to say thank you",
+        "defineVi": "thứ gì đó mà chúng ta tặng cho ai đó vì chúng ta thích họ, đặc biệt là vào một dịp đặc biệt hoặc để nói lời cảm ơn",
+        "hasImg": true
+    },
+    {
+        "id": "5b6c3143-b268-43f4-b95b-4c26ef920a5b",
+        "word": "sale",
+        "phonetic": "seɪl ",
+        "type": "noun",
+        "defineEn": "an occasion when a shop or business sells its goods at reduced prices",
+        "defineVi": "một dịp khi một cửa hàng hoặc doanh nghiệp bán hàng hóa của mình với giá giảm",
+        "hasImg": true
+    },
+    {
+        "id": "f9cbce53-543b-4366-a803-4525a8b57558",
+        "word": "cart",
+        "phonetic": "kɑːɹt ",
+        "type": "noun",
+        "defineEn": "a vehicle with two or four wheels that we use to carry heavy objects while shopping",
+        "defineVi": "một chiếc xe có hai hoặc bốn bánh mà chúng tôi sử dụng để chở vật nặng khi đi mua sắm",
+        "hasImg": true
+    },
+    {
+        "id": "c1d1571a-8c04-41f5-aaeb-97ddc87ebd49",
+        "word": "advertisement",
+        "phonetic": "ædvɚtaɪzmənt ",
+        "type": "noun",
+        "defineEn": "any movie, picture, note, etc. designed to promote products or services to the public",
+        "defineVi": "bất kỳ bộ phim, hình ảnh, ghi chú, v.v. nào được thiết kế để quảng bá sản phẩm hoặc dịch vụ tới công chúng"
+    },
+    {
+        "id": "820611e5-ac5b-41e9-9ffa-7b81a5aa0164",
+        "word": "available",
+        "phonetic": "ɐveɪləbəl ",
+        "type": "adjective",
+        "defineEn": "ready for being used or acquired",
+        "defineVi": "sẵn sàng để được sử dụng hoặc mua lại"
+    },
+    {
+        "id": "f99ff63f-3312-4b34-bba2-3087a1577556",
+        "word": "free",
+        "phonetic": "fɹiː ",
+        "type": "adjective",
+        "defineEn": "not requiring payment",
+        "defineVi": "không yêu cầu thanh toán",
+        "hasImg": true
+    },
+    {
+        "id": "61bd43e4-e8ef-4925-b282-faf03de3505b",
+        "word": "open",
+        "phonetic": "oʊpən ",
+        "type": "adjective",
+        "defineEn": "ready to be used or provide a service to customers",
+        "defineVi": "sẵn sàng để được sử dụng hoặc cung cấp dịch vụ cho khách hàng",
+        "hasImg": true
+    },
+    {
+        "id": "bc9f98ba-4b8a-4044-99e6-b026341a262b",
+        "word": "closed",
+        "phonetic": "kloʊzd ",
+        "type": "adjective",
+        "defineEn": "(especially of a store or public building) not open for people to buy something from or visit, often temporarily",
+        "defineVi": "(đặc biệt là cửa hàng hoặc tòa nhà công cộng) không mở cửa để mọi người mua hàng hoặc ghé thăm, thường là tạm thời",
+        "hasImg": true
+    },
+    {
+        "id": "86ee0b3f-d9ec-4b94-963b-fb9f8dca297f",
+        "word": "to spend",
+        "phonetic": "tə spɛnd ",
+        "type": "verb",
+        "defineEn": "to use money as a payment for services, goods, etc.",
+        "defineVi": "sử dụng tiền như một khoản thanh toán cho các dịch vụ, hàng hóa, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6aeace89-d365-4988-a7e0-5d2586301edd",
+        "word": "to offer",
+        "phonetic": "tʊ ɔfɚ ",
+        "type": "verb",
+        "defineEn": "to make something available for use or sale",
+        "defineVi": "để làm cho một cái gì đó có sẵn để sử dụng hoặc bán"
+    },
+    {
+        "id": "d284d3bd-05b6-4bb7-85e1-a83cd3c7b322",
+        "word": "to save",
+        "phonetic": "tə seɪv ",
+        "type": "verb",
+        "defineEn": "to keep money to spend later",
+        "defineVi": "để giữ tiền để chi tiêu sau này",
+        "hasImg": true
+    },
+    {
+        "id": "33994092-8e94-468c-80f5-a112ed56721b",
+        "word": "(up) for sale",
+        "phonetic": "ʌp fɔːɹ seɪl ",
+        "type": "phrase",
+        "defineEn": "being offered for purchase, especially from the owner",
+        "defineVi": "được đề nghị mua, đặc biệt là từ chủ sở hữu",
+        "hasImg": true
+    },
+    {
+        "id": "0f9ed3cf-2340-4eed-92e4-563330dc6dbb",
+        "word": "amount",
+        "phonetic": "ɐmaʊnt ",
+        "type": "noun",
+        "defineEn": "a sum of money",
+        "defineVi": "một khoản tiền",
+        "hasImg": true
+    }
+]

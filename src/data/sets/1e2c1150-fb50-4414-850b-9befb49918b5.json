@@ -1,0 +1,460 @@
+[
+    {
+        "id": "71d3bd17-705f-4861-94e6-2c614a44a0c4",
+        "word": "lifelong",
+        "phonetic": "laɪflɔŋ ",
+        "type": "adjective",
+        "defineEn": "lasting the whole of a person's life",
+        "defineVi": "kéo dài cả đời người"
+    },
+    {
+        "id": "4588990a-55dc-4a30-91a9-dbb4b57fab41",
+        "word": "life expectancy",
+        "phonetic": "laɪf ɛkspɛktənsi ",
+        "type": "noun",
+        "defineEn": "the average number of years a person is expected to live, based on various demographic and health factors",
+        "defineVi": "số năm trung bình mà một người dự kiến sẽ sống, dựa trên các yếu tố nhân khẩu học và sức khỏe khác nhau"
+    },
+    {
+        "id": "13e13851-6de9-4cc1-a6cb-3550f2063b62",
+        "word": "life story",
+        "phonetic": "laɪf stoːɹi ",
+        "type": "noun",
+        "defineEn": "the account or narrative of a person's life, typically including significant events, experiences, and personal details",
+        "defineVi": "tài khoản hoặc tường thuật về cuộc sống của một người, thường bao gồm các sự kiện quan trọng, trải nghiệm và thông tin cá nhân"
+    },
+    {
+        "id": "4d318b08-bca8-40f1-a017-8f8d9f677c5a",
+        "word": "life-size",
+        "phonetic": "laɪfsaɪz ",
+        "type": "adjective",
+        "defineEn": "having the same size as an actual living being or object, without any exaggeration or reduction",
+        "defineVi": "có cùng kích thước với một sinh vật hoặc vật thể thực tế, không có bất kỳ sự phóng đại hay thu nhỏ nào"
+    },
+    {
+        "id": "f58d0e91-28bb-4c75-af84-e7333923e9ca",
+        "word": "lifestyle",
+        "phonetic": "laɪfstaɪl ",
+        "type": "noun",
+        "defineEn": "a type of life that a person or group is living",
+        "defineVi": "một loại cuộc sống mà một người hoặc nhóm đang sống"
+    },
+    {
+        "id": "38f9fd33-f1c4-43b8-b112-da8aac6525a5",
+        "word": "heartbroken",
+        "phonetic": "hɑːɹtbɹoʊkən ",
+        "type": "adjective",
+        "defineEn": "experiencing intense sadness, grief, or disappointment due to a broken romantic relationship or other loss",
+        "defineVi": "trải qua nỗi buồn, đau buồn hoặc thất vọng dữ dội do mối quan hệ lãng mạn tan vỡ hoặc mất mát khác"
+    },
+    {
+        "id": "b698718e-0a64-4091-b269-7c7fd6a7ce62",
+        "word": "heartbeat",
+        "phonetic": "hɑːɹtbiːt ",
+        "type": "noun",
+        "defineEn": "the rhythmic movement of the heart while it is pumping blood",
+        "defineVi": "chuyển động nhịp nhàng của trái tim trong khi nó đang bơm máu"
+    },
+    {
+        "id": "b867a291-7175-4c81-bc3c-46f068ed27f7",
+        "word": "heart attack",
+        "phonetic": "hɑːɹt ɐtæk ",
+        "type": "noun",
+        "defineEn": "a medical emergency that happens when blood flow to the heart is suddenly blocked, which is fatal in some cases",
+        "defineVi": "một trường hợp cấp cứu y tế xảy ra khi máu chảy vào tim đột ngột bị tắc nghẽn, có thể gây tử vong trong một số trường hợp",
+        "hasImg": true
+    },
+    {
+        "id": "8a4529b0-5a50-4a9f-bd87-954970717f55",
+        "word": "heartwarming",
+        "phonetic": "hɑːɹtwɔːɹmɪŋ ",
+        "type": "adjective",
+        "defineEn": "inspiring positive emotions such as joy, happiness, and affection in the viewer or reader",
+        "defineVi": "truyền cảm xúc tích cực như niềm vui, hạnh phúc và tình cảm trong người xem hoặc người đọc"
+    },
+    {
+        "id": "351de974-092c-4b0e-b558-3c112cea4d2a",
+        "word": "housework",
+        "phonetic": "haʊswɜːk ",
+        "type": "noun",
+        "defineEn": "regular work done in a house, especially cleaning, washing, etc.",
+        "defineVi": "công việc thường xuyên được thực hiện trong nhà, đặc biệt là dọn dẹp, giặt giũ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "842717aa-7e24-437b-98cc-97ef7215ec87",
+        "word": "homecoming",
+        "phonetic": "hoʊmkʌmɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of returning to one's home or place of origin",
+        "defineVi": "hành động trở về nhà hoặc nơi xuất xứ của một người",
+        "hasImg": true
+    },
+    {
+        "id": "aa076b82-aba8-4156-91fa-f3b86b318a0f",
+        "word": "houseplant",
+        "phonetic": "haʊsplənt ",
+        "type": "noun",
+        "defineEn": "a plant that is typically grown indoors in a home or other building, often for decorative purposes",
+        "defineVi": "một loại cây thường được trồng trong nhà ở nhà hoặc tòa nhà khác, thường dùng cho mục đích trang trí",
+        "hasImg": true
+    },
+    {
+        "id": "800051ba-4959-4f40-a54b-edcc7ecf2ee6",
+        "word": "housewife",
+        "phonetic": "haʊswaɪf ",
+        "type": "noun",
+        "defineEn": "a married woman who does the housework (cooking, cleaning, etc.) and takes care of the children, and does not work outside the house",
+        "defineVi": "một người phụ nữ đã kết hôn làm công việc nhà (nấu ăn, dọn dẹp, v.v.) và chăm sóc con cái, và không làm việc bên ngoài nhà",
+        "hasImg": true
+    },
+    {
+        "id": "c731f018-f854-47ec-af38-0632ad20f16b",
+        "word": "house-proud",
+        "phonetic": "haʊspɹaʊd ",
+        "type": "adjective",
+        "defineEn": "describing someone who takes great pride in the appearance, cleanliness, and overall condition of their home",
+        "defineVi": "mô tả một người rất tự hào về diện mạo, sự sạch sẽ và tình trạng chung của ngôi nhà của họ"
+    },
+    {
+        "id": "86d77ccf-ad21-44db-a9dc-7fe5b78ddce7",
+        "word": "homesick",
+        "phonetic": "hoʊmsɪk ",
+        "type": "adjective",
+        "defineEn": "feeling sad because of being away from one's home",
+        "defineVi": "cảm thấy buồn vì xa nhà của một người"
+    },
+    {
+        "id": "e2e24bdf-78d5-492b-a31f-183d7a8530ac",
+        "word": "hometown",
+        "phonetic": "hoʊmtaʊn ",
+        "type": "noun",
+        "defineEn": "the town or city where a person grew up or was born",
+        "defineVi": "thị trấn hoặc thành phố nơi một người lớn lên hoặc sinh ra"
+    },
+    {
+        "id": "a87d1e8a-d2d2-4809-89e8-cfee9a3322d1",
+        "word": "homebound",
+        "phonetic": "hoʊmbaʊnd ",
+        "type": "noun",
+        "defineEn": "a person who is unable or restricted from leaving their home, typically due to physical, medical, or other circumstances",
+        "defineVi": "một người không thể hoặc bị hạn chế rời khỏi nhà của họ, thường là do thể chất, y tế hoặc các trường hợp khác"
+    },
+    {
+        "id": "108913a4-458e-424c-b2ac-2095e118b90d",
+        "word": "homegrown",
+        "phonetic": "hoʊmɡɹoʊn ",
+        "type": "adjective",
+        "defineEn": "referring to something that is native, locally produced, or originating from one's own country or region",
+        "defineVi": "đề cập đến một cái gì đó có nguồn gốc, được sản xuất tại địa phương hoặc có nguồn gốc từ quốc gia hoặc khu vực của chính mình"
+    },
+    {
+        "id": "923baf6d-fedd-42fe-acd9-5103e2c065fd",
+        "word": "house-warming",
+        "phonetic": "haʊswɔːɹmɪŋ ",
+        "type": "noun",
+        "defineEn": "a party that one gives in a new house or an apartment they just purchased to celebrate such event",
+        "defineVi": "một bữa tiệc mà một người tặng một ngôi nhà mới hoặc một căn hộ mà họ vừa mua để ăn mừng sự kiện đó"
+    },
+    {
+        "id": "1e624abe-6dc6-4079-8d18-15446394ff7e",
+        "word": "homepage",
+        "phonetic": "hoʊmpeɪdʒ ",
+        "type": "noun",
+        "defineEn": "the main opening page of a website that introduces it and links the user to other pages",
+        "defineVi": "trang mở chính của một trang web giới thiệu nó và liên kết người dùng với các trang khác",
+        "hasImg": true
+    },
+    {
+        "id": "8b040979-e8d9-43a5-8fa4-22464bb9c7da",
+        "word": "homeless",
+        "phonetic": "hoʊmləs ",
+        "type": "noun",
+        "defineEn": "someone who does not have a place to live in and so lives on the streets",
+        "defineVi": "một người không có nơi ở và vì vậy sống trên đường phố",
+        "hasImg": true
+    },
+    {
+        "id": "b66b6683-903c-4e2f-b5b4-621fb6a4dc9e",
+        "word": "seafood",
+        "phonetic": "siːfuːd ",
+        "type": "noun",
+        "defineEn": "any sea creature that is eaten as food such as fish, shrimp, and shellfish",
+        "defineVi": "bất kỳ sinh vật biển nào được dùng làm thức ăn như cá, tôm và động vật có vỏ",
+        "hasImg": true
+    },
+    {
+        "id": "1193f178-b3b9-4ae4-b24d-8385e207cf1d",
+        "word": "bookshelf",
+        "phonetic": "bʊkʃɛlf ",
+        "type": "noun",
+        "defineEn": "‌a board connected to a wall or a piece of furniture on which books are kept",
+        "defineVi": "‌một bảng kết nối với một bức tường hoặc một mảnh đồ nội thất mà trên đó những cuốn sách được giữ",
+        "hasImg": true
+    },
+    {
+        "id": "ce540e30-daa7-4eff-9be8-1c2b4e8ac758",
+        "word": "junk food",
+        "phonetic": "dʒʌŋk fuːd ",
+        "type": "noun",
+        "defineEn": "unhealthy food, containing a lot of fat, sugar, etc.",
+        "defineVi": "thực phẩm không lành mạnh, chứa nhiều chất béo, đường, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2f149f54-324c-456c-a6ba-7b6c7eb7ae3a",
+        "word": "headphones",
+        "phonetic": "hɛdfoʊnz ",
+        "type": "noun",
+        "defineEn": "a device that has two pieces that cover our ears and we use to listen to music or sounds without others hearing",
+        "defineVi": "một thiết bị có hai miếng che tai của chúng ta và chúng ta sử dụng để nghe nhạc hoặc âm thanh mà người khác không nghe thấy",
+        "hasImg": true
+    },
+    {
+        "id": "1392ffe9-61fc-4eec-a277-905012352f5d",
+        "word": "headline",
+        "phonetic": "hɛdlaɪn ",
+        "type": "noun",
+        "defineEn": "the large words in the upper part of a page of a newspaper, article, etc.",
+        "defineVi": "các từ lớn ở phần trên của một trang báo, bài báo, v.v."
+    },
+    {
+        "id": "5c18d553-29d2-4c44-bc81-65924a71258e",
+        "word": "headway",
+        "phonetic": "hɛdweɪ ",
+        "type": "noun",
+        "defineEn": "the forward movement or advancement made despite difficulties or obstacles",
+        "defineVi": "sự di chuyển về phía trước hoặc sự tiến bộ được thực hiện bất chấp những khó khăn hoặc trở ngại"
+    },
+    {
+        "id": "6d9092c4-0521-4544-b2fc-6c45698dff77",
+        "word": "textbook",
+        "phonetic": "tɛkstbʊk ",
+        "type": "noun",
+        "defineEn": "a book used for the study of a particular subject, especially in schools and colleges",
+        "defineVi": "một cuốn sách được sử dụng để nghiên cứu về một chủ đề cụ thể, đặc biệt là trong các trường học và cao đẳng",
+        "hasImg": true
+    },
+    {
+        "id": "8e0de683-6099-41fc-905e-32c45b678396",
+        "word": "text message",
+        "phonetic": "tɛkst mɛsɪdʒ ",
+        "type": "noun",
+        "defineEn": "a written message that one sends or receives using a mobile phone",
+        "defineVi": "một tin nhắn bằng văn bản mà một người gửi hoặc nhận bằng điện thoại di động",
+        "hasImg": true
+    },
+    {
+        "id": "24ea287c-5dac-4b52-b383-587d4e3de9de",
+        "word": "open air",
+        "phonetic": "oʊpən ɛɹ ",
+        "type": "noun",
+        "defineEn": "an outdoor or unenclosed space that is exposed to the elements",
+        "defineVi": "một không gian ngoài trời hoặc không kín được tiếp xúc với các yếu tố"
+    },
+    {
+        "id": "5f9df61f-8914-4e5a-9da6-fa5bc43ae318",
+        "word": "business line",
+        "phonetic": "bɪznəs laɪn ",
+        "type": "noun",
+        "defineEn": "a specific set or range of products or merchandise offered by a business, often with a common theme, category, or market focus",
+        "defineVi": "một bộ hoặc phạm vi sản phẩm hoặc hàng hóa cụ thể do một doanh nghiệp cung cấp, thường có chủ đề, danh mục hoặc trọng tâm thị trường chung"
+    },
+    {
+        "id": "3b098706-78f8-469c-8380-d79ef9602c56",
+        "word": "businessman",
+        "phonetic": "bɪznəsmən ",
+        "type": "noun",
+        "defineEn": "a man who works in business, especially at a high level",
+        "defineVi": "một người đàn ông làm việc trong kinh doanh, đặc biệt là ở cấp cao",
+        "hasImg": true
+    },
+    {
+        "id": "fc2ee144-38c8-4cbd-93d8-48dfa4cc8d09",
+        "word": "firehouse",
+        "phonetic": "faɪɚhaʊs ",
+        "type": "noun",
+        "defineEn": "a building or facility used by firefighters as a station for fire-fighting equipment and personnel",
+        "defineVi": "một tòa nhà hoặc cơ sở được lính cứu hỏa sử dụng làm trạm cho thiết bị và nhân viên chữa cháy",
+        "hasImg": true
+    },
+    {
+        "id": "99999471-bd49-4cf5-8f65-7320e24b38f6",
+        "word": "fire alarm",
+        "phonetic": "faɪɚɹ ɐlɑːɹm ",
+        "type": "noun",
+        "defineEn": "a device that gives warning of a fire, by making a loud noise",
+        "defineVi": "một thiết bị đưa ra cảnh báo về đám cháy, bằng cách tạo ra tiếng ồn lớn",
+        "hasImg": true
+    },
+    {
+        "id": "d037b743-21b2-4bca-8fa1-4c0ab2799227",
+        "word": "sleeping pill",
+        "phonetic": "sliːpɪŋ pɪl ",
+        "type": "noun",
+        "defineEn": "a soporific drug taken as a tablet or capsule",
+        "defineVi": "một loại thuốc ngủ được dùng dưới dạng viên nén hoặc viên nang",
+        "hasImg": true
+    },
+    {
+        "id": "62f2324d-c37d-4422-a494-b892667c59ed",
+        "word": "sleeping bag",
+        "phonetic": "sliːpɪŋ bæɡ ",
+        "type": "noun",
+        "defineEn": "a  portable bag designed to keep one warm while sleeping outside or in places without a bed",
+        "defineVi": "một chiếc túi di động được thiết kế để giữ ấm khi ngủ bên ngoài hoặc ở những nơi không có giường",
+        "hasImg": true
+    },
+    {
+        "id": "4cbe4404-204f-454a-a8fd-737262e9d083",
+        "word": "air conditioning",
+        "phonetic": "ɛɹ kəndɪʃənɪŋ ",
+        "type": "noun",
+        "defineEn": "a system that controls the temperature and humidity in a house, car, etc.",
+        "defineVi": "một hệ thống kiểm soát nhiệt độ và độ ẩm trong nhà, xe hơi, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f75ad428-62ae-400d-a09b-d73bfc3873e7",
+        "word": "crowd",
+        "phonetic": "kɹaʊd ",
+        "type": "noun",
+        "defineEn": "a large group of people gathered together in a particular place",
+        "defineVi": "một nhóm lớn người tập hợp lại với nhau ở một nơi cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "b191059a-028a-4680-a2f8-0327271f037d",
+        "word": "horde",
+        "phonetic": "hoːɹd ",
+        "type": "noun",
+        "defineEn": "a large moving crowd or mass of people, often in a disorderly or unruly manner",
+        "defineVi": "một đám đông di chuyển lớn hoặc nhiều người, thường là một cách mất trật tự hoặc ngang ngược"
+    },
+    {
+        "id": "8822d129-c996-4aba-abaa-67d0849dcf59",
+        "word": "to understand",
+        "phonetic": "tʊ ʌndɚstænd ",
+        "type": "verb",
+        "defineEn": "to know something's meaning, particularly something that someone says",
+        "defineVi": "để biết ý nghĩa của một cái gì đó, đặc biệt là một cái gì đó mà ai đó nói",
+        "hasImg": true
+    },
+    {
+        "id": "55131f2d-7852-4134-9a42-f307d942ded8",
+        "word": "to grasp",
+        "phonetic": "tə ɡɹæsp ",
+        "type": "verb",
+        "defineEn": "to understand or comprehend mentally",
+        "defineVi": "để hiểu hoặc hiểu tinh thần",
+        "hasImg": true
+    },
+    {
+        "id": "afc4c194-8453-4761-93c5-aa03dbfea028",
+        "word": "lucky",
+        "phonetic": "lʌki ",
+        "type": "adjective",
+        "defineEn": "having or bringing good luck",
+        "defineVi": "có hoặc mang lại may mắn",
+        "hasImg": true
+    },
+    {
+        "id": "182eaf8f-41fa-40a4-a0f3-ec0ad980ea98",
+        "word": "to strike gold",
+        "phonetic": "tə stɹaɪk ɡoʊld ",
+        "type": "phrase",
+        "defineEn": "to have great success with something, particularly something that brings one a lot of money",
+        "defineVi": "đạt được thành công lớn với một cái gì đó, đặc biệt là cái gì đó mang lại cho một người rất nhiều tiền"
+    },
+    {
+        "id": "3b8f06a3-09a9-45bc-b907-7d2e5b2577e0",
+        "word": "nap",
+        "phonetic": "næp ",
+        "type": "noun",
+        "defineEn": "to sleep and rest for a short amount of time, particularly during the day",
+        "defineVi": "ngủ và nghỉ ngơi trong một khoảng thời gian ngắn, đặc biệt là vào ban ngày"
+    },
+    {
+        "id": "3c7b1912-89b1-4dc5-80cb-d68a2cfe7825",
+        "word": "to look after",
+        "phonetic": "tə lʊk æftɚ ",
+        "type": "verb",
+        "defineEn": "to be in charge of someone and attend to their needs or to take care of something",
+        "defineVi": "chịu trách nhiệm về ai đó và đáp ứng nhu cầu của họ hoặc chăm sóc một cái gì đó"
+    },
+    {
+        "id": "8a824c66-5b03-4f0d-aebd-35fda652e00f",
+        "word": "to fend for",
+        "phonetic": "tə fɛnd fɔːɹ ",
+        "type": "verb",
+        "defineEn": "to take care of oneself, especially in a challenging or difficult situation, without the help or support of others",
+        "defineVi": "để tự chăm sóc bản thân, đặc biệt là trong một tình huống đầy thử thách hoặc khó khăn, mà không cần sự giúp đỡ hoặc hỗ trợ của người khác"
+    },
+    {
+        "id": "f5ff0380-9544-4c93-9e8a-c98fab2023da",
+        "word": "to sleep rough",
+        "phonetic": "tə sliːp ɹʌf ",
+        "type": "phrase",
+        "defineEn": "to sleep outdoors or in a place that is not intended for accommodation, such as on the streets or in a park, usually without proper bedding or shelter",
+        "defineVi": "ngủ ngoài trời hoặc ở một nơi không dành cho chỗ ở, chẳng hạn như trên đường phố hoặc trong công viên, thường không có giường hoặc nơi trú ẩn thích hợp",
+        "hasImg": true
+    },
+    {
+        "id": "e382bca8-3614-4e8b-9099-53e50259acf1",
+        "word": "accustomed to",
+        "phonetic": "ɐkʌstəmd tuː ",
+        "type": "adjective",
+        "defineEn": "familiar with something and having developed a habit or tolerance towards it",
+        "defineVi": "quen thuộc với một cái gì đó và đã phát triển một thói quen hoặc khoan dung đối với nó"
+    },
+    {
+        "id": "a5c0c31e-8600-4b31-ad3a-52c467510e03",
+        "word": "to settle down",
+        "phonetic": "tə sɛɾəl daʊn ",
+        "type": "verb",
+        "defineEn": "to come to rest or sink into a surface or ground, typically after a period of movement or disturbance",
+        "defineVi": "đứng yên hoặc chìm xuống một bề mặt hoặc mặt đất, thường là sau một thời gian di chuyển hoặc xáo trộn"
+    },
+    {
+        "id": "40df7c70-1398-4969-8de4-b31810bbb63d",
+        "word": "crime",
+        "phonetic": "kɹaɪm ",
+        "type": "noun",
+        "defineEn": "an illegal act that is punishable by law",
+        "defineVi": "một hành động bất hợp pháp bị trừng phạt bởi pháp luật",
+        "hasImg": true
+    },
+    {
+        "id": "83bf319c-fe03-461e-8893-5bbd18062835",
+        "word": "foul play",
+        "phonetic": "faʊl pleɪ ",
+        "type": "noun",
+        "defineEn": "an illegal or dishonest behavior, particularly in sports or games, that is intended to gain an unfair advantage over opponents or break the rules",
+        "defineVi": "một hành vi bất hợp pháp hoặc không trung thực, đặc biệt là trong thể thao hoặc trò chơi, nhằm đạt được lợi thế không công bằng trước đối thủ hoặc vi phạm các quy tắc"
+    },
+    {
+        "id": "2c2e5dfb-07a9-4e36-97ec-ed122eee76aa",
+        "word": "star-studded",
+        "phonetic": "stɑːɹstʌdᵻd ",
+        "type": "adjective",
+        "defineEn": "consisting of multiple famous entertainers, performers, etc.",
+        "defineVi": "bao gồm nhiều nghệ sĩ giải trí nổi tiếng, người biểu diễn, v.v."
+    },
+    {
+        "id": "754eaf89-e903-461f-914e-28704b2956f5",
+        "word": "home-made",
+        "phonetic": "hoʊmmeɪd ",
+        "type": "adjective",
+        "defineEn": "something that is cooked, created, or produced at home",
+        "defineVi": "một cái gì đó được nấu chín, tạo ra, hoặc sản xuất tại nhà"
+    },
+    {
+        "id": "c30e2b05-92e2-434c-8516-99842609340f",
+        "word": "homework",
+        "phonetic": "hoʊmwɜːk ",
+        "type": "noun",
+        "defineEn": "schoolwork that students are required to do at home",
+        "defineVi": "bài tập ở trường mà học sinh phải làm ở nhà",
+        "hasImg": true
+    }
+]

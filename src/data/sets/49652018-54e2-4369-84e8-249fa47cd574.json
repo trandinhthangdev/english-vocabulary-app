@@ -1,0 +1,486 @@
+[
+    {
+        "id": "5a6db59b-b59c-4d59-b3dc-a1c4260e6c04",
+        "word": "capybara",
+        "phonetic": "kæpɪbɑːɹɹə ",
+        "type": "noun",
+        "defineEn": "a large rodent with thick legs and no tail that lives near bodies of water, found in South America",
+        "defineVi": "một loài gặm nhấm lớn có chân dày và không có đuôi sống gần các vùng nước, được tìm thấy ở Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "22fc05d6-96a8-44b0-961c-740e4c724bd8",
+        "word": "dassie rat",
+        "phonetic": "dæsi ɹæt ",
+        "type": "noun",
+        "defineEn": "a small mammal species found in Africa and the Middle East, known for their rock-dwelling behavior, distinctive vocalizations, and close evolutionary relationship with elephants",
+        "defineVi": "một loài động vật có vú nhỏ được tìm thấy ở Châu Phi và Trung Đông, được biết đến với hành vi sống trong đá, cách phát âm đặc biệt và mối quan hệ tiến hóa gần gũi với loài voi"
+    },
+    {
+        "id": "4350b0e0-4867-4531-a111-e3f9df6a85a3",
+        "word": "water vole",
+        "phonetic": "wɔːɾɚ voʊl ",
+        "type": "noun",
+        "defineEn": "an amphibious rodent that lives in a hole near lakes or rivers and is native to Eurasia",
+        "defineVi": "một loài gặm nhấm lưỡng cư sống trong một cái lỗ gần hồ hoặc sông và có nguồn gốc từ Á-Âu",
+        "hasImg": true
+    },
+    {
+        "id": "1c43ffeb-74fd-4d3f-b7b0-bca38f46bc09",
+        "word": "guinea pig",
+        "phonetic": "ɡɪni pɪɡ ",
+        "type": "noun",
+        "defineEn": "a small furry animal with rounded ears, short legs and no tail, which is often kept as a pet or for research",
+        "defineVi": "một con vật lông nhỏ với đôi tai tròn, chân ngắn và không có đuôi, thường được nuôi làm thú cưng hoặc để nghiên cứu",
+        "hasImg": true
+    },
+    {
+        "id": "a3ea6774-80eb-40d3-b4fe-c861e5af219c",
+        "word": "gopher",
+        "phonetic": "ɡoʊfɚ ",
+        "type": "noun",
+        "defineEn": "a small rodent covered in fur that has large cheek pouches, mainly found in North and Central America",
+        "defineVi": "một loài gặm nhấm nhỏ phủ đầy lông có túi má lớn, chủ yếu được tìm thấy ở Bắc và Trung Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "9b0f6a98-4bf6-4121-8ef4-e7925d1a6549",
+        "word": "marmot",
+        "phonetic": "mɑːɹmɑːt ",
+        "type": "noun",
+        "defineEn": "a large ground rodent that is like a squirrel and eats vegetables, originally found in North America and Eurasia",
+        "defineVi": "một loài gặm nhấm lớn trên mặt đất giống như một con sóc và ăn rau, ban đầu được tìm thấy ở Bắc Mỹ và Âu Á",
+        "hasImg": true
+    },
+    {
+        "id": "8d04cf08-4f72-4036-b6eb-1ad288dcee03",
+        "word": "gerbil",
+        "phonetic": "dʒɜːbəl ",
+        "type": "noun",
+        "defineEn": "a small, desert rodent that looks like a mouse and is often kept as a pet",
+        "defineVi": "một loài gặm nhấm sa mạc nhỏ trông giống như một con chuột và thường được giữ như một con vật cưng",
+        "hasImg": true
+    },
+    {
+        "id": "980c9dd0-55a4-466f-9eef-6fefb53a46a6",
+        "word": "rat",
+        "phonetic": "ɹæt ",
+        "type": "noun",
+        "defineEn": "a large mouse-like animal with a long tail, which spreads diseases",
+        "defineVi": "một loài động vật giống chuột lớn có đuôi dài, lây lan bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "fe8dbcbf-a721-45fa-b6a9-0658b4ea7c69",
+        "word": "porcupine",
+        "phonetic": "poːɹkjuːpaɪn ",
+        "type": "noun",
+        "defineEn": "an animal with sharp needle-like parts (called quills) on its body and tail, used for protection",
+        "defineVi": "một con vật có các bộ phận giống như kim sắc nhọn (được gọi là bút lông) trên thân và đuôi, được sử dụng để bảo vệ",
+        "hasImg": true
+    },
+    {
+        "id": "20344892-e390-4e7b-a34b-60eec7d6ac9e",
+        "word": "chipmunk",
+        "phonetic": "tʃɪpmʌŋk ",
+        "type": "noun",
+        "defineEn": "a small ground rodent of the squirrel family with black and white stripes that is found in North America and Siberia",
+        "defineVi": "một loài gặm nhấm nhỏ trên mặt đất thuộc họ sóc có sọc đen trắng được tìm thấy ở Bắc Mỹ và Siberia",
+        "hasImg": true
+    },
+    {
+        "id": "29edd28e-c837-4354-b1fb-b92c904eab8e",
+        "word": "squirrel",
+        "phonetic": "skwɜːl ",
+        "type": "noun",
+        "defineEn": "a furry animal with a thick tail that lives in trees and feeds on nuts and seeds",
+        "defineVi": "một con vật có lông với cái đuôi dày sống trên cây và ăn các loại hạt và hạt",
+        "hasImg": true
+    },
+    {
+        "id": "136ecf5a-2a3d-4989-a778-ad832d763aac",
+        "word": "lemming",
+        "phonetic": "lɛmɪŋ ",
+        "type": "noun",
+        "defineEn": "a small furry rodent with a short tail that migrate in large numbers and could be found near the Arctic",
+        "defineVi": "một loài gặm nhấm lông nhỏ có đuôi ngắn di cư với số lượng lớn và có thể được tìm thấy gần Bắc Cực",
+        "hasImg": true
+    },
+    {
+        "id": "5f46d528-60d4-4f5b-92d4-33de347917be",
+        "word": "chinchilla",
+        "phonetic": "tʃɪntʃɪlə ",
+        "type": "noun",
+        "defineEn": "a small South American rodent with grayish fur and rabbit-like ears",
+        "defineVi": "một loài gặm nhấm nhỏ ở Nam Mỹ với bộ lông màu xám và đôi tai giống thỏ",
+        "hasImg": true
+    },
+    {
+        "id": "6db75bad-4abc-4fcc-922e-98924949b1aa",
+        "word": "vole",
+        "phonetic": "voʊl ",
+        "type": "noun",
+        "defineEn": "a small rodent with a stout body and a short hairy tail that could be found in meadows and uplands",
+        "defineVi": "một loài gặm nhấm nhỏ với thân hình mập mạp và chiếc đuôi lông ngắn có thể được tìm thấy ở đồng cỏ và vùng cao",
+        "hasImg": true
+    },
+    {
+        "id": "df3f808e-6b02-4b0a-afbe-0faa000376fc",
+        "word": "coypu",
+        "phonetic": "kɔɪpuː ",
+        "type": "noun",
+        "defineEn": "a herbivorous semiaquatic rodent that is relatively large, originated in South America",
+        "defineVi": "một loài gặm nhấm bán thủy sinh ăn cỏ tương đối lớn, có nguồn gốc từ Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "ebef7a6d-a2a6-4428-9b21-4a5e9aed3329",
+        "word": "beaver",
+        "phonetic": "biːvɚ ",
+        "type": "noun",
+        "defineEn": "a semiaquatic rodent with a wide tail and strong teeth that builds dams across streams and is mainly found in the Northern hemisphere",
+        "defineVi": "một loài gặm nhấm bán thủy sinh có đuôi rộng và hàm răng chắc khỏe, chuyên xây đập qua các dòng suối và chủ yếu được tìm thấy ở Bắc bán cầu",
+        "hasImg": true
+    },
+    {
+        "id": "e9e66f33-bc02-4fcb-b3be-247d4416201e",
+        "word": "groundhog",
+        "phonetic": "ɡɹaʊndhɑːɡ ",
+        "type": "noun",
+        "defineEn": "a furry rodent of the family of ground squirrels, also known as marmots, that is originated in North America",
+        "defineVi": "một loài gặm nhấm có lông thuộc họ sóc đất, còn được gọi là marmots, có nguồn gốc từ Bắc Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "60154633-5da0-4d1a-b48c-036b0786d903",
+        "word": "flying squirrel",
+        "phonetic": "flaɪɪŋ skwɜːl ",
+        "type": "noun",
+        "defineEn": "a small North American animal that is like a squirrel and can leap between trees by stretching the skin between its limbs",
+        "defineVi": "một loài động vật nhỏ ở Bắc Mỹ giống như một con sóc và có thể nhảy giữa các cây bằng cách kéo căng da giữa các chi của nó",
+        "hasImg": true
+    },
+    {
+        "id": "78116a51-e1b7-4c99-82cc-753f90d969dc",
+        "word": "mouse",
+        "phonetic": "maʊs ",
+        "type": "noun",
+        "defineEn": "a small animal that lives in fields or houses, and often has fur, a long furless thin tail, and a pointed nose",
+        "defineVi": "một con vật nhỏ sống trên cánh đồng hoặc trong nhà, thường có lông, đuôi dài mỏng không có lông và mũi nhọn",
+        "hasImg": true
+    },
+    {
+        "id": "5a54a6cd-9529-4225-bcb4-136ac5920437",
+        "word": "dormouse",
+        "phonetic": "doːɹmaʊs ",
+        "type": "noun",
+        "defineEn": "a small rodent with a furry tail that lives in trees and is known for spending long periods in hibernation",
+        "defineVi": "một loài gặm nhấm nhỏ có đuôi lông sống trên cây và được biết là ngủ đông trong thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "bb347f33-3310-4ea8-aa50-f7fff4386c99",
+        "word": "pack rat",
+        "phonetic": "pæk ɹæt ",
+        "type": "noun",
+        "defineEn": "any rodent that hoards food in its nest which has a bushy long tail, large ears and is native to North and Central America",
+        "defineVi": "bất kỳ loài gặm nhấm nào tích trữ thức ăn trong tổ của nó có đuôi dài rậm rạp, tai lớn và có nguồn gốc từ Bắc và Trung Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "a18e5836-6972-4b0b-8a80-8438c61c5cc7",
+        "word": "water rat",
+        "phonetic": "wɔːɾɚ ɹæt ",
+        "type": "noun",
+        "defineEn": "an amphibious rodent that lives in a hole near lakes or rivers and is native to Australia",
+        "defineVi": "một loài gặm nhấm lưỡng cư sống trong một cái lỗ gần hồ hoặc sông và có nguồn gốc từ Úc",
+        "hasImg": true
+    },
+    {
+        "id": "f7118695-6806-4dcf-b210-70cb0f262e6a",
+        "word": "prairie dog",
+        "phonetic": "pɹɛɹi dɑːɡ ",
+        "type": "noun",
+        "defineEn": "a herbivorous rodent that lives in the ground, inhabiting the grasslands of North America",
+        "defineVi": "một loài gặm nhấm ăn cỏ sống trong lòng đất, sinh sống ở đồng cỏ Bắc Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "62887dea-764d-4385-ab76-ec3ca2f3da4e",
+        "word": "hamster",
+        "phonetic": "hæmstɚ ",
+        "type": "noun",
+        "defineEn": "a small animal of the rodent family, similar to a mouse, with a short tail and large cheeks for storing food",
+        "defineVi": "một loài động vật nhỏ thuộc họ gặm nhấm, tương tự như chuột, có đuôi ngắn và má lớn để đựng thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "630745f3-7a3d-4ac5-a30e-a7257d5739cd",
+        "word": "muskrat",
+        "phonetic": "mʌskɹæt ",
+        "type": "noun",
+        "defineEn": "a mid-sized semiaquatic rodent covered with brown fur that has a strong odor",
+        "defineVi": "một loài gặm nhấm bán thủy sinh cỡ trung bình được bao phủ bởi bộ lông màu nâu có mùi nồng",
+        "hasImg": true
+    },
+    {
+        "id": "b9cee9ef-eeea-4623-b804-950bd9872f3a",
+        "word": "mole rat",
+        "phonetic": "moʊl ɹæt ",
+        "type": "noun",
+        "defineEn": "a subterranean rodent with a cylindrical body, specialized dental structure, and unique behaviors for navigating and foraging in underground environments",
+        "defineVi": "một loài gặm nhấm dưới lòng đất có thân hình trụ, cấu trúc răng đặc biệt và các hành vi độc đáo để điều hướng và kiếm ăn trong môi trường dưới lòng đất"
+    },
+    {
+        "id": "5c86c4a3-1030-4698-80b3-512463439ebe",
+        "word": "kangaroo rat",
+        "phonetic": "kæŋɡɐɹuː ɹæt ",
+        "type": "noun",
+        "defineEn": "a subterranean rodent with a cylindrical body, specialized dental structure, and unique behaviors for navigating and foraging in underground environments",
+        "defineVi": "một loài gặm nhấm dưới lòng đất có thân hình trụ, cấu trúc răng đặc biệt và các hành vi độc đáo để điều hướng và kiếm ăn trong môi trường dưới lòng đất",
+        "hasImg": true
+    },
+    {
+        "id": "c7c4ba8f-3e6e-4c2a-a573-eece12fb356b",
+        "word": "sand rat",
+        "phonetic": "sænd ɹæt ",
+        "type": "noun",
+        "defineEn": "a species of rodent found in North Africa and the Middle East that is well-adapted to living in arid and sandy habitats",
+        "defineVi": "một loài gặm nhấm được tìm thấy ở Bắc Phi và Trung Đông thích nghi tốt với môi trường sống khô cằn và cát"
+    },
+    {
+        "id": "f8086d21-5aae-4fb4-86bd-42162a32b463",
+        "word": "black rat",
+        "phonetic": "blæk ɹæt ",
+        "type": "noun",
+        "defineEn": "a medium-sized rodent with a slender body, large ears, and a long tail, typically found in urban and rural areas",
+        "defineVi": "một loài gặm nhấm cỡ trung bình với thân hình mảnh khảnh, đôi tai lớn và chiếc đuôi dài, thường được tìm thấy ở khu vực thành thị và nông thôn",
+        "hasImg": true
+    },
+    {
+        "id": "e1dfae4e-12a1-4c4a-8918-6c5a2adf2938",
+        "word": "cotton rat",
+        "phonetic": "kɑːʔn̩ ɹæt ",
+        "type": "noun",
+        "defineEn": "a small to medium-sized rodent with a stocky body, short tail, and dense fur that is typically found in grasslands and shrublands",
+        "defineVi": "một loài gặm nhấm cỡ nhỏ đến trung bình với thân hình chắc nịch, đuôi ngắn và bộ lông rậm rạp thường được tìm thấy ở đồng cỏ và vùng cây bụi",
+        "hasImg": true
+    },
+    {
+        "id": "2ffaff5f-f19c-4b93-a484-2958d808c0b5",
+        "word": "eastern woodrat",
+        "phonetic": "iːstɚn wʊdɹæt ",
+        "type": "noun",
+        "defineEn": "a solitary, nocturnal rat species native to eastern and central North America known for its elaborate nests made of sticks and hoarding behavior",
+        "defineVi": "một loài chuột sống đơn độc, sống về đêm, có nguồn gốc từ miền đông và miền trung Bắc Mỹ, được biết đến với những chiếc tổ phức tạp làm bằng que và hành vi tích trữ"
+    },
+    {
+        "id": "9816e816-3134-4170-8e32-5fb72b9de0df",
+        "word": "jerboa rat",
+        "phonetic": "dʒɜːboʊɚ ɹæt ",
+        "type": "noun",
+        "defineEn": "a small, nocturnal rodent found in arid regions of Asia and Northern Africa, known for its unique long hind legs",
+        "defineVi": "một loài gặm nhấm nhỏ sống về đêm được tìm thấy ở các vùng khô cằn ở Châu Á và Bắc Phi, được biết đến với đôi chân sau dài độc đáo"
+    },
+    {
+        "id": "1085196f-606e-488d-98d7-6e699c90bd39",
+        "word": "zokor",
+        "phonetic": "zɑːkɚ ",
+        "type": "noun",
+        "defineEn": "a burrowing rodent species found in Asia, known for their cylindrical body shape, powerful digging claws, and underground lifestyle",
+        "defineVi": "một loài gặm nhấm đào hang được tìm thấy ở châu Á, được biết đến với hình dạng cơ thể hình trụ, móng vuốt đào khỏe và lối sống dưới lòng đất"
+    },
+    {
+        "id": "6e59e886-7d28-46ac-9c80-4b99df3bbec2",
+        "word": "xerus",
+        "phonetic": "zɛɹəs ",
+        "type": "noun",
+        "defineEn": "a genus of ground squirrel found in Africa, known for their social behavior and adaptation to living in arid and semi-arid habitats",
+        "defineVi": "một chi sóc đất được tìm thấy ở Châu Phi, được biết đến với hành vi xã hội và sự thích nghi với việc sống trong môi trường khô cằn và bán khô cằn",
+        "hasImg": true
+    },
+    {
+        "id": "2eab6ed4-51f7-48fd-a231-2fd405a86ac4",
+        "word": "ground squirrel",
+        "phonetic": "ɡɹaʊnd skwɜːl ",
+        "type": "noun",
+        "defineEn": "a small to medium-sized rodent that burrows underground, hibernates during winter, and feeds on seeds, nuts, fruits, and vegetation",
+        "defineVi": "một loài gặm nhấm cỡ nhỏ đến trung bình đào hang dưới lòng đất, ngủ đông trong mùa đông và ăn hạt, quả hạch, trái cây và thực vật"
+    },
+    {
+        "id": "cfef1ff3-2fbf-43c0-ae78-e5326db5f681",
+        "word": "Syrian hamster",
+        "phonetic": "sɪɹiən hæmstɚ ",
+        "type": "noun",
+        "defineEn": "a small nocturnal rodent that is commonly kept as a pet, known for its solitary nature and distinctive cheek pouches used for storing food",
+        "defineVi": "một loài gặm nhấm nhỏ sống về đêm thường được nuôi làm thú cưng, được biết đến với bản chất sống đơn độc và túi má đặc biệt được sử dụng để đựng thức ăn"
+    },
+    {
+        "id": "dcb32bed-5fba-4aac-986e-e90cebca2e05",
+        "word": "rock hyrax",
+        "phonetic": "ɹɑːk haɪɹæks ",
+        "type": "noun",
+        "defineEn": "a small, thickset mammal native to Africa and the Middle East, known for its rock-dwelling habits and unique social structure",
+        "defineVi": "một loài động vật có vú nhỏ, dày đặc, có nguồn gốc từ Châu Phi và Trung Đông, được biết đến với thói quen sống trên đá và cấu trúc xã hội độc đáo"
+    },
+    {
+        "id": "dd10b3f2-8fdd-4c92-893d-e5d52b0ec2b9",
+        "word": "red squirrel",
+        "phonetic": "ɹɛd skwɜːl ",
+        "type": "noun",
+        "defineEn": "a small mammal with a reddish-brown coat, tufted ears, and a long, bushy tail, known for its agility and arboreal lifestyle",
+        "defineVi": "một loài động vật có vú nhỏ với bộ lông màu nâu đỏ, đôi tai cụp và chiếc đuôi dài rậm rạp, được biết đến với sự nhanh nhẹn và lối sống sống trên cây"
+    },
+    {
+        "id": "04f6bcad-4e9d-409c-9110-bbb8037fc069",
+        "word": "pika",
+        "phonetic": "piːkə ",
+        "type": "noun",
+        "defineEn": "a small, herbivorous mammal characterized by its round body, short limbs, and short ears",
+        "defineVi": "một loài động vật có vú nhỏ, ăn cỏ, đặc trưng bởi thân hình tròn trịa, tứ chi ngắn và tai ngắn",
+        "hasImg": true
+    },
+    {
+        "id": "166df300-ee5e-4e37-ab95-0d69cbbf14e5",
+        "word": "grasshopper mouse",
+        "phonetic": "ɡɹæshɑːpɚ maʊs ",
+        "type": "noun",
+        "defineEn": "a small carnivorous rodent known for its unique feeding habits, aggressive behavior, and adaptability to arid environments",
+        "defineVi": "một loài gặm nhấm ăn thịt nhỏ được biết đến với thói quen kiếm ăn độc đáo, hành vi hung dữ và khả năng thích nghi với môi trường khô cằn"
+    },
+    {
+        "id": "bbbdb505-1518-4404-95ff-d3a57969b3a1",
+        "word": "gundi",
+        "phonetic": "ɡʌndi ",
+        "type": "noun",
+        "defineEn": "a small herbivorous mammal native to North Africa that is known for its distinctive appearance",
+        "defineVi": "một động vật có vú ăn cỏ nhỏ có nguồn gốc từ Bắc Phi được biết đến với vẻ ngoài đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "e6d61566-8b4a-465b-892b-8a36ca288e34",
+        "word": "viscacha",
+        "phonetic": "vɪskɑːtʃə ",
+        "type": "noun",
+        "defineEn": "a small mammal with a plump body, long bushy tail, and large ears, native to the highlands of South America",
+        "defineVi": "một loài động vật có vú nhỏ với thân hình mũm mĩm, đuôi dài rậm rạp và đôi tai lớn, có nguồn gốc từ vùng cao nguyên Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "7fad21a5-a000-4ac8-8642-bd22477eaa9d",
+        "word": "pacarana",
+        "phonetic": "pækɐɹɑːnə ",
+        "type": "noun",
+        "defineEn": "a large, herbivorous rodent species found in the rainforests of South America, known for their stocky build, distinctive facial markings, and unusual behavior of caching food in their fur",
+        "defineVi": "một loài gặm nhấm lớn, ăn cỏ được tìm thấy trong các khu rừng nhiệt đới ở Nam Mỹ, được biết đến với thân hình chắc nịch, các dấu hiệu đặc biệt trên khuôn mặt và hành vi bất thường là giấu thức ăn trong bộ lông của chúng"
+    },
+    {
+        "id": "8167335d-ca11-4842-9f78-a1416debbd4e",
+        "word": "cavy",
+        "phonetic": "keɪvi ",
+        "type": "noun",
+        "defineEn": "a small, herbivorous rodent native to South America, often kept as a gentle and social pet",
+        "defineVi": "một loài gặm nhấm nhỏ, ăn cỏ có nguồn gốc từ Nam Mỹ, thường được nuôi như thú cưng hòa đồng và hiền lành"
+    },
+    {
+        "id": "9be36e09-3e38-433f-80c9-ff8317195836",
+        "word": "mara",
+        "phonetic": "mɑːɹɹə ",
+        "type": "noun",
+        "defineEn": "a large herbivorous rodent native to South America, resembling a small deer or a hare",
+        "defineVi": "một loài gặm nhấm ăn cỏ lớn có nguồn gốc từ Nam Mỹ, giống như một con nai nhỏ hoặc thỏ rừng",
+        "hasImg": true
+    },
+    {
+        "id": "406b1a3f-cf73-4952-9fd2-077c0ac600a3",
+        "word": "agouti",
+        "phonetic": "æɡaʊɾi ",
+        "type": "noun",
+        "defineEn": "a medium-sized rodent found in Central and South America known for its stocky body, short legs",
+        "defineVi": "một loài gặm nhấm cỡ trung bình được tìm thấy ở Trung và Nam Mỹ được biết đến với thân hình chắc nịch, đôi chân ngắn",
+        "hasImg": true
+    },
+    {
+        "id": "1380b0ab-52e8-434c-9183-be6781a615c4",
+        "word": "deer mouse",
+        "phonetic": "dɪɹ maʊs ",
+        "type": "noun",
+        "defineEn": "a small, nocturnal rodent found in North and Central America known for its distinctive coloring",
+        "defineVi": "một loài gặm nhấm nhỏ, sống về đêm được tìm thấy ở Bắc và Trung Mỹ được biết đến với màu sắc đặc biệt"
+    },
+    {
+        "id": "de1a33b1-2164-49a2-800b-851117d2dbe8",
+        "word": "paca",
+        "phonetic": "pɑːkə ",
+        "type": "noun",
+        "defineEn": "a large, nocturnal rodent native to Central and South America, known for its stocky build, dark fur",
+        "defineVi": "một loài gặm nhấm lớn, sống về đêm, có nguồn gốc từ Trung và Nam Mỹ, được biết đến với thân hình chắc nịch, bộ lông sẫm màu",
+        "hasImg": true
+    },
+    {
+        "id": "67971c6a-153a-454e-b25e-7d279fa08af1",
+        "word": "tuco-tuco",
+        "phonetic": "tuːkoʊtuːkoʊ ",
+        "type": "noun",
+        "defineEn": "a burrowing rodent species found in South America, known for their subterranean lifestyle, complex social structure, and unique vocalizations",
+        "defineVi": "một loài gặm nhấm đào hang được tìm thấy ở Nam Mỹ, được biết đến với lối sống ngầm, cấu trúc xã hội phức tạp và cách phát âm độc đáo",
+        "hasImg": true
+    },
+    {
+        "id": "6ffdf12e-b740-44d0-a9ad-4c4f22b438e1",
+        "word": "moonrat",
+        "phonetic": "muːnɹæt ",
+        "type": "noun",
+        "defineEn": "a species of rodent native to Southeast Asia",
+        "defineVi": "một loài gặm nhấm có nguồn gốc từ Đông Nam Á"
+    },
+    {
+        "id": "6770b9a7-62e0-4ea0-a341-95fdf7a5c794",
+        "word": "jird",
+        "phonetic": "dʒɜːd ",
+        "type": "noun",
+        "defineEn": "a small rodent found in regions of North Africa, the Middle East, and Central Asia, known for their burrowing behavior, stocky bodies, and omnivorous diet",
+        "defineVi": "một loài gặm nhấm nhỏ được tìm thấy ở các khu vực Bắc Phi, Trung Đông và Trung Á, được biết đến với hành vi đào hang, cơ thể chắc nịch và chế độ ăn tạp"
+    },
+    {
+        "id": "7c9f1691-7af1-4f15-9387-d3bafc37b8b7",
+        "word": "meriones",
+        "phonetic": "mɪɹiənz ",
+        "type": "noun",
+        "defineEn": "a genus of small rodent species in the gerbil subfamily, found in Asia and North Africa, known for their desert adaptations and importance as laboratory animals in biomedical research",
+        "defineVi": "một chi gồm các loài gặm nhấm nhỏ trong phân họ chuột nhảy, được tìm thấy ở châu Á và Bắc Phi, được biết đến với khả năng thích nghi ở sa mạc và tầm quan trọng của chúng như động vật thí nghiệm trong nghiên cứu y sinh"
+    },
+    {
+        "id": "3946b04d-2979-4e86-ab33-4d1e9f50ef68",
+        "word": "vlei rat",
+        "phonetic": "viːleɪ ɹæt ",
+        "type": "noun",
+        "defineEn": "a semi-aquatic rodent species found in southern Africa, known for their adaptations to wetland habitats and important ecological roles as seed dispersers and ecosystem engineers",
+        "defineVi": "một loài gặm nhấm bán thủy sinh được tìm thấy ở miền nam châu Phi, được biết đến với khả năng thích nghi với môi trường đất ngập nước và vai trò sinh thái quan trọng như phân tán hạt giống và kỹ sư hệ sinh thái"
+    },
+    {
+        "id": "fa686149-41cc-4b68-a8a5-82f301e7b366",
+        "word": "oryzomys",
+        "phonetic": "ɔːɹɪzəmiz ",
+        "type": "noun",
+        "defineEn": "a genus of small, semi-aquatic rats found in the Americas, associated with wetland habitats, known for their omnivorous diet and important role in ecosystems",
+        "defineVi": "một chi chuột nhỏ, bán thủy sinh được tìm thấy ở châu Mỹ, liên quan đến môi trường sống vùng đất ngập nước, được biết đến với chế độ ăn tạp và vai trò quan trọng trong hệ sinh thái"
+    },
+    {
+        "id": "42a5d269-dc2b-4f7c-95f3-d112c4527ea7",
+        "word": "hutia",
+        "phonetic": "hjuːʃə ",
+        "type": "noun",
+        "defineEn": "a group of large, herbivorous rodent species found in the Caribbean, known for their distinctive appearance and ecological roles as seed dispersers and ecosystem engineers",
+        "defineVi": "một nhóm các loài gặm nhấm lớn, ăn cỏ được tìm thấy ở vùng biển Caribe, được biết đến với vẻ ngoài đặc biệt và vai trò sinh thái với tư cách là người phân tán hạt giống và kỹ sư hệ sinh thái",
+        "hasImg": true
+    },
+    {
+        "id": "f4b80d0d-37ed-4e4c-a97c-fcb9fece1f5f",
+        "word": "spiny mouse",
+        "phonetic": "spaɪni maʊs ",
+        "type": "noun",
+        "defineEn": "a small, nocturnal rodent species found in Africa and the Middle East, known for their spiny fur and ability to survive in arid environments",
+        "defineVi": "một loài gặm nhấm nhỏ, sống về đêm được tìm thấy ở Châu Phi và Trung Đông, được biết đến với bộ lông gai và khả năng sống sót trong môi trường khô cằn"
+    }
+]

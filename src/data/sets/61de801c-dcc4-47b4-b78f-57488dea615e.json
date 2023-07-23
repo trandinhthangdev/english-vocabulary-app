@@ -1,0 +1,305 @@
+[
+    {
+        "id": "177a39b6-4e72-46a5-bd83-e019c0402737",
+        "word": "cleaning",
+        "phonetic": "kliːnɪŋ ",
+        "type": "noun",
+        "defineEn": "the action or process of making something, especially inside a house, etc. clean",
+        "defineVi": "hành động hoặc quá trình làm một cái gì đó, đặc biệt là bên trong một ngôi nhà, v.v. sạch sẽ",
+        "hasImg": true
+    },
+    {
+        "id": "66a0c9b7-09c7-426e-b97f-21e4da304bb0",
+        "word": "housework",
+        "phonetic": "haʊswɜːk ",
+        "type": "noun",
+        "defineEn": "regular work done in a house, especially cleaning, washing, etc.",
+        "defineVi": "công việc thường xuyên được thực hiện trong nhà, đặc biệt là dọn dẹp, giặt giũ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f52b537a-7e87-4deb-bbe8-4ffb136c18cc",
+        "word": "spring-cleaning",
+        "phonetic": "spɹɪŋkliːnɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of thoroughly cleaning  a room or house, especially before the arrival of Spring and including parts one does not usually clean",
+        "defineVi": "hành động dọn dẹp kỹ lưỡng căn phòng hoặc ngôi nhà, đặc biệt là trước khi mùa xuân đến và bao gồm cả những phần mà người ta thường không dọn dẹp"
+    },
+    {
+        "id": "be1629f4-38b0-46db-bcde-c11b5360ef14",
+        "word": "dishwashing",
+        "phonetic": "dɪʃwɑːʃɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of cleaning and sanitizing dishes, utensils, and cookware using water, detergent, and sometimes a dishwasher machine",
+        "defineVi": "quá trình làm sạch và vệ sinh bát đĩa, đồ dùng và dụng cụ nấu ăn bằng nước, chất tẩy rửa và đôi khi là máy rửa chén"
+    },
+    {
+        "id": "1ee4ddb6-6c00-4628-9031-a038b7ff41a8",
+        "word": "grocery shopping",
+        "phonetic": "ɡɹoʊsɚɹi ʃɑːpɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of purchasing food and other household items from a grocery store or supermarket to meet one's household needs",
+        "defineVi": "hành động mua thực phẩm và các đồ gia dụng khác từ cửa hàng tạp hóa hoặc siêu thị để đáp ứng nhu cầu gia đình của một người"
+    },
+    {
+        "id": "c2336331-4502-44d1-8f81-f2f00e59e750",
+        "word": "chore",
+        "phonetic": "tʃoːɹ ",
+        "type": "noun",
+        "defineEn": "a task, especially a household one, that is done regularly",
+        "defineVi": "một nhiệm vụ, đặc biệt là một hộ gia đình, được thực hiện thường xuyên",
+        "hasImg": true
+    },
+    {
+        "id": "811bc7da-c902-49a0-a49b-8304f683dd66",
+        "word": "yardwork",
+        "phonetic": "jɑːɹdwɜːk ",
+        "type": "noun",
+        "defineEn": "the physical labor of maintaining and beautifying an outdoor space, including tasks like mowing, pruning, weeding, planting, and general landscaping",
+        "defineVi": "lao động thể chất để duy trì và làm đẹp không gian ngoài trời, bao gồm các công việc như cắt cỏ, tỉa cành, nhổ cỏ, trồng cây và tạo cảnh quan chung"
+    },
+    {
+        "id": "cc37b190-27ef-40f9-b42a-104319c1be37",
+        "word": "domestic",
+        "phonetic": "dəmɛstɪk ",
+        "type": "noun",
+        "defineEn": "a person who is employed to perform household tasks within a residence, such as cleaning, cooking, and other domestic duties",
+        "defineVi": "một người được tuyển dụng để thực hiện các công việc gia đình trong nơi cư trú, chẳng hạn như dọn dẹp, nấu ăn và các nhiệm vụ gia đình khác",
+        "hasImg": true
+    },
+    {
+        "id": "57647b56-cbaa-4ad1-81cd-3b7a6c30c5cf",
+        "word": "domesticity",
+        "phonetic": "dəmɪstɪsᵻɾi ",
+        "type": "noun",
+        "defineEn": "the state or quality of being focused on home life, family, and the activities associated with maintaining a household",
+        "defineVi": "trạng thái hoặc chất lượng tập trung vào cuộc sống gia đình, gia đình và các hoạt động liên quan đến việc duy trì hộ gia đình"
+    },
+    {
+        "id": "8180c806-7d8d-460e-9b75-3c5113eef59d",
+        "word": "odd job",
+        "phonetic": "ɑːd dʒɑːb ",
+        "type": "noun",
+        "defineEn": "a single miscellaneous task or chore, typically small in scale and unrelated to one's primary occupation or job",
+        "defineVi": "một nhiệm vụ hoặc công việc linh tinh duy nhất, thường có quy mô nhỏ và không liên quan đến nghề nghiệp hoặc công việc chính của một người"
+    },
+    {
+        "id": "d42c514f-359a-4385-83ce-9c479eda6927",
+        "word": "home repair",
+        "phonetic": "hoʊm ɹᵻpɛɹ ",
+        "type": "noun",
+        "defineEn": "the process of fixing or addressing damages, defects, and malfunctions in a residential property to restore its functionality and safety",
+        "defineVi": "quá trình sửa chữa hoặc giải quyết các hư hỏng, khiếm khuyết và trục trặc trong tài sản dân cư để khôi phục chức năng và sự an toàn của nó"
+    },
+    {
+        "id": "a7166d7d-9db1-4b99-9c5d-f2046bd8bb45",
+        "word": "to dust",
+        "phonetic": "tə dʌst ",
+        "type": "verb",
+        "defineEn": "to use a soft cloth to remove dust from the surface of something like pieces of furniture",
+        "defineVi": "để sử dụng một miếng vải mềm để loại bỏ bụi từ bề mặt của một cái gì đó giống như mảnh đồ nội thất",
+        "hasImg": true
+    },
+    {
+        "id": "0e81ff56-2e0f-405d-8713-af5b0c4b9f82",
+        "word": "to recycle",
+        "phonetic": "tə ɹᵻsaɪkəl ",
+        "type": "verb",
+        "defineEn": "to make a waste product usable again",
+        "defineVi": "để làm cho một sản phẩm chất thải có thể sử dụng một lần nữa",
+        "hasImg": true
+    },
+    {
+        "id": "4e00c0fb-bc51-4a69-ab22-eb0e87faab46",
+        "word": "to mop",
+        "phonetic": "tə mɑːp ",
+        "type": "verb",
+        "defineEn": "to wash or wipe something using a mop",
+        "defineVi": "để rửa hoặc lau một cái gì đó bằng cách sử dụng cây lau nhà",
+        "hasImg": true
+    },
+    {
+        "id": "86c7929f-bc98-4cfd-9f75-b9d2906a929c",
+        "word": "to polish",
+        "phonetic": "tə pɑːlɪʃ ",
+        "type": "verb",
+        "defineEn": "to rub the surface of something, mostly by using a brush or a piece of cloth, to make it bright, smooth, and shiny",
+        "defineVi": "để chà bề mặt của một cái gì đó, chủ yếu bằng cách sử dụng một bàn chải hoặc một mảnh vải, để làm cho nó sáng, mịn và sáng bóng"
+    },
+    {
+        "id": "354cf5ef-2cbc-4a3a-9c44-20683fce8820",
+        "word": "to vacuum",
+        "phonetic": "tə vækjuːm ",
+        "type": "verb",
+        "defineEn": "to use a vacuum cleaner to clean a place",
+        "defineVi": "sử dụng máy hút bụi để làm sạch một nơi",
+        "hasImg": true
+    },
+    {
+        "id": "b6d3c545-05cc-458f-823e-73c6994ee0fa",
+        "word": "to wash",
+        "phonetic": "tə wɑːʃ ",
+        "type": "verb",
+        "defineEn": "to clean someone or something with water, often also with a type of soap",
+        "defineVi": "để làm sạch ai đó hoặc một cái gì đó với nước, thường cũng với một loại xà phòng",
+        "hasImg": true
+    },
+    {
+        "id": "4d8db551-aee8-4e2e-b809-25e9c4527b23",
+        "word": "to scrub",
+        "phonetic": "tə skɹʌb ",
+        "type": "verb",
+        "defineEn": "to clean a surface by rubbing it very hard using a brush, etc.",
+        "defineVi": "để làm sạch một bề mặt bằng cách chà xát nó rất mạnh bằng bàn chải, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2709db41-1a54-402f-90dc-6512f93fff74",
+        "word": "to empty",
+        "phonetic": "tʊ ɛmpti ",
+        "type": "verb",
+        "defineEn": "to remove the contents of a container or space",
+        "defineVi": "để loại bỏ nội dung của một container hoặc không gian"
+    },
+    {
+        "id": "ce026b70-69b7-48ff-8672-9af2c0adebea",
+        "word": "to dry",
+        "phonetic": "tə dɹaɪ ",
+        "type": "verb",
+        "defineEn": "to remove moisture or dampness from something, usually by exposing it to heat or air currents",
+        "defineVi": "để loại bỏ độ ẩm hoặc độ ẩm từ một cái gì đó, thường là bằng cách để nó tiếp xúc với nhiệt hoặc luồng không khí",
+        "hasImg": true
+    },
+    {
+        "id": "739d6933-00d2-4f31-bfa8-96114868357e",
+        "word": "to wipe",
+        "phonetic": "tə waɪp ",
+        "type": "verb",
+        "defineEn": "to clean or dry a surface using a cloth, etc.",
+        "defineVi": "để làm sạch hoặc làm khô bề mặt bằng vải, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "41f49e0f-6c9e-4ed4-99d9-ba37659e551c",
+        "word": "to fold",
+        "phonetic": "tə foʊld ",
+        "type": "verb",
+        "defineEn": "to bend something in a way that one part of it touches or covers another",
+        "defineVi": "để uốn cong một cái gì đó trong một cách mà một phần của nó chạm vào hoặc bao phủ khác",
+        "hasImg": true
+    },
+    {
+        "id": "c792c5b4-ca17-465a-8b7f-72f69b04ae4f",
+        "word": "to cook",
+        "phonetic": "tə kʊk ",
+        "type": "verb",
+        "defineEn": "to make food with heat",
+        "defineVi": "để làm thức ăn với nhiệt",
+        "hasImg": true
+    },
+    {
+        "id": "fdd67d4b-e5bc-427d-b31e-5f9fc9e40eb1",
+        "word": "to clean",
+        "phonetic": "tə kliːn ",
+        "type": "verb",
+        "defineEn": "to make something have no stains, bacteria, dust, marks, or dirt",
+        "defineVi": "để làm cho một cái gì đó không có vết bẩn, vi khuẩn, bụi, vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "5930c41c-624c-4a39-bc99-5de8cdb70614",
+        "word": "to organize",
+        "phonetic": "tʊ ɔːɹɡənaɪz ",
+        "type": "verb",
+        "defineEn": "to put things into a particular order or structure",
+        "defineVi": "để đưa mọi thứ vào một trật tự hoặc cấu trúc cụ thể"
+    },
+    {
+        "id": "94b84a8e-735f-4379-862c-dfed36ce7f8b",
+        "word": "to furnish",
+        "phonetic": "tə fɜːnɪʃ ",
+        "type": "verb",
+        "defineEn": "to equip a room, house, etc. with furniture",
+        "defineVi": "để trang bị cho một căn phòng, ngôi nhà, vv với đồ nội thất",
+        "hasImg": true
+    },
+    {
+        "id": "b0656acd-2ee6-4547-a181-1339dfff307d",
+        "word": "to dry up",
+        "phonetic": "tə dɹaɪ ʌp ",
+        "type": "verb",
+        "defineEn": "to lose moisture or become dry, often referring to the evaporation or removal of liquid from something",
+        "defineVi": "mất độ ẩm hoặc trở nên khô, thường đề cập đến sự bay hơi hoặc loại bỏ chất lỏng từ một cái gì đó"
+    },
+    {
+        "id": "a9ccc388-18df-42fe-bede-99fa53aa503c",
+        "word": "to iron",
+        "phonetic": "tʊ aɪɚn ",
+        "type": "verb",
+        "defineEn": "to use an iron to smooth a piece of cloth",
+        "defineVi": "sử dụng bàn ủi để làm mịn một mảnh vải",
+        "hasImg": true
+    },
+    {
+        "id": "72fc35cf-ab04-448d-94cc-1f377c5f8e3a",
+        "word": "to unload",
+        "phonetic": "tʊ ʌnloʊd ",
+        "type": "verb",
+        "defineEn": "to remove things or goods from a container, vehicle, etc.",
+        "defineVi": "để loại bỏ những thứ hoặc hàng hóa từ một container, xe, vv",
+        "hasImg": true
+    },
+    {
+        "id": "30b9687f-4866-4aa6-abcf-3874f3ac4bf9",
+        "word": "to drip-dry",
+        "phonetic": "tə dɹɪpdɹaɪ ",
+        "type": "verb",
+        "defineEn": "to allow wet clothes to dry by hanging them up without wringing them out",
+        "defineVi": "để cho quần áo ướt khô bằng cách treo chúng lên mà không vắt chúng ra",
+        "hasImg": true
+    },
+    {
+        "id": "f42d9291-dbd0-462b-a8e3-18caaf5eeb15",
+        "word": "to press",
+        "phonetic": "tə pɹɛs ",
+        "type": "verb",
+        "defineEn": "to apply pressure to something by a heated iron in order to smooth it",
+        "defineVi": "để tạo áp lực cho một cái gì đó bằng một bàn ủi nóng để làm mịn nó",
+        "hasImg": true
+    },
+    {
+        "id": "1cf23056-0512-4046-9c47-4b21660ccdfb",
+        "word": "to wet",
+        "phonetic": "tə wɛt ",
+        "type": "verb",
+        "defineEn": "to make something damp or moist by applying water or another liquid",
+        "defineVi": "để làm cho một cái gì đó ẩm ướt hoặc ẩm ướt bằng cách áp dụng nước hoặc chất lỏng khác",
+        "hasImg": true
+    },
+    {
+        "id": "13450425-e9ad-4366-b469-397814a4269a",
+        "word": "to unfold",
+        "phonetic": "tʊ ʌnfoʊld ",
+        "type": "verb",
+        "defineEn": "to open or spread out from a folded state or compact form",
+        "defineVi": "để mở hoặc trải ra từ trạng thái gấp hoặc dạng nhỏ gọn"
+    },
+    {
+        "id": "52d3f621-000a-4875-a3c8-dce591f78378",
+        "word": "to launder",
+        "phonetic": "tə lɔːndɚ ",
+        "type": "verb",
+        "defineEn": "to wash, clean, and iron clothes and linens",
+        "defineVi": "để giặt, làm sạch và ủi quần áo và khăn trải giường",
+        "hasImg": true
+    },
+    {
+        "id": "f740e884-27f5-48cb-9c68-03f44ad2f3b9",
+        "word": "to sweep",
+        "phonetic": "tə swiːp ",
+        "type": "verb",
+        "defineEn": "to clean a place by using a broom",
+        "defineVi": "để làm sạch một nơi bằng cách sử dụng một cây chổi",
+        "hasImg": true
+    }
+]

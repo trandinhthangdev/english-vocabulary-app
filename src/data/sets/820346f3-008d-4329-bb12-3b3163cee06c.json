@@ -1,0 +1,518 @@
+[
+    {
+        "id": "580bb292-f60b-4216-88c8-4851629a3260",
+        "word": "haberdashery",
+        "phonetic": "hæbɚdæʃɚɹi ",
+        "type": "noun",
+        "defineEn": "items of clothing and accessories for men",
+        "defineVi": "các mặt hàng quần áo và phụ kiện cho nam giới",
+        "hasImg": true
+    },
+    {
+        "id": "356efcb4-a016-42ac-a597-9d1b1553c9a5",
+        "word": "ladder",
+        "phonetic": "lædɚ ",
+        "type": "noun",
+        "defineEn": "a long row of torn fabric in tights or stockings",
+        "defineVi": "một hàng dài vải rách trong quần hoặc vớ",
+        "hasImg": true
+    },
+    {
+        "id": "14a95c8d-c923-447b-b967-acafef2a6e34",
+        "word": "pleat",
+        "phonetic": "pliːt ",
+        "type": "noun",
+        "defineEn": "a kind of fold in a piece of cloth that is doubled over on itself and fixed in its place",
+        "defineVi": "một loại nếp gấp trong một mảnh vải được gấp đôi và cố định vào vị trí của nó",
+        "hasImg": true
+    },
+    {
+        "id": "c67cba1f-739a-4bb4-a850-32fc6549f8dd",
+        "word": "finery",
+        "phonetic": "faɪnɚɹi ",
+        "type": "noun",
+        "defineEn": "expensive or showy clothes and accessories, especially those worn on special occasions",
+        "defineVi": "quần áo và phụ kiện đắt tiền hoặc sặc sỡ, đặc biệt là những thứ được mặc vào những dịp đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "b16c62de-59dc-4db2-a746-24c8c9697bad",
+        "word": "fit",
+        "phonetic": "fɪt ",
+        "type": "noun",
+        "defineEn": "the way in which a piece of clothing fits the wearer",
+        "defineVi": "cách mà một mảnh quần áo phù hợp với người mặc",
+        "hasImg": true
+    },
+    {
+        "id": "86b75df3-ec8f-4436-b45b-90be50e2ddb2",
+        "word": "rainwear",
+        "phonetic": "ɹeɪnwɛɹ ",
+        "type": "noun",
+        "defineEn": "clothes made of waterproof material, keeping us dry in the rain",
+        "defineVi": "quần áo làm bằng vật liệu không thấm nước, giữ cho chúng ta khô ráo trong mưa",
+        "hasImg": true
+    },
+    {
+        "id": "6bf11a4f-7864-4940-a0b8-7a4e56be6fc0",
+        "word": "loungewear",
+        "phonetic": "laʊndʒjuːɛɹ ",
+        "type": "noun",
+        "defineEn": "a type of comfortable clothing suitable for relaxing or lounging at home",
+        "defineVi": "một loại quần áo thoải mái phù hợp để thư giãn hoặc nằm dài ở nhà",
+        "hasImg": true
+    },
+    {
+        "id": "0495d8e3-bd10-49cf-a8dd-bde4dfea7cea",
+        "word": "leisurewear",
+        "phonetic": "lɛsɚwɛɹ ",
+        "type": "noun",
+        "defineEn": "casual clothing designed to be worn while relaxing or playing sports",
+        "defineVi": "quần áo bình thường được thiết kế để mặc khi thư giãn hoặc chơi thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "96970ae5-d9e0-472b-974e-3f9644358c70",
+        "word": "nightwear",
+        "phonetic": "naɪtwɛɹ ",
+        "type": "noun",
+        "defineEn": "pieces of clothing designed to be worn in bed",
+        "defineVi": "mảnh quần áo được thiết kế để mặc trên giường",
+        "hasImg": true
+    },
+    {
+        "id": "bbdb4d71-db09-43f5-be2a-876ac20851e6",
+        "word": "womenswear",
+        "phonetic": "wɪmɪnswɛɹ ",
+        "type": "noun",
+        "defineEn": "clothing for women",
+        "defineVi": "quần áo cho phụ nữ",
+        "hasImg": true
+    },
+    {
+        "id": "0b42f0b1-44d2-48a4-94df-75490a14cb2b",
+        "word": "footwear",
+        "phonetic": "fʊtwɛɹ ",
+        "type": "noun",
+        "defineEn": "things worn on the feet, such as shoes, boots, etc.",
+        "defineVi": "những thứ mang trên chân, chẳng hạn như giày, ủng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "24a786b0-d0fb-4fee-9bfe-932b3e79a9ff",
+        "word": "menswear",
+        "phonetic": "mɛnswɛɹ ",
+        "type": "noun",
+        "defineEn": "clothing for men",
+        "defineVi": "quần áo cho nam giới",
+        "hasImg": true
+    },
+    {
+        "id": "bdc3a7b5-2e00-4301-ba3a-40779ad54c87",
+        "word": "swimwear",
+        "phonetic": "swɪmwɛɹ ",
+        "type": "noun",
+        "defineEn": "clothing items designed to be worn while swimming",
+        "defineVi": "các mặt hàng quần áo được thiết kế để mặc khi bơi",
+        "hasImg": true
+    },
+    {
+        "id": "c730ac70-5c30-4216-b8f2-684a67fc2d28",
+        "word": "sportswear",
+        "phonetic": "spoːɹtswɛɹ ",
+        "type": "noun",
+        "defineEn": "the outfit worn outside casually or for sport activities",
+        "defineVi": "trang phục mặc bên ngoài tình cờ hoặc cho các hoạt động thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "cdf3e0d1-c873-4588-a7ff-d0d8a101401b",
+        "word": "outerwear",
+        "phonetic": "aʊɾɚwɛɹ ",
+        "type": "noun",
+        "defineEn": "items worn over other clothes, particularly when we are outdoors, such as jackets and coats",
+        "defineVi": "các mặt hàng mặc ngoài quần áo khác, đặc biệt là khi chúng ta ở ngoài trời, chẳng hạn như áo khoác và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "7690718b-614b-4aef-931c-739b000c360f",
+        "word": "underwear",
+        "phonetic": "ʌndɚwɛɹ ",
+        "type": "noun",
+        "defineEn": "clothes that we wear under all the other pieces of clothing right on top of our skin",
+        "defineVi": "quần áo mà chúng tôi mặc bên dưới tất cả các loại quần áo khác ngay trên da của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "34963ad3-0dad-44d5-8f67-f31571a9a39c",
+        "word": "attire",
+        "phonetic": "ɐtaɪɚ ",
+        "type": "noun",
+        "defineEn": "the clothes that someone is wearing for a special occasion",
+        "defineVi": "quần áo mà ai đó đang mặc cho một dịp đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "06bb4372-e784-4acd-a498-6a29a6b814bd",
+        "word": "coordinates",
+        "phonetic": "koʊɔːɹdᵻnəts ",
+        "type": "noun",
+        "defineEn": "a set of two or more items of clothing that are designed to be worn together and match in color, pattern, or style",
+        "defineVi": "một bộ gồm hai hoặc nhiều món quần áo được thiết kế để mặc cùng nhau và phù hợp về màu sắc, hoa văn hoặc phong cách",
+        "hasImg": true
+    },
+    {
+        "id": "9347564f-5ea7-4be4-90e0-88cc147505af",
+        "word": "chic",
+        "phonetic": "ʃiːk ",
+        "type": "noun",
+        "defineEn": "the quality of being elegant by style",
+        "defineVi": "chất lượng thanh lịch theo phong cách",
+        "hasImg": true
+    },
+    {
+        "id": "6f6be7fb-cf44-4cc0-802d-f191792d9b7a",
+        "word": "cut",
+        "phonetic": "kʌt ",
+        "type": "noun",
+        "defineEn": "the way a garment is cut, giving it a particular style",
+        "defineVi": "cách cắt quần áo, tạo cho nó một phong cách cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "d43e7e99-aca7-4ac1-a126-e3166285e97a",
+        "word": "hosiery",
+        "phonetic": "hoʊsɪɚɹi ",
+        "type": "noun",
+        "defineEn": "socks, stockings, and tights, particularly used to refer to such items in stores",
+        "defineVi": "vớ, vớ và quần bó, đặc biệt được dùng để chỉ những mặt hàng như vậy trong cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "3cb60ae5-e145-4289-bbee-8a59777e4476",
+        "word": "accessory",
+        "phonetic": "ɐksɛsɚɹi ",
+        "type": "noun",
+        "defineEn": "an item, such as a bag, hat, piece of jewelry, etc., that is worn or carried because it makes an outfit more beautiful or attractive",
+        "defineVi": "một món đồ, chẳng hạn như túi xách, mũ, đồ trang sức, v.v., được đeo hoặc mang theo vì nó làm cho bộ trang phục đẹp hơn hoặc hấp dẫn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "1e377727-4b05-4366-bf24-36fe51fc4c9c",
+        "word": "wardrobe",
+        "phonetic": "wɔːɹdɹoʊb ",
+        "type": "noun",
+        "defineEn": "all of the clothes that someone owns",
+        "defineVi": "tất cả quần áo mà ai đó sở hữu",
+        "hasImg": true
+    },
+    {
+        "id": "4c271e9d-ddc9-4506-8486-05eb9391d209",
+        "word": "wear",
+        "phonetic": "wɛɹ ",
+        "type": "noun",
+        "defineEn": "a piece of clothing for a particular event or purpose",
+        "defineVi": "một mảnh quần áo cho một sự kiện cụ thể hoặc mục đích",
+        "hasImg": true
+    },
+    {
+        "id": "2109968d-806a-4401-b3c8-ce92f9d9fd3d",
+        "word": "personal effects",
+        "phonetic": "pɜːsənəl ɪfɛkts ",
+        "type": "noun",
+        "defineEn": "a person's belongings such as jewelry, clothing, etc.",
+        "defineVi": "đồ đạc của một người như đồ trang sức, quần áo, vv",
+        "hasImg": true
+    },
+    {
+        "id": "35416cb4-f5dd-471f-b851-bdffb731ff4b",
+        "word": "clothes",
+        "phonetic": "kloʊðz ",
+        "type": "noun",
+        "defineEn": "the things we wear to cover our body, such as pants, shirts, and jackets",
+        "defineVi": "những thứ chúng ta mặc để che thân, chẳng hạn như quần, áo sơ mi và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "ad443a16-5ba6-47da-933c-3d4c982782cd",
+        "word": "clothing",
+        "phonetic": "kloʊðɪŋ ",
+        "type": "noun",
+        "defineEn": "the items that we wear, particularly a specific type of items",
+        "defineVi": "các mặt hàng mà chúng tôi mặc, đặc biệt là một loại mặt hàng cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "776d03aa-d169-402a-9964-13cfd2d1451d",
+        "word": "garment",
+        "phonetic": "ɡɑːɹmənt ",
+        "type": "noun",
+        "defineEn": "a piece of clothing",
+        "defineVi": "một mảnh quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "bc31483e-5342-4487-b1a5-e00b605fce92",
+        "word": "disguise",
+        "phonetic": "dɪsɡaɪz ",
+        "type": "noun",
+        "defineEn": "any item that is worn to change or alter the appearance or to hide someone's identity",
+        "defineVi": "bất kỳ mục nào được mặc để thay đổi hoặc thay đổi diện mạo hoặc để che giấu danh tính của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "db29a75a-7aee-4228-a52f-87cd11af9005",
+        "word": "pair",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a set of two matching items that are designed to be used together or regarded as one",
+        "defineVi": "một bộ gồm hai mục phù hợp được thiết kế để sử dụng cùng nhau hoặc được coi là một",
+        "hasImg": true
+    },
+    {
+        "id": "512c240d-9105-46fd-8fd7-f90d58dd6d93",
+        "word": "size",
+        "phonetic": "saɪz ",
+        "type": "noun",
+        "defineEn": "one of the standard measures according to which clothes and other goods are made or sold",
+        "defineVi": "một trong những biện pháp tiêu chuẩn theo đó quần áo và hàng hóa khác được sản xuất hoặc bán",
+        "hasImg": true
+    },
+    {
+        "id": "d04ac4f9-4d19-4b38-abab-f9788c7ef797",
+        "word": "rack",
+        "phonetic": "ɹæk ",
+        "type": "noun",
+        "defineEn": "a framework, typically with rails, hooks, or pegs, on which items can be hung",
+        "defineVi": "một khung, thường có đường ray, móc hoặc chốt, trên đó có thể treo các vật phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "265d1f6e-ec97-4062-9c65-62fc3fd8f772",
+        "word": "apparel",
+        "phonetic": "ɐpæɹəl ",
+        "type": "noun",
+        "defineEn": "clothes, used particularly when being sold",
+        "defineVi": "quần áo, được sử dụng đặc biệt khi được bán",
+        "hasImg": true
+    },
+    {
+        "id": "541eab89-b332-489d-8743-545d362dca85",
+        "word": "material",
+        "phonetic": "mətɪɹiəl ",
+        "type": "noun",
+        "defineEn": "cloth or fabric used to make different items of clothing",
+        "defineVi": "vải hoặc vải được sử dụng để làm các mặt hàng quần áo khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "7d0c8687-d99e-4657-a6a4-7bdc33de640b",
+        "word": "pattern",
+        "phonetic": "pætɚn ",
+        "type": "noun",
+        "defineEn": "an arrangement of shapes, colors, etc. regularly found on a surface, done as a design",
+        "defineVi": "sự sắp xếp các hình dạng, màu sắc, v.v. thường xuyên được tìm thấy trên một bề mặt, được thực hiện như một thiết kế",
+        "hasImg": true
+    },
+    {
+        "id": "2834ed2c-02f9-4635-8d92-2819f5090379",
+        "word": "flare",
+        "phonetic": "flɛɹ ",
+        "type": "noun",
+        "defineEn": "a shape that slightly widens toward the bottom",
+        "defineVi": "một hình dạng hơi mở rộng về phía dưới",
+        "hasImg": true
+    },
+    {
+        "id": "6f818616-4ad8-4880-afec-c3ffe00f8d68",
+        "word": "body piercing",
+        "phonetic": "bɑːdi pɪɹsɪŋ ",
+        "type": "noun",
+        "defineEn": "a hole made in a part of the body in order to insert a ring, stud ,etc. for ornamentation",
+        "defineVi": "một lỗ được tạo ra trên một phần của cơ thể để chèn một chiếc nhẫn, đinh tán, v.v. để trang trí",
+        "hasImg": true
+    },
+    {
+        "id": "8f3850c6-84c1-4df1-b241-61e4282db0d1",
+        "word": "jewelry",
+        "phonetic": "dʒuːəlɹi ",
+        "type": "noun",
+        "defineEn": "objects such as necklaces, bracelets or rings, typically made from precious metals (gold, silver, etc.) that we wear as decoration",
+        "defineVi": "các đồ vật như dây chuyền, vòng tay hoặc nhẫn, thường được làm từ kim loại quý (vàng, bạc, v.v.) mà chúng ta đeo để trang trí",
+        "hasImg": true
+    },
+    {
+        "id": "729b5426-7e84-4f81-9dd3-fa496629d8c8",
+        "word": "precious stone",
+        "phonetic": "pɹɛʃəs stoʊn ",
+        "type": "noun",
+        "defineEn": "a valuable stone that is cut and polished to be used in jewelry making",
+        "defineVi": "một loại đá có giá trị được cắt và đánh bóng để sử dụng làm đồ trang sức",
+        "hasImg": true
+    },
+    {
+        "id": "00a503d1-4337-4a05-9ab0-7cf39d1bffe2",
+        "word": "precious metal",
+        "phonetic": "pɹɛʃəs mɛɾəl ",
+        "type": "noun",
+        "defineEn": "a rare, naturally occurring metallic chemical element that has high economic value such as gold and silver",
+        "defineVi": "một nguyên tố hóa học kim loại hiếm, có trong tự nhiên, có giá trị kinh tế cao như vàng và bạc",
+        "hasImg": true
+    },
+    {
+        "id": "f528eb9d-d16a-40ff-9af7-36b65579ad9a",
+        "word": "denim",
+        "phonetic": "dɛnɪm ",
+        "type": "noun",
+        "defineEn": "(plural) jeans or other clothing made of denim",
+        "defineVi": "(số nhiều) quần jean hoặc quần áo khác làm bằng vải bò",
+        "hasImg": true
+    },
+    {
+        "id": "014a7c04-467a-4369-8c55-2008c16e8eb3",
+        "word": "rag",
+        "phonetic": "ɹæɡ ",
+        "type": "noun",
+        "defineEn": "a small piece of cloth or paper used for cleaning",
+        "defineVi": "một mảnh vải nhỏ hoặc giấy được sử dụng để làm sạch",
+        "hasImg": true
+    },
+    {
+        "id": "64dbd897-a479-4350-99a8-acaf2f063276",
+        "word": "plain clothes",
+        "phonetic": "pleɪn kloʊðz ",
+        "type": "noun",
+        "defineEn": "ordinary everyday clothing worn by individuals who are not in uniform or do not hold a specific dress code",
+        "defineVi": "quần áo thông thường hàng ngày được mặc bởi những cá nhân không mặc đồng phục hoặc không có quy định về trang phục cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "a98fcb59-59f9-4553-8eac-a446766eedb3",
+        "word": "work clothes",
+        "phonetic": "wɜːk kloʊðz ",
+        "type": "noun",
+        "defineEn": "clothing specifically designed to be worn while performing manual labor or other physical work",
+        "defineVi": "quần áo được thiết kế đặc biệt để mặc khi thực hiện lao động chân tay hoặc công việc thể chất khác",
+        "hasImg": true
+    },
+    {
+        "id": "17d19287-6775-45c8-a036-9771d6cd4b52",
+        "word": "fashion",
+        "phonetic": "fæʃən ",
+        "type": "noun",
+        "defineEn": "the styles and trends of clothing, accessories, makeup, and other items that are popular in a certain time and place",
+        "defineVi": "phong cách và xu hướng quần áo, phụ kiện, đồ trang điểm và các mặt hàng khác phổ biến ở một thời điểm và địa điểm nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "d46b1d0f-a59d-4587-a503-8081e7710626",
+        "word": "outfit",
+        "phonetic": "aʊtfɪt ",
+        "type": "noun",
+        "defineEn": "a set of clothes that one wears together, especially for an event or occasion",
+        "defineVi": "một bộ quần áo mà một người mặc cùng nhau, đặc biệt là cho một sự kiện hoặc dịp",
+        "hasImg": true
+    },
+    {
+        "id": "dbee5d00-4020-4264-8a6b-2165fbaef68c",
+        "word": "headgear",
+        "phonetic": "hɛdɡɪɹ ",
+        "type": "noun",
+        "defineEn": "any item of clothing that covers the head, such as a hat, helmet, etc.",
+        "defineVi": "bất kỳ mặt hàng quần áo nào che đầu, chẳng hạn như mũ, mũ bảo hiểm, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "198a314a-a9e1-4c94-9c84-6b5c68b66350",
+        "word": "petite",
+        "phonetic": "pətiːt ",
+        "type": "noun",
+        "defineEn": "small, delicate, or dainty clothes designed for women who are 5'3\" or under",
+        "defineVi": "quần áo nhỏ, thanh mảnh hoặc xinh xắn được thiết kế cho phụ nữ cao từ 1m53 trở xuống",
+        "hasImg": true
+    },
+    {
+        "id": "1ca81ab7-ee15-4e71-b68a-ce38b786bb46",
+        "word": "headdress",
+        "phonetic": "hɛddɹɛs ",
+        "type": "noun",
+        "defineEn": "a decorative covering worn on the head, typically worn as a symbol of status or cultural significance",
+        "defineVi": "một tấm phủ trang trí được đội trên đầu, thường được đội như một biểu tượng của địa vị hoặc ý nghĩa văn hóa",
+        "hasImg": true
+    },
+    {
+        "id": "34f2be2c-a9a0-46c6-b905-23a149519b8d",
+        "word": "label",
+        "phonetic": "leɪbəl ",
+        "type": "noun",
+        "defineEn": "the trade name of a company that makes designer clothes",
+        "defineVi": "tên thương mại của một công ty sản xuất quần áo thiết kế",
+        "hasImg": true
+    },
+    {
+        "id": "5b11d0ee-67e2-4e14-8562-0fe941d53e5c",
+        "word": "slip-on",
+        "phonetic": "slɪpɔn ",
+        "type": "noun",
+        "defineEn": "a type of shoe that can be easily put on without requiring laces or buckles",
+        "defineVi": "một loại giày có thể dễ dàng mang vào mà không cần dây buộc hoặc khóa",
+        "hasImg": true
+    },
+    {
+        "id": "e76bff00-3cb6-45de-ab11-64277f537b23",
+        "word": "widow\\'s weeds",
+        "phonetic": "wɪdoʊ bækslæʃ ɛs wiːdz ",
+        "type": "noun",
+        "defineEn": "mourning clothes worn by a widow, typically consisting of black garments and accessories",
+        "defineVi": "quần áo tang của một góa phụ, thường bao gồm quần áo và phụ kiện màu đen"
+    },
+    {
+        "id": "287ed3d6-8f09-44a7-9a51-79cf7bcc40ed",
+        "word": "white tie",
+        "phonetic": "waɪt taɪ ",
+        "type": "noun",
+        "defineEn": "a type of formal dress code for evening events, which includes a black tailcoat jacket, black pants, a white wing-collared shirt, a white bow tie, and black patent leather shoes",
+        "defineVi": "một loại trang phục chính thức cho các sự kiện buổi tối, bao gồm áo khoác đuôi tôm màu đen, quần đen, áo sơ mi cổ cánh màu trắng, cà vạt nơ trắng và giày da bóng màu đen"
+    },
+    {
+        "id": "98e12e4d-9c72-4d1f-91ba-29aa39535039",
+        "word": "uniform",
+        "phonetic": "juːnɪfɔːɹm ",
+        "type": "noun",
+        "defineEn": "the special set of clothes that all members of an organization or a group wear at work, or children wear at a particular school",
+        "defineVi": "bộ quần áo đặc biệt mà tất cả các thành viên của một tổ chức hoặc một nhóm mặc tại nơi làm việc hoặc trẻ em mặc tại một trường học cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "32d9fcdf-cf36-48d6-abd9-47921fb89034",
+        "word": "neckwear",
+        "phonetic": "nɛkwɛɹ ",
+        "type": "noun",
+        "defineEn": "any decorative item worn around the neck, such as ties, scarves, or necklaces",
+        "defineVi": "bất kỳ vật trang trí nào đeo quanh cổ, chẳng hạn như cà vạt, khăn quàng cổ hoặc dây chuyền"
+    },
+    {
+        "id": "2c41df15-5f1e-4c94-b33e-3d647debb220",
+        "word": "knitwear",
+        "phonetic": "nɪtwɛɹ ",
+        "type": "noun",
+        "defineEn": "clothing items made by interlocking yarn using knitting techniques such as sweaters, cardigans, and scarves",
+        "defineVi": "các mặt hàng quần áo được làm bằng sợi lồng vào nhau bằng kỹ thuật đan như áo len, áo len và khăn quàng cổ"
+    },
+    {
+        "id": "b2ec2df6-f07f-467b-9647-ac034ff205a1",
+        "word": "beachwear",
+        "phonetic": "biːtʃwɛɹ ",
+        "type": "noun",
+        "defineEn": "clothing and accessories worn for activities on or near the beach",
+        "defineVi": "quần áo và phụ kiện mặc cho các hoạt động trên hoặc gần bãi biển"
+    },
+    {
+        "id": "80a9f136-16cc-414b-ae7d-e0e12b20831e",
+        "word": "bottom",
+        "phonetic": "bɑːɾəm ",
+        "type": "noun",
+        "defineEn": "the lower half of an outfit, typically including pants, skirts, shorts, or other garments worn on the lower body",
+        "defineVi": "nửa dưới của trang phục, thường bao gồm quần dài, váy, quần soóc hoặc quần áo khác mặc ở phần dưới cơ thể"
+    }
+]

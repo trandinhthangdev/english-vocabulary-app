@@ -1,0 +1,445 @@
+[
+    {
+        "id": "42065d96-6b17-46e5-b073-b66b335d8900",
+        "word": "vixen",
+        "phonetic": "vɪksən ",
+        "type": "noun",
+        "defineEn": "the female of a fox",
+        "defineVi": "con cáo cái",
+        "hasImg": true
+    },
+    {
+        "id": "90a338e8-1f19-449c-a4a4-17652c6089cf",
+        "word": "lioness",
+        "phonetic": "laɪənɛs ",
+        "type": "noun",
+        "defineEn": "a female lion, typically smaller in size and lighter in weight than male lions, and is known for its hunting prowess",
+        "defineVi": "một con sư tử cái, thường có kích thước nhỏ hơn và trọng lượng nhẹ hơn sư tử đực, và được biết đến với khả năng săn mồi của nó",
+        "hasImg": true
+    },
+    {
+        "id": "51dcaf84-236a-4c85-919e-630d742482c4",
+        "word": "hen",
+        "phonetic": "hɛn ",
+        "type": "noun",
+        "defineEn": "a female chicken, kept for its meat or eggs",
+        "defineVi": "một con gà cái, được giữ để lấy thịt hoặc trứng",
+        "hasImg": true
+    },
+    {
+        "id": "ab45f023-7b8d-4a4e-b769-751e2ccd9616",
+        "word": "cock",
+        "phonetic": "kɑːk ",
+        "type": "noun",
+        "defineEn": "an adult male chicken; a rooster",
+        "defineVi": "một con gà trống trưởng thành; một con gà trống",
+        "hasImg": true
+    },
+    {
+        "id": "66fa20d1-ae35-4b12-a051-8936a9c74f36",
+        "word": "cockerel",
+        "phonetic": "kɑːkɚɹəl ",
+        "type": "noun",
+        "defineEn": "a young male chicken, aged under one year",
+        "defineVi": "một con gà đực non, tuổi dưới một năm",
+        "hasImg": true
+    },
+    {
+        "id": "b6111d59-9924-4444-9417-5108143f9961",
+        "word": "rooster",
+        "phonetic": "ɹuːstɚ ",
+        "type": "noun",
+        "defineEn": "an adult male chicken",
+        "defineVi": "một con gà đực trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "65a85320-4653-4822-9055-b09fb7b88fd2",
+        "word": "jack",
+        "phonetic": "dʒæk ",
+        "type": "noun",
+        "defineEn": "a male donkey",
+        "defineVi": "một con lừa đực",
+        "hasImg": true
+    },
+    {
+        "id": "5d877adc-441a-470a-ba08-2f84ac0d7887",
+        "word": "jenny",
+        "phonetic": "dʒɛni ",
+        "type": "noun",
+        "defineEn": "a female donkey",
+        "defineVi": "một con lừa cái"
+    },
+    {
+        "id": "d860dfa3-96ec-401b-a17e-f45b4dbe4929",
+        "word": "hart",
+        "phonetic": "hɑːɹt ",
+        "type": "noun",
+        "defineEn": "a male red deer, especially one aged over five years",
+        "defineVi": "một con hươu đỏ đực, đặc biệt là một con trên năm tuổi",
+        "hasImg": true
+    },
+    {
+        "id": "f5be089e-0d25-4e2f-946a-2f087ca7d942",
+        "word": "stud",
+        "phonetic": "stʌd ",
+        "type": "noun",
+        "defineEn": "a male animal, often a horse, that is kept for breeding purposes",
+        "defineVi": "một con vật đực, thường là một con ngựa, được giữ cho mục đích chăn nuôi"
+    },
+    {
+        "id": "e0aef66b-da2e-4be1-b37a-ab31f6e3b510",
+        "word": "doe",
+        "phonetic": "doʊ ",
+        "type": "noun",
+        "defineEn": "a female mammal such as a deer or rabbit",
+        "defineVi": "một động vật có vú giống cái như hươu hoặc thỏ",
+        "hasImg": true
+    },
+    {
+        "id": "0bd9d3eb-8be2-4a8f-b0be-42f74c396468",
+        "word": "stag",
+        "phonetic": "stæɡ ",
+        "type": "noun",
+        "defineEn": "an adult male deer",
+        "defineVi": "một con hươu đực trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "a10492f5-3c6e-45f3-b55e-6a592458a307",
+        "word": "sire",
+        "phonetic": "saɪɚ ",
+        "type": "noun",
+        "defineEn": "a male parent of an animal, especially a horse",
+        "defineVi": "một cha mẹ nam của một con vật, đặc biệt là một con ngựa"
+    },
+    {
+        "id": "6da83c6b-b3a6-4bc3-8d41-8d94e7dc97fe",
+        "word": "ewe",
+        "phonetic": "juː ",
+        "type": "noun",
+        "defineEn": "a mature female sheep",
+        "defineVi": "một con cừu cái trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "c32aec9a-a484-48ec-adc3-fe46d1da19cd",
+        "word": "ram",
+        "phonetic": "ɹæm ",
+        "type": "noun",
+        "defineEn": "a male adult sheep capable of breeding",
+        "defineVi": "một con cừu đực trưởng thành có khả năng sinh sản",
+        "hasImg": true
+    },
+    {
+        "id": "8da81a34-c59c-4f5f-a851-0befa0d2133f",
+        "word": "gander",
+        "phonetic": "ɡændɚ ",
+        "type": "noun",
+        "defineEn": "a male goose, especially an adult one",
+        "defineVi": "một con ngỗng đực, đặc biệt là một con trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "f1c74c90-d1ff-4100-802e-7e80bb89a0bf",
+        "word": "buck",
+        "phonetic": "bʌk ",
+        "type": "noun",
+        "defineEn": "a male mammal, particularly a deer or an antelope",
+        "defineVi": "một động vật có vú giống đực, đặc biệt là hươu hoặc linh dương",
+        "hasImg": true
+    },
+    {
+        "id": "5f76d968-0a6f-4497-ae82-a0b0230523de",
+        "word": "queen",
+        "phonetic": "kwiːn ",
+        "type": "noun",
+        "defineEn": "a fully grown and sexually mature female cat, capable of producing and raising kittens",
+        "defineVi": "một con mèo cái đã trưởng thành và trưởng thành về mặt tình dục, có khả năng sinh sản và nuôi mèo con"
+    },
+    {
+        "id": "eeafa819-63c2-4b5e-af94-1a367fe421ae",
+        "word": "tom",
+        "phonetic": "tɑːm ",
+        "type": "noun",
+        "defineEn": "a male domestic cat or a male turkey",
+        "defineVi": "một con mèo nhà đực hoặc một con gà tây đực"
+    },
+    {
+        "id": "a7cbb195-100a-48a4-99fe-f5e4163ae539",
+        "word": "peahen",
+        "phonetic": "piːhən ",
+        "type": "noun",
+        "defineEn": "an adult female peafowl",
+        "defineVi": "một con công cái trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "6cd36b8e-9a43-44e7-b2d3-ac78291050de",
+        "word": "peacock",
+        "phonetic": "piːkɑːk ",
+        "type": "noun",
+        "defineEn": "a male bird with a large shiny colorful tail having eyelike patterns that can be raised for display",
+        "defineVi": "một con chim đực có cái đuôi lớn sáng bóng sặc sỡ có hoa văn giống như mắt có thể nuôi để trưng bày",
+        "hasImg": true
+    },
+    {
+        "id": "ca23fe8a-4b0e-43d0-a6d1-2794581423e8",
+        "word": "heifer",
+        "phonetic": "hɛfɚ ",
+        "type": "noun",
+        "defineEn": "a young female cow that has not given birth yet or has only one calf",
+        "defineVi": "một con bò cái chưa sinh con hoặc chỉ có một con bê",
+        "hasImg": true
+    },
+    {
+        "id": "72ea5e7a-e3cc-45b0-a982-82680eccc460",
+        "word": "steer",
+        "phonetic": "stɪɹ ",
+        "type": "noun",
+        "defineEn": "a bull which its sex organs are removed before maturity",
+        "defineVi": "một con bò đực bị cắt bỏ cơ quan sinh dục trước khi trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "cf3b7a8c-0995-4d3c-b341-88aa082aa0cb",
+        "word": "cow",
+        "phonetic": "kaʊ ",
+        "type": "noun",
+        "defineEn": "a large farm animal that we keep to use its milk or its meat",
+        "defineVi": "một động vật trang trại lớn mà chúng tôi giữ để sử dụng sữa hoặc thịt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "a45aa9d3-ca4b-4968-b8cd-d3e643941cb2",
+        "word": "bull",
+        "phonetic": "bʊl ",
+        "type": "noun",
+        "defineEn": "any male member of the cow family",
+        "defineVi": "bất kỳ thành viên nam nào của gia đình bò",
+        "hasImg": true
+    },
+    {
+        "id": "d3e716b8-9c54-419b-bcdd-df9f85963f39",
+        "word": "nanny-goat",
+        "phonetic": "næniɡoʊt ",
+        "type": "noun",
+        "defineEn": "an adult female goat",
+        "defineVi": "một con dê cái trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "95ee729a-baa0-4c73-ae60-edbf81703a7b",
+        "word": "billy goat",
+        "phonetic": "bɪli ɡoʊt ",
+        "type": "noun",
+        "defineEn": "a male goat",
+        "defineVi": "một con dê đực",
+        "hasImg": true
+    },
+    {
+        "id": "51b234dc-7973-4146-819e-5d0fdc43c3bc",
+        "word": "bitch",
+        "phonetic": "bɪtʃ ",
+        "type": "noun",
+        "defineEn": "a female canine such as a dog, wolf, fox, etc.",
+        "defineVi": "một con chó cái như chó, sói, cáo, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "bf41baab-cae6-4df7-b289-54ae94ac0c4f",
+        "word": "sow",
+        "phonetic": "soʊ ",
+        "type": "noun",
+        "defineEn": "an adult female pig, especially one that has given birth to piglets",
+        "defineVi": "một con lợn cái trưởng thành, đặc biệt là một con đã sinh ra lợn con",
+        "hasImg": true
+    },
+    {
+        "id": "a6a5dc14-5125-4617-9f84-2abcae38d465",
+        "word": "boar",
+        "phonetic": "boːɹ ",
+        "type": "noun",
+        "defineEn": "a domestic male pig that is uncastrated",
+        "defineVi": "một con lợn đực trong nước không được thiến",
+        "hasImg": true
+    },
+    {
+        "id": "b207a0cd-7799-4b22-b999-b4ddc0b63592",
+        "word": "mare",
+        "phonetic": "mɛɹ ",
+        "type": "noun",
+        "defineEn": "an adult female equine, especially a horse",
+        "defineVi": "một con ngựa cái trưởng thành, đặc biệt là một con ngựa",
+        "hasImg": true
+    },
+    {
+        "id": "9dcd3dab-4acb-426b-beed-0c05d4a9a8d9",
+        "word": "stallion",
+        "phonetic": "stæliən ",
+        "type": "noun",
+        "defineEn": "an adult male horse which its sex organs are intact and is used in breeding",
+        "defineVi": "một con ngựa đực trưởng thành mà cơ quan sinh dục của nó còn nguyên vẹn và được sử dụng trong chăn nuôi",
+        "hasImg": true
+    },
+    {
+        "id": "8b06ba33-60c6-4b37-97f9-0f282db996bf",
+        "word": "drone",
+        "phonetic": "dɹoʊn ",
+        "type": "noun",
+        "defineEn": "a male bee characterized by a thickset body and a larger head than the worker bee, whose primary role is to mate with a queen bee",
+        "defineVi": "một con ong đực có đặc điểm là thân dày và đầu to hơn ong thợ, có vai trò chính là giao phối với ong chúa"
+    },
+    {
+        "id": "fbf9bf56-69be-4245-b1bc-c201688ec4a9",
+        "word": "tigress",
+        "phonetic": "taɪɡɹɛs ",
+        "type": "noun",
+        "defineEn": "a female tiger, typically recognized by her orange fur with black stripes and white underparts",
+        "defineVi": "một con hổ cái, thường được nhận ra bởi bộ lông màu cam có sọc đen và phần dưới màu trắng"
+    },
+    {
+        "id": "696eb898-4c85-40f7-8d9f-8f8503eefc67",
+        "word": "drake",
+        "phonetic": "dɹeɪk ",
+        "type": "noun",
+        "defineEn": "an adult male duck",
+        "defineVi": "vịt đực trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "384ef5b6-6d6e-4870-a4ce-1bb78a76c545",
+        "word": "bullock",
+        "phonetic": "bʊlək ",
+        "type": "noun",
+        "defineEn": "a young male cow with its sex organs removed",
+        "defineVi": "một con bò đực non bị cắt bỏ cơ quan sinh dục",
+        "hasImg": true
+    },
+    {
+        "id": "b9212387-ce59-426a-ace3-30f05d2537a7",
+        "word": "gobbler",
+        "phonetic": "ɡɑːblɚ ",
+        "type": "noun",
+        "defineEn": "a male turkey, especially an adult",
+        "defineVi": "một con gà tây đực, đặc biệt là một con trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "6d85cf9f-2ecd-418d-b14a-971dbc0f8796",
+        "word": "cob",
+        "phonetic": "kɑːb ",
+        "type": "noun",
+        "defineEn": "a male swan which is typically larger than the female swan and has a more prominent black protuberance at the base of its bill",
+        "defineVi": "một con thiên nga đực thường lớn hơn thiên nga cái và có phần lồi màu đen nổi bật hơn ở gốc hóa đơn",
+        "hasImg": true
+    },
+    {
+        "id": "183ccafc-96e4-4523-a707-5334cf2a62a9",
+        "word": "broodmare",
+        "phonetic": "bɹuːdmɛɹ ",
+        "type": "noun",
+        "defineEn": "a female horse that is kept for breeding",
+        "defineVi": "một con ngựa cái được giữ để nhân giống",
+        "hasImg": true
+    },
+    {
+        "id": "ee184cc0-7e96-491f-905e-95c0997a1a45",
+        "word": "gelding",
+        "phonetic": "ɡɛldɪŋ ",
+        "type": "noun",
+        "defineEn": "a male equine, especially a horse, with its sex organs removed",
+        "defineVi": "ngựa đực, đặc biệt là ngựa, bị cắt bỏ cơ quan sinh dục",
+        "hasImg": true
+    },
+    {
+        "id": "51db0643-e7cc-43ed-9b73-a848f22c0e74",
+        "word": "colt",
+        "phonetic": "koʊlt ",
+        "type": "noun",
+        "defineEn": "a young male horse under the age of four which is not castrated",
+        "defineVi": "một con ngựa đực dưới bốn tuổi không bị thiến",
+        "hasImg": true
+    },
+    {
+        "id": "ad7b34a0-1451-433f-841f-4082d0f26cf9",
+        "word": "tabby",
+        "phonetic": "tæbi ",
+        "type": "noun",
+        "defineEn": "a female cat with distinctive coat patterns characterized by stripes, dots, or swirling patterns",
+        "defineVi": "một con mèo cái với các mẫu lông đặc biệt được đặc trưng bởi các sọc, chấm hoặc hoa văn xoáy"
+    },
+    {
+        "id": "038af546-0739-4b89-96c0-9a11c3f24020",
+        "word": "hind",
+        "phonetic": "haɪnd ",
+        "type": "noun",
+        "defineEn": "a female red deer, especially one that is over three years old",
+        "defineVi": "một con hươu đỏ cái, đặc biệt là một con đã hơn ba tuổi"
+    },
+    {
+        "id": "597920ce-58ea-4c13-889a-666e8e500775",
+        "word": "leopardess",
+        "phonetic": "lɛpɚdɛs ",
+        "type": "noun",
+        "defineEn": "a female leopard known for its agile and graceful movements, distinctive spots, and ferocious hunting abilities",
+        "defineVi": "một con báo cái được biết đến với những chuyển động nhanh nhẹn và duyên dáng, những đốm đặc biệt và khả năng săn mồi hung dữ"
+    },
+    {
+        "id": "5afac476-d374-4042-b6e4-a44f4a539996",
+        "word": "reeve",
+        "phonetic": "ɹiːv ",
+        "type": "noun",
+        "defineEn": "a female ruff characterized by a distinctive collar of feathers around the neck during breeding season",
+        "defineVi": "một con cái lông xù được đặc trưng bởi một vòng lông đặc biệt quanh cổ trong mùa sinh sản"
+    },
+    {
+        "id": "76bdbc94-2e8d-4747-87fc-3040aec6236e",
+        "word": "pen",
+        "phonetic": "pɛn ",
+        "type": "noun",
+        "defineEn": "a female swan distinguished from the male swan by being smaller in size and having less prominent black knob on the beak",
+        "defineVi": "một con thiên nga cái được phân biệt với thiên nga đực bởi kích thước nhỏ hơn và có núm màu đen ít nổi bật hơn trên mỏ"
+    },
+    {
+        "id": "0c3b88bf-04ae-48cf-9c92-303a6e0be450",
+        "word": "tercel",
+        "phonetic": "tɜːsəl ",
+        "type": "noun",
+        "defineEn": "a male falcon, especially one that has been trained for hunting",
+        "defineVi": "một con chim ưng đực, đặc biệt là con đã được huấn luyện để săn mồi"
+    },
+    {
+        "id": "aa312395-b8f4-4768-a10b-a6fcd19af1a6",
+        "word": "hob",
+        "phonetic": "hɑːb ",
+        "type": "noun",
+        "defineEn": "a male ferret that has been neutered, and the term is also used to refer to an adult male ferret that has not been neutered",
+        "defineVi": "một con chồn đực đã được thiến, và thuật ngữ này cũng được dùng để chỉ một con chồn đực trưởng thành chưa được thiến"
+    },
+    {
+        "id": "0afbec76-9e8a-45c5-a90b-83c29cacf808",
+        "word": "jill",
+        "phonetic": "dʒɪl ",
+        "type": "noun",
+        "defineEn": "a female ferret",
+        "defineVi": "một con chồn cái"
+    },
+    {
+        "id": "95f9e2c4-a0b6-4dca-8503-2a9e86e9b9af",
+        "word": "tup",
+        "phonetic": "tʌp ",
+        "type": "noun",
+        "defineEn": "a male sheep used for breeding",
+        "defineVi": "một con cừu đực được sử dụng để chăn nuôi"
+    },
+    {
+        "id": "cbeda4ee-2617-4027-9f9a-6641834fe445",
+        "word": "ox",
+        "phonetic": "ɑːks ",
+        "type": "noun",
+        "defineEn": "a bull used on farms to carry heavy loads, which its sex organs are partly removed",
+        "defineVi": "một con bò đực được sử dụng trong các trang trại để mang vác nặng, cơ quan sinh dục của nó bị cắt bỏ một phần",
+        "hasImg": true
+    }
+]

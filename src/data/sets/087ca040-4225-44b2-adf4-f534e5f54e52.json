@@ -1,0 +1,119 @@
+[
+    {
+        "id": "ac768fcc-bd4c-4110-b9ed-88f0ede2c84d",
+        "word": "door",
+        "phonetic": "doːɹ ",
+        "type": "noun",
+        "defineEn": "the thing we move to enter, exit, or access a place such as a vehicle, building, room, etc.",
+        "defineVi": "thứ chúng ta di chuyển để vào, ra hoặc tiếp cận một địa điểm như xe cộ, tòa nhà, phòng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8840fa29-3b40-4c37-b3a9-84fd347e4ea8",
+        "word": "closet",
+        "phonetic": "klɑːzɪt ",
+        "type": "noun",
+        "defineEn": "a small space or room built into a wall, which is used to store things and is usually shelved",
+        "defineVi": "một không gian nhỏ hoặc căn phòng được xây dựng trong một bức tường, được sử dụng để lưu trữ mọi thứ và thường được đặt trên giá",
+        "hasImg": true
+    },
+    {
+        "id": "efb63552-cbee-42f9-a12f-3ad613d98101",
+        "word": "bedroom",
+        "phonetic": "bɛdɹuːm ",
+        "type": "noun",
+        "defineEn": "a room we use for sleeping",
+        "defineVi": "một căn phòng chúng tôi sử dụng để ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "1391c9b0-07f4-4f14-9cc2-e2b7e7e0afaf",
+        "word": "living room",
+        "phonetic": "lɪvɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "the part of a house where people spend time together talking, watching television, relaxing, etc.",
+        "defineVi": "một phần của ngôi nhà nơi mọi người dành thời gian cùng nhau nói chuyện, xem truyền hình, thư giãn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c4132b73-33ef-40ba-9538-878d8c1cbbfb",
+        "word": "dining room",
+        "phonetic": "daɪnɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that we use to eat meals in",
+        "defineVi": "một căn phòng mà chúng tôi sử dụng để ăn bữa ăn trong",
+        "hasImg": true
+    },
+    {
+        "id": "9475c87b-6611-45a0-9af7-55e6b3b83dd9",
+        "word": "kitchen",
+        "phonetic": "kɪtʃən ",
+        "type": "noun",
+        "defineEn": "the place in a building or home where we make food",
+        "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "c3955a22-9268-48c5-b68f-4d67b1a3432f",
+        "word": "window",
+        "phonetic": "wɪndoʊ ",
+        "type": "noun",
+        "defineEn": "a space in a wall or vehicle that is made of glass and we use to look outside or get some fresh air",
+        "defineVi": "một không gian trong một bức tường hoặc chiếc xe được làm bằng kính và chúng tôi sử dụng để nhìn ra bên ngoài hoặc hít thở không khí trong lành",
+        "hasImg": true
+    },
+    {
+        "id": "c6b64159-2202-4706-8aba-0b3110bed0eb",
+        "word": "to ask",
+        "phonetic": "tʊ æsk ",
+        "type": "verb",
+        "defineEn": "to use words in a question form or tone to get answers from someone",
+        "defineVi": "để sử dụng các từ trong một hình thức câu hỏi hoặc giai điệu để có được câu trả lời từ một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "0d765475-8d3f-4f32-9d91-7677d17d7d1a",
+        "word": "home",
+        "phonetic": "hoʊm ",
+        "type": "noun",
+        "defineEn": "the place that we live in, usually with our family",
+        "defineVi": "nơi mà chúng tôi sống, thường là với gia đình của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "5bf16c8a-6f78-4d76-830d-609ba6964cd0",
+        "word": "room",
+        "phonetic": "ɹuːm ",
+        "type": "noun",
+        "defineEn": "each of the different parts of a building that are divided by their own floors, ceilings, and walls, and are used for a specific reason",
+        "defineVi": "mỗi phần khác nhau của một tòa nhà được phân chia bởi các tầng, trần và tường riêng của chúng và được sử dụng cho một mục đích cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "27bc2542-d710-4096-a91a-173af94bdce4",
+        "word": "upstairs",
+        "phonetic": "ʌpstɛɹz ",
+        "type": "adverb",
+        "defineEn": "on or toward a higher part of a building",
+        "defineVi": "trên hoặc hướng tới phần cao hơn của tòa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "bd97f547-9bb4-406e-8b98-0be037047b67",
+        "word": "downstairs",
+        "phonetic": "daʊnstɛɹz ",
+        "type": "adverb",
+        "defineEn": "on or toward a lower part of a building, particularly the first floor",
+        "defineVi": "trên hoặc về phía phần dưới của tòa nhà, đặc biệt là tầng một",
+        "hasImg": true
+    },
+    {
+        "id": "bde35de1-a81b-486f-986a-a008e4baaabe",
+        "word": "bathroom",
+        "phonetic": "bæθɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that has a toilet and a sink, and often times a bathtub or a shower as well",
+        "defineVi": "một căn phòng có nhà vệ sinh và bồn rửa, và thường có cả bồn tắm hoặc vòi hoa sen",
+        "hasImg": true
+    }
+]

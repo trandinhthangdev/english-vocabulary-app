@@ -1,0 +1,363 @@
+[
+    {
+        "id": "87aa4472-e228-4849-99fa-739385990473",
+        "word": "atomic",
+        "phonetic": "ɐtɑːmɪk ",
+        "type": "adjective",
+        "defineEn": "related to an atom or atoms",
+        "defineVi": "liên quan đến một nguyên tử hoặc nguyên tử",
+        "hasImg": true
+    },
+    {
+        "id": "e2743341-4a6c-4a23-a83c-ee397c055e74",
+        "word": "nucleus",
+        "phonetic": "nuːklɪəs ",
+        "type": "noun",
+        "defineEn": "(biology) the part of a cell that contains most of the genetic information",
+        "defineVi": "(sinh học) phần tế bào chứa hầu hết thông tin di truyền"
+    },
+    {
+        "id": "2b4177f0-ca56-4ef9-8881-1cac2da607c1",
+        "word": "bond",
+        "phonetic": "bɑːnd ",
+        "type": "noun",
+        "defineEn": "a linking force that holds atoms or ions together in any molecule or crystal",
+        "defineVi": "một lực liên kết giữ các nguyên tử hoặc ion lại với nhau trong bất kỳ phân tử hoặc tinh thể nào",
+        "hasImg": true
+    },
+    {
+        "id": "98622844-0728-4d17-afdf-c9d0b852c20d",
+        "word": "charge",
+        "phonetic": "tʃɑːɹdʒ ",
+        "type": "noun",
+        "defineEn": "the physical property in matter that causes it to experience a force in an electromagnetic field",
+        "defineVi": "tính chất vật lý trong vật chất khiến nó chịu một lực trong trường điện từ"
+    },
+    {
+        "id": "eae6c9ce-434b-4961-9f38-56deb9d621bd",
+        "word": "density",
+        "phonetic": "dɛnsᵻɾi ",
+        "type": "noun",
+        "defineEn": "(physics) the degree to which a substance is compacted, measured by dividing its mass by its volume",
+        "defineVi": "(vật lý) mức độ mà một chất được nén chặt, được đo bằng cách chia khối lượng của nó cho thể tích của nó",
+        "hasImg": true
+    },
+    {
+        "id": "f814caf7-08eb-4bec-8752-a7de89cd1a05",
+        "word": "gravity",
+        "phonetic": "ɡɹævᵻɾi ",
+        "type": "noun",
+        "defineEn": "(physics) the universal force of attraction between any pair of objects with mass",
+        "defineVi": "(vật lý) lực hấp dẫn phổ quát giữa bất kỳ cặp vật nào có khối lượng",
+        "hasImg": true
+    },
+    {
+        "id": "27cb3247-efb0-4d15-9527-b029b3a7197a",
+        "word": "particle",
+        "phonetic": "pɑːɹɾɪkəl ",
+        "type": "noun",
+        "defineEn": "(physics) any of the smallest units that energy or matter consists of, such as electrons, atoms, molecules, etc.",
+        "defineVi": "(vật lý) bất kỳ đơn vị nhỏ nhất nào chứa năng lượng hoặc vật chất, chẳng hạn như điện tử, nguyên tử, phân tử, v.v."
+    },
+    {
+        "id": "10fef1a1-a889-4568-a88a-00ba1c536b26",
+        "word": "property",
+        "phonetic": "pɹɑːpɚɾi ",
+        "type": "noun",
+        "defineEn": "a feature or quality of something",
+        "defineVi": "một tính năng hoặc chất lượng của một cái gì đó"
+    },
+    {
+        "id": "556b8bc2-d0da-4197-8eea-466315c7d281",
+        "word": "instinct",
+        "phonetic": "ɪnstɪŋkt ",
+        "type": "noun",
+        "defineEn": "a reaction or behavior whose reason is innate, not a result of thinking",
+        "defineVi": "một phản ứng hoặc hành vi mà lý do là bẩm sinh, không phải là kết quả của suy nghĩ"
+    },
+    {
+        "id": "d30c537e-d7c2-41a6-9914-18e45656ea85",
+        "word": "metabolism",
+        "phonetic": "mətæbəlɪzəm ",
+        "type": "noun",
+        "defineEn": "the chemical processes through which food is changed into energy for the body to use",
+        "defineVi": "các quá trình hóa học thông qua đó thức ăn được biến đổi thành năng lượng cho cơ thể sử dụng"
+    },
+    {
+        "id": "29ce081f-763f-4d43-a4b6-2c0fa06401ac",
+        "word": "evolutionary",
+        "phonetic": "ɛvəluːʃənɛɹi ",
+        "type": "adjective",
+        "defineEn": "related to evolution or the slow and gradual development of something",
+        "defineVi": "liên quan đến sự tiến hóa hoặc sự phát triển chậm và dần dần của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "8a58e080-a38d-4a8b-8f6a-0cc5b89b2a1b",
+        "word": "organic",
+        "phonetic": "ɔːɹɡænɪk ",
+        "type": "adjective",
+        "defineEn": "produced by or from or related to living things",
+        "defineVi": "được sản xuất bởi hoặc từ hoặc liên quan đến các sinh vật sống"
+    },
+    {
+        "id": "1aaed484-7dfb-4b44-b7d4-58c57c7a01fb",
+        "word": "evolution",
+        "phonetic": "ɛvəluːʃən ",
+        "type": "noun",
+        "defineEn": "(biology) the slow and gradual development of living things throughout the history of the earth",
+        "defineVi": "(sinh học) sự phát triển chậm và dần dần của các sinh vật trong suốt lịch sử trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "13dc2edd-21a1-47bc-bc25-e76869ca36ee",
+        "word": "genome",
+        "phonetic": "dʒiːnoʊm ",
+        "type": "noun",
+        "defineEn": "the complete set of genetic material of any living thing",
+        "defineVi": "bộ vật liệu di truyền hoàn chỉnh của bất kỳ sinh vật sống nào"
+    },
+    {
+        "id": "2a751d4b-ae15-4d80-bb84-3847559237d7",
+        "word": "mutation",
+        "phonetic": "mjuːteɪʃən ",
+        "type": "noun",
+        "defineEn": "(biology) a change in the structure of the genes of an individual that causes them to develop different physical features",
+        "defineVi": "(sinh học) sự thay đổi cấu trúc gen của một cá nhân khiến họ phát triển các đặc điểm thể chất khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "9161a322-422e-4a8f-ba77-72bb05ad483a",
+        "word": "embryo",
+        "phonetic": "ɛmbɹɪoʊ ",
+        "type": "noun",
+        "defineEn": "an unhatched or unborn offspring in the process of development, especially a human offspring roughly from the second to the eighth week after fertilization",
+        "defineVi": "con cái chưa nở hoặc chưa sinh ra đang trong quá trình phát triển, đặc biệt là con người vào khoảng từ tuần thứ hai đến tuần thứ tám sau khi thụ tinh",
+        "hasImg": true
+    },
+    {
+        "id": "30deb85d-daf4-4594-ae9b-5a0ca8d5b390",
+        "word": "hybrid",
+        "phonetic": "haɪbɹɪd ",
+        "type": "noun",
+        "defineEn": "an animal or plant with parents that belong to different breeds or varieties",
+        "defineVi": "một loài động vật hoặc thực vật có bố mẹ thuộc các giống hoặc giống khác nhau"
+    },
+    {
+        "id": "820adb83-83da-4973-938e-065328521a57",
+        "word": "clone",
+        "phonetic": "kloʊn ",
+        "type": "noun",
+        "defineEn": "a cell or a group of cells created through a natural or artificial process from a source that they are genetically identical to",
+        "defineVi": "một tế bào hoặc một nhóm tế bào được tạo ra thông qua quá trình tự nhiên hoặc nhân tạo từ một nguồn mà chúng giống hệt nhau về mặt di truyền"
+    },
+    {
+        "id": "1bb072c8-4816-47b0-8cf2-937a1ac4add1",
+        "word": "to reproduce",
+        "phonetic": "tə ɹᵻpɹəduːs ",
+        "type": "verb",
+        "defineEn": "(of a living being) to produce offspring or more of itself",
+        "defineVi": "(của một sinh vật sống) để sinh ra con cái hoặc nhiều hơn nữa của chính nó"
+    },
+    {
+        "id": "8d3cc831-cb39-4b22-95d8-93c66a53e42c",
+        "word": "stimulus",
+        "phonetic": "stɪmjʊləs ",
+        "type": "noun",
+        "defineEn": "something that encourages an activity or causes a reaction in a person or thing",
+        "defineVi": "cái gì đó khuyến khích một hoạt động hoặc gây ra phản ứng trong một người hoặc vật"
+    },
+    {
+        "id": "b0933a6e-2f3b-40d4-9081-3fd9e7cf5144",
+        "word": "synthesis",
+        "phonetic": "sɪnθəsɪs ",
+        "type": "noun",
+        "defineEn": "the act of producing a substance that exists in living beings",
+        "defineVi": "hành động sản xuất một chất tồn tại trong cơ thể sống"
+    },
+    {
+        "id": "bd604172-ba7b-4e29-b85a-7e8cefd2bf69",
+        "word": "to accelerate",
+        "phonetic": "tʊ ɐksɛlɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "to increase the velocity of something",
+        "defineVi": "để tăng vận tốc của một cái gì đó"
+    },
+    {
+        "id": "be10ef83-2956-4cbb-80a1-4dd9985824e5",
+        "word": "to dissolve",
+        "phonetic": "tə dɪsɑːlv ",
+        "type": "verb",
+        "defineEn": "(of a solid) to become one with a liquid",
+        "defineVi": "(của chất rắn) trở thành một với chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "1f452438-918b-482a-b554-efa18463b16a",
+        "word": "acid",
+        "phonetic": "æsɪd ",
+        "type": "noun",
+        "defineEn": "a water-soluble chemical substance that contains Hydrogen and has a sour taste or corrosive feature with a PH less than 7",
+        "defineVi": "một chất hóa học hòa tan trong nước có chứa Hydrogen và có vị chua hoặc tính năng ăn mòn với độ PH nhỏ hơn 7"
+    },
+    {
+        "id": "cc58e222-aaa2-45d1-8dcc-d2be30e42297",
+        "word": "aluminum",
+        "phonetic": "ɐluːmɪnəm ",
+        "type": "noun",
+        "defineEn": "a light silver-gray metal used primarily for making cooking equipment and aircraft parts",
+        "defineVi": "một kim loại màu xám bạc nhẹ được sử dụng chủ yếu để chế tạo thiết bị nấu ăn và các bộ phận máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "78383cab-a053-4788-a2be-5f6fd17467f9",
+        "word": "copper",
+        "phonetic": "kɑːpɚ ",
+        "type": "noun",
+        "defineEn": "a metallic chemical element that has a red-brown color, primarily used as a conductor in wiring",
+        "defineVi": "một nguyên tố hóa học kim loại có màu nâu đỏ, chủ yếu được sử dụng làm dây dẫn trong hệ thống dây điện",
+        "hasImg": true
+    },
+    {
+        "id": "0c6f276d-e376-461a-bf2e-433ad23a214c",
+        "word": "lead",
+        "phonetic": "liːd ",
+        "type": "noun",
+        "defineEn": "a heavy soft metal, used in making bullets, in plumbing and roofing, especially in the past",
+        "defineVi": "một kim loại mềm nặng, được sử dụng để chế tạo đạn, trong hệ thống ống nước và tấm lợp, đặc biệt là trong quá khứ",
+        "hasImg": true
+    },
+    {
+        "id": "9e5f2935-f0dc-4060-959b-c9c2ac1281d7",
+        "word": "conductor",
+        "phonetic": "kəndʌktɚ ",
+        "type": "noun",
+        "defineEn": "a substance that permits heat or electricity to pass through it or along it",
+        "defineVi": "một chất cho phép nhiệt hoặc điện đi qua nó hoặc dọc theo nó",
+        "hasImg": true
+    },
+    {
+        "id": "d085b1c9-5613-461a-885e-31448d082c67",
+        "word": "crystal",
+        "phonetic": "kɹɪstəl ",
+        "type": "noun",
+        "defineEn": "a substance of small size and equal sides, formed naturally when turns to solid",
+        "defineVi": "một chất có kích thước nhỏ và các cạnh bằng nhau, được hình thành tự nhiên khi chuyển sang thể rắn",
+        "hasImg": true
+    },
+    {
+        "id": "ac2db3f9-8ae8-4db2-a47c-485f3093c50c",
+        "word": "gunpowder",
+        "phonetic": "ɡʌnpaʊdɚ ",
+        "type": "noun",
+        "defineEn": "a type of powder that is explosive, used in making bullets, bombs, etc.",
+        "defineVi": "một loại bột nổ, được sử dụng để chế tạo đạn, bom, v.v."
+    },
+    {
+        "id": "7ad6627b-3b3b-43cf-8055-b86ada335adf",
+        "word": "dynamite",
+        "phonetic": "daɪnɐmaɪt ",
+        "type": "noun",
+        "defineEn": "an explosive that is very powerful",
+        "defineVi": "một chất nổ rất mạnh"
+    },
+    {
+        "id": "4133043a-4a3d-450f-a2a6-e9f0a430db73",
+        "word": "composition",
+        "phonetic": "kɑːmpəzɪʃən ",
+        "type": "noun",
+        "defineEn": "the different elements that form something or the arrangement of these elements",
+        "defineVi": "các yếu tố khác nhau tạo thành một cái gì đó hoặc sự sắp xếp của các yếu tố này",
+        "hasImg": true
+    },
+    {
+        "id": "5dfd4f1e-bcb0-44b9-9222-d50d8e8e01a4",
+        "word": "to emit",
+        "phonetic": "tʊ ɪmɪt ",
+        "type": "verb",
+        "defineEn": "to release heat, light, sound, radiation, etc.",
+        "defineVi": "để giải phóng nhiệt, ánh sáng, âm thanh, bức xạ, vv"
+    },
+    {
+        "id": "e0d1fbf7-e978-4296-9752-63c27c7efc06",
+        "word": "ray",
+        "phonetic": "ɹeɪ ",
+        "type": "noun",
+        "defineEn": "a narrow beam of light, heat, or other form of energy",
+        "defineVi": "một chùm ánh sáng hẹp, nhiệt hoặc dạng năng lượng khác"
+    },
+    {
+        "id": "cc229734-7c6d-4c8e-8417-e399dbcdc73c",
+        "word": "laser",
+        "phonetic": "leɪzɚ ",
+        "type": "noun",
+        "defineEn": "a device that produces a powerful and concentrated beam of light that can be used in medical procedures, for cutting metal objects, etc.",
+        "defineVi": "một thiết bị tạo ra chùm ánh sáng mạnh và tập trung có thể được sử dụng trong các thủ tục y tế, để cắt các vật kim loại, v.v."
+    },
+    {
+        "id": "ba292a64-285c-4871-a9e9-676cdc1ad84c",
+        "word": "magnet",
+        "phonetic": "mæɡnɪt ",
+        "type": "noun",
+        "defineEn": "an object that makes iron come toward it because of the magnetic field that it produces",
+        "defineVi": "một vật thể làm cho sắt tiến về phía nó vì từ trường mà nó tạo ra",
+        "hasImg": true
+    },
+    {
+        "id": "41bb2d62-f73a-40fc-8ee4-b6b0b5d84ceb",
+        "word": "thermal",
+        "phonetic": "θɜːməl ",
+        "type": "adjective",
+        "defineEn": "relating to or connected with heat",
+        "defineVi": "liên quan đến hoặc kết nối với nhiệt"
+    },
+    {
+        "id": "050f16ac-6812-40e5-a972-0a7c1b254df4",
+        "word": "to compress",
+        "phonetic": "tə kəmpɹɛs ",
+        "type": "verb",
+        "defineEn": "to press two things together or be pressed together to become smaller",
+        "defineVi": "để ép hai thứ lại với nhau hoặc được ép lại với nhau để trở nên nhỏ hơn"
+    },
+    {
+        "id": "776a6002-bd2f-4877-9e9a-33cb4f151b96",
+        "word": "generator",
+        "phonetic": "dʒɛnɚɹeɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a machine that produces electricity by converting mechanical energy into electrical energy",
+        "defineVi": "một máy sản xuất điện bằng cách chuyển đổi năng lượng cơ học thành năng lượng điện",
+        "hasImg": true
+    },
+    {
+        "id": "34a432e2-a548-45b4-9445-f0206d26c628",
+        "word": "to evaporate",
+        "phonetic": "tʊ ɪvæpɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "to become gas or vapor from liquid",
+        "defineVi": "để trở thành khí hoặc hơi từ chất lỏng"
+    },
+    {
+        "id": "bc69c10f-f1ca-49e8-8971-b5246ce9cdd8",
+        "word": "vacuum",
+        "phonetic": "vækjuːm ",
+        "type": "noun",
+        "defineEn": "a space that is utterly devoid of matter",
+        "defineVi": "một không gian hoàn toàn không có vật chất"
+    },
+    {
+        "id": "79b1fe91-a4f4-4a14-aeb0-fd62f0d9ed76",
+        "word": "infinite",
+        "phonetic": "ɪnfɪnət ",
+        "type": "adjective",
+        "defineEn": "without end or limits in number, size, or space",
+        "defineVi": "không có kết thúc hoặc giới hạn về số lượng, kích thước hoặc không gian"
+    },
+    {
+        "id": "17376250-ea9e-49f4-a2d4-23c4de12d257",
+        "word": "residue",
+        "phonetic": "ɹɛsɪduː ",
+        "type": "noun",
+        "defineEn": "a small remaining amount or part of a thing after it has been taken, used, etc.",
+        "defineVi": "một lượng nhỏ còn lại hoặc một phần của một thứ sau khi nó đã được lấy, sử dụng, v.v."
+    }
+]

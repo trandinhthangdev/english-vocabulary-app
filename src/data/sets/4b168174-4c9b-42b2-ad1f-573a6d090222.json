@@ -1,0 +1,593 @@
+[
+    {
+        "id": "d0136224-d1fe-45e1-8a85-2cd066f2e214",
+        "word": "perfect",
+        "phonetic": "pɜːfɛkt ",
+        "type": "adjective",
+        "defineEn": "being as great, complete, and flawless as possible",
+        "defineVi": "tuyệt vời, đầy đủ và hoàn hảo nhất có thể",
+        "hasImg": true
+    },
+    {
+        "id": "e2708096-1661-4620-89de-f4f337eaab94",
+        "word": "imperfect",
+        "phonetic": "ɪmpɜːfɛkt ",
+        "type": "adjective",
+        "defineEn": "having faults, flaws, or shortcomings",
+        "defineVi": "có lỗi, sai sót hoặc thiếu sót",
+        "hasImg": true
+    },
+    {
+        "id": "7fc6b0ac-dc50-4687-adb6-b7d67f648575",
+        "word": "formal",
+        "phonetic": "fɔːɹməl ",
+        "type": "adjective",
+        "defineEn": "suitable for fancy, important, serious, or official occasions and situations",
+        "defineVi": "thích hợp cho những dịp và tình huống ưa thích, quan trọng, nghiêm túc hoặc chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "77b3ebad-0d6f-4b0f-aff2-d0b95b62ff4a",
+        "word": "informal",
+        "phonetic": "ɪnfɔːɹməl ",
+        "type": "adjective",
+        "defineEn": "suitable for friendly, relaxed, casual, or unofficial occasions and situations",
+        "defineVi": "thích hợp cho những dịp và tình huống thân thiện, thoải mái, bình thường hoặc không chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "e7429b8c-b335-4f6a-89b3-3e9dca8b17f3",
+        "word": "conscious",
+        "phonetic": "kɑːnʃəs ",
+        "type": "adjective",
+        "defineEn": "having awareness of one's surroundings",
+        "defineVi": "có nhận thức về môi trường xung quanh của một người",
+        "hasImg": true
+    },
+    {
+        "id": "285bfe78-8c6f-4f43-83f9-7ef090ae6a76",
+        "word": "unconscious",
+        "phonetic": "ʌŋkɑːnʃəs ",
+        "type": "adjective",
+        "defineEn": "unaware of the surroundings and not awake, which is caused by either an illness or injury",
+        "defineVi": "không nhận thức được xung quanh và không tỉnh táo, nguyên nhân là do bệnh tật hoặc chấn thương",
+        "hasImg": true
+    },
+    {
+        "id": "4c871357-c104-4c55-9472-916f53513e3d",
+        "word": "suitable",
+        "phonetic": "suːɾəbəl ",
+        "type": "adjective",
+        "defineEn": "appropriate or acceptable for a certain situation or purpose",
+        "defineVi": "phù hợp hoặc chấp nhận được cho một tình huống hoặc mục đích nhất định"
+    },
+    {
+        "id": "a585f8e1-54f1-4f22-9f2a-0f29758837a1",
+        "word": "creative",
+        "phonetic": "kɹiːeɪɾɪv ",
+        "type": "adjective",
+        "defineEn": "making use of imagination or innovation in bringing something into existence",
+        "defineVi": "sử dụng trí tưởng tượng hoặc sự đổi mới trong việc đưa một cái gì đó vào sự tồn tại",
+        "hasImg": true
+    },
+    {
+        "id": "bc7c57f1-2674-4440-b6ff-59d083072718",
+        "word": "imagination",
+        "phonetic": "ɪmædʒᵻneɪʃən ",
+        "type": "noun",
+        "defineEn": "something that is formed in the mind and does not exist in reality",
+        "defineVi": "một cái gì đó được hình thành trong tâm trí và không tồn tại trong thực tế",
+        "hasImg": true
+    },
+    {
+        "id": "d1280e1b-6aa5-4883-9998-108db5d9dec2",
+        "word": "colorful",
+        "phonetic": "kʌlɚfəl ",
+        "type": "adjective",
+        "defineEn": "having a lot of different colors or full of bright colors",
+        "defineVi": "có rất nhiều màu sắc khác nhau hoặc đầy màu sắc tươi sáng",
+        "hasImg": true
+    },
+    {
+        "id": "24c6c87b-45d4-4dd6-a402-bc37269b7ce0",
+        "word": "to shorten",
+        "phonetic": "tə ʃɔːɹʔn̩ ",
+        "type": "verb",
+        "defineEn": "to make something have a decrease in length or duration",
+        "defineVi": "để làm cho một cái gì đó đã giảm chiều dài hoặc thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "8983a179-9a8b-4a77-a8a4-7cdfead1cd64",
+        "word": "kindness",
+        "phonetic": "kaɪndnəs ",
+        "type": "noun",
+        "defineEn": "an action that is caring, kind, or helpful",
+        "defineVi": "một hành động quan tâm, tử tế, hoặc hữu ích",
+        "hasImg": true
+    },
+    {
+        "id": "da56b1ae-91ff-40da-b1c5-a80754c47301",
+        "word": "to educate",
+        "phonetic": "tʊ ɛdʒuːkeɪt ",
+        "type": "verb",
+        "defineEn": "to teach someone, particularly a child, especially at a school or university",
+        "defineVi": "để dạy ai đó, đặc biệt là một đứa trẻ, đặc biệt là ở một trường học hoặc trường đại học",
+        "hasImg": true
+    },
+    {
+        "id": "5e891197-1601-4733-bfce-ec24d7a2dda9",
+        "word": "excitement",
+        "phonetic": "ɛksaɪtmənt ",
+        "type": "noun",
+        "defineEn": "a feeling of much enthusiasm and happiness",
+        "defineVi": "một cảm giác rất nhiệt tình và hạnh phúc",
+        "hasImg": true
+    },
+    {
+        "id": "7110ed07-35e9-420e-bd6f-7a7ff64b1659",
+        "word": "confidently",
+        "phonetic": "kɑːnfɪdəntli ",
+        "type": "adverb",
+        "defineEn": "in a way that shows confidence and trust in oneself or another person's abilities, plans, etc.",
+        "defineVi": "theo cách thể hiện sự tự tin và tin tưởng vào khả năng, kế hoạch của bản thân hoặc người khác, v.v."
+    },
+    {
+        "id": "676c09e1-8c8a-4c40-adff-35c2b1ae7e43",
+        "word": "automatically",
+        "phonetic": "ɔːɾəmæɾɪkli ",
+        "type": "adverb",
+        "defineEn": "with no reflection or thinking",
+        "defineVi": "không có suy nghĩ hay suy nghĩ"
+    },
+    {
+        "id": "1b0ebbd3-d155-49c3-945c-c36e25bfa98c",
+        "word": "careless",
+        "phonetic": "kɛɹləs ",
+        "type": "adjective",
+        "defineEn": "not paying enough attention to what we are doing",
+        "defineVi": "không chú ý đầy đủ đến những gì chúng ta đang làm",
+        "hasImg": true
+    },
+    {
+        "id": "594366ee-8082-496e-a43b-8cbf54a02301",
+        "word": "to disagree",
+        "phonetic": "tə dɪsɐɡɹiː ",
+        "type": "verb",
+        "defineEn": "to hold or give a different opinion about something",
+        "defineVi": "để giữ hoặc đưa ra một ý kiến khác nhau về một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "a2132abb-5bf1-4560-873d-300bafa37de5",
+        "word": "disagreement",
+        "phonetic": "dɪsɐɡɹiːmənt ",
+        "type": "noun",
+        "defineEn": "an argument or a situation in which people have different opinions about something",
+        "defineVi": "một cuộc tranh luận hoặc một tình huống trong đó mọi người có ý kiến khác nhau về một cái gì đó"
+    },
+    {
+        "id": "02369aff-294b-41c5-aaad-540f495c6212",
+        "word": "agreement",
+        "phonetic": "ɐɡɹiːmənt ",
+        "type": "noun",
+        "defineEn": "a promise, an arrangement, or a contract between two or more people",
+        "defineVi": "một lời hứa, một sự sắp xếp, hoặc một hợp đồng giữa hai hoặc nhiều người",
+        "hasImg": true
+    },
+    {
+        "id": "daa12594-606a-4c99-a1b1-c249b763fe7f",
+        "word": "unhappy",
+        "phonetic": "ʌnhæpi ",
+        "type": "adjective",
+        "defineEn": "not happy; feeling sad",
+        "defineVi": "không vui; cảm thấy buồn",
+        "hasImg": true
+    },
+    {
+        "id": "95446382-d811-44ef-ad57-004f370717aa",
+        "word": "unhappiness",
+        "phonetic": "ʌnhæpɪnəs ",
+        "type": "noun",
+        "defineEn": "the state or condition of not being happy, characterized by feelings of dissatisfaction, discontent, or sorrow",
+        "defineVi": "trạng thái hoặc tình trạng không hạnh phúc, đặc trưng bởi cảm giác không hài lòng, bất mãn hoặc buồn bã"
+    },
+    {
+        "id": "6dd90030-3877-4009-a6e2-179baa1b3c95",
+        "word": "happiness",
+        "phonetic": "hæpɪnəs ",
+        "type": "noun",
+        "defineEn": "the feeling of being happy and well",
+        "defineVi": "cảm giác hạnh phúc và tốt",
+        "hasImg": true
+    },
+    {
+        "id": "6e5387d1-fb4a-4c1b-b4a3-a0c92b307e4a",
+        "word": "consciousness",
+        "phonetic": "kɑːnʃəsnəs ",
+        "type": "noun",
+        "defineEn": "the  state or quality of being awake and capable of perception, thought, and response",
+        "defineVi": "trạng thái hoặc chất lượng tỉnh táo và có khả năng nhận thức, suy nghĩ và phản ứng"
+    },
+    {
+        "id": "95a5146d-7580-4fcd-a546-6bcfa33e3ea8",
+        "word": "unconsciousness",
+        "phonetic": "ʌŋkɑːnʃəsnəs ",
+        "type": "noun",
+        "defineEn": "the state of not being awake or aware of one's surroundings",
+        "defineVi": "trạng thái không tỉnh táo hoặc không nhận thức được môi trường xung quanh",
+        "hasImg": true
+    },
+    {
+        "id": "dc7ca490-d1bc-40b3-b1d1-c90903365886",
+        "word": "inexpensive",
+        "phonetic": "ɪnɛkspɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "being low in price; having a cheap price",
+        "defineVi": "giá thấp; có giá rẻ",
+        "hasImg": true
+    },
+    {
+        "id": "c12abcc4-7752-4230-a490-1ce8a54d1b4c",
+        "word": "expensive",
+        "phonetic": "ɛkspɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "having a high price",
+        "defineVi": "có giá cao",
+        "hasImg": true
+    },
+    {
+        "id": "2fa1381a-28c0-44b1-a48d-5578b9c75ace",
+        "word": "helpful",
+        "phonetic": "hɛlpfəl ",
+        "type": "adjective",
+        "defineEn": "providing assistance or useful help in making a situation better or easier",
+        "defineVi": "cung cấp hỗ trợ hoặc giúp đỡ hữu ích trong việc làm cho một tình huống tốt hơn hoặc dễ dàng hơn",
+        "hasImg": true
+    },
+    {
+        "id": "964f634f-9012-43bc-8531-ba44f58726e5",
+        "word": "impolite",
+        "phonetic": "ɪmpəlaɪt ",
+        "type": "adjective",
+        "defineEn": "having bad manners or behavior",
+        "defineVi": "có cách cư xử hoặc hành vi xấu",
+        "hasImg": true
+    },
+    {
+        "id": "3a140a05-4292-4e09-aca7-ee030ecaa8b4",
+        "word": "impoliteness",
+        "phonetic": "ɪmpəlaɪtnəs ",
+        "type": "noun",
+        "defineEn": "a discourteous manner that ignores accepted social usage",
+        "defineVi": "một cách bất lịch sự bỏ qua việc sử dụng xã hội được chấp nhận"
+    },
+    {
+        "id": "7d694c71-36a8-48a2-a7f5-409484d8cb3b",
+        "word": "successful",
+        "phonetic": "səksɛsfəl ",
+        "type": "adjective",
+        "defineEn": "getting the results wanted or hoped",
+        "defineVi": "nhận được kết quả mong muốn hoặc hy vọng",
+        "hasImg": true
+    },
+    {
+        "id": "4f172dee-af61-47c6-a849-6b954cb767b6",
+        "word": "unsuccessful",
+        "phonetic": "ʌnsəksɛsfəl ",
+        "type": "adjective",
+        "defineEn": "showing failure at achieving what you intended to",
+        "defineVi": "thể hiện sự thất bại trong việc đạt được những gì bạn dự định"
+    },
+    {
+        "id": "216973d3-3d28-4cab-af00-498656413bf8",
+        "word": "to misunderstand",
+        "phonetic": "tə mɪsʌndɚstænd ",
+        "type": "verb",
+        "defineEn": "to fail to understand something or someone correctly",
+        "defineVi": "để không hiểu một cái gì đó hoặc một ai đó một cách chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "c78569ab-1a1c-4cb1-bd3a-9fa148f1b1d8",
+        "word": "understandable",
+        "phonetic": "ʌndɚstændəbəl ",
+        "type": "adjective",
+        "defineEn": "describing something that can be comprehended, grasped, or perceived with ease and without difficulty or confusion",
+        "defineVi": "mô tả một cái gì đó có thể được hiểu, nắm bắt hoặc cảm nhận một cách dễ dàng và không gặp khó khăn hoặc nhầm lẫn"
+    },
+    {
+        "id": "b94895fb-be33-4f9f-a3f1-66dc52f59c86",
+        "word": "useful",
+        "phonetic": "juːsfəl ",
+        "type": "adjective",
+        "defineEn": "providing help when we want to get or do something",
+        "defineVi": "cung cấp trợ giúp khi chúng tôi muốn nhận hoặc làm điều gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "d60f80fa-f365-4d27-9b83-32faea884eb0",
+        "word": "to reuse",
+        "phonetic": "tə ɹiːjuːz ",
+        "type": "verb",
+        "defineEn": "to use something once more, usually for a different purpose",
+        "defineVi": "để sử dụng một cái gì đó một lần nữa, thường là cho một mục đích khác"
+    },
+    {
+        "id": "f22a0d99-647a-4faa-b46f-52d5a7d469d8",
+        "word": "useless",
+        "phonetic": "juːsləs ",
+        "type": "adjective",
+        "defineEn": "lacking purpose or function, and unable to help in any way",
+        "defineVi": "thiếu mục đích hoặc chức năng và không thể giúp đỡ theo bất kỳ cách nào"
+    },
+    {
+        "id": "756fa75b-51f3-4924-a4cf-e8c392f4bd37",
+        "word": "selfishness",
+        "phonetic": "sɛlfɪʃnəs ",
+        "type": "noun",
+        "defineEn": "the quality or state of being excessively focused on oneself, one's own interests, or needs without regard for others.",
+        "defineVi": "phẩm chất hoặc trạng thái tập trung quá mức vào bản thân, lợi ích hoặc nhu cầu của chính mình mà không quan tâm đến người khác.",
+        "hasImg": true
+    },
+    {
+        "id": "adc6cac4-b3c3-4732-ac9f-94d6dff5e1c6",
+        "word": "nonstop",
+        "phonetic": "nɑːnstɑːp ",
+        "type": "adverb",
+        "defineEn": "continuously in motion or action, without stopping or pausing",
+        "defineVi": "liên tục trong chuyển động hoặc hành động, mà không dừng lại hoặc tạm dừng"
+    },
+    {
+        "id": "07d3c74e-01da-4a18-8d4d-edecfd1bd678",
+        "word": "prediction",
+        "phonetic": "pɹɪdɪkʃən ",
+        "type": "noun",
+        "defineEn": "the act of saying what one thinks is going to happen in the future or what the outcome of something will be",
+        "defineVi": "hành động nói những gì một người nghĩ sẽ xảy ra trong tương lai hoặc kết quả của một cái gì đó sẽ là gì"
+    },
+    {
+        "id": "b7c47414-5da7-4b47-b2fe-beb2c793cefb",
+        "word": "rechargeable",
+        "phonetic": "ɹᵻtʃɑːɹdʒəbəl ",
+        "type": "adjective",
+        "defineEn": "(of a battery or device) capable of being supplied with electrical power again",
+        "defineVi": "(của pin hoặc thiết bị) có khả năng được cung cấp lại năng lượng điện"
+    },
+    {
+        "id": "e21eed30-4427-49ae-b33b-d4568a833b8f",
+        "word": "multilingual",
+        "phonetic": "mʌltɪlɪŋɡwəl ",
+        "type": "adjective",
+        "defineEn": "referring to the ability to use or communicate in multiple languages",
+        "defineVi": "đề cập đến khả năng sử dụng hoặc giao tiếp bằng nhiều ngôn ngữ"
+    },
+    {
+        "id": "fc429c76-2abe-491e-a298-11ba938d1c4f",
+        "word": "many",
+        "phonetic": "mɛni ",
+        "type": "determiner",
+        "defineEn": "a large number of; a great number of",
+        "defineVi": "một số lượng lớn; một số lượng lớn",
+        "hasImg": true
+    },
+    {
+        "id": "b6a5a9aa-5d76-495f-92bc-db0b46f5f61e",
+        "word": "before",
+        "phonetic": "bᵻfoːɹ ",
+        "type": "adverb",
+        "defineEn": "at an earlier time",
+        "defineVi": "tại một thời điểm sớm hơn"
+    },
+    {
+        "id": "f4278090-3558-40fc-b068-c06e7a99165c",
+        "word": "again",
+        "phonetic": "ɐɡɛn ",
+        "type": "adverb",
+        "defineEn": "once more; one more time",
+        "defineVi": "một lần nữa; một lần nữa"
+    },
+    {
+        "id": "b2ecef1a-2e3d-43fe-a95f-780356392e6f",
+        "word": "possible",
+        "phonetic": "pɑːsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "able to exist, happen, or be done",
+        "defineVi": "có thể tồn tại, xảy ra, hoặc được thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "61295406-e39a-4d64-8d72-66c016b48c18",
+        "word": "impossible",
+        "phonetic": "ɪmpɑːsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "not able to be or happen; not possible to do",
+        "defineVi": "không thể hoặc xảy ra; không thể làm",
+        "hasImg": true
+    },
+    {
+        "id": "4b96c625-c416-4a49-92df-b2a28a38842c",
+        "word": "patient",
+        "phonetic": "peɪʃənt ",
+        "type": "adjective",
+        "defineEn": "staying calm during hard times or accepting delays without getting angry or irritated",
+        "defineVi": "giữ bình tĩnh trong thời gian khó khăn hoặc chấp nhận sự chậm trễ mà không tức giận hoặc cáu kỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "ca90ec87-ce3a-40cf-aa4e-da44f3c65525",
+        "word": "impatient",
+        "phonetic": "ɪmpeɪʃənt ",
+        "type": "adjective",
+        "defineEn": "annoyed easily and quickly and unable to wait for a long time",
+        "defineVi": "khó chịu một cách dễ dàng và nhanh chóng và không thể chờ đợi trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "21a14a78-6645-4bf9-ac08-8db5ccd9f774",
+        "word": "lucky",
+        "phonetic": "lʌki ",
+        "type": "adjective",
+        "defineEn": "having or bringing good luck",
+        "defineVi": "có hoặc mang lại may mắn",
+        "hasImg": true
+    },
+    {
+        "id": "fd1043ea-cd5a-482a-bafd-7af51b966656",
+        "word": "to spell",
+        "phonetic": "tə spɛl ",
+        "type": "verb",
+        "defineEn": "to write or say the letters that form a word one by one in the right order",
+        "defineVi": "viết hoặc nói từng chữ cái tạo thành một từ theo đúng thứ tự",
+        "hasImg": true
+    },
+    {
+        "id": "dea2e5b1-b278-4ca6-b06a-dfb16b350cfd",
+        "word": "to misspell",
+        "phonetic": "tə mɪsspɛl ",
+        "type": "verb",
+        "defineEn": "to incorrectly write a word, by using wrong letters or rearranging them in a wrong order",
+        "defineVi": "viết sai một từ, bằng cách sử dụng các chữ cái sai hoặc sắp xếp lại chúng theo thứ tự sai"
+    },
+    {
+        "id": "f818d765-2926-4c99-bab9-863e678250a8",
+        "word": "legal",
+        "phonetic": "liːɡəl ",
+        "type": "adjective",
+        "defineEn": "related to the law",
+        "defineVi": "liên quan đến pháp luật",
+        "hasImg": true
+    },
+    {
+        "id": "c93bc9bc-80dd-4ac7-852c-26b19542576f",
+        "word": "illegal",
+        "phonetic": "ɪliːɡəl ",
+        "type": "adjective",
+        "defineEn": "forbidden by the law",
+        "defineVi": "pháp luật cấm",
+        "hasImg": true
+    },
+    {
+        "id": "ec324267-0f13-4993-8f04-4c02a43a16d2",
+        "word": "to appear",
+        "phonetic": "tʊ ɐpɪɹ ",
+        "type": "verb",
+        "defineEn": "to become visible and noticeable",
+        "defineVi": "để trở nên có thể nhìn thấy và đáng chú ý",
+        "hasImg": true
+    },
+    {
+        "id": "2dfa0dd7-caf2-41ca-be67-f11be14cf47c",
+        "word": "to disappear",
+        "phonetic": "tə dɪsɐpɪɹ ",
+        "type": "verb",
+        "defineEn": "to get out of sight or become impossible to see",
+        "defineVi": "để có được ra khỏi tầm nhìn hoặc trở nên không thể nhìn thấy",
+        "hasImg": true
+    },
+    {
+        "id": "e8ca1a60-ff3b-46be-b707-d0250a882171",
+        "word": "regular",
+        "phonetic": "ɹɛɡjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "following a pattern, especially one with fixed or uniform intervals",
+        "defineVi": "theo một mẫu, đặc biệt là một mẫu có khoảng thời gian cố định hoặc thống nhất"
+    },
+    {
+        "id": "4d608ae3-57d4-4af2-b065-10ed36043e7c",
+        "word": "irregular",
+        "phonetic": "ɪɹɛɡjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "not conforming to established rules, patterns, or norms",
+        "defineVi": "không tuân thủ các quy tắc, khuôn mẫu hoặc chuẩn mực đã được thiết lập"
+    },
+    {
+        "id": "09966989-1ce7-4355-8bed-1c77622bc913",
+        "word": "happy",
+        "phonetic": "hæpi ",
+        "type": "adjective",
+        "defineEn": "emotionally feeling good",
+        "defineVi": "cảm xúc tốt",
+        "hasImg": true
+    },
+    {
+        "id": "ea5d8cd8-bcf8-494c-83eb-007c96e921a2",
+        "word": "glad",
+        "phonetic": "ɡlæd ",
+        "type": "adjective",
+        "defineEn": "feeling happy or pleased",
+        "defineVi": "cảm thấy hạnh phúc hoặc hài lòng",
+        "hasImg": true
+    },
+    {
+        "id": "29b90188-62a0-4378-8574-f6a121a7322f",
+        "word": "articulate",
+        "phonetic": "ɑːɹtɪkjʊleɪt ",
+        "type": "adjective",
+        "defineEn": "(of a person) able to express oneself clearly and effectively",
+        "defineVi": "(của một người) có thể thể hiện bản thân một cách rõ ràng và hiệu quả",
+        "hasImg": true
+    },
+    {
+        "id": "a46b0d90-a657-4398-bd69-58a5cd5b22f1",
+        "word": "expressive",
+        "phonetic": "ɛkspɹɛsɪv ",
+        "type": "adjective",
+        "defineEn": "demonstrating or showing a strong or vivid display of emotions, feelings, or ideas",
+        "defineVi": "thể hiện hoặc thể hiện một màn trình diễn mạnh mẽ hoặc sống động về cảm xúc, cảm xúc hoặc ý tưởng"
+    },
+    {
+        "id": "9f772613-d1f9-4159-b11d-260701b573c3",
+        "word": "bright",
+        "phonetic": "bɹaɪt ",
+        "type": "adjective",
+        "defineEn": "capable of thinking and learning in a good and quick way",
+        "defineVi": "có khả năng tư duy và học hỏi một cách tốt và nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "9ddd87a1-a780-436b-bc41-5300a785cc45",
+        "word": "smart",
+        "phonetic": "smɑːɹt ",
+        "type": "adjective",
+        "defineEn": "able to think and learn in a good and quick way",
+        "defineVi": "có thể suy nghĩ và học hỏi một cách tốt và nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "b53c1d32-3ad7-4bc6-9d08-d4c709b0d748",
+        "word": "self-centered",
+        "phonetic": "sɛlfsɛntɚd ",
+        "type": "adjective",
+        "defineEn": "(of a person) not caring about the needs and feelings of no one but one's own",
+        "defineVi": "(của một người) không quan tâm đến nhu cầu và cảm xúc của ai ngoài chính mình",
+        "hasImg": true
+    },
+    {
+        "id": "67aa03c2-d33d-4cf8-974b-ba757b60313a",
+        "word": "selfish",
+        "phonetic": "sɛlfɪʃ ",
+        "type": "adjective",
+        "defineEn": "always putting one's interests first and not caring about the needs or rights of others",
+        "defineVi": "luôn đặt lợi ích của mình lên hàng đầu và không quan tâm đến nhu cầu hay quyền lợi của người khác",
+        "hasImg": true
+    },
+    {
+        "id": "fdb833b7-9087-4d4c-abf3-13bc043277df",
+        "word": "arrogant",
+        "phonetic": "æɹəɡənt ",
+        "type": "adjective",
+        "defineEn": "having a proud, unpleasant attitude toward others and showing an exaggerated sense of self-importance",
+        "defineVi": "có thái độ tự hào, khó chịu với người khác và thể hiện thái độ tự trọng quá mức",
+        "hasImg": true
+    },
+    {
+        "id": "d4aadf57-ebf8-4f5d-95cb-4f537b2d47e2",
+        "word": "big-headed",
+        "phonetic": "bɪɡhɛdᵻd ",
+        "type": "adjective",
+        "defineEn": "having or displaying the belief that one is superior in intellect, importance, skills, etc.",
+        "defineVi": "có hoặc thể hiện niềm tin rằng một người vượt trội về trí tuệ, tầm quan trọng, kỹ năng, v.v.",
+        "hasImg": true
+    }
+]

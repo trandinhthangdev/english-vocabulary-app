@@ -1,0 +1,415 @@
+[
+    {
+        "id": "754703e3-624f-420a-9599-90e27e511cdb",
+        "word": "to blow-dry",
+        "phonetic": "tə bloʊdɹaɪ ",
+        "type": "verb",
+        "defineEn": "to blow and dry hair and style it in a particular fashion using a dryer",
+        "defineVi": "thổi và làm khô tóc và tạo kiểu tóc theo kiểu cụ thể bằng máy sấy",
+        "hasImg": true
+    },
+    {
+        "id": "3e7a1b9b-e742-48e6-b678-3e17efc6d4e8",
+        "word": "to brush",
+        "phonetic": "tə bɹʌʃ ",
+        "type": "verb",
+        "defineEn": "to arrange or tidy up one's hair with a brush",
+        "defineVi": "để sắp xếp hoặc dọn dẹp tóc của một người với một bàn chải",
+        "hasImg": true
+    },
+    {
+        "id": "a7a23543-57ac-4fbe-a644-65daa9644e90",
+        "word": "to condition",
+        "phonetic": "tə kəndɪʃən ",
+        "type": "verb",
+        "defineEn": "to put a substance on the hair or skin in order to make it healthy and smooth",
+        "defineVi": "để đưa một chất lên tóc hoặc da để làm cho nó khỏe mạnh và mịn màng",
+        "hasImg": true
+    },
+    {
+        "id": "d37d338c-5634-46bc-9a82-fae728715096",
+        "word": "to crimp",
+        "phonetic": "tə kɹɪmp ",
+        "type": "verb",
+        "defineEn": "to make tight curls in someone's hair using a hair iron",
+        "defineVi": "để tạo những lọn tóc xoăn chặt trên tóc của ai đó bằng bàn là tóc",
+        "hasImg": true
+    },
+    {
+        "id": "d1fee961-ef9b-446f-a0de-5d95c38aa8b5",
+        "word": "to crop",
+        "phonetic": "tə kɹɑːp ",
+        "type": "verb",
+        "defineEn": "to cut someone's hair short",
+        "defineVi": "để cắt tóc của ai đó ngắn",
+        "hasImg": true
+    },
+    {
+        "id": "21b58af6-de1c-4949-90ad-e52321ff31d4",
+        "word": "to curl",
+        "phonetic": "tə kɜːl ",
+        "type": "verb",
+        "defineEn": "to form or shape hair into a series of loops or spirals using a curling iron, rollers, or other styling tools",
+        "defineVi": "để tạo hoặc định hình tóc thành một loạt các vòng hoặc xoắn ốc bằng cách sử dụng máy uốn tóc, lô cuốn hoặc các dụng cụ tạo kiểu tóc khác"
+    },
+    {
+        "id": "4561e98f-5f63-443a-b81e-535d2f1b24a0",
+        "word": "to delouse",
+        "phonetic": "tə dᵻlaʊs ",
+        "type": "verb",
+        "defineEn": "to remove lice or similar insects from someone's hair or an animals coating",
+        "defineVi": "để loại bỏ chấy hoặc côn trùng tương tự khỏi tóc của ai đó hoặc lớp phủ động vật"
+    },
+    {
+        "id": "dfeadab4-c14c-4a00-8bc5-33b2c0b713c4",
+        "word": "to dye",
+        "phonetic": "tə daɪ ",
+        "type": "verb",
+        "defineEn": "to change the color of something using a liquid substance",
+        "defineVi": "để thay đổi màu sắc của một cái gì đó bằng cách sử dụng một chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "e9706a4e-cbeb-4f69-8cc9-dcdfc478b3e6",
+        "word": "to fix",
+        "phonetic": "tə fɪks ",
+        "type": "verb",
+        "defineEn": "(of hair or makeup) to rearrange in order to look nice and tidy",
+        "defineVi": "(của tóc hoặc trang điểm) để sắp xếp lại để trông đẹp và gọn gàng",
+        "hasImg": true
+    },
+    {
+        "id": "2fac8536-3aea-4f3d-9851-8503366c36e8",
+        "word": "haircut",
+        "phonetic": "hɛɹkʌt ",
+        "type": "noun",
+        "defineEn": "the act of cutting hair or having our hair cut",
+        "defineVi": "hành động cắt tóc hoặc cắt tóc của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "04343b91-2279-4fde-85f2-35b6c6604d11",
+        "word": "hairstyling",
+        "phonetic": "hɛɹstaɪlɪŋ ",
+        "type": "noun",
+        "defineEn": "the skill or action of cutting and arranging hair in a beautiful way",
+        "defineVi": "kỹ năng hoặc hành động cắt và sắp xếp tóc một cách đẹp",
+        "hasImg": true
+    },
+    {
+        "id": "1ee0988e-bd94-408d-9e11-89f429600a83",
+        "word": "styling",
+        "phonetic": "staɪlɪŋ ",
+        "type": "noun",
+        "defineEn": "the action or process of dressing someone's hair in a particular fashion",
+        "defineVi": "hành động hoặc quá trình trang điểm tóc của ai đó trong một thời trang cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "f7362e2b-c6be-418d-b2d2-638f5f923f47",
+        "word": "to primp",
+        "phonetic": "tə pɹɪmp ",
+        "type": "verb",
+        "defineEn": "to spend time in front of a mirror to arrange hair and fix makeup or appearance in an attractive and elaborate way",
+        "defineVi": "dành thời gian trước gương để chải tóc và trang điểm hoặc diện mạo một cách hấp dẫn và tỉ mỉ",
+        "hasImg": true
+    },
+    {
+        "id": "87ec6f01-4176-4c01-884b-78236d0a2cb9",
+        "word": "to set",
+        "phonetic": "tə sɛt ",
+        "type": "verb",
+        "defineEn": "to arrange wet hair in a way that stays the same after being dried",
+        "defineVi": "sắp xếp tóc ướt theo cách giữ nguyên sau khi sấy khô",
+        "hasImg": true
+    },
+    {
+        "id": "74cbd2b5-2f5a-490a-9826-3484a92bc88b",
+        "word": "to trim",
+        "phonetic": "tə tɹɪm ",
+        "type": "verb",
+        "defineEn": "to cut something neat and orderly, especially beard or hair",
+        "defineVi": "để cắt một cái gì đó gọn gàng và có trật tự, đặc biệt là râu hoặc tóc",
+        "hasImg": true
+    },
+    {
+        "id": "7165b4af-d779-4fd2-a8fb-bad063fc21c2",
+        "word": "grooming",
+        "phonetic": "ɡɹuːmɪŋ ",
+        "type": "noun",
+        "defineEn": "the activity of keeping tidy and neat by brushing hair, keeping clothes clean, etc.",
+        "defineVi": "hoạt động giữ ngăn nắp và gọn gàng bằng cách chải tóc, giữ quần áo sạch sẽ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "5cd62570-090f-492b-ae35-e70d23430ec9",
+        "word": "hairdo",
+        "phonetic": "hɛɹduː ",
+        "type": "noun",
+        "defineEn": "the way in which someone's hair is arranged",
+        "defineVi": "cách sắp xếp tóc của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "1db62b9a-2fb1-4c97-80ad-4c19b09f6257",
+        "word": "to backcomb",
+        "phonetic": "tə bækkoʊm ",
+        "type": "verb",
+        "defineEn": "to comb hair in the opposite direction that it naturally lies in order to make it look thicker",
+        "defineVi": "chải tóc theo hướng ngược lại với hướng tóc nằm tự nhiên để tóc trông dày hơn",
+        "hasImg": true
+    },
+    {
+        "id": "73feae56-5929-4f48-807d-ce54cbc2dff4",
+        "word": "to volumize",
+        "phonetic": "tə vɑːluːmaɪz ",
+        "type": "verb",
+        "defineEn": "to make hair appear thick and full-bodied",
+        "defineVi": "để làm cho tóc trông dày và đầy đặn",
+        "hasImg": true
+    },
+    {
+        "id": "50aaa821-41b3-41f2-8b6c-c5bd5e4a4e16",
+        "word": "to untangle",
+        "phonetic": "tʊ ʌntæŋɡəl ",
+        "type": "verb",
+        "defineEn": "to become or to cause something, such as tangled hair, become separated",
+        "defineVi": "để trở thành hoặc gây ra một cái gì đó, chẳng hạn như tóc rối, trở nên tách biệt",
+        "hasImg": true
+    },
+    {
+        "id": "918dd2c0-3116-4866-aa7a-a5cfb647e579",
+        "word": "coiffure",
+        "phonetic": "kɔɪfjʊɹ ",
+        "type": "noun",
+        "defineEn": "the style in which a person's hair is arranged",
+        "defineVi": "phong cách mà tóc của một người được sắp xếp",
+        "hasImg": true
+    },
+    {
+        "id": "636d9ea8-6fb4-4c8d-b512-7f7267edd37b",
+        "word": "cut",
+        "phonetic": "kʌt ",
+        "type": "noun",
+        "defineEn": "the style or the act of cutting someone's hair",
+        "defineVi": "phong cách hoặc hành động cắt tóc của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "bb7a67e3-eaf6-4076-8e5c-bf3f2544685b",
+        "word": "to braid",
+        "phonetic": "tə bɹeɪd ",
+        "type": "verb",
+        "defineEn": "to twist two or three strands of hair in a way that forms a single intertwined piece",
+        "defineVi": "để xoắn hai hoặc ba sợi tóc theo cách tạo thành một mảnh duy nhất đan xen",
+        "hasImg": true
+    },
+    {
+        "id": "ea0d3c86-b909-4179-8c25-94e25380ab57",
+        "word": "to comb",
+        "phonetic": "tə koʊm ",
+        "type": "verb",
+        "defineEn": "to use a comb to tidy or arrange the hair",
+        "defineVi": "sử dụng lược để gọn gàng hoặc sắp xếp tóc",
+        "hasImg": true
+    },
+    {
+        "id": "08e4fd57-93af-4d46-8a0d-cb68dc53b49d",
+        "word": "to gel",
+        "phonetic": "tə dʒɛl ",
+        "type": "verb",
+        "defineEn": "to apply hair gel to someone's hair",
+        "defineVi": "thoa gel vuốt tóc lên tóc của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "8d4b61bb-b5f7-47d8-b41e-eddc26aa1fca",
+        "word": "to highlight",
+        "phonetic": "tə haɪlaɪt ",
+        "type": "verb",
+        "defineEn": "to make parts of the hair a shade lighter than the rest using chemical substances",
+        "defineVi": "để làm cho các phần của tóc có màu sáng hơn phần còn lại bằng cách sử dụng các chất hóa học",
+        "hasImg": true
+    },
+    {
+        "id": "56089c51-80f8-4022-a0f6-52fbc467edf8",
+        "word": "to layer",
+        "phonetic": "tə leɪɚ ",
+        "type": "verb",
+        "defineEn": "to cut hair at different lengths in a way that forms overlapping layers",
+        "defineVi": "để cắt tóc ở các độ dài khác nhau theo cách tạo thành các lớp chồng lên nhau",
+        "hasImg": true
+    },
+    {
+        "id": "141e47c6-fa52-4f63-a980-d3ee7f1e9b92",
+        "word": "to part",
+        "phonetic": "tə pɑːɹt ",
+        "type": "verb",
+        "defineEn": "to divide someone's hair in two parts with a comb creating a line on the scalp",
+        "defineVi": "chia tóc của ai đó thành hai phần bằng lược tạo một đường trên da đầu",
+        "hasImg": true
+    },
+    {
+        "id": "81fae0fe-d9dc-4010-889f-47ccdbdd0ccb",
+        "word": "to perm",
+        "phonetic": "tə pɜːm ",
+        "type": "verb",
+        "defineEn": "to make a straight hair become curly for a period of time, using chemicals",
+        "defineVi": "để làm cho một mái tóc thẳng trở nên xoăn trong một thời gian, sử dụng hóa chất",
+        "hasImg": true
+    },
+    {
+        "id": "61cf2837-2471-48fd-8ae9-c68fcb181e4d",
+        "word": "to plait",
+        "phonetic": "tə pleɪt ",
+        "type": "verb",
+        "defineEn": "to twist two or three strands of hair in a way that forms a single intertwined piece",
+        "defineVi": "để xoắn hai hoặc ba sợi tóc theo cách tạo thành một mảnh duy nhất đan xen",
+        "hasImg": true
+    },
+    {
+        "id": "c9ba2aa4-1421-4eaa-87c5-4fa270bccaaa",
+        "word": "to scrape back",
+        "phonetic": "tə skɹeɪp bæk ",
+        "type": "verb",
+        "defineEn": "to brush or pull back hair from the forehead or face to create a sleek or polished hairstyle",
+        "defineVi": "chải hoặc kéo tóc ra khỏi trán hoặc mặt để tạo kiểu tóc bóng mượt hoặc bóng bẩy"
+    },
+    {
+        "id": "43f6577a-9109-46fa-bb32-f5f4999131a1",
+        "word": "to scrunch-dry",
+        "phonetic": "tə skɹʌntʃdɹaɪ ",
+        "type": "verb",
+        "defineEn": "to dry hair by gently squeezing or scrunching it to enhance natural curls, waves, or texture",
+        "defineVi": "làm khô tóc bằng cách bóp hoặc vò nhẹ tóc để tăng độ xoăn, sóng hoặc kết cấu tự nhiên"
+    },
+    {
+        "id": "5a984ad8-b4da-43b8-83d4-4099d8f8549d",
+        "word": "to shampoo",
+        "phonetic": "tə ʃæmpuː ",
+        "type": "verb",
+        "defineEn": "to wash something clean using shampoo",
+        "defineVi": "để rửa một cái gì đó sạch sẽ bằng cách sử dụng dầu gội đầu",
+        "hasImg": true
+    },
+    {
+        "id": "c07a2933-63cb-458f-abaf-62791e71af46",
+        "word": "to sleek down",
+        "phonetic": "tə sliːk daʊn ",
+        "type": "verb",
+        "defineEn": "to use styling products or tools to flatten and tame the hair, making it appear smooth, sleek, and well-groomed",
+        "defineVi": "sử dụng các sản phẩm hoặc công cụ tạo kiểu tóc để làm phẳng và thuần hóa tóc, giúp tóc trông mượt mà, bóng mượt và được chăm sóc tốt"
+    },
+    {
+        "id": "26c352ec-22e5-41d6-87d1-4a2d8ad14258",
+        "word": "to slick",
+        "phonetic": "tə slɪk ",
+        "type": "verb",
+        "defineEn": "to make someone's hair flat and shiny using water or oil",
+        "defineVi": "để làm cho mái tóc của ai đó phẳng và sáng bóng bằng cách sử dụng nước hoặc dầu",
+        "hasImg": true
+    },
+    {
+        "id": "0b44f173-116c-4cb0-a50a-b745ca117932",
+        "word": "to streak",
+        "phonetic": "tə stɹiːk ",
+        "type": "verb",
+        "defineEn": "to mark with spots or blotches of different color or shades of color as if stained",
+        "defineVi": "để đánh dấu bằng các đốm hoặc đốm có màu sắc hoặc sắc thái khác nhau như thể bị nhuộm màu"
+    },
+    {
+        "id": "f19b35d7-7a28-47b7-94b2-e421156a2b3d",
+        "word": "to tease",
+        "phonetic": "tə tiːz ",
+        "type": "verb",
+        "defineEn": "to playfully provoke or create volume and texture in hair through backcombing or backbrushing",
+        "defineVi": "để tinh nghịch khiêu khích hoặc tạo khối lượng và kết cấu trên tóc thông qua chải ngược hoặc chải ngược",
+        "hasImg": true
+    },
+    {
+        "id": "a7978baf-335f-4e9a-9ff3-e49ad74a2b8e",
+        "word": "to tint",
+        "phonetic": "tə tɪnt ",
+        "type": "verb",
+        "defineEn": "to color someone's hair using a chemical",
+        "defineVi": "để màu tóc của một ai đó bằng cách sử dụng một hóa chất",
+        "hasImg": true
+    },
+    {
+        "id": "2a0d3528-e213-4407-a6db-536cfd33a850",
+        "word": "to tousle",
+        "phonetic": "tə taʊsəl ",
+        "type": "verb",
+        "defineEn": "to make someone's hair appear untidy or unruly",
+        "defineVi": "để làm cho mái tóc của ai đó xuất hiện lộn xộn hoặc ngang bướng"
+    },
+    {
+        "id": "823e137b-60e4-48ed-8f5b-05d8140647fa",
+        "word": "to relax",
+        "phonetic": "tə ɹᵻlæks ",
+        "type": "verb",
+        "defineEn": "to loosen or reduce curl or wave pattern in the hair for a straighter or smoother look, often using heat styling tools or techniques",
+        "defineVi": "để nới lỏng hoặc giảm độ xoăn hoặc gợn sóng trên tóc để trông thẳng hơn hoặc mượt mà hơn, thường sử dụng các công cụ hoặc kỹ thuật tạo kiểu tóc bằng nhiệt"
+    },
+    {
+        "id": "f0770384-e911-4614-9613-93de33ed7dc0",
+        "word": "to mousse",
+        "phonetic": "tə muːs ",
+        "type": "verb",
+        "defineEn": "to style someone's hair with a light foamy product",
+        "defineVi": "tạo kiểu tóc cho ai đó bằng sản phẩm tạo bọt nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "7ce194be-6484-45db-9528-124b8ee88caa",
+        "word": "to sweep",
+        "phonetic": "tə swiːp ",
+        "type": "verb",
+        "defineEn": "to brush or comb hair back from the face",
+        "defineVi": "để chải hoặc chải tóc ra khỏi mặt",
+        "hasImg": true
+    },
+    {
+        "id": "15e161f5-c7a0-4b4d-a64b-da646e015a9c",
+        "word": "to scrunch",
+        "phonetic": "tə skɹʌntʃ ",
+        "type": "verb",
+        "defineEn": "to squeeze the hair with hands to make it look wavy",
+        "defineVi": "dùng tay bóp tóc để tóc trông gợn sóng",
+        "hasImg": true
+    },
+    {
+        "id": "6eb28f30-2123-4b1f-a977-969d0b8086e1",
+        "word": "haircare",
+        "phonetic": "hɛɹkɛɹ ",
+        "type": "noun",
+        "defineEn": "the practice and products used to maintain the health, cleanliness, and appearance of one's hair",
+        "defineVi": "thực hành và các sản phẩm được sử dụng để duy trì sức khỏe, sự sạch sẽ và vẻ ngoài của mái tóc của một người"
+    },
+    {
+        "id": "44556761-6b6a-42cb-8517-87a11ee9f09b",
+        "word": "to henna",
+        "phonetic": "tə hɛnə ",
+        "type": "verb",
+        "defineEn": "to apply a natural plant-based dye, typically derived from the henna plant",
+        "defineVi": "để áp dụng một loại thuốc nhuộm dựa trên thực vật tự nhiên, thường có nguồn gốc từ cây henna"
+    },
+    {
+        "id": "d216a256-167a-45dc-bdc2-fcc1e4757e6b",
+        "word": "to pomade",
+        "phonetic": "tə pɑːmeɪd ",
+        "type": "verb",
+        "defineEn": "to apply a scented oil to hair to make it shiny",
+        "defineVi": "bôi dầu thơm lên tóc để tóc bóng mượt",
+        "hasImg": true
+    },
+    {
+        "id": "3a87fd1d-a877-44ee-946f-2ada62cf296f",
+        "word": "to groom",
+        "phonetic": "tə ɡɹuːm ",
+        "type": "verb",
+        "defineEn": "to clean, style, and maintain one's hair",
+        "defineVi": "để làm sạch, phong cách, và duy trì mái tóc của một người",
+        "hasImg": true
+    }
+]

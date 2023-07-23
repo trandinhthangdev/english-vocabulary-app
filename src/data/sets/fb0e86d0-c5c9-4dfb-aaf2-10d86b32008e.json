@@ -1,0 +1,344 @@
+[
+    {
+        "id": "6d3ac9fb-3521-4dd3-9bdb-5c09d98d3773",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "an imaginary line in the middle of an object around which the object revolves",
+        "defineVi": "một đường tưởng tượng ở giữa một vật thể mà vật thể xoay quanh",
+        "hasImg": true
+    },
+    {
+        "id": "cb20227a-8b62-4092-a148-c68dfa1a46ca",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "(geometry) an arbitrary straight line that passes through the center of a symmetrical object or around which an object spins",
+        "defineVi": "(hình học) đường thẳng tùy ý đi qua tâm của một vật đối xứng hoặc xung quanh vật quay",
+        "hasImg": true
+    },
+    {
+        "id": "39208d19-42e3-47ed-a4e2-760fd1b052f2",
+        "word": "cross",
+        "phonetic": "kɹɔs ",
+        "type": "noun",
+        "defineEn": "a mark or an object formed by two short lines or pieces crossing each other (+ or ×)",
+        "defineVi": "một nhãn hiệu hoặc một đối tượng được hình thành bởi hai dòng hoặc mảnh ngắn giao nhau (+ hoặc ×)",
+        "hasImg": true
+    },
+    {
+        "id": "5a64a921-4457-4e7c-b637-ceae0bb0439c",
+        "word": "diagonal",
+        "phonetic": "daɪæɡənəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a straight line that joins the opposite corners of a flat shape at an angle",
+        "defineVi": "(hình học) đường thẳng nối hai góc đối diện của một hình phẳng theo một góc",
+        "hasImg": true
+    },
+    {
+        "id": "b356a17e-1b70-4b84-b936-d6329d659bcb",
+        "word": "zigzag",
+        "phonetic": "zɪɡzæɡ ",
+        "type": "noun",
+        "defineEn": "(geometry) a shape that consists of a line alternating its direction to left and right",
+        "defineVi": "(hình học) một hình bao gồm một đường xen kẽ hướng của nó sang trái và phải",
+        "hasImg": true
+    },
+    {
+        "id": "bd0c0b13-37fd-4864-a06f-f233a1c83768",
+        "word": "balbis",
+        "phonetic": "bælbɪs ",
+        "type": "noun",
+        "defineEn": "a straight line that is terminated by a secondary line at each end, resembling the letter H",
+        "defineVi": "một đường thẳng được kết thúc bằng một đường phụ ở mỗi đầu, giống như chữ H"
+    },
+    {
+        "id": "37407bba-5cb0-46ac-bbe6-9de9adac2db6",
+        "word": "ray",
+        "phonetic": "ɹeɪ ",
+        "type": "noun",
+        "defineEn": "a straight line with one endpoint that extends infinitely in the other direction",
+        "defineVi": "một đường thẳng với một điểm cuối kéo dài vô tận theo hướng khác",
+        "hasImg": true
+    },
+    {
+        "id": "8460b870-424a-4b1e-89a0-6c8245059144",
+        "word": "line segment",
+        "phonetic": "laɪn sɛɡmənt ",
+        "type": "noun",
+        "defineEn": "a portion of a straight line that is defined by two distinct endpoints",
+        "defineVi": "một phần của một đường thẳng được xác định bởi hai điểm cuối khác biệt",
+        "hasImg": true
+    },
+    {
+        "id": "d6f646a0-404e-41d9-aa6c-011a0cf529fe",
+        "word": "parallel",
+        "phonetic": "pæɹəlɛl ",
+        "type": "noun",
+        "defineEn": "(mathematics) any of the pair of geometric figures such as lines or planes which do not meet or intersect",
+        "defineVi": "(toán học) bất kỳ cặp hình hình học nào như đường thẳng hoặc mặt phẳng không giao nhau hoặc không giao nhau",
+        "hasImg": true
+    },
+    {
+        "id": "ae7e4f75-07e9-4570-9bd3-1d4e0aaef9dc",
+        "word": "perpendicular",
+        "phonetic": "pɜːpəndɪkjʊlɚ ",
+        "type": "noun",
+        "defineEn": "a straight line at right angles to another line",
+        "defineVi": "một đường thẳng vuông góc với một đường thẳng khác"
+    },
+    {
+        "id": "cbd8d2e4-187f-430e-9df0-4ef3e2f4e5ea",
+        "word": "tangent",
+        "phonetic": "tændʒənt ",
+        "type": "noun",
+        "defineEn": "a straight line that touches a curve or surface at exactly one point, known as the point of tangency",
+        "defineVi": "một đường thẳng chạm vào một đường cong hoặc bề mặt tại chính xác một điểm, được gọi là điểm tiếp tuyến",
+        "hasImg": true
+    },
+    {
+        "id": "2ff3eb20-2eed-4961-8717-6eb76cc9dd47",
+        "word": "secant",
+        "phonetic": "siːkənt ",
+        "type": "noun",
+        "defineEn": "a line that intersects a circle at two distinct points",
+        "defineVi": "đường thẳng cắt đường tròn tại hai điểm phân biệt",
+        "hasImg": true
+    },
+    {
+        "id": "55e8604c-daa0-4747-a737-d552d8ed15b8",
+        "word": "linear pair",
+        "phonetic": "lɪnɪɹ pɛɹ ",
+        "type": "noun",
+        "defineEn": "a pair of adjacent angles formed by two intersecting lines, which add up to 180 degrees",
+        "defineVi": "một cặp góc kề nhau được tạo bởi hai đường thẳng cắt nhau, có tổng bằng 180 độ",
+        "hasImg": true
+    },
+    {
+        "id": "1938a649-6343-4796-a7ca-76c3aa8a34a3",
+        "word": "acute angle",
+        "phonetic": "ɐkjuːt æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle that measures between 0 and 90 degrees, which is less than a right angle (90 degrees)",
+        "defineVi": "một góc có số đo từ 0 đến 90 độ, nhỏ hơn góc vuông (90 độ)",
+        "hasImg": true
+    },
+    {
+        "id": "e2288d87-7607-4911-b7a4-dcfa24746df5",
+        "word": "obtuse angle",
+        "phonetic": "əbtuːs æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle between 90 and 180 degrees",
+        "defineVi": "một góc giữa 90 và 180 độ"
+    },
+    {
+        "id": "b44f7247-6b9e-494a-b4b0-8880580c7aed",
+        "word": "right angle",
+        "phonetic": "ɹaɪt æŋɡəl ",
+        "type": "noun",
+        "defineEn": "(geometry) an angle of 90° or ¹/₂ π radians",
+        "defineVi": "(hình học) một góc 90° hoặc ¹/₂ π radian",
+        "hasImg": true
+    },
+    {
+        "id": "4bf206f9-8590-4a97-a486-b15dd0358432",
+        "word": "straight angle",
+        "phonetic": "stɹeɪt æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle that measures exactly 180 degrees, which is the same as a straight line",
+        "defineVi": "một góc đo chính xác 180 độ, giống như một đường thẳng",
+        "hasImg": true
+    },
+    {
+        "id": "b68d80eb-ce25-4022-8c8a-778247f2e671",
+        "word": "oblique angle",
+        "phonetic": "oʊbliːk æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle that is not a right angle or a multiple of a right angle",
+        "defineVi": "một góc không phải là góc vuông hoặc bội số của một góc vuông"
+    },
+    {
+        "id": "6f45e19d-51c6-49da-b7b0-01b58e086867",
+        "word": "reflex angle",
+        "phonetic": "ɹiːflɛks æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle that measures greater than 180 degrees but less than 360 degrees",
+        "defineVi": "một góc có số đo lớn hơn 180 độ nhưng nhỏ hơn 360 độ",
+        "hasImg": true
+    },
+    {
+        "id": "44dd2db6-3fca-4e41-8993-102295d0b426",
+        "word": "full rotation",
+        "phonetic": "fʊl ɹoʊteɪʃən ",
+        "type": "noun",
+        "defineEn": "a complete revolution or turn around a fixed point or axis, covering a 360-degree angle",
+        "defineVi": "một cuộc cách mạng hoàn chỉnh hoặc quay quanh một điểm hoặc trục cố định, bao phủ một góc 360 độ",
+        "hasImg": true
+    },
+    {
+        "id": "0430c9d2-8e89-43f1-b42e-e73453a72da0",
+        "word": "positive angle",
+        "phonetic": "pɑːzᵻtɪv æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle measured counterclockwise from the initial side of a reference angle in standard position, usually expressed in degrees or radians",
+        "defineVi": "một góc được đo ngược chiều kim đồng hồ từ phía ban đầu của một góc tham chiếu ở vị trí tiêu chuẩn, thường được biểu thị bằng độ hoặc radian"
+    },
+    {
+        "id": "71e33f39-10b9-48ca-ad2c-41f8903d4adf",
+        "word": "negative angle",
+        "phonetic": "nɛɡətɪv æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle measured clockwise from the initial side of a reference angle in standard position, usually expressed in degrees or radians",
+        "defineVi": "một góc được đo theo chiều kim đồng hồ từ phía ban đầu của một góc tham chiếu ở vị trí tiêu chuẩn, thường được biểu thị bằng độ hoặc radian"
+    },
+    {
+        "id": "0ea38a07-b4af-4fbe-9348-08622d0893c2",
+        "word": "adjacent angles",
+        "phonetic": "ɐdʒeɪsənt æŋɡəlz ",
+        "type": "noun",
+        "defineEn": "two angles that share a common vertex and a common side, but do not overlap, and are not in a straight line",
+        "defineVi": "hai góc có chung đỉnh, chung cạnh nhưng không trùng nhau và không thẳng hàng",
+        "hasImg": true
+    },
+    {
+        "id": "98cc4ff6-fbd0-4521-9ad2-798ea2814918",
+        "word": "plane angle",
+        "phonetic": "pleɪn æŋɡəl ",
+        "type": "noun",
+        "defineEn": "an angle formed by two straight lines (in the same plane)",
+        "defineVi": "một góc tạo bởi hai đường thẳng (trong cùng một mặt phẳng)"
+    },
+    {
+        "id": "6a30325b-00ef-4652-a4ba-f7891aa54a10",
+        "word": "arc",
+        "phonetic": "ɑːɹk ",
+        "type": "noun",
+        "defineEn": "(geometry) a part of a circle, which is curved",
+        "defineVi": "(hình học) một phần của hình tròn, cong",
+        "hasImg": true
+    },
+    {
+        "id": "72b9300d-cf79-429e-bdf5-b1f5ef0bb630",
+        "word": "arc",
+        "phonetic": "ɑːɹk ",
+        "type": "noun",
+        "defineEn": "a curved shape, or something shaped this way",
+        "defineVi": "một hình dạng cong, hoặc một cái gì đó hình dạng theo cách này",
+        "hasImg": true
+    },
+    {
+        "id": "df9e6d74-98c1-4730-9e02-9bab5338733d",
+        "word": "concavity",
+        "phonetic": "kəŋkævᵻɾi ",
+        "type": "noun",
+        "defineEn": "a shape, line or surface that is hollow and is rounded inward",
+        "defineVi": "một hình dạng, đường hoặc bề mặt rỗng và được làm tròn vào trong",
+        "hasImg": true
+    },
+    {
+        "id": "221ceed1-2c18-4738-9543-fc3e315a9d0a",
+        "word": "conic section",
+        "phonetic": "kɑːnɪk sɛkʃən ",
+        "type": "noun",
+        "defineEn": "(geometry) a shape formed when a circular cone is intersected by a plane",
+        "defineVi": "(hình học) hình được tạo thành khi một hình nón tròn bị cắt bởi một mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "6eea05f1-b05c-4af8-9bf5-4d3ec4dd2da0",
+        "word": "crescent",
+        "phonetic": "kɹɛsənt ",
+        "type": "noun",
+        "defineEn": "a curved shape with narrow points at the ends that appears wider in the middle; like the shape of the moon in its first and last quarters",
+        "defineVi": "một hình dạng cong với các điểm hẹp ở hai đầu có vẻ rộng hơn ở giữa; giống như hình dạng của mặt trăng trong quý đầu tiên và cuối cùng của nó",
+        "hasImg": true
+    },
+    {
+        "id": "02f7644d-b4c2-423f-8080-f17767e9abba",
+        "word": "curl",
+        "phonetic": "kɜːl ",
+        "type": "noun",
+        "defineEn": "something that resembles a spiral or coil",
+        "defineVi": "một cái gì đó giống như một hình xoắn ốc hoặc cuộn dây",
+        "hasImg": true
+    },
+    {
+        "id": "a7ff0c84-2bb1-4e93-8170-31dbeeb7e0f5",
+        "word": "spiral",
+        "phonetic": "spaɪɚɹəl ",
+        "type": "noun",
+        "defineEn": "a plane curve traced by a point circling about the center but at increasing distances from the center",
+        "defineVi": "một đường cong phẳng được vẽ bởi một điểm quay quanh tâm nhưng ở khoảng cách tăng dần từ tâm"
+    },
+    {
+        "id": "f598b44d-49bf-4b6c-a3e2-bfdde798d28a",
+        "word": "spiral",
+        "phonetic": "spaɪɚɹəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a curved shape or design that gradually winds around a center or axis",
+        "defineVi": "(hình học) hình dạng hoặc thiết kế cong uốn lượn dần quanh tâm hoặc trục",
+        "hasImg": true
+    },
+    {
+        "id": "80a48b44-7e53-4f3c-b8d1-b3298e816f94",
+        "word": "ellipse",
+        "phonetic": "ɪlɪps ",
+        "type": "noun",
+        "defineEn": "(geometry) a closed plane curve that has two focal points",
+        "defineVi": "(hình học) một đường cong phẳng khép kín có hai tiêu điểm",
+        "hasImg": true
+    },
+    {
+        "id": "70a175b0-9095-455e-8bcc-02c9da3dbe46",
+        "word": "parabola",
+        "phonetic": "pɚɹæbələ ",
+        "type": "noun",
+        "defineEn": "(geometry) a symmetrical open curve that is similar to the path of an object thrown into the air passes till it falls back to earth",
+        "defineVi": "(hình học) một đường cong mở đối xứng tương tự như đường đi của một vật thể được ném lên không trung cho đến khi nó rơi trở lại trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "cdf82358-6034-45dd-b3e4-b71a79f8777b",
+        "word": "hyperbola",
+        "phonetic": "haɪpɜːbələ ",
+        "type": "noun",
+        "defineEn": "an open curve formed by a plane that cuts the base of a right circular cone",
+        "defineVi": "một đường cong mở được tạo bởi một mặt phẳng cắt đáy của một hình nón tròn bên phải"
+    },
+    {
+        "id": "5ced8a31-dbd1-47c6-9017-e33a13ec3e8e",
+        "word": "simple curve",
+        "phonetic": "sɪmpəl kɜːv ",
+        "type": "noun",
+        "defineEn": "a continuous curve that does not intersect itself, and can be traced without lifting the pen or pencil from the paper",
+        "defineVi": "một đường cong liên tục không giao nhau và có thể được vẽ mà không cần nhấc bút hoặc bút chì ra khỏi giấy",
+        "hasImg": true
+    },
+    {
+        "id": "f12348c2-a072-4c0f-951c-6c94c446fa95",
+        "word": "non-simple curve",
+        "phonetic": "nɑːnsɪmpəl kɜːv ",
+        "type": "noun",
+        "defineEn": "a curve that intersects itself, or has overlapping segments, requiring the pen or pencil to be lifted from the paper while tracing it",
+        "defineVi": "một đường cong cắt chính nó hoặc có các đoạn chồng chéo, yêu cầu phải nhấc bút hoặc bút chì ra khỏi giấy trong khi vạch ra nó",
+        "hasImg": true
+    },
+    {
+        "id": "005dd39c-7d70-4273-ae41-fc1df4b8ae1d",
+        "word": "open curve",
+        "phonetic": "oʊpən kɜːv ",
+        "type": "noun",
+        "defineEn": "a curve that does not intersect itself and has distinct endpoints, meaning it does not form a closed shape or loop",
+        "defineVi": "một đường cong không tự cắt nhau và có các điểm cuối khác biệt, nghĩa là nó không tạo thành một hình hoặc vòng khép kín",
+        "hasImg": true
+    },
+    {
+        "id": "e6be4073-09c8-4037-8c75-c22868b95583",
+        "word": "closed curve",
+        "phonetic": "kloʊzd kɜːv ",
+        "type": "noun",
+        "defineEn": "a curve that begins and ends at the same point, forming a closed loop",
+        "defineVi": "một đường cong bắt đầu và kết thúc tại cùng một điểm, tạo thành một vòng khép kín",
+        "hasImg": true
+    }
+]

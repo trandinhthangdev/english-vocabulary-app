@@ -1,0 +1,325 @@
+[
+    {
+        "id": "63d155b0-43d7-47ad-9de2-0d712411f59d",
+        "word": "to depreciate",
+        "phonetic": "tə dᵻpɹiːʃɪeɪt ",
+        "type": "verb",
+        "defineEn": "to diminish in value, especially over time",
+        "defineVi": "để giảm giá trị, đặc biệt là theo thời gian"
+    },
+    {
+        "id": "a82a42b8-63b6-4f59-9193-d9dd185d70ca",
+        "word": "to fluctuate",
+        "phonetic": "tə flʌktʃuːeɪt ",
+        "type": "verb",
+        "defineEn": "to rise and fall continuously in amount, quality, size, etc.",
+        "defineVi": "tăng giảm liên tục về số lượng, chất lượng, quy mô, v.v."
+    },
+    {
+        "id": "0e367abe-001a-4bfa-aa76-8de16b1e2fb2",
+        "word": "to plummet",
+        "phonetic": "tə plʌmɪt ",
+        "type": "verb",
+        "defineEn": "to decline in amount or value in a sudden and rapid way",
+        "defineVi": "giảm về số lượng hoặc giá trị một cách đột ngột và nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "8b1f187d-dd7c-4b36-aca3-b1f6bf5fe4c4",
+        "word": "to soar",
+        "phonetic": "tə soːɹ ",
+        "type": "verb",
+        "defineEn": "increase rapidly to a high level",
+        "defineVi": "tăng nhanh đến mức cao"
+    },
+    {
+        "id": "18d870b5-1674-4cb8-a328-c7f95033822b",
+        "word": "convertible",
+        "phonetic": "kənvɜːɾᵻbəl ",
+        "type": "adjective",
+        "defineEn": "able to be changed from one form of currency, investment, or security into another",
+        "defineVi": "có thể được thay đổi từ một hình thức tiền tệ, đầu tư hoặc chứng khoán này sang một hình thức khác"
+    },
+    {
+        "id": "11d4d07b-e246-4aa1-b9bc-ef5f79648097",
+        "word": "deregulatory",
+        "phonetic": "diːɹɛɡjʊlətoːɹi ",
+        "type": "adjective",
+        "defineEn": "relating to the removal or reduction of governmental power or regulations from an industry, commodity, etc.",
+        "defineVi": "liên quan đến việc loại bỏ hoặc giảm quyền lực hoặc quy định của chính phủ đối với một ngành, hàng hóa, v.v."
+    },
+    {
+        "id": "b41ba2f1-65cd-4051-b4fc-4af583896d52",
+        "word": "extravagant",
+        "phonetic": "ɛkstɹævəɡənt ",
+        "type": "adjective",
+        "defineEn": "costing a lot of money, more than the necessary or affordable amount",
+        "defineVi": "tốn rất nhiều tiền, nhiều hơn số tiền cần thiết hoặc giá cả phải chăng"
+    },
+    {
+        "id": "d0d3c729-ff1e-4144-b964-ad28d9cf35ac",
+        "word": "fiscal",
+        "phonetic": "fɪskəl ",
+        "type": "adjective",
+        "defineEn": "relating to government revenue or public money, especially taxes",
+        "defineVi": "liên quan đến doanh thu của chính phủ hoặc tiền công, đặc biệt là thuế"
+    },
+    {
+        "id": "9067e478-d19c-43d8-96a4-d8d897021730",
+        "word": "laissez-faire",
+        "phonetic": "leɪsɛzfɛɹ ",
+        "type": "adjective",
+        "defineEn": "relating to a policy in which private businesses are allowed to thrive without government control",
+        "defineVi": "liên quan đến một chính sách trong đó các doanh nghiệp tư nhân được phép phát triển mà không cần sự kiểm soát của chính phủ"
+    },
+    {
+        "id": "ec6b2600-c051-421f-b074-8afcfe592ebf",
+        "word": "overdue",
+        "phonetic": "oʊvɚduː ",
+        "type": "adjective",
+        "defineEn": "‌not paid, done, etc. within the required or expected timeframe",
+        "defineVi": "‌không được thanh toán, hoàn thành, v.v. trong khung thời gian bắt buộc hoặc dự kiến"
+    },
+    {
+        "id": "01f9ae44-288b-4f51-9a5f-4e6432ba7fd7",
+        "word": "alimony",
+        "phonetic": "ælɪməni ",
+        "type": "noun",
+        "defineEn": "the money that is demanded by the court to be paid to an ex-spouse or ex-partner",
+        "defineVi": "số tiền mà tòa án yêu cầu phải trả cho người phối ngẫu cũ hoặc đối tác cũ"
+    },
+    {
+        "id": "3a41da1d-4555-497a-82c1-836f6dcffd5e",
+        "word": "arrears",
+        "phonetic": "ɚɹɪɹz ",
+        "type": "noun",
+        "defineEn": "owed money that should have already been paid",
+        "defineVi": "nợ tiền lẽ ra phải trả"
+    },
+    {
+        "id": "96ed231a-7bd3-41b1-966a-dcb22e625e7a",
+        "word": "collateral",
+        "phonetic": "kəlæɾɚɹəl ",
+        "type": "noun",
+        "defineEn": "something pledged as a guarantee for a loan that will be forfeited if the loan is not repaid",
+        "defineVi": "một cái gì đó được cầm cố như một sự đảm bảo cho một khoản vay sẽ bị hủy bỏ nếu khoản vay không được hoàn trả"
+    },
+    {
+        "id": "756660cc-cb4a-47ec-a46b-7f872e1ce450",
+        "word": "incentive",
+        "phonetic": "ɪnsɛntɪv ",
+        "type": "noun",
+        "defineEn": "a payment or concession to encourage someone to do something specific",
+        "defineVi": "một khoản thanh toán hoặc nhượng bộ để khuyến khích ai đó làm điều gì đó cụ thể"
+    },
+    {
+        "id": "6ce700ae-cf32-423a-9057-ead91436ecb4",
+        "word": "audit",
+        "phonetic": "ɔːdɪt ",
+        "type": "noun",
+        "defineEn": "a formal inspection of a business's financial records to see if they are correct and accurate or not",
+        "defineVi": "kiểm tra chính thức hồ sơ tài chính của doanh nghiệp để xem chúng có đúng và chính xác hay không"
+    },
+    {
+        "id": "a8bca025-3e0f-4396-8d19-587dfd55eec8",
+        "word": "bailout",
+        "phonetic": "beɪlaʊt ",
+        "type": "noun",
+        "defineEn": "an act of giving money to a foreign country, a failing company, or an organization on the verge of collapse to ensure their safety from bankruptcy",
+        "defineVi": "một hành động đưa tiền cho một quốc gia nước ngoài, một công ty thất bại hoặc một tổ chức đang trên bờ vực sụp đổ để đảm bảo an toàn cho họ khỏi phá sản"
+    },
+    {
+        "id": "f2a4f811-4ada-41c0-95df-92208adcab91",
+        "word": "insolvency",
+        "phonetic": "ɪnsɑːlvənsi ",
+        "type": "noun",
+        "defineEn": "the state or condition of not having enough money to pay one's debts",
+        "defineVi": "tình trạng hoặc điều kiện không có đủ tiền để trả nợ của một người"
+    },
+    {
+        "id": "76579c11-d71a-4cc3-a321-5b5f097ac2a0",
+        "word": "quotation",
+        "phonetic": "kwoʊteɪʃən ",
+        "type": "noun",
+        "defineEn": "a statement indicating the cost of a specific service or piece of work",
+        "defineVi": "một tuyên bố chỉ ra chi phí của một dịch vụ hoặc phần công việc cụ thể"
+    },
+    {
+        "id": "efb185e1-129f-453c-8391-b925f9fb5bd4",
+        "word": "crunch",
+        "phonetic": "kɹʌntʃ ",
+        "type": "noun",
+        "defineEn": "a critical situation that arises because of a shortage (as a shortage of time or money or resources)",
+        "defineVi": "một tình huống nguy cấp phát sinh do thiếu hụt (như thiếu thời gian, tiền bạc hoặc tài nguyên)"
+    },
+    {
+        "id": "00e8d4ef-e0b4-4f5c-96bd-24f95ca58940",
+        "word": "deflation",
+        "phonetic": "diːfleɪʃən ",
+        "type": "noun",
+        "defineEn": "(economics) a decrease in the amount of money in an economy, resulting in falling or unchanged prices",
+        "defineVi": "(kinh tế học) sự sụt giảm lượng tiền trong nền kinh tế, dẫn đến giá cả giảm hoặc không thay đổi"
+    },
+    {
+        "id": "e231ac40-9e36-4b29-992b-8e5dd995906b",
+        "word": "dividend",
+        "phonetic": "dɪvɪdɛnd ",
+        "type": "noun",
+        "defineEn": "an amount of money paid regularly to the shareholders of a company",
+        "defineVi": "một số tiền trả thường xuyên cho các cổ đông của một công ty"
+    },
+    {
+        "id": "8c5b17ee-d62c-4fa8-a63a-efa8edca02e1",
+        "word": "leverage",
+        "phonetic": "lɛvɚɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "(finance) the value of a company's shares in relation to its debts",
+        "defineVi": "(tài chính) giá trị cổ phần của một công ty liên quan đến các khoản nợ của nó"
+    },
+    {
+        "id": "357b58e3-6c9c-44b7-8dfb-9bf25d4063a7",
+        "word": "ransom",
+        "phonetic": "ɹænsəm ",
+        "type": "noun",
+        "defineEn": "an amount of money demanded or paid for the release of a person who is in captivity",
+        "defineVi": "một số tiền được yêu cầu hoặc trả cho việc thả một người đang bị giam cầm"
+    },
+    {
+        "id": "3f2a6d54-899f-4dca-b834-aaec600445e3",
+        "word": "subsidy",
+        "phonetic": "sʌbsɪdi ",
+        "type": "noun",
+        "defineEn": "an amount of money that a government or organization pays to lower the costs of producing goods or providing services so that prices do not increase",
+        "defineVi": "một số tiền mà chính phủ hoặc tổ chức trả để giảm chi phí sản xuất hàng hóa hoặc cung cấp dịch vụ để giá không tăng"
+    },
+    {
+        "id": "ca98a134-60b2-47e2-a3f9-2b74f5359999",
+        "word": "tariff",
+        "phonetic": "tæɹɪf ",
+        "type": "noun",
+        "defineEn": "a tax paid on goods imported or exported",
+        "defineVi": "một loại thuế trả cho hàng hóa nhập khẩu hoặc xuất khẩu"
+    },
+    {
+        "id": "c5605944-0a33-44b8-a7a0-3da49d137885",
+        "word": "usury",
+        "phonetic": "juːzjʊɹi ",
+        "type": "noun",
+        "defineEn": "the practice or act of lending money at exorbitant interest rates",
+        "defineVi": "việc thực hành hoặc hành động cho vay tiền với lãi suất cắt cổ"
+    },
+    {
+        "id": "80c31bc8-dcc3-4240-b657-3cb4f78a63db",
+        "word": "liquidity",
+        "phonetic": "lɪkwɪdᵻɾi ",
+        "type": "noun",
+        "defineEn": "financial assets in the form of money or able to be easily converted into money",
+        "defineVi": "tài sản tài chính dưới dạng tiền hoặc có thể dễ dàng chuyển đổi thành tiền"
+    },
+    {
+        "id": "677877eb-9b5f-437b-ae3c-7f34000162cd",
+        "word": "monetarism",
+        "phonetic": "mɑːnɪɾɚɹɪzəm ",
+        "type": "noun",
+        "defineEn": "the theory or policy of controlling the amount of money in circulation as the preferred method of stabilizing the economy",
+        "defineVi": "lý thuyết hoặc chính sách kiểm soát lượng tiền trong lưu thông như là phương pháp ưa thích để ổn định nền kinh tế"
+    },
+    {
+        "id": "8e70e18d-66a0-451c-93d4-96875ca77e0c",
+        "word": "stagflation",
+        "phonetic": "stæɡfleɪʃən ",
+        "type": "noun",
+        "defineEn": "an economic situation with persistent high inflation and a high unemployment rate",
+        "defineVi": "một tình hình kinh tế với lạm phát cao kéo dài và tỷ lệ thất nghiệp cao"
+    },
+    {
+        "id": "a87eebd8-d718-4768-87de-65e56b2654d3",
+        "word": "clientele",
+        "phonetic": "klaɪəntɛl ",
+        "type": "noun",
+        "defineEn": "all the customers collectively",
+        "defineVi": "tất cả các khách hàng tập thể"
+    },
+    {
+        "id": "d30ee8a9-2db7-4bc7-b8ab-eb280a1bad42",
+        "word": "conglomerate",
+        "phonetic": "kəŋɡlɑːmɚɹeɪt ",
+        "type": "noun",
+        "defineEn": "a corporation formed by merging different firms or businesses",
+        "defineVi": "một tập đoàn được thành lập bằng cách sáp nhập các công ty hoặc doanh nghiệp khác nhau"
+    },
+    {
+        "id": "5fd1bd0e-9519-4006-99d5-4665c249485c",
+        "word": "subsidiary",
+        "phonetic": "sʌbsɪdjɚɹi ",
+        "type": "noun",
+        "defineEn": "a business company controlled or owned by a holding or parent company",
+        "defineVi": "một công ty kinh doanh được kiểm soát hoặc sở hữu bởi một công ty mẹ hoặc công ty mẹ"
+    },
+    {
+        "id": "c00a47e9-39f5-4eb1-870c-f216e9ec4894",
+        "word": "infomercial",
+        "phonetic": "ɪnfoʊmɜːʃəl ",
+        "type": "noun",
+        "defineEn": "an advertising television program that tries to promote a product by giving a lot of information about it in a supposedly objective manner",
+        "defineVi": "một chương trình truyền hình quảng cáo cố gắng quảng bá sản phẩm bằng cách cung cấp nhiều thông tin về sản phẩm đó theo cách được cho là khách quan"
+    },
+    {
+        "id": "ac1a1a36-d466-40d1-a3ac-f96fb138ee5a",
+        "word": "curtailment",
+        "phonetic": "kɜːteɪlmənt ",
+        "type": "noun",
+        "defineEn": "the act of reducing or limiting something in order to reach financial stability",
+        "defineVi": "hành động giảm hoặc hạn chế một cái gì đó để đạt được sự ổn định tài chính"
+    },
+    {
+        "id": "fb84758c-7614-4795-b76a-760c9e6257bf",
+        "word": "outsourcing",
+        "phonetic": "aʊtsoːɹsɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of having someone outside of a company provide goods or services for that company",
+        "defineVi": "quá trình có ai đó bên ngoài công ty cung cấp hàng hóa hoặc dịch vụ cho công ty đó"
+    },
+    {
+        "id": "d74c5d2e-636b-438d-99ff-2cde097040c6",
+        "word": "broker",
+        "phonetic": "bɹoʊkɚ ",
+        "type": "noun",
+        "defineEn": "a person whose job is to sell and buy assets and goods for other people",
+        "defineVi": "một người có công việc là bán và mua tài sản và hàng hóa cho người khác",
+        "hasImg": true
+    },
+    {
+        "id": "f6b6d80e-fcb6-4ba8-a82b-659b16eed9f0",
+        "word": "loan shark",
+        "phonetic": "loʊn ʃɑːɹk ",
+        "type": "noun",
+        "defineEn": "a person who lends money to people, typically under illegal conditions, at a very high rate of interest",
+        "defineVi": "một người cho mọi người vay tiền, thường là trong các điều kiện bất hợp pháp, với lãi suất rất cao"
+    },
+    {
+        "id": "fdc16f76-3c3b-4dfb-9cd9-01e091169321",
+        "word": "tycoon",
+        "phonetic": "taɪkuːn ",
+        "type": "noun",
+        "defineEn": "a rich and powerful person who is successful in business or industry",
+        "defineVi": "một người giàu có và quyền lực thành công trong kinh doanh hoặc ngành công nghiệp"
+    },
+    {
+        "id": "ef716ba3-a700-41ba-928d-b9b1b0cf0ab2",
+        "word": "magnate",
+        "phonetic": "mæɡneɪt ",
+        "type": "noun",
+        "defineEn": "a wealthy, influential, and successful businessperson",
+        "defineVi": "một doanh nhân giàu có, có ảnh hưởng và thành công"
+    },
+    {
+        "id": "28922638-b6c0-491c-ba75-3e57d67c0a98",
+        "word": "dog eat dog",
+        "phonetic": "dɑːɡ iːt dɑːɡ ",
+        "type": "phrase",
+        "defineEn": "(in business, politics, etc.) a situation in which the competition is so fierce that everyone is willing to do whatever it takes to be successful, even if it means harming others",
+        "defineVi": "(trong kinh doanh, chính trị, v.v.) một tình huống trong đó sự cạnh tranh khốc liệt đến mức mọi người sẵn sàng làm bất cứ điều gì cần thiết để thành công, ngay cả khi điều đó có nghĩa là làm hại người khác",
+        "hasImg": true
+    }
+]

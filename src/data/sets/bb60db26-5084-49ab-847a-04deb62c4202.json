@@ -1,0 +1,455 @@
+[
+    {
+        "id": "b5299069-8c1c-4ab0-ab29-50ec8f975593",
+        "word": "atrocity",
+        "phonetic": "ɐtɹɑːsᵻɾi ",
+        "type": "noun",
+        "defineEn": "an extremely brutal act, especially in war",
+        "defineVi": "một hành động cực kỳ tàn bạo, đặc biệt là trong chiến tranh"
+    },
+    {
+        "id": "3b522d9c-29da-4f85-a6e7-1d2ecff97ff6",
+        "word": "admiral",
+        "phonetic": "ædmɜːɹəl ",
+        "type": "noun",
+        "defineEn": "the highest-ranking officer in a fleet",
+        "defineVi": "sĩ quan cấp cao nhất trong hạm đội"
+    },
+    {
+        "id": "3585be74-497e-4bdf-bc80-e2af92648161",
+        "word": "colonel",
+        "phonetic": "kɜːnəl ",
+        "type": "noun",
+        "defineEn": "a high-ranking officer in the US army, marine or air force, whose rank is between a lieutenant colonel and brigadier general",
+        "defineVi": "một sĩ quan cấp cao trong quân đội, lực lượng hải quân hoặc không quân Hoa Kỳ, có cấp bậc giữa trung tá và chuẩn tướng"
+    },
+    {
+        "id": "18bc3fb4-194c-4721-94cf-5b2aa83d7a19",
+        "word": "general",
+        "phonetic": "dʒɛnɚɹəl ",
+        "type": "noun",
+        "defineEn": "a very high-ranking officer in the army, the US air force or the marines",
+        "defineVi": "một sĩ quan cấp cao trong quân đội, lực lượng không quân Hoa Kỳ hoặc thủy quân lục chiến",
+        "hasImg": true
+    },
+    {
+        "id": "27107ff6-ebaa-4030-8004-4525078a4f62",
+        "word": "major",
+        "phonetic": "meɪdʒɚ ",
+        "type": "noun",
+        "defineEn": "a middle-ranking officer in the armed forces",
+        "defineVi": "một sĩ quan cấp trung trong lực lượng vũ trang"
+    },
+    {
+        "id": "64ed3c12-2b39-4eb6-9fed-e6cfa30a26ec",
+        "word": "veteran",
+        "phonetic": "vɛɾɚɹən ",
+        "type": "noun",
+        "defineEn": "a former member of the armed forces who has fought in a war",
+        "defineVi": "một cựu thành viên của lực lượng vũ trang đã chiến đấu trong một cuộc chiến tranh"
+    },
+    {
+        "id": "e8985966-3f20-471f-be94-cfc39b49d593",
+        "word": "to assassinate",
+        "phonetic": "tʊ ɐsæsᵻneɪt ",
+        "type": "verb",
+        "defineEn": "to murder a prominent figure in a sudden attack for political purposes",
+        "defineVi": "giết một nhân vật nổi tiếng trong một cuộc tấn công bất ngờ vì mục đích chính trị"
+    },
+    {
+        "id": "4a7aa9b7-5a65-4d1c-8f99-cc8cc1d96c54",
+        "word": "to blast",
+        "phonetic": "tə blæst ",
+        "type": "verb",
+        "defineEn": "to violently damage or destroy something using explosives",
+        "defineVi": "để thiệt hại nặng nề hoặc phá hủy một cái gì đó bằng cách sử dụng chất nổ",
+        "hasImg": true
+    },
+    {
+        "id": "438d2f47-69b1-4898-b911-5a82841d962f",
+        "word": "to blow up",
+        "phonetic": "tə bloʊ ʌp ",
+        "type": "verb",
+        "defineEn": "to cause something to burst or explode",
+        "defineVi": "để gây ra một cái gì đó để nổ hoặc phát nổ",
+        "hasImg": true
+    },
+    {
+        "id": "3d4d3ae9-065c-4452-bcd6-7e3800eae499",
+        "word": "to bombard",
+        "phonetic": "tə bəmbɑːɹd ",
+        "type": "verb",
+        "defineEn": "to drop bombs on someone or something continuously",
+        "defineVi": "thả bom vào ai đó hoặc cái gì đó liên tục",
+        "hasImg": true
+    },
+    {
+        "id": "4cfede03-3591-43ed-9483-3720f921e773",
+        "word": "to charge",
+        "phonetic": "tə tʃɑːɹdʒ ",
+        "type": "verb",
+        "defineEn": "to attack violently and suddenly in a battle",
+        "defineVi": "để tấn công dữ dội và bất ngờ trong một trận chiến",
+        "hasImg": true
+    },
+    {
+        "id": "2906d952-d636-4f8b-900f-fbb126cf033c",
+        "word": "to conquer",
+        "phonetic": "tə kɑːŋkɚ ",
+        "type": "verb",
+        "defineEn": "to gain control of a place or people using armed forces",
+        "defineVi": "để giành quyền kiểm soát của một địa điểm hoặc những người sử dụng lực lượng vũ trang"
+    },
+    {
+        "id": "b7be2402-36c5-4133-89b5-aaa4c41d6798",
+        "word": "to deploy",
+        "phonetic": "tə dᵻplɔɪ ",
+        "type": "verb",
+        "defineEn": "to position soldiers or equipment for military action",
+        "defineVi": "để định vị binh lính hoặc thiết bị cho hành động quân sự"
+    },
+    {
+        "id": "393c35d2-4b46-4b58-8af3-9bcc885edec0",
+        "word": "to evacuate",
+        "phonetic": "tʊ ɪvækjuːeɪt ",
+        "type": "verb",
+        "defineEn": "(of armed forces) to empty a dangerous place",
+        "defineVi": "(của lực lượng vũ trang) để dọn sạch một nơi nguy hiểm"
+    },
+    {
+        "id": "369a7afe-5016-42f8-8955-c66572b396c3",
+        "word": "to execute",
+        "phonetic": "tʊ ɛksᵻkjuːt ",
+        "type": "verb",
+        "defineEn": "to kill someone, especially as a legal penalty",
+        "defineVi": "để giết một ai đó, đặc biệt là một hình phạt pháp lý"
+    },
+    {
+        "id": "a2905b9f-dc10-44a7-a284-2a05f9cfcd01",
+        "word": "to mobilize",
+        "phonetic": "tə moʊbɪlaɪz ",
+        "type": "verb",
+        "defineEn": "(of a state) to organize and prepare for a military operation",
+        "defineVi": "(của một bang) để tổ chức và chuẩn bị cho một hoạt động quân sự"
+    },
+    {
+        "id": "1d5fb86e-9d48-4f2a-a940-1ade2289b084",
+        "word": "to surrender",
+        "phonetic": "tə sɚɹɛndɚ ",
+        "type": "verb",
+        "defineEn": "to give in or stop fighting against an enemy",
+        "defineVi": "nhượng bộ hoặc ngừng chiến đấu chống lại kẻ thù",
+        "hasImg": true
+    },
+    {
+        "id": "7b3203f2-133d-4693-8c06-0d8ec76e8699",
+        "word": "to retreat",
+        "phonetic": "tə ɹᵻtɹiːt ",
+        "type": "verb",
+        "defineEn": "(of military) to move away in order to escape the danger because one has been defeated or is weak",
+        "defineVi": "(về quân sự) di chuyển để thoát khỏi nguy hiểm vì một người đã bị đánh bại hoặc yếu"
+    },
+    {
+        "id": "9570c6f3-91ca-41a5-8901-792006af45fe",
+        "word": "guerrilla",
+        "phonetic": "ɡɛɹɪlə ",
+        "type": "noun",
+        "defineEn": "a person who participates in irregular fighting as a member of an unofficial military group",
+        "defineVi": "một người tham gia chiến đấu bất thường với tư cách là thành viên của một nhóm quân sự không chính thức"
+    },
+    {
+        "id": "79320af9-ed5b-433c-8334-9286a7976ba7",
+        "word": "militia",
+        "phonetic": "məlɪʃə ",
+        "type": "noun",
+        "defineEn": "a military group consisting of civilians who have been trained as soldiers to help the army in emergencies",
+        "defineVi": "một nhóm quân sự bao gồm những thường dân đã được huấn luyện thành những người lính để giúp đỡ quân đội trong trường hợp khẩn cấp"
+    },
+    {
+        "id": "ab8fcf0a-4ceb-4182-97b7-bfd2f8fe1dd8",
+        "word": "militant",
+        "phonetic": "mɪlɪtənt ",
+        "type": "adjective",
+        "defineEn": "displaying violent acts for the sake of a social or political aim",
+        "defineVi": "hiển thị các hành vi bạo lực vì mục đích xã hội hoặc chính trị"
+    },
+    {
+        "id": "3476e6e2-11e6-470b-b614-764bbee07022",
+        "word": "naval",
+        "phonetic": "neɪvəl ",
+        "type": "adjective",
+        "defineEn": "relating or belonging to a navy",
+        "defineVi": "liên quan hoặc thuộc về hải quân"
+    },
+    {
+        "id": "06bd457b-d240-4db7-b7d8-2db64f6596b8",
+        "word": "civilian",
+        "phonetic": "sɪvɪliən ",
+        "type": "adjective",
+        "defineEn": "relating to a person who is not a part of the armed forces",
+        "defineVi": "liên quan đến một người không phải là một phần của lực lượng vũ trang"
+    },
+    {
+        "id": "6e3ce71f-2e58-43ee-a66f-a236e2dc15ef",
+        "word": "defensive",
+        "phonetic": "dᵻfɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "designed or used in a way that provides a person or thing with protection against attack",
+        "defineVi": "được thiết kế hoặc sử dụng theo cách cung cấp cho người hoặc vật sự bảo vệ chống lại sự tấn công"
+    },
+    {
+        "id": "66d1fa79-3436-4732-ae14-36777d9a611e",
+        "word": "explosive",
+        "phonetic": "ɛksploʊsɪv ",
+        "type": "adjective",
+        "defineEn": "capable of exploding and likely to explode",
+        "defineVi": "có khả năng phát nổ và có khả năng phát nổ",
+        "hasImg": true
+    },
+    {
+        "id": "4a97700a-8ae0-4c68-9d18-bcc229fd693f",
+        "word": "A-bomb",
+        "phonetic": "eɪbɑːm ",
+        "type": "noun",
+        "defineEn": "a nuclear weapon with great destruction power which is released due to the fission of heavy atoms",
+        "defineVi": "một vũ khí hạt nhân có sức mạnh hủy diệt lớn được giải phóng do sự phân hạch của các nguyên tử nặng"
+    },
+    {
+        "id": "936551a5-cb0e-41a5-bc49-c50107153c23",
+        "word": "rifle",
+        "phonetic": "ɹaɪfəl ",
+        "type": "noun",
+        "defineEn": "a long gun suitable for shooting a target over long distances, which is held along shoulder while aiming the target",
+        "defineVi": "một khẩu súng dài thích hợp để bắn mục tiêu ở khoảng cách xa, được giữ dọc theo vai trong khi nhắm mục tiêu",
+        "hasImg": true
+    },
+    {
+        "id": "25d07ddd-88d2-4a89-a263-e2937eb28f2c",
+        "word": "fleet",
+        "phonetic": "fliːt ",
+        "type": "noun",
+        "defineEn": "a group of ships under the command of one high-ranking officer",
+        "defineVi": "một nhóm tàu dưới sự chỉ huy của một sĩ quan cấp cao"
+    },
+    {
+        "id": "8e71e1ea-98ba-4392-8c3f-71a259acbcce",
+        "word": "raid",
+        "phonetic": "ɹeɪd ",
+        "type": "noun",
+        "defineEn": "a surprise attack against a place or a group of people",
+        "defineVi": "một cuộc tấn công bất ngờ chống lại một nơi hoặc một nhóm người"
+    },
+    {
+        "id": "c58627f8-f21b-414d-bc8f-87e6770c6ab0",
+        "word": "curfew",
+        "phonetic": "kɜːfjuː ",
+        "type": "noun",
+        "defineEn": "an order or law that prohibits people from going outside after a specific time, particularly at night",
+        "defineVi": "một mệnh lệnh hoặc luật cấm mọi người ra ngoài sau một thời gian cụ thể, đặc biệt là vào ban đêm"
+    },
+    {
+        "id": "74fbc209-9414-4f9e-830b-3726b5dbeeb1",
+        "word": "hostage",
+        "phonetic": "hɑːstɪdʒ ",
+        "type": "noun",
+        "defineEn": "someone held prisoner by a person or group who will be set free if the demands of that person or group are met",
+        "defineVi": "ai đó bị giam giữ bởi một người hoặc một nhóm người sẽ được trả tự do nếu yêu cầu của người đó hoặc nhóm đó được đáp ứng",
+        "hasImg": true
+    },
+    {
+        "id": "537c0ffc-6620-4d69-8456-9c7bffb21ad6",
+        "word": "torture",
+        "phonetic": "tɔːɹtʃɚ ",
+        "type": "noun",
+        "defineEn": "the act of making someone suffer very much so that they do something particular or give crucial information regarding something specific",
+        "defineVi": "hành động khiến ai đó đau khổ rất nhiều để họ làm điều gì đó đặc biệt hoặc cung cấp thông tin quan trọng liên quan đến điều gì đó cụ thể"
+    },
+    {
+        "id": "e091913a-9817-406f-82c0-85f32110e334",
+        "word": "occupation",
+        "phonetic": "ɑːkjʊpeɪʃən ",
+        "type": "noun",
+        "defineEn": "the act of invading and controlling a country, city, etc.",
+        "defineVi": "hành động xâm lược và kiểm soát một quốc gia, thành phố, v.v."
+    },
+    {
+        "id": "afb6ad83-f84b-4149-b2d8-9d8f41d729fd",
+        "word": "trench",
+        "phonetic": "tɹɛntʃ ",
+        "type": "noun",
+        "defineEn": "a long narrow hole dug in the ground in which soldiers move and are protected from enemy fire",
+        "defineVi": "một cái hố dài hẹp đào trên mặt đất trong đó những người lính di chuyển và được bảo vệ khỏi hỏa lực của kẻ thù"
+    },
+    {
+        "id": "1838b117-6d78-45e9-b94f-1274c364251c",
+        "word": "truce",
+        "phonetic": "tɹuːs ",
+        "type": "noun",
+        "defineEn": "an agreement according to which enemies or opponents stop fighting each other for a specific period of time; the period of time that such agreement lasts",
+        "defineVi": "một thỏa thuận theo đó kẻ thù hoặc đối thủ ngừng chiến đấu với nhau trong một khoảng thời gian cụ thể; khoảng thời gian mà thỏa thuận đó kéo dài"
+    },
+    {
+        "id": "7541520c-5bd8-470d-8396-696042461f04",
+        "word": "to arm",
+        "phonetic": "tʊ ɑːɹm ",
+        "type": "verb",
+        "defineEn": "to equip and supply with weapons",
+        "defineVi": "trang bị và cung cấp vũ khí"
+    },
+    {
+        "id": "9a237f30-8e54-4aea-b11e-62114583e9d0",
+        "word": "warfare",
+        "phonetic": "wɔːɹfɛɹ ",
+        "type": "noun",
+        "defineEn": "involvement in war, particularly using certain methods or weapons",
+        "defineVi": "tham gia vào chiến tranh, đặc biệt là sử dụng một số phương pháp hoặc vũ khí",
+        "hasImg": true
+    },
+    {
+        "id": "5a272551-53c5-4866-a42f-2beee49ff3de",
+        "word": "machine gun",
+        "phonetic": "məʃiːn ɡʌn ",
+        "type": "noun",
+        "defineEn": "a gun that automatically and rapidly fires a succession of bullets upon pressing the trigger",
+        "defineVi": "một khẩu súng tự động và nhanh chóng bắn một loạt đạn khi nhấn cò"
+    },
+    {
+        "id": "3c85f69a-3230-4edf-9a7e-959d92b29d11",
+        "word": "evacuation",
+        "phonetic": "ɪvækjuːeɪʃən ",
+        "type": "noun",
+        "defineEn": "the action of transferring people or being transferred to somewhere else to be safe from a dangerous situation",
+        "defineVi": "hành động chuyển người hoặc được chuyển đến một nơi khác để được an toàn khỏi tình huống nguy hiểm"
+    },
+    {
+        "id": "97fc98cf-ab97-401b-a952-fa9acfb49ea3",
+        "word": "command",
+        "phonetic": "kəmænd ",
+        "type": "noun",
+        "defineEn": "an order, particularly given by someone in a position of authority",
+        "defineVi": "một mệnh lệnh, đặc biệt được đưa ra bởi một người nào đó ở một vị trí có thẩm quyền",
+        "hasImg": true
+    },
+    {
+        "id": "f30ce489-53c6-4631-8ed7-bbc3201534a9",
+        "word": "AWOL",
+        "phonetic": "eɪwɑːl ",
+        "type": "adjective",
+        "defineEn": "(of a soldier) having left one's military duty without being permitted to do so",
+        "defineVi": "(của một người lính) đã rời khỏi nghĩa vụ quân sự của một người mà không được phép làm như vậy"
+    },
+    {
+        "id": "edb549bb-f69f-44b9-be43-e7fa49244cc6",
+        "word": "bulletproof",
+        "phonetic": "bʊlɪtpɹuːf ",
+        "type": "adjective",
+        "defineEn": "built in a way that does not let through any bullets or shrapnel",
+        "defineVi": "được chế tạo theo cách không lọt qua bất kỳ viên đạn hay mảnh đạn nào",
+        "hasImg": true
+    },
+    {
+        "id": "e994f5df-fc7a-400d-89f0-b204132b23a5",
+        "word": "ground zero",
+        "phonetic": "ɡɹaʊnd ziəɹoʊ ",
+        "type": "noun",
+        "defineEn": "the exact location of a nuclear explosion",
+        "defineVi": "vị trí chính xác của một vụ nổ hạt nhân"
+    },
+    {
+        "id": "18a56725-2818-4228-8d3c-59715e9a904b",
+        "word": "gunner",
+        "phonetic": "ɡʌnɚ ",
+        "type": "noun",
+        "defineEn": "a member of an armed force who is specifically trained to fire large guns",
+        "defineVi": "một thành viên của lực lượng vũ trang được huấn luyện đặc biệt để bắn súng lớn"
+    },
+    {
+        "id": "e66d9de1-715c-4d23-b5ef-f0368562bfea",
+        "word": "blowgun",
+        "phonetic": "bloʊɡʌn ",
+        "type": "noun",
+        "defineEn": "a tube-like weapon through which an arrow is shot if someone breathes in it forcefully",
+        "defineVi": "một vũ khí giống như ống thông qua đó một mũi tên được bắn nếu ai đó hít mạnh vào nó"
+    },
+    {
+        "id": "34e97569-21a6-4f6e-b998-23cebcac516b",
+        "word": "submachine gun",
+        "phonetic": "sʌbməʃiːn ɡʌn ",
+        "type": "noun",
+        "defineEn": "an automatic gun that is not heavy and can be easily held and carried by hand",
+        "defineVi": "một khẩu súng tự động không nặng và có thể dễ dàng cầm và mang bằng tay"
+    },
+    {
+        "id": "2ead1e15-0ae4-492d-95e3-2b4ff3adfa9e",
+        "word": "to station",
+        "phonetic": "tə steɪʃən ",
+        "type": "verb",
+        "defineEn": "to send a person to a particular place in order to carry out a duty, particularly a military person",
+        "defineVi": "để gửi một người đến một địa điểm cụ thể để thực hiện một nhiệm vụ, đặc biệt là một quân nhân"
+    },
+    {
+        "id": "74696237-3c25-4155-8741-fbe86bd7e49a",
+        "word": "magazine",
+        "phonetic": "mæɡɐziːn ",
+        "type": "noun",
+        "defineEn": "the part of a gun containing its bullets",
+        "defineVi": "một phần của một khẩu súng chứa đạn của nó",
+        "hasImg": true
+    },
+    {
+        "id": "642f4cf8-05aa-408b-9cc1-663a6ad48c06",
+        "word": "artillery",
+        "phonetic": "ɑːɹtɪlɚɹi ",
+        "type": "noun",
+        "defineEn": "big heavy guns that are attached on top of moving wheels or tracks",
+        "defineVi": "những khẩu súng lớn hạng nặng được gắn trên bánh xe hoặc đường ray đang di chuyển"
+    },
+    {
+        "id": "12dea010-b3ee-4db1-be3e-1ba0acbd4638",
+        "word": "nuclear deterrent",
+        "phonetic": "nuːklɪɹ dɪtɜːɹənt ",
+        "type": "noun",
+        "defineEn": "a nuclear weapon of a country that is very powerful and serves as a protection against other countries' attacks",
+        "defineVi": "vũ khí hạt nhân của một quốc gia rất mạnh và dùng để bảo vệ chống lại các cuộc tấn công của các quốc gia khác"
+    },
+    {
+        "id": "7d5ce9ff-e498-419a-9593-44f0ec7e7149",
+        "word": "nerve agent",
+        "phonetic": "nɜːv eɪdʒənt ",
+        "type": "noun",
+        "defineEn": "a poisonous chemical that is damaging to the nervous system and is used as a war weapon",
+        "defineVi": "một hóa chất độc hại gây hại cho hệ thần kinh và được sử dụng làm vũ khí chiến tranh"
+    },
+    {
+        "id": "cd0921b3-32d2-41fd-b4ff-967ecce0d4cc",
+        "word": "nerve gas",
+        "phonetic": "nɜːv ɡæs ",
+        "type": "noun",
+        "defineEn": "a gas containing toxic chemicals that are damaging to a person's nerves, used as a war weapon",
+        "defineVi": "một loại khí chứa hóa chất độc hại gây tổn hại cho thần kinh của một người, được sử dụng làm vũ khí chiến tranh"
+    },
+    {
+        "id": "6d044ffe-9bf2-4024-bb6b-ee88936b68a3",
+        "word": "roger",
+        "phonetic": "ɹɑːdʒɚ ",
+        "type": "interjection",
+        "defineEn": "used as a confirmation message in radio communication to indicate that a message has been received and understood",
+        "defineVi": "được sử dụng như một thông báo xác nhận trong liên lạc vô tuyến để chỉ ra rằng một thông báo đã được nhận và hiểu"
+    },
+    {
+        "id": "009d763b-1c96-44d4-b1ef-b5ac487b02ac",
+        "word": "ten-four",
+        "phonetic": "tɛnfoːɹ ",
+        "type": "interjection",
+        "defineEn": "a radio code used in two-way radio communication as an affirmative response or an indication of understanding",
+        "defineVi": "một mã vô tuyến được sử dụng trong liên lạc vô tuyến hai chiều như một phản hồi khẳng định hoặc một dấu hiệu của sự hiểu biết"
+    },
+    {
+        "id": "5c397b3f-21f9-40f9-aab9-abc9699a83af",
+        "word": "martial law",
+        "phonetic": "mɑːɹʃəl lɔː ",
+        "type": "noun",
+        "defineEn": "a situation where the military becomes in charge of a country, replacing regular laws with their own rule,  in order to maintain order during times of crisis or disturbance",
+        "defineVi": "một tình huống trong đó quân đội nắm quyền điều hành một quốc gia, thay thế luật pháp thông thường bằng quy tắc riêng của họ, nhằm duy trì trật tự trong thời gian khủng hoảng hoặc xáo trộn"
+    }
+]

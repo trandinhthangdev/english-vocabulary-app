@@ -1,0 +1,407 @@
+[
+    {
+        "id": "53006862-8e7e-42bc-9674-7806fecd7728",
+        "word": "part",
+        "phonetic": "pɑːɹt ",
+        "type": "noun",
+        "defineEn": "any of the pieces making a whole, when combined",
+        "defineVi": "bất kỳ phần nào tạo nên một tổng thể, khi được kết hợp",
+        "hasImg": true
+    },
+    {
+        "id": "8ea40f53-335c-4f1b-b070-ecf7a52fc78b",
+        "word": "body",
+        "phonetic": "bɑːdi ",
+        "type": "noun",
+        "defineEn": "our or an animal's hands, legs, head, and every other part together",
+        "defineVi": "tay, chân, đầu và mọi bộ phận khác của chúng ta hoặc động vật cùng với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "7a76f628-4c09-4786-ba9b-60d3862af9fb",
+        "word": "head",
+        "phonetic": "hɛd ",
+        "type": "noun",
+        "defineEn": "the top part of our body, where our brain and face are located",
+        "defineVi": "phần trên cùng của cơ thể chúng ta, nơi đặt bộ não và khuôn mặt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "bc2ead0d-a251-485f-993a-5a9b2b0866e3",
+        "word": "neck",
+        "phonetic": "nɛk ",
+        "type": "noun",
+        "defineEn": "the body part that is connecting the head to the shoulders",
+        "defineVi": "phần cơ thể nối đầu với vai",
+        "hasImg": true
+    },
+    {
+        "id": "7ad86522-6195-40e7-899c-6fe71bda6eba",
+        "word": "eye",
+        "phonetic": "aɪ ",
+        "type": "noun",
+        "defineEn": "a body part on our face that we have two of and use for seeing",
+        "defineVi": "một bộ phận cơ thể trên khuôn mặt của chúng ta mà chúng ta có hai và sử dụng để nhìn",
+        "hasImg": true
+    },
+    {
+        "id": "d0c56c6a-26b0-471d-bfa7-68c51232d4f7",
+        "word": "shoulder",
+        "phonetic": "ʃoʊldɚ ",
+        "type": "noun",
+        "defineEn": "each of the two parts of the body between the top of the arms and the neck",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận của cơ thể giữa đầu cánh tay và cổ",
+        "hasImg": true
+    },
+    {
+        "id": "78e8eb22-28e7-4bde-bf63-9a6b535bf22c",
+        "word": "arm",
+        "phonetic": "ɑːɹm ",
+        "type": "noun",
+        "defineEn": "one of the two body parts that is connected to the shoulder and ends with fingers",
+        "defineVi": "một trong hai bộ phận cơ thể được nối với vai và kết thúc bằng ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "a247662a-c834-4607-8bf1-32e38c283215",
+        "word": "hand",
+        "phonetic": "hænd ",
+        "type": "noun",
+        "defineEn": "the part of our body that is at the end of our arm and we use to grab, move, or feel things",
+        "defineVi": "phần cơ thể nằm ở cuối cánh tay và chúng ta dùng để nắm lấy, di chuyển hoặc cảm nhận đồ vật",
+        "hasImg": true
+    },
+    {
+        "id": "07ec4966-4af2-4b82-8e23-85371e630bf5",
+        "word": "finger",
+        "phonetic": "fɪŋɡɚ ",
+        "type": "noun",
+        "defineEn": "each of the long thin parts that are connected to our hands, sometimes the thumb is not included",
+        "defineVi": "mỗi phần dài mỏng được nối với bàn tay của chúng tôi, đôi khi không bao gồm ngón tay cái",
+        "hasImg": true
+    },
+    {
+        "id": "284d6f1c-5db3-4250-a693-60d54c3fb051",
+        "word": "wrist",
+        "phonetic": "ɹɪst ",
+        "type": "noun",
+        "defineEn": "the joint connecting the hand to the arm",
+        "defineVi": "khớp nối bàn tay với cánh tay",
+        "hasImg": true
+    },
+    {
+        "id": "ae1687b5-409f-4429-8d4a-720b5de5afcb",
+        "word": "waist",
+        "phonetic": "weɪst ",
+        "type": "noun",
+        "defineEn": "the part of the body between the ribs and hips, which is usually narrower than the parts mentioned",
+        "defineVi": "phần cơ thể giữa xương sườn và hông, thường hẹp hơn các phần được đề cập",
+        "hasImg": true
+    },
+    {
+        "id": "d4c8aa39-eb5b-4084-84f1-b5301621e874",
+        "word": "knee",
+        "phonetic": "niː ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of the leg and helps it bend",
+        "defineVi": "phần cơ thể ở giữa chân và giúp nó uốn cong",
+        "hasImg": true
+    },
+    {
+        "id": "b455a8ca-7576-48b3-a083-250deffdc802",
+        "word": "leg",
+        "phonetic": "lɛɡ ",
+        "type": "noun",
+        "defineEn": "each of the two long body parts that we use when we walk",
+        "defineVi": "mỗi trong số hai bộ phận cơ thể dài mà chúng ta sử dụng khi đi bộ",
+        "hasImg": true
+    },
+    {
+        "id": "90c7cc06-a7b9-4b2e-a580-d7f2b46ace96",
+        "word": "ankle",
+        "phonetic": "æŋkəl ",
+        "type": "noun",
+        "defineEn": "the joint that connects the foot to the leg",
+        "defineVi": "khớp nối bàn chân với chân",
+        "hasImg": true
+    },
+    {
+        "id": "7967b3f6-5f50-465d-988b-e196059a5345",
+        "word": "foot",
+        "phonetic": "fʊt ",
+        "type": "noun",
+        "defineEn": "the body part that is at the end of our leg and we stand and walk on",
+        "defineVi": "phần cơ thể ở cuối chân của chúng ta và chúng ta đứng và đi",
+        "hasImg": true
+    },
+    {
+        "id": "b656a5d5-fd88-4a2b-9ab4-7b34a36d42f1",
+        "word": "toe",
+        "phonetic": "toʊ ",
+        "type": "noun",
+        "defineEn": "each of the five parts sticking out from the foot",
+        "defineVi": "mỗi trong số năm phần nhô ra từ bàn chân",
+        "hasImg": true
+    },
+    {
+        "id": "089c6fd5-25dd-4efa-aad3-23765609428b",
+        "word": "to wear",
+        "phonetic": "tə wɛɹ ",
+        "type": "verb",
+        "defineEn": "to have something such as clothes, shoes, etc. on your body",
+        "defineVi": "để có một cái gì đó như quần áo, giày dép, vv trên cơ thể của bạn",
+        "hasImg": true
+    },
+    {
+        "id": "c78f6cd9-c19b-493d-8662-32c13ed7729a",
+        "word": "belt",
+        "phonetic": "bɛlt ",
+        "type": "noun",
+        "defineEn": "a long and narrow item that we usually wear around our waist to hold our clothes in place or to decorate our outfit",
+        "defineVi": "một món đồ dài và hẹp mà chúng ta thường đeo quanh eo để giữ cố định quần áo hoặc để trang trí cho trang phục của mình",
+        "hasImg": true
+    },
+    {
+        "id": "ffb06452-f01d-4587-bf3c-0a64682c8967",
+        "word": "boot",
+        "phonetic": "buːt ",
+        "type": "noun",
+        "defineEn": "a type of strong shoe that covers the foot and ankle and often the lower part of the leg",
+        "defineVi": "một loại giày chắc chắn bao gồm bàn chân và mắt cá chân và thường là phần dưới của chân",
+        "hasImg": true
+    },
+    {
+        "id": "6984d82c-eef1-49a1-9006-84741d06c961",
+        "word": "cap",
+        "phonetic": "kæp ",
+        "type": "noun",
+        "defineEn": "a type of soft flat hat with a visor, typically worn by men and boys, often as part of a uniform",
+        "defineVi": "một loại mũ phẳng mềm có tấm che mặt, thường được đội bởi nam giới và trẻ em trai, thường là một phần của đồng phục",
+        "hasImg": true
+    },
+    {
+        "id": "3e3ed541-8064-4b0a-b28e-d0bbc08cca8d",
+        "word": "dress",
+        "phonetic": "dɹɛs ",
+        "type": "noun",
+        "defineEn": "a piece of clothing worn by girls and women that is made in one piece and covers the body down to the legs but has no separate part for each leg",
+        "defineVi": "một bộ quần áo được mặc bởi các cô gái và phụ nữ được làm thành một mảnh và che cơ thể xuống chân nhưng không có phần riêng cho mỗi chân",
+        "hasImg": true
+    },
+    {
+        "id": "652cad69-09d5-4355-b838-5182e08c863e",
+        "word": "jacket",
+        "phonetic": "dʒækɪt ",
+        "type": "noun",
+        "defineEn": "a short item of clothing that we wear on the top part of out body, usually has sleeves and something in the front so we could close it",
+        "defineVi": "một bộ quần áo ngắn mà chúng ta mặc ở phần trên cùng của cơ thể, thường có tay áo và một cái gì đó ở phía trước để chúng ta có thể đóng nó lại",
+        "hasImg": true
+    },
+    {
+        "id": "dbdc0b44-9cda-4380-aaa5-bfb2bbc79484",
+        "word": "jeans",
+        "phonetic": "dʒiːnz ",
+        "type": "noun",
+        "defineEn": "pants made of denim, that is a type of strong cotton cloth, and is used for a casual style",
+        "defineVi": "quần làm bằng vải denim, đó là một loại vải cotton bền và được sử dụng cho phong cách giản dị",
+        "hasImg": true
+    },
+    {
+        "id": "1e974dc8-aa53-487a-87cd-22e8fe22930a",
+        "word": "jumper",
+        "phonetic": "dʒʌmpɚ ",
+        "type": "noun",
+        "defineEn": "a dress with no sleeves or collar that is worn over other garments",
+        "defineVi": "một chiếc váy không có tay áo hoặc cổ áo được mặc trên các loại quần áo khác",
+        "hasImg": true
+    },
+    {
+        "id": "cdd63475-7a38-4e77-9cb0-51a2da68b967",
+        "word": "glove",
+        "phonetic": "ɡlʌv ",
+        "type": "noun",
+        "defineEn": "item of clothing for our hands with a separate space for each finger",
+        "defineVi": "mặt hàng quần áo cho bàn tay của chúng tôi với một không gian riêng biệt cho mỗi ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "db8b5d73-c095-44fb-be79-7ba6888ff5d5",
+        "word": "sandal",
+        "phonetic": "sændəl ",
+        "type": "noun",
+        "defineEn": "an open shoe that fastens the sole to one's foot with straps, particularly worn when the weather is warm",
+        "defineVi": "một chiếc giày mở buộc chặt đế vào chân bằng dây đai, đặc biệt được mang khi thời tiết ấm áp",
+        "hasImg": true
+    },
+    {
+        "id": "b73f132a-1420-43b1-ba1d-6a7720dab007",
+        "word": "scarf",
+        "phonetic": "skɑːɹf ",
+        "type": "noun",
+        "defineEn": "a piece of cloth, worn around the neck or head, especially to keep warm",
+        "defineVi": "một mảnh vải, đeo quanh cổ hoặc đầu, đặc biệt là để giữ ấm",
+        "hasImg": true
+    },
+    {
+        "id": "ae5cec11-a736-49b4-aaea-e662339bf7d5",
+        "word": "shirt",
+        "phonetic": "ʃɜːt ",
+        "type": "noun",
+        "defineEn": "(usually for men) a piece of clothing worn on the upper half of the body, typically with a collar and sleeves, and with buttons down the front",
+        "defineVi": "(thường dành cho nam giới) một bộ quần áo mặc ở nửa trên của cơ thể, thường có cổ áo và tay áo, và có các nút ở phía trước",
+        "hasImg": true
+    },
+    {
+        "id": "ac45d342-57c0-4a35-9f9a-f310dc1e1748",
+        "word": "tie",
+        "phonetic": "taɪ ",
+        "type": "noun",
+        "defineEn": "a long and narrow piece of fabric tied around the collar, particularly worn by men",
+        "defineVi": "một mảnh vải dài và hẹp buộc quanh cổ áo, đặc biệt được mặc bởi nam giới",
+        "hasImg": true
+    },
+    {
+        "id": "4806e826-7178-4ca9-a59d-27bcd6b4cfaa",
+        "word": "suit",
+        "phonetic": "suːt ",
+        "type": "noun",
+        "defineEn": "a jacket with a pair of pants or a skirt that are made from the same cloth and should be worn together",
+        "defineVi": "áo khoác với quần hoặc váy được làm từ cùng một loại vải và nên được mặc cùng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "10514fd2-b122-4f9d-b116-27b1f400e299",
+        "word": "shorts",
+        "phonetic": "ʃɔːɹts ",
+        "type": "noun",
+        "defineEn": "short pants that end either above or on the knees",
+        "defineVi": "quần ngắn kết thúc ở trên hoặc trên đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "a462fd2b-7ef1-49eb-a8b2-826958745169",
+        "word": "sock",
+        "phonetic": "sɑːk ",
+        "type": "noun",
+        "defineEn": "a soft item of clothing we wear on our feet",
+        "defineVi": "một mặt hàng quần áo mềm chúng tôi mặc trên đôi chân của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "8d2b969e-7a60-4a04-92aa-65bbdf2abac6",
+        "word": "skirt",
+        "phonetic": "skɜːt ",
+        "type": "noun",
+        "defineEn": "a piece of clothing for girls or women that fastens around the waist and hangs down around the legs",
+        "defineVi": "một bộ quần áo dành cho trẻ em gái hoặc phụ nữ buộc quanh eo và rủ xuống quanh chân",
+        "hasImg": true
+    },
+    {
+        "id": "3143517d-630d-406a-a9fe-fd5c05c065d9",
+        "word": "watch",
+        "phonetic": "wɑːtʃ ",
+        "type": "noun",
+        "defineEn": "a small clock or timepiece worn on a strap on one's wrist or carried in the pocket",
+        "defineVi": "một chiếc đồng hồ nhỏ hoặc đồng hồ đeo trên dây đeo trên cổ tay của một người hoặc mang trong túi",
+        "hasImg": true
+    },
+    {
+        "id": "ea8cbe2b-0937-4940-94a3-acce99567a1f",
+        "word": "sunglasses",
+        "phonetic": "sʌŋɡlæsᵻz ",
+        "type": "noun",
+        "defineEn": "dark glasses that we wear to protect our eyes from sunlight or glare",
+        "defineVi": "kính đen mà chúng ta đeo để bảo vệ mắt khỏi ánh sáng mặt trời hoặc ánh sáng chói",
+        "hasImg": true
+    },
+    {
+        "id": "be8ff694-f579-4516-9e00-0ed38c8e3fca",
+        "word": "trainer",
+        "phonetic": "tɹeɪnɚ ",
+        "type": "noun",
+        "defineEn": "a sports shoe with a rubber sole that is worn casually or for doing exercise",
+        "defineVi": "một đôi giày thể thao có đế cao su được mang tùy tiện hoặc để tập thể dục",
+        "hasImg": true
+    },
+    {
+        "id": "35771b7a-033c-4014-b637-793b6657a230",
+        "word": "T-shirt",
+        "phonetic": "tiːʃɜːt ",
+        "type": "noun",
+        "defineEn": "a casual short-sleeved shirt with no collar, usually made of cotton",
+        "defineVi": "một chiếc áo sơ mi ngắn tay bình thường không có cổ áo, thường được làm bằng cotton",
+        "hasImg": true
+    },
+    {
+        "id": "b0082344-1853-4006-bb1c-8b984cbf157d",
+        "word": "leggings",
+        "phonetic": "lɛɡɪŋz ",
+        "type": "noun",
+        "defineEn": "stretchy pants that fit the legs closely, usually worn by women",
+        "defineVi": "quần co giãn ôm sát chân, thường được phụ nữ mặc",
+        "hasImg": true
+    },
+    {
+        "id": "e8c74776-438a-48f4-97a3-5aed8864e425",
+        "word": "tracksuit",
+        "phonetic": "tɹæksuːt ",
+        "type": "noun",
+        "defineEn": "a loose and warm pair of pants and matching jacket worn casually or for doing exercise",
+        "defineVi": "một chiếc quần rộng rãi và ấm áp và áo khoác phù hợp được mặc bình thường hoặc để tập thể dục",
+        "hasImg": true
+    },
+    {
+        "id": "6925a59b-25b1-4655-b02f-4bedbd858285",
+        "word": "helmet",
+        "phonetic": "hɛlmɪt ",
+        "type": "noun",
+        "defineEn": "a hard hat worn by soldiers, bikers, etc. for protection",
+        "defineVi": "một chiếc mũ cứng được đội bởi những người lính, người đi xe đạp, v.v. để bảo vệ",
+        "hasImg": true
+    },
+    {
+        "id": "fd3b57d5-14c3-4c0a-b1c3-95281cfa000a",
+        "word": "goggles",
+        "phonetic": "ɡɑːɡəlz ",
+        "type": "noun",
+        "defineEn": "a type of eyewear that are designed to protect the eyes from harm",
+        "defineVi": "một loại kính mắt được thiết kế để bảo vệ mắt khỏi bị tổn hại",
+        "hasImg": true
+    },
+    {
+        "id": "2ca90020-825b-4095-bca2-e8b4f84b00ac",
+        "word": "swimsuit",
+        "phonetic": "swɪmsuːt ",
+        "type": "noun",
+        "defineEn": "a piece of clothing worn for swimming, especially by women and girls",
+        "defineVi": "một mảnh quần áo mặc cho bơi lội, đặc biệt là của phụ nữ và trẻ em gái",
+        "hasImg": true
+    },
+    {
+        "id": "62e7dcc3-6568-443e-93c0-e1a04cc59167",
+        "word": "vest",
+        "phonetic": "vɛst ",
+        "type": "noun",
+        "defineEn": "a sleeveless piece of clothing that is worn under a jacket and over a shirt",
+        "defineVi": "một mảnh quần áo không tay được mặc dưới áo khoác và trên áo sơ mi",
+        "hasImg": true
+    },
+    {
+        "id": "97bf2c84-c9a6-47ed-b95f-f0d20b5171c2",
+        "word": "hoodie",
+        "phonetic": "hʊdi ",
+        "type": "noun",
+        "defineEn": "a piece of clothing such as a sweatshirt or jacket that has a cover for the head",
+        "defineVi": "một bộ quần áo như áo len hoặc áo khoác có che đầu",
+        "hasImg": true
+    },
+    {
+        "id": "ca34bf81-7657-4c81-ae5c-f067d7bc18e6",
+        "word": "sportswear",
+        "phonetic": "spoːɹtswɛɹ ",
+        "type": "noun",
+        "defineEn": "the outfit worn outside casually or for sport activities",
+        "defineVi": "trang phục mặc bên ngoài tình cờ hoặc cho các hoạt động thể thao",
+        "hasImg": true
+    }
+]

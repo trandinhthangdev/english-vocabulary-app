@@ -1,0 +1,326 @@
+[
+    {
+        "id": "2505c221-e020-42ec-94b8-0c06c32e2670",
+        "word": "healthcare",
+        "phonetic": "hɛlθkɛɹ ",
+        "type": "noun",
+        "defineEn": "the health services and  treatments given to people",
+        "defineVi": "các dịch vụ y tế và phương pháp điều trị được cung cấp cho mọi người",
+        "hasImg": true
+    },
+    {
+        "id": "13698635-6cc4-4960-98d8-d10ff06bd87d",
+        "word": "welfare",
+        "phonetic": "wɛlfɛɹ ",
+        "type": "noun",
+        "defineEn": "the well-being and happiness of an individual or a group",
+        "defineVi": "hạnh phúc và hạnh phúc của một cá nhân hoặc một nhóm",
+        "hasImg": true
+    },
+    {
+        "id": "db9dd396-7ea8-440d-b0ec-6805e640a7a6",
+        "word": "medicine",
+        "phonetic": "mɛdəsən ",
+        "type": "noun",
+        "defineEn": "a substance that treats injuries or illnesses",
+        "defineVi": "một chất điều trị chấn thương hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "dac25b12-08be-405f-9a24-aec245abe506",
+        "word": "medical",
+        "phonetic": "mɛdɪkəl ",
+        "type": "adjective",
+        "defineEn": "related to medicine, treating illnesses, and health",
+        "defineVi": "liên quan đến y học, điều trị bệnh tật và sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "34ec14d5-a599-4710-b5f6-46228d9384ba",
+        "word": "positive",
+        "phonetic": "pɑːzᵻtɪv ",
+        "type": "adjective",
+        "defineEn": "(of a scientific test) showing that a particular substance or condition exists",
+        "defineVi": "(của một bài kiểm tra khoa học) cho thấy rằng một chất hoặc điều kiện cụ thể tồn tại",
+        "hasImg": true
+    },
+    {
+        "id": "85b7d107-9cff-4c6f-8eee-7789a91bc9e2",
+        "word": "negative",
+        "phonetic": "nɛɡətɪv ",
+        "type": "adjective",
+        "defineEn": "(of a scientific test) showing that there is no sign of a disease or a particular condition",
+        "defineVi": "(của một thử nghiệm khoa học) cho thấy không có dấu hiệu của bệnh hoặc tình trạng cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "76b7c7c5-de39-48c5-9183-84a01811f6b9",
+        "word": "drug",
+        "phonetic": "dɹʌɡ ",
+        "type": "noun",
+        "defineEn": "any substance that is used in medicine or as a medicine",
+        "defineVi": "bất kỳ chất nào được sử dụng trong y học hoặc làm thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "28553ce4-2945-4cb3-a03b-a26fdc7750b5",
+        "word": "aspirin",
+        "phonetic": "æspɹɪn ",
+        "type": "noun",
+        "defineEn": "a type of medicine taken to relieve pain, bring down a fever, etc.",
+        "defineVi": "một loại thuốc dùng để giảm đau, hạ sốt, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4a5c8da1-acb1-48a3-85a3-da18f7cd8aec",
+        "word": "antibiotic",
+        "phonetic": "æntɪbaɪɑːɾɪk ",
+        "type": "noun",
+        "defineEn": "a drug that is used to destroy bacteria or stop their growth, like Penicillin",
+        "defineVi": "một loại thuốc được sử dụng để tiêu diệt vi khuẩn hoặc ngăn chặn sự phát triển của chúng, như Penicillin",
+        "hasImg": true
+    },
+    {
+        "id": "5cdc6c60-19a5-40f7-b1a8-93fc2a513673",
+        "word": "capsule",
+        "phonetic": "kæpsjuːl ",
+        "type": "noun",
+        "defineEn": "a type of small, rounded drug that has medicine inside, which when swallowed releases its medical substance",
+        "defineVi": "một loại thuốc nhỏ, tròn, bên trong có thuốc, khi nuốt sẽ giải phóng dược chất của nó",
+        "hasImg": true
+    },
+    {
+        "id": "4e2c04e7-7115-452d-ba39-b87617ea03d2",
+        "word": "first-aid kit",
+        "phonetic": "fɜːsteɪd kɪt ",
+        "type": "noun",
+        "defineEn": "a set of tools and medical supplies, usually carried in a bag or case, used in case of emergency or injury",
+        "defineVi": "một bộ dụng cụ và vật tư y tế, thường được đựng trong túi hoặc hộp, được sử dụng trong trường hợp khẩn cấp hoặc bị thương",
+        "hasImg": true
+    },
+    {
+        "id": "597a5100-a89e-4bbb-bf30-9e34347d23bf",
+        "word": "bandage",
+        "phonetic": "bændɪdʒ ",
+        "type": "noun",
+        "defineEn": "a piece of cloth that is put around a wound to prevent infections",
+        "defineVi": "một mảnh vải quấn quanh vết thương để ngăn ngừa nhiễm trùng",
+        "hasImg": true
+    },
+    {
+        "id": "5da6bfea-c65e-4156-a8a6-fe67489ea26d",
+        "word": "Band-Aid",
+        "phonetic": "bændeɪd ",
+        "type": "noun",
+        "defineEn": "an adhesive bandage to cover small cuts or blisters",
+        "defineVi": "băng dính để che vết cắt nhỏ hoặc vết phồng rộp",
+        "hasImg": true
+    },
+    {
+        "id": "9991622d-5424-45b0-9ed3-47204f2d6739",
+        "word": "shot",
+        "phonetic": "ʃɑːt ",
+        "type": "noun",
+        "defineEn": "an act of a drug injection to the body",
+        "defineVi": "một hành động tiêm thuốc vào cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "821aa71d-0162-420c-83d3-30ba91c6967f",
+        "word": "to bleed",
+        "phonetic": "tə bliːd ",
+        "type": "verb",
+        "defineEn": "to lose blood from an injury or wound",
+        "defineVi": "để mất máu từ một vết thương hoặc vết thương",
+        "hasImg": true
+    },
+    {
+        "id": "7049801b-c0b9-43d2-85b1-36ecec782fa5",
+        "word": "to suffer",
+        "phonetic": "tə sʌfɚ ",
+        "type": "verb",
+        "defineEn": "to have an illness or disease",
+        "defineVi": "để có một bệnh tật hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "9ac044f2-8fdb-4c82-ae2e-6f2185e02d8b",
+        "word": "painful",
+        "phonetic": "peɪnfəl ",
+        "type": "adjective",
+        "defineEn": "making one experience pain",
+        "defineVi": "làm cho một người trải qua nỗi đau",
+        "hasImg": true
+    },
+    {
+        "id": "1529ac24-0d5e-4fcc-90ce-ebb72beb4792",
+        "word": "examination",
+        "phonetic": "ɛɡzæmᵻneɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of looking closely at something to see if there are any issues",
+        "defineVi": "quá trình xem xét kỹ một cái gì đó để xem có vấn đề gì không",
+        "hasImg": true
+    },
+    {
+        "id": "f0fb0c83-ce17-4ed1-9878-095863433192",
+        "word": "test",
+        "phonetic": "tɛst ",
+        "type": "noun",
+        "defineEn": "a medical examination of the body or a part of body to detect possible health issues",
+        "defineVi": "kiểm tra y tế cơ thể hoặc một phần cơ thể để phát hiện các vấn đề sức khỏe có thể xảy ra",
+        "hasImg": true
+    },
+    {
+        "id": "15ad765a-f883-445a-b791-6189f3e27dc7",
+        "word": "operation",
+        "phonetic": "ɑːpɚɹeɪʃən ",
+        "type": "noun",
+        "defineEn": "a medical process in which a part of body is cut open to repair or remove a damaged organ",
+        "defineVi": "một quá trình y tế trong đó một phần của cơ thể được cắt ra để sửa chữa hoặc loại bỏ một cơ quan bị hư hỏng",
+        "hasImg": true
+    },
+    {
+        "id": "e2cbe122-7042-48ab-b865-8ff2035385a5",
+        "word": "to operate",
+        "phonetic": "tʊ ɑːpɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "to cut open a part of the body in order to repair or remove a damaged organ",
+        "defineVi": "để cắt mở một phần của cơ thể để sửa chữa hoặc loại bỏ một cơ quan bị hư hỏng",
+        "hasImg": true
+    },
+    {
+        "id": "6ec41869-2202-43ed-96c7-1bfe22fb327f",
+        "word": "to treat",
+        "phonetic": "tə tɹiːt ",
+        "type": "verb",
+        "defineEn": "to cure a wound or to give medical care to an injured person",
+        "defineVi": "chữa vết thương hoặc chăm sóc y tế cho người bị thương",
+        "hasImg": true
+    },
+    {
+        "id": "f9e6a82f-8402-4f16-a17c-c70bf9a914f6",
+        "word": "treatment",
+        "phonetic": "tɹiːtmənt ",
+        "type": "noun",
+        "defineEn": "an action that is done to relieve pain or cure a disease or an illness",
+        "defineVi": "một hành động được thực hiện để giảm đau hoặc chữa bệnh hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "204ad609-e8be-41c3-9eed-f85a2e658b22",
+        "word": "to cure",
+        "phonetic": "tə kjʊɹ ",
+        "type": "verb",
+        "defineEn": "to become healthy again or make someone regain their health",
+        "defineVi": "để trở nên khỏe mạnh một lần nữa hoặc làm cho ai đó lấy lại sức khỏe của họ",
+        "hasImg": true
+    },
+    {
+        "id": "a7920d2c-d44a-4524-9244-019552ad4b22",
+        "word": "to heal",
+        "phonetic": "tə hiːl ",
+        "type": "verb",
+        "defineEn": "to become healthy again",
+        "defineVi": "trở nên khỏe mạnh trở lại",
+        "hasImg": true
+    },
+    {
+        "id": "22305232-3a17-44a4-a48a-701f73084925",
+        "word": "mental",
+        "phonetic": "mɛntəl ",
+        "type": "adjective",
+        "defineEn": "relating to the health or state of the mind",
+        "defineVi": "liên quan đến sức khỏe hoặc trạng thái của tâm trí",
+        "hasImg": true
+    },
+    {
+        "id": "ed6fdd9b-956a-4b6f-9ce9-ee3fb6d5b397",
+        "word": "to spread",
+        "phonetic": "tə spɹɛd ",
+        "type": "verb",
+        "defineEn": "to affect more people or a wider area",
+        "defineVi": "để ảnh hưởng đến nhiều người hơn hoặc một khu vực rộng lớn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "6c4078ac-eb32-4224-8009-0848e61a7d85",
+        "word": "symptom",
+        "phonetic": "sɪmptəm ",
+        "type": "noun",
+        "defineEn": "a change in the normal condition of the body or a person, which is the sign of a disease",
+        "defineVi": "một sự thay đổi trong tình trạng bình thường của cơ thể hoặc một người, đó là dấu hiệu của một căn bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "b7ccf13d-cd2d-4272-b777-ed99e0bca802",
+        "word": "to recover",
+        "phonetic": "tə ɹᵻkʌvɚ ",
+        "type": "verb",
+        "defineEn": "to regain complete health after a period of sickness or injury",
+        "defineVi": "để lấy lại sức khỏe hoàn toàn sau một thời gian bị bệnh hoặc chấn thương",
+        "hasImg": true
+    },
+    {
+        "id": "dc49fd4f-588f-406b-97b6-dc0928d2fd7a",
+        "word": "recovery",
+        "phonetic": "ɹᵻkʌvɚɹi ",
+        "type": "noun",
+        "defineEn": "the process of becoming healthy again after an injury or disease",
+        "defineVi": "quá trình trở nên khỏe mạnh trở lại sau một chấn thương hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "638f9468-7e6f-46ff-b465-e5b679d8df28",
+        "word": "prescription",
+        "phonetic": "pɹɪskɹɪpʃən ",
+        "type": "noun",
+        "defineEn": "the written instructions of a doctor that allow the patient to get the medicines needed",
+        "defineVi": "hướng dẫn bằng văn bản của bác sĩ cho phép bệnh nhân lấy các loại thuốc cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "3ddc7ca4-02ee-4511-b44b-cdfc0b68f208",
+        "word": "care",
+        "phonetic": "kɛɹ ",
+        "type": "noun",
+        "defineEn": "the action of looking after someone or providing treatment for them",
+        "defineVi": "hành động chăm sóc ai đó hoặc điều trị cho họ",
+        "hasImg": true
+    },
+    {
+        "id": "1130a66f-27e7-4e81-b040-c7f3b9637a49",
+        "word": "to care for",
+        "phonetic": "tə kɛɹ fɔːɹ ",
+        "type": "verb",
+        "defineEn": "to provide treatment for or look after a person or an animal that is sick or injured",
+        "defineVi": "để điều trị hoặc chăm sóc cho một người hoặc một con vật bị bệnh hoặc bị thương",
+        "hasImg": true
+    },
+    {
+        "id": "c32e48a4-6363-4641-add9-c2eabbc1a86b",
+        "word": "first aid",
+        "phonetic": "fɜːst eɪd ",
+        "type": "noun",
+        "defineEn": "a basic medical treatment given to someone in an emergency before they are taken to the hospital",
+        "defineVi": "một điều trị y tế cơ bản cho ai đó trong trường hợp khẩn cấp trước khi họ được đưa đến bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "40a0ddb3-29ee-4839-9dd5-7ca6330a525c",
+        "word": "checkup",
+        "phonetic": "tʃɛkʌp ",
+        "type": "noun",
+        "defineEn": "a complete medical examination of the body to see if there are any health issues",
+        "defineVi": "kiểm tra y tế toàn diện về cơ thể để xem có bất kỳ vấn đề sức khỏe nào không",
+        "hasImg": true
+    },
+    {
+        "id": "1fcb5613-fdd5-4a89-9cf3-8a4439f9415e",
+        "word": "to weigh",
+        "phonetic": "tə weɪ ",
+        "type": "verb",
+        "defineEn": "to have a specific weight",
+        "defineVi": "để có một trọng lượng cụ thể",
+        "hasImg": true
+    }
+]

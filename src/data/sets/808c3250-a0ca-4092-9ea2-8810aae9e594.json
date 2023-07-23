@@ -1,0 +1,277 @@
+[
+    {
+        "id": "8878c7f2-c5a1-4375-9837-0a9a412f4097",
+        "word": "calculation",
+        "phonetic": "kælkjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the act of finding a number or amount using mathematics",
+        "defineVi": "hành động tìm một số hoặc số lượng bằng toán học",
+        "hasImg": true
+    },
+    {
+        "id": "b2b972b4-0760-4126-8747-6f8dae824d57",
+        "word": "arithmetic",
+        "phonetic": "ɚɹɪθmətɪk ",
+        "type": "noun",
+        "defineEn": "a branch of mathematics that deals with addition, subtraction, multiplication, etc.",
+        "defineVi": "một nhánh của toán học liên quan đến phép cộng, phép trừ, phép nhân, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2832bfa9-e683-4f40-a99c-850009939f8d",
+        "word": "mathematical",
+        "phonetic": "mæθɪmæɾɪkəl ",
+        "type": "adjective",
+        "defineEn": "related to or used in mathematics",
+        "defineVi": "liên quan đến hoặc được sử dụng trong toán học"
+    },
+    {
+        "id": "afecac64-0812-425e-9e02-73e3c7503fb3",
+        "word": "numerical",
+        "phonetic": "nuːmɛɹɪkəl ",
+        "type": "adjective",
+        "defineEn": "represented in numbers; related to numbers",
+        "defineVi": "được biểu diễn bằng số; liên quan đến số"
+    },
+    {
+        "id": "a30827cd-64f2-482f-b4a4-d8660d0dd14a",
+        "word": "ordinal number",
+        "phonetic": "ɔːɹdɪnəl nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a number that indicates the position of something in a sequence or series",
+        "defineVi": "một số cho biết vị trí của một cái gì đó trong một chuỗi hoặc chuỗi"
+    },
+    {
+        "id": "fe8b5171-d29d-4709-8e2c-00069b61e16b",
+        "word": "measure",
+        "phonetic": "mɛʒɚ ",
+        "type": "noun",
+        "defineEn": "the quantity of something",
+        "defineVi": "số lượng của một cái gì đó"
+    },
+    {
+        "id": "bab8c8f0-90d5-48b3-9f86-54435185d32a",
+        "word": "value",
+        "phonetic": "væljuː ",
+        "type": "noun",
+        "defineEn": "(mathematics) an amount that is shown by a sign or letter",
+        "defineVi": "(toán học) số lượng được biểu thị bằng ký hiệu hoặc chữ cái"
+    },
+    {
+        "id": "8ea152e8-c285-453e-ab60-a2f268b7282c",
+        "word": "fraction",
+        "phonetic": "fɹækʃən ",
+        "type": "noun",
+        "defineEn": "a part of a whole number, such as ½",
+        "defineVi": "một phần của một số nguyên, chẳng hạn như ½",
+        "hasImg": true
+    },
+    {
+        "id": "bbf1b4cf-b154-4286-86e1-d8ebd0e1a445",
+        "word": "digit",
+        "phonetic": "dɪdʒɪt ",
+        "type": "noun",
+        "defineEn": "one of the numbers from 0 to 9",
+        "defineVi": "một trong các số từ 0 đến 9"
+    },
+    {
+        "id": "cf3d0a6c-389f-4ca4-bf77-46c3a076bb59",
+        "word": "diameter",
+        "phonetic": "daɪæmɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a straight line from one side of a round object, particularly a circle, passing through the center and joining the other side",
+        "defineVi": "một đường thẳng từ một mặt của vật thể tròn, đặc biệt là hình tròn, đi qua tâm và nối với mặt kia",
+        "hasImg": true
+    },
+    {
+        "id": "86aca0bb-94f0-4c3d-b97a-bea5fad087be",
+        "word": "equation",
+        "phonetic": "ᵻkweɪʒən ",
+        "type": "noun",
+        "defineEn": "(mathematics) a statement indicating the equality between two values",
+        "defineVi": "(toán học) phát biểu biểu thị sự bằng nhau giữa hai giá trị"
+    },
+    {
+        "id": "51c396ba-44e3-44c9-8319-b40460160f8e",
+        "word": "parallel",
+        "phonetic": "pæɹəlɛl ",
+        "type": "adjective",
+        "defineEn": "being of the same distance from each other at every point and not converging",
+        "defineVi": "có cùng khoảng cách với nhau tại mọi điểm và không hội tụ",
+        "hasImg": true
+    },
+    {
+        "id": "e7b5d1ef-9dc0-46f2-9c7d-1633d50fae5c",
+        "word": "decimal",
+        "phonetic": "dɛsɪməl ",
+        "type": "adjective",
+        "defineEn": "relating to a system of numbers that are multiplied by, divided to and power of ten",
+        "defineVi": "liên quan đến một hệ thống các số được nhân, chia và lũy thừa của mười"
+    },
+    {
+        "id": "ba5ea300-2738-4d9b-933b-b98c5ee0fe2f",
+        "word": "vertical",
+        "phonetic": "vɜːɾɪkəl ",
+        "type": "adjective",
+        "defineEn": "going straight up and down from a level surface or line; at an angle of 90 degrees with a flat surface",
+        "defineVi": "đi thẳng lên và xuống từ một bề mặt hoặc đường thẳng; một góc 90 độ với mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "c2094d64-f092-49a4-9c9e-cb5e4c464dd7",
+        "word": "width",
+        "phonetic": "wɪtθ ",
+        "type": "noun",
+        "defineEn": "the distance of something from side to side",
+        "defineVi": "khoảng cách của một cái gì đó từ bên này sang bên kia",
+        "hasImg": true
+    },
+    {
+        "id": "6dff59af-d98c-40a4-8dfd-e3aa9f37358e",
+        "word": "unit",
+        "phonetic": "juːnɪt ",
+        "type": "noun",
+        "defineEn": "a standard measure used to tell the amount of something",
+        "defineVi": "một biện pháp tiêu chuẩn được sử dụng để nói số tiền của một cái gì đó"
+    },
+    {
+        "id": "405f9338-c844-4130-8cff-f9b63d73cc32",
+        "word": "function",
+        "phonetic": "fʌŋkʃən ",
+        "type": "noun",
+        "defineEn": "(mathematics) a quantity whose value changes according to another quantity's varying value",
+        "defineVi": "(toán học) đại lượng có giá trị thay đổi theo giá trị thay đổi của đại lượng khác"
+    },
+    {
+        "id": "52f79ed6-6ee5-40a1-9eb1-8fd87c6c86e2",
+        "word": "circumference",
+        "phonetic": "sɜːkʌmfɹəns ",
+        "type": "noun",
+        "defineEn": "(geometry) the length of the external boundary of a curved shape, especially a circle",
+        "defineVi": "(hình học) độ dài của đường bao ngoài của một hình cong, đặc biệt là hình tròn",
+        "hasImg": true
+    },
+    {
+        "id": "54023d0f-8fe2-4a55-a728-939997ef99e3",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "an imaginary line in the middle of an object around which the object revolves",
+        "defineVi": "một đường tưởng tượng ở giữa một vật thể mà vật thể xoay quanh",
+        "hasImg": true
+    },
+    {
+        "id": "1e68666b-23c7-459c-8e9f-b1b7bc8df2b9",
+        "word": "probability",
+        "phonetic": "pɹɑːbəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "(mathematics) a number representing the chances of something specific happening",
+        "defineVi": "(toán học) một con số đại diện cho khả năng xảy ra một điều gì đó cụ thể"
+    },
+    {
+        "id": "1ca05505-4519-4c5b-b61f-8aaa6787510b",
+        "word": "dimension",
+        "phonetic": "dᵻmɛnʃən ",
+        "type": "noun",
+        "defineEn": "a measure of the height, length, or width of an object in a certain direction",
+        "defineVi": "thước đo chiều cao, chiều dài hoặc chiều rộng của một đối tượng theo một hướng nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "14b730d8-5941-4435-9125-1b05ef8f873b",
+        "word": "to subtract",
+        "phonetic": "tə sʌbtɹækt ",
+        "type": "verb",
+        "defineEn": "(mathematics) to take a number from another number and find out the difference",
+        "defineVi": "(toán học) lấy một số từ một số khác và tìm ra sự khác biệt",
+        "hasImg": true
+    },
+    {
+        "id": "630694f3-db68-4fba-8080-5fc3d8b74a0a",
+        "word": "to total",
+        "phonetic": "tə toʊɾəl ",
+        "type": "verb",
+        "defineEn": "to add up numbers so that a total is determined",
+        "defineVi": "để cộng các số sao cho tổng được xác định",
+        "hasImg": true
+    },
+    {
+        "id": "3e0529bd-49ea-447a-b06b-0f31717b5f1a",
+        "word": "cubic",
+        "phonetic": "kjuːbɪk ",
+        "type": "adjective",
+        "defineEn": "indicating a unit of measurement that includes volume of a cube",
+        "defineVi": "chỉ ra một đơn vị đo lường bao gồm khối lượng của một khối lập phương"
+    },
+    {
+        "id": "32701c45-712c-4eac-9920-1bdf38928deb",
+        "word": "ounce",
+        "phonetic": "aʊns ",
+        "type": "noun",
+        "defineEn": "a unit for measuring weight equal to approximately 28.34 grams or 0.06 of a pound",
+        "defineVi": "một đơn vị đo trọng lượng bằng khoảng 28,34 gram hoặc 0,06 pound",
+        "hasImg": true
+    },
+    {
+        "id": "ec37a9e3-0676-440a-a648-9b98ddb2f0c2",
+        "word": "gallon",
+        "phonetic": "ɡælən ",
+        "type": "noun",
+        "defineEn": "a unit, in the US, to measure the amount of a liquid equal to 3.79 liters",
+        "defineVi": "một đơn vị, ở Mỹ, để đo lượng chất lỏng bằng 3,79 lít",
+        "hasImg": true
+    },
+    {
+        "id": "1ae736a6-c556-4a18-aa9c-2bf2fd0a9d6d",
+        "word": "bar chart",
+        "phonetic": "bɑːɹ tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a graphical display of information consisting of narrow rectangular lines whose heights depend on the value that they are representing",
+        "defineVi": "một màn hình đồ họa thông tin bao gồm các đường hình chữ nhật hẹp có chiều cao phụ thuộc vào giá trị mà chúng đại diện",
+        "hasImg": true
+    },
+    {
+        "id": "391dde02-12de-40c7-a045-ac3b153c1d5d",
+        "word": "pie chart",
+        "phonetic": "paɪ tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a graphical display of the difference between the parts of a whole shown by dividing a circle into several segments",
+        "defineVi": "một màn hình đồ họa về sự khác biệt giữa các phần của một tổng thể được hiển thị bằng cách chia một vòng tròn thành nhiều phân đoạn",
+        "hasImg": true
+    },
+    {
+        "id": "dec810ad-5395-425e-8212-8a204e6500dd",
+        "word": "acre",
+        "phonetic": "eɪkɚ ",
+        "type": "noun",
+        "defineEn": "a unit used in North America and Britain for measuring land area that equals 4047 square meters or 4840 square yards",
+        "defineVi": "một đơn vị được sử dụng ở Bắc Mỹ và Anh để đo diện tích đất bằng 4047 mét vuông hoặc 4840 thước vuông",
+        "hasImg": true
+    },
+    {
+        "id": "c0404826-4617-49ac-9c61-18c352f94b6f",
+        "word": "formula",
+        "phonetic": "fɔːɹmjʊlə ",
+        "type": "noun",
+        "defineEn": "(mathematics) a rule or law represented in symbols, letters, or numbers",
+        "defineVi": "(toán học) một quy tắc hoặc luật được biểu thị bằng ký hiệu, chữ cái hoặc số"
+    },
+    {
+        "id": "0d66e1b3-9a0d-4b60-a7f0-4ac0d4bb89a2",
+        "word": "accountant",
+        "phonetic": "ɐkaʊntənt ",
+        "type": "noun",
+        "defineEn": "someone whose job is to keep or check financial accounts",
+        "defineVi": "ai đó có công việc là để giữ hoặc kiểm tra tài khoản tài chính",
+        "hasImg": true
+    },
+    {
+        "id": "cd4a590c-8846-418b-b23b-da134737e467",
+        "word": "analyst",
+        "phonetic": "ænɐlɪst ",
+        "type": "noun",
+        "defineEn": "a trained individual who is concerned with analyzing the facts and providing others with information",
+        "defineVi": "một cá nhân được đào tạo có liên quan đến việc phân tích các sự kiện và cung cấp cho người khác thông tin",
+        "hasImg": true
+    }
+]

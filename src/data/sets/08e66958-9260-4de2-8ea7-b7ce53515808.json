@@ -1,0 +1,252 @@
+[
+    {
+        "id": "415beabc-c3de-4560-a4a9-688aa7b37603",
+        "word": "zoology",
+        "phonetic": "zuːɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a branch of science that deals with animals",
+        "defineVi": "một ngành khoa học liên quan đến động vật",
+        "hasImg": true
+    },
+    {
+        "id": "de33524f-382f-418e-bc7b-a993b6c18194",
+        "word": "hierarchy",
+        "phonetic": "haɪɚɹɑːɹki ",
+        "type": "noun",
+        "defineEn": "the grouping of people into different levels or ranks according to their power or importance within a society or system",
+        "defineVi": "việc nhóm người vào các cấp hoặc cấp bậc khác nhau tùy theo quyền lực hoặc tầm quan trọng của họ trong một xã hội hoặc hệ thống"
+    },
+    {
+        "id": "282b7ab8-6451-41e1-8f33-0543f38675c6",
+        "word": "taxonomy",
+        "phonetic": "tæksɑːnəmi ",
+        "type": "noun",
+        "defineEn": "the systematic classification of plants and animals, based on their shared characteristics and evolutionary relationships",
+        "defineVi": "sự phân loại có hệ thống của thực vật và động vật, dựa trên các đặc điểm chung và mối quan hệ tiến hóa của chúng"
+    },
+    {
+        "id": "d2007a95-7f76-4e15-aa81-97d6bd3be9e7",
+        "word": "subspecies",
+        "phonetic": "sʌbspiːsiːz ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank below species that represents a distinct population within a species, exhibiting consistent differences from other populations",
+        "defineVi": "một thứ hạng phân loại bên dưới các loài đại diện cho một quần thể riêng biệt trong một loài, thể hiện sự khác biệt nhất quán so với các quần thể khác"
+    },
+    {
+        "id": "2701ab43-f7fa-42d5-ba5b-bd9adc998410",
+        "word": "subtribe",
+        "phonetic": "sʌbtɹaɪb ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank used in biological classification that is lower than a tribe and higher than a genus",
+        "defineVi": "một thứ hạng phân loại được sử dụng trong phân loại sinh học thấp hơn một bộ lạc và cao hơn một chi"
+    },
+    {
+        "id": "6f136961-16bc-468e-9147-7e5e15fa9505",
+        "word": "division",
+        "phonetic": "dᵻvɪʒən ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank used to classify organisms that is below kingdom and above class",
+        "defineVi": "một thứ hạng phân loại được sử dụng để phân loại các sinh vật dưới vương quốc và trên lớp"
+    },
+    {
+        "id": "e194eef0-3e84-46bc-8e8a-39cc580db0a0",
+        "word": "variety",
+        "phonetic": "vɚɹaɪəɾi ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank below that of subspecies and refers to distinct forms of a species that differ in minor ways",
+        "defineVi": "một thứ hạng phân loại dưới thứ hạng của phân loài và đề cập đến các dạng riêng biệt của một loài khác nhau theo những cách nhỏ"
+    },
+    {
+        "id": "dbfa5594-a2b6-4bb7-b260-de93893bf0a7",
+        "word": "form",
+        "phonetic": "fɔːɹm ",
+        "type": "noun",
+        "defineEn": "a collection of organisms within a species that have small differences from other similar groups",
+        "defineVi": "một tập hợp các sinh vật trong một loài có sự khác biệt nhỏ so với các nhóm tương tự khác"
+    },
+    {
+        "id": "513e94c8-6314-4fb1-8d4e-e9e20cf3ee86",
+        "word": "subphylum",
+        "phonetic": "sʌbfaɪləm ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank that is lower than phylum and higher than class",
+        "defineVi": "một thứ hạng phân loại thấp hơn phylum và cao hơn lớp"
+    },
+    {
+        "id": "bc239d07-2894-4ec6-9987-8e6b600a15ac",
+        "word": "subclass",
+        "phonetic": "sʌbklæs ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank that comes between class and order, and includes one or more related orders",
+        "defineVi": "một thứ hạng phân loại nằm giữa lớp và thứ tự, và bao gồm một hoặc nhiều thứ tự liên quan"
+    },
+    {
+        "id": "f51ad811-1eaf-4c4f-b4cf-37298cdd31e3",
+        "word": "superorder",
+        "phonetic": "suːpɚɹɔːɹdɚ ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank that is used to group related orders within a subclass or class of organisms",
+        "defineVi": "một thứ hạng phân loại được sử dụng để nhóm các đơn đặt hàng có liên quan trong một phân lớp hoặc lớp sinh vật"
+    },
+    {
+        "id": "4b6036e3-3389-40f5-8ae1-adfbc02353b1",
+        "word": "suborder",
+        "phonetic": "sʌboːɹdɚ ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank that comes below the order and above the infraorder",
+        "defineVi": "một thứ hạng phân loại nằm dưới thứ tự và trên thứ tự hạ cấp"
+    },
+    {
+        "id": "557f506d-1f55-4a90-af44-e2b89d3f3c58",
+        "word": "superfamily",
+        "phonetic": "suːpɚfæmɪli ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank below the order level and above the family level, comprising closely related families of organisms",
+        "defineVi": "một thứ hạng phân loại dưới cấp độ trật tự và trên cấp độ gia đình, bao gồm các họ sinh vật có quan hệ họ hàng gần"
+    },
+    {
+        "id": "cbd2cecd-98af-4fce-82cf-4aae5b807104",
+        "word": "realm",
+        "phonetic": "ɹɛlm ",
+        "type": "noun",
+        "defineEn": "a distinct and broad type of habitat or ecological region occupied by various animal species, characterized by specific environmental conditions and biological communities",
+        "defineVi": "một loại môi trường sống hoặc vùng sinh thái riêng biệt và rộng lớn có nhiều loài động vật khác nhau, được đặc trưng bởi các điều kiện môi trường và cộng đồng sinh học cụ thể"
+    },
+    {
+        "id": "31d00b5a-17dd-4067-83d0-56f40fab82b5",
+        "word": "life",
+        "phonetic": "laɪf ",
+        "type": "noun",
+        "defineEn": "the collective existence of living organisms and their characteristics, such as growth, reproduction, adaptation, and response to stimuli",
+        "defineVi": "sự tồn tại tập thể của các sinh vật sống và các đặc điểm của chúng, chẳng hạn như tăng trưởng, sinh sản, thích nghi và phản ứng với các kích thích"
+    },
+    {
+        "id": "8e2fb572-35dc-42e3-8f86-4a0a9b58523c",
+        "word": "domain",
+        "phonetic": "dəmeɪn ",
+        "type": "noun",
+        "defineEn": "the highest taxonomic rank of organisms, above the kingdom level, which groups organisms based on their molecular, biochemical, and structural characteristics",
+        "defineVi": "cấp phân loại cao nhất của các sinh vật, trên cấp vương quốc, nhóm các sinh vật dựa trên các đặc điểm phân tử, sinh hóa và cấu trúc của chúng"
+    },
+    {
+        "id": "13036d6c-2afe-4994-9f11-374c3b5eddd8",
+        "word": "kingdom",
+        "phonetic": "kɪŋdəm ",
+        "type": "noun",
+        "defineEn": "the highest taxonomic classification that categorizes organisms, comprising five major biological groups",
+        "defineVi": "phân loại phân loại cao nhất phân loại các sinh vật, bao gồm năm nhóm sinh học chính"
+    },
+    {
+        "id": "80c75d12-213b-4d5e-8765-ff3c7d925c85",
+        "word": "phylum",
+        "phonetic": "faɪləm ",
+        "type": "noun",
+        "defineEn": "(biology) a taxonomic category between a class and a kingdom",
+        "defineVi": "(sinh vật học) một phạm trù phân loại giữa giai cấp và vương quốc"
+    },
+    {
+        "id": "b81660d7-36ba-4eab-b5fd-2f3cfb3600e9",
+        "word": "class",
+        "phonetic": "klæs ",
+        "type": "noun",
+        "defineEn": "(biology) a taxonomic category ranking between a division and an order",
+        "defineVi": "(sinh vật học) xếp hạng phân loại giữa bộ phận và bộ"
+    },
+    {
+        "id": "4ffd4bee-f6d3-40f6-b812-42e81ee1256c",
+        "word": "order",
+        "phonetic": "ɔːɹdɚ ",
+        "type": "noun",
+        "defineEn": "(biology) a taxonomic category between a class and a family",
+        "defineVi": "(sinh vật học) một phạm trù phân loại giữa một lớp và một gia đình"
+    },
+    {
+        "id": "1d7b83c6-36bf-4df3-ac5a-4b8b98a4609b",
+        "word": "family",
+        "phonetic": "fæmɪli ",
+        "type": "noun",
+        "defineEn": "(biology) a taxonomic category that is between genus and order",
+        "defineVi": "(sinh vật học) một phạm trù phân loại nằm giữa chi và bộ"
+    },
+    {
+        "id": "6f9dc467-32eb-414d-9a10-6ccfa6af5510",
+        "word": "genus",
+        "phonetic": "dʒɛnəs ",
+        "type": "noun",
+        "defineEn": "(biology) any of the groups that plants, animals, etc. with similar characteristics are divided into, which is larger than a species and smaller than a family",
+        "defineVi": "(sinh học) bất kỳ nhóm nào mà thực vật, động vật, v.v. có các đặc điểm tương tự được chia thành lớn hơn loài và nhỏ hơn họ"
+    },
+    {
+        "id": "705d27ba-8531-450c-9165-ce287391e63f",
+        "word": "species",
+        "phonetic": "spiːsiːz ",
+        "type": "noun",
+        "defineEn": "a group that animals, plants, etc. of the same type which are capable of producing healthy offspring with each other are divided into",
+        "defineVi": "một nhóm động vật, thực vật, v.v. cùng loại có khả năng sinh con khỏe mạnh với nhau được chia thành",
+        "hasImg": true
+    },
+    {
+        "id": "c6447add-d562-4fab-9141-2576fa16915e",
+        "word": "cladistics",
+        "phonetic": "klædɪstɪks ",
+        "type": "noun",
+        "defineEn": "a method of classification in biology that groups organisms based on their shared characteristics and evolutionary relationships",
+        "defineVi": "một phương pháp phân loại trong sinh học nhóm các sinh vật dựa trên các đặc điểm chung và mối quan hệ tiến hóa của chúng"
+    },
+    {
+        "id": "66551554-5cab-4b66-a356-1b2406eb2639",
+        "word": "genetic",
+        "phonetic": "dʒɪnɛɾɪk ",
+        "type": "adjective",
+        "defineEn": "relating to the study of genes",
+        "defineVi": "liên quan đến việc nghiên cứu gen"
+    },
+    {
+        "id": "c8e10209-9e8e-4b91-a696-9cbbcdbf6a27",
+        "word": "trait",
+        "phonetic": "tɹeɪt ",
+        "type": "noun",
+        "defineEn": "something that is considered typical of a person, place, or thing and identifies them",
+        "defineVi": "một cái gì đó được coi là điển hình của một người, địa điểm, hoặc điều và xác định chúng"
+    },
+    {
+        "id": "0b43ad98-0785-480b-a1e5-aa0db9029b4c",
+        "word": "kingdom animalia",
+        "phonetic": "kɪŋdəm ænɪmeɪliə ",
+        "type": "noun",
+        "defineEn": "a group of living things that includes all animals, which are multicellular organisms that can move, eat, and reproduce sexually",
+        "defineVi": "một nhóm sinh vật sống bao gồm tất cả các loài động vật, là những sinh vật đa bào có thể di chuyển, ăn và sinh sản hữu tính"
+    },
+    {
+        "id": "4049f2e5-6a66-4a55-8d4f-a19e1e903cf9",
+        "word": "subfamily",
+        "phonetic": "sʌbfɐmɪli ",
+        "type": "noun",
+        "defineEn": "a taxonomic category that ranks below the family level and above the genus level, typically consisting of related genera",
+        "defineVi": "một danh mục phân loại xếp hạng dưới cấp họ và trên cấp chi, thường bao gồm các chi có liên quan"
+    },
+    {
+        "id": "59ebedf6-fb16-4597-9a7b-9b70ad108ba0",
+        "word": "tribe",
+        "phonetic": "tɹaɪb ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank that comes between a subfamily and a genus, consisting of one or more genera that share certain characteristics",
+        "defineVi": "một thứ hạng phân loại nằm giữa một phân họ và một chi, bao gồm một hoặc nhiều chi có chung những đặc điểm nhất định"
+    },
+    {
+        "id": "16d54460-7e27-4eaa-a020-9f4ea989749d",
+        "word": "subgenus",
+        "phonetic": "sʌbdʒɛnəs ",
+        "type": "noun",
+        "defineEn": "a taxonomic rank used in biological classification that is lower than a genus but higher than a species",
+        "defineVi": "một thứ hạng phân loại được sử dụng trong phân loại sinh học thấp hơn một chi nhưng cao hơn một loài"
+    },
+    {
+        "id": "12fd1f65-fbb5-4834-a686-eaf6a4e7cdf6",
+        "word": "race",
+        "phonetic": "ɹeɪs ",
+        "type": "noun",
+        "defineEn": "(biology) a taxonomic category below species that has a distinct feature from other groups in the same species",
+        "defineVi": "(sinh vật học) một loại phân loại bên dưới các loài có đặc điểm khác biệt với các nhóm khác trong cùng một loài"
+    }
+]

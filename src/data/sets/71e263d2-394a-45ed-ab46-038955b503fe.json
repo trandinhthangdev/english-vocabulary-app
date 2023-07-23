@@ -1,0 +1,525 @@
+[
+    {
+        "id": "74c1220b-7175-41ca-be41-de7dc6e50b3f",
+        "word": "take",
+        "phonetic": "teɪk ",
+        "type": "noun",
+        "defineEn": "the act of recording a movie scene or part of a scene without interruption",
+        "defineVi": "hành động ghi lại một cảnh phim hoặc một phần của cảnh mà không bị gián đoạn"
+    },
+    {
+        "id": "39d889d2-f447-4600-8228-0914426c37ed",
+        "word": "stunt",
+        "phonetic": "stʌnt ",
+        "type": "noun",
+        "defineEn": "a dangerous and difficult action that shows great skill and is done to entertain people, typically as part of a movie",
+        "defineVi": "một hành động nguy hiểm và khó thể hiện kỹ năng tuyệt vời và được thực hiện để giải trí cho mọi người, thường là một phần của bộ phim"
+    },
+    {
+        "id": "8e9937e3-4b1c-4611-b261-0e2523d6ec7e",
+        "word": "storyboarding",
+        "phonetic": "stoːɹiboːɹdɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of creating a set of pictures or drawings depicting the outline of the plot of a movie, TV series, etc.",
+        "defineVi": "quá trình tạo ra một bộ tranh hoặc bản vẽ mô tả đường nét cốt truyện của một bộ phim, phim truyền hình, v.v."
+    },
+    {
+        "id": "48525f50-dcfd-44d5-ab04-9188581f7bcc",
+        "word": "storyboard",
+        "phonetic": "stoːɹiboːɹd ",
+        "type": "noun",
+        "defineEn": "a set of pictures or drawings depicting the outline of the plot of a movie, TV series, etc.",
+        "defineVi": "một bộ tranh hoặc bản vẽ mô tả phác thảo cốt truyện của một bộ phim, phim truyền hình, v.v."
+    },
+    {
+        "id": "3b08d9c7-7faa-4999-bbf6-e90954f2e6f4",
+        "word": "shooting",
+        "phonetic": "ʃuːɾɪŋ ",
+        "type": "noun",
+        "defineEn": "the action or process of recording the scenes of a motion picture or taking a photograph",
+        "defineVi": "hành động hoặc quá trình ghi lại các cảnh của một bức ảnh chuyển động hoặc chụp ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "ff6d024e-b4fe-4ed6-8943-1f2f30a64a09",
+        "word": "shot",
+        "phonetic": "ʃɑːt ",
+        "type": "noun",
+        "defineEn": "an independent sequence of a motion picture or TV program that is recorded by one camera without any interruption",
+        "defineVi": "một chuỗi độc lập của một hình ảnh chuyển động hoặc chương trình truyền hình được ghi lại bởi một camera mà không bị gián đoạn"
+    },
+    {
+        "id": "64b8d828-7f46-4f4a-999f-5e4f9df0fc13",
+        "word": "sequence",
+        "phonetic": "siːkwəns ",
+        "type": "noun",
+        "defineEn": "a set of shots in a motion picture that are marked by a unity of time or location, creating a particular narrative unit",
+        "defineVi": "một tập hợp các cảnh quay trong một bức tranh chuyển động được đánh dấu bằng sự thống nhất về thời gian hoặc địa điểm, tạo ra một đơn vị tường thuật cụ thể"
+    },
+    {
+        "id": "218bb55b-1724-4ab3-b96d-24067f05dc05",
+        "word": "rough cut",
+        "phonetic": "ɹʌf kʌt ",
+        "type": "noun",
+        "defineEn": "the first version of editing a movie, after different scenes are assembled",
+        "defineVi": "phiên bản đầu tiên của chỉnh sửa phim, sau khi các cảnh khác nhau được ghép lại"
+    },
+    {
+        "id": "06fc49c2-5de0-4eef-af20-85658100f420",
+        "word": "outtake",
+        "phonetic": "aʊtteɪk ",
+        "type": "noun",
+        "defineEn": "a piece of raw footage that is recorded but is not used in the final edited version of a movie, TV program, etc.",
+        "defineVi": "một đoạn phim thô được ghi lại nhưng không được sử dụng trong phiên bản chỉnh sửa cuối cùng của phim, chương trình truyền hình, v.v."
+    },
+    {
+        "id": "ac6b5c08-fb00-40ed-bd89-513b68b5fbce",
+        "word": "cinematography",
+        "phonetic": "sɪnɪmɐtɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the art and methods of film-making, especially the photographic aspect and camerawork",
+        "defineVi": "nghệ thuật và phương pháp làm phim, đặc biệt là khía cạnh chụp ảnh và quay phim"
+    },
+    {
+        "id": "f5c75842-3ff8-4056-a1f2-3fcc7b9d0d05",
+        "word": "continuity",
+        "phonetic": "kɑːntɪnjuːᵻɾi ",
+        "type": "noun",
+        "defineEn": "the organization of a movie or TV show in a way that the actions and details are consistent in a series of following scenes",
+        "defineVi": "tổ chức của một bộ phim hoặc chương trình truyền hình theo cách mà các hành động và chi tiết nhất quán trong một loạt các cảnh sau"
+    },
+    {
+        "id": "8b61b500-59fa-418b-902e-2bb48346fc9b",
+        "word": "set piece",
+        "phonetic": "sɛt piːs ",
+        "type": "noun",
+        "defineEn": "a set of scenes in a motion picture, novel, etc. that could be regarded independently and are very elaborate or complex",
+        "defineVi": "một tập hợp các cảnh trong một bộ phim chuyển động, tiểu thuyết, v.v. có thể được xem xét một cách độc lập và rất công phu hoặc phức tạp"
+    },
+    {
+        "id": "6deb9046-18c0-45fd-80ad-f38304ea3b81",
+        "word": "one-shot film",
+        "phonetic": "wʌnʃɑːt fɪlm ",
+        "type": "noun",
+        "defineEn": "a type of film that is shot in one long take without any cuts or editing, providing a continuous, uninterrupted view of the action",
+        "defineVi": "một loại phim được quay trong một lần dài mà không có bất kỳ sự cắt xén hay chỉnh sửa nào, cung cấp một cái nhìn liên tục, không bị gián đoạn về hành động"
+    },
+    {
+        "id": "330add1f-befb-49cc-924f-682b3c2011d4",
+        "word": "color grading",
+        "phonetic": "kʌlɚ ɡɹeɪdɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of adjusting and enhancing colors and tonality to achieve a desired visual style in film, television, and photography",
+        "defineVi": "quá trình điều chỉnh và tăng cường màu sắc và tông màu để đạt được phong cách hình ảnh mong muốn trong phim, truyền hình và nhiếp ảnh"
+    },
+    {
+        "id": "13249820-6e7d-4cd3-9de0-c2544d8137c9",
+        "word": "location scouting",
+        "phonetic": "loʊkeɪʃən skaʊɾɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of selecting appropriate filming locations for a production, based on factors such as lighting, accessibility, safety, and availability",
+        "defineVi": "quá trình lựa chọn các địa điểm quay phim phù hợp để sản xuất, dựa trên các yếu tố như ánh sáng, khả năng tiếp cận, an toàn và tính khả dụng"
+    },
+    {
+        "id": "3f9cb5d6-67a3-44b9-ba86-e02d530aec7b",
+        "word": "green light",
+        "phonetic": "ɡɹiːn laɪt ",
+        "type": "noun",
+        "defineEn": "approval to begin a project",
+        "defineVi": "phê duyệt để bắt đầu một dự án"
+    },
+    {
+        "id": "2607687e-e2e5-4d89-bd41-306c647d0aac",
+        "word": "shooting schedule",
+        "phonetic": "ʃuːɾɪŋ skɛdʒuːl ",
+        "type": "noun",
+        "defineEn": "a detailed plan that outlines the order in which scenes will be filmed, the locations, the actors, and the necessary crew and equipment for each day of production",
+        "defineVi": "một kế hoạch chi tiết phác thảo thứ tự các cảnh sẽ được quay, địa điểm, diễn viên, đoàn làm phim và thiết bị cần thiết cho mỗi ngày sản xuất"
+    },
+    {
+        "id": "7579f7e3-a197-4bee-abf1-0b22d5da45f9",
+        "word": "principal photography",
+        "phonetic": "pɹɪnsɪpəl fətɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the main phase of film production when the majority of the film's scenes are shot with the main actors and locations",
+        "defineVi": "giai đoạn chính của quá trình sản xuất phim khi phần lớn các cảnh trong phim được quay với các diễn viên và địa điểm chính"
+    },
+    {
+        "id": "0b1065a0-fe45-4c68-aed1-1a33e91e4dbc",
+        "word": "dressing",
+        "phonetic": "dɹɛsɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of preparing a film set by adding and arranging props, set decorations, and other visual elements to enhance the realism and authenticity of the scene",
+        "defineVi": "quá trình chuẩn bị một bộ phim bằng cách thêm và sắp xếp các đạo cụ, đồ trang trí và các yếu tố hình ảnh khác để nâng cao tính chân thực và chân thực của cảnh"
+    },
+    {
+        "id": "389ab0e3-f2ea-4235-84f1-f277bdd8fb34",
+        "word": "lighting",
+        "phonetic": "laɪɾɪŋ ",
+        "type": "noun",
+        "defineEn": "the use of various equipment and techniques to illuminate the actors and environment in a way that enhances the mood, atmosphere, and visual style of the film",
+        "defineVi": "việc sử dụng các thiết bị và kỹ thuật khác nhau để chiếu sáng các diễn viên và môi trường theo cách giúp nâng cao tâm trạng, bầu không khí và phong cách hình ảnh của bộ phim"
+    },
+    {
+        "id": "508d578b-f52d-47cb-8a85-755ea4494a8e",
+        "word": "daily call sheet",
+        "phonetic": "deɪli kɔːl ʃiːt ",
+        "type": "noun",
+        "defineEn": "a document used in film and television production that outlines the shooting schedule, cast and crew call times, locations, and other important details for a specific day's shoot",
+        "defineVi": "một tài liệu được sử dụng trong sản xuất phim và truyền hình phác thảo lịch quay, thời gian gọi diễn viên và đoàn làm phim, địa điểm và các chi tiết quan trọng khác cho một ngày quay cụ thể"
+    },
+    {
+        "id": "10defb71-c8de-4454-b421-d35bc2d88339",
+        "word": "35mm film",
+        "phonetic": "θɜːɾi faɪv ɛmɛm fɪlm ",
+        "type": "noun",
+        "defineEn": "a motion picture film format with a 35 mm width that has been widely used in both professional and amateur filmmaking for its high-quality images and aesthetic options",
+        "defineVi": "một định dạng phim chuyển động có chiều rộng 35 mm đã được sử dụng rộng rãi trong cả làm phim chuyên nghiệp và nghiệp dư nhờ hình ảnh chất lượng cao và các tùy chọn thẩm mỹ"
+    },
+    {
+        "id": "78acc00c-3fb3-4a14-8e4f-826d6181364d",
+        "word": "film colorization",
+        "phonetic": "fɪlm kʌlɚɹᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of adding color to black-and-white films, either manually or through digital technology, to create a color version of the original film",
+        "defineVi": "quá trình thêm màu vào phim đen trắng, bằng tay hoặc thông qua công nghệ kỹ thuật số, để tạo ra phiên bản màu của phim gốc"
+    },
+    {
+        "id": "0ca60fb8-1c82-4eb1-9b17-0348841b34aa",
+        "word": "spotting",
+        "phonetic": "spɑːɾɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of identifying specific points in a visual or audio work where sound effects or music should be added or modified to enhance the emotional impact or narrative flow",
+        "defineVi": "quá trình xác định các điểm cụ thể trong một tác phẩm hình ảnh hoặc âm thanh nơi hiệu ứng âm thanh hoặc âm nhạc nên được thêm vào hoặc sửa đổi để nâng cao tác động cảm xúc hoặc dòng tường thuật"
+    },
+    {
+        "id": "ea47272f-0c0e-48c9-93a3-6213f9db9ba7",
+        "word": "four walls",
+        "phonetic": "foːɹ wɔːlz ",
+        "type": "noun",
+        "defineEn": "a shooting location that has four actual walls, typically a room or an enclosed space, that can be used to create a sense of confinement or intimacy in the scene",
+        "defineVi": "một địa điểm chụp có bốn bức tường thực tế, điển hình là một căn phòng hoặc một không gian kín, có thể được sử dụng để tạo cảm giác gò bó hoặc thân mật trong cảnh"
+    },
+    {
+        "id": "6b817a31-f60a-43ea-bfcc-d46265893e4f",
+        "word": "film treatment",
+        "phonetic": "fɪlm tɹiːtmənt ",
+        "type": "noun",
+        "defineEn": "a brief written summary of a proposed movie idea, outlining the story, characters, themes, and tone of the film, intended to serve as a starting point for further development of the screenplay",
+        "defineVi": "một bản tóm tắt ngắn gọn về ý tưởng phim được đề xuất, phác thảo câu chuyện, nhân vật, chủ đề và tông màu của phim, nhằm mục đích làm điểm khởi đầu cho sự phát triển tiếp theo của kịch bản"
+    },
+    {
+        "id": "882677cf-67ad-4933-ba26-62db79db2e81",
+        "word": "digital cinematography",
+        "phonetic": "dɪdʒɪɾəl sɪnɪmɐtɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the process of capturing and recording motion pictures using digital technology, rather than traditional celluloid film, for production, distribution, and exhibition",
+        "defineVi": "quá trình chụp và ghi lại các hình ảnh chuyển động bằng công nghệ kỹ thuật số, thay vì phim nhựa truyền thống, để sản xuất, phân phối và triển lãm"
+    },
+    {
+        "id": "3c7a68b0-a037-44bb-96b5-6e760e27a7ac",
+        "word": "30-degree rule",
+        "phonetic": "θɜːɾidᵻɡɹiː ɹuːl ",
+        "type": "noun",
+        "defineEn": "a guideline in filmmaking that recommends changing the camera angle by at least 30 degrees between shots to avoid a jarring effect on the viewer",
+        "defineVi": "hướng dẫn làm phim khuyến nghị thay đổi góc máy ảnh ít nhất 30 độ giữa các lần quay để tránh hiệu ứng chói tai đối với người xem"
+    },
+    {
+        "id": "4ff473b7-c638-426d-bf64-56450db0759c",
+        "word": "180-degree rule",
+        "phonetic": "wʌnhʌndɹɪd eɪɾidᵻɡɹiː ɹuːl ",
+        "type": "noun",
+        "defineEn": "a guideline in filmmaking that recommends not crossing an imaginary line between two characters to maintain visual continuity and avoid disorienting the viewer",
+        "defineVi": "một hướng dẫn trong quá trình làm phim khuyến nghị không vượt qua ranh giới tưởng tượng giữa hai nhân vật để duy trì tính liên tục của hình ảnh và tránh làm mất phương hướng của người xem"
+    },
+    {
+        "id": "6b79e8c7-38b8-4868-bc8d-88b230f7011a",
+        "word": "Kino-eye",
+        "phonetic": "kiːnoʊaɪ ",
+        "type": "noun",
+        "defineEn": "a documentary filmmaking style that seeks to capture reality through unobtrusive and objective observation",
+        "defineVi": "một phong cách làm phim tài liệu tìm cách nắm bắt thực tế thông qua quan sát khách quan và không phô trương"
+    },
+    {
+        "id": "56704186-f8af-4718-93cc-97a0b16fb481",
+        "word": "money shot",
+        "phonetic": "mʌni ʃɑːt ",
+        "type": "noun",
+        "defineEn": "any scene or moment in a film or video that is deemed to be particularly memorable or impressive, often in terms of visual impact or emotional intensity",
+        "defineVi": "bất kỳ cảnh hoặc khoảnh khắc nào trong phim hoặc video được coi là đặc biệt đáng nhớ hoặc ấn tượng, thường là về tác động thị giác hoặc cường độ cảm xúc"
+    },
+    {
+        "id": "5e0d0365-98fb-43e1-8c84-e2b502c4a584",
+        "word": "location",
+        "phonetic": "loʊkeɪʃən ",
+        "type": "noun",
+        "defineEn": "a place outside a studio where scenes of a movie or TV program are filmed",
+        "defineVi": "một nơi bên ngoài trường quay, nơi các cảnh của một bộ phim hoặc chương trình truyền hình được quay"
+    },
+    {
+        "id": "37d300f5-f22e-4ab5-80ed-a6232e808996",
+        "word": "studio",
+        "phonetic": "stuːdɪoʊ ",
+        "type": "noun",
+        "defineEn": "a place where motion pictures are produced",
+        "defineVi": "một nơi sản xuất hình ảnh chuyển động"
+    },
+    {
+        "id": "59601111-35ef-491c-9a84-796d5fa45c0e",
+        "word": "cut",
+        "phonetic": "kʌt ",
+        "type": "noun",
+        "defineEn": "(movie) the instantaneous transition of the scenes of a motion picture",
+        "defineVi": "(phim) sự chuyển đổi tức thời các cảnh của một bộ phim điện ảnh"
+    },
+    {
+        "id": "3aae887c-5244-4d38-b5ad-6637ad36a372",
+        "word": "dubbing",
+        "phonetic": "dʌbɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of replacing original recorded dialogue or sound with a new version, usually in a different language or for technical reasons, in film and video production",
+        "defineVi": "quá trình thay thế đoạn hội thoại hoặc âm thanh gốc đã ghi bằng một phiên bản mới, thường bằng một ngôn ngữ khác hoặc vì lý do kỹ thuật, trong sản xuất phim và video"
+    },
+    {
+        "id": "1a4ca7f3-9988-4aa4-9c51-3e70fd21e81f",
+        "word": "foley",
+        "phonetic": "foʊli ",
+        "type": "noun",
+        "defineEn": "the art of creating and recording sound effects in a studio setting to be added to a film or video during post-production, typically using objects and materials to simulate real-life sounds",
+        "defineVi": "nghệ thuật tạo và ghi lại các hiệu ứng âm thanh trong bối cảnh phòng thu để thêm vào phim hoặc video trong quá trình hậu sản xuất, thường sử dụng các đồ vật và vật liệu để mô phỏng âm thanh ngoài đời thực"
+    },
+    {
+        "id": "e3103473-2a1c-48a1-9859-b0f2a8682969",
+        "word": "telecine",
+        "phonetic": "tɛlᵻsiːn ",
+        "type": "noun",
+        "defineEn": "the process of transferring motion picture film into a video format using specialized telecine machines",
+        "defineVi": "quá trình chuyển phim điện ảnh thành định dạng video bằng máy telecine chuyên dụng"
+    },
+    {
+        "id": "9db383bd-ae9b-4f2a-8dfe-9a6e4e3d6c30",
+        "word": "negative cutting",
+        "phonetic": "nɛɡətɪv kʌɾɪŋ ",
+        "type": "noun",
+        "defineEn": "a film post-production process where the original camera negative is physically cut and assembled to create a new negative that matches the final edit, used to create the release prints for distribution",
+        "defineVi": "một quy trình hậu kỳ phim trong đó âm bản gốc của máy ảnh được cắt và lắp ráp một cách vật lý để tạo ra âm bản mới phù hợp với bản chỉnh sửa cuối cùng, được sử dụng để tạo bản in phát hành để phân phối"
+    },
+    {
+        "id": "2b017153-e226-4ffe-974d-63a708cc4e47",
+        "word": "direction",
+        "phonetic": "dᵻɹɛkʃən ",
+        "type": "noun",
+        "defineEn": "the act of supervising the cast and crew and giving them instructions in the production of a motion picture, play, etc.",
+        "defineVi": "hành động giám sát các diễn viên và đoàn làm phim và hướng dẫn họ trong quá trình sản xuất một bộ phim chuyển động, vở kịch, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c689fdb2-9910-4f91-b5b1-388f58bb18de",
+        "word": "fade-in",
+        "phonetic": "feɪdɪn ",
+        "type": "noun",
+        "defineEn": "a moviemaking or broadcasting technique in which the sound and image is made to disappear gradually",
+        "defineVi": "một kỹ thuật làm phim hoặc phát sóng trong đó âm thanh và hình ảnh được làm biến mất dần dần"
+    },
+    {
+        "id": "8003ce05-6c99-4504-850c-63a1ae531236",
+        "word": "fade-out",
+        "phonetic": "feɪdaʊt ",
+        "type": "noun",
+        "defineEn": "a moviemaking or broadcasting technique in which the sound and image is made to appear gradually",
+        "defineVi": "một kỹ thuật làm phim hoặc phát sóng trong đó âm thanh và hình ảnh được tạo ra để xuất hiện dần dần"
+    },
+    {
+        "id": "538a995c-ce7d-438d-9da6-4385bfb31f47",
+        "word": "flashforward",
+        "phonetic": "flæʃfɔːɹwɚd ",
+        "type": "noun",
+        "defineEn": "an instance of showing a scene or event that will happen later in a movie, TV episode, etc. interrupting the chronological order of the plot",
+        "defineVi": "một trường hợp hiển thị một cảnh hoặc sự kiện sẽ xảy ra sau đó trong một bộ phim, tập phim truyền hình, v.v. làm gián đoạn trình tự thời gian của cốt truyện"
+    },
+    {
+        "id": "88d4902b-4a60-4db1-9135-ace8caf233d3",
+        "word": "footage",
+        "phonetic": "fʊɾɪdʒ ",
+        "type": "noun",
+        "defineEn": "the raw material that is filmed by a video or movie camera",
+        "defineVi": "nguyên liệu thô được quay bằng máy quay video hoặc phim"
+    },
+    {
+        "id": "d4439b98-8871-45ae-99c6-84522c60fbe4",
+        "word": "fps",
+        "phonetic": "ɛfpiːɛs ",
+        "type": "noun",
+        "defineEn": "the unit of measuring the rate of frames that appear on a display",
+        "defineVi": "đơn vị đo tốc độ khung hình xuất hiện trên màn hình"
+    },
+    {
+        "id": "a02f91ad-91d3-41ad-8566-158ddeb78ead",
+        "word": "frame",
+        "phonetic": "fɹeɪm ",
+        "type": "noun",
+        "defineEn": "one of a series of photographs forming a movie or video",
+        "defineVi": "một trong một loạt các bức ảnh tạo thành một bộ phim hoặc video"
+    },
+    {
+        "id": "a13ad6d6-d05c-43e8-bf17-b7b3790d56f5",
+        "word": "freeze-frame",
+        "phonetic": "fɹiːzfɹeɪm ",
+        "type": "noun",
+        "defineEn": "the act of stopping a movie or video to look at a particular frame",
+        "defineVi": "hành động dừng phim hoặc video để xem một khung hình cụ thể"
+    },
+    {
+        "id": "242667c9-109c-4baa-9ef5-aa30cfff0069",
+        "word": "darkroom",
+        "phonetic": "dɑːɹkɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that is lit in a specific way in order to develop a photograph",
+        "defineVi": "một căn phòng được chiếu sáng theo một cách cụ thể để phát triển một bức ảnh"
+    },
+    {
+        "id": "8fef691e-a194-4e30-8ade-bbb2e5ea945e",
+        "word": "film stock",
+        "phonetic": "fɪlm stɑːk ",
+        "type": "noun",
+        "defineEn": "the type of film used in still photography or filmmaking, such as 35mm, 16mm, or 8mm",
+        "defineVi": "loại phim được sử dụng trong chụp ảnh tĩnh hoặc làm phim, chẳng hạn như 35mm, 16mm hoặc 8mm"
+    },
+    {
+        "id": "61515b5e-d027-4d92-b1b4-e60e44f8ada4",
+        "word": "8mm film",
+        "phonetic": "eɪt ɛmɛm fɪlm ",
+        "type": "noun",
+        "defineEn": "a motion picture film format in which the film strip is eight millimeters wide",
+        "defineVi": "một định dạng phim chuyển động trong đó dải phim rộng tám milimét"
+    },
+    {
+        "id": "8de5ee6c-b307-41da-a380-6e21ce15b862",
+        "word": "16mm film",
+        "phonetic": "sɪkstiːn ɛmɛm fɪlm ",
+        "type": "noun",
+        "defineEn": "a motion picture film format that has a width of 16 millimeters",
+        "defineVi": "một định dạng phim chuyển động có chiều rộng 16 mm"
+    },
+    {
+        "id": "46c0d6d3-5bf7-47d1-8244-c596dbc59b04",
+        "word": "A-roll",
+        "phonetic": "eɪɹoʊl ",
+        "type": "noun",
+        "defineEn": "the primary footage that contains the main content of the story, typically featuring interviews or other key subjects speaking on camera",
+        "defineVi": "đoạn phim chính chứa nội dung chính của câu chuyện, thường có các cuộc phỏng vấn hoặc các chủ đề quan trọng khác đang nói trước máy quay"
+    },
+    {
+        "id": "59c49f57-f572-48f5-85df-66995fab4285",
+        "word": "B-roll",
+        "phonetic": "biːɹoʊl ",
+        "type": "noun",
+        "defineEn": "the supplementary footage that is used in a film or video production, often intercut with the main footage to provide context or visual interest",
+        "defineVi": "cảnh quay bổ sung được sử dụng trong sản xuất phim hoặc video, thường xen kẽ với cảnh quay chính để cung cấp ngữ cảnh hoặc sở thích trực quan"
+    },
+    {
+        "id": "4efb92e5-787b-4bb9-b018-b9d008ecbca3",
+        "word": "backlot",
+        "phonetic": "bæklɑːt ",
+        "type": "noun",
+        "defineEn": "an outdoor area in a movie studio, where large exterior sets are constructed and some scenes are shot",
+        "defineVi": "một khu vực ngoài trời trong một xưởng phim, nơi các bối cảnh bên ngoài lớn được xây dựng và một số cảnh được quay"
+    },
+    {
+        "id": "507ce811-cffb-49d4-a818-d480e3105f2c",
+        "word": "digital negative",
+        "phonetic": "dɪdʒɪɾəl nɛɡətɪv ",
+        "type": "noun",
+        "defineEn": "a digital image file that contains all of the information captured by a digital camera's sensor, which can be used to produce a high-quality print",
+        "defineVi": "một tệp hình ảnh kỹ thuật số chứa tất cả thông tin được chụp bởi cảm biến của máy ảnh kỹ thuật số, có thể được sử dụng để tạo ra bản in chất lượng cao"
+    },
+    {
+        "id": "64845a50-b5be-4ba4-aec4-d1cfafdbd1ec",
+        "word": "screenplay",
+        "phonetic": "skɹiːnpleɪ ",
+        "type": "noun",
+        "defineEn": "the script and written instructions used in producing a motion picture",
+        "defineVi": "kịch bản và hướng dẫn bằng văn bản được sử dụng để sản xuất một bộ phim chuyển động"
+    },
+    {
+        "id": "642f1030-8f32-42f3-b9e1-cc8a51c549aa",
+        "word": "frame",
+        "phonetic": "fɹeɪm ",
+        "type": "noun",
+        "defineEn": "one of a series of photographs forming a movie or video",
+        "defineVi": "một trong một loạt các bức ảnh tạo thành một bộ phim hoặc video"
+    },
+    {
+        "id": "641b253b-d7eb-47c0-bcd0-7f5fa084b03d",
+        "word": "film gauge",
+        "phonetic": "fɪlm ɡeɪdʒ ",
+        "type": "noun",
+        "defineEn": "the width or size of film stock used in filmmaking",
+        "defineVi": "chiều rộng hoặc kích thước của kho phim được sử dụng trong quá trình làm phim"
+    },
+    {
+        "id": "fd567782-a71e-4487-b9f1-6bafccc3f4b4",
+        "word": "shooting script",
+        "phonetic": "ʃuːɾɪŋ skɹɪpt ",
+        "type": "noun",
+        "defineEn": "a detailed version of a screenplay used during the production of a film or TV show, which includes specific camera angles, blocking, and other technical details",
+        "defineVi": "một phiên bản chi tiết của kịch bản được sử dụng trong quá trình sản xuất phim hoặc chương trình truyền hình, bao gồm các góc quay cụ thể, chặn và các chi tiết kỹ thuật khác"
+    },
+    {
+        "id": "5d861100-989c-4778-ad0e-f83297d1d943",
+        "word": "post-production",
+        "phonetic": "poʊstpɹədʌkʃən ",
+        "type": "noun",
+        "defineEn": "the stage in filmmaking that involves editing, adding special effects, and other activities that occur after principal photography is completed",
+        "defineVi": "giai đoạn làm phim liên quan đến chỉnh sửa, thêm hiệu ứng đặc biệt và các hoạt động khác diễn ra sau khi hoàn thành chụp ảnh chính"
+    },
+    {
+        "id": "75f9382d-bf97-420c-88db-a5b469a5f6e1",
+        "word": "pre-production",
+        "phonetic": "pɹiːpɹədʌkʃən ",
+        "type": "noun",
+        "defineEn": "the work that is done prior to the production of a motion picture, TV program, etc.",
+        "defineVi": "công việc được thực hiện trước khi sản xuất một bộ phim chuyển động, chương trình truyền hình, v.v."
+    },
+    {
+        "id": "46baa237-35e3-43ff-90a8-6b9e28b243df",
+        "word": "scenario",
+        "phonetic": "sənæɹioʊ ",
+        "type": "noun",
+        "defineEn": "a written description of the characters, events or settings in a movie or play",
+        "defineVi": "mô tả bằng văn bản về các nhân vật, sự kiện hoặc cài đặt trong phim hoặc vở kịch",
+        "hasImg": true
+    },
+    {
+        "id": "76a71d0d-af19-4500-90ac-6c9ceac488a3",
+        "word": "camerawork",
+        "phonetic": "kæmɹəwɜːk ",
+        "type": "noun",
+        "defineEn": "the style in which a movie or photograph is shot",
+        "defineVi": "phong cách quay phim hoặc chụp ảnh"
+    },
+    {
+        "id": "277e7858-6ab4-47e8-8d48-4329de5b35c5",
+        "word": "cutting room",
+        "phonetic": "kʌɾɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a place in a film or video production where the editing of the footage takes place",
+        "defineVi": "một địa điểm trong quá trình sản xuất phim hoặc video, nơi diễn ra quá trình chỉnh sửa cảnh quay"
+    },
+    {
+        "id": "99c1a86e-7534-4e17-9d6a-f1370194c588",
+        "word": "previsualization",
+        "phonetic": "pɹɪvɪʒuːəlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of creating a preliminary visualization of a film, TV show, or other production before it is filmed or animated",
+        "defineVi": "quá trình tạo hình ảnh sơ bộ về phim, chương trình truyền hình hoặc sản xuất khác trước khi quay phim hoặc hoạt hình"
+    },
+    {
+        "id": "dc7dbec2-6e4e-42b9-becd-6a9f970dd555",
+        "word": "scriptment",
+        "phonetic": "skɹɪptmənt ",
+        "type": "noun",
+        "defineEn": "a written document that is longer than a traditional film treatment but shorter than a full screenplay",
+        "defineVi": "một tài liệu bằng văn bản dài hơn một bộ phim truyền thống nhưng ngắn hơn một kịch bản đầy đủ"
+    }
+]

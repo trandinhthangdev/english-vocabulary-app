@@ -1,0 +1,326 @@
+[
+    {
+        "id": "2c78e350-e373-41b7-8184-77943baf3875",
+        "word": "family",
+        "phonetic": "fæmɪli ",
+        "type": "noun",
+        "defineEn": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+        "defineVi": "những người có quan hệ huyết thống với nhau hoặc hôn nhân, thường bao gồm cha, mẹ và con cái của họ",
+        "hasImg": true
+    },
+    {
+        "id": "87086b31-d175-42b1-8c23-926b6151dad1",
+        "word": "mother",
+        "phonetic": "mʌðɚ ",
+        "type": "noun",
+        "defineEn": "a child's female parent",
+        "defineVi": "cha mẹ của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "ddd9a3a4-9d7a-4951-a49a-1c5099a525f4",
+        "word": "wife",
+        "phonetic": "waɪf ",
+        "type": "noun",
+        "defineEn": "the lady you are officially married to",
+        "defineVi": "người phụ nữ bạn đã chính thức kết hôn",
+        "hasImg": true
+    },
+    {
+        "id": "afc6bfec-4a37-47f7-9adc-e3197507fb6b",
+        "word": "husband",
+        "phonetic": "hʌsbənd ",
+        "type": "noun",
+        "defineEn": "the man you are officially married to",
+        "defineVi": "người đàn ông bạn đã chính thức kết hôn",
+        "hasImg": true
+    },
+    {
+        "id": "dd88d3ac-6e80-4a1a-bcb5-90c558f9ef41",
+        "word": "father",
+        "phonetic": "fɑːðɚ ",
+        "type": "noun",
+        "defineEn": "a child's male parent",
+        "defineVi": "cha mẹ nam của một đứa trẻ",
+        "hasImg": true
+    },
+    {
+        "id": "fbdf5762-2dfd-4fb2-a80c-97243008c2eb",
+        "word": "child",
+        "phonetic": "tʃaɪld ",
+        "type": "noun",
+        "defineEn": "a young person who has not reached puberty or adulthood yet",
+        "defineVi": "một người trẻ chưa đến tuổi dậy thì hoặc trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "c9c31947-9411-40de-9ed4-27e92320da97",
+        "word": "daughter",
+        "phonetic": "dɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "a person's female child",
+        "defineVi": "con gái của một người",
+        "hasImg": true
+    },
+    {
+        "id": "87ca771f-004e-414c-b7ed-d099743f82d1",
+        "word": "son",
+        "phonetic": "sʌn ",
+        "type": "noun",
+        "defineEn": "a person's male child",
+        "defineVi": "con trai của một người",
+        "hasImg": true
+    },
+    {
+        "id": "55bfb7a3-a376-46c1-b17c-a807e8c714e1",
+        "word": "brother",
+        "phonetic": "bɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "a man who shares a mother and father with us",
+        "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "3a6dcde3-dbb7-448c-bf5d-9038a1397574",
+        "word": "sister",
+        "phonetic": "sɪstɚ ",
+        "type": "noun",
+        "defineEn": "a lady who shares a mother and father with us",
+        "defineVi": "một người phụ nữ chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "b435accb-0171-418a-b253-29bb183e8ad0",
+        "word": "grandmother",
+        "phonetic": "ɡɹændmʌðɚ ",
+        "type": "noun",
+        "defineEn": "the woman who is our mom or dad's mother",
+        "defineVi": "người phụ nữ là mẹ của chúng tôi hoặc mẹ của cha",
+        "hasImg": true
+    },
+    {
+        "id": "bb466da3-9adc-41af-9c98-3106ce40b43e",
+        "word": "grandfather",
+        "phonetic": "ɡɹændfɑːðɚ ",
+        "type": "noun",
+        "defineEn": "the man who is our mom or dad's father",
+        "defineVi": "người đàn ông là cha hoặc mẹ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "72cd2916-c422-4ae3-88b9-281406f961ce",
+        "word": "uncle",
+        "phonetic": "ʌŋkəl ",
+        "type": "noun",
+        "defineEn": "the brother of our father or mother or their sibling's husband",
+        "defineVi": "anh trai của cha hoặc mẹ của chúng tôi hoặc chồng của anh chị em ruột của họ",
+        "hasImg": true
+    },
+    {
+        "id": "23306607-5ce7-4018-bf0c-ed7835abccc3",
+        "word": "aunt",
+        "phonetic": "ænt ",
+        "type": "noun",
+        "defineEn": "the sister of our mother or father or their sibling's wife",
+        "defineVi": "em gái của mẹ hoặc cha của chúng tôi hoặc vợ của anh chị em ruột của họ",
+        "hasImg": true
+    },
+    {
+        "id": "de0f5d64-20c8-4881-ae9e-f5ccca711582",
+        "word": "cousin",
+        "phonetic": "kʌzən ",
+        "type": "noun",
+        "defineEn": "our aunt or uncle's child",
+        "defineVi": "con của dì hoặc chú của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "0b6ee8ad-9647-44d8-ba02-35699db6f705",
+        "word": "niece",
+        "phonetic": "niːs ",
+        "type": "noun",
+        "defineEn": "our sister or brother's daughter, or the daughter of our husband or wife's siblings",
+        "defineVi": "con gái của chị gái hoặc anh trai của chúng tôi, hoặc con gái của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "7f7f2c91-e370-4edb-a58f-f578f2235f25",
+        "word": "nephew",
+        "phonetic": "nɛfjuː ",
+        "type": "noun",
+        "defineEn": "our sister or brother's son, or the son of our husband or wife's siblings",
+        "defineVi": "con trai của chị gái hoặc anh trai của chúng tôi, hoặc con trai của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "5dd2fff6-d7fc-4e00-8813-e952910506e2",
+        "word": "boyfriend",
+        "phonetic": "bɔɪfɹɛnd ",
+        "type": "noun",
+        "defineEn": "a man that you love and are in a relationship with",
+        "defineVi": "một người đàn ông mà bạn yêu và đang trong một mối quan hệ với",
+        "hasImg": true
+    },
+    {
+        "id": "adc1548c-5c49-44c8-86f7-af2a6d220275",
+        "word": "girlfriend",
+        "phonetic": "ɡɜːlfɹɛnd ",
+        "type": "noun",
+        "defineEn": "‌a lady that you love and are in a relationship with",
+        "defineVi": "một người phụ nữ mà bạn yêu và đang có mối quan hệ với",
+        "hasImg": true
+    },
+    {
+        "id": "3f13e220-8233-4ff9-815c-1ecc258487a9",
+        "word": "horrible",
+        "phonetic": "hɔːɹɪbəl ",
+        "type": "adjective",
+        "defineEn": "extremely unpleasant, bad, or disagreeable",
+        "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "6482c6dc-9309-46f0-8a24-ff95cae07f79",
+        "word": "nice",
+        "phonetic": "naɪs ",
+        "type": "adjective",
+        "defineEn": "providing pleasure and enjoyment",
+        "defineVi": "cung cấp niềm vui và hưởng thụ",
+        "hasImg": true
+    },
+    {
+        "id": "945700dc-e9a0-465a-aa57-c41d59963d68",
+        "word": "big",
+        "phonetic": "bɪɡ ",
+        "type": "adjective",
+        "defineEn": "large or above average in size, amount, degree, etc.",
+        "defineVi": "lớn hoặc trên mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "ca86972d-c549-4ba8-9b2d-352ef9978ee4",
+        "word": "small",
+        "phonetic": "smɔːl ",
+        "type": "adjective",
+        "defineEn": "little or below average in size, amount, degree, etc.",
+        "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c45c03d8-fbcc-4e7d-9955-91795f53c28f",
+        "word": "hot",
+        "phonetic": "hɑːt ",
+        "type": "adjective",
+        "defineEn": "having a high temperature or a high degree of heat",
+        "defineVi": "có nhiệt độ cao hoặc nhiệt độ cao",
+        "hasImg": true
+    },
+    {
+        "id": "aa7ccfe1-5069-4741-91f5-4b4ceeffb952",
+        "word": "cold",
+        "phonetic": "koʊld ",
+        "type": "adjective",
+        "defineEn": "having a temperature lower than the human body's average temperature",
+        "defineVi": "có nhiệt độ thấp hơn nhiệt độ trung bình của cơ thể con người",
+        "hasImg": true
+    },
+    {
+        "id": "8fdd2efd-52bb-4fb2-9cae-4125c600fb74",
+        "word": "good",
+        "phonetic": "ɡʊd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is satisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "907f8247-4105-4d41-b29f-bb2ab2861f1d",
+        "word": "bad",
+        "phonetic": "bæd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is unsatisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng không thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "ff38cb0a-7b0a-4d2c-aa58-372e647ae71d",
+        "word": "cheap",
+        "phonetic": "tʃiːp ",
+        "type": "adjective",
+        "defineEn": "having a low price",
+        "defineVi": "có giá thấp",
+        "hasImg": true
+    },
+    {
+        "id": "8f76ac7f-bf20-4e4e-85fe-494e294e6862",
+        "word": "expensive",
+        "phonetic": "ɛkspɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "having a high price",
+        "defineVi": "có giá cao",
+        "hasImg": true
+    },
+    {
+        "id": "42c288d4-0bce-4dd2-953e-b56317c628bb",
+        "word": "old",
+        "phonetic": "oʊld ",
+        "type": "adjective",
+        "defineEn": "(of a person) in the later stages of life",
+        "defineVi": "(của một người) trong giai đoạn sau của cuộc đời",
+        "hasImg": true
+    },
+    {
+        "id": "ff924806-53d1-44cd-ad2a-c52b32b09359",
+        "word": "young",
+        "phonetic": "jʌŋ ",
+        "type": "adjective",
+        "defineEn": "still in the earlier stages of life",
+        "defineVi": "vẫn còn trong giai đoạn đầu của cuộc sống",
+        "hasImg": true
+    },
+    {
+        "id": "94b14d68-c504-44b6-b3f6-bc35cc1122cd",
+        "word": "slow",
+        "phonetic": "sloʊ ",
+        "type": "adjective",
+        "defineEn": "moving, happening, or being done at a speed that is low",
+        "defineVi": "di chuyển, xảy ra hoặc được thực hiện ở tốc độ thấp",
+        "hasImg": true
+    },
+    {
+        "id": "3411fa97-bbea-47e8-a9db-87b8af3e6957",
+        "word": "fast",
+        "phonetic": "fæst ",
+        "type": "adjective",
+        "defineEn": "having a high speed when moving or doing something",
+        "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "6d5d11ec-8e4b-4212-a273-86972cb58f37",
+        "word": "easy",
+        "phonetic": "iːzi ",
+        "type": "adjective",
+        "defineEn": "needing little skill or effort to do or understand",
+        "defineVi": "cần ít kỹ năng hoặc nỗ lực để làm hoặc hiểu",
+        "hasImg": true
+    },
+    {
+        "id": "ef8a7f32-c88a-4c45-9858-80dd446c5a21",
+        "word": "parent",
+        "phonetic": "pɛɹənt ",
+        "type": "noun",
+        "defineEn": "our mother or our father",
+        "defineVi": "mẹ của chúng tôi hoặc cha của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "dda8e2af-2699-4fb0-bcec-488626e72789",
+        "word": "difficult",
+        "phonetic": "dɪfɪkəlt ",
+        "type": "adjective",
+        "defineEn": "needing a lot of work or skill to do, understand, or deal with",
+        "defineVi": "cần rất nhiều công việc hoặc kỹ năng để làm, hiểu hoặc giải quyết",
+        "hasImg": true
+    }
+]

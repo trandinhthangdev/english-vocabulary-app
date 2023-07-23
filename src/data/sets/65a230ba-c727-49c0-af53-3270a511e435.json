@@ -1,0 +1,272 @@
+[
+    {
+        "id": "adb0d4cc-179b-4cd6-a4b8-a0104260f184",
+        "word": "to describe",
+        "phonetic": "tə dᵻskɹaɪb ",
+        "type": "verb",
+        "defineEn": "to give details about someone or something to say what they are like",
+        "defineVi": "để cung cấp thông tin chi tiết về một ai đó hoặc một cái gì đó để nói họ như thế nào",
+        "hasImg": true
+    },
+    {
+        "id": "8c38d339-d38f-4c09-8771-d7ac113569ab",
+        "word": "appearance",
+        "phonetic": "ɐpɪɹəns ",
+        "type": "noun",
+        "defineEn": "the way that someone or something looks",
+        "defineVi": "cách mà một ai đó hoặc một cái gì đó trông",
+        "hasImg": true
+    },
+    {
+        "id": "ceaf9a31-7d03-4804-b54a-835fadad0c99",
+        "word": "hair",
+        "phonetic": "hɛɹ ",
+        "type": "noun",
+        "defineEn": "the thin thread-like things that grow on our head",
+        "defineVi": "những thứ giống như sợi chỉ mọc trên đầu chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "66ba0e71-013d-41fa-9014-22d7b27cafb7",
+        "word": "black",
+        "phonetic": "blæk ",
+        "type": "adjective",
+        "defineEn": "having the color that is the darkest, like most crows",
+        "defineVi": "có màu tối nhất, giống như hầu hết các loài quạ",
+        "hasImg": true
+    },
+    {
+        "id": "99d7d46a-86f2-4f22-bd7d-d1debbc8d043",
+        "word": "brown",
+        "phonetic": "bɹaʊn ",
+        "type": "adjective",
+        "defineEn": "having the color of chocolate ice cream",
+        "defineVi": "có màu của kem sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "35ac15e6-844c-46bf-a732-0559cf6ad790",
+        "word": "red",
+        "phonetic": "ɹɛd ",
+        "type": "adjective",
+        "defineEn": "having the color of tomatoes or blood",
+        "defineVi": "có màu của cà chua hoặc máu",
+        "hasImg": true
+    },
+    {
+        "id": "5d22a79f-ee7a-458c-97c5-c7997b7736e1",
+        "word": "blonde",
+        "phonetic": "blɑːnd ",
+        "type": "noun",
+        "defineEn": "a light, yellowish or grayish-yellow color that is often associated with hair color",
+        "defineVi": "màu vàng nhạt hoặc vàng xám thường liên quan đến màu tóc",
+        "hasImg": true
+    },
+    {
+        "id": "aecf2693-5e4f-4430-9f07-ed8d99845855",
+        "word": "gray",
+        "phonetic": "ɡɹeɪ ",
+        "type": "adjective",
+        "defineEn": "having a color between white and black, like most koalas or dolphins",
+        "defineVi": "có màu giữa trắng và đen, giống như hầu hết gấu túi hoặc cá heo",
+        "hasImg": true
+    },
+    {
+        "id": "ec4122d6-ef62-4b10-9e72-f0bbc3aff100",
+        "word": "white",
+        "phonetic": "waɪt ",
+        "type": "adjective",
+        "defineEn": "having the color that is the lightest, like snow",
+        "defineVi": "có màu nhạt nhất, như tuyết",
+        "hasImg": true
+    },
+    {
+        "id": "e809a61f-b4be-4ae4-bda5-cc635cb44f57",
+        "word": "dark",
+        "phonetic": "dɑːɹk ",
+        "type": "adjective",
+        "defineEn": "(of hair, skin, or eyes) having a color close to brown or black",
+        "defineVi": "(của tóc, da hoặc mắt) có màu gần như nâu hoặc đen",
+        "hasImg": true
+    },
+    {
+        "id": "f35a9590-8b45-4e7e-88e0-3bf20a95e555",
+        "word": "light",
+        "phonetic": "laɪt ",
+        "type": "adjective",
+        "defineEn": "having less amount of color; not dark",
+        "defineVi": "có ít màu hơn; không tối",
+        "hasImg": true
+    },
+    {
+        "id": "da55a666-4a93-486e-9583-b1485e317983",
+        "word": "straight",
+        "phonetic": "stɹeɪt ",
+        "type": "adjective",
+        "defineEn": "(of hair) not curly or wavy",
+        "defineVi": "(của tóc) không xoăn hoặc lượn sóng",
+        "hasImg": true
+    },
+    {
+        "id": "0462e84b-7a66-41db-805e-f2f8372c6968",
+        "word": "wavy",
+        "phonetic": "weɪvi ",
+        "type": "adjective",
+        "defineEn": "(of hair) having a slight curl or wave to it, creating a soft and gentle appearance",
+        "defineVi": "(tóc) xoăn nhẹ hoặc gợn sóng, tạo vẻ mềm mại và dịu dàng",
+        "hasImg": true
+    },
+    {
+        "id": "170b7ab8-ca10-43cf-abff-bf608739ee7c",
+        "word": "curly",
+        "phonetic": "kɜːli ",
+        "type": "adjective",
+        "defineEn": "(of hair) having a lot of curls or waves",
+        "defineVi": "(tóc) có nhiều lọn hoặc gợn sóng",
+        "hasImg": true
+    },
+    {
+        "id": "ad866520-f8ca-4bf0-a379-7b6656c4b6e0",
+        "word": "long",
+        "phonetic": "lɔŋ ",
+        "type": "adjective",
+        "defineEn": "(of a person) having a greater than average height",
+        "defineVi": "(của một người) có chiều cao lớn hơn trung bình",
+        "hasImg": true
+    },
+    {
+        "id": "293f8687-7719-41b9-9bde-a8483c92db12",
+        "word": "short",
+        "phonetic": "ʃɔːɹt ",
+        "type": "adjective",
+        "defineEn": "(of a person) small in height; not tall",
+        "defineVi": "(của một người) nhỏ về chiều cao; không cao",
+        "hasImg": true
+    },
+    {
+        "id": "66865e2b-0ed0-4afd-ae7e-1ffa4c56aec3",
+        "word": "bald",
+        "phonetic": "bɔːld ",
+        "type": "adjective",
+        "defineEn": "having little or no hair on the head",
+        "defineVi": "có ít hoặc không có tóc trên đầu",
+        "hasImg": true
+    },
+    {
+        "id": "7f183695-6846-4122-b1c9-80c6e2113969",
+        "word": "mustache",
+        "phonetic": "mʌstæʃ ",
+        "type": "noun",
+        "defineEn": "hair that grows or left to grow above the upper lip",
+        "defineVi": "tóc mọc hoặc mọc phía trên môi trên",
+        "hasImg": true
+    },
+    {
+        "id": "3464d297-512d-485d-a21d-077a7aa304a4",
+        "word": "beard",
+        "phonetic": "bɪɹd ",
+        "type": "noun",
+        "defineEn": "the hair that grow on the chin and sides of a man’s face",
+        "defineVi": "tóc mọc trên cằm và hai bên mặt của một người đàn ông",
+        "hasImg": true
+    },
+    {
+        "id": "386f9b38-0f44-442b-bf70-6de68acaefac",
+        "word": "face",
+        "phonetic": "feɪs ",
+        "type": "noun",
+        "defineEn": "the front part of our head, that is the place our eyes, lips, and nose are",
+        "defineVi": "phần trước của đầu chúng ta, đó là nơi có mắt, môi và mũi",
+        "hasImg": true
+    },
+    {
+        "id": "ab57a110-9007-42b8-ac10-b67a92046346",
+        "word": "eye",
+        "phonetic": "aɪ ",
+        "type": "noun",
+        "defineEn": "a body part on our face that we have two of and use for seeing",
+        "defineVi": "một bộ phận cơ thể trên khuôn mặt của chúng ta mà chúng ta có hai và sử dụng để nhìn",
+        "hasImg": true
+    },
+    {
+        "id": "db84d431-e1af-4e80-b344-32b8d7382a61",
+        "word": "eyebrow",
+        "phonetic": "aɪbɹaʊ ",
+        "type": "noun",
+        "defineEn": "one of the two lines of hair that grow above our eyes",
+        "defineVi": "một trong hai dòng tóc mọc phía trên mắt của chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "ab1d829e-faf4-45d6-9fb6-3e616e5aca13",
+        "word": "ear",
+        "phonetic": "ɪɹ ",
+        "type": "noun",
+        "defineEn": "each of the two body parts that we use for hearing",
+        "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mà chúng ta sử dụng để nghe",
+        "hasImg": true
+    },
+    {
+        "id": "4471df12-6750-485c-8a8c-9e157416c52b",
+        "word": "nose",
+        "phonetic": "noʊz ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of our face and we use to smell and breathe",
+        "defineVi": "phần cơ thể ở giữa khuôn mặt của chúng tôi và chúng tôi sử dụng để ngửi và thở",
+        "hasImg": true
+    },
+    {
+        "id": "fc1ba02f-4cea-48e1-a9e4-1020f753b455",
+        "word": "eyelash",
+        "phonetic": "aɪlæʃ ",
+        "type": "noun",
+        "defineEn": "any of the short hairs that grow along the edges of the eyelids",
+        "defineVi": "bất kỳ sợi lông ngắn nào mọc dọc theo các cạnh của mí mắt",
+        "hasImg": true
+    },
+    {
+        "id": "95499ba3-65e4-406a-879d-99b063fa009f",
+        "word": "tooth",
+        "phonetic": "tuːθ ",
+        "type": "noun",
+        "defineEn": "one of the things in our mouth that are hard and white and we use to chew and bite food with",
+        "defineVi": "một trong những thứ cứng và trắng trong miệng của chúng ta và chúng ta dùng để nhai và cắn thức ăn bằng",
+        "hasImg": true
+    },
+    {
+        "id": "6ba1b569-1053-4fd2-a2d3-4aeaa26cdb42",
+        "word": "mouth",
+        "phonetic": "maʊθ ",
+        "type": "noun",
+        "defineEn": "our body part that we use for eating, speaking, or breathing",
+        "defineVi": "bộ phận cơ thể của chúng ta mà chúng ta sử dụng để ăn, nói hoặc thở",
+        "hasImg": true
+    },
+    {
+        "id": "55fd95c4-a51a-4ae0-80e0-d6e6896c1aa8",
+        "word": "chin",
+        "phonetic": "tʃɪn ",
+        "type": "noun",
+        "defineEn": "the lowest part of our face that is below our mouth",
+        "defineVi": "phần thấp nhất của khuôn mặt của chúng tôi là dưới miệng của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "1d9a52ab-4b08-4e26-9efe-3118144bf847",
+        "word": "blue",
+        "phonetic": "bluː ",
+        "type": "adjective",
+        "defineEn": "having the color of the ocean or clear sky at daytime",
+        "defineVi": "có màu sắc của đại dương hoặc bầu trời quang đãng vào ban ngày",
+        "hasImg": true
+    },
+    {
+        "id": "fca9c655-76b7-445c-85d5-54fb388ff244",
+        "word": "green",
+        "phonetic": "ɡɹiːn ",
+        "type": "adjective",
+        "defineEn": "having the color of fresh grass or most plant leaves",
+        "defineVi": "có màu của cỏ tươi hoặc hầu hết các lá cây",
+        "hasImg": true
+    }
+]

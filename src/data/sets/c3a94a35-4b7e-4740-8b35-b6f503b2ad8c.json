@@ -1,0 +1,254 @@
+[
+    {
+        "id": "6934d784-1d3d-498c-8c56-713c3485396b",
+        "word": "Monday",
+        "phonetic": "mʌndeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Sunday",
+        "defineVi": "‌ngày diễn ra sau chủ nhật",
+        "hasImg": true
+    },
+    {
+        "id": "58a7d194-d2ec-467f-ac22-f0d9e8e981e2",
+        "word": "Tuesday",
+        "phonetic": "tuːzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Monday",
+        "defineVi": "‌ngày diễn ra sau thứ Hai",
+        "hasImg": true
+    },
+    {
+        "id": "5228f1b9-6721-4099-a806-5e78330f842f",
+        "word": "Wednesday",
+        "phonetic": "wɛnzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Tuesday",
+        "defineVi": "‌ngày diễn ra sau thứ ba",
+        "hasImg": true
+    },
+    {
+        "id": "23fcd70e-8f4b-410a-b899-a74c43d3f5d0",
+        "word": "Thursday",
+        "phonetic": "θɜːzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Wednesday",
+        "defineVi": "‌ngày diễn ra sau thứ Tư",
+        "hasImg": true
+    },
+    {
+        "id": "a8485024-4623-4bf1-85b2-cfeb832247d7",
+        "word": "Friday",
+        "phonetic": "fɹaɪdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Thursday",
+        "defineVi": "‌ngày diễn ra sau thứ năm",
+        "hasImg": true
+    },
+    {
+        "id": "a4ee761a-9904-45a1-b8f2-e595854eb138",
+        "word": "Saturday",
+        "phonetic": "sæɾɚdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Friday",
+        "defineVi": "‌ngày diễn ra sau thứ sáu",
+        "hasImg": true
+    },
+    {
+        "id": "e505d487-e032-4d9d-a38a-3008a7b58189",
+        "word": "Sunday",
+        "phonetic": "sʌndeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Saturday",
+        "defineVi": "‌ngày diễn ra sau thứ bảy",
+        "hasImg": true
+    },
+    {
+        "id": "d898cec7-0e48-4e29-bc64-627666f5ed15",
+        "word": "zero",
+        "phonetic": "ziəɹoʊ ",
+        "type": "numeral",
+        "defineEn": "the number 0; nothing of something",
+        "defineVi": "số 0; không có gì",
+        "hasImg": true
+    },
+    {
+        "id": "fff87617-5622-4d71-9845-8a13e86101d7",
+        "word": "one",
+        "phonetic": "wʌn ",
+        "type": "numeral",
+        "defineEn": "the number 1; the number of sun in the sky",
+        "defineVi": "số 1; số mặt trời trên bầu trời",
+        "hasImg": true
+    },
+    {
+        "id": "1a04d765-9849-4d29-a457-72a653ed9360",
+        "word": "two",
+        "phonetic": "tuː ",
+        "type": "numeral",
+        "defineEn": "the number 2; the number of wheels on a bicycle",
+        "defineVi": "số 2; số lượng bánh xe trên một chiếc xe đạp",
+        "hasImg": true
+    },
+    {
+        "id": "e2fa5a15-7fa3-45c8-b887-415d4eae48b8",
+        "word": "three",
+        "phonetic": "θɹiː ",
+        "type": "numeral",
+        "defineEn": "the number 3; the number of sides in a triangle",
+        "defineVi": "số 3; số cạnh trong một tam giác",
+        "hasImg": true
+    },
+    {
+        "id": "dd8939d6-5982-411b-b2c7-32874c375625",
+        "word": "four",
+        "phonetic": "foːɹ ",
+        "type": "numeral",
+        "defineEn": "the number 4; the number of seasons in a year",
+        "defineVi": "số 4; số mùa trong năm",
+        "hasImg": true
+    },
+    {
+        "id": "590c59b4-e123-4a88-9085-7f6d268e5d23",
+        "word": "five",
+        "phonetic": "faɪv ",
+        "type": "numeral",
+        "defineEn": "the number 5; the number of fingers we have on one hand",
+        "defineVi": "số 5; số ngón tay chúng ta có trên một bàn tay",
+        "hasImg": true
+    },
+    {
+        "id": "be0f1f9d-6678-4e6d-a5bf-26d363880399",
+        "word": "six",
+        "phonetic": "sɪks ",
+        "type": "numeral",
+        "defineEn": "the number 6; the number of strings on some guitars",
+        "defineVi": "số 6; số lượng dây trên một số cây đàn guitar",
+        "hasImg": true
+    },
+    {
+        "id": "f3588a9e-3da3-4431-97a3-fdd918c74b7b",
+        "word": "seven",
+        "phonetic": "sɛvən ",
+        "type": "numeral",
+        "defineEn": "the number 7; the number of days in a week",
+        "defineVi": "số 7; số ngày trong một tuần",
+        "hasImg": true
+    },
+    {
+        "id": "4c656388-ec55-47a0-8c66-70c0db762e9d",
+        "word": "eight",
+        "phonetic": "eɪt ",
+        "type": "numeral",
+        "defineEn": "the number 8; the number of legs on a spider",
+        "defineVi": "số 8; số lượng chân trên một con nhện",
+        "hasImg": true
+    },
+    {
+        "id": "23b0dc58-2e9b-482f-a15c-7963def72fd4",
+        "word": "nine",
+        "phonetic": "naɪn ",
+        "type": "numeral",
+        "defineEn": "the number 9; the number of months in a normal pregnancy",
+        "defineVi": "số 9; số tháng trong một thai kỳ bình thường",
+        "hasImg": true
+    },
+    {
+        "id": "a1d75583-fb62-4795-bbba-bceecdb835e5",
+        "word": "ten",
+        "phonetic": "tɛn ",
+        "type": "numeral",
+        "defineEn": "the number 10; the number of fingers we have on both hands",
+        "defineVi": "số 10; số ngón tay chúng ta có trên cả hai bàn tay",
+        "hasImg": true
+    },
+    {
+        "id": "378d824a-689e-4f0f-989f-9da1aab5cd21",
+        "word": "eleven",
+        "phonetic": "ᵻlɛvən ",
+        "type": "numeral",
+        "defineEn": "the number 11; the number of players on a soccer team",
+        "defineVi": "số 11; số lượng cầu thủ trong một đội bóng đá",
+        "hasImg": true
+    },
+    {
+        "id": "1e6050a2-33e1-42a1-a365-786b97eff1c0",
+        "word": "twelve",
+        "phonetic": "twɛlv ",
+        "type": "numeral",
+        "defineEn": "the number 12; the number of months in a year",
+        "defineVi": "số 12; số tháng trong một năm",
+        "hasImg": true
+    },
+    {
+        "id": "a4d45271-5626-4df4-82fc-5fae2915361e",
+        "word": "thirteen",
+        "phonetic": "θɜːtiːn ",
+        "type": "numeral",
+        "defineEn": "the number 13; the number of weeks in a season",
+        "defineVi": "con số 13; số tuần trong một mùa",
+        "hasImg": true
+    },
+    {
+        "id": "167b3604-37e8-446b-9f80-9b7c69634299",
+        "word": "fourteen",
+        "phonetic": "foːɹtiːn ",
+        "type": "numeral",
+        "defineEn": "the number 14; the number of days in two weeks",
+        "defineVi": "số 14; số ngày trong hai tuần",
+        "hasImg": true
+    },
+    {
+        "id": "2020849a-73c0-4384-9e04-86c0072398a1",
+        "word": "fifteen",
+        "phonetic": "fɪftiːn ",
+        "type": "numeral",
+        "defineEn": "the number 15; the number of fingers in three hands",
+        "defineVi": "số 15; số ngón tay trong ba bàn tay",
+        "hasImg": true
+    },
+    {
+        "id": "d6a74afe-fee3-48f6-98b9-9897ee96f7d2",
+        "word": "sixteen",
+        "phonetic": "sɪkstiːn ",
+        "type": "numeral",
+        "defineEn": "the number 16; the number of pieces each side has in a game of chess",
+        "defineVi": "số 16; số quân mỗi bên có trong một ván cờ vua",
+        "hasImg": true
+    },
+    {
+        "id": "4bd3d00b-a664-4ad5-a586-6a6253ba28a1",
+        "word": "seventeen",
+        "phonetic": "sɛvəntiːn ",
+        "type": "numeral",
+        "defineEn": "the number 17; the number of days in two weeks and three days",
+        "defineVi": "số 17; số ngày trong hai tuần và ba ngày",
+        "hasImg": true
+    },
+    {
+        "id": "d2f0700d-a30d-4467-9978-9e62d1fa54af",
+        "word": "eighteen",
+        "phonetic": "eɪtiːn ",
+        "type": "numeral",
+        "defineEn": "the number 18; the number of squares in three cubes",
+        "defineVi": "số 18; số ô vuông trong ba hình lập phương",
+        "hasImg": true
+    },
+    {
+        "id": "d371c820-40dc-4504-b95c-99ad75de3a9e",
+        "word": "nineteen",
+        "phonetic": "naɪntiːn ",
+        "type": "numeral",
+        "defineEn": "the number 19; the number of months in a year and seven months",
+        "defineVi": "số 19; số tháng trong một năm bảy tháng",
+        "hasImg": true
+    },
+    {
+        "id": "cb202187-6c68-4b78-a804-ba8b9737cc6f",
+        "word": "twenty",
+        "phonetic": "twɛnti ",
+        "type": "numeral",
+        "defineEn": "the number 20; the number of fingers and toes that we have",
+        "defineVi": "số 20; số lượng ngón tay và ngón chân mà chúng ta có",
+        "hasImg": true
+    }
+]

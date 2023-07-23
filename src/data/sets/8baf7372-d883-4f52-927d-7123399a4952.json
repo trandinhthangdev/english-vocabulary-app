@@ -1,0 +1,526 @@
+[
+    {
+        "id": "89a1d753-7eb8-411d-9085-4ede93013954",
+        "word": "cerebrum",
+        "phonetic": "sɚɹiːbɹəm ",
+        "type": "noun",
+        "defineEn": "the largest and most developed part of the brain, responsible for conscious thought, perception, movement, and memory",
+        "defineVi": "phần lớn nhất và phát triển nhất của não, chịu trách nhiệm về suy nghĩ, nhận thức, chuyển động và trí nhớ có ý thức"
+    },
+    {
+        "id": "7fffecc2-981a-4779-83ed-10140e051da4",
+        "word": "cerebellum",
+        "phonetic": "sɛɹɪbɛləm ",
+        "type": "noun",
+        "defineEn": "a region of the brain that coordinates movement, balance, and posture",
+        "defineVi": "một vùng não điều phối chuyển động, cân bằng và tư thế",
+        "hasImg": true
+    },
+    {
+        "id": "4ac7b7e0-c09d-40a3-aa7f-870a93b76572",
+        "word": "brainstem",
+        "phonetic": "bɹeɪnstəm ",
+        "type": "noun",
+        "defineEn": "the vital bridge between the brain and the spinal cord, controlling essential functions and relaying information throughout the body",
+        "defineVi": "cầu nối quan trọng giữa não và tủy sống, kiểm soát các chức năng thiết yếu và chuyển tiếp thông tin khắp cơ thể"
+    },
+    {
+        "id": "b2834694-4623-43f4-821b-4d6efbf5f5a2",
+        "word": "corpus callosum",
+        "phonetic": "kɔːɹpəs kælɑːsəm ",
+        "type": "noun",
+        "defineEn": "a bundle of nerve fibers that connects the left and right hemispheres of the brain, facilitating communication",
+        "defineVi": "một bó sợi thần kinh kết nối bán cầu não trái và phải, tạo điều kiện giao tiếp",
+        "hasImg": true
+    },
+    {
+        "id": "ee836a02-76e1-4779-ad1d-0f69a1ee307c",
+        "word": "corpus amygdaloideum",
+        "phonetic": "kɔːɹpəs æmɪɡdælɔɪdiːəm ",
+        "type": "noun",
+        "defineEn": "an almond-shaped structure in the brain that plays a key role in processing emotions",
+        "defineVi": "một cấu trúc hình quả hạnh trong não đóng vai trò chính trong việc xử lý cảm xúc"
+    },
+    {
+        "id": "b8d246cd-2027-4349-85b5-0e056ad857c7",
+        "word": "cortex",
+        "phonetic": "kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "(anatomy) the outer layer of the anterior part of the brain, called cerebrum, containing gray matter",
+        "defineVi": "(giải phẫu) lớp ngoài của phần trước não, gọi là đại não, chứa chất xám",
+        "hasImg": true
+    },
+    {
+        "id": "d90fc861-673f-4a6c-a8cc-a235afa3255d",
+        "word": "motor cortex",
+        "phonetic": "moʊɾɚ kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "a region of the cerebral cortex responsible for planning, controlling, and executing voluntary movements",
+        "defineVi": "một vùng của vỏ não chịu trách nhiệm lập kế hoạch, kiểm soát và thực hiện các chuyển động tự nguyện"
+    },
+    {
+        "id": "5e55ae26-3281-4b7f-ae03-1aeb5dbde84c",
+        "word": "gyrus",
+        "phonetic": "dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a raised fold on the surface of the cerebral cortex",
+        "defineVi": "một nếp gấp nổi lên trên bề mặt vỏ não"
+    },
+    {
+        "id": "65304127-064c-4a00-a3fd-1b494521f484",
+        "word": "gyrus cinguli",
+        "phonetic": "dʒaɪɹəs sɪŋɡjʊlaɪ ",
+        "type": "noun",
+        "defineEn": "a curved fold in the cerebral cortex that is involved in emotion, memory, and attention",
+        "defineVi": "một nếp gấp cong trong vỏ não có liên quan đến cảm xúc, trí nhớ và sự chú ý"
+    },
+    {
+        "id": "52e11e81-d5b5-44f6-ab14-e71166dc715a",
+        "word": "frontal cortex",
+        "phonetic": "fɹʌntəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the anterior part of the brain responsible for higher cognitive functions and complex behaviors",
+        "defineVi": "phần trước của não chịu trách nhiệm về các chức năng nhận thức cao hơn và các hành vi phức tạp",
+        "hasImg": true
+    },
+    {
+        "id": "311a8474-9262-46b7-b8d5-571f4ef89ac3",
+        "word": "frontal lobe",
+        "phonetic": "fɹʌntəl loʊb ",
+        "type": "noun",
+        "defineEn": "a region of the brain responsible for cognitive functions such as decision-making or problem-solving",
+        "defineVi": "một vùng não chịu trách nhiệm về các chức năng nhận thức như ra quyết định hoặc giải quyết vấn đề",
+        "hasImg": true
+    },
+    {
+        "id": "b4bfac35-4f50-46e0-9798-9d35407cd744",
+        "word": "occipital cortex",
+        "phonetic": "ɑːksɪpɪɾəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the region in the brain that processes visual information",
+        "defineVi": "khu vực trong não xử lý thông tin hình ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "7e0b80d6-32e7-47e8-9292-7957da13fda2",
+        "word": "occipital lobe",
+        "phonetic": "ɑːksɪpɪɾəl loʊb ",
+        "type": "noun",
+        "defineEn": "a body part located at the posterior end of the cerebral cortex in the brain, responsible for processing and interpreting visual information received from the eyes",
+        "defineVi": "một bộ phận cơ thể nằm ở cuối phía sau của vỏ não trong não, chịu trách nhiệm xử lý và giải thích thông tin hình ảnh nhận được từ mắt",
+        "hasImg": true
+    },
+    {
+        "id": "5a03894e-c483-497b-94e3-f8b527ab1d1a",
+        "word": "occipital gyrus",
+        "phonetic": "ɑːksɪpɪɾəl dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "an anatomical structure located in the occipital lobe of the brain. It is involved in visual processing",
+        "defineVi": "một cấu trúc giải phẫu nằm ở thùy chẩm của não. Nó liên quan đến xử lý hình ảnh"
+    },
+    {
+        "id": "ecec8605-7b93-47d1-ae1b-d256bda09558",
+        "word": "sensory strip",
+        "phonetic": "sɛnsɚɹi stɹɪp ",
+        "type": "noun",
+        "defineEn": "a brain region that processes sensory information related to touch, temperature, pain, and proprioception from different parts of the body",
+        "defineVi": "một vùng não xử lý thông tin cảm giác liên quan đến xúc giác, nhiệt độ, cơn đau và quyền sở hữu từ các bộ phận khác nhau của cơ thể"
+    },
+    {
+        "id": "d9a34d07-e4ab-4629-9c99-8ed8f14a9ef5",
+        "word": "frontal gyrus",
+        "phonetic": "fɹʌntəl dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a curved fold of tissue located in the frontal lobe of the brain",
+        "defineVi": "một nếp gấp mô cong nằm ở thùy trán của não"
+    },
+    {
+        "id": "11e1197a-e034-4fcd-bae1-75c661224068",
+        "word": "parietal cortex",
+        "phonetic": "pæɹaɪəɾəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the outer layer of neural tissue in the parietal lobe involved in sensory processing and spatial awareness",
+        "defineVi": "lớp ngoài của mô thần kinh ở thùy đỉnh liên quan đến xử lý cảm giác và nhận thức không gian",
+        "hasImg": true
+    },
+    {
+        "id": "5992dde6-7147-45cb-8f5d-a5ca968fe79a",
+        "word": "parietal lobe",
+        "phonetic": "pæɹaɪəɾəl loʊb ",
+        "type": "noun",
+        "defineEn": "a region of the brain involved in sensory processing, spatial awareness, and cognitive functions",
+        "defineVi": "một vùng não liên quan đến xử lý cảm giác, nhận thức không gian và các chức năng nhận thức",
+        "hasImg": true
+    },
+    {
+        "id": "54bc5b3f-0765-4712-af2a-0bc9234394db",
+        "word": "parietal gyrus",
+        "phonetic": "pæɹaɪəɾəl dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a folded region of brain tissue in the parietal lobe, involved in sensory perception, spatial processing, and motor planning",
+        "defineVi": "một vùng mô não gấp lại ở thùy đỉnh, liên quan đến nhận thức cảm giác, xử lý không gian và lập kế hoạch vận động"
+    },
+    {
+        "id": "40073419-7257-4fe6-b5cc-dc74f27c4755",
+        "word": "temporal lobe",
+        "phonetic": "tɛmpɚɹəl loʊb ",
+        "type": "noun",
+        "defineEn": "a region of the brain responsible for auditory processing, memory, language comprehension, and visual perception",
+        "defineVi": "một vùng não chịu trách nhiệm xử lý thính giác, trí nhớ, hiểu ngôn ngữ và nhận thức thị giác",
+        "hasImg": true
+    },
+    {
+        "id": "4e8cdd23-be9c-4a95-92dd-51d0ae8b7496",
+        "word": "temporal cortex",
+        "phonetic": "tɛmpɚɹəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the region of the brain within the temporal lobe that is involved in auditory processing, memory, language comprehension, and visual recognition",
+        "defineVi": "vùng não trong thùy thái dương có liên quan đến quá trình xử lý thính giác, trí nhớ, hiểu ngôn ngữ và nhận dạng hình ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "10a8c25d-a4ea-431f-944f-20493bfe4e7a",
+        "word": "temporal gyrus",
+        "phonetic": "tɛmpɚɹəl dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a curved fold of tissue located within the temporal lobe of the brain, involved in various functions such as auditory processing, language, memory, and emotion",
+        "defineVi": "một nếp gấp mô cong nằm trong thùy thái dương của não, tham gia vào các chức năng khác nhau như xử lý thính giác, ngôn ngữ, trí nhớ và cảm xúc"
+    },
+    {
+        "id": "8b76f955-8021-438d-b575-0540b6035d9b",
+        "word": "Broca\\'s area",
+        "phonetic": "bɹoʊkə bækslæʃ ɛs ɛɹiə ",
+        "type": "noun",
+        "defineEn": "a region in the brain responsible for speech production and language processing",
+        "defineVi": "một vùng trong não chịu trách nhiệm sản xuất lời nói và xử lý ngôn ngữ"
+    },
+    {
+        "id": "48742f6a-587f-4693-a0d2-ac3c3508d81b",
+        "word": "motor strip",
+        "phonetic": "moʊɾɚ stɹɪp ",
+        "type": "noun",
+        "defineEn": "a region of the brain located in the frontal lobe that is responsible for controlling voluntary movement of muscles throughout the body",
+        "defineVi": "một vùng não nằm ở thùy trán chịu trách nhiệm kiểm soát chuyển động tự nguyện của các cơ khắp cơ thể"
+    },
+    {
+        "id": "543289c6-d126-41c8-aefc-2ad3c7805000",
+        "word": "Wernicke\\'s area",
+        "phonetic": "wɜːnɪk bækslæʃ ɛs ɛɹiə ",
+        "type": "noun",
+        "defineEn": "a region of the brain involved in language comprehension and processing",
+        "defineVi": "một vùng não liên quan đến việc hiểu và xử lý ngôn ngữ"
+    },
+    {
+        "id": "f7fc6bd4-26a3-4830-9e82-96e0e4d76bbc",
+        "word": "sulcus",
+        "phonetic": "sʌlkəs ",
+        "type": "noun",
+        "defineEn": "a shallow groove or indentation on the surface of the brain, separating different regions or lobes",
+        "defineVi": "một rãnh nông hoặc vết lõm trên bề mặt não, ngăn cách các vùng hoặc thùy khác nhau"
+    },
+    {
+        "id": "9c7f0c29-078f-464e-99cf-0f52de2d867a",
+        "word": "sulcus centralis",
+        "phonetic": "sʌlkəs sɛntɹɑːliz ",
+        "type": "noun",
+        "defineEn": "a deep groove in the brain that separates the frontal and parietal lobes",
+        "defineVi": "một rãnh sâu trong não ngăn cách thùy trán và thùy đỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "1017d9d0-6fe4-4c0e-b565-07cb69d49a52",
+        "word": "sulcus lateralis cerebri",
+        "phonetic": "sʌlkəs læɾɚɹɑːliz sɚɹiːbɹi ",
+        "type": "noun",
+        "defineEn": "a groove on the lateral surface of the cerebrum that separates the frontal and parietal lobes from the temporal lobe",
+        "defineVi": "một rãnh trên bề mặt bên của não ngăn cách thùy trán và thùy đỉnh với thùy thái dương"
+    },
+    {
+        "id": "d0b1e2b2-6523-469c-964e-bbb827033a2d",
+        "word": "grey matter",
+        "phonetic": "ɡɹeɪ mæɾɚ ",
+        "type": "noun",
+        "defineEn": "the region of the central nervous system that contains neural cell bodies, dendrites, and synapses, and appears greyish in color",
+        "defineVi": "khu vực của hệ thống thần kinh trung ương có chứa các tế bào thần kinh, đuôi gai và khớp thần kinh và có màu xám"
+    },
+    {
+        "id": "f5c1cd0b-6fee-44fa-b650-95eb785a8613",
+        "word": "white matter",
+        "phonetic": "waɪt mæɾɚ ",
+        "type": "noun",
+        "defineEn": "the tissue in the central nervous system composed of myelinated nerve fibers",
+        "defineVi": "mô trong hệ thống thần kinh trung ương bao gồm các sợi thần kinh myelin"
+    },
+    {
+        "id": "9ee4a67b-fc02-4afa-a65c-6024900cfcb9",
+        "word": "hypothalamus",
+        "phonetic": "haɪpoʊθælæməs ",
+        "type": "noun",
+        "defineEn": "(anatomy) a region in the central lower part of the brain that is responsible for autonomic nervous system and the release of hormones",
+        "defineVi": "(giải phẫu) một khu vực ở phần dưới trung tâm của não chịu trách nhiệm về hệ thống thần kinh tự trị và giải phóng hormone",
+        "hasImg": true
+    },
+    {
+        "id": "19cbaeb5-6a7d-4322-94d8-44c48a59c6a9",
+        "word": "thalamus",
+        "phonetic": "θælæməs ",
+        "type": "noun",
+        "defineEn": "a region in the brain that acts as a relay station for sensory information",
+        "defineVi": "một vùng trong não hoạt động như một trạm chuyển tiếp thông tin cảm giác",
+        "hasImg": true
+    },
+    {
+        "id": "e89a568b-23c9-47da-963b-dd31dc71dc1f",
+        "word": "basal ganglion",
+        "phonetic": "beɪsəl ɡæŋɡliən ",
+        "type": "noun",
+        "defineEn": "a group of structures in the brain involved in motor control and reward-based learning",
+        "defineVi": "một nhóm các cấu trúc trong não liên quan đến điều khiển động cơ và học tập dựa trên phần thưởng"
+    },
+    {
+        "id": "fcf9f580-bf81-457f-bf9b-2d095927574c",
+        "word": "limbic system",
+        "phonetic": "lɪmbɪk sɪstəm ",
+        "type": "noun",
+        "defineEn": "a complex subcortical nervous system of the brain that is associated with emotions and drives",
+        "defineVi": "một hệ thống thần kinh dưới vỏ phức tạp của não có liên quan đến cảm xúc và động lực",
+        "hasImg": true
+    },
+    {
+        "id": "3946192a-d781-48e3-96e6-5b12c5228978",
+        "word": "limbic brain",
+        "phonetic": "lɪmbɪk bɹeɪn ",
+        "type": "noun",
+        "defineEn": "the interconnected structures within the brain's limbic system, involved in emotions, memory, and motivation",
+        "defineVi": "các cấu trúc liên kết với nhau trong hệ viền của não, liên quan đến cảm xúc, trí nhớ và động lực",
+        "hasImg": true
+    },
+    {
+        "id": "88ff0232-6df3-4103-927d-78715f86be8f",
+        "word": "amygdala",
+        "phonetic": "æmɪɡdɑːlə ",
+        "type": "noun",
+        "defineEn": "a small, almond-shaped structure in the brain that processes emotions",
+        "defineVi": "một cấu trúc nhỏ hình quả hạnh trong não xử lý cảm xúc"
+    },
+    {
+        "id": "3b655b73-7326-44ec-ba4b-e6c38f1e165c",
+        "word": "putamen",
+        "phonetic": "pjuːɾeɪmɛn ",
+        "type": "noun",
+        "defineEn": "a part of the basal ganglia in the brain, involved in motor control and coordination",
+        "defineVi": "một phần của hạch nền trong não, liên quan đến điều khiển và phối hợp vận động"
+    },
+    {
+        "id": "e822fce5-f4c0-4713-a728-866e223022c4",
+        "word": "lateral ventricle",
+        "phonetic": "læɾɚɹəl vɛntɹɪkəl ",
+        "type": "noun",
+        "defineEn": "a fluid-filled chamber in the brain that plays a vital role in cerebrospinal fluid circulation and brain health",
+        "defineVi": "một khoang chứa đầy chất lỏng trong não đóng vai trò quan trọng trong việc lưu thông dịch não tủy và sức khỏe não bộ"
+    },
+    {
+        "id": "c90f5edb-10ce-4cee-9b2e-1df3b8c64c0a",
+        "word": "hippocampus",
+        "phonetic": "hɪpəkæmpəs ",
+        "type": "noun",
+        "defineEn": "a curved structure in the brain responsible for memory formation, learning, and spatial navigationa curved structure in the brain responsible for memory formation, learning, and spatial navigation",
+        "defineVi": "một cấu trúc cong trong não chịu trách nhiệm hình thành trí nhớ, học tập và điều hướng không gian một cấu trúc cong trong não chịu trách nhiệm hình thành trí nhớ, học tập và điều hướng không gian"
+    },
+    {
+        "id": "3957d1ef-4d66-4c37-ac81-2bcf104f104b",
+        "word": "prefrontal cortex",
+        "phonetic": "pɹɪfɹʌntəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the front part of the brain involved in higher cognition and executive functions",
+        "defineVi": "phần trước của não liên quan đến các chức năng điều hành và nhận thức cao hơn"
+    },
+    {
+        "id": "2e2885ce-ae19-4701-bdd1-f02474436585",
+        "word": "prefrontal lobe",
+        "phonetic": "pɹɪfɹʌntəl loʊb ",
+        "type": "noun",
+        "defineEn": "the anterior region of the brain responsible for executive functions and social cognition",
+        "defineVi": "vùng trước của não chịu trách nhiệm về chức năng điều hành và nhận thức xã hội"
+    },
+    {
+        "id": "1d80c134-a6e0-42e0-a0e7-5da00b36529c",
+        "word": "cingulate gyrus",
+        "phonetic": "sɪŋɡjʊleɪt dʒaɪɹəs ",
+        "type": "noun",
+        "defineEn": "a brain structure involved in emotional and cognitive processing, located above the corpus callosum",
+        "defineVi": "một cấu trúc não liên quan đến quá trình xử lý cảm xúc và nhận thức, nằm phía trên thể chai"
+    },
+    {
+        "id": "3de4b08a-15d9-46fd-a49b-185b56146aeb",
+        "word": "ventricle",
+        "phonetic": "vɛntɹɪkəl ",
+        "type": "noun",
+        "defineEn": "(anatomy) one of the four main cavities in the brain containing cerebrospinal fluid",
+        "defineVi": "(giải phẫu) một trong bốn khoang chính trong não chứa dịch não tủy",
+        "hasImg": true
+    },
+    {
+        "id": "299e37aa-e3ff-400b-8f5c-ecade08058ae",
+        "word": "choroid plexus",
+        "phonetic": "koːɹɔɪd plɛksəs ",
+        "type": "noun",
+        "defineEn": "a network of blood vessels in the brain that produces cerebrospinal fluid",
+        "defineVi": "một mạng lưới các mạch máu trong não tạo ra dịch não tủy"
+    },
+    {
+        "id": "f7ccd582-5604-4e0e-859d-671b7bb16524",
+        "word": "cerebrospinal fluid",
+        "phonetic": "sɚɹiːbɹəspaɪnəl fluːɪd ",
+        "type": "noun",
+        "defineEn": "a protective fluid that surrounds the brain and spinal cord, providing cushioning and facilitating nutrient exchange",
+        "defineVi": "một chất lỏng bảo vệ bao quanh não và tủy sống, cung cấp đệm và tạo điều kiện trao đổi chất dinh dưỡng"
+    },
+    {
+        "id": "0c143200-2c73-4f77-9d8b-498c8b517b7d",
+        "word": "foramen of monro",
+        "phonetic": "fɔːɹeɪmɛn ʌv mɔnɹoʊ ",
+        "type": "noun",
+        "defineEn": "a small opening that connects the lateral ventricles of the brain, allowing the flow of cerebrospinal fluid between them",
+        "defineVi": "một lỗ nhỏ nối các tâm thất bên của não, cho phép dòng chảy của dịch não tủy giữa chúng"
+    },
+    {
+        "id": "f43f7bb0-6ba7-461c-8e1d-cac587f3ba35",
+        "word": "third ventricle",
+        "phonetic": "θɜːd vɛntɹɪkəl ",
+        "type": "noun",
+        "defineEn": "a fluid-filled cavity in the brain that plays a role in cerebrospinal fluid circulation and communication between brain regions",
+        "defineVi": "một khoang chứa đầy chất lỏng trong não có vai trò lưu thông dịch não tủy và liên lạc giữa các vùng não"
+    },
+    {
+        "id": "3f85a0b3-7a8a-4ace-bf2a-633fec7895a3",
+        "word": "fourth ventricle",
+        "phonetic": "foːɹθ vɛntɹɪkəl ",
+        "type": "noun",
+        "defineEn": "a fluid-filled cavity located in the brainstem, involved in the production and circulation of cerebrospinal fluid",
+        "defineVi": "một khoang chứa đầy chất lỏng nằm trong não, liên quan đến việc sản xuất và lưu thông dịch não tủy",
+        "hasImg": true
+    },
+    {
+        "id": "62c84fe8-2d65-4847-9ba2-44fde3ccaf0c",
+        "word": "subarachnoid space",
+        "phonetic": "sʌbɐɹætʃnɔɪd speɪs ",
+        "type": "noun",
+        "defineEn": "a fluid-filled area between the arachnoid membrane and the pia mater in the central nervous system",
+        "defineVi": "một khu vực chứa đầy chất lỏng giữa màng nhện và chất lỏng trong hệ thống thần kinh trung ương"
+    },
+    {
+        "id": "52cf113c-1628-408d-9ea5-e77af9cd1c4b",
+        "word": "cisterna",
+        "phonetic": "sɪstɚnə ",
+        "type": "noun",
+        "defineEn": "a fluid-filled space within the body, particularly within the brain or spinal cord, that acts as a reservoir for cerebrospinal fluid",
+        "defineVi": "một không gian chứa đầy chất lỏng trong cơ thể, đặc biệt là trong não hoặc tủy sống, hoạt động như một bể chứa dịch não tủy"
+    },
+    {
+        "id": "0bfbdf59-58b6-4634-bb65-61412480feb5",
+        "word": "central canal",
+        "phonetic": "sɛntɹəl kənæl ",
+        "type": "noun",
+        "defineEn": "a narrow fluid-filled channel that runs through the center of the spinal cord and carries cerebrospinal fluid",
+        "defineVi": "một kênh hẹp chứa đầy chất lỏng chạy qua trung tâm của tủy sống và mang dịch não tủy"
+    },
+    {
+        "id": "01ea183a-cc26-4c05-9289-82dfc1e072d2",
+        "word": "meninges",
+        "phonetic": "mɛnɪndʒᵻz ",
+        "type": "noun",
+        "defineEn": "a three-layered protective covering that surrounds the brain and spinal cord",
+        "defineVi": "một lớp bảo vệ ba lớp bao quanh não và tủy sống"
+    },
+    {
+        "id": "1c714f47-cd4c-4ec8-9952-dcf4b03aaaa7",
+        "word": "hemisphere",
+        "phonetic": "hɛmɪsfɪɹ ",
+        "type": "noun",
+        "defineEn": "either the left or right side of the brain, or the cerebrum",
+        "defineVi": "bên trái hoặc bên phải của não, hoặc đại não",
+        "hasImg": true
+    },
+    {
+        "id": "3b144452-3660-43fe-a72c-00a9dd3f3676",
+        "word": "foramen magnum",
+        "phonetic": "fɔːɹeɪmɛn mæɡnəm ",
+        "type": "noun",
+        "defineEn": "an opening at the posterior aspect of the skull through which the spinal cord passes",
+        "defineVi": "một lỗ ở phía sau của hộp sọ mà tủy sống đi qua"
+    },
+    {
+        "id": "96314ae9-9002-4ef5-bb76-8782c0ca1ec5",
+        "word": "dura mater",
+        "phonetic": "dʊɹɹə meɪɾɚ ",
+        "type": "noun",
+        "defineEn": "the tough, fibrous membrane that surrounds and protects the brain and spinal cord",
+        "defineVi": "màng cứng, xơ bao quanh và bảo vệ não và tủy sống"
+    },
+    {
+        "id": "c7c365c5-9ce1-4c07-a76b-46b51fad1a8e",
+        "word": "arachnoid",
+        "phonetic": "ɚɹæknɔɪd ",
+        "type": "noun",
+        "defineEn": "a thin membrane that covers the brain and spinal cord, playing a role in protecting and supporting the central nervous system",
+        "defineVi": "một lớp màng mỏng bao bọc não và tủy sống, có vai trò bảo vệ và nâng đỡ hệ thần kinh trung ương"
+    },
+    {
+        "id": "c5008eba-984a-4029-893d-8ec093e28aec",
+        "word": "pia mater",
+        "phonetic": "piə meɪɾɚ ",
+        "type": "noun",
+        "defineEn": "the innermost layer of the meninges, which is a protective membrane surrounding the brain and spinal cord",
+        "defineVi": "lớp trong cùng của màng não, là màng bảo vệ bao quanh não và tủy sống"
+    },
+    {
+        "id": "77e59146-bf9e-40e9-a648-a0ac8b37ff0c",
+        "word": "middle cranial fossa",
+        "phonetic": "mɪdəl kɹeɪnɪəl fɑːsə ",
+        "type": "noun",
+        "defineEn": "the middle and largest of the three cranial fossae, located at the base of the skull and housing the temporal lobes of the brain",
+        "defineVi": "phần giữa và lớn nhất trong ba hố sọ, nằm ở đáy hộp sọ và chứa các thùy thái dương của não"
+    },
+    {
+        "id": "39a0696f-fb64-43cf-92b1-428b7f7445d2",
+        "word": "posterior cranial fossa",
+        "phonetic": "pɑːstɪɹiɚ kɹeɪnɪəl fɑːsə ",
+        "type": "noun",
+        "defineEn": "a cavity located at the base of the skull that holds the cerebellum, pons, and medulla oblongata",
+        "defineVi": "một khoang nằm ở đáy hộp sọ chứa tiểu não, cầu não và hành tủy"
+    },
+    {
+        "id": "2bee816c-8a10-451b-ae10-93a71d4abc96",
+        "word": "anterior cranial fossa",
+        "phonetic": "æntiəɹɪɚ kɹeɪnɪəl fɑːsə ",
+        "type": "noun",
+        "defineEn": "the shallowest and most anterior of the three cranial fossae, located at the base of the skull and housing the frontal lobes of the brain",
+        "defineVi": "phần nông nhất và phía trước nhất trong ba hố sọ, nằm ở đáy hộp sọ và chứa các thùy trán của não"
+    },
+    {
+        "id": "b3326227-de18-48d4-8b31-b44dd9178317",
+        "word": "cerebral cortex",
+        "phonetic": "sɚɹiːbɹəl kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the outer layer of the brain responsible for higher cognitive functions and information processing",
+        "defineVi": "lớp ngoài của não chịu trách nhiệm cho các chức năng nhận thức cao hơn và xử lý thông tin",
+        "hasImg": true
+    },
+    {
+        "id": "c7aa7c29-4e7d-4b7c-8f04-a0c6ff78e01b",
+        "word": "olfactory brain",
+        "phonetic": "ɑːlfæktɚɹi bɹeɪn ",
+        "type": "noun",
+        "defineEn": "a structure located in the front part of the brain involved in the sense of smell",
+        "defineVi": "một cấu trúc nằm ở phần trước của não liên quan đến khứu giác"
+    },
+    {
+        "id": "6a393bf7-39c5-43b5-8a29-dbd04619e007",
+        "word": "olfactory bulb",
+        "phonetic": "ɑːlfæktɚɹi bʌlb ",
+        "type": "noun",
+        "defineEn": "a brain structure involved in processing smells and detecting odor molecules",
+        "defineVi": "một cấu trúc não liên quan đến xử lý mùi và phát hiện các phân tử mùi"
+    }
+]

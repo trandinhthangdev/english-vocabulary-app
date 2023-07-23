@@ -1,0 +1,243 @@
+[
+    {
+        "id": "0be38a8b-1261-4fb0-a127-019a6c368272",
+        "word": "som tam",
+        "phonetic": "sɑːm tæm ",
+        "type": "noun",
+        "defineEn": "a spicy and tangy Thai salad made with shredded green papaya, tomatoes, peanuts, and other ingredients",
+        "defineVi": "một món salad Thái cay và thơm được làm từ đu đủ xanh bào sợi, cà chua, đậu phộng và các nguyên liệu khác"
+    },
+    {
+        "id": "9dcd43a2-098e-45f0-936d-ec0136b66cb5",
+        "word": "larb",
+        "phonetic": "lɑːɹb ",
+        "type": "noun",
+        "defineEn": "a traditional Thai dish made with minced meat that is seasoned with lime juice, fish sauce, and fresh herbs",
+        "defineVi": "một món ăn truyền thống của Thái Lan được làm từ thịt băm được nêm với nước cốt chanh, nước mắm và các loại thảo mộc tươi"
+    },
+    {
+        "id": "f65181b5-4180-41a9-83d8-dca81bbb5c29",
+        "word": "jok",
+        "phonetic": "dʒɑːk ",
+        "type": "noun",
+        "defineEn": "a popular rice porridge dish made by slow-cooking rice in water or broth until it reaches a creamy and thick consistency",
+        "defineVi": "một món cháo phổ biến được làm bằng cách nấu gạo chậm trong nước hoặc nước dùng cho đến khi đạt được độ đặc và sánh như kem"
+    },
+    {
+        "id": "d936924c-b527-46d7-b2a3-15038c8e06f4",
+        "word": "pad thai",
+        "phonetic": "pæd taɪ ",
+        "type": "noun",
+        "defineEn": "a dish of rice noodles, originated in Thailand",
+        "defineVi": "một món mì gạo, có nguồn gốc từ Thái Lan",
+        "hasImg": true
+    },
+    {
+        "id": "cdb7a55a-2608-4ea2-9383-31d3008c795f",
+        "word": "pad see ew",
+        "phonetic": "pæd siː juː ",
+        "type": "noun",
+        "defineEn": "a popular Thai stir-fried noodle dish made with wide rice noodles, meat, and vegetables, cooked in a sweet and savory sauce",
+        "defineVi": "một món mì xào nổi tiếng của Thái Lan được làm từ sợi mì, thịt và rau, nấu trong nước sốt ngọt và mặn"
+    },
+    {
+        "id": "2f7c771b-ad05-4cd0-8beb-bfea66c4aa61",
+        "word": "kuay teow neua",
+        "phonetic": "kjuːeɪ tɪoʊ nuːə ",
+        "type": "noun",
+        "defineEn": "a Thai dish made with rice noodles, tender beef slices, and a flavorful broth",
+        "defineVi": "một món ăn Thái được làm từ bún gạo, những lát thịt bò mềm và nước dùng đậm đà"
+    },
+    {
+        "id": "36e650d1-1f9f-4fd5-99e1-f0c910c3faff",
+        "word": "ba mee kiew",
+        "phonetic": "bɑː miː kjuː ",
+        "type": "noun",
+        "defineEn": "a Thai dish made with egg noodles, typically served in a clear broth with a variety of toppings such as roasted pork, wontons, and vegetables",
+        "defineVi": "một món ăn Thái làm từ mì trứng, thường được phục vụ trong nước dùng trong với nhiều loại đồ ăn kèm như thịt heo quay, hoành thánh và rau"
+    },
+    {
+        "id": "4df7e116-dcdc-4d4a-a319-d7f925e46539",
+        "word": "khao niao",
+        "phonetic": "kɑːoʊ naɪəoʊ ",
+        "type": "noun",
+        "defineEn": "a type of rice commonly eaten in many Southeast Asian countries and is known for its sticky and slightly sweet texture when cooked",
+        "defineVi": "một loại gạo thường được ăn ở nhiều nước Đông Nam Á và được biết đến với kết cấu dẻo và hơi ngọt khi nấu chín"
+    },
+    {
+        "id": "ff47e8a8-ede4-47a7-bdf2-c3379e881df8",
+        "word": "gai yang",
+        "phonetic": "ɡaɪ jɑːŋ ",
+        "type": "noun",
+        "defineEn": "a popular dish from Thailand made with marinated and grilled chicken, often served with a dipping sauce",
+        "defineVi": "một món ăn phổ biến từ Thái Lan được làm từ thịt gà ướp và nướng, thường ăn kèm với nước chấm"
+    },
+    {
+        "id": "ba1c753b-5239-4be5-be7d-6aa3129a5aae",
+        "word": "pla pao",
+        "phonetic": "plɑː paʊ ",
+        "type": "noun",
+        "defineEn": "a traditional Thai dish where a whole fish is marinated, stuffed with lemongrass and herbs, and grilled until fragrant and crispy",
+        "defineVi": "một món ăn truyền thống của Thái Lan, trong đó một con cá nguyên con được ướp, nhồi với sả và các loại thảo mộc, và nướng cho đến khi thơm và giòn"
+    },
+    {
+        "id": "adeeea12-db71-4ed2-a1e9-3c52c6a8ae5b",
+        "word": "gai hor bai toey",
+        "phonetic": "ɡaɪ hoːɹ baɪ toʊi ",
+        "type": "noun",
+        "defineEn": "a popular Thai appetizer or snack where marinated chicken pieces are wrapped in pandan leaves and then deep-fried",
+        "defineVi": "một món khai vị hoặc món ăn nhẹ phổ biến của Thái Lan, nơi những miếng gà ướp được gói trong lá dứa và sau đó chiên giòn"
+    },
+    {
+        "id": "fdf00dde-c223-4eb4-94cb-bdef540d037d",
+        "word": "sai oua",
+        "phonetic": "saɪ wɑː ",
+        "type": "noun",
+        "defineEn": "a flavorful and aromatic sausage made with ground pork, herbs, spices",
+        "defineVi": "một loại xúc xích có hương vị và thơm được làm từ thịt lợn xay, rau thơm, gia vị"
+    },
+    {
+        "id": "13ec81e2-1474-4ebc-a547-26f2863d2b81",
+        "word": "ho mok",
+        "phonetic": "hoʊ mɑːk ",
+        "type": "noun",
+        "defineEn": "a traditional Thai dish made with fish, red curry paste, coconut milk, and a variety of aromatic herbs, steamed or baked in banana leaves",
+        "defineVi": "một món ăn truyền thống của Thái Lan làm từ cá, bột cà ri đỏ, nước cốt dừa và nhiều loại rau thơm, hấp hoặc nướng trong lá chuối"
+    },
+    {
+        "id": "332aaf4f-d474-4689-ab53-114e2a4e2faa",
+        "word": "hoi tod",
+        "phonetic": "hɔɪ tɑːd ",
+        "type": "noun",
+        "defineEn": "a savory oyster pancake that is a popular street food in Thailand and is served with a sweet and sour dipping sauce",
+        "defineVi": "một món bánh hàu mặn là món ăn đường phố phổ biến ở Thái Lan và được phục vụ với nước chấm chua ngọt"
+    },
+    {
+        "id": "529577df-01f8-4541-ad0c-00b088175a79",
+        "word": "phat kaphrao",
+        "phonetic": "fæt kæfɹaʊ ",
+        "type": "noun",
+        "defineEn": "a classic Thai dish made with minced meat stir-fried with Thai holy basil, garlic, chili, and other seasonings",
+        "defineVi": "một món ăn cổ điển của Thái Lan được làm từ thịt băm xào với húng quế Thái, tỏi, ớt và các gia vị khác"
+    },
+    {
+        "id": "536612cb-081f-4629-9755-6cbedc0f328b",
+        "word": "khao kha mu",
+        "phonetic": "kɑːoʊ kɑː muː ",
+        "type": "noun",
+        "defineEn": "a popular Thai dish consisting of tender, flavorful pork leg that has been slow-cooked in a fragrant soy sauce-based broth",
+        "defineVi": "một món ăn phổ biến của Thái Lan bao gồm thịt đùi heo mềm, có hương vị được nấu chậm trong nước dùng làm từ nước tương thơm"
+    },
+    {
+        "id": "3ffb3c4e-a834-467e-affe-44213ecc5a5b",
+        "word": "khao khluk kapi",
+        "phonetic": "kɑːoʊ keɪeɪtʃlʌk kæpi ",
+        "type": "noun",
+        "defineEn": "a traditional Thai dish made with rice that has been fried with shrimp paste (kapi), served with various condiments",
+        "defineVi": "một món ăn truyền thống của Thái Lan làm từ cơm chiên với mắm tôm (kapi), ăn kèm với nhiều loại gia vị khác nhau"
+    },
+    {
+        "id": "6a8c89a1-566e-495c-b85e-47843cd2c71d",
+        "word": "khao mok gai",
+        "phonetic": "kɑːoʊ mɑːk ɡaɪ ",
+        "type": "noun",
+        "defineEn": "a popular Thai dish made with fragrant spiced rice cooked with chicken and served with a side of yogurt sauce",
+        "defineVi": "một món ăn phổ biến của Thái Lan được làm từ gạo thơm nấu với thịt gà và ăn kèm với nước sốt sữa chua"
+    },
+    {
+        "id": "a7542dd9-d3e1-42bb-9aff-2134785d289a",
+        "word": "khao pad",
+        "phonetic": "kɑːoʊ pæd ",
+        "type": "noun",
+        "defineEn": "a popular Thai dish made with cooked rice stir-fried with a variety of ingredients such as vegetables, meat, and eggs",
+        "defineVi": "một món ăn phổ biến của Thái Lan được làm từ cơm nấu chín xào với nhiều loại nguyên liệu như rau, thịt và trứng"
+    },
+    {
+        "id": "fdfd07ca-bc09-4210-8042-53f0f1b4d12c",
+        "word": "red curry",
+        "phonetic": "ɹɛd kɜːɹi ",
+        "type": "noun",
+        "defineEn": "a type of Thai curry made with red curry paste, which typically includes red chili peppers, garlic, ginger, lemongrass, and other spices, cooked in coconut milk",
+        "defineVi": "một loại cà ri Thái được làm từ bột cà ri đỏ, thường bao gồm ớt đỏ, tỏi, gừng, sả và các loại gia vị khác, nấu trong nước cốt dừa"
+    },
+    {
+        "id": "b6d9c133-486c-44df-babe-e62701f27147",
+        "word": "yellow curry",
+        "phonetic": "jɛloʊ kɜːɹi ",
+        "type": "noun",
+        "defineEn": "a Thai curry made with yellow curry paste, cooked in coconut milk, and often combined with meat, vegetables, and herbs",
+        "defineVi": "một món cà ri Thái được làm từ bột cà ri vàng, nấu trong nước cốt dừa và thường được kết hợp với thịt, rau và thảo mộc"
+    },
+    {
+        "id": "97546772-b49e-47f8-b870-58ef29441f6e",
+        "word": "green curry",
+        "phonetic": "ɡɹiːn kɜːɹi ",
+        "type": "noun",
+        "defineEn": "a Thai curry made with green curry paste, cooked in coconut milk, and often combined with meat, vegetables, and herbs",
+        "defineVi": "một món cà ri Thái được làm từ bột cà ri xanh, nấu trong nước cốt dừa và thường được kết hợp với thịt, rau và thảo mộc"
+    },
+    {
+        "id": "9d997a19-03dd-48ed-80aa-e92989125017",
+        "word": "khao soi",
+        "phonetic": "kɑːoʊ sɔɪ ",
+        "type": "noun",
+        "defineEn": "a popular Thai noodle dish with a rich and creamy curry broth, usually made with coconut milk",
+        "defineVi": "một món mì phổ biến của Thái Lan với nước dùng cà ri béo ngậy, thường được làm từ nước cốt dừa"
+    },
+    {
+        "id": "247b1052-273b-4fce-8aa4-11d9e5471521",
+        "word": "tom yum",
+        "phonetic": "tɑːm jʌm ",
+        "type": "noun",
+        "defineEn": "a tangy and spicy Thai soup typically made with lemongrass, lime leaves, chili, fish sauce",
+        "defineVi": "một món súp cay và thơm của Thái thường được làm bằng sả, lá chanh, ớt, nước mắm"
+    },
+    {
+        "id": "88936675-b138-4dd5-931a-bb64642e962d",
+        "word": "tom kha gai",
+        "phonetic": "tɑːm kɑː ɡaɪ ",
+        "type": "noun",
+        "defineEn": "a popular Thai coconut soup made with chicken, coconut milk, galangal, lemongrass, lime leaves, and other aromatic herbs",
+        "defineVi": "một món súp dừa nổi tiếng của Thái Lan được làm từ thịt gà, nước cốt dừa, riềng, sả, lá chanh và các loại rau thơm khác"
+    },
+    {
+        "id": "5bdaa53f-b11b-4a7f-8188-88cb22f715d2",
+        "word": "kaeng som",
+        "phonetic": "kiːŋ sɑːm ",
+        "type": "noun",
+        "defineEn": "a spicy and tangy curry dish from Thailand made with fish or shrimp, tamarind paste, chili paste, and an array of vegetables",
+        "defineVi": "một món cà ri cay và thơm từ Thái Lan được làm từ cá hoặc tôm, bột me, tương ớt và một loạt các loại rau"
+    },
+    {
+        "id": "dc3356b3-9a97-4c93-878a-8ff5b43e79f5",
+        "word": "massaman curry",
+        "phonetic": "mæsæmən kɜːɹi ",
+        "type": "noun",
+        "defineEn": "a Thai curry dish known for its rich and creamy flavor, made with tender chunks of meat, potatoes, peanuts, and a fragrant spice paste",
+        "defineVi": "một món cà ri Thái được biết đến với hương vị đậm đà và kem, được làm từ những miếng thịt mềm, khoai tây, đậu phộng và một loại gia vị thơm"
+    },
+    {
+        "id": "8652a7fc-dfc1-41e5-897c-040f3fb03f3a",
+        "word": "panang curry",
+        "phonetic": "pænæŋ kɜːɹi ",
+        "type": "noun",
+        "defineEn": "a Thai curry dish known for its creamy and slightly sweet flavor, made with a thick and rich red curry paste, coconut milk and meat",
+        "defineVi": "một món cà ri Thái Lan được biết đến với hương vị kem và hơi ngọt, được chế biến từ bột cà ri đỏ dày và đậm đà, nước cốt dừa và thịt"
+    },
+    {
+        "id": "a97794f3-68f6-476f-89a9-9bcd029c5b62",
+        "word": "mango sticky rice",
+        "phonetic": "mæŋɡoʊ stɪki ɹaɪs ",
+        "type": "noun",
+        "defineEn": "a popular Thai dessert made with sticky rice cooked in coconut milk, served with ripe mango slices",
+        "defineVi": "một món tráng miệng nổi tiếng của Thái Lan được làm từ gạo nếp nấu với nước cốt dừa, ăn kèm với những lát xoài chín"
+    },
+    {
+        "id": "c5fa58df-11e5-48a2-8356-6ac9adddb7f8",
+        "word": "kluai buat chi",
+        "phonetic": "kluːaɪ bjuːæt kaɪ ",
+        "type": "noun",
+        "defineEn": "a traditional Thai dessert made with bananas cooked in coconut milk and sugar, often served warm or chilled",
+        "defineVi": "một món tráng miệng truyền thống của Thái Lan làm từ chuối nấu với nước cốt dừa và đường, thường được phục vụ khi còn ấm hoặc ướp lạnh"
+    }
+]

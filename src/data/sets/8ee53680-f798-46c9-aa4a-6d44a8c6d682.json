@@ -1,0 +1,154 @@
+[
+    {
+        "id": "53a9cba0-bf42-4931-a623-7dc57208b4c6",
+        "word": "hobby",
+        "phonetic": "hɑːbi ",
+        "type": "noun",
+        "defineEn": "an activity that we enjoy doing in our free time",
+        "defineVi": "một hoạt động mà chúng tôi thích làm trong thời gian rảnh của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "ef0bcb75-219d-4384-a478-30d8c6c11fc1",
+        "word": "movie",
+        "phonetic": "muːvi ",
+        "type": "noun",
+        "defineEn": "a story that is told with a series of pictures that move and sound, shown on television or in a cinema",
+        "defineVi": "một câu chuyện được kể bằng một loạt hình ảnh chuyển động và âm thanh, được chiếu trên truyền hình hoặc trong rạp chiếu phim",
+        "hasImg": true
+    },
+    {
+        "id": "48fc6c90-1dd0-48f8-bc20-a4f0109ccbd9",
+        "word": "music",
+        "phonetic": "mjuːzɪk ",
+        "type": "noun",
+        "defineEn": "a series of sounds made by instruments or voices, arranged in a way that is pleasant or exciting to listen to",
+        "defineVi": "một loạt âm thanh được tạo ra bởi các nhạc cụ hoặc giọng nói, được sắp xếp theo cách dễ chịu hoặc thú vị để nghe",
+        "hasImg": true
+    },
+    {
+        "id": "133ab7fc-c2b3-4c42-aaa4-ded76e8ab44c",
+        "word": "guitar",
+        "phonetic": "ɡɪtɑːɹ ",
+        "type": "noun",
+        "defineEn": "a musical instrument, usually with six strings, played by pulling the strings with the fingers or with a plectrum",
+        "defineVi": "một nhạc cụ, thường có sáu dây, được chơi bằng cách kéo dây bằng ngón tay hoặc bằng miếng gảy",
+        "hasImg": true
+    },
+    {
+        "id": "03eee2c3-d7db-41bc-82c1-7fff2c992b92",
+        "word": "piano",
+        "phonetic": "piænoʊ ",
+        "type": "noun",
+        "defineEn": "a musical instrument played by pressing the black and white keys on the keyboard",
+        "defineVi": "một nhạc cụ được chơi bằng cách nhấn các phím màu đen và trắng trên bàn phím",
+        "hasImg": true
+    },
+    {
+        "id": "98670e49-6414-45ac-a67c-d2e3e468077a",
+        "word": "violin",
+        "phonetic": "vaɪəlɪn ",
+        "type": "noun",
+        "defineEn": "a musical instrument with strings, held under the chin and played with a bow",
+        "defineVi": "một nhạc cụ có dây, được giữ dưới cằm và chơi bằng cung",
+        "hasImg": true
+    },
+    {
+        "id": "39d0a796-3bbe-4510-bc47-7d9f7a2e9c46",
+        "word": "swimming",
+        "phonetic": "swɪmɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of moving our bodies through water with the use of our arms and legs, particularly as a sport",
+        "defineVi": "hành động di chuyển cơ thể của chúng ta trong nước bằng cách sử dụng cánh tay và chân của chúng ta, đặc biệt là một môn thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "c2cc1fe7-430b-4caa-93d0-bc5cc4f663cd",
+        "word": "soccer",
+        "phonetic": "sɑːkɚ ",
+        "type": "noun",
+        "defineEn": "a type of sport where two teams, with eleven players each, try to kick a ball into a specific area to win points",
+        "defineVi": "một loại hình thể thao trong đó hai đội, mỗi đội có mười một người chơi, cố gắng đá một quả bóng vào một khu vực cụ thể để giành điểm",
+        "hasImg": true
+    },
+    {
+        "id": "2e9d6d0e-6d67-437a-a9a8-f0c60848a5e6",
+        "word": "volleyball",
+        "phonetic": "vɑːlɪbɔːl ",
+        "type": "noun",
+        "defineEn": "a type of sport played by two teams of 6 players, who use their hands to hit a large ball over a high net while trying not to let the ball touch the ground on their own side",
+        "defineVi": "một loại hình thể thao được chơi bởi hai đội gồm 6 người chơi, những người này dùng tay để đánh một quả bóng lớn qua lưới cao trong khi cố gắng không để quả bóng chạm đất bên phía mình",
+        "hasImg": true
+    },
+    {
+        "id": "373214f6-0324-4d23-9cd1-10eac733ed23",
+        "word": "hiking",
+        "phonetic": "haɪkɪŋ ",
+        "type": "noun",
+        "defineEn": "the activity of taking long walks in the country or mountains, often for fun",
+        "defineVi": "hoạt động đi bộ đường dài trong nước hoặc trên núi, thường là để giải trí",
+        "hasImg": true
+    },
+    {
+        "id": "46283b30-75a7-4a4f-90ac-57473ec2855e",
+        "word": "tennis",
+        "phonetic": "tɛnɪs ",
+        "type": "noun",
+        "defineEn": "a sport played with rackets by two or four players, who hit a small ball backwards and forwards over a net on a marked court",
+        "defineVi": "một môn thể thao được chơi bằng vợt bởi hai hoặc bốn người chơi, những người này đánh một quả bóng nhỏ tới lui qua lưới trên sân được đánh dấu",
+        "hasImg": true
+    },
+    {
+        "id": "9ce43bce-1579-4e66-9d45-4d6e6a71e087",
+        "word": "bicycle",
+        "phonetic": "baɪsɪkəl ",
+        "type": "noun",
+        "defineEn": "a vehicle with two wheels that we ride by pushing its pedals with our feet",
+        "defineVi": "một chiếc xe có hai bánh mà chúng ta lái bằng cách dùng chân đẩy bàn đạp của nó",
+        "hasImg": true
+    },
+    {
+        "id": "06b94a00-adc7-4948-a06b-5c8d3c5b083e",
+        "word": "sport",
+        "phonetic": "spoːɹt ",
+        "type": "noun",
+        "defineEn": "a specific type of physical activity such as football, swimming, etc. that we do to have fun or stay healthy",
+        "defineVi": "một loại hoạt động thể chất cụ thể như bóng đá, bơi lội, v.v. mà chúng ta làm để vui chơi hoặc giữ sức khỏe"
+    },
+    {
+        "id": "3f614278-a1da-499f-9005-b8f0d689c614",
+        "word": "game",
+        "phonetic": "ɡeɪm ",
+        "type": "noun",
+        "defineEn": "an activity often with fixed rules that we do for amusement or fun",
+        "defineVi": "một hoạt động thường với các quy tắc cố định mà chúng tôi làm để giải trí hoặc vui vẻ",
+        "hasImg": true
+    },
+    {
+        "id": "50758892-ba31-4e87-a7c2-54d07ba4d120",
+        "word": "video game",
+        "phonetic": "vɪdɪoʊ ɡeɪm ",
+        "type": "noun",
+        "defineEn": "a computer game in which the player controls the displayed content by pressing buttons on a controller",
+        "defineVi": "một trò chơi máy tính trong đó người chơi điều khiển nội dung được hiển thị bằng cách nhấn các nút trên bộ điều khiển",
+        "hasImg": true
+    },
+    {
+        "id": "558a8d22-d12a-4daf-bfcc-c2e2a2772e35",
+        "word": "newspaper",
+        "phonetic": "nuːzpeɪpɚ ",
+        "type": "noun",
+        "defineEn": "a printed publication or a set of large folded sheets of printed paper that contain news, articles, ads, etc., usually issued daily or weekly",
+        "defineVi": "một ấn phẩm in hoặc một tập hợp các tờ giấy in lớn được gấp lại có chứa tin tức, bài báo, quảng cáo, v.v., thường được phát hành hàng ngày hoặc hàng tuần",
+        "hasImg": true
+    },
+    {
+        "id": "072fad5d-174b-426e-9e42-9db674617e11",
+        "word": "magazine",
+        "phonetic": "mæɡɐziːn ",
+        "type": "noun",
+        "defineEn": "a periodic publication or a large thin book with a paper cover that contains news stories, articles, photographs, etc., usually on a particular topic, sold weekly or monthly",
+        "defineVi": "một ấn phẩm định kỳ hoặc một cuốn sách mỏng lớn có bìa giấy chứa các câu chuyện tin tức, bài báo, ảnh, v.v., thường về một chủ đề cụ thể, được bán hàng tuần hoặc hàng tháng",
+        "hasImg": true
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "id": "29aa32bf-78e9-4d27-87ef-c3e4bdc686b6",
+        "word": "to eat",
+        "phonetic": "tʊ iːt ",
+        "type": "verb",
+        "defineEn": "to put food into the mouth, then chew and swallow it",
+        "defineVi": "để đưa thức ăn vào miệng, sau đó nhai và nuốt nó",
+        "hasImg": true
+    },
+    {
+        "id": "717079fd-e9e9-4754-9570-e9e8c6f37ebe",
+        "word": "to swallow",
+        "phonetic": "tə swɔloʊ ",
+        "type": "verb",
+        "defineEn": "to cause food, drink, or another substance to pass from the mouth down into the stomach through the esophagus, using the muscles of the throat",
+        "defineVi": "làm cho thức ăn, đồ uống hoặc một chất khác đi từ miệng xuống dạ dày qua thực quản, sử dụng các cơ của cổ họng"
+    },
+    {
+        "id": "9e99cbb8-da7d-474c-87a6-7352e8e89fa6",
+        "word": "to have",
+        "phonetic": "tə hæv ",
+        "type": "verb",
+        "defineEn": "to eat or drink something",
+        "defineVi": "để ăn hoặc uống một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "7ffcce15-738b-40ba-9ced-8d5fc5d1f278",
+        "word": "to consume",
+        "phonetic": "tə kənsuːm ",
+        "type": "verb",
+        "defineEn": "eat up completely, as with great appetite",
+        "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "5a8b44ad-d6b6-4803-a7f0-0fad6279aa45",
+        "word": "to taste",
+        "phonetic": "tə teɪst ",
+        "type": "verb",
+        "defineEn": "to be able to recognize the flavor of something by eating or drinking it",
+        "defineVi": "để có thể nhận ra hương vị của một cái gì đó bằng cách ăn hoặc uống nó",
+        "hasImg": true
+    },
+    {
+        "id": "2b27ba55-55bf-42fa-909c-1ccee44eaed5",
+        "word": "to touch",
+        "phonetic": "tə tʌtʃ ",
+        "type": "verb",
+        "defineEn": "consume",
+        "defineVi": "tiêu thụ"
+    },
+    {
+        "id": "180db19d-d775-4751-aa27-12ace080ea67",
+        "word": "to try",
+        "phonetic": "tə tɹaɪ ",
+        "type": "verb",
+        "defineEn": "to test something by doing or using it to find out if it is suitable, useful, good, etc.",
+        "defineVi": "để kiểm tra một cái gì đó bằng cách thực hiện hoặc sử dụng nó để tìm hiểu xem nó có phù hợp, hữu ích, tốt hay không, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "fd378906-183d-4442-92c4-6805be29e3de",
+        "word": "to take",
+        "phonetic": "tə teɪk ",
+        "type": "verb",
+        "defineEn": "to consume something as food, drink, medication, or drugs",
+        "defineVi": "để tiêu thụ một cái gì đó như thực phẩm, đồ uống, thuốc, hoặc ma túy",
+        "hasImg": true
+    },
+    {
+        "id": "1bd3eaad-5156-4f61-994e-1a2b8edb926f",
+        "word": "to ingest",
+        "phonetic": "tʊ ɪndʒɛst ",
+        "type": "verb",
+        "defineEn": "serve oneself to, or consume regularly",
+        "defineVi": "phục vụ bản thân, hoặc tiêu thụ thường xuyên"
+    },
+    {
+        "id": "c8fa2aa7-33cc-4f7a-8c14-43e1ea01eb43",
+        "word": "consumption",
+        "phonetic": "kənsʌmpʃən ",
+        "type": "noun",
+        "defineEn": "the process of taking food into the body through the mouth (as by eating)",
+        "defineVi": "quá trình đưa thức ăn vào cơ thể qua miệng (như khi ăn)"
+    },
+    {
+        "id": "0dc4bec4-2e03-4671-893a-682d10c3b040",
+        "word": "to dine",
+        "phonetic": "tə daɪn ",
+        "type": "verb",
+        "defineEn": "to have dinner",
+        "defineVi": "ăn tối",
+        "hasImg": true
+    },
+    {
+        "id": "af37fdf7-6486-4247-a77d-5be99daaae28",
+        "word": "to dine in",
+        "phonetic": "tə daɪn ɪn ",
+        "type": "verb",
+        "defineEn": "eat at home",
+        "defineVi": "ăn ở nhà"
+    },
+    {
+        "id": "01f31933-4e62-4c50-a198-1074714816c3",
+        "word": "to dine out",
+        "phonetic": "tə daɪn aʊt ",
+        "type": "verb",
+        "defineEn": "to have dinner in a restaurant or at someone else's home",
+        "defineVi": "ăn tối ở nhà hàng hoặc ở nhà người khác",
+        "hasImg": true
+    },
+    {
+        "id": "8a8bb21f-d3bc-4d84-9faa-1308179060c9",
+        "word": "to eat in",
+        "phonetic": "tʊ iːt ɪn ",
+        "type": "verb",
+        "defineEn": "eat at home",
+        "defineVi": "ăn ở nhà"
+    },
+    {
+        "id": "f0ee36b3-4cc8-4f61-b561-ba3a6ba64351",
+        "word": "to eat out",
+        "phonetic": "tʊ iːt aʊt ",
+        "type": "verb",
+        "defineEn": "to eat in a restaurant, etc. rather than at one's home",
+        "defineVi": "ăn trong một nhà hàng, vv hơn là ở nhà của một người",
+        "hasImg": true
+    },
+    {
+        "id": "409837cc-9f1c-4681-9ecc-9a838685bca8",
+        "word": "to fill up",
+        "phonetic": "tə fɪl ʌp ",
+        "type": "verb",
+        "defineEn": "eat until one is sated",
+        "defineVi": "ăn cho đến khi no"
+    },
+    {
+        "id": "b2128b1c-115e-42de-808f-393b91db5852",
+        "word": "to finish",
+        "phonetic": "tə fɪnɪʃ ",
+        "type": "verb",
+        "defineEn": "finish eating all the food on one's plate or on the table",
+        "defineVi": "ăn hết thức ăn trên đĩa hoặc trên bàn"
+    },
+    {
+        "id": "3dc1020b-3c4c-4154-8dad-02561e667f6d",
+        "word": "to get down",
+        "phonetic": "tə ɡɛt daʊn ",
+        "type": "verb",
+        "defineEn": "pass through the esophagus as part of eating or drinking",
+        "defineVi": "đi qua thực quản như một phần của việc ăn hoặc uống"
+    },
+    {
+        "id": "6e48e051-3782-4388-84bc-64ea46c50c8a",
+        "word": "to indulge",
+        "phonetic": "tʊ ɪndʌldʒ ",
+        "type": "verb",
+        "defineEn": "to allow oneself to do or have something that one enjoys, particularly something that might be bad for one",
+        "defineVi": "để cho phép bản thân làm hoặc có một cái gì đó mà một người thích, đặc biệt là một cái gì đó có thể là xấu cho một"
+    },
+    {
+        "id": "2f2b821e-f905-49b9-95de-8942773a9c7d",
+        "word": "to nosh",
+        "phonetic": "tə nɑːʃ ",
+        "type": "verb",
+        "defineEn": "eat a snack; eat lightly",
+        "defineVi": "ăn quà vặt; ăn nhẹ"
+    },
+    {
+        "id": "48cfb0ce-688b-412e-a811-9e8fb2e12b4b",
+        "word": "to lunch",
+        "phonetic": "tə lʌntʃ ",
+        "type": "verb",
+        "defineEn": "to eat lunch, particularly at a restaurant",
+        "defineVi": "ăn trưa, đặc biệt là tại một nhà hàng",
+        "hasImg": true
+    },
+    {
+        "id": "e6e2e20d-7a20-423e-bf6b-fd836768a9ce",
+        "word": "to breakfast",
+        "phonetic": "tə bɹɛkfəst ",
+        "type": "verb",
+        "defineEn": "eat an early morning meal",
+        "defineVi": "ăn một bữa sáng sớm"
+    },
+    {
+        "id": "62eb19df-c6ca-4267-94bc-a1d5280f7418",
+        "word": "to partake",
+        "phonetic": "tə pɑːɹteɪk ",
+        "type": "verb",
+        "defineEn": "consume",
+        "defineVi": "tiêu thụ"
+    },
+    {
+        "id": "21963e77-7218-4b36-9140-5cc358790510",
+        "word": "to polish off",
+        "phonetic": "tə pɑːlɪʃ ɔf ",
+        "type": "verb",
+        "defineEn": "finish eating all the food on one's plate or on the table",
+        "defineVi": "ăn hết thức ăn trên đĩa hoặc trên bàn"
+    },
+    {
+        "id": "1b05d8c8-0c5f-4ca3-bd05-98801f2568b9",
+        "word": "to sup",
+        "phonetic": "tə sʌp ",
+        "type": "verb",
+        "defineEn": "take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon",
+        "defineVi": "đưa thức ăn đặc hoặc lỏng vào miệng từng chút một bằng cách uống hoặc ăn bằng thìa"
+    },
+    {
+        "id": "8503d522-8104-4a8d-8871-c226f41a6ded",
+        "word": "to bite",
+        "phonetic": "tə baɪt ",
+        "type": "verb",
+        "defineEn": "to cut into flesh using the teeth",
+        "defineVi": "để cắt vào thịt bằng cách sử dụng răng",
+        "hasImg": true
+    },
+    {
+        "id": "c52d0921-9713-49f8-a791-ec7ac5b584ff",
+        "word": "to bolt",
+        "phonetic": "tə boʊlt ",
+        "type": "verb",
+        "defineEn": "eat hastily without proper chewing",
+        "defineVi": "ăn vội vàng mà không nhai kỹ"
+    },
+    {
+        "id": "df5ea807-9967-465f-bde1-9056afa7c1a4",
+        "word": "bon appetit",
+        "phonetic": "bɑːn æpɪtiːt ",
+        "type": "interjection",
+        "defineEn": "a French expression used to wish someone a good appetite or enjoyable meal before they start eating",
+        "defineVi": "một thành ngữ Pháp được sử dụng để chúc ai đó ngon miệng hoặc một bữa ăn thú vị trước khi họ bắt đầu ăn"
+    },
+    {
+        "id": "7008fa92-f324-4e55-8f97-9f6307b7c54d",
+        "word": "to champ",
+        "phonetic": "tə tʃæmp ",
+        "type": "verb",
+        "defineEn": "chew noisily",
+        "defineVi": "nhai ồn ào"
+    },
+    {
+        "id": "ca7e2c5c-5b43-47c5-a5ca-3fbfc05bf671",
+        "word": "to choke down",
+        "phonetic": "tə tʃoʊk daʊn ",
+        "type": "verb",
+        "defineEn": "to eat or swallow something with difficulty or reluctance",
+        "defineVi": "ăn hoặc nuốt một cái gì đó khó khăn hoặc miễn cưỡng"
+    },
+    {
+        "id": "47eab5d0-84ad-4146-aa99-ebb013cb8354",
+        "word": "to chomp",
+        "phonetic": "tə tʃɑːmp ",
+        "type": "verb",
+        "defineEn": "chew noisily",
+        "defineVi": "nhai ồn ào"
+    },
+    {
+        "id": "e7c30f94-7ac8-4972-ac4c-cfae0f8b6e15",
+        "word": "to chew",
+        "phonetic": "tə tʃuː ",
+        "type": "verb",
+        "defineEn": "to bite and crush food into smaller pieces with the teeth to make it easier to swallow",
+        "defineVi": "cắn và nghiền thức ăn thành những miếng nhỏ hơn bằng răng để dễ nuốt hơn",
+        "hasImg": true
+    },
+    {
+        "id": "29c2c3a8-7060-464a-9be1-e59d9764642a",
+        "word": "to crunch",
+        "phonetic": "tə kɹʌntʃ ",
+        "type": "verb",
+        "defineEn": "to crush or grind something loudly and noisily, often with the teeth",
+        "defineVi": "để nghiền nát hoặc nghiền một cái gì đó to và ồn ào, thường là bằng răng",
+        "hasImg": true
+    },
+    {
+        "id": "e04c9b7d-ab66-4bc0-bd6d-776ead532363",
+        "word": "to demolish",
+        "phonetic": "tə dᵻmɑːlɪʃ ",
+        "type": "verb",
+        "defineEn": "eat up completely, as with great appetite",
+        "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "ca225ede-6b39-459e-8072-1a0f987e5c95",
+        "word": "to devour",
+        "phonetic": "tə dɪvaʊɚ ",
+        "type": "verb",
+        "defineEn": "eat greedily",
+        "defineVi": "ăn uống tham lam"
+    },
+    {
+        "id": "50f39350-a59c-4a85-846b-3e5ef046bfa5",
+        "word": "to diet",
+        "phonetic": "tə daɪət ",
+        "type": "verb",
+        "defineEn": "to eat small amounts or particular kinds of food, especially to lose weight",
+        "defineVi": "ăn một lượng nhỏ hoặc các loại thực phẩm cụ thể, đặc biệt là để giảm cân",
+        "hasImg": true
+    },
+    {
+        "id": "8fbd8e17-bcdb-4250-af0c-03459edccc76",
+        "word": "to dig in",
+        "phonetic": "tə dɪɡ ɪn ",
+        "type": "verb",
+        "defineEn": "eat heartily",
+        "defineVi": "ăn tận tình"
+    },
+    {
+        "id": "f5fda691-6449-43d2-8841-16a8d0165007",
+        "word": "to down",
+        "phonetic": "tə daʊn ",
+        "type": "verb",
+        "defineEn": "eat up completely, as with great appetite",
+        "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "d7356a4d-b7dc-4b64-8868-1df7ee0b5102",
+        "word": "to eat up",
+        "phonetic": "tʊ iːt ʌp ",
+        "type": "verb",
+        "defineEn": "to eat food completely or finish a meal",
+        "defineVi": "để ăn thức ăn hoàn toàn hoặc kết thúc một bữa ăn"
+    },
+    {
+        "id": "e42a264f-6fc6-42a1-a2f5-86d2dc6e733b",
+        "word": "to gobble",
+        "phonetic": "tə ɡɑːbəl ",
+        "type": "verb",
+        "defineEn": "to eat something quickly and greedily, often making loud and rapid swallowing sounds",
+        "defineVi": "ăn một cái gì đó một cách nhanh chóng và ngấu nghiến, thường phát ra âm thanh nuốt lớn và nhanh",
+        "hasImg": true
+    },
+    {
+        "id": "90134fa9-4b64-4b36-a1ae-afda1047a8c4",
+        "word": "to gulp",
+        "phonetic": "tə ɡʌlp ",
+        "type": "verb",
+        "defineEn": "to swallow hurriedly or greedily or in one draught",
+        "defineVi": "nuốt vội vàng hoặc tham lam hoặc trong một bản nháp"
+    },
+    {
+        "id": "f6addd76-86a5-4727-89e2-1562a07d4000",
+        "word": "to guzzle",
+        "phonetic": "tə ɡʌzəl ",
+        "type": "verb",
+        "defineEn": "drink greedily or as if with great thirst",
+        "defineVi": "uống một cách ngấu nghiến hoặc như thể rất khát"
+    },
+    {
+        "id": "c179e192-a0fd-4561-82c4-758d875332ac",
+        "word": "to lick",
+        "phonetic": "tə lɪk ",
+        "type": "verb",
+        "defineEn": "to pass the tongue over a surface, typically to taste or consume something",
+        "defineVi": "để vượt qua lưỡi trên một bề mặt, điển hình là nếm hoặc tiêu thụ một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "a9069f88-63bb-40be-99d6-e3cf1f5432af",
+        "word": "to munch",
+        "phonetic": "tə mʌntʃ ",
+        "type": "verb",
+        "defineEn": "to chew steadily or vigorously, often making a crunching sound",
+        "defineVi": "nhai đều đặn hoặc mạnh mẽ, thường tạo ra âm thanh lạo xạo",
+        "hasImg": true
+    },
+    {
+        "id": "b7e9966b-586d-4365-b561-df8e2ea16be0",
+        "word": "to nibble",
+        "phonetic": "tə nɪbəl ",
+        "type": "verb",
+        "defineEn": "eat intermittently; take small bites of",
+        "defineVi": "ăn ngắt quãng; cắn những miếng nhỏ"
+    },
+    {
+        "id": "57e9995e-0d79-4ee3-9ece-74a1783d31b9",
+        "word": "to peck at",
+        "phonetic": "tə pɛk æt ",
+        "type": "verb",
+        "defineEn": "eat like a bird",
+        "defineVi": "ăn như một con chim"
+    },
+    {
+        "id": "3f9ab26d-0d85-4489-bb67-1ca82435a0a6",
+        "word": "to pick at",
+        "phonetic": "tə pɪk æt ",
+        "type": "verb",
+        "defineEn": "eat like a bird",
+        "defineVi": "ăn như một con chim"
+    },
+    {
+        "id": "143c6951-505b-42e4-af4c-ab4ea2986891",
+        "word": "to savor",
+        "phonetic": "tə seɪvɚ ",
+        "type": "verb",
+        "defineEn": "to fully appreciate and enjoy the flavor or aroma of a food or drink as much as possible, particularly by slowly consuming it",
+        "defineVi": "để đánh giá đầy đủ và tận hưởng hương vị hoặc mùi thơm của thức ăn hoặc đồ uống càng nhiều càng tốt, đặc biệt là bằng cách tiêu thụ nó từ từ",
+        "hasImg": true
+    },
+    {
+        "id": "269af36c-6f7c-42c0-9375-8e90e4e6ac98",
+        "word": "to scarf",
+        "phonetic": "tə skɑːɹf ",
+        "type": "verb",
+        "defineEn": "to eat or drink quickly or eagerly",
+        "defineVi": "ăn hoặc uống một cách nhanh chóng hoặc háo hức"
+    },
+    {
+        "id": "8430eb42-ffc4-4633-bc72-fa829215a8cc",
+        "word": "to snack",
+        "phonetic": "tə snæk ",
+        "type": "verb",
+        "defineEn": "eat a snack; eat lightly",
+        "defineVi": "ăn quà vặt; ăn nhẹ"
+    },
+    {
+        "id": "ecac1c72-ceb5-4019-a97c-e5444b80bfe5",
+        "word": "to spoon",
+        "phonetic": "tə spuːn ",
+        "type": "verb",
+        "defineEn": "scoop up or take up with a spoon",
+        "defineVi": "múc lên hoặc lấy bằng thìa"
+    },
+    {
+        "id": "1f941218-4491-431d-ba0c-e81326062c1e",
+        "word": "to wolf",
+        "phonetic": "tə wʊlf ",
+        "type": "verb",
+        "defineEn": "eat hastily",
+        "defineVi": "ăn vội vàng",
+        "hasImg": true
+    },
+    {
+        "id": "36578e07-ff84-49b4-9c4a-d495d818370b",
+        "word": "to feast",
+        "phonetic": "tə fiːst ",
+        "type": "verb",
+        "defineEn": "partake in a feast or banquet",
+        "defineVi": "tham gia một bữa tiệc hoặc bữa tiệc"
+    },
+    {
+        "id": "c79e9507-cfb4-4e47-87e2-15a4b00817fa",
+        "word": "to binge",
+        "phonetic": "tə bɪndʒ ",
+        "type": "verb",
+        "defineEn": "to drink or eat excessively",
+        "defineVi": "uống hoặc ăn quá mức",
+        "hasImg": true
+    },
+    {
+        "id": "7b05873b-e974-4cae-b381-ea2695697945",
+        "word": "to overeat",
+        "phonetic": "tʊ oʊvɚɹiːt ",
+        "type": "verb",
+        "defineEn": "to eat excessively, especially to the point that makes one feel sick or uncomfortable",
+        "defineVi": "ăn quá mức, đặc biệt là đến mức khiến người ta cảm thấy buồn nôn hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "cb43c51a-c731-46a2-b09b-e5c6768410de",
+        "word": "to gorge",
+        "phonetic": "tə ɡoːɹdʒ ",
+        "type": "verb",
+        "defineEn": "overeat or eat immodestly; make a pig of oneself",
+        "defineVi": "ăn quá nhiều hoặc ăn uống vô độ; làm một con lợn của chính mình",
+        "hasImg": true
+    },
+    {
+        "id": "d59a8765-9b25-475f-910f-87f48247483d",
+        "word": "to pack away",
+        "phonetic": "tə pæk ɐweɪ ",
+        "type": "verb",
+        "defineEn": "to eat a large amount of food quickly or with gusto",
+        "defineVi": "ăn một lượng lớn thức ăn một cách nhanh chóng hoặc với sự thích thú"
+    },
+    {
+        "id": "10662732-00a1-4030-8a66-05adab64b031",
+        "word": "to pig",
+        "phonetic": "tə pɪɡ ",
+        "type": "verb",
+        "defineEn": "eat greedily",
+        "defineVi": "ăn uống tham lam",
+        "hasImg": true
+    },
+    {
+        "id": "3a178366-3382-49a3-ba7c-66a37de4528c",
+        "word": "to slurp",
+        "phonetic": "tə slɜːp ",
+        "type": "verb",
+        "defineEn": "to eat or drink noisily by inhaling a liquid or soft food, such as soup or noodles, often with a distinctive, impolite sound",
+        "defineVi": "ăn hoặc uống ồn ào bằng cách hít thức ăn lỏng hoặc mềm, chẳng hạn như súp hoặc mì, thường có âm thanh đặc biệt, bất lịch sự"
+    }
+]

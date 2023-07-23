@@ -1,0 +1,422 @@
+[
+    {
+        "id": "318ffc91-6bbc-442b-b2a5-17d5556a44b6",
+        "word": "castle",
+        "phonetic": "kæsəl ",
+        "type": "noun",
+        "defineEn": "a large and strong building that is protected against attacks, in which the royal family lives",
+        "defineVi": "một tòa nhà lớn và mạnh mẽ được bảo vệ chống lại các cuộc tấn công, trong đó gia đình hoàng gia sống",
+        "hasImg": true
+    },
+    {
+        "id": "f58f4569-0588-4fa9-af13-48d6e499e2db",
+        "word": "cathedral",
+        "phonetic": "kɐθiːdɹəl ",
+        "type": "noun",
+        "defineEn": "the largest and most important church of a specific area, which is controlled by a bishop",
+        "defineVi": "nhà thờ lớn nhất và quan trọng nhất của một khu vực cụ thể, được kiểm soát bởi một giám mục",
+        "hasImg": true
+    },
+    {
+        "id": "0882dffe-77ac-43c6-96df-2c36abf718ad",
+        "word": "church",
+        "phonetic": "tʃɜːtʃ ",
+        "type": "noun",
+        "defineEn": "a building where Christians go to worship and practice their religion",
+        "defineVi": "một tòa nhà nơi các Kitô hữu đến thờ phượng và thực hành tôn giáo của họ",
+        "hasImg": true
+    },
+    {
+        "id": "0a8974e6-a945-47b6-b024-cc1196f8c020",
+        "word": "city",
+        "phonetic": "sɪɾi ",
+        "type": "noun",
+        "defineEn": "a larger and more populated town",
+        "defineVi": "một thị trấn lớn hơn và đông dân cư hơn",
+        "hasImg": true
+    },
+    {
+        "id": "71e03fc9-d16e-45a5-823a-5557b4c61a13",
+        "word": "town",
+        "phonetic": "taʊn ",
+        "type": "noun",
+        "defineEn": "an area with human population that is smaller than a city and larger than a village",
+        "defineVi": "một khu vực có dân số nhỏ hơn một thành phố và lớn hơn một ngôi làng",
+        "hasImg": true
+    },
+    {
+        "id": "8f0bc6e8-9b2a-47aa-9bc6-81d2f1f4ef04",
+        "word": "north",
+        "phonetic": "nɔːɹθ ",
+        "type": "adjective",
+        "defineEn": "near, toward, facing, in, or from the north",
+        "defineVi": "gần, về phía, đối mặt, trong hoặc từ phía bắc",
+        "hasImg": true
+    },
+    {
+        "id": "c583371f-ec9e-44a0-9f2b-b63495c556e6",
+        "word": "south",
+        "phonetic": "saʊθ ",
+        "type": "adjective",
+        "defineEn": "situated in or toward the south",
+        "defineVi": "nằm trong hoặc hướng về phía nam",
+        "hasImg": true
+    },
+    {
+        "id": "8e4a30ae-d04d-4f08-8a40-c52327510cb4",
+        "word": "coast",
+        "phonetic": "koʊst ",
+        "type": "noun",
+        "defineEn": "the land near or next to a sea or ocean",
+        "defineVi": "vùng đất gần hoặc bên cạnh biển hoặc đại dương",
+        "hasImg": true
+    },
+    {
+        "id": "d916f753-254f-4447-86b6-adc3c01230db",
+        "word": "east",
+        "phonetic": "iːst ",
+        "type": "adjective",
+        "defineEn": "near, toward, facing, in, or from the east",
+        "defineVi": "gần, về phía, đối mặt, trong hoặc từ phía đông",
+        "hasImg": true
+    },
+    {
+        "id": "27926c12-f126-4318-9ce4-83db564f8c46",
+        "word": "west",
+        "phonetic": "wɛst ",
+        "type": "noun",
+        "defineEn": "the direction towards which the sun goes down, which is on the left side of a person facing north",
+        "defineVi": "hướng mặt trời lặn, nằm ở phía bên trái của một người hướng về phía bắc",
+        "hasImg": true
+    },
+    {
+        "id": "12eac84b-5729-46b3-acce-bec4e290059f",
+        "word": "small",
+        "phonetic": "smɔːl ",
+        "type": "adjective",
+        "defineEn": "little or below average in size, amount, degree, etc.",
+        "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "28166e92-5503-4d18-ac29-317b7d1cebc8",
+        "word": "medium-sized",
+        "phonetic": "miːdiəmsaɪzd ",
+        "type": "adjective",
+        "defineEn": "having a size that is not small or big",
+        "defineVi": "có kích thước không nhỏ không lớn",
+        "hasImg": true
+    },
+    {
+        "id": "8a58825e-3de1-4059-bab6-6a9772faec3e",
+        "word": "large",
+        "phonetic": "lɑːɹdʒ ",
+        "type": "adjective",
+        "defineEn": "big or above average in amount or size",
+        "defineVi": "lớn hoặc trên trung bình về số lượng hoặc kích thước",
+        "hasImg": true
+    },
+    {
+        "id": "917cb8ef-0a73-400c-9a73-2f47cee71c7b",
+        "word": "boring",
+        "phonetic": "boːɹɪŋ ",
+        "type": "adjective",
+        "defineEn": "making us feel tired and unsatisfied because of not being interesting",
+        "defineVi": "khiến chúng ta cảm thấy mệt mỏi và không hài lòng vì không thú vị",
+        "hasImg": true
+    },
+    {
+        "id": "74686a7c-c91e-4b31-b3c7-ef775a44a931",
+        "word": "crowded",
+        "phonetic": "kɹaʊdᵻd ",
+        "type": "adjective",
+        "defineEn": "(of a space) filled with things or people",
+        "defineVi": "(của một không gian) chứa đầy đồ vật hoặc con người",
+        "hasImg": true
+    },
+    {
+        "id": "a62bfa6a-3eb9-4032-adf6-151afeacd72f",
+        "word": "dangerous",
+        "phonetic": "deɪndʒɚɹəs ",
+        "type": "adjective",
+        "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+        "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+        "hasImg": true
+    },
+    {
+        "id": "230537c8-9196-48d0-a1ff-4679806e45e4",
+        "word": "modern",
+        "phonetic": "mɑːdɚn ",
+        "type": "adjective",
+        "defineEn": "related to the most recent time or to the present time",
+        "defineVi": "liên quan đến thời gian gần đây nhất hoặc đến thời điểm hiện tại",
+        "hasImg": true
+    },
+    {
+        "id": "cf0e1e82-4acc-4e7c-97b2-3996f0e0382d",
+        "word": "noisy",
+        "phonetic": "nɔɪzi ",
+        "type": "adjective",
+        "defineEn": "making or having of a lot of unwanted sounds",
+        "defineVi": "tạo ra hoặc có nhiều âm thanh không mong muốn",
+        "hasImg": true
+    },
+    {
+        "id": "441f5ddb-0224-421b-99b0-b84a2003304a",
+        "word": "polluted",
+        "phonetic": "pəluːɾᵻd ",
+        "type": "adjective",
+        "defineEn": "containing harmful or dirty substances",
+        "defineVi": "chứa các chất độc hại hoặc bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "0a9ad077-d907-4cbf-9b16-da61e25dc76f",
+        "word": "clean",
+        "phonetic": "kliːn ",
+        "type": "adjective",
+        "defineEn": "not having any stains, bacteria, marks, or dirt",
+        "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "7ac7f939-df07-4d2e-87c6-4a44eac76f21",
+        "word": "empty",
+        "phonetic": "ɛmpti ",
+        "type": "adjective",
+        "defineEn": "with no one or nothing inside",
+        "defineVi": "không có ai hoặc không có gì bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "7b95d347-7dd0-4ec9-8cc5-27bcfc7a3163",
+        "word": "exciting",
+        "phonetic": "ɛksaɪɾɪŋ ",
+        "type": "adjective",
+        "defineEn": "making us feel interested, happy, and energetic",
+        "defineVi": "khiến chúng ta cảm thấy thích thú, hạnh phúc và tràn đầy năng lượng",
+        "hasImg": true
+    },
+    {
+        "id": "c7543785-c43d-4b75-a367-86f2f728f14c",
+        "word": "historic",
+        "phonetic": "hɪstɔːɹɪk ",
+        "type": "adjective",
+        "defineEn": "having great importance or effect in history",
+        "defineVi": "có tầm quan trọng lớn hoặc ảnh hưởng trong lịch sử"
+    },
+    {
+        "id": "7cbf1a82-c1bb-44eb-8c83-148826c3b24d",
+        "word": "interesting",
+        "phonetic": "ɪntɹɛstɪŋ ",
+        "type": "adjective",
+        "defineEn": "catching and keeping our attention because of being unusual, exciting, etc.",
+        "defineVi": "thu hút và giữ sự chú ý của chúng tôi vì khác thường, thú vị, v.v."
+    },
+    {
+        "id": "6053704f-af5c-404e-ad62-9ff4d356f408",
+        "word": "quiet",
+        "phonetic": "kwaɪət ",
+        "type": "adjective",
+        "defineEn": "making very little noise or no noise at all",
+        "defineVi": "tạo ra rất ít tiếng ồn hoặc không có tiếng ồn nào cả",
+        "hasImg": true
+    },
+    {
+        "id": "74dabcc7-b723-4c23-8dfd-1b9ca8d74ac0",
+        "word": "safe",
+        "phonetic": "seɪf ",
+        "type": "adjective",
+        "defineEn": "being without danger or harm",
+        "defineVi": "không có nguy hiểm hoặc tổn hại",
+        "hasImg": true
+    },
+    {
+        "id": "7d578d7d-000e-4519-afa0-657d0cdce422",
+        "word": "bridge",
+        "phonetic": "bɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "a structure built over a river, road, etc. that enables people or vehicles to go across one side to the other",
+        "defineVi": "một cấu trúc được xây dựng trên sông, đường, v.v. cho phép người hoặc phương tiện đi qua bên này sang bên kia",
+        "hasImg": true
+    },
+    {
+        "id": "39c7cd58-1b27-4b21-ab3b-a05ef33d364d",
+        "word": "canal",
+        "phonetic": "kənæl ",
+        "type": "noun",
+        "defineEn": "a long and artificial passage built and filled with water for ships to travel along or used to transfer water to other places",
+        "defineVi": "một lối đi dài và nhân tạo được xây dựng và chứa đầy nước để tàu thuyền đi lại hoặc dùng để chuyển nước đến những nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "853aa2c1-7727-45cc-b792-3383c264f682",
+        "word": "wall",
+        "phonetic": "wɔːl ",
+        "type": "noun",
+        "defineEn": "an upright structure, usually made of brick, concrete, or stone that is made to divide, protect, or surround a place",
+        "defineVi": "một cấu trúc thẳng đứng, thường được làm bằng gạch, bê tông hoặc đá được tạo ra để phân chia, bảo vệ hoặc bao quanh một nơi",
+        "hasImg": true
+    },
+    {
+        "id": "0fdb102c-25dc-453b-b5d9-439d6af3b5f1",
+        "word": "department store",
+        "phonetic": "dᵻpɑːɹtmənt stoːɹ ",
+        "type": "noun",
+        "defineEn": "a large store, divided into several parts, each selling different types of goods",
+        "defineVi": "một cửa hàng lớn, được chia thành nhiều phần, mỗi phần bán các loại hàng hóa khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "aaa31dbb-fa46-432e-a8d4-b8f170e38914",
+        "word": "harbor",
+        "phonetic": "hɑːɹbɚ ",
+        "type": "noun",
+        "defineEn": "an area of water close to the land where it has been made safe by strong walls for ships to take shelter",
+        "defineVi": "một vùng nước gần đất liền nơi nó đã được làm cho an toàn bởi những bức tường vững chắc để tàu trú ẩn",
+        "hasImg": true
+    },
+    {
+        "id": "fd8a3a90-6e8f-4535-89c7-f4ae6921f3b8",
+        "word": "hill",
+        "phonetic": "hɪl ",
+        "type": "noun",
+        "defineEn": "a naturally raised area of land that is higher than the land around it, but smaller than a mountain",
+        "defineVi": "một vùng đất được nâng lên tự nhiên cao hơn vùng đất xung quanh nó, nhưng nhỏ hơn một ngọn núi",
+        "hasImg": true
+    },
+    {
+        "id": "a4db6ed1-cf03-46fa-9235-9ab36cc77668",
+        "word": "lake",
+        "phonetic": "leɪk ",
+        "type": "noun",
+        "defineEn": "a large area of water, surrounded by land",
+        "defineVi": "một khu vực rộng lớn của nước, bao quanh bởi đất",
+        "hasImg": true
+    },
+    {
+        "id": "cbd6df45-8cce-4017-a224-9bd8575a400f",
+        "word": "market",
+        "phonetic": "mɑːɹkɪt ",
+        "type": "noun",
+        "defineEn": "a public place where people buy and sell groceries",
+        "defineVi": "một nơi công cộng nơi mọi người mua và bán hàng tạp hóa",
+        "hasImg": true
+    },
+    {
+        "id": "4478c2ce-e00c-420f-bee5-7ea2cd471747",
+        "word": "mosque",
+        "phonetic": "mɑːsk ",
+        "type": "noun",
+        "defineEn": "a place of worship, used by Muslims",
+        "defineVi": "một nơi thờ phượng, được sử dụng bởi người Hồi giáo",
+        "hasImg": true
+    },
+    {
+        "id": "9c10b27d-2616-4ef9-b59f-6cdf22f98b87",
+        "word": "museum",
+        "phonetic": "mjuːziəm ",
+        "type": "noun",
+        "defineEn": "a place where important cultural, artistic, historical, or scientific objects are kept and shown to the public",
+        "defineVi": "nơi lưu giữ và trưng bày các vật thể văn hóa, nghệ thuật, lịch sử hoặc khoa học quan trọng cho công chúng",
+        "hasImg": true
+    },
+    {
+        "id": "cfcdc742-7458-4033-9020-5e1551788ed7",
+        "word": "palace",
+        "phonetic": "pælɪs ",
+        "type": "noun",
+        "defineEn": "a large and impressively designed house that is often the official house of a powerful individual such as a president or king",
+        "defineVi": "một ngôi nhà lớn và được thiết kế ấn tượng, thường là nhà chính thức của một cá nhân quyền lực như tổng thống hoặc vua",
+        "hasImg": true
+    },
+    {
+        "id": "83b8bfd5-e634-4669-ab12-ff0481e36684",
+        "word": "ruin",
+        "phonetic": "ɹuːɪn ",
+        "type": "noun",
+        "defineEn": "the remains of a building after it has been seriously damaged or destroyed",
+        "defineVi": "phần còn lại của một tòa nhà sau khi nó đã bị hư hại nghiêm trọng hoặc bị phá hủy",
+        "hasImg": true
+    },
+    {
+        "id": "53645675-8310-4c22-9772-99f0ba3a515d",
+        "word": "shopping centre",
+        "phonetic": "ʃɑːpɪŋ sɛntɚ ",
+        "type": "noun",
+        "defineEn": "a group of shops, restaurants, etc. built together in one area or large building",
+        "defineVi": "một nhóm các cửa hàng, nhà hàng, vv được xây dựng cùng nhau trong một khu vực hoặc tòa nhà lớn",
+        "hasImg": true
+    },
+    {
+        "id": "7b723fe5-b1fa-4b24-84a3-1bb426de0ca6",
+        "word": "shopping mall",
+        "phonetic": "ʃɑːpɪŋ mɔːl ",
+        "type": "noun",
+        "defineEn": "‌a large building or enclosed area that consists of a group of shops",
+        "defineVi": "‌một tòa nhà lớn hoặc khu vực khép kín bao gồm một nhóm cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "770e1352-35e6-4281-92a2-f32149e494bc",
+        "word": "statue",
+        "phonetic": "stætʃuː ",
+        "type": "noun",
+        "defineEn": "a large object made of a hard material such as stone in order to look like a person or animal",
+        "defineVi": "một vật thể lớn làm bằng vật liệu cứng như đá để trông giống người hoặc động vật",
+        "hasImg": true
+    },
+    {
+        "id": "81c795b0-cd1d-477f-86ef-5784fe6fa015",
+        "word": "synagogue",
+        "phonetic": "sɪnɐɡɑːɡ ",
+        "type": "noun",
+        "defineEn": "a place of worship and religious study for Jews",
+        "defineVi": "một nơi thờ phượng và nghiên cứu tôn giáo cho người Do Thái",
+        "hasImg": true
+    },
+    {
+        "id": "1818938c-4bad-4dc9-9c5c-e11c8ecb7f69",
+        "word": "temple",
+        "phonetic": "tɛmpəl ",
+        "type": "noun",
+        "defineEn": "a building used for worshiping one or several gods, used by some religious communities, especially Buddhists and Hindus",
+        "defineVi": "một tòa nhà được sử dụng để thờ cúng một hoặc một số vị thần, được sử dụng bởi một số cộng đồng tôn giáo, đặc biệt là Phật giáo và Ấn Độ giáo",
+        "hasImg": true
+    },
+    {
+        "id": "40248055-fd47-4b17-9abe-a2c9ba54544c",
+        "word": "town hall",
+        "phonetic": "taʊn hɔːl ",
+        "type": "noun",
+        "defineEn": "a building in which the officials of a town work",
+        "defineVi": "một tòa nhà trong đó các quan chức của một thị trấn làm việc",
+        "hasImg": true
+    },
+    {
+        "id": "cb6c40de-8a63-4971-b790-9940abbba972",
+        "word": "religious",
+        "phonetic": "ɹᵻlɪdʒəs ",
+        "type": "adjective",
+        "defineEn": "related to a religion",
+        "defineVi": "liên quan đến một tôn giáo",
+        "hasImg": true
+    },
+    {
+        "id": "85b2ac1e-184e-42d4-8db8-f466c50bec0b",
+        "word": "building",
+        "phonetic": "bɪldɪŋ ",
+        "type": "noun",
+        "defineEn": "a structure that has walls, a roof, and sometimes many levels, like an apartment, house, school, etc.",
+        "defineVi": "một cấu trúc có tường, mái nhà và đôi khi có nhiều tầng, như căn hộ, nhà ở, trường học, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "d91fce4c-0c68-463e-947e-e49bed234855",
+        "word": "monument",
+        "phonetic": "mɑːnjuːmənt ",
+        "type": "noun",
+        "defineEn": "a structure built in honor of a public figure or a special event",
+        "defineVi": "một cấu trúc được xây dựng để vinh danh một nhân vật của công chúng hoặc một sự kiện đặc biệt"
+    }
+]

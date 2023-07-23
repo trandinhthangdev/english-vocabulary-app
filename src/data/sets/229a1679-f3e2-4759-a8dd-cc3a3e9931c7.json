@@ -1,0 +1,406 @@
+[
+    {
+        "id": "6bc0e98d-f404-4de9-b6a1-36bafe7b26d3",
+        "word": "to suggest",
+        "phonetic": "tə sədʒɛst ",
+        "type": "verb",
+        "defineEn": "to mention or put forward an idea, proposition, plan, etc. for further consideration or possible action",
+        "defineVi": "để đề cập hoặc đưa ra một ý tưởng, đề xuất, kế hoạch, vv để xem xét thêm hoặc hành động có thể",
+        "hasImg": true
+    },
+    {
+        "id": "5f7fba40-f713-4152-82bf-abebdb3f349e",
+        "word": "suggestion",
+        "phonetic": "sədʒɛstʃən ",
+        "type": "noun",
+        "defineEn": "the act of putting an idea or plan forward for someone to think about or consider",
+        "defineVi": "hành động đưa ra một ý tưởng hoặc kế hoạch để ai đó suy nghĩ hoặc xem xét",
+        "hasImg": true
+    },
+    {
+        "id": "83dbbd8d-f7f9-473d-a1c6-8225d600eebc",
+        "word": "to swing",
+        "phonetic": "tə swɪŋ ",
+        "type": "verb",
+        "defineEn": "to shift or cause to shift from one opinion, mood, etc. to another",
+        "defineVi": "để thay đổi hoặc gây ra để thay đổi từ một ý kiến, tâm trạng, vv khác"
+    },
+    {
+        "id": "79c2a368-6ed5-4ada-b055-a21dba85539d",
+        "word": "swing",
+        "phonetic": "swɪŋ ",
+        "type": "noun",
+        "defineEn": "a noticeable change from one opinion to another",
+        "defineVi": "một sự thay đổi đáng chú ý từ ý kiến này sang ý kiến khác"
+    },
+    {
+        "id": "52c919b2-57bb-42ee-b0e1-e4947be611fe",
+        "word": "syndrome",
+        "phonetic": "sɪndɹoʊm ",
+        "type": "noun",
+        "defineEn": "a set of characteristics, behaviors, or qualities considered as normal for a particular type of person",
+        "defineVi": "một tập hợp các đặc điểm, hành vi hoặc phẩm chất được coi là bình thường đối với một loại người cụ thể"
+    },
+    {
+        "id": "afb0dc60-a837-44fd-99c8-ad2348abc2b8",
+        "word": "to take",
+        "phonetic": "tə teɪk ",
+        "type": "verb",
+        "defineEn": "to have or show a particular feeling, opinion, or reaction",
+        "defineVi": "để có hoặc hiển thị một cảm giác, ý kiến, hoặc phản ứng cụ thể"
+    },
+    {
+        "id": "b6a41cb2-69b6-427d-9dfb-39fb081a7db8",
+        "word": "take",
+        "phonetic": "teɪk ",
+        "type": "noun",
+        "defineEn": "the idea or opinion that is formed about something or the way one thinks of a situation",
+        "defineVi": "ý tưởng hoặc quan điểm được hình thành về một cái gì đó hoặc cách một người nghĩ về một tình huống"
+    },
+    {
+        "id": "1b3cc7a7-eacb-4f90-96c6-aceee243bd26",
+        "word": "to take a dim view of sth",
+        "phonetic": "tə teɪk ɐ dɪm vjuː ʌv ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "to regard something or someone with disapproval, particularly because of one's negative opinions",
+        "defineVi": "để coi một cái gì đó hoặc ai đó với sự từ chối, đặc biệt là vì ý kiến tiêu cực của một người"
+    },
+    {
+        "id": "617da013-edf0-4b0c-a771-e3f9f24b4c0d",
+        "word": "to take sth into consideration",
+        "phonetic": "tə teɪk ɛstiːeɪtʃ ɪntʊ kənsɪdɚɹeɪʃən ",
+        "type": "phrase",
+        "defineEn": "to give thought to a certain fact before making a decision",
+        "defineVi": "để suy nghĩ về một thực tế nhất định trước khi đưa ra quyết định"
+    },
+    {
+        "id": "eb744bb9-0579-4582-8cef-4da3c7e906bb",
+        "word": "tendentious",
+        "phonetic": "tɛndɛnʃəs ",
+        "type": "adjective",
+        "defineEn": "stating a cause or opinion that one strongly believes in, particularly one that causes a lot of controversy",
+        "defineVi": "nêu một nguyên nhân hoặc ý kiến mà một người tin tưởng mạnh mẽ, đặc biệt là một nguyên nhân gây ra nhiều tranh cãi"
+    },
+    {
+        "id": "bdfc84d9-1fdf-4b92-a2d7-8340cbb249fb",
+        "word": "tendentiously",
+        "phonetic": "tɛndɛnʃəsli ",
+        "type": "adverb",
+        "defineEn": "in a way that promotes or expresses a controversial opinion, especially one that many people do not agree with",
+        "defineVi": "theo cách thúc đẩy hoặc thể hiện quan điểm gây tranh cãi, đặc biệt là quan điểm mà nhiều người không đồng ý"
+    },
+    {
+        "id": "d19b7926-a488-448d-ac31-b23e459f46b9",
+        "word": "tendentiousness",
+        "phonetic": "tɛndɛnʃəsnəs ",
+        "type": "noun",
+        "defineEn": "the act of strongly expressing or supporting a particular opinion, especially one that many people disagree with",
+        "defineVi": "hành động bày tỏ mạnh mẽ hoặc ủng hộ một ý kiến cụ thể, đặc biệt là ý kiến mà nhiều người không đồng ý"
+    },
+    {
+        "id": "846e527a-b8eb-4db6-8fbf-cb5ad7a9e4a9",
+        "word": "that said",
+        "phonetic": "ðæt sɛd ",
+        "type": "phrase",
+        "defineEn": "used to introduce statement that is in contrast to what one previously stated",
+        "defineVi": "được sử dụng để giới thiệu tuyên bố trái ngược với những gì đã nêu trước đó"
+    },
+    {
+        "id": "17afbea9-ca39-49a6-947b-86f6c9e667ac",
+        "word": "theory",
+        "phonetic": "θiəɹi ",
+        "type": "noun",
+        "defineEn": "an idea, opinion, or belief that one perceives to be true, although it remains to be proved",
+        "defineVi": "một ý tưởng, quan điểm hoặc niềm tin mà một người cho là đúng, mặc dù nó vẫn còn phải chứng minh"
+    },
+    {
+        "id": "c30e77f6-492b-424e-a001-b35602252b96",
+        "word": "there\\'s something to be said for",
+        "phonetic": "ðɛɹ bækslæʃ ɛs sʌmθɪŋ təbi sɛd fɔːɹ ",
+        "type": "phrase",
+        "defineEn": "used to highlight the advantages something has",
+        "defineVi": "được sử dụng để làm nổi bật những lợi thế một cái gì đó có"
+    },
+    {
+        "id": "ebfae592-f886-41c5-9552-2c6f59d1f3eb",
+        "word": "thesis",
+        "phonetic": "θiːsɪs ",
+        "type": "noun",
+        "defineEn": "a statement that is used as a premise in argumentation",
+        "defineVi": "một tuyên bố được sử dụng như một tiền đề trong lập luận"
+    },
+    {
+        "id": "4898a3d8-5040-4213-b7c2-25cf9c849a53",
+        "word": "to think",
+        "phonetic": "tə θɪŋk ",
+        "type": "verb",
+        "defineEn": "to have a type of belief, idea, or opinion about a person or thing",
+        "defineVi": "để có một loại niềm tin, ý tưởng, hoặc quan điểm về một người hoặc điều",
+        "hasImg": true
+    },
+    {
+        "id": "3d00b340-d1a4-4659-985a-6295c46e6c75",
+        "word": "to think for oneself",
+        "phonetic": "tə θɪŋk fɔːɹ wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to rely on no one in making decisions or forming opinions",
+        "defineVi": "không dựa vào ai trong việc đưa ra quyết định hoặc hình thành ý kiến"
+    },
+    {
+        "id": "f06ef5db-ae57-4d1f-9769-f1cbdca3ab0b",
+        "word": "thinking",
+        "phonetic": "θɪŋkɪŋ ",
+        "type": "noun",
+        "defineEn": "the set of opinions or ideas that one has about something",
+        "defineVi": "tập hợp các ý kiến hoặc ý tưởng mà một người có về một cái gì đó"
+    },
+    {
+        "id": "2152b9fb-a25c-401f-b1ea-932c6fe75ce5",
+        "word": "to think better / much / highly of sth",
+        "phonetic": "tə θɪŋk bɛɾɚ slæʃ mʌtʃ slæʃ haɪli ʌv ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "to decide against doing something upon reconsideration",
+        "defineVi": "để quyết định chống lại làm một cái gì đó sau khi xem xét lại"
+    },
+    {
+        "id": "20222975-41e5-42ee-8233-14397bc5b7a1",
+        "word": "to think the world of sb",
+        "phonetic": "tə θɪŋk ðə wɜːld ʌv ɛsbiː ",
+        "type": "phrase",
+        "defineEn": "to be extremely fond of someone or greatly admire them",
+        "defineVi": "cực kỳ thích ai đó hoặc rất ngưỡng mộ họ",
+        "hasImg": true
+    },
+    {
+        "id": "539eddce-559d-4162-9d42-9e32d012586a",
+        "word": "thoughtcrime",
+        "phonetic": "θɔːtkɹaɪm ",
+        "type": "noun",
+        "defineEn": "a controversial way of thinking that is considered socially unacceptable or criminal",
+        "defineVi": "một lối suy nghĩ gây tranh cãi được coi là không thể chấp nhận được về mặt xã hội hoặc hình sự"
+    },
+    {
+        "id": "8413d459-51e4-4c71-8422-627e7a29a102",
+        "word": "thought police",
+        "phonetic": "θɔːt pəliːs ",
+        "type": "noun",
+        "defineEn": "a group of individuals who aim to seize control of people’s beliefs or opinions",
+        "defineVi": "một nhóm các cá nhân nhằm giành quyền kiểm soát niềm tin hoặc ý kiến của mọi người"
+    },
+    {
+        "id": "68ba308b-3600-4068-814d-3c558ca0dfea",
+        "word": "tide",
+        "phonetic": "taɪd ",
+        "type": "noun",
+        "defineEn": "the way that the opinions of the majority of people are changing or developing",
+        "defineVi": "cách mà ý kiến của đa số mọi người đang thay đổi hoặc phát triển"
+    },
+    {
+        "id": "389b44d0-6ab0-4570-ab82-a7a33f81fe8e",
+        "word": "to my mind",
+        "phonetic": "tə maɪ maɪnd ",
+        "type": "phrase",
+        "defineEn": "in my opinion",
+        "defineVi": "Theo tôi"
+    },
+    {
+        "id": "f96c01cc-a781-489d-96c6-40115b1922d9",
+        "word": "to one\\'s way of thinking",
+        "phonetic": "tə wʌn bækslæʃ ɛs weɪ ʌv θɪŋkɪŋ ",
+        "type": "phrase",
+        "defineEn": "based on one’s opinion",
+        "defineVi": "dựa trên ý kiến của một người"
+    },
+    {
+        "id": "43d286d6-dee7-42d5-bcb3-582edbab435f",
+        "word": "turnaround",
+        "phonetic": "tɜːnɐɹaʊnd ",
+        "type": "noun",
+        "defineEn": "a complete or unexpected change in someone's attitude, opinion, or behavior",
+        "defineVi": "một sự thay đổi hoàn toàn hoặc bất ngờ trong thái độ, quan điểm hoặc hành vi của ai đó"
+    },
+    {
+        "id": "f272d91b-0023-4d71-b1e9-d1018eaff85c",
+        "word": "uncommunicative",
+        "phonetic": "ʌŋkəmjuːnɪkətɪv ",
+        "type": "adjective",
+        "defineEn": "not willing to talk to other people, give opinions, or impart information",
+        "defineVi": "không sẵn sàng nói chuyện với người khác, đưa ra ý kiến hoặc truyền đạt thông tin"
+    },
+    {
+        "id": "6b9de802-186b-4b88-82fd-be1f4e056f3e",
+        "word": "unequivocal",
+        "phonetic": "ʌnᵻkwɪvəkəl ",
+        "type": "adjective",
+        "defineEn": "expressing one's ideas and opinions so clearly that it leaves no room for doubt",
+        "defineVi": "thể hiện ý tưởng và quan điểm của một người rõ ràng đến mức không còn chỗ cho sự nghi ngờ"
+    },
+    {
+        "id": "54904c38-e00e-49e1-a71d-c02c4350f9e2",
+        "word": "to vacillate",
+        "phonetic": "tə væsɪleɪt ",
+        "type": "verb",
+        "defineEn": "to be undecided and not know what opinion, idea, or course of action to stick to",
+        "defineVi": "không quyết định và không biết ý kiến, ý tưởng hoặc quá trình hành động nào để tuân theo"
+    },
+    {
+        "id": "8e3b3c4f-078e-4329-b739-d081361ba30f",
+        "word": "vacillation",
+        "phonetic": "væsɪleɪʃən ",
+        "type": "noun",
+        "defineEn": "the act of switching between two opinions, especially in an annoying way",
+        "defineVi": "hành động chuyển đổi giữa hai ý kiến, đặc biệt là theo một cách khó chịu"
+    },
+    {
+        "id": "b0b5a65a-42da-493f-b92e-7344e83add5b",
+        "word": "value-free",
+        "phonetic": "væljuːfɹiː ",
+        "type": "adjective",
+        "defineEn": "not influenced by personal opinions or subjective views",
+        "defineVi": "không bị ảnh hưởng bởi ý kiến cá nhân hay quan điểm chủ quan"
+    },
+    {
+        "id": "5056851c-b9eb-4fd3-8b1a-8ab85ee14de9",
+        "word": "value-laden",
+        "phonetic": "væljuːleɪdən ",
+        "type": "adjective",
+        "defineEn": "influenced by subjective views or opinions",
+        "defineVi": "bị ảnh hưởng bởi quan điểm hoặc ý kiến chủ quan"
+    },
+    {
+        "id": "8f80ab5e-d239-41f1-95c5-d50de22c918f",
+        "word": "to ventilate",
+        "phonetic": "tə vɛntᵻleɪt ",
+        "type": "verb",
+        "defineEn": "to publicly express one's opinions, feelings, or complaints",
+        "defineVi": "bày tỏ công khai ý kiến, cảm xúc hoặc khiếu nại của mình"
+    },
+    {
+        "id": "a00e0f02-70e7-4bae-a825-1ab4346966d2",
+        "word": "verdict",
+        "phonetic": "vɜːdɪkt ",
+        "type": "noun",
+        "defineEn": "an opinion given or a decision made after much consideration",
+        "defineVi": "một ý kiến đưa ra hoặc một quyết định thực hiện sau khi xem xét nhiều"
+    },
+    {
+        "id": "669363d2-3f51-40c6-b511-ba421c003a2a",
+        "word": "view",
+        "phonetic": "vjuː ",
+        "type": "noun",
+        "defineEn": "a personal belief or judgment that is not based on proof or certainty",
+        "defineVi": "một niềm tin hoặc đánh giá cá nhân không dựa trên bằng chứng hoặc sự chắc chắn"
+    },
+    {
+        "id": "54450d19-8a48-4b88-9d2b-662904cea58e",
+        "word": "virtue signaling",
+        "phonetic": "vɜːtʃuː sɪɡnəlɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of making a positive impression on others by conveying one's social or political opinions publicly",
+        "defineVi": "hành động tạo ấn tượng tích cực với người khác bằng cách truyền đạt ý kiến chính trị hoặc xã hội của một người một cách công khai"
+    },
+    {
+        "id": "cba02236-e8da-464a-aa25-4c9a49fa5751",
+        "word": "vocal",
+        "phonetic": "voʊkəl ",
+        "type": "adjective",
+        "defineEn": "giving opinions loudly or freely",
+        "defineVi": "đưa ra ý kiến lớn tiếng hoặc tự do"
+    },
+    {
+        "id": "935ba356-9819-40c5-a794-6018050efa21",
+        "word": "vociferous",
+        "phonetic": "voʊsɪfɚɹəs ",
+        "type": "adjective",
+        "defineEn": "confidently expressing one's opinion in a loud and firm voice",
+        "defineVi": "tự tin thể hiện ý kiến của mình bằng giọng nói to và chắc chắn"
+    },
+    {
+        "id": "80c574ff-198d-4c71-ad80-9fd02d76d1ec",
+        "word": "voice",
+        "phonetic": "vɔɪs ",
+        "type": "noun",
+        "defineEn": "the right to give an opinion on something",
+        "defineVi": "quyền đưa ra ý kiến về một cái gì đó"
+    },
+    {
+        "id": "291aac41-91e7-4e6c-afec-57a1db15fe95",
+        "word": "to voice",
+        "phonetic": "tə vɔɪs ",
+        "type": "verb",
+        "defineEn": "to express something, especially a feeling or opinion in the form of words",
+        "defineVi": "để thể hiện một cái gì đó, đặc biệt là một cảm giác hoặc ý kiến trong các hình thức từ"
+    },
+    {
+        "id": "63f1aaaa-fe82-49a2-9c21-63f64eb67d9b",
+        "word": "volte-face",
+        "phonetic": "voʊltfeɪs ",
+        "type": "noun",
+        "defineEn": "a complete and abrupt change of opinion or plan of action",
+        "defineVi": "một sự thay đổi hoàn toàn và đột ngột về quan điểm hoặc kế hoạch hành động"
+    },
+    {
+        "id": "5438d7ca-f202-448e-87bd-c4d8c32d7a2e",
+        "word": "to weigh in",
+        "phonetic": "tə weɪ ɪn ",
+        "type": "verb",
+        "defineEn": "to get involved in an argument, discussion, or activity and share one's opinions",
+        "defineVi": "để tham gia vào một cuộc tranh luận, thảo luận, hoặc hoạt động và chia sẻ ý kiến của một người"
+    },
+    {
+        "id": "8ee34262-7fbf-476f-9bac-d7a1ea66e81a",
+        "word": "to weigh up",
+        "phonetic": "tə weɪ ʌp ",
+        "type": "verb",
+        "defineEn": "to carefully watch someone in order to make a judgment call about their character, abilities, etc.",
+        "defineVi": "cẩn thận theo dõi ai đó để đưa ra phán quyết về tính cách, khả năng của họ, v.v."
+    },
+    {
+        "id": "bf2de62a-b0f8-42ad-859c-1fb218bbe3ae",
+        "word": "welcome",
+        "phonetic": "wɛlkʌm ",
+        "type": "noun",
+        "defineEn": "the way that an idea, opinion, or a point of view is received or approved by people",
+        "defineVi": "cách mà một ý tưởng, ý kiến, hoặc một quan điểm được tiếp nhận hoặc chấp thuận của mọi người"
+    },
+    {
+        "id": "5518cffe-b6e1-495f-8903-85307f61fda2",
+        "word": "would",
+        "phonetic": "wʊd ",
+        "type": "verb",
+        "defineEn": "used to express an opinion about which one is not certain",
+        "defineVi": "được sử dụng để bày tỏ ý kiến về cái gì không chắc chắn"
+    },
+    {
+        "id": "bd9acbb4-679f-4ea2-8037-49e536e02c86",
+        "word": "to write in",
+        "phonetic": "tə ɹaɪt ɪn ",
+        "type": "verb",
+        "defineEn": "to write to an organization or a broadcasting company in order to express one's opinions or to ask for information",
+        "defineVi": "viết thư cho một tổ chức hoặc một công ty phát sóng để bày tỏ ý kiến của một người hoặc để hỏi thông tin"
+    },
+    {
+        "id": "9dfd9502-2944-41a7-9d23-0338a21e463b",
+        "word": "you know what?",
+        "phonetic": "juː noʊ wʌt ",
+        "type": "phrase",
+        "defineEn": "used to introduce something exciting or surprising",
+        "defineVi": "được sử dụng để giới thiệu một cái gì đó thú vị hoặc đáng ngạc nhiên"
+    },
+    {
+        "id": "9b0b8b32-fd56-4f5c-95b9-bcfd3ce459e3",
+        "word": "chickenshit",
+        "phonetic": "tʃɪkɪnʃɪt ",
+        "type": "noun",
+        "defineEn": "statements, ideas, or opinions that seem very foolish or untrue",
+        "defineVi": "tuyên bố, ý tưởng hoặc quan điểm có vẻ rất ngu ngốc hoặc không đúng sự thật"
+    },
+    {
+        "id": "21b336dc-e469-44c4-906d-2d3bcf623010",
+        "word": "horseshit",
+        "phonetic": "hɔːɹsʃɪt ",
+        "type": "noun",
+        "defineEn": "a statement, idea, or act that is obviously untrue, foolish, or unreasonable",
+        "defineVi": "một tuyên bố, ý tưởng hoặc hành động rõ ràng là không đúng sự thật, ngu ngốc hoặc không hợp lý"
+    }
+]

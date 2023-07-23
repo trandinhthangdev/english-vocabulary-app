@@ -1,0 +1,263 @@
+[
+    {
+        "id": "6fe59bf8-254b-4f5a-8706-02c5671c0c4e",
+        "word": "beverage",
+        "phonetic": "bɛvɚɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "a drink that is not water",
+        "defineVi": "một thức uống không phải là nước",
+        "hasImg": true
+    },
+    {
+        "id": "037b254d-3849-4b57-9ce9-99602ec76070",
+        "word": "soft drink",
+        "phonetic": "sɔft dɹɪŋk ",
+        "type": "noun",
+        "defineEn": "a cold and non-alcoholic drink that is usually carbonated",
+        "defineVi": "một thức uống lạnh và không cồn thường có ga",
+        "hasImg": true
+    },
+    {
+        "id": "64ea7c76-ad50-4b13-8d8a-de821bd02e86",
+        "word": "nonalcoholic",
+        "phonetic": "nɑːnælkəhɑːlɪk ",
+        "type": "adjective",
+        "defineEn": "(of drinks) without any alcohol",
+        "defineVi": "(đồ uống) không có rượu",
+        "hasImg": true
+    },
+    {
+        "id": "ed2bd7dc-40e0-4027-8756-057ccd55760e",
+        "word": "soda",
+        "phonetic": "soʊdə ",
+        "type": "noun",
+        "defineEn": "a sweet fizzy drink that is not alcoholic",
+        "defineVi": "một thức uống có ga ngọt không cồn",
+        "hasImg": true
+    },
+    {
+        "id": "eeb38fc3-fd2a-42e6-a0aa-0aedcf392ba0",
+        "word": "Coca-Cola",
+        "phonetic": "koʊkəkoʊlə ",
+        "type": "noun",
+        "defineEn": "the brand of a sweet and brown drink that has bubbles in it",
+        "defineVi": "nhãn hiệu đồ uống ngọt và nâu có bong bóng trong đó",
+        "hasImg": true
+    },
+    {
+        "id": "e41691a2-e307-403e-9832-730cc6e1f0cc",
+        "word": "mineral water",
+        "phonetic": "mɪnɚɹəl wɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "water from underground that contains minerals and gasses, usually bottled and sold",
+        "defineVi": "nước từ dưới lòng đất có chứa khoáng chất và khí, thường được đóng chai và bán",
+        "hasImg": true
+    },
+    {
+        "id": "09fbe1ad-8628-4a02-a4f5-d18f98d14c73",
+        "word": "milkshake",
+        "phonetic": "mɪlkʃeɪk ",
+        "type": "noun",
+        "defineEn": "a cold smooth drink made by mixing milk and ice-cream with fruits, chocolate, etc. as flavor",
+        "defineVi": "một thức uống mịn lạnh được làm bằng cách trộn sữa và kem với trái cây, sô cô la, v.v. làm hương vị",
+        "hasImg": true
+    },
+    {
+        "id": "c9a48d0f-d51b-431a-abcd-04c089ed9178",
+        "word": "smoothie",
+        "phonetic": "smuːði ",
+        "type": "noun",
+        "defineEn": "a thick smooth drink made with crushed fruit, ice cream, yogurt, or milk",
+        "defineVi": "một thức uống mịn dày được làm bằng trái cây nghiền, kem, sữa chua hoặc sữa",
+        "hasImg": true
+    },
+    {
+        "id": "ffaa8fef-f008-4e85-8c3a-e946bd6b6e01",
+        "word": "lemonade",
+        "phonetic": "lɛməneɪd ",
+        "type": "noun",
+        "defineEn": "a drink made with water, sugar, and lemon juice",
+        "defineVi": "một thức uống làm bằng nước, đường và nước cốt chanh",
+        "hasImg": true
+    },
+    {
+        "id": "00a7ad06-dc99-472e-8202-0a5509ae23c4",
+        "word": "espresso",
+        "phonetic": "ɛspɹɛsoʊ ",
+        "type": "noun",
+        "defineEn": "a kind of strong black drink made by forcing hot water or steam through coffee",
+        "defineVi": "một loại đồ uống đen mạnh được làm bằng cách ép nước nóng hoặc hơi nước qua cà phê",
+        "hasImg": true
+    },
+    {
+        "id": "95a0bcd5-be52-4417-97fb-64d28c58a57d",
+        "word": "latte",
+        "phonetic": "lɑːteɪ ",
+        "type": "noun",
+        "defineEn": "a drink made from espresso with steamed milk on top",
+        "defineVi": "một thức uống làm từ cà phê espresso với sữa hấp trên đầu",
+        "hasImg": true
+    },
+    {
+        "id": "226ec39a-e4ea-4ac0-8953-1e42e19ce16e",
+        "word": "cocoa",
+        "phonetic": "koʊkoʊ ",
+        "type": "noun",
+        "defineEn": "a hot or cold beverage made from cocoa powder, milk or water, and sweetener (such as sugar)",
+        "defineVi": "đồ uống nóng hoặc lạnh làm từ bột ca cao, sữa hoặc nước và chất làm ngọt (chẳng hạn như đường)",
+        "hasImg": true
+    },
+    {
+        "id": "f0734470-b8e3-43bc-a3ad-0d01c24ff683",
+        "word": "mocha",
+        "phonetic": "moʊkə ",
+        "type": "noun",
+        "defineEn": "a type of high-quality coffee",
+        "defineVi": "một loại cà phê chất lượng cao",
+        "hasImg": true
+    },
+    {
+        "id": "3b1ef8a1-154e-4dfb-8fc6-6f6f3eb41da8",
+        "word": "energy drink",
+        "phonetic": "ɛnɚdʒi dɹɪŋk ",
+        "type": "noun",
+        "defineEn": "a drink containing a lot of sugar, caffeine, or other substances that makes one more active",
+        "defineVi": "đồ uống chứa nhiều đường, caffein hoặc các chất khác khiến người ta năng động hơn",
+        "hasImg": true
+    },
+    {
+        "id": "2fc54f8a-aea0-465c-a0dc-d40771f37452",
+        "word": "alcoholic",
+        "phonetic": "ælkəhɑːlɪk ",
+        "type": "adjective",
+        "defineEn": "(of drinks) containing alcohol",
+        "defineVi": "(của đồ uống) có chứa cồn",
+        "hasImg": true
+    },
+    {
+        "id": "844b30cf-005a-47f9-af7f-fe5d92b75d90",
+        "word": "alcohol",
+        "phonetic": "ælkəhɑːl ",
+        "type": "noun",
+        "defineEn": "any drink that can make people drunk, such as wine, beer, etc.",
+        "defineVi": "bất kỳ đồ uống nào có thể làm cho người ta say, chẳng hạn như rượu, bia, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "001000e0-812c-4bd4-a0d6-f477f6fbbdb4",
+        "word": "drink",
+        "phonetic": "dɹɪŋk ",
+        "type": "noun",
+        "defineEn": "alcohol or an alcoholic drink",
+        "defineVi": "rượu hoặc đồ uống có cồn",
+        "hasImg": true
+    },
+    {
+        "id": "68f21b0f-9331-46d8-a932-66a79b097772",
+        "word": "to drink",
+        "phonetic": "tə dɹɪŋk ",
+        "type": "verb",
+        "defineEn": "to consume alcohol as a habit or for pleasure",
+        "defineVi": "tiêu thụ rượu như một thói quen hoặc cho niềm vui",
+        "hasImg": true
+    },
+    {
+        "id": "0d77fd2a-db78-41c1-befc-4c1095305fda",
+        "word": "beer",
+        "phonetic": "bɪɹ ",
+        "type": "noun",
+        "defineEn": "a drink that is alcoholic and made from different types of grain",
+        "defineVi": "một thức uống có cồn và được làm từ các loại ngũ cốc khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "9d6b07ce-5ba2-4f23-a048-6abef91bdf29",
+        "word": "Champagne",
+        "phonetic": "ʃæmpeɪn ",
+        "type": "noun",
+        "defineEn": "a type of fizzy wine made originally in France, often drunk to celebrate an event",
+        "defineVi": "một loại rượu có ga được sản xuất ban đầu ở Pháp, thường được uống để kỷ niệm một sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "9a566e8d-3d7d-4ac7-ae94-780ac990a379",
+        "word": "wine",
+        "phonetic": "waɪn ",
+        "type": "noun",
+        "defineEn": "a drink that is alcoholic and mostly made from grape juice",
+        "defineVi": "một thức uống có cồn và chủ yếu được làm từ nước ép nho",
+        "hasImg": true
+    },
+    {
+        "id": "800e142d-bde3-475b-b6f9-7d326849bfa1",
+        "word": "whiskey",
+        "phonetic": "wɪski ",
+        "type": "noun",
+        "defineEn": "a strong alcoholic drink made from fermented grain mash",
+        "defineVi": "một thức uống có cồn mạnh làm từ ngũ cốc lên men",
+        "hasImg": true
+    },
+    {
+        "id": "3cadb97a-9679-469a-b5e7-e662d836f770",
+        "word": "vodka",
+        "phonetic": "vɑːdkə ",
+        "type": "noun",
+        "defineEn": "a strong, clear alcoholic drink made from grain or potatoes, originally from Russia",
+        "defineVi": "một thức uống có cồn mạnh, rõ ràng làm từ ngũ cốc hoặc khoai tây, có nguồn gốc từ Nga",
+        "hasImg": true
+    },
+    {
+        "id": "86d24c4e-f470-4adf-bc53-aeb3958a43cf",
+        "word": "tequila",
+        "phonetic": "təkiːlə ",
+        "type": "noun",
+        "defineEn": "a very strong alcoholic drink made in Mexico",
+        "defineVi": "một thức uống có cồn rất mạnh được sản xuất tại Mexico",
+        "hasImg": true
+    },
+    {
+        "id": "ba692532-58e2-47fa-bbb5-ec34e54a5910",
+        "word": "brandy",
+        "phonetic": "bɹændi ",
+        "type": "noun",
+        "defineEn": "a strong alcoholic drink made from wine or fruit juice",
+        "defineVi": "một thức uống có cồn mạnh làm từ rượu vang hoặc nước ép trái cây",
+        "hasImg": true
+    },
+    {
+        "id": "54cfbd60-c60f-4497-b9ac-358b1f6da4c4",
+        "word": "still",
+        "phonetic": "stɪl ",
+        "type": "adjective",
+        "defineEn": "(of a drink) not having bubbles in it",
+        "defineVi": "(của một thức uống) không có bong bóng trong đó",
+        "hasImg": true
+    },
+    {
+        "id": "442ff4c7-f452-4a58-8cfc-40dff14de033",
+        "word": "sparkling",
+        "phonetic": "spɑːɹklɪŋ ",
+        "type": "adjective",
+        "defineEn": "(of drinks or beverages) containing bubbles",
+        "defineVi": "(của đồ uống hoặc đồ uống) có bong bóng",
+        "hasImg": true
+    },
+    {
+        "id": "89e4026c-7895-45fe-9641-d3efd9ef4baf",
+        "word": "tonic",
+        "phonetic": "tɑːnɪk ",
+        "type": "noun",
+        "defineEn": "a type of fizzy water that can be mixed with other drinks such as gin or vodka",
+        "defineVi": "một loại nước có ga có thể được trộn với các loại đồ uống khác như rượu gin hoặc rượu vodka",
+        "hasImg": true
+    },
+    {
+        "id": "547d1d63-f939-4235-af2b-600ff1e224bc",
+        "word": "cocktail",
+        "phonetic": "kɑːkteɪl ",
+        "type": "noun",
+        "defineEn": "an alcoholic drink made by mixing several drinks together",
+        "defineVi": "một thức uống có cồn được làm bằng cách pha trộn nhiều loại đồ uống với nhau",
+        "hasImg": true
+    }
+]

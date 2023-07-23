@@ -1,0 +1,146 @@
+[
+    {
+        "id": "9ba01402-8f74-406a-92ea-25b4a4d2863c",
+        "word": "hello",
+        "phonetic": "həloʊ ",
+        "type": "interjection",
+        "defineEn": "a word we say when we see someone and want to greet them, or when we begin to talk on the phone",
+        "defineVi": "một từ chúng ta nói khi nhìn thấy ai đó và muốn chào họ, hoặc khi chúng ta bắt đầu nói chuyện điện thoại",
+        "hasImg": true
+    },
+    {
+        "id": "4d32ccea-3768-4382-aaa1-3df7d646d7ef",
+        "word": "goodbye",
+        "phonetic": "ɡʊdbaɪ ",
+        "type": "interjection",
+        "defineEn": "a word we say when we are leaving or someone is leaving, or at the end of a phone call",
+        "defineVi": "một từ chúng tôi nói khi chúng tôi rời đi hoặc ai đó đang rời đi, hoặc khi kết thúc cuộc gọi điện thoại",
+        "hasImg": true
+    },
+    {
+        "id": "66b44bbd-8176-476c-9af5-a38d4b563269",
+        "word": "hi",
+        "phonetic": "haɪ ",
+        "type": "interjection",
+        "defineEn": "we say when we see someone and want to greet them",
+        "defineVi": "chúng ta nói khi chúng ta thấy ai đó và muốn chào họ",
+        "hasImg": true
+    },
+    {
+        "id": "15a252b0-f8f6-4c86-8968-9c86157e505e",
+        "word": "bye",
+        "phonetic": "baɪ ",
+        "type": "interjection",
+        "defineEn": "a word we say when we are leaving someone or when they are leaving, or at the end of a phone call",
+        "defineVi": "một từ chúng tôi nói khi chúng tôi rời khỏi ai đó hoặc khi họ rời đi, hoặc khi kết thúc cuộc gọi điện thoại",
+        "hasImg": true
+    },
+    {
+        "id": "689ed99f-f0ab-4fc4-ba96-9c875d2bbf2b",
+        "word": "good morning",
+        "phonetic": "ɡʊd mɔːɹnɪŋ ",
+        "type": "interjection",
+        "defineEn": "something we say when we want to greet or say hello to someone in the morning",
+        "defineVi": "một cái gì đó chúng tôi nói khi chúng tôi muốn chào hỏi hoặc chào ai đó vào buổi sáng",
+        "hasImg": true
+    },
+    {
+        "id": "3b3fd6cd-a2ac-4640-a0a0-e67013becd64",
+        "word": "good afternoon",
+        "phonetic": "ɡʊd æftɚnuːn ",
+        "type": "interjection",
+        "defineEn": "something we say when we want to say hello or goodbye to a person in the afternoon",
+        "defineVi": "một cái gì đó chúng tôi nói khi chúng tôi muốn nói lời chào hoặc tạm biệt với một người vào buổi chiều",
+        "hasImg": true
+    },
+    {
+        "id": "e83bd2c4-0388-4c69-8219-6f1fe2e28430",
+        "word": "good evening",
+        "phonetic": "ɡʊd iːvnɪŋ ",
+        "type": "interjection",
+        "defineEn": "something we say when we want to say hello or goodbye to a person in the evening",
+        "defineVi": "một cái gì đó chúng tôi nói khi chúng tôi muốn nói xin chào hoặc tạm biệt với một người vào buổi tối",
+        "hasImg": true
+    },
+    {
+        "id": "bc46dd90-efd0-4213-894c-57b628330594",
+        "word": "good night",
+        "phonetic": "ɡʊd naɪt ",
+        "type": "interjection",
+        "defineEn": "something we say when we want to say goodbye to a person at night or before we go to bed",
+        "defineVi": "một cái gì đó chúng tôi nói khi chúng tôi muốn nói lời tạm biệt với một người vào ban đêm hoặc trước khi đi ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "a9e1f560-2df8-4a2b-bc59-8a96c5ef3752",
+        "word": "thank you",
+        "phonetic": "θæŋk juː ",
+        "type": "interjection",
+        "defineEn": "something we say to someone to show we are grateful to them for something that they have done for us or given us",
+        "defineVi": "một cái gì đó chúng tôi nói với ai đó để thể hiện rằng chúng tôi biết ơn họ vì điều gì đó mà họ đã làm cho chúng tôi hoặc cho chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "7a05af65-7864-4c21-958b-f2fa5630b0e3",
+        "word": "thanks",
+        "phonetic": "θæŋks ",
+        "type": "interjection",
+        "defineEn": "said when someone helps us or does something nice for us",
+        "defineVi": "nói khi ai đó giúp chúng tôi hoặc làm điều gì đó tốt đẹp cho chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "8cabcb2e-e21a-4f23-b3cf-e2d10c1f1d3f",
+        "word": "please",
+        "phonetic": "pliːz ",
+        "type": "adverb",
+        "defineEn": "used when we want to politely ask for something or politely tell a person to do something",
+        "defineVi": "được sử dụng khi chúng ta muốn lịch sự yêu cầu một cái gì đó hoặc lịch sự bảo một người làm điều gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "8ccb5613-6930-4d3a-bffb-5bdf90d09ec9",
+        "word": "OK",
+        "phonetic": "oʊkeɪ ",
+        "type": "interjection",
+        "defineEn": "said to show that we are agreeing to do something or we agree with something",
+        "defineVi": "nói để thể hiện rằng chúng tôi đang đồng ý làm điều gì đó hoặc chúng tôi đồng ý với điều gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "54e8b9a1-19ee-4ed1-92cb-094d1ec72c0e",
+        "word": "yes",
+        "phonetic": "jɛs ",
+        "type": "interjection",
+        "defineEn": "a word that shows we agree with something or think that it is true when answering a question",
+        "defineVi": "một từ cho thấy chúng tôi đồng ý với một cái gì đó hoặc nghĩ rằng đó là sự thật khi trả lời một câu hỏi",
+        "hasImg": true
+    },
+    {
+        "id": "3bae86bd-ab14-43c9-b7ba-4127df5e6893",
+        "word": "no",
+        "phonetic": "noʊ ",
+        "type": "interjection",
+        "defineEn": "used to give an answer to a question showing that we do not agree or it is not true",
+        "defineVi": "được sử dụng để đưa ra câu trả lời cho một câu hỏi cho thấy rằng chúng tôi không đồng ý hoặc nó không đúng",
+        "hasImg": true
+    },
+    {
+        "id": "718c164a-3de9-4557-8cb7-c709e8ed160e",
+        "word": "sorry",
+        "phonetic": "sɑːɹi ",
+        "type": "interjection",
+        "defineEn": "a word we say to apologize for something or to say we are embarrassed",
+        "defineVi": "một từ chúng tôi nói để xin lỗi cho một cái gì đó hoặc để nói rằng chúng tôi đang xấu hổ",
+        "hasImg": true
+    },
+    {
+        "id": "e029c125-5602-456f-8c32-2db29b385c22",
+        "word": "welcome",
+        "phonetic": "wɛlkʌm ",
+        "type": "interjection",
+        "defineEn": "a word that we use to greet someone when they arrive",
+        "defineVi": "một từ mà chúng ta sử dụng để chào đón ai đó khi họ đến",
+        "hasImg": true
+    }
+]

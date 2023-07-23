@@ -1,0 +1,397 @@
+[
+    {
+        "id": "5fb67ffe-93e6-4e63-904c-db2415fd4edf",
+        "word": "salmon",
+        "phonetic": "sæmən ",
+        "type": "noun",
+        "defineEn": "a silver-colored fish with pink flesh that people eat as food",
+        "defineVi": "một con cá màu bạc với thịt màu hồng mà mọi người ăn làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "ee9f04e2-0ac2-4360-b65a-f024479ea13c",
+        "word": "grain",
+        "phonetic": "ɡɹeɪn ",
+        "type": "noun",
+        "defineEn": "the small seeds of wheat, corn, rice, and other such crops",
+        "defineVi": "những hạt nhỏ của lúa mì, ngô, gạo và các loại cây trồng khác",
+        "hasImg": true
+    },
+    {
+        "id": "62843c2d-d604-45aa-8274-20205a9b9bb9",
+        "word": "pasta",
+        "phonetic": "pɑːstə ",
+        "type": "noun",
+        "defineEn": "an Italian food that is a mixture of flour, water, and at times eggs formed it into different shapes, typically eaten with a sauce when cooked",
+        "defineVi": "một món ăn của Ý là hỗn hợp của bột mì, nước và đôi khi là trứng tạo thành những hình dạng khác nhau, thường được ăn với nước sốt khi nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "104f4225-6982-4b99-9c3d-11ba6d914814",
+        "word": "rice",
+        "phonetic": "ɹaɪs ",
+        "type": "noun",
+        "defineEn": "a small and short grain that is white or brown and usually grown and eaten a lot in Asia",
+        "defineVi": "một loại hạt nhỏ và ngắn có màu trắng hoặc nâu và thường được trồng và ăn nhiều ở châu Á",
+        "hasImg": true
+    },
+    {
+        "id": "cb396e63-cb4a-4b82-b4e3-9200761e4368",
+        "word": "noodle",
+        "phonetic": "nuːdəl ",
+        "type": "noun",
+        "defineEn": "a type of thin, long food made with flour and egg, eaten in a soup or with sauce",
+        "defineVi": "một loại thức ăn dài, mỏng làm từ bột mì và trứng, ăn với súp hoặc với nước sốt",
+        "hasImg": true
+    },
+    {
+        "id": "bcc5b89c-97a2-4f60-bc3d-8321177bb699",
+        "word": "bread",
+        "phonetic": "bɹɛd ",
+        "type": "noun",
+        "defineEn": "a type of food made from flour, water and usually yeast mixed together and baked",
+        "defineVi": "một loại thực phẩm được làm từ bột mì, nước và thường là men trộn với nhau và nướng",
+        "hasImg": true
+    },
+    {
+        "id": "70c82d3f-0972-4e19-b59e-dda29f057717",
+        "word": "dairy product",
+        "phonetic": "dɛɹi pɹɑːdʌkt ",
+        "type": "noun",
+        "defineEn": "milk or foods that are made from milk, such as butter and cheese",
+        "defineVi": "sữa hoặc thực phẩm làm từ sữa, chẳng hạn như bơ và pho mát",
+        "hasImg": true
+    },
+    {
+        "id": "993175ea-14eb-4eac-bef4-47ad4608e453",
+        "word": "butter",
+        "phonetic": "bʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a soft, yellow food made from cream that we spread on bread or use in cooking",
+        "defineVi": "một loại thực phẩm mềm, màu vàng làm từ kem mà chúng ta phết lên bánh mì hoặc dùng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "70a4a9c6-f5e3-479d-bac0-a3161039119a",
+        "word": "cheese",
+        "phonetic": "tʃiːz ",
+        "type": "noun",
+        "defineEn": "a soft or hard food made from milk that is usually yellow or white in color",
+        "defineVi": "thức ăn mềm hoặc cứng làm từ sữa thường có màu vàng hoặc trắng",
+        "hasImg": true
+    },
+    {
+        "id": "e13bc692-5b99-46dd-bb54-078e50022158",
+        "word": "milk",
+        "phonetic": "mɪlk ",
+        "type": "noun",
+        "defineEn": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc.",
+        "defineVi": "chất lỏng màu trắng chúng ta lấy từ bò, cừu hoặc dê mà chúng ta uống và sử dụng để làm pho mát, bơ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4e46e731-084c-4ae9-b3df-d44a72a0ced3",
+        "word": "yogurt",
+        "phonetic": "joʊɡɚt ",
+        "type": "noun",
+        "defineEn": "a thick liquid food that is made from milk and is eaten cold",
+        "defineVi": "một thức ăn lỏng dày được làm từ sữa và được ăn lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "54208883-6a50-4e26-a7aa-01d29d5a51f9",
+        "word": "oil",
+        "phonetic": "ɔɪl ",
+        "type": "noun",
+        "defineEn": "a liquid that is smooth and thick, made from animals or plants, and used in cooking",
+        "defineVi": "một chất lỏng mịn và dày, được làm từ động vật hoặc thực vật và được sử dụng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "0101d2b3-00f1-42df-895a-e66757cb7063",
+        "word": "corn oil",
+        "phonetic": "kɔːɹn ɔɪl ",
+        "type": "noun",
+        "defineEn": "oil that is made from corn and usually used when cooking",
+        "defineVi": "dầu được làm từ ngô và thường được sử dụng khi nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "3c1911de-06bc-4e87-a79f-9b134aacc033",
+        "word": "olive oil",
+        "phonetic": "ɑːlɪv ɔɪl ",
+        "type": "noun",
+        "defineEn": "an oil that is pale yellow or green, made from olives, and often used in salads or for cooking",
+        "defineVi": "một loại dầu có màu vàng nhạt hoặc màu xanh lá cây, được làm từ ô liu và thường được sử dụng trong món salad hoặc để nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "5c933291-c1b4-41f6-b16a-695035693b1e",
+        "word": "coconut oil",
+        "phonetic": "koʊkənʌt ɔɪl ",
+        "type": "noun",
+        "defineEn": "an oil that is obtained from coconuts and is often used in food or beauty products",
+        "defineVi": "một loại dầu thu được từ dừa và thường được sử dụng trong thực phẩm hoặc các sản phẩm làm đẹp",
+        "hasImg": true
+    },
+    {
+        "id": "4380df24-ac0a-4831-9703-1452fa5171eb",
+        "word": "sweet",
+        "phonetic": "swiːt ",
+        "type": "adjective",
+        "defineEn": "containing sugar or having a taste that is like sugar",
+        "defineVi": "chứa đường hoặc có hương vị giống như đường",
+        "hasImg": true
+    },
+    {
+        "id": "78cb1159-63f7-4657-afb0-f8b781b6bbb2",
+        "word": "candy",
+        "phonetic": "kændi ",
+        "type": "noun",
+        "defineEn": "a type of sweet food that is made from sugar and sometimes chocolate",
+        "defineVi": "một loại thực phẩm ngọt được làm từ đường và đôi khi sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "efdff643-02ee-4ac6-b6bf-8e685a16db6e",
+        "word": "pie",
+        "phonetic": "paɪ ",
+        "type": "noun",
+        "defineEn": "a food that is made by baking fruits, vegetables, or meat inside one or multiple layers of pastry",
+        "defineVi": "một loại thực phẩm được làm bằng cách nướng trái cây, rau hoặc thịt bên trong một hoặc nhiều lớp bánh ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "c01897cb-8f36-4a26-954a-09ccf09de628",
+        "word": "cake",
+        "phonetic": "keɪk ",
+        "type": "noun",
+        "defineEn": "a sweet food that is made by mixing flour, butter or oil, sugar, eggs and other ingredients and then backing it in an oven",
+        "defineVi": "một món ăn ngọt được làm bằng cách trộn bột mì, bơ hoặc dầu, đường, trứng và các thành phần khác rồi cho vào lò nướng",
+        "hasImg": true
+    },
+    {
+        "id": "13fa1fff-75c6-49f7-bd48-576f71daee3f",
+        "word": "cookie",
+        "phonetic": "kʊki ",
+        "type": "noun",
+        "defineEn": "a dry, hard, and flat cake that is small in size and usually has a sweet taste",
+        "defineVi": "một chiếc bánh khô, cứng và phẳng, có kích thước nhỏ và thường có vị ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "32063647-46db-4256-b199-a2431d34a64f",
+        "word": "juice",
+        "phonetic": "dʒuːs ",
+        "type": "noun",
+        "defineEn": "the liquid that exists inside fruits and vegetables or the drink that we make from them",
+        "defineVi": "chất lỏng tồn tại bên trong trái cây và rau quả hoặc đồ uống mà chúng ta làm từ chúng",
+        "hasImg": true
+    },
+    {
+        "id": "b7ecc2ed-720b-4147-aa04-b5f006878746",
+        "word": "grilled",
+        "phonetic": "ɡɹɪld ",
+        "type": "adjective",
+        "defineEn": "cooked on a fire",
+        "defineVi": "nấu trên lửa",
+        "hasImg": true
+    },
+    {
+        "id": "5ad46490-0479-41f3-a7df-b0bf77dc6cfd",
+        "word": "fried",
+        "phonetic": "fɹaɪd ",
+        "type": "adjective",
+        "defineEn": "cooked in very hot oil",
+        "defineVi": "nấu trong dầu rất nóng",
+        "hasImg": true
+    },
+    {
+        "id": "ea80b36a-6a35-4b5c-b3af-73806121c79f",
+        "word": "soup",
+        "phonetic": "suːp ",
+        "type": "noun",
+        "defineEn": "liquid food cooked in water, typically containing small pieces of meat, fish, or vegetables",
+        "defineVi": "thức ăn lỏng được nấu trong nước, thường chứa những miếng thịt, cá hoặc rau nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "2dee5855-51f3-40c1-9df0-d08e14722c05",
+        "word": "category",
+        "phonetic": "kæɾɪɡɚɹi ",
+        "type": "noun",
+        "defineEn": "a group of things or people that share similar characteristics, qualities, etc.",
+        "defineVi": "một nhóm những thứ hoặc những người có chung đặc điểm, phẩm chất, v.v."
+    },
+    {
+        "id": "137e3071-30b7-440a-8248-440bc85babee",
+        "word": "food",
+        "phonetic": "fuːd ",
+        "type": "noun",
+        "defineEn": "things that people and animals eat, such as meat or vegetables",
+        "defineVi": "những thứ mà con người và động vật ăn, chẳng hạn như thịt hoặc rau",
+        "hasImg": true
+    },
+    {
+        "id": "2d65fce3-15f2-4b5b-bc76-7561fcf8daa6",
+        "word": "fruit",
+        "phonetic": "fɹuːt ",
+        "type": "noun",
+        "defineEn": "something we can eat that grows on trees, plants, or bushes",
+        "defineVi": "thứ gì đó chúng ta có thể ăn mọc trên cây, thực vật hoặc bụi rậm",
+        "hasImg": true
+    },
+    {
+        "id": "838b2cc3-f3f5-4155-93e7-5e48b4858574",
+        "word": "apple",
+        "phonetic": "æpəl ",
+        "type": "noun",
+        "defineEn": "a fruit that is round and has thin yellow, red, or green skin",
+        "defineVi": "một quả tròn và có vỏ mỏng màu vàng, đỏ hoặc xanh",
+        "hasImg": true
+    },
+    {
+        "id": "c701447c-b487-4042-95f5-43ac6959bb34",
+        "word": "banana",
+        "phonetic": "bɐnænə ",
+        "type": "noun",
+        "defineEn": "a soft fruit that is long and curved and has hard yellow skin",
+        "defineVi": "một quả mềm dài và cong và có vỏ cứng màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "358913d8-95cb-4238-a25d-41c69bcefba1",
+        "word": "grape",
+        "phonetic": "ɡɹeɪp ",
+        "type": "noun",
+        "defineEn": "a purple or green fruit that is round, small, and grows in bunches on a vine",
+        "defineVi": "một loại quả màu tím hoặc xanh, tròn, nhỏ và mọc thành chùm trên cây nho",
+        "hasImg": true
+    },
+    {
+        "id": "ea329c2f-70dc-48dd-a565-371fb7c3e223",
+        "word": "orange",
+        "phonetic": "ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a fruit that is juicy and round and has thick skin",
+        "defineVi": "một loại trái cây ngon ngọt và tròn và có da dày",
+        "hasImg": true
+    },
+    {
+        "id": "f1ef3020-1c1d-4d7a-bc46-64a22433c020",
+        "word": "vegetable",
+        "phonetic": "vɛdʒɪɾəbəl ",
+        "type": "noun",
+        "defineEn": "a plant or a part of it that we can eat either raw or cooked",
+        "defineVi": "một loại cây hoặc một phần của nó mà chúng ta có thể ăn sống hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "e1db019d-87c8-4d5e-be74-b64aea33c0b8",
+        "word": "carrot",
+        "phonetic": "kæɹət ",
+        "type": "noun",
+        "defineEn": "a long orange vegetable that grows beneath the ground and is eaten cooked or raw",
+        "defineVi": "một loại rau màu cam dài mọc dưới đất và được ăn chín hoặc sống",
+        "hasImg": true
+    },
+    {
+        "id": "3aedc9ee-422d-433a-abc6-a403f3b38e5f",
+        "word": "pepper",
+        "phonetic": "pɛpɚ ",
+        "type": "noun",
+        "defineEn": "a hollow fruit, typically red, green or yellow, eaten as a vegetable either raw or cooked with other food",
+        "defineVi": "một loại trái cây rỗng, thường có màu đỏ, xanh lá cây hoặc vàng, được ăn như một loại rau sống hoặc nấu chín với thực phẩm khác",
+        "hasImg": true
+    },
+    {
+        "id": "733eaeb0-0a42-4ab5-b2f8-66a91f44c4c2",
+        "word": "broccoli",
+        "phonetic": "bɹɑːkəli ",
+        "type": "noun",
+        "defineEn": "a vegetable from the cabbage family with a thick stem and many green or purplish flower buds",
+        "defineVi": "một loại rau thuộc họ bắp cải có thân dày và nhiều nụ hoa màu xanh lục hoặc tía",
+        "hasImg": true
+    },
+    {
+        "id": "aaf7bfc6-e953-46a9-9d99-ac193796f1e5",
+        "word": "onion",
+        "phonetic": "ʌniən ",
+        "type": "noun",
+        "defineEn": "a round yellow, white, or red vegetable with many layers and a smell and taste that is strong",
+        "defineVi": "một loại rau tròn màu vàng, trắng hoặc đỏ với nhiều lớp, có mùi và vị đậm đà",
+        "hasImg": true
+    },
+    {
+        "id": "b1ac934f-668a-4289-bb53-4c7b36e059fc",
+        "word": "meat",
+        "phonetic": "miːt ",
+        "type": "noun",
+        "defineEn": "the flesh of animals and birds that can be eaten as food",
+        "defineVi": "thịt của động vật và chim có thể được ăn như thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "0f37ab93-924e-4f90-adb1-0e36e99c4428",
+        "word": "chicken",
+        "phonetic": "tʃɪkɪn ",
+        "type": "noun",
+        "defineEn": "the flesh of a chicken that is used as food",
+        "defineVi": "thịt của một con gà được sử dụng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "7463301a-f490-468c-b59b-8015f031f8c6",
+        "word": "lamb",
+        "phonetic": "læm ",
+        "type": "noun",
+        "defineEn": "meat that is from a young sheep",
+        "defineVi": "thịt đó là từ một con cừu non",
+        "hasImg": true
+    },
+    {
+        "id": "a4a3a774-a853-4c22-9290-9bd7e42c0245",
+        "word": "beef",
+        "phonetic": "biːf ",
+        "type": "noun",
+        "defineEn": "meat that is from a cow",
+        "defineVi": "thịt đó là từ một con bò",
+        "hasImg": true
+    },
+    {
+        "id": "e7dbd30b-de3a-440f-804c-262f327022ce",
+        "word": "seafood",
+        "phonetic": "siːfuːd ",
+        "type": "noun",
+        "defineEn": "any sea creature that is eaten as food such as fish, shrimp, and shellfish",
+        "defineVi": "bất kỳ sinh vật biển nào được dùng làm thức ăn như cá, tôm và động vật có vỏ",
+        "hasImg": true
+    },
+    {
+        "id": "bf6d178b-78e1-4ca7-a89b-3388a32d64d1",
+        "word": "fish",
+        "phonetic": "fɪʃ ",
+        "type": "noun",
+        "defineEn": "flesh from a fish that is used as food",
+        "defineVi": "thịt từ một con cá được sử dụng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "907ff73a-3553-44ec-bcad-ac6a43ab5539",
+        "word": "tuna",
+        "phonetic": "tuːnə ",
+        "type": "noun",
+        "defineEn": "a type of large fish that is eaten as food",
+        "defineVi": "một loại cá lớn được ăn như thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "403c4a03-3441-45f8-b679-65bdd1346aab",
+        "word": "shrimp",
+        "phonetic": "ʃɹɪmp ",
+        "type": "noun",
+        "defineEn": "a small animal from the crustacean family that lives in the sea and is eaten as food",
+        "defineVi": "một loài động vật nhỏ thuộc họ giáp xác sống ở biển và được ăn làm thức ăn",
+        "hasImg": true
+    }
+]

@@ -1,0 +1,576 @@
+[
+    {
+        "id": "10e92100-f3b5-4efa-afe0-a17fef6f5a0c",
+        "word": "main",
+        "phonetic": "meɪn ",
+        "type": "adjective",
+        "defineEn": "being the most important or the largest thing among other things of the same kind",
+        "defineVi": "là thứ quan trọng nhất hoặc lớn nhất trong số những thứ khác cùng loại"
+    },
+    {
+        "id": "5f9fbe3f-074b-4bcc-b7b4-3ab51e9a159a",
+        "word": "chief",
+        "phonetic": "tʃiːf ",
+        "type": "adjective",
+        "defineEn": "most significant or important",
+        "defineVi": "quan trọng nhất hoặc quan trọng nhất"
+    },
+    {
+        "id": "753ecd0a-d94e-4af7-bb17-464262b8dc2e",
+        "word": "characteristic",
+        "phonetic": "kæɹɪktɚɹɪstɪk ",
+        "type": "adjective",
+        "defineEn": "describing something that is very typical of something or a person's character",
+        "defineVi": "mô tả một cái gì đó là rất điển hình của một cái gì đó hoặc nhân vật của một người"
+    },
+    {
+        "id": "8623a284-ac74-4f6e-9ff1-4fefbeee7be1",
+        "word": "trait",
+        "phonetic": "tɹeɪt ",
+        "type": "noun",
+        "defineEn": "something that is considered typical of a person, place, or thing and identifies them",
+        "defineVi": "một cái gì đó được coi là điển hình của một người, địa điểm, hoặc điều và xác định chúng"
+    },
+    {
+        "id": "d61c76be-b19a-4335-8af0-94c4f00dfb9b",
+        "word": "evidence",
+        "phonetic": "ɛvɪdəns ",
+        "type": "noun",
+        "defineEn": "anything that proves the truth or validity of something, such as facts, objects, or signs",
+        "defineVi": "bất cứ điều gì chứng minh sự thật hoặc giá trị của một cái gì đó, chẳng hạn như sự thật, đối tượng hoặc dấu hiệu"
+    },
+    {
+        "id": "0fd5a1ae-8da6-4794-94a9-0c489c538351",
+        "word": "trace",
+        "phonetic": "tɹeɪs ",
+        "type": "noun",
+        "defineEn": "an indication or evidence of the former presence or existence of something",
+        "defineVi": "một dấu hiệu hoặc bằng chứng về sự hiện diện hoặc tồn tại trước đây của một cái gì đó"
+    },
+    {
+        "id": "36014791-f30f-48b9-ad06-aa2b8af6b0fc",
+        "word": "achievement",
+        "phonetic": "ɐtʃiːvmənt ",
+        "type": "noun",
+        "defineEn": "the process or act of achieving something",
+        "defineVi": "quá trình hoặc hành động để đạt được một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "2c5b3da7-e2d5-430c-94d9-4388e92b5201",
+        "word": "feat",
+        "phonetic": "fiːt ",
+        "type": "noun",
+        "defineEn": "an impressive or remarkable achievement or accomplishment, often requiring great skill or strength",
+        "defineVi": "một thành tích hoặc thành tích ấn tượng hoặc đáng chú ý, thường đòi hỏi kỹ năng hoặc sức mạnh tuyệt vời"
+    },
+    {
+        "id": "ba9be399-e721-4efa-b73a-54af1b2bf59b",
+        "word": "perplexing",
+        "phonetic": "pɚplɛksɪŋ ",
+        "type": "adjective",
+        "defineEn": "causing confusion or bewilderment due to its complexity, ambiguity, or lack of clarity",
+        "defineVi": "gây nhầm lẫn hoặc hoang mang do tính phức tạp, mơ hồ hoặc thiếu rõ ràng của nó"
+    },
+    {
+        "id": "981f7355-5b7a-4f0a-bda1-6af770ff2abb",
+        "word": "puzzling",
+        "phonetic": "pʌzlɪŋ ",
+        "type": "adjective",
+        "defineEn": "confusing or difficult to understand, requiring extensive thought and analysis to make sense of the situation or problem at hand",
+        "defineVi": "khó hiểu hoặc khó hiểu, đòi hỏi phải suy nghĩ và phân tích sâu rộng để hiểu được tình huống hoặc vấn đề hiện tại",
+        "hasImg": true
+    },
+    {
+        "id": "b57046f8-0684-44a8-84d8-23a9037223d2",
+        "word": "forbear",
+        "phonetic": "fɔːɹbɛɹ ",
+        "type": "noun",
+        "defineEn": "an ancestor or a person from whom one is descended, typically one more remote than a grandparent",
+        "defineVi": "tổ tiên hoặc một người mà một người là hậu duệ của họ, thường là một người ở xa hơn ông bà"
+    },
+    {
+        "id": "0e8d9d91-5e7c-4f3f-89de-445d71e834d5",
+        "word": "ancestor",
+        "phonetic": "ænsɛstɚ ",
+        "type": "noun",
+        "defineEn": "a blood relative who lived a long time ago, usually before one's grandparents",
+        "defineVi": "một người họ hàng máu đã sống một thời gian dài trước đây, thường là trước ông bà của một người"
+    },
+    {
+        "id": "ce497bd4-559c-4ef1-af13-801e9d69a364",
+        "word": "desire",
+        "phonetic": "dɪzaɪɚ ",
+        "type": "noun",
+        "defineEn": "a very strong feeling of wanting to do or have something",
+        "defineVi": "một cảm giác rất mạnh mẽ muốn làm hoặc có một cái gì đó"
+    },
+    {
+        "id": "16746234-aafe-4b1e-9049-969a2b54d8f6",
+        "word": "urge",
+        "phonetic": "ɜːdʒ ",
+        "type": "noun",
+        "defineEn": "a strong desire or impulse to do something",
+        "defineVi": "một mong muốn mạnh mẽ hoặc thúc đẩy để làm một cái gì đó"
+    },
+    {
+        "id": "b2b15835-a9d2-42cf-aee0-e915ec21ec20",
+        "word": "to thrive",
+        "phonetic": "tə θɹaɪv ",
+        "type": "verb",
+        "defineEn": "to develop or grow well or continue to be successful",
+        "defineVi": "để phát triển hoặc phát triển tốt hoặc tiếp tục thành công",
+        "hasImg": true
+    },
+    {
+        "id": "20ff1dc3-0023-4d01-93c8-971a0760eb5e",
+        "word": "to flourish",
+        "phonetic": "tə flɜːɹɪʃ ",
+        "type": "verb",
+        "defineEn": "to quickly grow in a successful way",
+        "defineVi": "để nhanh chóng phát triển một cách thành công",
+        "hasImg": true
+    },
+    {
+        "id": "e319ea9d-a655-49a1-876a-e71a4303ca87",
+        "word": "bond",
+        "phonetic": "bɑːnd ",
+        "type": "noun",
+        "defineEn": "a relationship formed between people or groups based on mutual experiences, ideas, feelings, etc.",
+        "defineVi": "một mối quan hệ được hình thành giữa những người hoặc nhóm dựa trên kinh nghiệm lẫn nhau, ý tưởng, cảm xúc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "22145ca5-5ef7-4491-9691-a242e1e89fca",
+        "word": "tie",
+        "phonetic": "taɪ ",
+        "type": "noun",
+        "defineEn": "a bond or connection between people, organizations, etc.",
+        "defineVi": "một trái phiếu hoặc kết nối giữa mọi người, các tổ chức, vv"
+    },
+    {
+        "id": "086bcb91-33f5-4eb0-9acc-3583116fbf47",
+        "word": "to inhabit",
+        "phonetic": "tʊ ɪnhæbɪt ",
+        "type": "verb",
+        "defineEn": "to live or dwell in a place, especially as a permanent resident",
+        "defineVi": "để sống hoặc ở tại một nơi, đặc biệt là một thường trú nhân"
+    },
+    {
+        "id": "10f324cb-398c-4e38-aebb-19cae4b8719e",
+        "word": "to live in",
+        "phonetic": "tə lɪv ɪn ",
+        "type": "verb",
+        "defineEn": "to reside at the place where one works or studies, usually in provided accommodation on the premises",
+        "defineVi": "cư trú tại nơi mà một người làm việc hoặc học tập, thường là trong chỗ ở được cung cấp trong khuôn viên"
+    },
+    {
+        "id": "6b4a4d03-3716-45b7-8c96-4fc25eda18f4",
+        "word": "function",
+        "phonetic": "fʌŋkʃən ",
+        "type": "noun",
+        "defineEn": "a particular activity of a person or thing or their purpose",
+        "defineVi": "một hoạt động cụ thể của một người hoặc vật hoặc mục đích của họ"
+    },
+    {
+        "id": "736e51ea-6683-417d-98c3-d2ba3340f418",
+        "word": "cruise",
+        "phonetic": "kɹuːz ",
+        "type": "noun",
+        "defineEn": "a journey taken by a ship for pleasure, especially one involving several destinations",
+        "defineVi": "một hành trình được thực hiện bởi một con tàu để giải trí, đặc biệt là một hành trình liên quan đến một số điểm đến",
+        "hasImg": true
+    },
+    {
+        "id": "adb18c4a-d5de-480b-9189-2b6cb2182952",
+        "word": "insomnia",
+        "phonetic": "ɪnsɑːmniə ",
+        "type": "noun",
+        "defineEn": "a disorder in which one is unable to sleep or stay asleep",
+        "defineVi": "một rối loạn trong đó một người không thể ngủ hoặc ngủ"
+    },
+    {
+        "id": "f8f954cd-821d-4fd4-847c-8d3f385a4e1f",
+        "word": "satchel",
+        "phonetic": "sætʃəl ",
+        "type": "noun",
+        "defineEn": "a type of bag, often made of leather or canvas, with a strap that is worn over one shoulder and across the bo",
+        "defineVi": "một loại túi, thường được làm bằng da hoặc vải bạt, có dây đeo qua một bên vai và ngang qua bo",
+        "hasImg": true
+    },
+    {
+        "id": "8d8687cc-12b0-40f2-acf2-09dd50d3fee7",
+        "word": "play date",
+        "phonetic": "pleɪ deɪt ",
+        "type": "noun",
+        "defineEn": "a prearranged time for children to get together and play, typically with a parent or caregiver present",
+        "defineVi": "một thời gian được sắp xếp trước để trẻ em gặp nhau và chơi, thường có mặt cha mẹ hoặc người chăm sóc",
+        "hasImg": true
+    },
+    {
+        "id": "962691fc-ea59-48b9-b49c-34fa8b2654fb",
+        "word": "sleepover",
+        "phonetic": "sliːpoʊvɚ ",
+        "type": "noun",
+        "defineEn": "an event, typically for children or teenagers, where one or more people stay overnight at the home of a friend, usually for socializing, entertainment, and shared activities",
+        "defineVi": "một sự kiện, thường dành cho trẻ em hoặc thanh thiếu niên, nơi một hoặc nhiều người ở lại qua đêm tại nhà của một người bạn, thường là để giao lưu, giải trí và tham gia các hoạt động chung"
+    },
+    {
+        "id": "2603a213-b0b9-489a-813f-6deaf8b9875d",
+        "word": "memory loss",
+        "phonetic": "mɛmɚɹi lɔs ",
+        "type": "noun",
+        "defineEn": "the condition of forgetting or being unable to recall past events or information, ranging from minor forgetfulness to more severe forms, such as dementia or amnesia",
+        "defineVi": "tình trạng quên hoặc không thể nhớ lại các sự kiện hoặc thông tin trong quá khứ, từ quên nhẹ đến các dạng nghiêm trọng hơn, chẳng hạn như mất trí nhớ hoặc mất trí nhớ"
+    },
+    {
+        "id": "c2f26a96-d7c7-49bd-b70d-147b0e79742d",
+        "word": "nappy",
+        "phonetic": "næpi ",
+        "type": "noun",
+        "defineEn": "an absorbent garment worn by infants and young children to contain and absorb urine and feces",
+        "defineVi": "một loại quần áo thấm nước được mặc bởi trẻ sơ sinh và trẻ nhỏ để chứa và hấp thụ nước tiểu và phân",
+        "hasImg": true
+    },
+    {
+        "id": "c312b94b-06bd-4af8-9f7c-5145400edd1e",
+        "word": "to crawl",
+        "phonetic": "tə kɹɔːl ",
+        "type": "verb",
+        "defineEn": "to move slowly with the body near the ground or on the hands and knees",
+        "defineVi": "di chuyển chậm với cơ thể gần mặt đất hoặc trên tay và đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "4bda67b1-82a7-4cbc-9a40-cfe9d6815a12",
+        "word": "to settle down",
+        "phonetic": "tə sɛɾəl daʊn ",
+        "type": "verb",
+        "defineEn": "to establish a residence or adopt a particular lifestyle",
+        "defineVi": "để thiết lập một nơi cư trú hoặc áp dụng một lối sống cụ thể"
+    },
+    {
+        "id": "f1d14cd1-7233-4b4d-9586-25892ca9f57e",
+        "word": "to play truant",
+        "phonetic": "tə pleɪ tɹuːənt ",
+        "type": "phrase",
+        "defineEn": "to skip school or work without permission or without a valid reason",
+        "defineVi": "bỏ học hoặc làm việc mà không được phép hoặc không có lý do chính đáng"
+    },
+    {
+        "id": "21f97bd7-d1fe-4bb0-9d88-6e68e39c89fd",
+        "word": "infant",
+        "phonetic": "ɪnfənt ",
+        "type": "noun",
+        "defineEn": "a very young baby or child",
+        "defineVi": "một em bé hoặc trẻ nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "d5f3e744-5e85-4a4c-8f0e-7e13fa14923e",
+        "word": "schoolboy",
+        "phonetic": "skuːlbɔɪ ",
+        "type": "noun",
+        "defineEn": "a boy attending school",
+        "defineVi": "một cậu bé đi học",
+        "hasImg": true
+    },
+    {
+        "id": "351891e6-97b0-4114-94bc-61f41d4541a4",
+        "word": "lover",
+        "phonetic": "lʌvɚ ",
+        "type": "noun",
+        "defineEn": "one of the partners in a marriage who is in a sexual relationship outside their marriage",
+        "defineVi": "một trong những đối tác trong một cuộc hôn nhân có quan hệ tình dục ngoài hôn nhân của họ"
+    },
+    {
+        "id": "75b6aedb-b157-40ad-a1ad-c9597d4b27dc",
+        "word": "soldier",
+        "phonetic": "soʊldʒɚ ",
+        "type": "noun",
+        "defineEn": "someone who serves in an army, particularly a person who is not an officer",
+        "defineVi": "một người phục vụ trong quân đội, đặc biệt là một người không phải là một sĩ quan",
+        "hasImg": true
+    },
+    {
+        "id": "f0c6094c-2e84-4f70-94d1-19e31cca0b23",
+        "word": "justice",
+        "phonetic": "dʒʌstɪs ",
+        "type": "noun",
+        "defineEn": "the principle of moral or legal righteousness, equity, and impartiality",
+        "defineVi": "nguyên tắc về sự công bằng đạo đức hoặc pháp lý, công bằng và không thiên vị",
+        "hasImg": true
+    },
+    {
+        "id": "afa21845-9433-40b1-80e1-b566bdb3b1bc",
+        "word": "childishness",
+        "phonetic": "tʃaɪldɪʃnəs ",
+        "type": "noun",
+        "defineEn": "referring to the behavior or attitudes that are typical of children, such as immaturity, impulsivity, and a lack of emotional self-control",
+        "defineVi": "đề cập đến hành vi hoặc thái độ điển hình của trẻ em, chẳng hạn như non nớt, bốc đồng và thiếu tự chủ về cảm xúc"
+    },
+    {
+        "id": "b7f6de8a-3339-46d7-839a-06a8213480f7",
+        "word": "stage",
+        "phonetic": "steɪdʒ ",
+        "type": "noun",
+        "defineEn": "one of the separate parts in which a process or event is divided into",
+        "defineVi": "một trong những phần riêng biệt trong đó một quá trình hoặc sự kiện được chia thành"
+    },
+    {
+        "id": "87325bec-fdf9-4b9f-b493-99b3dfc13a9c",
+        "word": "to graze",
+        "phonetic": "tə ɡɹeɪz ",
+        "type": "verb",
+        "defineEn": "to cause injury to the surface of one's skin by rubbing it against something rough",
+        "defineVi": "gây thương tích cho bề mặt da của một người bằng cách cọ xát nó với thứ gì đó thô ráp"
+    },
+    {
+        "id": "b7cce837-bfa1-433f-8b88-f604c916e923",
+        "word": "mortgage",
+        "phonetic": "mɔːɹɡɪdʒ ",
+        "type": "noun",
+        "defineEn": "an official contract or arrangement by which a bank gives money to someone as a loan to buy a house and the person must return the money with interest at monthly intervals",
+        "defineVi": "một hợp đồng hoặc thỏa thuận chính thức theo đó ngân hàng cho ai đó vay tiền để mua nhà và người đó phải trả lại tiền cùng với lãi suất hàng tháng",
+        "hasImg": true
+    },
+    {
+        "id": "5e8f518c-27bf-4d9f-a0e9-726263547430",
+        "word": "buggy",
+        "phonetic": "bʌɡi ",
+        "type": "noun",
+        "defineEn": "a light, horse-drawn carriage with four wheels, typically used for leisurely rides",
+        "defineVi": "một chiếc xe ngựa nhẹ, có bốn bánh, thường được sử dụng để cưỡi nhàn nhã",
+        "hasImg": true
+    },
+    {
+        "id": "a4d5b9a6-fab1-426d-be14-ff3303c322e7",
+        "word": "date",
+        "phonetic": "deɪt ",
+        "type": "noun",
+        "defineEn": "a time that is arranged to meet a person with whom one is in a relationship or is likely to be in the future",
+        "defineVi": "một thời gian được sắp xếp để gặp một người mà một người đang có mối quan hệ hoặc có khả năng sẽ có trong tương lai",
+        "hasImg": true
+    },
+    {
+        "id": "59f6ac97-760a-4e38-9009-34321795890c",
+        "word": "to promote",
+        "phonetic": "tə pɹəmoʊt ",
+        "type": "verb",
+        "defineEn": "to move to a higher position or rank",
+        "defineVi": "để di chuyển đến một vị trí cao hơn hoặc xếp hạng",
+        "hasImg": true
+    },
+    {
+        "id": "ae0a9010-1239-461c-8e43-fecdd67432f7",
+        "word": "sensible",
+        "phonetic": "sɛnsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "possessing or displaying good judgment and practicality",
+        "defineVi": "sở hữu hoặc hiển thị phán đoán tốt và thực tế",
+        "hasImg": true
+    },
+    {
+        "id": "87bccbdd-fe3e-4a76-9fb1-d1bda010cfd3",
+        "word": "glasses",
+        "phonetic": "ɡlæsᵻz ",
+        "type": "noun",
+        "defineEn": "a pair of lenses set in a frame that rests on the nose and ears, which we wear to see more clearly",
+        "defineVi": "một cặp thấu kính được đặt trong một khung nằm trên mũi và tai mà chúng ta đeo để nhìn rõ hơn",
+        "hasImg": true
+    },
+    {
+        "id": "d7c18f93-db07-4915-b195-ff5254df241e",
+        "word": "to work out",
+        "phonetic": "tə wɜːk aʊt ",
+        "type": "verb",
+        "defineEn": "to exercise in order to get healthier or stronger",
+        "defineVi": "tập thể dục để khỏe mạnh hơn hoặc mạnh mẽ hơn",
+        "hasImg": true
+    },
+    {
+        "id": "80f517fc-6f1b-402e-8b31-e880747961ac",
+        "word": "ache",
+        "phonetic": "eɪk ",
+        "type": "noun",
+        "defineEn": "a continuous, but dull (not acute) feeling of pain in a part of the body",
+        "defineVi": "cảm giác đau liên tục nhưng âm ỉ (không cấp tính) ở một bộ phận của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "67bd4dce-503c-4406-9633-1d17f05e9608",
+        "word": "pain",
+        "phonetic": "peɪn ",
+        "type": "noun",
+        "defineEn": "unpleasant feeling caused by an illness or injury",
+        "defineVi": "cảm giác khó chịu do bệnh tật hoặc chấn thương gây ra",
+        "hasImg": true
+    },
+    {
+        "id": "4291aace-aaa3-4dd8-b718-d4a2457f413e",
+        "word": "to color in",
+        "phonetic": "tə kʌlɚɹ ɪn ",
+        "type": "verb",
+        "defineEn": "to fill in a black and white outline or picture with colors using crayons, markers, or other coloring materials",
+        "defineVi": "để điền vào một đường viền hoặc hình ảnh đen trắng bằng màu sắc bằng bút màu, bút đánh dấu hoặc các vật liệu tô màu khác",
+        "hasImg": true
+    },
+    {
+        "id": "b8ece60f-4860-4b0a-8035-0fd657b44f14",
+        "word": "lie-in",
+        "phonetic": "laɪɪn ",
+        "type": "noun",
+        "defineEn": "a period of time spent resting or sleeping in bed beyond one's usual waking time, often done for the purpose of getting additional rest or relaxation",
+        "defineVi": "một khoảng thời gian dành cho việc nghỉ ngơi hoặc ngủ trên giường ngoài thời gian thức dậy thông thường của một người, thường được thực hiện với mục đích nghỉ ngơi hoặc thư giãn thêm",
+        "hasImg": true
+    },
+    {
+        "id": "ac97322a-c147-45b0-b91e-0fd37bcb36ee",
+        "word": "divorced",
+        "phonetic": "dᵻvoːɹst ",
+        "type": "adjective",
+        "defineEn": "no longer married to someone because the marriage has been legally ended",
+        "defineVi": "không còn kết hôn với ai đó vì cuộc hôn nhân đã kết thúc hợp pháp",
+        "hasImg": true
+    },
+    {
+        "id": "c03f6446-5159-453d-a42d-060b75a078ab",
+        "word": "tantrum",
+        "phonetic": "tæntɹəm ",
+        "type": "noun",
+        "defineEn": "an emotional outburst, usually associated with anger or frustration, that involves screaming, crying, kicking, and sometimes even physical aggression",
+        "defineVi": "một sự bùng nổ cảm xúc, thường liên quan đến sự tức giận hoặc thất vọng, bao gồm la hét, khóc, đá và đôi khi thậm chí là gây hấn về thể chất"
+    },
+    {
+        "id": "ca7634d1-9b72-441c-b5e3-4f7cec049581",
+        "word": "potbelly",
+        "phonetic": "pɑːtbɛli ",
+        "type": "noun",
+        "defineEn": "a cast-iron stove that is round or cylindrical in shape, with a bulging belly-like protrusion in the middle that serves as a combustion chamber",
+        "defineVi": "một cái bếp bằng gang có hình tròn hoặc hình trụ, ở giữa có phần lồi giống như bụng phình ra dùng làm buồng đốt"
+    },
+    {
+        "id": "f6c87688-43ad-408f-8be9-e74547ae5a3f",
+        "word": "grey",
+        "phonetic": "ɡɹeɪ ",
+        "type": "adjective",
+        "defineEn": "having hair or fur that is mixed with or turning gray due to age",
+        "defineVi": "có tóc hoặc lông bị lẫn hoặc chuyển sang màu xám do tuổi tác",
+        "hasImg": true
+    },
+    {
+        "id": "77888b94-4e8c-44be-b551-6981213ce306",
+        "word": "bald",
+        "phonetic": "bɔːld ",
+        "type": "adjective",
+        "defineEn": "having little or no hair on the head",
+        "defineVi": "có ít hoặc không có tóc trên đầu",
+        "hasImg": true
+    },
+    {
+        "id": "4b9cd723-4bab-43a3-bc0d-de901fdbc7d5",
+        "word": "to swot",
+        "phonetic": "tə swɑːt ",
+        "type": "verb",
+        "defineEn": "to study hard and quickly, especially before an exam",
+        "defineVi": "học tập chăm chỉ và nhanh chóng, đặc biệt là trước một kỳ thi"
+    },
+    {
+        "id": "b3661070-be2c-4185-b028-adf571f0fd99",
+        "word": "clubbing",
+        "phonetic": "klʌbɪŋ ",
+        "type": "noun",
+        "defineEn": "the act or activity of frequently hanging out in nightclubs",
+        "defineVi": "hành động hoặc hoạt động thường xuyên đi chơi trong câu lạc bộ đêm",
+        "hasImg": true
+    },
+    {
+        "id": "2c4af90f-6d19-4387-9530-fa82b718d607",
+        "word": "to teeter",
+        "phonetic": "tə tiːɾɚ ",
+        "type": "verb",
+        "defineEn": "to stand or move in an unsteady or unstable manner, as if about to lose balance or topple over",
+        "defineVi": "đứng hoặc di chuyển một cách không ổn định hoặc không ổn định, như thể sắp mất thăng bằng hoặc lật đổ"
+    },
+    {
+        "id": "da87aff6-c8c8-4859-910c-d19c7f8ac7f1",
+        "word": "to take a nap",
+        "phonetic": "tə teɪk ɐ næp ",
+        "type": "phrase",
+        "defineEn": "to rest or sleep for a short period of time during the day",
+        "defineVi": "để nghỉ ngơi hoặc ngủ trong một khoảng thời gian ngắn trong ngày"
+    },
+    {
+        "id": "afe3cffd-a860-4a7f-a001-c4365513ecef",
+        "word": "to watch",
+        "phonetic": "tə wɑːtʃ ",
+        "type": "verb",
+        "defineEn": "to look at a thing or person and pay attention to it for some time",
+        "defineVi": "để nhìn vào một điều hoặc người và chú ý đến nó trong một thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "14458f20-b652-4d59-b1f8-99b8d6f37a33",
+        "word": "to fancy oneself",
+        "phonetic": "tə fænsi wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to have an excessive or exaggerated opinion of one's own abilities, attractiveness, importance, or value",
+        "defineVi": "có ý kiến quá mức hoặc phóng đại về khả năng, sức hấp dẫn, tầm quan trọng hoặc giá trị của chính mình"
+    },
+    {
+        "id": "0bc36dfd-5832-42ba-ab7f-38b222525ff6",
+        "word": "to put oneself down",
+        "phonetic": "tə pʊt wʌnsɛlf daʊn ",
+        "type": "phrase",
+        "defineEn": "to speak negatively or critically about oneself",
+        "defineVi": "để nói tiêu cực hoặc chỉ trích về bản thân"
+    },
+    {
+        "id": "0df7399a-ca7f-4693-b9ec-2199dbf01406",
+        "word": "to look after",
+        "phonetic": "tə lʊk æftɚ ",
+        "type": "verb",
+        "defineEn": "to be in charge of someone and attend to their needs or to take care of something",
+        "defineVi": "chịu trách nhiệm về ai đó và đáp ứng nhu cầu của họ hoặc chăm sóc một cái gì đó"
+    },
+    {
+        "id": "e8a273da-6197-4387-8c08-10e617fcfdb3",
+        "word": "to think for oneself",
+        "phonetic": "tə θɪŋk fɔːɹ wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to rely on no one in making decisions or forming opinions",
+        "defineVi": "không dựa vào ai trong việc đưa ra quyết định hoặc hình thành ý kiến"
+    },
+    {
+        "id": "d3968225-c161-4c44-bb7b-1c059d97d9f4",
+        "word": "to think of",
+        "phonetic": "tə θɪŋk ʌv ",
+        "type": "verb",
+        "defineEn": "to consider or take into account something or someone",
+        "defineVi": "để xem xét hoặc đưa vào tài khoản một cái gì đó hoặc ai đó"
+    },
+    {
+        "id": "d5fc983f-73e0-486d-8afd-3f3a5a78204c",
+        "word": "to flatter oneself",
+        "phonetic": "tə flæɾɚ wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to overestimate one's own abilities, accomplishments, or appearance",
+        "defineVi": "đánh giá quá cao khả năng, thành tích hoặc ngoại hình của chính mình"
+    },
+    {
+        "id": "7091dcd2-c471-40a5-88f2-de52702c9d0b",
+        "word": "to kick oneself",
+        "phonetic": "tə kɪk wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to feel regret or disappointment in oneself for a past mistake or missed opportunity",
+        "defineVi": "cảm thấy hối tiếc hoặc thất vọng về bản thân vì một sai lầm trong quá khứ hoặc cơ hội bị bỏ lỡ"
+    },
+    {
+        "id": "b3738ba9-91a2-41e6-9475-f85fea278e0b",
+        "word": "to please oneself",
+        "phonetic": "tə pliːz wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to do what one wants or desires, without worrying about the opinions or desires of others",
+        "defineVi": "để làm những gì một người muốn hoặc mong muốn, mà không cần lo lắng về ý kiến hoặc mong muốn của người khác"
+    }
+]

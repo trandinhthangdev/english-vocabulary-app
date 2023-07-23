@@ -1,0 +1,455 @@
+[
+    {
+        "id": "7d67a588-1723-4c22-86e7-c623cd59ee34",
+        "word": "guitar",
+        "phonetic": "ɡɪtɑːɹ ",
+        "type": "noun",
+        "defineEn": "a musical instrument, usually with six strings, played by pulling the strings with the fingers or with a plectrum",
+        "defineVi": "một nhạc cụ, thường có sáu dây, được chơi bằng cách kéo dây bằng ngón tay hoặc bằng miếng gảy",
+        "hasImg": true
+    },
+    {
+        "id": "f27ba8db-ad36-41cd-ac24-b2ef66ebb779",
+        "word": "heavy",
+        "phonetic": "hɛvi ",
+        "type": "adjective",
+        "defineEn": "having a lot of weight and not easy to move or pick up",
+        "defineVi": "có nhiều trọng lượng và không dễ di chuyển hoặc nhặt lên",
+        "hasImg": true
+    },
+    {
+        "id": "85179180-b0e9-4a33-bfd4-0b5e31ec47a8",
+        "word": "to help",
+        "phonetic": "tə hɛlp ",
+        "type": "verb",
+        "defineEn": "to give someone what they need or to make doing something easier or possible for them",
+        "defineVi": "để cung cấp cho ai đó những gì họ cần hoặc để làm điều gì đó dễ dàng hơn hoặc có thể cho họ",
+        "hasImg": true
+    },
+    {
+        "id": "84df5fc7-03b8-42b3-a525-fd88c2936fb1",
+        "word": "horse",
+        "phonetic": "hɔːɹs ",
+        "type": "noun",
+        "defineEn": "an animal that is large, has a tail and four legs, and we use for racing, pulling carriages, riding, etc.",
+        "defineVi": "một con vật lớn, có đuôi và bốn chân, và chúng tôi sử dụng để đua, kéo xe, cưỡi ngựa, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7c863f35-0d6c-4eeb-961b-42e42cd94402",
+        "word": "to hurt",
+        "phonetic": "tə hɜːt ",
+        "type": "verb",
+        "defineEn": "to cause injury or physical pain to yourself or someone else",
+        "defineVi": "gây thương tích hoặc đau đớn về thể chất cho chính bạn hoặc người khác",
+        "hasImg": true
+    },
+    {
+        "id": "48f69361-fe3b-4967-ab1b-10c6f8b510a6",
+        "word": "interpreter",
+        "phonetic": "ɪntɜːpɹɪɾɚ ",
+        "type": "noun",
+        "defineEn": "someone who verbally changes the words of a language into another",
+        "defineVi": "ai đó bằng lời nói thay đổi các từ của một ngôn ngữ sang một ngôn ngữ khác",
+        "hasImg": true
+    },
+    {
+        "id": "76dca8cd-d507-4ef5-bbe9-071b9636d8a8",
+        "word": "kind",
+        "phonetic": "kaɪnd ",
+        "type": "noun",
+        "defineEn": "a group of people or things that have similar characteristics or share particular qualities",
+        "defineVi": "một nhóm người hoặc những thứ có đặc điểm tương tự hoặc chia sẻ phẩm chất cụ thể"
+    },
+    {
+        "id": "24032b59-331e-4d75-ab4c-53089f03724c",
+        "word": "to lift",
+        "phonetic": "tə lɪft ",
+        "type": "verb",
+        "defineEn": "to move a thing from a lower position or level to a higher one",
+        "defineVi": "để di chuyển một điều từ một vị trí thấp hơn hoặc mức cao hơn",
+        "hasImg": true
+    },
+    {
+        "id": "59cf3a31-2ec8-4836-9fe3-349a5c78fc1a",
+        "word": "to lock",
+        "phonetic": "tə lɑːk ",
+        "type": "verb",
+        "defineEn": "to secure something with a lock or seal",
+        "defineVi": "để bảo đảm một cái gì đó với một khóa hoặc con dấu",
+        "hasImg": true
+    },
+    {
+        "id": "e8e03bfa-63b5-4b6a-9cfc-fc7dbff38e00",
+        "word": "lost",
+        "phonetic": "lɔst ",
+        "type": "adjective",
+        "defineEn": "unable to find or recover something that is misplaced, vanished, or missing",
+        "defineVi": "không thể tìm hoặc khôi phục thứ gì đó bị thất lạc, biến mất hoặc mất tích",
+        "hasImg": true
+    },
+    {
+        "id": "00234c22-e394-443b-b508-3d13b1f1e762",
+        "word": "mechanic",
+        "phonetic": "mᵻkænɪk ",
+        "type": "noun",
+        "defineEn": "a person whose job is repairing and maintaining motor vehicles and machinery",
+        "defineVi": "một người có công việc sửa chữa và bảo trì xe cơ giới và máy móc",
+        "hasImg": true
+    },
+    {
+        "id": "d0b8e5c5-7f11-496b-bfe9-cbd0c7f26668",
+        "word": "to mend",
+        "phonetic": "tə mɛnd ",
+        "type": "verb",
+        "defineEn": "to fix something that is damaged or broken so it can work or be used again",
+        "defineVi": "để sửa chữa một cái gì đó bị hư hỏng hoặc bị hỏng để nó có thể hoạt động hoặc được sử dụng lại",
+        "hasImg": true
+    },
+    {
+        "id": "fbca5a74-a3fb-452f-ae82-b2df3d10d4ea",
+        "word": "message",
+        "phonetic": "mɛsɪdʒ ",
+        "type": "noun",
+        "defineEn": "a written or spoken piece of information or communication sent to or left for another person",
+        "defineVi": "một mẩu thông tin hoặc thông tin liên lạc bằng văn bản hoặc lời nói được gửi đến hoặc để lại cho người khác",
+        "hasImg": true
+    },
+    {
+        "id": "12297933-b906-4060-8db8-607636b72760",
+        "word": "meter",
+        "phonetic": "miːɾɚ ",
+        "type": "noun",
+        "defineEn": "the basic unit of measuring length that is equal to 100 centimeters",
+        "defineVi": "đơn vị đo chiều dài cơ bản bằng 100 cm",
+        "hasImg": true
+    },
+    {
+        "id": "ded9780c-9532-49ba-9f66-cd907f6d0b98",
+        "word": "mile",
+        "phonetic": "maɪl ",
+        "type": "noun",
+        "defineEn": "a unit of measuring length equal to 1.6 kilometers or 1760 yards",
+        "defineVi": "một đơn vị đo chiều dài bằng 1,6 km hoặc 1760 yard"
+    },
+    {
+        "id": "c14b2f2c-b0e9-45f6-bab8-c763e8182051",
+        "word": "to miss",
+        "phonetic": "tə mɪs ",
+        "type": "verb",
+        "defineEn": "to fail to catch a bus, airplane, etc.",
+        "defineVi": "không bắt được xe buýt, máy bay, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2fffa2db-1461-4da4-847d-998977e08da7",
+        "word": "to pay",
+        "phonetic": "tə peɪ ",
+        "type": "verb",
+        "defineEn": "to give someone money in exchange for goods or services",
+        "defineVi": "để cung cấp cho ai đó tiền để đổi lấy hàng hóa hoặc dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "42387849-68ea-456a-8fb8-40bc18bec340",
+        "word": "pilot",
+        "phonetic": "paɪlət ",
+        "type": "noun",
+        "defineEn": "someone whose job is to operate the controls of an aircraft",
+        "defineVi": "một người có công việc là vận hành các điều khiển của một chiếc máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "7f9721ee-1469-418f-9c59-b0e8048a4853",
+        "word": "popular",
+        "phonetic": "pɑːpjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "receiving a lot of love and attention from many people",
+        "defineVi": "nhận được rất nhiều tình cảm và sự quan tâm của nhiều người",
+        "hasImg": true
+    },
+    {
+        "id": "97dc66fe-5e37-41a8-bf35-760b5cc0787d",
+        "word": "to ride",
+        "phonetic": "tə ɹaɪd ",
+        "type": "verb",
+        "defineEn": "to sit on open-spaced vehicles like motorcycles or bicycles and be in control of their movements",
+        "defineVi": "ngồi trên các phương tiện có không gian rộng rãi như xe máy hoặc xe đạp và kiểm soát chuyển động của chúng",
+        "hasImg": true
+    },
+    {
+        "id": "6d897d4e-47b7-4a75-98af-1015249edf01",
+        "word": "safe",
+        "phonetic": "seɪf ",
+        "type": "adjective",
+        "defineEn": "being without danger or harm",
+        "defineVi": "không có nguy hiểm hoặc tổn hại",
+        "hasImg": true
+    },
+    {
+        "id": "9516a4f9-46b5-4555-bbdd-5d413012e577",
+        "word": "to send",
+        "phonetic": "tə sɛnd ",
+        "type": "verb",
+        "defineEn": "to take something to a specific location or making arrangements for it to be taken there, particularly by post",
+        "defineVi": "để đưa một cái gì đó đến một địa điểm cụ thể hoặc sắp xếp để nó được đưa đến đó, đặc biệt là qua đường bưu điện",
+        "hasImg": true
+    },
+    {
+        "id": "e7a53df2-905f-4138-9f99-d7d43d614dbf",
+        "word": "slowly",
+        "phonetic": "sloʊli ",
+        "type": "adverb",
+        "defineEn": "moving or doing something at a slow speed; not quickly",
+        "defineVi": "di chuyển hoặc làm điều gì đó với tốc độ chậm; không nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "7b7199ec-274b-4b3d-abbf-ce3f217285c0",
+        "word": "something",
+        "phonetic": "sʌmθɪŋ ",
+        "type": "pronoun",
+        "defineEn": "used to mention a thing that is not known or named",
+        "defineVi": "được sử dụng để đề cập đến một điều mà không được biết đến hoặc đặt tên",
+        "hasImg": true
+    },
+    {
+        "id": "c4aadf42-f57b-4879-b3a7-4971ae038556",
+        "word": "smartphone",
+        "phonetic": "smɑːɹtfoʊn ",
+        "type": "noun",
+        "defineEn": "a portable device that combines the functions of a cell phone and a computer, such as browsing the internet, using apps, making calls, etc.",
+        "defineVi": "một thiết bị di động kết hợp các chức năng của điện thoại di động và máy tính, chẳng hạn như duyệt internet, sử dụng ứng dụng, thực hiện cuộc gọi, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4ac308e3-5d13-4c1c-9a09-ac5aff3af01f",
+        "word": "to surf",
+        "phonetic": "tə sɜːf ",
+        "type": "verb",
+        "defineEn": "to visit different websites",
+        "defineVi": "để truy cập các trang web khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "3e40e5f1-83bd-43ca-9383-8793bbc4a842",
+        "word": "to take",
+        "phonetic": "tə teɪk ",
+        "type": "verb",
+        "defineEn": "to reach for something and hold it",
+        "defineVi": "để đạt được cho một cái gì đó và giữ nó",
+        "hasImg": true
+    },
+    {
+        "id": "80c2119c-393b-4acd-8532-ce4a561f17ae",
+        "word": "photo",
+        "phonetic": "foʊɾoʊ ",
+        "type": "noun",
+        "defineEn": "an image captured by a camera",
+        "defineVi": "một hình ảnh được chụp bởi một máy ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "990703ec-7813-4fbf-ba43-3d436ccb95cf",
+        "word": "terrible",
+        "phonetic": "tɛɹᵻbəl ",
+        "type": "adjective",
+        "defineEn": "very bad, disagreeable, or unpleasant",
+        "defineVi": "rất xấu, khó chịu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "9c1af274-ae36-4ff3-ae78-68eb01662c22",
+        "word": "ticket booth",
+        "phonetic": "tɪkɪt buːθ ",
+        "type": "noun",
+        "defineEn": "a small structure or booth where tickets for various events or attractions are sold in person",
+        "defineVi": "một cấu trúc nhỏ hoặc gian hàng nơi vé cho các sự kiện hoặc điểm tham quan khác nhau được bán trực tiếp",
+        "hasImg": true
+    },
+    {
+        "id": "7d00ffa0-0700-48c5-b9fd-ec1eb5d2e169",
+        "word": "to try",
+        "phonetic": "tə tɹaɪ ",
+        "type": "verb",
+        "defineEn": "to make an effort or attempt to do or have something",
+        "defineVi": "để thực hiện một nỗ lực hoặc cố gắng để làm hoặc có một cái gì đó"
+    },
+    {
+        "id": "41667071-1039-4864-996b-787ec7ec108e",
+        "word": "to turn off",
+        "phonetic": "tə tɜːn ɔf ",
+        "type": "verb",
+        "defineEn": "to cause a machine, device, or equipment to stop operating, typically by pushing a button or turning a key",
+        "defineVi": "làm cho máy móc, thiết bị hoặc thiết bị ngừng hoạt động, thường bằng cách nhấn nút hoặc vặn chìa khóa",
+        "hasImg": true
+    },
+    {
+        "id": "facbf442-32a0-47cf-92ee-4fa35832ed47",
+        "word": "violin",
+        "phonetic": "vaɪəlɪn ",
+        "type": "noun",
+        "defineEn": "a musical instrument with strings, held under the chin and played with a bow",
+        "defineVi": "một nhạc cụ có dây, được giữ dưới cằm và chơi bằng cung",
+        "hasImg": true
+    },
+    {
+        "id": "0d024f58-aebf-459b-8f36-417fd9f6758a",
+        "word": "wet",
+        "phonetic": "wɛt ",
+        "type": "adjective",
+        "defineEn": "covered with or full of water or another liquid",
+        "defineVi": "được bao phủ bởi hoặc đầy nước hoặc chất lỏng khác",
+        "hasImg": true
+    },
+    {
+        "id": "defc3d5d-f796-4ce2-aaa7-e21a80627b78",
+        "word": "worldwide",
+        "phonetic": "wɜːldwaɪd ",
+        "type": "adverb",
+        "defineEn": "all over the world",
+        "defineVi": "trên toàn thế giới",
+        "hasImg": true
+    },
+    {
+        "id": "a2ef4e1f-de8c-4f6b-ad55-ed98b340642c",
+        "word": "accident",
+        "phonetic": "æksɪdənt ",
+        "type": "noun",
+        "defineEn": "an unexpected and unpleasant event that occurs by chance, usually causing damage or injury",
+        "defineVi": "một sự kiện bất ngờ và khó chịu xảy ra một cách tình cờ, thường gây ra thiệt hại hoặc thương tích",
+        "hasImg": true
+    },
+    {
+        "id": "c90cf6c9-0461-48f7-8025-c21a30d54182",
+        "word": "arm",
+        "phonetic": "ɑːɹm ",
+        "type": "noun",
+        "defineEn": "one of the two body parts that is connected to the shoulder and ends with fingers",
+        "defineVi": "một trong hai bộ phận cơ thể được nối với vai và kết thúc bằng ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "42337456-bc8f-466f-861b-e9f0ffde0bd5",
+        "word": "to arrive",
+        "phonetic": "tʊ ɚɹaɪv ",
+        "type": "verb",
+        "defineEn": "to reach a location, particularly as an end to a journey",
+        "defineVi": "để đạt được một địa điểm, đặc biệt là kết thúc một cuộc hành trình",
+        "hasImg": true
+    },
+    {
+        "id": "ea3d440e-8769-44fc-bb08-6debe284173a",
+        "word": "athlete",
+        "phonetic": "æθliːt ",
+        "type": "noun",
+        "defineEn": "a person who is good at sports and physical exercise, and often competes in sports competitions",
+        "defineVi": "một người giỏi thể thao và rèn luyện thể chất, và thường tham gia các cuộc thi thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "d29201af-16d7-4bdc-8910-7fdfbd3f659a",
+        "word": "bill",
+        "phonetic": "bɪl ",
+        "type": "noun",
+        "defineEn": "a piece of printed paper that shows the amount of money a person has to pay for the meal they have had in a bar or restaurant",
+        "defineVi": "một mảnh giấy in cho thấy số tiền một người phải trả cho bữa ăn họ đã có trong một quán bar hoặc nhà hàng",
+        "hasImg": true
+    },
+    {
+        "id": "160cdac2-d008-4392-a75e-528cd8f44602",
+        "word": "button",
+        "phonetic": "bʌʔn̩ ",
+        "type": "noun",
+        "defineEn": "a small, round object, usually made of plastic or metal, sewn onto a piece of clothing and used for fastening two parts together",
+        "defineVi": "một vật tròn, nhỏ, thường làm bằng nhựa hoặc kim loại, được khâu vào một mảnh quần áo và dùng để buộc hai phần lại với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "d5ed089d-648f-40d1-ac83-4bcf7f2a13f3",
+        "word": "cake",
+        "phonetic": "keɪk ",
+        "type": "noun",
+        "defineEn": "a sweet food that is made by mixing flour, butter or oil, sugar, eggs and other ingredients and then backing it in an oven",
+        "defineVi": "một món ăn ngọt được làm bằng cách trộn bột mì, bơ hoặc dầu, đường, trứng và các thành phần khác rồi cho vào lò nướng",
+        "hasImg": true
+    },
+    {
+        "id": "1c78c8fc-544c-4fe1-9f1f-8f81ad60e741",
+        "word": "chess",
+        "phonetic": "tʃɛs ",
+        "type": "noun",
+        "defineEn": "a strategic two-player board game where players move pieces with different abilities across a board with the objective of capturing the opponent's king",
+        "defineVi": "một trò chơi cờ hai người chơi chiến lược trong đó người chơi di chuyển các quân cờ với các khả năng khác nhau trên một bàn cờ với mục tiêu chiếm được vua của đối phương",
+        "hasImg": true
+    },
+    {
+        "id": "98b65e06-346b-459c-a5e7-505e36cb17fa",
+        "word": "clever",
+        "phonetic": "klɛvɚ ",
+        "type": "adjective",
+        "defineEn": "able to think quickly and find solutions to problems",
+        "defineVi": "có thể suy nghĩ nhanh chóng và tìm giải pháp cho các vấn đề",
+        "hasImg": true
+    },
+    {
+        "id": "1410a74d-11c4-4b10-ab1c-d25ddff83b06",
+        "word": "cost",
+        "phonetic": "kɔst ",
+        "type": "noun",
+        "defineEn": "an amount we pay to buy, do, or make something",
+        "defineVi": "một số tiền chúng tôi phải trả để mua, làm, hoặc thực hiện một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "6f8f0828-479a-4201-bd52-ed82de1507d4",
+        "word": "dangerous",
+        "phonetic": "deɪndʒɚɹəs ",
+        "type": "adjective",
+        "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+        "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+        "hasImg": true
+    },
+    {
+        "id": "edc8141a-2c36-45e2-a071-90f72048a409",
+        "word": "everything",
+        "phonetic": "ɛvɹɪθɪŋ ",
+        "type": "pronoun",
+        "defineEn": "all things, events, etc.",
+        "defineVi": "mọi sự vật, sự kiện, v.v."
+    },
+    {
+        "id": "fc032b69-2955-4e6f-981a-33f2a5be017f",
+        "word": "fluently",
+        "phonetic": "fluːəntli ",
+        "type": "adverb",
+        "defineEn": "in an easy, effortless, and correct manner",
+        "defineVi": "một cách dễ dàng, dễ dàng và chính xác"
+    },
+    {
+        "id": "b0245a30-04c6-46c8-a0a3-93bc1140cb0d",
+        "word": "to fly",
+        "phonetic": "tə flaɪ ",
+        "type": "verb",
+        "defineEn": "to move or travel through the air",
+        "defineVi": "để di chuyển hoặc đi du lịch trong không khí",
+        "hasImg": true
+    },
+    {
+        "id": "45d64225-f7c5-4dbc-806e-0d9aa3354a9b",
+        "word": "grand",
+        "phonetic": "ɡɹænd ",
+        "type": "adjective",
+        "defineEn": "very impressive and large",
+        "defineVi": "rất ấn tượng và lớn"
+    },
+    {
+        "id": "b6c56be2-49c6-43ef-be0b-82a561cacb7b",
+        "word": "green",
+        "phonetic": "ɡɹiːn ",
+        "type": "adjective",
+        "defineEn": "having the color of fresh grass or most plant leaves",
+        "defineVi": "có màu của cỏ tươi hoặc hầu hết các lá cây",
+        "hasImg": true
+    }
+]

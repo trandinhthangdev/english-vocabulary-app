@@ -1,0 +1,364 @@
+[
+    {
+        "id": "9062e9d8-9463-4675-b2f0-42fba6557cf5",
+        "word": "absorbed",
+        "phonetic": "ɐbsoːɹbd ",
+        "type": "adjective",
+        "defineEn": "paying much attention to something or someone that makes one unaware of other things",
+        "defineVi": "chú ý nhiều đến một cái gì đó hoặc ai đó khiến người ta không biết về những thứ khác"
+    },
+    {
+        "id": "437d3cf5-ca4e-4ab1-ac05-112d62f7a771",
+        "word": "inquisitive",
+        "phonetic": "ɪŋkwɪzᵻtɪv ",
+        "type": "adjective",
+        "defineEn": "having a desire to learn many different things",
+        "defineVi": "có mong muốn học hỏi nhiều điều khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "84b653c4-c096-4fbb-b1dc-78581a09f913",
+        "word": "apprehensive",
+        "phonetic": "æpɹihɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "nervous or worried that something unpleasant may happen",
+        "defineVi": "lo lắng hoặc lo lắng rằng một cái gì đó khó chịu có thể xảy ra",
+        "hasImg": true
+    },
+    {
+        "id": "eb8eda8e-d77a-4247-bfa7-334e6ef678b4",
+        "word": "astounded",
+        "phonetic": "ɐstaʊndᵻd ",
+        "type": "adjective",
+        "defineEn": "greatly shocked or surprised",
+        "defineVi": "rất sốc hoặc ngạc nhiên",
+        "hasImg": true
+    },
+    {
+        "id": "a0678ee6-5860-4cae-8c4c-65f6772d26d1",
+        "word": "agitated",
+        "phonetic": "ædʒᵻteɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "very nervous in a way that makes one unable to think clearly",
+        "defineVi": "rất lo lắng theo cách khiến người ta không thể suy nghĩ rõ ràng",
+        "hasImg": true
+    },
+    {
+        "id": "577c20bd-0795-4423-ace9-e082a048141c",
+        "word": "frantic",
+        "phonetic": "fɹæntɪk ",
+        "type": "adjective",
+        "defineEn": "greatly frightened and worried about something, in a way that is uncontrollable",
+        "defineVi": "rất sợ hãi và lo lắng về điều gì đó, theo cách không thể kiểm soát được"
+    },
+    {
+        "id": "e706a844-6b63-4dc7-8d74-297c8fc9194c",
+        "word": "broken",
+        "phonetic": "bɹoʊkən ",
+        "type": "adjective",
+        "defineEn": "physically or mentally weakened as a result of much suffering",
+        "defineVi": "thể chất hoặc tinh thần bị suy yếu do chịu nhiều đau khổ"
+    },
+    {
+        "id": "a5e25c5c-8605-428b-b3ee-253043270055",
+        "word": "disturbing",
+        "phonetic": "dɪstɜːbɪŋ ",
+        "type": "adjective",
+        "defineEn": "upsetting or unsettling",
+        "defineVi": "khó chịu hoặc đáng lo ngại"
+    },
+    {
+        "id": "3762ec20-0993-48e9-b79a-a825a52bab14",
+        "word": "disgusted",
+        "phonetic": "dɪsɡʌstᵻd ",
+        "type": "adjective",
+        "defineEn": "having or displaying great dislike for something",
+        "defineVi": "có hoặc hiển thị rất không thích cho một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "d29e9a14-0cf5-4bc8-abc0-56d0f12cb3bc",
+        "word": "lovable",
+        "phonetic": "lʌvəbəl ",
+        "type": "adjective",
+        "defineEn": "possessing traits that attract people's affection",
+        "defineVi": "sở hữu những đặc điểm thu hút tình cảm của mọi người"
+    },
+    {
+        "id": "e8599575-258f-4d46-ac85-670e8d07a797",
+        "word": "desolate",
+        "phonetic": "dɛsələt ",
+        "type": "adjective",
+        "defineEn": "feeling very lonely and sad",
+        "defineVi": "cảm thấy rất cô đơn và buồn"
+    },
+    {
+        "id": "03f2e6ca-3d06-4745-ae3c-cefe030f8064",
+        "word": "contemptuous",
+        "phonetic": "kəntɛmptʃuːəs ",
+        "type": "adjective",
+        "defineEn": "devoid of respect for someone or something",
+        "defineVi": "không có sự tôn trọng cho một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "14bc37ca-beb6-4936-9edb-baf85a29a27c",
+        "word": "content",
+        "phonetic": "kɑːntɛnt ",
+        "type": "adjective",
+        "defineEn": "satisfied and happy with one's situation",
+        "defineVi": "hài lòng và hạnh phúc với tình hình của một người",
+        "hasImg": true
+    },
+    {
+        "id": "15e2affc-1734-47dd-bb66-576e8a95d7ba",
+        "word": "devoted",
+        "phonetic": "dɪvoʊɾᵻd ",
+        "type": "adjective",
+        "defineEn": "expressing much attention and love toward someone or something",
+        "defineVi": "thể hiện nhiều sự quan tâm và tình yêu đối với một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "8bc39eca-541c-4e0e-98dc-5d6e27775e76",
+        "word": "ecstatic",
+        "phonetic": "ɛkstæɾɪk ",
+        "type": "adjective",
+        "defineEn": "very excited and happy",
+        "defineVi": "rất vui mừng và hạnh phúc",
+        "hasImg": true
+    },
+    {
+        "id": "d16a6b89-f4c8-4e6e-a90a-01abe104eff0",
+        "word": "thrilled",
+        "phonetic": "θɹɪld ",
+        "type": "adjective",
+        "defineEn": "very excited, happy, or pleased about something",
+        "defineVi": "rất vui mừng, hạnh phúc, hoặc hài lòng về một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "c9f28c55-7f76-4507-9a42-0df0826f9fa2",
+        "word": "gloomy",
+        "phonetic": "ɡluːmi ",
+        "type": "adjective",
+        "defineEn": "hopeless or causing sadness",
+        "defineVi": "vô vọng hoặc gây ra nỗi buồn",
+        "hasImg": true
+    },
+    {
+        "id": "b827a661-255b-4a52-9f46-720b1318b5a8",
+        "word": "joyful",
+        "phonetic": "dʒɔɪfəl ",
+        "type": "adjective",
+        "defineEn": "having, showing, or causing much happiness",
+        "defineVi": "có, hiển thị, hoặc gây ra nhiều hạnh phúc",
+        "hasImg": true
+    },
+    {
+        "id": "d0f7cd25-5f9e-4bfe-b215-d6b9e4197db8",
+        "word": "fond",
+        "phonetic": "fɑːnd ",
+        "type": "adjective",
+        "defineEn": "feeling or showing emotional attachment or nostalgia towards a person or thing",
+        "defineVi": "cảm giác hoặc thể hiện tình cảm gắn bó hoặc nỗi nhớ đối với một người hoặc vật",
+        "hasImg": true
+    },
+    {
+        "id": "bf474553-c1d8-4211-8059-15cf63152fcc",
+        "word": "appalled",
+        "phonetic": "ɐpɔːld ",
+        "type": "adjective",
+        "defineEn": "very scared and shocked by something unpleasant or bad",
+        "defineVi": "rất sợ hãi và bị sốc bởi một cái gì đó khó chịu hoặc xấu",
+        "hasImg": true
+    },
+    {
+        "id": "d486759d-d767-4005-86f6-82877191ba72",
+        "word": "horrified",
+        "phonetic": "hɔːɹɪfaɪd ",
+        "type": "adjective",
+        "defineEn": "very scared or shocked",
+        "defineVi": "rất sợ hãi hoặc bị sốc",
+        "hasImg": true
+    },
+    {
+        "id": "d149f3d0-d2d6-4a72-a8d6-be419de0bdb1",
+        "word": "disillusioned",
+        "phonetic": "dɪsɪluːʒənd ",
+        "type": "adjective",
+        "defineEn": "feeling disappointed because someone or something is not as worthy or good as one believed",
+        "defineVi": "cảm thấy thất vọng vì ai đó hoặc điều gì đó không xứng đáng hoặc tốt như người ta tin tưởng"
+    },
+    {
+        "id": "aa545278-bd30-4988-9071-ba9929bdee97",
+        "word": "distressed",
+        "phonetic": "dɪstɹɛst ",
+        "type": "adjective",
+        "defineEn": "very nervous and upset",
+        "defineVi": "rất lo lắng và khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "d3c4acee-b6f3-47fb-a57a-68bc2f28379b",
+        "word": "disturbed",
+        "phonetic": "dɪstɜːbd ",
+        "type": "adjective",
+        "defineEn": "very upset or nervous",
+        "defineVi": "rất khó chịu hoặc lo lắng",
+        "hasImg": true
+    },
+    {
+        "id": "730e839d-64bb-4f7c-9a05-c9d282d93e6c",
+        "word": "uneasy",
+        "phonetic": "ʌniːzi ",
+        "type": "adjective",
+        "defineEn": "nervous or worried, particularly about the imminence of something unpleasant",
+        "defineVi": "lo lắng hoặc lo lắng, đặc biệt là về sự sắp xảy ra của một cái gì đó khó chịu"
+    },
+    {
+        "id": "4abd8647-5d9c-48fa-a6db-af13d2040680",
+        "word": "fierce",
+        "phonetic": "fɪɹs ",
+        "type": "adjective",
+        "defineEn": "having or displaying aggressiveness",
+        "defineVi": "có hoặc thể hiện sự hung hăng"
+    },
+    {
+        "id": "c926aec2-293b-41f4-afbe-2b005fbd871e",
+        "word": "frozen",
+        "phonetic": "fɹoʊzən ",
+        "type": "adjective",
+        "defineEn": "not showing any emotion",
+        "defineVi": "không thể hiện bất kỳ cảm xúc"
+    },
+    {
+        "id": "133aa762-1a06-4637-9c66-423a8e0c3759",
+        "word": "frustrated",
+        "phonetic": "fɹʌstɹeɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "irritated and upset because of being unable to achieve something or change an unwanted situation",
+        "defineVi": "khó chịu và khó chịu vì không thể đạt được điều gì đó hoặc thay đổi một tình huống không mong muốn"
+    },
+    {
+        "id": "3f2d7e3a-8bef-42e7-a5da-9654b7ac8b26",
+        "word": "intrigued",
+        "phonetic": "ɪntɹiːɡd ",
+        "type": "adjective",
+        "defineEn": "wanting to know more about something because it seems very interesting",
+        "defineVi": "muốn biết thêm về một cái gì đó bởi vì nó có vẻ rất thú vị"
+    },
+    {
+        "id": "6f8a6bc5-fc84-4862-80b2-249d9af3109a",
+        "word": "protective",
+        "phonetic": "pɹətɛktɪv ",
+        "type": "adjective",
+        "defineEn": "displaying or having a desire to protect someone or something",
+        "defineVi": "hiển thị hoặc có một mong muốn để bảo vệ một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "c7fa9400-604f-47e3-a9c7-d875e37c56e2",
+        "word": "provocative",
+        "phonetic": "pɹəvɑːkətɪv ",
+        "type": "adjective",
+        "defineEn": "causing anger or argument, particularly intentionally",
+        "defineVi": "gây ra sự tức giận hoặc tranh luận, đặc biệt là cố ý"
+    },
+    {
+        "id": "dab20ef6-7e5c-4d3e-b3aa-e6e4b0599f02",
+        "word": "self-conscious",
+        "phonetic": "sɛlfkɑːnʃəs ",
+        "type": "adjective",
+        "defineEn": "embarrassed or worried about one's appearance or actions",
+        "defineVi": "xấu hổ hoặc lo lắng về ngoại hình hoặc hành động của một người",
+        "hasImg": true
+    },
+    {
+        "id": "d9b6fa99-1ed2-416f-90d1-bc28006a729e",
+        "word": "sentimental",
+        "phonetic": "sɛntɪmɛntəl ",
+        "type": "adjective",
+        "defineEn": "easily affected by emotions",
+        "defineVi": "dễ bị ảnh hưởng bởi cảm xúc"
+    },
+    {
+        "id": "fec1b26f-677e-46da-a5cc-3ed75af818a4",
+        "word": "speechless",
+        "phonetic": "spiːtʃləs ",
+        "type": "adjective",
+        "defineEn": "unable to speak for a short time, particularly as a result of surprise, shock, or anger",
+        "defineVi": "không thể nói trong một thời gian ngắn, đặc biệt là do ngạc nhiên, sốc hoặc tức giận"
+    },
+    {
+        "id": "80a47253-d565-4a35-b3b5-bcc0a7115213",
+        "word": "compassion",
+        "phonetic": "kəmpæʃən ",
+        "type": "noun",
+        "defineEn": "great sympathy for a person or animal that is suffering",
+        "defineVi": "rất thông cảm cho một người hoặc động vật đang đau khổ",
+        "hasImg": true
+    },
+    {
+        "id": "67f8e3f2-8e70-490e-a196-c18532ce8405",
+        "word": "heartbreak",
+        "phonetic": "hɑːɹtbɹeɪk ",
+        "type": "noun",
+        "defineEn": "a feeling of great distress or sadness",
+        "defineVi": "một cảm giác vô cùng đau khổ hoặc buồn bã"
+    },
+    {
+        "id": "b60943fc-8830-4b3a-b90a-f9c868e33461",
+        "word": "sob story",
+        "phonetic": "sɑːb stoːɹi ",
+        "type": "noun",
+        "defineEn": "a story told in order to gain the sympathy of other people, particularly one that seems to be fake",
+        "defineVi": "một câu chuyện được kể để đạt được sự đồng cảm của người khác, đặc biệt là một câu chuyện có vẻ là giả"
+    },
+    {
+        "id": "fd2e4039-19f1-494f-be81-78bd3eee3b12",
+        "word": "to come to terms with sth",
+        "phonetic": "tə kʌm tə tɜːmz wɪð ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "to gradually learn to accept or deal with something unpleasant",
+        "defineVi": "để dần dần học cách chấp nhận hoặc đối phó với một cái gì đó khó chịu"
+    },
+    {
+        "id": "07d94723-8c80-444f-bc4f-c685fadc7307",
+        "word": "poker face",
+        "phonetic": "poʊkɚ feɪs ",
+        "type": "noun",
+        "defineEn": "a facial expression that does not reveal a person's feelings or thoughts",
+        "defineVi": "một nét mặt không tiết lộ cảm xúc hoặc suy nghĩ của một người",
+        "hasImg": true
+    },
+    {
+        "id": "e6abd5a5-c799-4f1d-8e23-221e7d111573",
+        "word": "goddamn",
+        "phonetic": "ɡɑːdæm ",
+        "type": "adjective",
+        "defineEn": "used for showing annoyance or anger with a person or thing, in a way that is not very polite",
+        "defineVi": "được sử dụng để thể hiện sự khó chịu hoặc tức giận với một người hoặc vật theo cách không lịch sự lắm"
+    },
+    {
+        "id": "28478cb0-8575-43b8-865c-db73d3e36c5f",
+        "word": "bloody",
+        "phonetic": "blʌdi ",
+        "type": "adjective",
+        "defineEn": "used for expressing annoyance or anger in a way that may seem a bit offensive",
+        "defineVi": "được sử dụng để thể hiện sự khó chịu hoặc tức giận theo cách có vẻ hơi xúc phạm"
+    },
+    {
+        "id": "eadbdffd-ee7c-40ae-a906-32fa4004362b",
+        "word": "bananas",
+        "phonetic": "bɐnænəz ",
+        "type": "adjective",
+        "defineEn": "experiencing an state of extreme anger, excitement, or craziness",
+        "defineVi": "trải qua trạng thái cực kỳ tức giận, phấn khích hoặc điên cuồng"
+    },
+    {
+        "id": "7b396033-78e8-429f-9891-e1202dff54ae",
+        "word": "disenchanted",
+        "phonetic": "dɪsɛntʃæntᵻd ",
+        "type": "adjective",
+        "defineEn": "not believing in the worth or value of a person or thing any longer",
+        "defineVi": "không còn tin vào giá trị hoặc giá trị của một người hoặc vật nữa"
+    }
+]

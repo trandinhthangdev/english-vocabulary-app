@@ -1,0 +1,512 @@
+[
+    {
+        "id": "bbb4107d-59da-42a3-b590-fe7b6939b7d9",
+        "word": "monkey",
+        "phonetic": "mʌŋki ",
+        "type": "noun",
+        "defineEn": "an animal that has a long tail and usually lives in trees and warm countries",
+        "defineVi": "một con vật có đuôi dài và thường sống trên cây và các nước ấm áp",
+        "hasImg": true
+    },
+    {
+        "id": "8574b78e-1788-45b9-babb-a06c3945cec1",
+        "word": "ape",
+        "phonetic": "eɪp ",
+        "type": "noun",
+        "defineEn": "a tailless animal similar to a monkey, such as chimpanzees and gorillas",
+        "defineVi": "một động vật cụt đuôi tương tự như một con khỉ, chẳng hạn như tinh tinh và khỉ đột",
+        "hasImg": true
+    },
+    {
+        "id": "0bb060d4-e434-4447-b3c7-5f0e81040294",
+        "word": "bushbaby",
+        "phonetic": "bʊʃbeɪbi ",
+        "type": "noun",
+        "defineEn": "a small nocturnal primate with long tail and very large eyes that lives on trees and is native to Africa",
+        "defineVi": "một loài linh trưởng nhỏ sống về đêm với cái đuôi dài và đôi mắt rất to sống trên cây và có nguồn gốc từ Châu Phi",
+        "hasImg": true
+    },
+    {
+        "id": "26cb45dc-4807-41e7-ac9b-a216aed10d60",
+        "word": "baboon",
+        "phonetic": "bæbuːn ",
+        "type": "noun",
+        "defineEn": "a large monkey with a doglike face and large teeth, native to Africa and South Asia",
+        "defineVi": "một con khỉ lớn với khuôn mặt giống chó và hàm răng lớn, có nguồn gốc từ Châu Phi và Nam Á",
+        "hasImg": true
+    },
+    {
+        "id": "08e11b45-2be1-4d73-8f63-633d89757b6e",
+        "word": "orangutan",
+        "phonetic": "ɔɹæŋɡətæn ",
+        "type": "noun",
+        "defineEn": "a large ape with a red coat and long arms that lives in the rainforests of Southeast Asia, the male of which develops a throat pouch",
+        "defineVi": "một loài vượn lớn có bộ lông màu đỏ và cánh tay dài sống trong các khu rừng nhiệt đới ở Đông Nam Á, con đực phát triển một túi cổ họng",
+        "hasImg": true
+    },
+    {
+        "id": "c6b45c3f-26ba-4597-960d-e003c5e937da",
+        "word": "chimpanzee",
+        "phonetic": "tʃɪmpɐnziː ",
+        "type": "noun",
+        "defineEn": "an intelligent ape, with mainly black fur, which has no tail and is native to the forests of western and central Africa",
+        "defineVi": "một loài vượn thông minh, có bộ lông chủ yếu là màu đen, không có đuôi và có nguồn gốc từ các khu rừng ở phía tây và trung tâm châu Phi",
+        "hasImg": true
+    },
+    {
+        "id": "5dbf531f-90ea-4923-ac41-6d1eefacc674",
+        "word": "gibbon",
+        "phonetic": "ɡɪbən ",
+        "type": "noun",
+        "defineEn": "a small ape with long powerful arms and no tail that climbs trees, inhabiting subtropical forests of south-east Asia",
+        "defineVi": "một loài vượn nhỏ với cánh tay dài mạnh mẽ và không có đuôi trèo cây, sinh sống trong các khu rừng cận nhiệt đới ở Đông Nam Á",
+        "hasImg": true
+    },
+    {
+        "id": "8694fa98-8953-427d-8911-1aa911b166a1",
+        "word": "potto",
+        "phonetic": "pɑːɾoʊ ",
+        "type": "noun",
+        "defineEn": "a small nocturnal primate that has a short tail and moves very slowly, living in the rainforests of Africa",
+        "defineVi": "một loài linh trưởng nhỏ sống về đêm có đuôi ngắn và di chuyển rất chậm, sống trong các khu rừng nhiệt đới ở Châu Phi",
+        "hasImg": true
+    },
+    {
+        "id": "875107ff-81ca-4293-8cce-40ea38f34d71",
+        "word": "lemur",
+        "phonetic": "liːmɚ ",
+        "type": "noun",
+        "defineEn": "a large-eyed primate with a pointed snout and long ringed tail that is originally from the island of Madagascar",
+        "defineVi": "một loài linh trưởng mắt to với mõm nhọn và đuôi dài có vòng tròn có nguồn gốc từ đảo Madagascar",
+        "hasImg": true
+    },
+    {
+        "id": "a27fabda-ac5b-4230-8695-6a5c723498b2",
+        "word": "mandrill",
+        "phonetic": "mændɹɪl ",
+        "type": "noun",
+        "defineEn": "a primate species native to central and western Africa, known for its distinctive colorful face and impressive size",
+        "defineVi": "một loài linh trưởng có nguồn gốc từ miền trung và miền tây châu Phi, được biết đến với khuôn mặt sặc sỡ đặc biệt và kích thước ấn tượng",
+        "hasImg": true
+    },
+    {
+        "id": "2ad4d544-1d87-4d4d-85f1-b1151128087a",
+        "word": "spider monkey",
+        "phonetic": "spaɪdɚ mʌŋki ",
+        "type": "noun",
+        "defineEn": "a primate species with a slender body, long limbs, and a prehensile tail, known for its exceptional agility and acrobatic behaviors in the trees of Central and South American rainforests",
+        "defineVi": "một loài linh trưởng có thân hình mảnh khảnh, các chi dài và đuôi có thể uốn cong, được biết đến với sự nhanh nhẹn đặc biệt và các hành vi nhào lộn trên cây của các khu rừng nhiệt đới Trung và Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "e7e07a1e-cbe7-49aa-b060-6a3ce7b5a970",
+        "word": "capuchin",
+        "phonetic": "kæpətʃɪn ",
+        "type": "noun",
+        "defineEn": "a type of primate known for its distinctive appearance, including a tuft of hair on its head",
+        "defineVi": "một loại linh trưởng được biết đến với vẻ ngoài đặc biệt, bao gồm cả một búi tóc trên đầu",
+        "hasImg": true
+    },
+    {
+        "id": "df0278f9-1847-49f1-955f-0dd9edb63e11",
+        "word": "rhesus monkey",
+        "phonetic": "ɹɛsəs mʌŋki ",
+        "type": "noun",
+        "defineEn": "a medium-sized primate species known for its distinctive red-brown fur, long tail, and prominent facial features",
+        "defineVi": "một loài linh trưởng cỡ trung bình được biết đến với bộ lông màu nâu đỏ đặc biệt, đuôi dài và các đặc điểm nổi bật trên khuôn mặt",
+        "hasImg": true
+    },
+    {
+        "id": "9cd140c1-0e0c-4e4a-8aed-2eb2780fc5cd",
+        "word": "howler monkey",
+        "phonetic": "haʊlɚ mʌŋki ",
+        "type": "noun",
+        "defineEn": "a species of New World monkey recognized for its loud vocalizations, prehensile tail, and distinctive appearance",
+        "defineVi": "một loài khỉ Tân thế giới được công nhận nhờ tiếng kêu lớn, đuôi có thể uốn cong và ngoại hình đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "5abd8fac-6198-4002-8996-09fe4e0b4823",
+        "word": "marmoset",
+        "phonetic": "mɑːɹməsɛt ",
+        "type": "noun",
+        "defineEn": "a small, tree-dwelling primate known for its diminutive size, unique appearance, and social behavior, native to South America",
+        "defineVi": "một loài linh trưởng nhỏ, sống trên cây được biết đến với kích thước nhỏ bé, ngoại hình độc đáo và hành vi xã hội, có nguồn gốc từ Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "756e06f2-ca5c-4cdf-80fa-b8bd920b67ca",
+        "word": "golden marmoset",
+        "phonetic": "ɡoʊldən mɑːɹməsɛt ",
+        "type": "noun",
+        "defineEn": "a small New World monkey species native to the rainforests of Brazil, known for its striking golden-orange fur",
+        "defineVi": "một loài khỉ nhỏ ở Tân thế giới có nguồn gốc từ các khu rừng nhiệt đới ở Brazil, được biết đến với bộ lông màu vàng cam nổi bật",
+        "hasImg": true
+    },
+    {
+        "id": "177e3347-30d5-4a46-b828-ffba6170f0c1",
+        "word": "woolly monkey",
+        "phonetic": "wʊli mʌŋki ",
+        "type": "noun",
+        "defineEn": "a large, arboreal primate found in South American rainforests, known for its shaggy fur, social behavior, and herbivorous diet",
+        "defineVi": "một loài linh trưởng lớn sống trên cây được tìm thấy ở các khu rừng nhiệt đới Nam Mỹ, được biết đến với bộ lông xù xì, hành vi xã hội và chế độ ăn cỏ",
+        "hasImg": true
+    },
+    {
+        "id": "efebd313-fa89-421c-9a99-1e35744d24e4",
+        "word": "squirrel monkey",
+        "phonetic": "skwɜːl mʌŋki ",
+        "type": "noun",
+        "defineEn": "a small, agile primate found in the forests of Central and South America, known for its lively and social behavior, large eyes, and distinctively colored fur",
+        "defineVi": "một loài linh trưởng nhỏ, nhanh nhẹn được tìm thấy trong các khu rừng ở Trung và Nam Mỹ, được biết đến với hành vi hoạt bát và xã hội, đôi mắt to và bộ lông có màu đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "27e55cec-4f1c-4093-a460-0758c194257f",
+        "word": "vervet monkey",
+        "phonetic": "vɜːvɪt mʌŋki ",
+        "type": "noun",
+        "defineEn": "a medium-sized Old World monkey with a colorful coat, distinct facial markings, and known for its social behavior and adaptability in various African habitats",
+        "defineVi": "một con khỉ Cựu thế giới có kích thước trung bình với bộ lông sặc sỡ, các dấu hiệu trên khuôn mặt khác biệt và được biết đến với hành vi xã hội và khả năng thích nghi trong các môi trường sống khác nhau ở châu Phi",
+        "hasImg": true
+    },
+    {
+        "id": "4ec2ad62-86c4-4a16-a2bc-f09a0edfc727",
+        "word": "titi monkey",
+        "phonetic": "tiːɾi mʌŋki ",
+        "type": "noun",
+        "defineEn": "a small to medium-sized New World monkey known for its long, fluffy tail, soft fur, and often monogamous social structure",
+        "defineVi": "một con khỉ Tân thế giới cỡ nhỏ đến trung bình được biết đến với cái đuôi dài, lông tơ, bộ lông mềm mại và cấu trúc xã hội thường một vợ một chồng",
+        "hasImg": true
+    },
+    {
+        "id": "5c62fc35-18b7-48fd-bbfd-2e6a9f8b15a1",
+        "word": "proboscis monkey",
+        "phonetic": "pɹəbɑːskɪs mʌŋki ",
+        "type": "noun",
+        "defineEn": "a primate species native to Borneo, characterized by its large, pendulous nose, reddish-brown coat in males, and arboreal lifestyle",
+        "defineVi": "một loài linh trưởng có nguồn gốc từ Borneo, được đặc trưng bởi chiếc mũi to, rủ xuống, bộ lông màu nâu đỏ ở con đực và lối sống trên cây",
+        "hasImg": true
+    },
+    {
+        "id": "0ce71589-3880-4aa5-b8a2-9fec574d7b29",
+        "word": "old world monkey",
+        "phonetic": "oʊld wɜːld mʌŋki ",
+        "type": "noun",
+        "defineEn": "a group of primates belonging to the family Cercopithecidae, characterized by their relatively large size, long tails, and complex social structures",
+        "defineVi": "một nhóm linh trưởng thuộc họ Cercopithecidae, được đặc trưng bởi kích thước tương đối lớn, đuôi dài và cấu trúc xã hội phức tạp"
+    },
+    {
+        "id": "e780c59c-add3-47cc-983b-d564044beed8",
+        "word": "new world monkey",
+        "phonetic": "nuː wɜːld mʌŋki ",
+        "type": "noun",
+        "defineEn": "a group of primates found primarily in Central and South America, known for their diverse appearance, including a wide range of sizes, colors, and tail lengths",
+        "defineVi": "một nhóm linh trưởng được tìm thấy chủ yếu ở Trung và Nam Mỹ, được biết đến với vẻ ngoài đa dạng, bao gồm nhiều kích cỡ, màu sắc và độ dài đuôi"
+    },
+    {
+        "id": "91d8f87f-6af8-4ece-aae5-3f48cfacd10a",
+        "word": "hussar monkey",
+        "phonetic": "hʌzɑːɹ mʌŋki ",
+        "type": "noun",
+        "defineEn": "a species of primate found in West Africa, known for its reddish coat, long tail, and distinctive facial markings",
+        "defineVi": "một loài linh trưởng được tìm thấy ở Tây Phi, được biết đến với bộ lông màu đỏ, đuôi dài và các dấu hiệu đặc biệt trên khuôn mặt",
+        "hasImg": true
+    },
+    {
+        "id": "359940e4-ff26-4331-aa9f-a128e4131e79",
+        "word": "green monkey",
+        "phonetic": "ɡɹiːn mʌŋki ",
+        "type": "noun",
+        "defineEn": "a primate species, typically found in Central and South America, with a green coat of fur",
+        "defineVi": "một loài linh trưởng, thường được tìm thấy ở Trung và Nam Mỹ, với bộ lông màu xanh lá cây"
+    },
+    {
+        "id": "93724173-b46f-4e59-a264-06f40396f648",
+        "word": "macaque",
+        "phonetic": "mækæk ",
+        "type": "noun",
+        "defineEn": "a type of monkey that belongs to the Old World monkey family, characterized by their long tails, cheek pouches",
+        "defineVi": "một loại khỉ thuộc họ khỉ Cựu thế giới, có đặc điểm là đuôi dài, túi má",
+        "hasImg": true
+    },
+    {
+        "id": "5c6a5705-bab2-4f4e-b774-a691342343ca",
+        "word": "colobus monkey",
+        "phonetic": "kɑːlɑːbəs mʌŋki ",
+        "type": "noun",
+        "defineEn": "a primate species native to Africa, known for their striking appearance characterized by black and white fur, long tails, and absence of thumbs",
+        "defineVi": "một loài linh trưởng có nguồn gốc từ Châu Phi, được biết đến với vẻ ngoài nổi bật đặc trưng bởi bộ lông đen trắng, đuôi dài và không có ngón tay cái"
+    },
+    {
+        "id": "3cee24f9-3c48-40d4-a88d-03e59292a5d5",
+        "word": "bonnet monkey",
+        "phonetic": "bɑːnɪt mʌŋki ",
+        "type": "noun",
+        "defineEn": "a primate species found in South Asia, known for their dark-colored body, lighter \"cap\" on their head, long tail, and herbivorous diet",
+        "defineVi": "một loài linh trưởng được tìm thấy ở Nam Á, được biết đến với cơ thể màu sẫm, \"mũ\" sáng hơn trên đầu, đuôi dài và chế độ ăn cỏ"
+    },
+    {
+        "id": "68acca32-e864-456c-823f-6a77f21d91e7",
+        "word": "ring-tailed lemur",
+        "phonetic": "ɹɪŋteɪld liːmɚ ",
+        "type": "noun",
+        "defineEn": "a primate species native to Madagascar, known for their unique appearance characterized by a long, striped tail with distinctive black and white rings",
+        "defineVi": "một loài linh trưởng có nguồn gốc từ Madagascar, được biết đến với vẻ ngoài độc đáo đặc trưng bởi chiếc đuôi dài, có sọc với các vòng đen và trắng đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "62cf7663-8bcc-4c39-8c95-98d509e0ba45",
+        "word": "galago",
+        "phonetic": "ɡæleɪɡoʊ ",
+        "type": "noun",
+        "defineEn": "a small primate species found in Africa, known for their large eyes, long tail, and ability to leap and navigate through trees at night",
+        "defineVi": "một loài linh trưởng nhỏ được tìm thấy ở Châu Phi, được biết đến với đôi mắt to, đuôi dài và khả năng nhảy và di chuyển qua cây vào ban đêm",
+        "hasImg": true
+    },
+    {
+        "id": "89ecaa0f-8abe-4e0e-aa4c-05883c2be551",
+        "word": "loris",
+        "phonetic": "loːɹɪs ",
+        "type": "noun",
+        "defineEn": "a primate species found in Southeast Asia and Africa, known for their slow and deliberate movements, large eyes, and nocturnal lifestyle",
+        "defineVi": "một loài linh trưởng được tìm thấy ở Đông Nam Á và Châu Phi, được biết đến với những chuyển động chậm chạp và thận trọng, đôi mắt to và lối sống về đêm",
+        "hasImg": true
+    },
+    {
+        "id": "80df8b9d-4846-4463-b1f5-e54756313979",
+        "word": "tarsier",
+        "phonetic": "tɑːɹsiɚ ",
+        "type": "noun",
+        "defineEn": "a small primate species found in Southeast Asia, known for their distinctive appearance characterized by large eyes",
+        "defineVi": "một loài linh trưởng nhỏ được tìm thấy ở Đông Nam Á, được biết đến với vẻ ngoài đặc biệt đặc trưng bởi đôi mắt to",
+        "hasImg": true
+    },
+    {
+        "id": "b0dd2e57-da12-4956-91b0-6c11667605b1",
+        "word": "saki",
+        "phonetic": "sæki ",
+        "type": "noun",
+        "defineEn": "a type of New World monkey, known for their diverse species and distinctive appearance, characterized by a bushy tail, large eyes, and unique facial features",
+        "defineVi": "một loại khỉ Tân thế giới, được biết đến với sự đa dạng về chủng loại và ngoại hình đặc biệt, đặc trưng bởi chiếc đuôi rậm rạp, đôi mắt to và những đặc điểm khuôn mặt độc đáo"
+    },
+    {
+        "id": "706f1dbc-00ee-4735-8b1e-136366954b61",
+        "word": "douroucouli",
+        "phonetic": "daʊɚɹaʊkuːli ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in Central and South America, known for their nocturnal lifestyle, large eyes, and unique vocalizations",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Trung và Nam Mỹ, được biết đến với lối sống về đêm, đôi mắt to và tiếng kêu độc đáo"
+    },
+    {
+        "id": "efb778dd-c1a0-4313-bf74-c98fc2a2f294",
+        "word": "tamarin",
+        "phonetic": "tæmɚɹɪn ",
+        "type": "noun",
+        "defineEn": "a small primate species found in Central and South America, known for their diminutive size, distinctive appearance",
+        "defineVi": "một loài linh trưởng nhỏ được tìm thấy ở Trung và Nam Mỹ, được biết đến với kích thước nhỏ bé, vẻ ngoài đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "2445c2d2-d0b6-4907-b537-2ae7b550fb01",
+        "word": "uakari",
+        "phonetic": "juːɐkɑːɹɹi ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in South America, recognized for their distinctive appearance characterized by a bald face, bright red facial skin, and a unique social structure",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Nam Mỹ, được công nhận vì vẻ ngoài đặc biệt của chúng, đặc trưng bởi khuôn mặt hói, da mặt đỏ tươi và cấu trúc xã hội độc đáo",
+        "hasImg": true
+    },
+    {
+        "id": "e7043cc5-ac27-4ebd-aa8e-3e0b6b6dce29",
+        "word": "patas",
+        "phonetic": "pɑːɾəz ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in Africa, known for their slender body, long limbs, and distinctive reddish-brown coat",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Châu Phi, được biết đến với thân hình mảnh khảnh, các chi dài và bộ lông màu nâu đỏ đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "5bcbfc42-61c1-466a-a392-7b9b4e0c4006",
+        "word": "indri",
+        "phonetic": "ɪndɹaɪ ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in Madagascar, recognized for their large size, distinctive black and white coat, and unique vocalizations",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Madagascar, được công nhận vì kích thước lớn, bộ lông đen trắng đặc biệt và cách phát âm độc đáo",
+        "hasImg": true
+    },
+    {
+        "id": "77b753df-7575-4063-a69a-dcab900e28ea",
+        "word": "douc",
+        "phonetic": "daʊk ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in Southeast Asia, known for their vibrant and distinctive coat colors, arboreal lifestyle, and unique facial markings",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Đông Nam Á, được biết đến với màu lông sặc sỡ và đặc biệt, lối sống sống trên cây và các dấu hiệu trên khuôn mặt độc đáo",
+        "hasImg": true
+    },
+    {
+        "id": "4c958dc0-da51-472b-a0f5-3e3358eba3a4",
+        "word": "bonobo",
+        "phonetic": "bənoʊboʊ ",
+        "type": "noun",
+        "defineEn": "a type of primate species closely related to humans, known for their social and cooperative behavior, intelligence, and sexual behavior",
+        "defineVi": "một loại loài linh trưởng có quan hệ gần gũi với con người, được biết đến với hành vi xã hội và hợp tác, trí thông minh và hành vi tình dục",
+        "hasImg": true
+    },
+    {
+        "id": "a36ccf70-d6b8-4111-a077-8c97e60454bb",
+        "word": "aye-aye",
+        "phonetic": "aɪaɪ ",
+        "type": "noun",
+        "defineEn": "a type of primate species found in Madagascar, known for its unique appearance, specialized feeding habits, and critically endangered status",
+        "defineVi": "một loại linh trưởng được tìm thấy ở Madagascar, được biết đến với vẻ ngoài độc đáo, thói quen kiếm ăn chuyên biệt và tình trạng cực kỳ nguy cấp",
+        "hasImg": true
+    },
+    {
+        "id": "cc0db220-28aa-4291-b2f5-d348e7b0cb87",
+        "word": "dwarf lemur",
+        "phonetic": "dwɔːɹf liːmɚ ",
+        "type": "noun",
+        "defineEn": "a small nocturnal lemur species found in Madagascar, known for their ability to hibernate for several months of the year",
+        "defineVi": "một loài vượn cáo nhỏ sống về đêm được tìm thấy ở Madagascar, được biết đến với khả năng ngủ đông trong vài tháng trong năm"
+    },
+    {
+        "id": "dc300f76-4e63-428e-9dca-2048a1cfc59a",
+        "word": "mouse lemur",
+        "phonetic": "maʊs liːmɚ ",
+        "type": "noun",
+        "defineEn": "a small, nocturnal primate found in Madagascar, known for its mouse-like appearance and ability to enter torpor during periods of food scarcity",
+        "defineVi": "một loài linh trưởng nhỏ, sống về đêm được tìm thấy ở Madagascar, được biết đến với ngoại hình giống chuột và khả năng đi vào trạng thái mê man trong thời kỳ khan hiếm thức ăn"
+    },
+    {
+        "id": "30c8312f-8260-46f5-b88c-cca6951a943c",
+        "word": "fork-marked lemur",
+        "phonetic": "fɔːɹkmɑːɹkt liːmɚ ",
+        "type": "noun",
+        "defineEn": "a medium-sized lemur species found in Madagascar, characterized by a distinctive black line down the center of their face that forks into two lines above their eyes",
+        "defineVi": "một loài vượn cáo cỡ trung bình được tìm thấy ở Madagascar, được đặc trưng bởi một đường màu đen đặc biệt ở giữa khuôn mặt của chúng chia thành hai đường phía trên mắt chúng"
+    },
+    {
+        "id": "5151ed64-13fd-42d0-993e-6a5ea3456938",
+        "word": "sifaka",
+        "phonetic": "sɪfɑːkə ",
+        "type": "noun",
+        "defineEn": "a genus of lemur found in Madagascar, known for their distinctive mode of locomotion, in which they leap from tree to tree, using their powerful hind legs and long, muscular tail for balance",
+        "defineVi": "một chi vượn cáo được tìm thấy ở Madagascar, được biết đến với phương thức vận động đặc biệt, trong đó chúng nhảy từ cây này sang cây khác, sử dụng hai chân sau mạnh mẽ và chiếc đuôi dài, vạm vỡ để giữ thăng bằng",
+        "hasImg": true
+    },
+    {
+        "id": "27207ec5-7d9f-4608-9a35-bfa4cc57713f",
+        "word": "sportive lemur",
+        "phonetic": "spoːɹɾɪv liːmɚ ",
+        "type": "noun",
+        "defineEn": "a nocturnal lemur species found in Madagascar, characterized by their long tail, woolly fur, and their ability to climb vertically up tree trunks",
+        "defineVi": "một loài vượn cáo sống về đêm được tìm thấy ở Madagascar, đặc trưng bởi chiếc đuôi dài, bộ lông xù và khả năng leo lên thân cây theo phương thẳng đứng"
+    },
+    {
+        "id": "767c7938-5808-43a1-a954-b76658d6357e",
+        "word": "ruffed lemur",
+        "phonetic": "ɹʌft liːmɚ ",
+        "type": "noun",
+        "defineEn": "a genus of lemur found in Madagascar, characterized by their distinctive fur ruffs around their neck and their loud, raucous vocalizations",
+        "defineVi": "một chi vượn cáo được tìm thấy ở Madagascar, được đặc trưng bởi bộ lông xù đặc biệt quanh cổ và giọng kêu to, khàn khàn của chúng",
+        "hasImg": true
+    },
+    {
+        "id": "471f66b2-792b-4863-859c-40327a6ab258",
+        "word": "woolly lemur",
+        "phonetic": "wʊli liːmɚ ",
+        "type": "noun",
+        "defineEn": "a lemur species found in Madagascar, known for their thick, woolly fur and their ability to survive in cold, high-altitude habitats",
+        "defineVi": "một loài vượn cáo được tìm thấy ở Madagascar, được biết đến với bộ lông dày như len và khả năng sống sót trong môi trường sống ở độ cao lạnh giá",
+        "hasImg": true
+    },
+    {
+        "id": "7be889b4-3c94-4504-a62b-64dc049d90fd",
+        "word": "angwantibo",
+        "phonetic": "æŋwɐntiːboʊ ",
+        "type": "noun",
+        "defineEn": "a small primate species native to Africa, known for its nocturnal behavior, insectivorous diet, and unique physiological adaptations",
+        "defineVi": "một loài linh trưởng nhỏ có nguồn gốc từ Châu Phi, được biết đến với hành vi sống về đêm, chế độ ăn côn trùng và khả năng thích nghi sinh lý độc đáo"
+    },
+    {
+        "id": "ddaae812-c3f4-485d-aa51-71929cdc0830",
+        "word": "night monkey",
+        "phonetic": "naɪt mʌŋki ",
+        "type": "noun",
+        "defineEn": "a nocturnal monkey species native to Central and South America, known for their large, round eyes and monogamous social structure",
+        "defineVi": "một loài khỉ sống về đêm có nguồn gốc từ Trung và Nam Mỹ, được biết đến với đôi mắt to tròn và cấu trúc xã hội một vợ một chồng"
+    },
+    {
+        "id": "78867b6e-5875-4998-9dd9-83dbddc077ed",
+        "word": "western lowland gorilla",
+        "phonetic": "wɛstɚn loʊlənd ɡɚɹɪlə ",
+        "type": "noun",
+        "defineEn": "a primate species native to the forests of central and western Africa, known for its massive size, powerful build, and social behavior",
+        "defineVi": "một loài linh trưởng có nguồn gốc từ các khu rừng ở miền trung và miền tây châu Phi, được biết đến với kích thước khổng lồ, cơ thể mạnh mẽ và hành vi xã hội",
+        "hasImg": true
+    },
+    {
+        "id": "861a7162-a7f6-4a0f-a379-ff18bc8ebaf0",
+        "word": "eastern lowland gorilla",
+        "phonetic": "iːstɚn loʊlənd ɡɚɹɪlə ",
+        "type": "noun",
+        "defineEn": "a subspecies of gorilla found in the forests of eastern Democratic Republic of Congo",
+        "defineVi": "một phân loài khỉ đột được tìm thấy trong các khu rừng ở phía đông Cộng hòa Dân chủ Congo"
+    },
+    {
+        "id": "ab11004e-33d8-4c03-b835-669186083e6d",
+        "word": "mona monkey",
+        "phonetic": "moʊnə mʌŋki ",
+        "type": "noun",
+        "defineEn": "an Old World monkey species found in West Africa, known for their distinctive white beard and their loud, vocal communication",
+        "defineVi": "một loài khỉ Cựu thế giới được tìm thấy ở Tây Phi, được biết đến với bộ râu trắng đặc biệt và khả năng giao tiếp bằng giọng nói to"
+    },
+    {
+        "id": "7f27e16d-3a8c-4d36-a7c6-b82f8d368604",
+        "word": "mangabey",
+        "phonetic": "mæŋɡeɪbi ",
+        "type": "noun",
+        "defineEn": "a group of Old World monkeys native to Central and West Africa, known for their distinctive appearance, complex social structure, and omnivorous diet",
+        "defineVi": "một nhóm khỉ Cựu thế giới có nguồn gốc từ Trung và Tây Phi, được biết đến với ngoại hình đặc biệt, cấu trúc xã hội phức tạp và chế độ ăn tạp"
+    },
+    {
+        "id": "591324c2-e3d4-4360-bd10-37fa093b629b",
+        "word": "colobus",
+        "phonetic": "kɑːlɑːbəs ",
+        "type": "noun",
+        "defineEn": "arboreal Old World primate with distinctive black-and-white coloration, found in Africa",
+        "defineVi": "loài linh trưởng sống trên cây của Thế giới cũ với màu đen trắng đặc biệt, được tìm thấy ở Châu Phi"
+    },
+    {
+        "id": "6093272e-c186-4e5e-a75c-685212a83ca2",
+        "word": "langur",
+        "phonetic": "læŋɡɚ ",
+        "type": "noun",
+        "defineEn": "a group of Old World monkeys characterized by their long tails, slender bodies, and distinctive coloration, found in Asia",
+        "defineVi": "một nhóm khỉ Cựu thế giới được đặc trưng bởi đuôi dài, thân hình mảnh khảnh và màu sắc đặc biệt, được tìm thấy ở châu Á"
+    },
+    {
+        "id": "a18cc410-661e-426b-9cc4-c6e967b6442c",
+        "word": "snub-nosed monkey",
+        "phonetic": "snʌbnoʊzd mʌŋki ",
+        "type": "noun",
+        "defineEn": "a type of Old World monkey found in Asia, characterized by their short, upturned noses and unique adaptations for living in cold, mountainous habitats",
+        "defineVi": "một loại khỉ Cựu thế giới được tìm thấy ở châu Á, có đặc điểm là mũi ngắn, hếch và khả năng thích nghi độc đáo để sống ở môi trường sống miền núi lạnh giá"
+    },
+    {
+        "id": "1708f112-6a9b-43e8-a27e-f99b36177aa6",
+        "word": "talapoin",
+        "phonetic": "tælɐpɔɪn ",
+        "type": "noun",
+        "defineEn": "a small, arboreal monkey found in central and West Africa, known for its distinctive appearance",
+        "defineVi": "một con khỉ nhỏ sống trên cây được tìm thấy ở miền trung và Tây Phi, được biết đến với vẻ ngoài đặc biệt"
+    },
+    {
+        "id": "bb833352-2fc7-4b4e-9094-2fa911caf3fe",
+        "word": "muriqui",
+        "phonetic": "mjʊɹɹɪkwi ",
+        "type": "noun",
+        "defineEn": "a large, critically endangered New World monkey species found in Brazil, known for their complex social structure and unique reproductive biology",
+        "defineVi": "một loài khỉ Tân thế giới lớn, cực kỳ nguy cấp được tìm thấy ở Brazil, được biết đến với cấu trúc xã hội phức tạp và sinh học sinh sản độc đáo"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "id": "23cc0ead-3e46-4a2b-8e9c-fd0dac0bbdc4",
+        "word": "anatomy",
+        "phonetic": "ɐnæɾəmi ",
+        "type": "noun",
+        "defineEn": "the human body",
+        "defineVi": "cơ thể con người",
+        "hasImg": true
+    },
+    {
+        "id": "0ee1d1ef-8dfc-442d-92c8-cb409e8cfd00",
+        "word": "organ",
+        "phonetic": "ɔːɹɡən ",
+        "type": "noun",
+        "defineEn": "any vital part of the body which has a particular function",
+        "defineVi": "bất kỳ phần quan trọng của cơ thể mà có một chức năng cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "d04e5ac5-c278-4226-8b6b-7338a3aaa379",
+        "word": "orifice",
+        "phonetic": "ɔːɹɪfɪs ",
+        "type": "noun",
+        "defineEn": "a hole or external opening in the body, such as an ear canal or the anus",
+        "defineVi": "một lỗ hoặc lỗ mở bên ngoài trong cơ thể, chẳng hạn như ống tai hoặc hậu môn"
+    },
+    {
+        "id": "c4f3650d-3fc5-4c67-ad72-3157260032a0",
+        "word": "flesh",
+        "phonetic": "flɛʃ ",
+        "type": "noun",
+        "defineEn": "the soft parts of the human body",
+        "defineVi": "các bộ phận mềm của cơ thể con người",
+        "hasImg": true
+    },
+    {
+        "id": "4d6f9a33-b977-4fec-b331-7e46009bd2b3",
+        "word": "fat",
+        "phonetic": "fæt ",
+        "type": "noun",
+        "defineEn": "a substance in the bodies of animals and humans, stored under the skin, which helps them keep warm",
+        "defineVi": "một chất trong cơ thể của động vật và con người, được lưu trữ dưới da, giúp chúng giữ ấm",
+        "hasImg": true
+    },
+    {
+        "id": "2c188d28-09f6-4258-b2b6-f33c5137f6ac",
+        "word": "torso",
+        "phonetic": "toːɹsoʊ ",
+        "type": "noun",
+        "defineEn": "the upper part of the human body, excluding the arms and the head",
+        "defineVi": "phần trên của cơ thể con người, không bao gồm cánh tay và đầu",
+        "hasImg": true
+    },
+    {
+        "id": "141f9c0a-7a4b-4af5-869d-fc3eb7aff7d4",
+        "word": "trunk",
+        "phonetic": "tɹʌŋk ",
+        "type": "noun",
+        "defineEn": "the body of an animal or human, except the limbs and head",
+        "defineVi": "cơ thể của một con vật hoặc con người, ngoại trừ các chi và đầu",
+        "hasImg": true
+    },
+    {
+        "id": "d6467ddb-a31b-4a99-a091-e9eb5e0b8f2e",
+        "word": "nervous system",
+        "phonetic": "nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "the network of neurons and fibers that interpret stimuli and transmit impulses from the body to the brain",
+        "defineVi": "mạng lưới các tế bào thần kinh và sợi diễn giải các kích thích và truyền các xung từ cơ thể đến não"
+    },
+    {
+        "id": "15815ff1-afee-4472-8333-2d4bc384c4e8",
+        "word": "hormone",
+        "phonetic": "hoːɹmoʊn ",
+        "type": "noun",
+        "defineEn": "a chemical substance produced in the body of living things influencing growth and affecting the functionality of cells or tissues",
+        "defineVi": "một chất hóa học được sản xuất trong cơ thể của các sinh vật ảnh hưởng đến sự tăng trưởng và ảnh hưởng đến chức năng của tế bào hoặc mô"
+    },
+    {
+        "id": "26695073-2475-4a61-9a43-229675df6e20",
+        "word": "bone marrow",
+        "phonetic": "boʊn mæɹoʊ ",
+        "type": "noun",
+        "defineEn": "the soft substance that fills the cavities of bones, which is either yellowish and consists of fat cells or reddish and makes blood cells",
+        "defineVi": "chất mềm lấp đầy các hốc xương, có màu hơi vàng và bao gồm các tế bào mỡ hoặc hơi đỏ và tạo ra các tế bào máu",
+        "hasImg": true
+    },
+    {
+        "id": "a638c008-f07b-4bd9-96a5-fc1c1b39e96b",
+        "word": "duct",
+        "phonetic": "dʌkt ",
+        "type": "noun",
+        "defineEn": "a tubular passage in the body through which liquid, such as tears or bile, can pass",
+        "defineVi": "một lối đi hình ống trong cơ thể qua đó chất lỏng, chẳng hạn như nước mắt hoặc mật, có thể đi qua"
+    },
+    {
+        "id": "60871e07-c5db-43fa-8f91-333a1d718221",
+        "word": "mucus",
+        "phonetic": "mjuːkəs ",
+        "type": "noun",
+        "defineEn": "a thick slimy substance produced by mucous membranes, inside the nose or the mouth, to lubricate and protect them",
+        "defineVi": "một chất nhớt dày được sản xuất bởi màng nhầy, bên trong mũi hoặc miệng, để bôi trơn và bảo vệ chúng"
+    },
+    {
+        "id": "ac357c31-8249-495a-b33b-b41e7983c80b",
+        "word": "mucus membrane",
+        "phonetic": "mjuːkəs mɛmbɹeɪn ",
+        "type": "noun",
+        "defineEn": "a thin, moist tissue that lines body cavities like the respiratory, digestive, and reproductive tracts, producing mucus for protection and lubrication",
+        "defineVi": "một mô mỏng, ẩm lót các khoang cơ thể như đường hô hấp, tiêu hóa và sinh sản, tạo ra chất nhầy để bảo vệ và bôi trơn",
+        "hasImg": true
+    },
+    {
+        "id": "8fc2e0dd-69a1-45e3-a14d-f24b4b59c383",
+        "word": "phlegm",
+        "phonetic": "flɛm ",
+        "type": "noun",
+        "defineEn": "the thick mucus that is formed in the nasal and throat cavities, usually secreted in excessive amounts as a result of common cold",
+        "defineVi": "chất nhầy dày được hình thành trong khoang mũi và cổ họng, thường được tiết ra quá nhiều do cảm lạnh thông thường"
+    },
+    {
+        "id": "feb495b9-1b00-472c-9be8-6feaca804b95",
+        "word": "lymphatic system",
+        "phonetic": "lɪmfæɾɪk sɪstəm ",
+        "type": "noun",
+        "defineEn": "a network that collects and transports lymph, supporting immune function and fluid balance",
+        "defineVi": "một mạng lưới thu thập và vận chuyển bạch huyết, hỗ trợ chức năng miễn dịch và cân bằng chất lỏng"
+    },
+    {
+        "id": "31a79103-aa08-4955-93d6-f7cd0581f3e6",
+        "word": "bloodstream",
+        "phonetic": "blʌdstɹiːm ",
+        "type": "noun",
+        "defineEn": "the blood that circulates through the body",
+        "defineVi": "máu lưu thông khắp cơ thể"
+    },
+    {
+        "id": "4c5b2338-e259-410d-a30c-eb8dcf5563d8",
+        "word": "circulation",
+        "phonetic": "sɜːkjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the flow and movement of blood around and in all parts of the body",
+        "defineVi": "dòng chảy và chuyển động của máu xung quanh và trong tất cả các bộ phận của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "c659f95f-41b0-4627-b602-5bbeeb16b166",
+        "word": "pulse",
+        "phonetic": "pʌls ",
+        "type": "noun",
+        "defineEn": "the rhythmic beating of the blood vessels created when the heart pumps, especially felt on the wrist or at the sides of the neck",
+        "defineVi": "nhịp đập của các mạch máu được tạo ra khi tim bơm, đặc biệt cảm thấy ở cổ tay hoặc ở hai bên cổ"
+    },
+    {
+        "id": "7b01b693-3dc8-45f4-9585-9ae99c691eb7",
+        "word": "metabolism",
+        "phonetic": "mətæbəlɪzəm ",
+        "type": "noun",
+        "defineEn": "the chemical processes through which food is changed into energy for the body to use",
+        "defineVi": "các quá trình hóa học thông qua đó thức ăn được biến đổi thành năng lượng cho cơ thể sử dụng"
+    },
+    {
+        "id": "447430fe-5bfc-4165-800b-b79e63f43d5b",
+        "word": "breath",
+        "phonetic": "bɹɛθ ",
+        "type": "noun",
+        "defineEn": "the air taken into or sent out from the lungs",
+        "defineVi": "không khí đưa vào hoặc gửi ra khỏi phổi",
+        "hasImg": true
+    },
+    {
+        "id": "63ea8fe4-8930-44c5-8c7c-44b9d39bea7e",
+        "word": "breathing",
+        "phonetic": "bɹiːðɪŋ ",
+        "type": "noun",
+        "defineEn": "the action of taking air into the lungs and sending it out again",
+        "defineVi": "hành động lấy không khí vào phổi và đưa nó ra ngoài một lần nữa",
+        "hasImg": true
+    },
+    {
+        "id": "207436d1-ea2f-4ca7-8ff4-8e51c047e628",
+        "word": "inhalation",
+        "phonetic": "ɪnhɐleɪʃən ",
+        "type": "noun",
+        "defineEn": "the intake of air or a substance into the lungs through the process of breathing",
+        "defineVi": "lượng không khí hoặc một chất vào phổi thông qua quá trình thở",
+        "hasImg": true
+    },
+    {
+        "id": "b18737b8-f0b9-4acd-84a4-3d4c85ee613b",
+        "word": "airway",
+        "phonetic": "ɛɹweɪ ",
+        "type": "noun",
+        "defineEn": "the anatomical structures, including the nose, mouth, throat, and lungs, that allow for the passage of air during breathing",
+        "defineVi": "các cấu trúc giải phẫu, bao gồm mũi, miệng, cổ họng và phổi, cho phép không khí đi qua trong quá trình thở"
+    },
+    {
+        "id": "28e8187d-0d74-4548-82dd-27e136155a1a",
+        "word": "hilum",
+        "phonetic": "hɪləm ",
+        "type": "noun",
+        "defineEn": "the entrance or exit point on an organ where blood vessels, nerves, and other structures are connected",
+        "defineVi": "điểm vào hoặc ra trên một cơ quan nơi các mạch máu, dây thần kinh và các cấu trúc khác được kết nối"
+    },
+    {
+        "id": "92027c81-4626-481b-afe8-3b7f23dbd819",
+        "word": "membrane",
+        "phonetic": "mɛmbɹeɪn ",
+        "type": "noun",
+        "defineEn": "a thin sheet of tissue that separates or covers the inner parts of an organism",
+        "defineVi": "một tấm mô mỏng ngăn cách hoặc bao phủ các bộ phận bên trong của một sinh vật"
+    },
+    {
+        "id": "6ccc63a2-a4d1-4edf-b929-407b0dcd6e07",
+        "word": "sinus",
+        "phonetic": "saɪnəs ",
+        "type": "noun",
+        "defineEn": "a wide channel containing blood; does not have the coating of an ordinary blood vessel",
+        "defineVi": "một kênh rộng chứa máu; không có lớp phủ của một mạch máu bình thường"
+    },
+    {
+        "id": "280954e3-70a8-4f5e-a135-3e2a43b69ec5",
+        "word": "tissue",
+        "phonetic": "tɪʃuː ",
+        "type": "noun",
+        "defineEn": "a group of cells in the body of living things, forming their different parts",
+        "defineVi": "một nhóm các tế bào trong cơ thể của các sinh vật sống, hình thành các bộ phận khác nhau của họ",
+        "hasImg": true
+    },
+    {
+        "id": "21a6cba0-ad93-40de-9320-6d421d7d792f",
+        "word": "cell",
+        "phonetic": "sɛl ",
+        "type": "noun",
+        "defineEn": "(biology) an organism's smallest unit, capable of functioning on its own",
+        "defineVi": "(sinh học) đơn vị nhỏ nhất của sinh vật, có khả năng tự hoạt động",
+        "hasImg": true
+    },
+    {
+        "id": "af0eeb0a-f22f-47d7-aa29-eefbe91e9cdd",
+        "word": "gastrointestinal tract",
+        "phonetic": "ɡæstɹoʊɪntɛstɪnəl tɹækt ",
+        "type": "noun",
+        "defineEn": "the long, hollow organ system that extends from the mouth to the anus",
+        "defineVi": "hệ thống cơ quan dài, rỗng kéo dài từ miệng đến hậu môn"
+    },
+    {
+        "id": "90258187-e3cf-48a6-a92b-e2650fa82ade",
+        "word": "to metabolise",
+        "phonetic": "tə mətæbəlaɪz ",
+        "type": "verb",
+        "defineEn": "to process or convert substances in the body through various chemical reactions",
+        "defineVi": "để xử lý hoặc chuyển đổi các chất trong cơ thể thông qua các phản ứng hóa học khác nhau"
+    },
+    {
+        "id": "402d953c-5906-41e5-94fe-6a6d3f1b8b09",
+        "word": "vestibule",
+        "phonetic": "vɛstɪbjuːl ",
+        "type": "noun",
+        "defineEn": "a small, enclosed space or chamber at the entrance of a body cavity, such as the mouth or nose",
+        "defineVi": "một không gian nhỏ, kín hoặc buồng ở lối vào của một khoang cơ thể, chẳng hạn như miệng hoặc mũi"
+    },
+    {
+        "id": "85e79518-57c4-47aa-b657-23ba2084d232",
+        "word": "dorsum",
+        "phonetic": "doːɹsəm ",
+        "type": "noun",
+        "defineEn": "the upper or posterior surface of a body",
+        "defineVi": "bề mặt trên hoặc sau của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "641b41a3-b5c5-407f-bb98-f086e20a3a69",
+        "word": "lobe",
+        "phonetic": "loʊb ",
+        "type": "noun",
+        "defineEn": "(anatomy) a rounded part of an organ, such as, lungs or brain that seems to be separate in some way from the rest",
+        "defineVi": "(giải phẫu) phần tròn của một cơ quan, chẳng hạn như phổi hoặc não dường như tách biệt theo cách nào đó với phần còn lại",
+        "hasImg": true
+    },
+    {
+        "id": "3f214d3a-0550-4a77-9a96-2881d7922d69",
+        "word": "duodenal",
+        "phonetic": "duːoʊdnəl ",
+        "type": "adjective",
+        "defineEn": "affecting or relating to the top part of the small intestine, called duodenum",
+        "defineVi": "ảnh hưởng hoặc liên quan đến phần trên cùng của ruột non, được gọi là tá tràng"
+    },
+    {
+        "id": "0146d350-8a70-42e4-b73a-6f9405767ae8",
+        "word": "intestinal",
+        "phonetic": "ɪntɛstɪnəl ",
+        "type": "adjective",
+        "defineEn": "connected with or affecting the intestines",
+        "defineVi": "kết nối với hoặc ảnh hưởng đến ruột",
+        "hasImg": true
+    },
+    {
+        "id": "3f20cb1f-14fc-49cf-92b6-ba9338e576e2",
+        "word": "jugular",
+        "phonetic": "dʒuːɡjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "located in or connected with the throat or neck",
+        "defineVi": "nằm trong hoặc kết nối với cổ họng hoặc cổ"
+    },
+    {
+        "id": "7961da0e-145d-4354-a4e3-2514e0b2fc85",
+        "word": "motor",
+        "phonetic": "moʊɾɚ ",
+        "type": "adjective",
+        "defineEn": "(anatomy) connected with the neurons that control the muscle movements",
+        "defineVi": "(giải phẫu) kết nối với các tế bào thần kinh kiểm soát các cử động cơ bắp"
+    },
+    {
+        "id": "ea64d0c4-d813-48d1-8adc-c8ac93b94c02",
+        "word": "muscular",
+        "phonetic": "mʌskjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "relating to or affecting the muscles",
+        "defineVi": "liên quan đến hoặc ảnh hưởng đến các cơ",
+        "hasImg": true
+    },
+    {
+        "id": "87dcf849-8add-4321-9898-8d47f4fe1dee",
+        "word": "nasal",
+        "phonetic": "neɪzəl ",
+        "type": "adjective",
+        "defineEn": "(anatomy) connected with the nose",
+        "defineVi": "(giải phẫu) nối liền với mũi",
+        "hasImg": true
+    },
+    {
+        "id": "933cd941-a73d-4ef6-9456-fd99cf143973",
+        "word": "oral",
+        "phonetic": "oːɹəl ",
+        "type": "adjective",
+        "defineEn": "related to or occurring in the mouth or the oral cavity",
+        "defineVi": "liên quan đến hoặc xảy ra trong miệng hoặc khoang miệng"
+    },
+    {
+        "id": "a308398b-8030-461c-9f57-d9235e1c62d6",
+        "word": "pancreatic",
+        "phonetic": "pæŋkɹiːæɾɪk ",
+        "type": "adjective",
+        "defineEn": "(anatomy) connected with the organ that controls blood sugar, called pancreas",
+        "defineVi": "(giải phẫu) kết nối với cơ quan kiểm soát lượng đường trong máu, được gọi là tuyến tụy"
+    },
+    {
+        "id": "7326f2cb-9d68-4c74-8cab-f3421242173b",
+        "word": "pelvic",
+        "phonetic": "pɛlvɪk ",
+        "type": "adjective",
+        "defineEn": "(anatomy) connected with the curved set of bones at the bottom of the body, called pelvis",
+        "defineVi": "(giải phẫu) nối với bộ xương cong ở dưới cùng của cơ thể, được gọi là xương chậu"
+    },
+    {
+        "id": "1af0a79f-14e2-4809-b8ab-e42f7f9401a9",
+        "word": "physically",
+        "phonetic": "fɪzɪkli ",
+        "type": "adverb",
+        "defineEn": "in relation to the body as opposed to the mind",
+        "defineVi": "liên quan đến cơ thể trái ngược với tâm trí",
+        "hasImg": true
+    },
+    {
+        "id": "73a22302-3a51-49bb-bf99-548402997123",
+        "word": "renal",
+        "phonetic": "ɹiːnəl ",
+        "type": "adjective",
+        "defineEn": "(medical) involving or relating to the kidneys",
+        "defineVi": "(y học) liên quan đến thận",
+        "hasImg": true
+    },
+    {
+        "id": "5ea7aea9-aff1-4623-a3ab-a777f84deb18",
+        "word": "retinal",
+        "phonetic": "ɹɛtɪnəl ",
+        "type": "adjective",
+        "defineEn": "(anatomy) connected with the sensory part of the eye that sends signals to the brain, called retina",
+        "defineVi": "(giải phẫu) kết nối với phần cảm giác của mắt gửi tín hiệu đến não, được gọi là võng mạc"
+    },
+    {
+        "id": "32260a85-4ec6-45e5-b62b-2b6bda25a310",
+        "word": "spinal",
+        "phonetic": "spaɪnəl ",
+        "type": "adjective",
+        "defineEn": "(anatomy) relating to or forming the backbone or the spinal cord",
+        "defineVi": "(giải phẫu) liên quan đến hoặc hình thành xương sống hoặc tủy sống",
+        "hasImg": true
+    },
+    {
+        "id": "3e3818d0-8fc7-4207-ba4d-92ef4f5f5c0f",
+        "word": "uterine",
+        "phonetic": "juːɾɚɹiːn ",
+        "type": "adjective",
+        "defineEn": "(anatomy) relating to the womb or uterus",
+        "defineVi": "(giải phẫu) liên quan đến tử cung hoặc tử cung"
+    },
+    {
+        "id": "bfa46813-5284-4778-9bdc-c4a5e5b16c61",
+        "word": "vertebral",
+        "phonetic": "vɜːɾɪbɹəl ",
+        "type": "adjective",
+        "defineEn": "(anatomy) related to any of the series of the bones from the back, called vertebra",
+        "defineVi": "(giải phẫu) liên quan đến bất kỳ chuỗi xương nào từ phía sau, được gọi là đốt sống",
+        "hasImg": true
+    },
+    {
+        "id": "f53ffcf8-13cc-42c4-899e-65eaa9e9168f",
+        "word": "to jaw",
+        "phonetic": "tə dʒɔː ",
+        "type": "verb",
+        "defineEn": "to use teeth to break down food into smaller pieces",
+        "defineVi": "sử dụng răng để phá vỡ thức ăn thành miếng nhỏ hơn",
+        "hasImg": true
+    },
+    {
+        "id": "f69d6bf3-4807-4689-88d8-c9120c269e5f",
+        "word": "cranial",
+        "phonetic": "kɹeɪnɪəl ",
+        "type": "adjective",
+        "defineEn": "(anatomy) relating to the bone structure that surrounds the brain, also known as cranium",
+        "defineVi": "(giải phẫu) liên quan đến cấu trúc xương bao quanh não, còn được gọi là cranium"
+    },
+    {
+        "id": "a2a637df-a0d0-416d-8c28-1fb46495dc44",
+        "word": "temporal",
+        "phonetic": "tɛmpɚɹəl ",
+        "type": "adjective",
+        "defineEn": "associated with or located in the region of the temples, which are the sides of the head above the ears",
+        "defineVi": "liên quan đến hoặc nằm trong khu vực của các ngôi đền, là hai bên của đầu phía trên tai"
+    }
+]

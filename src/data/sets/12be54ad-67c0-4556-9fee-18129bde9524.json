@@ -1,0 +1,538 @@
+[
+    {
+        "id": "85965630-ec33-4dcc-bb85-40b96a76a4dc",
+        "word": "place",
+        "phonetic": "pleɪs ",
+        "type": "noun",
+        "defineEn": "the part of space where someone or something is or they should be",
+        "defineVi": "một phần của không gian nơi ai đó hoặc một cái gì đó hoặc họ nên được",
+        "hasImg": true
+    },
+    {
+        "id": "5b4ae078-2031-410a-88ff-7c8c141bd7b8",
+        "word": "time",
+        "phonetic": "taɪm ",
+        "type": "noun",
+        "defineEn": "the quantity that is measured in seconds, minutes, hours, etc. using a device like clock",
+        "defineVi": "số lượng được đo bằng giây, phút, giờ, v.v. bằng thiết bị như đồng hồ",
+        "hasImg": true
+    },
+    {
+        "id": "a08483a0-69bb-443c-a090-c756588f5cb3",
+        "word": "Madrid",
+        "phonetic": "mədɹɪd ",
+        "type": "noun",
+        "defineEn": "a city in Spain that is the capital of the country",
+        "defineVi": "một thành phố ở Tây Ban Nha là thủ đô của đất nước"
+    },
+    {
+        "id": "54265a82-7e39-4cc9-8622-588c690e6f68",
+        "word": "room",
+        "phonetic": "ɹuːm ",
+        "type": "noun",
+        "defineEn": "each of the different parts of a building that are divided by their own floors, ceilings, and walls, and are used for a specific reason",
+        "defineVi": "mỗi phần khác nhau của một tòa nhà được phân chia bởi các tầng, trần và tường riêng của chúng và được sử dụng cho một mục đích cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "1818015d-4a70-40d6-b5ca-d1a700d7fbaa",
+        "word": "kitchen",
+        "phonetic": "kɪtʃən ",
+        "type": "noun",
+        "defineEn": "the place in a building or home where we make food",
+        "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "e86654fb-30e9-4b9a-b94b-59d1fd822b76",
+        "word": "building",
+        "phonetic": "bɪldɪŋ ",
+        "type": "noun",
+        "defineEn": "a structure that has walls, a roof, and sometimes many levels, like an apartment, house, school, etc.",
+        "defineVi": "một cấu trúc có tường, mái nhà và đôi khi có nhiều tầng, như căn hộ, nhà ở, trường học, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6685495c-74c2-41dd-ba23-c731bc062222",
+        "word": "shop",
+        "phonetic": "ʃɑːp ",
+        "type": "noun",
+        "defineEn": "a building or place that sells goods or services",
+        "defineVi": "một tòa nhà hoặc địa điểm bán hàng hóa hoặc dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "54347d72-d6a0-4c09-9c26-069e772ff637",
+        "word": "museum",
+        "phonetic": "mjuːziəm ",
+        "type": "noun",
+        "defineEn": "a place where important cultural, artistic, historical, or scientific objects are kept and shown to the public",
+        "defineVi": "nơi lưu giữ và trưng bày các vật thể văn hóa, nghệ thuật, lịch sử hoặc khoa học quan trọng cho công chúng",
+        "hasImg": true
+    },
+    {
+        "id": "3b64cfaa-b8ac-464d-8083-2d99f0899a52",
+        "word": "park",
+        "phonetic": "pɑːɹk ",
+        "type": "noun",
+        "defineEn": "a large public place in a town or a city that has grass and trees and people go to for walking, playing, and relaxing",
+        "defineVi": "một nơi công cộng lớn trong một thị trấn hoặc một thành phố có cỏ và cây cối và mọi người đi dạo, vui chơi và thư giãn",
+        "hasImg": true
+    },
+    {
+        "id": "fc1d8f01-7284-450e-a40c-9a3fb629b8c3",
+        "word": "closed",
+        "phonetic": "kloʊzd ",
+        "type": "adjective",
+        "defineEn": "not letting things, people, etc. go in or out",
+        "defineVi": "không cho đồ vật, người, v.v. ra vào",
+        "hasImg": true
+    },
+    {
+        "id": "44907dee-dc48-4411-bac6-6a34c5dfe30a",
+        "word": "country",
+        "phonetic": "kʌntɹi ",
+        "type": "noun",
+        "defineEn": "a piece of land with a government of its own, official borders, laws, etc.",
+        "defineVi": "một mảnh đất với một chính phủ của riêng mình, biên giới chính thức, pháp luật, vv",
+        "hasImg": true
+    },
+    {
+        "id": "af8de436-6eb0-4275-9bea-73908892f10f",
+        "word": "city",
+        "phonetic": "sɪɾi ",
+        "type": "noun",
+        "defineEn": "a larger and more populated town",
+        "defineVi": "một thị trấn lớn hơn và đông dân cư hơn",
+        "hasImg": true
+    },
+    {
+        "id": "e93556a4-5f41-4abb-83e4-eb5b93dbcb9c",
+        "word": "Spain",
+        "phonetic": "speɪn ",
+        "type": "noun",
+        "defineEn": "a country in southwest Europe",
+        "defineVi": "một quốc gia ở tây nam châu Âu",
+        "hasImg": true
+    },
+    {
+        "id": "e10458c0-17fe-4fce-b385-951b3e4ed5ac",
+        "word": "space",
+        "phonetic": "speɪs ",
+        "type": "noun",
+        "defineEn": "the universe beyond the atmosphere of the earth",
+        "defineVi": "vũ trụ bên ngoài bầu khí quyển của trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "45a8647b-7157-4939-86eb-d86bd25836d2",
+        "word": "garden",
+        "phonetic": "ɡɑːɹdən ",
+        "type": "noun",
+        "defineEn": "a piece of land where flowers, trees, and other plants are grown",
+        "defineVi": "một mảnh đất trồng hoa, cây và các loại cây khác",
+        "hasImg": true
+    },
+    {
+        "id": "2be8d5c8-b86c-4630-a41d-2f542cc9fe88",
+        "word": "car",
+        "phonetic": "kɑːɹ ",
+        "type": "noun",
+        "defineEn": "a road vehicle that has four wheels, an engine, and a small number of seats for people",
+        "defineVi": "một phương tiện giao thông đường bộ có bốn bánh, một động cơ và một số ít chỗ ngồi cho người",
+        "hasImg": true
+    },
+    {
+        "id": "f8b35c3c-04ec-4c6f-9344-3440a2c0f0ff",
+        "word": "month",
+        "phonetic": "mʌnθ ",
+        "type": "noun",
+        "defineEn": "each of the twelve named divisions of the year, like January, February, etc.",
+        "defineVi": "mỗi phần trong số mười hai phần được đặt tên của năm, như tháng Giêng, tháng Hai, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "094086f3-090c-4135-8001-1bd0fe7412a0",
+        "word": "February",
+        "phonetic": "fɛbɹuːɛɹi ",
+        "type": "noun",
+        "defineEn": "the second month of the year, after January and before March",
+        "defineVi": "tháng thứ hai của năm, sau tháng Giêng và trước tháng Ba",
+        "hasImg": true
+    },
+    {
+        "id": "1a3c5c6f-5ab5-4b1b-94ff-4fdc223df369",
+        "word": "June",
+        "phonetic": "dʒuːn ",
+        "type": "noun",
+        "defineEn": "the sixth month of the year, after May and before July",
+        "defineVi": "tháng thứ sáu của năm, sau tháng năm và trước tháng bảy",
+        "hasImg": true
+    },
+    {
+        "id": "05d01c75-c599-4792-a516-494596b2b575",
+        "word": "season",
+        "phonetic": "siːzən ",
+        "type": "noun",
+        "defineEn": "a period of time that a year is divided into, such as winter and summer, with each having three months",
+        "defineVi": "một khoảng thời gian mà một năm được chia thành, chẳng hạn như mùa đông và mùa hè, mỗi người có ba tháng",
+        "hasImg": true
+    },
+    {
+        "id": "b153d980-2f03-4116-8a32-721f092a4873",
+        "word": "winter",
+        "phonetic": "wɪntɚ ",
+        "type": "noun",
+        "defineEn": "the season that comes after fall and in most countries winter is the coldest season",
+        "defineVi": "mùa đến sau mùa thu và ở hầu hết các quốc gia, mùa đông là mùa lạnh nhất",
+        "hasImg": true
+    },
+    {
+        "id": "01e4ecdc-2411-488a-9264-95c2090ef977",
+        "word": "year",
+        "phonetic": "jɪɹ ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of twelve months, particularly one that starts on January first and ends on December thirty-first",
+        "defineVi": "một khoảng thời gian được tạo thành từ mười hai tháng, đặc biệt là một tháng bắt đầu vào ngày đầu tiên của tháng một và kết thúc vào ngày 31 tháng 12",
+        "hasImg": true
+    },
+    {
+        "id": "e88ec727-4325-44ab-b728-01607aee5cf9",
+        "word": "day",
+        "phonetic": "deɪ ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of twenty-four hours",
+        "defineVi": "một khoảng thời gian được tạo thành từ hai mươi bốn giờ",
+        "hasImg": true
+    },
+    {
+        "id": "c166e8ff-400f-4d4c-9b0e-1cd8af8031dd",
+        "word": "morning",
+        "phonetic": "mɔːɹnɪŋ ",
+        "type": "noun",
+        "defineEn": "the time of day that is between when the sun starts to rise and the middle of the day at twelve o'clock",
+        "defineVi": "thời gian trong ngày là giữa khi mặt trời bắt đầu mọc và giữa ngày lúc mười hai giờ",
+        "hasImg": true
+    },
+    {
+        "id": "c146ec5b-81b5-4840-8bdb-4b9064f376a9",
+        "word": "afternoon",
+        "phonetic": "æftɚnuːn ",
+        "type": "noun",
+        "defineEn": "the time of day that is between twelve o'clock and the time that the sun starts to set",
+        "defineVi": "thời gian trong ngày là giữa mười hai giờ và thời gian mà mặt trời bắt đầu lặn",
+        "hasImg": true
+    },
+    {
+        "id": "f40147df-1ddb-4009-b932-d79b596834cb",
+        "word": "evening",
+        "phonetic": "iːvnɪŋ ",
+        "type": "noun",
+        "defineEn": "the time of day that is between the time that the sun starts to set and when the sky becomes completely dark",
+        "defineVi": "thời gian trong ngày nằm giữa thời điểm mặt trời bắt đầu lặn và khi bầu trời trở nên tối hoàn toàn",
+        "hasImg": true
+    },
+    {
+        "id": "6f57bb78-1aef-467f-a8f6-e5150fe99bee",
+        "word": "March",
+        "phonetic": "mɑːɹtʃ ",
+        "type": "noun",
+        "defineEn": "the third month of the year, after February and before April",
+        "defineVi": "tháng thứ ba của năm, sau tháng hai và trước tháng tư",
+        "hasImg": true
+    },
+    {
+        "id": "9bb7dd82-1242-4075-8f49-ff1b431fb2e7",
+        "word": "Tuesday",
+        "phonetic": "tuːzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Monday",
+        "defineVi": "‌ngày diễn ra sau thứ Hai",
+        "hasImg": true
+    },
+    {
+        "id": "dce2d43b-32a3-4bdb-9fc7-085fd5250816",
+        "word": "New Year\\'s Day",
+        "phonetic": "nuː jɪɹ bækslæʃ ɛs deɪ ",
+        "type": "noun",
+        "defineEn": "the day that comes first in the calendar year and is a public holiday in most countries",
+        "defineVi": "ngày đầu tiên trong năm dương lịch và là ngày nghỉ lễ ở hầu hết các quốc gia",
+        "hasImg": true
+    },
+    {
+        "id": "08e2ba8c-4a07-4538-a9a8-1f645114ee8c",
+        "word": "valentine\\'s day",
+        "phonetic": "væləntaɪn bækslæʃ ɛs deɪ ",
+        "type": "phrase",
+        "defineEn": "a day on which two people celebrate their love toward each other and often buy gifts for one another",
+        "defineVi": "một ngày mà hai người kỷ niệm tình yêu của họ dành cho nhau và thường mua quà cho nhau",
+        "hasImg": true
+    },
+    {
+        "id": "93bf0739-4fe3-4677-bb62-4b85d8514805",
+        "word": "to transport",
+        "phonetic": "tə tɹænspoːɹt ",
+        "type": "verb",
+        "defineEn": "to take people, goods, etc. from one place to another using a vehicle, ship, or aircraft",
+        "defineVi": "để đưa người, hàng hóa, v.v. từ nơi này đến nơi khác bằng phương tiện, tàu hoặc máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "1b280dcc-7bf4-461b-b906-f16d2902c87e",
+        "word": "bike",
+        "phonetic": "baɪk ",
+        "type": "noun",
+        "defineEn": "a vehicle that has two wheels and moves when we push its pedals with our feet",
+        "defineVi": "một chiếc xe có hai bánh và di chuyển khi chúng ta dùng chân đẩy bàn đạp của nó",
+        "hasImg": true
+    },
+    {
+        "id": "20aa551d-343d-4753-bd96-e725e484f9f1",
+        "word": "bus",
+        "phonetic": "bʌs ",
+        "type": "noun",
+        "defineEn": "a large vehicle that carries many passengers by road",
+        "defineVi": "một chiếc xe lớn chở nhiều hành khách bằng đường bộ",
+        "hasImg": true
+    },
+    {
+        "id": "f78eadcf-9ba2-45a7-9e0a-aedbc9c61d48",
+        "word": "train",
+        "phonetic": "tɹeɪn ",
+        "type": "noun",
+        "defineEn": "a series of connected carriages or wagons pulled along a railroad line by a locomotive",
+        "defineVi": "một loạt các toa xe hoặc toa xe được kết nối với nhau do đầu máy kéo dọc theo một tuyến đường sắt",
+        "hasImg": true
+    },
+    {
+        "id": "1c24d54b-11b7-4a55-9dcc-7d3d74dde7b2",
+        "word": "plane",
+        "phonetic": "pleɪn ",
+        "type": "noun",
+        "defineEn": "a winged flying vehicle driven by one or more engines",
+        "defineVi": "một phương tiện bay có cánh được điều khiển bởi một hoặc nhiều động cơ",
+        "hasImg": true
+    },
+    {
+        "id": "dc1cc572-f0a0-472b-8436-689891be07cb",
+        "word": "ship",
+        "phonetic": "ʃɪp ",
+        "type": "noun",
+        "defineEn": "a large boat, used for carrying passengers or goods across the sea",
+        "defineVi": "một chiếc thuyền lớn, được sử dụng để chở hành khách hoặc hàng hóa trên biển",
+        "hasImg": true
+    },
+    {
+        "id": "a53552b9-2620-4bd5-bac6-8de5bffbbd46",
+        "word": "surface",
+        "phonetic": "sɜːfɪs ",
+        "type": "noun",
+        "defineEn": "the upper or exterior boundary of something",
+        "defineVi": "ranh giới trên hoặc bên ngoài của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "aedaafb9-0c6a-4fae-a751-2945caeca840",
+        "word": "floor",
+        "phonetic": "floːɹ ",
+        "type": "noun",
+        "defineEn": "the bottom of a room that we walk on",
+        "defineVi": "dưới cùng của một căn phòng mà chúng tôi đi bộ trên",
+        "hasImg": true
+    },
+    {
+        "id": "f22c4c18-10c6-4f39-a58f-2b700819f16d",
+        "word": "table",
+        "phonetic": "teɪbəl ",
+        "type": "noun",
+        "defineEn": "furniture with a usually flat surface on top of one or multiple legs that we can sit at or put things on",
+        "defineVi": "đồ nội thất có bề mặt thường bằng phẳng trên một hoặc nhiều chân mà chúng ta có thể ngồi hoặc đặt đồ vật lên",
+        "hasImg": true
+    },
+    {
+        "id": "615d18b9-7228-46bf-b997-aaf8f771a411",
+        "word": "shelf",
+        "phonetic": "ʃɛlf ",
+        "type": "noun",
+        "defineEn": "a flat, narrow board made of wood, metal, etc. attached to a wall, to put items on",
+        "defineVi": "một tấm ván phẳng, hẹp làm bằng gỗ, kim loại, v.v. gắn vào tường, để đặt các vật dụng lên",
+        "hasImg": true
+    },
+    {
+        "id": "116726ca-db97-4aa6-acf6-fa1d0a516057",
+        "word": "balcony",
+        "phonetic": "bælkəni ",
+        "type": "noun",
+        "defineEn": "a platform above the ground level and on the outside wall of a building that we can get into from the upper floor",
+        "defineVi": "một nền tảng trên mặt đất và trên bức tường bên ngoài của một tòa nhà mà chúng ta có thể đi vào từ tầng trên",
+        "hasImg": true
+    },
+    {
+        "id": "97b9c88d-7c5a-4c91-8867-cb5afcb40232",
+        "word": "roof",
+        "phonetic": "ɹuːf ",
+        "type": "noun",
+        "defineEn": "the structure that creates the outer top part of a vehicle, building, etc.",
+        "defineVi": "cấu trúc tạo ra phần trên cùng bên ngoài của một chiếc xe, tòa nhà, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4557d558-8dd3-4988-9d96-5ef8cb767b17",
+        "word": "wall",
+        "phonetic": "wɔːl ",
+        "type": "noun",
+        "defineEn": "an upright structure, usually made of brick, concrete, or stone that is made to divide, protect, or surround a place",
+        "defineVi": "một cấu trúc thẳng đứng, thường được làm bằng gạch, bê tông hoặc đá được tạo ra để phân chia, bảo vệ hoặc bao quanh một nơi",
+        "hasImg": true
+    },
+    {
+        "id": "debf8a98-0582-409d-b308-cc67f2488d71",
+        "word": "school",
+        "phonetic": "skuːl ",
+        "type": "noun",
+        "defineEn": "a place where children learn things from teachers",
+        "defineVi": "một nơi mà trẻ em học những điều từ giáo viên",
+        "hasImg": true
+    },
+    {
+        "id": "a055ea6e-1b23-4aed-8c7f-5ef1384cb7ae",
+        "word": "home",
+        "phonetic": "hoʊm ",
+        "type": "noun",
+        "defineEn": "the place that we live in, usually with our family",
+        "defineVi": "nơi mà chúng tôi sống, thường là với gia đình của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "76fc0537-c9d6-4c4c-975d-c87ca31ac793",
+        "word": "work",
+        "phonetic": "wɜːk ",
+        "type": "noun",
+        "defineEn": "something that we do regularly to earn money",
+        "defineVi": "một cái gì đó mà chúng tôi làm thường xuyên để kiếm tiền",
+        "hasImg": true
+    },
+    {
+        "id": "f9d1b353-b7da-4863-9af5-0091bc5baa3a",
+        "word": "university",
+        "phonetic": "juːnɪvɜːsᵻɾi ",
+        "type": "noun",
+        "defineEn": "an educational institution at the highest level, where we can study for a degree or do research",
+        "defineVi": "một tổ chức giáo dục ở cấp cao nhất, nơi chúng ta có thể học để lấy bằng hoặc nghiên cứu",
+        "hasImg": true
+    },
+    {
+        "id": "3ef9e984-595e-42d7-b99a-59563599d162",
+        "word": "airport",
+        "phonetic": "ɛɹpoːɹt ",
+        "type": "noun",
+        "defineEn": "a large place where planes take off and land, with buildings and other facilities, in which passengers wait for their flights",
+        "defineVi": "một nơi rộng rãi, nơi máy bay cất cánh và hạ cánh, với các tòa nhà và cơ sở vật chất khác, trong đó hành khách đợi chuyến bay của họ",
+        "hasImg": true
+    },
+    {
+        "id": "8684a794-887e-4592-9edc-6e5b135c0e9d",
+        "word": "station",
+        "phonetic": "steɪʃən ",
+        "type": "noun",
+        "defineEn": "a place or building where we can get on or off a train or bus",
+        "defineVi": "một địa điểm hoặc tòa nhà nơi chúng ta có thể lên hoặc xuống xe lửa hoặc xe buýt",
+        "hasImg": true
+    },
+    {
+        "id": "f9d11c29-15ff-46e3-be69-2665f711dce5",
+        "word": "bus stop",
+        "phonetic": "bʌs stɑːp ",
+        "type": "noun",
+        "defineEn": "a place at the side of a road that is usually marked with a sign, where buses regularly stop for passengers",
+        "defineVi": "một nơi ở bên đường thường được đánh dấu bằng biển báo, nơi xe buýt thường xuyên dừng lại cho hành khách",
+        "hasImg": true
+    },
+    {
+        "id": "a950f658-9479-40ab-ae81-d6f6efcc1b3e",
+        "word": "o\\'clock",
+        "phonetic": "oʊ bækslæʃ klɑːk ",
+        "type": "adverb",
+        "defineEn": "put after the numbers one to twelve to show or tell what time it is, only when it is at that exact hour",
+        "defineVi": "đặt sau các số từ một đến mười hai để hiển thị hoặc cho biết mấy giờ rồi, chỉ khi nó vào chính xác giờ đó",
+        "hasImg": true
+    },
+    {
+        "id": "c289bad3-1617-4c72-90ac-84b34b8e9c8b",
+        "word": "half",
+        "phonetic": "hæf ",
+        "type": "noun",
+        "defineEn": "either of two equal parts into which something can be divided",
+        "defineVi": "một trong hai phần bằng nhau mà một cái gì đó có thể được chia",
+        "hasImg": true
+    },
+    {
+        "id": "cc6ecd6a-33dd-4de2-bb19-ab0b89ff478a",
+        "word": "past",
+        "phonetic": "pæst ",
+        "type": "adverb",
+        "defineEn": "used to indicate that a particular time has already gone by",
+        "defineVi": "được sử dụng để chỉ ra rằng một thời gian cụ thể đã trôi qua"
+    },
+    {
+        "id": "4bc9af2f-cfe4-4061-887a-d0286b8474b1",
+        "word": "quarter",
+        "phonetic": "kwɔːɹɾɚ ",
+        "type": "noun",
+        "defineEn": "a period of 15 minutes",
+        "defineVi": "khoảng thời gian 15 phút",
+        "hasImg": true
+    },
+    {
+        "id": "19399cd6-59b2-44ef-b87a-a874b61de59b",
+        "word": "night",
+        "phonetic": "naɪt ",
+        "type": "noun",
+        "defineEn": "the time when the sun goes down, it gets dark outside, and we sleep",
+        "defineVi": "thời gian khi mặt trời lặn, trời tối bên ngoài, và chúng tôi ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "7495e61f-3c03-4334-9782-50eb5437e661",
+        "word": "weekend",
+        "phonetic": "wiːkɛnd ",
+        "type": "noun",
+        "defineEn": "the days of the week, usually Saturday and Sunday, when people do not have to go to work or school",
+        "defineVi": "các ngày trong tuần, thường là thứ bảy và chủ nhật, khi mọi người không phải đi làm hoặc đi học",
+        "hasImg": true
+    },
+    {
+        "id": "27461090-a2b6-437d-b3a1-7295a6d01ca3",
+        "word": "festival",
+        "phonetic": "fɛstɪvəl ",
+        "type": "noun",
+        "defineEn": "a period of time that is celebrated due to cultural or religious reasons",
+        "defineVi": "một khoảng thời gian được tổ chức vì lý do văn hóa hoặc tôn giáo"
+    },
+    {
+        "id": "59af6f8c-5e66-429c-ab38-72487f749463",
+        "word": "period",
+        "phonetic": "piəɹɪəd ",
+        "type": "noun",
+        "defineEn": "a duration of time",
+        "defineVi": "một khoảng thời gian"
+    },
+    {
+        "id": "30e113af-1340-4e5c-be90-798e6e748a2c",
+        "word": "Christmas",
+        "phonetic": "kɹɪsməs ",
+        "type": "noun",
+        "defineEn": "the period of time around Christmas day, which includes the days just before or after it",
+        "defineVi": "khoảng thời gian xung quanh ngày Giáng sinh, bao gồm những ngày ngay trước hoặc sau đó",
+        "hasImg": true
+    },
+    {
+        "id": "117e44f8-f105-40ec-92a6-1a43a042baab",
+        "word": "Easter",
+        "phonetic": "iːstɚ ",
+        "type": "noun",
+        "defineEn": "a holiday when Christians celebrate Jesus Christ's return to life after he died according to the Bible",
+        "defineVi": "một ngày lễ khi các Kitô hữu kỷ niệm Chúa Giêsu Kitô trở lại cuộc sống sau khi ông chết theo Kinh thánh",
+        "hasImg": true
+    }
+]

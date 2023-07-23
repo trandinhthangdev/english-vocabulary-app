@@ -1,0 +1,251 @@
+[
+    {
+        "id": "8a2a5c98-ebb7-494d-9721-c9d7b8739777",
+        "word": "orange",
+        "phonetic": "ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a fruit that is juicy and round and has thick skin",
+        "defineVi": "một loại trái cây ngon ngọt và tròn và có da dày",
+        "hasImg": true
+    },
+    {
+        "id": "903e8d73-e7b7-4f88-be92-015da036da3e",
+        "word": "blood orange",
+        "phonetic": "blʌd ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit with red or maroon-colored flesh, used in culinary applications for its unique appearance and tangy flavor",
+        "defineVi": "một loại trái cây có múi với thịt màu đỏ hoặc màu hạt dẻ, được sử dụng trong các ứng dụng ẩm thực vì vẻ ngoài độc đáo và hương vị thơm ngon",
+        "hasImg": true
+    },
+    {
+        "id": "a0b855f3-3e06-40c1-bb3f-9115485795f3",
+        "word": "citron",
+        "phonetic": "sɪtɹɑːn ",
+        "type": "noun",
+        "defineEn": "a large citrus fruit with a thick rind, known for its tart taste and aromatic qualities",
+        "defineVi": "một loại trái cây có múi lớn với vỏ dày, được biết đến với vị chua và chất thơm",
+        "hasImg": true
+    },
+    {
+        "id": "8456c6c6-6c01-4d58-8328-6add83f29666",
+        "word": "clementine",
+        "phonetic": "klɛməntaɪn ",
+        "type": "noun",
+        "defineEn": "a type of small citrusy fruit, orange in color, with a loose skin, grown in southern Africa",
+        "defineVi": "một loại trái cây có múi nhỏ, màu cam, vỏ sần sùi, được trồng ở miền nam châu Phi",
+        "hasImg": true
+    },
+    {
+        "id": "3069a950-b8a9-458f-bb42-efed22546b25",
+        "word": "kumquat",
+        "phonetic": "kʌmkwæt ",
+        "type": "noun",
+        "defineEn": "a small orange-like fruit with sweet skin and bitter-tasting flesh",
+        "defineVi": "một loại trái cây nhỏ giống như quả cam với vỏ ngọt và thịt có vị đắng",
+        "hasImg": true
+    },
+    {
+        "id": "dab00721-c24e-433b-8fb8-47c4c3779829",
+        "word": "lemon",
+        "phonetic": "lɛmən ",
+        "type": "noun",
+        "defineEn": "a sour fruit that is juicy and round and has thick yellow skin",
+        "defineVi": "một loại trái cây chua mọng nước và tròn và có vỏ dày màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "5a581d0e-94c4-48ad-869f-f1cc0f6f809d",
+        "word": "lime",
+        "phonetic": "laɪm ",
+        "type": "noun",
+        "defineEn": "a round green fruit with a sour taste",
+        "defineVi": "một quả tròn màu xanh có vị chua",
+        "hasImg": true
+    },
+    {
+        "id": "bc05a4f0-19ba-4463-a076-066fe7044848",
+        "word": "mandarin",
+        "phonetic": "mændɚɹɪn ",
+        "type": "noun",
+        "defineEn": "a small orange-like fruit with easily removable skin",
+        "defineVi": "một loại trái cây nhỏ giống như màu cam với vỏ dễ tháo rời",
+        "hasImg": true
+    },
+    {
+        "id": "af792788-90a5-40c9-b7d4-90ec46a02479",
+        "word": "navel orange",
+        "phonetic": "neɪvəl ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a seedless citrus fruit characterized by a prominent, central indentation that resembles a navel",
+        "defineVi": "một loại trái cây có múi không hạt được đặc trưng bởi một vết lõm trung tâm nổi bật giống như một cái rốn",
+        "hasImg": true
+    },
+    {
+        "id": "388c06db-aeea-49ca-871e-9488206feb7e",
+        "word": "satsuma",
+        "phonetic": "sætsuːmə ",
+        "type": "noun",
+        "defineEn": "a citrus fruit of medium size with a loose orange skin and no seeds, the tree of which endures cold",
+        "defineVi": "một loại trái cây có múi có kích thước trung bình với vỏ màu cam lỏng lẻo và không có hạt, cây chịu lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "359bf0a2-7fcc-43ec-8ec6-2fa99da98e6d",
+        "word": "pomelo",
+        "phonetic": "pɑːmiːloʊ ",
+        "type": "noun",
+        "defineEn": "a large citrus fruit with a thick yellow or green skin and a bittersweet dry pulp",
+        "defineVi": "một loại trái cây có múi lớn với vỏ dày màu vàng hoặc xanh lục và cùi khô có vị đắng",
+        "hasImg": true
+    },
+    {
+        "id": "285d8e67-0af1-46d3-b44c-0a22f9c19333",
+        "word": "tangerine",
+        "phonetic": "tændʒɚɹiːn ",
+        "type": "noun",
+        "defineEn": "a small orange fruit with loose skin and juicy flesh",
+        "defineVi": "một quả cam nhỏ với da lỏng lẻo và thịt mọng nước",
+        "hasImg": true
+    },
+    {
+        "id": "ff2f4436-acea-41c7-9f0e-85379bd31e8d",
+        "word": "grapefruit",
+        "phonetic": "ɡɹeɪpfɹuːt ",
+        "type": "noun",
+        "defineEn": "a round, citrusy fruit with yellow-orange skin, like a large orange",
+        "defineVi": "một loại trái cây tròn, có múi với vỏ màu vàng cam, giống như một quả cam lớn",
+        "hasImg": true
+    },
+    {
+        "id": "bce8a8b4-b3be-44a0-9bc6-bda29d6b0807",
+        "word": "tangelo",
+        "phonetic": "tændʒiːloʊ ",
+        "type": "noun",
+        "defineEn": "an orange-like fruit that is the product of crossing a grapefruit tree with a tangerine tree",
+        "defineVi": "một loại quả giống như quả cam là sản phẩm của việc lai giữa cây bưởi với cây quýt",
+        "hasImg": true
+    },
+    {
+        "id": "96f9aa36-e45f-44ee-9829-1836e03522b6",
+        "word": "native orange",
+        "phonetic": "neɪɾɪv ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "an orange variety that is native to and naturally occurring in a particular geographic area",
+        "defineVi": "một giống cam có nguồn gốc và xuất hiện tự nhiên ở một khu vực địa lý cụ thể"
+    },
+    {
+        "id": "09ea295a-5414-4aed-a672-e61f66745ae9",
+        "word": "king orange",
+        "phonetic": "kɪŋ ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a large and exceptionally flavorful variety of orange",
+        "defineVi": "một loại cam lớn và đặc biệt có hương vị"
+    },
+    {
+        "id": "86888a9e-d5a7-4074-9e22-2131645d4bb9",
+        "word": "jaffa orange",
+        "phonetic": "dʒæfə ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a sweet and juicy citrus fruit known for its distinctive flavor and bright orange color",
+        "defineVi": "một loại trái cây có múi ngọt và mọng nước được biết đến với hương vị đặc biệt và màu cam sáng",
+        "hasImg": true
+    },
+    {
+        "id": "8c578b69-53af-4303-87ff-71dcfbe67fbf",
+        "word": "temple orange",
+        "phonetic": "tɛmpəl ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "an aromatic citrus fruit hailing from Jamaica, known for its sweet and tangy flavor",
+        "defineVi": "một loại trái cây có múi thơm đến từ Jamaica, được biết đến với hương vị ngọt ngào và thơm",
+        "hasImg": true
+    },
+    {
+        "id": "7af85f81-3f8b-42f0-a79e-efc10025a952",
+        "word": "Buddha\\'s hand",
+        "phonetic": "buːdə bækslæʃ ɛs hænd ",
+        "type": "noun",
+        "defineEn": "a fragrant citrus fruit with a hand-like appearance, used for culinary purposes",
+        "defineVi": "một loại trái cây có múi thơm với hình dạng giống như bàn tay, được sử dụng cho mục đích ẩm thực",
+        "hasImg": true
+    },
+    {
+        "id": "3c112f81-fbde-4d1d-86ec-6302c5008a8e",
+        "word": "tangor",
+        "phonetic": "tæŋɡɚ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit that is a hybrid of a tangerine and an orange",
+        "defineVi": "một loại trái cây có múi được lai giữa quýt và cam"
+    },
+    {
+        "id": "f9d3598a-ec34-48fa-b985-203649c6252f",
+        "word": "ugli fruit",
+        "phonetic": "ʌɡli fɹuːt ",
+        "type": "noun",
+        "defineEn": "a citrus fruit that is known for its rough and wrinkled appearance, yet has a sweet and tangy flavor",
+        "defineVi": "một loại trái cây có múi được biết đến với vẻ ngoài xù xì và nhăn nheo, nhưng có hương vị ngọt ngào và thơm",
+        "hasImg": true
+    },
+    {
+        "id": "2340a577-bfd9-483a-9fb8-5ddd6d4addc5",
+        "word": "Rangpur",
+        "phonetic": "ɹæŋpʊɹ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit that resembles an orange but has a sour taste similar to a lime",
+        "defineVi": "một loại trái cây có múi giống như một quả cam nhưng có vị chua tương tự như một quả chanh",
+        "hasImg": true
+    },
+    {
+        "id": "420e698f-8761-4e97-8f72-49efb589561b",
+        "word": "key lime",
+        "phonetic": "kiː laɪm ",
+        "type": "noun",
+        "defineEn": "a small, round citrus fruit with a distinct tart and aromatic flavor",
+        "defineVi": "một loại trái cây có múi nhỏ, tròn với vị chua và hương thơm riêng biệt",
+        "hasImg": true
+    },
+    {
+        "id": "54561de8-2bff-4135-af67-f84c0b93e183",
+        "word": "bergamot orange",
+        "phonetic": "bɜːɡɐmɑːt ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit known for its distinct and fragrant flavor, commonly used in teas, perfumes, and culinary applications",
+        "defineVi": "một loại trái cây có múi được biết đến với hương vị thơm và khác biệt, thường được sử dụng trong các loại trà, nước hoa và các ứng dụng ẩm thực",
+        "hasImg": true
+    },
+    {
+        "id": "29bd0673-ceaf-440f-8672-1a9a8586c6f8",
+        "word": "bitter orange",
+        "phonetic": "bɪɾɚɹ ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit with a tart and slightly bitter flavor",
+        "defineVi": "một loại trái cây họ cam quýt có vị chua và hơi đắng",
+        "hasImg": true
+    },
+    {
+        "id": "e3a141f5-2ba4-4928-8a13-1396d198043e",
+        "word": "sweet orange",
+        "phonetic": "swiːt ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a citrus fruit known for its juicy and sweet flavor",
+        "defineVi": "một loại trái cây có múi được biết đến với hương vị ngọt ngào và ngon ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "61483064-a4f8-4433-9a54-d90aa04ac42f",
+        "word": "citrange",
+        "phonetic": "sɪtɹeɪndʒ ",
+        "type": "noun",
+        "defineEn": "a hybrid citrus fruit resulting from the crossbreeding of a citron and a sweet orange",
+        "defineVi": "một loại trái cây có múi lai là kết quả của việc lai tạo giữa một loại cây có múi và một loại cam ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "7744c2ce-7175-44da-9f0b-e3ed277cedb2",
+        "word": "seville orange",
+        "phonetic": "səvɪl ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a sour citrus fruit commonly used for making marmalades and sauces",
+        "defineVi": "một loại trái cây có múi chua thường được sử dụng để làm mứt và nước sốt",
+        "hasImg": true
+    }
+]

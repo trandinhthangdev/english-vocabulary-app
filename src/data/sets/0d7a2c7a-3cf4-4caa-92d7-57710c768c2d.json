@@ -1,0 +1,137 @@
+[
+    {
+        "id": "c702f37f-6534-4735-9c39-75b39ed84f5e",
+        "word": "young",
+        "phonetic": "jʌŋ ",
+        "type": "adjective",
+        "defineEn": "still in the earlier stages of life",
+        "defineVi": "vẫn còn trong giai đoạn đầu của cuộc sống",
+        "hasImg": true
+    },
+    {
+        "id": "71b9b964-da8d-4033-9285-08cd4a61ba7c",
+        "word": "old",
+        "phonetic": "oʊld ",
+        "type": "adjective",
+        "defineEn": "(of a person) in the later stages of life",
+        "defineVi": "(của một người) trong giai đoạn sau của cuộc đời",
+        "hasImg": true
+    },
+    {
+        "id": "1662d620-7fd9-4b84-a03e-f8b094394090",
+        "word": "stupid",
+        "phonetic": "stuːpɪd ",
+        "type": "adjective",
+        "defineEn": "not having common sense or the ability to understand or learn quickly",
+        "defineVi": "không có ý thức chung hoặc khả năng hiểu hoặc học hỏi nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "53bc88c1-f1cd-4a86-ac2e-6f8158324408",
+        "word": "thirsty",
+        "phonetic": "θɜːsti ",
+        "type": "adjective",
+        "defineEn": "wanting or needing a drink",
+        "defineVi": "muốn hoặc cần một thức uống",
+        "hasImg": true
+    },
+    {
+        "id": "229dfe9e-df6f-4193-913f-3b3d560e9037",
+        "word": "fat",
+        "phonetic": "fæt ",
+        "type": "adjective",
+        "defineEn": "(of people or animals) weighing much more than what is thought to be healthy for their body",
+        "defineVi": "(của người hoặc động vật) nặng hơn nhiều so với những gì được cho là lành mạnh cho cơ thể của họ",
+        "hasImg": true
+    },
+    {
+        "id": "a76cd40a-5f67-4122-87e6-a9b6c2432960",
+        "word": "thin",
+        "phonetic": "θɪn ",
+        "type": "adjective",
+        "defineEn": "(of people or animals) weighing less than what is thought to be healthy for their body",
+        "defineVi": "(của người hoặc động vật) cân nặng thấp hơn những gì được cho là lành mạnh cho cơ thể của họ",
+        "hasImg": true
+    },
+    {
+        "id": "8f4c8605-c2f1-4779-8261-b0feb178ab5c",
+        "word": "tall",
+        "phonetic": "tɔːl ",
+        "type": "adjective",
+        "defineEn": "(of a person or thing) having a height that is greater than what is thought to be the average height",
+        "defineVi": "(của một người hoặc vật) có chiều cao lớn hơn chiều cao được cho là trung bình",
+        "hasImg": true
+    },
+    {
+        "id": "04bf59e2-3bd4-41ad-9b74-07e8c2b1723e",
+        "word": "smart",
+        "phonetic": "smɑːɹt ",
+        "type": "adjective",
+        "defineEn": "able to think and learn in a good and quick way",
+        "defineVi": "có thể suy nghĩ và học hỏi một cách tốt và nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "9674d8d9-d234-4de7-b562-99ce61c6f2ab",
+        "word": "angry",
+        "phonetic": "æŋɡɹi ",
+        "type": "adjective",
+        "defineEn": "feeling very annoyed or upset because of something that we do not like",
+        "defineVi": "cảm thấy rất khó chịu hoặc khó chịu vì điều gì đó mà chúng tôi không thích",
+        "hasImg": true
+    },
+    {
+        "id": "04b65df8-8e8a-4868-8f73-61ddf6861233",
+        "word": "fine",
+        "phonetic": "faɪn ",
+        "type": "adjective",
+        "defineEn": "not ill, injured, or in a bad state",
+        "defineVi": "không bị bệnh, bị thương, hoặc trong tình trạng xấu",
+        "hasImg": true
+    },
+    {
+        "id": "0b7ab2e9-ac84-49ce-ac3a-39562c71db2f",
+        "word": "sad",
+        "phonetic": "sæd ",
+        "type": "adjective",
+        "defineEn": "emotionally feeling bad",
+        "defineVi": "cảm xúc tồi tệ",
+        "hasImg": true
+    },
+    {
+        "id": "896965df-1479-4b5a-8544-25a6aa46ed85",
+        "word": "happy",
+        "phonetic": "hæpi ",
+        "type": "adjective",
+        "defineEn": "emotionally feeling good",
+        "defineVi": "cảm xúc tốt",
+        "hasImg": true
+    },
+    {
+        "id": "18d5e7f4-2028-4ff0-a737-ce2eb8cc0eaf",
+        "word": "hungry",
+        "phonetic": "hʌŋɡɹi ",
+        "type": "adjective",
+        "defineEn": "needing or wanting something to eat",
+        "defineVi": "cần hoặc muốn một cái gì đó để ăn",
+        "hasImg": true
+    },
+    {
+        "id": "b27ee85d-b113-402d-a783-14015a172149",
+        "word": "excited",
+        "phonetic": "ɛksaɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "feeling very happy, interested, and energetic",
+        "defineVi": "cảm thấy rất hạnh phúc, thích thú và tràn đầy năng lượng",
+        "hasImg": true
+    },
+    {
+        "id": "5a7c8de8-ec06-4eae-b4be-343153920f09",
+        "word": "ready",
+        "phonetic": "ɹɛdi ",
+        "type": "adjective",
+        "defineEn": "mentally or physically prepared for a situation or activity",
+        "defineVi": "chuẩn bị tinh thần hoặc thể chất cho một tình huống hoặc hoạt động",
+        "hasImg": true
+    }
+]

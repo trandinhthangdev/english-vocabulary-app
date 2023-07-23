@@ -1,0 +1,358 @@
+[
+    {
+        "id": "bc6b69c4-7f91-4813-8f01-537c2ece3f82",
+        "word": "good",
+        "phonetic": "ɡʊd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is satisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "95c33d78-76e2-4a8f-9527-e2be14c7bef1",
+        "word": "bad",
+        "phonetic": "bæd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is unsatisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng không thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "23ded0ff-2133-4106-b453-d08a92257ae5",
+        "word": "excellent",
+        "phonetic": "ɛksələnt ",
+        "type": "adjective",
+        "defineEn": "extremely good in quality or other traits",
+        "defineVi": "cực kỳ tốt về chất lượng hoặc các đặc điểm khác",
+        "hasImg": true
+    },
+    {
+        "id": "ce0ff893-5529-44a9-9e57-51f7e4a7147a",
+        "word": "amazing",
+        "phonetic": "ɐmeɪzɪŋ ",
+        "type": "adjective",
+        "defineEn": "extremely surprising, particularly in a good way",
+        "defineVi": "cực kỳ ngạc nhiên, đặc biệt là trong một cách tốt",
+        "hasImg": true
+    },
+    {
+        "id": "81da848f-bfef-4260-9eed-350f3e05e4da",
+        "word": "lovely",
+        "phonetic": "lʌvli ",
+        "type": "adjective",
+        "defineEn": "very beautiful or attractive",
+        "defineVi": "rất đẹp hoặc hấp dẫn",
+        "hasImg": true
+    },
+    {
+        "id": "ae1e5799-35c1-4e1b-bbcd-3f2308333671",
+        "word": "terrible",
+        "phonetic": "tɛɹᵻbəl ",
+        "type": "adjective",
+        "defineEn": "very bad, disagreeable, or unpleasant",
+        "defineVi": "rất xấu, khó chịu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "b4763b2c-8792-4080-8032-d8b50193bd90",
+        "word": "great",
+        "phonetic": "ɡɹeɪt ",
+        "type": "adjective",
+        "defineEn": "worthy of being approved or admired",
+        "defineVi": "xứng đáng được chấp thuận hoặc ngưỡng mộ",
+        "hasImg": true
+    },
+    {
+        "id": "940cf48d-eaf2-4833-ac9f-0971e4b859c5",
+        "word": "fabulous",
+        "phonetic": "fæbjʊləs ",
+        "type": "adjective",
+        "defineEn": "describing something that is beyond the usual or ordinary, often causing amazement or admiration due to its exceptional nature",
+        "defineVi": "mô tả một cái gì đó vượt quá bình thường hoặc bình thường, thường gây ra sự ngạc nhiên hoặc ngưỡng mộ do tính chất đặc biệt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "95ac2c45-8078-4c82-b1d7-63fd8c736c1f",
+        "word": "wonderful",
+        "phonetic": "wʌndɚfəl ",
+        "type": "adjective",
+        "defineEn": "very great and pleasant",
+        "defineVi": "rất tuyệt vời và dễ chịu",
+        "hasImg": true
+    },
+    {
+        "id": "eee3096d-0b83-45d1-9117-999fc82627a0",
+        "word": "horrible",
+        "phonetic": "hɔːɹɪbəl ",
+        "type": "adjective",
+        "defineEn": "extremely unpleasant, bad, or disagreeable",
+        "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "c414f3dc-9c03-44c5-bf90-9fe373604823",
+        "word": "awful",
+        "phonetic": "ɔːfəl ",
+        "type": "adjective",
+        "defineEn": "extremely unpleasant, bad, or disagreeable",
+        "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+        "hasImg": true
+    },
+    {
+        "id": "ae2e71f2-38af-4a50-a9ea-7009fbcafd51",
+        "word": "fantastic",
+        "phonetic": "fæntæstɪk ",
+        "type": "adjective",
+        "defineEn": "extremely amazing and great",
+        "defineVi": "cực kỳ tuyệt vời và tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "601f34e6-180e-41bd-9521-2f07af08fd16",
+        "word": "dreadful",
+        "phonetic": "dɹɛdfəl ",
+        "type": "adjective",
+        "defineEn": "very bad",
+        "defineVi": "rất tệ",
+        "hasImg": true
+    },
+    {
+        "id": "b6c6f813-8479-4e3b-a10c-2448f1e12462",
+        "word": "really",
+        "phonetic": "ɹiəli ",
+        "type": "adverb",
+        "defineEn": "used to put emphasis on a statement",
+        "defineVi": "được sử dụng để nhấn mạnh vào một tuyên bố"
+    },
+    {
+        "id": "f8c0b93d-8f18-4fca-b739-7e4c857dddb6",
+        "word": "very",
+        "phonetic": "vɛɹi ",
+        "type": "adverb",
+        "defineEn": "to a great extent or degree",
+        "defineVi": "đến một mức độ lớn hoặc mức độ"
+    },
+    {
+        "id": "e77ee0cf-9be9-40f4-a7b8-dd29e62fe61c",
+        "word": "town",
+        "phonetic": "taʊn ",
+        "type": "noun",
+        "defineEn": "an area with human population that is smaller than a city and larger than a village",
+        "defineVi": "một khu vực có dân số nhỏ hơn một thành phố và lớn hơn một ngôi làng",
+        "hasImg": true
+    },
+    {
+        "id": "c045ef8a-a452-499d-87f9-4dbbcdb19f3c",
+        "word": "house",
+        "phonetic": "haʊs ",
+        "type": "noun",
+        "defineEn": "a building where people live, especially as a family",
+        "defineVi": "một tòa nhà nơi mọi người sống, đặc biệt là như một gia đình",
+        "hasImg": true
+    },
+    {
+        "id": "8a4eb4d1-7223-42ab-b012-df4f6303f16d",
+        "word": "flat",
+        "phonetic": "flæt ",
+        "type": "noun",
+        "defineEn": "a place with a few rooms in which people live, normally part of a building with other such places on each floor",
+        "defineVi": "một nơi có một vài phòng mà mọi người sống, thường là một phần của tòa nhà với những nơi khác như vậy trên mỗi tầng",
+        "hasImg": true
+    },
+    {
+        "id": "9c431860-d2f7-445b-b632-6b43bfa0a2aa",
+        "word": "school",
+        "phonetic": "skuːl ",
+        "type": "noun",
+        "defineEn": "a place where children learn things from teachers",
+        "defineVi": "một nơi mà trẻ em học những điều từ giáo viên",
+        "hasImg": true
+    },
+    {
+        "id": "121eda03-36e4-4d34-9924-0aa1e45975f7",
+        "word": "weather",
+        "phonetic": "wɛðɚ ",
+        "type": "noun",
+        "defineEn": "the temperature and other atmospheric conditions such as sunshine, rain, wind, etc.",
+        "defineVi": "nhiệt độ và các điều kiện khí quyển khác như nắng, mưa, gió, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "ba04bb7a-1062-4d32-a47c-8f4add638375",
+        "word": "job",
+        "phonetic": "dʒɑːb ",
+        "type": "noun",
+        "defineEn": "the work that we do regularly to earn money",
+        "defineVi": "công việc mà chúng tôi làm thường xuyên để kiếm tiền",
+        "hasImg": true
+    },
+    {
+        "id": "4ec0c5d5-410b-467b-8c27-33ac5811ca94",
+        "word": "old",
+        "phonetic": "oʊld ",
+        "type": "adjective",
+        "defineEn": "of a particular or specified age",
+        "defineVi": "của một độ tuổi cụ thể hoặc quy định"
+    },
+    {
+        "id": "cc9c6e6b-eb31-4c82-b447-911489782e30",
+        "word": "big",
+        "phonetic": "bɪɡ ",
+        "type": "adjective",
+        "defineEn": "large or above average in size, amount, degree, etc.",
+        "defineVi": "lớn hoặc trên mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "ad33ba3b-5fc2-421f-bd49-17a874888824",
+        "word": "interesting",
+        "phonetic": "ɪntɹɛstɪŋ ",
+        "type": "adjective",
+        "defineEn": "catching and keeping our attention because of being unusual, exciting, etc.",
+        "defineVi": "thu hút và giữ sự chú ý của chúng tôi vì khác thường, thú vị, v.v."
+    },
+    {
+        "id": "c85794d3-11d2-4662-9480-6c296b39a4ae",
+        "word": "nice",
+        "phonetic": "naɪs ",
+        "type": "adjective",
+        "defineEn": "providing pleasure and enjoyment",
+        "defineVi": "cung cấp niềm vui và hưởng thụ",
+        "hasImg": true
+    },
+    {
+        "id": "4fb4111f-e932-4633-9d84-e41de19bd510",
+        "word": "living room",
+        "phonetic": "lɪvɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "the part of a house where people spend time together talking, watching television, relaxing, etc.",
+        "defineVi": "một phần của ngôi nhà nơi mọi người dành thời gian cùng nhau nói chuyện, xem truyền hình, thư giãn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2f28af9e-565a-4618-9ab3-1d45eec8efdd",
+        "word": "kitchen",
+        "phonetic": "kɪtʃən ",
+        "type": "noun",
+        "defineEn": "the place in a building or home where we make food",
+        "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "c17aa768-3485-4505-b407-2c42b15f9814",
+        "word": "bathroom",
+        "phonetic": "bæθɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that has a toilet and a sink, and often times a bathtub or a shower as well",
+        "defineVi": "một căn phòng có nhà vệ sinh và bồn rửa, và thường có cả bồn tắm hoặc vòi hoa sen",
+        "hasImg": true
+    },
+    {
+        "id": "17eebca0-2f1f-4e05-8298-a97e8ac98b38",
+        "word": "sofa",
+        "phonetic": "soʊfə ",
+        "type": "noun",
+        "defineEn": "a comfortable seat that has a back and two arms and enough space for two or multiple people to sit on",
+        "defineVi": "một chỗ ngồi thoải mái có lưng và hai cánh tay và đủ không gian cho hai hoặc nhiều người ngồi",
+        "hasImg": true
+    },
+    {
+        "id": "7c548ce6-5b5e-4460-82d9-4165bf46d6df",
+        "word": "fridge",
+        "phonetic": "fɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "a container, usually put in a kitchen, that uses electricity to keep food cool and fresh",
+        "defineVi": "một thùng chứa, thường được đặt trong nhà bếp, sử dụng điện để giữ cho thực phẩm tươi và mát",
+        "hasImg": true
+    },
+    {
+        "id": "840a7463-b554-45a1-b7b5-fb741afaf8c3",
+        "word": "lamp",
+        "phonetic": "læmp ",
+        "type": "noun",
+        "defineEn": "an object that can give light by using electricity or burning gas or oil",
+        "defineVi": "một đối tượng có thể cung cấp cho ánh sáng bằng cách sử dụng điện hoặc khí đốt hoặc dầu",
+        "hasImg": true
+    },
+    {
+        "id": "26160c42-a22e-498f-9c18-5e3e4c5cccab",
+        "word": "mirror",
+        "phonetic": "mɪɹɚ ",
+        "type": "noun",
+        "defineEn": "a flat surface made of glass that people can see themselves in",
+        "defineVi": "một bề mặt phẳng làm bằng thủy tinh mà mọi người có thể nhìn thấy mình trong",
+        "hasImg": true
+    },
+    {
+        "id": "e9716bfb-d319-4738-b260-6904241520b6",
+        "word": "cooker",
+        "phonetic": "kʊkɚ ",
+        "type": "noun",
+        "defineEn": "an appliance shaped like a box that is used for heating or cooking food by putting food on top or inside the appliance",
+        "defineVi": "một thiết bị có hình dạng giống như một cái hộp được sử dụng để hâm nóng hoặc nấu thức ăn bằng cách đặt thức ăn lên trên hoặc bên trong thiết bị",
+        "hasImg": true
+    },
+    {
+        "id": "1ed9eb42-127a-42ce-98d0-f47873c993ee",
+        "word": "towel",
+        "phonetic": "taʊəl ",
+        "type": "noun",
+        "defineEn": "a piece of cloth or paper that we use for drying our body or things such as dishes",
+        "defineVi": "một mảnh vải hoặc giấy mà chúng tôi sử dụng để làm khô cơ thể hoặc những thứ như bát đĩa",
+        "hasImg": true
+    },
+    {
+        "id": "00d2f207-b709-4658-9b6b-f03afbeaa9a8",
+        "word": "kettle",
+        "phonetic": "kɛɾəl ",
+        "type": "noun",
+        "defineEn": "a container with a handle, lid, and spout that is used for boiling water",
+        "defineVi": "một thùng chứa có tay cầm, nắp và vòi được sử dụng để đun sôi nước",
+        "hasImg": true
+    },
+    {
+        "id": "4ac5ebdb-7b0a-4990-a539-b532646a6b53",
+        "word": "armchair",
+        "phonetic": "ɑːɹmtʃɛɹ ",
+        "type": "noun",
+        "defineEn": "a type of upholstered chair with armrests and a comfortable backrest, often used for relaxation or reading",
+        "defineVi": "loại ghế bọc nệm có tay vịn và tựa lưng thoải mái, thường dùng để thư giãn hoặc đọc sách",
+        "hasImg": true
+    },
+    {
+        "id": "6385f336-50e4-448b-97a3-237809319d5a",
+        "word": "shower",
+        "phonetic": "ʃaʊɚ ",
+        "type": "noun",
+        "defineEn": "a piece of equipment that flows water all over your body from above",
+        "defineVi": "một thiết bị đưa nước chảy khắp cơ thể bạn từ trên cao",
+        "hasImg": true
+    },
+    {
+        "id": "bb724c0c-5204-4bb3-89ae-b2936f176092",
+        "word": "shelf",
+        "phonetic": "ʃɛlf ",
+        "type": "noun",
+        "defineEn": "a flat, narrow board made of wood, metal, etc. attached to a wall, to put items on",
+        "defineVi": "một tấm ván phẳng, hẹp làm bằng gỗ, kim loại, v.v. gắn vào tường, để đặt các vật dụng lên",
+        "hasImg": true
+    },
+    {
+        "id": "d5b10bb5-7ae3-4a0f-a6d8-0a9c25cd0593",
+        "word": "plate",
+        "phonetic": "pleɪt ",
+        "type": "noun",
+        "defineEn": "a flat, typically round dish that we eat from or serve food on",
+        "defineVi": "một đĩa phẳng, thường tròn mà chúng ta ăn hoặc phục vụ thức ăn trên",
+        "hasImg": true
+    },
+    {
+        "id": "291a19cc-1dab-48ba-b845-396b50cd31b4",
+        "word": "toilet",
+        "phonetic": "tɔɪlɪt ",
+        "type": "noun",
+        "defineEn": "the seat we use for getting rid of bodily waste",
+        "defineVi": "chỗ ngồi chúng ta sử dụng để loại bỏ chất thải cơ thể",
+        "hasImg": true
+    }
+]

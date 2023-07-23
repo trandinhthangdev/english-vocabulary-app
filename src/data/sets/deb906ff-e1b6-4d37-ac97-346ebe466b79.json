@@ -1,0 +1,496 @@
+[
+    {
+        "id": "728c1856-b03e-4b18-85af-a2dd5eac1812",
+        "word": "saw",
+        "phonetic": "sɔː ",
+        "type": "noun",
+        "defineEn": "a metal tool with a toothed blade that is used for cutting wood, metal, etc. by moving back and forth",
+        "defineVi": "một công cụ kim loại có lưỡi răng dùng để cắt gỗ, kim loại, v.v. bằng cách di chuyển tới lui",
+        "hasImg": true
+    },
+    {
+        "id": "def532a1-2790-4971-af20-970fc3aa46df",
+        "word": "hand saw",
+        "phonetic": "hænd sɔː ",
+        "type": "noun",
+        "defineEn": "a manual cutting tool with a toothed blade and a handle, used for making straight or curved cuts in various materials such as wood, plastic, or metal, typically operated by hand without the need for power",
+        "defineVi": "một công cụ cắt thủ công có lưỡi có răng và tay cầm, được sử dụng để cắt thẳng hoặc cong trên các vật liệu khác nhau như gỗ, nhựa hoặc kim loại, thường được vận hành bằng tay mà không cần nguồn điện",
+        "hasImg": true
+    },
+    {
+        "id": "5ccd5688-1dfc-404d-a071-b83639e7f10f",
+        "word": "crosscut saw",
+        "phonetic": "kɹɔskʌt sɔː ",
+        "type": "noun",
+        "defineEn": "a type of hand saw with a wide, toothed blade designed for cutting wood perpendicular to the grain, producing smooth, clean crosscuts rather than ripping cuts along the grain",
+        "defineVi": "một loại cưa tay có lưỡi rộng, có răng, được thiết kế để cắt gỗ vuông góc với thớ gỗ, tạo ra các vết cắt ngang mịn, sạch hơn là cắt các vết cắt dọc theo thớ gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "f522ca7d-70a2-47f6-9184-63b2a7a2e06c",
+        "word": "rip saw",
+        "phonetic": "ɹɪp sɔː ",
+        "type": "noun",
+        "defineEn": "a type of hand saw with a long, toothed blade specifically designed for cutting wood along the grain, making it efficient for ripping or cutting boards lengthwise with the grain for tasks like rough dimensioning or creating parallel edges",
+        "defineVi": "một loại cưa tay có lưỡi dài, có răng, được thiết kế đặc biệt để cắt gỗ dọc theo thớ gỗ, giúp tách hoặc cắt thớt theo thớ gỗ hiệu quả cho các công việc như đo kích thước thô hoặc tạo các cạnh song song"
+    },
+    {
+        "id": "0dc326b5-3354-46bf-95b9-b2c8f9d7729e",
+        "word": "back saw",
+        "phonetic": "bæk sɔː ",
+        "type": "noun",
+        "defineEn": "a type of hand saw with a reinforced back edge that provides stability and rigidity to the thin, fine-toothed blade",
+        "defineVi": "một loại cưa tay có cạnh sau được gia cố để mang lại sự ổn định và độ cứng cho lưỡi cưa mỏng, có răng mịn",
+        "hasImg": true
+    },
+    {
+        "id": "bbc94e4f-a1af-4bf3-8195-11fa8fffb723",
+        "word": "coping saw",
+        "phonetic": "koʊpɪŋ sɔː ",
+        "type": "noun",
+        "defineEn": "a small, handheld saw with a narrow, fine-toothed blade stretched across a U-shaped frame, commonly used for intricate and detailed cuts in wood, such as coping moldings or making curved or irregular shapes",
+        "defineVi": "một chiếc cưa cầm tay nhỏ có lưỡi cưa hẹp, có răng mịn trải dài trên khung hình chữ U, thường được sử dụng để cắt gỗ phức tạp và chi tiết, chẳng hạn như cắt các đường gờ hoặc tạo các hình dạng cong hoặc không đều",
+        "hasImg": true
+    },
+    {
+        "id": "06303cfb-8926-4736-b837-97b51185113f",
+        "word": "jab saw",
+        "phonetic": "dʒæb sɔː ",
+        "type": "noun",
+        "defineEn": "a small hand saw with a narrow, pointed blade designed for making quick and rough cuts in drywall, plywood, or other similar materials",
+        "defineVi": "một cái cưa tay nhỏ có lưỡi hẹp, nhọn được thiết kế để cắt nhanh và thô trên vách thạch cao, ván ép hoặc các vật liệu tương tự khác",
+        "hasImg": true
+    },
+    {
+        "id": "ee59004c-5c7a-4369-9b8d-f8dea92189a8",
+        "word": "hacksaw",
+        "phonetic": "hæksɔː ",
+        "type": "noun",
+        "defineEn": "a handheld saw with a fine-toothed blade held under tension in a frame, commonly used for cutting metal, plastic, or other hard materials by pushing and pulling the saw blade back and forth",
+        "defineVi": "cưa cầm tay có lưỡi răng mịn được giữ dưới lực căng trong khung, thường được sử dụng để cắt kim loại, nhựa hoặc các vật liệu cứng khác bằng cách đẩy và kéo lưỡi cưa qua lại",
+        "hasImg": true
+    },
+    {
+        "id": "45f9eaff-a8c7-434c-86cb-fced2c978228",
+        "word": "bow saw",
+        "phonetic": "boʊ sɔː ",
+        "type": "noun",
+        "defineEn": "a large, coarse-toothed hand saw with a narrow, flexible blade held under tension in a curved frame, typically used for cutting through green wood or branches in gardening, landscaping, or woodworking tasks",
+        "defineVi": "một cái cưa tay lớn, có răng thô với một lưỡi hẹp, linh hoạt được giữ dưới lực căng trong một khung cong, thường được sử dụng để cắt gỗ hoặc cành cây xanh trong các công việc làm vườn, tạo cảnh quan hoặc chế biến gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "f3cbfea2-34b8-4f00-b97c-c5a8549848b6",
+        "word": "pruning saw",
+        "phonetic": "pɹuːnɪŋ sɔː ",
+        "type": "noun",
+        "defineEn": "a specialized saw with a sharp-toothed blade designed for trimming and cutting branches or limbs from trees or shrubs",
+        "defineVi": "một chiếc cưa chuyên dụng có lưỡi răng sắc bén được thiết kế để cắt tỉa và cắt cành hoặc chi từ cây hoặc bụi rậm",
+        "hasImg": true
+    },
+    {
+        "id": "1b2ff443-997a-4db1-acc4-2ff3a59ef231",
+        "word": "Japanese saw",
+        "phonetic": "dʒæpəniːz sɔː ",
+        "type": "noun",
+        "defineEn": "a type of hand saw with a thin, flexible blade that cuts on the pull stroke, offering precise and smooth cuts in various woodworking tasks, and often characterized by its fine teeth and ergonomic handle design",
+        "defineVi": "một loại cưa cầm tay có lưỡi mỏng, linh hoạt cắt theo hành trình kéo, mang lại những đường cắt chính xác và mịn trong các công việc chế biến gỗ khác nhau và thường được đặc trưng bởi răng mịn và thiết kế tay cầm tiện dụng",
+        "hasImg": true
+    },
+    {
+        "id": "da92aae7-1fc6-48df-a232-32e0e08e931f",
+        "word": "miter saw",
+        "phonetic": "maɪɾɚ sɔː ",
+        "type": "noun",
+        "defineEn": "a power tool used for making accurate crosscuts and miter cuts in wood, metal, or other materials, featuring a circular blade mounted on a hinged arm that can be pivoted to different angles for precise angled cuts",
+        "defineVi": "một công cụ điện được sử dụng để thực hiện các đường cắt ngang và cắt vát chính xác trên gỗ, kim loại hoặc các vật liệu khác, có một lưỡi tròn được gắn trên một cánh tay có bản lề có thể xoay theo các góc khác nhau để cắt các góc chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "d9bbec4a-db2d-455a-bf1e-932fc79f0ac8",
+        "word": "reciprocating saw",
+        "phonetic": "ɹᵻsɪpɹəkeɪɾɪŋ sɔː ",
+        "type": "noun",
+        "defineEn": "a handheld power tool with a blade that moves back and forth in a rapid, reciprocating motion, commonly used for demolition work or making rough cuts in wood, metal, or other materials",
+        "defineVi": "một dụng cụ điện cầm tay có lưỡi dao di chuyển tới lui theo chuyển động nhanh, qua lại, thường được sử dụng cho công việc phá dỡ hoặc cắt thô trên gỗ, kim loại hoặc các vật liệu khác",
+        "hasImg": true
+    },
+    {
+        "id": "08f17913-a980-437e-8284-1f953234c8b6",
+        "word": "tile saw",
+        "phonetic": "taɪl sɔː ",
+        "type": "noun",
+        "defineEn": "a power tool used for cutting tiles and ceramics, featuring a diamond-tipped blade and a water cooling system for clean and precise cuts",
+        "defineVi": "một dụng cụ điện được sử dụng để cắt gạch và gốm sứ, có lưỡi cắt có đầu bằng kim cương và hệ thống làm mát bằng nước để cắt sạch và chính xác"
+    },
+    {
+        "id": "d1e874be-43c6-4b74-8eaf-d1f773d253ed",
+        "word": "veneer saw",
+        "phonetic": "vɛnɪɹ sɔː ",
+        "type": "noun",
+        "defineEn": "a hand tool with a small, narrow blade used for cutting thin veneer sheets or trimming veneer edges in woodworking projects",
+        "defineVi": "một dụng cụ cầm tay có lưỡi nhỏ, hẹp được sử dụng để cắt các tấm ván lạng mỏng hoặc cắt các cạnh ván lạng trong các dự án chế biến gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "aa69545c-e8a8-4fa6-9da5-e7aff879602f",
+        "word": "keyhole saw",
+        "phonetic": "kiːhoʊl sɔː ",
+        "type": "noun",
+        "defineEn": "a handheld tool with a narrow, pointed blade used for making small and intricate cuts in materials like drywall, wood, or plastic",
+        "defineVi": "một công cụ cầm tay có lưỡi hẹp, nhọn được sử dụng để thực hiện các vết cắt nhỏ và phức tạp trên các vật liệu như vách thạch cao, gỗ hoặc nhựa",
+        "hasImg": true
+    },
+    {
+        "id": "936f256c-2260-4e47-a700-3f62f107b5f3",
+        "word": "flush cut saw",
+        "phonetic": "flʌʃ kʌt sɔː ",
+        "type": "noun",
+        "defineEn": "a flexible hand saw designed for making flush cuts or trimming materials close to a surface",
+        "defineVi": "một cái cưa tay linh hoạt được thiết kế để thực hiện các vết cắt phẳng hoặc cắt vật liệu gần bề mặt",
+        "hasImg": true
+    },
+    {
+        "id": "aef46f29-5615-4747-9f21-6c513fa3154f",
+        "word": "circular saw",
+        "phonetic": "sɜːkjʊlɚ sɔː ",
+        "type": "noun",
+        "defineEn": "a versatile power tool with a circular rotating blade, commonly used for making straight cuts in various materials such as wood, metal, or plastic",
+        "defineVi": "một dụng cụ điện đa năng có lưỡi quay tròn, thường được sử dụng để cắt thẳng các vật liệu khác nhau như gỗ, kim loại hoặc nhựa",
+        "hasImg": true
+    },
+    {
+        "id": "1baafc02-5d6f-498a-aa8e-2dab2b8348a3",
+        "word": "table saw",
+        "phonetic": "teɪbəl sɔː ",
+        "type": "noun",
+        "defineEn": "a stationary power tool consisting of a flat table surface with a circular saw blade protruding through it, used for making precise cuts in wood or other materials by sliding the workpiece against the blade along a guide or fence",
+        "defineVi": "một dụng cụ điện cố định bao gồm một mặt bàn phẳng với một lưỡi cưa tròn nhô ra qua nó, được sử dụng để cắt chính xác gỗ hoặc các vật liệu khác bằng cách trượt phôi gia công vào lưỡi cưa dọc theo thanh dẫn hoặc hàng rào"
+    },
+    {
+        "id": "f2a11eba-6258-4be4-bde6-f6d5ee358ed4",
+        "word": "jigsaw",
+        "phonetic": "dʒɪɡsɔː ",
+        "type": "noun",
+        "defineEn": "a handheld power tool equipped with a thin, reciprocating blade that moves up and down rapidly, used for making curved or intricate cuts in wood, metal, or other materials by guiding the blade along a desired cutting path",
+        "defineVi": "một dụng cụ điện cầm tay được trang bị một lưỡi dao mỏng, chuyển động tịnh tiến di chuyển lên xuống nhanh chóng, được sử dụng để thực hiện các vết cắt cong hoặc phức tạp trên gỗ, kim loại hoặc các vật liệu khác bằng cách dẫn lưỡi dao dọc theo đường cắt mong muốn"
+    },
+    {
+        "id": "7240fa64-fef5-42e9-b105-1a464279edc2",
+        "word": "scroll saw",
+        "phonetic": "skɹoʊl sɔː ",
+        "type": "noun",
+        "defineEn": "a stationary power tool with a fine, vertical reciprocating blade that allows for intricate and precise cutting in wood, plastic, or other materials",
+        "defineVi": "một dụng cụ điện cầm tay cố định có lưỡi dao chuyển động qua lại thẳng đứng, mịn cho phép cắt gỗ, nhựa hoặc các vật liệu khác phức tạp và chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "15c7d90d-6384-43f3-b94e-efce08bec122",
+        "word": "band saw",
+        "phonetic": "bænd sɔː ",
+        "type": "noun",
+        "defineEn": "a cutting tool that uses a long, continuous blade with teeth along one edge to make straight or curved cuts in a variety of materials, such as wood, metal, or plastic",
+        "defineVi": "một công cụ cắt sử dụng một lưỡi dài, liên tục có răng dọc theo một cạnh để tạo ra các vết cắt thẳng hoặc cong trên nhiều loại vật liệu, chẳng hạn như gỗ, kim loại hoặc nhựa",
+        "hasImg": true
+    },
+    {
+        "id": "d6bd4d92-1635-4ecd-811f-6270dfda97a8",
+        "word": "abrasive saw",
+        "phonetic": "ɐbɹeɪsɪv sɔː ",
+        "type": "noun",
+        "defineEn": "a power tool equipped with a circular abrasive disc or blade used for cutting through metal, masonry, or other hard materials by grinding or abrasive action",
+        "defineVi": "một dụng cụ điện được trang bị một đĩa hoặc lưỡi mài tròn được sử dụng để cắt kim loại, gạch xây hoặc các vật liệu cứng khác bằng cách mài hoặc tác động mài mòn"
+    },
+    {
+        "id": "8c8c2bf8-a009-49df-b3fd-acc20462bae7",
+        "word": "concrete saw",
+        "phonetic": "kɑːŋkɹiːt sɔː ",
+        "type": "noun",
+        "defineEn": "a power tool equipped with a diamond or abrasive blade designed specifically for cutting through concrete, asphalt, or other hard materials",
+        "defineVi": "một dụng cụ điện được trang bị một lưỡi cắt kim cương hoặc mài mòn được thiết kế đặc biệt để cắt bê tông, nhựa đường hoặc các vật liệu cứng khác",
+        "hasImg": true
+    },
+    {
+        "id": "dbe0ed3f-1938-4617-b9aa-876bcdf9b252",
+        "word": "track saw",
+        "phonetic": "tɹæk sɔː ",
+        "type": "noun",
+        "defineEn": "a power tool with a circular saw blade mounted on a guide rail or track, enabling straight and precise cuts in various materials",
+        "defineVi": "một dụng cụ điện có lưỡi cưa tròn được gắn trên ray dẫn hướng hoặc đường ray, cho phép cắt thẳng và chính xác trên các vật liệu khác nhau"
+    },
+    {
+        "id": "a5d6fd1e-6f02-487a-8b0e-a4cd9e0f9be7",
+        "word": "insulation saw",
+        "phonetic": "ɪnsəleɪʃən sɔː ",
+        "type": "noun",
+        "defineEn": "a specialized tool for cutting insulation materials, featuring a serrated blade designed for clean cuts",
+        "defineVi": "một công cụ chuyên dụng để cắt vật liệu cách nhiệt, có lưỡi răng cưa được thiết kế để cắt sạch"
+    },
+    {
+        "id": "0b546ad1-f804-435d-98c4-460e3b8c28b9",
+        "word": "fretsaw",
+        "phonetic": "fɹɛtsɔː ",
+        "type": "noun",
+        "defineEn": "a hand saw consisting of a thin, narrow blade stretched across a frame, commonly used in woodworking and crafts for making intricate curved cuts, particularly in thin materials like wood, plastic, or metal",
+        "defineVi": "một cái cưa tay bao gồm một lưỡi mỏng, hẹp trải dài trên khung, thường được sử dụng trong chế biến gỗ và đồ thủ công để tạo ra những đường cắt cong phức tạp, đặc biệt là trên các vật liệu mỏng như gỗ, nhựa hoặc kim loại",
+        "hasImg": true
+    },
+    {
+        "id": "7bf8384c-985d-4124-b8e3-5cd9cb725de0",
+        "word": "tenon saw",
+        "phonetic": "tɛnɑːn sɔː ",
+        "type": "noun",
+        "defineEn": "a hand saw with a narrow blade and a reinforced back, used for making precise cuts in woodworking, particularly for cutting tenons or making accurate crosscuts",
+        "defineVi": "cưa tay có lưỡi hẹp và mặt sau được gia cố, được sử dụng để cắt chính xác trong chế biến gỗ, đặc biệt là để cắt mộng hoặc tạo các đường cắt ngang chính xác"
+    },
+    {
+        "id": "e03c64ef-1d99-42dc-9a29-46d4496c8bf0",
+        "word": "compass saw",
+        "phonetic": "kʌmpəs sɔː ",
+        "type": "noun",
+        "defineEn": "a hand saw with a narrow, fine-toothed blade and a distinctive shape that resembles a compass, hence the name",
+        "defineVi": "một cái cưa tay với một lưỡi cưa hẹp, có răng mịn và hình dạng đặc biệt giống như một chiếc la bàn, do đó có tên",
+        "hasImg": true
+    },
+    {
+        "id": "c1a1f35e-ae54-4f73-9aee-6ddae00a7108",
+        "word": "dovetail saw",
+        "phonetic": "dʌvteɪl sɔː ",
+        "type": "noun",
+        "defineEn": "a small, fine-toothed hand saw specifically designed for making precise and delicate cuts, particularly in woodworking tasks such as cutting dovetail joints or other intricate joinery",
+        "defineVi": "một chiếc cưa tay nhỏ, có răng mịn, được thiết kế đặc biệt để thực hiện các đường cắt chính xác và tinh xảo, đặc biệt là trong các công việc chế biến gỗ như cắt các khớp nối có đuôi hoặc đồ mộc phức tạp khác",
+        "hasImg": true
+    },
+    {
+        "id": "8d108624-773a-47cd-90c7-1d7c4e978eea",
+        "word": "pipe cutter",
+        "phonetic": "paɪp kʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a tool specifically designed to cut pipes with accuracy and efficiency",
+        "defineVi": "một công cụ được thiết kế đặc biệt để cắt ống với độ chính xác và hiệu quả",
+        "hasImg": true
+    },
+    {
+        "id": "b21c52f4-5404-4fbf-b322-645d53f95718",
+        "word": "pipe threader",
+        "phonetic": "paɪp θɹɛdɚ ",
+        "type": "noun",
+        "defineEn": "a tool used to create threads on the ends of pipes to facilitate the connection and joining of pipes and fittings",
+        "defineVi": "dụng cụ dùng để tạo ren ở đầu ống nhằm tạo thuận lợi cho việc liên kết, nối ống và phụ kiện",
+        "hasImg": true
+    },
+    {
+        "id": "24b05c90-9f6c-41de-9883-99a583e9ebb6",
+        "word": "ax",
+        "phonetic": "æks ",
+        "type": "noun",
+        "defineEn": "a tool with a heavy blade and a wooden handle, used for chopping wood",
+        "defineVi": "một công cụ có lưỡi nặng và tay cầm bằng gỗ, dùng để chặt gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "60a7e5b8-9b56-4b55-83c3-4a2eb79a64cb",
+        "word": "pickaxe",
+        "phonetic": "pɪkæks ",
+        "type": "noun",
+        "defineEn": "a hand tool with a pointed end on one side and a flat chisel-like blade on the other, used for breaking up hard surfaces such as rocks, soil, or concrete",
+        "defineVi": "một dụng cụ cầm tay có một đầu nhọn ở một bên và một lưỡi phẳng giống như cái đục ở mặt kia, được sử dụng để phá vỡ các bề mặt cứng như đá, đất hoặc bê tông",
+        "hasImg": true
+    },
+    {
+        "id": "11928814-ebe2-435c-962f-372092fd6561",
+        "word": "pulaski",
+        "phonetic": "pjʊlæski ",
+        "type": "noun",
+        "defineEn": "a tool that combines an axe-like blade on one side and an adze-like digging tool on the other",
+        "defineVi": "một công cụ kết hợp một bên là lưỡi giống rìu và một bên là công cụ đào giống như rìu",
+        "hasImg": true
+    },
+    {
+        "id": "29b450c0-ed2a-49f2-8dc8-66f6f3b6fb4e",
+        "word": "splitting maul",
+        "phonetic": "splɪɾɪŋ mɔːl ",
+        "type": "noun",
+        "defineEn": "a heavy, axe-like tool with a large, wedge-shaped head designed for splitting wood along the grain by delivering powerful blows",
+        "defineVi": "một công cụ nặng, giống như rìu với đầu lớn, hình nêm được thiết kế để chẻ gỗ dọc theo thớ bằng cách tạo ra những cú đánh mạnh mẽ",
+        "hasImg": true
+    },
+    {
+        "id": "aa3d7919-835e-4f70-ba8c-57bd250ea268",
+        "word": "breaker bar",
+        "phonetic": "bɹeɪkɚ bɑːɹ ",
+        "type": "noun",
+        "defineEn": "a long and rigid metal bar that is used in conjunction with socket wrenches or other tools to provide additional leverage for breaking stubborn or rusted bolts, nuts, or fasteners",
+        "defineVi": "một thanh kim loại dài và cứng được sử dụng kết hợp với cờ lê ổ cắm hoặc các công cụ khác để cung cấp thêm đòn bẩy để phá vỡ các bu lông, đai ốc hoặc ốc vít cứng đầu hoặc rỉ sét",
+        "hasImg": true
+    },
+    {
+        "id": "a8ed1c48-07cb-4c3f-bdd3-e40ee0338f6b",
+        "word": "cold chisel",
+        "phonetic": "koʊld tʃɪzəl ",
+        "type": "noun",
+        "defineEn": "a hand tool with a sharp, hardened steel blade used for cutting, shaping, or chipping away hard materials such as metal, stone, or concrete",
+        "defineVi": "một dụng cụ cầm tay có lưỡi thép cứng, sắc bén được sử dụng để cắt, tạo hình hoặc đục các vật liệu cứng như kim loại, đá hoặc bê tông",
+        "hasImg": true
+    },
+    {
+        "id": "251fc6e4-8b5f-40fe-9345-6ab63e5d8b7f",
+        "word": "splitting wedge",
+        "phonetic": "splɪɾɪŋ wɛdʒ ",
+        "type": "noun",
+        "defineEn": "a wedge-shaped tool used with a hammer or mallet to split logs or wood by driving it into the material to create a clean split along the grain",
+        "defineVi": "một công cụ hình nêm được sử dụng với búa hoặc vồ để tách các khúc gỗ hoặc gỗ bằng cách đưa nó vào vật liệu để tạo ra một vết nứt rõ ràng dọc theo thớ gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "026f31c7-3699-41f6-a712-cdf60c2eb970",
+        "word": "plug and feather",
+        "phonetic": "plʌɡ ænd fɛðɚ ",
+        "type": "phrase",
+        "defineEn": "tools used in stone splitting where a series of holes are drilled into the stone, and then pairs of metal wedges (feathers) and a center wedge (plug) are inserted",
+        "defineVi": "các công cụ được sử dụng trong việc tách đá trong đó một loạt các lỗ được khoan vào đá, sau đó các cặp nêm kim loại (lông vũ) và một nêm trung tâm (phích cắm) được đưa vào",
+        "hasImg": true
+    },
+    {
+        "id": "7fc20d86-74fd-45f7-ae65-f8fdabfd6dd5",
+        "word": "biscuit jointer",
+        "phonetic": "bɪskɪt dʒɔɪntɚ ",
+        "type": "noun",
+        "defineEn": "a power tool used in woodworking to create biscuit joints by cutting slots in the edges of two pieces of wood, allowing for precise and strong joining with the help of inserted biscuits",
+        "defineVi": "một công cụ điện được sử dụng trong chế biến gỗ để tạo các mối nối bánh quy bằng cách cắt các khe ở các cạnh của hai miếng gỗ, cho phép ghép nối chính xác và chắc chắn với sự trợ giúp của các bánh quy được chèn vào",
+        "hasImg": true
+    },
+    {
+        "id": "9c3fc759-3671-40f3-8e64-e2317713487d",
+        "word": "cable cutter",
+        "phonetic": "keɪbəl kʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a tool designed to cleanly and efficiently cut through various types of cables, such as electrical cables, wire ropes, or coaxial cables",
+        "defineVi": "một công cụ được thiết kế để cắt các loại cáp khác nhau một cách sạch sẽ và hiệu quả, chẳng hạn như cáp điện, dây cáp hoặc cáp đồng trục",
+        "hasImg": true
+    },
+    {
+        "id": "a10acdc4-7af5-4470-940b-96b75958b1e8",
+        "word": "electrician\\'s knife",
+        "phonetic": "ᵻlɛktɹɪʃən bækslæʃ ɛs naɪf ",
+        "type": "noun",
+        "defineEn": "a specialized tool designed for electricians, featuring a sharp blade and insulated handle, used for cutting and stripping insulation from electrical wires and cables",
+        "defineVi": "một công cụ chuyên dụng được thiết kế cho thợ điện, có lưỡi dao sắc bén và tay cầm cách điện, được sử dụng để cắt và tước lớp cách điện khỏi dây và cáp điện",
+        "hasImg": true
+    },
+    {
+        "id": "64e1f8d1-42cc-41e7-a682-584671f718ff",
+        "word": "knockout punch",
+        "phonetic": "nɑːkaʊt pʌntʃ ",
+        "type": "noun",
+        "defineEn": "a tool used to create precise holes in metal surfaces, typically in electrical enclosures or panels, to accommodate conduit or pipe fittings",
+        "defineVi": "một công cụ được sử dụng để tạo các lỗ chính xác trên bề mặt kim loại, điển hình là trong vỏ hoặc bảng điện, để chứa ống dẫn hoặc phụ kiện đường ống"
+    },
+    {
+        "id": "62c4d846-e3a7-4ec4-ba71-8853e2b911c9",
+        "word": "wire stripper",
+        "phonetic": "waɪɚ stɹɪpɚ ",
+        "type": "noun",
+        "defineEn": "a hand tool used for removing the insulation or outer covering from electrical wires with precision and without damaging the wire itself",
+        "defineVi": "một dụng cụ cầm tay được sử dụng để loại bỏ lớp cách điện hoặc lớp bọc bên ngoài khỏi dây điện một cách chính xác và không làm hỏng dây điện",
+        "hasImg": true
+    },
+    {
+        "id": "e21eb612-a174-4c66-9e84-2d2621c55795",
+        "word": "cable tie gun",
+        "phonetic": "keɪbəl taɪ ɡʌn ",
+        "type": "noun",
+        "defineEn": "a handheld tool used to tighten and cut cable ties or zip ties",
+        "defineVi": "một công cụ cầm tay được sử dụng để thắt chặt và cắt dây cáp hoặc dây buộc",
+        "hasImg": true
+    },
+    {
+        "id": "fcb3364a-0bab-4ab9-9174-324926828f56",
+        "word": "diagonal pliers",
+        "phonetic": "daɪæɡənəl plaɪɚz ",
+        "type": "noun",
+        "defineEn": "a type of pliers with sharp, angled jaws designed for cutting wire and small materials in electrical and general applications",
+        "defineVi": "một loại kìm có hàm sắc, có góc được thiết kế để cắt dây và vật liệu nhỏ trong các ứng dụng điện và thông thường",
+        "hasImg": true
+    },
+    {
+        "id": "ab92995e-e2a4-4330-b467-26eebe0d3b1a",
+        "word": "hatchet",
+        "phonetic": "hætʃɪt ",
+        "type": "noun",
+        "defineEn": "a small, single-handed axe with a short handle, typically used for chopping wood or small-scale cutting tasks",
+        "defineVi": "một chiếc rìu nhỏ, dùng một tay có tay cầm ngắn, thường được sử dụng để chặt gỗ hoặc các công việc cắt quy mô nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "5354df21-d775-485d-9b66-b2e0ca8d2e33",
+        "word": "utility knife",
+        "phonetic": "juːtɪlᵻɾi naɪf ",
+        "type": "noun",
+        "defineEn": "a versatile cutting tool with a retractable blade, commonly used for various tasks such as cutting materials like cardboard, plastic, ropes, or opening packages in both professional and household settings",
+        "defineVi": "một công cụ cắt đa năng với lưỡi dao có thể thu vào, thường được sử dụng cho nhiều công việc khác nhau như cắt các vật liệu như bìa cứng, nhựa, dây thừng hoặc mở các gói hàng trong cả môi trường chuyên nghiệp và hộ gia đình"
+    },
+    {
+        "id": "1676055d-7782-49a3-89d6-30a7ab8aab0e",
+        "word": "reamer",
+        "phonetic": "ɹiːmɚ ",
+        "type": "noun",
+        "defineEn": "a cutting tool with multiple cutting edges used to enlarge and refine the diameter of an existing hole with precision and smoothness",
+        "defineVi": "một dụng cụ cắt có nhiều lưỡi cắt được sử dụng để phóng to và tinh chỉnh đường kính của một lỗ hiện có với độ chính xác và độ nhẵn",
+        "hasImg": true
+    },
+    {
+        "id": "c8b93cce-0690-4010-a61a-efdc29f19dbe",
+        "word": "pipe reamer",
+        "phonetic": "paɪp ɹiːmɚ ",
+        "type": "noun",
+        "defineEn": "a specialized plumbing tool designed to remove burrs and smooth the inner edges of a pipe or tube after cutting or threading",
+        "defineVi": "một công cụ ống nước chuyên dụng được thiết kế để loại bỏ các gờ và làm phẳng các cạnh bên trong của ống hoặc ống sau khi cắt hoặc luồn",
+        "hasImg": true
+    },
+    {
+        "id": "d62d5d2a-008e-4073-b10c-026f367c4535",
+        "word": "router",
+        "phonetic": "ɹaʊɾɚ ",
+        "type": "noun",
+        "defineEn": "a power tool used in woodworking to hollow out an area or create intricate cuts by spinning a cutting bit at high speeds",
+        "defineVi": "một công cụ điện được sử dụng trong chế biến gỗ để khoét rỗng một khu vực hoặc tạo ra các vết cắt phức tạp bằng cách quay mũi cắt ở tốc độ cao",
+        "hasImg": true
+    },
+    {
+        "id": "888e3761-936e-4ab0-aaf2-ae137d1c5fda",
+        "word": "tap and die",
+        "phonetic": "tæp ænd daɪ ",
+        "type": "phrase",
+        "defineEn": "tools used for cutting threads, with taps used for creating internal threads and dies used for creating external threads",
+        "defineVi": "dụng cụ dùng để cắt ren, với tarô dùng để tạo ren trong và khuôn dùng để tạo ren ngoài",
+        "hasImg": true
+    },
+    {
+        "id": "9ba72538-6190-44b0-8ca1-a325edff97da",
+        "word": "bolt cutter",
+        "phonetic": "boʊlt kʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a hand tool with long handles and hardened steel jaws designed to cut through various types of metal objects, such as bolts, chains, wires, and padlocks",
+        "defineVi": "một dụng cụ cầm tay có tay cầm dài và hàm thép cứng được thiết kế để cắt xuyên qua nhiều loại vật kim loại khác nhau, chẳng hạn như bu lông, dây xích, dây điện và khóa móc",
+        "hasImg": true
+    },
+    {
+        "id": "a2740dd3-c7ed-4dda-838e-fea06ac6189f",
+        "word": "cutting torch",
+        "phonetic": "kʌɾɪŋ tɔːɹtʃ ",
+        "type": "noun",
+        "defineEn": "a tool that uses a very hot flame to cut metal or other hard materials by melting and removing them with a jet of oxygen",
+        "defineVi": "một công cụ sử dụng ngọn lửa rất nóng để cắt kim loại hoặc các vật liệu cứng khác bằng cách làm tan chảy và loại bỏ chúng bằng tia oxy",
+        "hasImg": true
+    },
+    {
+        "id": "0df0c50b-1acd-4173-88f7-b9428a2c889d",
+        "word": "chainsaw",
+        "phonetic": "tʃeɪnsɔː ",
+        "type": "noun",
+        "defineEn": "a tool with a toothed chain inside that is powered by a small engine, used for cutting wood",
+        "defineVi": "một công cụ có một chuỗi răng bên trong được cung cấp bởi một động cơ nhỏ, được sử dụng để cắt gỗ",
+        "hasImg": true
+    }
+]

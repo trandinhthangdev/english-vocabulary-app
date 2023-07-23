@@ -1,0 +1,485 @@
+[
+    {
+        "id": "45a238b2-fe9d-4a31-91f2-7514d820527d",
+        "word": "to teach",
+        "phonetic": "tə tiːtʃ ",
+        "type": "verb",
+        "defineEn": "to instruct or educate someone; to give lessons to students in a university, college, school, etc.",
+        "defineVi": "để hướng dẫn hoặc giáo dục ai đó; để giảng bài cho sinh viên trong một trường đại học, cao đẳng, trường học, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "fd4c835c-5df1-4f59-9009-944bd5e189fe",
+        "word": "teddy bear",
+        "phonetic": "tɛdi bɛɹ ",
+        "type": "noun",
+        "defineEn": "a toy that looks like a bear and is made of soft materials",
+        "defineVi": "một món đồ chơi trông giống như một con gấu và được làm bằng vật liệu mềm",
+        "hasImg": true
+    },
+    {
+        "id": "848825f0-09c8-4daf-8c7b-0239df78f96d",
+        "word": "that",
+        "phonetic": "ðæt ",
+        "type": "determiner",
+        "defineEn": "used to refer to an object or person that is physically away from one",
+        "defineVi": "được sử dụng để chỉ một đối tượng hoặc người cách xa một người",
+        "hasImg": true
+    },
+    {
+        "id": "7bbaabc6-750f-43a5-88cc-20018540fba1",
+        "word": "train",
+        "phonetic": "tɹeɪn ",
+        "type": "noun",
+        "defineEn": "a series of connected carriages or wagons pulled along a railroad line by a locomotive",
+        "defineVi": "một loạt các toa xe hoặc toa xe được kết nối với nhau do đầu máy kéo dọc theo một tuyến đường sắt",
+        "hasImg": true
+    },
+    {
+        "id": "750b194b-ad62-496d-9ca9-38dbb67697f1",
+        "word": "to try on",
+        "phonetic": "tə tɹaɪ ɔn ",
+        "type": "verb",
+        "defineEn": "to put on a piece of clothing to see if it fits and how it looks",
+        "defineVi": "mặc một bộ quần áo để xem nó có vừa không và nó trông như thế nào",
+        "hasImg": true
+    },
+    {
+        "id": "1770b547-d2b4-46cb-a297-3916d7a89925",
+        "word": "who",
+        "phonetic": "huː ",
+        "type": "pronoun",
+        "defineEn": "used in questions to ask about the name or identity of one person or several people",
+        "defineVi": "được sử dụng trong các câu hỏi để hỏi về tên hoặc danh tính của một người hoặc nhiều người",
+        "hasImg": true
+    },
+    {
+        "id": "c22d595c-7b58-4597-8d1f-763ed71a3c0d",
+        "word": "why",
+        "phonetic": "waɪ ",
+        "type": "adverb",
+        "defineEn": "used for asking the purpose of or reason for something",
+        "defineVi": "được sử dụng để hỏi mục đích hoặc lý do cho một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "73a5976c-39c4-4d89-84aa-d6ddc81693e8",
+        "word": "wonderful",
+        "phonetic": "wʌndɚfəl ",
+        "type": "adjective",
+        "defineEn": "very great and pleasant",
+        "defineVi": "rất tuyệt vời và dễ chịu",
+        "hasImg": true
+    },
+    {
+        "id": "774b70dd-a1d0-4e5f-8ab6-ce3d9e54b944",
+        "word": "wrong",
+        "phonetic": "ɹɔŋ ",
+        "type": "adjective",
+        "defineEn": "not based on facts or the truth",
+        "defineVi": "không dựa trên sự thật hay sự thật",
+        "hasImg": true
+    },
+    {
+        "id": "6570d037-ca14-4706-8998-7b38767895a9",
+        "word": "application",
+        "phonetic": "æplɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "(computing) a piece of software programmed to perform a specific task",
+        "defineVi": "(máy tính) một phần mềm được lập trình để thực hiện một nhiệm vụ cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "ba262b50-6b10-4904-8123-844af892cdc9",
+        "word": "aspirin",
+        "phonetic": "æspɹɪn ",
+        "type": "noun",
+        "defineEn": "a type of medicine taken to relieve pain, bring down a fever, etc.",
+        "defineVi": "một loại thuốc dùng để giảm đau, hạ sốt, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6c2f3fc3-d43f-42c8-a2c5-9bc1d562c141",
+        "word": "because",
+        "phonetic": "bɪkʌz ",
+        "type": "conjunction",
+        "defineEn": "used for introducing the reason of something",
+        "defineVi": "được sử dụng để giới thiệu lý do của một cái gì đó"
+    },
+    {
+        "id": "a2bc17df-a60c-4746-97ba-19929b52b0d0",
+        "word": "to catch",
+        "phonetic": "tə kætʃ ",
+        "type": "verb",
+        "defineEn": "to get sick, usually with bacteria or a virus",
+        "defineVi": "bị bệnh, thường là do vi khuẩn hoặc vi rút",
+        "hasImg": true
+    },
+    {
+        "id": "3426ccdd-4f93-4789-acc7-d499c29d4bf5",
+        "word": "changing room",
+        "phonetic": "tʃeɪndʒɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a room that people use in stores, gyms, schools, etc. to change or try on clothes",
+        "defineVi": "một căn phòng mà mọi người sử dụng trong cửa hàng, phòng tập thể dục, trường học, v.v. để thay hoặc thử quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "2c400199-924d-450e-9c6f-6df2d749e856",
+        "word": "cheap",
+        "phonetic": "tʃiːp ",
+        "type": "adjective",
+        "defineEn": "having a low price",
+        "defineVi": "có giá thấp",
+        "hasImg": true
+    },
+    {
+        "id": "c4e27452-4d1b-434f-ba15-98c9bdffcf6a",
+        "word": "chemist",
+        "phonetic": "kɛmɪst ",
+        "type": "noun",
+        "defineEn": "a scientist who studies chemistry",
+        "defineVi": "một nhà khoa học nghiên cứu hóa học",
+        "hasImg": true
+    },
+    {
+        "id": "7c5d9223-f23b-4386-a12d-520e23c12b78",
+        "word": "clean",
+        "phonetic": "kliːn ",
+        "type": "adjective",
+        "defineEn": "not having any stains, bacteria, marks, or dirt",
+        "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "935ae751-56c7-430b-a4d1-44bcbc794fe4",
+        "word": "to close",
+        "phonetic": "tə kloʊz ",
+        "type": "verb",
+        "defineEn": "to move something like a window or door into a position that people or things cannot pass through",
+        "defineVi": "để di chuyển một cái gì đó như cửa sổ hoặc cửa ra vào một vị trí mà mọi người hoặc những thứ không thể đi qua",
+        "hasImg": true
+    },
+    {
+        "id": "e1e47961-ada9-486f-9170-b8a49f86d4b0",
+        "word": "clothes",
+        "phonetic": "kloʊðz ",
+        "type": "noun",
+        "defineEn": "the things we wear to cover our body, such as pants, shirts, and jackets",
+        "defineVi": "những thứ chúng ta mặc để che thân, chẳng hạn như quần, áo sơ mi và áo khoác",
+        "hasImg": true
+    },
+    {
+        "id": "54062d4a-a863-42b6-b41c-11596744f4a5",
+        "word": "cold",
+        "phonetic": "koʊld ",
+        "type": "adjective",
+        "defineEn": "having a temperature lower than the human body's average temperature",
+        "defineVi": "có nhiệt độ thấp hơn nhiệt độ trung bình của cơ thể con người",
+        "hasImg": true
+    },
+    {
+        "id": "f8f02d06-f7c8-4ff5-94b7-8584cc395045",
+        "word": "comfortable",
+        "phonetic": "kʌmftəbəl ",
+        "type": "adjective",
+        "defineEn": "physically feeling relaxed and not feeling pain, stress, fear, etc.",
+        "defineVi": "thể chất cảm thấy thoải mái và không cảm thấy đau đớn, căng thẳng, sợ hãi, v.v."
+    },
+    {
+        "id": "dcc8684f-a17c-4937-a10c-720e74f4c564",
+        "word": "to deliver",
+        "phonetic": "tə dᵻlɪvɚ ",
+        "type": "verb",
+        "defineEn": "to bring and give a letter, package, etc. to a specific person or place",
+        "defineVi": "mang và đưa thư, gói hàng, v.v. cho một người hoặc một địa điểm cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "fefcb554-1a29-457b-a6a2-5be19539c44c",
+        "word": "desert",
+        "phonetic": "dɛzɚt ",
+        "type": "noun",
+        "defineEn": "a large, dry area of land with very few plants, typically one covered with sand",
+        "defineVi": "một vùng đất rộng lớn, khô ráo với rất ít thực vật, điển hình là một vùng phủ đầy cát",
+        "hasImg": true
+    },
+    {
+        "id": "ae6a5c2c-9d01-430e-a59a-012536542f1a",
+        "word": "dirty",
+        "phonetic": "dɜːɾi ",
+        "type": "adjective",
+        "defineEn": "having stains, bacteria, marks, or dirt",
+        "defineVi": "có vết bẩn, vi khuẩn, vết hoặc bụi bẩn",
+        "hasImg": true
+    },
+    {
+        "id": "ce9b4e8d-2b4b-41b0-a4d2-7d38bf158725",
+        "word": "door",
+        "phonetic": "doːɹ ",
+        "type": "noun",
+        "defineEn": "the thing we move to enter, exit, or access a place such as a vehicle, building, room, etc.",
+        "defineVi": "thứ chúng ta di chuyển để vào, ra hoặc tiếp cận một địa điểm như xe cộ, tòa nhà, phòng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4112ab43-9ec9-482b-adb8-3170264bca93",
+        "word": "excellent",
+        "phonetic": "ɛksələnt ",
+        "type": "adjective",
+        "defineEn": "extremely good in quality or other traits",
+        "defineVi": "cực kỳ tốt về chất lượng hoặc các đặc điểm khác",
+        "hasImg": true
+    },
+    {
+        "id": "c27875bc-00ad-42e3-8b70-c96c488d06f1",
+        "word": "expensive",
+        "phonetic": "ɛkspɛnsɪv ",
+        "type": "adjective",
+        "defineEn": "having a high price",
+        "defineVi": "có giá cao",
+        "hasImg": true
+    },
+    {
+        "id": "b7bca488-a155-4c09-8a80-f9972a992f90",
+        "word": "free time",
+        "phonetic": "fɹiː taɪm ",
+        "type": "noun",
+        "defineEn": "a time when we do not have to work or do any important things, and we can choose what we want to do with that time",
+        "defineVi": "khoảng thời gian mà chúng ta không phải làm việc hoặc làm bất kỳ việc quan trọng nào, và chúng ta có thể chọn những gì chúng ta muốn làm với thời gian đó",
+        "hasImg": true
+    },
+    {
+        "id": "12061f6f-7ed4-4bc1-8976-7b955cd60914",
+        "word": "fresh",
+        "phonetic": "fɹɛʃ ",
+        "type": "adjective",
+        "defineEn": "(of food) recently made or obtained; not canned, frozen, or preserved",
+        "defineVi": "(của thực phẩm) được thực hiện hoặc thu được gần đây; không đóng hộp, đông lạnh, hoặc bảo quản",
+        "hasImg": true
+    },
+    {
+        "id": "b25cd2de-3796-4edd-9023-2fc97cdfb032",
+        "word": "to hate",
+        "phonetic": "tə heɪt ",
+        "type": "verb",
+        "defineEn": "to really not like something or someone",
+        "defineVi": "để thực sự không thích một cái gì đó hoặc một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "b904b085-f579-4172-84c8-dd6ceec9fc9d",
+        "word": "hot",
+        "phonetic": "hɑːt ",
+        "type": "adjective",
+        "defineEn": "having a high temperature or a high degree of heat",
+        "defineVi": "có nhiệt độ cao hoặc nhiệt độ cao",
+        "hasImg": true
+    },
+    {
+        "id": "0777bdca-0f1a-4586-b999-64fe2bd5b35d",
+        "word": "Indian",
+        "phonetic": "ɪndiən ",
+        "type": "adjective",
+        "defineEn": "relating to India or its people or languages",
+        "defineVi": "liên quan đến Ấn Độ hoặc người hoặc ngôn ngữ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "3961c23b-798d-4494-9c90-67c7fa591873",
+        "word": "international",
+        "phonetic": "ɪntɚnæʃənəl ",
+        "type": "adjective",
+        "defineEn": "happening in or between more than one country",
+        "defineVi": "xảy ra trong hoặc giữa nhiều quốc gia",
+        "hasImg": true
+    },
+    {
+        "id": "d73c6fe7-fb73-4232-946b-aa8df253bed6",
+        "word": "jumper",
+        "phonetic": "dʒʌmpɚ ",
+        "type": "noun",
+        "defineEn": "a dress with no sleeves or collar that is worn over other garments",
+        "defineVi": "một chiếc váy không có tay áo hoặc cổ áo được mặc trên các loại quần áo khác",
+        "hasImg": true
+    },
+    {
+        "id": "e1650d19-b27e-4341-b630-5919a3ef718f",
+        "word": "large",
+        "phonetic": "lɑːɹdʒ ",
+        "type": "adjective",
+        "defineEn": "big or above average in amount or size",
+        "defineVi": "lớn hoặc trên trung bình về số lượng hoặc kích thước",
+        "hasImg": true
+    },
+    {
+        "id": "2fed9235-6006-48df-8c80-3ac3c35a87a4",
+        "word": "money",
+        "phonetic": "mʌni ",
+        "type": "noun",
+        "defineEn": "something that people use to buy and sell goods and services, can be in the form of coins or paper bills",
+        "defineVi": "thứ mà mọi người sử dụng để mua và bán hàng hóa và dịch vụ, có thể ở dạng tiền xu hoặc hóa đơn giấy",
+        "hasImg": true
+    },
+    {
+        "id": "16011495-c156-4947-a169-fcba46d92d88",
+        "word": "month",
+        "phonetic": "mʌnθ ",
+        "type": "noun",
+        "defineEn": "each of the twelve named divisions of the year, like January, February, etc.",
+        "defineVi": "mỗi phần trong số mười hai phần được đặt tên của năm, như tháng Giêng, tháng Hai, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7b346e8c-4431-4266-b6ea-b9471af59d83",
+        "word": "nice",
+        "phonetic": "naɪs ",
+        "type": "adjective",
+        "defineEn": "providing pleasure and enjoyment",
+        "defineVi": "cung cấp niềm vui và hưởng thụ",
+        "hasImg": true
+    },
+    {
+        "id": "26aabb93-65cd-4476-b9c5-b999e8f1d6b8",
+        "word": "old",
+        "phonetic": "oʊld ",
+        "type": "adjective",
+        "defineEn": "(of a thing) having been used or existing for a long period of time",
+        "defineVi": "(của một thứ) đã được sử dụng hoặc tồn tại trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "1556b9b2-4e3c-4ed9-8b2d-76bc1e1c8b50",
+        "word": "olive oil",
+        "phonetic": "ɑːlɪv ɔɪl ",
+        "type": "noun",
+        "defineEn": "an oil that is pale yellow or green, made from olives, and often used in salads or for cooking",
+        "defineVi": "một loại dầu có màu vàng nhạt hoặc màu xanh lá cây, được làm từ ô liu và thường được sử dụng trong món salad hoặc để nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "b70b680c-4a74-4de1-9030-010efda453ff",
+        "word": "owner",
+        "phonetic": "oʊnɚ ",
+        "type": "noun",
+        "defineEn": "a person, entity, or organization that possesses, controls, or has legal rights to something",
+        "defineVi": "một người, thực thể hoặc tổ chức sở hữu, kiểm soát hoặc có quyền hợp pháp đối với một cái gì đó"
+    },
+    {
+        "id": "65c48079-40a8-4ff2-a053-11f01be9bf98",
+        "word": "packet",
+        "phonetic": "pækɪt ",
+        "type": "noun",
+        "defineEn": "a small bag that can contain various things, such as tea, sugar, or spices",
+        "defineVi": "một túi nhỏ có thể chứa nhiều thứ khác nhau, chẳng hạn như trà, đường hoặc gia vị",
+        "hasImg": true
+    },
+    {
+        "id": "9476867c-2be2-45c9-9df5-fe3f5aa378e1",
+        "word": "parcel",
+        "phonetic": "pɑːɹsəl ",
+        "type": "noun",
+        "defineEn": "an item or items that are wrapped or boxed for transport or delivery",
+        "defineVi": "một mặt hàng hoặc các mặt hàng được bọc hoặc đóng hộp để vận chuyển hoặc giao hàng",
+        "hasImg": true
+    },
+    {
+        "id": "f4da9436-82f7-4620-b47a-a41597e18ef5",
+        "word": "post",
+        "phonetic": "poʊst ",
+        "type": "noun",
+        "defineEn": "a specific occasion during the day when letters, packages, and other mail are collected or delivered by postal workers",
+        "defineVi": "một dịp cụ thể trong ngày khi thư, gói và thư khác được nhân viên bưu điện thu thập hoặc chuyển phát",
+        "hasImg": true
+    },
+    {
+        "id": "32ac7537-6cd7-4e16-8ac6-c237ee1fac99",
+        "word": "post office",
+        "phonetic": "poʊst ɑːfɪs ",
+        "type": "noun",
+        "defineEn": "a place where we can send letters, packages, etc., or buy stamps",
+        "defineVi": "một nơi mà chúng ta có thể gửi thư, gói hàng, v.v. hoặc mua tem",
+        "hasImg": true
+    },
+    {
+        "id": "8d0cafd6-7eb2-40b4-91ee-0d8027cd2bb2",
+        "word": "postcard",
+        "phonetic": "poʊstkɑːɹd ",
+        "type": "noun",
+        "defineEn": "‌a card that usually has a picture on one side, used for sending messages by post without an envelope",
+        "defineVi": "‌thẻ thường có hình một mặt, dùng để gửi thư qua đường bưu điện không cần phong bì",
+        "hasImg": true
+    },
+    {
+        "id": "66c42765-930c-4e2d-9b75-ff4948b8bf07",
+        "word": "quiet",
+        "phonetic": "kwaɪət ",
+        "type": "adjective",
+        "defineEn": "making very little noise or no noise at all",
+        "defineVi": "tạo ra rất ít tiếng ồn hoặc không có tiếng ồn nào cả",
+        "hasImg": true
+    },
+    {
+        "id": "96f1230f-b452-4df0-9170-8354a8ea47d7",
+        "word": "railway station",
+        "phonetic": "ɹeɪlweɪ steɪʃən ",
+        "type": "noun",
+        "defineEn": "a place designed for goods or passengers to get on or off trains",
+        "defineVi": "một nơi được thiết kế cho hàng hóa hoặc hành khách lên hoặc xuống xe lửa",
+        "hasImg": true
+    },
+    {
+        "id": "a45b4f30-1202-4e76-ac31-dea8c68fe04b",
+        "word": "recipe",
+        "phonetic": "ɹɛsᵻpiː ",
+        "type": "noun",
+        "defineEn": "the instructions on how to cook a certain food",
+        "defineVi": "hướng dẫn cách nấu một món ăn nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "fabd4253-6f30-4288-a5d2-e05954108fc2",
+        "word": "return ticket",
+        "phonetic": "ɹᵻtɜːn tɪkɪt ",
+        "type": "noun",
+        "defineEn": "a ticket for a journey from one place to another and back again",
+        "defineVi": "một vé cho một cuộc hành trình từ nơi này đến nơi khác và trở lại",
+        "hasImg": true
+    },
+    {
+        "id": "d3b48c98-f055-4de3-8d1c-229e336edc34",
+        "word": "right",
+        "phonetic": "ɹaɪt ",
+        "type": "noun",
+        "defineEn": "the direction or side that is toward the east when someone or something is facing north",
+        "defineVi": "hướng hoặc mặt hướng về phía đông khi ai đó hoặc thứ gì đó hướng về phía bắc",
+        "hasImg": true
+    },
+    {
+        "id": "027ad1b6-5d39-4390-86ae-e4c6dc594c44",
+        "word": "sand",
+        "phonetic": "sænd ",
+        "type": "noun",
+        "defineEn": "a pale brown substance that consists of very small pieces of rock, which is found in deserts, on beaches, etc.",
+        "defineVi": "một chất màu nâu nhạt bao gồm những mảnh đá rất nhỏ, được tìm thấy ở sa mạc, trên bãi biển, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "1d36aa07-5633-4ea1-be6d-5f29e056cb51",
+        "word": "one-way ticket",
+        "phonetic": "wʌnweɪ tɪkɪt ",
+        "type": "noun",
+        "defineEn": "a ticket that can be used for travelling to a place but cannot be used for coming back from that place",
+        "defineVi": "một vé có thể được sử dụng để đi đến một nơi nhưng không thể được sử dụng để quay trở lại từ nơi đó",
+        "hasImg": true
+    },
+    {
+        "id": "5b0d8bac-89ad-4f3e-8349-13b8f9e3da69",
+        "word": "stamp",
+        "phonetic": "stæmp ",
+        "type": "noun",
+        "defineEn": "a small piece of paper or other material that is affixed to a letter or package to indicate that the appropriate postage fee has been paid for its delivery",
+        "defineVi": "một mảnh giấy nhỏ hoặc tài liệu khác được dán vào một bức thư hoặc gói hàng để cho biết rằng phí bưu chính thích hợp đã được thanh toán cho việc giao hàng",
+        "hasImg": true
+    }
+]

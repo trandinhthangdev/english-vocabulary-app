@@ -1,0 +1,558 @@
+[
+    {
+        "id": "70941802-1243-4229-8f47-a272e78046ce",
+        "word": "Brazil",
+        "phonetic": "bɹɐzɪl ",
+        "type": "noun",
+        "defineEn": "the largest country in both South America and Latin America",
+        "defineVi": "quốc gia lớn nhất ở cả Nam Mỹ và Mỹ Latinh",
+        "hasImg": true
+    },
+    {
+        "id": "9da1138d-807f-42b5-befa-823e588774a8",
+        "word": "Mexico",
+        "phonetic": "mɛksɪkoʊ ",
+        "type": "noun",
+        "defineEn": "a country located in North America that is bordered by the United States to the north",
+        "defineVi": "một quốc gia nằm ở Bắc Mỹ giáp với Hoa Kỳ về phía bắc",
+        "hasImg": true
+    },
+    {
+        "id": "5ed57bcc-f492-4457-af2e-acd1030c4b2c",
+        "word": "Russia",
+        "phonetic": "ɹʌʃə ",
+        "type": "noun",
+        "defineEn": "a country located in Eastern Europe and Northern Asia",
+        "defineVi": "một quốc gia nằm ở Đông Âu và Bắc Á",
+        "hasImg": true
+    },
+    {
+        "id": "969ddd21-d477-445d-8a3e-b7a87fe45901",
+        "word": "Scotland",
+        "phonetic": "skɑːtlənd ",
+        "type": "noun",
+        "defineEn": "a European country in the northern United Kingdom",
+        "defineVi": "một quốc gia châu Âu ở phía bắc Vương quốc Anh",
+        "hasImg": true
+    },
+    {
+        "id": "97706479-ef13-4e0c-91f1-366c06d0cf59",
+        "word": "Africa",
+        "phonetic": "æfɹɪkə ",
+        "type": "noun",
+        "defineEn": "the second largest continent",
+        "defineVi": "lục địa lớn thứ hai",
+        "hasImg": true
+    },
+    {
+        "id": "74471f14-ad56-4da4-89fa-621a39d31f9e",
+        "word": "Asia",
+        "phonetic": "eɪʒə ",
+        "type": "noun",
+        "defineEn": "the largest continent in the world",
+        "defineVi": "lục địa lớn nhất thế giới",
+        "hasImg": true
+    },
+    {
+        "id": "41910e1a-d197-43d7-b96b-3d7e993ea0e8",
+        "word": "Australia",
+        "phonetic": "ɔːstɹeɪliə ",
+        "type": "noun",
+        "defineEn": "a large island country in Southwest Pacific Ocean, known for its unique wildlife such as kangaroos",
+        "defineVi": "một quốc đảo lớn ở Tây Nam Thái Bình Dương, được biết đến với động vật hoang dã độc đáo như chuột túi",
+        "hasImg": true
+    },
+    {
+        "id": "e213bdf6-a488-411c-97df-8881bd479eb5",
+        "word": "Europe",
+        "phonetic": "jʊɹɹəp ",
+        "type": "noun",
+        "defineEn": "the second smallest continent‌, next to Asia in the east, the Atlantic Ocean in the west, and the Mediterranean Sea in the south",
+        "defineVi": "lục địa‌ nhỏ thứ hai, bên cạnh châu Á ở phía đông, Đại Tây Dương ở phía tây và Biển Địa Trung Hải ở phía nam",
+        "hasImg": true
+    },
+    {
+        "id": "963f6397-8752-45ad-8582-4b011b92c2ae",
+        "word": "North  America",
+        "phonetic": "nɔːɹθ ɐmɛɹɪkə ",
+        "type": "noun",
+        "defineEn": "the third largest continent in the world, consisting of Canada, the United States, Mexico, the countries of Central America, and Greenland",
+        "defineVi": "lục địa lớn thứ ba trên thế giới, bao gồm Canada, Hoa Kỳ, Mexico, các quốc gia Trung Mỹ và Greenland",
+        "hasImg": true
+    },
+    {
+        "id": "4284fac6-12fe-4dd2-ab6b-d784015a0f25",
+        "word": "South America",
+        "phonetic": "saʊθ ɐmɛɹɪkə ",
+        "type": "noun",
+        "defineEn": "the fourth largest continent in the world which is to the south of Central America and North America",
+        "defineVi": "lục địa lớn thứ tư trên thế giới nằm ở phía nam của Trung Mỹ và Bắc Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "17476c7c-040d-47a6-8bd7-06070107f47c",
+        "word": "African",
+        "phonetic": "æfɹɪkən ",
+        "type": "adjective",
+        "defineEn": "related to Africa, its people, or culture",
+        "defineVi": "liên quan đến Châu Phi, con người hoặc văn hóa của nó",
+        "hasImg": true
+    },
+    {
+        "id": "60ab6cf8-19bc-4ad5-83dd-4dd46fc8995b",
+        "word": "Asian",
+        "phonetic": "eɪʒən ",
+        "type": "noun",
+        "defineEn": "someone who is from Asia or their family came from Asia",
+        "defineVi": "một người đến từ Châu Á hoặc gia đình của họ đến từ Châu Á",
+        "hasImg": true
+    },
+    {
+        "id": "40a8fef8-707d-46d4-8909-1cdcd2cb6b08",
+        "word": "Australian",
+        "phonetic": "ɔːstɹeɪliən ",
+        "type": "adjective",
+        "defineEn": "belonging or relating to Australia or its people",
+        "defineVi": "thuộc về hoặc liên quan đến Úc hoặc người dân của nó",
+        "hasImg": true
+    },
+    {
+        "id": "332eb16e-aa19-4182-9c52-c3ec33c4feea",
+        "word": "European",
+        "phonetic": "jʊɹɹəpiən ",
+        "type": "adjective",
+        "defineEn": "related to Europe or its people",
+        "defineVi": "liên quan đến châu Âu hoặc người dân của nó",
+        "hasImg": true
+    },
+    {
+        "id": "9a838a0b-49b9-44b2-aed9-9f8d8221a4ab",
+        "word": "North American",
+        "phonetic": "nɔːɹθ ɐmɛɹɪkən ",
+        "type": "noun",
+        "defineEn": "someone who is from North America or their family came from North America",
+        "defineVi": "một người đến từ Bắc Mỹ hoặc gia đình của họ đến từ Bắc Mỹ"
+    },
+    {
+        "id": "4b2e297d-e379-41e6-8603-1daf807dc224",
+        "word": "South American",
+        "phonetic": "saʊθ ɐmɛɹɪkən ",
+        "type": "noun",
+        "defineEn": "someone who is from South America or their family came from South America",
+        "defineVi": "một người đến từ Nam Mỹ hoặc gia đình của họ đến từ Nam Mỹ"
+    },
+    {
+        "id": "2b3feb4e-b057-4a0b-a01a-92ecdf496ca1",
+        "word": "England",
+        "phonetic": "ɪŋɡlənd ",
+        "type": "noun",
+        "defineEn": "the largest country in the United Kingdom, located in Western Europe",
+        "defineVi": "quốc gia lớn nhất ở Vương quốc Anh, nằm ở Tây Âu",
+        "hasImg": true
+    },
+    {
+        "id": "45e2b785-1230-4bfd-b7e4-def98c7922aa",
+        "word": "Ireland",
+        "phonetic": "aɪɚlənd ",
+        "type": "noun",
+        "defineEn": "a country in North Western Europe, in the southern part of the island of Ireland",
+        "defineVi": "một quốc gia ở Tây Bắc Âu, ở phía nam của đảo Ireland",
+        "hasImg": true
+    },
+    {
+        "id": "a6afa81f-a17d-49b7-9a6d-eeadbd0da95b",
+        "word": "Poland",
+        "phonetic": "poʊlənd ",
+        "type": "noun",
+        "defineEn": "a country in the Central Europe near the Baltic Sea",
+        "defineVi": "một quốc gia ở Trung Âu gần biển Baltic",
+        "hasImg": true
+    },
+    {
+        "id": "e9d0007d-25b3-4a5d-878f-3c537be9ddf1",
+        "word": "Spain",
+        "phonetic": "speɪn ",
+        "type": "noun",
+        "defineEn": "a country in southwest Europe",
+        "defineVi": "một quốc gia ở tây nam châu Âu",
+        "hasImg": true
+    },
+    {
+        "id": "d170557f-aec3-4a13-b15a-190610cb51af",
+        "word": "Germany",
+        "phonetic": "dʒɜːməni ",
+        "type": "noun",
+        "defineEn": "a country located in central Europe, known for its rich history, vibrant culture, and thriving economy",
+        "defineVi": "một quốc gia nằm ở trung tâm châu Âu, được biết đến với lịch sử phong phú, văn hóa sôi động và nền kinh tế phát triển mạnh",
+        "hasImg": true
+    },
+    {
+        "id": "19982715-a4a0-4fbc-a9cd-017c06758951",
+        "word": "United States",
+        "phonetic": "juːnaɪɾᵻd steɪts ",
+        "type": "noun",
+        "defineEn": "a country in North America consisting of 50 states",
+        "defineVi": "một quốc gia ở Bắc Mỹ bao gồm 50 tiểu bang",
+        "hasImg": true
+    },
+    {
+        "id": "b519e0ff-1cfc-40eb-9f36-2ed069651645",
+        "word": "Argentina",
+        "phonetic": "ɑːɹdʒəntiːnə ",
+        "type": "noun",
+        "defineEn": "a country that is in the southern part of South America",
+        "defineVi": "một quốc gia nằm ở phía nam của Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "aa005ee7-19c3-4bb5-90e8-52d41ee748d6",
+        "word": "Egypt",
+        "phonetic": "iːdʒɪpt ",
+        "type": "noun",
+        "defineEn": "a country on the continent of Africa with a rich history, famous for its pyramids, temples, and pharaohs",
+        "defineVi": "một quốc gia trên lục địa châu Phi có lịch sử phong phú, nổi tiếng với các kim tự tháp, đền thờ và pharaoh",
+        "hasImg": true
+    },
+    {
+        "id": "5a1b7f63-5d3b-4ead-90ce-37aa81005ce5",
+        "word": "Hungary",
+        "phonetic": "hʌŋɡɚɹi ",
+        "type": "noun",
+        "defineEn": "a country located in Central Europe, known for its rich history, beautiful architecture, thermal baths, and delicious cuisine",
+        "defineVi": "một quốc gia nằm ở Trung Âu, được biết đến với lịch sử phong phú, kiến trúc đẹp, phòng tắm nước nóng thiên nhiên và ẩm thực ngon",
+        "hasImg": true
+    },
+    {
+        "id": "5db2828e-0b2c-4bf0-ad08-07b7973e79b1",
+        "word": "Italy",
+        "phonetic": "ɪɾəli ",
+        "type": "noun",
+        "defineEn": "a country in southern Europe, with a long Mediterranean coastline",
+        "defineVi": "một quốc gia ở phía nam châu Âu, với bờ biển Địa Trung Hải dài",
+        "hasImg": true
+    },
+    {
+        "id": "6b1f1bd5-655a-4ed7-ac8e-3c250f24c411",
+        "word": "China",
+        "phonetic": "tʃaɪnə ",
+        "type": "noun",
+        "defineEn": "the biggest country in East Asia",
+        "defineVi": "quốc gia lớn nhất Đông Á",
+        "hasImg": true
+    },
+    {
+        "id": "652dc54d-c5d4-4db2-a35b-112d7f72710b",
+        "word": "Japan",
+        "phonetic": "dʒəpæn ",
+        "type": "noun",
+        "defineEn": "a country that is in East Asia and made up of many islands",
+        "defineVi": "một quốc gia ở Đông Á và được tạo thành từ nhiều hòn đảo",
+        "hasImg": true
+    },
+    {
+        "id": "0abc1fe1-896c-400a-a00f-4563e7390abe",
+        "word": "Czech Republic",
+        "phonetic": "tʃɛk ɹᵻpʌblɪk ",
+        "type": "noun",
+        "defineEn": "a country in Central Europe bordered by Germany, Slovakia, Poland, and Austria",
+        "defineVi": "một quốc gia ở Trung Âu giáp với Đức, Slovakia, Ba Lan và Áo",
+        "hasImg": true
+    },
+    {
+        "id": "3c94c000-c172-4963-b24f-63c11c0efe78",
+        "word": "France",
+        "phonetic": "fɹæns ",
+        "type": "noun",
+        "defineEn": "a country in Europe known for its famous landmarks such as the Eiffel Tower",
+        "defineVi": "một quốc gia ở châu Âu được biết đến với các địa danh nổi tiếng như tháp Eiffel",
+        "hasImg": true
+    },
+    {
+        "id": "d50f3363-a8f7-49f1-b250-e8d02f8aba57",
+        "word": "Switzerland",
+        "phonetic": "swɪtsɚlənd ",
+        "type": "noun",
+        "defineEn": "a country in Western Central Europe, south of Germany",
+        "defineVi": "một quốc gia ở Tây Trung Âu, phía nam nước Đức",
+        "hasImg": true
+    },
+    {
+        "id": "6d01fdf5-a30d-46ce-aef5-1ce327f7bd0c",
+        "word": "English",
+        "phonetic": "ɪŋɡlɪʃ ",
+        "type": "adjective",
+        "defineEn": "belonging or relating to England, its people, or language",
+        "defineVi": "thuộc về hoặc liên quan đến nước Anh, con người hoặc ngôn ngữ của nước này",
+        "hasImg": true
+    },
+    {
+        "id": "10050861-258f-467c-ac95-e131a3a6325c",
+        "word": "Irish",
+        "phonetic": "aɪɹɪʃ ",
+        "type": "adjective",
+        "defineEn": "belonging or relating to Ireland, its people, culture, and language",
+        "defineVi": "thuộc về hoặc liên quan đến Ireland, con người, văn hóa và ngôn ngữ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "dea63f90-e123-4f44-9db9-5daa4662a0ef",
+        "word": "Spanish",
+        "phonetic": "spænɪʃ ",
+        "type": "adjective",
+        "defineEn": "relating to Spain or its people or language",
+        "defineVi": "liên quan đến Tây Ban Nha hoặc con người hoặc ngôn ngữ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "0a503f0c-5a9a-4b61-8187-3511e91f3aa5",
+        "word": "Turkish",
+        "phonetic": "tɜːkɪʃ ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of Turkey",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa, hoặc ngôn ngữ của Thổ Nhĩ Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "e1cd1e5e-9a84-454d-8004-8e8a62acfa6c",
+        "word": "German",
+        "phonetic": "dʒɜːmən ",
+        "type": "adjective",
+        "defineEn": "relating to Germany or its people or language",
+        "defineVi": "liên quan đến nước Đức hoặc con người hoặc ngôn ngữ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "d5d364cb-f17d-422b-9d52-a0f0a2daa568",
+        "word": "American",
+        "phonetic": "ɐmɛɹɪkən ",
+        "type": "adjective",
+        "defineEn": "relating to the United States or its people",
+        "defineVi": "liên quan đến Hoa Kỳ hoặc người dân của nó",
+        "hasImg": true
+    },
+    {
+        "id": "da204c83-4549-4351-aec1-982131be5c8a",
+        "word": "Argentinian",
+        "phonetic": "ɑːɹdʒəntɪniən ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of Argentina",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa hoặc ngôn ngữ của Argentina",
+        "hasImg": true
+    },
+    {
+        "id": "b2e2a2bc-2a28-4fb0-8935-4fe4d7f66c84",
+        "word": "Egyptian",
+        "phonetic": "ɪdʒɪpʃən ",
+        "type": "adjective",
+        "defineEn": "belonging or relating to Egypt, or its people",
+        "defineVi": "thuộc về hoặc liên quan đến Ai Cập, hoặc người dân của nó",
+        "hasImg": true
+    },
+    {
+        "id": "a8a353a0-60e2-4982-ac36-63340b7dd7b2",
+        "word": "Hungarian",
+        "phonetic": "hʌŋɡɛɹiən ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of Hungary",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa, hoặc ngôn ngữ của Hungary",
+        "hasImg": true
+    },
+    {
+        "id": "8fbbe8ce-2932-4a94-bf13-4c7292cbb866",
+        "word": "Italian",
+        "phonetic": "ɪtæliən ",
+        "type": "adjective",
+        "defineEn": "relating to Italy or its people or language",
+        "defineVi": "liên quan đến Ý hoặc con người hoặc ngôn ngữ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "adc822db-71c5-4115-89ca-4c6c715d6bab",
+        "word": "Chinese",
+        "phonetic": "tʃaɪniːz ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of China",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa, hoặc ngôn ngữ của Trung Quốc",
+        "hasImg": true
+    },
+    {
+        "id": "98738c3d-8881-4464-b4d1-4c37878142e1",
+        "word": "Japanese",
+        "phonetic": "dʒæpəniːz ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of Japan",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa hoặc ngôn ngữ của Nhật Bản",
+        "hasImg": true
+    },
+    {
+        "id": "11c4bc00-4f1f-4065-be0c-39c09ab8531c",
+        "word": "Czech",
+        "phonetic": "tʃɛk ",
+        "type": "noun",
+        "defineEn": "the Czech Republic's official language",
+        "defineVi": "ngôn ngữ chính thức của Cộng hòa Séc",
+        "hasImg": true
+    },
+    {
+        "id": "f51e78d5-a6ad-4b1c-a08a-a6e665ffdb2f",
+        "word": "French",
+        "phonetic": "fɹɛntʃ ",
+        "type": "adjective",
+        "defineEn": "relating to the country, people, culture, or language of France",
+        "defineVi": "liên quan đến đất nước, con người, văn hóa, hoặc ngôn ngữ của Pháp",
+        "hasImg": true
+    },
+    {
+        "id": "8601fa68-f099-4932-bc66-585c90bc72d6",
+        "word": "Swiss",
+        "phonetic": "swɪs ",
+        "type": "adjective",
+        "defineEn": "belonging or relating to Switzerland, or its people",
+        "defineVi": "thuộc về hoặc liên quan đến Thụy Sĩ, hoặc người dân của nó",
+        "hasImg": true
+    },
+    {
+        "id": "3f4fe991-4eb7-4c8e-8b80-a4181ff8a470",
+        "word": "twenty-one",
+        "phonetic": "twɛntiwʌn ",
+        "type": "adjective",
+        "defineEn": "describing a quantity that is one more than twenty",
+        "defineVi": "mô tả một số lượng là một hơn hai mươi",
+        "hasImg": true
+    },
+    {
+        "id": "ebb7b45f-0449-46c0-b360-bba905dd0163",
+        "word": "thirty",
+        "phonetic": "θɜːɾi ",
+        "type": "numeral",
+        "defineEn": "the number 30; the number of days in April, June, September, and November",
+        "defineVi": "con số 30; số ngày trong tháng 4, tháng 6, tháng 9 và tháng 11",
+        "hasImg": true
+    },
+    {
+        "id": "7adcdab2-66e0-4f2d-af91-207f0847e309",
+        "word": "thirty-five",
+        "phonetic": "θɜːɾifaɪv ",
+        "type": "adjective",
+        "defineEn": "referring to the number 35; that is the number of fingers on seven hands",
+        "defineVi": "đề cập đến số 35; đó là số ngón tay trên bảy bàn tay",
+        "hasImg": true
+    },
+    {
+        "id": "60fbb184-74d1-4e19-8f4b-a1819d1a1a58",
+        "word": "forty",
+        "phonetic": "fɔːɹɾi ",
+        "type": "numeral",
+        "defineEn": "the number 40; the number of fingers that four people have",
+        "defineVi": "số 40; số ngón tay mà bốn người có",
+        "hasImg": true
+    },
+    {
+        "id": "08ed4656-48d8-4141-a64a-0f52488088d2",
+        "word": "forty-three",
+        "phonetic": "fɔːɹɾiθɹiː ",
+        "type": "adjective",
+        "defineEn": "referring to the number 43; that is the number of legs on four crabs plus three",
+        "defineVi": "đề cập đến số 43; đó là số chân của bốn con cua cộng với ba",
+        "hasImg": true
+    },
+    {
+        "id": "415ae9cb-3c55-454c-b456-c21f4f3a5fda",
+        "word": "fifty",
+        "phonetic": "fɪfti ",
+        "type": "numeral",
+        "defineEn": "the number 50; the number of fingers on five monkeys",
+        "defineVi": "con số 50; số ngón tay của năm con khỉ",
+        "hasImg": true
+    },
+    {
+        "id": "a767bae9-d13a-4a73-a2e2-cf75d2d8e4f9",
+        "word": "fifty-nine",
+        "phonetic": "fɪftinaɪn ",
+        "type": "adjective",
+        "defineEn": "referring to the number 59; that is the number of legs on five crabs plus nine",
+        "defineVi": "đề cập đến số 59; đó là số chân của năm con cua cộng với chín",
+        "hasImg": true
+    },
+    {
+        "id": "16f2b5df-985f-4b3f-9caf-b278c1cfd50a",
+        "word": "sixty",
+        "phonetic": "sɪksti ",
+        "type": "numeral",
+        "defineEn": "the number 60; the number of fingers and toes that three people have",
+        "defineVi": "số 60; số ngón tay và ngón chân mà ba người có",
+        "hasImg": true
+    },
+    {
+        "id": "a1bab8be-6ef0-44c9-a0dc-81f8f0a6e4d8",
+        "word": "sixty-seven",
+        "phonetic": "sɪkstisɛvən ",
+        "type": "adjective",
+        "defineEn": "referring to the number 67; that is the number of players on six soccer teams plus one",
+        "defineVi": "đề cập đến số 67; đó là số cầu thủ của sáu đội bóng đá cộng với một",
+        "hasImg": true
+    },
+    {
+        "id": "53585294-f8db-4e71-9106-3a11aeb7214a",
+        "word": "seventy",
+        "phonetic": "sɛvənti ",
+        "type": "numeral",
+        "defineEn": "the number 70; the number of legs on seven crabs",
+        "defineVi": "con số 70; số chân của bảy con cua",
+        "hasImg": true
+    },
+    {
+        "id": "48fb88a6-26a6-43c6-aec5-70fdcd7fd3a9",
+        "word": "seventy-two",
+        "phonetic": "sɛvəntituː ",
+        "type": "adjective",
+        "defineEn": "referring to the number 72; that is the number of fingers on seven monkeys plus two",
+        "defineVi": "đề cập đến số 72; đó là số ngón tay của bảy con khỉ cộng với hai",
+        "hasImg": true
+    },
+    {
+        "id": "1f197079-4275-46a8-b1be-88ddac438ec1",
+        "word": "eighty",
+        "phonetic": "eɪɾi ",
+        "type": "numeral",
+        "defineEn": "the number 80; the number we get when we multiply eight by ten",
+        "defineVi": "con số 80; số chúng ta nhận được khi chúng ta nhân tám với mười",
+        "hasImg": true
+    },
+    {
+        "id": "639293ec-b7c2-4f5a-a7e5-aa503a4ad8b0",
+        "word": "eighty-eight",
+        "phonetic": "eɪɾieɪt ",
+        "type": "numeral",
+        "defineEn": "the number 88; the number of players on eight soccer teams",
+        "defineVi": "con số 88; số cầu thủ trong tám đội bóng đá",
+        "hasImg": true
+    },
+    {
+        "id": "1dd5892c-152e-4e1b-b263-e838013fdaf1",
+        "word": "ninety",
+        "phonetic": "naɪnti ",
+        "type": "numeral",
+        "defineEn": "the number 90; the number of degrees for a right angle",
+        "defineVi": "số 90; số độ của một góc vuông",
+        "hasImg": true
+    },
+    {
+        "id": "6a8c4dbe-48be-4d7f-9c89-9077d0f67c65",
+        "word": "ninety-four",
+        "phonetic": "naɪntifoːɹ ",
+        "type": "adjective",
+        "defineEn": "referring to the number 94; that is the number of fingers that nine people have plus four",
+        "defineVi": "tham khảo số 94; đó là số ngón tay của chín người cộng với bốn",
+        "hasImg": true
+    },
+    {
+        "id": "f1becc52-cea5-4481-a285-d3ab6e300ba3",
+        "word": "hundred",
+        "phonetic": "hʌndɹɪd ",
+        "type": "numeral",
+        "defineEn": "the number 100; the number of years in a century",
+        "defineVi": "số 100; số năm trong một thế kỷ",
+        "hasImg": true
+    }
+]

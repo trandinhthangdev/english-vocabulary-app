@@ -1,0 +1,638 @@
+[
+    {
+        "id": "ddb03792-8315-4f43-a93a-95d17ba29dcc",
+        "word": "to agree",
+        "phonetic": "tʊ ɐɡɹiː ",
+        "type": "verb",
+        "defineEn": "to hold the same opinion about something as that of another person",
+        "defineVi": "để giữ quan điểm tương tự về một cái gì đó như của người khác",
+        "hasImg": true
+    },
+    {
+        "id": "1eb3d05d-0367-44fd-b7f6-71037fd27f6a",
+        "word": "appropriate",
+        "phonetic": "ɐpɹoʊpɹɪət ",
+        "type": "adjective",
+        "defineEn": "suitable, fitting, or acceptable for a given situation",
+        "defineVi": "phù hợp, phù hợp, hoặc chấp nhận được cho một tình huống nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "be6eca85-666c-419b-ad87-3a5bf309a0d2",
+        "word": "attractive",
+        "phonetic": "ɐtɹæktɪv ",
+        "type": "adjective",
+        "defineEn": "pleasing or appealing to the senses",
+        "defineVi": "làm hài lòng hoặc hấp dẫn các giác quan",
+        "hasImg": true
+    },
+    {
+        "id": "23c164c8-fb25-406a-9d76-69cbbae86ed7",
+        "word": "capable",
+        "phonetic": "keɪpəbəl ",
+        "type": "adjective",
+        "defineEn": "having the required quality or ability for doing something",
+        "defineVi": "có chất lượng cần thiết hoặc khả năng để làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "95c70683-9156-4d07-8809-7fdf6dd8c6e6",
+        "word": "coherent",
+        "phonetic": "koʊhɪɹənt ",
+        "type": "adjective",
+        "defineEn": "logical, consistent, and meaningfully connected, making sense as a whole",
+        "defineVi": "hợp lý, nhất quán và được kết nối có ý nghĩa, có ý nghĩa tổng thể"
+    },
+    {
+        "id": "2f2ed2ac-01f5-49b5-ab0d-164bc23c0f2d",
+        "word": "competent",
+        "phonetic": "kɑːmpɪtənt ",
+        "type": "adjective",
+        "defineEn": "possessing the needed skills or knowledge to do something well",
+        "defineVi": "sở hữu những kỹ năng hoặc kiến thức cần thiết để làm điều gì đó tốt",
+        "hasImg": true
+    },
+    {
+        "id": "80516a40-57cb-4784-a144-e83cb5531b4f",
+        "word": "to continue",
+        "phonetic": "tə kəntɪnjuː ",
+        "type": "verb",
+        "defineEn": "to keep being, happening, or doing something",
+        "defineVi": "để tiếp tục được, xảy ra, hoặc làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "a722c4d9-e91a-4d72-a50c-74a72edcbb20",
+        "word": "to do",
+        "phonetic": "tə duː ",
+        "type": "verb",
+        "defineEn": "to perform an action or activity that is not mentioned by name",
+        "defineVi": "để thực hiện một hành động hoặc hoạt động không được đề cập theo tên"
+    },
+    {
+        "id": "78f78d1b-3f7b-4662-8bfd-dc84cf37d515",
+        "word": "to embark",
+        "phonetic": "tʊ ɛmbɑːɹk ",
+        "type": "verb",
+        "defineEn": "to start or initiate something, such as a new project or venture",
+        "defineVi": "để bắt đầu hoặc bắt đầu một cái gì đó, chẳng hạn như một dự án mới hoặc liên doanh"
+    },
+    {
+        "id": "2ccbc5cc-1b2b-4434-8ce9-02b159215ef6",
+        "word": "helpful",
+        "phonetic": "hɛlpfəl ",
+        "type": "adjective",
+        "defineEn": "providing assistance or useful help in making a situation better or easier",
+        "defineVi": "cung cấp hỗ trợ hoặc giúp đỡ hữu ích trong việc làm cho một tình huống tốt hơn hoặc dễ dàng hơn",
+        "hasImg": true
+    },
+    {
+        "id": "35cbeb61-fe5a-49ca-965a-fe7b927a76fd",
+        "word": "honest",
+        "phonetic": "ɑːnɪst ",
+        "type": "adjective",
+        "defineEn": "telling the truth and having no intention of cheating or stealing",
+        "defineVi": "nói sự thật và không có ý định gian lận hoặc ăn cắp",
+        "hasImg": true
+    },
+    {
+        "id": "ae8fa7ba-5a33-43af-a9a0-bca296f8ea83",
+        "word": "hospitable",
+        "phonetic": "hɑːspɪɾəbəl ",
+        "type": "adjective",
+        "defineEn": "treating guests or visitors with friendliness, warmth, and generosity",
+        "defineVi": "đối xử với khách hoặc khách thăm thân thiện, ấm áp và hào phóng",
+        "hasImg": true
+    },
+    {
+        "id": "df0142c8-83cf-477c-b839-bac2d2f01393",
+        "word": "legitimate",
+        "phonetic": "lədʒɪɾᵻmət ",
+        "type": "adjective",
+        "defineEn": "conforming to recognized principles or accepted rules and standards",
+        "defineVi": "phù hợp với các nguyên tắc được công nhận hoặc các quy tắc và tiêu chuẩn được chấp nhận"
+    },
+    {
+        "id": "91ac6dcd-a6c2-4467-8edb-e91f2c60f5e3",
+        "word": "literate",
+        "phonetic": "lɪɾɚɹət ",
+        "type": "adjective",
+        "defineEn": "describing someone who can read and write",
+        "defineVi": "mô tả ai đó có thể đọc và viết"
+    },
+    {
+        "id": "55c1740f-af6f-481e-b231-177261e1ee25",
+        "word": "logical",
+        "phonetic": "lɑːdʒɪkəl ",
+        "type": "adjective",
+        "defineEn": "capable of following rules of logic and forming ideas based on facts that are true",
+        "defineVi": "có khả năng tuân theo các quy tắc logic và hình thành ý tưởng dựa trên các sự kiện có thật",
+        "hasImg": true
+    },
+    {
+        "id": "5f7a1198-3786-4aec-94d9-5edef5a30acb",
+        "word": "mobile",
+        "phonetic": "moʊbəl ",
+        "type": "adjective",
+        "defineEn": "not fixed and able to move or be moved easily or quickly",
+        "defineVi": "không cố định và có thể di chuyển hoặc di chuyển dễ dàng hoặc nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "74adafce-cc21-45b0-9973-f72290108706",
+        "word": "moral",
+        "phonetic": "mɔːɹəl ",
+        "type": "adjective",
+        "defineEn": "concerned with right and wrong behavior",
+        "defineVi": "quan tâm đến hành vi đúng và sai",
+        "hasImg": true
+    },
+    {
+        "id": "349ec7db-2646-4156-8a7c-e87d5ad5b9c5",
+        "word": "official",
+        "phonetic": "əfɪʃəl ",
+        "type": "adjective",
+        "defineEn": "relating to a person with authority",
+        "defineVi": "liên quan đến một người có thẩm quyền",
+        "hasImg": true
+    },
+    {
+        "id": "12c80043-72e3-4b48-b640-21bfe7d1ace2",
+        "word": "personal",
+        "phonetic": "pɜːsənəl ",
+        "type": "adjective",
+        "defineEn": "only relating or belonging to one person",
+        "defineVi": "chỉ liên quan hoặc thuộc về một người"
+    },
+    {
+        "id": "90f74257-7d9e-4e4f-8d3d-e052d40f46ab",
+        "word": "practical",
+        "phonetic": "pɹæktɪkəl ",
+        "type": "adjective",
+        "defineEn": "of, based on, or relating to practice or action rather than theory or hypothesis",
+        "defineVi": "của, dựa trên, hoặc liên quan đến thực tiễn hoặc hành động hơn là lý thuyết hoặc giả thuyết"
+    },
+    {
+        "id": "78d1f1af-3a28-4056-8902-f160fa30bb33",
+        "word": "rational",
+        "phonetic": "ɹæʃənəl ",
+        "type": "adjective",
+        "defineEn": "(of a person) avoiding emotions and taking logic into account when making decisions",
+        "defineVi": "(của một người) tránh cảm xúc và tính đến logic khi đưa ra quyết định",
+        "hasImg": true
+    },
+    {
+        "id": "9fc41f3f-a233-40b7-b9fa-9c23223f9ef6",
+        "word": "regular",
+        "phonetic": "ɹɛɡjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "following a pattern, especially one with fixed or uniform intervals",
+        "defineVi": "theo một mẫu, đặc biệt là một mẫu có khoảng thời gian cố định hoặc thống nhất"
+    },
+    {
+        "id": "21549f20-4018-4d4f-8a10-cc61058f90ea",
+        "word": "relevant",
+        "phonetic": "ɹɛlᵻvənt ",
+        "type": "adjective",
+        "defineEn": "having a close connection with the situation or subject at hand",
+        "defineVi": "có mối liên hệ chặt chẽ với tình huống hoặc chủ đề trong tầm tay"
+    },
+    {
+        "id": "a3917747-abb5-4e8e-89df-c72cc457a6ed",
+        "word": "replaceable",
+        "phonetic": "ɹᵻpleɪsəbəl ",
+        "type": "adjective",
+        "defineEn": "capable of being exchanged or substituted",
+        "defineVi": "có khả năng được trao đổi hoặc thay thế"
+    },
+    {
+        "id": "33a75a7b-f0af-4d7a-9e3a-91a31b6f9344",
+        "word": "to outgrow",
+        "phonetic": "tʊ aʊtɡɹoʊ ",
+        "type": "verb",
+        "defineEn": "to become too large, mature, or experienced for something",
+        "defineVi": "để trở nên quá lớn, trưởng thành, hoặc kinh nghiệm cho một cái gì đó"
+    },
+    {
+        "id": "dad23b2f-de2a-44d9-a482-32a94be8d635",
+        "word": "monosyllabic",
+        "phonetic": "mɑːnoʊsɪlæbɪk ",
+        "type": "adjective",
+        "defineEn": "consisting of only one sound unit of speech",
+        "defineVi": "chỉ bao gồm một đơn vị âm thanh của lời nói"
+    },
+    {
+        "id": "9911230e-3bc2-4e31-b03a-53813c5a7c5b",
+        "word": "outpatient",
+        "phonetic": "aʊtpeɪʃənt ",
+        "type": "noun",
+        "defineEn": "a patient who receives treatment in a hospital but does not remain there",
+        "defineVi": "một bệnh nhân được điều trị trong bệnh viện nhưng không ở lại đó",
+        "hasImg": true
+    },
+    {
+        "id": "f84c138a-5e53-42d7-81e7-956a026bd7cb",
+        "word": "to rebuild",
+        "phonetic": "tə ɹᵻbɪld ",
+        "type": "verb",
+        "defineEn": "to build something once again, after it has been destroyed or severely damaged",
+        "defineVi": "để xây dựng một cái gì đó một lần nữa, sau khi nó đã bị phá hủy hoặc hư hỏng nghiêm trọng"
+    },
+    {
+        "id": "11af352d-c6c9-47d6-b296-59cfd1379d9f",
+        "word": "ill-treated",
+        "phonetic": "ɪltɹiːɾᵻd ",
+        "type": "adjective",
+        "defineEn": "having been mistreated or abused, either physically, emotionally, or psychologically",
+        "defineVi": "đã bị ngược đãi hoặc lạm dụng, về thể chất, tình cảm hoặc tâm lý"
+    },
+    {
+        "id": "49a94019-c47b-497c-bbbc-5634c8c038e4",
+        "word": "multivitamin",
+        "phonetic": "mʌltɪvaɪɾəmɪn ",
+        "type": "noun",
+        "defineEn": "a dietary supplement that contains a combination of essential vitamins and minerals, commonly taken orally in the form of tablets, capsules, or gummies",
+        "defineVi": "một chất bổ sung chế độ ăn uống có chứa sự kết hợp của các vitamin và khoáng chất thiết yếu, thường được dùng bằng đường uống ở dạng viên nén, viên nang hoặc kẹo dẻo"
+    },
+    {
+        "id": "dc6ae787-d5ff-4477-b8f2-580eb723cf0b",
+        "word": "misunderstood",
+        "phonetic": "mɪsʌndɚstʊd ",
+        "type": "adjective",
+        "defineEn": "perceived or interpreted incorrectly or incompletely, often leading to confusion, mistakes, or misinterpretation",
+        "defineVi": "nhận thức hoặc giải thích không chính xác hoặc không đầy đủ, thường dẫn đến nhầm lẫn, sai lầm hoặc giải thích sai"
+    },
+    {
+        "id": "6990434b-5493-4b0d-abf4-5b05ce706f22",
+        "word": "antivirus",
+        "phonetic": "æntɪvaɪɹəs ",
+        "type": "adjective",
+        "defineEn": "having the ability to protect a system from viruses by finding and destroying them",
+        "defineVi": "có khả năng bảo vệ hệ thống khỏi virus bằng cách tìm và tiêu diệt chúng"
+    },
+    {
+        "id": "bca11fc3-69b1-4052-9190-145fc2e3c17f",
+        "word": "deforestation",
+        "phonetic": "diːfɔːɹɪsteɪʃən ",
+        "type": "noun",
+        "defineEn": "the action of removing the trees from an area completely",
+        "defineVi": "hành động loại bỏ hoàn toàn cây cối khỏi một khu vực",
+        "hasImg": true
+    },
+    {
+        "id": "cd4021f8-43c7-49c0-8841-d858aac8abdf",
+        "word": "to upgrade",
+        "phonetic": "tʊ ʌpɡɹeɪd ",
+        "type": "verb",
+        "defineEn": "to improve a machine, computer system, etc. in terms of efficiency, standards, etc.",
+        "defineVi": "để cải thiện máy móc, hệ thống máy tính, v.v. về hiệu quả, tiêu chuẩn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "383c70d5-9abf-487f-b1bc-48ea0a0f36a9",
+        "word": "postgraduate",
+        "phonetic": "poʊstɡɹɐdʒuːeɪt ",
+        "type": "noun",
+        "defineEn": "a graduate student who is studying at a university to get a more advanced degree",
+        "defineVi": "một sinh viên tốt nghiệp đang theo học tại một trường đại học để lấy bằng cấp cao hơn",
+        "hasImg": true
+    },
+    {
+        "id": "1612f21e-29dd-4ee8-8000-1acd4304323d",
+        "word": "to precondition",
+        "phonetic": "tə pɹiːkəndɪʃən ",
+        "type": "verb",
+        "defineEn": "to establish a necessary requirement or condition that must be met before something else can happen",
+        "defineVi": "để thiết lập một yêu cầu hoặc điều kiện cần thiết phải được đáp ứng trước khi một cái gì đó khác có thể xảy ra"
+    },
+    {
+        "id": "2479e341-02c2-447e-a92f-4c4ce35115f8",
+        "word": "to oversleep",
+        "phonetic": "tʊ oʊvɚsliːp ",
+        "type": "verb",
+        "defineEn": "to wake up later than one intended to",
+        "defineVi": "thức dậy muộn hơn dự định",
+        "hasImg": true
+    },
+    {
+        "id": "971a46df-93ad-40dc-84e2-aec6fbb7c4fe",
+        "word": "biannual",
+        "phonetic": "baɪænjuːəl ",
+        "type": "adjective",
+        "defineEn": "taking place twice a year",
+        "defineVi": "diễn ra hai lần một năm"
+    },
+    {
+        "id": "767515a8-a110-4e07-84a4-85b6a9a8a93f",
+        "word": "to coexist",
+        "phonetic": "tə koʊɛɡzɪst ",
+        "type": "verb",
+        "defineEn": "to exist together or at the same time in a peaceful or harmonious manner, without conflict or contradiction",
+        "defineVi": "tồn tại cùng nhau hoặc đồng thời một cách hòa bình hoặc hài hòa, không có xung đột hoặc mâu thuẫn"
+    },
+    {
+        "id": "b480772f-561b-4984-abee-d79706d6b02c",
+        "word": "substandard",
+        "phonetic": "sʌbstændɚd ",
+        "type": "adjective",
+        "defineEn": "below the expected or required quality, level, or standard",
+        "defineVi": "dưới chất lượng, mức độ hoặc tiêu chuẩn mong đợi hoặc yêu cầu"
+    },
+    {
+        "id": "eefefc5e-7adf-4489-9d3e-380533c425dc",
+        "word": "intergovernmental",
+        "phonetic": "ɪntɚɡʌvɚnmɛntəl ",
+        "type": "adjective",
+        "defineEn": "involving or relating to two or more governments or governmental agencies, especially those of different countries",
+        "defineVi": "liên quan đến hoặc liên quan đến hai hoặc nhiều chính phủ hoặc cơ quan chính phủ, đặc biệt là của các quốc gia khác nhau"
+    },
+    {
+        "id": "3a99861b-b892-4409-863c-eb63cbe9c6c2",
+        "word": "understaffed",
+        "phonetic": "ʌndɚstæft ",
+        "type": "adjective",
+        "defineEn": "not having enough employees to adequately perform the necessary tasks or services",
+        "defineVi": "không có đủ nhân viên để thực hiện đầy đủ các nhiệm vụ hoặc dịch vụ cần thiết"
+    },
+    {
+        "id": "95bf4c77-6da3-4cde-a2ec-e65411b32310",
+        "word": "superhuman",
+        "phonetic": "suːpɚhjuːmən ",
+        "type": "adjective",
+        "defineEn": "having abilities or qualities that go beyond what is considered normal or humanly possible",
+        "defineVi": "có khả năng hoặc phẩm chất vượt xa những gì được coi là bình thường hoặc khả thi của con người"
+    },
+    {
+        "id": "038cc8fd-ad1e-4abf-a7e1-af779ca3ac54",
+        "word": "autofocus",
+        "phonetic": "ɔːɾoʊfoʊkəs ",
+        "type": "noun",
+        "defineEn": "the technology or mechanism in a camera or other optical device that automatically focuses on the subject being photographed or viewed",
+        "defineVi": "công nghệ hoặc cơ chế trong máy ảnh hoặc thiết bị quang học khác tự động lấy nét đối tượng được chụp hoặc xem"
+    },
+    {
+        "id": "50026ae0-3526-450c-a2f1-f6ec56c4cecf",
+        "word": "microorganism",
+        "phonetic": "maɪkɹoʊɔːɹɡənɪzəm ",
+        "type": "noun",
+        "defineEn": "a tiny living organism that can only be seen under a microscope, including bacteria, viruses, fungi, and protozoa",
+        "defineVi": "một sinh vật sống nhỏ bé chỉ có thể nhìn thấy dưới kính hiển vi, bao gồm vi khuẩn, vi rút, nấm và động vật nguyên sinh"
+    },
+    {
+        "id": "8bb7dff0-15d4-456c-8d60-d12dad84505b",
+        "word": "more than",
+        "phonetic": "moːɹ ðɐn ",
+        "type": "adjective",
+        "defineEn": "used to indicate a quantity or degree that exceeds or is greater than a certain amount or level",
+        "defineVi": "dùng để chỉ số lượng hoặc mức độ vượt quá hoặc lớn hơn một số lượng hoặc mức độ nhất định"
+    },
+    {
+        "id": "caca03f1-56ab-44ac-a532-f08edaf78445",
+        "word": "better",
+        "phonetic": "bɛɾɚ ",
+        "type": "adjective",
+        "defineEn": "more suitable or effective compared to other available options",
+        "defineVi": "phù hợp hơn hoặc hiệu quả hơn so với các tùy chọn có sẵn khác",
+        "hasImg": true
+    },
+    {
+        "id": "644659f8-42ec-49ed-8cad-be9db25347ef",
+        "word": "bigger",
+        "phonetic": "bɪɡɚ ",
+        "type": "adjective",
+        "defineEn": "larger in size or amount than something else",
+        "defineVi": "lớn hơn về kích thước hoặc số lượng hơn cái gì khác"
+    },
+    {
+        "id": "d9ecde10-11c3-417c-adba-b4cda1ba8c80",
+        "word": "enough",
+        "phonetic": "ɪnʌf ",
+        "type": "adverb",
+        "defineEn": "to a degree or extent that is sufficient or necessary",
+        "defineVi": "ở một mức độ hoặc mức độ đó là đủ hoặc cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "a6b12d2a-a0da-488b-8100-34eb76093aef",
+        "word": "too much",
+        "phonetic": "tuː mʌtʃ ",
+        "type": "adverb",
+        "defineEn": "beyond the appropriate or necessary amount, often to a point that is undesirable or harmful",
+        "defineVi": "vượt quá số tiền thích hợp hoặc cần thiết, thường đến một điểm không mong muốn hoặc có hại"
+    },
+    {
+        "id": "e04b01b9-1d52-4294-8d25-47b20fb0837f",
+        "word": "many",
+        "phonetic": "mɛni ",
+        "type": "determiner",
+        "defineEn": "a large number of; a great number of",
+        "defineVi": "một số lượng lớn; một số lượng lớn",
+        "hasImg": true
+    },
+    {
+        "id": "003b8759-962b-46ea-b5ce-0a79fc409883",
+        "word": "wrongly",
+        "phonetic": "ɹɔŋli ",
+        "type": "adverb",
+        "defineEn": "in a mistaken or incorrect way",
+        "defineVi": "trong một cách sai lầm hoặc không chính xác"
+    },
+    {
+        "id": "5477f17d-bccf-4f8a-9a30-8ca8163606e7",
+        "word": "below",
+        "phonetic": "bᵻloʊ ",
+        "type": "adverb",
+        "defineEn": "in a lower level, position, or place",
+        "defineVi": "ở cấp độ thấp hơn, vị trí hoặc địa điểm",
+        "hasImg": true
+    },
+    {
+        "id": "af33a32f-0c98-48f4-baaf-969fc02b9f62",
+        "word": "two",
+        "phonetic": "tuː ",
+        "type": "numeral",
+        "defineEn": "the number 2; the number of wheels on a bicycle",
+        "defineVi": "số 2; số lượng bánh xe trên một chiếc xe đạp",
+        "hasImg": true
+    },
+    {
+        "id": "52a35d26-7894-4406-a155-ad98739a8a3d",
+        "word": "twice",
+        "phonetic": "twaɪs ",
+        "type": "adverb",
+        "defineEn": "for two times",
+        "defineVi": "hai lần",
+        "hasImg": true
+    },
+    {
+        "id": "d2673806-2210-4aba-805d-99de7a291584",
+        "word": "against",
+        "phonetic": "ɐɡɛnst ",
+        "type": "preposition",
+        "defineEn": "in opposition to someone or something",
+        "defineVi": "đối lập với một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "042c5b2a-ea20-42c2-a03a-707bb5428d28",
+        "word": "one",
+        "phonetic": "wʌn ",
+        "type": "numeral",
+        "defineEn": "the number 1; the number of sun in the sky",
+        "defineVi": "số 1; số mặt trời trên bầu trời",
+        "hasImg": true
+    },
+    {
+        "id": "0900b284-cf8f-4708-a277-4a384a58e532",
+        "word": "by",
+        "phonetic": "baɪ ",
+        "type": "preposition",
+        "defineEn": "indicating the means of doing or achieving something",
+        "defineVi": "chỉ ra các phương tiện để làm hoặc đạt được một cái gì đó"
+    },
+    {
+        "id": "45db1555-29b9-4adc-8cba-ef42f0010233",
+        "word": "after",
+        "phonetic": "æftɚ ",
+        "type": "adverb",
+        "defineEn": "at a later time",
+        "defineVi": "sau đó",
+        "hasImg": true
+    },
+    {
+        "id": "55bc99a5-3400-493a-a37a-eef66ec25125",
+        "word": "outside",
+        "phonetic": "aʊtsaɪd ",
+        "type": "adverb",
+        "defineEn": "not inside a building or room",
+        "defineVi": "không ở bên trong một tòa nhà hoặc phòng",
+        "hasImg": true
+    },
+    {
+        "id": "8e0d91dd-5881-4a60-b892-3564be1e66de",
+        "word": "inside",
+        "phonetic": "ɪnsaɪd ",
+        "type": "adverb",
+        "defineEn": "in or into a room or building; within a building",
+        "defineVi": "trong hoặc vào một căn phòng hoặc tòa nhà; trong một tòa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "85f787ce-1e42-4ed9-8814-52fb270590fa",
+        "word": "before",
+        "phonetic": "bᵻfoːɹ ",
+        "type": "adverb",
+        "defineEn": "at an earlier time",
+        "defineVi": "tại một thời điểm sớm hơn"
+    },
+    {
+        "id": "823f4f3b-869f-44cd-933b-6722cd6f500a",
+        "word": "to remove",
+        "phonetic": "tə ɹᵻmuːv ",
+        "type": "verb",
+        "defineEn": "to take off an item of clothing, glasses, etc.",
+        "defineVi": "để cởi bỏ một mặt hàng quần áo, kính, vv",
+        "hasImg": true
+    },
+    {
+        "id": "aeb343dc-9b8a-47e7-bf01-2e4c6967bd82",
+        "word": "to reduce",
+        "phonetic": "tə ɹᵻduːs ",
+        "type": "verb",
+        "defineEn": "to make something less or smaller in amount, degree, price, etc.",
+        "defineVi": "để làm cho một cái gì đó ít hơn hoặc nhỏ hơn về số lượng, mức độ, giá cả, vv",
+        "hasImg": true
+    },
+    {
+        "id": "54ab26ee-9a8d-4753-b1a1-60775e512b19",
+        "word": "higher",
+        "phonetic": "haɪɚ ",
+        "type": "adjective",
+        "defineEn": "having a greater level or degree in position, value, rank, importance, or quality.",
+        "defineVi": "có trình độ hoặc mức độ lớn hơn về vị trí, giá trị, cấp bậc, tầm quan trọng hoặc phẩm chất."
+    },
+    {
+        "id": "37b82d6f-4899-4038-9320-5deabc3ef8f3",
+        "word": "toward",
+        "phonetic": "təwɔːɹd ",
+        "type": "preposition",
+        "defineEn": "in the direction of someone or something",
+        "defineVi": "theo hướng của một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "889e2277-f5dc-4683-8e1d-949e7bef66c5",
+        "word": "top",
+        "phonetic": "tɑːp ",
+        "type": "noun",
+        "defineEn": "the point or part of something that is the highest",
+        "defineVi": "điểm hoặc một phần của một cái gì đó là cao nhất",
+        "hasImg": true
+    },
+    {
+        "id": "6c0d1195-2ee8-47bc-a418-a31cfe0da8b2",
+        "word": "together",
+        "phonetic": "təɡɛðɚ ",
+        "type": "adverb",
+        "defineEn": "near to or with something or someone else",
+        "defineVi": "gần hoặc với một cái gì đó hoặc người khác",
+        "hasImg": true
+    },
+    {
+        "id": "b1a4dc2a-7170-4a4e-90ff-cb4251175185",
+        "word": "badly",
+        "phonetic": "bædli ",
+        "type": "adverb",
+        "defineEn": "to a great or serious degree or extent",
+        "defineVi": "đến một mức độ lớn hoặc nghiêm trọng hoặc mức độ"
+    },
+    {
+        "id": "fde41d76-aa3c-4f08-9baa-2fab378721a1",
+        "word": "between",
+        "phonetic": "bᵻtwiːn ",
+        "type": "preposition",
+        "defineEn": "in, into, or at the space that is separating two things, places, or people",
+        "defineVi": "trong, vào hoặc tại không gian ngăn cách hai sự vật, địa điểm hoặc con người",
+        "hasImg": true
+    },
+    {
+        "id": "70226bde-96a3-4ae2-bc97-02fe25490a6b",
+        "word": "above",
+        "phonetic": "əbʌv ",
+        "type": "adverb",
+        "defineEn": "in, at, or to a higher position",
+        "defineVi": "ở, tại, hoặc đến một vị trí cao hơn"
+    },
+    {
+        "id": "db80cceb-202c-4a14-9670-1beb35da94bf",
+        "word": "average",
+        "phonetic": "ævɹɪdʒ ",
+        "type": "adjective",
+        "defineEn": "calculated by adding a set of numbers together and dividing this amount by the total number of amounts in that set",
+        "defineVi": "được tính bằng cách cộng một tập hợp các số lại với nhau và chia số tiền này cho tổng số tiền trong tập hợp đó",
+        "hasImg": true
+    },
+    {
+        "id": "4aae867a-8a29-4859-94dc-1dc86efcde8c",
+        "word": "extremely",
+        "phonetic": "ɛkstɹiːmli ",
+        "type": "adverb",
+        "defineEn": "to a very great amount or degree",
+        "defineVi": "đến một số lượng rất lớn hoặc mức độ"
+    },
+    {
+        "id": "e9ede776-cfb1-4c4c-b328-bcfc1645f00e",
+        "word": "small",
+        "phonetic": "smɔːl ",
+        "type": "adjective",
+        "defineEn": "little or below average in size, amount, degree, etc.",
+        "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "6c8f95f2-4f62-4796-99ed-98577d7e397e",
+        "word": "again",
+        "phonetic": "ɐɡɛn ",
+        "type": "adverb",
+        "defineEn": "once more; one more time",
+        "defineVi": "một lần nữa; một lần nữa"
+    }
+]

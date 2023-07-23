@@ -1,0 +1,246 @@
+[
+    {
+        "id": "7e427935-48d4-4cd2-998f-82499213d7ee",
+        "word": "composer",
+        "phonetic": "kəmpoʊzɚ ",
+        "type": "noun",
+        "defineEn": "a person who writes music as their profession",
+        "defineVi": "một người viết nhạc như nghề nghiệp của họ",
+        "hasImg": true
+    },
+    {
+        "id": "764482e1-be40-4684-9f04-0d57ab44c096",
+        "word": "drum major",
+        "phonetic": "dɹʌm meɪdʒɚ ",
+        "type": "noun",
+        "defineEn": "the leader of a marching band or drum corps",
+        "defineVi": "thủ lĩnh của một ban nhạc diễu hành hoặc đội trống"
+    },
+    {
+        "id": "86e8fe37-879a-460c-910e-4ab9bc7eecff",
+        "word": "maestro",
+        "phonetic": "maɪstɹoʊ ",
+        "type": "noun",
+        "defineEn": "a person who is an expert or master in conducting or directing an orchestra or musical performance",
+        "defineVi": "một người là một chuyên gia hoặc bậc thầy trong việc chỉ huy hoặc chỉ đạo một dàn nhạc hoặc buổi biểu diễn âm nhạc"
+    },
+    {
+        "id": "361dda16-d743-4c9a-973a-587ccd06743b",
+        "word": "tuner",
+        "phonetic": "tuːnɚ ",
+        "type": "noun",
+        "defineEn": "someone who tunes pianos",
+        "defineVi": "một người điều chỉnh đàn piano"
+    },
+    {
+        "id": "8ec38f36-40cb-4cf4-831b-2a6134ed8d93",
+        "word": "act",
+        "phonetic": "ækt ",
+        "type": "noun",
+        "defineEn": "a singer, band or musician who performs on a stage",
+        "defineVi": "một ca sĩ, ban nhạc hoặc nhạc sĩ biểu diễn trên sân khấu",
+        "hasImg": true
+    },
+    {
+        "id": "d10f08f5-b6a1-4b7a-bb3d-ad18973b28e6",
+        "word": "alto",
+        "phonetic": "æltoʊ ",
+        "type": "noun",
+        "defineEn": "a male singer with the highest adult male voice or a female singer with the lowest female voice",
+        "defineVi": "nam ca sĩ có giọng nam trưởng thành cao nhất hoặc nữ ca sĩ có giọng nữ thấp nhất"
+    },
+    {
+        "id": "dafc2e28-c4e3-4123-976d-955a938c431c",
+        "word": "baritone",
+        "phonetic": "bæɹɪtoʊn ",
+        "type": "noun",
+        "defineEn": "a male singer with deep singing voice ranged between tenor and bass",
+        "defineVi": "một nam ca sĩ có giọng hát trầm ấm trải dài giữa giọng nam cao và giọng trầm"
+    },
+    {
+        "id": "d53b1fc5-af45-43ec-a981-6cf7977a9d0b",
+        "word": "conductor",
+        "phonetic": "kəndʌktɚ ",
+        "type": "noun",
+        "defineEn": "someone who guides and directs an orchestra",
+        "defineVi": "một người hướng dẫn và chỉ đạo một dàn nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "49ce45cb-f4d8-4652-aa04-e4f9804ef0e2",
+        "word": "contralto",
+        "phonetic": "kəntɹæltoʊ ",
+        "type": "noun",
+        "defineEn": "a female singer with the lowest singing voice",
+        "defineVi": "một nữ ca sĩ có giọng hát thấp nhất"
+    },
+    {
+        "id": "47cd2278-11ba-4b29-8f64-55a66ab3cddf",
+        "word": "disc jockey",
+        "phonetic": "dɪsk dʒɑːki ",
+        "type": "noun",
+        "defineEn": "someone who announces or plays popular recorded music on radio or TV, or at a disco, club, etc.",
+        "defineVi": "ai đó thông báo hoặc phát nhạc đã ghi phổ biến trên đài phát thanh hoặc TV, hoặc tại vũ trường, câu lạc bộ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f6eecbbe-40f7-4e4b-b847-c0c91798df0c",
+        "word": "falsetto",
+        "phonetic": "fɔlsɛɾoʊ ",
+        "type": "noun",
+        "defineEn": "a male singing voice that extends over the range of a tenor voice, hitting unusually high notes; a singer that uses this voice",
+        "defineVi": "một giọng hát nam mở rộng phạm vi của một giọng nam cao, đánh những nốt cao bất thường; một ca sĩ sử dụng giọng hát này"
+    },
+    {
+        "id": "1c385f1b-ac0f-4b13-bdc0-d1098925b89b",
+        "word": "front man",
+        "phonetic": "fɹʌnt mæn ",
+        "type": "noun",
+        "defineEn": "the lead vocalist or performer in a pop or rock band",
+        "defineVi": "ca sĩ chính hoặc người biểu diễn trong một ban nhạc pop hoặc rock",
+        "hasImg": true
+    },
+    {
+        "id": "d2171e3d-bd22-4f92-bc25-d2f69088eddb",
+        "word": "frontwoman",
+        "phonetic": "fɹʌntwʊmən ",
+        "type": "noun",
+        "defineEn": "the lead female vocalist or performer in a pop or rock band",
+        "defineVi": "nữ ca sĩ chính hoặc người biểu diễn trong một ban nhạc pop hoặc rock",
+        "hasImg": true
+    },
+    {
+        "id": "27c884b5-4c75-4499-9e15-4df8be52e557",
+        "word": "mezzo-soprano",
+        "phonetic": "mɛzoʊsəpɹɑːnoʊ ",
+        "type": "noun",
+        "defineEn": "a female singer with a voice ranged between soprano and contralto; this particular singing voice",
+        "defineVi": "một nữ ca sĩ có giọng hát trải dài giữa soprano và contralto; giọng hát đặc biệt này"
+    },
+    {
+        "id": "7f0c7668-297e-4a11-8c92-280b250e902d",
+        "word": "musical director",
+        "phonetic": "mjuːzɪkəl dᵻɹɛktɚ ",
+        "type": "noun",
+        "defineEn": "the person who manages the musical aspects of a production or performance, such as the conductor of an orchestra",
+        "defineVi": "người quản lý các khía cạnh âm nhạc của sản xuất hoặc biểu diễn, chẳng hạn như nhạc trưởng của dàn nhạc"
+    },
+    {
+        "id": "bf6b732b-848d-4f06-b5e0-cd8a19c31931",
+        "word": "singer",
+        "phonetic": "sɪŋɚ ",
+        "type": "noun",
+        "defineEn": "someone whose job is to use their voice for creating music",
+        "defineVi": "ai đó có công việc là sử dụng giọng nói của họ để tạo ra âm nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "40242227-ec49-408d-8194-e2ee1748257c",
+        "word": "songwriter",
+        "phonetic": "sɔŋɹaɪɾɚ ",
+        "type": "noun",
+        "defineEn": "someone who writes the words of songs and sometimes their music",
+        "defineVi": "một người viết những lời của bài hát và đôi khi âm nhạc của họ",
+        "hasImg": true
+    },
+    {
+        "id": "2bc093ec-b092-4a90-b359-d44f04142284",
+        "word": "soprano",
+        "phonetic": "səpɹɑːnoʊ ",
+        "type": "noun",
+        "defineEn": "a female or young male singer with a singing voice that has the highest range",
+        "defineVi": "một ca sĩ nam hoặc nữ có giọng hát cao nhất",
+        "hasImg": true
+    },
+    {
+        "id": "e96efc3f-e6ff-4715-9060-87946d4a2677",
+        "word": "support",
+        "phonetic": "səpoːɹt ",
+        "type": "noun",
+        "defineEn": "a singer or band that open a pop or rock concert before the main act",
+        "defineVi": "một ca sĩ hoặc ban nhạc mở một buổi hòa nhạc pop hoặc rock trước hành động chính"
+    },
+    {
+        "id": "15e307b7-bc4d-4a74-8926-d753b5345438",
+        "word": "tenor",
+        "phonetic": "tɛnɚ ",
+        "type": "noun",
+        "defineEn": "an adult male singer with the highest natural singing voice that is just below the lowest range of a women's voice",
+        "defineVi": "một nam ca sĩ trưởng thành có giọng hát tự nhiên cao nhất ngay dưới âm vực thấp nhất của giọng nữ"
+    },
+    {
+        "id": "c0052e8b-c98a-40a2-a14e-1d7ec84c71e3",
+        "word": "video jockey",
+        "phonetic": "vɪdɪoʊ dʒɑːki ",
+        "type": "noun",
+        "defineEn": "someone whose job is to introduce and play music videos on TV, or at a party or other entertainment",
+        "defineVi": "người có công việc là giới thiệu và phát các video ca nhạc trên TV, hoặc tại một bữa tiệc hoặc hoạt động giải trí khác"
+    },
+    {
+        "id": "ad2cdc13-30ff-484b-a976-0b669c21f36b",
+        "word": "vocalist",
+        "phonetic": "voʊkəlɪst ",
+        "type": "noun",
+        "defineEn": "a person who sings, especially one performing in a rock, jazz or pop band",
+        "defineVi": "một người hát, đặc biệt là một người biểu diễn trong ban nhạc rock, jazz hoặc pop",
+        "hasImg": true
+    },
+    {
+        "id": "7e15419e-3a2c-4b3f-8aba-dd5ac8809428",
+        "word": "record producer",
+        "phonetic": "ɹɛkɚd pɹəduːsɚ ",
+        "type": "noun",
+        "defineEn": "an individual who oversees and manages the production process of creating recorded music",
+        "defineVi": "một cá nhân giám sát và quản lý quá trình sản xuất tạo bản nhạc đã ghi"
+    },
+    {
+        "id": "4417f161-a5a5-4f00-b43e-713ca28f6c9d",
+        "word": "audio engineer",
+        "phonetic": "ɔːdɪoʊ ɛndʒɪnɪɹ ",
+        "type": "noun",
+        "defineEn": "sound professional responsible for recording, mixing, and editing audio to achieve desired results",
+        "defineVi": "chuyên gia âm thanh chịu trách nhiệm ghi, trộn và chỉnh sửa âm thanh để đạt được kết quả mong muốn"
+    },
+    {
+        "id": "c4c1c9e0-029c-4716-813b-ad3ed32629fe",
+        "word": "music agent",
+        "phonetic": "mjuːzɪk eɪdʒənt ",
+        "type": "noun",
+        "defineEn": "a professional who represents and promotes musicians or bands, helping them secure performances, tours, and other opportunities in the music industry",
+        "defineVi": "một chuyên gia đại diện và quảng bá cho các nhạc sĩ hoặc ban nhạc, giúp họ có được các buổi biểu diễn, các chuyến lưu diễn và các cơ hội khác trong ngành công nghiệp âm nhạc"
+    },
+    {
+        "id": "fdbddfbe-6bed-4553-bf15-e8468d65381c",
+        "word": "music teacher",
+        "phonetic": "mjuːzɪk tiːtʃɚ ",
+        "type": "noun",
+        "defineEn": "someone who teaches music",
+        "defineVi": "ai đó dạy nhạc",
+        "hasImg": true
+    },
+    {
+        "id": "591335ec-d2f8-4a1a-b107-a2aa81bbe22f",
+        "word": "troubadour",
+        "phonetic": "tɹuːbədoːɹ ",
+        "type": "noun",
+        "defineEn": "a singer of folk songs",
+        "defineVi": "một ca sĩ dân ca"
+    },
+    {
+        "id": "bd729bf0-7d3e-4923-94c4-7ea08c240a76",
+        "word": "countertenor",
+        "phonetic": "kaʊntɚtɛnɚ ",
+        "type": "noun",
+        "defineEn": "a male singer with a voice above that of a tenor",
+        "defineVi": "một nam ca sĩ có giọng hát cao hơn giọng nam cao"
+    },
+    {
+        "id": "b107a43c-1e5e-46ca-a81b-d1b059ced572",
+        "word": "singer-songwriter",
+        "phonetic": "sɪŋɚsɔŋɹaɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a musician who writes and performs their own songs, often accompanying themselves on an instrument such as guitar or piano",
+        "defineVi": "một nhạc sĩ viết và biểu diễn các bài hát của riêng họ, thường tự đệm cho họ trên một nhạc cụ như ghi-ta hoặc piano",
+        "hasImg": true
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "id": "417acd2f-cb3f-4b40-be56-bf3f56f77d07",
+        "word": "regular polygon",
+        "phonetic": "ɹɛɡjʊlɚ pɑːlɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "a two-dimensional closed shape with straight sides and equal angles between adjacent sides, and all sides have the same length",
+        "defineVi": "một hình khép kín hai chiều với các cạnh thẳng và các góc giữa các cạnh liền kề bằng nhau và tất cả các cạnh đều có cùng chiều dài",
+        "hasImg": true
+    },
+    {
+        "id": "502bc94a-098f-4327-a099-0442574c8b0a",
+        "word": "irregular polygon",
+        "phonetic": "ɪɹɛɡjʊlɚ pɑːlɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "a polygon that does not have all sides or angles equal in size or measure, making it non-regular and lacking symmetry",
+        "defineVi": "một đa giác không có tất cả các cạnh hoặc góc có kích thước hoặc số đo bằng nhau, làm cho nó không đều và thiếu tính đối xứng",
+        "hasImg": true
+    },
+    {
+        "id": "c78eaa5b-5f0d-4a8a-bc19-b0b92718543a",
+        "word": "convex polygon",
+        "phonetic": "kɑːnvɛks pɑːlɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "a geometric shape that has all its interior angles measuring less than 180 degrees, causing the polygon to curve outward",
+        "defineVi": "một hình dạng hình học có tất cả các góc bên trong của nó nhỏ hơn 180 độ, khiến đa giác cong ra ngoài",
+        "hasImg": true
+    },
+    {
+        "id": "4f672ec5-afd0-4ca8-946c-77e8a7fcf2c9",
+        "word": "concave polygon",
+        "phonetic": "kɑːŋkeɪv pɑːlɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "a geometric shape that has at least one angle measuring greater than 180 degrees, causing the polygon to curve inward",
+        "defineVi": "một hình dạng hình học có ít nhất một góc đo lớn hơn 180 độ, khiến đa giác cong vào trong",
+        "hasImg": true
+    },
+    {
+        "id": "e4e576d7-497e-4e65-8519-e98cd8598421",
+        "word": "trigon",
+        "phonetic": "tɹaɪɡɑːn ",
+        "type": "noun",
+        "defineEn": "a three-sided polygon",
+        "defineVi": "đa giác ba cạnh",
+        "hasImg": true
+    },
+    {
+        "id": "13cbd1e2-8ab2-45d5-86a3-3f2809678412",
+        "word": "quadrilateral",
+        "phonetic": "kwɑːdɹɪlæɾɚɹəl ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat figure with four straight sides and four angles",
+        "defineVi": "(hình học) hình phẳng có bốn cạnh, bốn góc",
+        "hasImg": true
+    },
+    {
+        "id": "7c1ca382-9975-4f1c-995c-74a3bdf8b198",
+        "word": "pentagon",
+        "phonetic": "pɛntæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a polygon with five angles and five straight sides",
+        "defineVi": "(hình học) đa giác có 5 góc và 5 cạnh thẳng",
+        "hasImg": true
+    },
+    {
+        "id": "f63ed8e6-f9ff-4b5d-b477-d813e1e75eb1",
+        "word": "hexagon",
+        "phonetic": "hɛksæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a polygon with six straight sides and six angles",
+        "defineVi": "(hình học) đa giác có sáu cạnh và sáu góc",
+        "hasImg": true
+    },
+    {
+        "id": "dc7550b3-0844-40e1-9266-624252546807",
+        "word": "heptagon",
+        "phonetic": "hɛptæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat figure with seven straight sides and seven angles",
+        "defineVi": "(hình học) hình phẳng có bảy cạnh thẳng, bảy góc",
+        "hasImg": true
+    },
+    {
+        "id": "af7dc6bc-0cd9-4172-860f-7bdb4e5edee2",
+        "word": "octagon",
+        "phonetic": "ɑːktæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a polygon consisting of eight straight sides and eight angles",
+        "defineVi": "(hình học) đa giác có tám cạnh thẳng và tám góc",
+        "hasImg": true
+    },
+    {
+        "id": "33f482cb-4b63-4b5b-912e-0163cd98a283",
+        "word": "nonagon",
+        "phonetic": "nɑːnæɡɑːn ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat shape consisting of nine straight sides and nine angles",
+        "defineVi": "(hình học) hình phẳng có chín cạnh thẳng, chín góc",
+        "hasImg": true
+    },
+    {
+        "id": "3513d5d0-26a1-4df7-ad13-b2766d4b20b1",
+        "word": "decagon",
+        "phonetic": "dᵻkæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat polygon with ten straight sides and ten angles",
+        "defineVi": "(hình học) một đa giác phẳng có mười cạnh thẳng và mười góc",
+        "hasImg": true
+    },
+    {
+        "id": "e38b379b-0b12-4704-ad01-7090738f5047",
+        "word": "hendecagon",
+        "phonetic": "hɛndɪkæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat figure consisting of eleven straight sides and eleven angles",
+        "defineVi": "(hình học) hình phẳng có mười một cạnh thẳng và mười một góc",
+        "hasImg": true
+    },
+    {
+        "id": "3240a5cf-9f8b-454a-bdda-0df042c037b9",
+        "word": "dodecagon",
+        "phonetic": "doʊdɛkæɡən ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat figure that consists of twelve sides and twelve angles",
+        "defineVi": "(hình học) hình phẳng có mười hai cạnh, mười hai góc",
+        "hasImg": true
+    },
+    {
+        "id": "34c6b739-115c-4e82-8d66-0292b4de688f",
+        "word": "tridecagon",
+        "phonetic": "tɹaɪdɪkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with thirteen sides and thirteen angles",
+        "defineVi": "một đa giác với mười ba cạnh và mười ba góc",
+        "hasImg": true
+    },
+    {
+        "id": "6f437dba-2212-4a3b-be88-38b7e3bed813",
+        "word": "tetradecagon",
+        "phonetic": "tɛtɹeɪdkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with fourteen sides and fourteen angles",
+        "defineVi": "một đa giác với mười bốn cạnh và mười bốn góc",
+        "hasImg": true
+    },
+    {
+        "id": "c0f49426-239c-4665-84c2-cf7d2b1c3ef4",
+        "word": "pentadecagon",
+        "phonetic": "pɛnteɪdkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with fifteen sides and fifteen angles",
+        "defineVi": "một đa giác với mười lăm cạnh và mười lăm góc",
+        "hasImg": true
+    },
+    {
+        "id": "cc98359e-799e-47d9-a836-83b5f1485659",
+        "word": "hexadecagon",
+        "phonetic": "hɛksɐdɛkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with sixteen sides and sixteen angles",
+        "defineVi": "một đa giác với mười sáu cạnh và mười sáu góc",
+        "hasImg": true
+    },
+    {
+        "id": "685382ce-aaa5-4dc1-aafc-167eb2efd999",
+        "word": "heptadecagon",
+        "phonetic": "hɛpteɪdkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with seventeen sides and seventeen angles",
+        "defineVi": "một đa giác với mười bảy cạnh và mười bảy góc",
+        "hasImg": true
+    },
+    {
+        "id": "d2508318-a745-404f-b463-03eb81758c74",
+        "word": "octadecagon",
+        "phonetic": "ɑːkteɪdkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with eighteen sides and eighteen angles",
+        "defineVi": "một đa giác có mười tám cạnh và mười tám góc",
+        "hasImg": true
+    },
+    {
+        "id": "ed851cbe-be66-4183-a686-16ce459f5a99",
+        "word": "enneadecagon",
+        "phonetic": "ɛniːdɪkæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with nineteen sides and nineteen angles",
+        "defineVi": "một đa giác có mười chín cạnh và mười chín góc",
+        "hasImg": true
+    },
+    {
+        "id": "92e68008-7d65-4713-a94e-165f3ce13557",
+        "word": "icosagon",
+        "phonetic": "aɪkəsæɡən ",
+        "type": "noun",
+        "defineEn": "a polygon with twenty sides and twenty angles",
+        "defineVi": "một đa giác với hai mươi cạnh và hai mươi góc",
+        "hasImg": true
+    },
+    {
+        "id": "0eff395b-fc36-405e-867f-dd31c2014c85",
+        "word": "pentagram",
+        "phonetic": "pɛntɐɡɹæm ",
+        "type": "noun",
+        "defineEn": "a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon",
+        "defineVi": "một ngôi sao với 5 điểm; tạo bởi 5 đoạn thẳng nối các đỉnh của một ngũ giác và bao quanh một ngũ giác khác",
+        "hasImg": true
+    },
+    {
+        "id": "6b7400f3-1734-4ce3-9808-17961f99276e",
+        "word": "hexagram",
+        "phonetic": "hɛksɐɡɹæm ",
+        "type": "noun",
+        "defineEn": "(geometry) a flat star-shaped figure with six points that can be formed by making equilateral triangles on each side of a regular hexagon",
+        "defineVi": "(hình học) hình ngôi sao phẳng có sáu điểm có thể tạo thành bằng cách tạo các tam giác đều ở mỗi cạnh của một hình lục giác đều",
+        "hasImg": true
+    }
+]

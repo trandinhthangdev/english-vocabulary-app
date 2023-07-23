@@ -1,0 +1,533 @@
+[
+    {
+        "id": "7160ddad-d62b-4db7-8684-1bd9a88e0b6f",
+        "word": "steak",
+        "phonetic": "steɪk ",
+        "type": "noun",
+        "defineEn": "a large piece of meat or fish cut into thick slices",
+        "defineVi": "một miếng thịt lớn hoặc cá cắt thành lát dày",
+        "hasImg": true
+    },
+    {
+        "id": "c5b17878-9cf5-4c72-89b6-49f5a72a8d7e",
+        "word": "brisket",
+        "phonetic": "bɹɪskɪt ",
+        "type": "noun",
+        "defineEn": "meat cut from the chest of an animal, especially a cow",
+        "defineVi": "thịt cắt từ ngực của một con vật, đặc biệt là một con bò",
+        "hasImg": true
+    },
+    {
+        "id": "6df94afd-3154-4994-b698-bdf1683a9f27",
+        "word": "chuck",
+        "phonetic": "tʃʌk ",
+        "type": "noun",
+        "defineEn": "a cut of beef taken from the shoulder area of the animal, known for its flavorful and versatile qualities",
+        "defineVi": "một miếng thịt bò được lấy từ vùng vai của con vật, được biết đến với chất lượng hương vị và tính linh hoạt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "7f1474f9-b437-4d55-89b6-3d2f7e87783d",
+        "word": "shank",
+        "phonetic": "ʃæŋk ",
+        "type": "noun",
+        "defineEn": "a cut of meat from the lower portion of an animal's leg, known for its rich flavor when cooked",
+        "defineVi": "một miếng thịt từ phần dưới của chân động vật, được biết đến với hương vị đậm đà khi nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "b7d8fb87-b013-4224-8682-57877f699037",
+        "word": "long bone",
+        "phonetic": "lɔŋ boʊn ",
+        "type": "noun",
+        "defineEn": "a meat cut that includes a bone with an elongated shape",
+        "defineVi": "một miếng thịt bao gồm một xương có hình dạng thon dài",
+        "hasImg": true
+    },
+    {
+        "id": "cac82c50-feef-40c6-b856-a2a4ba7c8e2e",
+        "word": "oxtail",
+        "phonetic": "ɑːksteɪl ",
+        "type": "noun",
+        "defineEn": "a meaty cut of beef taken from the tail of a cow",
+        "defineVi": "một miếng thịt bò lấy từ đuôi của một con bò",
+        "hasImg": true
+    },
+    {
+        "id": "f325d439-af48-470e-83a9-5df3b8304289",
+        "word": "ham hock",
+        "phonetic": "hæm hɑːk ",
+        "type": "noun",
+        "defineEn": "the joint or knuckle of a pig's hind leg, often used in cooking for its flavorful meat",
+        "defineVi": "khớp hoặc đốt ngón chân sau của lợn, thường được sử dụng để nấu ăn cho thịt có hương vị",
+        "hasImg": true
+    },
+    {
+        "id": "cda0eb3f-f978-4c46-b456-32497eece49a",
+        "word": "shin",
+        "phonetic": "ʃɪn ",
+        "type": "noun",
+        "defineEn": "a cut of meat taken from the front part of the lower leg of an animal",
+        "defineVi": "một miếng thịt lấy từ phần trước của chân dưới của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "d5508f1a-e826-4896-b1f0-7a1fe03d183c",
+        "word": "sirloin",
+        "phonetic": "sɜːlɔɪn ",
+        "type": "noun",
+        "defineEn": "beef that is taken from a cow's back, which is of high quality",
+        "defineVi": "thịt bò được lấy từ lưng bò, có chất lượng cao",
+        "hasImg": true
+    },
+    {
+        "id": "008765e2-dda9-408f-a103-22f081cf96db",
+        "word": "flank",
+        "phonetic": "flæŋk ",
+        "type": "noun",
+        "defineEn": "a lean and flavorful cut of meat located on the underside of an animal, typically used for dishes like fajitas or stir-fries",
+        "defineVi": "một miếng thịt nạc và có hương vị nằm ở mặt dưới của một con vật, thường được sử dụng cho các món ăn như món fajitas hoặc món xào",
+        "hasImg": true
+    },
+    {
+        "id": "ca245f68-04c3-4678-939f-1ef550d6c74b",
+        "word": "rump",
+        "phonetic": "ɹʌmp ",
+        "type": "noun",
+        "defineEn": "meat from the upper part of the back legs of a cow, which is of high quality",
+        "defineVi": "thịt từ phần trên của chân sau của một con bò, có chất lượng cao",
+        "hasImg": true
+    },
+    {
+        "id": "a9331bbf-8bd2-4feb-9ec8-9e5ff936c93f",
+        "word": "rib",
+        "phonetic": "ɹɪb ",
+        "type": "noun",
+        "defineEn": "a piece of meat with one or more rib bones",
+        "defineVi": "một miếng thịt với một hoặc nhiều xương sườn",
+        "hasImg": true
+    },
+    {
+        "id": "9aa1f47b-6b10-47d9-b8ee-6a233f892182",
+        "word": "short loin",
+        "phonetic": "ʃɔːɹt lɔɪn ",
+        "type": "noun",
+        "defineEn": "a tender and well-marbled cut of meat located towards the back of an animal",
+        "defineVi": "một miếng thịt mềm và có vân cẩm thạch nằm ở phía sau của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "4ee30726-4fda-48aa-827a-e022a67874b4",
+        "word": "tenderloin",
+        "phonetic": "tɛndɚlɔɪn ",
+        "type": "noun",
+        "defineEn": "meat that is cut from near the backbone of a pig or cow, which is of high quality",
+        "defineVi": "thịt được cắt từ gần xương sống của lợn hoặc bò, có chất lượng cao",
+        "hasImg": true
+    },
+    {
+        "id": "508cd93a-5c90-4e91-8eb6-b5ccccf53884",
+        "word": "spare rib",
+        "phonetic": "spɛɹ ɹɪb ",
+        "type": "noun",
+        "defineEn": "a pork rib that most of its meat has been cut off",
+        "defineVi": "một miếng sườn lợn mà hầu hết thịt của nó đã bị cắt",
+        "hasImg": true
+    },
+    {
+        "id": "542ae794-a021-40da-a3dd-1cf7f775eac0",
+        "word": "trotter",
+        "phonetic": "tɹɑːɾɚ ",
+        "type": "noun",
+        "defineEn": "a pig's foot that is cooked as food",
+        "defineVi": "một chân lợn được nấu chín như thức ăn"
+    },
+    {
+        "id": "4d481617-87ec-4648-8695-771e3de264fc",
+        "word": "chop",
+        "phonetic": "tʃɑːp ",
+        "type": "noun",
+        "defineEn": "a small cut of meat, typically taken from the rib or loin",
+        "defineVi": "một miếng thịt nhỏ, thường được lấy từ xương sườn hoặc thăn",
+        "hasImg": true
+    },
+    {
+        "id": "dc63198f-9ed5-4c75-9103-735a81463364",
+        "word": "pork belly",
+        "phonetic": "poːɹk bɛli ",
+        "type": "noun",
+        "defineEn": "a fatty and flavorful cut of meat obtained from the underside of a pig",
+        "defineVi": "một miếng thịt béo và có hương vị thu được từ mặt dưới của lợn"
+    },
+    {
+        "id": "b35e8979-9a53-4009-b873-ad05d5babd95",
+        "word": "pancetta",
+        "phonetic": "pænsɛɾə ",
+        "type": "noun",
+        "defineEn": "meat taken from the belly of a pig that has been smoked or salted, originated in Italy",
+        "defineVi": "thịt lấy từ bụng lợn đã được hun khói hoặc ướp muối, có nguồn gốc từ Ý",
+        "hasImg": true
+    },
+    {
+        "id": "bff226b6-9848-4596-bd59-924423605062",
+        "word": "gammon",
+        "phonetic": "ɡæmən ",
+        "type": "noun",
+        "defineEn": "meat from the side or back leg of a pig that has been smoked or salted",
+        "defineVi": "thịt từ hông hoặc chân sau của lợn đã được hun khói hoặc ướp muối",
+        "hasImg": true
+    },
+    {
+        "id": "fe6cb516-bf83-4bda-b1fd-ed2d9ff87ffe",
+        "word": "fatback",
+        "phonetic": "fætbæk ",
+        "type": "noun",
+        "defineEn": "a cut of pork that consists primarily of the fatty layer beneath the skin",
+        "defineVi": "một miếng thịt lợn bao gồm chủ yếu là lớp mỡ bên dưới da",
+        "hasImg": true
+    },
+    {
+        "id": "89af0c04-1a4e-419b-b2d3-bfead8e2d75a",
+        "word": "Boston butt",
+        "phonetic": "bɔstən bʌt ",
+        "type": "noun",
+        "defineEn": "a pork cut from the upper shoulder, used in barbecue and slow-cooking for its rich flavor and marbling, often for pulled pork and stews",
+        "defineVi": "một miếng thịt lợn được cắt từ vai trên, được sử dụng trong thịt nướng và nấu chậm vì hương vị đậm đà và vân mỡ, thường dùng cho thịt lợn kéo và món hầm",
+        "hasImg": true
+    },
+    {
+        "id": "162101f9-4ef4-432e-a61e-74f5f1c7b083",
+        "word": "cutlet",
+        "phonetic": "kʌtlɪt ",
+        "type": "noun",
+        "defineEn": "a piece of meat that is cut into a thick slice and usually broiled or fried",
+        "defineVi": "một miếng thịt được cắt thành một lát dày và thường nướng hoặc chiên",
+        "hasImg": true
+    },
+    {
+        "id": "13654e83-5e09-45e6-8d20-d8d44a0f29b9",
+        "word": "breast",
+        "phonetic": "bɹɛst ",
+        "type": "noun",
+        "defineEn": "meat cut from the front part of the body of a bird",
+        "defineVi": "thịt cắt từ phần trước của cơ thể của một con chim",
+        "hasImg": true
+    },
+    {
+        "id": "e9b909a4-aff9-4549-8371-e85e5b8e2ec6",
+        "word": "drumstick",
+        "phonetic": "dɹʌmstɪk ",
+        "type": "noun",
+        "defineEn": "the lower joint of the leg of a fowl, eaten as food",
+        "defineVi": "khớp dưới chân của một con gà, ăn như thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "1705a236-4bf7-45d5-ad27-6ab1fa7d56b2",
+        "word": "lamb chop",
+        "phonetic": "læm tʃɑːp ",
+        "type": "noun",
+        "defineEn": "a small, tender cut of lamb meat, typically taken from the rib or loin",
+        "defineVi": "một miếng thịt cừu nhỏ, mềm, thường được lấy từ xương sườn hoặc thăn",
+        "hasImg": true
+    },
+    {
+        "id": "19bc4c5f-3e46-4dc6-84b2-57e872996d96",
+        "word": "pork loin",
+        "phonetic": "poːɹk lɔɪn ",
+        "type": "noun",
+        "defineEn": "a lean and tender cut of meat from the back of the pig, commonly used for roasting",
+        "defineVi": "một miếng thịt nạc và mềm từ lưng lợn, thường được dùng để nướng",
+        "hasImg": true
+    },
+    {
+        "id": "b5832e2b-4152-4c35-8162-bfcbbad784a6",
+        "word": "wing",
+        "phonetic": "wɪŋ ",
+        "type": "noun",
+        "defineEn": "meat from the wing of a duck, chicken, etc., eaten as food",
+        "defineVi": "thịt từ cánh vịt, gà, v.v., dùng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "7b85e52f-ba47-40de-a5c6-4173ec9854cc",
+        "word": "rack",
+        "phonetic": "ɹæk ",
+        "type": "noun",
+        "defineEn": "a piece of meat from a pig or lamb which is attached to the front ribs",
+        "defineVi": "một miếng thịt từ lợn hoặc thịt cừu được gắn vào xương sườn trước",
+        "hasImg": true
+    },
+    {
+        "id": "6497aa4b-d6fa-4279-b294-07bee6bc398b",
+        "word": "short ribs",
+        "phonetic": "ʃɔːɹt ɹɪbz ",
+        "type": "noun",
+        "defineEn": "a cut of beef attached to the rib bones",
+        "defineVi": "một miếng thịt bò gắn liền với xương sườn",
+        "hasImg": true
+    },
+    {
+        "id": "40c3184a-1bd8-484b-a424-43de7628a696",
+        "word": "shoulder",
+        "phonetic": "ʃoʊldɚ ",
+        "type": "noun",
+        "defineEn": "meat taken from the upper part of the front leg of an animal",
+        "defineVi": "thịt lấy từ phần trên của chân trước của động vật",
+        "hasImg": true
+    },
+    {
+        "id": "54016e60-af22-43d7-a39c-aa39481709db",
+        "word": "beef plate",
+        "phonetic": "biːf pleɪt ",
+        "type": "noun",
+        "defineEn": "a cut of meat that comes from the lower belly or underside of the cow",
+        "defineVi": "một miếng thịt đến từ bụng dưới hoặc mặt dưới của con bò",
+        "hasImg": true
+    },
+    {
+        "id": "62c64e2c-b8f6-4fc5-a1f5-b277dadb2e25",
+        "word": "leg",
+        "phonetic": "lɛɡ ",
+        "type": "noun",
+        "defineEn": "a portion of meat, typically from the lower limb of an animal",
+        "defineVi": "một phần thịt, thường là từ chi dưới của động vật",
+        "hasImg": true
+    },
+    {
+        "id": "5358a3aa-078f-4141-a46c-4522212983cb",
+        "word": "round",
+        "phonetic": "ɹaʊnd ",
+        "type": "noun",
+        "defineEn": "a lean cut of meat, typically from the hindquarters of an animal",
+        "defineVi": "một miếng thịt nạc, thường là từ chân sau của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "1dfdabd7-ab28-4d27-a7e6-7f6986809d35",
+        "word": "picnic shoulder",
+        "phonetic": "pɪknɪk ʃoʊldɚ ",
+        "type": "noun",
+        "defineEn": "a cut of pork, typically from the upper part of the shoulder",
+        "defineVi": "một miếng thịt lợn, thường là từ phần trên của vai",
+        "hasImg": true
+    },
+    {
+        "id": "dbdaa451-5626-411d-a752-1b4abec37636",
+        "word": "side",
+        "phonetic": "saɪd ",
+        "type": "noun",
+        "defineEn": "a cut from the rib area of an animal, often known for its tender and flavorful qualities",
+        "defineVi": "một vết cắt từ vùng xương sườn của một con vật, thường được biết đến với chất lượng mềm và hương vị của nó",
+        "hasImg": true
+    },
+    {
+        "id": "3e8fc473-a5f2-4e8f-bc70-4f0aaccf3ccb",
+        "word": "beefsteak",
+        "phonetic": "biːfsteɪk ",
+        "type": "noun",
+        "defineEn": "a thick slice of beef that is often cooked by broiling or grilling",
+        "defineVi": "một miếng thịt bò dày thường được nấu bằng cách nướng hoặc nướng",
+        "hasImg": true
+    },
+    {
+        "id": "fb21881c-7b71-42eb-af09-af61944b560b",
+        "word": "cut",
+        "phonetic": "kʌt ",
+        "type": "noun",
+        "defineEn": "a piece of meat cut from the body of an animal",
+        "defineVi": "một miếng thịt cắt từ cơ thể của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "cf36699a-1edf-42fa-a5d5-f39c74de64ee",
+        "word": "fillet",
+        "phonetic": "fɪleɪ ",
+        "type": "noun",
+        "defineEn": "a piece of boneless meat or fish cut from near the ribs of an animal",
+        "defineVi": "một miếng thịt hoặc cá không xương được cắt từ gần xương sườn của một con vật",
+        "hasImg": true
+    },
+    {
+        "id": "1114adfb-3447-4bc0-8b7f-4271831e4baa",
+        "word": "flesh",
+        "phonetic": "flɛʃ ",
+        "type": "noun",
+        "defineEn": "the soft part of the body of an animal, between the skin and bones",
+        "defineVi": "phần mềm của cơ thể động vật, giữa da và xương",
+        "hasImg": true
+    },
+    {
+        "id": "90ad8c6d-a607-4d2c-b673-e98846f5a91c",
+        "word": "gigot",
+        "phonetic": "dʒɪɡət ",
+        "type": "noun",
+        "defineEn": "the leg of a lamb or an adult sheep that is eaten as food",
+        "defineVi": "chân cừu hoặc cừu trưởng thành được dùng làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "2c9fbaed-71db-4f29-a1cb-5128353d92df",
+        "word": "joint",
+        "phonetic": "dʒɔɪnt ",
+        "type": "noun",
+        "defineEn": "a large piece of meat for roasting",
+        "defineVi": "một miếng thịt lớn để nướng",
+        "hasImg": true
+    },
+    {
+        "id": "5d395fa8-ca5c-4341-8c01-845b93d2fea6",
+        "word": "escalope",
+        "phonetic": "ɛskɐloʊp ",
+        "type": "noun",
+        "defineEn": "a thin, boneless slice of meat that is coated in breadcrumbs and fried",
+        "defineVi": "một lát thịt mỏng, không xương được bọc trong vụn bánh mì và chiên",
+        "hasImg": true
+    },
+    {
+        "id": "f7dac188-91ac-43fc-838c-5409b78237bd",
+        "word": "haunch",
+        "phonetic": "hɔːntʃ ",
+        "type": "noun",
+        "defineEn": "the hindquarter or leg of an animal, often referring to a cut of meat from that region",
+        "defineVi": "chân sau hoặc chân của một con vật, thường đề cập đến một miếng thịt từ khu vực đó"
+    },
+    {
+        "id": "8574e9c8-75ed-4b4b-979e-3858fd97e2d8",
+        "word": "hock",
+        "phonetic": "hɑːk ",
+        "type": "noun",
+        "defineEn": "the joint in the hind limb of a quadruped between the fetlock and the knee",
+        "defineVi": "khớp ở chi sau của động vật bốn chân giữa khóa và đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "582d575b-7f57-4743-a2da-726748991e53",
+        "word": "neck",
+        "phonetic": "nɛk ",
+        "type": "noun",
+        "defineEn": "a cut of meat derived from the neck region of an animal, typically used in stews, soups, and braised dishes",
+        "defineVi": "một miếng thịt có nguồn gốc từ vùng cổ của một con vật, thường được sử dụng trong các món hầm, súp và món om",
+        "hasImg": true
+    },
+    {
+        "id": "15bb2fa4-7b19-4d83-9d14-6c22a39f96f1",
+        "word": "rasher",
+        "phonetic": "ɹæʃɚ ",
+        "type": "noun",
+        "defineEn": "a thin piece of bacon",
+        "defineVi": "một miếng thịt xông khói mỏng",
+        "hasImg": true
+    },
+    {
+        "id": "e132b079-9ddc-40bd-ae75-5c7fb950879f",
+        "word": "rump steak",
+        "phonetic": "ɹʌmp steɪk ",
+        "type": "noun",
+        "defineEn": "a cut of beef taken from the hindquarters of the animal",
+        "defineVi": "một miếng thịt bò lấy từ chân sau của con vật",
+        "hasImg": true
+    },
+    {
+        "id": "4bbe5047-14aa-4ea6-9c16-a6537a077758",
+        "word": "t-bone steak",
+        "phonetic": "tiːboʊn steɪk ",
+        "type": "noun",
+        "defineEn": "a cut of beef from the loin region that contains a T-shaped bone, with tenderloin on one side and strip steak on the other",
+        "defineVi": "một miếng thịt bò từ vùng thăn có xương hình chữ T, với một bên là thịt thăn và một bên là dải bít tết",
+        "hasImg": true
+    },
+    {
+        "id": "79fbbbe0-cee4-4246-a6d8-5865e02e79ee",
+        "word": "thigh",
+        "phonetic": "θaɪ ",
+        "type": "noun",
+        "defineEn": "the upper part of an animal's leg, often used as a meaty portion for cooking and eating",
+        "defineVi": "phần trên của chân động vật, thường được sử dụng làm phần thịt để nấu và ăn",
+        "hasImg": true
+    },
+    {
+        "id": "7dcad4f2-22ab-4de0-9369-8d75430f0f48",
+        "word": "wishbone",
+        "phonetic": "wɪʃboʊn ",
+        "type": "noun",
+        "defineEn": "a Y-shaped bone between the neck and breast of a bird",
+        "defineVi": "một xương hình chữ Y giữa cổ và ngực của một con chim",
+        "hasImg": true
+    },
+    {
+        "id": "f2d751f2-5687-4df1-9b58-325998266853",
+        "word": "patty",
+        "phonetic": "pæɾi ",
+        "type": "noun",
+        "defineEn": "a small, flattened portion of ground meat or other ingredients, often used as a base for burgers or sandwiches",
+        "defineVi": "một phần nhỏ, dẹt của thịt xay hoặc các thành phần khác, thường được sử dụng làm cơ sở cho bánh mì kẹp thịt hoặc bánh mì",
+        "hasImg": true
+    },
+    {
+        "id": "73362647-cf7b-4f99-a142-e02bd9c5a265",
+        "word": "boneless",
+        "phonetic": "boʊnləs ",
+        "type": "adjective",
+        "defineEn": "describing something that does not contain bones",
+        "defineVi": "mô tả một cái gì đó không chứa xương"
+    },
+    {
+        "id": "6a6c6ae8-349b-4728-8da2-64f66464b48f",
+        "word": "bony",
+        "phonetic": "boʊni ",
+        "type": "adjective",
+        "defineEn": "describing something that contains many bones or has an abundance of bones",
+        "defineVi": "mô tả một cái gì đó có chứa nhiều xương hoặc có rất nhiều xương"
+    },
+    {
+        "id": "50e7ddf8-3963-4543-9b67-735049f8c3a6",
+        "word": "lean",
+        "phonetic": "liːn ",
+        "type": "adjective",
+        "defineEn": "describing meat that contains a small or no amount of fat",
+        "defineVi": "mô tả thịt có chứa một lượng nhỏ hoặc không có chất béo",
+        "hasImg": true
+    },
+    {
+        "id": "14e4124f-221d-469d-a67d-c526a80850e6",
+        "word": "skinless",
+        "phonetic": "skɪnləs ",
+        "type": "adjective",
+        "defineEn": "describing something that lacks or has had the skin removed",
+        "defineVi": "mô tả một cái gì đó thiếu hoặc đã bị loại bỏ da"
+    },
+    {
+        "id": "c0595104-7058-40b0-975f-feda94700f0f",
+        "word": "strip steak",
+        "phonetic": "stɹɪp steɪk ",
+        "type": "noun",
+        "defineEn": "a tender cut of beef taken from the short loin, characterized by its distinctive strip of fat",
+        "defineVi": "một miếng thịt bò mềm được lấy từ phần thăn ngắn, đặc trưng bởi dải mỡ đặc biệt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "69967790-6af2-40b9-a96f-b0e7e64ad8c9",
+        "word": "goujon",
+        "phonetic": "ɡaʊdʒɑːn ",
+        "type": "noun",
+        "defineEn": "small strips of fish or poultry that are typically breaded and deep-fried, similar to fish fingers or chicken tenders",
+        "defineVi": "những miếng cá hoặc thịt gia cầm nhỏ thường được tẩm bột và chiên giòn, tương tự như món chả cá hoặc thăn gà"
+    },
+    {
+        "id": "a6231596-2feb-4014-b647-fabd93148331",
+        "word": "lardon",
+        "phonetic": "lɑːɹdən ",
+        "type": "noun",
+        "defineEn": "small strips or cubes of bacon or salt pork that are typically used as a flavoring ingredient in French cuisine",
+        "defineVi": "dải nhỏ hoặc khối thịt xông khói hoặc thịt lợn muối thường được sử dụng như một thành phần hương vị trong ẩm thực Pháp"
+    },
+    {
+        "id": "63f7fd79-cdaf-4fb5-ad6e-6e752a7d5594",
+        "word": "roulade",
+        "phonetic": "ɹuːleɪd ",
+        "type": "noun",
+        "defineEn": "a rolled dish typically made by wrapping meat, fish, or vegetables around a filling and then cooking it",
+        "defineVi": "một món ăn cuộn thường được làm bằng cách gói thịt, cá hoặc rau xung quanh nhân và sau đó nấu nó"
+    }
+]

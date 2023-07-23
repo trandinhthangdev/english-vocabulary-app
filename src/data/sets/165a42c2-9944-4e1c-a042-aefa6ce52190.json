@@ -1,0 +1,487 @@
+[
+    {
+        "id": "3f635450-dc3b-43f2-8673-9bddcedd8bea",
+        "word": "artist",
+        "phonetic": "ɑːɹɾɪst ",
+        "type": "noun",
+        "defineEn": "someone who creates drawings, sculptures, paintings, etc. either as their job or hobby",
+        "defineVi": "ai đó tạo ra các bản vẽ, tác phẩm điêu khắc, tranh vẽ, v.v. như công việc hoặc sở thích của họ",
+        "hasImg": true
+    },
+    {
+        "id": "0dc7c7ef-5d5d-4389-9c15-3cdf2807ee5c",
+        "word": "photographer",
+        "phonetic": "fətɑːɡɹəfɚ ",
+        "type": "noun",
+        "defineEn": "someone whose hobby or job is taking photographs",
+        "defineVi": "ai đó có sở thích hoặc công việc là chụp ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "f96b5ea1-ab78-4e5c-9974-710af6601d58",
+        "word": "actor",
+        "phonetic": "æktɚ ",
+        "type": "noun",
+        "defineEn": "someone whose job involves performing in movies, plays, or series",
+        "defineVi": "ai đó có công việc liên quan đến việc biểu diễn trong phim, vở kịch hoặc sê-ri",
+        "hasImg": true
+    },
+    {
+        "id": "036bf976-0f1f-4dc8-81b5-9a56d0c0d925",
+        "word": "politician",
+        "phonetic": "pɑːlɪtɪʃən ",
+        "type": "noun",
+        "defineEn": "someone who works in the government or a law-making organization",
+        "defineVi": "một người làm việc trong chính phủ hoặc một tổ chức làm luật",
+        "hasImg": true
+    },
+    {
+        "id": "c42aa9d8-1e7a-426b-9729-7d77b1e74b4f",
+        "word": "builder",
+        "phonetic": "bɪldɚ ",
+        "type": "noun",
+        "defineEn": "someone who builds or repairs houses and buildings, often as a job",
+        "defineVi": "một người xây dựng hoặc sửa chữa nhà và các tòa nhà, thường là một công việc",
+        "hasImg": true
+    },
+    {
+        "id": "55e11913-3758-466e-8a38-e06826d7bfbd",
+        "word": "accountant",
+        "phonetic": "ɐkaʊntənt ",
+        "type": "noun",
+        "defineEn": "someone whose job is to keep or check financial accounts",
+        "defineVi": "ai đó có công việc là để giữ hoặc kiểm tra tài khoản tài chính",
+        "hasImg": true
+    },
+    {
+        "id": "bfca89e0-6cd7-4647-8f79-38446e879068",
+        "word": "economist",
+        "phonetic": "ɪkɑːnəmɪst ",
+        "type": "noun",
+        "defineEn": "someone who is an expert in economics",
+        "defineVi": "một người là một chuyên gia về kinh tế",
+        "hasImg": true
+    },
+    {
+        "id": "76c39294-9cf3-42d1-a5ee-639aef86e423",
+        "word": "musician",
+        "phonetic": "mjuːzɪʃən ",
+        "type": "noun",
+        "defineEn": "someone who plays a musical instrument or writes music, especially as a profession",
+        "defineVi": "một người chơi nhạc cụ hoặc viết nhạc, đặc biệt là một nghề",
+        "hasImg": true
+    },
+    {
+        "id": "28da198a-3987-41e2-b3d4-6cbdf9b21691",
+        "word": "interpreter",
+        "phonetic": "ɪntɜːpɹɪɾɚ ",
+        "type": "noun",
+        "defineEn": "someone who verbally changes the words of a language into another",
+        "defineVi": "ai đó bằng lời nói thay đổi các từ của một ngôn ngữ sang một ngôn ngữ khác",
+        "hasImg": true
+    },
+    {
+        "id": "eb90aeed-b401-43b0-b597-9a366b016898",
+        "word": "translator",
+        "phonetic": "tɹænsleɪɾɚ ",
+        "type": "noun",
+        "defineEn": "someone whose job is to change written or spoken words from one language to another",
+        "defineVi": "một người có công việc là thay đổi các từ viết hoặc nói từ ngôn ngữ này sang ngôn ngữ khác",
+        "hasImg": true
+    },
+    {
+        "id": "d6c2a23a-352d-4667-84c0-d49e1292d926",
+        "word": "inventor",
+        "phonetic": "ɪnvɛntɚ ",
+        "type": "noun",
+        "defineEn": "someone who makes or designs something that did not exist before",
+        "defineVi": "một người làm hoặc thiết kế một cái gì đó không tồn tại trước đây",
+        "hasImg": true
+    },
+    {
+        "id": "033c303a-fe3a-4c8a-af35-f1765372d241",
+        "word": "electrician",
+        "phonetic": "ᵻlɛktɹɪʃən ",
+        "type": "noun",
+        "defineEn": "someone who deals with electrical equipment, such as repairing or installing them",
+        "defineVi": "một người liên quan đến thiết bị điện, chẳng hạn như sửa chữa hoặc cài đặt chúng",
+        "hasImg": true
+    },
+    {
+        "id": "871fc5e2-b2e2-47d9-9124-71005ba79256",
+        "word": "farmer",
+        "phonetic": "fɑːɹmɚ ",
+        "type": "noun",
+        "defineEn": "someone who has a farm or manages a farm",
+        "defineVi": "một người có một trang trại hoặc quản lý một trang trại",
+        "hasImg": true
+    },
+    {
+        "id": "66536c27-84ba-42b4-8349-bda4630f2442",
+        "word": "assistant",
+        "phonetic": "ɐsɪstənt ",
+        "type": "noun",
+        "defineEn": "a person who helps someone in their work",
+        "defineVi": "một người giúp ai đó trong công việc của họ",
+        "hasImg": true
+    },
+    {
+        "id": "462b3db1-ec59-47bf-b0b8-1851bee1cc3d",
+        "word": "receptionist",
+        "phonetic": "ɹᵻsɛpʃənɪst ",
+        "type": "noun",
+        "defineEn": "a person who greets and deals with people arriving at or calling a hotel, office building, doctor's office, etc.",
+        "defineVi": "một người chào đón và giao dịch với những người đến hoặc gọi đến khách sạn, tòa nhà văn phòng, văn phòng bác sĩ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "3493174e-c3ae-45e8-a6db-5f886ce0f8e7",
+        "word": "reservation",
+        "phonetic": "ɹɛzɚveɪʃən ",
+        "type": "noun",
+        "defineEn": "a protected area of land where wild animals can live without being hunted or disturbed by human activities",
+        "defineVi": "một vùng đất được bảo vệ nơi động vật hoang dã có thể sinh sống mà không bị săn bắt hoặc quấy rầy bởi các hoạt động của con người",
+        "hasImg": true
+    },
+    {
+        "id": "301255d1-1473-4b03-a09a-d1381eeb5f15",
+        "word": "to reserve",
+        "phonetic": "tə ɹɪzɜːv ",
+        "type": "verb",
+        "defineEn": "to set something aside and keep it for future use",
+        "defineVi": "để đặt một cái gì đó sang một bên và giữ nó để sử dụng trong tương lai"
+    },
+    {
+        "id": "cec66965-a5e6-4ab1-a2e9-91ba9123629d",
+        "word": "fame",
+        "phonetic": "feɪm ",
+        "type": "noun",
+        "defineEn": "a state of being widely known or recognized, usually because of notable achievements, talents, or actions",
+        "defineVi": "trạng thái được biết đến hoặc công nhận rộng rãi, thường là do những thành tích, tài năng hoặc hành động đáng chú ý",
+        "hasImg": true
+    },
+    {
+        "id": "799e5854-6793-4698-be3d-d3593fc301b5",
+        "word": "famous",
+        "phonetic": "feɪməs ",
+        "type": "adjective",
+        "defineEn": "known by a lot of people",
+        "defineVi": "được nhiều người biết đến",
+        "hasImg": true
+    },
+    {
+        "id": "c961c46a-3497-4053-8caa-7b8e1d61226a",
+        "word": "explanation",
+        "phonetic": "ɛksplɐneɪʃən ",
+        "type": "noun",
+        "defineEn": "information or details that are given to make something clear or easier to understand",
+        "defineVi": "thông tin hoặc chi tiết được đưa ra để làm cho một cái gì đó rõ ràng hoặc dễ hiểu hơn"
+    },
+    {
+        "id": "44b9a14c-5871-4d98-83d7-9abddaffb9f9",
+        "word": "to explain",
+        "phonetic": "tʊ ɛkspleɪn ",
+        "type": "verb",
+        "defineEn": "to make something clear and easy to understand by giving more information about it",
+        "defineVi": "để làm cho một cái gì đó rõ ràng và dễ hiểu bằng cách cung cấp thêm thông tin về nó",
+        "hasImg": true
+    },
+    {
+        "id": "500d4d6c-9112-4f16-8a43-88343fe0a5b2",
+        "word": "difference",
+        "phonetic": "dɪfɹəns ",
+        "type": "noun",
+        "defineEn": "the way that two or more people or things are different from each other",
+        "defineVi": "cách mà hai hoặc nhiều người hoặc vật khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "a4ca94d6-3f6b-45e8-94c0-76f48327c0ec",
+        "word": "different",
+        "phonetic": "dɪfɹənt ",
+        "type": "adjective",
+        "defineEn": "not like another thing or person in form, quality, nature, etc.",
+        "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "9f82b890-c683-4c86-9088-2f9f11214f26",
+        "word": "invitation",
+        "phonetic": "ɪnvɪteɪʃən ",
+        "type": "noun",
+        "defineEn": "a written or spoken request to someone, asking them to attend a party or event",
+        "defineVi": "một yêu cầu bằng văn bản hoặc nói cho ai đó, yêu cầu họ tham dự một bữa tiệc hoặc sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "e96f63fa-b402-4e41-badc-b79224157cf4",
+        "word": "to invite",
+        "phonetic": "tʊ ɪnvaɪt ",
+        "type": "verb",
+        "defineEn": "to make a formal or friendly request to someone to be present somewhere or to participate in something",
+        "defineVi": "để đưa ra một yêu cầu chính thức hoặc thân thiện với ai đó để có mặt ở đâu đó hoặc tham gia vào một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "f16b0f2d-c102-4f07-a4bd-2ebea7eaee12",
+        "word": "danger",
+        "phonetic": "deɪndʒɚ ",
+        "type": "noun",
+        "defineEn": "the likelihood of experiencing harm, damage, or injury",
+        "defineVi": "khả năng bị tổn hại, thiệt hại hoặc thương tích",
+        "hasImg": true
+    },
+    {
+        "id": "c9c6914c-6b2a-4996-bfd2-ac948c51087b",
+        "word": "dangerous",
+        "phonetic": "deɪndʒɚɹəs ",
+        "type": "adjective",
+        "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+        "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+        "hasImg": true
+    },
+    {
+        "id": "e9efd5d1-118a-4b0e-9ebc-fd3434b63692",
+        "word": "decision",
+        "phonetic": "dᵻsɪʒən ",
+        "type": "noun",
+        "defineEn": "a choice or judgment that is made after adequate consideration or thought",
+        "defineVi": "một sự lựa chọn hoặc phán đoán được thực hiện sau khi xem xét đầy đủ hoặc suy nghĩ",
+        "hasImg": true
+    },
+    {
+        "id": "b62a4daa-f2a6-41fa-93cf-c1d691d83430",
+        "word": "to decide",
+        "phonetic": "tə dᵻsaɪd ",
+        "type": "verb",
+        "defineEn": "to think carefully about different things and choose one of them",
+        "defineVi": "suy nghĩ cẩn thận về những điều khác nhau và chọn một trong số họ",
+        "hasImg": true
+    },
+    {
+        "id": "7950edf9-2a63-4a32-ac7d-97e21c9d4313",
+        "word": "success",
+        "phonetic": "səksɛs ",
+        "type": "noun",
+        "defineEn": "the fact of reaching or achieving what one tried for or desired",
+        "defineVi": "thực tế đạt được hoặc đạt được những gì một người đã cố gắng hoặc mong muốn",
+        "hasImg": true
+    },
+    {
+        "id": "de7f038f-1933-45de-8961-21363c5ca756",
+        "word": "successful",
+        "phonetic": "səksɛsfəl ",
+        "type": "adjective",
+        "defineEn": "getting the results wanted or hoped",
+        "defineVi": "nhận được kết quả mong muốn hoặc hy vọng",
+        "hasImg": true
+    },
+    {
+        "id": "a190e304-0a0c-4f9a-ac6d-66f11d53ee14",
+        "word": "student",
+        "phonetic": "stuːdənt ",
+        "type": "noun",
+        "defineEn": "a person who is studying at a school, university, or college",
+        "defineVi": "một người đang học tại một trường học, trường đại học, hoặc cao đẳng",
+        "hasImg": true
+    },
+    {
+        "id": "037b7fce-b01b-4cf3-9a21-10b5e4d76415",
+        "word": "study",
+        "phonetic": "stʌdi ",
+        "type": "noun",
+        "defineEn": "a detailed and careful consideration and examination",
+        "defineVi": "xem xét và kiểm tra chi tiết và cẩn thận",
+        "hasImg": true
+    },
+    {
+        "id": "ec3dfef1-52e6-473a-9ea3-e251719bddc3",
+        "word": "collection",
+        "phonetic": "kəlɛkʃən ",
+        "type": "noun",
+        "defineEn": "a group of particular objects put together and considered as a whole",
+        "defineVi": "một nhóm các đối tượng cụ thể đặt lại với nhau và được coi là một tổng thể",
+        "hasImg": true
+    },
+    {
+        "id": "9b570a14-8e6d-483b-823c-aeb2a43909c6",
+        "word": "to collect",
+        "phonetic": "tə kəlɛkt ",
+        "type": "verb",
+        "defineEn": "to gather or bring together things from different places or people",
+        "defineVi": "để thu thập hoặc tập hợp những thứ từ những nơi khác nhau hoặc những người",
+        "hasImg": true
+    },
+    {
+        "id": "68fe6060-720f-49c6-9c34-8592a5db1510",
+        "word": "kindness",
+        "phonetic": "kaɪndnəs ",
+        "type": "noun",
+        "defineEn": "an action that is caring, kind, or helpful",
+        "defineVi": "một hành động quan tâm, tử tế, hoặc hữu ích",
+        "hasImg": true
+    },
+    {
+        "id": "57713a96-e6cf-42fa-b739-f76dac591d1c",
+        "word": "kind",
+        "phonetic": "kaɪnd ",
+        "type": "adjective",
+        "defineEn": "friendly and nice to others; caring about other people's feelings",
+        "defineVi": "thân thiện và dễ mến với người khác; quan tâm đến cảm xúc của người khác",
+        "hasImg": true
+    },
+    {
+        "id": "56e2b979-7c52-4e93-b5d8-0d6073a0de23",
+        "word": "argument",
+        "phonetic": "ɑːɹɡjuːmənt ",
+        "type": "noun",
+        "defineEn": "a discussion, typically a serious one, between two or more people with different views",
+        "defineVi": "một cuộc thảo luận, điển hình là một cuộc thảo luận nghiêm túc, giữa hai hoặc nhiều người có quan điểm khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "22934991-1ade-4ecc-83e9-3218b94a0354",
+        "word": "to argue",
+        "phonetic": "tʊ ɑːɹɡjuː ",
+        "type": "verb",
+        "defineEn": "to speak to someone often angrily because one disagrees with them",
+        "defineVi": "nói chuyện với ai đó thường giận dữ vì một người không đồng ý với họ",
+        "hasImg": true
+    },
+    {
+        "id": "218980dd-513c-4d8f-a5dc-7fa396c6275e",
+        "word": "to execute",
+        "phonetic": "tʊ ɛksᵻkjuːt ",
+        "type": "verb",
+        "defineEn": "to kill someone, especially as a legal penalty",
+        "defineVi": "để giết một ai đó, đặc biệt là một hình phạt pháp lý"
+    },
+    {
+        "id": "43aeebd6-7940-4f16-af1d-215869f85802",
+        "word": "to announce",
+        "phonetic": "tʊ ɐnaʊns ",
+        "type": "verb",
+        "defineEn": "to make plans or decisions known by officially telling people about them",
+        "defineVi": "để thực hiện các kế hoạch hoặc quyết định được biết đến bằng cách chính thức nói với mọi người về họ",
+        "hasImg": true
+    },
+    {
+        "id": "1df19c5e-82ee-4cf3-8e32-7834f7a9c85a",
+        "word": "to avoid",
+        "phonetic": "tʊ ɐvɔɪd ",
+        "type": "verb",
+        "defineEn": "to try to stay away from someone or something; to stop doing something",
+        "defineVi": "cố gắng tránh xa ai đó hoặc cái gì đó; dừng lại làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "012ad362-f2d6-4897-b5fa-c810750336ee",
+        "word": "to invade",
+        "phonetic": "tʊ ɪnveɪd ",
+        "type": "verb",
+        "defineEn": "to enter a territory using armed forces in order to occupy or take control of it",
+        "defineVi": "để vào một lãnh thổ sử dụng lực lượng vũ trang để chiếm hoặc kiểm soát nó"
+    },
+    {
+        "id": "f7880126-1bd9-4b14-824c-db2077f68c8d",
+        "word": "tax",
+        "phonetic": "tæks ",
+        "type": "noun",
+        "defineEn": "a sum of money that has to be paid, based on one’s income, to the government so it can provide people with different kinds of public services",
+        "defineVi": "một khoản tiền phải trả, dựa trên thu nhập của một người, cho chính phủ để chính phủ có thể cung cấp cho mọi người các loại dịch vụ công cộng khác nhau"
+    },
+    {
+        "id": "f1f25434-2271-4c38-a2ae-0b6046794146",
+        "word": "reminder",
+        "phonetic": "ɹᵻmaɪndɚ ",
+        "type": "noun",
+        "defineEn": "an experience that causes you to remember something",
+        "defineVi": "một kinh nghiệm khiến bạn nhớ một cái gì đó"
+    },
+    {
+        "id": "e5229733-4d2b-4523-8981-abdc5b02dbe7",
+        "word": "to rule",
+        "phonetic": "tə ɹuːl ",
+        "type": "verb",
+        "defineEn": "to control and be in charge of a country",
+        "defineVi": "kiểm soát và chịu trách nhiệm về một quốc gia"
+    },
+    {
+        "id": "68e21ff7-37c1-472f-a520-7ce7a9ccc4c9",
+        "word": "to mince",
+        "phonetic": "tə mɪns ",
+        "type": "verb",
+        "defineEn": "to cut meat or other food into very small pieces, usually using a meat grinder",
+        "defineVi": "để cắt thịt hoặc thực phẩm khác thành miếng rất nhỏ, thường sử dụng một máy xay thịt",
+        "hasImg": true
+    },
+    {
+        "id": "16b4feaa-a124-4f4b-a4a5-51fb70939c3f",
+        "word": "sewage",
+        "phonetic": "suːɪdʒ ",
+        "type": "noun",
+        "defineEn": "the wastewater or used water that contains various types of contaminants, including human and household waste, from residential, commercial, or industrial sources",
+        "defineVi": "nước thải hoặc nước đã sử dụng có chứa nhiều loại chất gây ô nhiễm khác nhau, bao gồm cả chất thải của con người và hộ gia đình, từ các nguồn dân cư, thương mại hoặc công nghiệp"
+    },
+    {
+        "id": "c1ea354c-25b8-4840-8778-57cbca70bd63",
+        "word": "possibility",
+        "phonetic": "pɑːsəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality of having the capacity to improve, succeed, or develop into something in the future",
+        "defineVi": "chất lượng có khả năng cải thiện, thành công hoặc phát triển thành một cái gì đó trong tương lai"
+    },
+    {
+        "id": "29c6b327-1400-4422-b647-97f6a99a0717",
+        "word": "to capture",
+        "phonetic": "tə kæptʃɚ ",
+        "type": "verb",
+        "defineEn": "to catch an animal or a person and keep them as a prisoner",
+        "defineVi": "để bắt một con vật hoặc một người và giữ chúng như một tù nhân",
+        "hasImg": true
+    },
+    {
+        "id": "48a22f50-ed4b-4b79-a07a-3d296e09f04a",
+        "word": "possible",
+        "phonetic": "pɑːsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "able to exist, happen, or be done",
+        "defineVi": "có thể tồn tại, xảy ra, hoặc được thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "7a4bc667-a2c1-48b2-a08f-b9c42777521f",
+        "word": "discussion",
+        "phonetic": "dɪskʌʃən ",
+        "type": "noun",
+        "defineEn": "a conversation with someone about a serious subject",
+        "defineVi": "một cuộc trò chuyện với ai đó về một chủ đề nghiêm túc",
+        "hasImg": true
+    },
+    {
+        "id": "adadb76b-7b28-405c-a04c-587bfa3391b3",
+        "word": "to discuss",
+        "phonetic": "tə dɪskʌs ",
+        "type": "verb",
+        "defineEn": "to talk or have a discussion about something with someone",
+        "defineVi": "để nói chuyện hoặc có một cuộc thảo luận về một cái gì đó với một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "5253ed6a-817f-4cf7-84c2-72818b0eb913",
+        "word": "health",
+        "phonetic": "hɛlθ ",
+        "type": "noun",
+        "defineEn": "the general condition of a person's mind or body",
+        "defineVi": "tình trạng chung của tâm trí hoặc cơ thể của một người"
+    },
+    {
+        "id": "e7dcbbb4-113a-486a-a437-c308975a91ac",
+        "word": "healthy",
+        "phonetic": "hɛlθi ",
+        "type": "adjective",
+        "defineEn": "not having physical or mental problems",
+        "defineVi": "không có vấn đề về thể chất hoặc tinh thần",
+        "hasImg": true
+    }
+]

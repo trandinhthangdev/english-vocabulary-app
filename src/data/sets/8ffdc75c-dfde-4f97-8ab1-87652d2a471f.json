@@ -1,0 +1,287 @@
+[
+    {
+        "id": "24feb68e-aa9a-464f-a652-42627d8f4fc7",
+        "word": "bar chart",
+        "phonetic": "bɑːɹ tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a graphical display of information consisting of narrow rectangular lines whose heights depend on the value that they are representing",
+        "defineVi": "một màn hình đồ họa thông tin bao gồm các đường hình chữ nhật hẹp có chiều cao phụ thuộc vào giá trị mà chúng đại diện",
+        "hasImg": true
+    },
+    {
+        "id": "797cbd67-1456-4f57-b3d5-407f831c23d0",
+        "word": "bar graph",
+        "phonetic": "bɑːɹ ɡɹæf ",
+        "type": "noun",
+        "defineEn": "a diagram in which the quantities of variables are represented by the heights of the columns to make the comparison easier or doable",
+        "defineVi": "một sơ đồ trong đó số lượng của các biến được biểu thị bằng chiều cao của các cột để giúp so sánh dễ dàng hơn hoặc có thể thực hiện được",
+        "hasImg": true
+    },
+    {
+        "id": "457a453a-d9f2-4175-a831-859f8a4dc5b6",
+        "word": "diagram",
+        "phonetic": "daɪəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a graphic design intended to explain something",
+        "defineVi": "một thiết kế đồ họa nhằm giải thích một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "6a32c704-2698-48dc-a50f-22b7883eb839",
+        "word": "flow chart",
+        "phonetic": "floʊ tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a graphic representation of the step-by-step sequence of functions in a computer program",
+        "defineVi": "một biểu diễn đồ họa của chuỗi các chức năng từng bước trong một chương trình máy tính"
+    },
+    {
+        "id": "1f3f2035-6884-4441-8c20-53e7009ca6a4",
+        "word": "flow diagram",
+        "phonetic": "floʊ daɪəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a diagram representing the dynamic relationships and processes in a system",
+        "defineVi": "một sơ đồ biểu thị các mối quan hệ và quy trình động trong một hệ thống"
+    },
+    {
+        "id": "ea37e79f-4069-45e5-a356-32a150aebe85",
+        "word": "pie chart",
+        "phonetic": "paɪ tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a graphical display of the difference between the parts of a whole shown by dividing a circle into several segments",
+        "defineVi": "một màn hình đồ họa về sự khác biệt giữa các phần của một tổng thể được hiển thị bằng cách chia một vòng tròn thành nhiều phân đoạn",
+        "hasImg": true
+    },
+    {
+        "id": "8e61bbeb-b298-4b3e-92ab-41fc9960466a",
+        "word": "table",
+        "phonetic": "teɪbəl ",
+        "type": "noun",
+        "defineEn": "a set of facts and figures arranged in rows and columns in a systematic order",
+        "defineVi": "một tập hợp các sự kiện và số liệu được sắp xếp theo hàng và cột theo thứ tự có hệ thống"
+    },
+    {
+        "id": "a32a3c21-7f3c-4b73-87fd-7051b36ad137",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "(geometry) an arbitrary straight line that passes through the center of a symmetrical object or around which an object spins",
+        "defineVi": "(hình học) đường thẳng tùy ý đi qua tâm của một vật đối xứng hoặc xung quanh vật quay",
+        "hasImg": true
+    },
+    {
+        "id": "d57de255-297d-4028-8383-3aea0ef29770",
+        "word": "horizontal",
+        "phonetic": "hɔːɹɪzɔntəl ",
+        "type": "adjective",
+        "defineEn": "going across and parallel to the ground and not up or down",
+        "defineVi": "đi ngang và song song với mặt đất và không lên hoặc xuống",
+        "hasImg": true
+    },
+    {
+        "id": "26bdbcd8-8ae5-4472-8b36-384b8933e748",
+        "word": "vertical",
+        "phonetic": "vɜːɾɪkəl ",
+        "type": "adjective",
+        "defineEn": "going straight up and down from a level surface or line; at an angle of 90 degrees with a flat surface",
+        "defineVi": "đi thẳng lên và xuống từ một bề mặt hoặc đường thẳng; một góc 90 độ với mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "70b2f949-fc1e-4fc5-bea1-468441762025",
+        "word": "column",
+        "phonetic": "kɑːlʌm ",
+        "type": "noun",
+        "defineEn": "an arrangement of a set of figures or information in a vertical way",
+        "defineVi": "sự sắp xếp của một tập hợp các số liệu hoặc thông tin theo chiều dọc"
+    },
+    {
+        "id": "c224be22-57ec-414d-b826-0125685d040a",
+        "word": "row",
+        "phonetic": "ɹoʊ ",
+        "type": "noun",
+        "defineEn": "a group of people or objects placed in a line",
+        "defineVi": "một nhóm người hoặc đối tượng được đặt trong một dòng",
+        "hasImg": true
+    },
+    {
+        "id": "3ec18657-6d0b-4618-a705-21be7f6cf56c",
+        "word": "key",
+        "phonetic": "kiː ",
+        "type": "noun",
+        "defineEn": "a list of symbols that accompanies a table, map, etc. as a reference for further explanation",
+        "defineVi": "một danh sách các biểu tượng đi kèm với bảng, bản đồ, v.v. để tham khảo để giải thích thêm"
+    },
+    {
+        "id": "ab4b6c73-0094-4453-858a-7cd0cd8bf1e3",
+        "word": "segment",
+        "phonetic": "sɛɡmənt ",
+        "type": "noun",
+        "defineEn": "any of the separate parts into which a whole may be divided",
+        "defineVi": "bất kỳ phần riêng biệt nào mà toàn bộ có thể được chia thành"
+    },
+    {
+        "id": "4c95cfa8-f17c-4780-a9a5-48a91637dd2d",
+        "word": "step",
+        "phonetic": "stɛp ",
+        "type": "noun",
+        "defineEn": "a stage in a process or a grade in a scale",
+        "defineVi": "một giai đoạn trong một quá trình hoặc một lớp trong một quy mô"
+    },
+    {
+        "id": "ae0d3dc1-aa90-48c3-bcf1-900df7038491",
+        "word": "to depict",
+        "phonetic": "tə dᵻpɪkt ",
+        "type": "verb",
+        "defineEn": "to represent or show something or someone by a work of art",
+        "defineVi": "để đại diện hoặc hiển thị một cái gì đó hoặc ai đó bằng một tác phẩm nghệ thuật"
+    },
+    {
+        "id": "f6996ef9-ecf1-41ac-9165-57032a7a3946",
+        "word": "to represent",
+        "phonetic": "tə ɹɛpɹᵻzɛnt ",
+        "type": "verb",
+        "defineEn": "to be an image, sign, or symbol of something",
+        "defineVi": "là một hình ảnh, dấu hiệu, hoặc biểu tượng của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "0c66ba39-8715-40cc-8012-061efde39890",
+        "word": "chart",
+        "phonetic": "tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "an information sheet in the form of a graph, diagram or table that is easy to understand",
+        "defineVi": "một bảng thông tin dưới dạng biểu đồ, sơ đồ hoặc bảng dễ hiểu"
+    },
+    {
+        "id": "eed47e6a-6da9-40de-95ef-31bc83de05a0",
+        "word": "coordinate",
+        "phonetic": "koʊɔːɹdᵻnət ",
+        "type": "noun",
+        "defineEn": "any set of numbers that represent an exact position on a map or graph",
+        "defineVi": "bất kỳ bộ số nào đại diện cho một vị trí chính xác trên bản đồ hoặc đồ thị"
+    },
+    {
+        "id": "4879ccbc-4323-4d73-9e6f-58747ec557aa",
+        "word": "cross section",
+        "phonetic": "kɹɔs sɛkʃən ",
+        "type": "noun",
+        "defineEn": "a piece of something cut off from the middle at a right angle to an axis so that the layers could be seen",
+        "defineVi": "một mảnh của một cái gì đó bị cắt từ giữa theo một góc vuông với một trục để có thể nhìn thấy các lớp"
+    },
+    {
+        "id": "797b62e7-01ef-4f4a-9019-28350fc915f7",
+        "word": "curve",
+        "phonetic": "kɜːv ",
+        "type": "noun",
+        "defineEn": "a line representing a variable in a graph",
+        "defineVi": "một dòng đại diện cho một biến trong một đồ thị"
+    },
+    {
+        "id": "15a9f195-69ba-47cc-8cb6-6f71b61afc74",
+        "word": "design",
+        "phonetic": "dɪzaɪn ",
+        "type": "noun",
+        "defineEn": "the act or process of drawing or making an outline or sketch in order to show how something works or how it is built",
+        "defineVi": "hành động hoặc quá trình vẽ hoặc phác thảo hoặc phác thảo để chỉ ra cách một thứ hoạt động hoặc cách nó được xây dựng",
+        "hasImg": true
+    },
+    {
+        "id": "3dcf921b-a7a2-408a-92dc-d46e31845572",
+        "word": "flip chart",
+        "phonetic": "flɪp tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a chart with large sheets of paper that are joined on top and can be used for representations by turning each page",
+        "defineVi": "một biểu đồ với các tờ giấy lớn được nối ở trên cùng và có thể được sử dụng để trình bày bằng cách lật từng trang"
+    },
+    {
+        "id": "f2317816-c9f0-43e9-8cf0-91ea57237e78",
+        "word": "graph",
+        "phonetic": "ɡɹæf ",
+        "type": "noun",
+        "defineEn": "a graphical display of the relationship between two or more numbers using a line or lines",
+        "defineVi": "hiển thị đồ họa về mối quan hệ giữa hai hoặc nhiều số bằng cách sử dụng một hoặc nhiều dòng",
+        "hasImg": true
+    },
+    {
+        "id": "4c97a259-db46-4d79-a806-85670bd760b5",
+        "word": "graphical",
+        "phonetic": "ɡɹæfɪkəl ",
+        "type": "adjective",
+        "defineEn": "formed like or relating to a graph",
+        "defineVi": "hình thành giống như hoặc liên quan đến một đồ thị"
+    },
+    {
+        "id": "bb8fb2b1-7ef8-4000-8cbc-4f5c4a12e24d",
+        "word": "histogram",
+        "phonetic": "hɪstəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a diagram consisting of bars with different heights that represent the amount of a variable",
+        "defineVi": "một sơ đồ bao gồm các thanh có độ cao khác nhau biểu thị lượng của một biến"
+    },
+    {
+        "id": "8de5b139-80b3-4c11-a5b7-4c9861bc818e",
+        "word": "spreadsheet",
+        "phonetic": "spɹɛdʃiːt ",
+        "type": "noun",
+        "defineEn": "a computer program used for calculating data, especially financial data",
+        "defineVi": "một chương trình máy tính được sử dụng để tính toán dữ liệu, đặc biệt là dữ liệu tài chính",
+        "hasImg": true
+    },
+    {
+        "id": "66b25c1a-9397-4c54-b7da-de74717df89f",
+        "word": "tree diagram",
+        "phonetic": "tɹiː daɪəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a graph that shows connections, relationships or processes with a branched structure",
+        "defineVi": "một biểu đồ hiển thị các kết nối, mối quan hệ hoặc quy trình có cấu trúc phân nhánh"
+    },
+    {
+        "id": "8b59cbd9-fac4-407c-9c91-e5ae91fff660",
+        "word": "tabular",
+        "phonetic": "tæbjʊlɚ ",
+        "type": "adjective",
+        "defineEn": "(of data) arranged or presented in rows and columns that form a table",
+        "defineVi": "(dữ liệu) được sắp xếp hoặc trình bày theo hàng và cột tạo thành một bảng"
+    },
+    {
+        "id": "cc4f2907-9a0f-44fa-a5a3-7e3378227281",
+        "word": "venn diagram",
+        "phonetic": "vɛn daɪəɡɹæm ",
+        "type": "noun",
+        "defineEn": "a diagram consisting of circles that represent mathematical or logical sets showing shared features in overlapping areas",
+        "defineVi": "một sơ đồ bao gồm các vòng tròn biểu thị các tập hợp toán học hoặc logic hiển thị các tính năng được chia sẻ trong các khu vực chồng chéo"
+    },
+    {
+        "id": "a6f87c4a-1b89-42f6-94c3-18bd8ef2f8f6",
+        "word": "block graph",
+        "phonetic": "blɑːk ɡɹæf ",
+        "type": "noun",
+        "defineEn": "a simple diagram in which units of data are represented by blocks",
+        "defineVi": "một sơ đồ đơn giản trong đó các đơn vị dữ liệu được biểu diễn bằng các khối"
+    },
+    {
+        "id": "175d0115-04c9-466e-b42e-83d3dd905036",
+        "word": "Gantt chart",
+        "phonetic": "ɡænt tʃɑːɹt ",
+        "type": "noun",
+        "defineEn": "a chart that represents a project schedule using horizontal lines",
+        "defineVi": "một biểu đồ thể hiện lịch trình dự án bằng các đường ngang"
+    },
+    {
+        "id": "7e7b7802-be97-49af-b654-cf652508ecd0",
+        "word": "line graph",
+        "phonetic": "laɪn ɡɹæf ",
+        "type": "noun",
+        "defineEn": "a graphical display of the relationship between two points connected to each other by lines",
+        "defineVi": "một màn hình đồ họa về mối quan hệ giữa hai điểm được kết nối với nhau bằng các đường",
+        "hasImg": true
+    },
+    {
+        "id": "c013f954-041f-48cb-b42d-15f728cc1fd1",
+        "word": "pictograph",
+        "phonetic": "pɪktəɡɹæf ",
+        "type": "noun",
+        "defineEn": "a diagram that displays information or statistics using pictures",
+        "defineVi": "một sơ đồ hiển thị thông tin hoặc số liệu thống kê bằng hình ảnh"
+    }
+]

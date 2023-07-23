@@ -1,0 +1,286 @@
+[
+    {
+        "id": "fba244c0-6cd8-48dc-8229-171943b7d966",
+        "word": "ashore",
+        "phonetic": "ɐʃoːɹ ",
+        "type": "adverb",
+        "defineEn": "toward the land from the direction of a ship or the sea",
+        "defineVi": "về phía đất liền từ hướng của một con tàu hoặc biển"
+    },
+    {
+        "id": "00716467-742a-4b85-8e18-b5d7c257430f",
+        "word": "Antarctic",
+        "phonetic": "æntɑːɹktɪk ",
+        "type": "noun",
+        "defineEn": "the extremely cold region surrounding the South Pole",
+        "defineVi": "vùng cực lạnh bao quanh Nam Cực",
+        "hasImg": true
+    },
+    {
+        "id": "a025dfc9-3e43-4222-ac8a-613ddc09baa0",
+        "word": "Arctic",
+        "phonetic": "ɑːɹktɪk ",
+        "type": "noun",
+        "defineEn": "the frozen regions surrounding the North Pole",
+        "defineVi": "các khu vực đóng băng xung quanh Bắc Cực",
+        "hasImg": true
+    },
+    {
+        "id": "3e4e6f2a-4d7d-445b-be80-40ab2850c4bc",
+        "word": "bank",
+        "phonetic": "bæŋk ",
+        "type": "noun",
+        "defineEn": "land along the sides of a river, canal, etc.",
+        "defineVi": "đất ven sông, rạch, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "4826a458-59fc-4c80-a8a0-cc1ace891cb8",
+        "word": "bend",
+        "phonetic": "bɛnd ",
+        "type": "noun",
+        "defineEn": "a curve in a road, river, etc.",
+        "defineVi": "một khúc cua trong một con đường, dòng sông, vv",
+        "hasImg": true
+    },
+    {
+        "id": "b753e2f5-995f-4ec4-8fdf-910721573601",
+        "word": "coastline",
+        "phonetic": "koʊstlaɪn ",
+        "type": "noun",
+        "defineEn": "the land that is along a coast, particularly as seen on a map or from above",
+        "defineVi": "vùng đất dọc theo bờ biển, đặc biệt như được thấy trên bản đồ hoặc từ trên cao",
+        "hasImg": true
+    },
+    {
+        "id": "b7d67ffe-7445-4057-aca6-66fcbdc47f87",
+        "word": "eastern",
+        "phonetic": "iːstɚn ",
+        "type": "adjective",
+        "defineEn": "being directed toward or situated in the east",
+        "defineVi": "được hướng về phía hoặc nằm ở phía đông",
+        "hasImg": true
+    },
+    {
+        "id": "01324e26-d801-4de4-ae1e-6855c0f77183",
+        "word": "western",
+        "phonetic": "wɛstɚn ",
+        "type": "adjective",
+        "defineEn": "directed toward or located in the west",
+        "defineVi": "hướng về phía hoặc nằm ở phía tây",
+        "hasImg": true
+    },
+    {
+        "id": "9fb39018-d8b1-4d9d-bf01-983dff6595b9",
+        "word": "northern",
+        "phonetic": "nɔːɹðɚn ",
+        "type": "adjective",
+        "defineEn": "being directed toward or situated in the north",
+        "defineVi": "được hướng về phía hoặc nằm ở phía bắc",
+        "hasImg": true
+    },
+    {
+        "id": "c85892bf-359a-4344-8b55-8de8d618986c",
+        "word": "southern",
+        "phonetic": "sʌðɚn ",
+        "type": "adjective",
+        "defineEn": "directed toward or situated in the south",
+        "defineVi": "hướng về phía hoặc nằm ở phía nam",
+        "hasImg": true
+    },
+    {
+        "id": "95ca3a51-62c9-4413-ba45-32f2035e7cfa",
+        "word": "geographical",
+        "phonetic": "dʒɪəɡɹæfɪkəl ",
+        "type": "adjective",
+        "defineEn": "relating to or connected with the scientific study of the Earth's surface and its physical, biological, etc. features",
+        "defineVi": "liên quan đến hoặc kết nối với nghiên cứu khoa học về bề mặt Trái đất và các đặc điểm vật lý, sinh học, v.v."
+    },
+    {
+        "id": "933fb935-908c-42ec-bb3e-9dea8f3f3781",
+        "word": "port",
+        "phonetic": "poːɹt ",
+        "type": "noun",
+        "defineEn": "a city or town that has a harbor where ships can be loaded or unloaded",
+        "defineVi": "một thành phố hoặc thị trấn có bến cảng nơi tàu có thể được bốc dỡ",
+        "hasImg": true
+    },
+    {
+        "id": "11259a8a-bedd-4627-ba63-841b6d30939d",
+        "word": "woodland",
+        "phonetic": "wʊdlənd ",
+        "type": "noun",
+        "defineEn": "land that is filled with many trees",
+        "defineVi": "đất có nhiều cây cối",
+        "hasImg": true
+    },
+    {
+        "id": "31e876fb-527f-4915-b000-a21b5d71918c",
+        "word": "canyon",
+        "phonetic": "kænɪən ",
+        "type": "noun",
+        "defineEn": "a valley that is deep and has very steep sides, through which a river is flowing usually",
+        "defineVi": "một thung lũng sâu và có những mặt rất dốc, qua đó một dòng sông thường chảy",
+        "hasImg": true
+    },
+    {
+        "id": "43222f7e-b5ae-4028-b071-b3ae96968d22",
+        "word": "equator",
+        "phonetic": "ɪkweɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a hypothetical line around the Earth that divides it into Northern and Southern hemispheres",
+        "defineVi": "một đường giả thuyết quanh Trái đất phân chia nó thành các bán cầu Bắc và Nam",
+        "hasImg": true
+    },
+    {
+        "id": "f882932d-1188-42ff-acf2-7f707ae6532b",
+        "word": "formation",
+        "phonetic": "fɔːɹmeɪʃən ",
+        "type": "noun",
+        "defineEn": "(geology) a body of rock with a particular set of characteristics that make it distinct from the surrounding land",
+        "defineVi": "(địa chất) khối đá có tập hợp các đặc điểm cụ thể khiến nó khác biệt với vùng đất xung quanh"
+    },
+    {
+        "id": "d472aa90-a53e-4abd-8867-9cd608bfabc5",
+        "word": "highland",
+        "phonetic": "haɪlənd ",
+        "type": "noun",
+        "defineEn": "land with mountains or hills",
+        "defineVi": "đất có núi hoặc đồi",
+        "hasImg": true
+    },
+    {
+        "id": "effdaf1f-5acd-4b11-ae9f-b3a5449058d7",
+        "word": "glacier",
+        "phonetic": "ɡleɪʃɚ ",
+        "type": "noun",
+        "defineEn": "a huge mass of ice that moves very slowly, usually down a slope",
+        "defineVi": "một khối băng khổng lồ di chuyển rất chậm, thường là xuống dốc",
+        "hasImg": true
+    },
+    {
+        "id": "e2855eb7-85b4-411e-9e65-1d4610472d62",
+        "word": "freshwater",
+        "phonetic": "fɹɛʃwɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "water that does not contain salt and is suitable for consumption",
+        "defineVi": "nước không chứa muối và thích hợp để uống",
+        "hasImg": true
+    },
+    {
+        "id": "3849f074-dd42-4fa4-b181-0bc0366ee645",
+        "word": "reef",
+        "phonetic": "ɹiːf ",
+        "type": "noun",
+        "defineEn": "a ridge of rock or a line of sand near the surface of a body of water",
+        "defineVi": "một dải đá hoặc một dải cát gần bề mặt của một vùng nước",
+        "hasImg": true
+    },
+    {
+        "id": "f53d08bf-e3ec-41f8-9a3a-f417c8e3255c",
+        "word": "seabed",
+        "phonetic": "siːbɛd ",
+        "type": "noun",
+        "defineEn": "the ground at the bottom of the sea or the floor of the ocean",
+        "defineVi": "mặt đất dưới đáy biển hoặc đáy đại dương",
+        "hasImg": true
+    },
+    {
+        "id": "d0bad6f5-007a-48b6-a5b6-0ef5fe6be37e",
+        "word": "waterway",
+        "phonetic": "wɔːɾɚweɪ ",
+        "type": "noun",
+        "defineEn": "a river, canal, etc. that boats can navigate through",
+        "defineVi": "một con sông, con kênh, vv mà thuyền có thể di chuyển qua",
+        "hasImg": true
+    },
+    {
+        "id": "453511ba-b802-4845-825a-bde4bc7101ae",
+        "word": "zone",
+        "phonetic": "zoʊn ",
+        "type": "noun",
+        "defineEn": "a part on the surface of the Earth marked by specific coordinates",
+        "defineVi": "một phần trên bề mặt Trái đất được đánh dấu bằng tọa độ cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "0b9fbbea-b17e-4d0a-8b30-fc78c600e965",
+        "word": "tropical",
+        "phonetic": "tɹɑːpɪkəl ",
+        "type": "adjective",
+        "defineEn": "situated in or from the hottest parts of the world at the sides of the equator",
+        "defineVi": "nằm trong hoặc từ các khu vực nóng nhất trên thế giới ở hai bên đường xích đạo",
+        "hasImg": true
+    },
+    {
+        "id": "95125cc1-6c51-4ede-98e6-198f24f1bd9c",
+        "word": "stream",
+        "phonetic": "stɹiːm ",
+        "type": "noun",
+        "defineEn": "a small and narrow river that runs on or under the earth",
+        "defineVi": "một con sông nhỏ và hẹp chảy trên hoặc dưới trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "e9441926-ef69-40fd-8b47-89ba6d29f4f3",
+        "word": "horizon",
+        "phonetic": "hɚɹaɪzən ",
+        "type": "noun",
+        "defineEn": "the line where the sky and earth seem to come in contact with each other",
+        "defineVi": "đường mà trời và đất dường như tiếp xúc với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "cec55cab-83f9-4e3c-a105-29c7571f66e2",
+        "word": "gulf",
+        "phonetic": "ɡʌlf ",
+        "type": "noun",
+        "defineEn": "an area of sea that is partly surrounded by land, with a narrow opening",
+        "defineVi": "một vùng biển được bao quanh một phần bởi đất liền, với một lỗ hẹp",
+        "hasImg": true
+    },
+    {
+        "id": "47e9f84f-eeb4-4f31-9b3a-273fd664d1f5",
+        "word": "latitude",
+        "phonetic": "læɾɪtuːd ",
+        "type": "noun",
+        "defineEn": "the distance of a point north or south of the equator that is measured in degrees",
+        "defineVi": "khoảng cách của một điểm phía bắc hoặc phía nam của đường xích đạo được đo bằng độ",
+        "hasImg": true
+    },
+    {
+        "id": "076d8b4a-2b8d-4b8b-952f-ac51894e785e",
+        "word": "longitude",
+        "phonetic": "lɔndʒɪtuːd ",
+        "type": "noun",
+        "defineEn": "the distance of a point east or west of the meridian at Greenwich that is measured in degrees",
+        "defineVi": "khoảng cách của một điểm phía đông hoặc phía tây của kinh tuyến tại Greenwich được đo bằng độ",
+        "hasImg": true
+    },
+    {
+        "id": "b42989d4-19ab-4cba-ba9b-8babdd021e59",
+        "word": "mountaintop",
+        "phonetic": "maʊntɪntɑːp ",
+        "type": "noun",
+        "defineEn": "the top or the summit of a mountain",
+        "defineVi": "đỉnh hoặc đỉnh của một ngọn núi",
+        "hasImg": true
+    },
+    {
+        "id": "cacae3ea-c218-4cd9-aaae-60604ff0a266",
+        "word": "Arctic",
+        "phonetic": "ɑːɹktɪk ",
+        "type": "adjective",
+        "defineEn": "belonging or related to the North Pole",
+        "defineVi": "thuộc hoặc liên quan đến Bắc Cực",
+        "hasImg": true
+    },
+    {
+        "id": "49119ca8-7ad8-4e03-a3d7-d1ba6133b644",
+        "word": "genetically modified",
+        "phonetic": "dʒɪnɛɾɪkli mɑːdᵻfaɪd ",
+        "type": "adjective",
+        "defineEn": "having had an altered genetic structure in order to serve a particular purpose, such as being more resistant to disease, bearing more fruit, etc.",
+        "defineVi": "đã có cấu trúc di truyền bị thay đổi để phục vụ một mục đích cụ thể, chẳng hạn như khả năng kháng bệnh cao hơn, cho nhiều trái hơn, v.v."
+    }
+]

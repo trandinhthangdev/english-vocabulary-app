@@ -1,0 +1,356 @@
+[
+    {
+        "id": "bf72270b-fdbb-4b3b-b562-6bd0ef2cb20f",
+        "word": "personality",
+        "phonetic": "pɜːsənælᵻɾi ",
+        "type": "noun",
+        "defineEn": "all the qualities that shape a person's character and make them different from others",
+        "defineVi": "tất cả những phẩm chất hình thành tính cách của một người và làm cho họ khác biệt với những người khác"
+    },
+    {
+        "id": "e67da117-1bdc-44f4-9f5f-6aa1f981d13f",
+        "word": "affectionate",
+        "phonetic": "ɐfɛkʃənət ",
+        "type": "adjective",
+        "defineEn": "expressing love and care",
+        "defineVi": "thể hiện tình yêu và sự quan tâm",
+        "hasImg": true
+    },
+    {
+        "id": "6b9c33a9-a032-4db3-a0d6-472d13f8e15b",
+        "word": "ambitious",
+        "phonetic": "æmbɪʃəs ",
+        "type": "adjective",
+        "defineEn": "trying or wishing to gain great success, power, or wealth",
+        "defineVi": "cố gắng hoặc mong muốn đạt được thành công lớn, quyền lực hoặc sự giàu có"
+    },
+    {
+        "id": "59588eb2-d0f5-4f35-8a65-1d4820489e97",
+        "word": "assertive",
+        "phonetic": "ɐsɜːɾɪv ",
+        "type": "adjective",
+        "defineEn": "confident in expressing one's opinions, ideas or needs in a clear, direct, and respectful manner",
+        "defineVi": "tự tin bày tỏ quan điểm, ý tưởng hoặc nhu cầu của mình một cách rõ ràng, trực tiếp và tôn trọng",
+        "hasImg": true
+    },
+    {
+        "id": "bcc7065a-1ff7-4b51-8f7b-dd537836f4e9",
+        "word": "bossy",
+        "phonetic": "bɔsi ",
+        "type": "adjective",
+        "defineEn": "constantly telling others what they should do",
+        "defineVi": "liên tục nói với người khác những gì họ nên làm"
+    },
+    {
+        "id": "298cc20d-7ede-44ab-8a8f-cae34ffa104c",
+        "word": "honest",
+        "phonetic": "ɑːnɪst ",
+        "type": "adjective",
+        "defineEn": "telling the truth and having no intention of cheating or stealing",
+        "defineVi": "nói sự thật và không có ý định gian lận hoặc ăn cắp",
+        "hasImg": true
+    },
+    {
+        "id": "fb56a2ab-928a-4f7c-ab7f-0e4397672ee8",
+        "word": "loyal",
+        "phonetic": "lɔɪəl ",
+        "type": "adjective",
+        "defineEn": "remaining firm in support for someone or something",
+        "defineVi": "công ty còn lại để hỗ trợ cho một ai đó hoặc một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "aefe3a45-c14f-4a8c-be5f-c5ea111e7ad0",
+        "word": "mature",
+        "phonetic": "mətʃʊɹ ",
+        "type": "adjective",
+        "defineEn": "(of a young person or child) able to behave reasonably, like an adult",
+        "defineVi": "(của một người trẻ tuổi hoặc trẻ em) có thể cư xử hợp lý, như một người lớn"
+    },
+    {
+        "id": "8c21c8f5-8001-434c-8302-e000cb1936de",
+        "word": "moody",
+        "phonetic": "muːdi ",
+        "type": "adjective",
+        "defineEn": "characterized by sudden changes of mood, typically with no apparent reason",
+        "defineVi": "đặc trưng bởi sự thay đổi tâm trạng đột ngột, thường không có lý do rõ ràng",
+        "hasImg": true
+    },
+    {
+        "id": "1b6ed310-f14b-4770-80e4-ffe3550489a2",
+        "word": "open-minded",
+        "phonetic": "oʊpənmaɪndᵻd ",
+        "type": "adjective",
+        "defineEn": "ready to accept or listen to different views and opinions",
+        "defineVi": "sẵn sàng chấp nhận hoặc lắng nghe những quan điểm và ý kiến khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "eca55320-91ec-43fa-921d-a698d02cf8cc",
+        "word": "outgoing",
+        "phonetic": "aʊtɡoʊɪŋ ",
+        "type": "adjective",
+        "defineEn": "enjoying other people's company and wanting to spend time with them",
+        "defineVi": "thích công ty của người khác và muốn dành thời gian với họ",
+        "hasImg": true
+    },
+    {
+        "id": "ee00f579-14ae-4dec-b6c5-b7dae35846ff",
+        "word": "patient",
+        "phonetic": "peɪʃənt ",
+        "type": "adjective",
+        "defineEn": "staying calm during hard times or accepting delays without getting angry or irritated",
+        "defineVi": "giữ bình tĩnh trong thời gian khó khăn hoặc chấp nhận sự chậm trễ mà không tức giận hoặc cáu kỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "b17dc0f6-dd87-4a08-ae53-056a3d528ec8",
+        "word": "reliable",
+        "phonetic": "ɹᵻlaɪəbəl ",
+        "type": "adjective",
+        "defineEn": "able to be relied on or trusted",
+        "defineVi": "có thể được dựa vào hoặc đáng tin cậy",
+        "hasImg": true
+    },
+    {
+        "id": "7db1fdb2-8371-4161-8d48-5428819238fd",
+        "word": "sensitive",
+        "phonetic": "sɛnsᵻtɪv ",
+        "type": "adjective",
+        "defineEn": "capable of understanding other people's emotions and caring for them",
+        "defineVi": "có khả năng hiểu cảm xúc của người khác và quan tâm đến họ",
+        "hasImg": true
+    },
+    {
+        "id": "fb0a96ac-da26-439b-983a-d7f52aa877ab",
+        "word": "stubborn",
+        "phonetic": "stʌbɚn ",
+        "type": "adjective",
+        "defineEn": "unwilling to change one's attitude or opinion despite good reasons",
+        "defineVi": "không muốn thay đổi thái độ hoặc quan điểm của một người mặc dù có lý do chính đáng",
+        "hasImg": true
+    },
+    {
+        "id": "ec7c8b74-9932-43b9-987f-add8a142f17b",
+        "word": "bright",
+        "phonetic": "bɹaɪt ",
+        "type": "adjective",
+        "defineEn": "capable of thinking and learning in a good and quick way",
+        "defineVi": "có khả năng tư duy và học hỏi một cách tốt và nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "511e961b-516a-4d80-b1ec-377bffe0e0bb",
+        "word": "conscientious",
+        "phonetic": "kɑːnsɪɛnʃəs ",
+        "type": "adjective",
+        "defineEn": "sensing an ethical obligation to do one's duty carefully and to behave justly toward others",
+        "defineVi": "cảm nhận nghĩa vụ đạo đức để thực hiện nghĩa vụ của mình một cách cẩn thận và cư xử công bằng với người khác"
+    },
+    {
+        "id": "d82557db-152f-40cd-8dcf-ec7f1da6e176",
+        "word": "determined",
+        "phonetic": "dɪtɜːmɪnd ",
+        "type": "adjective",
+        "defineEn": "having or displaying a strong will",
+        "defineVi": "có hoặc hiển thị một ý chí mạnh mẽ"
+    },
+    {
+        "id": "7b4b2f39-d05a-458c-b946-eb5a5cea99d9",
+        "word": "gentle",
+        "phonetic": "dʒɛntəl ",
+        "type": "adjective",
+        "defineEn": "showing kindness",
+        "defineVi": "thể hiện lòng tốt",
+        "hasImg": true
+    },
+    {
+        "id": "20db9c71-8d56-4358-987f-aff8484da1e6",
+        "word": "resourceful",
+        "phonetic": "ɹᵻsoːɹsfəl ",
+        "type": "adjective",
+        "defineEn": "capable of finding different, clever, and efficient ways to solve problems",
+        "defineVi": "có khả năng tìm ra những cách khác nhau, thông minh và hiệu quả để giải quyết vấn đề"
+    },
+    {
+        "id": "59fd9085-bd63-4af6-8172-80757db9da17",
+        "word": "sarcastic",
+        "phonetic": "sɑːɹkæstɪk ",
+        "type": "adjective",
+        "defineEn": "stating the opposite of what one means to criticize, insult, mock, or make a joke",
+        "defineVi": "nói ngược lại với những gì một người có nghĩa là chỉ trích, xúc phạm, chế giễu hoặc pha trò"
+    },
+    {
+        "id": "8aeb98e7-bfdc-4a4b-9121-d6116fa69c68",
+        "word": "self-sufficient",
+        "phonetic": "sɛlfsəfɪʃənt ",
+        "type": "adjective",
+        "defineEn": "capable of providing everything that one needs, particularly food, without any help from others",
+        "defineVi": "có khả năng cung cấp mọi thứ mà một người cần, đặc biệt là thực phẩm, mà không cần bất kỳ sự giúp đỡ nào từ người khác",
+        "hasImg": true
+    },
+    {
+        "id": "fde23855-f827-4e07-840e-0d88736bc883",
+        "word": "spontaneous",
+        "phonetic": "spɑːnteɪniəs ",
+        "type": "adjective",
+        "defineEn": "a person who tends to act on impulse or in the moment, without much planning or considering the consequences or potential risks of their actions",
+        "defineVi": "một người có xu hướng hành động bốc đồng hoặc trong thời điểm này, mà không có nhiều kế hoạch hoặc xem xét hậu quả hoặc rủi ro tiềm ẩn của hành động của họ"
+    },
+    {
+        "id": "a39fcac0-9b04-4b63-bf02-4cd75c0153f7",
+        "word": "steady",
+        "phonetic": "stɛdi ",
+        "type": "adjective",
+        "defineEn": "describing something that is reliable and constant for a long period of time",
+        "defineVi": "mô tả một cái gì đó là đáng tin cậy và liên tục trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "ee07558e-c0ee-4f04-9299-7838f08bb9cc",
+        "word": "straightforward",
+        "phonetic": "stɹeɪtfɔːɹwɚd ",
+        "type": "adjective",
+        "defineEn": "(of a person or their behavior) direct and honest",
+        "defineVi": "(của một người hoặc hành vi của họ) trực tiếp và trung thực",
+        "hasImg": true
+    },
+    {
+        "id": "a3a7c530-8dea-4baa-87a2-97558d12d42e",
+        "word": "sympathetic",
+        "phonetic": "sɪmpəθɛɾɪk ",
+        "type": "adjective",
+        "defineEn": "showing care and understanding toward other people, especially when they are not feeling good",
+        "defineVi": "thể hiện sự quan tâm và thấu hiểu đối với người khác, đặc biệt là khi họ cảm thấy không tốt",
+        "hasImg": true
+    },
+    {
+        "id": "ff1d6792-d043-4fa4-96eb-c771201daabd",
+        "word": "thorough",
+        "phonetic": "θʌɹoʊ ",
+        "type": "adjective",
+        "defineEn": "extremely careful and attentive to detail",
+        "defineVi": "cực kỳ cẩn thận và chú ý đến chi tiết"
+    },
+    {
+        "id": "de79280a-e23a-451c-8b60-f067253c6b5a",
+        "word": "to come across",
+        "phonetic": "tə kʌm əkɹɑːs ",
+        "type": "verb",
+        "defineEn": "to discover, meet, or find someone or something by accident",
+        "defineVi": "để khám phá, đáp ứng, hoặc tìm một ai đó hoặc một cái gì đó một cách tình cờ"
+    },
+    {
+        "id": "ce2cb702-1e9c-45c3-bd96-d68f39b4b8d1",
+        "word": "deep down",
+        "phonetic": "diːp daʊn ",
+        "type": "phrase",
+        "defineEn": "used to refer to a person's true or underlying feelings, beliefs, or motivations, often those that are hidden beneath the surface or not immediately apparent",
+        "defineVi": "được sử dụng để chỉ cảm xúc, niềm tin hoặc động cơ thực sự hoặc tiềm ẩn của một người, thường là những điều ẩn dưới bề mặt hoặc không rõ ràng ngay lập tức"
+    },
+    {
+        "id": "ce409d2a-9e56-4ccf-b070-99c3c3f25bf9",
+        "word": "on the whole",
+        "phonetic": "ɔnðə hoʊl ",
+        "type": "adverb",
+        "defineEn": "with regard to everything",
+        "defineVi": "đối với tất cả mọi thứ"
+    },
+    {
+        "id": "bbce8d1b-0feb-4eef-909e-c82ded81b34d",
+        "word": "to tend",
+        "phonetic": "tə tɛnd ",
+        "type": "verb",
+        "defineEn": "to be likely to become something or to happen in a certain way because it is so most of the time",
+        "defineVi": "có khả năng trở thành một cái gì đó hoặc xảy ra theo một cách nào đó bởi vì nó là như vậy hầu hết thời gian"
+    },
+    {
+        "id": "0d98c6b9-a5ee-48f1-a2a8-6ddfcfa8e1ac",
+        "word": "idiom",
+        "phonetic": "ɪdɪəm ",
+        "type": "noun",
+        "defineEn": "a group of words or a phrase that has a meaning different from the literal interpretation of its individual words, often specific to a particular language or culture",
+        "defineVi": "một nhóm từ hoặc cụm từ có nghĩa khác với cách giải thích theo nghĩa đen của các từ riêng lẻ, thường dành riêng cho một ngôn ngữ hoặc nền văn hóa cụ thể"
+    },
+    {
+        "id": "aab3700a-d3dc-4bec-9a98-822c256a42df",
+        "word": "down to earth",
+        "phonetic": "daʊn tʊ ɜːθ ",
+        "type": "phrase",
+        "defineEn": "(of a person) not showing pretentious behavior",
+        "defineVi": "(của một người) không thể hiện hành vi tự phụ"
+    },
+    {
+        "id": "bd6c0749-457b-4c6c-9932-7b5d629be1c8",
+        "word": "cold fish",
+        "phonetic": "koʊld fɪʃ ",
+        "type": "noun",
+        "defineEn": "someone who does not express emotions and is considered unfriendly",
+        "defineVi": "một người không thể hiện cảm xúc và được coi là không thân thiện",
+        "hasImg": true
+    },
+    {
+        "id": "959a86e3-c897-4748-8431-75bb18415a93",
+        "word": "soft touch",
+        "phonetic": "sɔft tʌtʃ ",
+        "type": "noun",
+        "defineEn": "someone who can be easily taken advantage of",
+        "defineVi": "một người có thể dễ dàng bị lợi dụng"
+    },
+    {
+        "id": "b8a0dc39-299c-45b1-a63f-46a958414dff",
+        "word": "quick temper",
+        "phonetic": "kwɪk tɛmpɚ ",
+        "type": "noun",
+        "defineEn": "a tendency to quickly lose one's temper",
+        "defineVi": "xu hướng nhanh chóng mất bình tĩnh"
+    },
+    {
+        "id": "cb84a408-4289-42e8-94c0-9d4215faddb7",
+        "word": "to not hurt / harm a fly / flea",
+        "phonetic": "tə nɑːt hɜːt slæʃ hɑːɹm ɐ flaɪ slæʃ fliː ",
+        "type": "phrase",
+        "defineEn": "to refrain from doing anything that would harm or threaten the life of any person or animal",
+        "defineVi": "kiềm chế không làm bất cứ điều gì có thể gây hại hoặc đe dọa cuộc sống của bất kỳ người hoặc động vật"
+    },
+    {
+        "id": "b496cfac-aa87-46c3-975e-a1de126e2f1d",
+        "word": "to lift / raise a finger",
+        "phonetic": "tə lɪft slæʃ ɹeɪz ɐ fɪŋɡɚ ",
+        "type": "phrase",
+        "defineEn": "to make a minimal effort to do something, particularly in order to help someone",
+        "defineVi": "để thực hiện một nỗ lực tối thiểu để làm một cái gì đó, đặc biệt là để giúp đỡ ai đó"
+    },
+    {
+        "id": "77c24518-aa80-464d-847f-3d2dc20404ad",
+        "word": "heart of gold",
+        "phonetic": "hɑːɹt ʌv ɡoʊld ",
+        "type": "phrase",
+        "defineEn": "a generous and kind personality",
+        "defineVi": "một tính cách hào phóng và tốt bụng"
+    },
+    {
+        "id": "442a5c19-d990-45dc-a6df-e3242b93e660",
+        "word": "a pain in the neck",
+        "phonetic": "ɐ peɪn ɪnðə nɛk ",
+        "type": "phrase",
+        "defineEn": "a person or thing that causes one great annoyance or a lot of difficulty",
+        "defineVi": "một người hoặc điều đó gây ra một phiền toái lớn hoặc rất nhiều khó khăn"
+    },
+    {
+        "id": "bd47722b-a3d3-46e7-91f5-ef666f602204",
+        "word": "to be full of  oneself",
+        "phonetic": "təbi fʊl ʌv wʌnsɛlf ",
+        "type": "phrase",
+        "defineEn": "to be extremely proud and believe that one is superior in intellect, importance, etc.",
+        "defineVi": "cực kỳ tự hào và tin rằng mình vượt trội về trí tuệ, tầm quan trọng, v.v."
+    },
+    {
+        "id": "0379548f-4c87-4a7d-93c7-69cef4c3ec32",
+        "word": "the life and soul of sth",
+        "phonetic": "ðə laɪf ænd soʊl ʌv ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "an energetic and sociable person who makes a place livelier",
+        "defineVi": "một người năng động và hòa đồng, người làm cho một nơi sống động hơn"
+    }
+]

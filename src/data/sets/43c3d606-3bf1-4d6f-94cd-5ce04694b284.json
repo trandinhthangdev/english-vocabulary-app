@@ -1,0 +1,323 @@
+[
+    {
+        "id": "d60418bd-cd4b-48ad-8387-0b0ee5bf1d47",
+        "word": "milk",
+        "phonetic": "mɪlk ",
+        "type": "noun",
+        "defineEn": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc.",
+        "defineVi": "chất lỏng màu trắng chúng ta lấy từ bò, cừu hoặc dê mà chúng ta uống và sử dụng để làm pho mát, bơ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "14ce2988-6a33-4ee7-9385-962424ea2125",
+        "word": "homogenized milk",
+        "phonetic": "hɑːmoʊdʒənaɪzd mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of dairy product where the fat particles are evenly dispersed throughout the milk to create a consistent texture",
+        "defineVi": "một loại sản phẩm từ sữa mà các hạt chất béo được phân tán đều trong sữa để tạo ra kết cấu đồng nhất",
+        "hasImg": true
+    },
+    {
+        "id": "3cb22fbb-bf08-4697-8136-f059cc4b00d9",
+        "word": "pasteurized milk",
+        "phonetic": "pæstjuːɹaɪzd mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that has been heated to a specific temperature to kill harmful bacteria while preserving its nutritional properties",
+        "defineVi": "một loại sữa đã được đun nóng đến một nhiệt độ cụ thể để tiêu diệt vi khuẩn có hại trong khi vẫn giữ được các đặc tính dinh dưỡng của nó",
+        "hasImg": true
+    },
+    {
+        "id": "ab4e6f6f-8a0e-491d-8047-f9d443459863",
+        "word": "scalded milk",
+        "phonetic": "skɑːldᵻd mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that has been heated just below its boiling point",
+        "defineVi": "một loại sữa đã được làm nóng ngay dưới điểm sôi của nó",
+        "hasImg": true
+    },
+    {
+        "id": "a84f9761-21de-4250-af33-18b005301520",
+        "word": "condensed milk",
+        "phonetic": "kəndɛnst mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that is thickened and sweetened, sold in cans",
+        "defineVi": "một loại sữa đặc và ngọt, được bán trong hộp",
+        "hasImg": true
+    },
+    {
+        "id": "cf262af1-5470-44f4-bce3-e7259beec5ef",
+        "word": "evaporated milk",
+        "phonetic": "ɪvæpɚɹeɪɾᵻd mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that has had about 60% of its water content removed through a heating process",
+        "defineVi": "một loại sữa đã loại bỏ khoảng 60% hàm lượng nước thông qua quá trình đun nóng",
+        "hasImg": true
+    },
+    {
+        "id": "f4658258-d35d-4cac-b2a5-413e63cb2197",
+        "word": "caramelized milk",
+        "phonetic": "kæɹəməlaɪzd mɪlk ",
+        "type": "noun",
+        "defineEn": "a sweet mixture of sugar and milk heated until golden brown, used in desserts and confections",
+        "defineVi": "một hỗn hợp ngọt ngào của đường và sữa đun nóng cho đến khi vàng nâu, được sử dụng trong món tráng miệng và bánh kẹo",
+        "hasImg": true
+    },
+    {
+        "id": "6e52ad97-dbe8-44bb-b4b0-9bb62894e40d",
+        "word": "powdered milk",
+        "phonetic": "paʊdɚd mɪlk ",
+        "type": "noun",
+        "defineEn": "milk that is heated to the point of dryness, made in the form of powder",
+        "defineVi": "sữa được làm nóng đến mức khô, được làm ở dạng bột",
+        "hasImg": true
+    },
+    {
+        "id": "9a497c03-9146-4bea-a130-35d467b51348",
+        "word": "formula",
+        "phonetic": "fɔːɹmjʊlə ",
+        "type": "noun",
+        "defineEn": "a specially prepared nutritional substance, typically in liquid or powder form, designed to provide essential nutrients for infants",
+        "defineVi": "một chất dinh dưỡng được chuẩn bị đặc biệt, thường ở dạng lỏng hoặc bột, được thiết kế để cung cấp các chất dinh dưỡng thiết yếu cho trẻ sơ sinh",
+        "hasImg": true
+    },
+    {
+        "id": "b86e356d-6907-40f1-a9f4-6aa72419facf",
+        "word": "whey",
+        "phonetic": "weɪ ",
+        "type": "noun",
+        "defineEn": "the liquid portion of milk that remains after the curds have been separated, commonly used for its nutritional properties",
+        "defineVi": "phần chất lỏng của sữa còn lại sau khi tách sữa đông, thường được sử dụng vì các đặc tính dinh dưỡng của nó",
+        "hasImg": true
+    },
+    {
+        "id": "94a9f80a-870b-44b3-b795-9532d57c08dc",
+        "word": "buttermilk",
+        "phonetic": "bʌɾɚmɪlk ",
+        "type": "noun",
+        "defineEn": "the liquid left after butter has been produced, which can be drunk or used in cooking",
+        "defineVi": "chất lỏng còn lại sau khi sản xuất bơ, có thể uống hoặc dùng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "65563d9a-63c3-4729-ac37-c7f0ef8d6bc0",
+        "word": "milk skin",
+        "phonetic": "mɪlk skɪn ",
+        "type": "noun",
+        "defineEn": "the thin layer that forms on heated milk, used in dishes like custards and puddings",
+        "defineVi": "lớp mỏng hình thành trên sữa nóng, được sử dụng trong các món ăn như sữa trứng và bánh pudding",
+        "hasImg": true
+    },
+    {
+        "id": "423b96bf-e982-4dc8-83f6-d74298fdf68e",
+        "word": "cream",
+        "phonetic": "kɹiːm ",
+        "type": "noun",
+        "defineEn": "the thick white or pale yellow fatty liquid that rises to the top of milk",
+        "defineVi": "chất lỏng béo đặc màu trắng hoặc vàng nhạt nổi lên trên cùng của sữa",
+        "hasImg": true
+    },
+    {
+        "id": "a796a031-5732-4fd5-b075-49df0caf0fae",
+        "word": "clotted cream",
+        "phonetic": "klɑːɾᵻd kɹiːm ",
+        "type": "noun",
+        "defineEn": "a thick cream that is made by gradually heating whole milk until lumps of cream rise to the top, originally made in the UK",
+        "defineVi": "một loại kem đặc được làm bằng cách đun nóng dần sữa nguyên chất cho đến khi các cục kem nổi lên trên cùng, ban đầu được sản xuất tại Vương quốc Anh",
+        "hasImg": true
+    },
+    {
+        "id": "f6b8851d-091d-4e34-bc0f-16dfb32774b9",
+        "word": "whipped cream",
+        "phonetic": "wɪpt kɹiːm ",
+        "type": "noun",
+        "defineEn": "cream that has been beaten by a mixer or whisk until it becomes light and fluffy",
+        "defineVi": "kem đã được đánh bằng máy trộn hoặc máy đánh trứng cho đến khi nó trở nên nhẹ và bông",
+        "hasImg": true
+    },
+    {
+        "id": "2892cbb0-913b-441a-b1d8-544b537063d5",
+        "word": "double cream",
+        "phonetic": "dʌbəl kɹiːm ",
+        "type": "noun",
+        "defineEn": "a rich and thick dairy product with a high fat content, perfect for adding luxurious texture to desserts and sauces",
+        "defineVi": "một sản phẩm sữa đặc và đậm đặc với hàm lượng chất béo cao, hoàn hảo để thêm kết cấu sang trọng cho món tráng miệng và nước sốt",
+        "hasImg": true
+    },
+    {
+        "id": "3e8e4723-637d-459b-9516-0cf1d25a592d",
+        "word": "single cream",
+        "phonetic": "sɪŋɡəl kɹiːm ",
+        "type": "noun",
+        "defineEn": "a thinner, pourable cream with a lower fat content compared to double cream",
+        "defineVi": "một loại kem mỏng hơn, có thể rót được với hàm lượng chất béo thấp hơn so với kem đôi",
+        "hasImg": true
+    },
+    {
+        "id": "a1538340-2de1-4529-ab1a-0e1366dd5a19",
+        "word": "kaymak",
+        "phonetic": "keɪmæk ",
+        "type": "noun",
+        "defineEn": "a creamy dairy product made from boiled or raw milk, used as a spread, topping, or ingredient in Middle Eastern and Balkan cuisines",
+        "defineVi": "một sản phẩm sữa kem làm từ sữa đun sôi hoặc sữa tươi, được sử dụng như một loại phết, phủ hoặc thành phần trong các món ăn Trung Đông và Balkan",
+        "hasImg": true
+    },
+    {
+        "id": "f1ebd00c-f496-4b9a-8416-0faa7955e223",
+        "word": "sour cream",
+        "phonetic": "saʊɚ kɹiːm ",
+        "type": "noun",
+        "defineEn": "a light cream that is produced from regular cream and lactic acid bacteria",
+        "defineVi": "một loại kem nhẹ được sản xuất từ kem thông thường và vi khuẩn axit lactic",
+        "hasImg": true
+    },
+    {
+        "id": "7bc3de88-a279-4c31-953c-3fdc9e0bfcfc",
+        "word": "butter",
+        "phonetic": "bʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a soft, yellow food made from cream that we spread on bread or use in cooking",
+        "defineVi": "một loại thực phẩm mềm, màu vàng làm từ kem mà chúng ta phết lên bánh mì hoặc dùng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "af851690-04a7-4104-b877-766b63c63bdb",
+        "word": "clabber",
+        "phonetic": "klæbɚ ",
+        "type": "noun",
+        "defineEn": "a thickened and curdled milk resulting from natural fermentation",
+        "defineVi": "một loại sữa đặc và đông lại do quá trình lên men tự nhiên",
+        "hasImg": true
+    },
+    {
+        "id": "9690c0cf-2a93-45b7-a31b-cf6093384533",
+        "word": "kefir",
+        "phonetic": "kiːfɚ ",
+        "type": "noun",
+        "defineEn": "a fermented dairy drink with probiotic properties, made from milk and kefir grains, used for drinking or cooking",
+        "defineVi": "một thức uống sữa lên men có đặc tính sinh học, được làm từ sữa và hạt kefir, được sử dụng để uống hoặc nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "fb6e1897-1822-4811-b117-f24107d289e8",
+        "word": "yogurt",
+        "phonetic": "joʊɡɚt ",
+        "type": "noun",
+        "defineEn": "a thick liquid food that is made from milk and is eaten cold",
+        "defineVi": "một thức ăn lỏng dày được làm từ sữa và được ăn lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "82679797-9b58-43e4-ad81-1c6ff12e4f5e",
+        "word": "cheese",
+        "phonetic": "tʃiːz ",
+        "type": "noun",
+        "defineEn": "a soft or hard food made from milk that is usually yellow or white in color",
+        "defineVi": "thức ăn mềm hoặc cứng làm từ sữa thường có màu vàng hoặc trắng",
+        "hasImg": true
+    },
+    {
+        "id": "59bec2ce-313a-4e88-8ef0-bb024aaaf9d9",
+        "word": "ayran",
+        "phonetic": "ɛɹən ",
+        "type": "noun",
+        "defineEn": "a yogurt-based Turkish beverage, often flavored with herbs or spices, consumed as a drink or condiment",
+        "defineVi": "một loại đồ uống Thổ Nhĩ Kỳ làm từ sữa chua, thường có hương vị với các loại thảo mộc hoặc gia vị, được dùng làm đồ uống hoặc gia vị",
+        "hasImg": true
+    },
+    {
+        "id": "4afbafd9-ae24-4dbe-a167-190a7e57f9f2",
+        "word": "custard",
+        "phonetic": "kʌstɚd ",
+        "type": "noun",
+        "defineEn": "a thick creamy sauce made with milk, eggs, sugar, flour or corn flour that is served hot on top of puddings, fruits, etc.",
+        "defineVi": "một loại nước sốt kem đặc làm từ sữa, trứng, đường, bột mì hoặc bột ngô dùng nóng trên bánh pudding, trái cây, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "387a29d2-f9eb-427e-86ef-89534c5123e6",
+        "word": "creme fraiche",
+        "phonetic": "kɹiːm fɹɛʃ ",
+        "type": "noun",
+        "defineEn": "a tangy, creamy French cultured cream used in cooking, baking, or as a condiment",
+        "defineVi": "một loại kem nuôi cấy kiểu Pháp thơm, béo ngậy được sử dụng trong nấu ăn, làm bánh hoặc làm gia vị",
+        "hasImg": true
+    },
+    {
+        "id": "1bd17c7a-8da0-4128-bf5e-3bdfc6bc2de1",
+        "word": "raw milk",
+        "phonetic": "ɹɔː mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that has not undergone any pasteurization or homogenization processes",
+        "defineVi": "một loại sữa chưa trải qua bất kỳ quy trình thanh trùng hoặc đồng nhất hóa nào",
+        "hasImg": true
+    },
+    {
+        "id": "17afc1b0-04d6-4800-b4be-ebb543488dcf",
+        "word": "semi-skimmed milk",
+        "phonetic": "sɛmaɪskɪmd mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk with a reduced fat content, typically containing around 1-2% fat",
+        "defineVi": "một loại sữa có hàm lượng chất béo giảm, thường chứa khoảng 1-2% chất béo"
+    },
+    {
+        "id": "570c0520-6b85-4314-98e2-daa50652d373",
+        "word": "whole milk",
+        "phonetic": "hoʊl mɪlk ",
+        "type": "noun",
+        "defineEn": "a type of milk that contains the natural proportion of milk fat, usually around 3.5% fat content",
+        "defineVi": "một loại sữa chứa tỷ lệ chất béo sữa tự nhiên, thường là khoảng 3,5% hàm lượng chất béo"
+    },
+    {
+        "id": "3163f55a-14c9-4606-b417-f87c00d48aba",
+        "word": "low-fat milk",
+        "phonetic": "loʊfæt mɪlk ",
+        "type": "noun",
+        "defineEn": "milk that has a low percentage of fat",
+        "defineVi": "sữa có tỷ lệ chất béo thấp",
+        "hasImg": true
+    },
+    {
+        "id": "a059e466-6498-448d-bf1e-b29cabf93d93",
+        "word": "skimmed milk",
+        "phonetic": "skɪmd mɪlk ",
+        "type": "noun",
+        "defineEn": "milk with no fat, because it has been removed from it",
+        "defineVi": "sữa không có chất béo, bởi vì nó đã được loại bỏ khỏi nó",
+        "hasImg": true
+    },
+    {
+        "id": "ec4c56ee-1389-41c5-a4c8-c93aa24b4a7b",
+        "word": "half-and-half",
+        "phonetic": "hæfændhæf ",
+        "type": "noun",
+        "defineEn": "a dairy product that is made by combining equal parts of milk and cream",
+        "defineVi": "một sản phẩm sữa được làm bằng cách kết hợp các phần bằng nhau của sữa và kem",
+        "hasImg": true
+    },
+    {
+        "id": "c58d37a0-433e-44b0-9d3e-5b88b5c73be9",
+        "word": "coconut milk",
+        "phonetic": "koʊkənʌt mɪlk ",
+        "type": "noun",
+        "defineEn": "a white and creamy liquid made from coconut flesh, used as a substitute for dairy milk",
+        "defineVi": "một chất lỏng màu trắng và kem làm từ thịt dừa, được sử dụng thay thế cho sữa bò",
+        "hasImg": true
+    },
+    {
+        "id": "8942c6b2-bd33-4841-bc61-9e975d779360",
+        "word": "meuniere butter",
+        "phonetic": "mjuːniɛɹ bʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a classic French sauce made by browning butter and adding lemon juice and parsley",
+        "defineVi": "một loại nước sốt cổ điển của Pháp được làm bằng bơ nâu và thêm nước cốt chanh và rau mùi tây"
+    },
+    {
+        "id": "aae87f1e-f752-4d14-a2a4-07edb191f99f",
+        "word": "soymilk",
+        "phonetic": "sɔɪmɪlk ",
+        "type": "noun",
+        "defineEn": "a plant-based milk alternative made from soybeans",
+        "defineVi": "một loại sữa thay thế dựa trên thực vật được làm từ đậu nành",
+        "hasImg": true
+    }
+]

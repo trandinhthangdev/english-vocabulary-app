@@ -1,0 +1,455 @@
+[
+    {
+        "id": "4e9680ed-cde9-44cc-aca8-9b271922ed43",
+        "word": "hive",
+        "phonetic": "haɪv ",
+        "type": "noun",
+        "defineEn": "a structure in which bees live and make honey",
+        "defineVi": "một cấu trúc trong đó những con ong sống và làm mật ong",
+        "hasImg": true
+    },
+    {
+        "id": "a20e692e-03c1-47bb-b9a8-e4b50fa8d615",
+        "word": "barn",
+        "phonetic": "bɑːɹn ",
+        "type": "noun",
+        "defineEn": "a building on a farm in which people keep their animals, straw, hay, or grains",
+        "defineVi": "một tòa nhà trong một trang trại, trong đó mọi người giữ động vật, rơm, cỏ khô hoặc ngũ cốc của họ",
+        "hasImg": true
+    },
+    {
+        "id": "c2a381ec-69b0-411d-966d-e9a98d5a2795",
+        "word": "byre",
+        "phonetic": "baɪɚ ",
+        "type": "noun",
+        "defineEn": "a cowshed or barn used for housing cows or cattle",
+        "defineVi": "một chuồng bò hoặc chuồng được sử dụng để nuôi bò hoặc gia súc"
+    },
+    {
+        "id": "dae1011f-791c-43cc-aa52-b1552df75eba",
+        "word": "pasture",
+        "phonetic": "pæstʃɚ ",
+        "type": "noun",
+        "defineEn": "a field covered with grass or similar herbs suitable for animals to graze on",
+        "defineVi": "một cánh đồng được bao phủ bởi cỏ hoặc các loại thảo mộc tương tự thích hợp cho động vật ăn cỏ",
+        "hasImg": true
+    },
+    {
+        "id": "6c69affc-6561-4663-8e4c-e53b81f87a92",
+        "word": "stable",
+        "phonetic": "steɪbəl ",
+        "type": "noun",
+        "defineEn": "a building on a farm to house horses",
+        "defineVi": "một tòa nhà trong một trang trại để nuôi ngựa",
+        "hasImg": true
+    },
+    {
+        "id": "2bea662c-5a47-47d9-82fc-a5fb6b962098",
+        "word": "tunnel",
+        "phonetic": "tʌnəl ",
+        "type": "noun",
+        "defineEn": "a burrow or underground den used as a home by certain animals, such as rabbits or foxes",
+        "defineVi": "hang hoặc hang dưới lòng đất được sử dụng làm nhà của một số loài động vật, chẳng hạn như thỏ hoặc cáo",
+        "hasImg": true
+    },
+    {
+        "id": "17903603-af3f-4a6f-b528-aef21eef500c",
+        "word": "hutch",
+        "phonetic": "hʌtʃ ",
+        "type": "noun",
+        "defineEn": "a wooden box with a wired front used for keeping small domesticated animals, such as rabbits, ferrets, etc.",
+        "defineVi": "một hộp gỗ có mặt trước có dây dùng để nhốt các động vật nhỏ đã được thuần hóa, chẳng hạn như thỏ, chồn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "e9cb1b80-5678-4520-9c16-792ee6090bab",
+        "word": "web",
+        "phonetic": "wɛb ",
+        "type": "noun",
+        "defineEn": "a net of thin threads made by a spider to catch insects for food",
+        "defineVi": "một mạng lưới các sợi mỏng được tạo ra bởi một con nhện để bắt côn trùng làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "d7be1101-6a8b-4eb1-ab32-d32c7ecfd76f",
+        "word": "lair",
+        "phonetic": "lɛɹ ",
+        "type": "noun",
+        "defineEn": "a place where a wild animal lives, hides, or takes refuge",
+        "defineVi": "một nơi mà một động vật hoang dã sống, ẩn náu hoặc trú ẩn",
+        "hasImg": true
+    },
+    {
+        "id": "90987aed-b510-4767-a857-c8e68bce601b",
+        "word": "nest",
+        "phonetic": "nɛst ",
+        "type": "noun",
+        "defineEn": "a structure that a bird makes for laying eggs or keeping the hatchlings in",
+        "defineVi": "một cấu trúc mà một con chim tạo ra để đẻ trứng hoặc giữ con non trong",
+        "hasImg": true
+    },
+    {
+        "id": "af35f4ee-663f-4b99-994a-8038a9aceff9",
+        "word": "honeycomb",
+        "phonetic": "hʌnɪkoʊm ",
+        "type": "noun",
+        "defineEn": "a structure that is made by bees, consisting of six-sided cells where they store their honey",
+        "defineVi": "một cấu trúc được tạo ra bởi những con ong, bao gồm các tế bào sáu cạnh, nơi chúng lưu trữ mật ong của chúng",
+        "hasImg": true
+    },
+    {
+        "id": "83ed0113-c1c5-4412-9de2-2ccaef550d38",
+        "word": "cobweb",
+        "phonetic": "kɑːbwɛb ",
+        "type": "noun",
+        "defineEn": "a tangled net of threads that a spider makes in order to catch insects",
+        "defineVi": "một mạng lưới rối ren mà một con nhện tạo ra để bắt côn trùng",
+        "hasImg": true
+    },
+    {
+        "id": "55a3d975-86e3-4659-a596-10407707ef76",
+        "word": "anthill",
+        "phonetic": "ænthɪl ",
+        "type": "noun",
+        "defineEn": "a large mound of earth created by ants as their home and for storing food",
+        "defineVi": "một gò đất lớn do kiến tạo ra làm nhà của chúng và để chứa thức ăn"
+    },
+    {
+        "id": "e95ad898-90d0-411e-ade7-dbca5422ecd7",
+        "word": "roost",
+        "phonetic": "ɹuːst ",
+        "type": "noun",
+        "defineEn": "a place where birds settle and rest",
+        "defineVi": "một nơi mà các loài chim định cư và nghỉ ngơi",
+        "hasImg": true
+    },
+    {
+        "id": "f38afcbd-0ce1-4603-9fe1-bf7bc8d47ca5",
+        "word": "rookery",
+        "phonetic": "ɹʊkɚɹi ",
+        "type": "noun",
+        "defineEn": "a collection of nests that a bird colony, such as rooks build for breeding",
+        "defineVi": "một tập hợp các tổ mà một đàn chim, chẳng hạn như tân binh, xây dựng để sinh sản"
+    },
+    {
+        "id": "192a54bc-d3bf-47ed-8644-07a4329ad685",
+        "word": "perch",
+        "phonetic": "pɜːtʃ ",
+        "type": "noun",
+        "defineEn": "a place where a bird rests or settles, such as a branch or a rod",
+        "defineVi": "một nơi mà một con chim nghỉ ngơi hoặc định cư, chẳng hạn như một cành cây hoặc một cây gậy",
+        "hasImg": true
+    },
+    {
+        "id": "bbfc886a-c60f-4b36-8cbc-be1a4edfcbc5",
+        "word": "aerie",
+        "phonetic": "ɛɹi ",
+        "type": "noun",
+        "defineEn": "a lofty nest of a bird of prey, typically built on a cliff or high place",
+        "defineVi": "một tổ cao của một con chim săn mồi, thường được xây dựng trên một vách đá hoặc nơi cao"
+    },
+    {
+        "id": "44ba8edb-a6ab-430c-8686-226d0a018a67",
+        "word": "warren",
+        "phonetic": "wɔːɹən ",
+        "type": "noun",
+        "defineEn": "a network of interconnected underground tunnels and chambers where rabbits or other small burrowing animals live",
+        "defineVi": "một mạng lưới các đường hầm và phòng dưới lòng đất được kết nối với nhau nơi thỏ hoặc các động vật đào hang nhỏ khác sinh sống"
+    },
+    {
+        "id": "0ccbe270-00f8-4922-8e77-7b1433a38140",
+        "word": "territory",
+        "phonetic": "tɛɹɪtoːɹi ",
+        "type": "noun",
+        "defineEn": "an area occupied by an animal or a group of animals that is defended against others",
+        "defineVi": "một khu vực bị chiếm giữ bởi một con vật hoặc một nhóm động vật được bảo vệ chống lại những người khác"
+    },
+    {
+        "id": "97633240-b478-4f75-9ef0-3011e8d130dc",
+        "word": "sett",
+        "phonetic": "sɛt ",
+        "type": "noun",
+        "defineEn": "a badger's den or burrow",
+        "defineVi": "hang hoặc hang của một con lửng"
+    },
+    {
+        "id": "82a8c840-7d8c-4075-bc27-4f465bb179c4",
+        "word": "rabbit hole",
+        "phonetic": "ɹæbɪt hoʊl ",
+        "type": "noun",
+        "defineEn": "a small hole or tunnel in the ground that is dug by rabbits and used as a burrow or shelter",
+        "defineVi": "một lỗ nhỏ hoặc đường hầm trên mặt đất được đào bởi những con thỏ và được sử dụng làm hang hoặc nơi trú ẩn"
+    },
+    {
+        "id": "b7e63520-9340-4c0f-bdad-c1dbf1d61fec",
+        "word": "molehill",
+        "phonetic": "moʊlhɪl ",
+        "type": "noun",
+        "defineEn": "a small hill or mound of earth created by moles as they burrow underground",
+        "defineVi": "một ngọn đồi nhỏ hoặc gò đất được tạo ra bởi nốt ruồi khi chúng đào hang dưới lòng đất"
+    },
+    {
+        "id": "45332ec8-1a71-44c2-94eb-9c4bf62d8041",
+        "word": "lodge",
+        "phonetic": "lɑːdʒ ",
+        "type": "noun",
+        "defineEn": "the nest of an otter or a beaver",
+        "defineVi": "tổ của rái cá hoặc hải ly"
+    },
+    {
+        "id": "ff36fcd5-4369-455b-a4ad-43e712c0c58d",
+        "word": "habitat",
+        "phonetic": "hæbɪtæt ",
+        "type": "noun",
+        "defineEn": "the place or area in which certain animals, birds, or plants exist",
+        "defineVi": "địa điểm hoặc khu vực mà một số loài động vật, chim hoặc thực vật tồn tại",
+        "hasImg": true
+    },
+    {
+        "id": "232c4ae8-cda6-44d0-a4da-b7e49df76928",
+        "word": "den",
+        "phonetic": "dɛn ",
+        "type": "noun",
+        "defineEn": "the hidden place where a wild predatory animal lives",
+        "defineVi": "nơi ẩn náu nơi một loài động vật săn mồi hoang dã sống",
+        "hasImg": true
+    },
+    {
+        "id": "15f30caa-48d3-4eea-8e16-cfc958ed0ee2",
+        "word": "burrow",
+        "phonetic": "bɜːɹoʊ ",
+        "type": "noun",
+        "defineEn": "a hole that an animal digs in the ground to use as a shelter",
+        "defineVi": "một cái lỗ mà một con vật đào trong lòng đất để sử dụng như một nơi trú ẩn",
+        "hasImg": true
+    },
+    {
+        "id": "6893b5de-b287-4c42-bdf8-7d8cd72a48f7",
+        "word": "fold",
+        "phonetic": "foʊld ",
+        "type": "noun",
+        "defineEn": "a group of sheep kept together for breeding purposes",
+        "defineVi": "một nhóm cừu giữ với nhau cho mục đích chăn nuôi"
+    },
+    {
+        "id": "d660f4df-428c-4deb-920d-d62be7a3d6ec",
+        "word": "pen",
+        "phonetic": "pɛn ",
+        "type": "noun",
+        "defineEn": "a designated enclosed area where domesticated animals such as pigs, goats, and chickens are housed",
+        "defineVi": "một khu vực kín được chỉ định nơi nuôi động vật thuần hóa như lợn, dê và gà"
+    },
+    {
+        "id": "265d98d4-01f7-4ff9-9c46-1401fbe4b60a",
+        "word": "aquarium",
+        "phonetic": "ɐkwɛɹiəm ",
+        "type": "noun",
+        "defineEn": "a large container usually made of glass that is filled with water in which fish and other sea creatures are kept",
+        "defineVi": "một thùng chứa lớn thường làm bằng thủy tinh chứa đầy nước trong đó cá và các sinh vật biển khác được giữ",
+        "hasImg": true
+    },
+    {
+        "id": "a1908c17-a826-418a-a244-bb67a70b9c08",
+        "word": "cote",
+        "phonetic": "koʊt ",
+        "type": "noun",
+        "defineEn": "a small shelter or coop, usually for poultry or pigeons",
+        "defineVi": "một nơi trú ẩn nhỏ hoặc chuồng, thường dành cho gia cầm hoặc chim bồ câu",
+        "hasImg": true
+    },
+    {
+        "id": "8383e57b-a8b3-4d7f-b760-7a6275cc178d",
+        "word": "sty",
+        "phonetic": "staɪ ",
+        "type": "noun",
+        "defineEn": "a small, enclosed area where pigs are kept",
+        "defineVi": "một khu vực nhỏ, kín, nơi lợn được giữ"
+    },
+    {
+        "id": "199d8ca1-0130-456b-8d45-c3a174f05d2d",
+        "word": "cage",
+        "phonetic": "keɪdʒ ",
+        "type": "noun",
+        "defineEn": "a framework made of metal bars or wires in which animals or birds can be kept",
+        "defineVi": "một khung làm bằng các thanh hoặc dây kim loại trong đó có thể giữ động vật hoặc chim",
+        "hasImg": true
+    },
+    {
+        "id": "6bef8a1a-0694-43db-80d1-6e93bdc9e7d4",
+        "word": "kennel",
+        "phonetic": "kɛnəl ",
+        "type": "noun",
+        "defineEn": "a small structure used as a shelter for a dog",
+        "defineVi": "một cấu trúc nhỏ được sử dụng như một nơi trú ẩn cho một con chó",
+        "hasImg": true
+    },
+    {
+        "id": "4784b1ca-5530-41e9-a10f-9dbef771dd4a",
+        "word": "oceanarium",
+        "phonetic": "oʊʃənɛɹiəm ",
+        "type": "noun",
+        "defineEn": "a large marine aquarium in which fish and other sea creatures are displayed to the public or studied by scientists",
+        "defineVi": "một bể cá biển lớn trong đó cá và các sinh vật biển khác được trưng bày cho công chúng hoặc nghiên cứu bởi các nhà khoa học",
+        "hasImg": true
+    },
+    {
+        "id": "e4c4f0c8-134f-4eb2-832a-f9168fa91c0f",
+        "word": "dolphinarium",
+        "phonetic": "dɑːlfɪnɛɹiəm ",
+        "type": "noun",
+        "defineEn": "an aquarium for dolphins",
+        "defineVi": "một hồ cá cho cá heo",
+        "hasImg": true
+    },
+    {
+        "id": "c7d1d13a-7f49-416e-9c4f-b360ea760824",
+        "word": "aviary",
+        "phonetic": "eɪvɪɛɹi ",
+        "type": "noun",
+        "defineEn": "a large cage or building where birds are kept",
+        "defineVi": "một cái lồng lớn hoặc tòa nhà nơi giữ chim",
+        "hasImg": true
+    },
+    {
+        "id": "a7f476cd-53dc-4b3f-a753-2753f08bf4ba",
+        "word": "fishbowl",
+        "phonetic": "fɪʃboʊl ",
+        "type": "noun",
+        "defineEn": "a glass container that fish are kept in it as pets",
+        "defineVi": "một hộp thủy tinh mà cá được giữ trong đó như vật nuôi",
+        "hasImg": true
+    },
+    {
+        "id": "4caba234-7ac4-47d5-b60a-f12ae2a42772",
+        "word": "beehive",
+        "phonetic": "biːhaɪv ",
+        "type": "noun",
+        "defineEn": "a natural or human-made structure where bees live",
+        "defineVi": "một cấu trúc tự nhiên hoặc nhân tạo nơi những con ong sống",
+        "hasImg": true
+    },
+    {
+        "id": "e52bbd4c-a428-4aa4-bf99-d78e24d53455",
+        "word": "animal shelter",
+        "phonetic": "ænɪməl ʃɛltɚ ",
+        "type": "noun",
+        "defineEn": "a temporary housing and care facility for lost, abandoned, or surrendered domesticated animals, with the aim of finding them permanent homes",
+        "defineVi": "một cơ sở chăm sóc và nhà ở tạm thời cho các động vật thuần hóa bị mất, bị bỏ rơi hoặc đầu hàng, với mục đích tìm cho chúng những ngôi nhà lâu dài"
+    },
+    {
+        "id": "89d0856e-e4bd-488c-9599-5539735d6322",
+        "word": "pound",
+        "phonetic": "paʊnd ",
+        "type": "noun",
+        "defineEn": "a small, usually enclosed, area where domesticated animals such as dogs, pigs, or cattle are kept",
+        "defineVi": "một khu vực nhỏ, thường được bao bọc, nơi các động vật được thuần hóa như chó, lợn hoặc gia súc được giữ"
+    },
+    {
+        "id": "c589e205-143c-4cc2-aa75-431d6157f8a2",
+        "word": "apiary",
+        "phonetic": "eɪpjɚɹi ",
+        "type": "noun",
+        "defineEn": "a place where bees are kept and honey is produced",
+        "defineVi": "nơi nuôi ong và lấy mật"
+    },
+    {
+        "id": "4abaa0a3-3eea-4590-910b-941113a3d2f3",
+        "word": "shed",
+        "phonetic": "ʃɛd ",
+        "type": "noun",
+        "defineEn": "a simple and small cottage-like building that is built to store things or shelter animals",
+        "defineVi": "một tòa nhà giống như ngôi nhà nhỏ và đơn giản được xây dựng để cất giữ đồ đạc hoặc nơi trú ẩn cho động vật"
+    },
+    {
+        "id": "4dccfefe-ee52-4475-9f38-31e4a63b086a",
+        "word": "form",
+        "phonetic": "fɔːɹm ",
+        "type": "noun",
+        "defineEn": "a type of animal den or shelter, usually constructed by small mammals such as rabbits, hares, or foxes",
+        "defineVi": "một loại chuồng hoặc nơi trú ẩn của động vật, thường được xây dựng bởi các động vật có vú nhỏ như thỏ, thỏ rừng hoặc cáo"
+    },
+    {
+        "id": "0d8b41ab-1183-46fe-9656-69f43d69c4d3",
+        "word": "eyrie",
+        "phonetic": "iəɹi ",
+        "type": "noun",
+        "defineEn": "a bird of prey's nest, usually built high up on a cliff or in a tree",
+        "defineVi": "một tổ chim săn mồi, thường được xây dựng cao trên vách đá hoặc trên cây"
+    },
+    {
+        "id": "b613866e-6bb4-47bb-a2b4-a0e3d6934350",
+        "word": "columbary",
+        "phonetic": "kɑːləmbɚɹi ",
+        "type": "noun",
+        "defineEn": "a structure or aviary for housing domesticated pigeons or doves",
+        "defineVi": "một cấu trúc hoặc chuồng chim để nuôi chim bồ câu hoặc chim bồ câu thuần hóa"
+    },
+    {
+        "id": "704b7fb1-5d84-46d7-a5bb-3ffa5daac192",
+        "word": "coop",
+        "phonetic": "kuːp ",
+        "type": "noun",
+        "defineEn": "a small building to confine poultry, usually in a farm",
+        "defineVi": "một tòa nhà nhỏ để nhốt gia cầm, thường là trong một trang trại",
+        "hasImg": true
+    },
+    {
+        "id": "b9e17c25-6f19-480a-93e6-3cb2c1f90c84",
+        "word": "drey",
+        "phonetic": "dɹeɪ ",
+        "type": "noun",
+        "defineEn": "a squirrel's nest in a tree",
+        "defineVi": "một cái tổ của con sóc trên cây",
+        "hasImg": true
+    },
+    {
+        "id": "4a54bf6c-6322-46b1-a4c0-ba56d75985f5",
+        "word": "menagerie",
+        "phonetic": "mənædʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a collection of live animals kept for exhibition, usually in a zoo or as part of a traveling circus",
+        "defineVi": "một bộ sưu tập động vật sống được giữ để triển lãm, thường là trong sở thú hoặc là một phần của rạp xiếc lưu động",
+        "hasImg": true
+    },
+    {
+        "id": "1cbaea76-8fbb-489e-908d-5344df698a9b",
+        "word": "zoo",
+        "phonetic": "zuː ",
+        "type": "noun",
+        "defineEn": "a place where many kinds of animals are kept for exhibition, breeding, and protection",
+        "defineVi": "nơi nuôi giữ nhiều loại động vật để trưng bày, nhân giống và bảo vệ",
+        "hasImg": true
+    },
+    {
+        "id": "804aba5c-6628-459e-8618-f404322e446a",
+        "word": "formicary",
+        "phonetic": "fɔːɹmɪkɛɹi ",
+        "type": "noun",
+        "defineEn": "a nest or dwelling place of ants",
+        "defineVi": "một tổ hoặc nơi ở của kiến"
+    },
+    {
+        "id": "af639b35-8005-46f6-9370-ef495b99eea2",
+        "word": "redd",
+        "phonetic": "ɹɛd ",
+        "type": "noun",
+        "defineEn": "a spawning nest created by salmonids, such as salmon or trout, in gravel-bottomed streams or rivers",
+        "defineVi": "một tổ sinh sản được tạo ra bởi cá hồi, chẳng hạn như cá hồi hoặc cá hồi, trong các dòng suối hoặc sông có đáy sỏi"
+    },
+    {
+        "id": "5d12ee51-c499-4e34-bbf3-14927c7ee4d9",
+        "word": "earth",
+        "phonetic": "ɜːθ ",
+        "type": "noun",
+        "defineEn": "a tunnel or hole dug underground by some animals, such as badgers, foxes, rabbits, or moles, for shelter and protection",
+        "defineVi": "một đường hầm hoặc lỗ do một số động vật đào dưới lòng đất, chẳng hạn như lửng, cáo, thỏ hoặc chuột chũi, để trú ẩn và bảo vệ"
+    },
+    {
+        "id": "073f8913-687c-4473-a1e8-fed197bc1c12",
+        "word": "holt",
+        "phonetic": "hoʊlt ",
+        "type": "noun",
+        "defineEn": "a den or shelter made by otters near a river or water source for protection, resting, grooming, and raising young",
+        "defineVi": "hang hoặc nơi trú ẩn của rái cá gần sông hoặc nguồn nước để bảo vệ, nghỉ ngơi, chải lông và nuôi con non"
+    }
+]

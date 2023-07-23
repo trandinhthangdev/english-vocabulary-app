@@ -1,0 +1,423 @@
+[
+    {
+        "id": "ef4ffee7-ce44-46a3-924f-1a3d855eab61",
+        "word": "solid",
+        "phonetic": "sɑːlɪd ",
+        "type": "noun",
+        "defineEn": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
+        "defineVi": "(hình học) một hình không có hai chiều vì nó có chiều cao, chiều rộng và chiều dài",
+        "hasImg": true
+    },
+    {
+        "id": "e899b91d-6dcd-46d3-88dd-5799c0a31d4a",
+        "word": "cube",
+        "phonetic": "kjuːb ",
+        "type": "noun",
+        "defineEn": "a figure, either hollow or solid, with six equally squared sides",
+        "defineVi": "một hình, rỗng hoặc đặc, có sáu cạnh vuông bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "1551b5b5-ace0-410b-99a8-59f36f648023",
+        "word": "cuboid",
+        "phonetic": "kjuːbɔɪd ",
+        "type": "noun",
+        "defineEn": "a rectangular parallelepiped",
+        "defineVi": "một hình bình hành hình chữ nhật",
+        "hasImg": true
+    },
+    {
+        "id": "cf2d8ed8-5b50-4b46-8da2-b21e8bbe8e5d",
+        "word": "spheroid",
+        "phonetic": "sfɛɹɔɪd ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid shape obtained by half-rotating an ellipse around one of its axis",
+        "defineVi": "(hình học) hình khối có được bằng cách quay một nửa hình elip quanh một trong các trục của nó",
+        "hasImg": true
+    },
+    {
+        "id": "d0b2851a-e8b5-478c-8cf6-b006718cec25",
+        "word": "sphere",
+        "phonetic": "sfɪɹ ",
+        "type": "noun",
+        "defineEn": "(geometry) a round object that every point on its surface has the same distance from its center",
+        "defineVi": "(hình học) một vật thể tròn mà mọi điểm trên bề mặt của nó có cùng khoảng cách với tâm của nó",
+        "hasImg": true
+    },
+    {
+        "id": "1b53fdea-d1f0-49a4-b854-1d6a1616f455",
+        "word": "cone",
+        "phonetic": "koʊn ",
+        "type": "noun",
+        "defineEn": "(geometry) a three dimensional shape with a circular base that rises to a single point",
+        "defineVi": "(hình học) hình ba chiều có đáy hình tròn đi lên từ một điểm",
+        "hasImg": true
+    },
+    {
+        "id": "09c11805-d6a2-43ee-863f-4b97335f5f60",
+        "word": "cylinder",
+        "phonetic": "sɪlɪndɚ ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid or hollow shape with two circular bases at each end and straight parallel sides",
+        "defineVi": "(hình học) hình đặc hoặc rỗng có hai đáy hình tròn ở mỗi đầu và các cạnh thẳng song song",
+        "hasImg": true
+    },
+    {
+        "id": "36602fad-df9d-4f1f-a6aa-2078d43dcf58",
+        "word": "ellipsoid",
+        "phonetic": "ɪlɪpsɔɪd ",
+        "type": "noun",
+        "defineEn": "a surface whose plane sections are all ellipses or circles",
+        "defineVi": "một bề mặt có các mặt phẳng là tất cả các hình elip hoặc hình tròn"
+    },
+    {
+        "id": "1c7994a4-0326-41dd-9ed2-bedeb51d3653",
+        "word": "hemisphere",
+        "phonetic": "hɛmɪsfɪɹ ",
+        "type": "noun",
+        "defineEn": "either half of a sphere",
+        "defineVi": "một trong hai nửa của một hình cầu",
+        "hasImg": true
+    },
+    {
+        "id": "ea17e3da-89c5-4170-86da-4844bad93138",
+        "word": "polyhedron",
+        "phonetic": "pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid figure formed by flat polygonal faces",
+        "defineVi": "(hình học) hình khối được tạo bởi các mặt đa giác phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "fe635882-3c67-4bb2-b321-c4ffd6240406",
+        "word": "trihedron",
+        "phonetic": "tɹaɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid figure formed by three flat faces that intersect in a point",
+        "defineVi": "(hình học) hình khối tạo bởi ba mặt phẳng cắt nhau tại một điểm",
+        "hasImg": true
+    },
+    {
+        "id": "5d8f1714-ef31-4041-8d15-80fec36c410f",
+        "word": "tetrahedron",
+        "phonetic": "tɛtɹɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a polyhedron with four flat sides; a triangular pyramid",
+        "defineVi": "(hình học) khối đa diện có bốn mặt phẳng; một kim tự tháp tam giác",
+        "hasImg": true
+    },
+    {
+        "id": "7eef6b04-1b2e-4c4b-88ab-4ef9083209c2",
+        "word": "pentahedron",
+        "phonetic": "pɛntɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid figure with five flat faces",
+        "defineVi": "(hình học) hình khối có năm mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "8f9344ef-061a-4511-9a4f-dfb81194b496",
+        "word": "hexahedron",
+        "phonetic": "hɛksɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid figure with six flat faces",
+        "defineVi": "(hình học) hình rắn có sáu mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "a61937b1-7a76-4865-8540-cdb6a135696d",
+        "word": "heptahedron",
+        "phonetic": "hɛptɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a polyhedron with seven faces or sides",
+        "defineVi": "một khối đa diện có bảy mặt hoặc hai mặt",
+        "hasImg": true
+    },
+    {
+        "id": "d876745e-a65a-4245-8739-2ede3264da4e",
+        "word": "octahedron",
+        "phonetic": "ɑːktɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "any polyhedron having eight plane faces",
+        "defineVi": "bất kỳ khối đa diện nào có tám mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "aaab7423-54f3-418a-a37f-e167ddfffa7b",
+        "word": "nonahedron",
+        "phonetic": "nɑːnæhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a polyhedron with nine faces or sides",
+        "defineVi": "một khối đa diện có chín mặt hoặc hai mặt",
+        "hasImg": true
+    },
+    {
+        "id": "81506508-e150-4777-95b3-b2d5287aeade",
+        "word": "decahedron",
+        "phonetic": "dᵻkɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid shape with ten flat faces",
+        "defineVi": "(hình học) hình khối có 10 mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "35273d5a-60a1-4c8d-8c05-66d174ba9bba",
+        "word": "dodecahedron",
+        "phonetic": "doʊdɛkɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "any polyhedron having twelve plane faces",
+        "defineVi": "bất kỳ khối đa diện nào có mười hai mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "e1a35562-0b0a-448e-be21-b2bc05f1b195",
+        "word": "icosahedron",
+        "phonetic": "aɪkəsɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "any polyhedron having twenty plane faces",
+        "defineVi": "bất kỳ khối đa diện nào có hai mươi mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "bef690ac-10fe-4cd6-9bf5-c2b3c0e60902",
+        "word": "toroidal polyhedron",
+        "phonetic": "toːɹɔɪdəl pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a three-dimensional shape that wraps around a torus or doughnut-like surface",
+        "defineVi": "một hình dạng ba chiều bao quanh một hình xuyến hoặc bề mặt giống như bánh rán",
+        "hasImg": true
+    },
+    {
+        "id": "aa7cde5d-9e41-43b0-ba9c-8f0f3573adb6",
+        "word": "prism",
+        "phonetic": "pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "(geometry) a solid figure with flat sides and two parallel ends of the same size and shape",
+        "defineVi": "(hình học) hình rắn có các cạnh phẳng và hai đầu song song có cùng kích thước và hình dạng",
+        "hasImg": true
+    },
+    {
+        "id": "d386ccf3-2d99-4d92-a5a1-83ea860bb914",
+        "word": "oblique prism",
+        "phonetic": "oʊbliːk pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases not being perpendicular to the sides",
+        "defineVi": "một hình dạng ba chiều có một cặp đáy song song được nối với nhau bằng các mặt hình chữ nhật, với các đáy không vuông góc với các cạnh",
+        "hasImg": true
+    },
+    {
+        "id": "edb402b9-ba0c-436c-a8f5-8ca56d3f969a",
+        "word": "right prism",
+        "phonetic": "ɹaɪt pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases being perpendicular to the sides",
+        "defineVi": "một hình dạng ba chiều có một cặp đáy song song được nối với nhau bằng các mặt hình chữ nhật, với các đáy vuông góc với các cạnh",
+        "hasImg": true
+    },
+    {
+        "id": "62d924aa-af1f-46ed-8c1f-7c308b159567",
+        "word": "uniform prism",
+        "phonetic": "juːnɪfɔːɹm pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a three-dimensional shape that has two identical bases, and all sides are the same shape and size",
+        "defineVi": "một hình dạng ba chiều có hai đáy giống hệt nhau và tất cả các mặt đều có hình dạng và kích thước giống nhau",
+        "hasImg": true
+    },
+    {
+        "id": "bbf92f8a-a448-4f9b-9d7a-932d40e8b008",
+        "word": "triangular prism",
+        "phonetic": "tɹaɪæŋɡjʊlɚ pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a prism whose bases are triangles",
+        "defineVi": "lăng trụ có đáy là tam giác",
+        "hasImg": true
+    },
+    {
+        "id": "73846434-4a20-429c-ab3d-723b030b472e",
+        "word": "square prism",
+        "phonetic": "skwɛɹ pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a type of uniform prism that has square bases and rectangular faces that connect the bases",
+        "defineVi": "một loại lăng kính đều có đáy hình vuông và các mặt hình chữ nhật nối các đáy"
+    },
+    {
+        "id": "8679f3e0-f225-43ea-98af-ec4f8983458e",
+        "word": "pentagonal prism",
+        "phonetic": "pɛntɐɡənəl pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a type of uniform prism that has pentagonal bases and rectangular faces that connect the bases",
+        "defineVi": "một loại lăng kính đồng nhất có các đáy hình ngũ giác và các mặt hình chữ nhật nối các đáy",
+        "hasImg": true
+    },
+    {
+        "id": "ddf08f31-bf12-41bc-99c6-e5ad1ea5562d",
+        "word": "hexagonal prism",
+        "phonetic": "hɛksɐɡənəl pɹɪzəm ",
+        "type": "noun",
+        "defineEn": "a type of uniform prism that has hexagonal bases and rectangular faces that connect the bases",
+        "defineVi": "một loại lăng kính đồng nhất có các đáy hình lục giác và các mặt hình chữ nhật nối các đáy"
+    },
+    {
+        "id": "85cbde7c-50af-47d9-86e5-08c69417f278",
+        "word": "rhombohedron",
+        "phonetic": "ɹɑːmboʊhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)",
+        "defineVi": "một hình bình hành được giới hạn bởi sáu mặt giống nhau (hoặc hình thoi hoặc hình bình hành)"
+    },
+    {
+        "id": "10cff173-e793-415d-b474-46b27ce97222",
+        "word": "parallelepiped",
+        "phonetic": "pæɹəlɛlɪpaɪpt ",
+        "type": "noun",
+        "defineEn": "a prism whose bases are parallelograms",
+        "defineVi": "lăng trụ có đáy là hình bình hành",
+        "hasImg": true
+    },
+    {
+        "id": "2880bdd2-b43d-489e-a684-2d4a1400b7a5",
+        "word": "hyperboloid",
+        "phonetic": "haɪpɚbɑːlɔɪd ",
+        "type": "noun",
+        "defineEn": "a quadric surface generated by rotating a hyperbola around its main axis",
+        "defineVi": "một bề mặt tứ giác được tạo ra bằng cách xoay một hyperbola quanh trục chính của nó",
+        "hasImg": true
+    },
+    {
+        "id": "f9239c44-419b-4c79-b114-118780030952",
+        "word": "platonic solid",
+        "phonetic": "plætɑːnɪk sɑːlɪd ",
+        "type": "noun",
+        "defineEn": "any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent",
+        "defineVi": "bất kỳ một trong năm vật rắn có các mặt là các đa giác đều bằng nhau và các góc của đa diện đều bằng nhau",
+        "hasImg": true
+    },
+    {
+        "id": "f73e19e7-3a59-479c-a478-658f51ef2166",
+        "word": "star polyhedron",
+        "phonetic": "stɑːɹ pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape composed of multiple intersecting polygons that form a star-like structure",
+        "defineVi": "một hình dạng hình học ba chiều bao gồm nhiều đa giác giao nhau tạo thành một cấu trúc giống như ngôi sao"
+    },
+    {
+        "id": "30761ac9-a8c2-4fbe-bbc0-f8accb40d129",
+        "word": "Kepler-Poinsot polyhedron",
+        "phonetic": "kɛplɚpɔɪnsɑːt pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a type of regular polyhedron in geometry, which is formed by extending the faces of a regular convex polyhedron to create new faces or facets",
+        "defineVi": "một loại đa diện đều trong hình học, được hình thành bằng cách mở rộng các mặt của một đa diện lồi đều để tạo các mặt hoặc mặt mới",
+        "hasImg": true
+    },
+    {
+        "id": "057acd33-579b-4d46-837d-8fba305cdae3",
+        "word": "Szilassi polyhedron",
+        "phonetic": "ʃɪlæsi pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a non-convex polyhedron in geometry that has an unusual property of having no faces that are triangles, despite being composed of triangular faces",
+        "defineVi": "một khối đa diện không lồi trong hình học có đặc tính khác thường là không có mặt nào là hình tam giác, mặc dù được tạo thành từ các mặt hình tam giác"
+    },
+    {
+        "id": "17663ccf-80f2-4c78-b7f9-3454aaa10140",
+        "word": "Csaszar polyhedron",
+        "phonetic": "siːsæszɑːɹ pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a three-dimensional shape made up of 14 faces, 21 vertices, and 36 edges, with a symmetrical arrangement of polygons",
+        "defineVi": "một hình dạng ba chiều được tạo thành từ 14 mặt, 21 đỉnh và 36 cạnh, với sự sắp xếp đối xứng của các đa giác",
+        "hasImg": true
+    },
+    {
+        "id": "850be0b5-a149-4951-b071-1f23e2f6bd03",
+        "word": "uniform polyhedron",
+        "phonetic": "juːnɪfɔːɹm pɑːlɪhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a convex polyhedron in geometry that has regular polygons as its faces and is vertex-transitive",
+        "defineVi": "một đa diện lồi trong hình học có đa giác đều như các mặt của nó và là đỉnh bắc cầu",
+        "hasImg": true
+    },
+    {
+        "id": "96ecdd0b-42da-44ec-8889-444eb50f79e0",
+        "word": "Archimedean solid",
+        "phonetic": "ɑːɹkɪmɛdiən sɑːlɪd ",
+        "type": "noun",
+        "defineEn": "a semi-regular convex polyhedron in geometry that has a combination of regular polygons as its faces, with identical vertices and edges, and is vertex-transitive",
+        "defineVi": "một đa diện lồi nửa đều trong hình học có sự kết hợp của các đa giác đều làm các mặt của nó, với các đỉnh và cạnh giống hệt nhau và có tính chuyển tiếp đỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "d35de40f-f321-401a-ac5f-51a85d19cb49",
+        "word": "snub dodecahedron",
+        "phonetic": "snʌb doʊdɛkɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a non-convex Archimedean solid with icosahedral symmetry, consisting of 80 equilateral triangles and 12 regular pentagons",
+        "defineVi": "một chất rắn Archimedes không lồi với đối xứng icosah thờ, bao gồm 80 tam giác đều và 12 ngũ giác đều",
+        "hasImg": true
+    },
+    {
+        "id": "4a982c9f-ca81-4ac7-ac28-682b79d8eb16",
+        "word": "pyramid",
+        "phonetic": "pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a solid object with a square base and four triangular sides joined to a point on the top",
+        "defineVi": "một vật rắn có đáy là hình vuông và bốn cạnh là hình tam giác được nối với một điểm trên đỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "453b67a5-d18a-49fe-a81c-f151c899c12a",
+        "word": "triangular-based pyramid",
+        "phonetic": "tɹaɪæŋɡjʊlɚbeɪst pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape with a triangular base and triangular faces that meet at a common vertex or apex point",
+        "defineVi": "một hình dạng hình học ba chiều với đáy hình tam giác và các mặt tam giác gặp nhau tại một đỉnh hoặc điểm đỉnh chung"
+    },
+    {
+        "id": "6df63766-9424-445f-b832-cdfef77f7e14",
+        "word": "square pyramid",
+        "phonetic": "skwɛɹ pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape with a square base and four triangular faces that meet at a common vertex or apex point",
+        "defineVi": "một hình dạng hình học ba chiều với một đáy hình vuông và bốn mặt hình tam giác gặp nhau tại một đỉnh chung hoặc điểm đỉnh",
+        "hasImg": true
+    },
+    {
+        "id": "03dab312-2495-4a37-82d6-003f36d63789",
+        "word": "pentagonal pyramid",
+        "phonetic": "pɛntɐɡənəl pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape with a pentagonal base and five triangular faces that meet at a common vertex or apex point",
+        "defineVi": "một hình dạng hình học ba chiều với đáy hình ngũ giác và năm mặt hình tam giác gặp nhau tại một đỉnh hoặc điểm đỉnh chung"
+    },
+    {
+        "id": "cb499cd9-1d00-415b-9e6c-3ef93c4db56f",
+        "word": "stellated dodecahedron",
+        "phonetic": "stɛleɪɾᵻd doʊdɛkɐhiːdɹən ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape formed by extending the faces of a regular dodecahedron to create additional triangular faces or spikes",
+        "defineVi": "một hình dạng hình học ba chiều được hình thành bằng cách mở rộng các mặt của một khối mười hai mặt thông thường để tạo ra các mặt hoặc gai hình tam giác bổ sung"
+    },
+    {
+        "id": "53052441-2a4c-4eaa-ad9e-b6589cb1eb67",
+        "word": "hexagonal pyramid",
+        "phonetic": "hɛksɐɡənəl pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape with a hexagonal base and triangular faces that meet at a common vertex",
+        "defineVi": "một hình dạng hình học ba chiều với đáy hình lục giác và các mặt hình tam giác gặp nhau tại một đỉnh chung"
+    },
+    {
+        "id": "4a864790-1f79-4411-a45f-2bbed4654313",
+        "word": "heptagonal pyramid",
+        "phonetic": "hɛptɐɡənəl pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a three-dimensional geometric shape with a heptagonal base and triangular faces that meet at a common vertex",
+        "defineVi": "một hình dạng hình học ba chiều với đáy hình lục giác và các mặt hình tam giác gặp nhau tại một đỉnh chung",
+        "hasImg": true
+    },
+    {
+        "id": "2eb4170a-1c73-4bee-9203-c294de24256f",
+        "word": "octagonal pyramid",
+        "phonetic": "ɑːktɐɡənəl pɪɹɐmɪd ",
+        "type": "noun",
+        "defineEn": "a geometric shape consisting of an octagonal base and triangular faces that converge to a single point or vertex at the top",
+        "defineVi": "một hình dạng hình học bao gồm một cơ sở hình bát giác và các mặt hình tam giác hội tụ tại một điểm hoặc một đỉnh ở trên cùng"
+    }
+]

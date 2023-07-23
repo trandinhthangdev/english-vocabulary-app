@@ -1,0 +1,411 @@
+[
+    {
+        "id": "a672c17c-cbf0-428c-abf5-5e985953ffd6",
+        "word": "adversary",
+        "phonetic": "ædvɚsɚɹi ",
+        "type": "noun",
+        "defineEn": "a person that one is opposed to and fights or competes with",
+        "defineVi": "một người mà một người phản đối và chiến đấu hoặc cạnh tranh với",
+        "hasImg": true
+    },
+    {
+        "id": "0bb63b79-73af-4d5d-bb50-e2042490125a",
+        "word": "against",
+        "phonetic": "ɐɡɛnst ",
+        "type": "preposition",
+        "defineEn": "in opposition to someone or something",
+        "defineVi": "đối lập với một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "ba3951b9-d4df-4ef5-a346-31705cc331ee",
+        "word": "all hell break loose / out",
+        "phonetic": "ɔːl hɛl bɹeɪk luːs slæʃ aʊt ",
+        "type": "phrase",
+        "defineEn": "used when a situation suddenly becomes very intense or chaotic",
+        "defineVi": "được sử dụng khi một tình huống đột nhiên trở nên rất căng thẳng hoặc hỗn loạn"
+    },
+    {
+        "id": "4319d1ff-2863-4b68-bbfb-e41007d604a6",
+        "word": "altercation",
+        "phonetic": "ɔltɚkeɪʃən ",
+        "type": "noun",
+        "defineEn": "a noisy dispute",
+        "defineVi": "tranh chấp ồn ào"
+    },
+    {
+        "id": "e96a11b7-a64d-41d2-bce7-0c46f6347d9f",
+        "word": "anti",
+        "phonetic": "æntaɪ ",
+        "type": "preposition",
+        "defineEn": "against; in disagreement with",
+        "defineVi": "chống lại; bất đồng với"
+    },
+    {
+        "id": "aa3fd1f1-bbf2-410b-ae18-11bd7dd8c8a0",
+        "word": "to argue",
+        "phonetic": "tʊ ɑːɹɡjuː ",
+        "type": "verb",
+        "defineEn": "to speak to someone often angrily because one disagrees with them",
+        "defineVi": "nói chuyện với ai đó thường giận dữ vì một người không đồng ý với họ",
+        "hasImg": true
+    },
+    {
+        "id": "c43b777e-45ca-4505-898c-106ae5ee5174",
+        "word": "argument",
+        "phonetic": "ɑːɹɡjuːmənt ",
+        "type": "noun",
+        "defineEn": "a discussion, typically a serious one, between two or more people with different views",
+        "defineVi": "một cuộc thảo luận, điển hình là một cuộc thảo luận nghiêm túc, giữa hai hoặc nhiều người có quan điểm khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "d89dfe51-8426-4701-9609-08c275eaa75f",
+        "word": "to argue with",
+        "phonetic": "tʊ ɑːɹɡjuː wɪð ",
+        "type": "verb",
+        "defineEn": "to deny a statement",
+        "defineVi": "để từ chối một tuyên bố",
+        "hasImg": true
+    },
+    {
+        "id": "88298d1d-91be-450e-b6d1-4b1e377d28f0",
+        "word": "argumentative",
+        "phonetic": "ɑːɹɡjuːmɛntətɪv ",
+        "type": "adjective",
+        "defineEn": "(of a person) ready to argue and often arguing",
+        "defineVi": "(của một người) sẵn sàng tranh luận và thường tranh luận",
+        "hasImg": true
+    },
+    {
+        "id": "efae49db-a9bf-4d77-b5e8-6bc6fc8cb71c",
+        "word": "as a matter of fact",
+        "phonetic": "æz ɐ mæɾɚɹ ʌv fækt ",
+        "type": "adverb",
+        "defineEn": "said to disagree with what someone just said",
+        "defineVi": "nói không đồng ý với những gì ai đó vừa nói"
+    },
+    {
+        "id": "d5c0cb82-8e71-4b82-a4ab-c46ec58a89da",
+        "word": "athwart",
+        "phonetic": "æθwɔːɹt ",
+        "type": "preposition",
+        "defineEn": "opposite to; against",
+        "defineVi": "ngược lại với; chống lại"
+    },
+    {
+        "id": "15bab008-c916-4391-ab5e-8e5deaedccf4",
+        "word": "at loggerheads",
+        "phonetic": "æt lɔɡɚhɛdz ",
+        "type": "phrase",
+        "defineEn": "in serious disagreement with someone",
+        "defineVi": "bất đồng nghiêm trọng với ai đó"
+    },
+    {
+        "id": "93d12d9a-a90b-46ff-bd86-3d4af5514c5c",
+        "word": "at odds",
+        "phonetic": "æɾ ɑːdz ",
+        "type": "phrase",
+        "defineEn": "(of opinions) in contrast to one another",
+        "defineVi": "(về ý kiến) trái ngược với nhau"
+    },
+    {
+        "id": "2c364926-3372-494d-97c8-39d32853dbba",
+        "word": "bad feelings",
+        "phonetic": "bæd fiːlɪŋz ",
+        "type": "noun",
+        "defineEn": "feeling of anger between people, particularly because of an argument",
+        "defineVi": "cảm giác tức giận giữa mọi người, đặc biệt là vì một cuộc tranh cãi"
+    },
+    {
+        "id": "f272d2af-64ba-40b5-b497-52dbd89be7dc",
+        "word": "to bang  one\\'s heads together",
+        "phonetic": "tə bæŋ wʌn bækslæʃ ɛs hɛdz təɡɛðɚ ",
+        "type": "phrase",
+        "defineEn": "to forcefully make people stop arguing and start behaving appropriately",
+        "defineVi": "để buộc mọi người ngừng tranh cãi và bắt đầu cư xử phù hợp"
+    },
+    {
+        "id": "881cc1fb-58a8-4e8c-b791-2c0edcbd61b7",
+        "word": "battle",
+        "phonetic": "bæɾəl ",
+        "type": "noun",
+        "defineEn": "a situation in which opposing sides argue or compete with one another to achieve something",
+        "defineVi": "một tình huống trong đó các bên đối lập tranh luận hoặc cạnh tranh với nhau để đạt được điều gì đó"
+    },
+    {
+        "id": "f8c8357b-a46f-43b1-a855-e9ad75b7a86d",
+        "word": "battleground",
+        "phonetic": "bæɾəlɡɹaʊnd ",
+        "type": "noun",
+        "defineEn": "a subject of dispute; a situation in which people disagree",
+        "defineVi": "đối tượng tranh chấp; một tình huống trong đó mọi người không đồng ý"
+    },
+    {
+        "id": "d57a8a5a-9b4d-4f4c-9419-98ef39485bdf",
+        "word": "to beard the lion in his / her den",
+        "phonetic": "tə bɪɹd ðə laɪən ɪn hɪzɔːɹhɜː dɛn ",
+        "type": "phrase",
+        "defineEn": "to visit a person of authority and demand things of them or tell them that one disagrees with them",
+        "defineVi": "đến thăm một người có thẩm quyền và yêu cầu mọi thứ của họ hoặc nói với họ rằng một người không đồng ý với họ"
+    },
+    {
+        "id": "dd7dff94-49f2-4732-9f70-713f1165c5d4",
+        "word": "at each other\\'s throats",
+        "phonetic": "æɾ iːtʃ ʌðɚ bækslæʃ ɛs θɹoʊts ",
+        "type": "phrase",
+        "defineEn": "used when two or more people, groups, or organizations fight or disagree with one another",
+        "defineVi": "được sử dụng khi hai hoặc nhiều người, nhóm hoặc tổ chức đấu tranh hoặc không đồng ý với nhau"
+    },
+    {
+        "id": "c7f5018f-b37f-4460-95b8-5477dd234b86",
+        "word": "bellicose",
+        "phonetic": "bɛlɪkoʊs ",
+        "type": "adjective",
+        "defineEn": "displaying a willingness to start an argument, fight, or war",
+        "defineVi": "thể hiện sự sẵn sàng bắt đầu một cuộc tranh cãi, chiến đấu hoặc chiến tranh"
+    },
+    {
+        "id": "8e97df30-bb3b-462e-9b75-012446385ab4",
+        "word": "bellicosity",
+        "phonetic": "bɛlɪkɔsᵻɾi ",
+        "type": "noun",
+        "defineEn": "the desire to start an argument, fight, or war",
+        "defineVi": "mong muốn bắt đầu một cuộc tranh cãi, chiến đấu hoặc chiến tranh"
+    },
+    {
+        "id": "cc2eaa8c-cec0-4e3e-b9c4-4836362aa68f",
+        "word": "to bicker",
+        "phonetic": "tə bɪkɚ ",
+        "type": "verb",
+        "defineEn": "to argue over unimportant things",
+        "defineVi": "để tranh luận về những điều không quan trọng",
+        "hasImg": true
+    },
+    {
+        "id": "45f3738e-1989-41bb-93b8-a45480467a73",
+        "word": "bickering",
+        "phonetic": "bɪkɚɹɪŋ ",
+        "type": "noun",
+        "defineEn": "argument over unimportant things",
+        "defineVi": "tranh luận về những điều không quan trọng"
+    },
+    {
+        "id": "a9f2cd77-4d8f-4fb6-a174-121dc33d9514",
+        "word": "to bite / hold one\\'s tongue / lip",
+        "phonetic": "tə baɪt slæʃ hoʊld wʌn bækslæʃ ɛs tʌŋ slæʃ lɪp ",
+        "type": "phrase",
+        "defineEn": "to not say something, against one's wish, in order to avoid causing an argument or upsetting someone",
+        "defineVi": "không nói điều gì đó, trái với mong muốn của một người, để tránh gây ra một cuộc tranh cãi hoặc làm phiền ai đó"
+    },
+    {
+        "id": "cd5ebbeb-2f87-4262-81af-3d2031827139",
+        "word": "bone of contention",
+        "phonetic": "boʊn ʌv kəntɛnʃən ",
+        "type": "phrase",
+        "defineEn": "a subject over which people disagree",
+        "defineVi": "một chủ đề mà mọi người không đồng ý"
+    },
+    {
+        "id": "58221615-a7b5-4c4e-846b-837bb7dcec41",
+        "word": "but",
+        "phonetic": "bʌt ",
+        "type": "conjunction",
+        "defineEn": "said to introduce a statement that displays one's surprise, anger, or disagreement",
+        "defineVi": "được nói để giới thiệu một tuyên bố thể hiện sự ngạc nhiên, tức giận hoặc bất đồng của một người"
+    },
+    {
+        "id": "5daf80c2-8e16-4197-8363-6ddc6292648c",
+        "word": "to carry on",
+        "phonetic": "tə kæɹi ɔn ",
+        "type": "verb",
+        "defineEn": "to keep arguing or complaining in a way that is annoying",
+        "defineVi": "tiếp tục tranh luận hoặc phàn nàn theo cách gây phiền nhiễu"
+    },
+    {
+        "id": "59458298-b40b-4bf3-8d1f-ca048c43044a",
+        "word": "challenging",
+        "phonetic": "tʃæləndʒɪŋ ",
+        "type": "adjective",
+        "defineEn": "causing disagreement or competition",
+        "defineVi": "gây bất đồng hoặc cạnh tranh"
+    },
+    {
+        "id": "87148b99-4fcd-4568-af5e-4361dfec8d5b",
+        "word": "clash",
+        "phonetic": "klæʃ ",
+        "type": "noun",
+        "defineEn": "a serious argument between two sides caused by their different views and beliefs",
+        "defineVi": "một cuộc tranh luận nghiêm trọng giữa hai bên gây ra bởi quan điểm và niềm tin khác nhau của họ"
+    },
+    {
+        "id": "0c91befc-bb6e-4089-86a0-cb076104693c",
+        "word": "to clash",
+        "phonetic": "tə klæʃ ",
+        "type": "verb",
+        "defineEn": "to strongly and publicly argue or disagree with someone",
+        "defineVi": "mạnh mẽ và công khai tranh luận hoặc không đồng ý với một ai đó"
+    },
+    {
+        "id": "b7333196-a61d-44b3-ad1b-0ab2c650143b",
+        "word": "to collide",
+        "phonetic": "tə kəlaɪd ",
+        "type": "verb",
+        "defineEn": "(of people, their opinions, ideas, etc.) to seriously disagree",
+        "defineVi": "(của mọi người, ý kiến, ý tưởng của họ, v.v.) nghiêm trọng không đồng ý"
+    },
+    {
+        "id": "f0c65e8a-89b5-4415-ae5d-63ea5f6ad1a0",
+        "word": "collision",
+        "phonetic": "kəlɪʒən ",
+        "type": "noun",
+        "defineEn": "a serious disagreement between people, ideas, opinions, etc.",
+        "defineVi": "một sự bất đồng nghiêm trọng giữa con người, ý tưởng, quan điểm, v.v."
+    },
+    {
+        "id": "9c0adf16-c86a-4148-92a3-93ad8d6d38bc",
+        "word": "combative",
+        "phonetic": "kəmbæɾɪv ",
+        "type": "adjective",
+        "defineEn": "eager and ready to start an argument or fight",
+        "defineVi": "háo hức và sẵn sàng bắt đầu một cuộc tranh cãi hoặc chiến đấu"
+    },
+    {
+        "id": "1980a638-24b1-42c4-8749-1bc7f7371e4b",
+        "word": "come off it",
+        "phonetic": "kʌm ɔf ɪt ",
+        "type": "sentence",
+        "defineEn": "used to tell someone that they should stop saying or doing a particular thing",
+        "defineVi": "được sử dụng để nói với ai đó rằng họ nên ngừng nói hoặc làm một điều cụ thể"
+    },
+    {
+        "id": "ab7a0356-6b25-4537-9747-c82a3d7d402f",
+        "word": "to come out on top",
+        "phonetic": "tə kʌm aʊt ɔn tɑːp ",
+        "type": "phrase",
+        "defineEn": "to win an argument or other competitive situation",
+        "defineVi": "để giành chiến thắng trong một cuộc tranh luận hoặc tình hình cạnh tranh khác",
+        "hasImg": true
+    },
+    {
+        "id": "930f81a3-b90c-4741-8ac7-3bcb54f761a5",
+        "word": "conflict",
+        "phonetic": "kɑːnflɪkt ",
+        "type": "noun",
+        "defineEn": "a strong disagreement, usually a prolonged one",
+        "defineVi": "một sự bất đồng mạnh mẽ, thường là một kéo dài",
+        "hasImg": true
+    },
+    {
+        "id": "638643f0-40ba-4a21-a40b-ce05d86462ec",
+        "word": "to conflict",
+        "phonetic": "tə kənflɪkt ",
+        "type": "verb",
+        "defineEn": "(of two ideas, opinions, etc.) to oppose each other",
+        "defineVi": "(của hai ý tưởng, quan điểm, v.v.) đối lập nhau"
+    },
+    {
+        "id": "625258ee-53a3-46f6-9e71-22d0436d2633",
+        "word": "to confront",
+        "phonetic": "tə kənfɹʌnt ",
+        "type": "verb",
+        "defineEn": "to face someone, particularly in a way that is unfriendly or threatening",
+        "defineVi": "đối mặt với ai đó, đặc biệt là theo cách không thân thiện hoặc đe dọa",
+        "hasImg": true
+    },
+    {
+        "id": "e41f91ed-11cd-4325-9710-f61c6a2c7441",
+        "word": "confrontation",
+        "phonetic": "kɑːnfɹənteɪʃən ",
+        "type": "noun",
+        "defineEn": "a situation of hostility or strong disagreement between two opposing individuals, parties, or groups",
+        "defineVi": "một tình huống thù địch hoặc bất đồng mạnh mẽ giữa hai cá nhân, bên, hoặc nhóm đối lập"
+    },
+    {
+        "id": "30843437-b9be-4dd2-bf2e-2d4644b9ab89",
+        "word": "confrontational",
+        "phonetic": "kɑːnfɹənteɪʃənəl ",
+        "type": "adjective",
+        "defineEn": "likely to cause arguments because of being aggressive",
+        "defineVi": "có khả năng gây ra tranh cãi vì hung hăng"
+    },
+    {
+        "id": "b2c0b95a-21b9-412d-a19a-c01748c23a3f",
+        "word": "contention",
+        "phonetic": "kəntɛnʃən ",
+        "type": "noun",
+        "defineEn": "strong disagreement",
+        "defineVi": "bất đồng mạnh mẽ"
+    },
+    {
+        "id": "8ad4a017-f611-4df8-ae15-696c6d38b7f7",
+        "word": "contentious",
+        "phonetic": "kəntɛnʃəs ",
+        "type": "adjective",
+        "defineEn": "*** someone who is contentious often argues with people",
+        "defineVi": "*** người hay tranh cãi với người"
+    },
+    {
+        "id": "b8b04df5-b469-4336-ba08-24d98f3b5a4a",
+        "word": "to contradict",
+        "phonetic": "tə kɑːntɹədɪkt ",
+        "type": "verb",
+        "defineEn": "to disagree with someone, particularly by asserting the opposite of their statement",
+        "defineVi": "không đồng ý với ai đó, đặc biệt bằng cách khẳng định điều ngược lại với tuyên bố của họ"
+    },
+    {
+        "id": "e2603aa4-886b-4651-9d59-c4c339a4fc34",
+        "word": "contrarian",
+        "phonetic": "kɑːntɹɚɹaɪən ",
+        "type": "noun",
+        "defineEn": "someone who acts against popular opinion, particularly in investment markets",
+        "defineVi": "một người hành động chống lại ý kiến phổ biến, đặc biệt là trong thị trường đầu tư"
+    },
+    {
+        "id": "dc2aabb1-52a0-4147-a526-f2a5e453e115",
+        "word": "contretemps",
+        "phonetic": "kɑːntɹɪtɛmps ",
+        "type": "noun",
+        "defineEn": "a slight disagreement or an unpleasant event that causes embarrassment",
+        "defineVi": "một sự bất đồng nhỏ hoặc một sự kiện khó chịu gây ra sự bối rối"
+    },
+    {
+        "id": "5abb1c24-c36a-4cd9-badf-57b15d707027",
+        "word": "controversial",
+        "phonetic": "kɑːntɹəvɜːʃəl ",
+        "type": "adjective",
+        "defineEn": "causing a lot of strong public disagreement or discussion",
+        "defineVi": "gây ra nhiều bất đồng hoặc thảo luận mạnh mẽ trong công chúng"
+    },
+    {
+        "id": "1787dc65-a790-4b95-928d-05108c169a05",
+        "word": "controversially",
+        "phonetic": "kɑːntɹəvɜːʃəli ",
+        "type": "adverb",
+        "defineEn": "in a way that causes strong public disagreement",
+        "defineVi": "theo cách gây ra sự bất đồng công khai mạnh mẽ"
+    },
+    {
+        "id": "453944db-32be-43f4-a508-409fe60ddae2",
+        "word": "controversy",
+        "phonetic": "kɑːntɹəvɜːsi ",
+        "type": "noun",
+        "defineEn": "a strong disagreement or argument over something that involves many people",
+        "defineVi": "một bất đồng mạnh mẽ hoặc tranh luận về một cái gì đó liên quan đến nhiều người"
+    },
+    {
+        "id": "0b02f3bc-266e-448d-b2f3-98075476d678",
+        "word": "to ask for trouble",
+        "phonetic": "tʊ æsk fɔːɹ tɹʌbəl ",
+        "type": "phrase",
+        "defineEn": "to do something that is very likely to result in trouble or difficulty",
+        "defineVi": "để làm một cái gì đó mà rất có khả năng dẫn đến rắc rối hoặc khó khăn"
+    },
+    {
+        "id": "46068477-246e-4010-a8f5-9c299876a633",
+        "word": "on a collision course",
+        "phonetic": "ɔn ɐ kəlɪʒən koːɹs ",
+        "type": "phrase",
+        "defineEn": "in a situation that is likely to cause a disagreement or fight",
+        "defineVi": "trong một tình huống có khả năng gây ra bất đồng hoặc chiến đấu"
+    }
+]

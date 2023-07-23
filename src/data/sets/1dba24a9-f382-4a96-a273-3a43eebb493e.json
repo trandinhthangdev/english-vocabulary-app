@@ -1,0 +1,518 @@
+[
+    {
+        "id": "4db3259e-19c9-42d8-a711-93c3779ac347",
+        "word": "to look for",
+        "phonetic": "tə lʊk fɔːɹ ",
+        "type": "verb",
+        "defineEn": "to try to find something or someone",
+        "defineVi": "để cố gắng tìm một cái gì đó hoặc một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "154e752b-10ad-4936-85fc-da2952b9798c",
+        "word": "to seek",
+        "phonetic": "tə siːk ",
+        "type": "verb",
+        "defineEn": "to try to find something or someone",
+        "defineVi": "để cố gắng tìm một cái gì đó hoặc một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "9566194a-3a0e-41ab-b052-1e193bcd8d28",
+        "word": "full",
+        "phonetic": "fʊl ",
+        "type": "adjective",
+        "defineEn": "having no space left",
+        "defineVi": "không còn chỗ trống",
+        "hasImg": true
+    },
+    {
+        "id": "d50106b9-0b56-4e17-9eca-1e3f6e2fcf3f",
+        "word": "complete",
+        "phonetic": "kəmpliːt ",
+        "type": "adjective",
+        "defineEn": "having all the necessary parts",
+        "defineVi": "có tất cả các bộ phận cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "b8b112e0-ce3a-4076-9502-6bddc972b4b8",
+        "word": "fast",
+        "phonetic": "fæst ",
+        "type": "adjective",
+        "defineEn": "having a high speed when moving or doing something",
+        "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "b0697890-0c71-4d6a-b663-78f08855233e",
+        "word": "quick",
+        "phonetic": "kwɪk ",
+        "type": "adjective",
+        "defineEn": "taking a short time to move, happen, or be done",
+        "defineVi": "mất một thời gian ngắn để di chuyển, xảy ra, hoặc được thực hiện",
+        "hasImg": true
+    },
+    {
+        "id": "ddc34c11-cb39-4a80-a048-a09a574b237d",
+        "word": "pair",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a set of two matching items that are designed to be used together or regarded as one",
+        "defineVi": "một bộ gồm hai mục phù hợp được thiết kế để sử dụng cùng nhau hoặc được coi là một",
+        "hasImg": true
+    },
+    {
+        "id": "5b734ef0-9a11-4da5-8620-18141b9e3cd6",
+        "word": "couple",
+        "phonetic": "kʌpəl ",
+        "type": "noun",
+        "defineEn": "a pair of things or people",
+        "defineVi": "một cặp những điều hoặc người"
+    },
+    {
+        "id": "c4246814-364f-4cef-a91a-6ec4d8ae7385",
+        "word": "distant",
+        "phonetic": "dɪstənt ",
+        "type": "adjective",
+        "defineEn": "not close in time or space",
+        "defineVi": "không đóng trong thời gian hoặc không gian"
+    },
+    {
+        "id": "404a01da-1032-446a-9b25-21d33f7ed150",
+        "word": "far",
+        "phonetic": "fɑːɹ ",
+        "type": "adverb",
+        "defineEn": "to or at a great distance",
+        "defineVi": "đến hoặc ở một khoảng cách lớn",
+        "hasImg": true
+    },
+    {
+        "id": "4da40380-1e38-4eab-981d-38a1513c1c12",
+        "word": "job",
+        "phonetic": "dʒɑːb ",
+        "type": "noun",
+        "defineEn": "the work that we do regularly to earn money",
+        "defineVi": "công việc mà chúng tôi làm thường xuyên để kiếm tiền",
+        "hasImg": true
+    },
+    {
+        "id": "a4197cb7-0973-4f34-8522-0fb380d08e4e",
+        "word": "career",
+        "phonetic": "kɚɹɪɹ ",
+        "type": "noun",
+        "defineEn": "a profession or a series of professions that one can do for a long period of one's life",
+        "defineVi": "một nghề hoặc một loạt các nghề mà người ta có thể làm trong một thời gian dài của cuộc đời mình",
+        "hasImg": true
+    },
+    {
+        "id": "012e6f15-575f-4265-9d34-ab7352608190",
+        "word": "to hurt",
+        "phonetic": "tə hɜːt ",
+        "type": "verb",
+        "defineEn": "to cause injury or physical pain to yourself or someone else",
+        "defineVi": "gây thương tích hoặc đau đớn về thể chất cho chính bạn hoặc người khác",
+        "hasImg": true
+    },
+    {
+        "id": "a826bfb9-6f1c-4c8f-8ccb-e926112f592d",
+        "word": "damaged",
+        "phonetic": "dæmɪdʒd ",
+        "type": "adjective",
+        "defineEn": "(of a person or thing) harmed or spoiled",
+        "defineVi": "(của một người hoặc vật) bị tổn hại hoặc hư hỏng"
+    },
+    {
+        "id": "da0cde01-4786-4173-85fc-bceccf1fc399",
+        "word": "approximate",
+        "phonetic": "ɐpɹɑːksɪmət ",
+        "type": "adjective",
+        "defineEn": "near to a quality or quality but not in an exact way",
+        "defineVi": "gần với một chất lượng hoặc chất lượng nhưng không phải là một cách chính xác"
+    },
+    {
+        "id": "bf9ab284-ef67-4a11-aa6c-f4db5d875e5e",
+        "word": "rough",
+        "phonetic": "ɹʌf ",
+        "type": "adjective",
+        "defineEn": "close but not correct or exact",
+        "defineVi": "đóng nhưng không chính xác hoặc chính xác"
+    },
+    {
+        "id": "d81c91fd-eb1f-4109-99b1-61d05c2863c6",
+        "word": "strongly",
+        "phonetic": "stɹɔŋli ",
+        "type": "adverb",
+        "defineEn": "to a large extent or degree",
+        "defineVi": "đến một mức độ lớn hoặc mức độ"
+    },
+    {
+        "id": "9e46476b-9650-4dca-949f-ca05ffc100fe",
+        "word": "highly",
+        "phonetic": "haɪli ",
+        "type": "adverb",
+        "defineEn": "to a high level or degree",
+        "defineVi": "đến một mức độ cao hoặc mức độ"
+    },
+    {
+        "id": "72fc7ece-4946-4e9c-ad69-b3087dbf70e4",
+        "word": "under",
+        "phonetic": "ʌndɚ ",
+        "type": "preposition",
+        "defineEn": "in, to, or through a position that is below something",
+        "defineVi": "trong, đến hoặc thông qua một vị trí bên dưới một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "20794820-e10d-4f10-93a4-471289cd42a0",
+        "word": "below",
+        "phonetic": "bᵻloʊ ",
+        "type": "adverb",
+        "defineEn": "in a lower level, position, or place",
+        "defineVi": "ở cấp độ thấp hơn, vị trí hoặc địa điểm",
+        "hasImg": true
+    },
+    {
+        "id": "20adb652-5004-4188-9d0c-9585d6a095a5",
+        "word": "to go around",
+        "phonetic": "tə ɡoʊ ɚɹaʊnd ",
+        "type": "verb",
+        "defineEn": "(of information or physical objects) to circulate or distribute something, often in a haphazard or informal manner",
+        "defineVi": "(của thông tin hoặc vật thể) để lưu hành hoặc phân phối một cái gì đó, thường là một cách ngẫu nhiên hoặc không chính thức"
+    },
+    {
+        "id": "3004216a-bcd0-4d2e-b94b-70657bf9d39e",
+        "word": "to put off",
+        "phonetic": "tə pʊt ɔf ",
+        "type": "verb",
+        "defineEn": "to postpone or cancel something such as an appointment or arrangement",
+        "defineVi": "để trì hoãn hoặc hủy bỏ một cái gì đó như một cuộc hẹn hoặc sắp xếp",
+        "hasImg": true
+    },
+    {
+        "id": "fc5ac237-5a60-4042-8ce5-7505beef054a",
+        "word": "to get over",
+        "phonetic": "tə ɡɛt oʊvɚ ",
+        "type": "verb",
+        "defineEn": "to recover from an unpleasant or unhappy experience, particularly an illness",
+        "defineVi": "để phục hồi từ một trải nghiệm khó chịu hoặc không vui, đặc biệt là một căn bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "d98591ad-1108-4239-b1bc-2fd8fa06d153",
+        "word": "to come up with sth",
+        "phonetic": "tə kʌm ʌp wɪð ɛstiːeɪtʃ ",
+        "type": "phrase",
+        "defineEn": "to produce or create something, usually an idea, a solution, or a plan, through one's own efforts or thinking",
+        "defineVi": "để sản xuất hoặc tạo ra một cái gì đó, thường là một ý tưởng, một giải pháp hoặc một kế hoạch, thông qua những nỗ lực hoặc suy nghĩ của chính mình"
+    },
+    {
+        "id": "731c6056-c257-4cc3-9805-c5e13093b219",
+        "word": "to carry on",
+        "phonetic": "tə kæɹi ɔn ",
+        "type": "verb",
+        "defineEn": "to take part in an activity",
+        "defineVi": "tham gia vào một hoạt động"
+    },
+    {
+        "id": "70d8c145-6710-4d80-9287-bfd75871c33b",
+        "word": "to make up",
+        "phonetic": "tə meɪk ʌp ",
+        "type": "verb",
+        "defineEn": "to fabricate a story, etc. usually for entertainment or deception",
+        "defineVi": "để bịa ra một câu chuyện, vv thường là để giải trí hoặc lừa dối"
+    },
+    {
+        "id": "3ad537e4-bad4-4403-bae8-f7b3fb14e21c",
+        "word": "to dress up",
+        "phonetic": "tə dɹɛs ʌp ",
+        "type": "verb",
+        "defineEn": "to wear formal clothes for a special occasion or event",
+        "defineVi": "mặc quần áo trang trọng cho một dịp đặc biệt hoặc sự kiện",
+        "hasImg": true
+    },
+    {
+        "id": "e49915de-7e6d-4c88-945e-ce792bff2dcb",
+        "word": "to turn out",
+        "phonetic": "tə tɜːn aʊt ",
+        "type": "verb",
+        "defineEn": "to end up being or proving to be, especially in a way that was not expected or anticipated",
+        "defineVi": "để kết thúc hoặc chứng minh là, đặc biệt là theo cách không được mong đợi hoặc dự đoán"
+    },
+    {
+        "id": "8c3632d4-10ee-46b7-ac5a-49f645949b8e",
+        "word": "to lay off",
+        "phonetic": "tə leɪ ɔf ",
+        "type": "verb",
+        "defineEn": "to let go of workers due to financial deficit or because there is not enough work for them to do",
+        "defineVi": "sa thải công nhân do thâm hụt tài chính hoặc vì không có đủ việc cho họ làm",
+        "hasImg": true
+    },
+    {
+        "id": "f6b7281d-ec23-4d48-afea-a34ee1efdfb3",
+        "word": "to carry out",
+        "phonetic": "tə kæɹi aʊt ",
+        "type": "verb",
+        "defineEn": "to do a task",
+        "defineVi": "để làm một nhiệm vụ"
+    },
+    {
+        "id": "d3f1a9c7-c099-465c-80e5-33d1751df23a",
+        "word": "ill-fated",
+        "phonetic": "ɪlfeɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "marked by bringing bad fortune or ending in failure",
+        "defineVi": "được đánh dấu bằng cách mang lại vận rủi hoặc kết thúc trong thất bại"
+    },
+    {
+        "id": "1a692688-a001-47fe-8fae-315587118f82",
+        "word": "brother",
+        "phonetic": "bɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "a man who shares a mother and father with us",
+        "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "a4c9d802-d32a-4350-bf75-8c8a713754e3",
+        "word": "sister",
+        "phonetic": "sɪstɚ ",
+        "type": "noun",
+        "defineEn": "a lady who shares a mother and father with us",
+        "defineVi": "một người phụ nữ chia sẻ một người mẹ và cha với chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "85ed1ff4-db36-4f50-bd2c-0b329bf8176f",
+        "word": "conversation",
+        "phonetic": "kɑːnvɚseɪʃən ",
+        "type": "noun",
+        "defineEn": "a talk that is between two or more people and they tell each other about different things like feelings, ideas, and thoughts",
+        "defineVi": "một cuộc nói chuyện giữa hai hoặc nhiều người và họ nói với nhau về những điều khác nhau như cảm xúc, ý tưởng và suy nghĩ",
+        "hasImg": true
+    },
+    {
+        "id": "1bce09fa-440c-4a17-a154-3a83a518615a",
+        "word": "task",
+        "phonetic": "tæsk ",
+        "type": "noun",
+        "defineEn": "a piece of work for someone to do, especially as an assignment",
+        "defineVi": "một phần công việc cho một người nào đó để làm, đặc biệt là một nhiệm vụ"
+    },
+    {
+        "id": "8b148b1c-ee80-431f-903c-d50e11c2d618",
+        "word": "perk",
+        "phonetic": "pɜːk ",
+        "type": "noun",
+        "defineEn": "an extra benefit, advantage, or privilege that one receives in addition to one's salary due to one's job",
+        "defineVi": "một lợi ích bổ sung, lợi thế, hoặc đặc quyền mà một người nhận được ngoài tiền lương của một người do công việc của một người"
+    },
+    {
+        "id": "5367bfe5-8d32-4a1b-9506-4606a1cc25e7",
+        "word": "against",
+        "phonetic": "ɐɡɛnst ",
+        "type": "preposition",
+        "defineEn": "in opposition to someone or something",
+        "defineVi": "đối lập với một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "625d2953-2915-4871-90f4-d9bb11015a09",
+        "word": "to quit",
+        "phonetic": "tə kwɪt ",
+        "type": "verb",
+        "defineEn": "to stop or cease an activity or an action",
+        "defineVi": "để dừng lại hoặc chấm dứt một hoạt động hoặc một hành động",
+        "hasImg": true
+    },
+    {
+        "id": "5ba37882-2cff-49cb-9c05-34fcce4615bb",
+        "word": "man",
+        "phonetic": "mæn ",
+        "type": "noun",
+        "defineEn": "a person who is a male adult",
+        "defineVi": "một người là nam giới trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "aa5452a1-029b-4aa1-b1ea-2c4484306ffd",
+        "word": "to resemble",
+        "phonetic": "tə ɹᵻzɛmbəl ",
+        "type": "verb",
+        "defineEn": "to have the same appearance, quality, or attribute as something or someone else",
+        "defineVi": "có cùng diện mạo, chất lượng hoặc thuộc tính như một cái gì đó hoặc một ai đó khác"
+    },
+    {
+        "id": "3f205079-638a-4861-843f-e35dea2f920d",
+        "word": "to need",
+        "phonetic": "tə niːd ",
+        "type": "verb",
+        "defineEn": "to want something or someone that we must have if we want to do or be something",
+        "defineVi": "muốn một cái gì đó hoặc một ai đó mà chúng ta phải có nếu chúng ta muốn làm hoặc trở thành một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "68ea31ef-77af-451f-a8e1-591ddacdbcf0",
+        "word": "benefit",
+        "phonetic": "bɛnɪfɪt ",
+        "type": "noun",
+        "defineEn": "a financial aid provided by the government for people who are sick, unemployed, etc.",
+        "defineVi": "một khoản hỗ trợ tài chính do chính phủ cung cấp cho những người bị ốm, thất nghiệp, v.v."
+    },
+    {
+        "id": "8e52ab59-509e-41e9-a01c-acc10d0af7a6",
+        "word": "to resign",
+        "phonetic": "tə ɹɪzaɪn ",
+        "type": "verb",
+        "defineEn": "to officially announce one's departure from a job, position, etc.",
+        "defineVi": "để thông báo chính thức về sự ra đi của một người từ một công việc, vị trí, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "86b0e3a7-741d-4942-94c2-909a1af393d2",
+        "word": "sibling",
+        "phonetic": "sɪblɪŋ ",
+        "type": "noun",
+        "defineEn": "one's brother or sister",
+        "defineVi": "anh chị em của một người",
+        "hasImg": true
+    },
+    {
+        "id": "9950d659-f6e6-4642-8bf6-54b60fadc177",
+        "word": "guy",
+        "phonetic": "ɡaɪ ",
+        "type": "noun",
+        "defineEn": "a man or fellow",
+        "defineVi": "một người đàn ông hoặc đồng nghiệp",
+        "hasImg": true
+    },
+    {
+        "id": "e4dafc76-f42b-4647-bac3-72535da7f0ed",
+        "word": "to look like",
+        "phonetic": "tə lʊk laɪk ",
+        "type": "verb",
+        "defineEn": "to resemble a thing or person in appearance",
+        "defineVi": "để giống với một điều hoặc người xuất hiện"
+    },
+    {
+        "id": "596058c1-3b25-4d77-b5db-46e8964ca1cb",
+        "word": "unfortunate",
+        "phonetic": "ʌnfɔːɹtʃənət ",
+        "type": "adjective",
+        "defineEn": "experiencing something bad due to bad luck",
+        "defineVi": "trải qua điều gì đó tồi tệ do không may mắn"
+    },
+    {
+        "id": "41dc8b67-c9e3-432a-969c-cd07cfa8dc8e",
+        "word": "to require",
+        "phonetic": "tə ɹᵻkwaɪɚ ",
+        "type": "verb",
+        "defineEn": "to need or demand something as necessary in a particular situation",
+        "defineVi": "cần hoặc yêu cầu một cái gì đó khi cần thiết trong một tình huống cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "96890d11-a4d4-4adb-ba65-1ffd9de0a1f4",
+        "word": "to chat",
+        "phonetic": "tə tʃæt ",
+        "type": "verb",
+        "defineEn": "to send and receive messages on an online platform",
+        "defineVi": "để gửi và nhận tin nhắn trên một nền tảng trực tuyến",
+        "hasImg": true
+    },
+    {
+        "id": "6aa5a91b-1bb7-4c67-b91c-6e2d3e850834",
+        "word": "opposed",
+        "phonetic": "əpoʊzd ",
+        "type": "adjective",
+        "defineEn": "trying to stop something because one strongly disagrees with it",
+        "defineVi": "cố gắng ngăn chặn một cái gì đó bởi vì một người rất không đồng ý với nó"
+    },
+    {
+        "id": "ae52ed20-fbfd-40e7-9f50-fc41a58a2896",
+        "word": "idiom",
+        "phonetic": "ɪdɪəm ",
+        "type": "noun",
+        "defineEn": "a manner of speaking or writing that is characteristic of a particular person, group, or era, and that involves the use of particular words, phrases, or expressions in a distinctive way",
+        "defineVi": "một cách nói hoặc viết đặc trưng của một người, nhóm hoặc thời đại cụ thể và liên quan đến việc sử dụng các từ, cụm từ hoặc cách diễn đạt cụ thể theo một cách đặc biệt"
+    },
+    {
+        "id": "194facca-8e84-46fd-8b9b-9f3a4d95566b",
+        "word": "white lie",
+        "phonetic": "waɪt laɪ ",
+        "type": "noun",
+        "defineEn": "a small lie that does not cause any harm, especially told to avoid making someone upset",
+        "defineVi": "một lời nói dối nhỏ không gây hại gì, đặc biệt là nói để tránh làm ai đó khó chịu"
+    },
+    {
+        "id": "7e44b269-a290-4c7b-95dd-56350dba4a2f",
+        "word": "to catch one\\'s eye",
+        "phonetic": "tə kætʃ wʌn bækslæʃ ɛs aɪ ",
+        "type": "phrase",
+        "defineEn": "to try to get a person's attention, particularly by attempting to make eye contact",
+        "defineVi": "để cố gắng thu hút sự chú ý của một người, đặc biệt bằng cách cố gắng giao tiếp bằng mắt"
+    },
+    {
+        "id": "58df9d1a-79f7-456d-a53d-b31b0c2848e7",
+        "word": "on earth",
+        "phonetic": "ɔn ɜːθ ",
+        "type": "adverb",
+        "defineEn": "used to emphasize what one is stating or asking",
+        "defineVi": "được sử dụng để nhấn mạnh những gì một người đang nói hoặc yêu cầu"
+    },
+    {
+        "id": "9677d4a6-704b-4980-a081-b43981c33058",
+        "word": "to the letter",
+        "phonetic": "tə ðə lɛɾɚ ",
+        "type": "preposition",
+        "defineEn": "in a very precise and exact way and with great attention to detail",
+        "defineVi": "một cách rất chính xác và chính xác và rất chú ý đến chi tiết"
+    },
+    {
+        "id": "3c784b87-7228-40b1-be33-079d14f74bd9",
+        "word": "dead of (the) night",
+        "phonetic": "dɛd ʌv ðə naɪt ",
+        "type": "phrase",
+        "defineEn": "the part of the night that is the most quiet and dark",
+        "defineVi": "phần của đêm yên tĩnh và tối nhất"
+    },
+    {
+        "id": "910eebcc-14d3-4d67-abc0-eac4e54a9cff",
+        "word": "down to earth",
+        "phonetic": "daʊn tʊ ɜːθ ",
+        "type": "phrase",
+        "defineEn": "(of a person) not showing pretentious behavior",
+        "defineVi": "(của một người) không thể hiện hành vi tự phụ"
+    },
+    {
+        "id": "0ec3b730-b385-4c5b-8112-39735771db28",
+        "word": "a pain in the neck",
+        "phonetic": "ɐ peɪn ɪnðə nɛk ",
+        "type": "phrase",
+        "defineEn": "a person or thing that causes one great annoyance or a lot of difficulty",
+        "defineVi": "một người hoặc điều đó gây ra một phiền toái lớn hoặc rất nhiều khó khăn"
+    },
+    {
+        "id": "72a7d3c9-2504-4354-8302-7c965edeba1c",
+        "word": "the big / bigger picture",
+        "phonetic": "ðə bɪɡ slæʃ bɪɡɚ pɪktʃɚ ",
+        "type": "phrase",
+        "defineEn": "the overall view or perspective of a situation, rather than focusing on small details",
+        "defineVi": "cái nhìn tổng thể hoặc quan điểm của một tình huống, thay vì tập trung vào các chi tiết nhỏ"
+    },
+    {
+        "id": "d6a85061-d875-4d76-954c-4eef7e6cc904",
+        "word": "to keep / put one\\'s nose to the grindstone",
+        "phonetic": "tə kiːp slæʃ pʊt wʌn bækslæʃ ɛs noʊz tə ðə ɡɹaɪndstoʊn ",
+        "type": "phrase",
+        "defineEn": "to continuously put a lot of effort into doing something",
+        "defineVi": "để liên tục đặt rất nhiều nỗ lực để làm một cái gì đó"
+    },
+    {
+        "id": "cb3fbc86-274d-45e1-a39f-353354fd35b7",
+        "word": "gut feeling / reaction",
+        "phonetic": "ɡʌt fiːlɪŋ slæʃ ɹɪækʃən ",
+        "type": "phrase",
+        "defineEn": "a belief that is strong, yet without any explainable reason",
+        "defineVi": "một niềm tin mạnh mẽ, nhưng không có bất kỳ lý do giải thích"
+    }
+]

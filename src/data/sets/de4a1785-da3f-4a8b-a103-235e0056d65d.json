@@ -1,0 +1,319 @@
+[
+    {
+        "id": "1acf8737-bfce-4ddd-9e35-42b8ecaeadbd",
+        "word": "mind",
+        "phonetic": "maɪnd ",
+        "type": "noun",
+        "defineEn": "the ability in a person that makes them think, feel, or imagine",
+        "defineVi": "khả năng ở một người khiến họ suy nghĩ, cảm nhận hoặc tưởng tượng"
+    },
+    {
+        "id": "11227c07-df05-4fe4-898f-ad276ccecd6b",
+        "word": "mental",
+        "phonetic": "mɛntəl ",
+        "type": "adjective",
+        "defineEn": "of or relating to someone's mind",
+        "defineVi": "của hoặc liên quan đến tâm trí của một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "e26c6c98-3f76-4fc5-9518-333337ebf287",
+        "word": "to think",
+        "phonetic": "tə θɪŋk ",
+        "type": "verb",
+        "defineEn": "to use one's mind to understand something, solve a problem, make a decision, etc. or to use it to consider someone or something",
+        "defineVi": "sử dụng tâm trí của một người để hiểu điều gì đó, giải quyết vấn đề, đưa ra quyết định, v.v. hoặc sử dụng nó để xem xét ai đó hoặc điều gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "0c0c7717-2d17-4ba7-85d6-a4189bdbe33a",
+        "word": "talent",
+        "phonetic": "tælənt ",
+        "type": "noun",
+        "defineEn": "an ability that a person naturally has in doing something well",
+        "defineVi": "một khả năng mà một người tự nhiên có trong việc làm một cái gì đó tốt"
+    },
+    {
+        "id": "9d97d354-133f-46eb-9dab-539848b5ce00",
+        "word": "skill",
+        "phonetic": "skɪl ",
+        "type": "noun",
+        "defineEn": "an ability to do something well, especially after training",
+        "defineVi": "một khả năng để làm một cái gì đó tốt, đặc biệt là sau khi đào tạo"
+    },
+    {
+        "id": "3641a7a7-e8b8-4b47-af5b-351217f9654f",
+        "word": "knowledge",
+        "phonetic": "nɑːlɪdʒ ",
+        "type": "noun",
+        "defineEn": "understanding of or information about a subject after studying and experiencing it",
+        "defineVi": "sự hiểu biết hoặc thông tin về một chủ đề sau khi nghiên cứu và trải nghiệm nó"
+    },
+    {
+        "id": "050efd75-c9e4-46b0-8603-533c09340a27",
+        "word": "guess",
+        "phonetic": "ɡɛs ",
+        "type": "noun",
+        "defineEn": "an attempt to give an answer without having enough facts",
+        "defineVi": "một nỗ lực để đưa ra một câu trả lời mà không có đủ sự thật",
+        "hasImg": true
+    },
+    {
+        "id": "4ef10be5-a925-4086-b960-e6ec55db2b0e",
+        "word": "to guess",
+        "phonetic": "tə ɡɛs ",
+        "type": "verb",
+        "defineEn": "to consider something as true without being sure",
+        "defineVi": "để coi một cái gì đó là đúng mà không chắc chắn",
+        "hasImg": true
+    },
+    {
+        "id": "45c43659-829d-4c47-a9da-2a575a6b487c",
+        "word": "to believe",
+        "phonetic": "tə bᵻliːv ",
+        "type": "verb",
+        "defineEn": "to accept something to be true even without proof",
+        "defineVi": "để chấp nhận một cái gì đó là sự thật ngay cả khi không có bằng chứng"
+    },
+    {
+        "id": "07cc0364-6086-4ff8-9c3a-715b5257c2ac",
+        "word": "belief",
+        "phonetic": "bᵻliːf ",
+        "type": "noun",
+        "defineEn": "something that we think is true or real",
+        "defineVi": "một cái gì đó mà chúng tôi nghĩ là đúng hoặc thực"
+    },
+    {
+        "id": "8f6d5ce7-b9aa-4337-b83f-c6aa0186e6e5",
+        "word": "memory",
+        "phonetic": "mɛmɚɹi ",
+        "type": "noun",
+        "defineEn": "the ability of mind to keep and remember past events, people, experiences, etc.",
+        "defineVi": "khả năng lưu giữ và ghi nhớ các sự kiện, con người, kinh nghiệm trong quá khứ, v.v."
+    },
+    {
+        "id": "f2aad1e7-abef-43e3-b060-fd390506479e",
+        "word": "to remember",
+        "phonetic": "tə ɹᵻmɛmbɚ ",
+        "type": "verb",
+        "defineEn": "to bring a type of information from the past to our mind again",
+        "defineVi": "để đưa một loại thông tin từ quá khứ vào tâm trí của chúng tôi một lần nữa",
+        "hasImg": true
+    },
+    {
+        "id": "8689dec9-b010-44da-beb6-e339b286df9e",
+        "word": "to forget",
+        "phonetic": "tə fɚɡɛt ",
+        "type": "verb",
+        "defineEn": "to not be able to remember something or someone from the past",
+        "defineVi": "để không thể nhớ một cái gì đó hoặc ai đó từ quá khứ",
+        "hasImg": true
+    },
+    {
+        "id": "806d0641-2196-4f6b-b9f0-d5129cad0290",
+        "word": "idea",
+        "phonetic": "aɪdiə ",
+        "type": "noun",
+        "defineEn": "a suggestion or thought about something that we should do",
+        "defineVi": "một gợi ý hoặc suy nghĩ về một cái gì đó mà chúng ta nên làm"
+    },
+    {
+        "id": "940c7c88-8f13-42c7-9ace-d0f0250dd0f8",
+        "word": "favorite",
+        "phonetic": "feɪvɚɹᵻt ",
+        "type": "adjective",
+        "defineEn": "liked or preferred the most among the rest that are from the same category",
+        "defineVi": "thích hoặc được ưa thích nhất trong số những thứ còn lại cùng loại"
+    },
+    {
+        "id": "a7074ac3-89cd-40de-b755-4ea06c9a425e",
+        "word": "suggestion",
+        "phonetic": "sədʒɛstʃən ",
+        "type": "noun",
+        "defineEn": "the act of putting an idea or plan forward for someone to think about or consider",
+        "defineVi": "hành động đưa ra một ý tưởng hoặc kế hoạch để ai đó suy nghĩ hoặc xem xét",
+        "hasImg": true
+    },
+    {
+        "id": "9c4d70e1-d8e2-4adf-8ddd-e30fc6b19582",
+        "word": "to suggest",
+        "phonetic": "tə sədʒɛst ",
+        "type": "verb",
+        "defineEn": "to mention or put forward an idea, proposition, plan, etc. for further consideration or possible action",
+        "defineVi": "để đề cập hoặc đưa ra một ý tưởng, đề xuất, kế hoạch, vv để xem xét thêm hoặc hành động có thể",
+        "hasImg": true
+    },
+    {
+        "id": "ad4fa7d1-1f8a-4f62-a73e-1f320d75784b",
+        "word": "goal",
+        "phonetic": "ɡoʊl ",
+        "type": "noun",
+        "defineEn": "our purpose or desired result",
+        "defineVi": "mục đích của chúng tôi hoặc kết quả mong muốn",
+        "hasImg": true
+    },
+    {
+        "id": "52f6f29f-2917-4140-8f02-d3fafff68761",
+        "word": "plan",
+        "phonetic": "plæn ",
+        "type": "noun",
+        "defineEn": "a chain of actions that will help us reach our goals",
+        "defineVi": "một chuỗi các hành động sẽ giúp chúng tôi đạt được mục tiêu của mình",
+        "hasImg": true
+    },
+    {
+        "id": "8fcdeb05-723b-4519-836c-3e6f7dcf5b92",
+        "word": "to hope",
+        "phonetic": "tə hoʊp ",
+        "type": "verb",
+        "defineEn": "to want something to happen or be true",
+        "defineVi": "để muốn một cái gì đó xảy ra hoặc là sự thật"
+    },
+    {
+        "id": "052884c4-200d-439b-b506-78cd8e31536d",
+        "word": "hope",
+        "phonetic": "hoʊp ",
+        "type": "noun",
+        "defineEn": "a feeling of expectation and desire for a particular thing to happen or to be true",
+        "defineVi": "một cảm giác mong đợi và mong muốn một điều cụ thể xảy ra hoặc là sự thật"
+    },
+    {
+        "id": "294f4d88-412f-445d-ba54-1de02c877d18",
+        "word": "to imagine",
+        "phonetic": "tʊ ɪmædʒɪn ",
+        "type": "verb",
+        "defineEn": "to make or have an image of something in our mind",
+        "defineVi": "để thực hiện hoặc có một hình ảnh của một cái gì đó trong tâm trí của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "6b25bbb2-50fe-41dd-a70d-f49baa12355f",
+        "word": "to dream",
+        "phonetic": "tə dɹiːm ",
+        "type": "verb",
+        "defineEn": "to experience something in our mind while we are asleep",
+        "defineVi": "để trải nghiệm một cái gì đó trong tâm trí của chúng tôi trong khi chúng tôi đang ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "008abf6d-c12c-4abc-b79c-b150b4270fc3",
+        "word": "to enjoy",
+        "phonetic": "tʊ ɛndʒɔɪ ",
+        "type": "verb",
+        "defineEn": "to take pleasure or find happiness in something or someone",
+        "defineVi": "để có niềm vui hoặc tìm thấy hạnh phúc trong một cái gì đó hoặc ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "00ceebc8-9f0b-4385-ad12-1f48a0c4671d",
+        "word": "worried",
+        "phonetic": "wʌɹid ",
+        "type": "adjective",
+        "defineEn": "feeling unhappy and afraid because of something that has happened or might happen",
+        "defineVi": "cảm thấy không vui và sợ hãi vì điều gì đó đã xảy ra hoặc có thể xảy ra",
+        "hasImg": true
+    },
+    {
+        "id": "5100af1d-049f-4cf3-a9fd-8fb7280d31b9",
+        "word": "nervous",
+        "phonetic": "nɜːvəs ",
+        "type": "adjective",
+        "defineEn": "tending to easily get worried or frightened about things",
+        "defineVi": "có xu hướng dễ dàng lo lắng hoặc sợ hãi về mọi thứ",
+        "hasImg": true
+    },
+    {
+        "id": "b9321659-b9e7-4c35-bd24-eee169ff86fa",
+        "word": "calm",
+        "phonetic": "kɑːm ",
+        "type": "adjective",
+        "defineEn": "not showing worry, anger, or other strong emotions",
+        "defineVi": "không thể hiện sự lo lắng, tức giận hoặc những cảm xúc mạnh mẽ khác",
+        "hasImg": true
+    },
+    {
+        "id": "5a3dc3df-7dc3-4c84-a7d4-2b21a9e58101",
+        "word": "afraid",
+        "phonetic": "ɐfɹeɪd ",
+        "type": "adjective",
+        "defineEn": "getting a bad and anxious feeling from a person or thing because we think something bad or dangerous will happen",
+        "defineVi": "nhận được một cảm giác tồi tệ và lo lắng từ một người hoặc một vật bởi vì chúng tôi nghĩ điều gì đó tồi tệ hoặc nguy hiểm sẽ xảy ra",
+        "hasImg": true
+    },
+    {
+        "id": "7abc814a-b5e0-48bb-a2b9-58c692fd12a5",
+        "word": "experience",
+        "phonetic": "ɛkspiəɹɪəns ",
+        "type": "noun",
+        "defineEn": "the skill and knowledge we gain from doing, feeling, or seeing things",
+        "defineVi": "kỹ năng và kiến thức chúng ta có được từ việc làm, cảm nhận hoặc nhìn thấy mọi thứ"
+    },
+    {
+        "id": "7111dd7c-a623-4bb2-8506-feddd9156dd0",
+        "word": "matter",
+        "phonetic": "mæɾɚ ",
+        "type": "noun",
+        "defineEn": "a situation or subject that needs to be dealt with or considered",
+        "defineVi": "một tình huống hoặc chủ đề cần được xử lý hoặc xem xét"
+    },
+    {
+        "id": "4d689970-deaf-490a-8ec3-043901b05bc6",
+        "word": "to choose",
+        "phonetic": "tə tʃuːz ",
+        "type": "verb",
+        "defineEn": "to decide what we want to have or what is best for us from a group of options",
+        "defineVi": "để quyết định những gì chúng tôi muốn có hoặc những gì là tốt nhất cho chúng tôi từ một nhóm các tùy chọn",
+        "hasImg": true
+    },
+    {
+        "id": "ba709810-9f95-4284-935b-fb1324c2f759",
+        "word": "to decide",
+        "phonetic": "tə dᵻsaɪd ",
+        "type": "verb",
+        "defineEn": "to think carefully about different things and choose one of them",
+        "defineVi": "suy nghĩ cẩn thận về những điều khác nhau và chọn một trong số họ",
+        "hasImg": true
+    },
+    {
+        "id": "179159c9-26e9-4947-999b-f92af0b785eb",
+        "word": "decision",
+        "phonetic": "dᵻsɪʒən ",
+        "type": "noun",
+        "defineEn": "the act of reaching a choice or judgement after careful consideration",
+        "defineVi": "hành động đạt được một sự lựa chọn hoặc phán quyết sau khi xem xét cẩn thận",
+        "hasImg": true
+    },
+    {
+        "id": "2bd8da4b-b2d0-4dca-88ca-c08ce155c321",
+        "word": "power",
+        "phonetic": "paʊɚ ",
+        "type": "noun",
+        "defineEn": "the ability to do or achieve something",
+        "defineVi": "khả năng để làm hoặc đạt được một cái gì đó"
+    },
+    {
+        "id": "7c4c5112-6fe7-4308-968d-7b4e9a467edc",
+        "word": "clear",
+        "phonetic": "klɪɹ ",
+        "type": "adjective",
+        "defineEn": "easy to understand",
+        "defineVi": "dễ hiểu"
+    },
+    {
+        "id": "e40e465e-bfe1-4998-b36b-d0477e73d119",
+        "word": "choice",
+        "phonetic": "tʃɔɪs ",
+        "type": "noun",
+        "defineEn": "an act of deciding to choose between two things or more",
+        "defineVi": "một hành động quyết định lựa chọn giữa hai điều hoặc nhiều hơn",
+        "hasImg": true
+    },
+    {
+        "id": "cff5d7c4-c52b-4272-8f33-4192efd7a616",
+        "word": "to remind",
+        "phonetic": "tə ɹᵻmaɪnd ",
+        "type": "verb",
+        "defineEn": "to bring a memory back to a person's mind",
+        "defineVi": "để mang lại một ký ức trở lại tâm trí của một người"
+    }
+]

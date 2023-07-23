@@ -1,0 +1,297 @@
+[
+    {
+        "id": "824f7c93-00ae-406d-b392-59817ae34294",
+        "word": "transport",
+        "phonetic": "tɹænspoːɹt ",
+        "type": "noun",
+        "defineEn": "a system or method for carrying people or goods from a place to another by trains, cars, etc.",
+        "defineVi": "một hệ thống hoặc phương pháp vận chuyển người hoặc hàng hóa từ nơi này sang nơi khác bằng tàu hỏa, ô tô, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b2d05632-8b46-4157-90fd-afc7c094f011",
+        "word": "to travel",
+        "phonetic": "tə tɹævəl ",
+        "type": "verb",
+        "defineEn": "to go from one location to another, particularly to a far location",
+        "defineVi": "đi từ địa điểm này sang địa điểm khác, đặc biệt là đến một địa điểm xa",
+        "hasImg": true
+    },
+    {
+        "id": "b9e02185-c55c-4573-b5fb-372fee019e2d",
+        "word": "airport",
+        "phonetic": "ɛɹpoːɹt ",
+        "type": "noun",
+        "defineEn": "a large place where planes take off and land, with buildings and other facilities, in which passengers wait for their flights",
+        "defineVi": "một nơi rộng rãi, nơi máy bay cất cánh và hạ cánh, với các tòa nhà và cơ sở vật chất khác, trong đó hành khách đợi chuyến bay của họ",
+        "hasImg": true
+    },
+    {
+        "id": "562790a6-a3ef-4a55-bb39-f85673227e59",
+        "word": "season ticket",
+        "phonetic": "siːzən tɪkɪt ",
+        "type": "noun",
+        "defineEn": "a type of ticket that allows unlimited travel or entry to a particular venue or mode of transportation during a specified period, typically a season or year",
+        "defineVi": "một loại vé cho phép đi lại không giới hạn hoặc vào một địa điểm hoặc phương thức vận chuyển cụ thể trong một khoảng thời gian xác định, thường là một mùa hoặc một năm"
+    },
+    {
+        "id": "e00b511a-0b68-4412-928d-842255973fcb",
+        "word": "departure",
+        "phonetic": "dᵻpɑːɹtʃɚ ",
+        "type": "noun",
+        "defineEn": "the act of leaving, usually to begin a journey",
+        "defineVi": "hành động rời đi, thường là để bắt đầu một cuộc hành trình",
+        "hasImg": true
+    },
+    {
+        "id": "2c2f5859-b7cb-4b31-8c15-db66d8375689",
+        "word": "board",
+        "phonetic": "boːɹd ",
+        "type": "noun",
+        "defineEn": "a flat and hard tool made of wood, plastic, paper, etc. that is designed for specific purposes",
+        "defineVi": "một công cụ phẳng và cứng làm bằng gỗ, nhựa, giấy, v.v. được thiết kế cho các mục đích cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "8c8a0db7-29ea-4b04-af3e-0697b4558681",
+        "word": "card",
+        "phonetic": "kɑːɹd ",
+        "type": "noun",
+        "defineEn": "a business or identification card issued by a government, organization, or institution for official purposes",
+        "defineVi": "thẻ kinh doanh hoặc thẻ căn cước do chính phủ, tổ chức hoặc cơ quan cấp cho các mục đích chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "0bb4dcfc-88d5-427f-b991-7e93039b89e2",
+        "word": "timetable",
+        "phonetic": "taɪmteɪbəl ",
+        "type": "noun",
+        "defineEn": "a list or chart that shows the departure and arrival times of trains, buses, airplanes, etc.",
+        "defineVi": "một danh sách hoặc biểu đồ hiển thị thời gian khởi hành và đến của xe lửa, xe buýt, máy bay, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "78fdc0e3-346d-49c6-a038-bd7b5284f480",
+        "word": "railway station",
+        "phonetic": "ɹeɪlweɪ steɪʃən ",
+        "type": "noun",
+        "defineEn": "a place designed for goods or passengers to get on or off trains",
+        "defineVi": "một nơi được thiết kế cho hàng hóa hoặc hành khách lên hoặc xuống xe lửa",
+        "hasImg": true
+    },
+    {
+        "id": "6bfff0bd-fb0c-40c7-9fff-f83e05aa9b11",
+        "word": "waiting room",
+        "phonetic": "weɪɾɪŋ ɹuːm ",
+        "type": "noun",
+        "defineEn": "a designated area, often found in transportation stations, medical facilities, or other public places, where people can wait for their turn or appointment",
+        "defineVi": "một khu vực được chỉ định, thường được tìm thấy trong các trạm vận chuyển, cơ sở y tế hoặc những nơi công cộng khác, nơi mọi người có thể chờ đến lượt hoặc cuộc hẹn của họ",
+        "hasImg": true
+    },
+    {
+        "id": "e14ebfcc-7fed-492d-aef5-d193ff2ce952",
+        "word": "arrival",
+        "phonetic": "ɚɹaɪvəl ",
+        "type": "noun",
+        "defineEn": "the act of arriving at a place from somewhere else",
+        "defineVi": "hành động đến một nơi từ một nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "d699cd68-4f7b-40a0-b37c-91a531d73d52",
+        "word": "to check in",
+        "phonetic": "tə tʃɛk ɪn ",
+        "type": "verb",
+        "defineEn": "to arrive and fill in your name in a hotel or airport",
+        "defineVi": "đến và điền vào tên của bạn trong một khách sạn hoặc sân bay",
+        "hasImg": true
+    },
+    {
+        "id": "5ee9d881-aa1a-42c8-9a55-a8be1cbe3cb5",
+        "word": "desk",
+        "phonetic": "dɛsk ",
+        "type": "noun",
+        "defineEn": "furniture we use for working, writing, reading, etc. that normally has a flat surface and drawers",
+        "defineVi": "đồ nội thất chúng tôi sử dụng để làm việc, viết, đọc, v.v. thường có bề mặt phẳng và ngăn kéo",
+        "hasImg": true
+    },
+    {
+        "id": "6732cbab-2432-4cc4-b71e-c73710feb46a",
+        "word": "bus stop",
+        "phonetic": "bʌs stɑːp ",
+        "type": "noun",
+        "defineEn": "a place at the side of a road that is usually marked with a sign, where buses regularly stop for passengers",
+        "defineVi": "một nơi ở bên đường thường được đánh dấu bằng biển báo, nơi xe buýt thường xuyên dừng lại cho hành khách",
+        "hasImg": true
+    },
+    {
+        "id": "654565e1-f08a-4f26-8261-e5377ba6457b",
+        "word": "ticket office",
+        "phonetic": "tɪkɪt ɑːfɪs ",
+        "type": "noun",
+        "defineEn": "a physical location, usually at a transportation station or venue, where tickets for transportation services or events are sold or issued",
+        "defineVi": "một địa điểm thực tế, thường là tại một trạm vận chuyển hoặc địa điểm, nơi bán hoặc phát hành vé cho các dịch vụ hoặc sự kiện vận chuyển",
+        "hasImg": true
+    },
+    {
+        "id": "cf0f7788-19ad-48d1-aaa4-313f8972b7e0",
+        "word": "buffet",
+        "phonetic": "bʌfɪt ",
+        "type": "noun",
+        "defineEn": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+        "defineVi": "một bữa ăn với nhiều món ăn mà mọi người tự phục vụ tại bàn và sau đó ăn ở nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "d2ce777a-ee3f-4194-8e05-c9efe182f9f2",
+        "word": "bar",
+        "phonetic": "bɑːɹ ",
+        "type": "noun",
+        "defineEn": "a place where alcoholic and other drinks and light snacks are sold and served",
+        "defineVi": "nơi bán và phục vụ đồ uống có cồn, đồ uống khác và đồ ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "50c52322-608c-41b4-9603-77da11047ea5",
+        "word": "hand luggage",
+        "phonetic": "hænd lʌɡɪdʒ ",
+        "type": "noun",
+        "defineEn": "bags and suitcases with a size and weight that is allowed to be carried onto an airplane",
+        "defineVi": "túi, vali có kích thước, trọng lượng được phép mang lên máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "cc234538-9eea-45ec-b5ef-d224b929c146",
+        "word": "flight",
+        "phonetic": "flaɪt ",
+        "type": "noun",
+        "defineEn": "the act of traveling in an airplane",
+        "defineVi": "hành động đi du lịch trên máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "e29583a4-2240-4938-9487-131b332089d6",
+        "word": "platform",
+        "phonetic": "plætfɔːɹm ",
+        "type": "noun",
+        "defineEn": "the raised surface next to a railroad track where people can get on and off a train in a station",
+        "defineVi": "bề mặt nâng cao bên cạnh đường ray nơi mọi người có thể lên và xuống tàu trong nhà ga",
+        "hasImg": true
+    },
+    {
+        "id": "60807285-93eb-4842-9745-1aa32611472d",
+        "word": "double-decker",
+        "phonetic": "dʌbəldɛkɚ ",
+        "type": "noun",
+        "defineEn": "a two-story bus",
+        "defineVi": "xe buýt hai tầng",
+        "hasImg": true
+    },
+    {
+        "id": "eae2eea1-66ba-46ca-9a5e-cf642315adff",
+        "word": "boarding pass",
+        "phonetic": "boːɹdɪŋ pæs ",
+        "type": "noun",
+        "defineEn": "a ticket or card that passengers must show to be allowed on a ship or plane",
+        "defineVi": "vé hoặc thẻ mà hành khách phải xuất trình để được phép lên tàu hoặc máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "b3d3ad03-78bd-44b5-907a-a096db436d3a",
+        "word": "to come back",
+        "phonetic": "tə kʌm bæk ",
+        "type": "verb",
+        "defineEn": "to return to a person or place",
+        "defineVi": "để trở lại một người hoặc địa điểm",
+        "hasImg": true
+    },
+    {
+        "id": "576cd0cb-a74c-4cbf-bda2-099e1b5c9829",
+        "word": "journey",
+        "phonetic": "dʒɜːni ",
+        "type": "noun",
+        "defineEn": "the act of travelling between two or more places, especially when there is a long distance between them",
+        "defineVi": "hành động di chuyển giữa hai hoặc nhiều nơi, đặc biệt là khi có khoảng cách xa giữa chúng",
+        "hasImg": true
+    },
+    {
+        "id": "727feb5f-86e4-4988-8bdb-ee5652237a94",
+        "word": "day return",
+        "phonetic": "deɪ ɹᵻtɜːn ",
+        "type": "noun",
+        "defineEn": "atype of transportation ticket that allows a passenger to travel to a destination and return on the same day",
+        "defineVi": "một loại vé vận chuyển cho phép hành khách đi đến một điểm đến và trở về trong cùng một ngày",
+        "hasImg": true
+    },
+    {
+        "id": "f73efa2b-6d16-46b8-85a1-9b8c0c6e1072",
+        "word": "euro",
+        "phonetic": "jʊɹɹoʊ ",
+        "type": "noun",
+        "defineEn": "the money that most countries in Europe use",
+        "defineVi": "tiền mà hầu hết các nước ở châu Âu sử dụng",
+        "hasImg": true
+    },
+    {
+        "id": "89a9ee19-d43f-4b82-b6d1-6f8dff1d1901",
+        "word": "return ticket",
+        "phonetic": "ɹᵻtɜːn tɪkɪt ",
+        "type": "noun",
+        "defineEn": "a ticket for a journey from one place to another and back again",
+        "defineVi": "một vé cho một cuộc hành trình từ nơi này đến nơi khác và trở lại",
+        "hasImg": true
+    },
+    {
+        "id": "7a25e5ae-4c78-47a6-9de8-9007ba548855",
+        "word": "to pay",
+        "phonetic": "tə peɪ ",
+        "type": "verb",
+        "defineEn": "to give someone money in exchange for goods or services",
+        "defineVi": "để cung cấp cho ai đó tiền để đổi lấy hàng hóa hoặc dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "ab50811e-addf-47f9-99d8-76f933537ae3",
+        "word": "contactless",
+        "phonetic": "kɑːntæktləs ",
+        "type": "adjective",
+        "defineEn": "referring to interactions or transactions without physical contact, using wireless communication or non-touch means",
+        "defineVi": "đề cập đến các tương tác hoặc giao dịch không có tiếp xúc vật lý, sử dụng giao tiếp không dây hoặc các phương tiện không chạm"
+    },
+    {
+        "id": "b63e205c-de69-4cb2-b3d1-4a9213b38b52",
+        "word": "train",
+        "phonetic": "tɹeɪn ",
+        "type": "noun",
+        "defineEn": "a series of connected carriages or wagons pulled along a railroad line by a locomotive",
+        "defineVi": "một loạt các toa xe hoặc toa xe được kết nối với nhau do đầu máy kéo dọc theo một tuyến đường sắt",
+        "hasImg": true
+    },
+    {
+        "id": "f509817b-8b4b-41d3-b0bf-e4657f1d1721",
+        "word": "ticket",
+        "phonetic": "tɪkɪt ",
+        "type": "noun",
+        "defineEn": "a piece of paper, text, card, or image showing that we have paid to enter a place, travel with a public transport, etc.",
+        "defineVi": "một mảnh giấy, văn bản, thẻ hoặc hình ảnh cho thấy chúng tôi đã trả tiền để vào một địa điểm, di chuyển bằng phương tiện công cộng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "14d57646-7d21-4102-9f0a-12401d0f8257",
+        "word": "machine",
+        "phonetic": "məʃiːn ",
+        "type": "noun",
+        "defineEn": "any piece of equipment that is mechanical, electric, etc. and performs a particular task",
+        "defineVi": "bất kỳ thiết bị nào là cơ khí, điện, v.v. và thực hiện một nhiệm vụ cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "44f0d6c4-9582-486c-ab30-9d5f1990bf69",
+        "word": "customs",
+        "phonetic": "kʌstəmz ",
+        "type": "noun",
+        "defineEn": "the place at an airport or port where passengers' bags are checked for illegal goods as they enter a country",
+        "defineVi": "địa điểm tại sân bay hoặc bến cảng nơi túi hành khách được kiểm tra hàng hóa bất hợp pháp khi họ nhập cảnh vào một quốc gia",
+        "hasImg": true
+    }
+]

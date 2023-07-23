@@ -1,0 +1,146 @@
+[
+    {
+        "id": "af0f8369-e0c7-4bfc-b2fd-01b9d57fe2c1",
+        "word": "school",
+        "phonetic": "skuːl ",
+        "type": "noun",
+        "defineEn": "a place where children learn things from teachers",
+        "defineVi": "một nơi mà trẻ em học những điều từ giáo viên",
+        "hasImg": true
+    },
+    {
+        "id": "90a6294d-0cb7-41a7-b489-e94ca3ca27ea",
+        "word": "subject",
+        "phonetic": "sʌbdʒɛkt ",
+        "type": "noun",
+        "defineEn": "a branch or an area of knowledge that we study at a school, college, or university",
+        "defineVi": "một nhánh hoặc một lĩnh vực kiến thức mà chúng tôi nghiên cứu tại một trường học, cao đẳng hoặc đại học",
+        "hasImg": true
+    },
+    {
+        "id": "f87c21d9-f8e5-482a-864f-d5b1faad4e3f",
+        "word": "art",
+        "phonetic": "ɑːɹt ",
+        "type": "noun",
+        "defineEn": "the use of creativity and imagination to express emotions and ideas by making things like paintings, sculptures, music, etc.",
+        "defineVi": "việc sử dụng óc sáng tạo và trí tưởng tượng để thể hiện cảm xúc và ý tưởng bằng cách tạo ra những thứ như tranh vẽ, tác phẩm điêu khắc, âm nhạc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "396b714d-0a43-499b-ad80-852b798059a3",
+        "word": "foreign",
+        "phonetic": "fɔːɹən ",
+        "type": "adjective",
+        "defineEn": "in, from, or characteristic of a country or language other than one's own",
+        "defineVi": "trong, từ, hoặc đặc trưng của một quốc gia hoặc ngôn ngữ không phải của chính mình",
+        "hasImg": true
+    },
+    {
+        "id": "0a1ffe92-4914-4e9a-b47a-69f573e88fd1",
+        "word": "language",
+        "phonetic": "læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "the system of communication by spoken or written words, that is used by people of a particular country or region",
+        "defineVi": "hệ thống giao tiếp bằng lời nói hoặc chữ viết, được sử dụng bởi những người của một quốc gia hoặc khu vực cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "c697dd82-1d99-45f7-8792-22092f03b755",
+        "word": "English",
+        "phonetic": "ɪŋɡlɪʃ ",
+        "type": "noun",
+        "defineEn": "the most common language in the world, originating in England but also the official language of America, Canada, Australia, etc.",
+        "defineVi": "ngôn ngữ thông dụng nhất thế giới, bắt nguồn từ nước Anh mà còn là ngôn ngữ chính thức của Mỹ, Canada, Úc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "cf896177-c339-42b6-8d0d-171b1ac83abc",
+        "word": "geography",
+        "phonetic": "dʒɪɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the scientific study of the physical features of the Earth and its atmosphere, divisions, products, population, etc.",
+        "defineVi": "nghiên cứu khoa học về các đặc điểm vật lý của Trái đất và bầu khí quyển, sự phân chia, sản phẩm, dân số, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "c42e6202-9541-476d-8983-dda2a06ee60b",
+        "word": "history",
+        "phonetic": "hɪstɚɹi ",
+        "type": "noun",
+        "defineEn": "the study of past events, especially as a subject in school or university",
+        "defineVi": "nghiên cứu về các sự kiện trong quá khứ, đặc biệt là một chủ đề trong trường học hoặc đại học",
+        "hasImg": true
+    },
+    {
+        "id": "f0b915b7-4956-41fb-a90a-f18b8bdf5ddb",
+        "word": "information technology",
+        "phonetic": "ɪnfɚmeɪʃən tɛknɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a field of science that deals with the use or study of electronic devices and processes in which data is stored, created, modified, etc.",
+        "defineVi": "một lĩnh vực khoa học liên quan đến việc sử dụng hoặc nghiên cứu các thiết bị và quy trình điện tử trong đó dữ liệu được lưu trữ, tạo, sửa đổi, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "a83929ec-9530-4c42-8003-659157162c5c",
+        "word": "literature",
+        "phonetic": "lɪɾɚɹᵻtʃɚ ",
+        "type": "noun",
+        "defineEn": "written works that are valued as works of art, such as novels, plays and poems",
+        "defineVi": "tác phẩm viết có giá trị như tác phẩm nghệ thuật, chẳng hạn như tiểu thuyết, kịch và thơ",
+        "hasImg": true
+    },
+    {
+        "id": "4682d72b-6016-41c1-9146-acbec90ddd83",
+        "word": "math",
+        "phonetic": "mæθ ",
+        "type": "noun",
+        "defineEn": "a type of science that deals with shapes, space, and numbers",
+        "defineVi": "một loại khoa học liên quan đến hình dạng, không gian và số",
+        "hasImg": true
+    },
+    {
+        "id": "392d63d3-73d4-4398-8c31-281d3ccedb65",
+        "word": "physical education",
+        "phonetic": "fɪzɪkəl ɛdʒuːkeɪʃən ",
+        "type": "noun",
+        "defineEn": "sport, physical exercise, and games that are taught as a subject in schools",
+        "defineVi": "thể thao, tập thể dục và trò chơi được dạy như một môn học trong trường học",
+        "hasImg": true
+    },
+    {
+        "id": "75c26baa-70db-43e7-adaa-a52a106be37f",
+        "word": "science",
+        "phonetic": "saɪəns ",
+        "type": "noun",
+        "defineEn": "knowledge about the structure and behavior of the natural and physical world, especially based on examining, testing, and proving facts",
+        "defineVi": "kiến thức về cấu trúc và hành vi của thế giới tự nhiên và vật chất, đặc biệt là dựa trên việc kiểm tra, thử nghiệm và chứng minh sự thật",
+        "hasImg": true
+    },
+    {
+        "id": "1fa4cc00-65f2-42bd-819b-450ce1e98030",
+        "word": "physics",
+        "phonetic": "fɪzɪks ",
+        "type": "noun",
+        "defineEn": "the scientific study of matter and energy and the relationships between them, including the study of natural forces such as light, heat, and movement",
+        "defineVi": "nghiên cứu khoa học về vật chất và năng lượng và mối quan hệ giữa chúng, bao gồm nghiên cứu về các lực tự nhiên như ánh sáng, nhiệt và chuyển động",
+        "hasImg": true
+    },
+    {
+        "id": "f22c3e4f-b380-4875-a5f2-d886012896cc",
+        "word": "chemistry",
+        "phonetic": "kɛmɪstɹi ",
+        "type": "noun",
+        "defineEn": "the branch of science that is concerned with studying the structure of substances and the way that they change or combine with each other",
+        "defineVi": "ngành khoa học liên quan đến việc nghiên cứu cấu trúc của các chất và cách chúng thay đổi hoặc kết hợp với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "2020d22c-b1e7-43a7-a438-0e40c76c4cb4",
+        "word": "biology",
+        "phonetic": "baɪɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the scientific study of living organisms; the science that studies living organisms",
+        "defineVi": "nghiên cứu khoa học về các sinh vật sống; khoa học nghiên cứu các sinh vật sống",
+        "hasImg": true
+    }
+]

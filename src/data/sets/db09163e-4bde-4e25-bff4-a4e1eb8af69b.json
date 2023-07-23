@@ -1,0 +1,483 @@
+[
+    {
+        "id": "a0749a2d-8f5e-45cc-a47a-f544c56ca3c8",
+        "word": "apostrophe",
+        "phonetic": "ɐpɔstɹəfi ",
+        "type": "noun",
+        "defineEn": "a figure of speech in which the speaker addresses a person or an abstract idea, object or thing that is not present or cannot respond as if it could respond",
+        "defineVi": "một hình thức nói trong đó người nói đề cập đến một người hoặc một ý tưởng trừu tượng, đối tượng hoặc sự vật không có mặt hoặc không thể trả lời như thể nó có thể trả lời"
+    },
+    {
+        "id": "32ad6335-9bb0-44d3-9142-7ea21c467ed1",
+        "word": "charactonym",
+        "phonetic": "kæɹɪktɑːnɪm ",
+        "type": "noun",
+        "defineEn": "a literary term used to describe a character's name that suggests or implies something about their personality, behavior, or role in the story",
+        "defineVi": "một thuật ngữ văn học được sử dụng để mô tả tên của một nhân vật gợi ý hoặc ám chỉ điều gì đó về tính cách, hành vi hoặc vai trò của họ trong câu chuyện"
+    },
+    {
+        "id": "078a4596-71f7-402a-818a-dc3e63ae9bb6",
+        "word": "symbol",
+        "phonetic": "sɪmbəl ",
+        "type": "noun",
+        "defineEn": "a sign or word with a certain meaning, especially in mathematics, music, or science",
+        "defineVi": "một dấu hiệu hoặc từ với một ý nghĩa nhất định, đặc biệt là trong toán học, âm nhạc hoặc khoa học",
+        "hasImg": true
+    },
+    {
+        "id": "2e1ca494-ce6e-4480-abaa-9ff692d65c9a",
+        "word": "allegory",
+        "phonetic": "ælɪɡɚɹi ",
+        "type": "noun",
+        "defineEn": "a story, poem, painting, etc. in which the characters and events are used as symbols to convey moral or political lessons",
+        "defineVi": "một câu chuyện, bài thơ, bức tranh, v.v. trong đó các nhân vật và sự kiện được sử dụng làm biểu tượng để truyền đạt các bài học đạo đức hoặc chính trị"
+    },
+    {
+        "id": "d8694eab-365a-41fe-be02-78fe65b154dd",
+        "word": "alliteration",
+        "phonetic": "ɐlɪɾɚɹeɪʃən ",
+        "type": "noun",
+        "defineEn": "the use of the same letter or sound at the beginning of the words in a verse or sentence, used as a literary device",
+        "defineVi": "việc sử dụng cùng một chữ cái hoặc âm thanh ở đầu các từ trong một câu hoặc câu, được sử dụng như một thiết bị văn học"
+    },
+    {
+        "id": "186002a6-e9c3-4efc-9c80-d5e1519bbf30",
+        "word": "allusion",
+        "phonetic": "ɐluːʒən ",
+        "type": "noun",
+        "defineEn": "a statement that implies or indirectly mentions something or someone else, especially as a literary device",
+        "defineVi": "một tuyên bố ngụ ý hoặc gián tiếp đề cập đến một cái gì đó hoặc một người khác, đặc biệt là một thiết bị văn học"
+    },
+    {
+        "id": "192786cd-04ca-4e67-b228-0ac8c9cadc78",
+        "word": "amplification",
+        "phonetic": "æmplɪfɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which the writer repeats a word or phrase while adding more detail to it, in order to emphasize or clarify the meaning of the original statement",
+        "defineVi": "một thiết bị tu từ trong đó nhà văn lặp lại một từ hoặc cụm từ trong khi bổ sung thêm chi tiết cho nó, để nhấn mạnh hoặc làm rõ ý nghĩa của tuyên bố ban đầu"
+    },
+    {
+        "id": "87ad9d8b-8261-4e2e-ba91-61c6ac550318",
+        "word": "anadiplosis",
+        "phonetic": "ænɐdɪploʊsɪs ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which a word or phrase at the end of one clause or sentence is repeated at the beginning of the next clause or sentence",
+        "defineVi": "một thiết bị tu từ trong đó một từ hoặc cụm từ ở cuối một mệnh đề hoặc câu được lặp lại ở đầu mệnh đề hoặc câu tiếp theo"
+    },
+    {
+        "id": "117bc29d-974b-4312-bf3e-cc6f2268fe31",
+        "word": "anaphora",
+        "phonetic": "ænɐfoːɹə ",
+        "type": "noun",
+        "defineEn": "the repetition of a word or expression at the beginning of a phrase, clause or sentence, used as a rhetorical device",
+        "defineVi": "sự lặp lại của một từ hoặc biểu thức ở đầu cụm từ, mệnh đề hoặc câu, được sử dụng như một thiết bị tu từ"
+    },
+    {
+        "id": "51a6ca4b-e640-4d3b-a083-2ae31ddfb894",
+        "word": "pun",
+        "phonetic": "pʌn ",
+        "type": "noun",
+        "defineEn": "a clever or amusing use of words that takes advantage of the multiple meanings or interpretations that it has",
+        "defineVi": "một cách sử dụng từ thông minh hoặc hài hước tận dụng nhiều nghĩa hoặc cách diễn giải mà nó có"
+    },
+    {
+        "id": "c83f94f7-261b-48ed-be32-fbd43d62bf68",
+        "word": "antanaclasis",
+        "phonetic": "æntɐnɐklɑːsiz ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which a word is repeated, but with a different meaning each time",
+        "defineVi": "một thiết bị tu từ trong đó một từ được lặp đi lặp lại, nhưng với một nghĩa khác nhau mỗi lần"
+    },
+    {
+        "id": "558230fc-3315-4d38-9e32-0f9837102a78",
+        "word": "antithesis",
+        "phonetic": "æntɪθəsɪs ",
+        "type": "noun",
+        "defineEn": "a figure of speech in which two ideas or concepts are arranged in parallel clauses, words or sentences to express a contrast",
+        "defineVi": "một hình thức nói trong đó hai ý tưởng hoặc khái niệm được sắp xếp trong các mệnh đề, từ hoặc câu song song để thể hiện sự tương phản"
+    },
+    {
+        "id": "1f82bfd5-13e8-4373-af21-4f3160cf817c",
+        "word": "apophasis",
+        "phonetic": "ɐpəfɑːsiz ",
+        "type": "noun",
+        "defineEn": "a rhetorical device that involves denying or dismissing something while actually acknowledging or emphasizing it",
+        "defineVi": "một thiết bị hùng biện liên quan đến việc từ chối hoặc loại bỏ một cái gì đó trong khi thực sự thừa nhận hoặc nhấn mạnh nó"
+    },
+    {
+        "id": "0170acc3-f5ce-443e-a149-47c85caa2742",
+        "word": "figure of speech",
+        "phonetic": "fɪɡjɚɹ ʌv spiːtʃ ",
+        "type": "noun",
+        "defineEn": "a word or phrase used in a non-literal sense for rhetorical or vivid effect",
+        "defineVi": "một từ hoặc cụm từ được sử dụng theo nghĩa phi nghĩa đen cho hiệu ứng tu từ hoặc sinh động"
+    },
+    {
+        "id": "9b5e4d45-61a9-4ec6-928b-90cb34def33d",
+        "word": "simile",
+        "phonetic": "sɪmɪli ",
+        "type": "noun",
+        "defineEn": "a word or phrase that compares two things or people, highlighting the similarities, often introduced by 'like' or 'as'",
+        "defineVi": "một từ hoặc cụm từ so sánh hai sự vật hoặc con người, làm nổi bật những điểm tương đồng, thường được giới thiệu bằng 'like' hoặc 'as'"
+    },
+    {
+        "id": "a850416a-9848-4b46-8896-a7f8bd555346",
+        "word": "metaphor",
+        "phonetic": "mɛɾəfɔːɹ ",
+        "type": "noun",
+        "defineEn": "a type of figure of speech by which a person describes something or someone by referring to something or someone else to point out their similarities or emphasize them or give a better description of what they mean",
+        "defineVi": "một loại hình của bài phát biểu mà một người mô tả một cái gì đó hoặc ai đó bằng cách đề cập đến một cái gì đó hoặc người khác để chỉ ra những điểm tương đồng của họ hoặc nhấn mạnh họ hoặc đưa ra một mô tả tốt hơn về ý nghĩa của họ"
+    },
+    {
+        "id": "4c67a7cc-afb1-44a7-bc76-23786a79d399",
+        "word": "synecdoche",
+        "phonetic": "saɪnɪkdɑːtʃ ",
+        "type": "noun",
+        "defineEn": "a figure of speech in which a part of something represents the whole or vice versa",
+        "defineVi": "một con số của bài phát biểu trong đó một phần của một cái gì đó đại diện cho toàn bộ hoặc ngược lại"
+    },
+    {
+        "id": "0f01c3a4-7cb9-43f5-a61f-33845e38f950",
+        "word": "metonymy",
+        "phonetic": "mɛtənɪmi ",
+        "type": "noun",
+        "defineEn": "a figure of speech in which a name of something is used instead of another, the two of which are closely associated or one is an attribute of the other",
+        "defineVi": "một hình ảnh của bài phát biểu trong đó tên của một cái gì đó được sử dụng thay vì tên khác, hai trong số đó được liên kết chặt chẽ hoặc cái này là thuộc tính của cái kia"
+    },
+    {
+        "id": "3e2e60f6-3199-4118-a118-5a44573bc27a",
+        "word": "personification",
+        "phonetic": "pɜːsɑːnɪfɪkeɪʃən ",
+        "type": "noun",
+        "defineEn": "the practice of attributing human characteristics to abstract ideas, objects, etc. in literature or art",
+        "defineVi": "thực hành gán các đặc điểm của con người cho các ý tưởng, đối tượng trừu tượng, v.v. trong văn học hoặc nghệ thuật"
+    },
+    {
+        "id": "9788b661-591b-4f84-ab99-272e7d6d392d",
+        "word": "imagery",
+        "phonetic": "ɪmɪdʒɹi ",
+        "type": "noun",
+        "defineEn": "the figurative language in literature by which the audience can form vivid mental images",
+        "defineVi": "ngôn ngữ tượng hình trong văn học mà khán giả có thể hình thành những hình ảnh tinh thần sống động"
+    },
+    {
+        "id": "5ded7cda-4ddd-4508-94aa-e6a3a14103cf",
+        "word": "paradox",
+        "phonetic": "pæɹədɑːks ",
+        "type": "noun",
+        "defineEn": "a logically contradictory statement that might actually be true",
+        "defineVi": "một tuyên bố mâu thuẫn về mặt logic mà thực sự có thể đúng"
+    },
+    {
+        "id": "8146cc94-13ae-4217-98c2-dc6900bc0a48",
+        "word": "motif",
+        "phonetic": "moʊtiːf ",
+        "type": "noun",
+        "defineEn": "a subject, idea, or phrase that is repeatedly used in a literary work or musical composition",
+        "defineVi": "một chủ đề, ý tưởng hoặc cụm từ được sử dụng nhiều lần trong một tác phẩm văn học hoặc tác phẩm âm nhạc"
+    },
+    {
+        "id": "450efb49-18c3-4297-925a-d26dcd7801f4",
+        "word": "assonance",
+        "phonetic": "æsənəns ",
+        "type": "noun",
+        "defineEn": "the use of similar vowels close to each other in nonrhyming syllables as a literary device",
+        "defineVi": "việc sử dụng các nguyên âm tương tự gần nhau trong các âm tiết không vần như một thiết bị văn học"
+    },
+    {
+        "id": "9b55d858-b243-4951-9391-a7a0cf8f02af",
+        "word": "consonance",
+        "phonetic": "kɑːnsənəns ",
+        "type": "noun",
+        "defineEn": "a literary device that refers to the repetition of consonant sounds, particularly at the end of words, to create a pleasing or rhythmic effect in a sentence or phrase",
+        "defineVi": "một thiết bị văn học đề cập đến sự lặp lại của các phụ âm, đặc biệt là ở cuối từ, để tạo hiệu ứng dễ chịu hoặc nhịp điệu trong một câu hoặc cụm từ"
+    },
+    {
+        "id": "9ab34a66-b8ec-44a3-9edd-0d576c6b7ecc",
+        "word": "onomatopoeia",
+        "phonetic": "ɑːnəmæɾəpoʊiə ",
+        "type": "noun",
+        "defineEn": "the naming of a thing or action based on the sound that they refer to",
+        "defineVi": "việc đặt tên của một điều hoặc hành động dựa trên âm thanh mà họ đề cập đến"
+    },
+    {
+        "id": "c433defa-b38a-424f-9029-f79ea583b28f",
+        "word": "irony",
+        "phonetic": "aɪɹəni ",
+        "type": "noun",
+        "defineEn": "a form of humor in which the words that someone says mean the opposite, producing an emphatic effect",
+        "defineVi": "một hình thức hài hước trong đó những từ mà ai đó nói có nghĩa ngược lại, tạo ra một hiệu ứng nhấn mạnh"
+    },
+    {
+        "id": "4b29e0ac-7518-4668-9a55-322b6c4afd6a",
+        "word": "verbal irony",
+        "phonetic": "vɜːbəl aɪɹəni ",
+        "type": "noun",
+        "defineEn": "a literary device in which the speaker says something but means the opposite, often for humorous or sarcastic effect",
+        "defineVi": "một thiết bị văn học trong đó người nói nói điều gì đó nhưng có nghĩa ngược lại, thường để tạo hiệu ứng hài hước hoặc châm biếm"
+    },
+    {
+        "id": "32c9eca2-5cf4-4916-be73-535116856670",
+        "word": "situational irony",
+        "phonetic": "sɪtʃuːeɪʃənəl aɪɹəni ",
+        "type": "noun",
+        "defineEn": "a literary device in which events or circumstances within a story are contrary to what one would expect, often leading to an unexpected outcome or twist",
+        "defineVi": "một thiết bị văn học trong đó các sự kiện hoặc hoàn cảnh trong một câu chuyện trái ngược với những gì người ta mong đợi, thường dẫn đến một kết quả hoặc bước ngoặt bất ngờ"
+    },
+    {
+        "id": "259b74f9-de6e-4041-9f1c-9796a85b9ad6",
+        "word": "dramatic irony",
+        "phonetic": "dɹəmæɾɪk aɪɹəni ",
+        "type": "noun",
+        "defineEn": "a literary technique by which the audience is more aware of the significance of the words or actions of the story than characters are",
+        "defineVi": "một kỹ thuật văn học mà khán giả nhận thức rõ hơn về ý nghĩa của các từ hoặc hành động của câu chuyện hơn là các nhân vật"
+    },
+    {
+        "id": "10623559-38a1-49a6-a617-101952326453",
+        "word": "aporia",
+        "phonetic": "ɐpoːɹiə ",
+        "type": "noun",
+        "defineEn": "a situation in which a theory or argument cannot be true because two or more parts of it are contradictory",
+        "defineVi": "một tình huống trong đó một lý thuyết hoặc lập luận không thể đúng bởi vì hai hoặc nhiều phần của nó mâu thuẫn"
+    },
+    {
+        "id": "b40cbfc3-8349-4886-8180-607d92cdfbac",
+        "word": "asyndeton",
+        "phonetic": "ɐsɪndɛtən ",
+        "type": "noun",
+        "defineEn": "a literary device where conjunctions are omitted between clauses or phrases in a sentence",
+        "defineVi": "một thiết bị văn học trong đó các liên kết được bỏ qua giữa các mệnh đề hoặc cụm từ trong câu"
+    },
+    {
+        "id": "67ff5580-4e8e-4ac7-a9ff-161c6f1c4d8c",
+        "word": "auxesis",
+        "phonetic": "ɔːksiːsɪs ",
+        "type": "noun",
+        "defineEn": "a literary device that involves the use of exaggeration or hyperbole to create a dramatic or emotional effect, often used to build tension or emphasize the importance of something",
+        "defineVi": "một thiết bị văn học liên quan đến việc sử dụng cường điệu hoặc cường điệu để tạo hiệu ứng kịch tính hoặc cảm xúc, thường được sử dụng để tạo căng thẳng hoặc nhấn mạnh tầm quan trọng của một cái gì đó"
+    },
+    {
+        "id": "27b0f904-acd8-4698-94fd-34fa170e2d09",
+        "word": "cacophony",
+        "phonetic": "kɐkɑːfəni ",
+        "type": "noun",
+        "defineEn": "a literary device that uses a mixture of unpleasant, inharmonious, and harsh sounds to depict disorder or chaos",
+        "defineVi": "một thiết bị văn học sử dụng hỗn hợp các âm thanh khó chịu, không hài hòa và gay gắt để mô tả sự hỗn loạn hoặc hỗn loạn"
+    },
+    {
+        "id": "31e526f5-ea3a-46d4-a8b4-e07e553f5d97",
+        "word": "catacosmesis",
+        "phonetic": "kæɾɐkəzmiːsɪs ",
+        "type": "noun",
+        "defineEn": "a rhetorical device that involves a series of phrases or clauses that are arranged in a descending order of importance or emphasis",
+        "defineVi": "một thiết bị tu từ liên quan đến một loạt các cụm từ hoặc mệnh đề được sắp xếp theo thứ tự giảm dần tầm quan trọng hoặc mức độ nhấn mạnh"
+    },
+    {
+        "id": "3428d5b4-b2c1-41ef-9e46-e470e3d1b2de",
+        "word": "chiasmus",
+        "phonetic": "kaɪæzməs ",
+        "type": "noun",
+        "defineEn": "a rhetorical figure in which words, grammatical structures or concepts are repeated in a reverse order in successive phrases",
+        "defineVi": "một hình tượng tu từ trong đó các từ, cấu trúc ngữ pháp hoặc khái niệm được lặp lại theo thứ tự ngược lại trong các cụm từ liên tiếp"
+    },
+    {
+        "id": "89606a64-853d-4e85-be83-8fa7659052a4",
+        "word": "conduplicatio",
+        "phonetic": "kənduːplɪkeɪʃɪoʊ ",
+        "type": "noun",
+        "defineEn": "a writing technique that uses the repetition of a word or phrase at the beginning of successive clauses or sentences to create emphasis or persuade the audience",
+        "defineVi": "một kỹ thuật viết sử dụng sự lặp lại của một từ hoặc cụm từ ở đầu các mệnh đề hoặc câu liên tiếp để tạo sự nhấn mạnh hoặc thuyết phục khán giả"
+    },
+    {
+        "id": "5726d3b2-19e1-4869-ac8a-ce1839ea1bc9",
+        "word": "derision",
+        "phonetic": "dᵻɹɪʒən ",
+        "type": "noun",
+        "defineEn": "a type of rhetoric in which someone mocks or ridicules something or someone, often in a cruel or sarcastic way",
+        "defineVi": "một loại hùng biện trong đó ai đó chế giễu hoặc chế giễu một cái gì đó hoặc một ai đó, thường là một cách tàn nhẫn hoặc châm biếm"
+    },
+    {
+        "id": "c8e1e165-09fc-403c-b065-48e9ba3c2de4",
+        "word": "diacope",
+        "phonetic": "daɪəkoʊp ",
+        "type": "noun",
+        "defineEn": "the repetition of a word or phrase with only a few words in between, usually to emphasize or create a dramatic effect",
+        "defineVi": "sự lặp lại của một từ hoặc cụm từ chỉ có một vài từ ở giữa, thường để nhấn mạnh hoặc tạo hiệu ứng ấn tượng"
+    },
+    {
+        "id": "1edde94d-fdff-4e14-b832-6fda114a5011",
+        "word": "diasyrmus",
+        "phonetic": "daɪəsɪəməs ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which an author or speaker ridicules or denounces an opponent's argument, typically by using sarcasm or irony",
+        "defineVi": "một thiết bị tu từ trong đó tác giả hoặc diễn giả chế giễu hoặc tố cáo lập luận của đối thủ, thường bằng cách sử dụng lời mỉa mai hoặc mỉa mai"
+    },
+    {
+        "id": "e64bd066-14e1-4b51-a2ce-2eccb922d4ff",
+        "word": "enthymeme",
+        "phonetic": "ɛnθaɪmiːm ",
+        "type": "noun",
+        "defineEn": "a rhetorical device that involves making a conclusion based on an assumption that is not explicitly stated",
+        "defineVi": "một thiết bị tu từ liên quan đến việc đưa ra kết luận dựa trên một giả định không được nêu rõ ràng"
+    },
+    {
+        "id": "ce50acab-d460-44ae-8979-b41c6a97270d",
+        "word": "epanalepsis",
+        "phonetic": "ɛpɐneɪlɛpsɪs ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which a word or phrase at the beginning of a sentence or clause is repeated at the end of the same sentence or clause",
+        "defineVi": "một thiết bị tu từ trong đó một từ hoặc cụm từ ở đầu câu hoặc mệnh đề được lặp lại ở cuối cùng một câu hoặc mệnh đề"
+    },
+    {
+        "id": "49d543ef-9143-4f1f-8680-90cad88b081f",
+        "word": "epistrophe",
+        "phonetic": "ᵻpɪstɹəfi ",
+        "type": "noun",
+        "defineEn": "a rhetorical technique that involves the repetition of a word or phrase at the end of successive clauses or sentences to create emphasis or reinforce a point",
+        "defineVi": "một kỹ thuật tu từ liên quan đến việc lặp lại một từ hoặc cụm từ ở cuối các mệnh đề hoặc câu liên tiếp để tạo sự nhấn mạnh hoặc củng cố một điểm"
+    },
+    {
+        "id": "4ce35afb-a21e-4244-91bf-bd9c5cb8091d",
+        "word": "epizeuxis",
+        "phonetic": "ɛpɪzjuːksɪs ",
+        "type": "noun",
+        "defineEn": "a figure of speech where a word or a phrase is repeated in quick succession for emphasis or intensity",
+        "defineVi": "một con số của bài phát biểu trong đó một từ hoặc một cụm từ được lặp lại liên tiếp nhanh chóng để nhấn mạnh hoặc cường độ"
+    },
+    {
+        "id": "4c8611e5-ae34-4b7e-a137-431958011b83",
+        "word": "figurative language",
+        "phonetic": "fɪɡjɚɹətɪv læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "the use of words and expressions that are not meant to be taken literally, but rather to create a vivid, imaginative image or effect in the reader's mind",
+        "defineVi": "việc sử dụng các từ và cách diễn đạt không nhằm hiểu theo nghĩa đen mà là để tạo ra một hình ảnh hoặc hiệu ứng sống động, giàu trí tưởng tượng trong tâm trí người đọc"
+    },
+    {
+        "id": "8cb1b3db-8651-45bd-807d-060f4205b44c",
+        "word": "foreshadowing",
+        "phonetic": "fɔːɹʃædoʊɪŋ ",
+        "type": "noun",
+        "defineEn": "the act of giving a clue of the future events to the audience in advance while narrating a story",
+        "defineVi": "hành động đưa ra manh mối về các sự kiện trong tương lai cho khán giả trước khi kể lại một câu chuyện"
+    },
+    {
+        "id": "b9bbeb51-3574-480b-9921-be56dbc5ee8f",
+        "word": "hyperbole",
+        "phonetic": "haɪpɜːbəli ",
+        "type": "noun",
+        "defineEn": "a technique used in speech and writing to exaggerate the extent of something",
+        "defineVi": "một kỹ thuật được sử dụng trong nói và viết để phóng đại mức độ của một cái gì đó"
+    },
+    {
+        "id": "9bdf922e-ec20-466a-a092-633360bc6f95",
+        "word": "hypophora",
+        "phonetic": "haɪpoʊfoːɹə ",
+        "type": "noun",
+        "defineEn": "a rhetorical device in which an author raises a question, and provides an answer right away",
+        "defineVi": "một thiết bị hùng biện trong đó một tác giả đặt ra một câu hỏi, và cung cấp một câu trả lời ngay lập tức"
+    },
+    {
+        "id": "e1e8fd54-fb79-4660-a444-a2bb39aeddcf",
+        "word": "innuendo",
+        "phonetic": "ɪnnjuːɛndoʊ ",
+        "type": "noun",
+        "defineEn": "a vague and allusive hint, especially a disapproving or suggestive one",
+        "defineVi": "một gợi ý mơ hồ và ám chỉ, đặc biệt là một gợi ý không tán thành hoặc gợi ý"
+    },
+    {
+        "id": "5023b240-1d00-407b-b3f1-67bb18a978a1",
+        "word": "metanoia",
+        "phonetic": "mɛtənɔɪə ",
+        "type": "noun",
+        "defineEn": "a figure of speech that involves a self-correction or a revision of what has just been said, usually to strengthen or emphasize the speaker's argument or to make a point more clearly",
+        "defineVi": "một hình thức diễn đạt liên quan đến việc tự sửa lỗi hoặc sửa lại những gì vừa được nói, thường là để củng cố hoặc nhấn mạnh lập luận của người nói hoặc để làm cho quan điểm rõ ràng hơn"
+    },
+    {
+        "id": "4a161693-5554-4270-b726-afdb5bd0a36b",
+        "word": "oxymoron",
+        "phonetic": "ɑːksɪmoːɹɑːn ",
+        "type": "noun",
+        "defineEn": "a figure of speech that combines two contradictory or contrasting terms to create a unique expression",
+        "defineVi": "một con số của bài phát biểu kết hợp hai thuật ngữ mâu thuẫn hoặc tương phản để tạo ra một biểu hiện độc đáo"
+    },
+    {
+        "id": "7099f189-4b7a-4fe1-a315-0c6a7b29ca03",
+        "word": "pleonasm",
+        "phonetic": "plɪɑːnæzəm ",
+        "type": "noun",
+        "defineEn": "(linguistics) the redundant use of words in a way that might be considered a fault of style, or to create an emphatic effect",
+        "defineVi": "(ngôn ngữ học) việc sử dụng các từ dư thừa theo cách có thể bị coi là lỗi về văn phong hoặc để tạo hiệu ứng nhấn mạnh"
+    },
+    {
+        "id": "2b7cce9e-a8b8-48df-8930-f3ce58921378",
+        "word": "polysyndeton",
+        "phonetic": "pɑːlɪsɪndɛtən ",
+        "type": "noun",
+        "defineEn": "a deliberate repetition of a conjunction in a phrase, used as a literary trope",
+        "defineVi": "một sự lặp lại có chủ ý của một sự kết hợp trong một cụm từ, được sử dụng như một phép ẩn dụ văn học"
+    },
+    {
+        "id": "36fb7a51-d0a0-4e49-bc8d-cf12e03fa3a0",
+        "word": "procatalepsis",
+        "phonetic": "pɹɑːkɐɾeɪlɛpsɪs ",
+        "type": "noun",
+        "defineEn": "a rhetorical strategy in which the speaker or writer anticipates an objection or counterargument from the audience and addresses it before it can be raised",
+        "defineVi": "một chiến lược hùng biện trong đó diễn giả hoặc nhà văn dự đoán một sự phản đối hoặc phản đối từ khán giả và giải quyết nó trước khi nó có thể được nêu ra"
+    },
+    {
+        "id": "5636cbab-5f1e-4304-b274-9a37389924ba",
+        "word": "rhyme",
+        "phonetic": "ɹaɪm ",
+        "type": "noun",
+        "defineEn": "agreement between the sound or the ending of a word and another word",
+        "defineVi": "thỏa thuận giữa âm thanh hoặc kết thúc của một từ và một từ khác"
+    },
+    {
+        "id": "2bad6440-427b-4643-9e6e-75dfeac37b4d",
+        "word": "rhythm",
+        "phonetic": "ɹɪðəm ",
+        "type": "noun",
+        "defineEn": "a strong repeated pattern of musical notes or sounds",
+        "defineVi": "một mô hình lặp đi lặp lại mạnh mẽ của các nốt nhạc hoặc âm thanh"
+    },
+    {
+        "id": "6f1aae3f-a003-4733-b1b6-0d67918e182f",
+        "word": "syllepsis",
+        "phonetic": "sɪlɛpsɪs ",
+        "type": "noun",
+        "defineEn": "a figure of speech where a word is used in the same sentence with two or more other words, but with different meanings",
+        "defineVi": "một hình ảnh của bài phát biểu trong đó một từ được sử dụng trong cùng một câu với hai hoặc nhiều từ khác, nhưng với những ý nghĩa khác nhau"
+    },
+    {
+        "id": "3e45734e-3104-4c5e-bbdc-99b9963553af",
+        "word": "symploce",
+        "phonetic": "sɪmploʊs ",
+        "type": "noun",
+        "defineEn": "a rhetorical device that involves the repetition of words or phrases at the beginning and end of successive clauses or sentences",
+        "defineVi": "một thiết bị tu từ liên quan đến việc lặp lại các từ hoặc cụm từ ở đầu và cuối của các mệnh đề hoặc câu liên tiếp"
+    },
+    {
+        "id": "9048bddf-c034-46b1-9a2d-337f3980d2a8",
+        "word": "understatement",
+        "phonetic": "ʌndɚsteɪtmənt ",
+        "type": "noun",
+        "defineEn": "a figure of speech in which the speaker deliberately makes a situation seem less important or serious than it actually is",
+        "defineVi": "một hình thức của bài phát biểu trong đó người nói cố tình làm cho một tình huống có vẻ ít quan trọng hoặc nghiêm trọng hơn thực tế"
+    },
+    {
+        "id": "3d0615d1-8c64-467c-b82b-0dfb1cbab70a",
+        "word": "zeugma",
+        "phonetic": "zjuːɡmə ",
+        "type": "noun",
+        "defineEn": "the use of a word with two senses each of which apply to a different word in a sentence, as a figure of speech",
+        "defineVi": "việc sử dụng một từ có hai nghĩa, mỗi nghĩa áp dụng cho một từ khác nhau trong một câu, như một hình ảnh của lời nói"
+    },
+    {
+        "id": "6c415df0-cc70-40d2-94ca-f1ceca6c8c7a",
+        "word": "antimetabole",
+        "phonetic": "æntɪmətæbɑːl ",
+        "type": "noun",
+        "defineEn": "a literary and rhetorical device that involves repeating words or phrases in successive clauses or sentences, but in reverse order",
+        "defineVi": "một thiết bị văn học và tu từ liên quan đến việc lặp lại các từ hoặc cụm từ trong các mệnh đề hoặc câu liên tiếp, nhưng theo thứ tự ngược lại"
+    }
+]

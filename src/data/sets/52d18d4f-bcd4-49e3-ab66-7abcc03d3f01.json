@@ -1,0 +1,353 @@
+[
+    {
+        "id": "2df0db6d-69e4-4df9-84c0-6b6880ad8cd0",
+        "word": "politics",
+        "phonetic": "pɑːlətɪks ",
+        "type": "noun",
+        "defineEn": "a set of ideas and activities involved in governing a country, state, or city",
+        "defineVi": "một tập hợp các ý tưởng và hoạt động liên quan đến việc quản lý một quốc gia, tiểu bang hoặc thành phố"
+    },
+    {
+        "id": "c767e0e4-09b4-4d05-ab44-ef0c71d0c477",
+        "word": "candidate",
+        "phonetic": "kændᵻdeɪt ",
+        "type": "noun",
+        "defineEn": "someone who is competing in an election or for a job position",
+        "defineVi": "một người đang cạnh tranh trong một cuộc bầu cử hoặc cho một vị trí công việc",
+        "hasImg": true
+    },
+    {
+        "id": "68a88452-40e0-41a1-b4dc-540499417847",
+        "word": "border",
+        "phonetic": "boːɹdɚ ",
+        "type": "noun",
+        "defineEn": "a line that separates two countries, provinces, or states from each other; the area close to this line",
+        "defineVi": "một đường ngăn cách hai quốc gia, tỉnh hoặc tiểu bang với nhau; khu vực gần đường này",
+        "hasImg": true
+    },
+    {
+        "id": "bcc2bf99-c382-42c7-a990-736ba3281460",
+        "word": "congress",
+        "phonetic": "kɑːŋɡɹəs ",
+        "type": "noun",
+        "defineEn": "(in some countries) the group of people who have been elected to make laws, which in the US it consists of the House of Representatives and the Senate",
+        "defineVi": "(ở một số quốc gia) nhóm người được bầu để ban hành luật, ở Mỹ nó bao gồm Hạ viện và Thượng viện",
+        "hasImg": true
+    },
+    {
+        "id": "90ada08c-b554-4e17-825c-957757df95f8",
+        "word": "council",
+        "phonetic": "kaʊnsəl ",
+        "type": "noun",
+        "defineEn": "a group of elected people who govern a city, town, etc.",
+        "defineVi": "một nhóm người được bầu cai quản một thành phố, thị trấn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7a1b4246-687c-4c36-a43d-a49812337b15",
+        "word": "county",
+        "phonetic": "kaʊnti ",
+        "type": "noun",
+        "defineEn": "(in the US) one of the areas into which a state is divided and that has a local government of its own",
+        "defineVi": "(ở Hoa Kỳ) một trong những khu vực mà một tiểu bang được chia thành và có chính quyền địa phương của riêng mình",
+        "hasImg": true
+    },
+    {
+        "id": "24afcf71-73a9-471a-9310-3a2b7461f961",
+        "word": "court",
+        "phonetic": "koːɹt ",
+        "type": "noun",
+        "defineEn": "the place in which legal trials are held",
+        "defineVi": "nơi mà các phiên tòa pháp lý được tổ chức",
+        "hasImg": true
+    },
+    {
+        "id": "12656846-48d2-4526-b02e-2cdc76c3de9e",
+        "word": "diplomacy",
+        "phonetic": "dɪploʊməsi ",
+        "type": "noun",
+        "defineEn": "the job, skill, or act of managing the relationships between different countries",
+        "defineVi": "công việc, kỹ năng hoặc hành động quản lý các mối quan hệ giữa các quốc gia khác nhau"
+    },
+    {
+        "id": "2e3384fc-af50-4037-8d7a-fa223489ab30",
+        "word": "election",
+        "phonetic": "ᵻlɛkʃən ",
+        "type": "noun",
+        "defineEn": "the process in which people choose a person or group of people for a position, particularly a political one, by voting for them",
+        "defineVi": "quá trình mọi người chọn một người hoặc một nhóm người cho một vị trí, đặc biệt là chính trị, bằng cách bỏ phiếu cho họ",
+        "hasImg": true
+    },
+    {
+        "id": "8cb10319-ad22-4b2d-be49-08027ab9868b",
+        "word": "to elect",
+        "phonetic": "tʊ ᵻlɛkt ",
+        "type": "verb",
+        "defineEn": "to choose a person for a specific job, particularly a political one, by voting",
+        "defineVi": "để chọn một người cho một công việc cụ thể, đặc biệt là một chính trị, bằng cách bỏ phiếu",
+        "hasImg": true
+    },
+    {
+        "id": "f43fb2a6-ed54-4bd4-93ea-d36eac7ffb11",
+        "word": "embassy",
+        "phonetic": "ɛmbəsi ",
+        "type": "noun",
+        "defineEn": "a group of people who officially represent their government in another country",
+        "defineVi": "một nhóm người chính thức đại diện cho chính phủ của họ ở một quốc gia khác"
+    },
+    {
+        "id": "7c156dd8-8065-4a44-bc97-e1afeeb1e290",
+        "word": "government",
+        "phonetic": "ɡʌvɚnmənt ",
+        "type": "noun",
+        "defineEn": "the group of politicians in control of a country or state",
+        "defineVi": "nhóm các chính trị gia kiểm soát một quốc gia hoặc tiểu bang",
+        "hasImg": true
+    },
+    {
+        "id": "74f1afe5-6c9f-43d9-a43f-d3aee083bc49",
+        "word": "local government",
+        "phonetic": "loʊkəl ɡʌvɚnmənt ",
+        "type": "noun",
+        "defineEn": "the government of a city or town and not of a country",
+        "defineVi": "chính quyền của một thành phố hoặc thị trấn và không phải của một quốc gia"
+    },
+    {
+        "id": "1ac8d98e-92ca-4641-bb73-52a1bc46939d",
+        "word": "governor",
+        "phonetic": "ɡʌvɚnɚ ",
+        "type": "noun",
+        "defineEn": "someone who is in charge of a region or town",
+        "defineVi": "một người phụ trách một khu vực hoặc thị trấn"
+    },
+    {
+        "id": "99479bda-8d65-4eea-baa0-51402e6fc641",
+        "word": "law",
+        "phonetic": "lɔː ",
+        "type": "noun",
+        "defineEn": "a country's rules that all of its citizens are required to obey",
+        "defineVi": "quy tắc của một quốc gia mà tất cả các công dân của nó được yêu cầu phải tuân theo",
+        "hasImg": true
+    },
+    {
+        "id": "6cba4c83-a83b-4bd4-8b97-d614ec17e2ac",
+        "word": "mayor",
+        "phonetic": "meɪɚ ",
+        "type": "noun",
+        "defineEn": "someone who is elected to be the head of a town or city",
+        "defineVi": "một người được bầu làm người đứng đầu thị trấn hoặc thành phố"
+    },
+    {
+        "id": "4a951869-a649-4010-b5fc-fb368022ccf6",
+        "word": "parliament",
+        "phonetic": "pɑːɹləmənt ",
+        "type": "noun",
+        "defineEn": "the group of elected politicians whose responsibility is changing or making laws or discussing political matters",
+        "defineVi": "nhóm các chính trị gia được bầu có trách nhiệm thay đổi hoặc làm luật hoặc thảo luận về các vấn đề chính trị"
+    },
+    {
+        "id": "882a9da3-1288-4358-b46a-491042d20343",
+        "word": "party",
+        "phonetic": "pɑːɹɾi ",
+        "type": "noun",
+        "defineEn": "an official political group with shared beliefs and aims who try to be a part of or form a government",
+        "defineVi": "một nhóm chính trị chính thức với niềm tin và mục tiêu chung, những người cố gắng trở thành một phần của hoặc thành lập chính phủ"
+    },
+    {
+        "id": "6f45fc55-7123-44dd-8ef1-da766496b98c",
+        "word": "political",
+        "phonetic": "pəlɪɾɪkəl ",
+        "type": "adjective",
+        "defineEn": "related to a country's government, politics, or public affairs",
+        "defineVi": "liên quan đến chính phủ, chính trị hoặc các vấn đề công cộng của một quốc gia",
+        "hasImg": true
+    },
+    {
+        "id": "3bdd7d4f-f912-4bf6-bf17-7de6d292fc24",
+        "word": "president",
+        "phonetic": "pɹɛzɪdənt ",
+        "type": "noun",
+        "defineEn": "the leader of a country that has no king or queen",
+        "defineVi": "lãnh đạo của một quốc gia không có vua hay nữ hoàng",
+        "hasImg": true
+    },
+    {
+        "id": "d29230c0-ac20-477c-a1d9-bd5b4459f403",
+        "word": "public",
+        "phonetic": "pʌblɪk ",
+        "type": "noun",
+        "defineEn": "a society's ordinary people",
+        "defineVi": "những người bình thường của một xã hội",
+        "hasImg": true
+    },
+    {
+        "id": "8777e6fd-2ee3-4b6a-8970-1f41d5ca6f0d",
+        "word": "punishment",
+        "phonetic": "pʌnɪʃmənt ",
+        "type": "noun",
+        "defineEn": "the act of making someone suffer because they have done something illegal or wrong; a method of doing this",
+        "defineVi": "hành động khiến ai đó đau khổ vì họ đã làm điều gì đó bất hợp pháp hoặc sai trái; một phương pháp để làm điều này"
+    },
+    {
+        "id": "7dc9e7b6-9812-4cdd-ba9b-e22ebc1f4775",
+        "word": "right",
+        "phonetic": "ɹaɪt ",
+        "type": "noun",
+        "defineEn": "something that a person is legally, officially, or morally allowed to do or have",
+        "defineVi": "một cái gì đó mà một người được phép làm hoặc có một cách hợp pháp, chính thức hoặc đạo đức"
+    },
+    {
+        "id": "447687c5-7d8e-43e3-93e5-542eedc9699f",
+        "word": "senate",
+        "phonetic": "sɛnət ",
+        "type": "noun",
+        "defineEn": "one of the two groups of politicians, the other being the House of Representatives, who have been elected to make laws in some countries, such as France and the US",
+        "defineVi": "một trong hai nhóm chính trị gia, nhóm còn lại là Hạ viện, những người đã được bầu để ban hành luật ở một số quốc gia, chẳng hạn như Pháp và Hoa Kỳ"
+    },
+    {
+        "id": "a35b8b4d-d492-46c2-ab0c-74dc1796bf1f",
+        "word": "to arrest",
+        "phonetic": "tʊ ɚɹɛst ",
+        "type": "verb",
+        "defineEn": "(of law enforcement agencies) to take a person away because they believe that they have done something illegal",
+        "defineVi": "(của các cơ quan thực thi pháp luật) để đưa một người đi vì họ tin rằng họ đã làm điều gì đó bất hợp pháp",
+        "hasImg": true
+    },
+    {
+        "id": "67a30a8f-19f2-41f0-9e71-c00db5aaa902",
+        "word": "to ban",
+        "phonetic": "tə bæn ",
+        "type": "verb",
+        "defineEn": "to state that the use, possession, showing, etc. of something is not allowed, particularly officially",
+        "defineVi": "để tuyên bố rằng việc sử dụng, sở hữu, hiển thị, vv của một cái gì đó là không được phép, đặc biệt là chính thức"
+    },
+    {
+        "id": "ddeb1a60-6492-4023-83df-ee123b3af5c8",
+        "word": "state",
+        "phonetic": "steɪt ",
+        "type": "noun",
+        "defineEn": "one of the organized political areas that together form a federal country, like those of Germany or the US",
+        "defineVi": "một trong những khu vực chính trị có tổ chức cùng nhau tạo thành một quốc gia liên bang, giống như của Đức hoặc Hoa Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "d67307f1-a312-4ae0-b43f-24040ba8087d",
+        "word": "to commit",
+        "phonetic": "tə kəmɪt ",
+        "type": "verb",
+        "defineEn": "to do something that is illegal or wrong",
+        "defineVi": "để làm một cái gì đó là bất hợp pháp hoặc sai"
+    },
+    {
+        "id": "5dfae602-4d79-45a4-a204-858f9a97d5d9",
+        "word": "to escape",
+        "phonetic": "tʊ ɛskeɪp ",
+        "type": "verb",
+        "defineEn": "to get away from captivity",
+        "defineVi": "để thoát khỏi cảnh giam cầm",
+        "hasImg": true
+    },
+    {
+        "id": "0f2c12a8-cb33-4dd4-91f4-143f2a895d57",
+        "word": "to investigate",
+        "phonetic": "tʊ ɪnvɛstᵻɡeɪt ",
+        "type": "verb",
+        "defineEn": "to try to find the truth about a crime, accident, etc. by carefully examining its facts",
+        "defineVi": "cố gắng tìm ra sự thật về một tội ác, tai nạn, v.v. bằng cách xem xét cẩn thận các sự kiện của nó",
+        "hasImg": true
+    },
+    {
+        "id": "ae60586c-127c-4671-83bd-d482dfc3bd52",
+        "word": "to murder",
+        "phonetic": "tə mɜːdɚ ",
+        "type": "verb",
+        "defineEn": "to unlawfully and intentionally kill another human being",
+        "defineVi": "giết người khác một cách bất hợp pháp và cố ý",
+        "hasImg": true
+    },
+    {
+        "id": "d4ee5fe9-8440-4381-a6b8-04cb693b4028",
+        "word": "to punish",
+        "phonetic": "tə pʌnɪʃ ",
+        "type": "verb",
+        "defineEn": "to cause someone to suffer for breaking the law or having done something they should not have",
+        "defineVi": "khiến ai đó đau khổ vì vi phạm pháp luật hoặc đã làm điều gì đó mà họ không nên làm"
+    },
+    {
+        "id": "b3da30a3-d381-490f-8fd0-ec8c2f04e0ff",
+        "word": "to rule",
+        "phonetic": "tə ɹuːl ",
+        "type": "verb",
+        "defineEn": "to control and be in charge of a country",
+        "defineVi": "kiểm soát và chịu trách nhiệm về một quốc gia"
+    },
+    {
+        "id": "4dda3c92-b170-4aa9-a775-e0a8fc21eddb",
+        "word": "thief",
+        "phonetic": "θiːf ",
+        "type": "noun",
+        "defineEn": "someone who steals something from a person or place without using violence or threats",
+        "defineVi": "ai đó đánh cắp thứ gì đó từ một người hoặc một nơi mà không sử dụng bạo lực hoặc đe dọa",
+        "hasImg": true
+    },
+    {
+        "id": "f44c97d6-3db6-4f3b-af5f-ced6a656699c",
+        "word": "to vote",
+        "phonetic": "tə voʊt ",
+        "type": "verb",
+        "defineEn": "to show which candidate one wants to win in an election or which plan one supports, by marking a piece of paper, raising one's hand, etc.",
+        "defineVi": "để cho thấy ứng cử viên nào mà một người muốn giành chiến thắng trong một cuộc bầu cử hoặc kế hoạch nào mà họ ủng hộ, bằng cách đánh dấu một tờ giấy, giơ tay, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "202a73da-e711-41c2-8a1b-c7f674dd7502",
+        "word": "conference",
+        "phonetic": "kɑːnfɹəns ",
+        "type": "noun",
+        "defineEn": "an official meeting where a group of people discuss a certain matter, which often continues for days",
+        "defineVi": "một cuộc họp chính thức nơi một nhóm người thảo luận về một vấn đề nhất định, thường tiếp tục trong nhiều ngày",
+        "hasImg": true
+    },
+    {
+        "id": "afbb80e4-fc5e-445f-8dc9-d0266541775d",
+        "word": "statement",
+        "phonetic": "steɪtmənt ",
+        "type": "noun",
+        "defineEn": "an official announcement regarding something specific",
+        "defineVi": "một thông báo chính thức liên quan đến một cái gì đó cụ thể"
+    },
+    {
+        "id": "cd74a53d-67c2-4dc0-99cd-2ff48aa330a7",
+        "word": "flag",
+        "phonetic": "flæɡ ",
+        "type": "noun",
+        "defineEn": "a piece of cloth with a mark or pattern that stands for a country, organization, etc.",
+        "defineVi": "một mảnh vải có nhãn hiệu hoặc hoa văn tượng trưng cho một quốc gia, tổ chức, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7a72072f-97bc-437e-bc2e-320b49d00381",
+        "word": "blood money",
+        "phonetic": "blʌd mʌni ",
+        "type": "noun",
+        "defineEn": "an amount of money given by law to the close relatives of a murdered victim",
+        "defineVi": "một số tiền được pháp luật trao cho những người thân của nạn nhân bị sát hại"
+    },
+    {
+        "id": "75b39824-c3a7-4d1c-9ea0-cf05c4cfbbf8",
+        "word": "to free",
+        "phonetic": "tə fɹiː ",
+        "type": "verb",
+        "defineEn": "to stop keeping someone against their will or to release them from arrest",
+        "defineVi": "ngừng giữ ai đó trái với ý muốn của họ hoặc giải phóng họ khỏi bị bắt",
+        "hasImg": true
+    },
+    {
+        "id": "7c9781bd-aad4-45c8-84e1-ed04785c5868",
+        "word": "death penalty",
+        "phonetic": "dɛθ pɛnəlɾi ",
+        "type": "noun",
+        "defineEn": "the punishment by killing a criminal, which is officially ordered by a law court",
+        "defineVi": "hình phạt bằng cách giết một tên tội phạm, được chính thức ra lệnh bởi một tòa án pháp luật"
+    }
+]

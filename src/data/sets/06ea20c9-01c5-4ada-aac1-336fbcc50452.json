@@ -1,0 +1,338 @@
+[
+    {
+        "id": "8be60379-ae9d-4982-bb95-ffbe0537141a",
+        "word": "ballet",
+        "phonetic": "bæleɪ ",
+        "type": "noun",
+        "defineEn": "a form of performing art that narrates a story using elaborate dance movements set to music but no words",
+        "defineVi": "một hình thức biểu diễn nghệ thuật thuật lại một câu chuyện bằng cách sử dụng các động tác khiêu vũ phức tạp được đặt theo nhạc nhưng không có lời",
+        "hasImg": true
+    },
+    {
+        "id": "e5815217-1e8b-4b8c-a155-ecfa41a9bae3",
+        "word": "Broadway",
+        "phonetic": "bɹɔːdweɪ ",
+        "type": "noun",
+        "defineEn": "a well-known street in New York City where many theaters are located, which is considered the center of theater industry in the US",
+        "defineVi": "một con đường nổi tiếng ở thành phố New York, nơi có nhiều nhà hát, được coi là trung tâm của ngành công nghiệp sân khấu ở Mỹ"
+    },
+    {
+        "id": "3e5a8131-9d6c-4f75-96af-5e1defb4bed1",
+        "word": "feature film",
+        "phonetic": "fiːtʃɚ fɪlm ",
+        "type": "noun",
+        "defineEn": "a full-length movie that has a story",
+        "defineVi": "một bộ phim dài đầy đủ có một câu chuyện"
+    },
+    {
+        "id": "fafdbf3f-2950-4d4f-b75c-9ffd0c68eb67",
+        "word": "trailer",
+        "phonetic": "tɹeɪlɚ ",
+        "type": "noun",
+        "defineEn": "a selection from different parts of a movie, TV series, games, etc. shown before they become available to the public",
+        "defineVi": "lựa chọn từ các phần khác nhau của phim, phim truyền hình, trò chơi, v.v. được trình chiếu trước khi chúng ra mắt công chúng"
+    },
+    {
+        "id": "3297dbe6-0ab4-4252-8822-444c38f14bcb",
+        "word": "sequel",
+        "phonetic": "siːkwəl ",
+        "type": "noun",
+        "defineEn": "a book, movie, play, etc. that continues and extends the story of an earlier one",
+        "defineVi": "một cuốn sách, bộ phim, vở kịch, v.v. tiếp tục và mở rộng câu chuyện của một cuốn trước đó",
+        "hasImg": true
+    },
+    {
+        "id": "036e0de3-0e9f-4b7a-8770-359e60f7e29b",
+        "word": "blockbuster",
+        "phonetic": "blɑːkbʌstɚ ",
+        "type": "noun",
+        "defineEn": "a thing that achieves great commercial success, particularly a movie, book, or other product",
+        "defineVi": "một thứ đạt được thành công lớn về mặt thương mại, đặc biệt là một bộ phim, cuốn sách hoặc sản phẩm khác"
+    },
+    {
+        "id": "8a5d01d1-3e34-420e-97e3-798ffc0cc214",
+        "word": "classic",
+        "phonetic": "klæsɪk ",
+        "type": "noun",
+        "defineEn": "a long-standing and popular style of filmmaking or writing that is of high quality",
+        "defineVi": "một phong cách làm phim hoặc viết lâu đời và phổ biến có chất lượng cao"
+    },
+    {
+        "id": "1d171b92-9e2b-4730-87d7-c33f1fe37c23",
+        "word": "to stage",
+        "phonetic": "tə steɪdʒ ",
+        "type": "verb",
+        "defineEn": "to present a play or other event to an audience",
+        "defineVi": "để trình bày một vở kịch hoặc sự kiện khác cho khán giả"
+    },
+    {
+        "id": "9ff79d24-6d21-46f1-a4e8-7ee6c9ab03e2",
+        "word": "to cast",
+        "phonetic": "tə kæst ",
+        "type": "verb",
+        "defineEn": "to choose a performer to play a role in a movie, opera, play, etc.",
+        "defineVi": "để chọn một người biểu diễn để đóng một vai trong một bộ phim, vở opera, vở kịch, v.v."
+    },
+    {
+        "id": "c8f2009b-da30-42bb-87a4-20f5f7f40d81",
+        "word": "to adapt",
+        "phonetic": "tʊ ɐdæpt ",
+        "type": "verb",
+        "defineEn": "to change a book or play in a way that can be made into a movie, TV series, etc.",
+        "defineVi": "để thay đổi một cuốn sách hoặc vở kịch theo cách có thể dựng thành phim, phim truyền hình, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f932aeb0-d08f-42b6-85ae-8261757fc13e",
+        "word": "adaptation",
+        "phonetic": "ædæpteɪʃən ",
+        "type": "noun",
+        "defineEn": "a movie, TV program, etc. that is based on a book or play",
+        "defineVi": "một bộ phim, chương trình truyền hình, vv dựa trên một cuốn sách hoặc vở kịch",
+        "hasImg": true
+    },
+    {
+        "id": "a4610ccf-9fb5-43a4-a293-769bf6917c8e",
+        "word": "to cut",
+        "phonetic": "tə kʌt ",
+        "type": "verb",
+        "defineEn": "to edit a film and prepare it by removing parts of it",
+        "defineVi": "để chỉnh sửa một bộ phim và chuẩn bị nó bằng cách loại bỏ các phần của nó"
+    },
+    {
+        "id": "38ece20e-cd63-4ea3-b20d-1ee79a7a3976",
+        "word": "to release",
+        "phonetic": "tə ɹᵻliːs ",
+        "type": "verb",
+        "defineEn": "to make a movie, music, etc. available to the public",
+        "defineVi": "để làm cho một bộ phim, âm nhạc, vv có sẵn cho công chúng"
+    },
+    {
+        "id": "586a8f0c-4c56-4866-b136-19e4f2473040",
+        "word": "box office",
+        "phonetic": "bɑːks ɑːfɪs ",
+        "type": "noun",
+        "defineEn": "a small place at a cinema, theater, etc. from which tickets are bought",
+        "defineVi": "một địa điểm nhỏ tại rạp chiếu phim, nhà hát, v.v. nơi mua vé",
+        "hasImg": true
+    },
+    {
+        "id": "a87c7d23-26b1-4045-931e-6889880ca0e0",
+        "word": "to rehearse",
+        "phonetic": "tə ɹᵻhɜːs ",
+        "type": "verb",
+        "defineEn": "to practice a play, piece of music, etc. before the public performance",
+        "defineVi": "tập một vở kịch, bản nhạc, v.v. trước khi biểu diễn trước công chúng"
+    },
+    {
+        "id": "b681bc2b-e285-4bab-b89d-05988b4567d2",
+        "word": "to portray",
+        "phonetic": "tə poːɹtɹeɪ ",
+        "type": "verb",
+        "defineEn": "to play the role of a character in a movie, play, etc.",
+        "defineVi": "đóng vai một nhân vật trong phim, vở kịch, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "b9b3ed41-b7c0-490e-a950-089d40eb2d35",
+        "word": "to narrate",
+        "phonetic": "tə nɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "to explain the events taking place in a movie, documentary, etc. as part of the program itself",
+        "defineVi": "để giải thích các sự kiện diễn ra trong một bộ phim, tài liệu, vv như là một phần của chính chương trình"
+    },
+    {
+        "id": "3ae3b6d4-f356-47ca-a8d0-73a0a00e992c",
+        "word": "direction",
+        "phonetic": "dᵻɹɛkʃən ",
+        "type": "noun",
+        "defineEn": "the act of supervising the cast and crew and giving them instructions in the production of a motion picture, play, etc.",
+        "defineVi": "hành động giám sát các diễn viên và đoàn làm phim và hướng dẫn họ trong quá trình sản xuất một bộ phim chuyển động, vở kịch, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "2b4ae6c6-c6e7-467b-b5ca-fd1200239182",
+        "word": "to cue",
+        "phonetic": "tə kjuː ",
+        "type": "verb",
+        "defineEn": "to give a hint or signal to an actor or a performer to do or say something on the stage",
+        "defineVi": "đưa ra gợi ý hoặc tín hiệu cho một diễn viên hoặc người biểu diễn làm hoặc nói điều gì đó trên sân khấu"
+    },
+    {
+        "id": "7d3422c2-0385-48cd-a2f5-8195f705979a",
+        "word": "camerawork",
+        "phonetic": "kæmɹəwɜːk ",
+        "type": "noun",
+        "defineEn": "the style in which a movie or photograph is shot",
+        "defineVi": "phong cách quay phim hoặc chụp ảnh"
+    },
+    {
+        "id": "cb498348-3e4f-4781-8460-94e9172263cf",
+        "word": "to dub",
+        "phonetic": "tə dʌb ",
+        "type": "verb",
+        "defineEn": "to change the original language of a movie or TV show into another language",
+        "defineVi": "để thay đổi ngôn ngữ gốc của một bộ phim hoặc chương trình truyền hình sang một ngôn ngữ khác"
+    },
+    {
+        "id": "3865f939-5cfe-4911-855b-8f60a877c268",
+        "word": "dress rehearsal",
+        "phonetic": "dɹɛs ɹᵻhɜːsəl ",
+        "type": "noun",
+        "defineEn": "the final practice of a play or live show, in which the same costumes and lights are used as the live performance",
+        "defineVi": "phần thực hành cuối cùng của một vở kịch hoặc chương trình trực tiếp, trong đó trang phục và ánh sáng giống nhau được sử dụng như buổi biểu diễn trực tiếp"
+    },
+    {
+        "id": "7bb6af51-2076-47e7-8d92-415ad097f557",
+        "word": "dramatic",
+        "phonetic": "dɹəmæɾɪk ",
+        "type": "adjective",
+        "defineEn": "related to acting, plays, or the theater",
+        "defineVi": "liên quan đến diễn xuất, kịch, hoặc nhà hát",
+        "hasImg": true
+    },
+    {
+        "id": "3203bac8-0fb0-4746-bf16-18bc638b7a36",
+        "word": "animated",
+        "phonetic": "ænɪmeɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "(of images or drawings in a movie) made to appear as if they are in motion",
+        "defineVi": "(của hình ảnh hoặc hình vẽ trong phim) được tạo ra như thể chúng đang chuyển động",
+        "hasImg": true
+    },
+    {
+        "id": "6dd547bb-7d09-4a6e-8d6c-d3b6e4e37baf",
+        "word": "footage",
+        "phonetic": "fʊɾɪdʒ ",
+        "type": "noun",
+        "defineEn": "the raw material that is filmed by a video or movie camera",
+        "defineVi": "nguyên liệu thô được quay bằng máy quay video hoặc phim"
+    },
+    {
+        "id": "51981060-9317-4e4e-ab42-ac67f6d46dae",
+        "word": "genre",
+        "phonetic": "ʒɑːnɹə ",
+        "type": "noun",
+        "defineEn": "a style of art, music, literature, film, etc. that has its own special features",
+        "defineVi": "một phong cách nghệ thuật, âm nhạc, văn học, phim, v.v. có những nét đặc biệt riêng",
+        "hasImg": true
+    },
+    {
+        "id": "6f9c5505-3912-4198-94ae-c583964828ee",
+        "word": "scenario",
+        "phonetic": "sənæɹioʊ ",
+        "type": "noun",
+        "defineEn": "a written description of the characters, events or settings in a movie or play",
+        "defineVi": "mô tả bằng văn bản về các nhân vật, sự kiện hoặc cài đặt trong phim hoặc vở kịch",
+        "hasImg": true
+    },
+    {
+        "id": "90fc92a9-12ad-4f16-ad73-d15e78790c77",
+        "word": "screenplay",
+        "phonetic": "skɹiːnpleɪ ",
+        "type": "noun",
+        "defineEn": "the script and written instructions used in producing a motion picture",
+        "defineVi": "kịch bản và hướng dẫn bằng văn bản được sử dụng để sản xuất một bộ phim chuyển động"
+    },
+    {
+        "id": "f604e181-9076-44bc-ad39-ab4bdfdc9c1d",
+        "word": "spotlight",
+        "phonetic": "spɑːtlaɪt ",
+        "type": "noun",
+        "defineEn": "a lamp that produces a very strong beam of light that can be cast on someone or something, particularly a person on stage",
+        "defineVi": "một ngọn đèn tạo ra một chùm ánh sáng rất mạnh có thể chiếu vào ai đó hoặc một cái gì đó, đặc biệt là một người trên sân khấu"
+    },
+    {
+        "id": "64039261-fac2-423c-b887-a96e983c66cb",
+        "word": "act",
+        "phonetic": "ækt ",
+        "type": "noun",
+        "defineEn": "a main part of a play, opera, or ballet",
+        "defineVi": "một phần chính của vở kịch, opera hoặc múa ba lê",
+        "hasImg": true
+    },
+    {
+        "id": "66843cda-6432-4efb-a713-a81e948f43fc",
+        "word": "interval",
+        "phonetic": "ɪntɚvəl ",
+        "type": "noun",
+        "defineEn": "a short break between different parts of a theatrical or musical performance",
+        "defineVi": "một khoảng nghỉ ngắn giữa các phần khác nhau của một buổi biểu diễn sân khấu hoặc âm nhạc"
+    },
+    {
+        "id": "0fcf2f02-d4c7-44d1-9088-5bc780785fb4",
+        "word": "lead",
+        "phonetic": "liːd ",
+        "type": "noun",
+        "defineEn": "an actor who plays the main role in a play or movie",
+        "defineVi": "một diễn viên đóng vai chính trong một vở kịch hoặc bộ phim",
+        "hasImg": true
+    },
+    {
+        "id": "e47f858d-c1f0-4afc-aac1-2e66f7d475d6",
+        "word": "stunt",
+        "phonetic": "stʌnt ",
+        "type": "noun",
+        "defineEn": "a dangerous and difficult action that shows great skill and is done to entertain people, typically as part of a movie",
+        "defineVi": "một hành động nguy hiểm và khó thể hiện kỹ năng tuyệt vời và được thực hiện để giải trí cho mọi người, thường là một phần của bộ phim"
+    },
+    {
+        "id": "8071c88b-faec-458e-9844-b81b9bc2cf3e",
+        "word": "climax",
+        "phonetic": "klaɪmæks ",
+        "type": "noun",
+        "defineEn": "the most significant moment in a story, play, movie, etc. with a high dramatic suspense",
+        "defineVi": "thời điểm quan trọng nhất trong một câu chuyện, vở kịch, bộ phim, v.v. với tính hồi hộp kịch tính cao"
+    },
+    {
+        "id": "2e0a8e66-0a2f-4915-b5f8-a238265f3bea",
+        "word": "twist",
+        "phonetic": "twɪst ",
+        "type": "noun",
+        "defineEn": "an unexpected turn in the course of events",
+        "defineVi": "một bước ngoặt bất ngờ trong quá trình các sự kiện"
+    },
+    {
+        "id": "ff001b87-798b-461c-8776-c2fb43ff8c83",
+        "word": "backstory",
+        "phonetic": "bækstoːɹi ",
+        "type": "noun",
+        "defineEn": "the events that have happened to a character before their story in a book, movie, etc. begins",
+        "defineVi": "các sự kiện đã xảy ra với một nhân vật trước khi câu chuyện của họ trong sách, phim, v.v. bắt đầu"
+    },
+    {
+        "id": "e915229b-8c39-4e90-95c8-eebf681e1bda",
+        "word": "subtitle",
+        "phonetic": "sʌbtaɪɾəl ",
+        "type": "noun",
+        "defineEn": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who don't understand the language",
+        "defineVi": "các từ phiên âm hoặc dịch của câu chuyện hoặc lời thoại của một bộ phim hoặc chương trình truyền hình, xuất hiện ở cuối màn hình để giúp người khiếm thính hoặc những người không hiểu ngôn ngữ",
+        "hasImg": true
+    },
+    {
+        "id": "4e3f358a-acd0-4b9a-9984-946be26cb5ea",
+        "word": "theme music",
+        "phonetic": "θiːm mjuːzɪk ",
+        "type": "noun",
+        "defineEn": "the musical piece that is played at the beginning or the end of a TV or radio program or a motion picture",
+        "defineVi": "bản nhạc được phát ở đầu hoặc cuối chương trình truyền hình hoặc đài phát thanh hoặc hình ảnh chuyển động"
+    },
+    {
+        "id": "d2ae8729-ae42-4960-a222-f19d5613529a",
+        "word": "critic",
+        "phonetic": "kɹɪɾɪk ",
+        "type": "noun",
+        "defineEn": "someone who gives their personal standpoint of a movie, play, etc. as a job",
+        "defineVi": "ai đó đưa ra quan điểm cá nhân của họ về một bộ phim, vở kịch, v.v. như một công việc",
+        "hasImg": true
+    },
+    {
+        "id": "51393069-1763-4276-b420-294b50f3feab",
+        "word": "comedian",
+        "phonetic": "kəmiːdiən ",
+        "type": "noun",
+        "defineEn": "someone whose job is making their audience laugh through jokes",
+        "defineVi": "ai đó có công việc là làm cho khán giả của họ cười qua những trò đùa",
+        "hasImg": true
+    }
+]

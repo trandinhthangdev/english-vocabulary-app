@@ -1,0 +1,575 @@
+[
+    {
+        "id": "1b9a1b17-1134-4fa2-91e4-34b9884e8f94",
+        "word": "bone",
+        "phonetic": "boʊn ",
+        "type": "noun",
+        "defineEn": "any of the hard pieces making up the skeleton in humans and some animals",
+        "defineVi": "bất kỳ mảnh cứng nào tạo nên bộ xương ở người và một số động vật",
+        "hasImg": true
+    },
+    {
+        "id": "f366efe1-c197-4cdd-bb22-f0d7ff293550",
+        "word": "joint",
+        "phonetic": "dʒɔɪnt ",
+        "type": "noun",
+        "defineEn": "a place in the body where two bones meet, enabling one of them to bend or move around",
+        "defineVi": "một nơi trong cơ thể nơi hai xương gặp nhau, cho phép một trong số chúng uốn cong hoặc di chuyển xung quanh",
+        "hasImg": true
+    },
+    {
+        "id": "c813b2b9-f7f3-4a0e-8995-60ef16d952f1",
+        "word": "cartilage",
+        "phonetic": "kɑːɹɾɪlɪdʒ ",
+        "type": "noun",
+        "defineEn": "an elastic tissue that supports or connects joints in an infant and turns into skeleton during growth",
+        "defineVi": "một mô đàn hồi hỗ trợ hoặc kết nối các khớp ở trẻ sơ sinh và biến thành bộ xương trong quá trình tăng trưởng",
+        "hasImg": true
+    },
+    {
+        "id": "21b7aa61-d387-4b0f-9f53-e34542febb0c",
+        "word": "cartilage bone",
+        "phonetic": "kɑːɹɾɪlɪdʒ boʊn ",
+        "type": "noun",
+        "defineEn": "a transformed cartilaginous structure that has undergone ossification",
+        "defineVi": "một cấu trúc sụn biến đổi đã trải qua quá trình hóa thạch"
+    },
+    {
+        "id": "2b6b827c-5db7-4a58-8686-39ef1458c37a",
+        "word": "ligament",
+        "phonetic": "lɪɡəmənt ",
+        "type": "noun",
+        "defineEn": "(anatomy) a strong band of tissue which connects two bones or cartilages or keeps organs in place",
+        "defineVi": "(giải phẫu) dải mô chắc chắn nối hai xương hoặc sụn hoặc giữ cho các cơ quan ở đúng vị trí"
+    },
+    {
+        "id": "dc152879-dbc1-40fa-ac01-7be9bd2f0cac",
+        "word": "bursa",
+        "phonetic": "bɜːsə ",
+        "type": "noun",
+        "defineEn": "a fluid-filled sac that reduces friction between tissues such as bones, tendons, and muscles",
+        "defineVi": "một túi chứa đầy chất lỏng làm giảm ma sát giữa các mô như xương, gân và cơ"
+    },
+    {
+        "id": "a11fcb43-76a2-4310-9f0b-9a1dfd161225",
+        "word": "axial skeleton",
+        "phonetic": "æksɪəl skɛlᵻtən ",
+        "type": "noun",
+        "defineEn": "the central part of the skeleton that includes the skull, vertebral column, and ribcage",
+        "defineVi": "phần trung tâm của bộ xương bao gồm hộp sọ, cột sống và lồng ngực"
+    },
+    {
+        "id": "ed240cee-f9fc-47b6-b234-eb6458b556ff",
+        "word": "axial muscle",
+        "phonetic": "æksɪəl mʌsəl ",
+        "type": "noun",
+        "defineEn": "a single muscle that is located along the central axis of the body, including the head, neck, and trunk",
+        "defineVi": "một cơ duy nhất nằm dọc theo trục trung tâm của cơ thể, bao gồm đầu, cổ và thân"
+    },
+    {
+        "id": "9a210b4f-f5c9-4b36-976b-93b3fbce36d5",
+        "word": "Achilles tendon",
+        "phonetic": "ɐkɪliːz tɛndən ",
+        "type": "noun",
+        "defineEn": "a tendon in the leg that attaches the muscles of the calf to the bone of the heel",
+        "defineVi": "một đường gân ở chân gắn các cơ bắp chân với xương gót chân",
+        "hasImg": true
+    },
+    {
+        "id": "d0597288-ef5b-4388-b73d-481755d1de1c",
+        "word": "tendon",
+        "phonetic": "tɛndən ",
+        "type": "noun",
+        "defineEn": "(anatomy) an elastic cord or band that connects a muscle to a bone",
+        "defineVi": "(giải phẫu) sợi dây hoặc dải đàn hồi nối cơ với xương",
+        "hasImg": true
+    },
+    {
+        "id": "65ffaa55-8371-4a19-a295-64f046a60ca6",
+        "word": "skull",
+        "phonetic": "skʌl ",
+        "type": "noun",
+        "defineEn": "the bony structure that surrounds and provides protection for a person's or animal's brain",
+        "defineVi": "cấu trúc xương bao quanh và cung cấp sự bảo vệ cho bộ não của một người hoặc động vật",
+        "hasImg": true
+    },
+    {
+        "id": "70436a08-5567-4d29-a9ed-3658748db2eb",
+        "word": "muscle",
+        "phonetic": "mʌsəl ",
+        "type": "noun",
+        "defineEn": "a piece of body tissue that is made tight or relaxed when we want to move a particular part of our body",
+        "defineVi": "một mảnh mô cơ thể được làm căng hoặc thả lỏng khi chúng ta muốn di chuyển một phần cụ thể của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "0383d6ae-400c-4cd4-a0d5-9e4e53e7b546",
+        "word": "hamstring",
+        "phonetic": "hæmstɹɪŋ ",
+        "type": "noun",
+        "defineEn": "(anatomy) one of the five tendons at the back of someone's knee",
+        "defineVi": "(giải phẫu) một trong năm gân ở phía sau đầu gối của ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "39bae64e-9b6b-4dfe-99f5-3a929719ccfa",
+        "word": "abductor",
+        "phonetic": "ɐbdʌktɚ ",
+        "type": "noun",
+        "defineEn": "(anatomy) a muscle that moves a part of the body away from its normal position by contraction",
+        "defineVi": "(giải phẫu) cơ cử động một phần cơ thể ra khỏi vị trí bình thường bằng cách co lại"
+    },
+    {
+        "id": "bb76be1e-e02b-4b0e-9e37-98ce214a1640",
+        "word": "backbone",
+        "phonetic": "bækboʊn ",
+        "type": "noun",
+        "defineEn": "a line of connected bones going down from your neck to tail bone in the middle of the back",
+        "defineVi": "một đường xương nối đi xuống từ cổ đến xương đuôi ở giữa lưng",
+        "hasImg": true
+    },
+    {
+        "id": "37e624f3-3893-44bb-95fd-62bc8e8b3e9a",
+        "word": "biceps",
+        "phonetic": "baɪsɛps ",
+        "type": "noun",
+        "defineEn": "the large muscle at the front of the upper part of the arm, which flexes the forearm",
+        "defineVi": "cơ lớn ở phía trước của phần trên của cánh tay, giúp uốn cong cẳng tay",
+        "hasImg": true
+    },
+    {
+        "id": "eeaa4e8f-decf-4907-a544-4d8f14fff6c8",
+        "word": "breastbone",
+        "phonetic": "bɹɛstboʊn ",
+        "type": "noun",
+        "defineEn": "a long flat bone at the center of the chest that connects the ribs and the shoulder girdle",
+        "defineVi": "một xương phẳng dài ở giữa ngực nối xương sườn và đai vai"
+    },
+    {
+        "id": "9a6b8aa2-587e-4e29-b159-9afe297a3800",
+        "word": "cheekbone",
+        "phonetic": "tʃiːkboʊn ",
+        "type": "noun",
+        "defineEn": "the bone that is just below the eye",
+        "defineVi": "xương nằm ngay dưới mắt",
+        "hasImg": true
+    },
+    {
+        "id": "37144eef-b307-4051-8cf5-60729b79761e",
+        "word": "ciliary body",
+        "phonetic": "sɪliəɹi bɑːdi ",
+        "type": "noun",
+        "defineEn": "(anatomy) the structure that encloses the inner surface of the eye which consists of the muscle which makes the eye move",
+        "defineVi": "(giải phẫu) cấu trúc bao quanh bề mặt bên trong của mắt bao gồm cơ làm cho mắt di chuyển"
+    },
+    {
+        "id": "a14b54cf-15cd-4898-b02f-9ee3a779291b",
+        "word": "clavicle",
+        "phonetic": "klævɪkəl ",
+        "type": "noun",
+        "defineEn": "(anatomy) a bone of the shoulder girdle that connects the breastbone to the shoulder bone",
+        "defineVi": "(giải phẫu) xương đai vai nối xương ức với xương vai",
+        "hasImg": true
+    },
+    {
+        "id": "194e93c1-d74b-40f3-8003-9bd8c444f192",
+        "word": "coccyx",
+        "phonetic": "kɑːkɪks ",
+        "type": "noun",
+        "defineEn": "(anatomy) the small triangular bone at the end of the spinal column in humans or tailless primates",
+        "defineVi": "(giải phẫu) xương nhỏ hình tam giác ở phần cuối của cột sống ở người hoặc động vật linh trưởng cụt đuôi"
+    },
+    {
+        "id": "1098e83c-7f3b-4b74-b675-4f0a5d73a8d5",
+        "word": "collarbone",
+        "phonetic": "kɑːlɚboʊn ",
+        "type": "noun",
+        "defineEn": "either of the pair of bones that go across the top of the chest from the base of the neck to the shoulders",
+        "defineVi": "một trong hai xương đi qua đỉnh ngực từ gốc cổ đến vai",
+        "hasImg": true
+    },
+    {
+        "id": "5a057ed3-2125-45de-af18-b5954bca6ef2",
+        "word": "cranium",
+        "phonetic": "kɹæniəm ",
+        "type": "noun",
+        "defineEn": "(anatomy) the bone structure that surrounds and protects the brain",
+        "defineVi": "(giải phẫu) cấu trúc xương bao quanh và bảo vệ não",
+        "hasImg": true
+    },
+    {
+        "id": "2e582b85-5817-455e-97a7-0950e6e569cf",
+        "word": "deltoid",
+        "phonetic": "dɛltɔɪd ",
+        "type": "noun",
+        "defineEn": "(anatomy) a large muscle, triangular in shape that covers the shoulder joint and helps the arm to abduct and rotate",
+        "defineVi": "(giải phẫu) cơ lớn hình tam giác bao lấy khớp vai, giúp cánh tay giạng và xoay"
+    },
+    {
+        "id": "4b6c413e-6d56-44be-8d54-5f75e3a1210b",
+        "word": "extensor",
+        "phonetic": "ɛkstɛnsɚ ",
+        "type": "noun",
+        "defineEn": "(anatomy) a muscle that helps a body part or limb be stretched out by contraction",
+        "defineVi": "(giải phẫu) cơ giúp một bộ phận cơ thể hoặc chi duỗi ra bằng cách co lại"
+    },
+    {
+        "id": "86b26054-b447-472b-89ac-1e0ae1187bc6",
+        "word": "femur",
+        "phonetic": "fiːmɚ ",
+        "type": "noun",
+        "defineEn": "(anatomy) the longest bone in the top part of the human leg between the hip and the knee",
+        "defineVi": "(giải phẫu) xương dài nhất ở phần trên cùng của chân người giữa hông và đầu gối"
+    },
+    {
+        "id": "ab3a5cc0-a869-4804-95a1-f45c705685e4",
+        "word": "humerus",
+        "phonetic": "hjuːmɚɹəs ",
+        "type": "noun",
+        "defineEn": "(anatomy) a long bone in the arm that extends from the shoulder to the elbow",
+        "defineVi": "(giải phẫu) xương dài ở cánh tay kéo dài từ vai đến khuỷu tay"
+    },
+    {
+        "id": "2f09dcd9-1c31-4295-8d52-be6c8fa89336",
+        "word": "fibula",
+        "phonetic": "fɪbjʊlə ",
+        "type": "noun",
+        "defineEn": "(anatomy) the outer and narrower of the two bones between the ankle and the knee",
+        "defineVi": "(giải phẫu) phần ngoài và phần hẹp hơn của hai xương giữa mắt cá và đầu gối"
+    },
+    {
+        "id": "05c0b2cf-3589-4763-b131-18b57569e822",
+        "word": "flexor",
+        "phonetic": "flɛksɚ ",
+        "type": "noun",
+        "defineEn": "(anatomy) a muscle that allows one to bend a limb or body part by contraction",
+        "defineVi": "(giải phẫu) cơ cho phép người ta uốn cong một chi hoặc một phần cơ thể bằng cách co lại"
+    },
+    {
+        "id": "d9de053f-bca8-4b62-9fd2-c1b1eb2a3342",
+        "word": "jawbone",
+        "phonetic": "dʒɔːboʊn ",
+        "type": "noun",
+        "defineEn": "either of the bones that form the jaw, particularly the lower jaw",
+        "defineVi": "một trong những xương tạo thành hàm, đặc biệt là hàm dưới",
+        "hasImg": true
+    },
+    {
+        "id": "f6205c49-c13b-44b5-b455-522df0215435",
+        "word": "kneecap",
+        "phonetic": "niːkæp ",
+        "type": "noun",
+        "defineEn": "a small bone that covers the front of the knee joint",
+        "defineVi": "một xương nhỏ bao phủ phía trước khớp gối"
+    },
+    {
+        "id": "ec79974a-e4f0-4d04-a561-216346403000",
+        "word": "mandible",
+        "phonetic": "mændᵻbəl ",
+        "type": "noun",
+        "defineEn": "(anatomy) (zoology) either half of the jawbone, especially the lower jawbone that helps a vertebrate open and close its mouth",
+        "defineVi": "(giải phẫu học) (động vật học) một nửa xương hàm, đặc biệt là xương hàm dưới giúp động vật có xương sống mở và ngậm miệng",
+        "hasImg": true
+    },
+    {
+        "id": "8ad14f84-40bb-46aa-8790-241267638a11",
+        "word": "metatarsal",
+        "phonetic": "mɛɾətɑːɹsəl ",
+        "type": "noun",
+        "defineEn": "(anatomy) any of the five bones of the foot between the ankle and the toes",
+        "defineVi": "(giải phẫu) bất kỳ xương nào trong năm xương bàn chân giữa mắt cá chân và ngón chân"
+    },
+    {
+        "id": "acb7ef0a-4e43-45e2-b95e-e92455534d49",
+        "word": "musculature",
+        "phonetic": "mʌskjʊlətʃɚ ",
+        "type": "noun",
+        "defineEn": "(biology) the overall arrangement or the system of muscles in a human or an animal's body",
+        "defineVi": "(sinh vật học) sự sắp xếp tổng thể hoặc hệ thống cơ bắp trong cơ thể người hoặc động vật"
+    },
+    {
+        "id": "6d07f37d-7d58-4eb2-90a1-af9528d265c0",
+        "word": "occipital bone",
+        "phonetic": "ɑːksɪpɪɾəl boʊn ",
+        "type": "noun",
+        "defineEn": "(anatomy) the trapezoidal bone that is at the base and lower back of the cranium, though which the spinal cord passes",
+        "defineVi": "(giải phẫu) xương hình thang nằm ở đáy và phần lưng dưới của hộp sọ, nơi mà tủy sống đi qua"
+    },
+    {
+        "id": "5ebc48bd-451b-427f-9c24-8c62a29b8369",
+        "word": "frontal bone",
+        "phonetic": "fɹʌntəl boʊn ",
+        "type": "noun",
+        "defineEn": "the singular bone located at the front of the skull, forming the forehead and upper eye sockets for structural support and protection",
+        "defineVi": "xương số ít nằm ở phía trước hộp sọ, tạo thành trán và hốc mắt trên để hỗ trợ và bảo vệ cấu trúc"
+    },
+    {
+        "id": "4ddc03ab-23f0-4aa4-b95f-9a885125977e",
+        "word": "parietal bone",
+        "phonetic": "pæɹaɪəɾəl boʊn ",
+        "type": "noun",
+        "defineEn": "a cranial bone that forms the sides and roof of the skull, offering protection for the brain",
+        "defineVi": "một xương sọ tạo thành các cạnh và mái của hộp sọ, bảo vệ não"
+    },
+    {
+        "id": "a23d95c8-e153-40b4-af87-041afa7cc519",
+        "word": "sphenoid bone",
+        "phonetic": "sfɛnɔɪd boʊn ",
+        "type": "noun",
+        "defineEn": "a butterfly-shaped bone, contributing to its structure and housing important structures",
+        "defineVi": "một xương hình con bướm, góp phần vào cấu trúc của nó và chứa các cấu trúc quan trọng"
+    },
+    {
+        "id": "c9637c77-134f-419a-ab1a-de3770f74d7e",
+        "word": "temporal bone",
+        "phonetic": "tɛmpɚɹəl boʊn ",
+        "type": "noun",
+        "defineEn": "a cranial bone located on the sides and base of the skull, housing the ear structures and contributing to jaw movement",
+        "defineVi": "một xương sọ nằm ở hai bên và đáy hộp sọ, chứa các cấu trúc tai và góp phần vào chuyển động của hàm"
+    },
+    {
+        "id": "4f205b28-ef81-4ee3-a681-625be1b913b6",
+        "word": "zygoma",
+        "phonetic": "zaɪɡoʊmə ",
+        "type": "noun",
+        "defineEn": "a facial bone that forms the prominence of the cheek and connects various other facial bones",
+        "defineVi": "một xương mặt tạo thành điểm nổi bật của má và kết nối nhiều xương mặt khác"
+    },
+    {
+        "id": "e8cfd3b7-4d86-40ff-9cbb-4194a0e10389",
+        "word": "zygomatic bone",
+        "phonetic": "zaɪɡəmæɾɪk boʊn ",
+        "type": "noun",
+        "defineEn": "a facial bone that contributes to the structure of the cheek and forms part of the eye socket",
+        "defineVi": "xương mặt góp phần tạo nên cấu trúc của má và tạo thành một phần của hốc mắt",
+        "hasImg": true
+    },
+    {
+        "id": "2321276d-2a1f-4094-850b-07e4f13c27f3",
+        "word": "maxilla",
+        "phonetic": "mæksɪlə ",
+        "type": "noun",
+        "defineEn": "a facial bone that forms the central part of the face, supporting the upper teeth",
+        "defineVi": "một xương mặt tạo thành phần trung tâm của khuôn mặt, hỗ trợ răng trên"
+    },
+    {
+        "id": "c8c6c41c-a6bc-4703-b75e-88eb33892785",
+        "word": "patella",
+        "phonetic": "peɪtɛlə ",
+        "type": "noun",
+        "defineEn": "(anatomy) a small bone triangular in shape that covers and protects the front part of the knee joint",
+        "defineVi": "(giải phẫu) một xương nhỏ hình tam giác bao bọc và bảo vệ phần trước của khớp gối"
+    },
+    {
+        "id": "c774a4f5-5fb0-4b12-b0ce-bb02371974db",
+        "word": "pelvis",
+        "phonetic": "pɛlvɪs ",
+        "type": "noun",
+        "defineEn": "(anatomy) the large round bone structure that the limbs and the spine are joined to, which also protects the abdominal organs",
+        "defineVi": "(giải phẫu) cấu trúc xương tròn lớn nối các chi và cột sống với nhau để bảo vệ các cơ quan trong bụng",
+        "hasImg": true
+    },
+    {
+        "id": "0bcdb38c-0055-4785-bf21-27a2c1062b5f",
+        "word": "quadriceps",
+        "phonetic": "kwɑːdɹaɪsɛps ",
+        "type": "noun",
+        "defineEn": "(anatomy) any of the four large muscles at the front of the thigh that allow the knee joint to stretch",
+        "defineVi": "(giải phẫu) bất kỳ cơ nào trong bốn cơ lớn ở phía trước đùi cho phép khớp gối duỗi ra"
+    },
+    {
+        "id": "f4d0d7b1-1245-431a-8a5d-9cae659ada02",
+        "word": "quad",
+        "phonetic": "kwɑːd ",
+        "type": "noun",
+        "defineEn": "a muscle at the front of the thigh that helps the knee joint stretch",
+        "defineVi": "một cơ ở phía trước đùi giúp khớp gối kéo dài"
+    },
+    {
+        "id": "60c4e95e-e6aa-45d8-b9d3-7792aaa92f2c",
+        "word": "radius",
+        "phonetic": "ɹeɪdɪəs ",
+        "type": "noun",
+        "defineEn": "(anatomy) the larger and thicker bone of the human forearm extending from the elbow to the thumb side of the wrist",
+        "defineVi": "(giải phẫu) xương to hơn và dày hơn của cẳng tay người kéo dài từ khuỷu tay đến mặt ngón tay cái của cổ tay"
+    },
+    {
+        "id": "a3b5c3dd-a77a-46b9-b8dd-0eb4a2da1ca4",
+        "word": "rib",
+        "phonetic": "ɹɪb ",
+        "type": "noun",
+        "defineEn": "each of the curved bones surrounding the chest to protect the organs inside",
+        "defineVi": "mỗi xương cong bao quanh ngực để bảo vệ các cơ quan bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "141bbf51-2965-4bc9-bbd1-ce37c93dd448",
+        "word": "ribcage",
+        "phonetic": "ɹɪbkeɪdʒ ",
+        "type": "noun",
+        "defineEn": "(anatomy) the bony structure in the chest formed by the ribs which protects organs in the thoracic cavity",
+        "defineVi": "(giải phẫu) cấu trúc xương ở ngực được hình thành bởi các xương sườn để bảo vệ các cơ quan trong khoang ngực",
+        "hasImg": true
+    },
+    {
+        "id": "8324af1a-c72c-4e01-989f-eb1d85151ec9",
+        "word": "sacrum",
+        "phonetic": "seɪkɹəm ",
+        "type": "noun",
+        "defineEn": "(anatomy) a large bone at the lower part of the spinal column between the two hip bones of the pelvis",
+        "defineVi": "(giải phẫu) xương lớn ở phần dưới của cột sống giữa hai xương hông của xương chậu"
+    },
+    {
+        "id": "07b287f8-4e08-4c7c-a5dd-a4ed678d42c5",
+        "word": "shin bone",
+        "phonetic": "ʃɪn boʊn ",
+        "type": "noun",
+        "defineEn": "the inner and larger bone of the pair of bones between the ankle and the knee",
+        "defineVi": "xương bên trong và lớn hơn của cặp xương giữa mắt cá chân và đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "6dd7a5fe-f4bd-4cba-95d2-dee258b14275",
+        "word": "scapula",
+        "phonetic": "skæpjʊlə ",
+        "type": "noun",
+        "defineEn": "(anatomy) each of the pair of triangular bones that connect the humerus to the clavicle",
+        "defineVi": "(giải phẫu) từng cặp xương hình tam giác nối xương cánh tay với xương đòn",
+        "hasImg": true
+    },
+    {
+        "id": "e3821943-bf30-44ac-800d-a4650318f304",
+        "word": "shoulder blade",
+        "phonetic": "ʃoʊldɚ bleɪd ",
+        "type": "noun",
+        "defineEn": "each of the pair of triangular bones that connect the upper arm bone with the collar bone",
+        "defineVi": "mỗi cặp xương hình tam giác nối xương cánh tay trên với xương quai xanh",
+        "hasImg": true
+    },
+    {
+        "id": "3b5f5bda-fed5-4cfd-89f0-3e300ffc6617",
+        "word": "sinew",
+        "phonetic": "sɪnjuː ",
+        "type": "noun",
+        "defineEn": "an elastic cord or band that connects a muscle to a bone",
+        "defineVi": "một sợi dây hoặc dải đàn hồi nối cơ với xương",
+        "hasImg": true
+    },
+    {
+        "id": "805aec4b-5e78-4610-b63a-91f38b65cb0c",
+        "word": "skeleton",
+        "phonetic": "skɛlᵻtən ",
+        "type": "noun",
+        "defineEn": "the structure of bones supporting the body of an animal or a person",
+        "defineVi": "cấu trúc xương hỗ trợ cơ thể của một con vật hoặc một người",
+        "hasImg": true
+    },
+    {
+        "id": "73ac5b84-79b8-4c35-b2fc-eeb13caa4814",
+        "word": "spine",
+        "phonetic": "spaɪn ",
+        "type": "noun",
+        "defineEn": "the row of small bones that are joined together down the center of the back of the body",
+        "defineVi": "hàng xương nhỏ được nối với nhau xuống trung tâm của mặt sau của cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "9a9e7652-1ae3-487d-96ce-bc9440bbdc49",
+        "word": "sphincter",
+        "phonetic": "sfɪŋktɚ ",
+        "type": "noun",
+        "defineEn": "(anatomy) a ring of muscle that can open or close an opening, such as anus, in the body",
+        "defineVi": "(giải phẫu) một vòng cơ có thể mở hoặc đóng một lỗ, chẳng hạn như hậu môn, trong cơ thể"
+    },
+    {
+        "id": "5822c264-cb76-4577-81f6-5b642e8f8bfa",
+        "word": "sternum",
+        "phonetic": "stɜːnəm ",
+        "type": "noun",
+        "defineEn": "(anatomy) a long flat bone at the center of the chest that connects the ribs to the shoulder girdle",
+        "defineVi": "(giải phẫu) xương dẹt dài ở giữa ngực nối các xương sườn với đai vai"
+    },
+    {
+        "id": "82ecf117-f94a-4441-b5b3-57fe51ee2c07",
+        "word": "tail bone",
+        "phonetic": "teɪl boʊn ",
+        "type": "noun",
+        "defineEn": "the small triangular bone at the end of the spinal column in humans or tailless primates",
+        "defineVi": "xương hình tam giác nhỏ ở phần cuối của cột sống ở người hoặc động vật linh trưởng cụt đuôi"
+    },
+    {
+        "id": "e69ec885-1eea-49c5-9f10-8d92e5447a4d",
+        "word": "tarsal",
+        "phonetic": "tɑːɹsəl ",
+        "type": "noun",
+        "defineEn": "(anatomy) any of the cluster of seven small bones in the foot between the ankle and upper foot",
+        "defineVi": "(giải phẫu) bất kỳ cụm bảy xương nhỏ nào ở bàn chân giữa mắt cá chân và bàn chân trên"
+    },
+    {
+        "id": "9a69cb58-a9fa-43cf-8e96-e700aa2d4e43",
+        "word": "thighbone",
+        "phonetic": "θaɪboʊn ",
+        "type": "noun",
+        "defineEn": "the longest bone in the human skeleton which is between the hip and the knee",
+        "defineVi": "xương dài nhất trong bộ xương người nằm giữa hông và đầu gối"
+    },
+    {
+        "id": "a205cc59-21fd-41b4-83a6-042aed6d649a",
+        "word": "tibia",
+        "phonetic": "tɪbiə ",
+        "type": "noun",
+        "defineEn": "(anatomy) the inner and larger of the two bones between the ankle and the knee",
+        "defineVi": "(giải phẫu) phần trong và phần lớn hơn của hai xương giữa mắt cá và đầu gối",
+        "hasImg": true
+    },
+    {
+        "id": "0224d845-4b08-4e3c-8b91-dd6ab3a140d6",
+        "word": "triceps",
+        "phonetic": "tɹaɪsɛps ",
+        "type": "noun",
+        "defineEn": "(anatomy) the three-headed muscle of the arm that functions as the extensor of the elbow joint",
+        "defineVi": "(giải phẫu) cơ ba đầu của cánh tay có chức năng duỗi khớp khuỷu tay"
+    },
+    {
+        "id": "f01917a6-da80-4de1-a8eb-d80d488863b0",
+        "word": "ulna",
+        "phonetic": "ʌlnə ",
+        "type": "noun",
+        "defineEn": "(anatomy) the thinner and longer bone of the human forearm extending from the elbow to the wrist",
+        "defineVi": "(giải phẫu) xương cẳng tay người mỏng hơn và dài hơn kéo dài từ khuỷu tay đến cổ tay"
+    },
+    {
+        "id": "9ac03ccc-bbde-4c38-9acb-cffc84ea6f99",
+        "word": "vertebra",
+        "phonetic": "vɜːɾɪbɹə ",
+        "type": "noun",
+        "defineEn": "(anatomy) any of the bony segments and cartilages of the spinal column",
+        "defineVi": "(giải phẫu) bất kỳ đoạn xương và sụn nào của cột sống",
+        "hasImg": true
+    },
+    {
+        "id": "0333b0c7-2451-4d64-a084-be81a130a57a",
+        "word": "ossicle",
+        "phonetic": "ɑːsɪkəl ",
+        "type": "noun",
+        "defineEn": "a small bone found in the middle ear that helps transmit sound vibrations and facilitate hearing",
+        "defineVi": "một xương nhỏ được tìm thấy ở tai giữa giúp truyền các rung động âm thanh và tạo điều kiện thuận lợi cho việc nghe"
+    },
+    {
+        "id": "c946f6d8-ed4c-45f8-849e-b25c6fe126f0",
+        "word": "fenestra",
+        "phonetic": "fɛnɛstɹə ",
+        "type": "noun",
+        "defineEn": "an opening or a hole, particularly in a bone structure",
+        "defineVi": "một lỗ hoặc một lỗ, đặc biệt là trong cấu trúc xương"
+    },
+    {
+        "id": "21c06662-792e-4974-9e5f-1bb3a23d5290",
+        "word": "jaw",
+        "phonetic": "dʒɔː ",
+        "type": "noun",
+        "defineEn": "the lower bone of the face containing the chin and the bottom teeth",
+        "defineVi": "xương dưới của khuôn mặt chứa cằm và răng dưới",
+        "hasImg": true
+    }
+]

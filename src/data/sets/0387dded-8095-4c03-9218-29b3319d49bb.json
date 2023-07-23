@@ -1,0 +1,532 @@
+[
+    {
+        "id": "242aeb1c-04aa-40bb-a5e5-9a4b20a4817e",
+        "word": "alcoholism",
+        "phonetic": "ælkəhoʊlɪzəm ",
+        "type": "noun",
+        "defineEn": "a medical condition caused by drinking an excessive amounts of alcohol on a regular basis",
+        "defineVi": "một tình trạng y tế do uống quá nhiều rượu một cách thường xuyên"
+    },
+    {
+        "id": "2df4b770-3d0f-4d5c-9d94-9b1bf6f2c55a",
+        "word": "allergy",
+        "phonetic": "ælɚdʒi ",
+        "type": "noun",
+        "defineEn": "a medical condition in which one's body severely reacts to a specific substance if it is inhaled, touched, or ingested",
+        "defineVi": "một tình trạng y tế trong đó cơ thể của một người phản ứng nghiêm trọng với một chất cụ thể nếu hít phải, chạm vào hoặc ăn phải",
+        "hasImg": true
+    },
+    {
+        "id": "03a16041-628f-4031-96e5-4709860f15a7",
+        "word": "alopecia",
+        "phonetic": "ɐloʊpiːʃə ",
+        "type": "noun",
+        "defineEn": "a medical condition characterized by hair loss or baldness, which can occur on the scalp or other parts of the body",
+        "defineVi": "một tình trạng y tế đặc trưng bởi rụng tóc hoặc hói đầu, có thể xảy ra trên da đầu hoặc các bộ phận khác của cơ thể"
+    },
+    {
+        "id": "8f682cf3-7f7b-4744-bae5-929407ed8fca",
+        "word": "amenorrhoea",
+        "phonetic": "ɐmɛnɔɹiə ",
+        "type": "noun",
+        "defineEn": "absence or suppression of normal menstrual flow",
+        "defineVi": "không có hoặc ức chế dòng chảy kinh nguyệt bình thường"
+    },
+    {
+        "id": "40529534-bf58-46f5-bd53-4160457ef721",
+        "word": "amnesia",
+        "phonetic": "æmniːʒə ",
+        "type": "noun",
+        "defineEn": "a severe medical condition that leads to partial or complete loss of memory",
+        "defineVi": "một tình trạng y tế nghiêm trọng dẫn đến mất trí nhớ một phần hoặc hoàn toàn"
+    },
+    {
+        "id": "8cb17799-3f23-4b81-96f3-8739b1d81c97",
+        "word": "anaphylactic shock",
+        "phonetic": "ænɐfɪlæktɪk ʃɑːk ",
+        "type": "noun",
+        "defineEn": "a severe and rapid and sometimes fatal hypersensitivity reaction to a substance (especially a vaccine or penicillin or shellfish or insect venom) to which the organism has become sensitized by previous exposure",
+        "defineVi": "một phản ứng quá mẫn nghiêm trọng và nhanh chóng và đôi khi gây tử vong đối với một chất (đặc biệt là vắc-xin hoặc penicillin hoặc động vật có vỏ hoặc nọc độc côn trùng) mà sinh vật đã trở nên nhạy cảm do tiếp xúc trước đó"
+    },
+    {
+        "id": "3fc1c1ed-2882-45a7-a774-ef142bd97a47",
+        "word": "anaphylaxis",
+        "phonetic": "ænɐfɪlæksɪs ",
+        "type": "noun",
+        "defineEn": "hypersensitivity reaction to the ingestion or injection of a substance (a protein or drug) resulting from prior contact with a substance",
+        "defineVi": "phản ứng quá mẫn với việc uống hoặc tiêm một chất (protein hoặc thuốc) do tiếp xúc trước với một chất"
+    },
+    {
+        "id": "ed24e5ce-2664-48fa-8465-29d8c532df38",
+        "word": "aphasia",
+        "phonetic": "ɐfeɪʒə ",
+        "type": "noun",
+        "defineEn": "a language disorder resulting from brain damage or injury that impairs an individual's ability to understand, produce, and use language",
+        "defineVi": "một chứng rối loạn ngôn ngữ do tổn thương não hoặc chấn thương làm suy yếu khả năng hiểu, sản xuất và sử dụng ngôn ngữ của một cá nhân"
+    },
+    {
+        "id": "1d221a6a-c718-491f-8d75-cb4d29a72b08",
+        "word": "arteriosclerosis",
+        "phonetic": "ɑːɹtɪɹiɑːsklɚɹoʊsɪs ",
+        "type": "noun",
+        "defineEn": "sclerosis of the arterial walls",
+        "defineVi": "xơ cứng thành động mạch"
+    },
+    {
+        "id": "7333ad97-31ed-48a4-9a2b-1f200d0ed380",
+        "word": "brain death",
+        "phonetic": "bɹeɪn dɛθ ",
+        "type": "noun",
+        "defineEn": "death when respiration and other reflexes are absent; consciousness is gone; organs can be removed for transplantation before the heartbeat stops",
+        "defineVi": "chết khi không có hô hấp và các phản xạ khác; ý thức đã biến mất; các cơ quan có thể được lấy ra để cấy ghép trước khi nhịp tim ngừng đập"
+    },
+    {
+        "id": "4919f141-8139-49cf-bd32-a8d09e3ca6d3",
+        "word": "catarrh",
+        "phonetic": "kətɑːɹ ",
+        "type": "noun",
+        "defineEn": "a medical condition during which mucus accumulates in one's nose, throat, or sinuses and blocks them",
+        "defineVi": "một tình trạng y tế trong đó chất nhầy tích tụ trong mũi, cổ họng hoặc xoang của một người và ngăn chặn chúng"
+    },
+    {
+        "id": "a2415792-1361-404b-86d3-fae1d8a43d00",
+        "word": "cleft palate",
+        "phonetic": "klɛft pælət ",
+        "type": "noun",
+        "defineEn": "a congenital fissure of the hard palate",
+        "defineVi": "một vết nứt bẩm sinh của vòm miệng cứng"
+    },
+    {
+        "id": "fec4d684-e45c-4388-b7ae-81b3306d7dc5",
+        "word": "congestion",
+        "phonetic": "kəndʒɛstʃən ",
+        "type": "noun",
+        "defineEn": "a condition where an excess amount of blood or other fluid accumulates in a part of the body, leading to swelling or discomfort",
+        "defineVi": "tình trạng một lượng máu hoặc chất lỏng dư thừa tích tụ trong một bộ phận của cơ thể, dẫn đến sưng tấy hoặc khó chịu"
+    },
+    {
+        "id": "08e72e6a-37d0-4670-8375-3b9904dd1b9b",
+        "word": "deep vein thrombosis",
+        "phonetic": "diːp veɪn θɹəmboʊsɪs ",
+        "type": "noun",
+        "defineEn": "a severe medical condition caused by a blood clot that is formed in one or more of the deep veins in one's body, particularly in one's legs",
+        "defineVi": "một tình trạng y tế nghiêm trọng gây ra bởi cục máu đông được hình thành trong một hoặc nhiều tĩnh mạch sâu trong cơ thể của một người, đặc biệt là ở chân của một người"
+    },
+    {
+        "id": "be1f0c70-abf1-4203-a0ac-6d39f53c2b26",
+        "word": "delirium tremens",
+        "phonetic": "dᵻlɪɹiəm tɹɛmɛnz ",
+        "type": "noun",
+        "defineEn": "acute delirium caused by alcohol poisoning",
+        "defineVi": "mê sảng cấp tính do ngộ độc rượu"
+    },
+    {
+        "id": "01887b3b-347d-475b-95cf-66320ca23e02",
+        "word": "diabetes",
+        "phonetic": "daɪəbiːɾiːz ",
+        "type": "noun",
+        "defineEn": "a serious medical condition in which the body is unable to regulate the blood sugar levels because it does not produce enough insulin",
+        "defineVi": "một tình trạng y tế nghiêm trọng trong đó cơ thể không thể điều chỉnh lượng đường trong máu vì không sản xuất đủ insulin",
+        "hasImg": true
+    },
+    {
+        "id": "43e4a2e8-e289-4541-a086-22baa8eadd99",
+        "word": "coronary thrombosis",
+        "phonetic": "kɔːɹənɛɹi θɹəmboʊsɪs ",
+        "type": "noun",
+        "defineEn": "a severe medical condition during which a blood clot in a coronary artery causes a blockage in the flow of blood that leads to heart",
+        "defineVi": "một tình trạng y tế nghiêm trọng trong đó cục máu đông trong động mạch vành gây tắc nghẽn dòng máu dẫn đến tim"
+    },
+    {
+        "id": "295ada00-8356-45ee-85ba-d79d1f1f7bca",
+        "word": "anemia",
+        "phonetic": "ɐniːmiə ",
+        "type": "noun",
+        "defineEn": "a condition in which the number of healthy red blood cells or hemoglobin in one's body is low",
+        "defineVi": "một tình trạng trong đó số lượng tế bào hồng cầu khỏe mạnh hoặc huyết sắc tố trong cơ thể của một người thấp"
+    },
+    {
+        "id": "08321e8b-1a0b-440f-8454-f49054a3a553",
+        "word": "exposure",
+        "phonetic": "ɛkspoʊʒɚ ",
+        "type": "noun",
+        "defineEn": "a serious medical condition caused by being out in extreme cold for very long without protection to the effects of harsh weather",
+        "defineVi": "một tình trạng y tế nghiêm trọng do ở ngoài trời quá lạnh trong thời gian dài mà không được bảo vệ trước tác động của thời tiết khắc nghiệt"
+    },
+    {
+        "id": "83e6f9c8-3478-44bb-a648-724ac68f22a1",
+        "word": "fever",
+        "phonetic": "fiːvɚ ",
+        "type": "noun",
+        "defineEn": "a condition when the body temperature rises, usually when we are sick",
+        "defineVi": "một tình trạng khi nhiệt độ cơ thể tăng lên, thường là khi chúng ta bị bệnh",
+        "hasImg": true
+    },
+    {
+        "id": "026b93b8-2a3f-4e8d-bbf2-5c0d331d234c",
+        "word": "gallstone",
+        "phonetic": "ɡælstoʊn ",
+        "type": "noun",
+        "defineEn": "a calculus formed in the gall bladder or its ducts",
+        "defineVi": "một tính toán hình thành trong túi mật hoặc ống dẫn của nó"
+    },
+    {
+        "id": "7fef44eb-5365-4c70-baae-89a52ec739b7",
+        "word": "gangrene",
+        "phonetic": "ɡæŋɡɹɛn ",
+        "type": "noun",
+        "defineEn": "a chronic condition during which tissues in one's body die as a result of an obstruction in circulation or a bacterial infection",
+        "defineVi": "một tình trạng mãn tính trong đó các mô trong cơ thể của một người chết do tắc nghẽn lưu thông hoặc nhiễm trùng do vi khuẩn"
+    },
+    {
+        "id": "c871cd16-42bd-430c-9382-d8d9de2c1bf2",
+        "word": "haemorrhage",
+        "phonetic": "hɛmɚɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "an escape of blood from a damaged or ruptured blood vessel",
+        "defineVi": "thoát máu từ một mạch máu bị hư hỏng hoặc vỡ"
+    },
+    {
+        "id": "520864f8-bc81-4989-ac36-6520d36bfb9f",
+        "word": "hemorrhoids",
+        "phonetic": "hɛmɚɹɔɪdz ",
+        "type": "noun",
+        "defineEn": "swollen and painful veins in the lower part of the anus and rectum",
+        "defineVi": "tĩnh mạch sưng và đau ở phần dưới của hậu môn và trực tràng"
+    },
+    {
+        "id": "34a5e1d1-0e54-4483-85ab-9e56b384e5aa",
+        "word": "heart failure",
+        "phonetic": "hɑːɹt feɪlɪɹ ",
+        "type": "noun",
+        "defineEn": "inability of the heart to pump enough blood to sustain normal bodily functions",
+        "defineVi": "tim không có khả năng bơm đủ máu để duy trì các chức năng cơ thể bình thường"
+    },
+    {
+        "id": "e565b41e-ec89-4a56-a075-241104ccd905",
+        "word": "heatstroke",
+        "phonetic": "hiːtstɹoʊk ",
+        "type": "noun",
+        "defineEn": "a condition that one experiences if exposed to too much heat",
+        "defineVi": "một tình trạng mà một người gặp phải nếu tiếp xúc với quá nhiều nhiệt",
+        "hasImg": true
+    },
+    {
+        "id": "ebd37fca-3e28-4a31-924c-31945651b3d8",
+        "word": "hernia",
+        "phonetic": "hɜːniə ",
+        "type": "noun",
+        "defineEn": "a condition in which part of an organ squeezes through an opening in the muscle or tissue that holds it in place",
+        "defineVi": "một tình trạng trong đó một phần của cơ quan vắt qua lỗ mở trong cơ hoặc mô giữ nó ở đúng vị trí"
+    },
+    {
+        "id": "2fb4e802-6b9c-4dbd-9c99-ed11b7148acd",
+        "word": "bronchitis",
+        "phonetic": "bɹəŋkaɪɾɪs ",
+        "type": "noun",
+        "defineEn": "a condition when the tubes that carry air to one's lungs get infectious",
+        "defineVi": "một tình trạng khi các ống mang không khí đến phổi của một người bị nhiễm trùng"
+    },
+    {
+        "id": "11fe2096-95e5-4479-800e-b66f9a86dbf9",
+        "word": "hyperglycaemia",
+        "phonetic": "haɪpɚɡlaɪkiːmiə ",
+        "type": "noun",
+        "defineEn": "abnormally high blood sugar usually associated with diabetes",
+        "defineVi": "lượng đường trong máu cao bất thường thường liên quan đến bệnh tiểu đường"
+    },
+    {
+        "id": "03892e86-906a-4e57-8388-e6274e5dac5b",
+        "word": "hypoglycaemia",
+        "phonetic": "haɪpoʊɡlaɪkiːmiə ",
+        "type": "noun",
+        "defineEn": "abnormally low blood sugar usually resulting from excessive insulin or a poor diet",
+        "defineVi": "lượng đường trong máu thấp bất thường thường do insulin quá mức hoặc chế độ ăn uống kém"
+    },
+    {
+        "id": "1a0fc82c-475a-4a11-9c04-2092770d9b2b",
+        "word": "hypothermia",
+        "phonetic": "haɪpoʊθɜːmiə ",
+        "type": "noun",
+        "defineEn": "subnormal body temperature",
+        "defineVi": "nhiệt độ cơ thể bất thường"
+    },
+    {
+        "id": "b8570b22-713a-4645-b3f3-388101ccd2ec",
+        "word": "hysteria",
+        "phonetic": "hɪstɪɹiə ",
+        "type": "noun",
+        "defineEn": "a medical condition in which a person suddenly feels extreme emotions or makes them violent in a way that they cannot control it",
+        "defineVi": "một tình trạng y tế trong đó một người đột nhiên cảm thấy những cảm xúc cực đoan hoặc khiến họ trở nên bạo lực theo cách mà họ không thể kiểm soát được"
+    },
+    {
+        "id": "e4074526-95a8-4728-a68d-6154ddd19efe",
+        "word": "immunodeficiency",
+        "phonetic": "ɪmjuːnoʊdfɪʃənsi ",
+        "type": "noun",
+        "defineEn": "immunological disorder in which some part of the body's immune system is inadequate and resistance to infectious diseases is reduced",
+        "defineVi": "rối loạn miễn dịch trong đó một số phần của hệ thống miễn dịch của cơ thể không đủ và khả năng chống lại các bệnh truyền nhiễm bị suy giảm"
+    },
+    {
+        "id": "c7578677-2a0a-401f-9280-af6da451afae",
+        "word": "insomnia",
+        "phonetic": "ɪnsɑːmniə ",
+        "type": "noun",
+        "defineEn": "a disorder in which one is unable to sleep or stay asleep",
+        "defineVi": "một rối loạn trong đó một người không thể ngủ hoặc ngủ"
+    },
+    {
+        "id": "8a0d0d5a-9447-45d6-ad64-de1497f3c978",
+        "word": "malnutrition",
+        "phonetic": "mælnjuːtɹɪʃən ",
+        "type": "noun",
+        "defineEn": "a condition in which a person does not have enough food or good food to eat in order to stay healthy",
+        "defineVi": "tình trạng một người không có đủ thức ăn hoặc thức ăn ngon để ăn nhằm duy trì sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "9c750d7e-8ccd-4f6a-8334-ba0234027753",
+        "word": "migraine",
+        "phonetic": "maɪɡɹeɪn ",
+        "type": "noun",
+        "defineEn": "a severe recurring type of headache, particularly affecting one side of the head, and often causing visual disturbances and nausea",
+        "defineVi": "một loại đau đầu tái phát nghiêm trọng, đặc biệt ảnh hưởng đến một bên đầu và thường gây rối loạn thị giác và buồn nôn",
+        "hasImg": true
+    },
+    {
+        "id": "5ad31b89-c5b5-49bf-ac70-da18893c23c6",
+        "word": "narcolepsy",
+        "phonetic": "nɑːɹkoʊlɛpsi ",
+        "type": "noun",
+        "defineEn": "a sleep disorder characterized by sudden and uncontrollable episodes of deep sleep",
+        "defineVi": "một chứng rối loạn giấc ngủ đặc trưng bởi các giai đoạn ngủ sâu đột ngột và không thể kiểm soát"
+    },
+    {
+        "id": "57fe19aa-1ea3-4680-a5b2-5db584ba92f4",
+        "word": "necrosis",
+        "phonetic": "nɛkɹoʊsɪs ",
+        "type": "noun",
+        "defineEn": "the localized death of living cells (as from infection or the interruption of blood supply)",
+        "defineVi": "cái chết cục bộ của các tế bào sống (do nhiễm trùng hoặc gián đoạn cung cấp máu)"
+    },
+    {
+        "id": "9e08e30d-568a-4f8c-a8f6-694804e26c24",
+        "word": "obesity",
+        "phonetic": "oʊbiːsəɾi ",
+        "type": "noun",
+        "defineEn": "the state of being very fat in an unhealthy way",
+        "defineVi": "tình trạng rất béo một cách không lành mạnh",
+        "hasImg": true
+    },
+    {
+        "id": "db286efa-94cd-4996-83ce-3cb0c478ecf3",
+        "word": "osteoporosis",
+        "phonetic": "ɑːstɪɑːpoːɹoʊsɪs ",
+        "type": "noun",
+        "defineEn": "abnormal loss of bony tissue resulting in fragile porous bones attributable to a lack of calcium; most common in postmenopausal women",
+        "defineVi": "mất mô xương bất thường dẫn đến xương xốp dễ gãy do thiếu canxi; phổ biến nhất ở phụ nữ mãn kinh"
+    },
+    {
+        "id": "43879140-a584-4685-8c26-1621e2c0d195",
+        "word": "paraplegia",
+        "phonetic": "pæɹəpliːdʒə ",
+        "type": "noun",
+        "defineEn": "a type of paralysis that affects the legs and the lower body as the result of spinal cord damage",
+        "defineVi": "một loại tê liệt ảnh hưởng đến chân và phần dưới cơ thể do tổn thương tủy sống",
+        "hasImg": true
+    },
+    {
+        "id": "76f86735-83e5-4e30-98d8-6637484fa422",
+        "word": "peptic ulcer",
+        "phonetic": "pɛptɪk ʌlsɚ ",
+        "type": "noun",
+        "defineEn": "an ulcer of the mucous membrane lining of the alimentary tract",
+        "defineVi": "một vết loét của niêm mạc niêm mạc đường tiêu hóa"
+    },
+    {
+        "id": "e9cfd904-46fe-436a-9273-849e5df4dba0",
+        "word": "inflammation",
+        "phonetic": "ɪnflæmeɪʃən ",
+        "type": "noun",
+        "defineEn": "a physical condition in which a part of the body becomes swollen, painful, and red as a result of an infection or injury",
+        "defineVi": "một tình trạng thể chất trong đó một phần của cơ thể bị sưng, đau và đỏ do nhiễm trùng hoặc chấn thương"
+    },
+    {
+        "id": "857af36f-2a33-46de-a8fe-059d6020f222",
+        "word": "sepsis",
+        "phonetic": "sɛpsɪs ",
+        "type": "noun",
+        "defineEn": "the presence of pus-forming bacteria or their toxins in the blood or tissues",
+        "defineVi": "sự hiện diện của vi khuẩn tạo mủ hoặc độc tố của chúng trong máu hoặc mô"
+    },
+    {
+        "id": "6d2acc4e-7f3e-4223-b41c-23385f92793a",
+        "word": "slipped disc",
+        "phonetic": "slɪpt dɪsk ",
+        "type": "noun",
+        "defineEn": "a painful condition resulting from one of the discs in one's spine moving out of its proper position",
+        "defineVi": "một tình trạng đau đớn do một trong các đĩa đệm ở cột sống của một người di chuyển ra khỏi vị trí thích hợp của nó"
+    },
+    {
+        "id": "c054e759-e514-48f5-bcae-33f2428d9ff1",
+        "word": "sudden infant death syndrome",
+        "phonetic": "sʌdən ɪnfənt dɛθ sɪndɹoʊm ",
+        "type": "noun",
+        "defineEn": "sudden and unexpected death of an apparently healthy infant during sleep",
+        "defineVi": "cái chết đột ngột và bất ngờ của một trẻ sơ sinh có vẻ khỏe mạnh trong khi ngủ"
+    },
+    {
+        "id": "fbfb282a-96d9-470d-825a-d03569f223bb",
+        "word": "thrombosis",
+        "phonetic": "θɹəmboʊsɪs ",
+        "type": "noun",
+        "defineEn": "a severe medical condition in which the blood clots and blocks the blood vessels, particularly those leading to one's heart",
+        "defineVi": "một tình trạng y tế nghiêm trọng trong đó cục máu đông và chặn các mạch máu, đặc biệt là những mạch dẫn đến tim của một người"
+    },
+    {
+        "id": "477418fd-1f52-4063-8943-991d05070a63",
+        "word": "fetal alcohol syndrome",
+        "phonetic": "fiːɾəl ælkəhɑːl sɪndɹoʊm ",
+        "type": "noun",
+        "defineEn": "a severe medical condition resulting from excessive consumption of alcohol during pregnancy that can cause the child to be born with birth defects and developmental disabilities",
+        "defineVi": "một tình trạng y tế nghiêm trọng do uống quá nhiều rượu trong khi mang thai có thể khiến đứa trẻ sinh ra bị dị tật bẩm sinh và khuyết tật phát triển"
+    },
+    {
+        "id": "1f898e3a-fbb0-469f-9bf3-68fde2cc38e9",
+        "word": "laryngitis",
+        "phonetic": "læɹɪndʒaɪɾɪs ",
+        "type": "noun",
+        "defineEn": "a severe medical condition during which voice cords in one's voice box become painful and swollen, often resulting in loss of the voice or having difficulty breathing",
+        "defineVi": "một tình trạng y tế nghiêm trọng trong đó dây thanh quản trong thanh quản của một người trở nên đau và sưng lên, thường dẫn đến mất giọng hoặc khó thở"
+    },
+    {
+        "id": "4d9fb49e-5ceb-4fdf-b2e0-2ebd263ffe99",
+        "word": "snow-blindness",
+        "phonetic": "snoʊblaɪndnəs ",
+        "type": "noun",
+        "defineEn": "a condition of being temporarily unable to see due to one's eyes being exposed to ultraviolet rays reflected off snow or ice",
+        "defineVi": "một tình trạng tạm thời không thể nhìn thấy do mắt của một người tiếp xúc với tia cực tím phản chiếu từ tuyết hoặc băng"
+    },
+    {
+        "id": "820b4be7-f211-4a3c-95d6-9e5fa827e859",
+        "word": "breathlessness",
+        "phonetic": "bɹɛθləsnəs ",
+        "type": "noun",
+        "defineEn": "a condition that makes one breath too fast or with difficulty",
+        "defineVi": "một tình trạng làm cho một hơi thở quá nhanh hoặc khó khăn"
+    },
+    {
+        "id": "5d743134-b0e7-470d-8a11-325f14c79dfa",
+        "word": "cataract",
+        "phonetic": "kæɾɐɹækt ",
+        "type": "noun",
+        "defineEn": "a medical condition that directly affects one's eyes as the lens of the eye becomes blurred",
+        "defineVi": "một tình trạng y tế ảnh hưởng trực tiếp đến mắt của một người khi thủy tinh thể của mắt bị mờ"
+    },
+    {
+        "id": "755c8682-eedd-4116-97a0-7c8b8d2a63ba",
+        "word": "toxemia",
+        "phonetic": "tɑːksiːmiə ",
+        "type": "noun",
+        "defineEn": "an abnormal condition of pregnancy characterized by hypertension and edema and protein in the urine",
+        "defineVi": "một tình trạng bất thường của thai kỳ đặc trưng bởi tăng huyết áp và phù nề và protein trong nước tiểu"
+    },
+    {
+        "id": "9d3efbf8-0dbe-44ad-af3a-6ca684e912d0",
+        "word": "scurvy",
+        "phonetic": "skɜːvi ",
+        "type": "noun",
+        "defineEn": "a condition caused by deficiency of ascorbic acid (vitamin C)",
+        "defineVi": "một tình trạng gây ra bởi sự thiếu hụt axit ascorbic (vitamin C)"
+    },
+    {
+        "id": "85ba1658-49a5-451a-a90e-43f2d47c00a5",
+        "word": "emphysema",
+        "phonetic": "ɛmfaɪsmə ",
+        "type": "noun",
+        "defineEn": "an abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age",
+        "defineVi": "một tình trạng bất thường của phổi được đánh dấu bằng chức năng hô hấp giảm; liên quan đến hút thuốc hoặc viêm phế quản mãn tính hoặc tuổi già"
+    },
+    {
+        "id": "af0e4574-1a25-4bce-8ad1-eaf82d48e7a2",
+        "word": "diarrhea",
+        "phonetic": "daɪɚɹiə ",
+        "type": "noun",
+        "defineEn": "a medical condition in which body waste turns to liquid and comes out frequently",
+        "defineVi": "một tình trạng y tế trong đó chất thải cơ thể biến thành chất lỏng và đi ra ngoài thường xuyên"
+    },
+    {
+        "id": "e642d8c3-6b7a-4ee2-bbc9-094c4dde86d4",
+        "word": "atrophy",
+        "phonetic": "ætɹəfi ",
+        "type": "noun",
+        "defineEn": "a decrease in size of an organ caused by disease or disuse",
+        "defineVi": "giảm kích thước của một cơ quan do bệnh tật hoặc không sử dụng"
+    },
+    {
+        "id": "8abf9a00-8167-420d-99da-4b71705f2f23",
+        "word": "heart attack",
+        "phonetic": "hɑːɹt ɐtæk ",
+        "type": "noun",
+        "defineEn": "a medical emergency that happens when blood flow to the heart is suddenly blocked, which is fatal in some cases",
+        "defineVi": "một trường hợp cấp cứu y tế xảy ra khi máu chảy vào tim đột ngột bị tắc nghẽn, có thể gây tử vong trong một số trường hợp",
+        "hasImg": true
+    },
+    {
+        "id": "f8f51b53-a092-4305-a0d3-c49834bcb200",
+        "word": "altitude sickness",
+        "phonetic": "æltɪtuːd sɪknəs ",
+        "type": "noun",
+        "defineEn": "effects (as nosebleed or nausea) of oxygen deficiency in the blood and tissues at high altitudes",
+        "defineVi": "ảnh hưởng (như chảy máu cam hoặc buồn nôn) do thiếu oxy trong máu và các mô ở độ cao lớn"
+    },
+    {
+        "id": "a8a0c725-0b29-4cd2-8111-69277ced52e7",
+        "word": "seasickness",
+        "phonetic": "siːsɪknəs ",
+        "type": "noun",
+        "defineEn": "wooziness and nausea caused by the rocking motion of a boat or ship",
+        "defineVi": "chóng mặt và buồn nôn do chuyển động lắc lư của thuyền hoặc tàu",
+        "hasImg": true
+    },
+    {
+        "id": "89407ecd-aa87-4f9f-857a-feb622c93789",
+        "word": "sunstroke",
+        "phonetic": "sʌnstɹoʊk ",
+        "type": "noun",
+        "defineEn": "an illness characterized by high fever and caused by prolonged exposure to excessive heat or sunlight",
+        "defineVi": "một căn bệnh đặc trưng bởi sốt cao và do tiếp xúc lâu với nhiệt độ quá cao hoặc ánh sáng mặt trời"
+    },
+    {
+        "id": "a5f5e917-2d55-4771-9286-4a7e8261563c",
+        "word": "stroke",
+        "phonetic": "stɹoʊk ",
+        "type": "noun",
+        "defineEn": "a dangerous condition in which a person loses consciousness as a result of a blood vessel breaking open or becoming blocked in their brain, which could kill or paralyze a part of their body",
+        "defineVi": "một tình trạng nguy hiểm trong đó một người mất ý thức do mạch máu bị vỡ hoặc tắc nghẽn trong não, có thể giết chết hoặc làm tê liệt một phần cơ thể của họ"
+    },
+    {
+        "id": "6c0b3607-b552-4b39-b03d-2c6dcd9c084b",
+        "word": "cardiac arrest",
+        "phonetic": "kɑːɹdiæk ɚɹɛst ",
+        "type": "noun",
+        "defineEn": "absence of systole; failure of the ventricles of the heart to contract (usually caused by ventricular fibrillation) with consequent absence of the heart beat leading to oxygen lack and eventually to death",
+        "defineVi": "không có tâm thu; tâm thất của tim không co bóp được (thường do rung tâm thất gây ra) với hậu quả là tim không đập dẫn đến thiếu oxy và cuối cùng là tử vong"
+    },
+    {
+        "id": "5744ee1e-fb92-40af-a536-6f8c0a4b98a4",
+        "word": "myocardial infarction",
+        "phonetic": "maɪəkɑːɹdɪəl ɪnfɑːɹkʃən ",
+        "type": "noun",
+        "defineEn": "destruction of heart tissue resulting from obstruction of the blood supply to the heart muscle",
+        "defineVi": "phá hủy mô tim do tắc nghẽn cung cấp máu cho cơ tim"
+    },
+    {
+        "id": "fe8308b3-aad3-47fa-842f-6e142a9437a0",
+        "word": "infarction",
+        "phonetic": "ɪnfɑːɹkʃən ",
+        "type": "noun",
+        "defineEn": "localized necrosis resulting from obstruction of the blood supply",
+        "defineVi": "hoại tử cục bộ do tắc nghẽn nguồn cung cấp máu"
+    }
+]

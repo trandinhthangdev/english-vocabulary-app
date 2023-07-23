@@ -1,0 +1,330 @@
+[
+    {
+        "id": "180cb56c-8354-4b69-8c32-d8e4142074c9",
+        "word": "budget",
+        "phonetic": "bʌdʒɪt ",
+        "type": "adjective",
+        "defineEn": "economical and not expensive",
+        "defineVi": "kinh tế và không tốn kém"
+    },
+    {
+        "id": "6f161a85-8912-4745-8489-683879f83b48",
+        "word": "resort",
+        "phonetic": "ɹᵻzɔːɹt ",
+        "type": "noun",
+        "defineEn": "an establishment that provides vacationers with lodging, food, entertainment, etc.",
+        "defineVi": "một cơ sở cung cấp cho khách du lịch chỗ ở, thức ăn, giải trí, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "5389ee16-8754-4594-8489-9eb4f47d48d9",
+        "word": "lodging",
+        "phonetic": "lɑːdʒɪŋ ",
+        "type": "noun",
+        "defineEn": "a place that provides travelers with temporary accommodation",
+        "defineVi": "một nơi cung cấp cho du khách chỗ ở tạm thời",
+        "hasImg": true
+    },
+    {
+        "id": "a314e24f-836e-4b17-9a8e-16629b5d06e8",
+        "word": "lounge",
+        "phonetic": "laʊndʒ ",
+        "type": "noun",
+        "defineEn": "a room in an airport or hotel in which waiting people can sit",
+        "defineVi": "một căn phòng trong một sân bay hoặc khách sạn trong đó người chờ đợi có thể ngồi",
+        "hasImg": true
+    },
+    {
+        "id": "c75e4f5a-e79b-4fa7-ae29-909b7baa5474",
+        "word": "checkout",
+        "phonetic": "tʃɛkaʊt ",
+        "type": "noun",
+        "defineEn": "the time when a guest should leave a hotel room, pay the bills, and return the key",
+        "defineVi": "thời điểm mà khách nên rời khỏi phòng khách sạn, thanh toán hóa đơn và trả lại chìa khóa",
+        "hasImg": true
+    },
+    {
+        "id": "b5605a2a-a841-4edc-8b87-76b39d25b946",
+        "word": "resident",
+        "phonetic": "ɹɛzᵻdənt ",
+        "type": "noun",
+        "defineEn": "someone who is staying in a hotel room",
+        "defineVi": "một người đang ở trong phòng khách sạn",
+        "hasImg": true
+    },
+    {
+        "id": "899c90e6-1a17-4a93-85c5-730a47fe5ea9",
+        "word": "room service",
+        "phonetic": "ɹuːm sɜːvɪs ",
+        "type": "noun",
+        "defineEn": "a hotel service by which food and drink can be brought to the rooms of the guests",
+        "defineVi": "một dịch vụ khách sạn mà thức ăn và đồ uống có thể được mang đến phòng của khách",
+        "hasImg": true
+    },
+    {
+        "id": "0d324e43-1194-4368-8231-90be1da31e40",
+        "word": "travel agency",
+        "phonetic": "tɹævəl eɪdʒənsi ",
+        "type": "noun",
+        "defineEn": "an agency that makes arrangements for people who want to travel",
+        "defineVi": "một cơ quan sắp xếp cho những người muốn đi du lịch",
+        "hasImg": true
+    },
+    {
+        "id": "88a82dd0-e8df-4001-bdb9-940302aa3c9a",
+        "word": "E-ticket",
+        "phonetic": "iːtɪkɪt ",
+        "type": "noun",
+        "defineEn": "an online ticket for a flight that can be received electronically instead of a paper ticket",
+        "defineVi": "một vé trực tuyến cho một chuyến bay có thể được nhận bằng điện tử thay vì vé giấy",
+        "hasImg": true
+    },
+    {
+        "id": "983d515e-07b8-493e-8612-e7426370b594",
+        "word": "vacationer",
+        "phonetic": "veɪkeɪʃənɚ ",
+        "type": "noun",
+        "defineEn": "someone who has gone on vacation",
+        "defineVi": "một người đã đi nghỉ",
+        "hasImg": true
+    },
+    {
+        "id": "5414c456-de44-4ad5-9303-a6d4b979618d",
+        "word": "excursion",
+        "phonetic": "ɛkskɜːʃən ",
+        "type": "noun",
+        "defineEn": "a short trip taken for pleasure, particularly one arranged for a group of people",
+        "defineVi": "một chuyến đi ngắn được thực hiện cho niềm vui, đặc biệt là một chuyến đi được sắp xếp cho một nhóm người",
+        "hasImg": true
+    },
+    {
+        "id": "1ab9dbbe-b1ed-4093-aaa2-c3b79adffc3f",
+        "word": "package tour",
+        "phonetic": "pækɪdʒ tʊɹ ",
+        "type": "noun",
+        "defineEn": "a vacation arranged by a travel agent or a company at a fixed price including the cost of transport, accommodations, etc.",
+        "defineVi": "một kỳ nghỉ được sắp xếp bởi một đại lý du lịch hoặc một công ty với mức giá cố định bao gồm chi phí vận chuyển, chỗ ở, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "71e19749-540a-456f-86bf-013f9ee6b88f",
+        "word": "to get away",
+        "phonetic": "tə ɡɛt ɐweɪ ",
+        "type": "verb",
+        "defineEn": "to go on vacation away from home",
+        "defineVi": "đi nghỉ xa nhà",
+        "hasImg": true
+    },
+    {
+        "id": "73fe2759-ee3d-498b-a8aa-d70cb583e9b6",
+        "word": "to trek",
+        "phonetic": "tə tɹɛk ",
+        "type": "verb",
+        "defineEn": "to go for a long walk, particularly in the mountains, forests, etc. as an adventure",
+        "defineVi": "đi bộ đường dài, đặc biệt là ở vùng núi, rừng, v.v. như một cuộc phiêu lưu",
+        "hasImg": true
+    },
+    {
+        "id": "a5a83901-7cae-47a2-a99a-651ac4993407",
+        "word": "aisle",
+        "phonetic": "aɪəl ",
+        "type": "noun",
+        "defineEn": "a narrow passage in a theater, train, aircraft, etc. that separates rows of seats",
+        "defineVi": "một lối đi hẹp trong rạp hát, xe lửa, máy bay, v.v. ngăn cách các hàng ghế",
+        "hasImg": true
+    },
+    {
+        "id": "ae0a9380-1587-4b36-a1bd-d9f94292406b",
+        "word": "cabin",
+        "phonetic": "kæbɪn ",
+        "type": "noun",
+        "defineEn": "the area where passengers sit in an airplane",
+        "defineVi": "khu vực hành khách ngồi trên máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "a07bebad-fa2f-414a-beb8-bce25e890cdb",
+        "word": "cabin crew",
+        "phonetic": "kæbɪn kɹuː ",
+        "type": "noun",
+        "defineEn": "the group of people whose job is looking after the passengers on an aircraft",
+        "defineVi": "nhóm người có công việc chăm sóc hành khách trên máy bay",
+        "hasImg": true
+    },
+    {
+        "id": "d7be4060-e7d3-4cfd-89a2-68cd29c0a369",
+        "word": "baggage claim",
+        "phonetic": "bæɡɪdʒ kleɪm ",
+        "type": "noun",
+        "defineEn": "the area at an airport where passengers can collect their cases, bags, etc. after they land",
+        "defineVi": "khu vực tại sân bay nơi hành khách có thể lấy vali, túi xách, v.v. sau khi hạ cánh",
+        "hasImg": true
+    },
+    {
+        "id": "9b3ed5cb-2bb7-4ad7-a2ad-b98d419cb952",
+        "word": "jet lag",
+        "phonetic": "dʒɛt læɡ ",
+        "type": "noun",
+        "defineEn": "the confusion and tiredness one can experience after a long flight, particularly when the origin is in a much different time zone than the destination",
+        "defineVi": "sự bối rối và mệt mỏi mà người ta có thể trải qua sau một chuyến bay dài, đặc biệt khi điểm xuất phát ở múi giờ khác nhiều so với điểm đến"
+    },
+    {
+        "id": "8cd14c22-70f1-4ecd-9ad5-1e52c1e3a84c",
+        "word": "terminal",
+        "phonetic": "tɜːmɪnəl ",
+        "type": "noun",
+        "defineEn": "a building where trains, buses, planes, or ships start or finish their journey",
+        "defineVi": "một tòa nhà nơi xe lửa, xe buýt, máy bay hoặc tàu bắt đầu hoặc kết thúc hành trình của họ",
+        "hasImg": true
+    },
+    {
+        "id": "ad65f1ce-a379-45b6-aca2-18e7329ec57d",
+        "word": "main line",
+        "phonetic": "meɪn laɪn ",
+        "type": "noun",
+        "defineEn": "an important railroad line between two cities or large towns",
+        "defineVi": "một tuyến đường sắt quan trọng giữa hai thành phố hoặc thị trấn lớn",
+        "hasImg": true
+    },
+    {
+        "id": "4aed5584-00a8-4c41-9ca6-fa14dd385157",
+        "word": "to cruise",
+        "phonetic": "tə kɹuːz ",
+        "type": "verb",
+        "defineEn": "to go on vacation by a ship or boat",
+        "defineVi": "đi nghỉ bằng tàu hoặc thuyền",
+        "hasImg": true
+    },
+    {
+        "id": "499a8b5f-eab8-4ad4-beee-d359e624a4d5",
+        "word": "to delay",
+        "phonetic": "tə dᵻleɪ ",
+        "type": "verb",
+        "defineEn": "to be late or cause someone or something to be late",
+        "defineVi": "đến muộn hoặc khiến ai đó hoặc cái gì đó bị trễ",
+        "hasImg": true
+    },
+    {
+        "id": "d3c71678-a65c-475c-ac24-8b359367d4ba",
+        "word": "to navigate",
+        "phonetic": "tə nævɪɡeɪt ",
+        "type": "verb",
+        "defineEn": "to travel across or on an area of water by a ship or boat",
+        "defineVi": "đi qua hoặc trên một vùng nước bằng tàu hoặc thuyền"
+    },
+    {
+        "id": "1360d427-5240-439f-9f4d-ced8c6f11ca6",
+        "word": "caravan",
+        "phonetic": "kæɹɐvæn ",
+        "type": "noun",
+        "defineEn": "a vehicle that is pulled by a car, in which people can sleep and live, used particularly when they go on holiday",
+        "defineVi": "một phương tiện được kéo bởi một chiếc ô tô, trong đó mọi người có thể ngủ và sinh hoạt, được sử dụng đặc biệt khi họ đi nghỉ",
+        "hasImg": true
+    },
+    {
+        "id": "53968d0f-2e00-4c89-ad1c-fc27cf18dbfc",
+        "word": "railroad crossing",
+        "phonetic": "ɹeɪlɹoʊd kɹɔsɪŋ ",
+        "type": "noun",
+        "defineEn": "a place at which a road meets a railroad on the same surface",
+        "defineVi": "một nơi mà tại đó một con đường giao nhau với một đường sắt trên cùng một bề mặt",
+        "hasImg": true
+    },
+    {
+        "id": "12bd1c03-d549-4729-8087-b3e4b2ffdab5",
+        "word": "compartment",
+        "phonetic": "kəmpɑːɹtmənt ",
+        "type": "noun",
+        "defineEn": "any of the separate sections of a railcar",
+        "defineVi": "bất kỳ phần riêng biệt nào của toa xe lửa",
+        "hasImg": true
+    },
+    {
+        "id": "3874fcce-0e80-4aaa-a9ef-8187ca7fcadf",
+        "word": "rest stop",
+        "phonetic": "ɹɛst stɑːp ",
+        "type": "noun",
+        "defineEn": "an area near a road where people can stop to eat food, rest, etc.",
+        "defineVi": "một khu vực gần một con đường nơi mọi người có thể dừng lại để ăn uống, nghỉ ngơi, v.v."
+    },
+    {
+        "id": "07c3e743-fc6e-49b7-8856-311ef14de59f",
+        "word": "gift shop",
+        "phonetic": "ɡɪft ʃɑːp ",
+        "type": "noun",
+        "defineEn": "a store where small items and souvenirs are sold, suitable for giving as presents",
+        "defineVi": "một cửa hàng nơi bán các mặt hàng nhỏ và quà lưu niệm, thích hợp để làm quà tặng",
+        "hasImg": true
+    },
+    {
+        "id": "fd1e771f-699f-4ee3-8c5f-0a327066f977",
+        "word": "hot-air balloon",
+        "phonetic": "hɑːtɛɹ bəluːn ",
+        "type": "noun",
+        "defineEn": "an extremely large balloon filled with heated air or gas so that it can float in the air, equipped with a basket in which passengers can ride",
+        "defineVi": "một quả bóng cực lớn chứa đầy không khí hoặc khí đốt nóng để nó có thể lơ lửng trong không trung, được trang bị một cái giỏ để hành khách có thể cưỡi",
+        "hasImg": true
+    },
+    {
+        "id": "350664a6-aa22-4fed-b307-cecd036733d1",
+        "word": "April Fools\\' Day",
+        "phonetic": "eɪpɹəl fuːlz bækslæʃ deɪ ",
+        "type": "noun",
+        "defineEn": "the 1st of April on which people in Western countries play tricks on one another and the person who is tricked is called the April Fool",
+        "defineVi": "ngày 1 tháng 4 mà người phương Tây chơi khăm nhau và người bị lừa gọi là cá tháng tư",
+        "hasImg": true
+    },
+    {
+        "id": "90852519-0dbf-46c7-9ffd-432aea32fa37",
+        "word": "Independence Day",
+        "phonetic": "ɪndᵻpɛndəns deɪ ",
+        "type": "noun",
+        "defineEn": "the 4th of July on which Americans celebrate the declaration of independence from Britain in 1776",
+        "defineVi": "ngày 4 tháng 7 mà người Mỹ kỷ niệm tuyên bố độc lập khỏi Anh năm 1776",
+        "hasImg": true
+    },
+    {
+        "id": "aeb2f16b-a345-446f-bebd-8436f1277004",
+        "word": "New Year\\'s Eve",
+        "phonetic": "nuː jɪɹ bækslæʃ ɛs iːv ",
+        "type": "phrase",
+        "defineEn": "the evening of 31st of December, which is the last day of the year",
+        "defineVi": "tối ngày 31 tháng 12, là ngày cuối cùng của năm",
+        "hasImg": true
+    },
+    {
+        "id": "e6d68110-9c41-48a5-8c36-7d3e22fe38ca",
+        "word": "St. Patrick\\'s Day",
+        "phonetic": "sənt pætɹɪk bækslæʃ ɛs deɪ ",
+        "type": "noun",
+        "defineEn": "the 17th of March on which people celebrate, in honor of Saint Patrick who helped establish Christianity in Ireland, by drinking Irish beer and sometimes wearing green clothes",
+        "defineVi": "ngày 17 tháng 3 mà mọi người ăn mừng, để vinh danh Thánh Patrick, người đã giúp thành lập Cơ đốc giáo ở Ireland, bằng cách uống bia Ireland và đôi khi mặc quần áo màu xanh lá cây",
+        "hasImg": true
+    },
+    {
+        "id": "94543f12-ca11-4864-9940-82dc18ca8a5d",
+        "word": "Black Friday",
+        "phonetic": "blæk fɹaɪdeɪ ",
+        "type": "noun",
+        "defineEn": "the day following Thanksgiving in the US, on which people traditionally start shopping for Christmas because stores open early and reduce the price of their goods to attract more customers",
+        "defineVi": "ngày sau Lễ tạ ơn ở Mỹ, theo truyền thống, mọi người bắt đầu mua sắm cho Giáng sinh vì các cửa hàng mở cửa sớm và giảm giá hàng hóa để thu hút nhiều khách hàng hơn"
+    },
+    {
+        "id": "a27b38b9-defa-4061-ab76-20c369514e89",
+        "word": "Mardi Gras",
+        "phonetic": "mɑːɹdi ɡɹɑːz ",
+        "type": "noun",
+        "defineEn": "the day before the start of Lent, on which people in some countries begin celebrating by dancing in the streets with loud music and wearing colorful costumes",
+        "defineVi": "một ngày trước khi bắt đầu Mùa Chay, khi người dân ở một số quốc gia bắt đầu ăn mừng bằng cách nhảy múa trên đường phố với âm nhạc lớn và mặc trang phục sặc sỡ",
+        "hasImg": true
+    },
+    {
+        "id": "6db863e9-6246-4e53-84f7-00273857b9d5",
+        "word": "transportation",
+        "phonetic": "tɹænspoːɹteɪʃən ",
+        "type": "noun",
+        "defineEn": "the act or business of carrying people or goods from one place to another by different means",
+        "defineVi": "hành động hoặc kinh doanh vận chuyển người hoặc hàng hóa từ nơi này đến nơi khác bằng các phương tiện khác nhau",
+        "hasImg": true
+    }
+]

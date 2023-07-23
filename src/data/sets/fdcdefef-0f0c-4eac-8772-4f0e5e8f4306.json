@@ -1,0 +1,359 @@
+[
+    {
+        "id": "69ebf3b6-9fd3-40ec-81b7-95ff9da7439b",
+        "word": "ailment",
+        "phonetic": "eɪlmənt ",
+        "type": "noun",
+        "defineEn": "an illness, often a minor one",
+        "defineVi": "một căn bệnh, thường là một bệnh nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "35b4aec0-332f-41de-8e6f-9ca88174025e",
+        "word": "agony",
+        "phonetic": "æɡəni ",
+        "type": "noun",
+        "defineEn": "severe physical or mental pain",
+        "defineVi": "đau đớn về thể chất hoặc tinh thần",
+        "hasImg": true
+    },
+    {
+        "id": "57d41a73-c3ba-4db3-950b-56b041222555",
+        "word": "syndrome",
+        "phonetic": "sɪndɹoʊm ",
+        "type": "noun",
+        "defineEn": "a group of medical signs that indicate a person is suffering from a particular disease or mental problem",
+        "defineVi": "một nhóm các dấu hiệu y tế cho thấy một người đang mắc một căn bệnh hoặc vấn đề tâm thần cụ thể"
+    },
+    {
+        "id": "c2a94716-3e47-455f-9848-2f80e11171ec",
+        "word": "acute",
+        "phonetic": "ɐkjuːt ",
+        "type": "adjective",
+        "defineEn": "severe in degree; very serious",
+        "defineVi": "nghiêm trọng về mức độ; rất nghiêm trọng"
+    },
+    {
+        "id": "fba329a6-b34d-4514-ae43-fa01629cea8a",
+        "word": "chronic",
+        "phonetic": "kɹɑːnɪk ",
+        "type": "adjective",
+        "defineEn": "(of an illness) difficult to cure and long-lasting",
+        "defineVi": "(về bệnh) khó chữa và kéo dài"
+    },
+    {
+        "id": "8abee49f-ee26-4092-a226-b6fa5c9f3fd7",
+        "word": "contagious",
+        "phonetic": "kənteɪdʒəs ",
+        "type": "adjective",
+        "defineEn": "(of a disease) transmittable from one person to another through close contact",
+        "defineVi": "(về bệnh) có thể truyền từ người này sang người khác qua tiếp xúc gần gũi",
+        "hasImg": true
+    },
+    {
+        "id": "b978f688-6fee-41ca-b890-5c901fcb6a76",
+        "word": "breathless",
+        "phonetic": "bɹɛθləs ",
+        "type": "adjective",
+        "defineEn": "unable to breathe easily",
+        "defineVi": "không thể thở dễ dàng"
+    },
+    {
+        "id": "533acc7c-39b5-4775-9038-529f3b3143bf",
+        "word": "dizzy",
+        "phonetic": "dɪzi ",
+        "type": "adjective",
+        "defineEn": "unable to keep one's balance and feeling as though everything is circling around one, caused by an illness or looking down from a high place",
+        "defineVi": "không thể giữ thăng bằng và cảm giác như thể mọi thứ đang quay xung quanh mình, do bệnh tật hoặc từ trên cao nhìn xuống",
+        "hasImg": true
+    },
+    {
+        "id": "5cd5a999-aefe-4af9-acd4-1378075248dd",
+        "word": "fatal",
+        "phonetic": "feɪɾəl ",
+        "type": "adjective",
+        "defineEn": "resulting in death",
+        "defineVi": "dẫn đến cái chết"
+    },
+    {
+        "id": "9e698648-66a8-40ce-986a-af18ff4df832",
+        "word": "feverish",
+        "phonetic": "fiːvɚɹɪʃ ",
+        "type": "adjective",
+        "defineEn": "having or caused by a fever",
+        "defineVi": "có hoặc gây ra bởi một cơn sốt",
+        "hasImg": true
+    },
+    {
+        "id": "5b24aa45-3ff4-45d4-a640-44aaa86cc5a6",
+        "word": "swollen",
+        "phonetic": "swoʊlən ",
+        "type": "adjective",
+        "defineEn": "(of a part of the body) unusually large, particularly because of an injury or illness",
+        "defineVi": "(của một bộ phận cơ thể) lớn bất thường, đặc biệt là do chấn thương hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "eaedf0d2-37d6-4a44-90b1-29d87b2c1476",
+        "word": "asthma",
+        "phonetic": "æzmə ",
+        "type": "noun",
+        "defineEn": "a disease that causes shortness of breath and difficulty in breathing",
+        "defineVi": "một căn bệnh gây khó thở và khó thở",
+        "hasImg": true
+    },
+    {
+        "id": "5480f416-bd02-4d7e-9acd-fc7a08641803",
+        "word": "bird flu",
+        "phonetic": "bɜːd fluː ",
+        "type": "noun",
+        "defineEn": "a dangerous disease among birds, especially poultry, that can be transmitted to humans and sometimes kill them",
+        "defineVi": "một căn bệnh nguy hiểm ở các loài chim, đặc biệt là gia cầm, có thể truyền sang người và đôi khi giết chết chúng"
+    },
+    {
+        "id": "eb9d652d-cdea-43f9-873f-2adc282b0dae",
+        "word": "Covid-19",
+        "phonetic": "kɑːvɪd naɪntiːn ",
+        "type": "noun",
+        "defineEn": "an infectious disease caused by a type of virus called coronavirus that causes fever, tiredness, a cough, etc., and in some cases can kill, originated in China and later became a pandemic",
+        "defineVi": "một bệnh truyền nhiễm do một loại vi rút gọi là coronavirus gây ra sốt, mệt mỏi, ho, v.v. và trong một số trường hợp có thể gây tử vong, có nguồn gốc từ Trung Quốc và sau đó trở thành đại dịch"
+    },
+    {
+        "id": "8e60dd3c-2798-408a-a1e2-5d95e037c459",
+        "word": "diarrhea",
+        "phonetic": "daɪɚɹiə ",
+        "type": "noun",
+        "defineEn": "a medical condition in which body waste turns to liquid and comes out frequently",
+        "defineVi": "một tình trạng y tế trong đó chất thải cơ thể biến thành chất lỏng và đi ra ngoài thường xuyên"
+    },
+    {
+        "id": "5e17c00d-800a-4f29-8320-168bf6a5a68b",
+        "word": "hay fever",
+        "phonetic": "heɪ fiːvɚ ",
+        "type": "noun",
+        "defineEn": "an illness that causes a runny nose and watery eyes, caused by dust from plants that come into the body through the air",
+        "defineVi": "một căn bệnh gây sổ mũi và chảy nước mắt, do bụi từ thực vật xâm nhập vào cơ thể qua không khí"
+    },
+    {
+        "id": "a7176e12-9756-457f-a2e2-ff8d132ca187",
+        "word": "HIV",
+        "phonetic": "eɪtʃaɪviː ",
+        "type": "noun",
+        "defineEn": "the virus that causes a very dangerous disease called AIDS, transmitted through blood or sexual activity",
+        "defineVi": "vi-rút gây ra một căn bệnh rất nguy hiểm có tên là AIDS, lây truyền qua đường máu hoặc hoạt động tình dục"
+    },
+    {
+        "id": "faeebfc0-1d6c-4f28-bd0b-affb8728037c",
+        "word": "measles",
+        "phonetic": "miːzəlz ",
+        "type": "noun",
+        "defineEn": "a contagious disease that causes high fever and small red spots on the body, common in children",
+        "defineVi": "một bệnh truyền nhiễm gây sốt cao và những nốt đỏ nhỏ trên cơ thể, thường gặp ở trẻ em",
+        "hasImg": true
+    },
+    {
+        "id": "bf77b4b1-a0ab-47e5-a3ec-79ca1d8b69ba",
+        "word": "plague",
+        "phonetic": "pleɪɡ ",
+        "type": "noun",
+        "defineEn": "a dangerous disease spread by rats that causes fever and swellings, often kills if infected",
+        "defineVi": "một căn bệnh nguy hiểm do chuột lây lan gây sốt và sưng tấy, thường gây tử vong nếu nhiễm bệnh"
+    },
+    {
+        "id": "d236c98e-1d1a-43f3-ad65-3a4aa15a72bf",
+        "word": "stroke",
+        "phonetic": "stɹoʊk ",
+        "type": "noun",
+        "defineEn": "a dangerous condition in which a person loses consciousness as a result of a blood vessel breaking open or becoming blocked in their brain, which could kill or paralyze a part of their body",
+        "defineVi": "một tình trạng nguy hiểm trong đó một người mất ý thức do mạch máu bị vỡ hoặc tắc nghẽn trong não, có thể giết chết hoặc làm tê liệt một phần cơ thể của họ"
+    },
+    {
+        "id": "ed8ee014-2d7e-4c00-8a7c-0529ac89d96b",
+        "word": "blister",
+        "phonetic": "blɪstɚ ",
+        "type": "noun",
+        "defineEn": "a swollen area on the skin filled with liquid, caused by constant rubbing or by burning",
+        "defineVi": "một vùng sưng tấy trên da chứa đầy chất lỏng, do cọ xát liên tục hoặc do bỏng",
+        "hasImg": true
+    },
+    {
+        "id": "6a16d56b-4e8f-40fd-9a46-88e0b451d86d",
+        "word": "lump",
+        "phonetic": "lʌmp ",
+        "type": "noun",
+        "defineEn": "a swollen area under the skin, usually caused by a sickness or injury",
+        "defineVi": "một vùng sưng dưới da, thường là do bệnh tật hoặc chấn thương"
+    },
+    {
+        "id": "ce3bf9ef-c259-4825-8f30-c2ead31d90cf",
+        "word": "rash",
+        "phonetic": "ɹæʃ ",
+        "type": "noun",
+        "defineEn": "a part of one's skin covered with red spots, which is usually caused by a sickness or an allergic reaction",
+        "defineVi": "một phần da của một người có những đốm đỏ, thường do bệnh tật hoặc phản ứng dị ứng gây ra",
+        "hasImg": true
+    },
+    {
+        "id": "dce11c59-3017-4dcf-9560-bbaaab915828",
+        "word": "scar",
+        "phonetic": "skɑːɹ ",
+        "type": "noun",
+        "defineEn": "a mark that is left on one's skin after a wound or cut has healed",
+        "defineVi": "một dấu vết để lại trên da của một người sau khi vết thương hoặc vết cắt đã lành",
+        "hasImg": true
+    },
+    {
+        "id": "ce2c9890-fc61-4cd4-8547-595040af3c7c",
+        "word": "swelling",
+        "phonetic": "swɛlɪŋ ",
+        "type": "noun",
+        "defineEn": "an area of one's body that has become unusually larger, caused by an injury or sickness",
+        "defineVi": "một khu vực trên cơ thể của một người đã trở nên lớn hơn bất thường, do chấn thương hoặc bệnh tật"
+    },
+    {
+        "id": "dab08fd9-9999-40c9-91a8-70f6a00d9ea3",
+        "word": "collapse",
+        "phonetic": "kəlæps ",
+        "type": "noun",
+        "defineEn": "a situation in which a person suddenly falls down or loses consciousness because of tiredness or an illness",
+        "defineVi": "một tình huống trong đó một người đột nhiên ngã xuống hoặc mất ý thức vì mệt mỏi hoặc bệnh tật",
+        "hasImg": true
+    },
+    {
+        "id": "4206806d-f633-40e0-9c4b-3594c2b5a22d",
+        "word": "fatigue",
+        "phonetic": "fɐtiːɡ ",
+        "type": "noun",
+        "defineEn": "a feeling of extreme tiredness that is usually caused by physical or mental overwork or exercise",
+        "defineVi": "một cảm giác cực kỳ mệt mỏi thường do làm việc hoặc tập thể dục quá sức về thể chất hoặc tinh thần",
+        "hasImg": true
+    },
+    {
+        "id": "d6f3ac75-7305-45ca-8c4d-c480b2829292",
+        "word": "fracture",
+        "phonetic": "fɹæktʃɚ ",
+        "type": "noun",
+        "defineEn": "a crack or break in a bone or other hard substance",
+        "defineVi": "vết nứt hoặc gãy xương hoặc chất cứng khác",
+        "hasImg": true
+    },
+    {
+        "id": "2b691fab-c380-4045-a8ae-0fff895699cd",
+        "word": "to bounce back",
+        "phonetic": "tə baʊns bæk ",
+        "type": "verb",
+        "defineEn": "to regain health after an illness or become successful again after facing difficulties",
+        "defineVi": "để lấy lại sức khỏe sau khi bị bệnh hoặc trở nên thành công trở lại sau khi gặp khó khăn",
+        "hasImg": true
+    },
+    {
+        "id": "1eaca59a-a66f-4f7c-b052-2164718e4712",
+        "word": "to complain of",
+        "phonetic": "tə kəmpleɪn ʌv ",
+        "type": "verb",
+        "defineEn": "to state that one feels ill or one's body part is in pain",
+        "defineVi": "để nói rằng một người cảm thấy bị bệnh hoặc một phần cơ thể của một người đang bị đau"
+    },
+    {
+        "id": "2b428040-0d5f-4bb4-b55c-f2a33f5e3f5c",
+        "word": "to faint",
+        "phonetic": "tə feɪnt ",
+        "type": "verb",
+        "defineEn": "to suddenly lose consciousness from a lack of oxygen in the brain, which is caused by a shock, etc.",
+        "defineVi": "đột nhiên mất ý thức do thiếu oxy trong não, nguyên nhân là do sốc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "598a1e99-e05b-4a7b-bcbb-b004f6b6b540",
+        "word": "to infect",
+        "phonetic": "tʊ ɪnfɛkt ",
+        "type": "verb",
+        "defineEn": "to transmit a disease to a person, animal, or plant",
+        "defineVi": "truyền bệnh cho người, động vật hoặc thực vật",
+        "hasImg": true
+    },
+    {
+        "id": "62978ceb-07d1-426f-8f9d-3b8508ddb573",
+        "word": "addict",
+        "phonetic": "ædɪkt ",
+        "type": "noun",
+        "defineEn": "someone who cannot stop taking, using, or smoking a substance",
+        "defineVi": "một người không thể ngừng dùng, sử dụng hoặc hút một chất",
+        "hasImg": true
+    },
+    {
+        "id": "12706a82-a512-489a-bbf2-8056b3e35378",
+        "word": "carrier",
+        "phonetic": "kæɹiɚ ",
+        "type": "noun",
+        "defineEn": "a person or animal that carries a disease, without suffering from it themselves, and transmits to other people or animals",
+        "defineVi": "một người hoặc động vật mang mầm bệnh mà bản thân không mắc bệnh và truyền bệnh cho người hoặc động vật khác",
+        "hasImg": true
+    },
+    {
+        "id": "da3239f5-17bc-4e5f-a825-efb324d7d9b5",
+        "word": "epidemic",
+        "phonetic": "ɛpɪdɛmɪk ",
+        "type": "noun",
+        "defineEn": "an occurrence of a disease that spreads and involves a large number of people at the same time in a particular area",
+        "defineVi": "sự xuất hiện của một căn bệnh lây lan và liên quan đến một số lượng lớn người cùng một lúc trong một khu vực cụ thể"
+    },
+    {
+        "id": "2f05562c-c4d2-45c0-a5ab-cc5327888058",
+        "word": "pandemic",
+        "phonetic": "pændɛmɪk ",
+        "type": "noun",
+        "defineEn": "a disease that spreads across a large region or even across the world",
+        "defineVi": "một căn bệnh lây lan trên một khu vực rộng lớn hoặc thậm chí trên toàn thế giới"
+    },
+    {
+        "id": "4af1f20c-698e-432e-bf65-e5dda1662412",
+        "word": "outbreak",
+        "phonetic": "aʊtbɹeɪk ",
+        "type": "noun",
+        "defineEn": "the unexpected start of something terrible, such as a disease or war",
+        "defineVi": "sự khởi đầu bất ngờ của một cái gì đó khủng khiếp, chẳng hạn như một căn bệnh hoặc chiến tranh"
+    },
+    {
+        "id": "c169b6ba-2c7e-4c1b-b7dd-7ce0f322e5a5",
+        "word": "parasite",
+        "phonetic": "pæɹəsaɪt ",
+        "type": "noun",
+        "defineEn": "(biology) a small organism that lives on or inside another organism, called a host, and is dependent on it for nutrition and growth",
+        "defineVi": "(sinh vật học) một sinh vật nhỏ sống trên hoặc bên trong một sinh vật khác, được gọi là vật chủ, và phụ thuộc vào nó để dinh dưỡng và phát triển"
+    },
+    {
+        "id": "ae53e424-915f-4fc1-9572-77a0539da9df",
+        "word": "shiver",
+        "phonetic": "ʃɪvɚ ",
+        "type": "noun",
+        "defineEn": "a brief shaking movement of one's body as a result of fear or being cold",
+        "defineVi": "một chuyển động run rẩy ngắn của cơ thể do sợ hãi hoặc lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "ec44f127-5455-452e-b69a-dd7da5d79c98",
+        "word": "worn out",
+        "phonetic": "woːɹn aʊt ",
+        "type": "adjective",
+        "defineEn": "exhausted because of too much physical work",
+        "defineVi": "kiệt sức vì làm việc chân tay quá nhiều",
+        "hasImg": true
+    },
+    {
+        "id": "b2cf0aae-fcd0-4773-ad52-8d9841397d06",
+        "word": "stuffy",
+        "phonetic": "stʌfi ",
+        "type": "adjective",
+        "defineEn": "***  if you have a stuffy nose, your nose is blocked because you have a cold",
+        "defineVi": "*** nếu bạn bị nghẹt mũi, tắc mũi vì bạn bị cảm lạnh"
+    },
+    {
+        "id": "9c71d3e5-3052-4653-b657-9b0830ce36ef",
+        "word": "to chafe",
+        "phonetic": "tə tʃeɪf ",
+        "type": "verb",
+        "defineEn": "(of a body part) to become sore or irritated due to being rubbed against something",
+        "defineVi": "(của một bộ phận cơ thể) trở nên đau nhức hoặc khó chịu do bị cọ xát vào cái gì đó"
+    }
+]

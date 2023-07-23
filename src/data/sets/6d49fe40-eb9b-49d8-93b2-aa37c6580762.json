@@ -1,0 +1,217 @@
+[
+    {
+        "id": "9f74e450-fa29-4019-b629-730f093e4d77",
+        "word": "bridge",
+        "phonetic": "bɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "a structure built over a river, road, etc. that enables people or vehicles to go across one side to the other",
+        "defineVi": "một cấu trúc được xây dựng trên sông, đường, v.v. cho phép người hoặc phương tiện đi qua bên này sang bên kia",
+        "hasImg": true
+    },
+    {
+        "id": "e0d9419a-6367-48f7-9e5c-74bebc2e0b55",
+        "word": "castle",
+        "phonetic": "kæsəl ",
+        "type": "noun",
+        "defineEn": "a large and strong building that is protected against attacks, in which the royal family lives",
+        "defineVi": "một tòa nhà lớn và mạnh mẽ được bảo vệ chống lại các cuộc tấn công, trong đó gia đình hoàng gia sống",
+        "hasImg": true
+    },
+    {
+        "id": "d5334f9a-9f15-4177-b8ba-01c3efa86cf9",
+        "word": "gallery",
+        "phonetic": "ɡælɚɹi ",
+        "type": "noun",
+        "defineEn": "a place in which works of art are shown or sold to the public",
+        "defineVi": "một nơi mà các tác phẩm nghệ thuật được hiển thị hoặc bán cho công chúng",
+        "hasImg": true
+    },
+    {
+        "id": "71055d9c-e19b-4620-afa1-fbf826d61c8a",
+        "word": "park",
+        "phonetic": "pɑːɹk ",
+        "type": "noun",
+        "defineEn": "a large public place in a town or a city that has grass and trees and people go to for walking, playing, and relaxing",
+        "defineVi": "một nơi công cộng lớn trong một thị trấn hoặc một thành phố có cỏ và cây cối và mọi người đi dạo, vui chơi và thư giãn",
+        "hasImg": true
+    },
+    {
+        "id": "060c068b-47c8-46c5-bd2b-d7c765ebfe9d",
+        "word": "square",
+        "phonetic": "skwɛɹ ",
+        "type": "noun",
+        "defineEn": "an open area in a city or town where two or more streets meet",
+        "defineVi": "một khu vực mở trong thành phố hoặc thị trấn nơi hai hoặc nhiều đường gặp nhau",
+        "hasImg": true
+    },
+    {
+        "id": "b767e753-a024-4d24-8a32-1737e613fd03",
+        "word": "street",
+        "phonetic": "stɹiːt ",
+        "type": "noun",
+        "defineEn": "a public path for vehicles in a village, town, or city, usually with buildings, houses, etc. on its sides",
+        "defineVi": "một con đường công cộng dành cho các phương tiện trong một ngôi làng, thị trấn hoặc thành phố, thường có các tòa nhà, nhà ở, v.v. ở hai bên",
+        "hasImg": true
+    },
+    {
+        "id": "dfc9e265-5a3b-4e60-9333-ca12a084681d",
+        "word": "chemist\\'s",
+        "phonetic": "kɛmɪst bækslæʃ ɛs ",
+        "type": "noun",
+        "defineEn": "a place where one can buy medicines, cosmetic products, and toiletries",
+        "defineVi": "một nơi mà người ta có thể mua thuốc, mỹ phẩm và đồ vệ sinh cá nhân",
+        "hasImg": true
+    },
+    {
+        "id": "52cac32d-525e-43da-83dc-d7b83976e98e",
+        "word": "pharmacy",
+        "phonetic": "fɑːɹməsi ",
+        "type": "noun",
+        "defineEn": "a shop where medicines are sold",
+        "defineVi": "một cửa hàng bán thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "cf4b8e01-03fe-489c-82b1-724dfb9d04fd",
+        "word": "church",
+        "phonetic": "tʃɜːtʃ ",
+        "type": "noun",
+        "defineEn": "a building where Christians go to worship and practice their religion",
+        "defineVi": "một tòa nhà nơi các Kitô hữu đến thờ phượng và thực hành tôn giáo của họ",
+        "hasImg": true
+    },
+    {
+        "id": "cb97d65d-340c-42b5-87cb-02dbc156c605",
+        "word": "department store",
+        "phonetic": "dᵻpɑːɹtmənt stoːɹ ",
+        "type": "noun",
+        "defineEn": "a large store, divided into several parts, each selling different types of goods",
+        "defineVi": "một cửa hàng lớn, được chia thành nhiều phần, mỗi phần bán các loại hàng hóa khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "084882ff-0a59-47d3-909e-6aa162e15cce",
+        "word": "hospital",
+        "phonetic": "hɑːspɪɾəl ",
+        "type": "noun",
+        "defineEn": "a large building where sick or injured people receive medical treatment and care",
+        "defineVi": "một tòa nhà lớn nơi những người bị bệnh hoặc bị thương được điều trị và chăm sóc y tế",
+        "hasImg": true
+    },
+    {
+        "id": "ff4fa601-8b6e-4413-bf06-55067917d61f",
+        "word": "market",
+        "phonetic": "mɑːɹkɪt ",
+        "type": "noun",
+        "defineEn": "a public place where people buy and sell groceries",
+        "defineVi": "một nơi công cộng nơi mọi người mua và bán hàng tạp hóa",
+        "hasImg": true
+    },
+    {
+        "id": "31f696aa-7050-423b-b76b-c4a9a04ae37b",
+        "word": "police station",
+        "phonetic": "pəliːs steɪʃən ",
+        "type": "noun",
+        "defineEn": "the office where a local police works",
+        "defineVi": "văn phòng nơi cảnh sát địa phương làm việc",
+        "hasImg": true
+    },
+    {
+        "id": "14a6969a-e2f6-4018-af75-573ab10a86cf",
+        "word": "shopping centre",
+        "phonetic": "ʃɑːpɪŋ sɛntɚ ",
+        "type": "noun",
+        "defineEn": "a group of shops, restaurants, etc. built together in one area or large building",
+        "defineVi": "một nhóm các cửa hàng, nhà hàng, vv được xây dựng cùng nhau trong một khu vực hoặc tòa nhà lớn",
+        "hasImg": true
+    },
+    {
+        "id": "b31c32b1-069a-4235-af1d-f349e0f99f77",
+        "word": "supermarket",
+        "phonetic": "suːpɚmɑːɹkɪt ",
+        "type": "noun",
+        "defineEn": "a large store that a person can go to and buy food, drinks and other things from",
+        "defineVi": "một cửa hàng lớn mà một người có thể đến và mua thức ăn, đồ uống và những thứ khác từ",
+        "hasImg": true
+    },
+    {
+        "id": "2b58ee69-f30e-4485-9c99-edec5740c091",
+        "word": "town hall",
+        "phonetic": "taʊn hɔːl ",
+        "type": "noun",
+        "defineEn": "a building in which the officials of a town work",
+        "defineVi": "một tòa nhà trong đó các quan chức của một thị trấn làm việc",
+        "hasImg": true
+    },
+    {
+        "id": "ad5fc356-cb0a-446c-8ab9-e1aa18d95979",
+        "word": "museum",
+        "phonetic": "mjuːziəm ",
+        "type": "noun",
+        "defineEn": "a place where important cultural, artistic, historical, or scientific objects are kept and shown to the public",
+        "defineVi": "nơi lưu giữ và trưng bày các vật thể văn hóa, nghệ thuật, lịch sử hoặc khoa học quan trọng cho công chúng",
+        "hasImg": true
+    },
+    {
+        "id": "34bd253e-e2db-41a4-96d1-f93e82cc5ac9",
+        "word": "theater",
+        "phonetic": "θiəɾɚ ",
+        "type": "noun",
+        "defineEn": "a place, usually a building, with a stage where plays and shows are performed",
+        "defineVi": "một nơi, thường là một tòa nhà, với một sân khấu biểu diễn các vở kịch và chương trình",
+        "hasImg": true
+    },
+    {
+        "id": "fab57378-b8f5-449f-81b8-5d7ee85225e7",
+        "word": "zoo",
+        "phonetic": "zuː ",
+        "type": "noun",
+        "defineEn": "a place where many kinds of animals are kept for exhibition, breeding, and protection",
+        "defineVi": "nơi nuôi giữ nhiều loại động vật để trưng bày, nhân giống và bảo vệ",
+        "hasImg": true
+    },
+    {
+        "id": "8a2c02f2-6910-462b-a734-684de52a0921",
+        "word": "river",
+        "phonetic": "ɹɪvɚ ",
+        "type": "noun",
+        "defineEn": "a natural and continuous stream of water flowing in a channel to the sea, a lake, or another river",
+        "defineVi": "một dòng nước tự nhiên và liên tục chảy trong một kênh ra biển, hồ hoặc sông khác",
+        "hasImg": true
+    },
+    {
+        "id": "5bbe9083-621e-4da9-b98c-442fa0929ca6",
+        "word": "road",
+        "phonetic": "ɹoʊd ",
+        "type": "noun",
+        "defineEn": "a hard wide way, open to cars, buses, etc. to travel along",
+        "defineVi": "một con đường rộng lớn, dành cho ô tô, xe buýt, v.v. đi dọc theo",
+        "hasImg": true
+    },
+    {
+        "id": "ca39feed-2751-4c13-8a12-edb96865512b",
+        "word": "bus station",
+        "phonetic": "bʌs steɪʃən ",
+        "type": "noun",
+        "defineEn": "a place where multiple buses begin and end their journeys, particularly a journey between towns or cites",
+        "defineVi": "một nơi mà nhiều xe buýt bắt đầu và kết thúc hành trình của họ, đặc biệt là hành trình giữa các thị trấn hoặc thành phố"
+    },
+    {
+        "id": "197c136f-8899-478b-a2de-83077c7df35d",
+        "word": "car park",
+        "phonetic": "kɑːɹ pɑːɹk ",
+        "type": "noun",
+        "defineEn": "an area where people can leave their cars or other vehicles for a period of time",
+        "defineVi": "một khu vực mà mọi người có thể rời khỏi xe ô tô của họ hoặc các phương tiện khác trong một khoảng thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "a87c7ab4-cfd3-456a-a40f-24c02791da3d",
+        "word": "railway station",
+        "phonetic": "ɹeɪlweɪ steɪʃən ",
+        "type": "noun",
+        "defineEn": "a place designed for goods or passengers to get on or off trains",
+        "defineVi": "một nơi được thiết kế cho hàng hóa hoặc hành khách lên hoặc xuống xe lửa",
+        "hasImg": true
+    }
+]

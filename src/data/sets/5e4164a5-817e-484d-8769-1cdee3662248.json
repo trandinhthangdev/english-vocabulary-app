@@ -1,0 +1,458 @@
+[
+    {
+        "id": "661bf6e5-096f-44b4-87e4-1aa0562b0cab",
+        "word": "refrigerator",
+        "phonetic": "ɹᵻfɹɪdʒɚɹeɪɾɚ ",
+        "type": "noun",
+        "defineEn": "an electrical equipment used to keep food and drinks cool and fresh",
+        "defineVi": "một thiết bị điện được sử dụng để giữ cho thực phẩm và đồ uống mát và tươi",
+        "hasImg": true
+    },
+    {
+        "id": "6c84bdfd-6843-41c6-b2b6-f3293fed52d0",
+        "word": "freezer",
+        "phonetic": "fɹiːzɚ ",
+        "type": "noun",
+        "defineEn": "an electrical container that can store food for a long time at a temperature that is very low",
+        "defineVi": "một thùng chứa điện có thể lưu trữ thực phẩm trong một thời gian dài ở nhiệt độ rất thấp",
+        "hasImg": true
+    },
+    {
+        "id": "d47f4313-1f9b-4762-a2d4-11db078cc6be",
+        "word": "range",
+        "phonetic": "ɹeɪndʒ ",
+        "type": "noun",
+        "defineEn": "a piece of equipment used for cooking or heating food that contains an oven",
+        "defineVi": "một phần của thiết bị được sử dụng để nấu ăn hoặc hâm nóng thức ăn có lò nướng",
+        "hasImg": true
+    },
+    {
+        "id": "f33f6f2f-115f-4351-9d95-6cc2b2dc6c3a",
+        "word": "microwave",
+        "phonetic": "maɪkɹoʊweɪv ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that uses electromagnetic waves to quickly heat or cook food",
+        "defineVi": "một thiết bị nhà bếp sử dụng sóng điện từ để nhanh chóng làm nóng hoặc nấu thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "cf1a5e19-a095-400b-9707-7b8f4561a1b6",
+        "word": "coffee maker",
+        "phonetic": "kɔfi meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a machine used for making coffee",
+        "defineVi": "một máy được sử dụng để pha cà phê",
+        "hasImg": true
+    },
+    {
+        "id": "1335d1fa-3e4f-4eb4-847d-9503ad9f5bc4",
+        "word": "blender",
+        "phonetic": "blɛndɚ ",
+        "type": "noun",
+        "defineEn": "an electrical device used for mixing liquids, soft foods, etc.",
+        "defineVi": "một thiết bị điện được sử dụng để trộn chất lỏng, thức ăn mềm, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "829e77be-c272-4a13-be31-fadf11c621fb",
+        "word": "food processor",
+        "phonetic": "fuːd pɹɑːsɛsɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that can quickly mix, cut, slice, etc. food",
+        "defineVi": "một thiết bị nhà bếp có thể trộn, cắt, thái, v.v. thực phẩm một cách nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "2d4ac7d6-6b9c-4e09-be81-0a85ff650afa",
+        "word": "juicer",
+        "phonetic": "dʒuːsɚ ",
+        "type": "noun",
+        "defineEn": "an electric kitchen tool used for removing the juice of fruits and vegetables",
+        "defineVi": "một công cụ nhà bếp điện được sử dụng để loại bỏ nước trái cây và rau quả",
+        "hasImg": true
+    },
+    {
+        "id": "df362075-72d0-43f6-9b35-a368e627f6be",
+        "word": "slow cooker",
+        "phonetic": "sloʊ kʊkɚ ",
+        "type": "noun",
+        "defineEn": "an electric appliance which is used for cooking meat or vegetables at a low temperature in liquid",
+        "defineVi": "một thiết bị điện được sử dụng để nấu thịt hoặc rau ở nhiệt độ thấp trong chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "bf06a3fa-0292-45f9-ba21-cb09715cb495",
+        "word": "electric kettle",
+        "phonetic": "ᵻlɛktɹɪk kɛɾəl ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for boiling water quickly and efficiently, usually made of metal or plastic and equipped with a heating element, a water-level indicator, and an automatic shut-off feature",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để đun sôi nước một cách nhanh chóng và hiệu quả, thường được làm bằng kim loại hoặc nhựa và được trang bị bộ phận làm nóng, chỉ báo mực nước và tính năng ngắt tự động"
+    },
+    {
+        "id": "fabf15f6-1084-47b1-b1cb-3e42859d0aa0",
+        "word": "stand mixer",
+        "phonetic": "stænd mɪksɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for mixing, kneading, and whisking ingredients, featuring a motorized unit with a rotating attachment and a bowl that sits on a stand",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để trộn, nhào và đánh các nguyên liệu, có một bộ phận có động cơ với một phụ kiện quay và một cái bát đặt trên giá đỡ"
+    },
+    {
+        "id": "ffdca697-2c47-4a88-b846-74cf8168388a",
+        "word": "bread maker",
+        "phonetic": "bɹɛd meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance designed for making bread, featuring a built-in mixing and kneading mechanism, a heating element, and a baking pan",
+        "defineVi": "một thiết bị nhà bếp được thiết kế để làm bánh mì, có cơ chế trộn và nhào tích hợp, bộ phận làm nóng và chảo nướng"
+    },
+    {
+        "id": "bf020a81-13ba-4eee-9d7b-21ce71d44ca8",
+        "word": "rice cooker",
+        "phonetic": "ɹaɪs kʊkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance for automatic rice cooking",
+        "defineVi": "một thiết bị nhà bếp để nấu cơm tự động",
+        "hasImg": true
+    },
+    {
+        "id": "3ba553d2-df04-4529-9c1d-f6e41c2a5579",
+        "word": "fryer",
+        "phonetic": "fɹaɪɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for deep frying food items by immersing them in hot oil or fat",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để chiên các mặt hàng thực phẩm bằng cách ngâm chúng trong dầu nóng hoặc chất béo"
+    },
+    {
+        "id": "b225920d-40ca-4f81-a834-29b712d618b4",
+        "word": "ice maker",
+        "phonetic": "aɪs meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a machine used for producing ice cubes, typically found in refrigerators or as standalone units",
+        "defineVi": "một máy được sử dụng để sản xuất đá viên, thường được tìm thấy trong tủ lạnh hoặc dưới dạng các thiết bị độc lập"
+    },
+    {
+        "id": "8db67577-34c7-4353-93dd-1cd4ef7d373d",
+        "word": "oven",
+        "phonetic": "ʌvən ",
+        "type": "noun",
+        "defineEn": "a box-shaped piece of equipment with a front door that is usually part of a stove, used for baking, cooking, or heating food",
+        "defineVi": "một thiết bị hình hộp có cửa trước thường là một phần của bếp lò, dùng để nướng, nấu hoặc hâm nóng thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "c7acbde5-2ced-4a57-98e4-3046e130341e",
+        "word": "pressure cooker",
+        "phonetic": "pɹɛʃɚ kʊkɚ ",
+        "type": "noun",
+        "defineEn": "a pot that has a tight lid and can quickly cook food using high-pressure steam",
+        "defineVi": "nồi có nắp đậy kín và có thể làm chín thức ăn nhanh chóng bằng hơi nước áp suất cao",
+        "hasImg": true
+    },
+    {
+        "id": "aa02fcce-0c17-4e88-9f7c-ecaae0ed0f9c",
+        "word": "ice cream maker",
+        "phonetic": "aɪs kɹiːm meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a machine used for freezing and mixing ice cream, sorbet, and frozen yogurt, with a motorized unit, a mixing paddle, and a container for the mixture",
+        "defineVi": "máy dùng để đông lạnh và trộn kem, kem kem và sữa chua đông lạnh, có động cơ, cánh trộn và thùng chứa hỗn hợp"
+    },
+    {
+        "id": "e2da915b-650f-433e-bb07-131d70503c9b",
+        "word": "electric grill",
+        "phonetic": "ᵻlɛktɹɪk ɡɹɪl ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for grilling food, typically featuring a heating element that is powered by electricity and can be used indoors or outdoors, with a cooking surface made of metal or ceramic",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để nướng thức ăn, thường có bộ phận làm nóng chạy bằng điện và có thể được sử dụng trong nhà hoặc ngoài trời, với bề mặt nấu bằng kim loại hoặc gốm"
+    },
+    {
+        "id": "a7cd716b-d9f0-49f3-b95a-29c4b01202ab",
+        "word": "air fryer",
+        "phonetic": "ɛɹ fɹaɪɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that uses hot air circulation to cook food quickly and evenly",
+        "defineVi": "một thiết bị nhà bếp sử dụng luồng không khí nóng để nấu thức ăn nhanh và đều",
+        "hasImg": true
+    },
+    {
+        "id": "e44ce764-4ea0-4804-9e64-3a5237e02597",
+        "word": "food dehydrator",
+        "phonetic": "fuːd diːhaɪdɹeɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for drying and preserving food, typically featuring trays or shelves for placing sliced or chopped food",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để sấy khô và bảo quản thực phẩm, thường có khay hoặc kệ để đặt thực phẩm thái lát hoặc cắt nhỏ"
+    },
+    {
+        "id": "f99da759-a7e4-4eb7-b242-bc5d64089b85",
+        "word": "water dispenser",
+        "phonetic": "wɔːɾɚ dɪspɛnsɚ ",
+        "type": "noun",
+        "defineEn": "a device or appliance that provides a convenient source of drinking water",
+        "defineVi": "một thiết bị hoặc thiết bị cung cấp nguồn nước uống thuận tiện",
+        "hasImg": true
+    },
+    {
+        "id": "0d7433ae-3dbd-42be-86bf-c2cb01136182",
+        "word": "meat grinder",
+        "phonetic": "miːt ɡɹaɪndɚ ",
+        "type": "noun",
+        "defineEn": "a machine that cuts meat into very small pieces",
+        "defineVi": "một máy cắt thịt thành những miếng rất nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "255c4597-b626-461f-8e66-4c8f4f5f9f88",
+        "word": "handheld mixer",
+        "phonetic": "hændhɛld mɪksɚ ",
+        "type": "noun",
+        "defineEn": "a portable kitchen appliance used for mixing and blending ingredients, typically featuring a motorized body with a handle, one or two beaters or whisks, and speed controls",
+        "defineVi": "một thiết bị nhà bếp di động được sử dụng để trộn và trộn các nguyên liệu, thường có thân máy có tay cầm, một hoặc hai máy đánh trứng hoặc máy đánh trứng và bộ điều khiển tốc độ"
+    },
+    {
+        "id": "e8fe2ce4-8415-491e-ad09-791a6ebf818b",
+        "word": "espresso machine",
+        "phonetic": "ɛspɹɛsoʊ məʃiːn ",
+        "type": "noun",
+        "defineEn": "a machine that brews coffee by forcing pressurized water near boiling point through a \"puck\" of ground coffee and a filter to produce a thick, concentrated coffee called espresso",
+        "defineVi": "một máy pha cà phê bằng cách buộc nước có áp suất gần điểm sôi chảy qua một \"puck\" cà phê xay và một bộ lọc để tạo ra một loại cà phê đặc, đậm đặc gọi là cà phê espresso",
+        "hasImg": true
+    },
+    {
+        "id": "db7460ea-de72-47c0-b17e-f370c5e45a57",
+        "word": "toaster oven",
+        "phonetic": "toʊstɚɹ ʌvən ",
+        "type": "noun",
+        "defineEn": "an electrical appliance, designed like a small oven that can function as an oven or a toaster",
+        "defineVi": "một thiết bị điện, được thiết kế giống như một lò nướng nhỏ có thể hoạt động như lò nướng hoặc máy nướng bánh mì",
+        "hasImg": true
+    },
+    {
+        "id": "5096af64-770e-4b12-8d11-870a5b7b7770",
+        "word": "blender food processor combo",
+        "phonetic": "blɛndɚ fuːd pɹɑːsɛsɚ kɑːmboʊ ",
+        "type": "noun",
+        "defineEn": "a multifunctional kitchen appliance that combines the functions of both a blender and a food processor in one unit",
+        "defineVi": "một thiết bị nhà bếp đa chức năng kết hợp các chức năng của cả máy xay và máy chế biến thực phẩm trong một thiết bị"
+    },
+    {
+        "id": "5183017f-3db3-44c5-a343-1c6416c336a4",
+        "word": "electric can opener",
+        "phonetic": "ᵻlɛktɹɪk kæn oʊpənɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that automatically opens cans using a motorized blade to cut through the lid, making it a convenient alternative to manual can openers",
+        "defineVi": "một thiết bị nhà bếp tự động mở hộp bằng cách sử dụng lưỡi dao có động cơ để cắt qua nắp, làm cho nó trở thành một sự thay thế thuận tiện cho dụng cụ mở hộp thủ công"
+    },
+    {
+        "id": "6172923b-576c-4a64-abbe-edf86bd95f8d",
+        "word": "waffle maker",
+        "phonetic": "wɑːfəl meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used to cook waffles, consisting of two hinged metal plates with a patterned surface that press batter between them to create a waffle's characteristic shape and texture",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để nấu bánh quế, bao gồm hai tấm kim loại có bản lề với bề mặt có hoa văn để ép bột vào giữa chúng để tạo ra hình dạng và kết cấu đặc trưng của bánh quế"
+    },
+    {
+        "id": "eb302273-8f73-43b3-a01a-e0d9376f3f5b",
+        "word": "popcorn maker",
+        "phonetic": "pɑːpkɔːɹn meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a device that uses hot air or oil to pop kernels of corn into popcorn",
+        "defineVi": "một thiết bị sử dụng không khí nóng hoặc dầu để bật hạt ngô thành bỏng ngô"
+    },
+    {
+        "id": "95aebf1f-8fcd-4651-a807-9ffcdd3885d2",
+        "word": "indoor smoker",
+        "phonetic": "ɪndoːɹ smoʊkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that is used to smoke food, such as meats, fish, and vegetables, using wood chips or other smoking materials",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để hun khói thực phẩm, chẳng hạn như thịt, cá và rau, sử dụng dăm gỗ hoặc các vật liệu hun khói khác"
+    },
+    {
+        "id": "bd56c5fe-4020-4017-a39b-99a6d4409385",
+        "word": "wine cooler",
+        "phonetic": "waɪn kuːlɚ ",
+        "type": "noun",
+        "defineEn": "a refrigeration unit designed specifically to store and chill wine bottles at the optimal temperature",
+        "defineVi": "một bộ phận làm lạnh được thiết kế đặc biệt để lưu trữ và làm lạnh các chai rượu ở nhiệt độ tối ưu"
+    },
+    {
+        "id": "5d86e0f9-6104-4bd3-8f11-f68bf170e82f",
+        "word": "beverage cooler",
+        "phonetic": "bɛvɚɹɪdʒ kuːlɚ ",
+        "type": "noun",
+        "defineEn": "a device used to keep beverages, such as sodas, juices, and energy drinks, at a cool and consistent temperature",
+        "defineVi": "một thiết bị được sử dụng để giữ đồ uống, chẳng hạn như soda, nước trái cây và nước tăng lực, ở nhiệt độ mát mẻ và ổn định"
+    },
+    {
+        "id": "fdeac0b5-6870-4574-a370-d53c57bb76ec",
+        "word": "tea maker",
+        "phonetic": "tiː meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a device that is used to brew tea by steeping tea leaves or tea bags in hot water",
+        "defineVi": "một thiết bị được sử dụng để pha trà bằng cách ngâm lá trà hoặc túi trà trong nước nóng"
+    },
+    {
+        "id": "c4599a63-fabe-46ac-9c48-f8d5333c0381",
+        "word": "range hood",
+        "phonetic": "ɹeɪndʒ hʊd ",
+        "type": "noun",
+        "defineEn": "an electrical device fixed above the stove that can remove smoke, steam, or unpleasant smells in the kitchen",
+        "defineVi": "một thiết bị điện cố định phía trên bếp có thể loại bỏ khói, hơi nước hoặc mùi khó chịu trong nhà bếp",
+        "hasImg": true
+    },
+    {
+        "id": "903f3b0d-68f6-4bfa-a44c-6710e0025aa7",
+        "word": "hot plate",
+        "phonetic": "hɑːt pleɪt ",
+        "type": "noun",
+        "defineEn": "a portable electric appliance used for cooking or heating food and liquids",
+        "defineVi": "một thiết bị điện di động được sử dụng để nấu ăn hoặc hâm nóng thức ăn và chất lỏng",
+        "hasImg": true
+    },
+    {
+        "id": "8c8fcb13-4185-4d5a-8521-0dd3fb33add9",
+        "word": "pasta maker",
+        "phonetic": "pɑːstə meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for making pasta from scratch, typically by rolling and cutting dough to create various types of pasta shapes",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để làm mì ống từ đầu, thường bằng cách cán và cắt bột để tạo ra các loại hình dạng mì ống khác nhau"
+    },
+    {
+        "id": "cf821038-b12c-404c-8c91-b9c212023a62",
+        "word": "egg cooker",
+        "phonetic": "ɛɡ kʊkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance designed to boil or steam eggs to a desired level of doneness",
+        "defineVi": "một thiết bị nhà bếp được thiết kế để luộc hoặc hấp trứng đến độ chín mong muốn"
+    },
+    {
+        "id": "13d01551-907b-4238-8546-0e73ea8f8fd5",
+        "word": "electric knife",
+        "phonetic": "ᵻlɛktɹɪk naɪf ",
+        "type": "noun",
+        "defineEn": "a kitchen tool that uses an electric motor to power two serrated blades that move back and forth to quickly and easily cut through meats, breads, and other foods",
+        "defineVi": "một dụng cụ nhà bếp sử dụng động cơ điện để cung cấp năng lượng cho hai lưỡi dao có răng cưa di chuyển qua lại để cắt thịt, bánh mì và các loại thực phẩm khác một cách nhanh chóng và dễ dàng"
+    },
+    {
+        "id": "a3ff634a-fbdc-436f-a724-1498877d09e7",
+        "word": "broiler",
+        "phonetic": "bɹɔɪlɚ ",
+        "type": "noun",
+        "defineEn": "the part of a stove used for cooking under direct heat",
+        "defineVi": "một phần của bếp được sử dụng để nấu ăn dưới nhiệt trực tiếp",
+        "hasImg": true
+    },
+    {
+        "id": "8d0e53b0-0cf5-47e3-a1d2-e733fe0ca5cf",
+        "word": "sandwich maker",
+        "phonetic": "sændwɪtʃ meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for toasting and grilling sandwiches",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để nướng và nướng bánh mì",
+        "hasImg": true
+    },
+    {
+        "id": "e1ccb606-e2f4-4d96-bcab-296b20f04bec",
+        "word": "convection oven",
+        "phonetic": "kənvɛkʃən ʌvən ",
+        "type": "noun",
+        "defineEn": "an oven in which hot air moves around, using its fan, to heat all sides of the food inside",
+        "defineVi": "một lò trong đó không khí nóng di chuyển xung quanh, sử dụng quạt của nó, để làm nóng tất cả các mặt của thực phẩm bên trong",
+        "hasImg": true
+    },
+    {
+        "id": "dfa2f733-ab08-4e59-abaa-5888eba159f9",
+        "word": "steamer",
+        "phonetic": "stiːmɚ ",
+        "type": "noun",
+        "defineEn": "a container with small holes used for cooking food in steam by putting it over a saucepan of boiling water",
+        "defineVi": "một hộp có lỗ nhỏ được sử dụng để nấu thức ăn bằng hơi nước bằng cách đặt nó trên một nồi nước sôi",
+        "hasImg": true
+    },
+    {
+        "id": "3ac9042d-b964-43ac-820d-75b3d7ebba95",
+        "word": "toaster",
+        "phonetic": "toʊstɚ ",
+        "type": "noun",
+        "defineEn": "an electronic device used in the kitchen to make toast",
+        "defineVi": "một thiết bị điện tử được sử dụng trong nhà bếp để làm bánh mì nướng",
+        "hasImg": true
+    },
+    {
+        "id": "9c0eb73d-e56e-49cd-bc69-ae3ff76dcc50",
+        "word": "grinder",
+        "phonetic": "ɡɹaɪndɚ ",
+        "type": "noun",
+        "defineEn": "a machine used for crushing or breaking food such as pepper, coffee, etc. into powder or very small pieces",
+        "defineVi": "máy dùng để nghiền hoặc nghiền thực phẩm như hạt tiêu, cà phê, v.v... thành bột hoặc mảnh rất nhỏ",
+        "hasImg": true
+    },
+    {
+        "id": "8dd2bddd-4cda-4cd1-ac6a-65453ead6b52",
+        "word": "electric mixer",
+        "phonetic": "ᵻlɛktɹɪk mɪksɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance that is used for mixing, beating, and whisking ingredients in food preparation",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để trộn, đánh và đánh các thành phần trong chế biến thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "91a9be80-f477-4e8b-91b4-2df81b41fc06",
+        "word": "meat slicer",
+        "phonetic": "miːt slaɪsɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used for slicing meat or other foods into thin, even slices.",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để cắt thịt hoặc các thực phẩm khác thành những lát mỏng, đều.",
+        "hasImg": true
+    },
+    {
+        "id": "daa0d886-6d65-41f1-8996-20b9eed4dd39",
+        "word": "burr mill",
+        "phonetic": "bɜː mɪl ",
+        "type": "noun",
+        "defineEn": "a type of coffee grinder that uses burrs to crush coffee beans into consistent particle sizes for brewing",
+        "defineVi": "một loại máy xay cà phê sử dụng các gờ để nghiền hạt cà phê thành các hạt có kích thước phù hợp để pha cà phê",
+        "hasImg": true
+    },
+    {
+        "id": "a5f14577-fada-4a4e-a4d7-401d9696ea29",
+        "word": "Remoska",
+        "phonetic": "ɹᵻmɑːskə ",
+        "type": "noun",
+        "defineEn": "an electric table-top cooker that uses radiant heat from the lid and sides to cook food",
+        "defineVi": "nồi điện để bàn sử dụng nhiệt bức xạ từ nắp và các mặt để nấu thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "23479190-b8d1-40e6-a578-34a939c60fee",
+        "word": "deep-fat fryer",
+        "phonetic": "diːpfæt fɹaɪɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used to heat and fry foods in hot oil, often used for making fried foods such as French fries, chicken, and fish",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để hâm nóng và chiên thức ăn trong dầu nóng, thường được sử dụng để chế biến các món chiên như khoai tây chiên, gà và cá",
+        "hasImg": true
+    },
+    {
+        "id": "8d3924f6-e061-4614-a25d-fd664468647d",
+        "word": "smoothie maker",
+        "phonetic": "smuːði meɪkɚ ",
+        "type": "noun",
+        "defineEn": "a kitchen appliance used to blend fruits, vegetables, and other ingredients into smoothies",
+        "defineVi": "một thiết bị nhà bếp được sử dụng để trộn trái cây, rau và các thành phần khác thành sinh tố"
+    },
+    {
+        "id": "a5b4bb01-af62-4ba9-a8db-df368e8b9ecf",
+        "word": "dishwasher",
+        "phonetic": "dɪʃwɑːʃɚ ",
+        "type": "noun",
+        "defineEn": "an electric machine that is used to clean dishes, spoons, cups, etc.",
+        "defineVi": "một máy điện được sử dụng để làm sạch bát đĩa, thìa, cốc, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "1ec8e72b-92e0-4ead-a3a6-90ab0e3f85e6",
+        "word": "mill",
+        "phonetic": "mɪl ",
+        "type": "noun",
+        "defineEn": "a special grinding machine that crushes grain into flour",
+        "defineVi": "một máy nghiền đặc biệt nghiền ngũ cốc thành bột",
+        "hasImg": true
+    }
+]

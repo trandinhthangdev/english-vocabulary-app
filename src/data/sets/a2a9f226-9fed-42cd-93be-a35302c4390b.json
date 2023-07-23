@@ -1,0 +1,488 @@
+[
+    {
+        "id": "b8969e12-6749-43b4-b26a-cb3a8486e2e8",
+        "word": "to discuss",
+        "phonetic": "tə dɪskʌs ",
+        "type": "verb",
+        "defineEn": "to talk or have a discussion about something with someone",
+        "defineVi": "để nói chuyện hoặc có một cuộc thảo luận về một cái gì đó với một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "4708b01c-a039-416c-8170-2c6e81cad31a",
+        "word": "ingredient",
+        "phonetic": "ɪŋɡɹiːdiənt ",
+        "type": "noun",
+        "defineEn": "any of the constituents that are added to a compound or mixture in order to make it, such as the foods in a meal",
+        "defineVi": "bất kỳ thành phần nào được thêm vào một hợp chất hoặc hỗn hợp để tạo ra nó, chẳng hạn như các loại thực phẩm trong bữa ăn",
+        "hasImg": true
+    },
+    {
+        "id": "a5df0e2d-e090-4c5a-85bc-e69cd090df96",
+        "word": "recipe",
+        "phonetic": "ɹɛsᵻpiː ",
+        "type": "noun",
+        "defineEn": "the instructions on how to cook a certain food",
+        "defineVi": "hướng dẫn cách nấu một món ăn nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "e08b5c34-b609-4080-a310-eddae6652dd2",
+        "word": "food",
+        "phonetic": "fuːd ",
+        "type": "noun",
+        "defineEn": "things that people and animals eat, such as meat or vegetables",
+        "defineVi": "những thứ mà con người và động vật ăn, chẳng hạn như thịt hoặc rau",
+        "hasImg": true
+    },
+    {
+        "id": "6ec69366-8ac9-4d30-b867-ba4499087bb2",
+        "word": "egg",
+        "phonetic": "ɛɡ ",
+        "type": "noun",
+        "defineEn": "an oval or round thing that is produced by a chicken and can be used for food",
+        "defineVi": "một thứ hình bầu dục hoặc tròn được sản xuất bởi một con gà và có thể được sử dụng cho thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "2a6beecd-b84b-4a26-b65f-28703fac5854",
+        "word": "onion",
+        "phonetic": "ʌniən ",
+        "type": "noun",
+        "defineEn": "a round yellow, white, or red vegetable with many layers and a smell and taste that is strong",
+        "defineVi": "một loại rau tròn màu vàng, trắng hoặc đỏ với nhiều lớp, có mùi và vị đậm đà",
+        "hasImg": true
+    },
+    {
+        "id": "712ee76b-91ba-4ccd-92da-07ed2d0ab70b",
+        "word": "apple",
+        "phonetic": "æpəl ",
+        "type": "noun",
+        "defineEn": "a fruit that is round and has thin yellow, red, or green skin",
+        "defineVi": "một quả tròn và có vỏ mỏng màu vàng, đỏ hoặc xanh",
+        "hasImg": true
+    },
+    {
+        "id": "138ae3f7-918f-44de-a751-297fa67a22de",
+        "word": "orange",
+        "phonetic": "ɔɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a fruit that is juicy and round and has thick skin",
+        "defineVi": "một loại trái cây ngon ngọt và tròn và có da dày",
+        "hasImg": true
+    },
+    {
+        "id": "9ef5fca9-c940-45b9-ac59-70e8aeef8b93",
+        "word": "lemon",
+        "phonetic": "lɛmən ",
+        "type": "noun",
+        "defineEn": "a sour fruit that is juicy and round and has thick yellow skin",
+        "defineVi": "một loại trái cây chua mọng nước và tròn và có vỏ dày màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "f4fe3f2c-bc23-4810-9c77-b46cceb36c6d",
+        "word": "banana",
+        "phonetic": "bɐnænə ",
+        "type": "noun",
+        "defineEn": "a soft fruit that is long and curved and has hard yellow skin",
+        "defineVi": "một quả mềm dài và cong và có vỏ cứng màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "89491c7f-74f2-4e4c-842b-872384fa59a8",
+        "word": "tomato",
+        "phonetic": "təmeɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a soft and round fruit that is red and is used a lot in salads and many other foods",
+        "defineVi": "một loại trái cây mềm và tròn có màu đỏ và được sử dụng nhiều trong món salad và nhiều món ăn khác",
+        "hasImg": true
+    },
+    {
+        "id": "d60c4120-785c-4996-87a5-65cf97b02eff",
+        "word": "potato",
+        "phonetic": "pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+        "defineVi": "một loại rau tròn mọc dưới đất, có vỏ màu nâu nhạt và được dùng nấu chín hoặc chiên",
+        "hasImg": true
+    },
+    {
+        "id": "99b908e0-dc08-472f-9eb2-9e6f026978bc",
+        "word": "pepper",
+        "phonetic": "pɛpɚ ",
+        "type": "noun",
+        "defineEn": "a hollow fruit, typically red, green or yellow, eaten as a vegetable either raw or cooked with other food",
+        "defineVi": "một loại trái cây rỗng, thường có màu đỏ, xanh lá cây hoặc vàng, được ăn như một loại rau sống hoặc nấu chín với thực phẩm khác",
+        "hasImg": true
+    },
+    {
+        "id": "7829bf64-20d9-46be-b5ef-74bbae35cab5",
+        "word": "bean",
+        "phonetic": "biːn ",
+        "type": "noun",
+        "defineEn": "a seed growing in long pods on a climbing plant, eaten as a vegetable",
+        "defineVi": "một hạt mọc trong vỏ dài trên cây leo, ăn như một loại rau",
+        "hasImg": true
+    },
+    {
+        "id": "3646dac5-1c80-45df-8399-168daf57b67c",
+        "word": "pea",
+        "phonetic": "piː ",
+        "type": "noun",
+        "defineEn": "a green seed, eaten as a vegetable",
+        "defineVi": "một hạt màu xanh lá cây, ăn như một loại rau",
+        "hasImg": true
+    },
+    {
+        "id": "37a597fd-842e-469e-847e-b868e299a36c",
+        "word": "vegetable",
+        "phonetic": "vɛdʒɪɾəbəl ",
+        "type": "noun",
+        "defineEn": "a plant or a part of it that we can eat either raw or cooked",
+        "defineVi": "một loại cây hoặc một phần của nó mà chúng ta có thể ăn sống hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "35bfccd5-0a83-4a45-b411-6854d0b47863",
+        "word": "carrot",
+        "phonetic": "kæɹət ",
+        "type": "noun",
+        "defineEn": "a long orange vegetable that grows beneath the ground and is eaten cooked or raw",
+        "defineVi": "một loại rau màu cam dài mọc dưới đất và được ăn chín hoặc sống",
+        "hasImg": true
+    },
+    {
+        "id": "2862cba8-babb-4139-a854-642c5a08fd08",
+        "word": "cabbage",
+        "phonetic": "kæbɪdʒ ",
+        "type": "noun",
+        "defineEn": "a large round vegetable with thick white, green or purple leaves, eaten raw or cooked",
+        "defineVi": "một loại rau tròn lớn có lá dày màu trắng, xanh hoặc tím, ăn sống hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "4fe34bcf-0737-4e6d-b083-0a23ba14cfa2",
+        "word": "broccoli",
+        "phonetic": "bɹɑːkəli ",
+        "type": "noun",
+        "defineEn": "a vegetable from the cabbage family with a thick stem and many green or purplish flower buds",
+        "defineVi": "một loại rau thuộc họ bắp cải có thân dày và nhiều nụ hoa màu xanh lục hoặc tía",
+        "hasImg": true
+    },
+    {
+        "id": "3830928f-30f8-4023-8532-0d6c5c680717",
+        "word": "cauliflower",
+        "phonetic": "kɑːlɪflaʊɚ ",
+        "type": "noun",
+        "defineEn": "the flower head of a plant from the cabbage family that is white in color and is eaten as a vegetable",
+        "defineVi": "đầu hoa của một loại cây thuộc họ bắp cải có màu trắng và được ăn như một loại rau",
+        "hasImg": true
+    },
+    {
+        "id": "07b8edf6-56fb-4c34-9271-134175ca84c5",
+        "word": "leek",
+        "phonetic": "liːk ",
+        "type": "noun",
+        "defineEn": "a plant of the onion family with layers of green leaves and a white stem, used in cooking",
+        "defineVi": "một loại cây thuộc họ hành có nhiều lớp lá xanh và thân màu trắng, dùng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "e3ba1923-cd7c-4f84-b12d-ed1349db5b98",
+        "word": "cucumber",
+        "phonetic": "kjuːkʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a long fruit that has thin green skin and is used a lot in salads",
+        "defineVi": "một loại trái cây dài có vỏ màu xanh mỏng và được sử dụng nhiều trong món salad",
+        "hasImg": true
+    },
+    {
+        "id": "74b7ec3a-eb78-40e2-a7c2-3ab25accf9dd",
+        "word": "Brussels sprout",
+        "phonetic": "bɹʌsəlz spɹaʊt ",
+        "type": "noun",
+        "defineEn": "a small round green vegetable from the cabbage family, used in cooking",
+        "defineVi": "một loại rau xanh tròn nhỏ thuộc họ cải bắp, được sử dụng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "28c8e536-d142-4e69-ab55-3ae109c11f73",
+        "word": "corn",
+        "phonetic": "kɔːɹn ",
+        "type": "noun",
+        "defineEn": "a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food",
+        "defineVi": "một loại cây cao với những hạt lớn màu vàng mọc cùng nhau trên một lõi ngô, được nấu chín và ăn như một loại thực vật hoặc thức ăn cho động vật",
+        "hasImg": true
+    },
+    {
+        "id": "f136ff2e-b682-4e60-8986-be5fbdb16645",
+        "word": "lettuce",
+        "phonetic": "lɛɾɪs ",
+        "type": "noun",
+        "defineEn": "a type of vegetable with large green leaves, eaten raw in a salad",
+        "defineVi": "một loại rau có lá lớn màu xanh, ăn sống trong món salad",
+        "hasImg": true
+    },
+    {
+        "id": "3dc82c28-c273-4816-ae0c-71edccfd353d",
+        "word": "asparagus",
+        "phonetic": "ɐspæɹəɡəs ",
+        "type": "noun",
+        "defineEn": "a long green vegetable with edible stems, used in cooking or eaten raw",
+        "defineVi": "một loại rau xanh dài có thân ăn được, dùng để nấu ăn hoặc ăn sống",
+        "hasImg": true
+    },
+    {
+        "id": "8436a7dc-8637-4aa7-8391-149e29864a0d",
+        "word": "eggplant",
+        "phonetic": "ɛɡplənt ",
+        "type": "noun",
+        "defineEn": "a vegetable with dark purple skin, which is eaten cooked",
+        "defineVi": "một loại rau có vỏ màu tím sẫm, được ăn chín",
+        "hasImg": true
+    },
+    {
+        "id": "656a4e3a-b2a3-4045-bd7c-c7524d9decca",
+        "word": "celery",
+        "phonetic": "sɛlɚɹi ",
+        "type": "noun",
+        "defineEn": "a green vegetable with long stalks that could be eaten",
+        "defineVi": "một loại rau xanh có cuống dài có thể ăn được",
+        "hasImg": true
+    },
+    {
+        "id": "ce30eaf1-ae8b-4dab-9e95-c323fda7389e",
+        "word": "garlic",
+        "phonetic": "ɡɑːɹlɪk ",
+        "type": "noun",
+        "defineEn": "a type of vegetable having a strong smell and hot flavor that is used in cooking",
+        "defineVi": "một loại rau có mùi mạnh và hương vị nóng được sử dụng trong nấu ăn",
+        "hasImg": true
+    },
+    {
+        "id": "4e81b86d-8b3c-4d1b-aaa6-84a5440d1401",
+        "word": "tangerine",
+        "phonetic": "tændʒɚɹiːn ",
+        "type": "noun",
+        "defineEn": "a small orange fruit with loose skin and juicy flesh",
+        "defineVi": "một quả cam nhỏ với da lỏng lẻo và thịt mọng nước",
+        "hasImg": true
+    },
+    {
+        "id": "2644110e-ce1e-4992-a1ad-4906abe0383c",
+        "word": "grapefruit",
+        "phonetic": "ɡɹeɪpfɹuːt ",
+        "type": "noun",
+        "defineEn": "a round, citrusy fruit with yellow-orange skin, like a large orange",
+        "defineVi": "một loại trái cây tròn, có múi với vỏ màu vàng cam, giống như một quả cam lớn",
+        "hasImg": true
+    },
+    {
+        "id": "983189e7-83de-45d8-8488-fb7fd868ca5d",
+        "word": "lime",
+        "phonetic": "laɪm ",
+        "type": "noun",
+        "defineEn": "a round green fruit with a sour taste",
+        "defineVi": "một quả tròn màu xanh có vị chua",
+        "hasImg": true
+    },
+    {
+        "id": "2b56bd0c-38f0-47bb-b055-fd7f57186d12",
+        "word": "grape",
+        "phonetic": "ɡɹeɪp ",
+        "type": "noun",
+        "defineEn": "a purple or green fruit that is round, small, and grows in bunches on a vine",
+        "defineVi": "một loại quả màu tím hoặc xanh, tròn, nhỏ và mọc thành chùm trên cây nho",
+        "hasImg": true
+    },
+    {
+        "id": "e126a5f6-dc68-4c71-9e84-db9c9fc162ff",
+        "word": "pineapple",
+        "phonetic": "paɪnæpəl ",
+        "type": "noun",
+        "defineEn": "a sweet large and tropical fruit that has brown skin, pointy leaves, and yellow flesh which is very juicy",
+        "defineVi": "một loại trái cây nhiệt đới lớn ngọt ngào có vỏ màu nâu, lá nhọn và thịt màu vàng rất mọng nước",
+        "hasImg": true
+    },
+    {
+        "id": "383de07a-8b20-4b4d-8ff0-4d189df9cce1",
+        "word": "pear",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a sweet yellow or green bell-shaped fruit with a lot of juice",
+        "defineVi": "một loại trái cây hình chuông màu vàng hoặc xanh ngọt với rất nhiều nước",
+        "hasImg": true
+    },
+    {
+        "id": "a8d60af1-e94a-47f6-be7f-9fe19248c0b3",
+        "word": "strawberry",
+        "phonetic": "stɹɔːbɛɹi ",
+        "type": "noun",
+        "defineEn": "a soft, red juicy fruit with small seeds on its surface",
+        "defineVi": "một loại trái cây mềm, mọng nước màu đỏ với những hạt nhỏ trên bề mặt của nó",
+        "hasImg": true
+    },
+    {
+        "id": "9d255274-362e-4d56-8683-da8c981ee2e9",
+        "word": "apricot",
+        "phonetic": "eɪpɹɪkɑːt ",
+        "type": "noun",
+        "defineEn": "a small yellow or orange fruit with juicy flesh and a large pit",
+        "defineVi": "một quả nhỏ màu vàng hoặc cam với thịt mọng nước và một cái hố lớn",
+        "hasImg": true
+    },
+    {
+        "id": "f9af57ff-82ad-45a2-989c-de78c932f449",
+        "word": "peach",
+        "phonetic": "piːtʃ ",
+        "type": "noun",
+        "defineEn": "a soft and juicy fruit that has a stone in the middle and its skin has extremely little hairs on it",
+        "defineVi": "một loại trái cây mềm và ngon ngọt có một viên đá ở giữa và da của nó có rất ít lông trên đó",
+        "hasImg": true
+    },
+    {
+        "id": "c1015eb3-9a14-4aea-bee3-d401a0446473",
+        "word": "raspberry",
+        "phonetic": "ɹæsbɛɹi ",
+        "type": "noun",
+        "defineEn": "an edible soft berry that is red or black in color and grows on bushes",
+        "defineVi": "một quả mọng mềm ăn được có màu đỏ hoặc đen và mọc trên bụi cây",
+        "hasImg": true
+    },
+    {
+        "id": "64c49afd-a32b-4e83-86a5-e1becadaf305",
+        "word": "honeydew melon",
+        "phonetic": "hʌnɪduː mɛlən ",
+        "type": "noun",
+        "defineEn": "a type of sweet melon with a smooth, pale green rind and sweet, juicy flesh that is typically light green in color",
+        "defineVi": "một loại dưa ngọt có vỏ nhẵn, màu xanh nhạt và thịt ngọt, mọng nước, thường có màu xanh nhạt",
+        "hasImg": true
+    },
+    {
+        "id": "ef76656a-2c65-4202-94eb-b6da40d53672",
+        "word": "avocado",
+        "phonetic": "ævəkɑːdoʊ ",
+        "type": "noun",
+        "defineEn": "a bell-shaped tropical fruit with bright green flesh, dark skin and a big stony seed",
+        "defineVi": "một loại trái cây nhiệt đới hình chuông với thịt màu xanh tươi, vỏ sẫm màu và một hạt đá lớn",
+        "hasImg": true
+    },
+    {
+        "id": "556fed94-cbd0-4af2-b345-07b92da0c031",
+        "word": "papaya",
+        "phonetic": "pɐpaɪə ",
+        "type": "noun",
+        "defineEn": "an oval tropical fruit with an orange-yellow flesh containing black seeds",
+        "defineVi": "một loại trái cây nhiệt đới hình bầu dục có thịt màu vàng cam chứa hạt đen",
+        "hasImg": true
+    },
+    {
+        "id": "3874e2c5-72db-4d1b-a86f-8e98456c44f3",
+        "word": "mango",
+        "phonetic": "mæŋɡoʊ ",
+        "type": "noun",
+        "defineEn": "a sweet yellow fruit with a thin skin that grows in hot areas",
+        "defineVi": "một loại trái cây màu vàng ngọt với vỏ mỏng mọc ở vùng nóng",
+        "hasImg": true
+    },
+    {
+        "id": "e37028e6-9536-48ca-aae6-6156d0d2db7b",
+        "word": "kiwi",
+        "phonetic": "kiːwiː ",
+        "type": "noun",
+        "defineEn": "an oval fruit with hairy brown skin and green flesh",
+        "defineVi": "một quả hình bầu dục với vỏ màu nâu có lông và thịt màu xanh lá cây",
+        "hasImg": true
+    },
+    {
+        "id": "26bf6f5b-502a-4b86-8aa6-14d60f3a6c37",
+        "word": "watermelon",
+        "phonetic": "wɔːɾɚmɛlən ",
+        "type": "noun",
+        "defineEn": "a large, round, and juicy fruit that is red on the inside and has green stripes on its hard and thick skin",
+        "defineVi": "một loại trái cây to, tròn và mọng nước, bên trong có màu đỏ và có sọc xanh trên lớp vỏ cứng và dày",
+        "hasImg": true
+    },
+    {
+        "id": "d2e0492e-df8f-4958-af00-2afdd2e4f5b1",
+        "word": "raisin",
+        "phonetic": "ɹeɪzən ",
+        "type": "noun",
+        "defineEn": "a grape that is dried, used in making cakes, cookies, etc.",
+        "defineVi": "một loại nho được sấy khô, được sử dụng để làm bánh, bánh quy, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8c4478f7-dece-4a09-90c4-ca08088de185",
+        "word": "fig",
+        "phonetic": "fɪɡ ",
+        "type": "noun",
+        "defineEn": "a small soft fruit, containing many small seeds, with green or purple skin and is eaten dried or fresh",
+        "defineVi": "một loại trái cây nhỏ mềm, chứa nhiều hạt nhỏ, có vỏ màu xanh lục hoặc tím và được ăn khô hoặc tươi",
+        "hasImg": true
+    },
+    {
+        "id": "64a475ed-925c-4c0d-bba0-c5077b8eb8ef",
+        "word": "prune",
+        "phonetic": "pɹuːn ",
+        "type": "noun",
+        "defineEn": "a dried plum rich in carbohydrates and fiber, usually consumed after eating",
+        "defineVi": "một quả mận khô giàu carbohydrate và chất xơ, thường được tiêu thụ sau khi ăn",
+        "hasImg": true
+    },
+    {
+        "id": "52e612f3-6013-4c28-8a98-c708920999cd",
+        "word": "date",
+        "phonetic": "deɪt ",
+        "type": "noun",
+        "defineEn": "a small brown fruit with a sweet taste and a hard seed",
+        "defineVi": "một quả nhỏ màu nâu có vị ngọt và hạt cứng",
+        "hasImg": true
+    },
+    {
+        "id": "0e2bdafd-aeec-489e-bcd8-5838c44a9999",
+        "word": "to keep",
+        "phonetic": "tə kiːp ",
+        "type": "verb",
+        "defineEn": "to have or store something in a specific place",
+        "defineVi": "để có hoặc lưu trữ một cái gì đó ở một nơi cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "425e0640-8b9e-4ddc-b94e-9fa31cc5e739",
+        "word": "kitchen",
+        "phonetic": "kɪtʃən ",
+        "type": "noun",
+        "defineEn": "the place in a building or home where we make food",
+        "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "a6978ee1-720f-4c57-a76c-59b6cb89343b",
+        "word": "fridge",
+        "phonetic": "fɹɪdʒ ",
+        "type": "noun",
+        "defineEn": "a container, usually put in a kitchen, that uses electricity to keep food cool and fresh",
+        "defineVi": "một thùng chứa, thường được đặt trong nhà bếp, sử dụng điện để giữ cho thực phẩm tươi và mát",
+        "hasImg": true
+    },
+    {
+        "id": "ad6b86ca-9bbf-4811-a397-b801b6f32f8c",
+        "word": "refrigerator",
+        "phonetic": "ɹᵻfɹɪdʒɚɹeɪɾɚ ",
+        "type": "noun",
+        "defineEn": "an electrical equipment used to keep food and drinks cool and fresh",
+        "defineVi": "một thiết bị điện được sử dụng để giữ cho thực phẩm và đồ uống mát và tươi",
+        "hasImg": true
+    },
+    {
+        "id": "6b5233d2-4e2f-4a88-bbda-47bfe2e5132f",
+        "word": "shelf",
+        "phonetic": "ʃɛlf ",
+        "type": "noun",
+        "defineEn": "a flat, narrow board made of wood, metal, etc. attached to a wall, to put items on",
+        "defineVi": "một tấm ván phẳng, hẹp làm bằng gỗ, kim loại, v.v. gắn vào tường, để đặt các vật dụng lên",
+        "hasImg": true
+    }
+]

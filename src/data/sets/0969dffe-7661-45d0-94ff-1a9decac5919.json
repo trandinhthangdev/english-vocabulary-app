@@ -1,0 +1,316 @@
+[
+    {
+        "id": "81cc157e-d562-4972-a60e-2e8f80d4a1e3",
+        "word": "world",
+        "phonetic": "wɜːld ",
+        "type": "noun",
+        "defineEn": "the planet Earth, where we all live",
+        "defineVi": "hành tinh Trái đất, nơi tất cả chúng ta sống",
+        "hasImg": true
+    },
+    {
+        "id": "ea557248-b69e-4cb4-a9c3-447ddaa63426",
+        "word": "environment",
+        "phonetic": "ɛnvaɪɹənmənt ",
+        "type": "noun",
+        "defineEn": "the natural world around us where people, animals, and plants live",
+        "defineVi": "thế giới tự nhiên xung quanh chúng ta, nơi con người, động vật và thực vật sinh sống",
+        "hasImg": true
+    },
+    {
+        "id": "5ab5f476-3943-4aea-9505-b8f050d4da73",
+        "word": "plant",
+        "phonetic": "plænt ",
+        "type": "noun",
+        "defineEn": "a living thing that grows in ground or water; usually having leaves, stems, flowers, etc.",
+        "defineVi": "một sinh vật mọc trong đất hoặc nước; thường có lá, thân, hoa, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "d3d7ea39-8179-48fd-b9b7-b9bbae0d038b",
+        "word": "ground",
+        "phonetic": "ɡɹaʊnd ",
+        "type": "noun",
+        "defineEn": "the surface layer of Earth that is solid and people walk on",
+        "defineVi": "lớp bề mặt của Trái đất rắn chắc và mọi người đi bộ trên",
+        "hasImg": true
+    },
+    {
+        "id": "923f0996-a526-4d20-8a2d-f44eafe5ac8b",
+        "word": "field",
+        "phonetic": "fiːld ",
+        "type": "noun",
+        "defineEn": "a piece of land in the country, especially one where crops are grown or animals are kept, typically surrounded by a fence, etc.",
+        "defineVi": "một mảnh đất trong nước, đặc biệt là nơi trồng trọt hoặc chăn nuôi, thường được bao quanh bởi một hàng rào, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f5e92f18-7e14-4ca8-9aa9-d6e6c48b514e",
+        "word": "landscape",
+        "phonetic": "lændskeɪp ",
+        "type": "noun",
+        "defineEn": "a beautiful scene in the countryside that can be seen in one particular view",
+        "defineVi": "một cảnh đẹp ở vùng nông thôn có thể được nhìn thấy trong một góc nhìn cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "9071ae3b-d42d-4ccc-b93e-987cf1fb2c8f",
+        "word": "view",
+        "phonetic": "vjuː ",
+        "type": "noun",
+        "defineEn": "a place or an area that can be seen, and is usually beautiful",
+        "defineVi": "một nơi hoặc một khu vực có thể được nhìn thấy, và thường là đẹp",
+        "hasImg": true
+    },
+    {
+        "id": "c2dbaf2d-8296-4813-9fa5-b887f825d1db",
+        "word": "grass",
+        "phonetic": "ɡɹæs ",
+        "type": "noun",
+        "defineEn": "a plant with thin, short, and green upright leaves, commonly found in gardens, parks, etc.",
+        "defineVi": "một loại cây có lá thẳng đứng mỏng, ngắn và xanh, thường thấy trong vườn, công viên, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "a6181440-525b-4f13-bbba-d86f0104e688",
+        "word": "coast",
+        "phonetic": "koʊst ",
+        "type": "noun",
+        "defineEn": "the land near or next to a sea or ocean",
+        "defineVi": "vùng đất gần hoặc bên cạnh biển hoặc đại dương",
+        "hasImg": true
+    },
+    {
+        "id": "47146071-1c7a-4efb-8875-bdced04c172c",
+        "word": "hill",
+        "phonetic": "hɪl ",
+        "type": "noun",
+        "defineEn": "a naturally raised area of land that is higher than the land around it, but smaller than a mountain",
+        "defineVi": "một vùng đất được nâng lên tự nhiên cao hơn vùng đất xung quanh nó, nhưng nhỏ hơn một ngọn núi",
+        "hasImg": true
+    },
+    {
+        "id": "a2cdfd56-5819-4965-b018-6eaccdd309d0",
+        "word": "rock",
+        "phonetic": "ɹɑːk ",
+        "type": "noun",
+        "defineEn": "a piece of rock, standing or projecting above the earth's surface or in the sea",
+        "defineVi": "một mảnh đá, đứng hoặc nhô lên trên bề mặt trái đất hoặc trên biển",
+        "hasImg": true
+    },
+    {
+        "id": "e43ae786-842a-466e-9f09-1f7ca0b7ed72",
+        "word": "valley",
+        "phonetic": "væli ",
+        "type": "noun",
+        "defineEn": "a low area of land between mountains or hills, often with a river flowing through it",
+        "defineVi": "một vùng đất thấp giữa núi hoặc đồi, thường có một dòng sông chảy qua nó",
+        "hasImg": true
+    },
+    {
+        "id": "7eff8fd8-9e62-41c7-9e55-d03fb44a14a2",
+        "word": "lake",
+        "phonetic": "leɪk ",
+        "type": "noun",
+        "defineEn": "a large area of water, surrounded by land",
+        "defineVi": "một khu vực rộng lớn của nước, bao quanh bởi đất",
+        "hasImg": true
+    },
+    {
+        "id": "34ca0309-2c7a-4cee-80e2-ce8788f99111",
+        "word": "the ocean",
+        "phonetic": "ðɪ oʊʃən ",
+        "type": "noun",
+        "defineEn": "the great mass of salt water that covers most of the Earth’s surface",
+        "defineVi": "khối lượng lớn nước muối bao phủ hầu hết bề mặt Trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "b7df85dc-9a07-4278-be81-44ad5b9e925c",
+        "word": "rainforest",
+        "phonetic": "ɹeɪnfɔːɹɪst ",
+        "type": "noun",
+        "defineEn": "‌a thick, tropical forest with tall trees and consistently heavy rainfall",
+        "defineVi": "‌một khu rừng nhiệt đới rậm rạp với những cây cao và lượng mưa lớn liên tục",
+        "hasImg": true
+    },
+    {
+        "id": "e21d1270-f458-488a-b104-61da8d48d2dd",
+        "word": "wood",
+        "phonetic": "wʊd ",
+        "type": "noun",
+        "defineEn": "the hard material that the trunk and branches of a tree or shrub are made of, used for fuel or timber",
+        "defineVi": "vật liệu cứng mà thân và cành của cây hoặc bụi cây được làm bằng, được sử dụng làm nhiên liệu hoặc gỗ",
+        "hasImg": true
+    },
+    {
+        "id": "9023c60e-2216-49ae-aa67-463cb1902e01",
+        "word": "area",
+        "phonetic": "ɛɹiə ",
+        "type": "noun",
+        "defineEn": "a particular part or region of a city, country, or the world",
+        "defineVi": "một phần hoặc khu vực cụ thể của một thành phố, quốc gia hoặc thế giới",
+        "hasImg": true
+    },
+    {
+        "id": "29455fe1-8271-422a-bff6-ff950ec1eddc",
+        "word": "path",
+        "phonetic": "pæθ ",
+        "type": "noun",
+        "defineEn": "a way or track that is built or is made by people walking over the same ground",
+        "defineVi": "một con đường hoặc con đường được xây dựng hoặc được thực hiện bởi những người đi bộ trên cùng một mặt đất",
+        "hasImg": true
+    },
+    {
+        "id": "727538ed-f2d9-4444-9dad-44d317202333",
+        "word": "natural",
+        "phonetic": "nætʃɚɹəl ",
+        "type": "adjective",
+        "defineEn": "found in, coming from or agreeing with nature",
+        "defineVi": "tìm thấy trong, đến từ hoặc phù hợp với tự nhiên",
+        "hasImg": true
+    },
+    {
+        "id": "525e57bd-f51c-457c-8615-81fe7b199e03",
+        "word": "disaster",
+        "phonetic": "dɪzæstɚ ",
+        "type": "noun",
+        "defineEn": "a sudden and unfortunate event that causes a great amount of damage, death and destruction",
+        "defineVi": "một sự kiện bất ngờ và không may gây ra một lượng lớn thiệt hại, cái chết và sự hủy diệt",
+        "hasImg": true
+    },
+    {
+        "id": "92a48679-435e-4d7f-85dd-813d9fb60b45",
+        "word": "flood",
+        "phonetic": "flʌd ",
+        "type": "noun",
+        "defineEn": "the rising of a body of water taking dry places and causing damages",
+        "defineVi": "sự dâng lên của một vùng nước chiếm những nơi khô ráo và gây ra thiệt hại",
+        "hasImg": true
+    },
+    {
+        "id": "6bfe8352-585e-4573-ac9e-03864a2bfd35",
+        "word": "earthquake",
+        "phonetic": "ɜːθkweɪk ",
+        "type": "noun",
+        "defineEn": "the sudden movement and shaking of the Earth's surface, usually causing damage",
+        "defineVi": "sự chuyển động và rung chuyển đột ngột của bề mặt Trái đất, thường gây ra thiệt hại",
+        "hasImg": true
+    },
+    {
+        "id": "463b7d60-1b4c-4cb0-8306-aea83b3e0d9f",
+        "word": "hurricane",
+        "phonetic": "hɜːɹᵻkeɪn ",
+        "type": "noun",
+        "defineEn": "a very strong and destructive wind that moves in circles, often seen in the Caribbean",
+        "defineVi": "một cơn gió rất mạnh và có sức tàn phá di chuyển theo vòng tròn, thường thấy ở vùng biển Caribe",
+        "hasImg": true
+    },
+    {
+        "id": "e876efc0-e1d8-41af-825a-bc38fda4e639",
+        "word": "tornado",
+        "phonetic": "tɔːɹneɪdoʊ ",
+        "type": "noun",
+        "defineEn": "a strong and dangerous type of wind, which is formed like a turning cone, usually causing damage",
+        "defineVi": "một loại gió mạnh và nguy hiểm, được hình thành giống như một hình nón quay, thường gây ra thiệt hại",
+        "hasImg": true
+    },
+    {
+        "id": "e3d69507-92fe-41d0-8f62-d1ebced69362",
+        "word": "famine",
+        "phonetic": "fæmɪn ",
+        "type": "noun",
+        "defineEn": "a situation where there is not enough food that causes hunger and death",
+        "defineVi": "một tình huống không có đủ thức ăn gây ra đói và chết",
+        "hasImg": true
+    },
+    {
+        "id": "de06028a-4124-481d-be8d-ebc78d4430d2",
+        "word": "avalanche",
+        "phonetic": "ævəlænʃ ",
+        "type": "noun",
+        "defineEn": "large amounts of snow falling from mountains",
+        "defineVi": "một lượng lớn tuyết rơi từ trên núi",
+        "hasImg": true
+    },
+    {
+        "id": "0ff51ebb-fd48-4ced-9535-724b387583a0",
+        "word": "drought",
+        "phonetic": "dɹaʊt ",
+        "type": "noun",
+        "defineEn": "a long period of time when there is not much raining",
+        "defineVi": "một thời gian dài khi không có nhiều mưa",
+        "hasImg": true
+    },
+    {
+        "id": "09f19d7d-dc36-41c7-9caa-24654fffa68d",
+        "word": "climate change",
+        "phonetic": "klaɪmət tʃeɪndʒ ",
+        "type": "noun",
+        "defineEn": "a permanent change in global or regional climate patterns, including temperature, wind, and rainfall",
+        "defineVi": "một sự thay đổi vĩnh viễn trong các kiểu khí hậu toàn cầu hoặc khu vực, bao gồm nhiệt độ, gió và lượng mưa",
+        "hasImg": true
+    },
+    {
+        "id": "8fc99575-dd2f-4011-bffc-0a82d2e97ce9",
+        "word": "to happen",
+        "phonetic": "tə hæpən ",
+        "type": "verb",
+        "defineEn": "to take place, particularly with no plan",
+        "defineVi": "diễn ra, đặc biệt là không có kế hoạch"
+    },
+    {
+        "id": "a2d0a1e4-1602-4d29-82b9-9075305d1bfc",
+        "word": "terrible",
+        "phonetic": "tɛɹᵻbəl ",
+        "type": "adjective",
+        "defineEn": "very serious; causing harm or damage",
+        "defineVi": "rất nghiêm trọng; gây hại hoặc thiệt hại",
+        "hasImg": true
+    },
+    {
+        "id": "0a44ab7c-0555-4e07-acad-8dbffaa4dbf0",
+        "word": "northeast",
+        "phonetic": "nɔːɹθiːst ",
+        "type": "noun",
+        "defineEn": "the direction midway between north and east",
+        "defineVi": "hướng nằm giữa bắc và đông",
+        "hasImg": true
+    },
+    {
+        "id": "81d48fb7-cf8a-44e1-8616-64406da2785e",
+        "word": "northwest",
+        "phonetic": "nɔːɹθwɛst ",
+        "type": "noun",
+        "defineEn": "the direction midway between north and west",
+        "defineVi": "hướng nằm giữa bắc và tây",
+        "hasImg": true
+    },
+    {
+        "id": "8d5bde9d-3b9a-4fcc-be02-aef96f947bc1",
+        "word": "southeast",
+        "phonetic": "saʊθiːst ",
+        "type": "noun",
+        "defineEn": "the direction midway between south and east",
+        "defineVi": "hướng giữa nam và đông",
+        "hasImg": true
+    },
+    {
+        "id": "729777e2-c781-4619-851a-94ec2221e268",
+        "word": "southwest",
+        "phonetic": "saʊθwɛst ",
+        "type": "noun",
+        "defineEn": "the direction midway between south and west",
+        "defineVi": "hướng giữa nam và tây",
+        "hasImg": true
+    },
+    {
+        "id": "f4fb046c-a333-49ba-9018-df14e5a6464c",
+        "word": "desert",
+        "phonetic": "dɛzɚt ",
+        "type": "noun",
+        "defineEn": "a large, dry area of land with very few plants, typically one covered with sand",
+        "defineVi": "một vùng đất rộng lớn, khô ráo với rất ít thực vật, điển hình là một vùng phủ đầy cát",
+        "hasImg": true
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "id": "380fa479-8aa0-4dc7-86e1-f55782a98642",
+        "word": "examination",
+        "phonetic": "ɛɡzæmᵻneɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of looking closely at something to see if there are any issues",
+        "defineVi": "quá trình xem xét kỹ một cái gì đó để xem có vấn đề gì không",
+        "hasImg": true
+    },
+    {
+        "id": "3105f127-e827-48ed-97ca-ff1a16c43e17",
+        "word": "procedure",
+        "phonetic": "pɹəsiːdʒɚ ",
+        "type": "noun",
+        "defineEn": "a medical operation",
+        "defineVi": "một hoạt động y tế",
+        "hasImg": true
+    },
+    {
+        "id": "8092bd6b-b0ae-481a-9ba2-7842e03a52f1",
+        "word": "to operate",
+        "phonetic": "tʊ ɑːpɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "to cut open a part of the body in order to repair or remove a damaged organ",
+        "defineVi": "để cắt mở một phần của cơ thể để sửa chữa hoặc loại bỏ một cơ quan bị hư hỏng",
+        "hasImg": true
+    },
+    {
+        "id": "9aa55388-ba9e-4866-87e1-af6032789559",
+        "word": "incision",
+        "phonetic": "ɪnsɪʒən ",
+        "type": "noun",
+        "defineEn": "a surgical cut made in flesh or skin; the action or process of making this cut",
+        "defineVi": "một vết cắt phẫu thuật trên thịt hoặc da; hành động hoặc quá trình thực hiện việc cắt giảm này"
+    },
+    {
+        "id": "059e4b86-2881-461c-8ddb-59b5598db4c7",
+        "word": "medical",
+        "phonetic": "mɛdɪkəl ",
+        "type": "adjective",
+        "defineEn": "related to medicine, treating illnesses, and health",
+        "defineVi": "liên quan đến y học, điều trị bệnh tật và sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "0178c8e9-c2d0-45ef-a428-8bb51f552490",
+        "word": "sample",
+        "phonetic": "sæmpəl ",
+        "type": "noun",
+        "defineEn": "a small amount of a substance taken from a larger amount used for scientific analysis or therapeutic experiment",
+        "defineVi": "một lượng nhỏ chất được lấy từ một lượng lớn hơn được sử dụng để phân tích khoa học hoặc thí nghiệm điều trị",
+        "hasImg": true
+    },
+    {
+        "id": "a850fc56-fb16-48bb-88f4-2afd6bb16797",
+        "word": "medical",
+        "phonetic": "mɛdɪkəl ",
+        "type": "noun",
+        "defineEn": "a careful and complete physical assessment of a person's health",
+        "defineVi": "một đánh giá thể chất cẩn thận và đầy đủ về sức khỏe của một người"
+    },
+    {
+        "id": "f2866c43-d2dc-4476-b65c-707a306bdbba",
+        "word": "to scan",
+        "phonetic": "tə skæn ",
+        "type": "verb",
+        "defineEn": "(of a medical device) to take a picture of a body part often using X-rays for detailed examinations by a specialist",
+        "defineVi": "(của một thiết bị y tế) để chụp ảnh một bộ phận cơ thể thường sử dụng tia X để bác sĩ chuyên khoa kiểm tra chi tiết",
+        "hasImg": true
+    },
+    {
+        "id": "6a90ed85-6420-48c6-bcb3-2d54b4ab1926",
+        "word": "CAT scan",
+        "phonetic": "siːeɪtiː skæn ",
+        "type": "noun",
+        "defineEn": "a medical examination during which a series of detailed pictures of areas inside the body is created by the use of a computer linked to an X-ray machine",
+        "defineVi": "một cuộc kiểm tra y tế trong đó một loạt hình ảnh chi tiết về các khu vực bên trong cơ thể được tạo ra bằng cách sử dụng máy tính được kết nối với máy X-quang",
+        "hasImg": true
+    },
+    {
+        "id": "fe453905-6662-4b4e-b654-5fba97d60aaf",
+        "word": "X-ray",
+        "phonetic": "ɛksɹeɪ ",
+        "type": "noun",
+        "defineEn": "an image of bones in the body produced by a machine that uses a radiation to see through objects",
+        "defineVi": "hình ảnh xương trong cơ thể được tạo ra bởi một máy sử dụng bức xạ để nhìn xuyên qua các vật thể",
+        "hasImg": true
+    },
+    {
+        "id": "5bbee5d6-eb48-44cb-9b9a-3f0a8f311e00",
+        "word": "MRI",
+        "phonetic": "ɛmɑːɹɹaɪ ",
+        "type": "noun",
+        "defineEn": "a technique in which a powerful magnetic field is used to produce detailed images of areas inside the body",
+        "defineVi": "một kỹ thuật sử dụng từ trường mạnh để tạo ra hình ảnh chi tiết về các khu vực bên trong cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "14fab5e8-f942-488b-9677-7690745964d0",
+        "word": "ultrasound",
+        "phonetic": "ʊltɹɐsaʊnd ",
+        "type": "noun",
+        "defineEn": "the application of ultrasonic waves for medical purposes, such as producing an image of a growing fetus",
+        "defineVi": "ứng dụng của sóng siêu âm cho các mục đích y tế, chẳng hạn như tạo ra hình ảnh của thai nhi đang phát triển"
+    },
+    {
+        "id": "cf8e0dfe-2c5d-4995-a43a-c2015fbc3d6e",
+        "word": "surgery",
+        "phonetic": "sɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a medical practice that involves cutting open a body part in order to repair, remove, etc. an organ",
+        "defineVi": "một thực hành y tế liên quan đến việc cắt mở một bộ phận cơ thể để sửa chữa, loại bỏ, v.v. một cơ quan",
+        "hasImg": true
+    },
+    {
+        "id": "c0401b50-6247-46b9-82f1-3a08f53d029b",
+        "word": "surgical",
+        "phonetic": "sɜːdʒɪkəl ",
+        "type": "adjective",
+        "defineEn": "involving, used in, or related to surgery",
+        "defineVi": "liên quan, sử dụng trong, hoặc liên quan đến phẫu thuật"
+    },
+    {
+        "id": "719922ca-ef46-4141-9454-e26a247bf566",
+        "word": "abortion",
+        "phonetic": "ɐbɔːɹʃən ",
+        "type": "noun",
+        "defineEn": "(medicine) a medical procedure to remove the fetus from the uterus",
+        "defineVi": "(y học) thủ thuật lấy bào thai ra khỏi tử cung"
+    },
+    {
+        "id": "222c8572-6a0e-4461-a967-391e63df048f",
+        "word": "cesarian",
+        "phonetic": "sɛsɛɹiən ",
+        "type": "noun",
+        "defineEn": "a medical procedure to deliver a baby by cutting the belly of the mother",
+        "defineVi": "một thủ tục y tế để sinh em bé bằng cách cắt bụng của người mẹ"
+    },
+    {
+        "id": "27ac3025-4e5c-4f50-ad06-f7c73b7bf535",
+        "word": "to implant",
+        "phonetic": "tʊ ɪmplænt ",
+        "type": "verb",
+        "defineEn": "to insert a living tissue or an artificial object into the body via medical procedure",
+        "defineVi": "để chèn một mô sống hoặc một đối tượng nhân tạo vào cơ thể thông qua thủ tục y tế",
+        "hasImg": true
+    },
+    {
+        "id": "6835fd2a-13de-496b-ac48-9c7df5acc12d",
+        "word": "to transplant",
+        "phonetic": "tə tɹænsplænt ",
+        "type": "verb",
+        "defineEn": "to surgically remove an organ from someone's body and put it in someone else's body",
+        "defineVi": "để phẫu thuật loại bỏ một cơ quan từ cơ thể của một ai đó và đưa nó vào cơ thể của người khác"
+    },
+    {
+        "id": "89d2a53c-519b-4fbd-af7a-34d7f0233aff",
+        "word": "nose job",
+        "phonetic": "noʊz dʒɑːb ",
+        "type": "noun",
+        "defineEn": "a surgical procedure performed on someone's nose that changes its appearance to make it look more attractive",
+        "defineVi": "một thủ tục phẫu thuật được thực hiện trên mũi của ai đó làm thay đổi diện mạo của nó để làm cho nó trông hấp dẫn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "e90e7076-85fb-43a0-aa62-5c19f2bcbd80",
+        "word": "plastic surgery",
+        "phonetic": "plæstɪk sɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a medical operation performed on a part of the body in order to improve its appearance or repair skin injury",
+        "defineVi": "một hoạt động y tế được thực hiện trên một phần của cơ thể để cải thiện diện mạo của nó hoặc sửa chữa vết thương ngoài da",
+        "hasImg": true
+    },
+    {
+        "id": "2964e05b-fc54-4449-b457-dd02d0be64af",
+        "word": "to stitch",
+        "phonetic": "tə stɪtʃ ",
+        "type": "verb",
+        "defineEn": "to join the edges of a wound together by a thread and needle",
+        "defineVi": "để nối các cạnh của vết thương với nhau bằng chỉ và kim",
+        "hasImg": true
+    },
+    {
+        "id": "0c6a80d8-cfad-449f-a4cf-d4722964a951",
+        "word": "to screen",
+        "phonetic": "tə skɹiːn ",
+        "type": "verb",
+        "defineEn": "to examine and test a person in order to check if they are sick or not",
+        "defineVi": "để kiểm tra và kiểm tra một người để kiểm tra xem họ có bị bệnh hay không",
+        "hasImg": true
+    },
+    {
+        "id": "fcad82e4-0f3e-4eee-9951-2fdd0219ede5",
+        "word": "to diagnose",
+        "phonetic": "tə daɪəɡnoʊz ",
+        "type": "verb",
+        "defineEn": "to find out the cause of a problem or what disease a person has by examining the symptoms",
+        "defineVi": "để tìm ra nguyên nhân của một vấn đề hoặc bệnh gì một người có bằng cách kiểm tra các triệu chứng",
+        "hasImg": true
+    },
+    {
+        "id": "007ef195-2ca7-46d3-95a4-b0565a2f7d2c",
+        "word": "diagnosis",
+        "phonetic": "daɪəɡnoʊsɪs ",
+        "type": "noun",
+        "defineEn": "the identification of the nature and cause of an illness or other problem",
+        "defineVi": "việc xác định bản chất và nguyên nhân của một căn bệnh hoặc vấn đề khác",
+        "hasImg": true
+    },
+    {
+        "id": "2895a607-ef78-4270-9dda-ac3a6b193f18",
+        "word": "operable",
+        "phonetic": "ɑːpɚɹəbəl ",
+        "type": "adjective",
+        "defineEn": "(of a medical condition) treatable with surgery",
+        "defineVi": "(của một tình trạng y tế) có thể điều trị bằng phẫu thuật"
+    },
+    {
+        "id": "374d3454-4415-46c0-ac37-2d9dfbc101c1",
+        "word": "to bandage",
+        "phonetic": "tə bændɪdʒ ",
+        "type": "verb",
+        "defineEn": "to cover a wound or part of the body with a piece of cloth for protection",
+        "defineVi": "che vết thương hoặc một phần cơ thể bằng một mảnh vải để bảo vệ",
+        "hasImg": true
+    },
+    {
+        "id": "4a6d13c6-6527-4020-bd05-10db5608dc02",
+        "word": "to plaster",
+        "phonetic": "tə plæstɚ ",
+        "type": "verb",
+        "defineEn": "to encase a part of the body in plaster",
+        "defineVi": "để bọc một phần của cơ thể trong thạch cao"
+    },
+    {
+        "id": "82317acc-c4cb-42f8-ba73-a02e68f6fdcc",
+        "word": "hospitalization",
+        "phonetic": "hɑːspɪɾəlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the fact of being placed in a hospital for medical treatment",
+        "defineVi": "thực tế là được đưa vào bệnh viện để điều trị y tế",
+        "hasImg": true
+    },
+    {
+        "id": "49ebc255-ec04-4171-9a98-1cb3764df32b",
+        "word": "specialist",
+        "phonetic": "spɛʃəlɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who is highly trained in a particular area of medicine",
+        "defineVi": "một bác sĩ được đào tạo chuyên sâu trong một lĩnh vực cụ thể của y học",
+        "hasImg": true
+    },
+    {
+        "id": "ac077339-a029-416a-92e5-548c3cc55a98",
+        "word": "surgeon",
+        "phonetic": "sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a doctor who performs medical operation",
+        "defineVi": "một bác sĩ thực hiện phẫu thuật y tế",
+        "hasImg": true
+    },
+    {
+        "id": "7dd71de8-b5f4-4ac7-aaab-2fe45dcd9cc8",
+        "word": "therapist",
+        "phonetic": "θɛɹəpɪst ",
+        "type": "noun",
+        "defineEn": "a person who is trained to treat a particular type of disease or disorder, particularly by using a specific therapy",
+        "defineVi": "một người được đào tạo để điều trị một loại bệnh hoặc rối loạn cụ thể, đặc biệt là bằng cách sử dụng một liệu pháp cụ thể"
+    },
+    {
+        "id": "84c73089-0cb5-48e6-9dda-f05fbfd8b4b9",
+        "word": "paramedic",
+        "phonetic": "pæɹəmɛdɪk ",
+        "type": "noun",
+        "defineEn": "a trained individual who gives medical aid to people in emergency before taking them to the hospital",
+        "defineVi": "một cá nhân được đào tạo để hỗ trợ y tế cho những người trong trường hợp khẩn cấp trước khi đưa họ đến bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "1947d383-0683-4974-9e1f-ab86b6832596",
+        "word": "psychiatrist",
+        "phonetic": "saɪkaɪətɹɪst ",
+        "type": "noun",
+        "defineEn": "a medical doctor who specializes in the treatment of mental illnesses or behavioral disorders",
+        "defineVi": "một bác sĩ y khoa chuyên điều trị các bệnh tâm thần hoặc rối loạn hành vi",
+        "hasImg": true
+    },
+    {
+        "id": "7d29a720-40b7-4d38-8f3b-8ed7f812b6e4",
+        "word": "checkup",
+        "phonetic": "tʃɛkʌp ",
+        "type": "noun",
+        "defineEn": "a complete medical examination of the body to see if there are any health issues",
+        "defineVi": "kiểm tra y tế toàn diện về cơ thể để xem có bất kỳ vấn đề sức khỏe nào không",
+        "hasImg": true
+    }
+]

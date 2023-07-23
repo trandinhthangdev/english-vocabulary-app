@@ -1,0 +1,370 @@
+[
+    {
+        "id": "5fb6f40f-7eb0-4a95-85ca-0d7d62ff59ad",
+        "word": "domestic",
+        "phonetic": "dəmɛstɪk ",
+        "type": "adjective",
+        "defineEn": "describing or involving the internal affairs of a country",
+        "defineVi": "mô tả hoặc liên quan đến các vấn đề nội bộ của một quốc gia"
+    },
+    {
+        "id": "d3020c16-02d7-4d5d-ac1c-9df92aeda0fb",
+        "word": "federal",
+        "phonetic": "fɛdɚɹəl ",
+        "type": "adjective",
+        "defineEn": "relating to the central government of a country rather than the local ones",
+        "defineVi": "liên quan đến chính quyền trung ương của một quốc gia chứ không phải là những người địa phương"
+    },
+    {
+        "id": "9c982322-6cf5-4bc8-abf9-bfd651a61d99",
+        "word": "independent",
+        "phonetic": "ɪndᵻpɛndənt ",
+        "type": "adjective",
+        "defineEn": "describing a country, state, etc. that has its own government",
+        "defineVi": "mô tả một quốc gia, tiểu bang, v.v. có chính phủ riêng"
+    },
+    {
+        "id": "438d6e5d-ca3c-4bf2-8c58-a8b10c5a8b0b",
+        "word": "official",
+        "phonetic": "əfɪʃəl ",
+        "type": "adjective",
+        "defineEn": "relating to a person with authority",
+        "defineVi": "liên quan đến một người có thẩm quyền",
+        "hasImg": true
+    },
+    {
+        "id": "b8fa91a0-b58e-4726-978e-e9d1008d4d8d",
+        "word": "presidential",
+        "phonetic": "pɹɛzɪdɛnʃəl ",
+        "type": "adjective",
+        "defineEn": "involving a president or their affairs",
+        "defineVi": "liên quan đến một tổng thống hoặc các vấn đề của họ"
+    },
+    {
+        "id": "2efe37b8-5d87-4c13-b0ce-d54f4f4823eb",
+        "word": "revolution",
+        "phonetic": "ɹɛvəluːʃən ",
+        "type": "noun",
+        "defineEn": "the fundamental change of power, government, etc. in a country by people, particularly involving violence",
+        "defineVi": "sự thay đổi cơ bản về quyền lực, chính phủ, v.v. ở một quốc gia bởi người dân, đặc biệt liên quan đến bạo lực"
+    },
+    {
+        "id": "bca4d883-21f9-40e5-acd1-61d246570bb7",
+        "word": "revolutionary",
+        "phonetic": "ɹɛvəluːʃənɛɹi ",
+        "type": "adjective",
+        "defineEn": "relating to political revolution",
+        "defineVi": "liên quan đến cách mạng chính trị"
+    },
+    {
+        "id": "f0917618-3eb3-4206-a450-f034e462b6b7",
+        "word": "congress",
+        "phonetic": "kɑːŋɡɹəs ",
+        "type": "noun",
+        "defineEn": "a formal meeting that consists of representatives of different groups, gathered to make decisions, etc.",
+        "defineVi": "một cuộc họp chính thức bao gồm đại diện của các nhóm khác nhau, được tập hợp để đưa ra quyết định, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "59181962-e3c7-4595-9376-9bbf001053ac",
+        "word": "conservative",
+        "phonetic": "kənsɜːvətɪv ",
+        "type": "noun",
+        "defineEn": "a person who is a member of a conservative party which is against changes",
+        "defineVi": "một người là thành viên của một đảng bảo thủ chống lại những thay đổi"
+    },
+    {
+        "id": "59c6badb-79dd-4dcc-8ac7-d181b0d6ab09",
+        "word": "conservative party",
+        "phonetic": "kənsɜːvətɪv pɑːɹɾi ",
+        "type": "noun",
+        "defineEn": "the British political party that favors privately owning property rather than government doing so",
+        "defineVi": "đảng chính trị của Anh ủng hộ tài sản sở hữu tư nhân hơn là chính phủ làm như vậy"
+    },
+    {
+        "id": "3278b001-2b96-4c16-8da0-10a723d1c99e",
+        "word": "republican party",
+        "phonetic": "ɹᵻpʌblɪkən pɑːɹɾi ",
+        "type": "noun",
+        "defineEn": "the youngest political party in the US which has conservative beliefs and is against the high power of central government",
+        "defineVi": "đảng chính trị trẻ nhất ở Hoa Kỳ có niềm tin bảo thủ và chống lại quyền lực cao của chính quyền trung ương"
+    },
+    {
+        "id": "2a21ee52-99c7-495b-b237-dd85dcb21c2a",
+        "word": "democrat",
+        "phonetic": "dɛməkɹæt ",
+        "type": "noun",
+        "defineEn": "someone who is a member of the Democratic Party",
+        "defineVi": "một người là một thành viên của Đảng Dân chủ"
+    },
+    {
+        "id": "7f839e6b-348d-48c5-b0b3-20d43b5427d7",
+        "word": "democratic party",
+        "phonetic": "dɛməkɹæɾɪk pɑːɹɾi ",
+        "type": "noun",
+        "defineEn": "the oldest political party in the US which believes in social equality by helping the poor in different ways, etc.",
+        "defineVi": "đảng chính trị lâu đời nhất ở Hoa Kỳ tin tưởng vào bình đẳng xã hội bằng cách giúp đỡ người nghèo theo những cách khác nhau, v.v."
+    },
+    {
+        "id": "acbadac3-9351-4e51-b1fc-aeccaebe19a6",
+        "word": "labor party",
+        "phonetic": "leɪbɚ pɑːɹɾi ",
+        "type": "noun",
+        "defineEn": "a British political party which favors the welfare of workers and the poor",
+        "defineVi": "một đảng chính trị của Anh ủng hộ phúc lợi của người lao động và người nghèo"
+    },
+    {
+        "id": "0e4c5fc4-4de0-4902-b346-6eddb7adbae7",
+        "word": "to back",
+        "phonetic": "tə bæk ",
+        "type": "verb",
+        "defineEn": "to support someone or something",
+        "defineVi": "để hỗ trợ một ai đó hoặc một cái gì đó"
+    },
+    {
+        "id": "aa2f3fff-9e78-4e91-8f0f-f78893d68e85",
+        "word": "to debate",
+        "phonetic": "tə dᵻbeɪt ",
+        "type": "verb",
+        "defineEn": "to formally discuss a matter",
+        "defineVi": "để chính thức thảo luận về một vấn đề",
+        "hasImg": true
+    },
+    {
+        "id": "6c89c47c-8ea1-4608-90b3-017047bdffcb",
+        "word": "to govern",
+        "phonetic": "tə ɡʌvɚn ",
+        "type": "verb",
+        "defineEn": "to officially have the control and authority to rule over a country and manage its affairs",
+        "defineVi": "chính thức có quyền kiểm soát và quyền cai trị một quốc gia và quản lý các vấn đề của nó"
+    },
+    {
+        "id": "b12d378e-606b-4633-9b30-4a26bddbcdb6",
+        "word": "government",
+        "phonetic": "ɡʌvɚnmənt ",
+        "type": "noun",
+        "defineEn": "a special way or system of controlling a country, state, etc.",
+        "defineVi": "một cách đặc biệt hoặc hệ thống kiểm soát một quốc gia, nhà nước, vv"
+    },
+    {
+        "id": "d9482cc7-c378-4dfb-8f55-33667277b9f6",
+        "word": "democracy",
+        "phonetic": "dᵻmɑːkɹəsi ",
+        "type": "noun",
+        "defineEn": "a country that is controlled by this method",
+        "defineVi": "một quốc gia được kiểm soát bởi phương pháp này"
+    },
+    {
+        "id": "2a553a52-f645-4ba0-8da6-b08f08242a4a",
+        "word": "dictatorship",
+        "phonetic": "dɪkteɪɾɚʃɪp ",
+        "type": "noun",
+        "defineEn": "a system of governing in which the ruler is a dictator that has total power",
+        "defineVi": "một hệ thống cai trị trong đó người cai trị là một nhà độc tài có toàn quyền"
+    },
+    {
+        "id": "bdb6ad8f-9223-4730-babe-e640162e1a4f",
+        "word": "kingdom",
+        "phonetic": "kɪŋdəm ",
+        "type": "noun",
+        "defineEn": "a nation or state that its ruler is a king or queen",
+        "defineVi": "một quốc gia hoặc nhà nước mà người cai trị của nó là một vị vua hoặc nữ hoàng"
+    },
+    {
+        "id": "b9a8063e-1a7f-4cf9-87af-ad2c4345f8dd",
+        "word": "monarchy",
+        "phonetic": "mɑːnɚki ",
+        "type": "noun",
+        "defineEn": "a system of government or a country or state that is ruled by a king or queen",
+        "defineVi": "một hệ thống chính phủ hoặc một quốc gia hoặc tiểu bang được cai trị bởi một vị vua hoặc nữ hoàng",
+        "hasImg": true
+    },
+    {
+        "id": "8e9ba5cb-4f63-4ccd-9771-bd101483a3b1",
+        "word": "independence",
+        "phonetic": "ɪndᵻpɛndəns ",
+        "type": "noun",
+        "defineEn": "the state of being free from the control of others",
+        "defineVi": "trạng thái thoát khỏi sự kiểm soát của người khác"
+    },
+    {
+        "id": "1c3aad87-a1b2-4ddb-b56b-fe663abacfff",
+        "word": "human right",
+        "phonetic": "hjuːmən ɹaɪt ",
+        "type": "noun",
+        "defineEn": "one of a series of rights that every human being must have",
+        "defineVi": "một trong một loạt các quyền mà mỗi con người phải có"
+    },
+    {
+        "id": "3cfe7e7d-834d-4404-9317-a7796c3e8578",
+        "word": "nation",
+        "phonetic": "neɪʃən ",
+        "type": "noun",
+        "defineEn": "a country considered as a group of people that share the same history, language, etc., and ruled by the same government",
+        "defineVi": "một quốc gia được coi là một nhóm người có cùng lịch sử, ngôn ngữ, v.v. và được cai trị bởi cùng một chính phủ"
+    },
+    {
+        "id": "bd15416b-8950-4649-9efc-1dae5f5c92e8",
+        "word": "to plot",
+        "phonetic": "tə plɑːt ",
+        "type": "verb",
+        "defineEn": "to secretly make a plan to harm someone or do something illegal",
+        "defineVi": "để bí mật thực hiện một kế hoạch làm hại ai đó hoặc làm điều gì đó bất hợp pháp"
+    },
+    {
+        "id": "8125f596-9c54-4ddf-bf1c-65e5751ac561",
+        "word": "state",
+        "phonetic": "steɪt ",
+        "type": "noun",
+        "defineEn": "a nation or country under the control of one government",
+        "defineVi": "một quốc gia hoặc quốc gia dưới sự kiểm soát của một chính phủ"
+    },
+    {
+        "id": "c196eb6b-3256-4567-97b7-f6fce83c01b0",
+        "word": "majority",
+        "phonetic": "mədʒɔːɹᵻɾi ",
+        "type": "noun",
+        "defineEn": "the greater number of votes by which a candidate or party wins an election",
+        "defineVi": "số phiếu bầu nhiều hơn mà một ứng cử viên hoặc đảng giành chiến thắng trong cuộc bầu cử"
+    },
+    {
+        "id": "c2da79ff-d300-4f39-8f77-a150df056e8f",
+        "word": "Pm",
+        "phonetic": "piːɛm ",
+        "type": "noun",
+        "defineEn": "the prime minister that is the leader of the government in some countries",
+        "defineVi": "thủ tướng là người đứng đầu chính phủ ở một số nước"
+    },
+    {
+        "id": "2e109814-faf5-4d5a-b183-ee6743bf042c",
+        "word": "minister",
+        "phonetic": "mɪnɪstɚ ",
+        "type": "noun",
+        "defineEn": "the person who is the head of a government department",
+        "defineVi": "người đứng đầu một cơ quan chính phủ"
+    },
+    {
+        "id": "da446d7c-83a9-441b-af79-ccf3d773ec4d",
+        "word": "secretary",
+        "phonetic": "sɛkɹətɹi ",
+        "type": "noun",
+        "defineEn": "the person who is the head of a US government department",
+        "defineVi": "người đứng đầu một cơ quan chính phủ Hoa Kỳ"
+    },
+    {
+        "id": "146a24cd-1f4c-4e80-84b9-82652752a99d",
+        "word": "spokesperson",
+        "phonetic": "spoʊkspɚsən ",
+        "type": "noun",
+        "defineEn": "a person who speaks formally for an organization, government, etc.",
+        "defineVi": "một người nói chính thức cho một tổ chức, chính phủ, vv",
+        "hasImg": true
+    },
+    {
+        "id": "717a88eb-30bc-4d0f-9382-a2cb6db0004b",
+        "word": "negotiation",
+        "phonetic": "nᵻɡoʊʃɪeɪʃən ",
+        "type": "noun",
+        "defineEn": "formal discussion intended to reach an agreement",
+        "defineVi": "thảo luận chính thức nhằm đạt được một thỏa thuận"
+    },
+    {
+        "id": "c84651e3-a314-41ed-8aa4-ab5e0d677abe",
+        "word": "opposition",
+        "phonetic": "ɑːpəzɪʃən ",
+        "type": "noun",
+        "defineEn": "the main political party opposed to the government",
+        "defineVi": "đảng chính trị chính đối lập với chính phủ"
+    },
+    {
+        "id": "89904e23-71db-4fc7-96e5-c36f30e8071f",
+        "word": "policy",
+        "phonetic": "pɑːlɪsi ",
+        "type": "noun",
+        "defineEn": "a set of ideas or a plan of action that has been chosen officially by a group of people, an organization, a political party, etc.",
+        "defineVi": "một tập hợp các ý tưởng hoặc một kế hoạch hành động đã được lựa chọn chính thức bởi một nhóm người, một tổ chức, một đảng chính trị, v.v."
+    },
+    {
+        "id": "2af08bb7-23e6-40c7-b554-38b2fb92202f",
+        "word": "presidency",
+        "phonetic": "pɹɛzɪdənsi ",
+        "type": "noun",
+        "defineEn": "the period of time during which a president is holding office",
+        "defineVi": "khoảng thời gian mà một tổng thống đang giữ chức vụ"
+    },
+    {
+        "id": "5e75076c-f57d-42e5-932d-49f033dd2c6f",
+        "word": "to run",
+        "phonetic": "tə ɹʌn ",
+        "type": "verb",
+        "defineEn": "to participate in an election as a candidate",
+        "defineVi": "tham gia bầu cử với tư cách ứng cử viên"
+    },
+    {
+        "id": "cbfb40b9-c72b-4e27-a6c5-cbb4494d97da",
+        "word": "seat",
+        "phonetic": "siːt ",
+        "type": "noun",
+        "defineEn": "the position of a member in a committee, parliament, etc.",
+        "defineVi": "vị trí của một thành viên trong một ủy ban, quốc hội, v.v."
+    },
+    {
+        "id": "b547c7d5-4d4b-44bc-a2de-5a6be38e273f",
+        "word": "voting",
+        "phonetic": "voʊɾɪŋ ",
+        "type": "noun",
+        "defineEn": "the process or action of choosing someone during an election",
+        "defineVi": "quá trình hoặc hành động lựa chọn một ai đó trong một cuộc bầu cử",
+        "hasImg": true
+    },
+    {
+        "id": "9b4626d0-cbe4-4268-814f-d9bdbc02197d",
+        "word": "territory",
+        "phonetic": "tɛɹɪtoːɹi ",
+        "type": "noun",
+        "defineEn": "a geographic area belonging to or ruled by a government or authority",
+        "defineVi": "một khu vực địa lý thuộc về hoặc cai trị bởi một chính phủ hoặc cơ quan",
+        "hasImg": true
+    },
+    {
+        "id": "b62e6bb7-f5b1-4226-98a9-983528c65937",
+        "word": "to negotiate",
+        "phonetic": "tə nᵻɡoʊʃɪeɪt ",
+        "type": "verb",
+        "defineEn": "to discuss the terms of an agreement or try to reach one",
+        "defineVi": "để thảo luận về các điều khoản của một thỏa thuận hoặc cố gắng để đạt được một",
+        "hasImg": true
+    },
+    {
+        "id": "2e5bc91c-0cb7-402b-a1a5-1a1c2e60c72b",
+        "word": "conspiracy",
+        "phonetic": "kənspɪɹəsi ",
+        "type": "noun",
+        "defineEn": "a plan which is a secret and made by a group of people to do something illegal or to kill someone",
+        "defineVi": "một kế hoạch bí mật và được thực hiện bởi một nhóm người để làm điều gì đó bất hợp pháp hoặc để giết ai đó"
+    },
+    {
+        "id": "eb0fae0b-d90a-4514-a6d2-4e4e19956475",
+        "word": "crackdown",
+        "phonetic": "kɹækdaʊn ",
+        "type": "noun",
+        "defineEn": "a series of strong and sudden measures taken by the authorities to stop protests or illegal activities",
+        "defineVi": "một loạt các biện pháp mạnh mẽ và đột ngột được thực hiện bởi chính quyền để ngăn chặn các cuộc biểu tình hoặc hoạt động bất hợp pháp"
+    },
+    {
+        "id": "f934f989-3547-4178-8a2e-98b7e3e11556",
+        "word": "repression",
+        "phonetic": "ɹᵻpɹɛʃən ",
+        "type": "noun",
+        "defineEn": "the action of controlling people by means of force or violence",
+        "defineVi": "hành động kiểm soát mọi người bằng vũ lực hoặc bạo lực"
+    },
+    {
+        "id": "b29c7c01-2e69-4ad4-82b6-ed3f50dee394",
+        "word": "Department of Homeland Security",
+        "phonetic": "dᵻpɑːɹtmənt ʌv hoʊmlənd sᵻkjʊɹɹᵻɾi ",
+        "type": "phrase",
+        "defineEn": "a governmental organization responsible for ensuring the security and safety of a nation's citizens, infrastructure, and borders",
+        "defineVi": "một tổ chức chính phủ chịu trách nhiệm đảm bảo an ninh và an toàn cho công dân, cơ sở hạ tầng và biên giới của một quốc gia"
+    }
+]

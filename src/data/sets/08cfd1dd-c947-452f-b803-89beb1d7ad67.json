@@ -1,0 +1,484 @@
+[
+    {
+        "id": "817eff39-e970-4742-8de9-29265b7ee65d",
+        "word": "anchovy",
+        "phonetic": "æntʃoʊvi ",
+        "type": "noun",
+        "defineEn": "a small shoaling fish that is used as food or as bait and resembles herrings",
+        "defineVi": "một loài cá nhỏ được dùng làm thức ăn hoặc làm mồi nhử và giống cá trích",
+        "hasImg": true
+    },
+    {
+        "id": "52216fbd-0d47-4355-b502-52eec4a7816b",
+        "word": "pilchard",
+        "phonetic": "pɪltʃɚd ",
+        "type": "noun",
+        "defineEn": "a small forage fish that is edible and lives in marine waters, forming large shoals",
+        "defineVi": "một loài cá thức ăn gia súc nhỏ có thể ăn được và sống ở vùng nước biển, tạo thành những bãi cạn lớn",
+        "hasImg": true
+    },
+    {
+        "id": "303fc35c-58f8-4936-8023-3d1ee40971ee",
+        "word": "ray",
+        "phonetic": "ɹeɪ ",
+        "type": "noun",
+        "defineEn": "any marine cartilaginous fish with a flat body and eyes on the upper surface, which swims using large pectoral fins",
+        "defineVi": "bất kỳ loài cá sụn biển nào có thân phẳng và mắt ở bề mặt trên, bơi bằng vây ngực lớn",
+        "hasImg": true
+    },
+    {
+        "id": "367fd576-ea5d-4ce8-9d5f-fc8a54c341df",
+        "word": "salmon",
+        "phonetic": "sæmən ",
+        "type": "noun",
+        "defineEn": "a silver-colored fish with pink flesh that people eat as food",
+        "defineVi": "một con cá màu bạc với thịt màu hồng mà mọi người ăn làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "199cdd3e-5ffa-4668-b671-1713495f7c2b",
+        "word": "sardine",
+        "phonetic": "sɑːɹdiːn ",
+        "type": "noun",
+        "defineEn": "a small oily fish of the herring family with silvery color that is used as food",
+        "defineVi": "một loại cá dầu nhỏ thuộc họ cá trích có màu bạc được dùng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "7951040e-429a-4c4f-a794-f6546366eb7e",
+        "word": "shark",
+        "phonetic": "ʃɑːɹk ",
+        "type": "noun",
+        "defineEn": "‌a large sea fish with a pointed fin on its back and very sharp teeth",
+        "defineVi": "‌một loài cá biển lớn có vây nhọn trên lưng và hàm răng rất sắc",
+        "hasImg": true
+    },
+    {
+        "id": "4a0360da-d697-4a5e-9627-9d90504b8b28",
+        "word": "skate",
+        "phonetic": "skeɪt ",
+        "type": "noun",
+        "defineEn": "a large marine fish related to the ray family with a diamond shape and a tail",
+        "defineVi": "một loài cá biển lớn thuộc họ cá đuối có hình thoi và đuôi",
+        "hasImg": true
+    },
+    {
+        "id": "9b275272-3d7d-409a-a1ce-bd8c3de30408",
+        "word": "snapper",
+        "phonetic": "snæpɚ ",
+        "type": "noun",
+        "defineEn": "any carnivorous warm water perciform fish that is red in color and is valued as food",
+        "defineVi": "bất kỳ loài cá nước ấm ăn thịt nào có màu đỏ và được coi là thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "bc243a79-c3d7-461c-ab72-adcd22b5494b",
+        "word": "sole",
+        "phonetic": "soʊl ",
+        "type": "noun",
+        "defineEn": "a marine flatfish of the flounder family which is considered a food fish",
+        "defineVi": "một loài cá dẹt biển thuộc họ cá bơn được coi là cá thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "afda01ac-ab4e-47c5-a8fa-eafc83a2582d",
+        "word": "sprat",
+        "phonetic": "spɹæt ",
+        "type": "noun",
+        "defineEn": "a very small forage fish that is a European marine fish of the herring family, eaten as food",
+        "defineVi": "một loài cá kiếm ăn rất nhỏ là một loài cá biển châu Âu thuộc họ cá trích, được dùng làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "6801a24c-14d5-4643-b9cf-03df41504d62",
+        "word": "stingray",
+        "phonetic": "stɪŋɡɹeɪ ",
+        "type": "noun",
+        "defineEn": "a large sea fish of the ray family that has a long toxic spine at the base of its tail",
+        "defineVi": "một loài cá biển lớn thuộc họ cá đuối có gai độc dài ở gốc đuôi",
+        "hasImg": true
+    },
+    {
+        "id": "4dc7a3f6-d728-4613-9f36-558e50c5661e",
+        "word": "sunfish",
+        "phonetic": "sʌnfɪʃ ",
+        "type": "noun",
+        "defineEn": "among the largest bony fish; pelagic fish having an oval compressed body with high dorsal and anal fins and caudal fin reduced to a rudder-like lobe; worldwide in warm waters",
+        "defineVi": "trong số những loài cá có xương lớn nhất; cá nổi có thân hình bầu dục nén với vây lưng và vây hậu môn cao và vây đuôi tiêu giảm thành thùy giống như bánh lái; trên toàn thế giới trong vùng nước ấm"
+    },
+    {
+        "id": "2e143e04-9940-48ed-b8e2-b03e1e2eea27",
+        "word": "brill",
+        "phonetic": "bɹɪl ",
+        "type": "noun",
+        "defineEn": "a type of flatfish characterized by its oval-shaped body, diamond patterned skin, and delicate, mild-flavored flesh",
+        "defineVi": "một loại cá dẹt đặc trưng bởi thân hình bầu dục, da có hoa văn kim cương và thịt mềm, có hương vị nhẹ"
+    },
+    {
+        "id": "50d9d889-9b0b-45a2-b915-d4dcf3962287",
+        "word": "cod",
+        "phonetic": "kɑːd ",
+        "type": "noun",
+        "defineEn": "a large food fish that lives in cold marine waters with a small barbel and three fins on the back",
+        "defineVi": "một loài cá thức ăn lớn sống ở vùng nước biển lạnh với một cái gai nhỏ và ba vây trên lưng",
+        "hasImg": true
+    },
+    {
+        "id": "858af8cf-4d70-4286-b2d4-acdfa6b66834",
+        "word": "coelacanth",
+        "phonetic": "siːlɐkænθ ",
+        "type": "noun",
+        "defineEn": "a rare plump marine fish with lobed fins living in Indian Ocean, once thought to be extinct",
+        "defineVi": "một loài cá biển đầy đặn quý hiếm có vây thùy sống ở Ấn Độ Dương, từng được cho là đã tuyệt chủng",
+        "hasImg": true
+    },
+    {
+        "id": "db8d15bd-0c83-4c7b-9040-9cf383787c83",
+        "word": "dab",
+        "phonetic": "dæb ",
+        "type": "noun",
+        "defineEn": "a small flatfish that lives in deep waters and is eaten as food, originated in the North Atlantic",
+        "defineVi": "một loài cá bẹt nhỏ sống ở vùng nước sâu và được dùng làm thức ăn, có nguồn gốc ở Bắc Đại Tây Dương",
+        "hasImg": true
+    },
+    {
+        "id": "1ff61793-d8a9-4085-b3a9-5f015ee92244",
+        "word": "dogfish",
+        "phonetic": "dɑːɡfɪʃ ",
+        "type": "noun",
+        "defineEn": "a small shark with a long body that lives at the bottom of the sea",
+        "defineVi": "một con cá mập nhỏ với thân dài sống dưới đáy biển",
+        "hasImg": true
+    },
+    {
+        "id": "eaa1e9d2-d00d-4bb9-b282-edb28f7b0e40",
+        "word": "flounder",
+        "phonetic": "flaʊndɚ ",
+        "type": "noun",
+        "defineEn": "a small marine food fish of the flatfish species that is found in deep oceanic waters",
+        "defineVi": "một loài cá biển nhỏ thuộc loài cá dẹt được tìm thấy ở vùng biển sâu",
+        "hasImg": true
+    },
+    {
+        "id": "0415d2f9-16ed-4385-ac7c-f01983c84508",
+        "word": "flying fish",
+        "phonetic": "flaɪɪŋ fɪʃ ",
+        "type": "noun",
+        "defineEn": "a group of marine fish that have the ability to glide above the water's surface by using their enlarged pectoral fins as wings",
+        "defineVi": "một nhóm cá biển có khả năng lướt trên mặt nước bằng cách sử dụng vây ngực mở rộng của chúng làm đôi cánh",
+        "hasImg": true
+    },
+    {
+        "id": "9fd0967f-a76d-4689-897b-34e7386f4067",
+        "word": "haddock",
+        "phonetic": "hædək ",
+        "type": "noun",
+        "defineEn": "a salt water food fish of the cod family with silvery gray color and a black line under its dorsal fins",
+        "defineVi": "một loài cá thức ăn nước mặn thuộc họ cá tuyết có màu xám bạc và một vạch đen dưới vây lưng",
+        "hasImg": true
+    },
+    {
+        "id": "c0bd3fac-36d1-47cf-9367-e2c447ea5f03",
+        "word": "hake",
+        "phonetic": "heɪk ",
+        "type": "noun",
+        "defineEn": "any large marine food fish that is related to the Atlantic cod",
+        "defineVi": "bất kỳ loài cá thực phẩm biển lớn nào có liên quan đến cá tuyết Đại Tây Dương",
+        "hasImg": true
+    },
+    {
+        "id": "a9151d93-e477-4e13-a83d-235da5f2a62d",
+        "word": "halibut",
+        "phonetic": "hælɪbʌt ",
+        "type": "noun",
+        "defineEn": "a large marine flatfish that is eaten as food, especially on Catholic holy days",
+        "defineVi": "một loài cá dẹt biển lớn được dùng làm thức ăn, đặc biệt là vào những ngày lễ thánh của Công giáo",
+        "hasImg": true
+    },
+    {
+        "id": "47a25e2b-31db-4f4c-91b0-36023956c3f2",
+        "word": "herring",
+        "phonetic": "hɛɹɪŋ ",
+        "type": "noun",
+        "defineEn": "a mostly coastal fish of silvery color that moves in large shoals and is largely consumed as food",
+        "defineVi": "một loài cá chủ yếu ven biển có màu bạc di chuyển trong các bãi cạn lớn và phần lớn được tiêu thụ làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "b9135c5b-a9df-432f-bbf6-6b1800ec7437",
+        "word": "lemon sole",
+        "phonetic": "lɛmən soʊl ",
+        "type": "noun",
+        "defineEn": "a flatfish species found in the North Atlantic Ocean, known for its lemon-yellow coloration on the upper side",
+        "defineVi": "một loài cá dẹt được tìm thấy ở Bắc Đại Tây Dương, được biết đến với màu vàng chanh ở phía trên",
+        "hasImg": true
+    },
+    {
+        "id": "782c38a2-93f9-4b62-a2e4-70768061300e",
+        "word": "mackerel",
+        "phonetic": "mækɚɹəl ",
+        "type": "noun",
+        "defineEn": "a migratory marine fish with greenish blue bars on its body which is a scombroid and is a commercially important game fish",
+        "defineVi": "một loài cá biển di cư với các sọc màu xanh lục trên cơ thể, là một loài cá tầm ma và là một loài cá trò chơi quan trọng về mặt thương mại",
+        "hasImg": true
+    },
+    {
+        "id": "03abf762-62fd-477c-a2ba-5737129ae97b",
+        "word": "marlin",
+        "phonetic": "mɑːɹlɪn ",
+        "type": "noun",
+        "defineEn": "a very large marine fish that has a long body and a long bill inhabiting warm waters, which is caught for sport",
+        "defineVi": "một loài cá biển rất lớn có thân dài và mỏ dài sống ở vùng nước ấm, được đánh bắt để chơi thể thao",
+        "hasImg": true
+    },
+    {
+        "id": "4df1334b-8492-4736-80da-a1e7f4ba8433",
+        "word": "swordfish",
+        "phonetic": "soːɹdfɪʃ ",
+        "type": "noun",
+        "defineEn": "a large migratory marine fish that has a very long pointed snout and is both a food and a game fish",
+        "defineVi": "một loài cá biển di cư lớn có mõm nhọn rất dài vừa là thức ăn vừa là cá săn",
+        "hasImg": true
+    },
+    {
+        "id": "37e3d654-2104-4810-9263-a57941f50a8a",
+        "word": "tunny",
+        "phonetic": "tʌni ",
+        "type": "noun",
+        "defineEn": "a large fish which is eaten as food",
+        "defineVi": "một con cá lớn được ăn như thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "370f17e0-0101-44a7-a1cc-a9323fa5aa26",
+        "word": "turbot",
+        "phonetic": "tɜːbɑːt ",
+        "type": "noun",
+        "defineEn": "a large European flatfish native to North Atlantic that is an important food fish",
+        "defineVi": "một loài cá dẹt lớn ở châu Âu có nguồn gốc từ Bắc Đại Tây Dương, là một loài cá thực phẩm quan trọng",
+        "hasImg": true
+    },
+    {
+        "id": "ba837029-d779-4a97-9658-735d12da7c9e",
+        "word": "whiting",
+        "phonetic": "waɪɾɪŋ ",
+        "type": "noun",
+        "defineEn": "a food fish of the Eastern Atlantic Ocean of the cod family that is also known as English whiting",
+        "defineVi": "một loại cá thức ăn của Đông Đại Tây Dương thuộc họ cá tuyết còn được gọi là cá trắng Anh",
+        "hasImg": true
+    },
+    {
+        "id": "e30f0fbe-fa61-43d4-8e31-2e619cbd4682",
+        "word": "whitebait",
+        "phonetic": "waɪtbeɪt ",
+        "type": "noun",
+        "defineEn": "the young of European herrings that are silvery white and edible",
+        "defineVi": "cá trích châu Âu non có màu trắng bạc và ăn được",
+        "hasImg": true
+    },
+    {
+        "id": "8e14f660-533f-43c8-8bf9-475f9af2393f",
+        "word": "conger",
+        "phonetic": "kɑːŋɡɚ ",
+        "type": "noun",
+        "defineEn": "a large predatory eel with dark color that lives in shallow coastal waters and is eaten as food",
+        "defineVi": "một con lươn săn mồi lớn có màu sẫm sống ở vùng nước nông ven biển và được ăn làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "91de99f5-bda9-4619-a401-71760c693529",
+        "word": "beluga",
+        "phonetic": "bᵻluːɡə ",
+        "type": "noun",
+        "defineEn": "a small sub-Arctic whale that is white, from which caviar is taken",
+        "defineVi": "một con cá voi nhỏ ở Bắc Cực có màu trắng, từ đó trứng cá muối được lấy",
+        "hasImg": true
+    },
+    {
+        "id": "d91ff06e-e01c-4cfc-9fbe-5b3b959a0c36",
+        "word": "codfish",
+        "phonetic": "kɑːdfɪʃ ",
+        "type": "noun",
+        "defineEn": "a large food fish that lives in cold marine waters with a small barbel and three fins on the back",
+        "defineVi": "một loài cá thức ăn lớn sống ở vùng nước biển lạnh với một cái gai nhỏ và ba vây trên lưng",
+        "hasImg": true
+    },
+    {
+        "id": "0440963d-c264-4a0a-b969-d76e05a4df81",
+        "word": "wrasse",
+        "phonetic": "ɹæs ",
+        "type": "noun",
+        "defineEn": "a tropical marine fish with bright colors and wide lips that is kept in aquariums",
+        "defineVi": "một loài cá biển nhiệt đới với màu sắc tươi sáng và đôi môi rộng được nuôi trong bể cá",
+        "hasImg": true
+    },
+    {
+        "id": "89053bce-d889-47b1-9db7-dde7bf41e108",
+        "word": "rainbow trout",
+        "phonetic": "ɹeɪnboʊ tɹaʊt ",
+        "type": "noun",
+        "defineEn": "a cold water coastal fish that is a salmonid and is caught for food or sport, which has green, white, pink, etc. color bands on its body",
+        "defineVi": "một loài cá ven biển nước lạnh thuộc họ cá hồi và được đánh bắt để làm thức ăn hoặc thể thao, có các dải màu xanh lá cây, trắng, hồng, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "decbcb3e-7275-496b-9199-6e8fa8e00820",
+        "word": "barracouta",
+        "phonetic": "bæɹɐkaʊɾə ",
+        "type": "noun",
+        "defineEn": "a thin and bony marine fish that is eaten as food, caught in southern oceans",
+        "defineVi": "một loài cá biển gầy và nhiều xương được dùng làm thức ăn, được đánh bắt ở các đại dương phía nam",
+        "hasImg": true
+    },
+    {
+        "id": "3cf723a4-f6b4-4eba-ad78-3c76b879ec82",
+        "word": "pollock",
+        "phonetic": "pɑːlək ",
+        "type": "noun",
+        "defineEn": "a North Atlantic marine fish that resembles cod and is used as food",
+        "defineVi": "một loài cá biển Bắc Đại Tây Dương giống cá tuyết và được dùng làm thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "87a48c8f-9dc8-45e3-b603-f1a07bc44a71",
+        "word": "horse mackerel",
+        "phonetic": "hɔːɹs mækɚɹəl ",
+        "type": "noun",
+        "defineEn": "an East Atlantic food fish of the jack family that lives in large schools and is caught in Southern Africa",
+        "defineVi": "một loài cá thực phẩm ở Đông Đại Tây Dương thuộc họ jack sống theo đàn lớn và bị đánh bắt ở Nam Phi",
+        "hasImg": true
+    },
+    {
+        "id": "de9c39c7-af06-47f5-956f-963ed48ac71f",
+        "word": "manta",
+        "phonetic": "mæntə ",
+        "type": "noun",
+        "defineEn": "a very large tropical fish of the ray family that moves its triangular sides as wings in order to swim",
+        "defineVi": "một loài cá nhiệt đới rất lớn thuộc họ cá đuối di chuyển các cạnh hình tam giác của nó như đôi cánh để bơi",
+        "hasImg": true
+    },
+    {
+        "id": "307153ed-32d2-4779-ab89-87cd3ff45d21",
+        "word": "pufferfish",
+        "phonetic": "pʌfɚfɪʃ ",
+        "type": "noun",
+        "defineEn": "any tropical marine fish with no scale that fills with air in the face of threat and is highly poisonous",
+        "defineVi": "bất kỳ loài cá biển nhiệt đới nào không có vảy chứa đầy không khí khi đối mặt với mối đe dọa và có độc tính cao",
+        "hasImg": true
+    },
+    {
+        "id": "57fc8ff9-5ccc-4acf-b1f1-0e71c44aa64b",
+        "word": "lanternfish",
+        "phonetic": "læntɚnfɪʃ ",
+        "type": "noun",
+        "defineEn": "a small bony marine fish with a large mouth and eyes, which has spots on its skin that shine in the dark",
+        "defineVi": "một loài cá biển xương nhỏ có miệng và mắt lớn, có những đốm trên da phát sáng trong bóng tối",
+        "hasImg": true
+    },
+    {
+        "id": "0c14828d-1eda-4430-9924-d2a4140df2be",
+        "word": "dory",
+        "phonetic": "doːɹi ",
+        "type": "noun",
+        "defineEn": "a deep-bodied and large-eyed marine fish that can open its mouth very wide",
+        "defineVi": "một loài cá biển thân sâu và mắt to có thể há miệng rất rộng",
+        "hasImg": true
+    },
+    {
+        "id": "faa54433-b2ef-4a6e-ab1e-5af2dd5a55c0",
+        "word": "barramundi",
+        "phonetic": "bæɹɐmʌndi ",
+        "type": "noun",
+        "defineEn": "a large perch-like fish that is originally from Australia, which migrates down rivers to the sea in order to spawn",
+        "defineVi": "một loài cá lớn giống như cá rô có nguồn gốc từ Úc, di cư xuống sông ra biển để đẻ trứng",
+        "hasImg": true
+    },
+    {
+        "id": "f63abfb1-0e36-42c7-90c7-c7d39b44031c",
+        "word": "bluefish",
+        "phonetic": "bluːfɪʃ ",
+        "type": "noun",
+        "defineEn": "a tropical marine fish that is blue in color and predatory, which is caught for food",
+        "defineVi": "một loài cá biển nhiệt đới có màu xanh lam và săn mồi, được đánh bắt để làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "c0eb408e-7950-420a-88cd-677a3646d67d",
+        "word": "atlantic salmon",
+        "phonetic": "ɐtlæntɪk sæmən ",
+        "type": "noun",
+        "defineEn": "a ray-finned fish of the salmon family that is used as food and migrates to freshwater streams in order to spawn",
+        "defineVi": "một loài cá vây tia thuộc họ cá hồi được dùng làm thức ăn và di cư đến các dòng nước ngọt để đẻ trứng",
+        "hasImg": true
+    },
+    {
+        "id": "0ad9b5c5-261b-4e5e-a106-12cc6a68aafd",
+        "word": "skipjack",
+        "phonetic": "skɪpdʒæk ",
+        "type": "noun",
+        "defineEn": "a mid-sized perciform fish of the tuna family that has dark horizontal stripes",
+        "defineVi": "một loài cá có kích thước trung bình thuộc họ cá ngừ có sọc ngang sẫm màu",
+        "hasImg": true
+    },
+    {
+        "id": "7792464a-56d7-4ede-a794-4bfbd142c841",
+        "word": "mudskipper",
+        "phonetic": "mʌdskɪpɚ ",
+        "type": "noun",
+        "defineEn": "an amphibious fish of the goby family that is able to move around on mud or wet sand",
+        "defineVi": "một loài cá lưỡng cư thuộc họ cá bống có khả năng di chuyển trên bùn hoặc cát ướt",
+        "hasImg": true
+    },
+    {
+        "id": "b629e8ce-821e-4b5d-a6b3-35289766c702",
+        "word": "eel",
+        "phonetic": "iːl ",
+        "type": "noun",
+        "defineEn": "a long and thin freshwater or marine fish that is like a snake, sometimes eaten as food",
+        "defineVi": "một loài cá nước ngọt hoặc cá biển dài và mỏng giống như rắn, đôi khi được ăn làm thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "7203585e-8315-4999-84f0-7ad35a46fe3b",
+        "word": "John Dory",
+        "phonetic": "dʒɑːn doːɹi ",
+        "type": "noun",
+        "defineEn": "a coastal marine game fish with a wide olive-colored body and long dorsal fins",
+        "defineVi": "một loài cá biển ven biển có thân rộng màu ô liu và vây lưng dài",
+        "hasImg": true
+    },
+    {
+        "id": "992be9b0-51a6-446d-b8a9-d1c02852eb87",
+        "word": "tuna fish",
+        "phonetic": "tuːnə fɪʃ ",
+        "type": "noun",
+        "defineEn": "important warm-water fatty fish of the genus Thunnus of the family Scombridae",
+        "defineVi": "loài cá béo nước ấm quan trọng thuộc chi Thunnus thuộc họ Scombridae",
+        "hasImg": true
+    },
+    {
+        "id": "251b656d-6f4f-403d-b15e-50f0a90fc168",
+        "word": "bull shark",
+        "phonetic": "bʊl ʃɑːɹk ",
+        "type": "noun",
+        "defineEn": "an aggressive type of shark that lives in warm and shallow waters near coastlines",
+        "defineVi": "một loại cá mập hung dữ sống ở vùng nước nông và ấm gần bờ biển",
+        "hasImg": true
+    },
+    {
+        "id": "e657f45e-3a69-46db-a938-8b503a0ccc0d",
+        "word": "hammerhead",
+        "phonetic": "hæmɚhɛd ",
+        "type": "noun",
+        "defineEn": "a type of shark with a unique head shape that is wide and flattened, resembling the shape of a hammer",
+        "defineVi": "một loại cá mập có hình dạng đầu độc đáo rộng và dẹt, giống hình dạng của một cái búa"
+    },
+    {
+        "id": "08cb0b09-1eff-4c31-bfee-7d33c4616dff",
+        "word": "yellowtail",
+        "phonetic": "jɛloʊteɪl ",
+        "type": "noun",
+        "defineEn": "a species of fish characterized by its yellow-colored tail fin and its firm, flavorful flesh",
+        "defineVi": "một loài cá đặc trưng bởi vây đuôi màu vàng và thịt chắc, có hương vị"
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "id": "b6f138b8-d68a-4180-8837-66044779398d",
+        "word": "television",
+        "phonetic": "tɛlᵻvɪʒən ",
+        "type": "noun",
+        "defineEn": "the electronic medium of transmitting audiovisual content to viewers",
+        "defineVi": "phương tiện điện tử để truyền tải nội dung nghe nhìn tới người xem"
+    },
+    {
+        "id": "5cb1eb5c-1485-4843-b48c-4f31d274f0f0",
+        "word": "radio",
+        "phonetic": "ɹeɪdɪoʊ ",
+        "type": "noun",
+        "defineEn": "the transmission and reception of audio content through electromagnetic waves, providing a platform for delivering news, music, and other forms of entertainment to listeners",
+        "defineVi": "việc truyền và nhận nội dung âm thanh thông qua sóng điện từ, cung cấp một nền tảng để cung cấp tin tức, âm nhạc và các hình thức giải trí khác cho người nghe"
+    },
+    {
+        "id": "4c70cbf4-1cca-4431-a5d6-4665da199234",
+        "word": "frequency",
+        "phonetic": "fɹiːkwənsi ",
+        "type": "noun",
+        "defineEn": "the specific number of waves that pass a point every second",
+        "defineVi": "số lượng sóng cụ thể đi qua một điểm mỗi giây"
+    },
+    {
+        "id": "c6242a21-f1ef-421d-a580-c8aa37f85f69",
+        "word": "airwaves",
+        "phonetic": "ɛɹweɪvz ",
+        "type": "noun",
+        "defineEn": "radio waves used as a medium for broadcasting television and radio programs",
+        "defineVi": "sóng vô tuyến dùng làm phương tiện phát sóng các chương trình truyền hình, phát thanh"
+    },
+    {
+        "id": "62570c8f-4008-4e43-9e03-a84c57b541a7",
+        "word": "am",
+        "phonetic": "æm ",
+        "type": "noun",
+        "defineEn": "one of the main methods of radio broadcasting with a lower sound quality than FM",
+        "defineVi": "một trong những phương pháp phát thanh chính với chất lượng âm thanh thấp hơn FM"
+    },
+    {
+        "id": "4db81309-ab3e-4a95-a027-74b542f3ac65",
+        "word": "fm",
+        "phonetic": "ɛfɛm ",
+        "type": "noun",
+        "defineEn": "one of the main methods of radio broadcasting with a high sound quality",
+        "defineVi": "một trong những phương pháp phát thanh chính với chất lượng âm thanh cao"
+    },
+    {
+        "id": "b12fd636-bf78-4938-bb8b-6a5222806b6d",
+        "word": "gigahertz",
+        "phonetic": "ɡɪɡəhɜːts ",
+        "type": "noun",
+        "defineEn": "a unit that is used to measure the frequency of a radio wave, or speed of a computer, which is equal to 1 billion Hertz",
+        "defineVi": "một đơn vị được sử dụng để đo tần số của sóng vô tuyến hoặc tốc độ của máy tính, tương đương với 1 tỷ Hertz"
+    },
+    {
+        "id": "a4b804fe-dbdf-40f7-8af4-791aaea192cb",
+        "word": "interference",
+        "phonetic": "ɪntəfɪɹəns ",
+        "type": "noun",
+        "defineEn": "disturbance caused by signals from a different source which lead to unwanted noise in a radio signal that is being received",
+        "defineVi": "nhiễu do tín hiệu từ một nguồn khác gây ra dẫn đến nhiễu không mong muốn trong tín hiệu vô tuyến đang được nhận"
+    },
+    {
+        "id": "fb250b5c-e803-4da1-a4c9-17c3711cf033",
+        "word": "long wave",
+        "phonetic": "lɔŋ weɪv ",
+        "type": "noun",
+        "defineEn": "a radio wave with a frequency under 300 kHz and a wavelength of more than 1 kilometer that is used for broadcasting",
+        "defineVi": "sóng vô tuyến có tần số dưới 300 kHz và bước sóng hơn 1 km được sử dụng để phát sóng"
+    },
+    {
+        "id": "5b5fc7e2-96ba-49ae-89b1-7e7f5f850783",
+        "word": "medium wave",
+        "phonetic": "miːdiəm weɪv ",
+        "type": "noun",
+        "defineEn": "a radio wave that has a frequency between 300 kHz and 3 MHz and a wavelength between 100 to 1000 meters, which is used for broadcasting",
+        "defineVi": "sóng vô tuyến có tần số từ 300 kHz đến 3 MHz và bước sóng từ 100 đến 1000 mét, được sử dụng để phát sóng"
+    },
+    {
+        "id": "a95fcb7f-c092-452a-a9b1-259d9ef2cb29",
+        "word": "short wave",
+        "phonetic": "ʃɔːɹt weɪv ",
+        "type": "noun",
+        "defineEn": "a radio wave that has a frequency between 3 and 30 MHz, and a wavelength between 10 to 100 meters, used for broadcasting",
+        "defineVi": "sóng vô tuyến có tần số từ 3 đến 30 MHz và bước sóng từ 10 đến 100 mét, được sử dụng để phát sóng"
+    },
+    {
+        "id": "4c6f555f-e5f2-4a51-8267-1e396dbbd397",
+        "word": "megahertz",
+        "phonetic": "mɛɡəhɜːts ",
+        "type": "noun",
+        "defineEn": "a unit that is used to measure the frequency of a radio wave which is equal to 1 million Hertz",
+        "defineVi": "một đơn vị được sử dụng để đo tần số của sóng vô tuyến bằng 1 triệu Hertz"
+    },
+    {
+        "id": "5ab7c859-5705-425f-8fae-a12511a24469",
+        "word": "signal",
+        "phonetic": "sɪɡnəl ",
+        "type": "noun",
+        "defineEn": "a series of electrical or radio waves carrying data to a radio, television station, or mobile phone",
+        "defineVi": "một loạt sóng điện hoặc sóng vô tuyến mang dữ liệu đến đài phát thanh, đài truyền hình hoặc điện thoại di động"
+    },
+    {
+        "id": "3457e366-2ac8-4bfa-81be-e9d0c912eddb",
+        "word": "time signal",
+        "phonetic": "taɪm sɪɡnəl ",
+        "type": "noun",
+        "defineEn": "a recognizable signal that the radio broadcasts at a precise time to indicate the accurate time of day",
+        "defineVi": "một tín hiệu dễ nhận biết mà đài phát thanh vào một thời điểm chính xác để chỉ ra thời gian chính xác trong ngày"
+    },
+    {
+        "id": "a81f4559-cc13-4668-864c-8419cc92d26c",
+        "word": "tower",
+        "phonetic": "taʊɚ ",
+        "type": "noun",
+        "defineEn": "a tall structure, usually made of metal, used to transmit television or radio signals",
+        "defineVi": "một cấu trúc cao, thường làm bằng kim loại, được sử dụng để truyền tín hiệu truyền hình hoặc đài phát thanh"
+    },
+    {
+        "id": "54ef18fa-dd7e-4eac-a46d-250ab773281f",
+        "word": "transmission",
+        "phonetic": "tɹænsmɪʃən ",
+        "type": "noun",
+        "defineEn": "the activity of transmitting a signal, a message or a program that is being broadcast on radio or television",
+        "defineVi": "hoạt động truyền tín hiệu, tin nhắn hoặc chương trình đang được phát trên đài phát thanh hoặc truyền hình"
+    },
+    {
+        "id": "a2eb1964-1998-44ce-8a71-8d81fa0ec426",
+        "word": "uhf",
+        "phonetic": "uːf ",
+        "type": "noun",
+        "defineEn": "a range of radio waves with a frequency between 300 MHz and 3000 MHz, especially used in broadcasting television and radio programs that are of high-quality",
+        "defineVi": "một dải sóng vô tuyến có tần số từ 300 MHz đến 3000 MHz, đặc biệt được sử dụng để phát các chương trình truyền hình và đài phát thanh có chất lượng cao"
+    },
+    {
+        "id": "5f40db75-1b4d-4e8d-9498-a209907083c0",
+        "word": "vhf",
+        "phonetic": "viːeɪtʃɛf ",
+        "type": "noun",
+        "defineEn": "radio waves in the range of 30 to 300 MHz that are used in broadcasting TV signals",
+        "defineVi": "sóng vô tuyến trong phạm vi từ 30 đến 300 MHz được sử dụng để phát tín hiệu TV"
+    },
+    {
+        "id": "ad2856c2-4941-4068-a2d9-1ed39f81d655",
+        "word": "waveband",
+        "phonetic": "weɪvbænd ",
+        "type": "noun",
+        "defineEn": "a series of radio waves with similar lengths used for specific types of radio broadcasting",
+        "defineVi": "một loạt các sóng vô tuyến có độ dài tương tự được sử dụng cho các loại phát sóng vô tuyến cụ thể"
+    },
+    {
+        "id": "7a4505e6-b953-4b6d-9a55-3667561e9c71",
+        "word": "wavelength",
+        "phonetic": "weɪvlɛŋθ ",
+        "type": "noun",
+        "defineEn": "the distance between a point on a wave of energy and a similar point on the next wave",
+        "defineVi": "khoảng cách giữa một điểm trên sóng năng lượng và một điểm tương tự trên sóng tiếp theo"
+    },
+    {
+        "id": "b6ef7270-2436-4567-bdf5-ac478d404f55",
+        "word": "white noise",
+        "phonetic": "waɪt nɔɪz ",
+        "type": "noun",
+        "defineEn": "a noise that holds numerous sound frequencies with the same strengths",
+        "defineVi": "một tiếng ồn chứa nhiều tần số âm thanh với cùng cường độ"
+    },
+    {
+        "id": "cd235592-fda0-4be5-a6e5-3a77327cc07d",
+        "word": "broadcast",
+        "phonetic": "bɹɔːdkæst ",
+        "type": "noun",
+        "defineEn": "the distribution of audio or video content to a wide audience, typically through radio or television, using a network or airwaves",
+        "defineVi": "việc phân phối nội dung âm thanh hoặc video cho nhiều đối tượng, thường là qua đài phát thanh hoặc truyền hình, sử dụng mạng hoặc sóng vô tuyến"
+    },
+    {
+        "id": "7ac26bb7-847a-4488-ba23-f525bf6d3d34",
+        "word": "dead air",
+        "phonetic": "dɛd ɛɹ ",
+        "type": "noun",
+        "defineEn": "the absence of any sound or broadcast signal on a radio or television channel, resulting in a period of silence or static noise",
+        "defineVi": "sự vắng mặt của bất kỳ tín hiệu âm thanh hoặc phát sóng nào trên kênh phát thanh hoặc truyền hình, dẫn đến một khoảng thời gian im lặng hoặc nhiễu tĩnh"
+    },
+    {
+        "id": "a29cd90c-21be-4619-ac35-d07c87447afc",
+        "word": "reception",
+        "phonetic": "ɹᵻsɛpʃən ",
+        "type": "noun",
+        "defineEn": "the quality or the act of receiving radio, television or cellphone signals",
+        "defineVi": "chất lượng hoặc hành động nhận tín hiệu radio, truyền hình hoặc điện thoại di động"
+    },
+    {
+        "id": "347520a6-7118-439f-ba3a-4e05f2fa6706",
+        "word": "feed",
+        "phonetic": "fiːd ",
+        "type": "noun",
+        "defineEn": "a program sent out by a satellite or from the main network to radio and television stations for broadcasting",
+        "defineVi": "một chương trình được gửi bởi vệ tinh hoặc từ mạng chính tới các đài phát thanh và truyền hình để phát sóng"
+    },
+    {
+        "id": "a9eb41a6-cb9b-46aa-a69a-125a9e341188",
+        "word": "narrowcast",
+        "phonetic": "næɹoʊkæst ",
+        "type": "noun",
+        "defineEn": "the transmission or dissemination of content to a specific and targeted audience or niche market, as opposed to broadcasting to a broad and general audience",
+        "defineVi": "việc truyền tải hoặc phổ biến nội dung tới một đối tượng cụ thể và được nhắm mục tiêu hoặc thị trường thích hợp, trái ngược với việc phát sóng tới một đối tượng rộng rãi và chung chung"
+    },
+    {
+        "id": "34e7a210-14fe-4e04-b10a-38357f2952e1",
+        "word": "talkback",
+        "phonetic": "tɔːkbæk ",
+        "type": "noun",
+        "defineEn": "‌a system by which people working in a radio station can communicate with one another without being heard by the audience",
+        "defineVi": "‌một hệ thống mà những người làm việc trong một đài phát thanh có thể giao tiếp với nhau mà khán giả không nghe thấy"
+    },
+    {
+        "id": "d312a461-e3d3-4809-b0ac-58e81fa1feaa",
+        "word": "static",
+        "phonetic": "stæɾɪk ",
+        "type": "noun",
+        "defineEn": "interfering noises on telecommunication systems, such as radio, caused by electrical disturbances in the air",
+        "defineVi": "tiếng ồn gây nhiễu trên các hệ thống viễn thông, chẳng hạn như đài phát thanh, do nhiễu điện trong không khí"
+    },
+    {
+        "id": "0f711eb4-4e4f-4117-90a5-6d8627d34d99",
+        "word": "public access",
+        "phonetic": "pʌblɪk æksɛs ",
+        "type": "noun",
+        "defineEn": "a right given to people to broadcast their own programs on television or radio channels",
+        "defineVi": "quyền được trao cho mọi người để phát các chương trình của riêng họ trên các kênh truyền hình hoặc đài phát thanh"
+    }
+]

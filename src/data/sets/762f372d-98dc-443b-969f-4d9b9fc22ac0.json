@@ -1,0 +1,323 @@
+[
+    {
+        "id": "148a0725-1e98-40e8-91c8-a1d5d5a2bae4",
+        "word": "watt",
+        "phonetic": "wɑːt ",
+        "type": "noun",
+        "defineEn": "the standard unit for measuring electrical power corresponding to the rate of energy consumption in an electric circuit, equal to one joule per second",
+        "defineVi": "đơn vị tiêu chuẩn để đo công suất điện tương ứng với tốc độ tiêu thụ năng lượng trong mạch điện, bằng một joule trên giây"
+    },
+    {
+        "id": "3cd2aca0-a798-4c9e-b10a-15ab69fcee1c",
+        "word": "volt",
+        "phonetic": "voʊlt ",
+        "type": "noun",
+        "defineEn": "the standard unit of electromotive force, which measures the strength of an electrical current that is sent around an electrical system",
+        "defineVi": "đơn vị tiêu chuẩn của lực điện động, đo cường độ của dòng điện được gửi xung quanh hệ thống điện"
+    },
+    {
+        "id": "653973bf-b1b1-436f-af80-2cdb018c6727",
+        "word": "rpm",
+        "phonetic": "ɑːɹpiːɛm ",
+        "type": "noun",
+        "defineEn": "a unit for measuring the speed of an engine, a computer hard drive, etc.",
+        "defineVi": "một đơn vị đo tốc độ của động cơ, ổ cứng máy tính, v.v."
+    },
+    {
+        "id": "8fd9054e-428a-461d-a41b-d57793854d8e",
+        "word": "amp",
+        "phonetic": "æmp ",
+        "type": "noun",
+        "defineEn": "a unit of measurement used to determine the strength of an electrical current",
+        "defineVi": "một đơn vị đo lường được sử dụng để xác định cường độ dòng điện"
+    },
+    {
+        "id": "eafbc62c-09fa-4caf-a982-350254ae32f6",
+        "word": "karat",
+        "phonetic": "kæɹət ",
+        "type": "noun",
+        "defineEn": "a unit to measure the purity of gold, the purest gold being 24 karats",
+        "defineVi": "một đơn vị để đo độ tinh khiết của vàng, vàng tinh khiết nhất là 24 karat",
+        "hasImg": true
+    },
+    {
+        "id": "a9827004-90a3-4b91-9c3d-0a93fd4599b8",
+        "word": "c",
+        "phonetic": "siː ",
+        "type": "noun",
+        "defineEn": "a metric unit of measurement used to determine the temperature of a place or thing based on which water boils at 100° and freezes at 0° under standard conditions",
+        "defineVi": "một đơn vị đo lường số liệu được sử dụng để xác định nhiệt độ của một địa điểm hoặc vật dựa trên đó nước sôi ở 100° và đóng băng ở 0° trong điều kiện tiêu chuẩn",
+        "hasImg": true
+    },
+    {
+        "id": "09e635ea-7cc8-4b93-bfe2-1f0722cfd7ba",
+        "word": "cl",
+        "phonetic": "siːɛl ",
+        "type": "noun",
+        "defineEn": "a metric unit of measurement equal to one-hundredth of a liter",
+        "defineVi": "một đơn vị đo lường số liệu bằng một phần trăm lít"
+    },
+    {
+        "id": "73c66710-2b91-452b-8d02-bd5c4bddbc5f",
+        "word": "fluid ounce",
+        "phonetic": "fluːɪd aʊns ",
+        "type": "noun",
+        "defineEn": "a unit to measure liquids which is equal to 0.028 liters in the measurement used in the UK and some other countries, and 0.03 liters in that of the US",
+        "defineVi": "một đơn vị đo chất lỏng bằng 0,028 lít trong phép đo được sử dụng ở Anh và một số quốc gia khác, và 0,03 lít ở Hoa Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "bc3df415-b1a7-46b1-8648-0aa356f43982",
+        "word": "fps",
+        "phonetic": "ɛfpiːɛs ",
+        "type": "noun",
+        "defineEn": "a unit of measurement used to determine the speed or velocity of something",
+        "defineVi": "một đơn vị đo lường được sử dụng để xác định tốc độ hoặc vận tốc của một cái gì đó"
+    },
+    {
+        "id": "78ce3380-4f39-4a74-90c6-71d2c7da9b1a",
+        "word": "hertz",
+        "phonetic": "hɜːts ",
+        "type": "noun",
+        "defineEn": "a unit that is used in measurement of the frequency of sound and radio waves",
+        "defineVi": "một đơn vị được sử dụng để đo tần số của âm thanh và sóng vô tuyến"
+    },
+    {
+        "id": "51ef73f9-f828-46cd-97a5-049a5c164e3a",
+        "word": "horsepower",
+        "phonetic": "hɔːɹspaʊɚ ",
+        "type": "noun",
+        "defineEn": "a unit for measuring an engine's power",
+        "defineVi": "một đơn vị để đo sức mạnh của động cơ"
+    },
+    {
+        "id": "b89d5fc0-d384-4e19-a87e-dfc9d3931509",
+        "word": "km/h",
+        "phonetic": "keɪɛm slæʃ eɪtʃ ",
+        "type": "noun",
+        "defineEn": "a unit of measurement adopted by the metric system used to determine the speed of an object",
+        "defineVi": "một đơn vị đo lường được sử dụng bởi hệ thống số liệu được sử dụng để xác định tốc độ của một vật thể"
+    },
+    {
+        "id": "c6df0257-0d71-4a9d-8d9a-8fa32dc7b683",
+        "word": "lb",
+        "phonetic": "ɛlbiː ",
+        "type": "noun",
+        "defineEn": "a unit of measurement that equals 454 grams or 16 ounces and is used to determine the weight of something",
+        "defineVi": "một đơn vị đo lường bằng 454 gram hoặc 16 ounce và được sử dụng để xác định trọng lượng của một thứ gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "5fe70e0e-97f4-4777-8566-8ee4f47b559a",
+        "word": "pint",
+        "phonetic": "paɪnt ",
+        "type": "noun",
+        "defineEn": "a unit to measure liquids and some dry goods, there are 8 pints in a gallon, and it is equal to 0.568 of a liter in the United Kingdom and some other countries, and 0.473 of a liter in the United States",
+        "defineVi": "một đơn vị đo chất lỏng và một số mặt hàng khô, có 8 panh trong một gallon và nó bằng 0,568 lít ở Vương quốc Anh và một số quốc gia khác, và 0,473 lít ở Hoa Kỳ",
+        "hasImg": true
+    },
+    {
+        "id": "e495f860-1ed5-4dd2-9ed8-4fb96322abad",
+        "word": "cube",
+        "phonetic": "kjuːb ",
+        "type": "noun",
+        "defineEn": "the number that is the result of a number multiplied by itself three times",
+        "defineVi": "số là kết quả của một số nhân với chính nó ba lần"
+    },
+    {
+        "id": "75cadf83-b287-48b4-8e53-eba301a4112f",
+        "word": "square",
+        "phonetic": "skwɛɹ ",
+        "type": "noun",
+        "defineEn": "the second exponent of any given number produced when multiplied by itself",
+        "defineVi": "số mũ thứ hai của bất kỳ số đã cho nào được tạo ra khi nhân với chính nó"
+    },
+    {
+        "id": "788b0a3c-cfc9-4c16-9931-fea859d7dae5",
+        "word": "square root",
+        "phonetic": "skwɛɹ ɹuːt ",
+        "type": "noun",
+        "defineEn": "a number that produces a particular number when multiplied by itself",
+        "defineVi": "một số tạo ra một số cụ thể khi nhân với chính nó"
+    },
+    {
+        "id": "6a4cf928-5fa0-40ec-85e9-1c56e15066f1",
+        "word": "variable",
+        "phonetic": "vɛɹɪəbəl ",
+        "type": "noun",
+        "defineEn": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+        "defineVi": "(toán học) đại lượng có khả năng nhận các giá trị khác nhau trong một phép tính"
+    },
+    {
+        "id": "a00fa90f-b312-4054-a707-1eab01ab1993",
+        "word": "tape measure",
+        "phonetic": "teɪp mɛʒɚ ",
+        "type": "noun",
+        "defineEn": "a long, thin piece of plastic, cloth, or flexible metal marked at graded intervals, used for measuring the length or height of something",
+        "defineVi": "một miếng nhựa, vải hoặc kim loại dẻo dài và mỏng được đánh dấu theo các khoảng cách đã được phân loại, được sử dụng để đo chiều dài hoặc chiều cao của một thứ gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "ad0c0557-6309-430f-a36f-691b07c4c7af",
+        "word": "array",
+        "phonetic": "ɚɹeɪ ",
+        "type": "noun",
+        "defineEn": "a group of numbers, mathematical symbols or values, arranged in columns and rows",
+        "defineVi": "một nhóm các số, ký hiệu toán học hoặc giá trị, được sắp xếp theo cột và hàng"
+    },
+    {
+        "id": "db4393b5-fd76-4425-ae07-9a3bff5bc661",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "a real or imaginary line about which an object rotates",
+        "defineVi": "một đường thực hoặc tưởng tượng mà một đối tượng quay"
+    },
+    {
+        "id": "869886a3-5fb5-4504-8936-c1db40094c62",
+        "word": "calculus",
+        "phonetic": "kælkjʊləs ",
+        "type": "noun",
+        "defineEn": "the branch of mathematics that comprises differentials and integrals",
+        "defineVi": "ngành toán học bao gồm vi phân và tích phân",
+        "hasImg": true
+    },
+    {
+        "id": "af83d9aa-167b-4680-a2f0-12799f68a279",
+        "word": "denominator",
+        "phonetic": "dᵻnɑːmᵻneɪɾɚ ",
+        "type": "noun",
+        "defineEn": "the number below the line in a fraction that shows how many parts the numerator divides into",
+        "defineVi": "số bên dưới dòng trong một phân số cho biết tử số chia thành bao nhiêu phần"
+    },
+    {
+        "id": "c685ec84-71a2-4724-8125-dbf9512e9902",
+        "word": "numerator",
+        "phonetic": "nuːmɚɹeɪɾɚ ",
+        "type": "noun",
+        "defineEn": "Fractional number above the line",
+        "defineVi": "Số phân số phía trên dòng"
+    },
+    {
+        "id": "a2aac0d5-6560-4b34-9cb6-91ef753a65eb",
+        "word": "common denominator",
+        "phonetic": "kɑːmən dᵻnɑːmᵻneɪɾɚ ",
+        "type": "noun",
+        "defineEn": "(mathematics) a number divisible by all the numbers that are below the line in a set of fractions",
+        "defineVi": "(toán học) một số chia hết cho tất cả các số nằm dưới dòng trong một tập hợp các phân số"
+    },
+    {
+        "id": "58b68856-79df-4401-a17d-3da3312105ab",
+        "word": "chaos theory",
+        "phonetic": "keɪɑːs θiəɹi ",
+        "type": "noun",
+        "defineEn": "(mathematics) an interdisciplinary theory about complex systems that obey particular laws but appear to have little or no order",
+        "defineVi": "(toán học) một lý thuyết liên ngành về các hệ thống phức tạp tuân theo các quy luật cụ thể nhưng dường như có rất ít hoặc không có trật tự"
+    },
+    {
+        "id": "d77f5372-5f72-4532-9efe-ff39ea06b82e",
+        "word": "game theory",
+        "phonetic": "ɡeɪm θiəɹi ",
+        "type": "noun",
+        "defineEn": "a branch of mathematics that studies the strategies of dealing with competitive situations involving conflict of interests, especially in business, war, etc.",
+        "defineVi": "một nhánh của toán học nghiên cứu các chiến lược đối phó với các tình huống cạnh tranh liên quan đến xung đột lợi ích, đặc biệt là trong kinh doanh, chiến tranh, v.v."
+    },
+    {
+        "id": "12a4c72c-90cc-4774-a40c-4127d9e4d7dd",
+        "word": "coordinate",
+        "phonetic": "koʊɔːɹdᵻnət ",
+        "type": "noun",
+        "defineEn": "any set of numbers that represent an exact position on a map or graph",
+        "defineVi": "bất kỳ bộ số nào đại diện cho một vị trí chính xác trên bản đồ hoặc đồ thị"
+    },
+    {
+        "id": "d4ce4651-5e62-471e-bc71-d8330749f4b9",
+        "word": "gradient",
+        "phonetic": "ɡɹeɪdiənt ",
+        "type": "noun",
+        "defineEn": "the rate of change of temperature, pressure, etc. between one part and another",
+        "defineVi": "tốc độ thay đổi nhiệt độ, áp suất, v.v. giữa bộ phận này với bộ phận khác"
+    },
+    {
+        "id": "a2555ad2-ec79-497e-bc9e-fdcf8a4be235",
+        "word": "prime number",
+        "phonetic": "pɹaɪm nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a number greater than 1 with only two devisors which can be itself or 1",
+        "defineVi": "một số lớn hơn 1 chỉ có hai ước số có thể là chính nó hoặc 1"
+    },
+    {
+        "id": "6495e702-7506-4242-98c5-897000bb347c",
+        "word": "cardinal number",
+        "phonetic": "kɑːɹdɪnəl nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a number indicating the quantity and not order",
+        "defineVi": "một số chỉ số lượng và không đặt hàng"
+    },
+    {
+        "id": "a98e740d-87b7-4449-b459-e218932d9bcb",
+        "word": "irrational number",
+        "phonetic": "ɪɹæʃənəl nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a number incapable of being expressed as a ratio of two integers",
+        "defineVi": "một số không thể được biểu thị dưới dạng tỷ lệ của hai số nguyên"
+    },
+    {
+        "id": "7d78476f-dce3-43fa-990c-249fb180bb57",
+        "word": "rational number",
+        "phonetic": "ɹæʃənəl nʌmbɚ ",
+        "type": "noun",
+        "defineEn": "a number that can be expressed as the fraction of two integers",
+        "defineVi": "một số có thể được biểu thị dưới dạng phân số của hai số nguyên"
+    },
+    {
+        "id": "40767825-621b-4792-84a3-1e9dd72c9a69",
+        "word": "mean",
+        "phonetic": "miːn ",
+        "type": "noun",
+        "defineEn": "(mathematics) the average value of a set of quantities calculated by adding them, and dividing them by the total number of the quantities",
+        "defineVi": "(toán học) giá trị trung bình của một tập hợp các đại lượng được tính bằng cách cộng chúng lại và chia chúng cho tổng số lượng",
+        "hasImg": true
+    },
+    {
+        "id": "af984a73-59e7-4529-b9c8-5f5d71763777",
+        "word": "perimeter",
+        "phonetic": "pɚɹɪmɪɾɚ ",
+        "type": "noun",
+        "defineEn": "the total length of the external boundary of something",
+        "defineVi": "tổng chiều dài của ranh giới bên ngoài của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "f413c724-e6ac-4f8e-9d92-100aa2bdcf2c",
+        "word": "tangent",
+        "phonetic": "tændʒənt ",
+        "type": "noun",
+        "defineEn": "(mathematics) the ratio of the opposite to the adjacent side of a triangle that has one angle of 90°",
+        "defineVi": "(toán học) tỷ lệ của cạnh đối diện với cạnh kề của một tam giác có một góc bằng 90°"
+    },
+    {
+        "id": "cd28ee69-f282-4b71-a0a2-f267d5a4e545",
+        "word": "sine",
+        "phonetic": "saɪn ",
+        "type": "noun",
+        "defineEn": "(mathematics) the ratio of the length of the side opposite the given angle to the length of the hypotenuse",
+        "defineVi": "(toán học) tỷ lệ độ dài của cạnh đối diện với góc đã cho với độ dài của cạnh huyền"
+    },
+    {
+        "id": "b136b076-0bba-44b8-a5d9-907e61499372",
+        "word": "cosine",
+        "phonetic": "koʊsaɪn ",
+        "type": "noun",
+        "defineEn": "(mathematics) the ratio of the adjacent side to the hypotenuse",
+        "defineVi": "(toán học) tỉ số của cạnh kề với cạnh huyền"
+    },
+    {
+        "id": "dea05db5-d1f6-4408-b923-8a68bba9e710",
+        "word": "cotangent",
+        "phonetic": "koʊtændʒənt ",
+        "type": "noun",
+        "defineEn": "the ratio of the side adjacent to a particular acute angle to the side opposite the angle, in a right-angled triangle",
+        "defineVi": "tỷ lệ của cạnh kề với một góc nhọn cụ thể với cạnh đối diện với góc đó, trong một tam giác vuông"
+    }
+]

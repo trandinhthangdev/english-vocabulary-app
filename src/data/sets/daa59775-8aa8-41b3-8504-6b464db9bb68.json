@@ -1,0 +1,519 @@
+[
+    {
+        "id": "32af7c9c-6506-44f7-9b4c-68ac9d767a66",
+        "word": "actor",
+        "phonetic": "æktɚ ",
+        "type": "noun",
+        "defineEn": "someone whose job involves performing in movies, plays, or series",
+        "defineVi": "ai đó có công việc liên quan đến việc biểu diễn trong phim, vở kịch hoặc sê-ri",
+        "hasImg": true
+    },
+    {
+        "id": "b1dfc6f7-ef30-4152-b950-816b9d0368c1",
+        "word": "actress",
+        "phonetic": "æktɹəs ",
+        "type": "noun",
+        "defineEn": "a woman whose job involves performing in movies, plays, or series",
+        "defineVi": "một người phụ nữ có công việc liên quan đến biểu diễn trong phim, vở kịch hoặc sê-ri",
+        "hasImg": true
+    },
+    {
+        "id": "3261749d-aef8-49d7-9bc7-989fc02445ad",
+        "word": "double",
+        "phonetic": "dʌbəl ",
+        "type": "noun",
+        "defineEn": "someone who takes part in a movie in order to replace the real actor while the nude or dangerous scenes are recorded",
+        "defineVi": "ai đó tham gia vào một bộ phim để thay thế diễn viên thực sự trong khi những cảnh khỏa thân hoặc nguy hiểm được ghi lại"
+    },
+    {
+        "id": "851eb87a-2e86-41d1-8f2c-e287762f2957",
+        "word": "ensemble cast",
+        "phonetic": "ɑːnsɑːmbəl kæst ",
+        "type": "noun",
+        "defineEn": "a group of actors who share roughly equal screen time and importance in a movie",
+        "defineVi": "một nhóm diễn viên chia sẻ thời lượng và tầm quan trọng trên màn ảnh gần như bằng nhau trong một bộ phim"
+    },
+    {
+        "id": "531a8394-582a-48c8-839b-349f85fd031c",
+        "word": "character actor",
+        "phonetic": "kæɹɪktɚɹ æktɚ ",
+        "type": "noun",
+        "defineEn": "an actor who always plays the role of a bizarre or outlandish character rather than a main role",
+        "defineVi": "một diễn viên luôn đóng vai một nhân vật kỳ quái hoặc kỳ quặc hơn là vai chính"
+    },
+    {
+        "id": "0935bc64-6c25-4293-9ea6-d32c96e77a3f",
+        "word": "leading man",
+        "phonetic": "liːdɪŋ mæn ",
+        "type": "noun",
+        "defineEn": "actor who plays the leading male role",
+        "defineVi": "diễn viên đảm nhận vai nam chính"
+    },
+    {
+        "id": "124b23b9-8a09-441a-b6b5-9b247a896a81",
+        "word": "leading lady",
+        "phonetic": "liːdɪŋ leɪdi ",
+        "type": "noun",
+        "defineEn": "an actress who plays the main role in a movie or play",
+        "defineVi": "một nữ diễn viên đóng vai chính trong một bộ phim hoặc vở kịch"
+    },
+    {
+        "id": "78148708-013c-410d-b16b-07331cec21bf",
+        "word": "ham",
+        "phonetic": "hæm ",
+        "type": "noun",
+        "defineEn": "an actor with an exaggerated theatrical style",
+        "defineVi": "một diễn viên với phong cách sân khấu phóng đại"
+    },
+    {
+        "id": "b18c700f-a440-439f-b8ae-cb2bbd5f7f3f",
+        "word": "lead",
+        "phonetic": "liːd ",
+        "type": "noun",
+        "defineEn": "an actor who plays the main role in a play or movie",
+        "defineVi": "một diễn viên đóng vai chính trong một vở kịch hoặc bộ phim",
+        "hasImg": true
+    },
+    {
+        "id": "e149ff24-917b-4ad2-8f66-fc28a6a8e17f",
+        "word": "supporting actor",
+        "phonetic": "səpoːɹɾɪŋ æktɚ ",
+        "type": "noun",
+        "defineEn": "an actor who plays a secondary character in a film or television show, often providing support or context to the main plot or protagonist",
+        "defineVi": "một diễn viên đóng vai phụ trong một bộ phim hoặc chương trình truyền hình, thường cung cấp hỗ trợ hoặc bối cảnh cho cốt truyện chính hoặc nhân vật chính"
+    },
+    {
+        "id": "c0e7eb43-7e82-4453-b940-b4f98ed695c6",
+        "word": "voice actor",
+        "phonetic": "vɔɪs æktɚ ",
+        "type": "noun",
+        "defineEn": "a performer who provides voices for animated films, TV shows, video games, commercials, audiobooks, and other media where speaking voices are needed",
+        "defineVi": "người biểu diễn cung cấp giọng nói cho phim hoạt hình, chương trình truyền hình, trò chơi điện tử, quảng cáo, sách nói và các phương tiện truyền thông khác khi cần có giọng nói"
+    },
+    {
+        "id": "e1cbc4bb-2d4e-48b1-bdc4-c6412832c095",
+        "word": "bit part",
+        "phonetic": "bɪt pɑːɹt ",
+        "type": "noun",
+        "defineEn": "a minor role in a movie or play",
+        "defineVi": "một vai nhỏ trong một bộ phim hoặc vở kịch"
+    },
+    {
+        "id": "423e0ed8-3d2d-4c3e-8359-7da117150810",
+        "word": "stand-in",
+        "phonetic": "stændɪn ",
+        "type": "noun",
+        "defineEn": "a person who replaces someone else briefly in doing their job while they are not available",
+        "defineVi": "một người thay thế người khác trong thời gian ngắn làm công việc của họ khi họ không có mặt"
+    },
+    {
+        "id": "91308f7c-b591-4caf-9534-33b9b019042d",
+        "word": "star",
+        "phonetic": "stɑːɹ ",
+        "type": "noun",
+        "defineEn": "the chief actor or performer in a motion picture, play, TV or radio program, etc.",
+        "defineVi": "diễn viên chính hoặc người biểu diễn trong một bộ phim chuyển động, vở kịch, chương trình truyền hình hoặc đài phát thanh, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "a8aab08a-56be-4061-b63d-e19453e58346",
+        "word": "starlet",
+        "phonetic": "stɑːɹlɪt ",
+        "type": "noun",
+        "defineEn": "a young and promising female actor who is coached and publicized in order to become a star",
+        "defineVi": "một nữ diễn viên trẻ triển vọng được đào tạo và quảng bá để trở thành một ngôi sao"
+    },
+    {
+        "id": "b02b7d49-dde1-4ac3-8db1-fa1d5ec91372",
+        "word": "tragedian",
+        "phonetic": "tɹædʒiːdiən ",
+        "type": "noun",
+        "defineEn": "an actor who takes part in performing a role in a tragedy",
+        "defineVi": "một diễn viên tham gia thực hiện một vai trong bi kịch"
+    },
+    {
+        "id": "b0f688eb-60de-4d78-a61e-2690cc159589",
+        "word": "understudy",
+        "phonetic": "ʌndɚstʌdi ",
+        "type": "noun",
+        "defineEn": "an actor who practices the lines of another actor in order to replace them if necessary",
+        "defineVi": "một diễn viên thực hành lời thoại của một diễn viên khác để thay thế họ nếu cần thiết"
+    },
+    {
+        "id": "7142f25b-e377-4428-bd76-71f43fed70f3",
+        "word": "walk-on",
+        "phonetic": "wɔːkɔn ",
+        "type": "noun",
+        "defineEn": "a small, non-speaking role played by an actor who appears briefly on screen, often as a background character or extra",
+        "defineVi": "một vai nhỏ, không nói được của một diễn viên xuất hiện thoáng qua trên màn ảnh, thường là nhân vật nền hoặc phụ"
+    },
+    {
+        "id": "47e0c683-f295-4577-a139-594de3ba832e",
+        "word": "acting coach",
+        "phonetic": "æktɪŋ koʊtʃ ",
+        "type": "noun",
+        "defineEn": "a professional who trains actors to improve their performance skills and technique",
+        "defineVi": "một chuyên gia đào tạo các diễn viên để cải thiện kỹ năng và kỹ thuật biểu diễn của họ"
+    },
+    {
+        "id": "3a05a2e2-f1b3-43d0-96f8-0424cf0fc0f5",
+        "word": "bad guy",
+        "phonetic": "bæd ɡaɪ ",
+        "type": "noun",
+        "defineEn": "a character in a story or film who is portrayed as an antagonist or villain",
+        "defineVi": "một nhân vật trong một câu chuyện hoặc bộ phim được miêu tả là một nhân vật phản diện hoặc nhân vật phản diện"
+    },
+    {
+        "id": "be812fce-19a1-4501-ab44-70d5d4e0b20b",
+        "word": "cameo",
+        "phonetic": "kæmɪoʊ ",
+        "type": "noun",
+        "defineEn": "a minor role that is played by a well-known actor",
+        "defineVi": "một vai nhỏ được đóng bởi một diễn viên nổi tiếng"
+    },
+    {
+        "id": "ea719dd2-6a69-49e9-9be5-4d3219ac3b9f",
+        "word": "co-star",
+        "phonetic": "koʊstɑːɹ ",
+        "type": "noun",
+        "defineEn": "a leading actor or actress who takes part in a movie, play, etc.",
+        "defineVi": "một diễn viên chính hoặc nữ diễn viên tham gia một bộ phim, vở kịch, v.v."
+    },
+    {
+        "id": "3dab36ab-72df-49a4-8bf4-fc528d0adbb8",
+        "word": "extra",
+        "phonetic": "ɛkstɹə ",
+        "type": "noun",
+        "defineEn": "someone who plays a very small part in a movie, usually as a part of a crowd",
+        "defineVi": "ai đó đóng một phần rất nhỏ trong một bộ phim, thường là một phần của đám đông"
+    },
+    {
+        "id": "04c37b89-3d34-4e9c-b5e5-845b28678204",
+        "word": "good guy",
+        "phonetic": "ɡʊd ɡaɪ ",
+        "type": "noun",
+        "defineEn": "a protagonist or a heroic character in a story or film who embodies positive traits and intentions",
+        "defineVi": "một nhân vật chính hoặc một nhân vật anh hùng trong một câu chuyện hoặc bộ phim thể hiện những đặc điểm và ý định tích cực"
+    },
+    {
+        "id": "3b3f249d-deba-429a-8317-933e3874a74c",
+        "word": "part",
+        "phonetic": "pɑːɹt ",
+        "type": "noun",
+        "defineEn": "the specific role given to an actor",
+        "defineVi": "vai trò cụ thể được trao cho một diễn viên"
+    },
+    {
+        "id": "03da2c45-99d1-4c78-8922-6c3d91b0ff0b",
+        "word": "role",
+        "phonetic": "ɹoʊl ",
+        "type": "noun",
+        "defineEn": "the part or character that an actor plays in a movie or play",
+        "defineVi": "phần hoặc nhân vật mà một diễn viên đóng trong phim hoặc vở kịch"
+    },
+    {
+        "id": "82eaba49-b864-484f-8f2c-c7955244638e",
+        "word": "starring role",
+        "phonetic": "stɑːɹɹɪŋ ɹoʊl ",
+        "type": "noun",
+        "defineEn": "a lead or main role played by an actor in a film or a theatrical production",
+        "defineVi": "một vai chính hoặc vai chính do một diễn viên đóng trong phim hoặc sản xuất sân khấu"
+    },
+    {
+        "id": "25536aea-b7af-4076-a977-02d2d2fcacbc",
+        "word": "title role",
+        "phonetic": "taɪɾəl ɹoʊl ",
+        "type": "noun",
+        "defineEn": "the role of the character after whom the play is named",
+        "defineVi": "vai trò của nhân vật mà vở kịch được đặt tên"
+    },
+    {
+        "id": "ff8ec8cc-b10b-4dae-b609-bae710ef5f6b",
+        "word": "villain",
+        "phonetic": "vɪlən ",
+        "type": "noun",
+        "defineEn": "the main bad character in a movie, story, play, etc.",
+        "defineVi": "nhân vật xấu chính trong một bộ phim, câu chuyện, vở kịch, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "e3dd6375-a17c-4bda-a5e1-bf957ed970f8",
+        "word": "line",
+        "phonetic": "laɪn ",
+        "type": "noun",
+        "defineEn": "the words recited by an actor in a play or movie",
+        "defineVi": "những từ được đọc bởi một diễn viên trong một vở kịch hoặc bộ phim"
+    },
+    {
+        "id": "6fb50fe1-dd12-461e-961a-ff511e23786d",
+        "word": "cue",
+        "phonetic": "kjuː ",
+        "type": "noun",
+        "defineEn": "a few words or actions that hint another performer to say a line or do something",
+        "defineVi": "một vài từ hoặc hành động gợi ý người biểu diễn khác nói một dòng hoặc làm điều gì đó"
+    },
+    {
+        "id": "2cfe2dca-b61e-433c-89bf-83d9eace7d96",
+        "word": "prompt",
+        "phonetic": "pɹɑːmpt ",
+        "type": "noun",
+        "defineEn": "a word or phrase that an actor says to signal another actor to begin acting or say a line",
+        "defineVi": "một từ hoặc cụm từ mà một diễn viên nói để ra hiệu cho một diễn viên khác bắt đầu diễn xuất hoặc nói một câu thoại"
+    },
+    {
+        "id": "af0dd090-3210-45be-87a9-c3509634de49",
+        "word": "stage direction",
+        "phonetic": "steɪdʒ dᵻɹɛkʃən ",
+        "type": "noun",
+        "defineEn": "a text in the script of a play, giving an instruction regarding the movement, position, etc. of actors",
+        "defineVi": "một văn bản trong kịch bản của một vở kịch, đưa ra hướng dẫn về chuyển động, vị trí, v.v. của các diễn viên"
+    },
+    {
+        "id": "04ae1323-806f-4c99-9cb7-53d96f2d2d1e",
+        "word": "casting",
+        "phonetic": "kæstɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of assigning roles and parts to actors or performers in a movie, play, etc.",
+        "defineVi": "quá trình phân công vai trò và các phần cho các diễn viên hoặc người biểu diễn trong một bộ phim, vở kịch, v.v."
+    },
+    {
+        "id": "5714f9c9-a99c-46ad-95c9-699b0a106ba4",
+        "word": "screen test",
+        "phonetic": "skɹiːn tɛst ",
+        "type": "noun",
+        "defineEn": "a session of audition during which the actor is recorded in order to be assessed for a role",
+        "defineVi": "một buổi thử giọng trong đó diễn viên được ghi lại để được đánh giá cho một vai diễn"
+    },
+    {
+        "id": "cb6c4ffc-280a-4d28-8c8e-d80976267128",
+        "word": "act",
+        "phonetic": "ækt ",
+        "type": "noun",
+        "defineEn": "a main part of a play, opera, or ballet",
+        "defineVi": "một phần chính của vở kịch, opera hoặc múa ba lê",
+        "hasImg": true
+    },
+    {
+        "id": "7c894cf1-52e9-4b97-bab7-0eb5fcbfe5e2",
+        "word": "baddy",
+        "phonetic": "bædi ",
+        "type": "noun",
+        "defineEn": "an evil character in fiction or a motion picture",
+        "defineVi": "một nhân vật ác trong tiểu thuyết hoặc một bộ phim chuyển động"
+    },
+    {
+        "id": "a222882f-c026-4a28-80be-cf31d53f371e",
+        "word": "aside",
+        "phonetic": "ɐsaɪd ",
+        "type": "noun",
+        "defineEn": "an actor's line that is told to the audience but the other characters on the stage are not intended to hear",
+        "defineVi": "lời thoại của một diễn viên được nói với khán giả nhưng các nhân vật khác trên sân khấu không có ý định nghe"
+    },
+    {
+        "id": "f5b3be6e-7718-4cdf-9c80-d801bcb3589b",
+        "word": "protagonist",
+        "phonetic": "pɹoʊɾɐɡənɪst ",
+        "type": "noun",
+        "defineEn": "the main character in a movie, novel, TV show, etc.",
+        "defineVi": "nhân vật chính trong phim, tiểu thuyết, chương trình truyền hình, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8b043167-c3cc-4cc1-9221-ff6960624079",
+        "word": "dialogue",
+        "phonetic": "daɪəlɑːɡ ",
+        "type": "noun",
+        "defineEn": "a written or spoken line that is spoken by a character in a play, movie, book, or other work of fiction",
+        "defineVi": "một dòng viết hoặc nói được nói bởi một nhân vật trong vở kịch, phim, sách hoặc tác phẩm hư cấu khác"
+    },
+    {
+        "id": "06f7b10f-931b-4889-87c5-905488378260",
+        "word": "exit",
+        "phonetic": "ɛɡzɪt ",
+        "type": "noun",
+        "defineEn": "an act of departure from the stage by an actor",
+        "defineVi": "một hành động rời khỏi sân khấu của một diễn viên"
+    },
+    {
+        "id": "9d190b8c-8e84-446b-915a-f747a4ba62af",
+        "word": "goody",
+        "phonetic": "ɡʊdi ",
+        "type": "noun",
+        "defineEn": "someone who is morally good, especially a character in a movie, play or book",
+        "defineVi": "một người tốt về mặt đạo đức, đặc biệt là một nhân vật trong một bộ phim, vở kịch hoặc cuốn sách",
+        "hasImg": true
+    },
+    {
+        "id": "f6b2914e-8905-4d5b-b06a-defa08e7a681",
+        "word": "hero",
+        "phonetic": "hiəɹoʊ ",
+        "type": "noun",
+        "defineEn": "the main male character in a story, book, movie, etc., often known for his bravery and other great qualities",
+        "defineVi": "nhân vật nam chính trong truyện, sách, phim, v.v., thường được biết đến với lòng dũng cảm và những phẩm chất tuyệt vời khác",
+        "hasImg": true
+    },
+    {
+        "id": "9990dfe6-aaa3-4ab0-8532-19475bd34cb8",
+        "word": "heroine",
+        "phonetic": "hɛɹoʊɪn ",
+        "type": "noun",
+        "defineEn": "the main female character in a story, book, film, etc., typically known for great qualities",
+        "defineVi": "nhân vật nữ chính trong truyện, sách, phim, v.v., thường được biết đến với những phẩm chất tuyệt vời",
+        "hasImg": true
+    },
+    {
+        "id": "d872b9e9-bfff-42dc-ab4d-24a3cc114316",
+        "word": "love interest",
+        "phonetic": "lʌv ɪntɹɛst ",
+        "type": "noun",
+        "defineEn": "a person who is romantically or emotionally involved with another person, often a central character in a story or narrative",
+        "defineVi": "một người có quan hệ tình cảm hoặc lãng mạn với người khác, thường là nhân vật trung tâm trong một câu chuyện hoặc câu chuyện kể"
+    },
+    {
+        "id": "00562882-55b4-44c1-bfa3-e82361526a5c",
+        "word": "soliloquy",
+        "phonetic": "səlɪləkwi ",
+        "type": "noun",
+        "defineEn": "a speech that a character in a dramatic play gives in the form of a monologue as a series of inner reflections spoken out loud",
+        "defineVi": "một bài phát biểu mà một nhân vật trong một vở kịch kịch đưa ra dưới hình thức độc thoại như một loạt các phản ánh nội tâm được nói to"
+    },
+    {
+        "id": "9f9754be-610b-4c1b-9ca6-596604b22726",
+        "word": "superhero",
+        "phonetic": "suːpɚhiəɹoʊ ",
+        "type": "noun",
+        "defineEn": "a fictional character with special and strange powers",
+        "defineVi": "một nhân vật hư cấu với sức mạnh đặc biệt và kỳ lạ",
+        "hasImg": true
+    },
+    {
+        "id": "cb4bf624-c3ce-41e6-9282-f75f9ee95607",
+        "word": "character",
+        "phonetic": "kæɹɪktɚ ",
+        "type": "noun",
+        "defineEn": "a role or part played by an actor or performer",
+        "defineVi": "một vai trò hoặc một phần đóng bởi một diễn viên hoặc người biểu diễn",
+        "hasImg": true
+    },
+    {
+        "id": "dfe119da-39d9-47d9-9d63-50828e33e4e3",
+        "word": "actor\\'s assistant",
+        "phonetic": "æktɚ bækslæʃ ɛs ɐsɪstənt ",
+        "type": "noun",
+        "defineEn": "a wardrobe assistant for an actor",
+        "defineVi": "một phụ tá tủ quần áo cho một diễn viên"
+    },
+    {
+        "id": "2e48479a-aca3-414c-b2d5-bc3205c7966c",
+        "word": "actor-manager",
+        "phonetic": "æktɚmænɪdʒɚ ",
+        "type": "noun",
+        "defineEn": "someone who manages a theater company and also acts in their plays",
+        "defineVi": "một người quản lý một công ty nhà hát và cũng diễn xuất trong các vở kịch của họ"
+    },
+    {
+        "id": "1135af27-0336-4f24-b5fa-864aec0bc716",
+        "word": "cast",
+        "phonetic": "kæst ",
+        "type": "noun",
+        "defineEn": "all the actors and actresses in a movie, play, etc.",
+        "defineVi": "tất cả các nam nữ diễn viên trong một bộ phim, vở kịch, v.v."
+    },
+    {
+        "id": "91c07b16-917e-4f24-b8c6-6ea03de4a021",
+        "word": "matinee idol",
+        "phonetic": "mætəneɪ aɪdəl ",
+        "type": "noun",
+        "defineEn": "a good-looking actor who is admired by women",
+        "defineVi": "một diễn viên đẹp trai được phụ nữ ngưỡng mộ"
+    },
+    {
+        "id": "1c366ad3-8f85-443b-a714-1a3716a86ed5",
+        "word": "movie star",
+        "phonetic": "muːvi stɑːɹ ",
+        "type": "noun",
+        "defineEn": "a famous actor or actress who plays the leading role in a movie",
+        "defineVi": "một diễn viên hay nữ diễn viên nổi tiếng đóng vai chính trong một bộ phim"
+    },
+    {
+        "id": "a5fb2fe3-9a58-4726-a7e9-ef3f6c02778a",
+        "word": "player",
+        "phonetic": "pleɪɚ ",
+        "type": "noun",
+        "defineEn": "an actor specially one who performs a role on the stage",
+        "defineVi": "một diễn viên đặc biệt là người thực hiện một vai trò trên sân khấu",
+        "hasImg": true
+    },
+    {
+        "id": "6eb5d8b0-d41c-4807-9d53-09d9e5917333",
+        "word": "prompter",
+        "phonetic": "pɹɑːmptɚ ",
+        "type": "noun",
+        "defineEn": "someone who reminds actors what to say if they forget their lines on the stage",
+        "defineVi": "người nhắc diễn viên phải nói gì nếu họ quên lời thoại trên sân khấu"
+    },
+    {
+        "id": "dfee8634-f686-4fdd-8998-e9dbf379aa93",
+        "word": "stunt man",
+        "phonetic": "stʌnt mæn ",
+        "type": "noun",
+        "defineEn": "a person who doubles for an actor during the production of dangerous scenes in a motion picture",
+        "defineVi": "một người đóng thế cho một diễn viên trong quá trình sản xuất những cảnh nguy hiểm trong một bộ phim chuyển động"
+    },
+    {
+        "id": "81f06649-f894-4a49-8e05-fa351bf2a16d",
+        "word": "stunt woman",
+        "phonetic": "stʌnt wʊmən ",
+        "type": "noun",
+        "defineEn": "a woman who doubles for an actor during the production of dangerous scenes in a movie",
+        "defineVi": "một người phụ nữ đóng thế cho nam diễn viên trong quá trình sản xuất những cảnh nguy hiểm trong phim"
+    },
+    {
+        "id": "b66ce585-7119-4d93-861d-4f74bdaa9f4f",
+        "word": "trouper",
+        "phonetic": "tɹuːpɚ ",
+        "type": "noun",
+        "defineEn": "an actor or performer who is very reliable and has a lot of experience",
+        "defineVi": "một diễn viên hoặc người biểu diễn rất đáng tin cậy và có nhiều kinh nghiệm"
+    },
+    {
+        "id": "89f76c38-7590-41f9-9611-217adf26b0af",
+        "word": "press agent",
+        "phonetic": "pɹɛs eɪdʒənt ",
+        "type": "noun",
+        "defineEn": "someone who is in charge of the advertising and publicity of a particular actor, musician, etc., providing information to a newspaper, magazine, etc.",
+        "defineVi": "người chịu trách nhiệm quảng cáo và quảng bá cho một diễn viên, nhạc sĩ cụ thể, v.v., cung cấp thông tin cho một tờ báo, tạp chí, v.v."
+    },
+    {
+        "id": "68af59ad-4675-4369-b045-34b7f7219a24",
+        "word": "monologue",
+        "phonetic": "mɑːnoʊlɑːɡ ",
+        "type": "noun",
+        "defineEn": "a long speech recited by an actor in a movie or play",
+        "defineVi": "một bài phát biểu dài được đọc bởi một diễn viên trong một bộ phim hoặc vở kịch"
+    },
+    {
+        "id": "d7326c3e-ce45-4ea1-b2c5-c1242d925e35",
+        "word": "ad lib",
+        "phonetic": "æd lɪb ",
+        "type": "noun",
+        "defineEn": "a line that is recited in a speech or performance without prior preparation",
+        "defineVi": "một dòng được đọc trong một bài phát biểu hoặc hiệu suất mà không cần chuẩn bị trước"
+    },
+    {
+        "id": "f5dca740-2ac2-4f9e-ac7c-d94cbce37bba",
+        "word": "characterization",
+        "phonetic": "kæɹɪktɚɹaɪzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the techniques used by actors to develop and portray a character, including their physicality, personality, and backstory",
+        "defineVi": "các kỹ thuật được các diễn viên sử dụng để phát triển và miêu tả một nhân vật, bao gồm cả thể chất, tính cách và cốt truyện của họ"
+    },
+    {
+        "id": "3cf9e38b-4eae-4aa0-b5ca-0f2a10bd64ab",
+        "word": "screen actor",
+        "phonetic": "skɹiːn æktɚ ",
+        "type": "noun",
+        "defineEn": "a performer who appears on television, film, or other visual media",
+        "defineVi": "một nghệ sĩ biểu diễn xuất hiện trên truyền hình, phim hoặc phương tiện trực quan khác"
+    }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "id": "7aba57a7-5a1d-4dfd-afba-3ebf62a69aea",
+        "word": "woodpecker",
+        "phonetic": "wʊdpɛkɚ ",
+        "type": "noun",
+        "defineEn": "a bird with a drill-like beak that makes holes in trees in search of insects to feed on",
+        "defineVi": "một con chim có cái mỏ giống như mũi khoan đục lỗ trên cây để tìm côn trùng để ăn",
+        "hasImg": true
+    },
+    {
+        "id": "fbaf852e-cf07-4cb4-a62a-1ca023930f44",
+        "word": "cuckoo",
+        "phonetic": "kʊkuː ",
+        "type": "noun",
+        "defineEn": "a medium-sized bird with a grayish-brown plumage that lays its eggs in the nests of other birds",
+        "defineVi": "một loài chim cỡ trung bình với bộ lông màu nâu xám đẻ trứng vào tổ của các loài chim khác",
+        "hasImg": true
+    },
+    {
+        "id": "76b1b727-428a-43fe-8f2c-5143a0eaad23",
+        "word": "cockatiel",
+        "phonetic": "kɑːkɐtiːl ",
+        "type": "noun",
+        "defineEn": "a small Australian parrot with gray plumage and a yellow crest",
+        "defineVi": "một con vẹt nhỏ của Úc với bộ lông màu xám và mào màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "7c5d733b-c45a-4618-b9c7-fb6ed83a795e",
+        "word": "macaw",
+        "phonetic": "mækɔː ",
+        "type": "noun",
+        "defineEn": "a large long-tailed parrot with colorful feathers and a long tail originally from Central and South America",
+        "defineVi": "một con vẹt đuôi dài lớn với bộ lông sặc sỡ và một cái đuôi dài có nguồn gốc từ Trung và Nam Mỹ",
+        "hasImg": true
+    },
+    {
+        "id": "0248bc0c-f725-40e3-b7b2-ed8302314147",
+        "word": "lorikeet",
+        "phonetic": "loːɹɪkiːt ",
+        "type": "noun",
+        "defineEn": "a tribe of small to mid-sized parrots originally from Australia with a brush-like tongue used for feeding on nectar",
+        "defineVi": "một nhóm vẹt cỡ nhỏ đến trung bình có nguồn gốc từ Úc với chiếc lưỡi giống như bàn chải dùng để ăn mật hoa",
+        "hasImg": true
+    },
+    {
+        "id": "c2fc7edd-f940-48e3-906c-a409cad24e20",
+        "word": "toucan",
+        "phonetic": "tuːkən ",
+        "type": "noun",
+        "defineEn": "a tropical American bird with black plumage and a large colorful bill that feeds on fruits",
+        "defineVi": "một loài chim nhiệt đới của Mỹ với bộ lông màu đen và một hóa đơn lớn đầy màu sắc ăn trái cây",
+        "hasImg": true
+    },
+    {
+        "id": "9bdd01f2-bd3c-4271-949a-65ddde8eccea",
+        "word": "hornbill",
+        "phonetic": "hoːɹnbɪl ",
+        "type": "noun",
+        "defineEn": "a tropical bird with a very large beak that curves downwards, the male of which often keeps the female inside the nest",
+        "defineVi": "một loài chim nhiệt đới có cái mỏ rất lớn cong xuống dưới, con đực thường giữ con cái trong tổ",
+        "hasImg": true
+    },
+    {
+        "id": "a191085b-7f39-41e9-9150-d6ce212dd7b6",
+        "word": "lovebird",
+        "phonetic": "lʌvbɜːd ",
+        "type": "noun",
+        "defineEn": "a very small African or Madagascan parrot with gray or green plumage that is noted for showing affection for its mate",
+        "defineVi": "một con vẹt châu Phi hoặc Madagasca rất nhỏ với bộ lông màu xám hoặc xanh lá cây được ghi nhận là thể hiện tình cảm với người bạn đời của nó",
+        "hasImg": true
+    },
+    {
+        "id": "aba1ad08-2634-4f19-b4f5-188911e7095c",
+        "word": "budgerigar",
+        "phonetic": "bʌdʒɚɹɪɡɑːɹ ",
+        "type": "noun",
+        "defineEn": "a small Australian bird of the parrot family that is green in the wild but has been bred in many colors",
+        "defineVi": "một loài chim nhỏ của họ vẹt Úc có màu xanh trong tự nhiên nhưng đã được nhân giống với nhiều màu sắc",
+        "hasImg": true
+    },
+    {
+        "id": "12a25c39-1b44-431a-bedb-d258ed804070",
+        "word": "parrot",
+        "phonetic": "pæɹət ",
+        "type": "noun",
+        "defineEn": "a tropical bird with bright colors and a curved beak that can be trained to mimic human speech",
+        "defineVi": "một loài chim nhiệt đới có màu sắc tươi sáng và mỏ cong có thể được huấn luyện để bắt chước giọng nói của con người",
+        "hasImg": true
+    },
+    {
+        "id": "a868c812-bfb1-434f-bfa2-78a9442b8fd7",
+        "word": "cockatoo",
+        "phonetic": "kɑːkɐtuː ",
+        "type": "noun",
+        "defineEn": "an Australian songbird of the parrot family with a brightly colored crest",
+        "defineVi": "một loài chim biết hót Úc thuộc họ vẹt có mào màu sắc rực rỡ",
+        "hasImg": true
+    },
+    {
+        "id": "c30e796d-b97e-48d2-be07-a88653823a3e",
+        "word": "parakeet",
+        "phonetic": "pæɹəkiːt ",
+        "type": "noun",
+        "defineEn": "a small long-tailed parrot that feeds on seeds and has green, yellow and black plumage",
+        "defineVi": "một con vẹt đuôi dài nhỏ ăn hạt và có bộ lông màu xanh lá cây, vàng và đen",
+        "hasImg": true
+    },
+    {
+        "id": "35a87099-b097-4d78-8ac4-66acbb84603d",
+        "word": "swift",
+        "phonetic": "swɪft ",
+        "type": "noun",
+        "defineEn": "a small bird with narrow wings that flies high in the sky and is very fast",
+        "defineVi": "một con chim nhỏ với đôi cánh hẹp bay cao trên bầu trời và rất nhanh",
+        "hasImg": true
+    },
+    {
+        "id": "ad0afc5f-df5d-4734-9308-c2970dbd08fd",
+        "word": "blackbird",
+        "phonetic": "blækbɜːd ",
+        "type": "noun",
+        "defineEn": "a small bird with black plumage and an orange beak that is found in Eurasia and Northern Africa",
+        "defineVi": "một loài chim nhỏ có bộ lông màu đen và mỏ màu cam được tìm thấy ở Âu Á và Bắc Phi",
+        "hasImg": true
+    },
+    {
+        "id": "98999faa-7c50-4abb-adfd-6d537546ef59",
+        "word": "whippoorwill",
+        "phonetic": "wɪpʊɹwɪl ",
+        "type": "noun",
+        "defineEn": "a nocturnal North American bird of the nightjar family with a loud call that is its namesake",
+        "defineVi": "một loài chim sống về đêm ở Bắc Mỹ thuộc họ chim sơn ca với tiếng kêu lớn trùng với tên gọi của nó",
+        "hasImg": true
+    },
+    {
+        "id": "3e438937-a887-400c-be43-92282946bd31",
+        "word": "missel thrush",
+        "phonetic": "mɪsəl θɹʌʃ ",
+        "type": "noun",
+        "defineEn": "a large Eurasian thrush with a spotted breast that feeds on mistletoe berries",
+        "defineVi": "một loài chim hét Á-Âu lớn với bộ ngực có đốm ăn quả mọng của cây tầm gửi",
+        "hasImg": true
+    },
+    {
+        "id": "c98c1b7d-d6a5-4472-8e6f-47e3698edb7b",
+        "word": "hoopoe",
+        "phonetic": "huːpoʊ ",
+        "type": "noun",
+        "defineEn": "a pinkish bird with a large crest and a long curved beak and black-and-white wings and tail",
+        "defineVi": "một con chim hơi hồng với mào lớn và mỏ cong dài, cánh và đuôi màu đen trắng",
+        "hasImg": true
+    },
+    {
+        "id": "71e62cfd-be38-46a7-ace4-c2b84033cb96",
+        "word": "corncrake",
+        "phonetic": "kɔːɹŋkɹeɪk ",
+        "type": "noun",
+        "defineEn": "a Eurasian bird of the rail family, with a loud call and no tail that makes its nest on the ground",
+        "defineVi": "một loài chim Á-Âu thuộc họ đường sắt, có tiếng kêu lớn và không có đuôi làm tổ trên mặt đất",
+        "hasImg": true
+    },
+    {
+        "id": "d56d079d-cacd-44ca-ac93-2de260d685ba",
+        "word": "hummingbird",
+        "phonetic": "hʌmɪŋbɜːd ",
+        "type": "noun",
+        "defineEn": "a small tropical bird with colorful plumage and a long narrow bill that can sip nectar and hover or fly backwards",
+        "defineVi": "một loài chim nhiệt đới nhỏ với bộ lông sặc sỡ và mỏ hẹp dài có thể nhấm nháp mật hoa và bay lượn hoặc bay lùi",
+        "hasImg": true
+    },
+    {
+        "id": "9a27f5ee-c9f3-4991-95c7-46636969526d",
+        "word": "nightjar",
+        "phonetic": "naɪtdʒɑːɹ ",
+        "type": "noun",
+        "defineEn": "a mid-sized nocturnal bird with a long tail, long wings and large eyes that has short legs and a short beak",
+        "defineVi": "một loài chim ăn đêm cỡ trung bình với đuôi dài, đôi cánh dài và đôi mắt to, chân ngắn và mỏ ngắn",
+        "hasImg": true
+    },
+    {
+        "id": "98706669-93ed-4488-aa6e-3301f6e8a33a",
+        "word": "manakin",
+        "phonetic": "mænɐkɪn ",
+        "type": "noun",
+        "defineEn": "a small, colorful bird found in tropical forests known for its vibrant plumage and unique courtship displays",
+        "defineVi": "một loài chim nhỏ, nhiều màu sắc được tìm thấy trong các khu rừng nhiệt đới nổi tiếng với bộ lông rực rỡ và màn tán tỉnh độc đáo"
+    },
+    {
+        "id": "c646c4ab-d3c1-4581-a705-91b8c9083da0",
+        "word": "trogon",
+        "phonetic": "tɹɑːɡɑːn ",
+        "type": "noun",
+        "defineEn": "a colorful, medium-sized bird found in tropical and subtropical regions, known for its vibrant plumage and distinctive perching behavior",
+        "defineVi": "một loài chim cỡ trung bình, sặc sỡ được tìm thấy ở các vùng nhiệt đới và cận nhiệt đới, được biết đến với bộ lông rực rỡ và hành vi đậu đặc biệt",
+        "hasImg": true
+    },
+    {
+        "id": "d5cd0b82-5a1d-45bd-90b0-644f333a318a",
+        "word": "kingbird",
+        "phonetic": "kɪŋbɜːd ",
+        "type": "noun",
+        "defineEn": "a medium-sized bird found in the Americas, characterized by its distinctive plumage and aggressive defense of its territory",
+        "defineVi": "một loài chim cỡ trung bình được tìm thấy ở châu Mỹ, được đặc trưng bởi bộ lông đặc biệt và khả năng bảo vệ lãnh thổ của nó",
+        "hasImg": true
+    },
+    {
+        "id": "b39987b3-b31b-4c4a-910f-917de2367f76",
+        "word": "sulphur-crested cockatoo",
+        "phonetic": "sʌlfɚkɹɛstᵻd kɑːkɐtuː ",
+        "type": "noun",
+        "defineEn": "a large, white parrot native to Australia and New Guinea, known for its striking yellow crest and sociable nature",
+        "defineVi": "một loài vẹt lớn, màu trắng, có nguồn gốc từ Úc và New Guinea, được biết đến với chiếc mào màu vàng nổi bật và bản tính hòa đồng",
+        "hasImg": true
+    },
+    {
+        "id": "2e436eab-f09e-408c-9c9a-5910c322ef69",
+        "word": "galah",
+        "phonetic": "ɡælə ",
+        "type": "noun",
+        "defineEn": "a medium-sized cockatoo native to Australia, characterized by its distinct pink underparts and white upperparts",
+        "defineVi": "một loài vẹt mào cỡ trung bình có nguồn gốc từ Úc, được đặc trưng bởi phần dưới màu hồng riêng biệt và phần trên màu trắng",
+        "hasImg": true
+    },
+    {
+        "id": "d5940df2-d1b5-4f19-bc8f-deb3be9731db",
+        "word": "house martin",
+        "phonetic": "haʊs mɑːɹtɪn ",
+        "type": "noun",
+        "defineEn": "a small European songbird that is migratory with black-and-white plumage, which nests under roofs",
+        "defineVi": "một loài chim biết hót nhỏ ở châu Âu di cư với bộ lông đen trắng, làm tổ dưới mái nhà",
+        "hasImg": true
+    },
+    {
+        "id": "2aa11548-0719-4ad0-8a38-688139bc513f",
+        "word": "magpie",
+        "phonetic": "mæɡpaɪ ",
+        "type": "noun",
+        "defineEn": "a black-and-white crow with a long tail that is noted for its intelligence",
+        "defineVi": "một con quạ đen trắng với cái đuôi dài được chú ý vì sự thông minh của nó",
+        "hasImg": true
+    },
+    {
+        "id": "d6b8a0c4-80c0-44be-b6d0-3bd45457542c",
+        "word": "lark",
+        "phonetic": "lɑːɹk ",
+        "type": "noun",
+        "defineEn": "a small songbird with brownish feathers and a crest",
+        "defineVi": "một loài chim biết hót nhỏ có lông màu nâu và mào",
+        "hasImg": true
+    },
+    {
+        "id": "2195a413-536b-4bc2-80a1-5f80d5f65512",
+        "word": "african grey",
+        "phonetic": "æfɹɪkən ɡɹeɪ ",
+        "type": "noun",
+        "defineEn": "a highly intelligent and renowned species of parrot native to West and Central Africa",
+        "defineVi": "một loài vẹt rất thông minh và nổi tiếng có nguồn gốc từ Tây và Trung Phi"
+    },
+    {
+        "id": "ca307193-1539-4252-89b0-307734669503",
+        "word": "amazon",
+        "phonetic": "æmɐzɑːn ",
+        "type": "noun",
+        "defineEn": "a diverse group of parrot species native to the Americas, known for their vibrant plumage and strong vocalizations",
+        "defineVi": "một nhóm đa dạng các loài vẹt có nguồn gốc từ châu Mỹ, được biết đến với bộ lông rực rỡ và giọng hót mạnh mẽ"
+    },
+    {
+        "id": "68517de5-c9e3-4ff3-a7a7-d3216d1f98a2",
+        "word": "red-tailed tropicbird",
+        "phonetic": "ɹɛdteɪld tɹɑːpɪkbɜːd ",
+        "type": "noun",
+        "defineEn": "a seabird species found in tropical and subtropical regions around the world, recognized by its striking red tail feathers and long, pointed beak",
+        "defineVi": "một loài chim biển được tìm thấy ở các vùng nhiệt đới và cận nhiệt đới trên khắp thế giới, được nhận dạng bởi bộ lông đuôi màu đỏ nổi bật và chiếc mỏ dài, nhọn"
+    },
+    {
+        "id": "92bf0bce-e645-4eca-832b-b9caaaa90634",
+        "word": "ani",
+        "phonetic": "æni ",
+        "type": "noun",
+        "defineEn": "a group of medium-sized, black-plumaged birds belonging to the family Crotophagidae, known for their distinctively long tails and raucous calls",
+        "defineVi": "một nhóm các loài chim có kích thước trung bình, bộ lông màu đen thuộc họ Crotophagidae, được biết đến với chiếc đuôi dài đặc biệt và tiếng kêu khàn khàn"
+    },
+    {
+        "id": "530a209c-73ac-4f19-ae72-0f32c0dc750b",
+        "word": "avadavat",
+        "phonetic": "ævɐdævæt ",
+        "type": "noun",
+        "defineEn": "a small bird with vibrant red plumage, native to the Indian subcontinent and Southeast Asia",
+        "defineVi": "một loài chim nhỏ với bộ lông màu đỏ rực rỡ, có nguồn gốc từ tiểu lục địa Ấn Độ và Đông Nam Á"
+    },
+    {
+        "id": "11f525ec-2eea-41fc-8f06-98e08411ab68",
+        "word": "babbler",
+        "phonetic": "bæblɚ ",
+        "type": "noun",
+        "defineEn": "a group of small to medium-sized birds known for their sociable behavior and melodious vocalizations",
+        "defineVi": "một nhóm các loài chim cỡ nhỏ đến trung bình được biết đến với hành vi hòa đồng và giọng hót du dương"
+    },
+    {
+        "id": "ea4c461e-f196-4fd1-9756-4b56f6434f74",
+        "word": "baltimore oriole",
+        "phonetic": "bɔltɪmoːɹ oːɹɪoʊl ",
+        "type": "noun",
+        "defineEn": "a vibrant North American bird species with striking orange and black plumage, known for its distinctive woven nests",
+        "defineVi": "một loài chim sống động ở Bắc Mỹ với bộ lông màu cam và đen nổi bật, được biết đến với những chiếc tổ dệt đặc biệt"
+    },
+    {
+        "id": "3ed7c34f-627c-4c4a-8afe-3ef3ae7d172d",
+        "word": "barbet",
+        "phonetic": "bɑːɹbɪt ",
+        "type": "noun",
+        "defineEn": "a type of colorful bird with a stout body, strong bill, and distinctive vocalizations",
+        "defineVi": "một loại chim sặc sỡ với thân hình mập mạp, mỏ khỏe và giọng hót đặc biệt"
+    },
+    {
+        "id": "b466b98e-7e55-4d27-a954-afe18f891076",
+        "word": "bee-eater",
+        "phonetic": "biːiːɾɚ ",
+        "type": "noun",
+        "defineEn": "a brightly colored bird with a slender body and pointed bill, known for its aerial hunting of bees and other flying insects",
+        "defineVi": "một loài chim có màu sắc rực rỡ với thân hình mảnh khảnh và mỏ nhọn, được biết đến với khả năng săn ong và côn trùng bay khác trên không"
+    },
+    {
+        "id": "66300c3d-b848-4fd1-8106-6879cfd57704",
+        "word": "bellbird",
+        "phonetic": "bɛlbɜːd ",
+        "type": "noun",
+        "defineEn": "a small New Zealand bird known for its vibrant plumage and melodic song",
+        "defineVi": "một loài chim nhỏ ở New Zealand được biết đến với bộ lông rực rỡ và tiếng hót du dương"
+    },
+    {
+        "id": "80f5aeec-30bd-417a-a56f-21b0ca0ece5b",
+        "word": "blackcap",
+        "phonetic": "blækkæp ",
+        "type": "noun",
+        "defineEn": "a small migratory songbird found in Europe, known for its distinctive black cap and melodious singing",
+        "defineVi": "một loài chim biết hót di cư nhỏ được tìm thấy ở châu Âu, được biết đến với chiếc mũ đen đặc biệt và tiếng hót du dương"
+    },
+    {
+        "id": "11139493-a92e-4cca-a9c0-f21cb6217ccb",
+        "word": "boatbill",
+        "phonetic": "boʊtbɪl ",
+        "type": "noun",
+        "defineEn": "a unique bird species found in parts of Australia and New Guinea, characterized by its distinctive, broad beak resembling the shape of a boat",
+        "defineVi": "một loài chim độc đáo được tìm thấy ở các vùng của Úc và New Guinea, được đặc trưng bởi chiếc mỏ rộng, đặc biệt giống hình dạng của một chiếc thuyền"
+    },
+    {
+        "id": "75c5e7db-71d3-4fba-8062-1d671fad51ec",
+        "word": "broadbill",
+        "phonetic": "bɹɔːdbɪl ",
+        "type": "noun",
+        "defineEn": "a bird characterized by its broad, flattened bill, typically found in tropical regions and known for its agile flight and insect-catching capabilities",
+        "defineVi": "một loài chim được đặc trưng bởi mỏ rộng, dẹt, thường được tìm thấy ở các vùng nhiệt đới và được biết đến với khả năng bay nhanh và khả năng bắt côn trùng"
+    },
+    {
+        "id": "dbbab18a-d25c-4a79-a57a-ea8a40aad69a",
+        "word": "cacique",
+        "phonetic": "kæsiːk ",
+        "type": "noun",
+        "defineEn": "a bird found in Central and South America, known for its striking appearance and communal nesting behavior,",
+        "defineVi": "một loài chim được tìm thấy ở Trung và Nam Mỹ, được biết đến với vẻ ngoài nổi bật và hành vi làm tổ chung,"
+    },
+    {
+        "id": "688e3bcd-eeaf-499e-94c6-471717352fef",
+        "word": "wryneck",
+        "phonetic": "ɹaɪnək ",
+        "type": "noun",
+        "defineEn": "a small bird species characterized by its ability to twist its neck in a peculiar manner, found in parts of Europe and Asia",
+        "defineVi": "một loài chim nhỏ được đặc trưng bởi khả năng vặn cổ theo cách kỳ dị, được tìm thấy ở các vùng của Châu Âu và Châu Á"
+    },
+    {
+        "id": "948ad5ee-a702-4431-a783-40caf4e1ce3b",
+        "word": "wall creeper",
+        "phonetic": "wɔːl kɹiːpɚ ",
+        "type": "noun",
+        "defineEn": "a small bird species with a distinctive ability to climb vertical surfaces, such as cliffs and walls, using its specialized feet and beak",
+        "defineVi": "một loài chim nhỏ có khả năng đặc biệt để leo lên các bề mặt thẳng đứng, chẳng hạn như vách đá và tường bằng cách sử dụng chân và mỏ chuyên dụng của nó"
+    },
+    {
+        "id": "6d4de316-9707-471a-9ded-f399d2f53a8d",
+        "word": "umbrella bird",
+        "phonetic": "ʌmbɹɛlə bɜːd ",
+        "type": "noun",
+        "defineEn": "a large bird species known for its distinctively broad and drooping crest resembling an open umbrella",
+        "defineVi": "một loài chim lớn được biết đến với mào rộng và rủ xuống đặc biệt giống như một chiếc ô mở"
+    },
+    {
+        "id": "025deed9-2a92-4641-92d9-9366af5a4ea8",
+        "word": "touraco",
+        "phonetic": "tʊɹɹɑːkoʊ ",
+        "type": "noun",
+        "defineEn": "a colorful bird species found in sub-Saharan Africa, known for its vibrant plumage, prominent crest, and distinctive vocalizations",
+        "defineVi": "một loài chim sặc sỡ được tìm thấy ở châu Phi cận Sahara, được biết đến với bộ lông sặc sỡ, mào nổi bật và giọng hót đặc biệt"
+    },
+    {
+        "id": "83c256ea-0e9e-4b52-b192-de622ef28f7d",
+        "word": "tanager",
+        "phonetic": "tænɪdʒɚ ",
+        "type": "noun",
+        "defineEn": "a colorful bird species found in the Americas, known for its vibrant plumage, melodious songs, and important ecological role in seed dispersal",
+        "defineVi": "một loài chim sặc sỡ được tìm thấy ở châu Mỹ, được biết đến với bộ lông sặc sỡ, tiếng hót du dương và vai trò sinh thái quan trọng trong việc phát tán hạt giống"
+    },
+    {
+        "id": "7479248d-9a06-423a-a4e0-de3681f0fa42",
+        "word": "tailorbird",
+        "phonetic": "teɪloːɹbɜːd ",
+        "type": "noun",
+        "defineEn": "a small songbird known for its unique ability to sew leaves together to create nests, using plant fibers and spider silk",
+        "defineVi": "một loài chim biết hót nhỏ được biết đến với khả năng độc đáo khâu lá lại với nhau để tạo tổ, sử dụng sợi thực vật và tơ nhện"
+    },
+    {
+        "id": "877a0f26-ffe0-4d73-9d2d-d57962474f12",
+        "word": "quetzal",
+        "phonetic": "kwɛtsəl ",
+        "type": "noun",
+        "defineEn": "a colorful bird species known for its vibrant plumage, long tail feathers, and cultural significance in Mesoamerican civilizations",
+        "defineVi": "một loài chim sặc sỡ được biết đến với bộ lông sặc sỡ, lông đuôi dài và ý nghĩa văn hóa trong các nền văn minh Trung Mỹ"
+    },
+    {
+        "id": "828660ae-81db-4bc3-80b7-677912fcc382",
+        "word": "puffbird",
+        "phonetic": "pʌfbɜːd ",
+        "type": "noun",
+        "defineEn": "a bird species characterized by its stocky body, large head, and stout beak",
+        "defineVi": "một loài chim đặc trưng bởi thân hình chắc nịch, đầu to và mỏ mập"
+    },
+    {
+        "id": "85307e34-07ac-40ae-9cb5-0c254a0a052d",
+        "word": "oilbird",
+        "phonetic": "ɔɪlbɜːd ",
+        "type": "noun",
+        "defineEn": "a nocturnal bird species that possesses excellent echolocation abilities and feeds primarily on oil-rich palm fruits",
+        "defineVi": "một loài chim sống về đêm sở hữu khả năng định vị bằng tiếng vang tuyệt vời và ăn chủ yếu là quả cọ giàu dầu"
+    },
+    {
+        "id": "48a6d163-b8ae-473b-b236-becf8789dbf1",
+        "word": "motmot",
+        "phonetic": "mɑːtmɑːt ",
+        "type": "noun",
+        "defineEn": "a bird species found in the tropical regions of the Americas, known for its distinctive, colorful plumage and the unique racket-tipped tail feathers",
+        "defineVi": "một loài chim được tìm thấy ở các vùng nhiệt đới của châu Mỹ, được biết đến với bộ lông sặc sỡ, đặc biệt và bộ lông đuôi hình vợt độc đáo"
+    },
+    {
+        "id": "99484d25-24bc-4be6-8706-61aee5e8629a",
+        "word": "jacamar",
+        "phonetic": "dʒækæmɚ ",
+        "type": "noun",
+        "defineEn": "a bird species found in the tropical regions of the Americas, known for its vibrant plumage, long bills, and exceptional aerial hunting skills",
+        "defineVi": "một loài chim được tìm thấy ở các vùng nhiệt đới của châu Mỹ, được biết đến với bộ lông rực rỡ, hóa đơn dài và kỹ năng săn mồi trên không đặc biệt"
+    },
+    {
+        "id": "a5123a6e-2e6e-4ca9-9132-7d2759890cbc",
+        "word": "honeysucker",
+        "phonetic": "hʌnɪsʌkɚ ",
+        "type": "noun",
+        "defineEn": "a small bird species known for its slender build, long curved bill, and specialized feeding on nectar from flowers",
+        "defineVi": "một loài chim nhỏ được biết đến với thân hình mảnh khảnh, mỏ cong dài và chuyên ăn mật hoa từ hoa"
+    },
+    {
+        "id": "4a4fc5f4-49e5-4a3a-8d75-d2af26d95c69",
+        "word": "frogmouth",
+        "phonetic": "fɹɑːɡməθ ",
+        "type": "noun",
+        "defineEn": "a bird species known for its distinctive appearance, including a stocky body, large head, wide beak, and nocturnal hunting behavior",
+        "defineVi": "một loài chim được biết đến với vẻ ngoài đặc biệt, bao gồm thân hình chắc nịch, đầu to, mỏ rộng và hành vi săn mồi về đêm"
+    },
+    {
+        "id": "a2a0520d-19b8-4d14-ab41-09d52d393ea1",
+        "word": "firebird",
+        "phonetic": "faɪɚbɜːd ",
+        "type": "noun",
+        "defineEn": "a species of flycatcher native to tropical regions of the Americas, characterized by its vibrant scarlet and black feather",
+        "defineVi": "một loài đớp ruồi có nguồn gốc từ các vùng nhiệt đới của châu Mỹ, được đặc trưng bởi màu đỏ tươi rực rỡ và bộ lông đen"
+    },
+    {
+        "id": "ad0e3f85-2443-4aa8-b41d-a7816f22b5c7",
+        "word": "shoebill",
+        "phonetic": "ʃuːbɪl ",
+        "type": "noun",
+        "defineEn": "a large bird species native to the wetlands of Africa, characterized by its unique shoe-shaped bill and blue-gray plumage",
+        "defineVi": "một loài chim lớn có nguồn gốc từ vùng đất ngập nước ở Châu Phi, được đặc trưng bởi hóa đơn hình chiếc giày độc đáo và bộ lông màu xám xanh"
+    },
+    {
+        "id": "16ffc21c-9d2d-4634-89be-154c5bdb2f72",
+        "word": "seriema",
+        "phonetic": "sɪɹiəmə ",
+        "type": "noun",
+        "defineEn": "a bird species native to South America, characterized by its long legs, loud vocalizations, and a carnivorous diet that includes small animals and insects",
+        "defineVi": "một loài chim có nguồn gốc từ Nam Mỹ, được đặc trưng bởi đôi chân dài, tiếng kêu lớn và chế độ ăn thịt bao gồm động vật nhỏ và côn trùng"
+    },
+    {
+        "id": "d619df38-daff-4b63-8930-8b8075bfeb7b",
+        "word": "sapsucker",
+        "phonetic": "sæpsʌkɚ ",
+        "type": "noun",
+        "defineEn": "a type of woodpecker known for its distinctive behavior of drilling sap wells in tree bark to feed on sap and attract insects",
+        "defineVi": "một loại chim gõ kiến được biết đến với hành vi đặc biệt là khoan giếng nhựa cây trong vỏ cây để ăn nhựa cây và thu hút côn trùng"
+    },
+    {
+        "id": "ca95ff50-1d05-4926-b089-35b7ed529068",
+        "word": "saddlebill",
+        "phonetic": "sædəlbɪl ",
+        "type": "noun",
+        "defineEn": "a large bird species found in Africa, characterized by its distinctive red and yellow bill with a saddle-shaped marking",
+        "defineVi": "một loài chim lớn được tìm thấy ở Châu Phi, được đặc trưng bởi mỏ màu đỏ và vàng đặc biệt với dấu hình yên ngựa"
+    },
+    {
+        "id": "935c9396-0d87-4b14-b275-6b99f873e014",
+        "word": "rosella",
+        "phonetic": "ɹoʊzɛlə ",
+        "type": "noun",
+        "defineEn": "a group of colorful parrots native to Australia, recognized for their bright plumage, distinctive crest, and playful personalities",
+        "defineVi": "một nhóm vẹt sặc sỡ có nguồn gốc từ Úc, được công nhận nhờ bộ lông sáng, mào đặc biệt và tính cách vui tươi"
+    },
+    {
+        "id": "e5b5b778-8dcb-4bef-8c41-34409d827833",
+        "word": "riflebird",
+        "phonetic": "ɹaɪflɪbɜːd ",
+        "type": "noun",
+        "defineEn": "a bird species known for the striking appearance of the male with its glossy black plumage and elaborate courtship display",
+        "defineVi": "một loài chim được biết đến với vẻ ngoài nổi bật của con đực với bộ lông đen bóng và màn tán tỉnh công phu"
+    }
+]

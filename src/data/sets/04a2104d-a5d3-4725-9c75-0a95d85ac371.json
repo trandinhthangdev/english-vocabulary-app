@@ -1,0 +1,393 @@
+[
+    {
+        "id": "b809388f-b5b3-4a37-b5c0-587f261f78f5",
+        "word": "margarita",
+        "phonetic": "mɑːɹɡɚɹiːɾə ",
+        "type": "noun",
+        "defineEn": "a cocktail made of tequila and citrus fruits like lime",
+        "defineVi": "một loại cocktail làm từ rượu tequila và trái cây họ cam quýt như chanh",
+        "hasImg": true
+    },
+    {
+        "id": "2db44360-3f46-431c-a83a-5c0e64ab291e",
+        "word": "martini",
+        "phonetic": "mɑːɹtiːni ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with vermouth and gin or vodka",
+        "defineVi": "một loại cocktail có cồn được làm bằng rượu vermouth và rượu gin hoặc rượu vodka",
+        "hasImg": true
+    },
+    {
+        "id": "52e13842-c9a3-4e2a-9328-faf7af026474",
+        "word": "mimosa",
+        "phonetic": "mɪmoʊsə ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with champagne and orange juice",
+        "defineVi": "một loại cocktail có cồn làm từ rượu sâm banh và nước cam",
+        "hasImg": true
+    },
+    {
+        "id": "0941d921-efc9-42e5-ab36-e3f44eefddaa",
+        "word": "mint julep",
+        "phonetic": "mɪnt dʒuːlɛp ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with bourbon, sugar, crushed ice, and mint",
+        "defineVi": "một loại cocktail có cồn được làm từ rượu bourbon, đường, đá bào và bạc hà",
+        "hasImg": true
+    },
+    {
+        "id": "33fc98a5-b3d4-4f92-b749-91a10347f0b0",
+        "word": "mojito",
+        "phonetic": "moʊhiːɾoʊ ",
+        "type": "noun",
+        "defineEn": "drink made with rum, lime, mint, and ice",
+        "defineVi": "đồ uống làm từ rượu rum, chanh, bạc hà và đá",
+        "hasImg": true
+    },
+    {
+        "id": "2561fcf5-ec3f-4eb6-a6a3-00adfae21437",
+        "word": "pina colada",
+        "phonetic": "piːnə kəlɑːdə ",
+        "type": "noun",
+        "defineEn": "a drink made with pineapple, coconut, and rum",
+        "defineVi": "một thức uống được làm từ dứa, dừa và rượu rum",
+        "hasImg": true
+    },
+    {
+        "id": "ab8b2f10-95ed-4e45-839b-3f15c32c625b",
+        "word": "sangria",
+        "phonetic": "sæŋɡɹiə ",
+        "type": "noun",
+        "defineEn": "a drink made with red wine, fruit, and sometimes lemonade, originated in Spain",
+        "defineVi": "một loại đồ uống được làm từ rượu vang đỏ, trái cây và đôi khi là nước chanh, có nguồn gốc từ Tây Ban Nha",
+        "hasImg": true
+    },
+    {
+        "id": "71d6886c-e818-44c7-a833-72bcee95bdb9",
+        "word": "screwdriver",
+        "phonetic": "skɹuːdɹaɪvɚ ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made by mixing vodka with orange juice, served over ice, and garnished with a slice of orange or a twist of lime",
+        "defineVi": "một loại cocktail cổ điển được pha bằng cách trộn rượu vodka với nước cam, phục vụ trên đá và trang trí bằng một lát cam hoặc một ít chanh"
+    },
+    {
+        "id": "e53954ee-698d-4736-9954-1adafeab6cda",
+        "word": "Bloody Mary",
+        "phonetic": "blʌdi mɛɹi ",
+        "type": "noun",
+        "defineEn": "a kind of alcoholic drink made with vodka and tomato juice",
+        "defineVi": "một loại đồ uống có cồn làm bằng vodka và nước ép cà chua",
+        "hasImg": true
+    },
+    {
+        "id": "c3cad887-400a-4f3e-ba88-4baa21580603",
+        "word": "daiquiri",
+        "phonetic": "deɪkwiəɹi ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with white rum, lime juice, and simple syrup, shaken with ice and strained into a chilled cocktail glass",
+        "defineVi": "một loại cocktail cổ điển được làm từ rượu rum trắng, nước cốt chanh và xi-rô đơn giản, lắc với đá và rót vào ly cocktail ướp lạnh"
+    },
+    {
+        "id": "8a1e394e-b4c7-4357-8dba-400f8b9b4e03",
+        "word": "gin and tonic",
+        "phonetic": "dʒɪn ænd tɑːnɪk ",
+        "type": "noun",
+        "defineEn": "an alcoholic drink made with gin and a bitter-flavor fizzy water and pieces of lime",
+        "defineVi": "một thức uống có cồn được làm từ rượu gin và nước có ga có vị đắng và những miếng chanh",
+        "hasImg": true
+    },
+    {
+        "id": "94e63138-3b6c-4de5-af1e-0af2e9a777e8",
+        "word": "Manhattan",
+        "phonetic": "mænhæʔn̩ ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with whiskey and vermouth",
+        "defineVi": "một loại cocktail có cồn được làm bằng rượu whisky và rượu vermouth",
+        "hasImg": true
+    },
+    {
+        "id": "15ca5cf8-c95c-436f-8952-f9fe82d78b4d",
+        "word": "tequila sunrise",
+        "phonetic": "təkiːlə sʌnɹaɪz ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with tequila, grenadine, and orange juice",
+        "defineVi": "một loại cocktail có cồn được làm từ rượu tequila, grenadine và nước cam",
+        "hasImg": true
+    },
+    {
+        "id": "b55092f4-3538-4247-95ee-3905f6b478a1",
+        "word": "whiskey sour",
+        "phonetic": "wɪski saʊɚ ",
+        "type": "noun",
+        "defineEn": "an alcoholic drink made with a mixture of whiskey, sugar, and lime or lemon juice",
+        "defineVi": "một thức uống có cồn được làm từ hỗn hợp rượu whisky, đường và nước cốt chanh hoặc chanh",
+        "hasImg": true
+    },
+    {
+        "id": "3e735138-5848-4ba1-8b82-754731d620dd",
+        "word": "White Russian",
+        "phonetic": "waɪt ɹʌʃən ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with vodka, coffee liqueur, and heavy cream, served over ice",
+        "defineVi": "một loại cocktail cổ điển được làm bằng rượu vodka, rượu mùi cà phê và kem nặng, được phục vụ trên đá"
+    },
+    {
+        "id": "25beb5fb-5688-4a84-a1ce-1ac2153a2f08",
+        "word": "old fashioned",
+        "phonetic": "oʊld fæʃənd ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with whiskey, sugar, bitters, and a citrus peel, muddled together with ice and strained into a rocks glass",
+        "defineVi": "một loại cocktail cổ điển được làm từ rượu whisky, đường, vị đắng và vỏ cam quýt, trộn với đá và lọc vào ly đá"
+    },
+    {
+        "id": "f32c0807-0b3f-4c33-91d7-1af264d60712",
+        "word": "Moscow mule",
+        "phonetic": "mɑːskoʊ mjuːl ",
+        "type": "noun",
+        "defineEn": "a cocktail made with vodka, ginger beer, and lime juice, often served in a copper mug, typically garnished with a lime wedge or mint sprig",
+        "defineVi": "một loại cocktail được làm từ rượu vodka, bia gừng và nước cốt chanh, thường được phục vụ trong một chiếc cốc bằng đồng, thường được trang trí bằng một lát chanh hoặc nhánh bạc hà"
+    },
+    {
+        "id": "5fee8334-45a5-49b6-b2b8-32a99d69be12",
+        "word": "Mai Tai",
+        "phonetic": "maɪ taɪ ",
+        "type": "noun",
+        "defineEn": "a tropical cocktail made with rum, orange curaçao, lime juice, and orgeat syrup, often garnished with a cherry and pineapple wedge",
+        "defineVi": "một loại cocktail nhiệt đới được làm từ rượu rum, cam curaçao, nước cốt chanh và xi-rô orgeat, thường được trang trí bằng một quả anh đào và dứa"
+    },
+    {
+        "id": "0bf8ff1d-b192-41ed-a9ac-813a882950aa",
+        "word": "Long Island iced tea",
+        "phonetic": "lɔŋ aɪlənd aɪst tiː ",
+        "type": "noun",
+        "defineEn": "a potent cocktail made with equal parts of vodka, gin, tequila, rum, and triple sec, along with sour mix and cola",
+        "defineVi": "một loại cocktail mạnh được làm bằng các phần bằng nhau của vodka, gin, tequila, rum và triple sec, cùng với hỗn hợp chua và cola"
+    },
+    {
+        "id": "97fad5a8-c404-461d-8d89-00f2b894c896",
+        "word": "cosmopolitan",
+        "phonetic": "kɑːzməpɑːlɪtən ",
+        "type": "noun",
+        "defineEn": "a popular cocktail made with vodka, triple sec, cranberry juice, and freshly squeezed lime juice",
+        "defineVi": "một loại cocktail phổ biến được làm từ rượu vodka, ba giây, nước ép nam việt quất và nước cốt chanh tươi"
+    },
+    {
+        "id": "bb2b6f9b-22d4-4068-b545-0a5683ee4a77",
+        "word": "Brandy Alexander",
+        "phonetic": "bɹændi ælɪɡzændɚ ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with brandy, crème de cacao, and cream",
+        "defineVi": "một loại cocktail cổ điển được làm bằng rượu mạnh, crème de cacao và kem"
+    },
+    {
+        "id": "2510c9cd-6768-4361-85dd-ead711893d16",
+        "word": "French Connection",
+        "phonetic": "fɹɛntʃ kənɛkʃən ",
+        "type": "noun",
+        "defineEn": "a cocktail made with equal parts Cognac and amaretto liqueur, typically stirred with ice and strained into a rocks glass",
+        "defineVi": "một loại cocktail được làm từ rượu cognac và amaretto với tỷ lệ bằng nhau, thường được khuấy với đá và rót vào ly đá"
+    },
+    {
+        "id": "98e76b65-d251-4536-b543-bcdfca8c3716",
+        "word": "grasshopper",
+        "phonetic": "ɡɹæshɑːpɚ ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with equal parts of crème de menthe, white crème de cacao, and cream, shaken with ice",
+        "defineVi": "một loại cocktail cổ điển được làm bằng các phần bằng nhau của crème de menthe, crème de cacao trắng và kem, lắc với đá"
+    },
+    {
+        "id": "1d69e047-33ef-4bc6-abf5-6ddc879f353b",
+        "word": "vodka tonic",
+        "phonetic": "vɑːdkə tɑːnɪk ",
+        "type": "noun",
+        "defineEn": "a cocktail made with vodka and tonic water, typically served over ice with a wedge of lime for garnish",
+        "defineVi": "một loại cocktail được làm bằng rượu vodka và nước tăng lực, thường được phục vụ trên đá với một lát chanh để trang trí"
+    },
+    {
+        "id": "c0398a3d-80c7-41e7-823f-00a3d0a6ab2c",
+        "word": "negroni",
+        "phonetic": "niːɡɹoʊni ",
+        "type": "noun",
+        "defineEn": "a classic Italian cocktail made with equal parts gin, Campari, and sweet vermouth",
+        "defineVi": "một loại cocktail cổ điển của Ý được pha chế với các phần bằng nhau của rượu gin, Campari và rượu vermouth ngọt"
+    },
+    {
+        "id": "b1ca9a88-5c52-4160-9747-dd4df926be6b",
+        "word": "gimlet",
+        "phonetic": "ɡɪmlɪt ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with gin and lime juice, sometimes sweetened with simple syrup",
+        "defineVi": "một loại cocktail cổ điển được làm từ rượu gin và nước cốt chanh, đôi khi được làm ngọt bằng xi-rô đơn giản"
+    },
+    {
+        "id": "12e15b44-c2d5-43be-95a2-ccfa84ae0f37",
+        "word": "Tom Collins",
+        "phonetic": "tɑːm kɑːlᵻnz ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with gin, lemon juice, simple syrup, and soda water, served in a tall glass filled with ice",
+        "defineVi": "một loại cocktail cổ điển được làm bằng rượu gin, nước cốt chanh, xi-rô đơn giản và nước soda, được phục vụ trong một ly cao chứa đầy đá"
+    },
+    {
+        "id": "4ed96b5a-2464-4902-bb16-1738dfa51341",
+        "word": "sidecar",
+        "phonetic": "saɪdkɑːɹ ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with cognac, orange liqueur, and lemon juice, shaken with ice",
+        "defineVi": "một loại cocktail cổ điển được làm từ rượu cognac, rượu mùi cam và nước chanh, lắc với đá"
+    },
+    {
+        "id": "c8fff11d-6ef7-4aa4-b6dc-c7ed92261151",
+        "word": "snakebite",
+        "phonetic": "sneɪkbaɪt ",
+        "type": "noun",
+        "defineEn": "a cocktail made by mixing equal parts of lager or beer and cider, typically served over ice",
+        "defineVi": "một loại cocktail được làm bằng cách trộn các phần bằng nhau của bia nhẹ hoặc bia và rượu táo, thường được phục vụ trên đá"
+    },
+    {
+        "id": "2486b6b3-13d8-423c-993b-ae03a7fcda23",
+        "word": "grog",
+        "phonetic": "ɡɹɑːɡ ",
+        "type": "noun",
+        "defineEn": "a type of alcoholic drink that is made by diluting rum with water and sometimes adding other ingredients such as sugar, spices, or citrus fruits.",
+        "defineVi": "một loại đồ uống có cồn được làm bằng cách pha loãng rượu rum với nước và đôi khi thêm các thành phần khác như đường, gia vị hoặc trái cây họ cam quýt."
+    },
+    {
+        "id": "89b4e7b2-dd98-4e9b-8aa6-ffc8e638e346",
+        "word": "eggnog",
+        "phonetic": "ɛɡnɑːɡ ",
+        "type": "noun",
+        "defineEn": "a drink made with milk, sugar, eggs, and alcoholic beverages such as brandy or rum",
+        "defineVi": "đồ uống được làm từ sữa, đường, trứng và đồ uống có cồn như rượu mạnh hoặc rượu rum",
+        "hasImg": true
+    },
+    {
+        "id": "a08ec549-e024-4706-8c91-c54d03ff1342",
+        "word": "buck\\'s fizz",
+        "phonetic": "bʌk bækslæʃ ɛs fɪz ",
+        "type": "noun",
+        "defineEn": "an alcoholic cocktail made with champagne and orange juice",
+        "defineVi": "một loại cocktail có cồn làm từ rượu sâm banh và nước cam",
+        "hasImg": true
+    },
+    {
+        "id": "cf38c736-094e-4134-8cf0-3f69fc4c26d4",
+        "word": "highball",
+        "phonetic": "haɪbɔːl ",
+        "type": "noun",
+        "defineEn": "a type of cocktail that consists of a base spirit and a carbonated mixer, served over ice",
+        "defineVi": "một loại cocktail bao gồm một loại rượu cơ bản và một máy trộn có ga, được phục vụ trên đá"
+    },
+    {
+        "id": "b1a739bd-3685-438a-90d2-d269c7faa531",
+        "word": "appletini",
+        "phonetic": "æpəltiːni ",
+        "type": "noun",
+        "defineEn": "a cocktail made with vodka, apple liqueur, and sometimes sour mix or lemon juice",
+        "defineVi": "một loại cocktail được làm từ rượu vodka, rượu mùi táo và đôi khi là hỗn hợp chua hoặc nước cốt chanh"
+    },
+    {
+        "id": "53ea4d98-8e15-45e3-9477-fd85005ddaa1",
+        "word": "shandy",
+        "phonetic": "ʃændi ",
+        "type": "noun",
+        "defineEn": "a drink made with beer and lemonade",
+        "defineVi": "một thức uống được làm bằng bia và nước chanh",
+        "hasImg": true
+    },
+    {
+        "id": "9b9a618d-5f4d-49fc-a3ff-16256bbf1414",
+        "word": "negus",
+        "phonetic": "nɛɡəs ",
+        "type": "noun",
+        "defineEn": "a warm alcoholic beverage made by mixing red wine with hot water, sugar, lemon, and spices, and sometimes a shot of brandy or rum",
+        "defineVi": "một loại đồ uống có cồn ấm được làm bằng cách trộn rượu vang đỏ với nước nóng, đường, chanh và gia vị, và đôi khi là một chút rượu mạnh hoặc rượu rum"
+    },
+    {
+        "id": "1950116b-46a9-4a14-a09d-27a314ef72b3",
+        "word": "posset",
+        "phonetic": "pɑːsɛt ",
+        "type": "noun",
+        "defineEn": "a historic English cocktail made by mixing hot milk with ale or wine, and sweetening the mixture with sugar or honey",
+        "defineVi": "một loại cocktail lịch sử của Anh được pha bằng cách trộn sữa nóng với rượu bia hoặc rượu vang, và làm ngọt hỗn hợp bằng đường hoặc mật ong"
+    },
+    {
+        "id": "0a90cd67-9ba5-42a4-98b6-50d1d848ee74",
+        "word": "Cuba libre",
+        "phonetic": "kjuːbə liːbɹə ",
+        "type": "noun",
+        "defineEn": "a cocktail made with rum, cola, and lime juice, typically served over ice in a highball glass and garnished with a lime wedge",
+        "defineVi": "một loại cocktail được làm từ rượu rum, cola và nước cốt chanh, thường được phục vụ trên đá trong ly thủy tinh cao và trang trí bằng một lát chanh"
+    },
+    {
+        "id": "037165fc-0075-4630-aae3-c5edf1fd9cbd",
+        "word": "whisky mac",
+        "phonetic": "wɪski mæk ",
+        "type": "noun",
+        "defineEn": "a cocktail made with Scotch whisky and ginger wine, typically served over ice in a glass",
+        "defineVi": "một loại cocktail được làm bằng rượu whisky Scotch và rượu gừng, thường được phục vụ trên đá trong ly"
+    },
+    {
+        "id": "4b912c51-35f8-41c0-92c2-0cff4eb45c14",
+        "word": "zombie",
+        "phonetic": "zɑːmbi ",
+        "type": "noun",
+        "defineEn": "a cocktail typically made with rum and fruit juices, often including grenadine and various liqueurs",
+        "defineVi": "một loại cocktail thường được làm bằng rượu rum và nước ép trái cây, thường bao gồm grenadine và các loại rượu mùi khác nhau"
+    },
+    {
+        "id": "7de6ef10-02d1-4554-8139-02e5b22149ad",
+        "word": "white lady",
+        "phonetic": "waɪt leɪdi ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with gin, triple sec, and lemon juice, often shaken with ice and strained into a cocktail glass",
+        "defineVi": "một loại cocktail cổ điển được pha bằng rượu gin, ba giây và nước chanh, thường được lắc với đá và rót vào ly cocktail"
+    },
+    {
+        "id": "46095ccc-0fa4-417c-aff2-19f25dd572d5",
+        "word": "swizzle",
+        "phonetic": "swɪzəl ",
+        "type": "noun",
+        "defineEn": "a type of cocktail made with rum, lime juice, sugar, and bitters, traditionally served over crushed ice",
+        "defineVi": "một loại cocktail được làm từ rượu rum, nước cốt chanh, đường và vị đắng, theo truyền thống được phục vụ trên đá vụn"
+    },
+    {
+        "id": "69954280-9213-4e4b-ad04-1c387069e612",
+        "word": "stinger",
+        "phonetic": "stɪŋɡɚ ",
+        "type": "noun",
+        "defineEn": "a classic cocktail made with equal parts of brandy and white crème de menthe, stirred with ice",
+        "defineVi": "một loại cocktail cổ điển được làm bằng các phần bằng nhau của rượu mạnh và crème de menthe trắng, được khuấy với đá"
+    },
+    {
+        "id": "57419181-af28-46bf-bec0-c8afd1c13c77",
+        "word": "sling",
+        "phonetic": "slɪŋ ",
+        "type": "noun",
+        "defineEn": "a type of cocktail made with a base spirit, such as gin or whiskey, mixed with citrus juice, sweetener, and carbonated water",
+        "defineVi": "một loại cocktail được làm từ rượu mạnh, chẳng hạn như rượu gin hoặc rượu whisky, pha với nước ép cam quýt, chất làm ngọt và nước có ga"
+    },
+    {
+        "id": "bf801c4b-207c-4567-b52b-b2a76be578b4",
+        "word": "sazerac",
+        "phonetic": "sæzɚɹæk ",
+        "type": "noun",
+        "defineEn": "a classic cocktail that originated in New Orleans, made with rye whiskey, sugar, Peychaud's bitters, and a dash of absinthe, stirred with ice",
+        "defineVi": "một loại cocktail cổ điển có nguồn gốc từ New Orleans, được làm bằng rượu whisky lúa mạch đen, đường, vị đắng của Peychaud và một chút rượu absinthe, được khuấy với đá"
+    },
+    {
+        "id": "83fb4ca2-8178-499c-a81b-e17c1099130a",
+        "word": "rickey",
+        "phonetic": "ɹɪki ",
+        "type": "noun",
+        "defineEn": "a type of cocktail made with a base spirit, such as gin or whiskey, mixed with lime juice and carbonated water,",
+        "defineVi": "một loại cocktail được làm bằng rượu cơ bản, chẳng hạn như rượu gin hoặc rượu whisky, pha với nước cốt chanh và nước có ga,"
+    },
+    {
+        "id": "a221759a-95dd-4199-abae-a24591f298fe",
+        "word": "cold duck",
+        "phonetic": "koʊld dʌk ",
+        "type": "noun",
+        "defineEn": "a sparkling wine cocktail made by mixing equal parts of red wine and sparkling wine with a dash of sugar or orange juice",
+        "defineVi": "một loại cocktail rượu vang sủi bọt được làm bằng cách trộn các phần bằng nhau của rượu vang đỏ và rượu vang sủi tăm với một chút đường hoặc nước cam"
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "id": "ea1c97dc-2a01-4481-a796-383250298028",
+        "word": "form",
+        "phonetic": "fɔːɹm ",
+        "type": "noun",
+        "defineEn": "the shape of a word, phrase, sentence or discourse",
+        "defineVi": "hình dạng của một từ, cụm từ, câu hoặc diễn ngôn"
+    },
+    {
+        "id": "bdc93c2d-4238-4935-b25e-830cc123ad6b",
+        "word": "grammar",
+        "phonetic": "ɡɹæmɚ ",
+        "type": "noun",
+        "defineEn": "the study or use of words and the way they are put together or changed to make sentences",
+        "defineVi": "nghiên cứu hoặc sử dụng các từ và cách chúng được đặt cùng nhau hoặc thay đổi để tạo thành câu"
+    },
+    {
+        "id": "66c3a166-ff8e-47ba-b644-b1ab33937eb7",
+        "word": "natural language",
+        "phonetic": "nætʃɚɹəl læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "any human language that has developed organically over time for communication purposes, distinguishing it from constructed or artificial languages",
+        "defineVi": "bất kỳ ngôn ngữ nào của con người đã phát triển một cách hữu cơ theo thời gian cho mục đích giao tiếp, phân biệt nó với các ngôn ngữ được xây dựng hoặc nhân tạo"
+    },
+    {
+        "id": "4ba31b7a-9481-4b38-8fda-5df0f9f8dc43",
+        "word": "artificial language",
+        "phonetic": "ɑːɹɾɪfɪʃəl læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a language deliberately created by humans for specific purposes, such as international communication or fictional settings, rather than evolving naturally over time",
+        "defineVi": "một ngôn ngữ do con người cố tình tạo ra cho các mục đích cụ thể, chẳng hạn như giao tiếp quốc tế hoặc bối cảnh hư cấu, thay vì phát triển tự nhiên theo thời gian"
+    },
+    {
+        "id": "2061615e-56c3-4855-b80c-3840b1d514d9",
+        "word": "constructed language",
+        "phonetic": "kənstɹʌktᵻd læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a language intentionally created by individuals or groups, often for specific purposes, such as improving communication, facilitating learning, or serving fictional or artistic purposes",
+        "defineVi": "một ngôn ngữ do các cá nhân hoặc nhóm cố ý tạo ra, thường cho các mục đích cụ thể, chẳng hạn như cải thiện giao tiếp, hỗ trợ học tập hoặc phục vụ các mục đích hư cấu hoặc nghệ thuật"
+    },
+    {
+        "id": "cb07bc5e-d139-4186-9404-1adde66673a1",
+        "word": "markedness",
+        "phonetic": "mɑːɹktnəs ",
+        "type": "noun",
+        "defineEn": "the asymmetrical relationship between linguistic forms or features, where one form or feature is considered more \"marked\" or less typical than another",
+        "defineVi": "mối quan hệ bất đối xứng giữa các hình thức hoặc đặc điểm ngôn ngữ, trong đó một hình thức hoặc đặc điểm được coi là \"được đánh dấu\" nhiều hơn hoặc kém điển hình hơn một hình thức hoặc đặc điểm khác"
+    },
+    {
+        "id": "0768df39-3669-43d9-a538-2209f5bae5b4",
+        "word": "dictionary",
+        "phonetic": "dɪkʃənɛɹi ",
+        "type": "noun",
+        "defineEn": "a book or electronic resource that gives a list of words in alphabetical order and explains their meanings, or gives the equivalent words in a different language",
+        "defineVi": "một cuốn sách hoặc tài nguyên điện tử cung cấp danh sách các từ theo thứ tự bảng chữ cái và giải thích nghĩa của chúng hoặc đưa ra các từ tương đương trong một ngôn ngữ khác",
+        "hasImg": true
+    },
+    {
+        "id": "5536eea3-8a49-4b84-9f8e-18ce9f0fa68e",
+        "word": "entry word",
+        "phonetic": "ɛntɹi wɜːd ",
+        "type": "noun",
+        "defineEn": "the specific word or form that serves as the main or primary lexical entry in a dictionary or reference work, typically representing the headword or base form of a word from which various inflected forms and derived words are derived",
+        "defineVi": "từ hoặc dạng cụ thể đóng vai trò là mục từ vựng chính hoặc chính trong từ điển hoặc tác phẩm tham khảo, thường đại diện cho từ đầu hoặc dạng cơ sở của một từ mà từ đó các dạng biến cách và từ dẫn xuất khác nhau được tạo ra"
+    },
+    {
+        "id": "b8bbbd4c-401b-4be0-9c34-c9e1abd8922e",
+        "word": "anglophone",
+        "phonetic": "æŋɡləfoʊn ",
+        "type": "noun",
+        "defineEn": "a person or a community of people whose first language or primary language is English",
+        "defineVi": "một người hoặc một cộng đồng những người có ngôn ngữ đầu tiên hoặc ngôn ngữ chính là tiếng Anh"
+    },
+    {
+        "id": "16f29b95-6646-4dd6-898d-a8cd0e06437a",
+        "word": "spoken word",
+        "phonetic": "spoʊkən wɜːd ",
+        "type": "noun",
+        "defineEn": "an utterance expressed in speech rather than written form",
+        "defineVi": "một cách nói thể hiện trong bài phát biểu chứ không phải là hình thức viết"
+    },
+    {
+        "id": "7766396c-2f48-4dbd-82f7-cd70e160ed31",
+        "word": "syntax",
+        "phonetic": "sɪntæks ",
+        "type": "noun",
+        "defineEn": "(linguistics) the way in which words and phrases are arranged to form grammatical sentences in a language",
+        "defineVi": "(ngôn ngữ học) cách sắp xếp các từ và cụm từ để tạo thành các câu ngữ pháp trong một ngôn ngữ"
+    },
+    {
+        "id": "39889b99-e879-4419-99f5-fa98e4d9401f",
+        "word": "corpus",
+        "phonetic": "kɔːɹpəs ",
+        "type": "noun",
+        "defineEn": "a large and structured collection of authentic texts or spoken language samples, used for linguistic analysis and research purposes",
+        "defineVi": "một bộ sưu tập lớn và có cấu trúc các văn bản xác thực hoặc các mẫu ngôn ngữ nói, được sử dụng cho mục đích nghiên cứu và phân tích ngôn ngữ"
+    },
+    {
+        "id": "c42978ac-272c-4304-9708-69cf741c22b2",
+        "word": "translation",
+        "phonetic": "tɹænsleɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of changing written or spoken words from one language to another while maintaining the same meaning",
+        "defineVi": "quá trình thay đổi từ viết hoặc nói từ ngôn ngữ này sang ngôn ngữ khác trong khi vẫn giữ nguyên ý nghĩa",
+        "hasImg": true
+    },
+    {
+        "id": "98de15db-1272-4568-b8e4-a8de203cec58",
+        "word": "sign language",
+        "phonetic": "saɪn læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a system used to communicate with deaf people that involves using hands and body gestures instead of words",
+        "defineVi": "một hệ thống được sử dụng để giao tiếp với người điếc liên quan đến việc sử dụng tay và cử chỉ cơ thể thay vì lời nói",
+        "hasImg": true
+    },
+    {
+        "id": "1cf0403b-ca9f-4dff-99d2-0177cdfb811d",
+        "word": "Proto-Indo-European",
+        "phonetic": "pɹoʊɾoʊɪndoʊjʊɹɹəpiən ",
+        "type": "noun",
+        "defineEn": "the hypothetical language that is believed to be the root of all Indo-European languages",
+        "defineVi": "ngôn ngữ giả thuyết được cho là gốc rễ của tất cả các ngôn ngữ Ấn-Âu"
+    },
+    {
+        "id": "b50e7b29-7a97-4c65-b69b-74367f31b54d",
+        "word": "orthography",
+        "phonetic": "ɔːɹθɑːɡɹəfi ",
+        "type": "noun",
+        "defineEn": "the standardized set of rules and conventions for spelling and writing within a particular language or writing system, guiding the proper representation of words and symbols",
+        "defineVi": "tập hợp các quy tắc và quy ước được tiêu chuẩn hóa để đánh vần và viết trong một ngôn ngữ hoặc hệ thống chữ viết cụ thể, hướng dẫn cách thể hiện đúng các từ và ký hiệu"
+    },
+    {
+        "id": "aeb6598f-4ebb-483f-87d0-9c40756e6dd2",
+        "word": "emic unit",
+        "phonetic": "ɛmɪk juːnɪt ",
+        "type": "noun",
+        "defineEn": "a meaningful unit of analysis that is derived from within the specific cultural or linguistic context being studied, taking into account the perspectives and interpretations of the individuals or community under investigation",
+        "defineVi": "một đơn vị phân tích có ý nghĩa bắt nguồn từ trong bối cảnh văn hóa hoặc ngôn ngữ cụ thể đang được nghiên cứu, có tính đến các quan điểm và diễn giải của các cá nhân hoặc cộng đồng đang được điều tra"
+    },
+    {
+        "id": "03f532d2-44b7-4f27-95a6-d0f22143318e",
+        "word": "quote",
+        "phonetic": "kwoʊt ",
+        "type": "noun",
+        "defineEn": "a sentence from a speech, book, etc. that is repeated somewhere else because it is wise or interesting",
+        "defineVi": "một câu từ một bài phát biểu, cuốn sách, vv được lặp lại ở một nơi khác bởi vì nó là khôn ngoan hoặc thú vị"
+    },
+    {
+        "id": "d4f1824a-b30e-40c1-96ab-8ce6c674e59f",
+        "word": "exclamation",
+        "phonetic": "ɛksklɐmeɪʃən ",
+        "type": "noun",
+        "defineEn": "a sudden and short sound, word or phrase, uttered to express anger, excitement, etc.",
+        "defineVi": "một âm thanh, từ hoặc cụm từ đột ngột và ngắn, được thốt ra để thể hiện sự tức giận, phấn khích, v.v."
+    },
+    {
+        "id": "9ef79832-282b-44f3-ac15-b4f83965982f",
+        "word": "jargon",
+        "phonetic": "dʒɑːɹɡən ",
+        "type": "noun",
+        "defineEn": "language that is considered to be meaningless or obscure, used to impress or confuse people rather than to convey information",
+        "defineVi": "ngôn ngữ được coi là vô nghĩa hoặc tối nghĩa, được sử dụng để gây ấn tượng hoặc gây nhầm lẫn cho mọi người hơn là để truyền đạt thông tin"
+    },
+    {
+        "id": "b902c9a2-b3c0-4cbc-af63-0c7461744e12",
+        "word": "marker",
+        "phonetic": "mɑːɹkɚ ",
+        "type": "noun",
+        "defineEn": "a linguistic element or feature that signals or indicates a specific grammatical, semantic, or pragmatic function within a language",
+        "defineVi": "một yếu tố hoặc tính năng ngôn ngữ báo hiệu hoặc chỉ ra một chức năng ngữ pháp, ngữ nghĩa hoặc thực dụng cụ thể trong một ngôn ngữ"
+    },
+    {
+        "id": "d4fb3326-83cc-4ec9-9a1d-98548bd612cf",
+        "word": "phraseme",
+        "phonetic": "fɹeɪsiːm ",
+        "type": "noun",
+        "defineEn": "a fixed or semi-fixed phrase or expression with a specific meaning or function that extends beyond the sum of its individual words",
+        "defineVi": "một cụm từ hoặc biểu thức cố định hoặc bán cố định với một ý nghĩa hoặc chức năng cụ thể vượt ra ngoài tổng số từ riêng lẻ của nó"
+    },
+    {
+        "id": "97ca8c03-2a05-414f-9909-217074456c26",
+        "word": "linguistic determinism",
+        "phonetic": "lɪŋɡwɪstɪk dɪtɜːmɪnɪzəm ",
+        "type": "noun",
+        "defineEn": "a concept in linguistics that suggests that the structure and vocabulary of a language shape the thoughts and perception of its speakers, influencing their worldview and cognition",
+        "defineVi": "một khái niệm trong ngôn ngữ học gợi ý rằng cấu trúc và từ vựng của một ngôn ngữ định hình suy nghĩ và nhận thức của người nói, ảnh hưởng đến thế giới quan và nhận thức của họ"
+    },
+    {
+        "id": "e5cc22ee-cfef-42f6-a216-69cb90361b6e",
+        "word": "reflexivity",
+        "phonetic": "ɹiːflɛksɪvᵻɾi ",
+        "type": "noun",
+        "defineEn": "a grammatical or semantic property of a language or construction that indicates that the subject of a verb is also the object or recipient of the action performed by the subject, creating a self-referential or reflective relationship within the sentence",
+        "defineVi": "một thuộc tính ngữ pháp hoặc ngữ nghĩa của một ngôn ngữ hoặc cấu trúc chỉ ra rằng chủ ngữ của động từ cũng là đối tượng hoặc người nhận hành động do chủ thể thực hiện, tạo ra mối quan hệ tự chỉ hoặc phản ánh trong câu"
+    },
+    {
+        "id": "1f95472e-1548-4540-b148-2e45ad120d4c",
+        "word": "to agree",
+        "phonetic": "tʊ ɐɡɹiː ",
+        "type": "verb",
+        "defineEn": "(grammar) to have the same grammatical number, gender, case or person",
+        "defineVi": "(ngữ pháp) có cùng số ngữ pháp, giới tính, trường hợp hoặc người"
+    },
+    {
+        "id": "c5fdc2d6-0127-473f-b2c7-584b43a7b0ab",
+        "word": "to conjugate",
+        "phonetic": "tə kɑːndʒuːɡeɪt ",
+        "type": "verb",
+        "defineEn": "(grammar) to show how a verb changes depending on number, person, tense, etc.",
+        "defineVi": "(ngữ pháp) để cho biết động từ thay đổi như thế nào tùy thuộc vào số lượng, người, thì, v.v."
+    },
+    {
+        "id": "60e5f725-bd26-4bf1-a30c-46593f50140d",
+        "word": "to decline",
+        "phonetic": "tə dᵻklaɪn ",
+        "type": "verb",
+        "defineEn": "(grammar) to inflect or state the different forms of a noun, pronoun or adjective according to gender, number, etc.",
+        "defineVi": "(ngữ pháp) biến cách hoặc nêu các dạng khác nhau của danh từ, đại từ hoặc tính từ theo giới tính, số lượng, v.v."
+    },
+    {
+        "id": "ccf0e0c5-204d-4394-b88f-edf86adbf8d7",
+        "word": "to spell",
+        "phonetic": "tə spɛl ",
+        "type": "verb",
+        "defineEn": "to write or say the letters that form a word one by one in the right order",
+        "defineVi": "viết hoặc nói từng chữ cái tạo thành một từ theo đúng thứ tự",
+        "hasImg": true
+    },
+    {
+        "id": "0092676d-80fb-4c15-8400-a56728fcd77f",
+        "word": "to aspirate",
+        "phonetic": "tʊ æspɚɹeɪt ",
+        "type": "verb",
+        "defineEn": "(phonetics) to pronounce a vowel or a consonant with a strongly released breath",
+        "defineVi": "(ngữ âm) phát âm nguyên âm hoặc phụ âm với hơi thở mạnh"
+    },
+    {
+        "id": "1ebfd934-8052-4622-899a-c5b198619266",
+        "word": "to roll",
+        "phonetic": "tə ɹoʊl ",
+        "type": "verb",
+        "defineEn": "(phonetics) to pronounce the /r/ sound with an alveolar trill",
+        "defineVi": "(ngữ âm) cách phát âm /r/ với âm rung phế nang"
+    },
+    {
+        "id": "93d38a24-8d50-4e8f-878f-5d90580f696e",
+        "word": "to stress",
+        "phonetic": "tə stɹɛs ",
+        "type": "verb",
+        "defineEn": "(phonetics) to utter a syllable in a word or phrase with more emphasis",
+        "defineVi": "(ngữ âm) để thốt ra một âm tiết trong một từ hoặc cụm từ với sự nhấn mạnh hơn"
+    },
+    {
+        "id": "6005e982-a747-4d16-822f-8a5ca7c00eb0",
+        "word": "to voice",
+        "phonetic": "tə vɔɪs ",
+        "type": "verb",
+        "defineEn": "(phonetics) to articulate a speech sound with the vibration of the vocal cords",
+        "defineVi": "(ngữ âm) phát âm lời nói bằng sự rung động của dây thanh âm"
+    },
+    {
+        "id": "092c2c09-8099-4361-a79d-d0fcfae5e143",
+        "word": "to articulate",
+        "phonetic": "tʊ ɑːɹtɪkjʊleɪt ",
+        "type": "verb",
+        "defineEn": "to pronounce or utter something in a clear and precise way",
+        "defineVi": "để phát âm hoặc thốt ra một cái gì đó một cách rõ ràng và chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "ed40c2d9-db89-46bb-860e-4aa7e72d6c07",
+        "word": "to encode",
+        "phonetic": "tʊ ɛŋkoʊd ",
+        "type": "verb",
+        "defineEn": "(linguistics) to express a concept, thought or idea in a foreign language",
+        "defineVi": "(ngôn ngữ học) để diễn đạt một khái niệm, suy nghĩ hoặc ý tưởng bằng tiếng nước ngoài"
+    },
+    {
+        "id": "7a0120a8-3d97-43ab-b040-c01229702d2b",
+        "word": "to drill",
+        "phonetic": "tə dɹɪl ",
+        "type": "verb",
+        "defineEn": "to learn by repetition and practice",
+        "defineVi": "để học bằng cách lặp đi lặp lại và thực hành"
+    },
+    {
+        "id": "52b4a4f5-a2c4-444e-bd03-89d06755de73",
+        "word": "to gabble",
+        "phonetic": "tə ɡæbəl ",
+        "type": "verb",
+        "defineEn": "to utter words rapidly and without making sense",
+        "defineVi": "để thốt ra lời một cách nhanh chóng và không có ý nghĩa"
+    },
+    {
+        "id": "f9abfa3e-56f1-44f6-bbf9-0994fd577d71",
+        "word": "to stammer",
+        "phonetic": "tə stæmɚ ",
+        "type": "verb",
+        "defineEn": "to speak with involuntary stops and repetitions of certain words",
+        "defineVi": "để nói chuyện với những điểm dừng không tự nguyện và sự lặp lại của những từ nhất định"
+    },
+    {
+        "id": "94f795e2-b2f3-4969-b1f8-53dae05adebe",
+        "word": "to stumble",
+        "phonetic": "tə stʌmbəl ",
+        "type": "verb",
+        "defineEn": "to make an error or repeated errors while speaking",
+        "defineVi": "mắc lỗi hoặc lặp lại lỗi trong khi nói"
+    },
+    {
+        "id": "c20f7e33-842a-4b54-87c0-43697cf868b8",
+        "word": "to hyphenate",
+        "phonetic": "tə haɪfəneɪt ",
+        "type": "verb",
+        "defineEn": "to divide or connect by a hyphen in writing",
+        "defineVi": "để phân chia hoặc kết nối bởi một gạch nối bằng văn bản"
+    },
+    {
+        "id": "eda12fcb-7a66-4dd5-8d48-19491a302360",
+        "word": "to punctuate",
+        "phonetic": "tə pʌŋktʃuːeɪt ",
+        "type": "verb",
+        "defineEn": "to use punctuation marks in a text in order to make it more understandable",
+        "defineVi": "để sử dụng dấu chấm câu trong một văn bản để làm cho nó dễ hiểu hơn"
+    },
+    {
+        "id": "05b42334-4a29-4b45-99a9-1847dbd3480c",
+        "word": "to parse",
+        "phonetic": "tə pɑːɹs ",
+        "type": "verb",
+        "defineEn": "(grammar) to divide a sentence into its grammatical constituents, identifying the syntactic role of each part",
+        "defineVi": "(ngữ pháp) để chia một câu thành các thành phần ngữ pháp của nó, xác định vai trò cú pháp của từng phần"
+    },
+    {
+        "id": "f016fd57-76a9-4ecd-afb6-a6efe8e05d1c",
+        "word": "to quote",
+        "phonetic": "tə kwoʊt ",
+        "type": "verb",
+        "defineEn": "to say or repeat the exact sentence or group of words someone else used in a movie, book, etc.",
+        "defineVi": "nói hoặc lặp lại chính xác câu hoặc nhóm từ mà người khác đã sử dụng trong phim, sách, v.v."
+    },
+    {
+        "id": "2d95433d-cdf6-4e14-b6ff-2bb33b2e1521",
+        "word": "to elide",
+        "phonetic": "tʊ ᵻlaɪd ",
+        "type": "verb",
+        "defineEn": "(phonetics) to omit or leave out a vowel or a syllable in the pronunciation of a word",
+        "defineVi": "(ngữ âm) bỏ qua hoặc loại bỏ một nguyên âm hoặc một âm tiết trong cách phát âm của một từ"
+    },
+    {
+        "id": "da8177c1-8e62-4d24-96bc-6c79c2b782aa",
+        "word": "to infix",
+        "phonetic": "tʊ ɪnfɪks ",
+        "type": "verb",
+        "defineEn": "to insert a morpheme or affix within a word, typically by placing it in the middle of a root or base form",
+        "defineVi": "để chèn một hình vị hoặc phụ tố vào trong một từ, thường bằng cách đặt nó ở giữa một từ gốc hoặc dạng cơ sở"
+    }
+]

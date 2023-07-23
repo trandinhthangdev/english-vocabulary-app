@@ -1,0 +1,485 @@
+[
+    {
+        "id": "94f37970-2b0d-4955-a6e2-f8e15f420590",
+        "word": "allotment",
+        "phonetic": "ɐlɑːtmənt ",
+        "type": "noun",
+        "defineEn": "a small rentable plot of land that can be used for growing flowers, vegetables, etc.",
+        "defineVi": "một mảnh đất nhỏ cho thuê có thể được sử dụng để trồng hoa, rau, v.v."
+    },
+    {
+        "id": "16d9c8ac-decd-4242-9a35-4cb736c712f2",
+        "word": "fertilizer",
+        "phonetic": "fɜːɾəlaɪzɚ ",
+        "type": "noun",
+        "defineEn": "a chemical or natural material that is added to the soil to improve its productivity and help plants grow",
+        "defineVi": "một chất hóa học hoặc vật liệu tự nhiên được thêm vào đất để cải thiện năng suất và giúp cây trồng phát triển"
+    },
+    {
+        "id": "3a5a7321-808f-4431-97e2-f38c733b9e3e",
+        "word": "axe",
+        "phonetic": "æks ",
+        "type": "noun",
+        "defineEn": "a tool with a long wooden handle attached to a heavy steel or iron blade, primarily used for chopping wood and cutting down trees",
+        "defineVi": "một công cụ có tay cầm bằng gỗ dài gắn với lưỡi thép hoặc sắt nặng, chủ yếu được sử dụng để chặt gỗ và chặt cây",
+        "hasImg": true
+    },
+    {
+        "id": "28aea966-2d86-4d11-9b88-8e4cdebb47eb",
+        "word": "growbag",
+        "phonetic": "ɡɹoʊbæɡ ",
+        "type": "noun",
+        "defineEn": "a big plastic bag containing fertilized soil that can be used for growing plants or fruits, such as vegetables or tomatoes",
+        "defineVi": "một túi nhựa lớn chứa đất đã được bón phân có thể được sử dụng để trồng cây hoặc hoa quả, chẳng hạn như rau hoặc cà chua"
+    },
+    {
+        "id": "7b7c40b6-63a2-47e4-b357-c76fd3abdd35",
+        "word": "cane",
+        "phonetic": "keɪn ",
+        "type": "noun",
+        "defineEn": "a long and thin stick made of the hard and hollow stem of plants such as bamboo, used for keeping garden plants in place",
+        "defineVi": "một cây gậy dài và mỏng làm bằng thân cây cứng và rỗng như tre, dùng để giữ cố định cây trong vườn"
+    },
+    {
+        "id": "e39d2d9b-9b95-4bc0-ad88-38c897501272",
+        "word": "fork",
+        "phonetic": "fɔːɹk ",
+        "type": "noun",
+        "defineEn": "a gardening tool with a handle and three or four sharp points, used for digging or moving hay",
+        "defineVi": "một công cụ làm vườn có tay cầm và ba hoặc bốn đầu nhọn, dùng để đào hoặc di chuyển cỏ khô",
+        "hasImg": true
+    },
+    {
+        "id": "3b654edf-8fa9-4073-ade4-c71e82cbfcfe",
+        "word": "hedge trimmer",
+        "phonetic": "hɛdʒ tɹɪmɚ ",
+        "type": "noun",
+        "defineEn": "an electronic piece of equipment that closely resembles a chainsaw and is capable of cutting and trimming hedges in a garden",
+        "defineVi": "một thiết bị điện tử gần giống với cưa máy và có khả năng cắt và tỉa hàng rào trong vườn"
+    },
+    {
+        "id": "ae6485f4-5ecc-4a26-82a2-737d4d075592",
+        "word": "hoe",
+        "phonetic": "hoʊ ",
+        "type": "noun",
+        "defineEn": "a gardening tool with a thin metal blade attached to a long handle, used for cultivating and breaking up the surface of the ground, as well as removing weeds",
+        "defineVi": "một công cụ làm vườn với một lưỡi kim loại mỏng gắn với một tay cầm dài, được sử dụng để xới đất và xới đất, cũng như loại bỏ cỏ dại"
+    },
+    {
+        "id": "7d5570aa-012c-4063-915c-61d38c7c3666",
+        "word": "manure",
+        "phonetic": "mənjʊɹ ",
+        "type": "noun",
+        "defineEn": "solid waste from animals spread on a piece of land to help plants and crops grow healthier and stronger",
+        "defineVi": "chất thải rắn từ động vật trải rộng trên một mảnh đất để giúp cây cối và mùa màng phát triển khỏe mạnh hơn"
+    },
+    {
+        "id": "f84c426e-6839-4bee-9c9f-b29979f015f2",
+        "word": "weed",
+        "phonetic": "wiːd ",
+        "type": "noun",
+        "defineEn": "any wild and unwanted plant that may harm the process of growth in a farm or garden",
+        "defineVi": "bất kỳ loại cây dại và không mong muốn nào có thể gây hại cho quá trình sinh trưởng trong trang trại hoặc khu vườn",
+        "hasImg": true
+    },
+    {
+        "id": "71e116bd-3b5b-4136-961f-f06ef5c85218",
+        "word": "rake",
+        "phonetic": "ɹeɪk ",
+        "type": "noun",
+        "defineEn": "a gardening tool with metal teeth attached to a long wooden handle, primarily used for gathering dead leaves or marking a spot on the ground",
+        "defineVi": "một công cụ làm vườn có răng kim loại gắn vào một tay cầm dài bằng gỗ, chủ yếu được sử dụng để thu thập những chiếc lá chết hoặc đánh dấu một vị trí trên mặt đất"
+    },
+    {
+        "id": "2e65b6e6-44e3-4f1a-b965-0818ec2a67b9",
+        "word": "mulch",
+        "phonetic": "mʌltʃ ",
+        "type": "noun",
+        "defineEn": "a protective layer of decaying leaves or compost that is spread over or around a plant to improve the quality of the soil, stop weeds from growing, or to provide protection for the plant's base and its roots",
+        "defineVi": "một lớp bảo vệ của lá mục nát hoặc phân hữu cơ được trải trên hoặc xung quanh cây để cải thiện chất lượng đất, ngăn chặn cỏ dại phát triển hoặc để bảo vệ gốc và rễ của cây"
+    },
+    {
+        "id": "066458a5-0a81-4d29-923b-69a084501a2f",
+        "word": "shovel",
+        "phonetic": "ʃʌvəl ",
+        "type": "noun",
+        "defineEn": "a tool that has a long handle with a broad curved metal end, used for moving snow, soil, etc.",
+        "defineVi": "một công cụ có tay cầm dài với đầu kim loại cong rộng, được sử dụng để di chuyển tuyết, đất, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "785c217f-98e8-4032-904a-97ed88ad23d2",
+        "word": "lawnmower",
+        "phonetic": "lɔːnmoʊɚ ",
+        "type": "noun",
+        "defineEn": "a gardening machine equipped with a rotating blade that is designed to cut the grass on lawns",
+        "defineVi": "một máy làm vườn được trang bị một lưỡi quay được thiết kế để cắt cỏ trên bãi cỏ"
+    },
+    {
+        "id": "d5a84a49-382a-4e60-a206-5dbd18d8f201",
+        "word": "peat",
+        "phonetic": "piːt ",
+        "type": "noun",
+        "defineEn": "a brownish substance, often found under the ground or in regions with wet climate, formed by plants dying and becoming buried, that once added to the soil, can enhance its quality and help plants grow faster",
+        "defineVi": "một chất màu nâu, thường được tìm thấy dưới lòng đất hoặc ở những vùng có khí hậu ẩm ướt, được hình thành do thực vật chết và bị chôn vùi, một khi được thêm vào đất, có thể nâng cao chất lượng của nó và giúp cây phát triển nhanh hơn"
+    },
+    {
+        "id": "e7729802-faac-47a6-be25-90dbbe45bc93",
+        "word": "compost",
+        "phonetic": "kɑːmpoʊst ",
+        "type": "noun",
+        "defineEn": "decayed leaves, plants, or other organic waste turned into a mixture that can improve the soil's quality and productivity once added to it",
+        "defineVi": "lá, cây mục nát hoặc chất thải hữu cơ khác được biến thành một hỗn hợp có thể cải thiện chất lượng và năng suất của đất sau khi được thêm vào.",
+        "hasImg": true
+    },
+    {
+        "id": "e5528bd2-e6d9-43e3-b638-a57737288e28",
+        "word": "pruning shears",
+        "phonetic": "pɹuːnɪŋ ʃɪɹz ",
+        "type": "noun",
+        "defineEn": "a type of scissors used for trimming and pruning plants, featuring a sharp blade and spring mechanism for cutting through stems and branches",
+        "defineVi": "một loại kéo dùng để cắt và tỉa cây, có lưỡi sắc bén và cơ cấu lò xo để cắt xuyên qua thân và cành"
+    },
+    {
+        "id": "d5ea9cc3-acad-4a4e-8cf6-113a22d0b106",
+        "word": "rodenticide",
+        "phonetic": "ɹoʊdɛntɪsaɪd ",
+        "type": "noun",
+        "defineEn": "a pesticide used to control and kill rodents, such as rats and mice, and can come in the form of baits, traps, or poisons",
+        "defineVi": "một loại thuốc trừ sâu được sử dụng để kiểm soát và tiêu diệt loài gặm nhấm, chẳng hạn như chuột cống và chuột nhắt, và có thể ở dạng bả, bẫy hoặc chất độc"
+    },
+    {
+        "id": "c8f21aae-8a5e-4f0e-ab0d-33a23797878e",
+        "word": "garden glove",
+        "phonetic": "ɡɑːɹdən ɡlʌv ",
+        "type": "noun",
+        "defineEn": "a protective glove worn during gardening or yard work to prevent cuts and scratches and provide a better grip while handling tools and plants",
+        "defineVi": "một chiếc găng tay bảo vệ được đeo trong khi làm vườn hoặc làm vườn để tránh bị đứt tay và trầy xước, đồng thời giúp cầm nắm tốt hơn khi xử lý các dụng cụ và cây trồng"
+    },
+    {
+        "id": "fb49aaf4-1b91-43f6-9760-f651206e5858",
+        "word": "pesticide sprayer",
+        "phonetic": "pɛstɪsaɪd spɹeɪɚ ",
+        "type": "noun",
+        "defineEn": "a device used to apply pesticides or other chemicals to plants or surfaces to control or eliminate pests or diseases",
+        "defineVi": "một thiết bị được sử dụng để áp dụng thuốc trừ sâu hoặc các hóa chất khác cho thực vật hoặc bề mặt để kiểm soát hoặc loại bỏ sâu bệnh hoặc bệnh tật"
+    },
+    {
+        "id": "a91bdd5e-e8ee-421a-89dc-9c76f8c66f47",
+        "word": "garden edger",
+        "phonetic": "ɡɑːɹdən ɛdʒɚ ",
+        "type": "noun",
+        "defineEn": "a tool used for creating defined edges along garden beds, walkways, and other landscaped areas",
+        "defineVi": "một công cụ được sử dụng để tạo các cạnh được xác định dọc theo luống vườn, lối đi và các khu vực cảnh quan khác"
+    },
+    {
+        "id": "50ead7a7-1501-4578-9d25-bd73f656b319",
+        "word": "seed",
+        "phonetic": "siːd ",
+        "type": "noun",
+        "defineEn": "a small living object from a plant that when put in the ground, grows into a new one",
+        "defineVi": "một vật thể sống nhỏ từ một cái cây khi được đặt xuống đất sẽ phát triển thành một cái mới",
+        "hasImg": true
+    },
+    {
+        "id": "21501ba7-f77b-425f-aeae-4ac90f8dd685",
+        "word": "garden weeder",
+        "phonetic": "ɡɑːɹdən wiːdɚ ",
+        "type": "noun",
+        "defineEn": "a tool used to remove weeds and other unwanted plants from gardens and flower beds",
+        "defineVi": "một công cụ được sử dụng để loại bỏ cỏ dại và các loại cây không mong muốn khác khỏi vườn và bồn hoa"
+    },
+    {
+        "id": "f2320472-c333-405d-baff-2396d83b9261",
+        "word": "hand cultivator",
+        "phonetic": "hænd kʌltᵻveɪɾɚ ",
+        "type": "noun",
+        "defineEn": "a small hand-held gardening tool used for loosening soil, removing weeds, and cultivating around plants in tight spaces",
+        "defineVi": "một dụng cụ làm vườn cầm tay nhỏ được sử dụng để nới lỏng đất, loại bỏ cỏ dại và canh tác xung quanh cây trồng trong không gian chật hẹp"
+    },
+    {
+        "id": "7f7aef43-71d6-4a1b-8643-fd69e466a611",
+        "word": "spade",
+        "phonetic": "speɪd ",
+        "type": "noun",
+        "defineEn": "a sturdy gardening tool with a four-sided metal blade attached to a long handle, which people use to move earth",
+        "defineVi": "một công cụ làm vườn chắc chắn với một lưỡi kim loại bốn cạnh gắn vào một tay cầm dài, mà mọi người sử dụng để di chuyển trái đất"
+    },
+    {
+        "id": "96d8462f-5ab1-4e38-8041-14fe47d8a2f2",
+        "word": "patch",
+        "phonetic": "pætʃ ",
+        "type": "noun",
+        "defineEn": "a small plot of land that is used for growing a particular type of crops or plants",
+        "defineVi": "một mảnh đất nhỏ được sử dụng để trồng một loại cây trồng hoặc cây trồng cụ thể"
+    },
+    {
+        "id": "b7b6616d-ef15-4888-9c89-63586c6398cc",
+        "word": "wheelbarrow",
+        "phonetic": "wiːlbæɹoʊ ",
+        "type": "noun",
+        "defineEn": "an object with two handles and one wheel, used for carrying things",
+        "defineVi": "một vật có hai tay cầm và một bánh xe, được sử dụng để mang đồ vật",
+        "hasImg": true
+    },
+    {
+        "id": "5a53c0af-ac74-4920-a925-f74bbcfd9eaa",
+        "word": "garden sprayer",
+        "phonetic": "ɡɑːɹdən spɹeɪɚ ",
+        "type": "noun",
+        "defineEn": "a tool used to apply liquid fertilizers, herbicides, pesticides, and other solutions to plants and garden beds",
+        "defineVi": "một công cụ được sử dụng để bón phân lỏng, thuốc diệt cỏ, thuốc trừ sâu và các giải pháp khác cho cây trồng và luống vườn"
+    },
+    {
+        "id": "9e8e12a0-6e23-4203-af6d-ae498df56a9f",
+        "word": "insecticide",
+        "phonetic": "ɪnsɛktɪsaɪd ",
+        "type": "noun",
+        "defineEn": "a chemical substance or agent that is used to kill or control insects that can cause harm to humans, crops, animals, and structures",
+        "defineVi": "một chất hoặc tác nhân hóa học được sử dụng để tiêu diệt hoặc kiểm soát côn trùng có thể gây hại cho con người, cây trồng, động vật và công trình"
+    },
+    {
+        "id": "70e410e0-0b44-498a-8313-7d7f3bd22354",
+        "word": "Strimmer",
+        "phonetic": "stɹɪmɚ ",
+        "type": "noun",
+        "defineEn": "an electrical, handheld gardening tool for cutting grass or weed,  used as an alternative for larger machines, such as lawnmower",
+        "defineVi": "một công cụ làm vườn cầm tay chạy bằng điện để cắt cỏ hoặc cỏ dại, được sử dụng thay thế cho các loại máy lớn hơn, chẳng hạn như máy cắt cỏ"
+    },
+    {
+        "id": "4106590d-1bba-4139-8486-e74bc36490a7",
+        "word": "bulb planter",
+        "phonetic": "bʌlb plæntɚ ",
+        "type": "noun",
+        "defineEn": "a tool used for planting bulbs, such as tulips, daffodils, and other spring-flowering bulbs",
+        "defineVi": "một công cụ được sử dụng để trồng các loại củ, chẳng hạn như hoa tulip, hoa thuỷ tiên vàng và các loại củ ra hoa vào mùa xuân khác"
+    },
+    {
+        "id": "c25f6880-6981-48cd-901b-0b2038a90ace",
+        "word": "landscaping",
+        "phonetic": "lændskeɪpɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of modifying the visible features of an area of land, such as adding plants, changing the terrain, or constructing structures, to improve its aesthetic appeal or make it more functional",
+        "defineVi": "quá trình sửa đổi các đặc điểm có thể nhìn thấy của một vùng đất, chẳng hạn như thêm cây cối, thay đổi địa hình hoặc xây dựng các cấu trúc, để cải thiện tính thẩm mỹ của nó hoặc làm cho nó có nhiều chức năng hơn"
+    },
+    {
+        "id": "4940b078-6c4f-4882-8fcc-0d3c7f246477",
+        "word": "seedbed",
+        "phonetic": "siːdbɛd ",
+        "type": "noun",
+        "defineEn": "a area of ground that provides the essential needs for seeds to grow and develop into young plants before they are moved to another place",
+        "defineVi": "một diện tích đất cung cấp các nhu cầu thiết yếu cho hạt sinh trưởng và phát triển thành cây non trước khi chúng được chuyển đến nơi khác"
+    },
+    {
+        "id": "a6001ede-a228-4076-9f59-e4e273d9387f",
+        "word": "fogger",
+        "phonetic": "fɑːɡɚ ",
+        "type": "noun",
+        "defineEn": "a tool that sprays a fine mist of chemicals to control pests and insects",
+        "defineVi": "một công cụ phun sương hóa chất mịn để kiểm soát sâu bệnh và côn trùng"
+    },
+    {
+        "id": "f610491b-cec9-4e10-a671-29599f7c5757",
+        "word": "leaf blower",
+        "phonetic": "liːf bloʊɚ ",
+        "type": "noun",
+        "defineEn": "a motorized gardening tool with a high-speed air nozzle used for blowing leaves and debris off lawns and other surfaces",
+        "defineVi": "một công cụ làm vườn có động cơ với vòi phun khí tốc độ cao được sử dụng để thổi lá và mảnh vụn khỏi bãi cỏ và các bề mặt khác"
+    },
+    {
+        "id": "61ddcbbf-cf2f-414e-b3d5-e6efb5912fde",
+        "word": "garden knife",
+        "phonetic": "ɡɑːɹdən naɪf ",
+        "type": "noun",
+        "defineEn": "a hand-held cutting and pruning tool used for gardening tasks such as digging, cutting, and pruning",
+        "defineVi": "một công cụ cắt và tỉa cầm tay được sử dụng cho các công việc làm vườn như đào, cắt và tỉa"
+    },
+    {
+        "id": "4ae3837b-f59e-40b8-a4b2-eea40831fbb8",
+        "word": "to compost",
+        "phonetic": "tə kɑːmpoʊst ",
+        "type": "verb",
+        "defineEn": "to make decayed leaves, plants, or other organic waste into a mixture that can improve the soil's quality to help plants grow more quickly",
+        "defineVi": "để làm cho lá mục nát, thực vật hoặc chất thải hữu cơ khác thành một hỗn hợp có thể cải thiện chất lượng của đất để giúp cây trồng phát triển nhanh hơn",
+        "hasImg": true
+    },
+    {
+        "id": "532a8149-6e03-4d4f-b92b-b5c24be8b9c0",
+        "word": "to cut back",
+        "phonetic": "tə kʌt bæk ",
+        "type": "verb",
+        "defineEn": "to cut off the top parts of a tree, bush, or other plant to either reduce their size or help them grow",
+        "defineVi": "cắt bỏ phần ngọn của cây, bụi cây hoặc cây khác để giảm kích thước hoặc giúp chúng phát triển"
+    },
+    {
+        "id": "8edc3a8d-c727-4a21-af4f-d6be7b8edaea",
+        "word": "to cut down",
+        "phonetic": "tə kʌt daʊn ",
+        "type": "verb",
+        "defineEn": "to cut through something at its base in order to make it fall",
+        "defineVi": "để cắt qua một cái gì đó ở gốc của nó để làm cho nó rơi xuống",
+        "hasImg": true
+    },
+    {
+        "id": "048ed856-0971-4f4e-911a-af7265d0b8d6",
+        "word": "to dig",
+        "phonetic": "tə dɪɡ ",
+        "type": "verb",
+        "defineEn": "to remove earth or make a hole in the ground using the hands, machines, tools, etc.",
+        "defineVi": "để loại bỏ đất hoặc tạo một lỗ trên mặt đất bằng tay, máy móc, công cụ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "887428b1-fd93-4f93-a8d4-9d83d9dfff03",
+        "word": "to garden",
+        "phonetic": "tə ɡɑːɹdən ",
+        "type": "verb",
+        "defineEn": "to take care of a garden by planting seeds, cultivating and watering plants, etc., either as a job or hobby",
+        "defineVi": "chăm sóc khu vườn bằng cách gieo hạt, trồng và tưới cây, v.v., như một công việc hoặc sở thích",
+        "hasImg": true
+    },
+    {
+        "id": "2f5212da-fb63-4ff5-b910-c17e86aa9118",
+        "word": "to graft",
+        "phonetic": "tə ɡɹæft ",
+        "type": "verb",
+        "defineEn": "to cut and join a piece of a living plant to another plant so that it can continue growing from there",
+        "defineVi": "cắt và nối một phần của cây sống với cây khác để nó có thể tiếp tục phát triển từ đó"
+    },
+    {
+        "id": "9e24c984-e013-4d8b-9c41-33d819611154",
+        "word": "to grow",
+        "phonetic": "tə ɡɹoʊ ",
+        "type": "verb",
+        "defineEn": "to cause a plant to develop and give fruit or flowers",
+        "defineVi": "để làm cho cây phát triển và cho quả hoặc hoa",
+        "hasImg": true
+    },
+    {
+        "id": "102a6967-8b12-40da-ab93-318c097c78c4",
+        "word": "to hoe",
+        "phonetic": "tə hoʊ ",
+        "type": "verb",
+        "defineEn": "to break up the surface of the ground, remove weeds, etc. using a gardening tool with a thin metal blade attached to a long handle",
+        "defineVi": "xới đất, loại bỏ cỏ dại, v.v. bằng dụng cụ làm vườn có lưỡi kim loại mỏng gắn với cán dài"
+    },
+    {
+        "id": "f1b68b94-bddf-4e05-b774-aff2d8828381",
+        "word": "to manure",
+        "phonetic": "tə mənjʊɹ ",
+        "type": "verb",
+        "defineEn": "to apply solid waste from animals or plants to a piece of land in order to enhance the quality of its soil and help plants grow ever more quickly",
+        "defineVi": "để bón chất thải rắn từ động vật hoặc thực vật vào một mảnh đất để nâng cao chất lượng đất và giúp cây trồng phát triển nhanh hơn"
+    },
+    {
+        "id": "8f2881a3-fd60-44d0-b912-3235e115c18d",
+        "word": "to plant",
+        "phonetic": "tə plænt ",
+        "type": "verb",
+        "defineEn": "to put a seed, plant, etc. in the ground to grow",
+        "defineVi": "để đặt một hạt giống, cây trồng, vv trong lòng đất để phát triển",
+        "hasImg": true
+    },
+    {
+        "id": "d8c91449-f0df-4574-8ec0-583acd97e977",
+        "word": "to pot",
+        "phonetic": "tə pɑːt ",
+        "type": "verb",
+        "defineEn": "to place a plant in a container, made of plastic or clay, filled with fertilized soil",
+        "defineVi": "để đặt một cây trong một container, làm bằng nhựa hoặc đất sét, đầy đất đã được bón phân"
+    },
+    {
+        "id": "a9381fae-66c8-409c-880a-fefaa426c2a3",
+        "word": "to rake",
+        "phonetic": "tə ɹeɪk ",
+        "type": "verb",
+        "defineEn": "to make a ground surface become level or smooth, using a gardening tool called rake",
+        "defineVi": "để làm cho bề mặt đất trở nên bằng phẳng hoặc bằng phẳng, sử dụng một dụng cụ làm vườn gọi là cào"
+    },
+    {
+        "id": "5b9d26cd-2d18-44b2-b0e9-8b0bd553ff22",
+        "word": "to mow",
+        "phonetic": "tə moʊ ",
+        "type": "verb",
+        "defineEn": "to cut grass, wheat, etc. with a gardening machine or handheld tools, such as scythe",
+        "defineVi": "cắt cỏ, lúa mì, v.v. bằng máy làm vườn hoặc dụng cụ cầm tay, chẳng hạn như lưỡi hái",
+        "hasImg": true
+    },
+    {
+        "id": "55a16c8a-a20a-4174-b165-f18ec1a5798c",
+        "word": "to mulch",
+        "phonetic": "tə mʌltʃ ",
+        "type": "verb",
+        "defineEn": "to put a protective layer of decaying leaves or compost around a plant in order to improve the quality of its soil, as well as protecting its base and roots",
+        "defineVi": "để đặt một lớp bảo vệ của lá mục nát hoặc phân hữu cơ xung quanh một nhà máy để cải thiện chất lượng của đất, cũng như bảo vệ cơ sở và rễ của nó"
+    },
+    {
+        "id": "4a92e7db-3e16-474c-a64e-26187b33ff42",
+        "word": "to shovel",
+        "phonetic": "tə ʃʌvəl ",
+        "type": "verb",
+        "defineEn": "to use a rounded blade attached to a long handle, called shovel to dig or move earth",
+        "defineVi": "sử dụng một lưỡi tròn gắn với một tay cầm dài, được gọi là xẻng để đào hoặc di chuyển trái đất",
+        "hasImg": true
+    },
+    {
+        "id": "735229de-25cc-4b6f-8bed-70a68fb67cf6",
+        "word": "to sow",
+        "phonetic": "tə soʊ ",
+        "type": "verb",
+        "defineEn": "to plant seeds in the earth or scatter them over the ground",
+        "defineVi": "để trồng hạt giống trong trái đất hoặc phân tán chúng trên mặt đất",
+        "hasImg": true
+    },
+    {
+        "id": "09d1f173-e2e5-4f19-8e5a-be41a49a95a2",
+        "word": "to transplant",
+        "phonetic": "tə tɹænsplænt ",
+        "type": "verb",
+        "defineEn": "to remove a plant from its original place and replant it somewhere else",
+        "defineVi": "để loại bỏ một nhà máy từ nơi ban đầu của nó và trồng lại nó ở một nơi khác"
+    },
+    {
+        "id": "a3daeca9-e54b-4a1f-acdc-18e48c2a3fbf",
+        "word": "to water",
+        "phonetic": "tə wɔːɾɚ ",
+        "type": "verb",
+        "defineEn": "to pour water on the ground to make plants grow in it",
+        "defineVi": "đổ nước xuống đất để làm cho cây mọc trong đó",
+        "hasImg": true
+    },
+    {
+        "id": "fb68ec73-b3eb-44e6-a10e-79f7ba9306e5",
+        "word": "to seed",
+        "phonetic": "tə siːd ",
+        "type": "verb",
+        "defineEn": "to scatter seeds over an area of land with the intention of growing plants",
+        "defineVi": "rải hạt giống trên một diện tích đất với mục đích trồng cây",
+        "hasImg": true
+    },
+    {
+        "id": "672a215c-747c-449f-94c8-d07265de3018",
+        "word": "pole pruner",
+        "phonetic": "poʊl prjuːnɚ ",
+        "type": "noun",
+        "defineEn": "a long gardening tool used for trimming high branches or foliage, featuring a pruning saw or shears attached to the end of a pole for extended reach",
+        "defineVi": "một công cụ làm vườn dài được sử dụng để cắt tỉa cành hoặc tán lá cao, có cưa hoặc kéo cắt tỉa được gắn vào đầu cột để mở rộng phạm vi"
+    },
+    {
+        "id": "0dc04d20-decb-4170-8766-474bfc1d63fa",
+        "word": "square point shovel",
+        "phonetic": "skwɛɹ pɔɪnt ʃʌvəl ",
+        "type": "noun",
+        "defineEn": "a flat, rectangular blade with a sharp edge, used for cutting through roots, edging, and digging in hard or compacted soil",
+        "defineVi": "một lưỡi dao phẳng, hình chữ nhật có cạnh sắc, được sử dụng để cắt rễ, viền và đào trong đất cứng hoặc đất nén chặt"
+    },
+    {
+        "id": "a9444c45-7552-45d4-a68d-1a4ebd31b499",
+        "word": "round point shovel",
+        "phonetic": "ɹaʊnd pɔɪnt ʃʌvəl ",
+        "type": "noun",
+        "defineEn": "a rounded blade, used for digging and moving loose materials like soil, gravel, and sand",
+        "defineVi": "một lưỡi kiếm tròn, được sử dụng để đào và di chuyển các vật liệu rời như đất, sỏi và cát",
+        "hasImg": true
+    }
+]

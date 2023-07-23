@@ -1,0 +1,707 @@
+[
+    {
+        "id": "7c8bb875-7383-4cbd-8dd0-beb2ff3c9e29",
+        "word": "to expect",
+        "phonetic": "tʊ ɛkspɛkt ",
+        "type": "verb",
+        "defineEn": "to think or believe that it is possible for something to happen or for someone to do something",
+        "defineVi": "suy nghĩ hoặc tin rằng điều gì đó có thể xảy ra hoặc ai đó có thể làm điều gì đó"
+    },
+    {
+        "id": "7c23c707-7f3d-4998-bc39-921f1496ed3d",
+        "word": "expectation",
+        "phonetic": "ɛkspɪkteɪʃən ",
+        "type": "noun",
+        "defineEn": "a belief about something that will come to pass, because it is probable",
+        "defineVi": "một niềm tin về một cái gì đó sẽ xảy ra, bởi vì nó có thể xảy ra"
+    },
+    {
+        "id": "5be985d8-8d3d-4df3-924c-9d245d654681",
+        "word": "to explain",
+        "phonetic": "tʊ ɛkspleɪn ",
+        "type": "verb",
+        "defineEn": "to make something clear and easy to understand by giving more information about it",
+        "defineVi": "để làm cho một cái gì đó rõ ràng và dễ hiểu bằng cách cung cấp thêm thông tin về nó",
+        "hasImg": true
+    },
+    {
+        "id": "824f1df4-636e-4bf3-bccc-753eeaaa98b9",
+        "word": "explanation",
+        "phonetic": "ɛksplɐneɪʃən ",
+        "type": "noun",
+        "defineEn": "information or details that are given to make something clear or easier to understand",
+        "defineVi": "thông tin hoặc chi tiết được đưa ra để làm cho một cái gì đó rõ ràng hoặc dễ hiểu hơn"
+    },
+    {
+        "id": "1fb076b8-3379-46e9-ab0e-59ffa9227193",
+        "word": "to frustrate",
+        "phonetic": "tə fɹʌstɹeɪt ",
+        "type": "verb",
+        "defineEn": "to prevent someone from achieving success, particularly by nullifying their efforts",
+        "defineVi": "để ngăn cản ai đó đạt được thành công, đặc biệt là bằng cách vô hiệu hóa những nỗ lực của họ"
+    },
+    {
+        "id": "65c781be-0510-4c22-aca8-8ed1e44c33bd",
+        "word": "frustration",
+        "phonetic": "fɹʌstɹeɪʃən ",
+        "type": "noun",
+        "defineEn": "the feeling of being impatient, annoyed, or upset because of being unable to do or achieve what is desired",
+        "defineVi": "cảm giác thiếu kiên nhẫn, khó chịu hoặc buồn bã vì không thể làm hoặc đạt được những gì mong muốn",
+        "hasImg": true
+    },
+    {
+        "id": "7a6c267b-302b-4cf4-abce-5ea51008d480",
+        "word": "to permit",
+        "phonetic": "tə pɚmɪt ",
+        "type": "verb",
+        "defineEn": "to allow someone to do something",
+        "defineVi": "để cho phép một ai đó để làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "304b1f73-4bd6-419f-adfa-59cade71dcdb",
+        "word": "permission",
+        "phonetic": "pɚmɪʃən ",
+        "type": "noun",
+        "defineEn": "the action of being allowed or allowing someone to do something, particularly in an official way",
+        "defineVi": "hành động được phép hoặc cho phép ai đó làm điều gì đó, đặc biệt là theo cách chính thức",
+        "hasImg": true
+    },
+    {
+        "id": "6a66997d-1327-402e-9739-44b84e01f793",
+        "word": "to develop",
+        "phonetic": "tə dɪvɛləp ",
+        "type": "verb",
+        "defineEn": "to change and become stronger or more advanced",
+        "defineVi": "để thay đổi và trở nên mạnh mẽ hơn hoặc tiên tiến hơn",
+        "hasImg": true
+    },
+    {
+        "id": "6d143ce3-4e1e-4f5e-8e44-d8f4594ffab5",
+        "word": "development",
+        "phonetic": "dɪvɛləpmənt ",
+        "type": "noun",
+        "defineEn": "a process or state in which something becomes more advanced, stronger, etc.",
+        "defineVi": "một quá trình hoặc trạng thái trong đó một cái gì đó trở nên tiên tiến hơn, mạnh mẽ hơn, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "f9e7e37f-5071-44de-8b6b-5cb183eaf9ed",
+        "word": "to involve",
+        "phonetic": "tʊ ɪnvɑːlv ",
+        "type": "verb",
+        "defineEn": "to contain or include something as a necessary part",
+        "defineVi": "để chứa hoặc bao gồm một cái gì đó như là một phần cần thiết"
+    },
+    {
+        "id": "1f4b0d3e-f126-4808-bdc0-cb2a993548e5",
+        "word": "involvement",
+        "phonetic": "ɪnvɑːlvmənt ",
+        "type": "noun",
+        "defineEn": "the act of sharing in the activities of a group",
+        "defineVi": "hành động chia sẻ trong các hoạt động của một nhóm"
+    },
+    {
+        "id": "65cced2a-cbc3-4456-ad2d-846aecadc650",
+        "word": "courteous",
+        "phonetic": "kɜːɾiəs ",
+        "type": "adjective",
+        "defineEn": "behaving with politeness and respect",
+        "defineVi": "cư xử lịch sự và tôn trọng",
+        "hasImg": true
+    },
+    {
+        "id": "4aa863ca-0e10-4f1c-8c1b-8b7ac2d96763",
+        "word": "courtesy",
+        "phonetic": "kɜːɾəsi ",
+        "type": "noun",
+        "defineEn": "a courteous or respectful or considerate act",
+        "defineVi": "một hành động lịch sự hoặc tôn trọng hoặc ân cần"
+    },
+    {
+        "id": "a558a502-5e92-4ed6-bcf6-8bd1e5e9b5d3",
+        "word": "difficult",
+        "phonetic": "dɪfɪkəlt ",
+        "type": "adjective",
+        "defineEn": "needing a lot of work or skill to do, understand, or deal with",
+        "defineVi": "cần rất nhiều công việc hoặc kỹ năng để làm, hiểu hoặc giải quyết",
+        "hasImg": true
+    },
+    {
+        "id": "4d8a655a-4c29-4cec-8568-e75b13d2fcc4",
+        "word": "difficulty",
+        "phonetic": "dɪfɪkʌlti ",
+        "type": "noun",
+        "defineEn": "a problem or something that causes a problem",
+        "defineVi": "một vấn đề hoặc một cái gì đó gây ra một vấn đề"
+    },
+    {
+        "id": "49ff94f3-adeb-4dd8-814f-e76cd5484423",
+        "word": "responsible",
+        "phonetic": "ɹᵻspɑːnsᵻbəl ",
+        "type": "adjective",
+        "defineEn": "(of a person) having an obligation to do something or to take care of someone or something as part of one's job or role",
+        "defineVi": "(của một người) có nghĩa vụ làm điều gì đó hoặc chăm sóc ai đó hoặc điều gì đó như một phần công việc hoặc vai trò của một người",
+        "hasImg": true
+    },
+    {
+        "id": "95af4b36-0647-4a06-acdc-78dcd83ba43f",
+        "word": "responsibility",
+        "phonetic": "ɹᵻspɑːnsəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the obligation to perform a particular duty or task that is assigned to one",
+        "defineVi": "nghĩa vụ thực hiện một nhiệm vụ hoặc nhiệm vụ cụ thể được giao cho một người"
+    },
+    {
+        "id": "b0b3803a-c061-48c8-9923-1d4f6214cf90",
+        "word": "reliable",
+        "phonetic": "ɹᵻlaɪəbəl ",
+        "type": "adjective",
+        "defineEn": "able to be relied on or trusted",
+        "defineVi": "có thể được dựa vào hoặc đáng tin cậy",
+        "hasImg": true
+    },
+    {
+        "id": "3865e6c9-6a56-4aac-ad4a-012e70ff3f1d",
+        "word": "reliability",
+        "phonetic": "ɹᵻlaɪəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality of being dependable or reliable",
+        "defineVi": "chất lượng đáng tin cậy hoặc đáng tin cậy"
+    },
+    {
+        "id": "8a6ff24d-b090-4cee-8500-3b09e0a4ebb2",
+        "word": "capable",
+        "phonetic": "keɪpəbəl ",
+        "type": "adjective",
+        "defineEn": "having the required quality or ability for doing something",
+        "defineVi": "có chất lượng cần thiết hoặc khả năng để làm một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "2a5c8d44-f6bc-4dbb-b06a-83cc0a531362",
+        "word": "capability",
+        "phonetic": "keɪpəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality of being capable -- physically or intellectually or legally",
+        "defineVi": "phẩm chất của khả năng - về thể chất hoặc trí tuệ hoặc pháp lý"
+    },
+    {
+        "id": "93d052dc-6dd7-457e-9d6a-902d159dd6ac",
+        "word": "dependable",
+        "phonetic": "dᵻpɛndəbəl ",
+        "type": "adjective",
+        "defineEn": "able to be relied on to do what is needed or asked of",
+        "defineVi": "có thể được dựa vào để làm những gì cần thiết hoặc yêu cầu",
+        "hasImg": true
+    },
+    {
+        "id": "d3a712c6-05d5-486b-bfed-b41901175e77",
+        "word": "dependability",
+        "phonetic": "dᵻpɛndəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality of being dependable or reliable",
+        "defineVi": "chất lượng đáng tin cậy hoặc đáng tin cậy",
+        "hasImg": true
+    },
+    {
+        "id": "b0420244-3fdb-4f22-b44c-96a9348248be",
+        "word": "disabled",
+        "phonetic": "dɪseɪbəld ",
+        "type": "adjective",
+        "defineEn": "complete or partial inability to use a part of one's body or mind, caused by an illness, injury, etc.",
+        "defineVi": "mất khả năng sử dụng hoàn toàn hoặc một phần một phần cơ thể hoặc tâm trí của một người do bệnh tật, thương tích, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "33cf4d1f-ee8c-4eec-9663-f44c90f50676",
+        "word": "disability",
+        "phonetic": "dɪsɐbɪləɾi ",
+        "type": "noun",
+        "defineEn": "a physical or mental condition that prevents a person from using some part of their body completely or learning something easily",
+        "defineVi": "một tình trạng thể chất hoặc tinh thần ngăn cản một người sử dụng hoàn toàn một phần cơ thể của họ hoặc học một cái gì đó một cách dễ dàng",
+        "hasImg": true
+    },
+    {
+        "id": "bdf3ad98-0fac-4a0c-ab55-e69faf7096fd",
+        "word": "fair",
+        "phonetic": "fɛɹ ",
+        "type": "adjective",
+        "defineEn": "relatively large in number, amount, or size",
+        "defineVi": "tương đối lớn về số lượng, số lượng hoặc kích thước"
+    },
+    {
+        "id": "02d63e8b-78ad-4b74-9c75-f2b8dda486da",
+        "word": "fairness",
+        "phonetic": "fɛɹnəs ",
+        "type": "noun",
+        "defineEn": "conformity with rules or standards",
+        "defineVi": "phù hợp với các quy tắc hoặc tiêu chuẩn"
+    },
+    {
+        "id": "d97a9f48-2beb-4df1-8a25-6bef725c085f",
+        "word": "rebellious",
+        "phonetic": "ɹᵻbɛliəs ",
+        "type": "adjective",
+        "defineEn": "(of a person) not willing to follow rules, standards, or norms accepted by society or people in authority",
+        "defineVi": "(của một người) không sẵn sàng tuân theo các quy tắc, tiêu chuẩn hoặc chuẩn mực được xã hội hoặc những người có thẩm quyền chấp nhận",
+        "hasImg": true
+    },
+    {
+        "id": "755bb8af-bb00-40ca-b5d8-6296ef503d37",
+        "word": "rebelliousness",
+        "phonetic": "ɹᵻbɛliəsnəs ",
+        "type": "noun",
+        "defineEn": "intentionally contemptuous behavior or attitude",
+        "defineVi": "hành vi hoặc thái độ khinh miệt cố ý"
+    },
+    {
+        "id": "87e8d6cb-1ebb-4b46-9002-5592c2f36a86",
+        "word": "selfish",
+        "phonetic": "sɛlfɪʃ ",
+        "type": "adjective",
+        "defineEn": "always putting one's interests first and not caring about the needs or rights of others",
+        "defineVi": "luôn đặt lợi ích của mình lên hàng đầu và không quan tâm đến nhu cầu hay quyền lợi của người khác",
+        "hasImg": true
+    },
+    {
+        "id": "a6bcde0e-f81d-4471-97f0-f79aee9712d1",
+        "word": "selfishness",
+        "phonetic": "sɛlfɪʃnəs ",
+        "type": "noun",
+        "defineEn": "the quality or state of being excessively focused on oneself, one's own interests, or needs without regard for others.",
+        "defineVi": "phẩm chất hoặc trạng thái tập trung quá mức vào bản thân, lợi ích hoặc nhu cầu của chính mình mà không quan tâm đến người khác.",
+        "hasImg": true
+    },
+    {
+        "id": "1c8b82c0-1a5e-4e33-be52-06ad6e146e7d",
+        "word": "strict",
+        "phonetic": "stɹɪkt ",
+        "type": "adjective",
+        "defineEn": "(of a person) demanding that rules be obeyed or not showing flexibility",
+        "defineVi": "(của một người) yêu cầu các quy tắc phải được tuân thủ hoặc không thể hiện sự linh hoạt",
+        "hasImg": true
+    },
+    {
+        "id": "2ace5810-6e19-4842-b91f-b38039840f00",
+        "word": "strictness",
+        "phonetic": "stɹɪktnəs ",
+        "type": "noun",
+        "defineEn": "(of a law) the fact of being severe and requiring rules to be obeyed",
+        "defineVi": "(của một luật) thực tế nghiêm trọng và đòi hỏi các quy tắc phải được tuân theo"
+    },
+    {
+        "id": "74feff7c-6353-40f4-bc14-34a17138d9be",
+        "word": "generous",
+        "phonetic": "dʒɛnɚɹəs ",
+        "type": "adjective",
+        "defineEn": "showing a willingness or willing to freely give money, spend time, etc. with others",
+        "defineVi": "thể hiện sự sẵn lòng hoặc sẵn sàng tự do cho tiền, dành thời gian, v.v. với người khác",
+        "hasImg": true
+    },
+    {
+        "id": "217a2b17-283a-48e6-a627-a0a0e1319a89",
+        "word": "generosity",
+        "phonetic": "dʒɛnɚɹɔsᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality of being kind, understanding and unselfish, especially in providing money or gifts to others",
+        "defineVi": "phẩm chất tốt bụng, hiểu biết và không ích kỷ, đặc biệt là trong việc cung cấp tiền hoặc quà tặng cho người khác",
+        "hasImg": true
+    },
+    {
+        "id": "22508208-fa29-42d8-a53d-b9c978cd0006",
+        "word": "mature",
+        "phonetic": "mətʃʊɹ ",
+        "type": "adjective",
+        "defineEn": "full-grown and physically developed",
+        "defineVi": "trưởng thành và phát triển toàn diện về thể chất",
+        "hasImg": true
+    },
+    {
+        "id": "c763ddc5-6da1-4338-b5eb-026295a580f7",
+        "word": "maturity",
+        "phonetic": "mətʃʊɹɹᵻɾi ",
+        "type": "noun",
+        "defineEn": "the period or state of being physically grown or developed",
+        "defineVi": "thời kỳ hoặc trạng thái được tăng trưởng hoặc phát triển về thể chất",
+        "hasImg": true
+    },
+    {
+        "id": "ac3eb409-41f1-45bf-8617-69e6373b939a",
+        "word": "mobile",
+        "phonetic": "moʊbəl ",
+        "type": "adjective",
+        "defineEn": "not fixed and able to move or be moved easily or quickly",
+        "defineVi": "không cố định và có thể di chuyển hoặc di chuyển dễ dàng hoặc nhanh chóng",
+        "hasImg": true
+    },
+    {
+        "id": "2f4fbbd6-dc66-41eb-86db-74456f51127a",
+        "word": "mobility",
+        "phonetic": "moʊbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the ability to move easily or be freely moved  from one place, job, etc. to another",
+        "defineVi": "khả năng di chuyển dễ dàng hoặc được tự do di chuyển từ nơi này, công việc khác, v.v."
+    },
+    {
+        "id": "69e12c6d-7848-4cf4-b594-85d77e2ff476",
+        "word": "secure",
+        "phonetic": "sᵻkjʊɹ ",
+        "type": "adjective",
+        "defineEn": "describing something that is away from danger",
+        "defineVi": "mô tả một cái gì đó tránh xa nguy hiểm",
+        "hasImg": true
+    },
+    {
+        "id": "68a7efb3-2ce1-4486-bc27-219a0aab788e",
+        "word": "security",
+        "phonetic": "sᵻkjʊɹɹᵻɾi ",
+        "type": "noun",
+        "defineEn": "the state of being protected or having protection against any types of danger",
+        "defineVi": "trạng thái được bảo vệ hoặc có sự bảo vệ chống lại mọi loại nguy hiểm",
+        "hasImg": true
+    },
+    {
+        "id": "8e1f53ff-d4f0-4880-91bd-c3b5102f8801",
+        "word": "productive",
+        "phonetic": "pɹədʌktɪv ",
+        "type": "adjective",
+        "defineEn": "producing something of value through effective and efficient use of time, resources, and effort",
+        "defineVi": "tạo ra thứ gì đó có giá trị thông qua việc sử dụng hiệu quả và hiệu quả thời gian, nguồn lực và nỗ lực"
+    },
+    {
+        "id": "3db975e6-a7d7-4c3b-b2a5-ac23fdf4b7b3",
+        "word": "productivity",
+        "phonetic": "pɹɑːdəktɪvᵻɾi ",
+        "type": "noun",
+        "defineEn": "the state or condition of being productive, or the ability to produce or generate goods, services, or results efficiently and effectively",
+        "defineVi": "trạng thái hoặc điều kiện sản xuất, hoặc khả năng sản xuất hoặc tạo ra hàng hóa, dịch vụ hoặc kết quả một cách hiệu quả và hiệu quả"
+    },
+    {
+        "id": "f8197cce-d925-4442-87c9-723655bbac02",
+        "word": "important",
+        "phonetic": "ɪmpoːɹtənt ",
+        "type": "adjective",
+        "defineEn": "having a lot of value",
+        "defineVi": "có nhiều giá trị",
+        "hasImg": true
+    },
+    {
+        "id": "5dd80564-0de2-452d-b342-c56959c44725",
+        "word": "importance",
+        "phonetic": "ɪmpoːɹtəns ",
+        "type": "noun",
+        "defineEn": "the quality or state of being significant or having a strong influence on something",
+        "defineVi": "chất lượng hoặc trạng thái quan trọng hoặc có ảnh hưởng mạnh mẽ đến một cái gì đó"
+    },
+    {
+        "id": "c5910448-1c8f-4139-81a4-1bb993688284",
+        "word": "significant",
+        "phonetic": "sɪɡnɪfɪkənt ",
+        "type": "adjective",
+        "defineEn": "important or great enough to be noticed or be effective",
+        "defineVi": "đủ quan trọng hoặc tuyệt vời để được chú ý hoặc có hiệu quả"
+    },
+    {
+        "id": "bc3549fc-fde3-4df0-9eeb-f33d5e640991",
+        "word": "significance",
+        "phonetic": "sɪɡnɪfɪkəns ",
+        "type": "noun",
+        "defineEn": "the quality of being significant",
+        "defineVi": "chất lượng đáng kể"
+    },
+    {
+        "id": "86bfc4df-a90b-41a4-8f81-4e73630dccb9",
+        "word": "independent",
+        "phonetic": "ɪndᵻpɛndənt ",
+        "type": "adjective",
+        "defineEn": "free to do things as one wants and not needing help from others",
+        "defineVi": "tự do làm mọi việc theo ý muốn và không cần sự giúp đỡ của người khác",
+        "hasImg": true
+    },
+    {
+        "id": "73c861b9-b16a-4dc1-ac8f-e4862d26cbbf",
+        "word": "independence",
+        "phonetic": "ɪndᵻpɛndəns ",
+        "type": "noun",
+        "defineEn": "the state of being free from the control of others",
+        "defineVi": "trạng thái thoát khỏi sự kiểm soát của người khác"
+    },
+    {
+        "id": "1c092071-96e9-4114-afd2-a1ccea3c579e",
+        "word": "lenient",
+        "phonetic": "liːnɪənt ",
+        "type": "adjective",
+        "defineEn": "(of a person) showing mercy, flexibility, or tolerance, particularly while obeying rules or punishing someone",
+        "defineVi": "(của một người) thể hiện lòng thương xót, linh hoạt hoặc khoan dung, đặc biệt là khi tuân theo các quy tắc hoặc trừng phạt ai đó"
+    },
+    {
+        "id": "5394bbcb-e915-49c3-9022-056dc3ab4eae",
+        "word": "lenience",
+        "phonetic": "liːnɪəns ",
+        "type": "noun",
+        "defineEn": "mercifulness as a consequence of being lenient or tolerant",
+        "defineVi": "lòng thương xót là kết quả của sự khoan dung hoặc khoan dung"
+    },
+    {
+        "id": "6f722ec4-34c5-45a2-b736-ab94baad410f",
+        "word": "obedient",
+        "phonetic": "oʊbiːdiənt ",
+        "type": "adjective",
+        "defineEn": "dutifully complying with the commands or instructions of those in authority",
+        "defineVi": "nghiêm túc tuân thủ các mệnh lệnh hoặc hướng dẫn của những người có thẩm quyền"
+    },
+    {
+        "id": "b30fad60-a854-4111-ab80-d6b4649fd618",
+        "word": "obedience",
+        "phonetic": "oʊbiːdiəns ",
+        "type": "noun",
+        "defineEn": "the action of respecting or following the instructions of someone in authority",
+        "defineVi": "hành động tôn trọng hoặc làm theo hướng dẫn của người có thẩm quyền"
+    },
+    {
+        "id": "e7229ed5-2a89-4267-9d64-e8f13ce51057",
+        "word": "to depend",
+        "phonetic": "tə dᵻpɛnd ",
+        "type": "verb",
+        "defineEn": "to be based on or related with different things that are possible",
+        "defineVi": "được dựa trên hoặc liên quan với những điều khác nhau mà có thể",
+        "hasImg": true
+    },
+    {
+        "id": "3cbab713-657d-4c8e-b218-f0063ede43e6",
+        "word": "dependence",
+        "phonetic": "dᵻpɛndəns ",
+        "type": "noun",
+        "defineEn": "the state of relying on or needing someone or something for support, help, or survival",
+        "defineVi": "trạng thái dựa vào hoặc cần ai đó hoặc thứ gì đó để được hỗ trợ, giúp đỡ hoặc sinh tồn"
+    },
+    {
+        "id": "f9c06792-dc56-4d1a-b1c7-759c257d89ca",
+        "word": "dependency",
+        "phonetic": "dᵻpɛndənsi ",
+        "type": "noun",
+        "defineEn": "the state of relying on or being controlled by someone or something else",
+        "defineVi": "tình trạng dựa vào hoặc bị kiểm soát bởi ai đó hoặc cái gì khác"
+    },
+    {
+        "id": "2fa4823d-1659-49b0-b1c2-1584c794337a",
+        "word": "confident",
+        "phonetic": "kɑːnfɪdənt ",
+        "type": "adjective",
+        "defineEn": "being certain about our plans, abilities, the future, etc. and believing that we can gain success",
+        "defineVi": "chắc chắn về kế hoạch, khả năng, tương lai của mình, v.v. và tin rằng chúng ta có thể đạt được thành công",
+        "hasImg": true
+    },
+    {
+        "id": "80e76ad1-573b-4c89-8260-efef4bdffd93",
+        "word": "to confide",
+        "phonetic": "tə kənfaɪd ",
+        "type": "verb",
+        "defineEn": "reveal in private; tell confidentially",
+        "defineVi": "tiết lộ ở nơi riêng tư; nói bí mật"
+    },
+    {
+        "id": "3f6f662e-a3e3-4761-bd77-fcd7dfbe3eb4",
+        "word": "confidently",
+        "phonetic": "kɑːnfɪdəntli ",
+        "type": "adverb",
+        "defineEn": "in a way that shows confidence and trust in oneself or another person's abilities, plans, etc.",
+        "defineVi": "theo cách thể hiện sự tự tin và tin tưởng vào khả năng, kế hoạch của bản thân hoặc người khác, v.v."
+    },
+    {
+        "id": "8ea8b0ca-1b27-41af-aaf1-19d2dcce368c",
+        "word": "considerate",
+        "phonetic": "kənsɪdɚɹət ",
+        "type": "adjective",
+        "defineEn": "thoughtful of others and their feelings",
+        "defineVi": "quan tâm đến người khác và cảm xúc của họ",
+        "hasImg": true
+    },
+    {
+        "id": "297aced6-7286-49e5-9aa0-a57a5bc51b48",
+        "word": "considerately",
+        "phonetic": "kənsɪdɚɹətli ",
+        "type": "adverb",
+        "defineEn": "in a manner that shows one cares about feelings, needs, or rights of other people",
+        "defineVi": "theo cách cho thấy một người quan tâm đến cảm xúc, nhu cầu hoặc quyền của người khác"
+    },
+    {
+        "id": "370cbdc6-1019-44ba-9a5e-1313bdfc26c4",
+        "word": "different",
+        "phonetic": "dɪfɹənt ",
+        "type": "adjective",
+        "defineEn": "not like another thing or person in form, quality, nature, etc.",
+        "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "ce1526ea-bc93-49b0-bc11-7c863576f6d1",
+        "word": "difference",
+        "phonetic": "dɪfɹəns ",
+        "type": "noun",
+        "defineEn": "the way that two or more people or things are different from each other",
+        "defineVi": "cách mà hai hoặc nhiều người hoặc vật khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "30178f89-ec48-4981-91fd-09c4b422bb0b",
+        "word": "to differentiate",
+        "phonetic": "tə dɪfɚɹɛnʃɪeɪt ",
+        "type": "verb",
+        "defineEn": "to tell or recognize the difference present between two people or things",
+        "defineVi": "để nói hoặc nhận ra sự khác biệt giữa hai người hoặc vật"
+    },
+    {
+        "id": "0f43b11b-d19c-4050-ad45-9600107056e2",
+        "word": "differentiation",
+        "phonetic": "dɪfɚɹɛnʃɪeɪʃən ",
+        "type": "noun",
+        "defineEn": "a discrimination between things as different and distinct on the basis of their characteristics or attributes",
+        "defineVi": "một sự phân biệt giữa những thứ khác nhau và khác biệt trên cơ sở đặc điểm hoặc thuộc tính của chúng"
+    },
+    {
+        "id": "5c313bf7-4c27-4c36-ac6a-53814f75a8c3",
+        "word": "attraction",
+        "phonetic": "ɐtɹækʃən ",
+        "type": "noun",
+        "defineEn": "a quality or feature of someone or something that evokes interest, liking, or desire in others",
+        "defineVi": "một phẩm chất hoặc tính năng của một ai đó hoặc một cái gì đó gợi lên sự quan tâm, thích hoặc mong muốn ở người khác"
+    },
+    {
+        "id": "e108578f-94af-43e9-bfe2-0a74932b7ba9",
+        "word": "to attract",
+        "phonetic": "tʊ ɐtɹækt ",
+        "type": "verb",
+        "defineEn": "(of a person, thing, or place) to draw someone or something toward them by the features or qualities they possess",
+        "defineVi": "(của một người, vật hoặc địa điểm) để thu hút ai đó hoặc một cái gì đó về phía họ bằng các đặc điểm hoặc phẩm chất mà họ sở hữu",
+        "hasImg": true
+    },
+    {
+        "id": "52297bcb-cebb-49ac-aebf-a0219610254f",
+        "word": "attractive",
+        "phonetic": "ɐtɹæktɪv ",
+        "type": "adjective",
+        "defineEn": "pleasing or appealing to the senses",
+        "defineVi": "làm hài lòng hoặc hấp dẫn các giác quan",
+        "hasImg": true
+    },
+    {
+        "id": "f0c507cc-f004-4064-a809-367523039b7f",
+        "word": "attractiveness",
+        "phonetic": "ɐtɹæktɪvnəs ",
+        "type": "noun",
+        "defineEn": "the quality of being sexually appealing",
+        "defineVi": "chất lượng hấp dẫn tình dục",
+        "hasImg": true
+    },
+    {
+        "id": "c4d14f8f-3ada-4aad-97d8-503606722fa3",
+        "word": "impatient",
+        "phonetic": "ɪmpeɪʃənt ",
+        "type": "adjective",
+        "defineEn": "annoyed easily and quickly and unable to wait for a long time",
+        "defineVi": "khó chịu một cách dễ dàng và nhanh chóng và không thể chờ đợi trong một thời gian dài",
+        "hasImg": true
+    },
+    {
+        "id": "af9bea6e-3a19-44e5-896a-0f6fc49105d1",
+        "word": "impatience",
+        "phonetic": "ɪmpeɪʃəns ",
+        "type": "noun",
+        "defineEn": "a lack of patience; irritation with anything that causes delay",
+        "defineVi": "thiếu kiên nhẫn; khó chịu với bất cứ điều gì gây ra sự chậm trễ"
+    },
+    {
+        "id": "27e47139-eb8f-4684-a8bc-c3d2dd0c9cd1",
+        "word": "impatiently",
+        "phonetic": "ɪmpeɪʃəntli ",
+        "type": "adverb",
+        "defineEn": "in a manner that displays one's restlessness, annoyance, or irritation caused by having to wait",
+        "defineVi": "theo cách thể hiện sự bồn chồn, khó chịu hoặc khó chịu của một người do phải chờ đợi",
+        "hasImg": true
+    },
+    {
+        "id": "8637f9d6-0ef2-440b-883a-8db93ce15559",
+        "word": "unfair",
+        "phonetic": "ʌnfɛɹ ",
+        "type": "adjective",
+        "defineEn": "involving injustice or inequality",
+        "defineVi": "liên quan đến sự bất công hoặc bất bình đẳng"
+    },
+    {
+        "id": "b8640f6d-daab-4197-8f2a-cd146081a245",
+        "word": "unfairness",
+        "phonetic": "ʌnfɛɹnəs ",
+        "type": "noun",
+        "defineEn": "a situation or treatment that is not just or impartial and that puts someone at a disadvantage",
+        "defineVi": "một tình huống hoặc cách đối xử không công bằng hoặc vô tư và khiến ai đó gặp bất lợi"
+    },
+    {
+        "id": "d6012db4-da11-4d06-acda-083fec3f8e2d",
+        "word": "unfairly",
+        "phonetic": "ʌnfɛɹli ",
+        "type": "adverb",
+        "defineEn": "in a way that lacks justice or equality",
+        "defineVi": "theo cách thiếu công bằng hoặc bình đẳng"
+    },
+    {
+        "id": "36168054-0825-4d00-8ed2-f8b3ece77e0b",
+        "word": "closeness",
+        "phonetic": "kloʊsnəs ",
+        "type": "noun",
+        "defineEn": "the spatial property resulting from a relatively small distance",
+        "defineVi": "thuộc tính không gian do một khoảng cách tương đối nhỏ"
+    },
+    {
+        "id": "23276019-42c6-4f35-ae6b-1e97869ac3fe",
+        "word": "closely",
+        "phonetic": "kloʊsli ",
+        "type": "adverb",
+        "defineEn": "without having a lot of space or time in between",
+        "defineVi": "mà không có nhiều không gian hoặc thời gian ở giữa"
+    },
+    {
+        "id": "88cda0c9-ce2d-4812-9210-e45a90d4045b",
+        "word": "close",
+        "phonetic": "kloʊs ",
+        "type": "adjective",
+        "defineEn": "not being distant in relationship",
+        "defineVi": "không xa cách trong mối quan hệ",
+        "hasImg": true
+    },
+    {
+        "id": "55322e8f-c714-47f8-99fd-728f98ca7edc",
+        "word": "happily",
+        "phonetic": "hæpɪli ",
+        "type": "adverb",
+        "defineEn": "with cheerfulness and joy",
+        "defineVi": "với sự vui vẻ và niềm vui"
+    },
+    {
+        "id": "17d19e1b-31fa-4357-89ed-9a8ec2b177f0",
+        "word": "happy",
+        "phonetic": "hæpi ",
+        "type": "adjective",
+        "defineEn": "emotionally feeling good",
+        "defineVi": "cảm xúc tốt",
+        "hasImg": true
+    },
+    {
+        "id": "b618b8a8-85cf-47a6-baae-42b59ac8f9f7",
+        "word": "happiness",
+        "phonetic": "hæpɪnəs ",
+        "type": "noun",
+        "defineEn": "the feeling of being happy and well",
+        "defineVi": "cảm giác hạnh phúc và tốt",
+        "hasImg": true
+    },
+    {
+        "id": "2a42803d-1650-4662-b083-5be4f5ed32f3",
+        "word": "to consider",
+        "phonetic": "tə kənsɪdɚ ",
+        "type": "verb",
+        "defineEn": "to think about or be influenced by other people's feelings before making a decision",
+        "defineVi": "suy nghĩ hoặc bị ảnh hưởng bởi cảm xúc của người khác trước khi đưa ra quyết định"
+    }
+]

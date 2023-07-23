@@ -1,0 +1,326 @@
+[
+    {
+        "id": "d5064f28-28cb-49d6-b1d0-80cfe4d4e163",
+        "word": "cuisine",
+        "phonetic": "kwᵻziːn ",
+        "type": "noun",
+        "defineEn": "a method or style of cooking that is specific to a country or region",
+        "defineVi": "một phương pháp hoặc phong cách nấu ăn dành riêng cho một quốc gia hoặc khu vực",
+        "hasImg": true
+    },
+    {
+        "id": "24f30fe6-6717-4c9f-bd22-246e80e846dc",
+        "word": "carbohydrate",
+        "phonetic": "kɑːɹboʊhaɪdɹeɪt ",
+        "type": "noun",
+        "defineEn": "a substance that contains or consists of hydrogen, oxygen, and carbon that provide heat and energy for the body, such as starch or sugar",
+        "defineVi": "một chất có chứa hoặc bao gồm hydro, oxy và carbon cung cấp nhiệt và năng lượng cho cơ thể, chẳng hạn như tinh bột hoặc đường",
+        "hasImg": true
+    },
+    {
+        "id": "e5d48290-3aff-411b-9199-915aa2b2ae25",
+        "word": "bagel",
+        "phonetic": "beɪɡəl ",
+        "type": "noun",
+        "defineEn": "a kind of bread shaped like a ring with a hard texture",
+        "defineVi": "một loại bánh mì có hình chiếc nhẫn với kết cấu cứng",
+        "hasImg": true
+    },
+    {
+        "id": "3043bf31-7dea-4561-ac6f-192ad29bec77",
+        "word": "baguette",
+        "phonetic": "bæɡɛt ",
+        "type": "noun",
+        "defineEn": "a loaf of bread that is narrow and long",
+        "defineVi": "một ổ bánh mì hẹp và dài",
+        "hasImg": true
+    },
+    {
+        "id": "f38832f6-750e-4f82-885f-173129a5a6d2",
+        "word": "cereal",
+        "phonetic": "siəɹɪəl ",
+        "type": "noun",
+        "defineEn": "any of the various types of grass that produce grains such as wheat, barley, rye, etc., which can be used to make flour or bread",
+        "defineVi": "bất kỳ loại cỏ nào sản xuất ngũ cốc như lúa mì, lúa mạch, lúa mạch đen, v.v., có thể được sử dụng để làm bột mì hoặc bánh mì",
+        "hasImg": true
+    },
+    {
+        "id": "c10426d8-ec67-4a4a-9a83-118e2d7124cb",
+        "word": "pastry",
+        "phonetic": "peɪstɹi ",
+        "type": "noun",
+        "defineEn": "a piece of baked cake that is made with a sweet dough",
+        "defineVi": "một miếng bánh nướng được làm bằng bột ngọt",
+        "hasImg": true
+    },
+    {
+        "id": "c461d991-8447-4be6-9cd9-54fcde4e8a08",
+        "word": "herb",
+        "phonetic": "ɜːb ",
+        "type": "noun",
+        "defineEn": "a plant with seeds, leaves, or flowers used for cooking or medicine, such as mint and parsley",
+        "defineVi": "một loại cây có hạt, lá hoặc hoa dùng để nấu ăn hoặc làm thuốc, chẳng hạn như bạc hà và rau mùi tây",
+        "hasImg": true
+    },
+    {
+        "id": "e7a5147e-2d1b-4345-9eb4-b01184d13fae",
+        "word": "beet",
+        "phonetic": "biːt ",
+        "type": "noun",
+        "defineEn": "a vegetable with a round dark red root that is used in cooking or producing sugar",
+        "defineVi": "một loại rau có rễ hình tròn màu đỏ sẫm được dùng để nấu ăn hoặc sản xuất đường",
+        "hasImg": true
+    },
+    {
+        "id": "0739d9a0-108f-423a-ad8b-43b517eaeeb9",
+        "word": "green pepper",
+        "phonetic": "ɡɹiːn pɛpɚ ",
+        "type": "noun",
+        "defineEn": "a hollow fruit with a sweet taste and green color, eaten raw or cooked",
+        "defineVi": "một loại quả rỗng có vị ngọt và màu xanh lục, ăn sống hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "05b810f0-9ac0-4aef-8113-41b53db01cf4",
+        "word": "red pepper",
+        "phonetic": "ɹɛd pɛpɚ ",
+        "type": "noun",
+        "defineEn": "a type of pepper with a very hot taste that is red in color",
+        "defineVi": "một loại hạt tiêu có vị rất cay, có màu đỏ",
+        "hasImg": true
+    },
+    {
+        "id": "484c8ced-01f8-44f2-b2df-5b0c4efaec41",
+        "word": "goat cheese",
+        "phonetic": "ɡoʊt tʃiːz ",
+        "type": "noun",
+        "defineEn": "any cheese that is made from goat's milk",
+        "defineVi": "bất kỳ pho mát nào được làm từ sữa dê",
+        "hasImg": true
+    },
+    {
+        "id": "63d3da99-ed6b-46d6-bcd8-f6876abd7ecc",
+        "word": "margarine",
+        "phonetic": "mɑːɹdʒɚɹən ",
+        "type": "noun",
+        "defineEn": "a type of food similar to butter, made from vegetable oils or animal fats",
+        "defineVi": "một loại thực phẩm tương tự như bơ, làm từ dầu thực vật hoặc mỡ động vật",
+        "hasImg": true
+    },
+    {
+        "id": "1da0c85d-bafd-41cf-a778-b8592a1d51ce",
+        "word": "sour cream",
+        "phonetic": "saʊɚ kɹiːm ",
+        "type": "noun",
+        "defineEn": "a light cream that is produced from regular cream and lactic acid bacteria",
+        "defineVi": "một loại kem nhẹ được sản xuất từ kem thông thường và vi khuẩn axit lactic",
+        "hasImg": true
+    },
+    {
+        "id": "a4f235f7-bdb5-4f8e-b411-53bf4a57318a",
+        "word": "raspberry",
+        "phonetic": "ɹæsbɛɹi ",
+        "type": "noun",
+        "defineEn": "an edible soft berry that is red or black in color and grows on bushes",
+        "defineVi": "một quả mọng mềm ăn được có màu đỏ hoặc đen và mọc trên bụi cây",
+        "hasImg": true
+    },
+    {
+        "id": "e92355e5-6e3c-4d34-857e-d00cbeda9506",
+        "word": "spice",
+        "phonetic": "spaɪs ",
+        "type": "noun",
+        "defineEn": "a type of dried plant with a pleasant smell used to add taste or color to the food",
+        "defineVi": "một loại cây khô có mùi dễ chịu được sử dụng để thêm hương vị hoặc màu sắc cho thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "47609860-06bc-4f12-96d1-b534855069d2",
+        "word": "sweet potato",
+        "phonetic": "swiːt pəteɪɾoʊ ",
+        "type": "noun",
+        "defineEn": "a vegetable similar to a potato in shape that has a sweet taste and white flesh",
+        "defineVi": "một loại rau có hình dạng tương tự như khoai tây, có vị ngọt và thịt trắng",
+        "hasImg": true
+    },
+    {
+        "id": "34f1e08b-7eba-4826-8485-730e41cd61d2",
+        "word": "zucchini",
+        "phonetic": "zʌkiːni ",
+        "type": "noun",
+        "defineEn": "a long and thin vegetable with dark green skin",
+        "defineVi": "một loại rau dài và mỏng với vỏ màu xanh đậm",
+        "hasImg": true
+    },
+    {
+        "id": "acc85eac-ed9f-401c-ba3b-9c60d782df56",
+        "word": "wheat",
+        "phonetic": "wiːt ",
+        "type": "noun",
+        "defineEn": "the common grain that is used in making flour, taken from a cereal grass which is green and tall",
+        "defineVi": "loại ngũ cốc phổ biến được sử dụng để làm bột, được lấy từ một loại cỏ ngũ cốc có màu xanh và cao",
+        "hasImg": true
+    },
+    {
+        "id": "e6ebf22b-f717-4c24-9129-b6c080e9ae6c",
+        "word": "beefsteak",
+        "phonetic": "biːfsteɪk ",
+        "type": "noun",
+        "defineEn": "a thick slice of beef that is often cooked by broiling or grilling",
+        "defineVi": "một miếng thịt bò dày thường được nấu bằng cách nướng hoặc nướng",
+        "hasImg": true
+    },
+    {
+        "id": "b8f3a133-ea16-4ff7-9a41-e2b45ab69391",
+        "word": "kebab",
+        "phonetic": "kəbɑːb ",
+        "type": "noun",
+        "defineEn": "food made with pieces of meat and vegetables broiled on fire, typically on a skewer",
+        "defineVi": "thức ăn làm từ những miếng thịt và rau nướng trên lửa, thường là trên xiên",
+        "hasImg": true
+    },
+    {
+        "id": "0ad51609-87cd-4a7e-8ec2-142b08935adc",
+        "word": "meatloaf",
+        "phonetic": "miːtloʊf ",
+        "type": "noun",
+        "defineEn": "a type of food made with meat, eggs, etc., baked in the shape of a loaf of bread",
+        "defineVi": "một loại thực phẩm làm từ thịt, trứng, v.v., được nướng theo hình ổ bánh mì",
+        "hasImg": true
+    },
+    {
+        "id": "1fbf8c06-8935-4d5a-b67b-5fbb58cb97c8",
+        "word": "mayonnaise",
+        "phonetic": "meɪəneɪz ",
+        "type": "noun",
+        "defineEn": "a thick white dressing made with egg yolks, vegetable oil, and vinegar, served cold",
+        "defineVi": "nước xốt dày màu trắng làm từ lòng đỏ trứng, dầu thực vật và giấm, dùng lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "fb964e83-e8a8-4121-bf45-89ede90745d0",
+        "word": "mustard",
+        "phonetic": "mʌstɚd ",
+        "type": "noun",
+        "defineEn": "a cold yellow or brown sauce with a hot taste taken from the seeds of a small plant with yellow flowers",
+        "defineVi": "nước sốt màu vàng hoặc nâu lạnh có vị nóng lấy từ hạt của một loại cây nhỏ có hoa màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "57badd68-9245-4c5f-82cb-468971238b8e",
+        "word": "soy sauce",
+        "phonetic": "sɔɪ sɔːs ",
+        "type": "noun",
+        "defineEn": "a thin dark brown sauce, taken from soybeans, used in Asian cuisines",
+        "defineVi": "một loại nước sốt mỏng màu nâu sẫm, được lấy từ đậu nành, được sử dụng trong các món ăn châu Á",
+        "hasImg": true
+    },
+    {
+        "id": "6bdc4ae3-f8c0-47ca-b723-25b9a9b71e06",
+        "word": "ketchup",
+        "phonetic": "kɛtʃʌp ",
+        "type": "noun",
+        "defineEn": "a cold sauce made from tomatoes, which has a thick texture and is served with some food",
+        "defineVi": "nước sốt lạnh làm từ cà chua, có kết cấu đặc và được ăn kèm với một số thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "b1e370be-6598-45b2-bb8f-775deadb4b82",
+        "word": "vinegar",
+        "phonetic": "vɪnᵻɡɚ ",
+        "type": "noun",
+        "defineEn": "a sour liquid that is made from wine or malt, used as a flavor or to preserve food",
+        "defineVi": "một chất lỏng chua được làm từ rượu vang hoặc mạch nha, được sử dụng làm hương vị hoặc để bảo quản thực phẩm",
+        "hasImg": true
+    },
+    {
+        "id": "e9075538-2bcc-4d98-9ab5-84433876c72b",
+        "word": "white sauce",
+        "phonetic": "waɪt sɔːs ",
+        "type": "noun",
+        "defineEn": "a rich sauce made with milk, flour, and butter",
+        "defineVi": "nước sốt đậm đà làm từ sữa, bột mì và bơ",
+        "hasImg": true
+    },
+    {
+        "id": "5a781b06-85ee-4faf-86c4-09f0cbaad96d",
+        "word": "chewing gum",
+        "phonetic": "tʃuːɪŋ ɡʌm ",
+        "type": "noun",
+        "defineEn": "a substance for chewing with different tastes such as strawberry, mint, etc.",
+        "defineVi": "một chất để nhai với các vị khác nhau như dâu tây, bạc hà, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "0a19fc7f-fbfc-4881-b7fc-4f91e66c0fb2",
+        "word": "hard candy",
+        "phonetic": "hɑːɹd kændi ",
+        "type": "noun",
+        "defineEn": "a hard and colored candy often with a fruity taste, which is made of boiled corn syrup and sugar",
+        "defineVi": "một loại kẹo cứng và có màu thường có hương vị trái cây, được làm từ xi-rô ngô đun sôi và đường",
+        "hasImg": true
+    },
+    {
+        "id": "83ce064f-508e-41c7-96b1-a97945e5bda8",
+        "word": "lollipop",
+        "phonetic": "lɑːlɪpɑːp ",
+        "type": "noun",
+        "defineEn": "a type of candy that is flat or round and is on a stick",
+        "defineVi": "một loại kẹo phẳng hoặc tròn và ở trên một cây gậy",
+        "hasImg": true
+    },
+    {
+        "id": "18b6f8c2-856a-4908-ad76-3c5b1d869454",
+        "word": "popsicle",
+        "phonetic": "pɑːpsɪkəl ",
+        "type": "noun",
+        "defineEn": "a piece of ice cream on a stick, with different tastes",
+        "defineVi": "một miếng kem trên que, với các vị khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "5ecea775-816f-433a-8747-a97752aa9bfb",
+        "word": "pudding",
+        "phonetic": "pʊdɪŋ ",
+        "type": "noun",
+        "defineEn": "a sweet creamy dish made with milk, sugar, and flour, served cold as a dessert",
+        "defineVi": "một món kem ngọt làm từ sữa, đường và bột mì, dùng lạnh như một món tráng miệng",
+        "hasImg": true
+    },
+    {
+        "id": "d864c189-0ca3-4924-b7a2-bc9817faad83",
+        "word": "portion",
+        "phonetic": "poːɹʃən ",
+        "type": "noun",
+        "defineEn": "an amount of food served to or enough for one person",
+        "defineVi": "một lượng thức ăn phục vụ cho hoặc đủ cho một người",
+        "hasImg": true
+    },
+    {
+        "id": "68c553ab-4551-4cc9-8336-f95dc1ae74dc",
+        "word": "supper",
+        "phonetic": "sʌpɚ ",
+        "type": "noun",
+        "defineEn": "a meal that is often less formal than dinner and is eaten in the evening, which is either a main meal or a light one",
+        "defineVi": "một bữa ăn thường ít trang trọng hơn bữa tối và được ăn vào buổi tối, đó là bữa ăn chính hoặc bữa ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "602c59bc-4548-4f91-8ad0-3f9df4183570",
+        "word": "takeout",
+        "phonetic": "teɪkaʊt ",
+        "type": "noun",
+        "defineEn": "a meal bought from a restaurant or store to be eaten somewhere else",
+        "defineVi": "một bữa ăn mua từ một nhà hàng hoặc cửa hàng để ăn ở một nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "7c6ef500-41a2-4813-94c6-7a921f73bc9d",
+        "word": "tomato paste",
+        "phonetic": "təmeɪɾoʊ peɪst ",
+        "type": "noun",
+        "defineEn": "a soft and thick substance made from boiled tomatoes, used as a cooking ingredient",
+        "defineVi": "một chất mềm và đặc làm từ cà chua luộc, dùng làm nguyên liệu nấu ăn",
+        "hasImg": true
+    }
+]

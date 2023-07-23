@@ -1,0 +1,293 @@
+[
+    {
+        "id": "cd135739-0845-4e38-8caf-7f7c67008b79",
+        "word": "primary health care",
+        "phonetic": "pɹaɪmɚɹi hɛlθ kɛɹ ",
+        "type": "noun",
+        "defineEn": "the first medical treatment one receives for sickness, for instance, from a family doctor",
+        "defineVi": "sự điều trị y tế đầu tiên mà một người nhận được khi ốm đau, chẳng hạn, từ một bác sĩ gia đình"
+    },
+    {
+        "id": "e094b619-bbe0-4faf-b9f8-21756a1b33f0",
+        "word": "to medicate",
+        "phonetic": "tə mɛdᵻkeɪt ",
+        "type": "verb",
+        "defineEn": "to administer a drug or treat a patient using drugs",
+        "defineVi": "để quản lý một loại thuốc hoặc điều trị một bệnh nhân sử dụng thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "76302a49-1266-4808-946d-6a094084b433",
+        "word": "to immunize",
+        "phonetic": "tʊ ɪmjuːnaɪz ",
+        "type": "verb",
+        "defineEn": "to protect an animal or a person from a disease by vaccination",
+        "defineVi": "để bảo vệ một con vật hoặc một người từ một căn bệnh bằng cách tiêm phòng",
+        "hasImg": true
+    },
+    {
+        "id": "eac3b305-cb89-4c69-892e-b918d5cea6af",
+        "word": "to tranquillize",
+        "phonetic": "tə tɹæŋkwɪlaɪz ",
+        "type": "verb",
+        "defineEn": "to make a person or animal calm or unconscious using drugs, like sedatives",
+        "defineVi": "để làm cho một người hoặc động vật bình tĩnh hoặc bất tỉnh bằng cách sử dụng thuốc, như thuốc an thần"
+    },
+    {
+        "id": "614603b4-d351-4611-ac3e-6a332cfd66e5",
+        "word": "inoculation",
+        "phonetic": "ɪnɑːkjʊleɪʃən ",
+        "type": "noun",
+        "defineEn": "the process of boosting the immunity system of a person or animal against a disease by vaccination",
+        "defineVi": "quá trình tăng cường hệ thống miễn dịch của người hoặc động vật chống lại bệnh tật bằng cách tiêm phòng",
+        "hasImg": true
+    },
+    {
+        "id": "8873f01d-895b-446b-882f-af7582f5acee",
+        "word": "to quarantine",
+        "phonetic": "tə kwɔːɹəntiːn ",
+        "type": "verb",
+        "defineEn": "to keep a person or animal into isolation for some time because they are ill, or might be, to prevent the spread of the disease",
+        "defineVi": "để giữ một người hoặc động vật cách ly trong một thời gian vì họ bị bệnh, hoặc có thể, để ngăn chặn sự lây lan của bệnh"
+    },
+    {
+        "id": "7ebf2972-08a2-41c9-a492-2eacc1df5bb3",
+        "word": "narcotic",
+        "phonetic": "nɑːɹkɑːɾɪk ",
+        "type": "noun",
+        "defineEn": "a drug that reduces pain and causes sleepiness, confusion, or dullness",
+        "defineVi": "một loại thuốc làm giảm đau và gây buồn ngủ, lú lẫn hoặc buồn ngủ"
+    },
+    {
+        "id": "679eb8d8-3752-43ca-a787-5b5b6c315a31",
+        "word": "sedative",
+        "phonetic": "sɛdətɪv ",
+        "type": "noun",
+        "defineEn": "any drug that is used to make one feel calm or induce sleep",
+        "defineVi": "bất kỳ loại thuốc nào được sử dụng để làm cho một người cảm thấy bình tĩnh hoặc gây ngủ"
+    },
+    {
+        "id": "c4f10e0a-6839-4432-a5cc-585166bdf508",
+        "word": "laxative",
+        "phonetic": "læksətɪv ",
+        "type": "noun",
+        "defineEn": "a substance, usually a drug, used to stimulate evacuation of the bowels",
+        "defineVi": "một chất, thường là một loại thuốc, được sử dụng để kích thích sơ tán ruột"
+    },
+    {
+        "id": "1380548f-9f9a-49a2-8eb3-1504f61daca6",
+        "word": "lozenge",
+        "phonetic": "loʊzɛndʒ ",
+        "type": "noun",
+        "defineEn": "a sweet-flavored small and often lozenge-shaped tablet that dissolves in one's mouth, usually taken for sore throat",
+        "defineVi": "một viên nhỏ có vị ngọt và thường có hình thoi, tan trong miệng, thường được dùng để điều trị viêm họng"
+    },
+    {
+        "id": "81323411-fb12-499a-87bc-be24b86237ba",
+        "word": "ointment",
+        "phonetic": "ɔɪntmənt ",
+        "type": "noun",
+        "defineEn": "a substance, usually smooth and oily, rubbed on the skin for medical purposes",
+        "defineVi": "một chất, thường mịn và nhờn, được xoa lên da cho mục đích y tế",
+        "hasImg": true
+    },
+    {
+        "id": "928753c7-9173-43d3-b664-852e27e17817",
+        "word": "antiseptic",
+        "phonetic": "æntɪsɛptɪk ",
+        "type": "noun",
+        "defineEn": "a substance that prevents infection when applied to a wound, especially by killing bacteria",
+        "defineVi": "một chất ngăn ngừa nhiễm trùng khi bôi lên vết thương, đặc biệt là bằng cách tiêu diệt vi khuẩn",
+        "hasImg": true
+    },
+    {
+        "id": "441eaf65-b96a-439e-b1bf-a1b9efc5eb45",
+        "word": "aseptic",
+        "phonetic": "æsɛptɪk ",
+        "type": "adjective",
+        "defineEn": "medically clean and free from any form of contamination",
+        "defineVi": "sạch về mặt y tế và không có bất kỳ hình thức ô nhiễm nào"
+    },
+    {
+        "id": "74ac3caf-15a5-42f6-8026-578dab614f14",
+        "word": "morphine",
+        "phonetic": "mɔːɹfiːn ",
+        "type": "noun",
+        "defineEn": "a narcotic drug that is extracted from opium and is medicinally used to relieve pain",
+        "defineVi": "một loại thuốc gây nghiện được chiết xuất từ thuốc phiện và được sử dụng trong y học để giảm đau"
+    },
+    {
+        "id": "aad02652-4e2b-46cb-b67e-9373a11fa0d3",
+        "word": "opioid",
+        "phonetic": "oʊpɪɔɪd ",
+        "type": "noun",
+        "defineEn": "any drugs with the same effects as opium, medicinally used for reducing extreme pain",
+        "defineVi": "bất kỳ loại thuốc nào có tác dụng tương tự như thuốc phiện, được sử dụng trong y học để giảm đau cực độ"
+    },
+    {
+        "id": "3ca07ff3-19f1-40ce-bf15-bccc81c5ee39",
+        "word": "salve",
+        "phonetic": "sælv ",
+        "type": "noun",
+        "defineEn": "any medicinal ointment that accelerates the recovery of the skin barrier or protects it",
+        "defineVi": "bất kỳ loại thuốc mỡ nào làm tăng tốc độ phục hồi của hàng rào bảo vệ da hoặc bảo vệ nó",
+        "hasImg": true
+    },
+    {
+        "id": "5274c401-ae0c-4581-9db3-344eea5a1612",
+        "word": "contraceptive",
+        "phonetic": "kɑːntɹəsɛptɪv ",
+        "type": "noun",
+        "defineEn": "any device, drug, or method that is used to prevent pregnancy",
+        "defineVi": "bất kỳ thiết bị, thuốc hoặc phương pháp nào được sử dụng để tránh thai"
+    },
+    {
+        "id": "a673f890-094a-45a4-a96a-f8a1fde34bbb",
+        "word": "radiotherapy",
+        "phonetic": "ɹeɪdɪoʊθɛɹəpi ",
+        "type": "noun",
+        "defineEn": "the process of treating a disease, particularly cancer, using X-rays or similar forms of radiation",
+        "defineVi": "quá trình điều trị bệnh, đặc biệt là ung thư, sử dụng tia X hoặc các dạng bức xạ tương tự"
+    },
+    {
+        "id": "740279be-4f60-40d6-b490-fceeb8d5325d",
+        "word": "chemotherapy",
+        "phonetic": "kiːmoʊθɛɹəpi ",
+        "type": "noun",
+        "defineEn": "the process of treating a disease, particularly cancer, using chemicals",
+        "defineVi": "quá trình điều trị bệnh, đặc biệt là ung thư, sử dụng hóa chất"
+    },
+    {
+        "id": "08425312-2bec-43ae-9b32-7d4b51ec39f1",
+        "word": "occupational therapy",
+        "phonetic": "ɑːkjʊpeɪʃənəl θɛɹəpi ",
+        "type": "noun",
+        "defineEn": "the process of treating a patient's physical or mental illness using specific activities",
+        "defineVi": "quá trình điều trị bệnh về thể chất hoặc tinh thần của bệnh nhân bằng các hoạt động cụ thể"
+    },
+    {
+        "id": "bb8c8d87-1b5d-401d-934c-3d7f4c4f5c0c",
+        "word": "pediatrics",
+        "phonetic": "piːdɪætɹɪks ",
+        "type": "noun",
+        "defineEn": "the branch of medicine that is concerned with children and their conditions",
+        "defineVi": "ngành y học liên quan đến trẻ em và tình trạng của chúng",
+        "hasImg": true
+    },
+    {
+        "id": "ded6ac4c-97ae-4020-954a-ec5048ec8c4f",
+        "word": "orthopedics",
+        "phonetic": "ɔːɹθoʊpiːdɪks ",
+        "type": "noun",
+        "defineEn": "the branch of medicine that is concerned with bones and muscles, and their diseases and injuries",
+        "defineVi": "ngành y học liên quan đến xương và cơ, các bệnh và chấn thương của chúng"
+    },
+    {
+        "id": "ab5c0768-7190-4a53-8bc6-c1e98e422c3f",
+        "word": "gynecology",
+        "phonetic": "ɡaɪnɪkɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medicine that is concerned with diseases that are specific to women, especially those that affect their reproductive organs",
+        "defineVi": "ngành y học liên quan đến các bệnh dành riêng cho phụ nữ, đặc biệt là những bệnh ảnh hưởng đến cơ quan sinh sản của họ",
+        "hasImg": true
+    },
+    {
+        "id": "a14239d3-1884-4840-984f-611066acf17f",
+        "word": "geriatrics",
+        "phonetic": "dʒɛɹɪætɹɪks ",
+        "type": "noun",
+        "defineEn": "the branch of medicine or social science that is concerned with the diseases and care of aged people",
+        "defineVi": "ngành y học hoặc khoa học xã hội liên quan đến bệnh tật và chăm sóc người già"
+    },
+    {
+        "id": "1df959f3-0550-4c1b-aa95-4d0a77d0035e",
+        "word": "acupressure",
+        "phonetic": "ækəpɹɛʃɚ ",
+        "type": "noun",
+        "defineEn": "an alternative therapy in which pressure is put on specific parts of the body with hands and fingers",
+        "defineVi": "một liệu pháp thay thế trong đó áp lực lên các bộ phận cụ thể của cơ thể bằng tay và ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "83db2554-2d0e-4d18-8c7f-142332bf11e3",
+        "word": "hypnotherapy",
+        "phonetic": "hɪpnoʊθɛɹəpi ",
+        "type": "noun",
+        "defineEn": "the process of using hypnosis as a therapeutic technique",
+        "defineVi": "quá trình sử dụng thôi miên như một kỹ thuật trị liệu"
+    },
+    {
+        "id": "6e0886a3-0c34-48c9-a051-804cf8e5ff07",
+        "word": "herbalism",
+        "phonetic": "hɜːbəlɪzəm ",
+        "type": "noun",
+        "defineEn": "the medicinal and therapeutic use of plants and plant extracts to treat illnesses",
+        "defineVi": "việc sử dụng thuốc và điều trị của thực vật và chiết xuất thực vật để điều trị bệnh"
+    },
+    {
+        "id": "2b80a2f5-9875-4cc3-858d-bcf26701b783",
+        "word": "complementary medicine",
+        "phonetic": "kɑːmplɪmɛntɚɹi mɛdəsən ",
+        "type": "noun",
+        "defineEn": "a wide range of treatments for medical conditions that fall outside of mainstream healthcare",
+        "defineVi": "một loạt các phương pháp điều trị cho các tình trạng y tế nằm ngoài chăm sóc sức khỏe chính thống"
+    },
+    {
+        "id": "181b739a-0bdf-43d6-9e1a-b3ac535bac36",
+        "word": "scrubs",
+        "phonetic": "skɹʌbz ",
+        "type": "noun",
+        "defineEn": "a two-piece protective garment that is worn by surgeons in the operation room",
+        "defineVi": "một bộ quần áo bảo hộ hai mảnh được mặc bởi các bác sĩ phẫu thuật trong phòng phẫu thuật",
+        "hasImg": true
+    },
+    {
+        "id": "34f2516a-7dc2-4c85-9f34-3321929902cb",
+        "word": "invasive",
+        "phonetic": "ɪnveɪsɪv ",
+        "type": "adjective",
+        "defineEn": "(of medical procedures) comprising cutting into the body or body cavities",
+        "defineVi": "(về thủ tục y tế) bao gồm cắt vào cơ thể hoặc các khoang cơ thể"
+    },
+    {
+        "id": "d24e6474-062e-4ff9-836d-e7fab312a7d0",
+        "word": "curettage",
+        "phonetic": "kjʊɹɹɛɾɪdʒ ",
+        "type": "noun",
+        "defineEn": "an operation in which small sharp tools are used to remove material from inside the uterus or another body part",
+        "defineVi": "một hoạt động trong đó các công cụ nhỏ sắc bén được sử dụng để loại bỏ vật liệu từ bên trong tử cung hoặc bộ phận cơ thể khác"
+    },
+    {
+        "id": "a879fd91-172a-480f-b200-ad086ad2b817",
+        "word": "amputation",
+        "phonetic": "æmpjuːteɪʃən ",
+        "type": "noun",
+        "defineEn": "surgical removal of a limb or a part of it",
+        "defineVi": "phẫu thuật cắt bỏ một chi hoặc một phần của nó",
+        "hasImg": true
+    },
+    {
+        "id": "a025bbf2-b213-4312-ae23-9f63f53164cc",
+        "word": "biopsy",
+        "phonetic": "baɪɑːpsi ",
+        "type": "noun",
+        "defineEn": "the process of removing and analyzing tissue from the body of a sick person to learn more about their condition",
+        "defineVi": "quá trình loại bỏ và phân tích mô từ cơ thể của người bệnh để tìm hiểu thêm về tình trạng của họ"
+    },
+    {
+        "id": "ee777bca-7ed9-428d-8047-4427224e66fd",
+        "word": "diagnostic",
+        "phonetic": "daɪəɡnɑːstɪk ",
+        "type": "adjective",
+        "defineEn": "relating to the diagnosis of illness or other problems using a variety of symptoms",
+        "defineVi": "liên quan đến chẩn đoán bệnh tật hoặc các vấn đề khác bằng cách sử dụng nhiều triệu chứng"
+    },
+    {
+        "id": "8d6d8aef-75ed-4a0a-8853-fd601f566305",
+        "word": "prognosis",
+        "phonetic": "pɹɑːɡnoʊsɪs ",
+        "type": "noun",
+        "defineEn": "a professional opinion regarding the likely course of an illness or a disease",
+        "defineVi": "một ý kiến chuyên môn liên quan đến quá trình có khả năng của một căn bệnh hoặc một căn bệnh"
+    }
+]

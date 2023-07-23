@@ -1,0 +1,277 @@
+[
+    {
+        "id": "0b7d1335-9971-43a5-aeea-5a05338bbc00",
+        "word": "address book",
+        "phonetic": "ɐdɹɛs bʊk ",
+        "type": "noun",
+        "defineEn": "(computing) a piece of software that is used to store people's names, emails, phone numbers, etc.",
+        "defineVi": "(máy tính) một phần mềm được sử dụng để lưu tên người, email, số điện thoại, v.v."
+    },
+    {
+        "id": "14628b5a-2b97-42f4-9287-d21a342779af",
+        "word": "at",
+        "phonetic": "æt ",
+        "type": "preposition",
+        "defineEn": "(computing) used in an email address to separate the name of the user from the location, written as '@'",
+        "defineVi": "(máy tính) được sử dụng trong địa chỉ email để tách tên của người dùng khỏi vị trí, được viết là '@'"
+    },
+    {
+        "id": "bdae5a10-668e-403a-b590-a19b23841b2c",
+        "word": "to attach",
+        "phonetic": "tʊ ɐtætʃ ",
+        "type": "verb",
+        "defineEn": "(computing) to send a file with an email; to upload a file to a site",
+        "defineVi": "(máy tính) để gửi một tập tin với một email; để tải một tập tin lên một trang web",
+        "hasImg": true
+    },
+    {
+        "id": "255800d3-02c1-49db-8604-25a081eefdf7",
+        "word": "attachment",
+        "phonetic": "ɐtætʃmənt ",
+        "type": "noun",
+        "defineEn": "a file or document that is sent along with an email or message",
+        "defineVi": "một tệp hoặc tài liệu được gửi cùng với email hoặc tin nhắn",
+        "hasImg": true
+    },
+    {
+        "id": "46a224a8-564b-40b0-9a77-de69f775254b",
+        "word": "to bounce",
+        "phonetic": "tə baʊns ",
+        "type": "verb",
+        "defineEn": "(of an email) to fail to reach the destination and be sent back to the sender",
+        "defineVi": "(của một email) không đến được đích và được gửi lại cho người gửi"
+    },
+    {
+        "id": "6e00bebb-ac95-459c-9a77-c16025295164",
+        "word": "to carpet bomb",
+        "phonetic": "tə kɑːɹpɪt bɑːm ",
+        "type": "verb",
+        "defineEn": "to send an email advertisement to a large number of recipients",
+        "defineVi": "để gửi một email quảng cáo đến một số lượng lớn người nhận"
+    },
+    {
+        "id": "bc8e195d-1855-4256-889f-3e2658d30009",
+        "word": "cc",
+        "phonetic": "siːsiː ",
+        "type": "noun",
+        "defineEn": "used on a business letter or email indicating that a copy is being sent to the person mentioned",
+        "defineVi": "được sử dụng trên một bức thư kinh doanh hoặc email cho biết rằng một bản sao đang được gửi cho người được đề cập"
+    },
+    {
+        "id": "1c40de61-825f-4a12-8de2-31c4c0cc982d",
+        "word": "to cc",
+        "phonetic": "tə siːsiː ",
+        "type": "verb",
+        "defineEn": "to send someone a copy of a business letter or email that is being sent to someone else",
+        "defineVi": "để gửi cho ai đó một bản sao của một bức thư kinh doanh hoặc email đang được gửi cho người khác"
+    },
+    {
+        "id": "68a5baaf-fa92-4a7b-9fb0-8d57caee8398",
+        "word": "to delete",
+        "phonetic": "tə dᵻliːt ",
+        "type": "verb",
+        "defineEn": "to remove a piece of data from a computer or smartphone",
+        "defineVi": "để xóa một phần dữ liệu khỏi máy tính hoặc điện thoại thông minh",
+        "hasImg": true
+    },
+    {
+        "id": "8d427871-32fb-4c23-8d78-a8ed2f6efd52",
+        "word": "draft",
+        "phonetic": "dɹæft ",
+        "type": "noun",
+        "defineEn": "an unfinished version of something written that might be subject to change before it is finished",
+        "defineVi": "một phiên bản chưa hoàn thành của một cái gì đó được viết có thể thay đổi trước khi nó được hoàn thành"
+    },
+    {
+        "id": "55afb7ae-56e2-4dff-9213-0351216a0b26",
+        "word": "to draft",
+        "phonetic": "tə dɹæft ",
+        "type": "verb",
+        "defineEn": "to write something for the first time that needs corrections for the final presentation",
+        "defineVi": "viết một cái gì đó lần đầu tiên cần chỉnh sửa cho bản trình bày cuối cùng",
+        "hasImg": true
+    },
+    {
+        "id": "225416fb-8fd6-4c80-9a06-5fe1b8bbd887",
+        "word": "email",
+        "phonetic": "iːmeɪl ",
+        "type": "noun",
+        "defineEn": "a system that is used to send and receive messages or documents via a network",
+        "defineVi": "một hệ thống được sử dụng để gửi và nhận tin nhắn hoặc tài liệu qua mạng",
+        "hasImg": true
+    },
+    {
+        "id": "70211b48-f098-4c16-8169-772a2db59de8",
+        "word": "to email",
+        "phonetic": "tʊ iːmeɪl ",
+        "type": "verb",
+        "defineEn": "‌to send a message to someone by email; to send someone an email",
+        "defineVi": "‌để gửi tin nhắn cho ai đó qua email; để gửi cho ai đó một email",
+        "hasImg": true
+    },
+    {
+        "id": "aad8b198-1aa6-46b8-a6fd-a0e3af7b2b56",
+        "word": "filter",
+        "phonetic": "fɪltɚ ",
+        "type": "noun",
+        "defineEn": "(computing) a piece of software that blocks or sorts particular types of information that is sent to a computer",
+        "defineVi": "(máy tính) một phần mềm chặn hoặc sắp xếp các loại thông tin cụ thể được gửi đến máy tính"
+    },
+    {
+        "id": "76cfba31-6d0f-4374-add3-ac74ecbe154d",
+        "word": "to forward",
+        "phonetic": "tə fɔːɹwɚd ",
+        "type": "verb",
+        "defineEn": "to send an email, letter, etc. that one has received to another person",
+        "defineVi": "để gửi email, thư, v.v. mà một người đã nhận được cho người khác",
+        "hasImg": true
+    },
+    {
+        "id": "b7af7899-fce4-4148-9784-cda6f7f1ff9e",
+        "word": "hate mail",
+        "phonetic": "heɪt meɪl ",
+        "type": "noun",
+        "defineEn": "offensive and often threatening letters or emails usually sent under no name",
+        "defineVi": "thư hoặc email xúc phạm và thường đe dọa thường được gửi dưới tên"
+    },
+    {
+        "id": "1a429d36-f295-4cd1-b427-145dbb2f6f1d",
+        "word": "inbox",
+        "phonetic": "ɪnbɑːks ",
+        "type": "noun",
+        "defineEn": "a folder in which received emails or text messages are stored",
+        "defineVi": "một thư mục trong đó các email hoặc tin nhắn văn bản đã nhận được lưu trữ",
+        "hasImg": true
+    },
+    {
+        "id": "d9f0498a-f9fa-4f35-8fdd-595c271e8cf7",
+        "word": "mail",
+        "phonetic": "meɪl ",
+        "type": "noun",
+        "defineEn": "messages exchanged electronically on an email service",
+        "defineVi": "tin nhắn trao đổi điện tử trên một dịch vụ email",
+        "hasImg": true
+    },
+    {
+        "id": "baada6ec-806f-4c58-963b-8782e69197fa",
+        "word": "to mail",
+        "phonetic": "tə meɪl ",
+        "type": "verb",
+        "defineEn": "to send someone a message online using an email service",
+        "defineVi": "để gửi cho ai đó một tin nhắn trực tuyến sử dụng một dịch vụ email",
+        "hasImg": true
+    },
+    {
+        "id": "883861a7-3b94-4af1-8caa-960dc06c6560",
+        "word": "mailing list",
+        "phonetic": "meɪlɪŋ lɪst ",
+        "type": "noun",
+        "defineEn": "a list of names and email addresses stored on a computer that one can send mail at the same time to all of them",
+        "defineVi": "một danh sách tên và địa chỉ email được lưu trữ trên máy tính mà một người có thể gửi thư cùng lúc cho tất cả chúng"
+    },
+    {
+        "id": "5d4fd390-b8cf-45dc-8435-a59045d62b96",
+        "word": "outbox",
+        "phonetic": "aʊtbɑːks ",
+        "type": "noun",
+        "defineEn": "(computing) a place where unsent emails are stored",
+        "defineVi": "(máy tính) nơi lưu trữ các email chưa gửi",
+        "hasImg": true
+    },
+    {
+        "id": "b0bdbfab-6f59-4d82-8886-a51a12b8e165",
+        "word": "re",
+        "phonetic": "ɹiː ",
+        "type": "preposition",
+        "defineEn": "used at the beginning of a business letter, etc. to indicate the subject of the letter, or an email that is a reply to a received one",
+        "defineVi": "được sử dụng ở phần đầu của một bức thư kinh doanh, v.v. để chỉ ra chủ đề của bức thư hoặc một email trả lời cho một bức thư đã nhận"
+    },
+    {
+        "id": "fa853917-67a8-4279-becf-c4d31d21c660",
+        "word": "spam",
+        "phonetic": "spæm ",
+        "type": "noun",
+        "defineEn": "unwanted or irrelevant online advertisements sent to many people",
+        "defineVi": "quảng cáo trực tuyến không mong muốn hoặc không liên quan được gửi đến nhiều người"
+    },
+    {
+        "id": "bf02eee2-332e-49c1-8764-e05bc39bd320",
+        "word": "to spam",
+        "phonetic": "tə spæm ",
+        "type": "verb",
+        "defineEn": "to send an unwanted advertisement or message online, usually to a lot of people",
+        "defineVi": "để gửi một quảng cáo hoặc tin nhắn không mong muốn trực tuyến, thường là cho rất nhiều người"
+    },
+    {
+        "id": "1abdc6d8-cba7-4455-bfaa-4b669abcf662",
+        "word": "spammer",
+        "phonetic": "spæmɚ ",
+        "type": "noun",
+        "defineEn": "a person or organization that sends a large number of unwanted advertisements or messages online",
+        "defineVi": "một người hoặc tổ chức gửi một số lượng lớn quảng cáo hoặc tin nhắn không mong muốn trực tuyến"
+    },
+    {
+        "id": "da09a109-24a7-4f09-9792-2666ed06a4de",
+        "word": "spamming",
+        "phonetic": "spæmɪŋ ",
+        "type": "noun",
+        "defineEn": "the practice of sending unwanted advertisements or mails online to a large number of people",
+        "defineVi": "thực hành gửi quảng cáo hoặc thư không mong muốn trực tuyến tới một số lượng lớn người"
+    },
+    {
+        "id": "15348b0c-a475-4afb-87a4-612d5dc640af",
+        "word": "spammy",
+        "phonetic": "spæmi ",
+        "type": "adjective",
+        "defineEn": "containing or connected with internet spam",
+        "defineVi": "chứa hoặc kết nối với thư rác internet"
+    },
+    {
+        "id": "c0f7e5de-5035-4186-8a41-655a5cf7ee46",
+        "word": "to spoof",
+        "phonetic": "tə spuːf ",
+        "type": "verb",
+        "defineEn": "(computing) to send an email or spam to someone pretending to be someone else by forging their address",
+        "defineVi": "(máy tính) gửi thư điện tử hoặc thư rác cho ai đó giả làm người khác bằng cách giả mạo địa chỉ của họ"
+    },
+    {
+        "id": "871e1cb6-9ebf-496c-88e3-af79ceb225e3",
+        "word": "spoofing",
+        "phonetic": "spuːfɪŋ ",
+        "type": "noun",
+        "defineEn": "(computing) the practice of sending emails or spams to someone pretending to be someone else by forging their address",
+        "defineVi": "(máy tính) hành vi gửi email hoặc thư rác cho ai đó giả làm người khác bằng cách giả mạo địa chỉ của họ"
+    },
+    {
+        "id": "b4e78d44-7ca6-4126-8c4b-cf75dfb38763",
+        "word": "subject line",
+        "phonetic": "sʌbdʒɛkt laɪn ",
+        "type": "noun",
+        "defineEn": "the space at the top of an email that indicates its subject",
+        "defineVi": "khoảng trống ở đầu email cho biết chủ đề của nó"
+    },
+    {
+        "id": "6ce358cd-a4bd-4997-a596-3598655a8992",
+        "word": "to subscribe",
+        "phonetic": "tə səbskɹaɪb ",
+        "type": "verb",
+        "defineEn": "to pay some money in advance in order to use or receive something regularly",
+        "defineVi": "trả một số tiền trước để sử dụng hoặc nhận một cái gì đó thường xuyên"
+    },
+    {
+        "id": "27862616-9581-48db-9c3a-d39fb4eddb7e",
+        "word": "to unsubscribe",
+        "phonetic": "tʊ ʌnsəbskɹaɪb ",
+        "type": "verb",
+        "defineEn": "to remove one's name from a mailing list; to decide to no longer receive emails from a company, organization, etc.",
+        "defineVi": "để xóa tên của một người khỏi danh sách gửi thư; để quyết định không còn nhận email từ một công ty, tổ chức, v.v."
+    },
+    {
+        "id": "d7e04f47-77e6-4e1d-b547-d8a6e7d179f0",
+        "word": "viral marketing",
+        "phonetic": "vaɪɚɹəl mɑːɹkɪɾɪŋ ",
+        "type": "noun",
+        "defineEn": "a method of marketing in which a company encourages customers to share information about its services or products by email or on social media",
+        "defineVi": "một phương pháp tiếp thị trong đó một công ty khuyến khích khách hàng chia sẻ thông tin về các dịch vụ hoặc sản phẩm của mình qua email hoặc trên phương tiện truyền thông xã hội"
+    }
+]

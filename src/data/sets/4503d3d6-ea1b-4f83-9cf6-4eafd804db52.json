@@ -1,0 +1,543 @@
+[
+    {
+        "id": "5a997587-a77d-4b44-a5d6-c1a2d41e5984",
+        "word": "vegetable",
+        "phonetic": "vɛdʒɪɾəbəl ",
+        "type": "noun",
+        "defineEn": "a plant or a part of it that we can eat either raw or cooked",
+        "defineVi": "một loại cây hoặc một phần của nó mà chúng ta có thể ăn sống hoặc nấu chín",
+        "hasImg": true
+    },
+    {
+        "id": "f7d707dc-fae6-4e8f-93e1-2351b810680a",
+        "word": "woman",
+        "phonetic": "wʊmən ",
+        "type": "noun",
+        "defineEn": "a person who is a female adult",
+        "defineVi": "một người là phụ nữ trưởng thành",
+        "hasImg": true
+    },
+    {
+        "id": "ff5f41b1-e6f1-4ce5-8699-91134e4a5be1",
+        "word": "knee",
+        "phonetic": "niː ",
+        "type": "noun",
+        "defineEn": "the body part that is in the middle of the leg and helps it bend",
+        "defineVi": "phần cơ thể ở giữa chân và giúp nó uốn cong",
+        "hasImg": true
+    },
+    {
+        "id": "5a81f6f3-3834-4f57-9b7b-8ed611f42fc5",
+        "word": "to know",
+        "phonetic": "tə noʊ ",
+        "type": "verb",
+        "defineEn": "to have some type of information about something or to be aware of something",
+        "defineVi": "để có một số loại thông tin về một cái gì đó hoặc để nhận thức được một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "e7dd128e-e313-4bfc-b1c2-5139c0735b19",
+        "word": "physician",
+        "phonetic": "fɪzɪʃən ",
+        "type": "noun",
+        "defineEn": "a medical doctor who specializes in general medicine, not in surgery",
+        "defineVi": "một bác sĩ y khoa chuyên về y học nói chung, không phải trong phẫu thuật",
+        "hasImg": true
+    },
+    {
+        "id": "167365c9-b8a5-4104-ab36-c820a755917c",
+        "word": "their",
+        "phonetic": "ðɛɹ ",
+        "type": "determiner",
+        "defineEn": "(third-person plural possessive determiner) of or belonging to people, animals, or things that have already been mentioned or are easy to identify",
+        "defineVi": "(từ sở hữu từ sở hữu ở ngôi thứ ba số nhiều) của hoặc thuộc về người, động vật hoặc đồ vật đã được đề cập hoặc dễ xác định",
+        "hasImg": true
+    },
+    {
+        "id": "f5f670d1-d0e0-455d-9bea-a9e29c9844e0",
+        "word": "there",
+        "phonetic": "ðɛɹ ",
+        "type": "adverb",
+        "defineEn": "to, in, or at a place that is not where the speaker is",
+        "defineVi": "đến, trong hoặc tại một nơi không phải là nơi người nói đang ở",
+        "hasImg": true
+    },
+    {
+        "id": "9bf98f72-d721-45c4-9883-4e0d5e70f729",
+        "word": "disease",
+        "phonetic": "dɪziːz ",
+        "type": "noun",
+        "defineEn": "an illness in a human, animal, or plant that affects health",
+        "defineVi": "một căn bệnh ở người, động vật hoặc thực vật ảnh hưởng đến sức khỏe",
+        "hasImg": true
+    },
+    {
+        "id": "4d0a98a0-253d-485f-84dc-7072b4e83a41",
+        "word": "bed",
+        "phonetic": "bɛd ",
+        "type": "noun",
+        "defineEn": "furniture we use to sleep on that normally has a frame and mattress",
+        "defineVi": "đồ nội thất chúng ta sử dụng để ngủ thường có khung và nệm",
+        "hasImg": true
+    },
+    {
+        "id": "1c8bc6a4-b284-46c5-a3b5-52e1e249242f",
+        "word": "friend",
+        "phonetic": "fɹɛnd ",
+        "type": "noun",
+        "defineEn": "someone we know well, like a lot, and trust, but normally they are not part of our family",
+        "defineVi": "một người mà chúng ta biết rõ, rất thích và tin tưởng, nhưng thông thường họ không phải là một phần của gia đình chúng ta",
+        "hasImg": true
+    },
+    {
+        "id": "62908e2a-d12e-427d-b4ca-100410354de8",
+        "word": "breakfast",
+        "phonetic": "bɹɛkfəst ",
+        "type": "noun",
+        "defineEn": "the first meal someone has in the early hours of the day",
+        "defineVi": "bữa ăn đầu tiên của ai đó vào đầu giờ trong ngày",
+        "hasImg": true
+    },
+    {
+        "id": "e369f405-f838-4f98-bf6e-fce8f1e4267b",
+        "word": "tea",
+        "phonetic": "tiː ",
+        "type": "noun",
+        "defineEn": "a hot drink that is made by soaking dried leaves, called tea leaves, in hot water",
+        "defineVi": "một thức uống nóng được làm bằng cách ngâm lá khô, được gọi là lá trà, trong nước nóng",
+        "hasImg": true
+    },
+    {
+        "id": "06c20b39-00b3-4c84-87ef-7806bd3cfb87",
+        "word": "wretched",
+        "phonetic": "ɹɛtʃᵻd ",
+        "type": "adjective",
+        "defineEn": "very poor in quality, condition, or value",
+        "defineVi": "rất kém về chất lượng, tình trạng hoặc giá trị"
+    },
+    {
+        "id": "a065c958-7f42-4909-b22a-e97c8f411f5d",
+        "word": "good",
+        "phonetic": "ɡʊd ",
+        "type": "adjective",
+        "defineEn": "having a standard or quality that is satisfying",
+        "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+        "hasImg": true
+    },
+    {
+        "id": "0dd230c6-d46e-4675-9339-7e9a01823036",
+        "word": "enough",
+        "phonetic": "ɪnʌf ",
+        "type": "adverb",
+        "defineEn": "to a degree or extent that is sufficient or necessary",
+        "defineVi": "ở một mức độ hoặc mức độ đó là đủ hoặc cần thiết",
+        "hasImg": true
+    },
+    {
+        "id": "766ce95e-ee09-43ea-a90d-fb0c5436e24a",
+        "word": "food",
+        "phonetic": "fuːd ",
+        "type": "noun",
+        "defineEn": "things that people and animals eat, such as meat or vegetables",
+        "defineVi": "những thứ mà con người và động vật ăn, chẳng hạn như thịt hoặc rau",
+        "hasImg": true
+    },
+    {
+        "id": "8aa387da-b658-4601-8d1c-264fe6992d29",
+        "word": "though",
+        "phonetic": "ðoʊ ",
+        "type": "adverb",
+        "defineEn": "used to introduce a statement that makes the previous one less strong and therefore surprising",
+        "defineVi": "được sử dụng để giới thiệu một tuyên bố làm cho tuyên bố trước kém mạnh mẽ hơn và do đó gây ngạc nhiên"
+    },
+    {
+        "id": "813f9805-39ab-4ca2-ae13-a3b19943894b",
+        "word": "blood",
+        "phonetic": "blʌd ",
+        "type": "noun",
+        "defineEn": "the red liquid that the heart pumps through the body, carrying oxygen to and carbon dioxide from the tissues",
+        "defineVi": "chất lỏng màu đỏ mà tim bơm qua cơ thể, mang oxy đến và carbon dioxide từ các mô",
+        "hasImg": true
+    },
+    {
+        "id": "64bbf43c-5497-49d7-b3ad-195f0cc2f82f",
+        "word": "cough",
+        "phonetic": "kɔf ",
+        "type": "noun",
+        "defineEn": "a condition or disease that makes one cough frequently",
+        "defineVi": "một tình trạng hoặc bệnh làm cho một ho thường xuyên",
+        "hasImg": true
+    },
+    {
+        "id": "17cd17bf-f4cc-498e-9a2f-4e834a6e2401",
+        "word": "love",
+        "phonetic": "lʌv ",
+        "type": "noun",
+        "defineEn": "the very strong emotion we have for someone or something that is important to us and we like a lot and want to take care of",
+        "defineVi": "cảm xúc rất mạnh mẽ mà chúng ta dành cho ai đó hoặc điều gì đó quan trọng đối với chúng ta và chúng ta rất thích và muốn chăm sóc",
+        "hasImg": true
+    },
+    {
+        "id": "a088519f-72a4-40ef-972c-4c6fd1c69d01",
+        "word": "to move",
+        "phonetic": "tə muːv ",
+        "type": "verb",
+        "defineEn": "to go from one place to another; to change position",
+        "defineVi": "đi từ nơi này đến nơi khác; để thay đổi vị trí",
+        "hasImg": true
+    },
+    {
+        "id": "efaf1c06-0ce1-4e69-94f8-dce7b0d8fe64",
+        "word": "glove",
+        "phonetic": "ɡlʌv ",
+        "type": "noun",
+        "defineEn": "item of clothing for our hands with a separate space for each finger",
+        "defineVi": "mặt hàng quần áo cho bàn tay của chúng tôi với một không gian riêng biệt cho mỗi ngón tay",
+        "hasImg": true
+    },
+    {
+        "id": "163a1fc4-8dfb-42f6-94db-df841b43f67d",
+        "word": "some",
+        "phonetic": "sʌm ",
+        "type": "determiner",
+        "defineEn": "being an unknown amount or number of something",
+        "defineVi": "là một số lượng không xác định hoặc số lượng của một cái gì đó"
+    },
+    {
+        "id": "1bef2028-1776-4804-aa48-9653fb1b0e98",
+        "word": "to come",
+        "phonetic": "tə kʌm ",
+        "type": "verb",
+        "defineEn": "to move or travel toward something or someone",
+        "defineVi": "để di chuyển hoặc đi về phía một cái gì đó hoặc một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "28ac798c-89d4-4722-9d7b-c2436d3268ae",
+        "word": "home",
+        "phonetic": "hoʊm ",
+        "type": "noun",
+        "defineEn": "the place that we live in, usually with our family",
+        "defineVi": "nơi mà chúng tôi sống, thường là với gia đình của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "ebde17e4-f9cf-410e-8be0-fc5c95a76602",
+        "word": "pear",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a sweet yellow or green bell-shaped fruit with a lot of juice",
+        "defineVi": "một loại trái cây hình chuông màu vàng hoặc xanh ngọt với rất nhiều nước",
+        "hasImg": true
+    },
+    {
+        "id": "fe5fec45-7ea9-4265-9e7c-e686f9b08ad7",
+        "word": "dear",
+        "phonetic": "dɪɹ ",
+        "type": "adjective",
+        "defineEn": "very loved or cared for",
+        "defineVi": "rất yêu thương hoặc chăm sóc"
+    },
+    {
+        "id": "bd4012d0-cfdb-4ce0-94ca-c43fa1cba3f2",
+        "word": "fear",
+        "phonetic": "fɪɹ ",
+        "type": "noun",
+        "defineEn": "a bad feeling that we get when we are afraid or worried",
+        "defineVi": "một cảm giác tồi tệ mà chúng ta nhận được khi chúng ta sợ hãi hoặc lo lắng",
+        "hasImg": true
+    },
+    {
+        "id": "1b702b8a-96ff-4040-8ff3-87c9319e78d7",
+        "word": "lost",
+        "phonetic": "lɔst ",
+        "type": "adjective",
+        "defineEn": "unable to find or recover something that is misplaced, vanished, or missing",
+        "defineVi": "không thể tìm hoặc khôi phục thứ gì đó bị thất lạc, biến mất hoặc mất tích",
+        "hasImg": true
+    },
+    {
+        "id": "6d031a62-ec75-46f3-928b-1d3ec8b2fb20",
+        "word": "most",
+        "phonetic": "moʊst ",
+        "type": "adverb",
+        "defineEn": "used for forming the superlative of several adverbs and adjectives",
+        "defineVi": "được sử dụng để hình thành so sánh nhất của một số trạng từ và tính từ"
+    },
+    {
+        "id": "0dbf3272-7e84-4b6e-ba92-6df258b2c975",
+        "word": "post",
+        "phonetic": "poʊst ",
+        "type": "noun",
+        "defineEn": "a job, position, or role, often within an organization or a company",
+        "defineVi": "một công việc, vị trí hoặc vai trò, thường là trong một tổ chức hoặc một công ty"
+    },
+    {
+        "id": "beaef102-93af-4204-8dba-3cfb1ca600e0",
+        "word": "death",
+        "phonetic": "dɛθ ",
+        "type": "noun",
+        "defineEn": "the end of life; the act of dying",
+        "defineVi": "cuối đời; hành động chết",
+        "hasImg": true
+    },
+    {
+        "id": "c32e892e-4b24-4334-b0ec-061a1c104842",
+        "word": "breath",
+        "phonetic": "bɹɛθ ",
+        "type": "noun",
+        "defineEn": "the air taken into or sent out from the lungs",
+        "defineVi": "không khí đưa vào hoặc gửi ra khỏi phổi",
+        "hasImg": true
+    },
+    {
+        "id": "d084bb24-3858-44e8-93f7-83034a632cf7",
+        "word": "beneath",
+        "phonetic": "bᵻniːθ ",
+        "type": "adverb",
+        "defineEn": "in a lower or lower-level position, usually under or underneath something else",
+        "defineVi": "ở vị trí thấp hơn hoặc cấp thấp hơn, thường là bên dưới hoặc bên dưới cái gì khác"
+    },
+    {
+        "id": "b3746538-dfce-477a-bf0c-98e2cf4e5af2",
+        "word": "boot",
+        "phonetic": "buːt ",
+        "type": "noun",
+        "defineEn": "a type of strong shoe that covers the foot and ankle and often the lower part of the leg",
+        "defineVi": "một loại giày chắc chắn bao gồm bàn chân và mắt cá chân và thường là phần dưới của chân",
+        "hasImg": true
+    },
+    {
+        "id": "9e3912f5-654f-467c-858b-1a1896665a6d",
+        "word": "to shoot",
+        "phonetic": "tə ʃuːt ",
+        "type": "verb",
+        "defineEn": "to release a bullet or arrow from a gun or bow",
+        "defineVi": "để giải phóng một viên đạn hoặc mũi tên từ một khẩu súng hoặc cung",
+        "hasImg": true
+    },
+    {
+        "id": "d4e65135-e186-4628-86d8-a29215701b43",
+        "word": "foot",
+        "phonetic": "fʊt ",
+        "type": "noun",
+        "defineEn": "the body part that is at the end of our leg and we stand and walk on",
+        "defineVi": "phần cơ thể ở cuối chân của chúng ta và chúng ta đứng và đi",
+        "hasImg": true
+    },
+    {
+        "id": "cca6b23d-8bdb-41f9-8207-1f1fb275e57c",
+        "word": "eight",
+        "phonetic": "eɪt ",
+        "type": "numeral",
+        "defineEn": "the number 8; the number of legs on a spider",
+        "defineVi": "số 8; số lượng chân trên một con nhện",
+        "hasImg": true
+    },
+    {
+        "id": "a7fa4219-9b3c-4702-9c21-acb8932ba362",
+        "word": "weight",
+        "phonetic": "weɪt ",
+        "type": "noun",
+        "defineEn": "the heaviness of something or someone; how heavy something or someone is, which can be measured",
+        "defineVi": "sức nặng của một cái gì đó hoặc ai đó; thứ gì đó hoặc ai đó nặng bao nhiêu, có thể đo được",
+        "hasImg": true
+    },
+    {
+        "id": "3f1792f9-d3bf-461b-9718-735bd177a354",
+        "word": "height",
+        "phonetic": "haɪt ",
+        "type": "noun",
+        "defineEn": "the distance from the top to the bottom of something or someone",
+        "defineVi": "khoảng cách từ trên xuống dưới của một cái gì đó hoặc một ai đó",
+        "hasImg": true
+    },
+    {
+        "id": "e3384bd0-66c1-498f-9dd7-98fec0bd9f95",
+        "word": "to flood",
+        "phonetic": "tə flʌd ",
+        "type": "verb",
+        "defineEn": "to become covered or filled by water",
+        "defineVi": "để trở thành bao phủ hoặc lấp đầy bởi nước",
+        "hasImg": true
+    },
+    {
+        "id": "8eac4eb5-6009-4024-a76e-36fe8f6c0a6f",
+        "word": "flower",
+        "phonetic": "flaʊɚ ",
+        "type": "noun",
+        "defineEn": "the colored or white part of a plant from which the seed or fruit develops",
+        "defineVi": "phần có màu hoặc màu trắng của cây mà từ đó hạt hoặc quả phát triển",
+        "hasImg": true
+    },
+    {
+        "id": "2474ca3e-2ad0-4464-ae67-28b26c306ac8",
+        "word": "power",
+        "phonetic": "paʊɚ ",
+        "type": "noun",
+        "defineEn": "the ability to control or have an effect on things or people",
+        "defineVi": "khả năng kiểm soát hoặc có ảnh hưởng đến mọi thứ hoặc con người",
+        "hasImg": true
+    },
+    {
+        "id": "395739c0-b84c-4644-a990-c17601c96a5b",
+        "word": "to lower",
+        "phonetic": "tə loʊɚ ",
+        "type": "verb",
+        "defineEn": "to reduce something in degree, amount, quality, or strength",
+        "defineVi": "để giảm một cái gì đó trong mức độ, số lượng, chất lượng, hoặc sức mạnh",
+        "hasImg": true
+    },
+    {
+        "id": "44ac9a0f-48e9-4704-816c-74d503e8bdb4",
+        "word": "to allow",
+        "phonetic": "tʊ ɐlaʊ ",
+        "type": "verb",
+        "defineEn": "to let someone or something do a particular thing",
+        "defineVi": "để cho ai đó hoặc một cái gì đó làm một điều cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "d257d253-b92d-4d1f-8264-d5a6b2891405",
+        "word": "to swallow",
+        "phonetic": "tə swɔloʊ ",
+        "type": "verb",
+        "defineEn": "to cause food, drink, or another substance to pass from the mouth down into the stomach through the esophagus, using the muscles of the throat",
+        "defineVi": "làm cho thức ăn, đồ uống hoặc một chất khác đi từ miệng xuống dạ dày qua thực quản, sử dụng các cơ của cổ họng"
+    },
+    {
+        "id": "a591f777-8fce-4701-92d8-4fde930c7408",
+        "word": "to follow",
+        "phonetic": "tə fɑːloʊ ",
+        "type": "verb",
+        "defineEn": "to go or come after someone or something; to move or travel behind someone or something",
+        "defineVi": "đi hoặc đến sau ai đó hoặc cái gì đó; để di chuyển hoặc đi phía sau một ai đó hoặc một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "db885d46-cd94-4e5e-8156-8dc217723b6f",
+        "word": "to wear",
+        "phonetic": "tə wɛɹ ",
+        "type": "verb",
+        "defineEn": "to have something such as clothes, shoes, etc. on your body",
+        "defineVi": "để có một cái gì đó như quần áo, giày dép, vv trên cơ thể của bạn",
+        "hasImg": true
+    },
+    {
+        "id": "f9ba4aad-f130-4c69-a3b4-e111b5ee72e8",
+        "word": "court",
+        "phonetic": "koːɹt ",
+        "type": "noun",
+        "defineEn": "the group of people in a court including the judge and the jury",
+        "defineVi": "nhóm người trong một tòa án bao gồm thẩm phán và bồi thẩm đoàn",
+        "hasImg": true
+    },
+    {
+        "id": "0a0acb4b-0dbf-430a-8a4f-2557c4563656",
+        "word": "piece",
+        "phonetic": "piːs ",
+        "type": "noun",
+        "defineEn": "a part of an object, broken or cut from a larger one",
+        "defineVi": "một phần của một đối tượng, bị hỏng hoặc cắt từ một đối tượng lớn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "a785a177-5e24-48dd-a1f6-1e3113d676a5",
+        "word": "week",
+        "phonetic": "wiːk ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of seven days in a calendar",
+        "defineVi": "một khoảng thời gian được tạo thành từ bảy ngày trong lịch",
+        "hasImg": true
+    },
+    {
+        "id": "51eebb38-a036-4878-a818-d2fe78341260",
+        "word": "to flow",
+        "phonetic": "tə floʊ ",
+        "type": "verb",
+        "defineEn": "to move continuously, steadily, and easily in one direction, especially in a current or stream",
+        "defineVi": "di chuyển liên tục, đều đặn và dễ dàng theo một hướng, đặc biệt là theo dòng chảy hoặc dòng chảy",
+        "hasImg": true
+    },
+    {
+        "id": "7b4344df-1a0b-4fae-90db-bd7e928e72f7",
+        "word": "pair",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a set of two matching items that are designed to be used together or regarded as one",
+        "defineVi": "một bộ gồm hai mục phù hợp được thiết kế để sử dụng cùng nhau hoặc được coi là một",
+        "hasImg": true
+    },
+    {
+        "id": "0ec3bd89-86dd-40cd-b278-83657cf3a181",
+        "word": "male",
+        "phonetic": "meɪl ",
+        "type": "adjective",
+        "defineEn": "belonging to the sex that can not give birth to babies but is capable of fertilization of the opposite sex",
+        "defineVi": "thuộc giới không thể sinh con nhưng có khả năng thụ tinh với người khác giới",
+        "hasImg": true
+    },
+    {
+        "id": "67ff1b55-9967-4f96-b47e-eb249f273cdd",
+        "word": "to answer",
+        "phonetic": "tʊ ænsɚ ",
+        "type": "verb",
+        "defineEn": "to say, write or do something as a reaction or reply to a question or situation",
+        "defineVi": "nói, viết hoặc làm điều gì đó như một phản ứng hoặc trả lời cho một câu hỏi hoặc tình huống",
+        "hasImg": true
+    },
+    {
+        "id": "b0ede687-c5b2-45aa-8b04-5ef4e285d622",
+        "word": "biscuit",
+        "phonetic": "bɪskɪt ",
+        "type": "noun",
+        "defineEn": "a small dry cake, usually sweet and flat",
+        "defineVi": "một chiếc bánh khô nhỏ, thường ngọt và phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "f9782299-d64e-40a9-b3d4-867a1e9c8408",
+        "word": "fruit",
+        "phonetic": "fɹuːt ",
+        "type": "noun",
+        "defineEn": "something we can eat that grows on trees, plants, or bushes",
+        "defineVi": "thứ gì đó chúng ta có thể ăn mọc trên cây, thực vật hoặc bụi rậm",
+        "hasImg": true
+    },
+    {
+        "id": "2930e42a-617a-4a89-ab49-d36f5d33bf09",
+        "word": "human",
+        "phonetic": "hjuːmən ",
+        "type": "adjective",
+        "defineEn": "related or belonging to people, not machines or animals",
+        "defineVi": "liên quan hoặc thuộc về con người, không phải máy móc hoặc động vật",
+        "hasImg": true
+    },
+    {
+        "id": "df754d94-47c3-4f64-8568-29a0da191b35",
+        "word": "cure",
+        "phonetic": "kjʊɹ ",
+        "type": "noun",
+        "defineEn": "a treatment or medication  for a certain disease or injury",
+        "defineVi": "một phương pháp điều trị hoặc thuốc cho một số bệnh hoặc chấn thương",
+        "hasImg": true
+    },
+    {
+        "id": "3136e487-f90b-4cd6-a628-5c95bc3912b0",
+        "word": "receipt",
+        "phonetic": "ɹᵻsiːt ",
+        "type": "noun",
+        "defineEn": "a written or printed document that shows a number of goods or services which are bought or delivered are paid for",
+        "defineVi": "một tài liệu bằng văn bản hoặc in cho thấy một số hàng hóa hoặc dịch vụ được mua hoặc giao được trả tiền cho",
+        "hasImg": true
+    },
+    {
+        "id": "794bbf72-40c4-48c4-9036-42bf0b8c4177",
+        "word": "recipe",
+        "phonetic": "ɹɛsᵻpiː ",
+        "type": "noun",
+        "defineEn": "the instructions on how to cook a certain food",
+        "defineVi": "hướng dẫn cách nấu một món ăn nhất định",
+        "hasImg": true
+    }
+]

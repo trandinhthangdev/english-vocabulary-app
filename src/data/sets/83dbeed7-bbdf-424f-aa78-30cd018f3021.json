@@ -1,0 +1,262 @@
+[
+    {
+        "id": "6b5389e6-2c89-4b1a-86ef-0c27d8e04745",
+        "word": "neuroanatomy",
+        "phonetic": "nʊɹɹoʊnæɾəmi ",
+        "type": "noun",
+        "defineEn": "the scientific study of the organization and structure of the nervous system",
+        "defineVi": "nghiên cứu khoa học về tổ chức và cấu trúc của hệ thần kinh"
+    },
+    {
+        "id": "ec0b22cf-c3d0-4ebc-876b-448ecb9b1e69",
+        "word": "neurology",
+        "phonetic": "nʊɹɹɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a branch of medical science particularly concerned with the disorders of the nervous system",
+        "defineVi": "một nhánh của khoa học y tế đặc biệt liên quan đến các rối loạn của hệ thần kinh"
+    },
+    {
+        "id": "03b24957-b4e0-4610-a2b4-713c04d2903d",
+        "word": "neuropathology",
+        "phonetic": "nʊɹɹəpɐθɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the scientific study of diseases of the eyes and of the nervous system",
+        "defineVi": "nghiên cứu khoa học về các bệnh về mắt và hệ thần kinh"
+    },
+    {
+        "id": "03e2170c-1f4c-4206-ab45-86f72ae708c8",
+        "word": "neurophysiology",
+        "phonetic": "nʊɹɹəfɪzɪɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of physiology concerning with the functioning of the nervous system",
+        "defineVi": "ngành sinh lý học liên quan đến hoạt động của hệ thần kinh"
+    },
+    {
+        "id": "7c9c8b17-2d2e-4609-bbeb-a66186591638",
+        "word": "neuropsychiatry",
+        "phonetic": "nʊɹɹəsaɪkɪətɹi ",
+        "type": "noun",
+        "defineEn": "a branch of medical science dealing with both neurology and psychiatry",
+        "defineVi": "một nhánh của khoa học y tế liên quan đến cả thần kinh học và tâm thần học"
+    },
+    {
+        "id": "c11fff08-ac52-4fd2-8258-aed7e1f42ee1",
+        "word": "neurosurgery",
+        "phonetic": "nʊɹɹəsɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a surgical operation performed on the nervous system, particularly the brain and spinal cord",
+        "defineVi": "một hoạt động phẫu thuật được thực hiện trên hệ thống thần kinh, đặc biệt là não và tủy sống"
+    },
+    {
+        "id": "ec8bd854-6985-4582-b360-feab1f95eb5d",
+        "word": "dentistry",
+        "phonetic": "dɛntɪstɹi ",
+        "type": "noun",
+        "defineEn": "a field of medicine that deals with the mouth and teeth",
+        "defineVi": "một lĩnh vực y học liên quan đến miệng và răng",
+        "hasImg": true
+    },
+    {
+        "id": "47d3f4ed-4aba-4b2c-a008-e5eb37e0bc23",
+        "word": "endodontics",
+        "phonetic": "ɛndoʊdɔntɪks ",
+        "type": "noun",
+        "defineEn": "the branch of dentistry that specializes in the treatment of the soft pulp tissue inside the tooth",
+        "defineVi": "nhánh nha khoa chuyên điều trị mô tủy mềm bên trong răng"
+    },
+    {
+        "id": "be9e2cb5-9188-49de-a010-9511e4ae5b45",
+        "word": "exodontics",
+        "phonetic": "ɛɡzədɔntɪks ",
+        "type": "noun",
+        "defineEn": "the branch of dental surgery that deals with the extraction of teeth",
+        "defineVi": "ngành phẫu thuật nha khoa liên quan đến việc nhổ răng"
+    },
+    {
+        "id": "67e72882-0603-4aab-b774-013ec4613355",
+        "word": "laryngology",
+        "phonetic": "læɹɪŋɡɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a medical branch that deals with the larynx and nasopharynx",
+        "defineVi": "một nhánh y tế liên quan đến thanh quản và vòm họng"
+    },
+    {
+        "id": "f3e74607-23af-43c0-93e5-57bae85a405d",
+        "word": "odontology",
+        "phonetic": "oʊdɔntɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medical science concerned with the anatomy, development, and diseases of the teeth",
+        "defineVi": "ngành khoa học y tế liên quan đến giải phẫu, sự phát triển và các bệnh về răng"
+    },
+    {
+        "id": "7458abf4-c788-4011-bfc8-b3ae8a3af717",
+        "word": "rhinology",
+        "phonetic": "ɹaɪnɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medicine primarily concerned with the nose and its conditions",
+        "defineVi": "ngành y học chủ yếu liên quan đến mũi và các điều kiện của nó"
+    },
+    {
+        "id": "03fc3b3e-1675-4cfc-872e-cc681e6366f9",
+        "word": "trichology",
+        "phonetic": "tɹɪkɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medical science concerned with the hair and scalp",
+        "defineVi": "ngành khoa học y tế liên quan đến tóc và da đầu"
+    },
+    {
+        "id": "e8b5f213-17b1-4b3a-ae47-edffe348ce5d",
+        "word": "stomatology",
+        "phonetic": "stəmɑːtɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medicine or dentistry concerned with the mouth and its disorders",
+        "defineVi": "ngành y học hoặc nha khoa liên quan đến miệng và các rối loạn của nó"
+    },
+    {
+        "id": "bfae052f-6be5-4e53-9579-8f667aacfb62",
+        "word": "psychiatry",
+        "phonetic": "saɪkaɪətɹi ",
+        "type": "noun",
+        "defineEn": "the study of mental conditions and their treatment",
+        "defineVi": "nghiên cứu về điều kiện tâm thần và điều trị của họ",
+        "hasImg": true
+    },
+    {
+        "id": "a99ccb93-fc5e-41c4-8f02-c8d604879c2c",
+        "word": "odontology",
+        "phonetic": "oʊdɔntɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medical science concerned with the anatomy, development, and diseases of the teeth",
+        "defineVi": "ngành khoa học y tế liên quan đến giải phẫu, sự phát triển và các bệnh về răng"
+    },
+    {
+        "id": "14537ff9-2c22-4fc3-833b-4cc677ddc997",
+        "word": "ophthalmology",
+        "phonetic": "ɑːfθɐlmɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medical science dealing with the eye, its functions, and diseases",
+        "defineVi": "ngành khoa học y tế liên quan đến mắt, chức năng của nó và các bệnh"
+    },
+    {
+        "id": "1f801c66-d737-4571-ac9a-f3d025261a0b",
+        "word": "optometry",
+        "phonetic": "ɑːptoʊmətɹi ",
+        "type": "noun",
+        "defineEn": "the health-care profession particularly concerned with the eye and its diseases",
+        "defineVi": "nghề chăm sóc sức khỏe đặc biệt quan tâm đến mắt và các bệnh của nó"
+    },
+    {
+        "id": "acf408f8-be53-4086-bd88-f5a79e377f69",
+        "word": "oral hygiene",
+        "phonetic": "oːɹəl haɪdʒiːn ",
+        "type": "noun",
+        "defineEn": "the practice of keeping one's mouth and teeth clean and healthy by regular brushing, flossing, and cleaning",
+        "defineVi": "thực hành giữ miệng và răng sạch sẽ và khỏe mạnh bằng cách thường xuyên đánh răng, dùng chỉ nha khoa và làm sạch"
+    },
+    {
+        "id": "02a8fde9-bc0f-4dea-8454-f3cb75af2457",
+        "word": "orthodontics",
+        "phonetic": "ɔːɹθədɔntɪks ",
+        "type": "noun",
+        "defineEn": "the branch of dentistry concerned with irregularities and improper positioning of teeth and jaws",
+        "defineVi": "ngành nha khoa liên quan đến sự bất thường và định vị răng và hàm không đúng cách",
+        "hasImg": true
+    },
+    {
+        "id": "0b419228-49c5-4d90-9b43-6f3ab64df8cc",
+        "word": "prosthodontics",
+        "phonetic": "pɹɑːsθədɔntɪks ",
+        "type": "noun",
+        "defineEn": "the branch of dentistry dealing with the replacement of teeth and related mouth or jaw structures by artificial devices",
+        "defineVi": "ngành nha khoa giải quyết việc thay thế răng và các cấu trúc miệng hoặc hàm có liên quan bằng các thiết bị nhân tạo"
+    },
+    {
+        "id": "4d7e0981-0360-4969-a66c-c7f2630ec34a",
+        "word": "dental anesthesiology",
+        "phonetic": "dɛntəl ænɪsθiːzɪɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a dental specialty that involves administering anesthesia during dental procedures to ensure patient comfort and pain control",
+        "defineVi": "một chuyên khoa nha khoa liên quan đến việc gây mê trong các thủ thuật nha khoa để đảm bảo bệnh nhân thoải mái và kiểm soát cơn đau"
+    },
+    {
+        "id": "084345da-67d9-4fc6-a745-e96fe4c709b4",
+        "word": "pediatric dentistry",
+        "phonetic": "piːdɪætɹɪk dɛntɪstɹi ",
+        "type": "noun",
+        "defineEn": "a dental specialty that focuses on providing dental care for children",
+        "defineVi": "một chuyên khoa nha khoa tập trung vào việc chăm sóc răng miệng cho trẻ em"
+    },
+    {
+        "id": "0c61d8e7-e6ec-40d3-b544-aa8c19c83e88",
+        "word": "orofacial pain",
+        "phonetic": "oːɹəfeɪʃəl peɪn ",
+        "type": "noun",
+        "defineEn": "a specialized field of medicine or dentistry that focuses on the diagnosis and management of pain disorders related to the mouth and face",
+        "defineVi": "một lĩnh vực chuyên môn về y học hoặc nha khoa tập trung vào chẩn đoán và quản lý các rối loạn đau liên quan đến miệng và mặt"
+    },
+    {
+        "id": "b78cbb0b-4a3a-42bb-a7cd-caf9c3b4ee1c",
+        "word": "dental public health",
+        "phonetic": "dɛntəl pʌblɪk hɛlθ ",
+        "type": "noun",
+        "defineEn": "a field that focuses on improving community oral health through prevention, promotion, and policy efforts",
+        "defineVi": "một lĩnh vực tập trung vào việc cải thiện sức khỏe răng miệng của cộng đồng thông qua các nỗ lực phòng ngừa, thúc đẩy và chính sách"
+    },
+    {
+        "id": "821ef145-1e5f-430d-bb73-49e5f1b70d33",
+        "word": "oral and maxillofacial surgery",
+        "phonetic": "oːɹəl ænd mæksɪlɑːfeɪʃəl sɜːdʒɚɹi ",
+        "type": "noun",
+        "defineEn": "a surgical specialty focused on treating conditions of the mouth, jaw, face, neck, and related structures",
+        "defineVi": "một chuyên khoa phẫu thuật tập trung vào điều trị các tình trạng của miệng, hàm, mặt, cổ và các cấu trúc liên quan"
+    },
+    {
+        "id": "0ff8b24f-ecb2-428d-b8d7-50b74acde0ec",
+        "word": "oral / dental and maxillofacial radiology",
+        "phonetic": "oːɹəl slæʃ dɛntəl ænd mæksɪlɑːfeɪʃəl ɹeɪdɪɑːlədʒi ",
+        "type": "phrase",
+        "defineEn": "a dental specialty that uses imaging techniques like X-rays and scans to diagnose and manage conditions of the mouth, jaw, face, and neck",
+        "defineVi": "một chuyên khoa nha khoa sử dụng các kỹ thuật hình ảnh như chụp X-quang và quét để chẩn đoán và quản lý các tình trạng của miệng, hàm, mặt và cổ"
+    },
+    {
+        "id": "845a407a-100c-44ea-875b-ee6c38f1777d",
+        "word": "otolaryngology",
+        "phonetic": "ɑːɾoʊlɑːɹɹɪŋɡɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "a branch of medicine that primarily focuses on the diagnosis, management, and treatment of disorders of the ear, nose, and throat",
+        "defineVi": "một nhánh của y học chủ yếu tập trung vào chẩn đoán, quản lý và điều trị các rối loạn về tai, mũi và họng",
+        "hasImg": true
+    },
+    {
+        "id": "6fb98c90-1830-4bfa-968b-150c69c8e5e8",
+        "word": "otology",
+        "phonetic": "ɑːtɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medical science concerned with the study of the ear and its diseases",
+        "defineVi": "ngành khoa học y tế liên quan đến nghiên cứu về tai và các bệnh của nó"
+    },
+    {
+        "id": "4cc4735f-82c9-4524-9b46-bea59175e61d",
+        "word": "periodontics",
+        "phonetic": "piəɹɪədɔntɪks ",
+        "type": "noun",
+        "defineEn": "the branch of dentistry that focuses on the prevention, diagnosis, and treatment of diseases of the supporting and and investing structures of the teeth",
+        "defineVi": "ngành nha khoa tập trung vào việc phòng ngừa, chẩn đoán và điều trị các bệnh về cấu trúc nâng đỡ và đầu tư của răng"
+    },
+    {
+        "id": "28d457d8-520f-439d-b325-0796c09af4c7",
+        "word": "pharyngology",
+        "phonetic": "fɑːɹɹɪŋɡɑːlədʒi ",
+        "type": "noun",
+        "defineEn": "the branch of medicine primarily concerned with the pharynx and and treatment of its diseases",
+        "defineVi": "ngành y học chủ yếu liên quan đến hầu họng và điều trị các bệnh của nó"
+    },
+    {
+        "id": "09c2fbf0-b398-4935-a244-e39449c66e7e",
+        "word": "physical medicine",
+        "phonetic": "fɪzɪkəl mɛdəsən ",
+        "type": "noun",
+        "defineEn": "the branch of medical science devoted to the treatment of disease and injury by physical means, such as manipulation, massage, exercise, etc.",
+        "defineVi": "ngành khoa học y tế dành cho việc điều trị bệnh tật và chấn thương bằng các biện pháp vật lý, chẳng hạn như thao tác, xoa bóp, tập thể dục, v.v."
+    }
+]

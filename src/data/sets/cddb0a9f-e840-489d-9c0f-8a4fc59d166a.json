@@ -1,0 +1,480 @@
+[
+    {
+        "id": "f6d5856c-f442-48f9-a1cc-49a45f5348b2",
+        "word": "adagio",
+        "phonetic": "ædɑːdʒɪoʊ ",
+        "type": "noun",
+        "defineEn": "a movement or composition intended to be played at a slow tempo",
+        "defineVi": "một phong trào hoặc thành phần dự định được chơi ở một nhịp độ chậm"
+    },
+    {
+        "id": "c5966bf0-1ce0-499f-8a4b-861c74720c96",
+        "word": "allegro",
+        "phonetic": "ɐlɛɡɹoʊ ",
+        "type": "noun",
+        "defineEn": "a movement or composition intended to be played at a brisk lively tempo",
+        "defineVi": "một chuyển động hoặc sáng tác dự định sẽ được chơi với nhịp độ sống động nhanh"
+    },
+    {
+        "id": "ef7e2ac2-ebf7-4e7a-bba8-9da7683c2e1b",
+        "word": "andante",
+        "phonetic": "ændɑːnteɪ ",
+        "type": "noun",
+        "defineEn": "a movement or composition intended to be played at a fairly slow tempo",
+        "defineVi": "một chuyển động hoặc thành phần dự định sẽ được chơi ở một nhịp độ khá chậm"
+    },
+    {
+        "id": "db9e3c0a-6299-47db-bc61-13306c2009de",
+        "word": "concerto",
+        "phonetic": "kəntʃɛɹɾoʊ ",
+        "type": "noun",
+        "defineEn": "a musical composition that is written for one or more solo instruments and accompanied by an orchestra with three movements",
+        "defineVi": "một tác phẩm âm nhạc được viết cho một hoặc nhiều nhạc cụ độc tấu và kèm theo một dàn nhạc với ba chuyển động"
+    },
+    {
+        "id": "c04c8361-7b2f-4a54-90a5-92a85cf66a5c",
+        "word": "duet",
+        "phonetic": "djuːɛt ",
+        "type": "noun",
+        "defineEn": "a piece of music performed by two people",
+        "defineVi": "một bản nhạc được thực hiện bởi hai người",
+        "hasImg": true
+    },
+    {
+        "id": "b07fa9f8-1ffb-4a30-b611-538c4cf4b889",
+        "word": "trio",
+        "phonetic": "tɹiːoʊ ",
+        "type": "noun",
+        "defineEn": "a musical piece written for three singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc được viết cho ba ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "864eceb4-7c05-48ce-b8bb-1f61cf8a6212",
+        "word": "quartet",
+        "phonetic": "kwɔːɹtɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for four singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc viết cho bốn ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "6db4fe04-9006-43c9-9df2-8c435773171e",
+        "word": "quintet",
+        "phonetic": "kwɪntɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for five singers or instruments",
+        "defineVi": "một bản nhạc viết cho năm ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "96592b07-fac2-4f83-8a06-b88c7a34e295",
+        "word": "sextet",
+        "phonetic": "sɛkstɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for six singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc được viết cho sáu ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "a0e5d538-c39a-4221-9114-0cc99871e435",
+        "word": "septet",
+        "phonetic": "sɛptɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for seven singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc được viết cho bảy ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "f6c5cb49-8eec-4734-bf11-cd35eca9cabc",
+        "word": "octet",
+        "phonetic": "ɑːktɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for eight singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc được viết cho tám ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "57ac7645-fd31-4443-a906-ab67c7ec741a",
+        "word": "nonet",
+        "phonetic": "nɑːnɛt ",
+        "type": "noun",
+        "defineEn": "a musical piece written for nine singers or instruments",
+        "defineVi": "một tác phẩm âm nhạc viết cho chín ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "5dd28fd9-22ed-4ef4-a8cb-b5657ffa599e",
+        "word": "decet",
+        "phonetic": "dᵻsɛt ",
+        "type": "noun",
+        "defineEn": "a piece of music written for and performed by ten musicians with individual parts or voices",
+        "defineVi": "một bản nhạc được viết cho và biểu diễn bởi mười nhạc sĩ với các phần hoặc giọng riêng lẻ",
+        "hasImg": true
+    },
+    {
+        "id": "363e3d3a-39c3-4c48-a0df-acf79fd8b6c7",
+        "word": "fantasia",
+        "phonetic": "fænteɪʒə ",
+        "type": "noun",
+        "defineEn": "a musical composition with an improvised style that does not have a fixed form",
+        "defineVi": "một tác phẩm âm nhạc với phong cách ngẫu hứng không có hình thức cố định"
+    },
+    {
+        "id": "11ded085-10ff-4098-a2d3-05770ac12244",
+        "word": "forte",
+        "phonetic": "foːɹɾeɪ ",
+        "type": "noun",
+        "defineEn": "a musical composition or musical passage to be performed loudly",
+        "defineVi": "một tác phẩm âm nhạc hoặc đoạn nhạc được biểu diễn lớn"
+    },
+    {
+        "id": "5bb4e511-31f8-4ea4-995d-67e33b2a7124",
+        "word": "fugue",
+        "phonetic": "fjuːɡ ",
+        "type": "noun",
+        "defineEn": "a classical piece of music with one or two simple repeated themes that develop into a polyphonic pattern which is more sophisticated",
+        "defineVi": "một bản nhạc cổ điển với một hoặc hai chủ đề lặp đi lặp lại đơn giản phát triển thành một mô hình đa âm phức tạp hơn"
+    },
+    {
+        "id": "dab42ca9-9484-457f-817c-5a3cad20dd42",
+        "word": "march",
+        "phonetic": "mɑːɹtʃ ",
+        "type": "noun",
+        "defineEn": "a musical piece in duple or quadruple rhythm that is written to accompany or suggest marching",
+        "defineVi": "một bản nhạc theo nhịp đôi hoặc nhịp bốn được viết để đi kèm hoặc gợi ý diễu hành"
+    },
+    {
+        "id": "cfa410f0-05cd-498e-8365-7e5203b1e7d3",
+        "word": "voluntary",
+        "phonetic": "vɑːləntɚɹi ",
+        "type": "noun",
+        "defineEn": "an instrumental composition that is written for organ, played during or after a religious service",
+        "defineVi": "một sáng tác nhạc cụ được viết cho đàn organ, được chơi trong hoặc sau một buổi lễ tôn giáo"
+    },
+    {
+        "id": "be36b634-1d55-465e-8844-defe454915cb",
+        "word": "chaconne",
+        "phonetic": "tʃækɑːn ",
+        "type": "noun",
+        "defineEn": "a musical composition in moderate triple time, popular in the baroque era",
+        "defineVi": "một tác phẩm âm nhạc trong thời gian gấp ba vừa phải, phổ biến trong thời kỳ baroque"
+    },
+    {
+        "id": "de446633-73d4-4cc9-867e-770d9342aab2",
+        "word": "aubade",
+        "phonetic": "ɔːbeɪd ",
+        "type": "noun",
+        "defineEn": "a musical piece or poem appropriate to or influenced by the dawn or early morning",
+        "defineVi": "một bản nhạc hoặc bài thơ thích hợp hoặc bị ảnh hưởng bởi bình minh hoặc buổi sáng sớm"
+    },
+    {
+        "id": "eb86cb93-1a73-48e7-a0dc-565cb5990861",
+        "word": "canon",
+        "phonetic": "kænən ",
+        "type": "noun",
+        "defineEn": "a polyphonic composition in which each singer or instrument takes turn in repeating the theme melody after a given duration",
+        "defineVi": "một tác phẩm đa âm trong đó mỗi ca sĩ hoặc nhạc cụ lần lượt lặp lại giai điệu chủ đề sau một khoảng thời gian nhất định"
+    },
+    {
+        "id": "8df26df0-ed11-4b5c-a5bd-b0db94691730",
+        "word": "chorale",
+        "phonetic": "koːɹeɪl ",
+        "type": "noun",
+        "defineEn": "a musical composition resembling or including a harmonized Lutheran hymn or psalm",
+        "defineVi": "một tác phẩm âm nhạc giống hoặc bao gồm một bài thánh ca hoặc thánh vịnh Lutheran được hòa âm"
+    },
+    {
+        "id": "e5236945-2fba-462c-9655-5fdb16e72f96",
+        "word": "composition",
+        "phonetic": "kɑːmpəzɪʃən ",
+        "type": "noun",
+        "defineEn": "a written piece of music marked by significant size and sophistication",
+        "defineVi": "một bản nhạc bằng văn bản được đánh dấu bằng kích thước đáng kể và sự tinh tế"
+    },
+    {
+        "id": "3fd3276b-8169-48ec-98e4-c1e4788d31cd",
+        "word": "divertimento",
+        "phonetic": "daɪvɜːɾɪmɛntoʊ ",
+        "type": "noun",
+        "defineEn": "a piece of instrumental music with light character in various movements, usually written for a small orchestra",
+        "defineVi": "một bản nhạc cụ có tính chất nhẹ nhàng với nhiều chuyển động khác nhau, thường được viết cho một dàn nhạc nhỏ"
+    },
+    {
+        "id": "c0c6f148-fd5c-449d-98d1-b0d152e45c3a",
+        "word": "etude",
+        "phonetic": "ɛɾuːd ",
+        "type": "noun",
+        "defineEn": "an instrumental composition that is usually short and is intended for practice or demonstration of a skill",
+        "defineVi": "một sáng tác nhạc cụ thường ngắn và nhằm mục đích thực hành hoặc thể hiện một kỹ năng"
+    },
+    {
+        "id": "7ff5c8cf-f6dc-4a12-986b-8000d5c27a45",
+        "word": "gavotte",
+        "phonetic": "ɡævɑːt ",
+        "type": "noun",
+        "defineEn": "a piece of music in moderately quick ⁴/₄ time intended for a French dance popular in the 18th century",
+        "defineVi": "một bản nhạc trong thời gian ⁴/₄ nhanh vừa phải dành cho một điệu nhảy Pháp phổ biến vào thế kỷ 18"
+    },
+    {
+        "id": "26ca3dcd-7cc1-42bf-ae0b-0e6d4ffd5014",
+        "word": "intermezzo",
+        "phonetic": "ɪntɚmɛzoʊ ",
+        "type": "noun",
+        "defineEn": "a short instrumental piece that is performed between the acts of an opera or other musical performance",
+        "defineVi": "một đoạn nhạc cụ ngắn được biểu diễn giữa các tiết mục của vở opera hoặc buổi biểu diễn âm nhạc khác"
+    },
+    {
+        "id": "4911c44a-6801-49f4-9d99-8abadb3e3718",
+        "word": "largo",
+        "phonetic": "lɑːɹɡoʊ ",
+        "type": "noun",
+        "defineEn": "a musical piece that is intended to be performed at a very slow tempo and in a serious manner",
+        "defineVi": "một tác phẩm âm nhạc dự định sẽ được biểu diễn với nhịp độ rất chậm và nghiêm túc"
+    },
+    {
+        "id": "b6fa58bc-a964-4c7a-8aa7-6f0f2bc88bf6",
+        "word": "minuet",
+        "phonetic": "mɪnjuːɛt ",
+        "type": "noun",
+        "defineEn": "a piece of music set to a formal couple dance marked with triple time rhythm, toe pointing and bowing, popular in the 17th and 18th centuries",
+        "defineVi": "một bản nhạc được đặt thành một điệu nhảy trang trọng của cặp đôi được đánh dấu bằng nhịp ba thời gian, chỉ ngón chân và cúi đầu, phổ biến trong thế kỷ 17 và 18"
+    },
+    {
+        "id": "f583019b-020a-438f-a6d5-c07bb0aa1649",
+        "word": "Mass",
+        "phonetic": "mæs ",
+        "type": "noun",
+        "defineEn": "a religious ceremony that includes a choral composition with multiple voices and instruments, based on religious texts",
+        "defineVi": "một buổi lễ tôn giáo bao gồm một thành phần hợp xướng với nhiều giọng nói và nhạc cụ, dựa trên các văn bản tôn giáo"
+    },
+    {
+        "id": "45117e9b-9408-4622-81b1-a5a53563a15c",
+        "word": "medley",
+        "phonetic": "mɛdli ",
+        "type": "noun",
+        "defineEn": "a set of musical pieces that are performed or sung successively in a continuous tune",
+        "defineVi": "một tập hợp các bản nhạc được biểu diễn hoặc hát liên tục trong một giai điệu liên tục"
+    },
+    {
+        "id": "8a04f700-fe33-4ed9-8570-68218e2f84ce",
+        "word": "nocturne",
+        "phonetic": "nɑːktɜːn ",
+        "type": "noun",
+        "defineEn": "a romantic or dreamy composition written for the piano, dealing with night or evening",
+        "defineVi": "một sáng tác lãng mạn hoặc thơ mộng được viết cho piano, xử lý ban đêm hoặc buổi tối"
+    },
+    {
+        "id": "615d73e3-5d6c-4250-9d03-2df4f917523e",
+        "word": "opus",
+        "phonetic": "oʊpəs ",
+        "type": "noun",
+        "defineEn": "a musical piece or collection that is written by a famous composer followed by the date in which it was created",
+        "defineVi": "một tác phẩm âm nhạc hoặc bộ sưu tập được viết bởi một nhà soạn nhạc nổi tiếng theo ngày mà nó đã được tạo ra"
+    },
+    {
+        "id": "49ee82b4-0e8d-436c-9c77-a1de5547e657",
+        "word": "oratorio",
+        "phonetic": "ɔːɹətoːɹɪoʊ ",
+        "type": "noun",
+        "defineEn": "a lengthy musical composition with a religious theme based on the Bible written for orchestra, choirs and singers without using costumes, action or any scenery",
+        "defineVi": "một tác phẩm âm nhạc dài với chủ đề tôn giáo dựa trên Kinh thánh được viết cho dàn nhạc, dàn hợp xướng và ca sĩ mà không sử dụng trang phục, hành động hay bất kỳ khung cảnh nào"
+    },
+    {
+        "id": "53c6e0bc-c438-4896-96c9-0b9fa262afb5",
+        "word": "raga",
+        "phonetic": "ɹɑːɡə ",
+        "type": "noun",
+        "defineEn": "a piece of traditional Indian music marked by intervals and melodic patterns, used for improvisation",
+        "defineVi": "một bản nhạc truyền thống của Ấn Độ được đánh dấu bằng các quãng và giai điệu, được sử dụng để ứng biến"
+    },
+    {
+        "id": "ca31227a-9db9-4b37-a2fd-43a41ca47726",
+        "word": "rhapsody",
+        "phonetic": "ɹæpsədi ",
+        "type": "noun",
+        "defineEn": "an instrumental composition marked with irregular form and improvisation, expressing strong emotions",
+        "defineVi": "một sáng tác nhạc cụ được đánh dấu bằng hình thức bất thường và ngẫu hứng, thể hiện cảm xúc mạnh mẽ"
+    },
+    {
+        "id": "0401188f-48e3-4128-a55a-3a29ba44683f",
+        "word": "scherzo",
+        "phonetic": "ʃɜːzoʊ ",
+        "type": "noun",
+        "defineEn": "a light and short instrumental piece of music in rapid triple time that is usually part of a symphony or sonata",
+        "defineVi": "một bản nhạc nhẹ và ngắn bằng nhạc cụ trong thời gian nhanh gấp ba thường là một phần của bản giao hưởng hoặc sonata"
+    },
+    {
+        "id": "1a4c88fa-82f0-4569-b9b4-65a1f8bc7dcb",
+        "word": "serenade",
+        "phonetic": "sɛɹəneɪd ",
+        "type": "noun",
+        "defineEn": "a vocal or instrumental composition that is typically performed outdoors in the evening, and is often intended as a tribute or expression of love",
+        "defineVi": "một sáng tác thanh nhạc hoặc nhạc cụ thường được biểu diễn ngoài trời vào buổi tối và thường nhằm mục đích tôn vinh hoặc bày tỏ tình yêu"
+    },
+    {
+        "id": "c24e3e0b-5953-41af-9127-276e5a052218",
+        "word": "signature tune",
+        "phonetic": "sɪɡnɪtʃɚ tuːn ",
+        "type": "noun",
+        "defineEn": "a short and particular piece of music associated with a specific program or performer",
+        "defineVi": "một đoạn nhạc ngắn và cụ thể được liên kết với một chương trình hoặc người biểu diễn cụ thể"
+    },
+    {
+        "id": "5eaa1b0c-d7a0-4646-baa4-5dcd7f7b38ca",
+        "word": "solo",
+        "phonetic": "soʊloʊ ",
+        "type": "noun",
+        "defineEn": "a musical piece written for one singer or instrument",
+        "defineVi": "một tác phẩm âm nhạc được viết cho một ca sĩ hoặc nhạc cụ"
+    },
+    {
+        "id": "068beddc-d786-4d07-9bc1-0264f26bf8b8",
+        "word": "sonata",
+        "phonetic": "sənɑːɾə ",
+        "type": "noun",
+        "defineEn": "a musical composition for a solo instrument, typically accompanied by piano, in 3 or 4 movements of contrasting keys",
+        "defineVi": "một tác phẩm âm nhạc cho một nhạc cụ độc tấu, thường đi kèm với piano, trong 3 hoặc 4 chuyển động của các phím tương phản"
+    },
+    {
+        "id": "4d7f1656-65ca-4c0c-be09-cbc305d080cd",
+        "word": "song",
+        "phonetic": "sɔŋ ",
+        "type": "noun",
+        "defineEn": "a piece of music that has words",
+        "defineVi": "một bản nhạc có lời",
+        "hasImg": true
+    },
+    {
+        "id": "121ff7b5-6fc5-4d52-9cef-33cd5c6e2e0b",
+        "word": "string quartet",
+        "phonetic": "stɹɪŋ kwɔːɹtɛt ",
+        "type": "noun",
+        "defineEn": "a musical composition that is specifically written for two violins, a viola, and a cello, and typically consists of four movements",
+        "defineVi": "một tác phẩm âm nhạc được viết riêng cho hai violon, viola và cello và thường bao gồm bốn chuyển động",
+        "hasImg": true
+    },
+    {
+        "id": "3ea017cb-c78b-4b47-87f6-e80d488646f5",
+        "word": "symphony",
+        "phonetic": "sɪmfəni ",
+        "type": "noun",
+        "defineEn": "a long and sophisticated musical composition written for a large orchestra, in three or four movements",
+        "defineVi": "một tác phẩm âm nhạc dài và phức tạp được viết cho một dàn nhạc lớn, trong ba hoặc bốn chuyển động"
+    },
+    {
+        "id": "58fef54f-376a-4f04-90f6-f1e7c6e3d630",
+        "word": "tone poem",
+        "phonetic": "toʊn poʊᵻm ",
+        "type": "noun",
+        "defineEn": "a piece of music in one movement that is intended for symphony orchestra, telling a story or describing a place or an idea",
+        "defineVi": "một bản nhạc trong một chuyển động dành cho dàn nhạc giao hưởng, kể một câu chuyện hoặc mô tả một địa điểm hoặc một ý tưởng"
+    },
+    {
+        "id": "2dc035e7-07fa-49c5-b196-7e9216486b10",
+        "word": "track",
+        "phonetic": "tɹæk ",
+        "type": "noun",
+        "defineEn": "a musical piece or song recorded on a CD, tape, or vinyl record",
+        "defineVi": "một đoạn nhạc hoặc bài hát được ghi trên đĩa CD, băng hoặc đĩa nhựa",
+        "hasImg": true
+    },
+    {
+        "id": "91dcb7ae-1998-41f9-9fc5-e82ff39d22e5",
+        "word": "wedding march",
+        "phonetic": "wɛdɪŋ mɑːɹtʃ ",
+        "type": "noun",
+        "defineEn": "a march to be played for a wedding procession",
+        "defineVi": "một cuộc diễu hành để được chơi cho một đám cưới"
+    },
+    {
+        "id": "9cb2492d-7022-4ef7-911a-70086b10ba62",
+        "word": "suite",
+        "phonetic": "swiːt ",
+        "type": "noun",
+        "defineEn": "an instrumental musical composition of the 17th or 18th centuries consisting of a series of related keys or a modern rendition of this in several movements",
+        "defineVi": "một sáng tác nhạc cụ của thế kỷ 17 hoặc 18 bao gồm một loạt các phím có liên quan hoặc một bản biểu diễn hiện đại của bản này trong một số chuyển động"
+    },
+    {
+        "id": "a5ad4857-bb2e-473a-901f-b30fc6000ea1",
+        "word": "vocal",
+        "phonetic": "voʊkəl ",
+        "type": "noun",
+        "defineEn": "a musical piece that involves singing",
+        "defineVi": "một tác phẩm âm nhạc liên quan đến ca hát"
+    },
+    {
+        "id": "f4516b1a-e93e-478a-9925-00653a8862f9",
+        "word": "interlude",
+        "phonetic": "ɪntɚluːd ",
+        "type": "noun",
+        "defineEn": "a short performance that is presented between two longer pieces",
+        "defineVi": "một màn trình diễn ngắn được trình bày giữa hai phần dài hơn"
+    },
+    {
+        "id": "cb40fd9d-6db6-47b0-aa9f-b6f72e1baab5",
+        "word": "intro",
+        "phonetic": "ɪntɹoʊ ",
+        "type": "noun",
+        "defineEn": "a short introduction to a literary or musical composition",
+        "defineVi": "một đoạn giới thiệu ngắn về một tác phẩm văn học hoặc âm nhạc"
+    },
+    {
+        "id": "4c85ad25-964a-4437-a665-0f83e3868d1e",
+        "word": "score",
+        "phonetic": "skoːɹ ",
+        "type": "noun",
+        "defineEn": "a written or printed version of a musical composition consisting of all the vocal and instrumental sections",
+        "defineVi": "một phiên bản viết hoặc in của một tác phẩm âm nhạc bao gồm tất cả các phần thanh nhạc và nhạc cụ"
+    },
+    {
+        "id": "dada9491-0d96-43cf-bf2b-49e4ef7b5c40",
+        "word": "piano concerto",
+        "phonetic": "piænoʊ kəntʃɛɹɾoʊ ",
+        "type": "noun",
+        "defineEn": "a composition for piano and orchestra, featuring a solo piano part with orchestral accompaniment",
+        "defineVi": "một sáng tác cho piano và dàn nhạc, có phần piano độc tấu với phần đệm của dàn nhạc"
+    },
+    {
+        "id": "a60f30c5-1bad-458b-a155-8eeb4d797967",
+        "word": "vivace",
+        "phonetic": "vɪveɪs ",
+        "type": "noun",
+        "defineEn": "a lively piece of music that is fast-paced",
+        "defineVi": "một bản nhạc sống động có nhịp độ nhanh"
+    },
+    {
+        "id": "57b1d736-6afd-4b1c-92ad-816b41017c76",
+        "word": "concerto grosso",
+        "phonetic": "kəntʃɛɹɾoʊ ɡɹoʊsoʊ ",
+        "type": "noun",
+        "defineEn": "a baroque composition for orchestra and a group of solo instruments",
+        "defineVi": "một tác phẩm baroque cho dàn nhạc và một nhóm nhạc cụ độc tấu"
+    },
+    {
+        "id": "b6012259-85f9-400b-b5b8-e336f4304441",
+        "word": "opera",
+        "phonetic": "ɑːpɚɹə ",
+        "type": "noun",
+        "defineEn": "a musical play sung and performed by singers",
+        "defineVi": "một vở nhạc kịch được hát và biểu diễn bởi các ca sĩ",
+        "hasImg": true
+    },
+    {
+        "id": "6b0d30a2-ce50-4c16-abf4-6b19cf0b1088",
+        "word": "pavane",
+        "phonetic": "pæveɪn ",
+        "type": "noun",
+        "defineEn": "a piece of dance music in slow duple rhythm from southern Europe that became popular in England in the 16th century, couples danced to this in elegant attire",
+        "defineVi": "một bản nhạc khiêu vũ theo nhịp điệu chậm đôi từ miền nam châu Âu đã trở nên phổ biến ở Anh vào thế kỷ 16, các cặp đôi khiêu vũ trong trang phục thanh lịch này"
+    },
+    {
+        "id": "b5c69e82-b70e-42cb-a233-9e4b45565e74",
+        "word": "saraband",
+        "phonetic": "sæɹɐbænd ",
+        "type": "noun",
+        "defineEn": "music that is intended for a stately Spanish dance in slow triple time with accent on the second beat, popular in the 17th and 18th centuries",
+        "defineVi": "âm nhạc dành cho điệu nhảy trang nghiêm của Tây Ban Nha trong nhịp ba chậm với điểm nhấn ở nhịp thứ hai, phổ biến vào thế kỷ 17 và 18"
+    },
+    {
+        "id": "9a2184fd-1525-4e7e-8a1a-743f47055f3c",
+        "word": "gigue",
+        "phonetic": "dʒiːɡ ",
+        "type": "noun",
+        "defineEn": "music in three-four time for dancing a jig",
+        "defineVi": "âm nhạc trong ba bốn lần để nhảy jig"
+    }
+]

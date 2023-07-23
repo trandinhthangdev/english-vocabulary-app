@@ -1,0 +1,88 @@
+[
+    {
+        "id": "6d7c974b-435c-4cfd-b0d2-228b2dd8722d",
+        "word": "relationship",
+        "phonetic": "ɹᵻleɪʃənʃɪp ",
+        "type": "noun",
+        "defineEn": "the way two or multiple people, groups, or things behave and feel toward each other",
+        "defineVi": "cách hai hoặc nhiều người, nhóm, hoặc mọi thứ cư xử và cảm nhận về nhau"
+    },
+    {
+        "id": "00e93edf-5269-4bb0-ba80-35766e010c86",
+        "word": "marital status",
+        "phonetic": "mæɹɪɾəl stæɾəs ",
+        "type": "noun",
+        "defineEn": "the state of being married, single, divorced, etc.",
+        "defineVi": "tình trạng kết hôn, độc thân, ly hôn, v.v."
+    },
+    {
+        "id": "59d93731-7292-4308-976f-0c504a447df0",
+        "word": "stepfather",
+        "phonetic": "stɛpfɑːðɚ ",
+        "type": "noun",
+        "defineEn": "the man that is married to one's parent but is not one's biological father",
+        "defineVi": "người đàn ông đã kết hôn với cha mẹ của một người nhưng không phải là cha ruột của một người",
+        "hasImg": true
+    },
+    {
+        "id": "d6ad7a12-822e-42b6-a657-6f31d9d5acea",
+        "word": "stepmother",
+        "phonetic": "stɛpmʌðɚ ",
+        "type": "noun",
+        "defineEn": "the woman that is married to one's parent but is not one's biological mother",
+        "defineVi": "người phụ nữ đã kết hôn với cha mẹ của một người nhưng không phải là mẹ ruột của một người",
+        "hasImg": true
+    },
+    {
+        "id": "1590276f-764a-492c-beca-9aa2d88a9957",
+        "word": "stepbrother",
+        "phonetic": "stɛpbɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "the son of one's stepfather or stepmother from a previous relationship",
+        "defineVi": "con trai của cha dượng hoặc mẹ kế từ mối quan hệ trước",
+        "hasImg": true
+    },
+    {
+        "id": "61ea06b8-510d-4767-ab92-33503d53659a",
+        "word": "stepsister",
+        "phonetic": "stɛpsɪstɚ ",
+        "type": "noun",
+        "defineEn": "the daughter of one's stepfather or stepmother from a previous relationship",
+        "defineVi": "con gái của cha dượng hoặc mẹ kế từ mối quan hệ trước",
+        "hasImg": true
+    },
+    {
+        "id": "8cf7628e-5f9e-497e-b5c3-6e4925a68b0d",
+        "word": "stepson",
+        "phonetic": "stɛpsʌn ",
+        "type": "noun",
+        "defineEn": "the son of one's spouse from a past relationship",
+        "defineVi": "con trai của người phối ngẫu từ một mối quan hệ trong quá khứ"
+    },
+    {
+        "id": "4cf58415-c71c-4bd2-abb9-b973310f0ac4",
+        "word": "stepdaughter",
+        "phonetic": "stɛpdɔːɾɚ ",
+        "type": "noun",
+        "defineEn": "the daughter of one's spouse from a past relationship",
+        "defineVi": "con gái của người phối ngẫu từ một mối quan hệ trong quá khứ"
+    },
+    {
+        "id": "71c74d4f-d9b0-4c47-90a8-6b6ac76b0d92",
+        "word": "half-sister",
+        "phonetic": "hæfsɪstɚ ",
+        "type": "noun",
+        "defineEn": "a sister that shares only one biological parent with one",
+        "defineVi": "một người chị em chỉ chia sẻ một cha mẹ ruột với một",
+        "hasImg": true
+    },
+    {
+        "id": "c4a88022-aca7-4c56-b052-d30bdbc134d4",
+        "word": "half-brother",
+        "phonetic": "hæfbɹʌðɚ ",
+        "type": "noun",
+        "defineEn": "a brother that shares only one biological parent with one",
+        "defineVi": "một người anh em chỉ chia sẻ một cha mẹ ruột với một",
+        "hasImg": true
+    }
+]

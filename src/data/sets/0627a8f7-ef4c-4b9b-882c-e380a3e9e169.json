@@ -1,0 +1,308 @@
+[
+    {
+        "id": "9663271a-3460-4188-85b0-27ab526cfffb",
+        "word": "bag",
+        "phonetic": "bæɡ ",
+        "type": "noun",
+        "defineEn": "something made of leather, cloth, plastic, or paper that we use to carry things in, particularly when we are traveling or shopping",
+        "defineVi": "thứ gì đó làm bằng da, vải, nhựa hoặc giấy mà chúng ta dùng để đựng đồ, đặc biệt khi chúng ta đi du lịch hoặc mua sắm",
+        "hasImg": true
+    },
+    {
+        "id": "e45a260c-53f2-420c-b13a-c09a5c8e4605",
+        "word": "bottle",
+        "phonetic": "bɑːɾəl ",
+        "type": "noun",
+        "defineEn": "a glass or plastic container that has a narrow neck and is used for storing drinks or other liquids",
+        "defineVi": "một hộp thủy tinh hoặc nhựa có cổ hẹp và được sử dụng để đựng đồ uống hoặc các chất lỏng khác",
+        "hasImg": true
+    },
+    {
+        "id": "ef4cab9b-3ece-416b-946f-b500235703ee",
+        "word": "box",
+        "phonetic": "bɑːks ",
+        "type": "noun",
+        "defineEn": "a container made of wood, thick card, metal, etc. with a flat base and sides, often square or rectangular and having a lid",
+        "defineVi": "một hộp làm bằng gỗ, thẻ dày, kim loại, v.v. có đế và các mặt phẳng, thường là hình vuông hoặc hình chữ nhật và có nắp",
+        "hasImg": true
+    },
+    {
+        "id": "457d8d6a-efcc-4c68-b536-7dc01bac37f4",
+        "word": "bunch",
+        "phonetic": "bʌntʃ ",
+        "type": "noun",
+        "defineEn": "a group of things sharing the same quality, usually connected to each other",
+        "defineVi": "một nhóm những thứ có cùng chất lượng, thường được kết nối với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "b6947a6d-3ce6-4a02-911c-7bbcb79bc8f8",
+        "word": "can",
+        "phonetic": "kæn ",
+        "type": "noun",
+        "defineEn": "a container, made of metal, used for storing food or drink",
+        "defineVi": "một thùng chứa, làm bằng kim loại, được sử dụng để lưu trữ thực phẩm hoặc đồ uống",
+        "hasImg": true
+    },
+    {
+        "id": "75c82274-5c10-4dd9-9c44-75f92d6b8825",
+        "word": "loaf",
+        "phonetic": "loʊf ",
+        "type": "noun",
+        "defineEn": "bread that has a particular shape and is baked in one piece, usually sliced before being served",
+        "defineVi": "bánh mì có hình dạng đặc biệt và được nướng thành từng miếng, thường được cắt lát trước khi phục vụ",
+        "hasImg": true
+    },
+    {
+        "id": "00fd72d8-a145-4253-bdea-42ac34ad8893",
+        "word": "packet",
+        "phonetic": "pækɪt ",
+        "type": "noun",
+        "defineEn": "a small bag that can contain various things, such as tea, sugar, or spices",
+        "defineVi": "một túi nhỏ có thể chứa nhiều thứ khác nhau, chẳng hạn như trà, đường hoặc gia vị",
+        "hasImg": true
+    },
+    {
+        "id": "710812f0-ccbd-4940-be45-e298e96af504",
+        "word": "pair",
+        "phonetic": "pɛɹ ",
+        "type": "noun",
+        "defineEn": "a set of two matching items that are designed to be used together or regarded as one",
+        "defineVi": "một bộ gồm hai mục phù hợp được thiết kế để sử dụng cùng nhau hoặc được coi là một",
+        "hasImg": true
+    },
+    {
+        "id": "7da44a96-48d3-4ceb-b22f-7fa93f1c39a2",
+        "word": "piece",
+        "phonetic": "piːs ",
+        "type": "noun",
+        "defineEn": "a part of an object, broken or cut from a larger one",
+        "defineVi": "một phần của một đối tượng, bị hỏng hoặc cắt từ một đối tượng lớn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "fb5dec48-38cf-431f-bdb3-f3cd73ac8fbc",
+        "word": "slice",
+        "phonetic": "slaɪs ",
+        "type": "noun",
+        "defineEn": "a small cut of a larger portion such as a piece of cake, pizza, etc.",
+        "defineVi": "một vết cắt nhỏ của một phần lớn hơn chẳng hạn như một miếng bánh, bánh pizza, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "64cf1c96-41e0-4010-a96e-95bdeb2153c5",
+        "word": "banana",
+        "phonetic": "bɐnænə ",
+        "type": "noun",
+        "defineEn": "a soft fruit that is long and curved and has hard yellow skin",
+        "defineVi": "một quả mềm dài và cong và có vỏ cứng màu vàng",
+        "hasImg": true
+    },
+    {
+        "id": "aed1e597-1598-43af-bf2c-458966361962",
+        "word": "beer",
+        "phonetic": "bɪɹ ",
+        "type": "noun",
+        "defineEn": "a drink that is alcoholic and made from different types of grain",
+        "defineVi": "một thức uống có cồn và được làm từ các loại ngũ cốc khác nhau",
+        "hasImg": true
+    },
+    {
+        "id": "64f889e3-bd76-4aee-a7a4-ec462934ffe4",
+        "word": "bread",
+        "phonetic": "bɹɛd ",
+        "type": "noun",
+        "defineEn": "a type of food made from flour, water and usually yeast mixed together and baked",
+        "defineVi": "một loại thực phẩm được làm từ bột mì, nước và thường là men trộn với nhau và nướng",
+        "hasImg": true
+    },
+    {
+        "id": "7a105baa-bced-47f5-848e-8b4dd3d159f7",
+        "word": "cake",
+        "phonetic": "keɪk ",
+        "type": "noun",
+        "defineEn": "a sweet food that is made by mixing flour, butter or oil, sugar, eggs and other ingredients and then backing it in an oven",
+        "defineVi": "một món ăn ngọt được làm bằng cách trộn bột mì, bơ hoặc dầu, đường, trứng và các thành phần khác rồi cho vào lò nướng",
+        "hasImg": true
+    },
+    {
+        "id": "a217c844-ff7d-456d-b811-a080a3051c00",
+        "word": "chewing gum",
+        "phonetic": "tʃuːɪŋ ɡʌm ",
+        "type": "noun",
+        "defineEn": "a substance for chewing with different tastes such as strawberry, mint, etc.",
+        "defineVi": "một chất để nhai với các vị khác nhau như dâu tây, bạc hà, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "77f6741e-3b8e-4de1-9218-0ceb68d0af68",
+        "word": "crisp",
+        "phonetic": "kɹɪsp ",
+        "type": "noun",
+        "defineEn": "a thin, round piece of potato, cooked in hot oil and eaten cold as a snack",
+        "defineVi": "một miếng khoai tây tròn, mỏng, nấu trong dầu nóng và ăn nguội như một món ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "7c78d4fa-6547-4536-9750-383022401bd9",
+        "word": "coke",
+        "phonetic": "koʊk ",
+        "type": "noun",
+        "defineEn": "a brand of carbonated soft drink that comes in a variety of flavors and is typically dark in color",
+        "defineVi": "một nhãn hiệu nước ngọt có ga có nhiều hương vị khác nhau và thường có màu sẫm",
+        "hasImg": true
+    },
+    {
+        "id": "a75b26f1-9311-45cc-827c-254cf6940d4e",
+        "word": "flower",
+        "phonetic": "flaʊɚ ",
+        "type": "noun",
+        "defineEn": "the colored or white part of a plant from which the seed or fruit develops",
+        "defineVi": "phần có màu hoặc màu trắng của cây mà từ đó hạt hoặc quả phát triển",
+        "hasImg": true
+    },
+    {
+        "id": "4602efab-6e29-4d9a-b97d-36b4c7912950",
+        "word": "ham",
+        "phonetic": "hæm ",
+        "type": "noun",
+        "defineEn": "a type of meat cut from a pig's thigh, usually smoked or salted",
+        "defineVi": "một loại thịt cắt từ đùi lợn, thường được hun khói hoặc ướp muối",
+        "hasImg": true
+    },
+    {
+        "id": "d490c62d-dd8c-499c-a8fe-be04f8d27199",
+        "word": "jeans",
+        "phonetic": "dʒiːnz ",
+        "type": "noun",
+        "defineEn": "pants made of denim, that is a type of strong cotton cloth, and is used for a casual style",
+        "defineVi": "quần làm bằng vải denim, đó là một loại vải cotton bền và được sử dụng cho phong cách giản dị",
+        "hasImg": true
+    },
+    {
+        "id": "54a77f2d-7d8b-4010-9fc2-547dfed4fe95",
+        "word": "milk",
+        "phonetic": "mɪlk ",
+        "type": "noun",
+        "defineEn": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc.",
+        "defineVi": "chất lỏng màu trắng chúng ta lấy từ bò, cừu hoặc dê mà chúng ta uống và sử dụng để làm pho mát, bơ, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "7e59a697-ddb7-4bce-8865-c8fb7ce8b31e",
+        "word": "match",
+        "phonetic": "mætʃ ",
+        "type": "noun",
+        "defineEn": "a small stick used to start fires by striking it against a rough surface, typically coated with a flammable substance on one end",
+        "defineVi": "một cây gậy nhỏ được sử dụng để bắt đầu đám cháy bằng cách đập nó vào một bề mặt gồ ghề, thường được phủ một chất dễ cháy ở một đầu",
+        "hasImg": true
+    },
+    {
+        "id": "7340faea-a620-4b95-9be1-bd9afa64396f",
+        "word": "paper",
+        "phonetic": "peɪpɚ ",
+        "type": "noun",
+        "defineEn": "the thin sheets on which one can write, draw, or print things, also used as wrapping material",
+        "defineVi": "các tấm mỏng mà người ta có thể viết, vẽ hoặc in các thứ, cũng được sử dụng làm vật liệu gói",
+        "hasImg": true
+    },
+    {
+        "id": "85e772d5-22e7-4a7f-a577-c188a591cf72",
+        "word": "sock",
+        "phonetic": "sɑːk ",
+        "type": "noun",
+        "defineEn": "a soft item of clothing we wear on our feet",
+        "defineVi": "một mặt hàng quần áo mềm chúng tôi mặc trên đôi chân của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "d8bf43a8-ddd3-4f30-8cbb-1ffb1df71242",
+        "word": "sweets",
+        "phonetic": "swiːts ",
+        "type": "noun",
+        "defineEn": "a small piece of food that contains sugar and sometimes chocolate",
+        "defineVi": "một miếng thức ăn nhỏ có chứa đường và đôi khi là sô cô la",
+        "hasImg": true
+    },
+    {
+        "id": "ad316ab8-fe04-49d2-a7bd-4a01090e8093",
+        "word": "tissue",
+        "phonetic": "tɪʃuː ",
+        "type": "noun",
+        "defineEn": "a piece of soft thin paper that is disposable and is used for cleaning",
+        "defineVi": "một mảnh giấy mỏng mềm dùng một lần và được sử dụng để làm sạch",
+        "hasImg": true
+    },
+    {
+        "id": "27982ca4-f31b-403c-b8f0-686afd762b7b",
+        "word": "tuna",
+        "phonetic": "tuːnə ",
+        "type": "noun",
+        "defineEn": "a type of large fish that is eaten as food",
+        "defineVi": "một loại cá lớn được ăn như thức ăn",
+        "hasImg": true
+    },
+    {
+        "id": "6312aa13-efe2-460c-8fa2-affaea18c203",
+        "word": "wine",
+        "phonetic": "waɪn ",
+        "type": "noun",
+        "defineEn": "a drink that is alcoholic and mostly made from grape juice",
+        "defineVi": "một thức uống có cồn và chủ yếu được làm từ nước ép nho",
+        "hasImg": true
+    },
+    {
+        "id": "60d8237c-43b1-4fcc-b9ee-e698f6e57a24",
+        "word": "shop",
+        "phonetic": "ʃɑːp ",
+        "type": "noun",
+        "defineEn": "a building or place that sells goods or services",
+        "defineVi": "một tòa nhà hoặc địa điểm bán hàng hóa hoặc dịch vụ",
+        "hasImg": true
+    },
+    {
+        "id": "50552203-62e0-4acb-a19c-9dc08ae2317d",
+        "word": "cafe",
+        "phonetic": "kæfeɪ ",
+        "type": "noun",
+        "defineEn": "a small restaurant that sells drinks and meals",
+        "defineVi": "một nhà hàng nhỏ bán đồ uống và bữa ăn",
+        "hasImg": true
+    },
+    {
+        "id": "790ce449-e0ad-4794-ba21-d0ade34fe857",
+        "word": "newsagent",
+        "phonetic": "nuːzeɪdʒənt ",
+        "type": "noun",
+        "defineEn": "a person or a shop that sells newspapers, magazines, and other items related to reading materials, such as stationery, cards, and sometimes snacks",
+        "defineVi": "một người hoặc một cửa hàng bán báo, tạp chí và các mặt hàng khác liên quan đến tài liệu đọc, chẳng hạn như văn phòng phẩm, thẻ và đôi khi là đồ ăn nhẹ",
+        "hasImg": true
+    },
+    {
+        "id": "00a3234a-0cc5-41d7-97b1-9dfa5b89013b",
+        "word": "delicatessen",
+        "phonetic": "dɛlɪkæɾɛsən ",
+        "type": "noun",
+        "defineEn": "a shop or part of one that sells high-quality foods, such as types of cooked meat, cheese, and unusual foods that come from other countries",
+        "defineVi": "một cửa hàng hoặc một phần của cửa hàng bán thực phẩm chất lượng cao, chẳng hạn như các loại thịt nấu chín, pho mát và các loại thực phẩm khác thường đến từ các quốc gia khác",
+        "hasImg": true
+    },
+    {
+        "id": "fdbbfb0d-bd98-4ffa-87a3-f7292b9ddb2c",
+        "word": "off-licence",
+        "phonetic": "ɔflaɪsəns ",
+        "type": "noun",
+        "defineEn": "a shop selling alcoholic drinks to be taken away and consumed elsewhere",
+        "defineVi": "một cửa hàng bán đồ uống có cồn để mang đi tiêu thụ ở nơi khác",
+        "hasImg": true
+    },
+    {
+        "id": "c4ea7f8f-e284-41dd-a425-290371643489",
+        "word": "chemist\\'s",
+        "phonetic": "kɛmɪst bækslæʃ ɛs ",
+        "type": "noun",
+        "defineEn": "a place where one can buy medicines, cosmetic products, and toiletries",
+        "defineVi": "một nơi mà người ta có thể mua thuốc, mỹ phẩm và đồ vệ sinh cá nhân",
+        "hasImg": true
+    }
+]

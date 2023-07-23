@@ -1,0 +1,432 @@
+[
+    {
+        "id": "32bc313b-6fe6-42fc-a179-5e944db46076",
+        "word": "dental surgeon",
+        "phonetic": "dɛntəl sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a dentist who is capable of performing surgical operations",
+        "defineVi": "một nha sĩ có khả năng thực hiện các hoạt động phẫu thuật",
+        "hasImg": true
+    },
+    {
+        "id": "9dd87935-0b47-49be-896f-667365a7f8ae",
+        "word": "dentist",
+        "phonetic": "dɛntɪst ",
+        "type": "noun",
+        "defineEn": "someone who is licensed to fix and care for our teeth",
+        "defineVi": "một người được cấp phép để sửa chữa và chăm sóc răng của chúng tôi",
+        "hasImg": true
+    },
+    {
+        "id": "d8375e0b-7fc6-42c2-8179-b18d22aa8c3d",
+        "word": "dermatologist",
+        "phonetic": "dɜːmɐtɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a medical practitioner who specializes in treating the skin, nails, and hair",
+        "defineVi": "một bác sĩ chuyên điều trị da, móng tay và tóc"
+    },
+    {
+        "id": "8682f3f8-bee1-41ce-9331-fc44a088cfc5",
+        "word": "dietician",
+        "phonetic": "daɪətɪʃən ",
+        "type": "noun",
+        "defineEn": "someone who is an expert in the field of diet and nutrition",
+        "defineVi": "một người là một chuyên gia trong lĩnh vực ăn kiêng và dinh dưỡng",
+        "hasImg": true
+    },
+    {
+        "id": "70303a60-4cd2-4a3c-b0d7-eac803133097",
+        "word": "druggist",
+        "phonetic": "dɹʌɡɪst ",
+        "type": "noun",
+        "defineEn": "a health professional trained to prepare and dispense drugs and medicine",
+        "defineVi": "một chuyên gia y tế được đào tạo để chuẩn bị và phân phối thuốc và thuốc",
+        "hasImg": true
+    },
+    {
+        "id": "66ff813c-b95c-4215-9e8b-00b74d09ecff",
+        "word": "family doctor",
+        "phonetic": "fæmɪli dɑːktɚ ",
+        "type": "noun",
+        "defineEn": "a general practitioner who treats patients with minor or chronic illnesses in a local community rather than at a hospital",
+        "defineVi": "một bác sĩ đa khoa điều trị bệnh nhân mắc bệnh nhẹ hoặc mãn tính trong cộng đồng địa phương thay vì tại bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "420ff8a6-2ba8-4026-8b95-aee4b14bed32",
+        "word": "anesthesiologist",
+        "phonetic": "ænɪsθiːzɪɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist who administers an anesthetic to a patient before he is treated",
+        "defineVi": "một chuyên gia quản lý gây mê cho bệnh nhân trước khi anh ta được điều trị",
+        "hasImg": true
+    },
+    {
+        "id": "2639ec3e-cfab-4310-8bdb-e9a6c9277dd9",
+        "word": "cardiologist",
+        "phonetic": "kɑːɹdɪoʊlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in cardiology; a specialist in the structure and function and disorders of the heart",
+        "defineVi": "bác sĩ chuyên khoa tim mạch; một chuyên gia về cấu trúc và chức năng và các rối loạn của tim",
+        "hasImg": true
+    },
+    {
+        "id": "1781f965-3a2b-473e-b9a4-a8fe422e93f6",
+        "word": "coroner",
+        "phonetic": "kɔːɹənɚ ",
+        "type": "noun",
+        "defineEn": "a public official who investigates by inquest any death not due to natural causes",
+        "defineVi": "một quan chức nhà nước điều tra bằng cách điều tra bất kỳ cái chết nào không phải do nguyên nhân tự nhiên"
+    },
+    {
+        "id": "b308eb0d-3e0a-4a57-8018-d3beca40cb20",
+        "word": "obstetrician",
+        "phonetic": "ɑːbstɪtɹɪʃən ",
+        "type": "noun",
+        "defineEn": "a physician specializing in obstetrics",
+        "defineVi": "một bác sĩ chuyên khoa sản",
+        "hasImg": true
+    },
+    {
+        "id": "5e40c035-c3b1-48b6-9407-98b02a6a78d6",
+        "word": "general practitioner",
+        "phonetic": "dʒɛnɚɹəl pɹæktɪʃənɚ ",
+        "type": "noun",
+        "defineEn": "a physician who is not a specialist but treats people with acute and chronic illnesses who live in a particular area",
+        "defineVi": "một bác sĩ không phải là bác sĩ chuyên khoa nhưng điều trị cho những người mắc bệnh cấp tính và mãn tính sống ở một khu vực cụ thể",
+        "hasImg": true
+    },
+    {
+        "id": "361b47b8-746b-46d5-8ee2-faefd573ee0e",
+        "word": "gynecologist",
+        "phonetic": "ɡaɪnɪkɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a physician or surgeon specializing in gynecology",
+        "defineVi": "một bác sĩ hoặc bác sĩ phẫu thuật chuyên về phụ khoa",
+        "hasImg": true
+    },
+    {
+        "id": "4d236bee-1fb3-468b-9682-f0b04315849e",
+        "word": "ophthalmologist",
+        "phonetic": "ɑːfθɐlmɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a physician who specializes in the and treatment and study of diseases of the eye",
+        "defineVi": "một bác sĩ chuyên về điều trị và nghiên cứu các bệnh về mắt",
+        "hasImg": true
+    },
+    {
+        "id": "6cd39fa0-b9d3-4698-ae50-830e8315fad1",
+        "word": "orthopedist",
+        "phonetic": "ɔːɹθoʊpdɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in correcting deformities of the skeletal system (especially in children)",
+        "defineVi": "một chuyên gia sửa chữa các dị tật của hệ thống xương (đặc biệt là ở trẻ em)"
+    },
+    {
+        "id": "3210b8e5-0dcb-4195-b2c0-90c456cd1dc4",
+        "word": "osteopath",
+        "phonetic": "ɑːstɪɑːpæθ ",
+        "type": "noun",
+        "defineEn": "a licensed physician who speializes in treating injuries to bones and muscles",
+        "defineVi": "một bác sĩ được cấp phép chuyên điều trị chấn thương xương và cơ"
+    },
+    {
+        "id": "9528a20b-0e7c-4862-97bd-85026d4ccf1e",
+        "word": "pediatrician",
+        "phonetic": "piːdɪɐtɹɪʃən ",
+        "type": "noun",
+        "defineEn": "a doctor who specializes in the treatment of children",
+        "defineVi": "một bác sĩ chuyên điều trị cho trẻ em",
+        "hasImg": true
+    },
+    {
+        "id": "617ba528-0da8-4e86-8d18-0c711aeaeead",
+        "word": "physician",
+        "phonetic": "fɪzɪʃən ",
+        "type": "noun",
+        "defineEn": "a medical doctor who specializes in general medicine, not in surgery",
+        "defineVi": "một bác sĩ y khoa chuyên về y học nói chung, không phải trong phẫu thuật",
+        "hasImg": true
+    },
+    {
+        "id": "5cb9f5d4-0971-48f5-b04d-2f97a3faf4e7",
+        "word": "resident",
+        "phonetic": "ɹɛzᵻdənt ",
+        "type": "noun",
+        "defineEn": "a physician or an intern who lives in a hospital and cares for the sick or infirm under the supervision of the medical staff",
+        "defineVi": "bác sĩ hoặc bác sĩ thực tập sống trong bệnh viện và chăm sóc người bệnh hoặc ốm yếu dưới sự giám sát của nhân viên y tế"
+    },
+    {
+        "id": "a23f94c0-1de8-4532-bfe5-7a6bdd9f9acf",
+        "word": "surgeon",
+        "phonetic": "sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a doctor who performs medical operation",
+        "defineVi": "một bác sĩ thực hiện phẫu thuật y tế",
+        "hasImg": true
+    },
+    {
+        "id": "9de278fd-478b-4698-8653-6a08d161bab3",
+        "word": "pharmacist",
+        "phonetic": "fɑːɹmɐsɪst ",
+        "type": "noun",
+        "defineEn": "someone whose job is to prepare and sell drugs, and who works in a shop",
+        "defineVi": "một người có công việc chuẩn bị và bán ma túy, và những người làm việc trong một cửa hàng",
+        "hasImg": true
+    },
+    {
+        "id": "54bd6cd7-045c-47e0-8025-87a7c8b62b6f",
+        "word": "medical officer",
+        "phonetic": "mɛdɪkəl ɑːfɪsɚ ",
+        "type": "noun",
+        "defineEn": "a medical practitioner in the armed forces",
+        "defineVi": "một học viên y tế trong lực lượng vũ trang"
+    },
+    {
+        "id": "207b1011-60a1-4847-b3d3-a7fe2087c74d",
+        "word": "immunologist",
+        "phonetic": "ɪmjuːnɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a medical scientist who specializes in immunology",
+        "defineVi": "một nhà khoa học y tế chuyên về miễn dịch học"
+    },
+    {
+        "id": "3f631e36-8820-4fd2-8b99-154dff7cde78",
+        "word": "endocrinologist",
+        "phonetic": "ɛndoʊkɹɪnɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "physician who specializes in the diagnosis and treatment of conditions affecting the endocrine system",
+        "defineVi": "bác sĩ chuyên chẩn đoán và điều trị các tình trạng ảnh hưởng đến hệ thống nội tiết"
+    },
+    {
+        "id": "49be9191-2a7a-4ff9-8f3d-a97c10c35e89",
+        "word": "hospitalist",
+        "phonetic": "hɑːspɪɾəlɪst ",
+        "type": "noun",
+        "defineEn": "a licensed physician who provides care for patients in a hospital",
+        "defineVi": "một bác sĩ được cấp phép chăm sóc bệnh nhân trong bệnh viện",
+        "hasImg": true
+    },
+    {
+        "id": "70549fc2-8398-4209-bc7a-7996a35ead5b",
+        "word": "intern",
+        "phonetic": "ɪntɜːn ",
+        "type": "noun",
+        "defineEn": "an advanced student or graduate, usually in a medical field, who is being given practical training under supervision",
+        "defineVi": "một sinh viên cao cấp hoặc sinh viên tốt nghiệp, thường là trong lĩnh vực y tế, người đang được đào tạo thực hành dưới sự giám sát"
+    },
+    {
+        "id": "0c642714-6cea-462f-a9cd-7981b4b3987d",
+        "word": "locum",
+        "phonetic": "loʊkəm ",
+        "type": "noun",
+        "defineEn": "a person, particularly a physician or clergyman, who fulfills the duties of another member of the same profession",
+        "defineVi": "một người, đặc biệt là bác sĩ hoặc giáo sĩ, người hoàn thành nhiệm vụ của một thành viên khác cùng nghề"
+    },
+    {
+        "id": "64bfe547-f6ba-469c-b9cb-f49e917c1b7b",
+        "word": "medic",
+        "phonetic": "mɛdɪk ",
+        "type": "noun",
+        "defineEn": "a medical practitioner responsible for providing emergency medical treatment in both combat and humanitarian situations",
+        "defineVi": "một bác sĩ y tế chịu trách nhiệm cung cấp điều trị y tế khẩn cấp trong cả tình huống chiến đấu và nhân đạo"
+    },
+    {
+        "id": "0e21e6fd-a9e6-40da-9bc1-3e0b56ecdccb",
+        "word": "neurologist",
+        "phonetic": "nʊɹɹɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a trained physician who specializes in treating diseases of the nervous system",
+        "defineVi": "một bác sĩ được đào tạo chuyên điều trị các bệnh về hệ thần kinh"
+    },
+    {
+        "id": "a5f67d9e-d5c5-477b-9c76-b534f6864dbe",
+        "word": "neurosurgeon",
+        "phonetic": "nʊɹɹəsɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a physician who specializes in performing surgical operations involving the nervous system, particularly the spinal cord and the brain",
+        "defineVi": "một bác sĩ chuyên thực hiện các ca phẫu thuật liên quan đến hệ thần kinh, đặc biệt là tủy sống và não"
+    },
+    {
+        "id": "b7ecdf2f-efc6-4444-b5de-809dcce9de97",
+        "word": "gerontologist",
+        "phonetic": "dʒɛɹɔntɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in gerontology",
+        "defineVi": "một chuyên gia về lão khoa"
+    },
+    {
+        "id": "eb8beeda-aea9-4c95-bb1c-d210f213b85a",
+        "word": "hematologist",
+        "phonetic": "hɛmɐtɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who specializes in diseases of the blood and blood-forming organs",
+        "defineVi": "một bác sĩ chuyên về các bệnh về máu và các cơ quan tạo máu"
+    },
+    {
+        "id": "167c2532-202c-42ef-bcab-8e53b0d09d91",
+        "word": "gastroenterologist",
+        "phonetic": "ɡæstɹoʊɛntɚɹɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a physician who specializes in diseases of the gastrointestinal tract",
+        "defineVi": "một bác sĩ chuyên về các bệnh về đường tiêu hóa"
+    },
+    {
+        "id": "2b736820-5d4d-46ca-9fbe-e190dfb2a92f",
+        "word": "nephrologist",
+        "phonetic": "nɛfɹɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a medical specialist who deals with diseases and conditions of the kidneys, including kidney diseases, kidney failure, transplantation, and other kidney-related disorders",
+        "defineVi": "một chuyên gia y tế giải quyết các bệnh và tình trạng của thận, bao gồm các bệnh về thận, suy thận, cấy ghép và các rối loạn khác liên quan đến thận"
+    },
+    {
+        "id": "c1e2936f-8cbb-4591-9484-2ca10c0cb559",
+        "word": "urologist",
+        "phonetic": "jʊɹɹɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in urology",
+        "defineVi": "một chuyên gia về tiết niệu"
+    },
+    {
+        "id": "ad11f067-63ef-437e-b5c5-eafdc1223505",
+        "word": "rheumatologist",
+        "phonetic": "ɹuːmɐtɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a physician specializing in rheumatic diseases",
+        "defineVi": "một bác sĩ chuyên về bệnh thấp khớp"
+    },
+    {
+        "id": "962e1594-022e-4ee1-976a-1c5abc7a1a8e",
+        "word": "radiologist",
+        "phonetic": "ɹeɪdɪɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a medical specialist who specializes in diagnosing and treating injuries using radioactive substances and X-rays",
+        "defineVi": "một chuyên gia y tế chuyên chẩn đoán và điều trị chấn thương bằng chất phóng xạ và tia X",
+        "hasImg": true
+    },
+    {
+        "id": "46fc82b7-3df7-4ee0-b51d-20203f306ca7",
+        "word": "pulmonologist",
+        "phonetic": "pʌlmənɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a medical specialist who treats respiratory diseases and conditions, such as asthma, COPD, pneumonia, and lung cancer",
+        "defineVi": "một chuyên gia y tế điều trị các bệnh và tình trạng về đường hô hấp, chẳng hạn như hen suyễn, COPD, viêm phổi và ung thư phổi"
+    },
+    {
+        "id": "c1cb7a5b-8d2a-4491-9b6e-f34eedd60933",
+        "word": "psychiatrist",
+        "phonetic": "saɪkaɪətɹɪst ",
+        "type": "noun",
+        "defineEn": "a medical doctor who specializes in the treatment of mental illnesses or behavioral disorders",
+        "defineVi": "một bác sĩ y khoa chuyên điều trị các bệnh tâm thần hoặc rối loạn hành vi",
+        "hasImg": true
+    },
+    {
+        "id": "b4fc61cb-271b-4e77-9c8e-24ac5a32aa00",
+        "word": "physiatrist",
+        "phonetic": "fɪzɪætɹɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who specializes in helping patients with physical and functional impairments related to muscles, nerves, and other conditions",
+        "defineVi": "một bác sĩ chuyên giúp đỡ những bệnh nhân bị suy yếu về thể chất và chức năng liên quan đến cơ bắp, dây thần kinh và các tình trạng khác"
+    },
+    {
+        "id": "7558e961-00b8-422a-a6ac-41e2bb4f799d",
+        "word": "podiatrist",
+        "phonetic": "poʊdɪætɹɪst ",
+        "type": "noun",
+        "defineEn": "a physician who specializes in treating the feet and their ailments",
+        "defineVi": "một bác sĩ chuyên điều trị bàn chân và các bệnh của họ"
+    },
+    {
+        "id": "1a417f29-eb37-4fd9-99c8-7e587e36934e",
+        "word": "otolaryngologist",
+        "phonetic": "ɑːɾoʊlɑːɹɹɪŋɡɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in the disorders of the ear or nose or throat",
+        "defineVi": "một chuyên gia về rối loạn tai hoặc mũi hoặc họng",
+        "hasImg": true
+    },
+    {
+        "id": "aac6d938-d903-4231-a137-b131fb55b7ea",
+        "word": "oncologist",
+        "phonetic": "ɑːŋkɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a specialist in oncology",
+        "defineVi": "một chuyên gia về ung thư"
+    },
+    {
+        "id": "242f29e0-dc4f-4255-ba43-e2ea5b642a21",
+        "word": "proctologist",
+        "phonetic": "pɹɑːktɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a doctor specializing in diseases of the rectum and anus",
+        "defineVi": "một bác sĩ chuyên về các bệnh về trực tràng và hậu môn"
+    },
+    {
+        "id": "d002390d-5657-44da-bdd0-83173cc6f2f1",
+        "word": "plastic surgeon",
+        "phonetic": "plæstɪk sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a doctor who performs medical operations to repair body parts or make them look more attractive",
+        "defineVi": "một bác sĩ thực hiện các hoạt động y tế để sửa chữa các bộ phận cơ thể hoặc làm cho chúng trông hấp dẫn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "b5136ee7-1d50-4400-94ca-7a1c0c88b235",
+        "word": "pathologist",
+        "phonetic": "pæθɑːlədʒɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who specializes in medical diagnosis",
+        "defineVi": "một bác sĩ chuyên về chẩn đoán y tế"
+    },
+    {
+        "id": "feac1cbb-502a-424e-a150-4aeb33d097a5",
+        "word": "oral surgeon",
+        "phonetic": "oːɹəl sɜːdʒən ",
+        "type": "noun",
+        "defineEn": "a dental specialist who performs surgical procedures in the mouth, jaw, face, and neck, such as extractions, implants, and jaw surgeries",
+        "defineVi": "một chuyên gia nha khoa thực hiện các thủ thuật phẫu thuật ở miệng, hàm, mặt và cổ, chẳng hạn như nhổ răng, cấy ghép và phẫu thuật hàm"
+    },
+    {
+        "id": "c0cb3b3e-fbae-47f5-934f-3f00474b81ce",
+        "word": "orthodontist",
+        "phonetic": "ɔːɹθədɔntɪst ",
+        "type": "noun",
+        "defineEn": "a dentist who specializes in the correction, etc. of teeth position",
+        "defineVi": "một nha sĩ chuyên chỉnh sửa, v.v. về vị trí của răng",
+        "hasImg": true
+    },
+    {
+        "id": "d3958d3a-666b-4229-bbe7-974d8fe9f6ab",
+        "word": "PCP",
+        "phonetic": "piːsiːpiː ",
+        "type": "noun",
+        "defineEn": "a physician who treats people who have common medical problems",
+        "defineVi": "một bác sĩ điều trị cho những người có vấn đề y tế thông thường"
+    },
+    {
+        "id": "0d957162-5a16-41ed-9585-8027a7fdc394",
+        "word": "practitioner",
+        "phonetic": "pɹæktɪʃənɚ ",
+        "type": "noun",
+        "defineEn": "someone who is involved in a profession, particularly medicine",
+        "defineVi": "một người có liên quan đến một nghề nghiệp, đặc biệt là y học"
+    },
+    {
+        "id": "5c585162-6a05-40d9-a6c4-68ad530ee6ac",
+        "word": "specialist",
+        "phonetic": "spɛʃəlɪst ",
+        "type": "noun",
+        "defineEn": "a doctor who is highly trained in a particular area of medicine",
+        "defineVi": "một bác sĩ được đào tạo chuyên sâu trong một lĩnh vực cụ thể của y học",
+        "hasImg": true
+    },
+    {
+        "id": "11fdb5da-dfa8-4ec3-9367-1d366b11308e",
+        "word": "residency",
+        "phonetic": "ɹɛzᵻdənsi ",
+        "type": "noun",
+        "defineEn": "the position of physician who is receiving special training in a hospital (usually after completing an internship)",
+        "defineVi": "vị trí của bác sĩ đang được đào tạo đặc biệt trong bệnh viện (thường là sau khi hoàn thành thực tập)"
+    }
+]

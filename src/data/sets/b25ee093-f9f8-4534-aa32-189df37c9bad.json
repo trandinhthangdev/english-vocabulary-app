@@ -1,0 +1,442 @@
+[
+    {
+        "id": "85cb08bb-7761-4c36-b598-805f99d063be",
+        "word": "dialect",
+        "phonetic": "daɪəlɛkt ",
+        "type": "noun",
+        "defineEn": "the spoken form of a language specific to a certain region or people which is slightly different from the standard form in words and grammar",
+        "defineVi": "dạng nói của một ngôn ngữ dành riêng cho một vùng hoặc một số người nhất định hơi khác so với dạng tiêu chuẩn về từ ngữ và ngữ pháp"
+    },
+    {
+        "id": "2f8d33b6-6887-4dfa-bebe-15eced1d51dc",
+        "word": "accent",
+        "phonetic": "æksənt ",
+        "type": "noun",
+        "defineEn": "a manner of speaking that indicates social class, nationality, or locality of the speaker",
+        "defineVi": "một cách nói cho biết tầng lớp xã hội, quốc tịch hoặc địa phương của người nói"
+    },
+    {
+        "id": "5c3a55a7-3ff2-4a14-aabf-adbe0770d03a",
+        "word": "vernacular",
+        "phonetic": "vɜːnækjʊlɚ ",
+        "type": "noun",
+        "defineEn": "the everyday language spoken by a particular group of people in a specific region or community",
+        "defineVi": "ngôn ngữ hàng ngày được nói bởi một nhóm người cụ thể trong một khu vực hoặc cộng đồng cụ thể"
+    },
+    {
+        "id": "ef164366-0cd0-4a9f-ac74-7d95d6a4ab1d",
+        "word": "standard language",
+        "phonetic": "stændɚd læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a regulated and accepted form of a language that is widely used in formal settings, education, government, and media",
+        "defineVi": "một dạng ngôn ngữ được quy định và chấp nhận được sử dụng rộng rãi trong các môi trường chính thức, giáo dục, chính phủ và phương tiện truyền thông"
+    },
+    {
+        "id": "0ed64ed9-11ac-4f7a-b0f3-ae70f346a2b3",
+        "word": "register",
+        "phonetic": "ɹɛdʒɪstɚ ",
+        "type": "noun",
+        "defineEn": "(linguistics) a variety of language that is used in a particular social context, based on the communicative purpose and social status of the user",
+        "defineVi": "(ngôn ngữ học) nhiều loại ngôn ngữ được sử dụng trong một bối cảnh xã hội cụ thể, dựa trên mục đích giao tiếp và địa vị xã hội của người dùng"
+    },
+    {
+        "id": "ec807a82-0ad5-474f-88bf-c942f2633629",
+        "word": "jargon",
+        "phonetic": "dʒɑːɹɡən ",
+        "type": "noun",
+        "defineEn": "words, phrases, and expressions used by a specific group or profession, which are incomprehensible to others",
+        "defineVi": "các từ, cụm từ và cách diễn đạt được sử dụng bởi một nhóm hoặc nghề nghiệp cụ thể mà người khác không thể hiểu được"
+    },
+    {
+        "id": "e9874932-3c3d-4c4f-ab3e-b174b7f07139",
+        "word": "idolect",
+        "phonetic": "aɪdəlɛkt ",
+        "type": "noun",
+        "defineEn": "the unique language variety or style of an individual speaker",
+        "defineVi": "sự đa dạng hoặc phong cách ngôn ngữ độc đáo của một người nói"
+    },
+    {
+        "id": "cc30f8be-8674-4677-8339-d0590eaece71",
+        "word": "free variation",
+        "phonetic": "fɹiː vɛɹɪeɪʃən ",
+        "type": "noun",
+        "defineEn": "the phenomenon in which multiple forms or variants of a linguistic element, such as a phoneme, morpheme, or word, can be used interchangeably without affecting the meaning or grammaticality of a sentence",
+        "defineVi": "hiện tượng trong đó nhiều hình thức hoặc biến thể của một yếu tố ngôn ngữ, chẳng hạn như âm vị, hình thái hoặc từ, có thể được sử dụng thay thế cho nhau mà không ảnh hưởng đến ý nghĩa hoặc tính ngữ pháp của câu"
+    },
+    {
+        "id": "c73970ac-1985-4b2d-8241-5ae0ec9899bd",
+        "word": "regional dialect",
+        "phonetic": "ɹiːdʒənəl daɪəlɛkt ",
+        "type": "noun",
+        "defineEn": "a variety of a language that is spoken in a specific geographical region",
+        "defineVi": "một loạt các ngôn ngữ được nói trong một khu vực địa lý cụ thể"
+    },
+    {
+        "id": "55076784-1c4f-48ad-b747-583842025ad4",
+        "word": "social dialect",
+        "phonetic": "soʊʃəl daɪəlɛkt ",
+        "type": "noun",
+        "defineEn": "a variation of a language associated with a specific social group or class, characterized by distinct linguistic features influenced by social factors",
+        "defineVi": "một biến thể của ngôn ngữ gắn liền với một nhóm hoặc tầng lớp xã hội cụ thể, được đặc trưng bởi các đặc điểm ngôn ngữ riêng biệt bị ảnh hưởng bởi các yếu tố xã hội"
+    },
+    {
+        "id": "0d0b4472-ca5d-4f34-b971-36f8e8297c7a",
+        "word": "native language",
+        "phonetic": "neɪɾɪv læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "the first language or mother tongue that a person acquires naturally from birth or early childhood and is typically the language they are most proficient in",
+        "defineVi": "ngôn ngữ đầu tiên hoặc tiếng mẹ đẻ mà một người có được một cách tự nhiên từ khi sinh ra hoặc thời thơ ấu và thường là ngôn ngữ mà họ thông thạo nhất"
+    },
+    {
+        "id": "652779eb-fdb8-4de7-a237-6e8b71821a82",
+        "word": "prestige",
+        "phonetic": "pɹɛstiːʒ ",
+        "type": "noun",
+        "defineEn": "the social value and perceived status associated with a particular language, dialect, or speech variety",
+        "defineVi": "giá trị xã hội và tình trạng nhận thức liên quan đến một ngôn ngữ cụ thể, phương ngữ, hoặc lời nói đa dạng"
+    },
+    {
+        "id": "90fcde30-c39c-4d33-96af-14519602dbd8",
+        "word": "received pronunciation",
+        "phonetic": "ɹᵻsiːvd pɹənʌnsɪeɪʃən ",
+        "type": "noun",
+        "defineEn": "a prestigious and historically influential accent and pronunciation variant of Standard British English, commonly associated with educated speakers in the United Kingdom",
+        "defineVi": "một biến thể phát âm và trọng âm uy tín và có ảnh hưởng lịch sử của tiếng Anh Anh chuẩn, thường được kết hợp với những người nói có học thức ở Vương quốc Anh"
+    },
+    {
+        "id": "0503aa1c-5f48-46e3-8445-51a2ac134961",
+        "word": "speech community",
+        "phonetic": "spiːtʃ kəmjuːnᵻɾi ",
+        "type": "noun",
+        "defineEn": "a group of people who share a common language or variety of a language and interact with one another using that language or variety",
+        "defineVi": "một nhóm người chia sẻ một ngôn ngữ chung hoặc nhiều loại ngôn ngữ và tương tác với nhau bằng ngôn ngữ hoặc nhiều loại đó"
+    },
+    {
+        "id": "efdb8c37-611d-434a-bd02-f29918feddb2",
+        "word": "mutual intelligibility",
+        "phonetic": "mjuːtʃuːəl ɪntɛlɪdʒəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "the ability of speakers of different but related languages or dialects to understand each other to a certain degree due to similarities in their linguistic structures and vocabulary",
+        "defineVi": "khả năng của những người nói các ngôn ngữ hoặc phương ngữ khác nhau nhưng có liên quan để hiểu nhau ở một mức độ nhất định do sự tương đồng trong cấu trúc ngôn ngữ và từ vựng của họ"
+    },
+    {
+        "id": "c382aac6-010e-4ef8-8b18-4985c84231f9",
+        "word": "isoglass",
+        "phonetic": "aɪsəɡlæs ",
+        "type": "noun",
+        "defineEn": "a geographic boundary that marks the linguistic feature or variation in pronunciation, vocabulary, or grammar between different dialects or language varieties",
+        "defineVi": "một ranh giới địa lý đánh dấu đặc điểm ngôn ngữ hoặc biến thể trong cách phát âm, từ vựng hoặc ngữ pháp giữa các phương ngữ hoặc loại ngôn ngữ khác nhau"
+    },
+    {
+        "id": "7822e48b-0b58-4942-bc18-f8014fc3c2de",
+        "word": "diglossia",
+        "phonetic": "dɪɡlɔsiə ",
+        "type": "noun",
+        "defineEn": "a sociolinguistic situation where two distinct varieties or registers of a language are used in different social contexts or for different purposes, typically one being a high-prestige, formal variety and the other a low-prestige, informal variety",
+        "defineVi": "một tình huống ngôn ngữ xã hội trong đó hai biến thể hoặc sổ đăng ký riêng biệt của một ngôn ngữ được sử dụng trong các bối cảnh xã hội khác nhau hoặc cho các mục đích khác nhau, điển hình là một biến thể chính thức, có uy tín cao và biến thể kia là biến thể không chính thức, có uy tín thấp"
+    },
+    {
+        "id": "b85ceebb-e5b9-48db-8b60-cc731d75d11a",
+        "word": "dialect levelling",
+        "phonetic": "daɪəlɛkt lɛvəlɪŋ ",
+        "type": "noun",
+        "defineEn": "the process of reducing linguistic differences between dialects, resulting in a more standardized variety of a language",
+        "defineVi": "quá trình giảm bớt sự khác biệt về ngôn ngữ giữa các phương ngữ, dẫn đến một ngôn ngữ đa dạng được tiêu chuẩn hóa hơn"
+    },
+    {
+        "id": "bc6182fd-7e4b-48f5-b7ec-ffb43936a54e",
+        "word": "dialect cluster",
+        "phonetic": "daɪəlɛkt klʌstɚ ",
+        "type": "noun",
+        "defineEn": "a group of closely related dialects that share significant linguistic similarities, often found in a specific geographical or cultural region",
+        "defineVi": "một nhóm các phương ngữ liên quan chặt chẽ có chung những điểm tương đồng đáng kể về ngôn ngữ, thường được tìm thấy ở một khu vực địa lý hoặc văn hóa cụ thể"
+    },
+    {
+        "id": "67a0bb0d-366e-4906-99cf-646115b13959",
+        "word": "lingua franca",
+        "phonetic": "lɪŋɡjuːə fɹæŋkə ",
+        "type": "noun",
+        "defineEn": "a language or a simplified communication system that is used as a common means of communication between speakers of different native languages",
+        "defineVi": "một ngôn ngữ hoặc một hệ thống giao tiếp đơn giản hóa được sử dụng như một phương tiện giao tiếp phổ biến giữa những người nói các ngôn ngữ bản địa khác nhau"
+    },
+    {
+        "id": "afa2cfde-1d7a-498c-8ebc-2210950ae926",
+        "word": "diasystem",
+        "phonetic": "daɪəsɪstəm ",
+        "type": "noun",
+        "defineEn": "a set of interconnected or related language varieties, including dialects, registers, and other linguistic variants, that are used by a particular speech community or within a specific linguistic context",
+        "defineVi": "một tập hợp các biến thể ngôn ngữ có liên quan hoặc liên kết với nhau, bao gồm các phương ngữ, thanh ghi và các biến thể ngôn ngữ khác, được sử dụng bởi một cộng đồng ngôn ngữ cụ thể hoặc trong một ngữ cảnh ngôn ngữ cụ thể"
+    },
+    {
+        "id": "cb5e8245-dc08-46b1-8a3b-254dfc5816c9",
+        "word": "dialect continuum",
+        "phonetic": "daɪəlɛkt kəntɪnjuːəm ",
+        "type": "noun",
+        "defineEn": "a range of dialects that are mutually intelligible to some degree, where each adjacent dialect shares similarities and gradually transitions into the next one",
+        "defineVi": "một loạt các phương ngữ có thể hiểu lẫn nhau ở một mức độ nào đó, trong đó mỗi phương ngữ liền kề chia sẻ những điểm tương đồng và dần dần chuyển sang phương ngữ tiếp theo"
+    },
+    {
+        "id": "52f5ba93-209c-4898-8709-a51a90c34a4b",
+        "word": "pidgin",
+        "phonetic": "pɪdʒɪn ",
+        "type": "noun",
+        "defineEn": "a simplified language made up of two or more languages used as a means of communication among people who do not share a common language but need to talk, for example for trading",
+        "defineVi": "một ngôn ngữ đơn giản được tạo thành từ hai hoặc nhiều ngôn ngữ được sử dụng làm phương tiện giao tiếp giữa những người không chia sẻ ngôn ngữ chung nhưng cần nói chuyện, ví dụ như để giao dịch"
+    },
+    {
+        "id": "c2161858-54b3-454a-b1a7-2572236a6df1",
+        "word": "pidginization",
+        "phonetic": "pɪdʒɪnᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the process in which a simplified form of language, known as a pidgin, emerges as a means of communication between groups of people who do not share a common language",
+        "defineVi": "quá trình trong đó một hình thức đơn giản hóa của ngôn ngữ, được gọi là pidgin, xuất hiện như một phương tiện giao tiếp giữa các nhóm người không chia sẻ một ngôn ngữ chung"
+    },
+    {
+        "id": "828695b8-83c2-48b4-8000-9fcb209ceab0",
+        "word": "zonal auxiliary language",
+        "phonetic": "zoʊnəl ɔːksɪliəɹi læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a constructed language designed to serve as a communication tool within a specific geographic region or zone",
+        "defineVi": "một ngôn ngữ được xây dựng được thiết kế để phục vụ như một công cụ giao tiếp trong một khu vực hoặc khu vực địa lý cụ thể"
+    },
+    {
+        "id": "1ba1fef4-35b0-4e31-a440-8f6b4f8aac19",
+        "word": "creole",
+        "phonetic": "kɹɪoʊl ",
+        "type": "noun",
+        "defineEn": "a language that has been evolved from a mixture of a European and a local language, spoken as a mother tongue",
+        "defineVi": "một ngôn ngữ đã được phát triển từ sự pha trộn giữa ngôn ngữ châu Âu và ngôn ngữ địa phương, được nói như tiếng mẹ đẻ"
+    },
+    {
+        "id": "108c16ac-f60a-4cd4-b795-4bf019844c2e",
+        "word": "creolization",
+        "phonetic": "kɹɪɑːlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the process through which a new language, known as a creole, emerges as a result of contact between different languages, typically in situations of colonization, slavery, or migration",
+        "defineVi": "quá trình mà một ngôn ngữ mới, được gọi là creole, xuất hiện do sự tiếp xúc giữa các ngôn ngữ khác nhau, thường là trong các tình huống thuộc địa, nô lệ hoặc di cư"
+    },
+    {
+        "id": "6175d561-e7d0-47f1-8904-a95db2e841a1",
+        "word": "decreolization",
+        "phonetic": "dᵻkɹɪɑːlᵻzeɪʃən ",
+        "type": "noun",
+        "defineEn": "the process whereby a creole language undergoes changes that make it more similar to its lexifier language or other dominant languages in the surrounding linguistic environment",
+        "defineVi": "quá trình theo đó một ngôn ngữ creole trải qua những thay đổi khiến nó giống với ngôn ngữ từ vựng hơn hoặc các ngôn ngữ thống trị khác trong môi trường ngôn ngữ xung quanh"
+    },
+    {
+        "id": "fb050bea-e1d8-475f-b93c-5e2ff0dfcdff",
+        "word": "post-creole continuum",
+        "phonetic": "poʊstkɹɪoʊl kəntɪnjuːəm ",
+        "type": "noun",
+        "defineEn": "the spectrum of language varieties that emerge and evolve in a community following the formation of a creole language, ranging from more creole-like forms to more standard-like forms",
+        "defineVi": "phổ biến thể ngôn ngữ xuất hiện và phát triển trong một cộng đồng sau khi hình thành ngôn ngữ creole, từ các dạng giống creole hơn đến các dạng giống tiêu chuẩn hơn"
+    },
+    {
+        "id": "34d48b07-e9ef-422c-9aa9-c261d21f9e10",
+        "word": "naturalistic planned language",
+        "phonetic": "nætʃɚɹəlɪstɪk plænd læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a constructed language that aims to resemble and function like a natural language, typically developed with the goal of facilitating international communication and cultural exchange",
+        "defineVi": "một ngôn ngữ được xây dựng nhằm mục đích giống và hoạt động như một ngôn ngữ tự nhiên, thường được phát triển với mục tiêu tạo điều kiện thuận lợi cho giao tiếp quốc tế và trao đổi văn hóa"
+    },
+    {
+        "id": "29c56387-7c70-41aa-8723-41055b08e923",
+        "word": "language secessionism",
+        "phonetic": "læŋɡwɪdʒ sɛsɛʃənɪzəm ",
+        "type": "noun",
+        "defineEn": "the movement or desire for a particular linguistic group to secede or break away from a larger language or linguistic community to establish their own independent language or dialect",
+        "defineVi": "phong trào hoặc mong muốn một nhóm ngôn ngữ cụ thể ly khai hoặc tách khỏi một ngôn ngữ hoặc cộng đồng ngôn ngữ lớn hơn để thiết lập ngôn ngữ hoặc phương ngữ độc lập của riêng họ"
+    },
+    {
+        "id": "1d9ea8f8-4ae4-4ce0-a2f0-fefa0520ff75",
+        "word": "code-switching",
+        "phonetic": "koʊdswɪtʃɪŋ ",
+        "type": "noun",
+        "defineEn": "the phenomenon of switching between two or more languages or language varieties within a conversation or discourse, often influenced by social, cultural, or linguistic factors",
+        "defineVi": "hiện tượng chuyển đổi giữa hai hoặc nhiều ngôn ngữ hoặc các loại ngôn ngữ trong một cuộc trò chuyện hoặc diễn ngôn, thường bị ảnh hưởng bởi các yếu tố xã hội, văn hóa hoặc ngôn ngữ"
+    },
+    {
+        "id": "77d77a97-4c94-493a-b3c3-4fac220792a8",
+        "word": "variety",
+        "phonetic": "vɚɹaɪəɾi ",
+        "type": "noun",
+        "defineEn": "a distinct form or type of a language, such as a regional variety, social variety, or stylistic variety, which may differ in terms of pronunciation, vocabulary, grammar, and usage",
+        "defineVi": "một hình thức hoặc loại ngôn ngữ riêng biệt, chẳng hạn như đa dạng về khu vực, đa dạng về xã hội hoặc đa dạng về phong cách, có thể khác nhau về cách phát âm, từ vựng, ngữ pháp và cách sử dụng"
+    },
+    {
+        "id": "af3f5ea2-1575-431c-a292-9b97ca0bfef7",
+        "word": "lexifier",
+        "phonetic": "lɛksɪfaɪɚ ",
+        "type": "noun",
+        "defineEn": "the language that contributes the majority of vocabulary and grammatical structures to a creole or pidgin language that has developed from the contact between different languages",
+        "defineVi": "ngôn ngữ đóng góp phần lớn từ vựng và cấu trúc ngữ pháp cho ngôn ngữ creole hoặc pidgin đã phát triển từ sự tiếp xúc giữa các ngôn ngữ khác nhau"
+    },
+    {
+        "id": "fa1f8061-a836-457e-954e-46dca1eecf75",
+        "word": "style shifting",
+        "phonetic": "staɪl ʃɪftɪŋ ",
+        "type": "noun",
+        "defineEn": "the phenomenon of changing one's language or speech style based on different social contexts, audiences, or situations, often involving the use of different registers, dialects, or levels of formality",
+        "defineVi": "hiện tượng thay đổi ngôn ngữ hoặc phong cách nói của một người dựa trên các bối cảnh xã hội, khán giả hoặc tình huống khác nhau, thường liên quan đến việc sử dụng các thanh ghi, phương ngữ hoặc mức độ trang trọng khác nhau"
+    },
+    {
+        "id": "0d21f846-9314-48c7-925f-1fbd4289846c",
+        "word": "covert prestige",
+        "phonetic": "koʊvɜːt pɹɛstiːʒ ",
+        "type": "noun",
+        "defineEn": "the social value or status attached to non-standard or stigmatized forms of language, often within specific subcultures or communities, despite their lack of recognition or validation in broader society",
+        "defineVi": "giá trị hoặc địa vị xã hội gắn liền với các dạng ngôn ngữ không chuẩn hoặc bị kỳ thị, thường là trong các nhóm văn hóa hoặc cộng đồng cụ thể, mặc dù chúng không được công nhận hoặc xác nhận trong xã hội rộng lớn hơn"
+    },
+    {
+        "id": "aa049e32-11ef-476c-9ab1-f0031a3addd9",
+        "word": "indigenous language",
+        "phonetic": "ɪndɪdʒənəs læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "a language that is native to a particular region or territory and has been traditionally spoken by the indigenous or native population of that area",
+        "defineVi": "một ngôn ngữ có nguồn gốc từ một khu vực hoặc lãnh thổ cụ thể và được sử dụng theo truyền thống bởi người dân bản địa hoặc bản địa của khu vực đó"
+    },
+    {
+        "id": "f8cf8bf1-1d7e-4e9b-a5d7-288e1c07b66a",
+        "word": "slang",
+        "phonetic": "slæŋ ",
+        "type": "noun",
+        "defineEn": "words or expressions that are very informal and more common in spoken form, used especially by a particular group of people, such as criminals, children, etc.",
+        "defineVi": "những từ hoặc cách diễn đạt rất trang trọng và phổ biến hơn ở dạng nói, được sử dụng đặc biệt bởi một nhóm người cụ thể, chẳng hạn như tội phạm, trẻ em, v.v."
+    },
+    {
+        "id": "d96f24a3-932e-4c0f-837e-4d159860fc01",
+        "word": "taboo language",
+        "phonetic": "tæbuː læŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "words, expressions, or topics that are considered socially or culturally inappropriate or offensive and are typically avoided or restricted in polite conversation",
+        "defineVi": "các từ, cách diễn đạt hoặc chủ đề được coi là không phù hợp hoặc gây khó chịu về mặt xã hội hoặc văn hóa và thường bị tránh hoặc hạn chế trong cuộc trò chuyện lịch sự"
+    },
+    {
+        "id": "1fd4cc63-b927-42ff-b7d7-59417e482945",
+        "word": "British English",
+        "phonetic": "bɹɪɾɪʃ ɪŋɡlɪʃ ",
+        "type": "noun",
+        "defineEn": "the English language as used in the United Kingdom",
+        "defineVi": "ngôn ngữ tiếng Anh như được sử dụng ở Vương quốc Anh"
+    },
+    {
+        "id": "dada0358-1442-4f86-834c-6e9e1639eba8",
+        "word": "American English",
+        "phonetic": "ɐmɛɹɪkən ɪŋɡlɪʃ ",
+        "type": "noun",
+        "defineEn": "the variety of English language used primarily in the United States, characterized by its distinct pronunciation, vocabulary, and grammar conventions",
+        "defineVi": "sự đa dạng của ngôn ngữ tiếng Anh được sử dụng chủ yếu ở Hoa Kỳ, được đặc trưng bởi các quy ước phát âm, từ vựng và ngữ pháp riêng biệt"
+    },
+    {
+        "id": "d4888441-02d2-439f-92db-b9aad0be40eb",
+        "word": "ebonics",
+        "phonetic": "ɛbɑːnɪks ",
+        "type": "noun",
+        "defineEn": "a variety of English spoken predominantly by African Americans in the United States",
+        "defineVi": "nhiều loại tiếng Anh được nói chủ yếu bởi người Mỹ gốc Phi ở Hoa Kỳ"
+    },
+    {
+        "id": "3d6196cc-47d6-44e8-bcbd-445e68e48cbb",
+        "word": "bidialectal",
+        "phonetic": "baɪdɪeɪlktəl ",
+        "type": "noun",
+        "defineEn": "an individual who is proficient in and able to switch between two distinct dialects or varieties of a language, typically based on regional or social factors",
+        "defineVi": "một cá nhân thành thạo và có thể chuyển đổi giữa hai phương ngữ hoặc nhiều loại ngôn ngữ riêng biệt, thường dựa trên các yếu tố khu vực hoặc xã hội"
+    },
+    {
+        "id": "c4d90288-f459-4b49-abaf-7bd08520a521",
+        "word": "hypercorrection",
+        "phonetic": "haɪpɚkɚɹɛkʃən ",
+        "type": "noun",
+        "defineEn": "a linguistic phenomenon where speakers or writers overcompensate for a perceived error or nonstandard usage by using a form that is actually incorrect or nonstandard",
+        "defineVi": "một hiện tượng ngôn ngữ trong đó người nói hoặc người viết bù đắp quá mức cho một lỗi nhận thức hoặc cách sử dụng không chuẩn bằng cách sử dụng một hình thức thực sự không chính xác hoặc không chuẩn"
+    },
+    {
+        "id": "db533991-d1fb-4d98-99b7-7daa6d5bae53",
+        "word": "T-V distinction",
+        "phonetic": "tiːviː dɪstɪŋkʃən ",
+        "type": "noun",
+        "defineEn": "a linguistic feature that distinguishes between formal and informal forms of address in language, often indicating social status or hierarchy",
+        "defineVi": "một đặc điểm ngôn ngữ phân biệt giữa các hình thức địa chỉ chính thức và không chính thức trong ngôn ngữ, thường biểu thị địa vị xã hội hoặc thứ bậc"
+    },
+    {
+        "id": "5095ba63-19ac-4324-9437-5644f8393197",
+        "word": "anglicism",
+        "phonetic": "æŋɡlɪsɪzəm ",
+        "type": "noun",
+        "defineEn": "a word, phrase, or grammatical construction that is borrowed from the English language into another language",
+        "defineVi": "một từ, cụm từ hoặc cấu trúc ngữ pháp được mượn từ tiếng Anh sang ngôn ngữ khác"
+    },
+    {
+        "id": "ee71c59e-0b49-4992-8e2e-282d19de48f2",
+        "word": "britishism",
+        "phonetic": "bɹɪɾɪʃɪzəm ",
+        "type": "noun",
+        "defineEn": "a word, phrase, pronunciation, or cultural trait that is specific to or associated with British English or British culture",
+        "defineVi": "một từ, cụm từ, cách phát âm hoặc đặc điểm văn hóa cụ thể hoặc liên quan đến tiếng Anh Anh hoặc văn hóa Anh"
+    },
+    {
+        "id": "b94ee5a5-1877-4055-973c-5204099820ef",
+        "word": "uptalk",
+        "phonetic": "ʌptɔːk ",
+        "type": "noun",
+        "defineEn": "speech in which every declarative clause, sentence, etc. ends with a rising intonation, as if a question",
+        "defineVi": "bài phát biểu trong đó mọi mệnh đề tuyên bố, câu, v.v. đều kết thúc bằng ngữ điệu tăng dần, như thể một câu hỏi"
+    },
+    {
+        "id": "d47c703c-c8cf-4aee-af93-75989b1797a7",
+        "word": "interlanguage",
+        "phonetic": "ɪntɚlæŋɡwɪdʒ ",
+        "type": "noun",
+        "defineEn": "the linguistic system that emerges during second language acquisition, characterized by a combination of the learner's native language and the target language, incorporating both correct and incorrect features as the learner progresses towards proficiency",
+        "defineVi": "hệ thống ngôn ngữ xuất hiện trong quá trình tiếp thu ngôn ngữ thứ hai, được đặc trưng bởi sự kết hợp giữa ngôn ngữ mẹ đẻ của người học và ngôn ngữ mục tiêu, kết hợp cả các đặc điểm đúng và sai khi người học tiến tới trình độ thành thạo"
+    },
+    {
+        "id": "3b7cbc47-194a-48e0-af81-c22ae2e38bbe",
+        "word": "language planning",
+        "phonetic": "læŋɡwɪdʒ plænɪŋ ",
+        "type": "noun",
+        "defineEn": "the intentional actions taken to shape or control how a language is used in a community or society",
+        "defineVi": "các hành động có chủ ý được thực hiện để định hình hoặc kiểm soát cách sử dụng ngôn ngữ trong cộng đồng hoặc xã hội"
+    },
+    {
+        "id": "0f88352e-90f0-442d-908e-243892cbcffc",
+        "word": "language assessment",
+        "phonetic": "læŋɡwɪdʒ ɐsɛsmənt ",
+        "type": "noun",
+        "defineEn": "the process of evaluating an individual's language proficiency or abilities through various tests, examinations, or evaluations",
+        "defineVi": "quá trình đánh giá trình độ hoặc khả năng ngôn ngữ của một cá nhân thông qua các bài kiểm tra, kiểm tra hoặc đánh giá khác nhau"
+    },
+    {
+        "id": "ce5a8538-d9d8-476f-b037-2a25ead10392",
+        "word": "code word",
+        "phonetic": "koʊd wɜːd ",
+        "type": "noun",
+        "defineEn": "a word or phrase with a predetermined meaning that is used instead of the usual name or word for something",
+        "defineVi": "một từ hoặc cụm từ có nghĩa xác định trước được sử dụng thay cho tên hoặc từ thông thường cho một cái gì đó"
+    },
+    {
+        "id": "9ac69272-f10e-468a-b6e2-08f7233c809b",
+        "word": "linguistic purism",
+        "phonetic": "lɪŋɡwɪstɪk pjʊɹɹɪzəm ",
+        "type": "noun",
+        "defineEn": "the advocacy or belief in preserving or purifying a language by purging it of foreign or non-standard elements, often aiming for linguistic preservation and cultural identity",
+        "defineVi": "sự ủng hộ hoặc niềm tin vào việc bảo tồn hoặc thanh lọc một ngôn ngữ bằng cách loại bỏ các yếu tố ngoại lai hoặc phi tiêu chuẩn, thường nhằm mục đích bảo tồn ngôn ngữ và bản sắc văn hóa"
+    },
+    {
+        "id": "0a455ae6-c0d3-49d3-b5a9-9d16416c19d4",
+        "word": "stratum",
+        "phonetic": "stɹɑːɾəm ",
+        "type": "noun",
+        "defineEn": "a distinct layer or level within a language system, such as different dialects, sociolects, or registers, that are associated with specific social groups, regions, or levels of formality",
+        "defineVi": "một lớp hoặc cấp độ riêng biệt trong một hệ thống ngôn ngữ, chẳng hạn như các phương ngữ, xã hội học hoặc đăng ký khác nhau, được liên kết với các nhóm xã hội, khu vực hoặc cấp độ hình thức cụ thể"
+    },
+    {
+        "id": "ec6de10b-444b-4421-9c2d-7fe2a1119c52",
+        "word": "substratum",
+        "phonetic": "sʌbstɹɑːɾəm ",
+        "type": "noun",
+        "defineEn": "the linguistic influence of a less prestigious language on a dominant language in contact, resulting in the adoption or transfer of phonological, morphological, syntactic, or lexical features",
+        "defineVi": "ảnh hưởng ngôn ngữ của một ngôn ngữ kém uy tín hơn đối với ngôn ngữ chiếm ưu thế khi tiếp xúc, dẫn đến việc áp dụng hoặc chuyển giao các đặc điểm âm vị học, hình thái học, cú pháp hoặc từ vựng"
+    }
+]

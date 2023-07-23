@@ -1,0 +1,424 @@
+[
+    {
+        "id": "41f792e3-1c7a-458d-b72d-2664a460a64c",
+        "word": "dressmaker",
+        "phonetic": "dɹɛsmeɪkɚ ",
+        "type": "noun",
+        "defineEn": "a person who creates custom-made clothing, specializing in the design and construction of dresses",
+        "defineVi": "một người tạo ra quần áo tùy chỉnh, chuyên thiết kế và xây dựng trang phục",
+        "hasImg": true
+    },
+    {
+        "id": "0d41cbd8-619a-4250-a512-06ca5ed92247",
+        "word": "dressmaker\\'s model",
+        "phonetic": "dɹɛsmeɪkɚ bækslæʃ ɛs mɑːdəl ",
+        "type": "noun",
+        "defineEn": "a three-dimensional model of the human body used by dressmakers and designers for fitting and designing clothing",
+        "defineVi": "một mô hình ba chiều của cơ thể con người được các thợ may và nhà thiết kế sử dụng để may và thiết kế quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "c06386e3-d874-46fe-a397-8542fbd40e25",
+        "word": "tailor",
+        "phonetic": "teɪlɚ ",
+        "type": "noun",
+        "defineEn": "a person whose job is making clothes, especially for men",
+        "defineVi": "một người có công việc là làm quần áo, đặc biệt là cho nam giới",
+        "hasImg": true
+    },
+    {
+        "id": "13434f8b-7811-453d-8f52-6d44ed69e133",
+        "word": "thread",
+        "phonetic": "θɹɛd ",
+        "type": "noun",
+        "defineEn": "a thin strand of material, such as cotton, nylon, or silk, used for sewing or weaving",
+        "defineVi": "một sợi vật liệu mỏng, chẳng hạn như bông, nylon hoặc lụa, được sử dụng để may hoặc dệt",
+        "hasImg": true
+    },
+    {
+        "id": "85a18135-ddf8-44e7-a80e-2d29c1dbe210",
+        "word": "pin",
+        "phonetic": "pɪn ",
+        "type": "noun",
+        "defineEn": "a slender, elongated object typically made of metal, that has a sharp point at one end and a flat or rounded head at the other",
+        "defineVi": "một vật thể thon dài, thường được làm bằng kim loại, có một đầu nhọn và đầu phẳng hoặc tròn ở đầu kia",
+        "hasImg": true
+    },
+    {
+        "id": "aa8c94bc-572e-4c25-a756-80ae557cd285",
+        "word": "pincushion",
+        "phonetic": "pɪŋkʊʃən ",
+        "type": "noun",
+        "defineEn": "a small pad used to hold and store sewing pins and needles during sewing",
+        "defineVi": "một miếng đệm nhỏ được sử dụng để giữ và lưu trữ ghim và kim may trong khi may",
+        "hasImg": true
+    },
+    {
+        "id": "4a7dad4c-0d5a-4039-93b6-d6e95f963ba7",
+        "word": "safety pin",
+        "phonetic": "seɪfti pɪn ",
+        "type": "noun",
+        "defineEn": "a type of pin that has a simple spring-loaded mechanism and is used to fasten or secure items temporarily",
+        "defineVi": "một loại ghim có cơ chế lò xo đơn giản và được sử dụng để buộc chặt hoặc cố định các vật phẩm tạm thời",
+        "hasImg": true
+    },
+    {
+        "id": "bdc1206c-17a4-43d0-9ea2-b0ceb15ed367",
+        "word": "thimble",
+        "phonetic": "θɪmbəl ",
+        "type": "noun",
+        "defineEn": "a small protective cap worn on the finger to prevent injury while pushing a needle through fabric when sewing",
+        "defineVi": "một chiếc mũ bảo vệ nhỏ đeo trên ngón tay để tránh bị thương khi đâm kim qua vải khi may",
+        "hasImg": true
+    },
+    {
+        "id": "f31d993e-f8e2-4f05-bec6-0fbfb3992742",
+        "word": "seam",
+        "phonetic": "siːm ",
+        "type": "noun",
+        "defineEn": "a line of stitching that joins two or more pieces of fabric together",
+        "defineVi": "một đường khâu nối hai hoặc nhiều mảnh vải lại với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "811f1d45-a646-4377-b2e1-e7da8bdfd913",
+        "word": "applique",
+        "phonetic": "ɐpliːk ",
+        "type": "noun",
+        "defineEn": "a decorative design made by cutting out and stitching a different piece of fabric or material onto a larger piece to create a pattern or picture",
+        "defineVi": "một thiết kế trang trí được thực hiện bằng cách cắt ra và khâu một mảnh vải hoặc vật liệu khác lên một mảnh lớn hơn để tạo ra một mẫu hoặc hình ảnh",
+        "hasImg": true
+    },
+    {
+        "id": "3feddf82-9230-41f1-ba5e-1901c09b15e0",
+        "word": "to applique",
+        "phonetic": "tʊ ɐpliːk ",
+        "type": "verb",
+        "defineEn": "to sew a decorative piece of fabric or material onto a larger piece of fabric",
+        "defineVi": "để may một mảnh vải hoặc vật liệu trang trí lên một mảnh vải lớn hơn",
+        "hasImg": true
+    },
+    {
+        "id": "56d2f968-6675-4b21-a986-af30503af79e",
+        "word": "hook and eye",
+        "phonetic": "hʊk ænd aɪ ",
+        "type": "noun",
+        "defineEn": "a small metal fastener that is used to hold two pieces of material together, consisting of a hook that catches onto a small loop or eyelet",
+        "defineVi": "một dây buộc kim loại nhỏ được sử dụng để giữ hai mảnh vật liệu lại với nhau, bao gồm một cái móc bắt vào một vòng nhỏ hoặc lỗ xỏ dây",
+        "hasImg": true
+    },
+    {
+        "id": "e3250fdd-0fa4-4d44-8337-c3b21d72ec53",
+        "word": "to trim",
+        "phonetic": "tə tɹɪm ",
+        "type": "verb",
+        "defineEn": "to decorate the edges of something, especially a piece of clothes",
+        "defineVi": "để trang trí các cạnh của một cái gì đó, đặc biệt là một bộ quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "8105ab31-6e97-4338-a35f-2647eada3bd0",
+        "word": "snap",
+        "phonetic": "snæp ",
+        "type": "noun",
+        "defineEn": "a small fastener made of two interlocking discs",
+        "defineVi": "một dây buộc nhỏ làm bằng hai đĩa lồng vào nhau",
+        "hasImg": true
+    },
+    {
+        "id": "4e1f17e4-2be2-41c4-8394-0a144150cdcb",
+        "word": "fringe",
+        "phonetic": "fɹɪndʒ ",
+        "type": "noun",
+        "defineEn": "a decorative border made of hanging threads, cords, or strips, often used to embellish clothing or accessories",
+        "defineVi": "một đường viền trang trí bằng chỉ treo, dây hoặc dải, thường được sử dụng để tô điểm cho quần áo hoặc phụ kiện",
+        "hasImg": true
+    },
+    {
+        "id": "09d55598-de38-4c42-b425-7ed1dedbd93f",
+        "word": "bead",
+        "phonetic": "biːd ",
+        "type": "noun",
+        "defineEn": "a small, round, decorative object made from various materials, pierced with a hole and sewn onto clothing or jewelry",
+        "defineVi": "một vật trang trí nhỏ, tròn, được làm từ các vật liệu khác nhau, được đục lỗ và khâu vào quần áo hoặc đồ trang sức",
+        "hasImg": true
+    },
+    {
+        "id": "77270ded-7cd3-4b8f-ab65-52595b9c2042",
+        "word": "to bead",
+        "phonetic": "tə biːd ",
+        "type": "verb",
+        "defineEn": "to string or decorate with beads",
+        "defineVi": "để chuỗi hoặc trang trí với hạt",
+        "hasImg": true
+    },
+    {
+        "id": "250562da-6e36-420d-b9d8-7744625d422a",
+        "word": "to sew",
+        "phonetic": "tə soʊ ",
+        "type": "verb",
+        "defineEn": "to join two or more pieces of fabric or other materials together, often by using a needle and thread",
+        "defineVi": "nối hai hoặc nhiều mảnh vải hoặc các vật liệu khác lại với nhau, thường bằng cách sử dụng kim và chỉ",
+        "hasImg": true
+    },
+    {
+        "id": "4f5ea66d-c4ce-4889-a16b-3c737b13ee1d",
+        "word": "sewing machine",
+        "phonetic": "soʊɪŋ məʃiːn ",
+        "type": "noun",
+        "defineEn": "a machine used to sew fabric and other materials together with thread",
+        "defineVi": "một máy dùng để may vải và các vật liệu khác cùng với chỉ",
+        "hasImg": true
+    },
+    {
+        "id": "45f827e2-aa77-4e73-8d71-1f1f5999640e",
+        "word": "sewing needle",
+        "phonetic": "soʊɪŋ niːdəl ",
+        "type": "noun",
+        "defineEn": "a slender, pointed tool used for sewing fabrics and other materials",
+        "defineVi": "một công cụ mảnh mai, nhọn được sử dụng để may vải và các vật liệu khác",
+        "hasImg": true
+    },
+    {
+        "id": "d1d1c823-2657-4765-b9c2-524db5ffc6a8",
+        "word": "bobbin",
+        "phonetic": "bɑːbɪn ",
+        "type": "noun",
+        "defineEn": "a small cylinder that holds thread, which is used in a sewing machine or a hand-held sewing tool",
+        "defineVi": "một xi lanh nhỏ giữ chỉ, được sử dụng trong máy may hoặc dụng cụ may cầm tay",
+        "hasImg": true
+    },
+    {
+        "id": "c8acf9fe-53df-4bab-84b9-f9f586ebb41b",
+        "word": "velcro",
+        "phonetic": "vɛlkɹoʊ ",
+        "type": "noun",
+        "defineEn": "(trademark) a material with two different surfaces one of which sticks to the other by some small hooks, when pressed, used as a fastener",
+        "defineVi": "(nhãn hiệu hàng hóa) vật liệu có hai bề mặt khác nhau, bề mặt này dính vào bề mặt kia bằng một số móc nhỏ, khi ấn vào, dùng làm dây buộc",
+        "hasImg": true
+    },
+    {
+        "id": "17fd4599-9bb5-4042-8e46-b92188172f94",
+        "word": "to velcro",
+        "phonetic": "tə vɛlkɹoʊ ",
+        "type": "verb",
+        "defineEn": "to attach something with velcro fasteners",
+        "defineVi": "để đính kèm một cái gì đó với ốc vít velcro",
+        "hasImg": true
+    },
+    {
+        "id": "5651bb43-56f9-4958-9155-9f61fde0edd1",
+        "word": "running stitch",
+        "phonetic": "ɹʌnɪŋ stɪtʃ ",
+        "type": "noun",
+        "defineEn": "a simple, straight stitch used for basic sewing",
+        "defineVi": "một mũi khâu đơn giản, thẳng được sử dụng để may cơ bản",
+        "hasImg": true
+    },
+    {
+        "id": "1eb612d6-97f7-4b4b-82c8-55ef122e5996",
+        "word": "to knit",
+        "phonetic": "tə nɪt ",
+        "type": "verb",
+        "defineEn": "to make clothing, etc. from wool or other type of thread using a machine or a pair of long and thin needles",
+        "defineVi": "để làm quần áo, v.v. từ len hoặc các loại chỉ khác bằng máy hoặc một cặp kim dài và mảnh",
+        "hasImg": true
+    },
+    {
+        "id": "8fd0c566-4dce-485f-b712-92b376de04f0",
+        "word": "knit",
+        "phonetic": "nɪt ",
+        "type": "noun",
+        "defineEn": "a type of fabric construction where a single yarn is looped continuously to create interlocking rows of stitches",
+        "defineVi": "một loại cấu trúc vải trong đó một sợi đơn được vòng liên tục để tạo ra các hàng mũi khâu lồng vào nhau",
+        "hasImg": true
+    },
+    {
+        "id": "eb0e748a-884b-4f74-92aa-aecceacb52b0",
+        "word": "knit stitch",
+        "phonetic": "nɪt stɪtʃ ",
+        "type": "noun",
+        "defineEn": "a basic stitch used in knitting where the working yarn is passed through a loop on the knitting needle, creating a new stitch",
+        "defineVi": "một mũi khâu cơ bản được sử dụng trong đan len trong đó sợi đang hoạt động được luồn qua một vòng trên kim đan, tạo ra một mũi khâu mới",
+        "hasImg": true
+    },
+    {
+        "id": "19eb8b57-7cce-4f95-9658-3a5b58ebe76f",
+        "word": "knitted",
+        "phonetic": "nɪɾᵻd ",
+        "type": "adjective",
+        "defineEn": "describing something that has been made by interlocking loops of yarn with knitting needles",
+        "defineVi": "mô tả một cái gì đó đã được thực hiện bằng cách lồng vào nhau các vòng sợi bằng kim đan",
+        "hasImg": true
+    },
+    {
+        "id": "551c0858-aa95-4d25-a227-3297fc79a8ce",
+        "word": "presser foot",
+        "phonetic": "pɹɛsɚ fʊt ",
+        "type": "noun",
+        "defineEn": "a detachable sewing machine part used to hold fabric in place while sewing",
+        "defineVi": "một bộ phận máy may có thể tháo rời được sử dụng để giữ cố định vải trong khi may",
+        "hasImg": true
+    },
+    {
+        "id": "3d082a87-683c-4cce-aac5-da8ba45b856a",
+        "word": "dummy",
+        "phonetic": "dʌmi ",
+        "type": "noun",
+        "defineEn": "a replica figure used for displaying or fitting clothes",
+        "defineVi": "một nhân vật bản sao được sử dụng để hiển thị hoặc thử quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "74d721ac-aa04-461f-858c-c4a019c9dbaf",
+        "word": "garment worker",
+        "phonetic": "ɡɑːɹmənt wɜːkɚ ",
+        "type": "noun",
+        "defineEn": "a person who works in the clothing manufacturing industry",
+        "defineVi": "một người làm việc trong ngành công nghiệp sản xuất quần áo",
+        "hasImg": true
+    },
+    {
+        "id": "6ab95f9d-78ba-4681-828e-6bd894ca49b6",
+        "word": "bolt",
+        "phonetic": "boʊlt ",
+        "type": "noun",
+        "defineEn": "a roll of fabric or cloth that is typically sold in a store and can vary in length depending on the manufacturer or supplier",
+        "defineVi": "một cuộn vải hoặc vải thường được bán trong cửa hàng và có thể thay đổi độ dài tùy thuộc vào nhà sản xuất hoặc nhà cung cấp",
+        "hasImg": true
+    },
+    {
+        "id": "a23c9c23-b598-427d-8150-b3fa573b6315",
+        "word": "feed dog",
+        "phonetic": "fiːd dɑːɡ ",
+        "type": "noun",
+        "defineEn": "a component of a sewing machine that moves the fabric under the needle during sewing",
+        "defineVi": "một bộ phận của máy may di chuyển vải dưới kim trong khi may",
+        "hasImg": true
+    },
+    {
+        "id": "0973d5de-0f14-45be-8d17-cf05ac6e0999",
+        "word": "hook-and-loop fastener",
+        "phonetic": "hʊkændluːp fæsənɚ ",
+        "type": "noun",
+        "defineEn": "a type of fastening system consisting of hooks on one side and loops on the other, which adhere when pressed together",
+        "defineVi": "một loại hệ thống buộc bao gồm các móc ở một bên và các vòng ở bên kia, chúng dính chặt khi ép vào nhau",
+        "hasImg": true
+    },
+    {
+        "id": "bfc3e32b-c763-4ca8-8ee0-96c3cd647b4e",
+        "word": "needle plate",
+        "phonetic": "niːdəl pleɪt ",
+        "type": "noun",
+        "defineEn": "the metal plate with holes through which the needle passes to create stitches in sewing machines",
+        "defineVi": "tấm kim loại có lỗ mà kim đi qua để tạo mũi khâu trong máy may",
+        "hasImg": true
+    },
+    {
+        "id": "e205d17a-ad90-4fc8-a91e-8a86002c0300",
+        "word": "hand-knit",
+        "phonetic": "hændnɪt ",
+        "type": "adjective",
+        "defineEn": "knitted by hand, not machine-produced",
+        "defineVi": "đan bằng tay, không sản xuất bằng máy",
+        "hasImg": true
+    },
+    {
+        "id": "e14e6398-202c-4bad-b9b0-54e55666f27d",
+        "word": "straight pin",
+        "phonetic": "stɹeɪt pɪn ",
+        "type": "noun",
+        "defineEn": "a thin, pointed metal or plastic rod with a head on one end, used in sewing to hold fabric together temporarily",
+        "defineVi": "một thanh kim loại hoặc nhựa mỏng, nhọn có một đầu ở một đầu, được sử dụng trong may vá để tạm thời giữ vải lại với nhau",
+        "hasImg": true
+    },
+    {
+        "id": "df0c92cd-335d-4e3d-9dc7-0e88865beac1",
+        "word": "knitting yarn",
+        "phonetic": "nɪɾɪŋ jɑːɹn ",
+        "type": "noun",
+        "defineEn": "yarn used for hand-knitting projects, typically made of various fibers and colors, and used with knitting needles or other tools to create knitted fabric",
+        "defineVi": "sợi được sử dụng cho các dự án đan tay, thường được làm bằng nhiều loại sợi và màu sắc khác nhau, và được sử dụng với kim đan hoặc các công cụ khác để tạo ra vải dệt kim",
+        "hasImg": true
+    },
+    {
+        "id": "0400211e-0bd0-4609-982c-78d7c3c8d69b",
+        "word": "knitting needle",
+        "phonetic": "nɪɾɪŋ niːdəl ",
+        "type": "noun",
+        "defineEn": "a long, thin, pointed tool used in knitting to hold stitches and manipulate yarn",
+        "defineVi": "một công cụ dài, mỏng, nhọn được sử dụng trong đan để giữ các mũi khâu và điều khiển sợi",
+        "hasImg": true
+    },
+    {
+        "id": "39157ec8-f6f3-4654-9400-b2714a30f93b",
+        "word": "rotary cutter",
+        "phonetic": "ɹoʊɾɚɹi kʌɾɚ ",
+        "type": "noun",
+        "defineEn": "a cutting tool with a circular blade that rotates, typically used in sewing, quilting, and other crafts to cut fabric or other materials with precision",
+        "defineVi": "một công cụ cắt có lưỡi tròn quay, thường được sử dụng trong may vá, chần bông và các nghề thủ công khác để cắt vải hoặc các vật liệu khác một cách chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "1e287044-bd57-4d64-8b09-f17921f37689",
+        "word": "seam ripper",
+        "phonetic": "siːm ɹɪpɚ ",
+        "type": "noun",
+        "defineEn": "a small tool used in sewing to remove stitches or seams, typically with a sharp blade and a pointed end for cutting and unpicking threads",
+        "defineVi": "một công cụ nhỏ được sử dụng trong may vá để loại bỏ các mũi khâu hoặc đường nối, thường có lưỡi sắc bén và một đầu nhọn để cắt và tháo chỉ",
+        "hasImg": true
+    },
+    {
+        "id": "0310c0c4-21d3-4ced-a292-c2aec5ae126f",
+        "word": "sewing chalk",
+        "phonetic": "soʊɪŋ tʃɔːk ",
+        "type": "noun",
+        "defineEn": "a chalk-like tool used in sewing to mark fabric for cutting, sewing, or other adjustments",
+        "defineVi": "một công cụ giống như phấn được sử dụng trong may để đánh dấu vải để cắt, may hoặc các điều chỉnh khác",
+        "hasImg": true
+    },
+    {
+        "id": "e4efdf16-f982-41b4-8008-3e594b261847",
+        "word": "sewing roulette",
+        "phonetic": "soʊɪŋ ɹuːlɛt ",
+        "type": "noun",
+        "defineEn": "a sewing tool with a wheel used to create patterns or markings on fabric",
+        "defineVi": "một công cụ may có bánh xe được sử dụng để tạo các mẫu hoặc dấu trên vải",
+        "hasImg": true
+    },
+    {
+        "id": "03f6cbd6-7e46-4906-b4f6-f09c65e645a4",
+        "word": "pinking shears",
+        "phonetic": "pɪŋkɪŋ ʃɪɹz ",
+        "type": "noun",
+        "defineEn": "scissors with serrated blades used in sewing to create zigzag edges on fabric to prevent fraying",
+        "defineVi": "kéo có lưỡi răng cưa dùng trong may vá tạo các đường ziczac trên vải cho khỏi sờn vải",
+        "hasImg": true
+    },
+    {
+        "id": "a6585c03-2e83-4e8f-bbae-85139f59f6c2",
+        "word": "bent scissors",
+        "phonetic": "bɛnt sɪsɚz ",
+        "type": "noun",
+        "defineEn": "scissors with angled blades for cutting fabric, thread, or other materials at an ergonomic angle for improved comfort and precision",
+        "defineVi": "kéo có lưỡi cắt góc để cắt vải, chỉ hoặc các vật liệu khác ở một góc công thái học để cải thiện sự thoải mái và độ chính xác",
+        "hasImg": true
+    },
+    {
+        "id": "6732bd9b-98cd-4a0e-b88a-e92951c500c4",
+        "word": "tailor\\'s scissors",
+        "phonetic": "teɪlɚ bækslæʃ ɛs sɪsɚz ",
+        "type": "noun",
+        "defineEn": "specialized scissors designed for cutting fabric, with long blades and sharp points for precise and clean cuts, often used by tailors and dressmakers",
+        "defineVi": "kéo chuyên dụng được thiết kế để cắt vải, có lưỡi dài và đầu nhọn để cắt chính xác và sắc nét, thường được sử dụng bởi thợ may và thợ may",
+        "hasImg": true
+    },
+    {
+        "id": "93bc4c97-069f-46ef-a5f8-d4d6f8b2a54f",
+        "word": "hand-knit",
+        "phonetic": "hændnɪt ",
+        "type": "noun",
+        "defineEn": "an item of clothing that has been created using a technique of knitting by hand rather than by machine",
+        "defineVi": "một mặt hàng quần áo đã được tạo ra bằng kỹ thuật đan bằng tay chứ không phải bằng máy"
+    }
+]

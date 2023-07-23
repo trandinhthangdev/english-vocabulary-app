@@ -1,0 +1,429 @@
+[
+    {
+        "id": "3e2ce514-dc89-46de-b423-d312e9b27d60",
+        "word": "brain",
+        "phonetic": "bɹeɪn ",
+        "type": "noun",
+        "defineEn": "the body part that is inside our head controlling how we feel, think, move, etc.",
+        "defineVi": "phần cơ thể nằm trong đầu kiểm soát cách chúng ta cảm nhận, suy nghĩ, di chuyển, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "8e0ef1d1-b538-4a2b-abb7-8bcbc02cfec0",
+        "word": "neuron",
+        "phonetic": "nʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a cell that is responsible for transmitting nerve impulses between the brain and the rest of the body",
+        "defineVi": "một tế bào chịu trách nhiệm truyền các xung thần kinh giữa não và phần còn lại của cơ thể"
+    },
+    {
+        "id": "0c69295b-7842-4705-b02a-b57888acc495",
+        "word": "nerve",
+        "phonetic": "nɜːv ",
+        "type": "noun",
+        "defineEn": "each of a group of long thread-like structures in the body that carry messages between the brain and other parts of the body, sensing things is a result of this process",
+        "defineVi": "mỗi nhóm cấu trúc giống như sợi chỉ dài trong cơ thể mang thông điệp giữa não và các bộ phận khác của cơ thể, cảm nhận mọi thứ là kết quả của quá trình này",
+        "hasImg": true
+    },
+    {
+        "id": "563f4951-f462-42ff-b11c-08000404c78c",
+        "word": "fiber",
+        "phonetic": "faɪbɚ ",
+        "type": "noun",
+        "defineEn": "any strand of muscle or nervous tissues",
+        "defineVi": "bất kỳ sợi cơ hoặc mô thần kinh"
+    },
+    {
+        "id": "ecf882c0-b521-40a8-b32b-42298a1fef15",
+        "word": "spinal cord",
+        "phonetic": "spaɪnəl koːɹd ",
+        "type": "noun",
+        "defineEn": "the inner part of the spine containing a mass of nerves that connects the brain to almost all the body parts",
+        "defineVi": "phần bên trong của cột sống chứa một khối dây thần kinh kết nối não với hầu hết các bộ phận cơ thể",
+        "hasImg": true
+    },
+    {
+        "id": "3ec54c13-5543-42c5-ba28-acfb6371ebf4",
+        "word": "axon",
+        "phonetic": "æksɑːn ",
+        "type": "noun",
+        "defineEn": "a long, slender projection of a nerve cell that conducts electrical impulses away from the cell body towards other neurons or target cells",
+        "defineVi": "một hình chiếu dài, mảnh mai của một tế bào thần kinh dẫn các xung điện ra khỏi cơ thể tế bào tới các tế bào thần kinh hoặc tế bào đích khác"
+    },
+    {
+        "id": "41db5707-68fb-4dfd-82d0-55547bf55b36",
+        "word": "solar plexus",
+        "phonetic": "soʊlɚ plɛksəs ",
+        "type": "noun",
+        "defineEn": "(anatomy) a network of nerves in the abdomen and in front of the aorta that contains several ganglia",
+        "defineVi": "(giải phẫu) mạng lưới dây thần kinh ở bụng và phía trước động mạch chủ có chứa nhiều hạch"
+    },
+    {
+        "id": "e36ae055-9e7f-47f1-891c-01fed264c7ec",
+        "word": "ganglion",
+        "phonetic": "ɡæŋɡliən ",
+        "type": "noun",
+        "defineEn": "(anatomy) a mass of neurons that form a nerve center in the body outside the brain or spinal cord",
+        "defineVi": "(giải phẫu) một khối tế bào thần kinh tạo thành một trung tâm thần kinh trong cơ thể bên ngoài não hoặc tủy sống"
+    },
+    {
+        "id": "cb0cc1ad-36db-4142-8ca9-ed6a21e68177",
+        "word": "glial",
+        "phonetic": "ɡlaɪəl ",
+        "type": "adjective",
+        "defineEn": "related to or associated with glia or glial cells in the nervous system",
+        "defineVi": "liên quan đến hoặc liên kết với tế bào thần kinh đệm hoặc thần kinh đệm trong hệ thần kinh"
+    },
+    {
+        "id": "3cfd9571-30d9-427f-8535-9e04dcaa7fe4",
+        "word": "plexus",
+        "phonetic": "plɛksəs ",
+        "type": "noun",
+        "defineEn": "a complex arrangement or network of nerve fibers or blood vessels that intersect and intertwine within the body",
+        "defineVi": "một sự sắp xếp phức tạp hoặc mạng lưới các sợi thần kinh hoặc mạch máu giao nhau và đan xen trong cơ thể"
+    },
+    {
+        "id": "67c2fc0a-881c-4386-9221-bedd5deac6e7",
+        "word": "interneuron",
+        "phonetic": "ɪntɚnʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a neuron that acts as an intermediary between sensory neurons and motor neurons, or between other interneurons.",
+        "defineVi": "một tế bào thần kinh hoạt động như một trung gian giữa các tế bào thần kinh cảm giác và tế bào thần kinh vận động, hoặc giữa các tế bào thần kinh khác."
+    },
+    {
+        "id": "19a5e4ef-9f84-4a5b-af7d-9af7c67f2bbe",
+        "word": "fascicle",
+        "phonetic": "fæsɪkəl ",
+        "type": "noun",
+        "defineEn": "a bundle of muscle fibers or nerve fibers bound together by connective tissue",
+        "defineVi": "một bó sợi cơ hoặc sợi thần kinh liên kết với nhau bằng mô liên kết"
+    },
+    {
+        "id": "1b695975-cd6a-4894-9dea-21f6394f2fcd",
+        "word": "motor neuron",
+        "phonetic": "moʊɾɚ nʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a nerve cell that transmits signals from the central nervous system to the muscles, enabling voluntary movements",
+        "defineVi": "một tế bào thần kinh truyền tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép các chuyển động tự nguyện"
+    },
+    {
+        "id": "0423c9f0-0c22-4758-8629-e30f6529f2df",
+        "word": "pons",
+        "phonetic": "pɑːnz ",
+        "type": "noun",
+        "defineEn": "a region in the brainstem that acts as a bridge, connecting different parts of the brain and aiding in essential functions like sleep regulation and sensory-motor coordination",
+        "defineVi": "một vùng trong thân não hoạt động như một cây cầu, kết nối các phần khác nhau của não và hỗ trợ các chức năng thiết yếu như điều hòa giấc ngủ và phối hợp cảm giác-vận động"
+    },
+    {
+        "id": "c3fbeaf9-a3fe-42ad-bd56-65232b416146",
+        "word": "optic nerve",
+        "phonetic": "ɑːptɪk nɜːv ",
+        "type": "noun",
+        "defineEn": "the bundle of nerve fibers that carries visual information from the eye to the brain",
+        "defineVi": "bó sợi thần kinh mang thông tin thị giác từ mắt đến não"
+    },
+    {
+        "id": "f65f0e0e-561a-4faf-bf8e-1ec280ab4e88",
+        "word": "mixed cranial nerve",
+        "phonetic": "mɪkst kɹeɪnɪəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve that contains both sensory and motor fibers",
+        "defineVi": "một dây thần kinh sọ chứa cả sợi cảm giác và vận động"
+    },
+    {
+        "id": "667a8c0b-460f-4282-af61-183829d60a52",
+        "word": "ulnar nerve",
+        "phonetic": "ʌlnɑːɹ nɜːv ",
+        "type": "noun",
+        "defineEn": "a nerve in the upper limb that provides sensation and controls muscle movement in the hand and forearm",
+        "defineVi": "một dây thần kinh ở chi trên cung cấp cảm giác và kiểm soát chuyển động cơ ở bàn tay và cẳng tay"
+    },
+    {
+        "id": "231ba284-f545-4260-aa3d-d76aaf766ddb",
+        "word": "olfactory nerve",
+        "phonetic": "ɑːlfæktɚɹi nɜːv ",
+        "type": "noun",
+        "defineEn": "a sensory nerve responsible for the sense of smell",
+        "defineVi": "một dây thần kinh cảm giác chịu trách nhiệm về khứu giác"
+    },
+    {
+        "id": "bdf20424-8a18-4136-a47a-3336b13ad22a",
+        "word": "oculomotor nerve",
+        "phonetic": "ɑːkjʊlɑːmoʊɾɚ nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for controlling the movement of the eye muscles",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát chuyển động của cơ mắt"
+    },
+    {
+        "id": "23d980f0-ffe0-46d2-bafb-7f37b1ff664b",
+        "word": "neural network",
+        "phonetic": "nʊɹɹəl nɛtwɜːk ",
+        "type": "noun",
+        "defineEn": "a complex system of interconnected neurons that processes and transmits information in the body",
+        "defineVi": "một hệ thống phức tạp gồm các nơ-ron liên kết với nhau xử lý và truyền thông tin trong cơ thể"
+    },
+    {
+        "id": "16f00bf7-b683-4286-b4f2-ff38618260b1",
+        "word": "trochlear nerve",
+        "phonetic": "tɹoʊklɪɹ nɜːv ",
+        "type": "noun",
+        "defineEn": "the fourth cranial nerve responsible for controlling the movement of the superior oblique muscle of the eye",
+        "defineVi": "dây thần kinh sọ thứ tư chịu trách nhiệm kiểm soát chuyển động của cơ chéo trên của mắt"
+    },
+    {
+        "id": "d4bd9d95-a443-4df0-9eca-056d0d8fc7ee",
+        "word": "trigeminal nerve",
+        "phonetic": "tɹaɪdʒɛmɪnəl nɜːv ",
+        "type": "noun",
+        "defineEn": "the fifth cranial nerve that provides sensory information from the face and controls the muscles responsible for chewing",
+        "defineVi": "dây thần kinh sọ thứ năm cung cấp thông tin cảm giác từ mặt và kiểm soát các cơ chịu trách nhiệm nhai"
+    },
+    {
+        "id": "9b53c102-e43a-4f1d-bc22-1b0093ef5f41",
+        "word": "schwann cell",
+        "phonetic": "ʃwæn sɛl ",
+        "type": "noun",
+        "defineEn": "a glial cell in the peripheral nervous system that forms myelin sheaths around nerve fibers",
+        "defineVi": "một tế bào thần kinh đệm trong hệ thống thần kinh ngoại vi hình thành vỏ myelin xung quanh sợi thần kinh"
+    },
+    {
+        "id": "739817f1-5d4d-4a86-b569-7ce48890cf1a",
+        "word": "facial nerve",
+        "phonetic": "feɪʃəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for controlling the muscles of facial expression",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát các cơ biểu hiện trên khuôn mặt"
+    },
+    {
+        "id": "0f518c8c-2cb4-48b0-a673-cad2048d4b2d",
+        "word": "vestibulocochlear nerve",
+        "phonetic": "vɛstɪbjʊləkɑːtʃlɪɹ nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for hearing and balance",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm cho thính giác và cân bằng"
+    },
+    {
+        "id": "d3516ee7-4fa2-441b-b66b-ef9fb08e26f5",
+        "word": "glossopharyngeal nerve",
+        "phonetic": "ɡlɔsəfɑːɹɹɪndʒiəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for sensory and motor functions in the head and neck region",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm cho các chức năng cảm giác và vận động ở vùng đầu và cổ"
+    },
+    {
+        "id": "bd439954-bf87-4ec4-a130-97640549c5f4",
+        "word": "vagus nerve",
+        "phonetic": "væɡəs nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve that plays a vital role in regulating various bodily functions, including heart rate, digestion, and respiratory control",
+        "defineVi": "một dây thần kinh sọ đóng một vai trò quan trọng trong việc điều chỉnh các chức năng cơ thể khác nhau, bao gồm nhịp tim, tiêu hóa và kiểm soát hô hấp"
+    },
+    {
+        "id": "32d619df-d795-45c0-874f-e92fcd878041",
+        "word": "accessory nerve",
+        "phonetic": "ɐksɛsɚɹi nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for controlling certain muscles involved in head and neck movements",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát một số cơ liên quan đến chuyển động của đầu và cổ"
+    },
+    {
+        "id": "e49837ad-8db8-4d32-b46b-a197097381e1",
+        "word": "hypoglossal nerve",
+        "phonetic": "haɪpoʊɡlɔsəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for controlling the movements of the tongue",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát các cử động của lưỡi"
+    },
+    {
+        "id": "b044e4cf-e15e-4972-a192-1b5b231e4352",
+        "word": "abducens nerve",
+        "phonetic": "ɐbduːsənz nɜːv ",
+        "type": "noun",
+        "defineEn": "a cranial nerve responsible for controlling the movement of the lateral rectus muscle, which enables the eye to move laterally or outward",
+        "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát chuyển động của cơ trực tràng bên, cho phép mắt di chuyển sang bên hoặc ra ngoài"
+    },
+    {
+        "id": "4b58cc51-caab-45f4-bdf9-0c868fa0ab78",
+        "word": "unipolar neuron",
+        "phonetic": "juːnɪpoʊlɚ nʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a type of neuron that has a single projection, or process, that branches into two directions",
+        "defineVi": "một loại tế bào thần kinh có một phép chiếu hoặc quá trình duy nhất, phân nhánh thành hai hướng"
+    },
+    {
+        "id": "5f0b7dc7-c699-479c-978c-3878b390c4a2",
+        "word": "motor nerve fiber",
+        "phonetic": "moʊɾɚ nɜːv faɪbɚ ",
+        "type": "noun",
+        "defineEn": "a type of nerve cell extension that carries signals from the central nervous system to the muscles, enabling voluntary movement",
+        "defineVi": "một loại phần mở rộng của tế bào thần kinh mang tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép chuyển động tự nguyện"
+    },
+    {
+        "id": "cefb4a70-8614-4ab2-b981-f32681e0a982",
+        "word": "parasympathetic nervous system",
+        "phonetic": "pæɹəsɪmpəθɛɾɪk nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "a division of the autonomic nervous system responsible for regulating rest, digestion, and other essential bodily functions",
+        "defineVi": "một bộ phận của hệ thống thần kinh tự trị chịu trách nhiệm điều chỉnh việc nghỉ ngơi, tiêu hóa và các chức năng cơ thể thiết yếu khác"
+    },
+    {
+        "id": "7521ddf8-8e38-4de7-818d-ef77134114ff",
+        "word": "nerve cell",
+        "phonetic": "nɜːv sɛl ",
+        "type": "noun",
+        "defineEn": "a specialized cell that transmits electrical signals in the nervous system",
+        "defineVi": "một tế bào chuyên biệt truyền tín hiệu điện trong hệ thống thần kinh"
+    },
+    {
+        "id": "60c77d63-5ebc-4a8f-b769-da0ee50319f4",
+        "word": "central nervous system",
+        "phonetic": "sɛntɹəl nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "the complex network of the brain and spinal cord that controls and coordinates bodily functions and processes",
+        "defineVi": "mạng lưới phức tạp của não và tủy sống điều khiển và phối hợp các chức năng và quá trình của cơ thể"
+    },
+    {
+        "id": "ab651df0-beb0-4afc-981a-c235d99f93ce",
+        "word": "glial cell",
+        "phonetic": "ɡlaɪəl sɛl ",
+        "type": "noun",
+        "defineEn": "a non-neuronal cell in the nervous system that provides support and protection for neurons, helps maintain homeostasis, and participates in signaling and other important functions",
+        "defineVi": "một tế bào không phải tế bào thần kinh trong hệ thần kinh cung cấp sự hỗ trợ và bảo vệ cho các tế bào thần kinh, giúp duy trì cân bằng nội môi và tham gia truyền tín hiệu cũng như các chức năng quan trọng khác"
+    },
+    {
+        "id": "06437a38-74eb-40e5-9862-c2a75728d0e7",
+        "word": "peripheral nervous system",
+        "phonetic": "pɚɹɪfɚɹəl nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "a network of nerves and ganglia that connects the central nervous system to the organs, muscles, and tissues of the body, facilitating communication and control",
+        "defineVi": "một mạng lưới các dây thần kinh và hạch kết nối hệ thống thần kinh trung ương với các cơ quan, cơ và mô của cơ thể, tạo điều kiện giao tiếp và kiểm soát"
+    },
+    {
+        "id": "6964421b-fc0a-479b-b1b8-4ebf6e7c1a03",
+        "word": "autonomic nervous system",
+        "phonetic": "ɔːtənɑːmɪk nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "the part of the peripheral nervous system that controls and regulates involuntary bodily functions, including heart rate, digestion, and glandular activity",
+        "defineVi": "một phần của hệ thống thần kinh ngoại vi kiểm soát và điều chỉnh các chức năng cơ thể không tự nguyện, bao gồm nhịp tim, tiêu hóa và hoạt động của tuyến"
+    },
+    {
+        "id": "b9da04b6-e860-420f-b74d-f1d847ddcc0b",
+        "word": "autonomic ganglion",
+        "phonetic": "ɔːtənɑːmɪk ɡæŋɡliən ",
+        "type": "noun",
+        "defineEn": "a cluster of nerve cell bodies that mediates communication between the central nervous system and the organs",
+        "defineVi": "một cụm các tế bào thần kinh làm trung gian giao tiếp giữa hệ thống thần kinh trung ương và các cơ quan"
+    },
+    {
+        "id": "e5ac98bf-e1ad-4171-96c4-c02716d8a354",
+        "word": "autonomic plexus",
+        "phonetic": "ɔːtənɑːmɪk plɛksəs ",
+        "type": "noun",
+        "defineEn": "a network of nerves and ganglia that regulates involuntary bodily functions",
+        "defineVi": "một mạng lưới các dây thần kinh và hạch điều chỉnh các chức năng cơ thể không tự nguyện"
+    },
+    {
+        "id": "02508142-3059-431b-bf14-ad0f2149e5f0",
+        "word": "sympathetic nervous system",
+        "phonetic": "sɪmpəθɛɾɪk nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "a network of nerves that prepares the body for stressful or emergency situations by activating the \"fight or flight\" response",
+        "defineVi": "một mạng lưới các dây thần kinh giúp cơ thể chuẩn bị cho các tình huống căng thẳng hoặc khẩn cấp bằng cách kích hoạt phản ứng \"chiến đấu hay bỏ chạy\""
+    },
+    {
+        "id": "600ee543-7e50-4b0e-9275-77f5c4af44ae",
+        "word": "somatic nervous system",
+        "phonetic": "səmæɾɪk nɜːvəs sɪstəm ",
+        "type": "noun",
+        "defineEn": "the part of the peripheral nervous system that is responsible for the voluntary control of body movements and the reception of external stimuli.",
+        "defineVi": "một phần của hệ thống thần kinh ngoại biên chịu trách nhiệm kiểm soát tự nguyện các chuyển động của cơ thể và tiếp nhận các kích thích bên ngoài."
+    },
+    {
+        "id": "da0bbc11-8ff3-4d5c-ba74-28329ab04f8d",
+        "word": "motor nerve",
+        "phonetic": "moʊɾɚ nɜːv ",
+        "type": "noun",
+        "defineEn": "a type of nerve that carries signals from the central nervous system to the muscles, enabling voluntary muscle movements",
+        "defineVi": "một loại dây thần kinh mang tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép các cử động cơ tự nguyện"
+    },
+    {
+        "id": "ffd7682a-a59f-41aa-af1b-f0ead71963d3",
+        "word": "somatic sensory system",
+        "phonetic": "səmæɾɪk sɛnsɚɹi sɪstəm ",
+        "type": "noun",
+        "defineEn": "a network of nerves and receptors that enables the perception of touch, temperature, pain, and body position",
+        "defineVi": "một mạng lưới các dây thần kinh và thụ thể cho phép nhận thức về xúc giác, nhiệt độ, cơn đau và vị trí cơ thể"
+    },
+    {
+        "id": "6dcd2603-39a5-45a1-9ae2-9bb11d620a61",
+        "word": "cranial nerve",
+        "phonetic": "kɹeɪnɪəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a bundle of nerves that emerge directly from the brain and innervate structures in the head and neck",
+        "defineVi": "một bó dây thần kinh xuất hiện trực tiếp từ não và các cấu trúc bẩm sinh ở đầu và cổ"
+    },
+    {
+        "id": "7d051ddf-b9e2-4bf3-be81-270d7d14aff2",
+        "word": "spinal nerve",
+        "phonetic": "spaɪnəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a singular anatomical structure that carries sensory and motor signals between the spinal cord and the rest of the body",
+        "defineVi": "một cấu trúc giải phẫu đơn lẻ mang tín hiệu cảm giác và vận động giữa tủy sống và phần còn lại của cơ thể"
+    },
+    {
+        "id": "b5cd243b-9a6e-4d78-b9e9-86b601d070c3",
+        "word": "spinal nerve root",
+        "phonetic": "spaɪnəl nɜːv ɹuːt ",
+        "type": "noun",
+        "defineEn": "the initial segment of a spinal nerve that emerges from the spinal cord",
+        "defineVi": "đoạn ban đầu của một dây thần kinh cột sống xuất hiện từ tủy sống"
+    },
+    {
+        "id": "100d37b2-4f5e-475a-8c9f-63d47bdea54c",
+        "word": "sensory nerve",
+        "phonetic": "sɛnsɚɹi nɜːv ",
+        "type": "noun",
+        "defineEn": "a body part that carries sensory information from the body to the central nervous system",
+        "defineVi": "một bộ phận cơ thể mang thông tin cảm giác từ cơ thể đến hệ thống thần kinh trung ương"
+    },
+    {
+        "id": "494a0791-77df-4dfc-8160-99be89e35908",
+        "word": "sensory neuron",
+        "phonetic": "sɛnsɚɹi nʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a nerve cell that transmits sensory information from the body to the central nervous system",
+        "defineVi": "một tế bào thần kinh truyền thông tin cảm giác từ cơ thể đến hệ thống thần kinh trung ương"
+    },
+    {
+        "id": "17376cfd-eb5d-4817-b34b-61e3c35323d2",
+        "word": "sensory fiber",
+        "phonetic": "sɛnsɚɹi faɪbɚ ",
+        "type": "noun",
+        "defineEn": "a nerve fiber that carries sensory information from sensory receptors to the central nervous system",
+        "defineVi": "một sợi thần kinh mang thông tin cảm giác từ các thụ thể cảm giác đến hệ thống thần kinh trung ương"
+    },
+    {
+        "id": "b2ce726c-e54c-4dd5-bcd1-7959160dee94",
+        "word": "sensory cortex",
+        "phonetic": "sɛnsɚɹi kɔːɹɾɛks ",
+        "type": "noun",
+        "defineEn": "the part of the brain that processes and interprets sensory information from the body",
+        "defineVi": "phần não xử lý và giải thích thông tin cảm giác từ cơ thể"
+    },
+    {
+        "id": "2b6aa8c7-dd8d-4cdc-9692-ae01488cd00e",
+        "word": "multipolar neuron",
+        "phonetic": "mʌltɪpoʊlɚ nʊɹɹɑːn ",
+        "type": "noun",
+        "defineEn": "a type of neuron that has many processes or projections (dendrites) arising from its cell body, and a single axon that extends away from the cell body",
+        "defineVi": "một loại tế bào thần kinh có nhiều quá trình hoặc hình chiếu (dây gai) phát sinh từ thân tế bào của nó và một sợi trục duy nhất kéo dài ra khỏi thân tế bào"
+    },
+    {
+        "id": "dfa89edd-4a37-480d-984f-2f49a8c696be",
+        "word": "femoral nerve",
+        "phonetic": "fɛmɚɹəl nɜːv ",
+        "type": "noun",
+        "defineEn": "a key nerve responsible for transmitting signals to the muscles and skin of the thigh and leg",
+        "defineVi": "một dây thần kinh chính chịu trách nhiệm truyền tín hiệu đến các cơ và da của đùi và chân"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "id": "230e5ca1-20da-4c39-a2a2-e406c2a90da5",
+        "word": "clock",
+        "phonetic": "klɑːk ",
+        "type": "noun",
+        "defineEn": "a device used to measure and show time",
+        "defineVi": "một thiết bị được sử dụng để đo lường và hiển thị thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "e7c0d885-1533-4201-a3b8-32d6c43b3c3f",
+        "word": "time",
+        "phonetic": "taɪm ",
+        "type": "noun",
+        "defineEn": "the quantity that is measured in seconds, minutes, hours, etc. using a device like clock",
+        "defineVi": "số lượng được đo bằng giây, phút, giờ, v.v. bằng thiết bị như đồng hồ",
+        "hasImg": true
+    },
+    {
+        "id": "c3f99242-b7d8-4cb7-8663-f9f5435c687b",
+        "word": "date",
+        "phonetic": "deɪt ",
+        "type": "noun",
+        "defineEn": "a specific day in a month or sometimes a year, shown using a number and sometimes a name",
+        "defineVi": "một ngày cụ thể trong một tháng hoặc đôi khi là một năm, được hiển thị bằng số và đôi khi là tên",
+        "hasImg": true
+    },
+    {
+        "id": "4a0814e9-1e21-48c2-bfb0-a97d8636387e",
+        "word": "year",
+        "phonetic": "jɪɹ ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of twelve months, particularly one that starts on January first and ends on December thirty-first",
+        "defineVi": "một khoảng thời gian được tạo thành từ mười hai tháng, đặc biệt là một tháng bắt đầu vào ngày đầu tiên của tháng một và kết thúc vào ngày 31 tháng 12",
+        "hasImg": true
+    },
+    {
+        "id": "cf3f8a65-74de-4ece-82d5-67cdf6af956c",
+        "word": "day",
+        "phonetic": "deɪ ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of twenty-four hours",
+        "defineVi": "một khoảng thời gian được tạo thành từ hai mươi bốn giờ",
+        "hasImg": true
+    },
+    {
+        "id": "ad264f38-1044-44a2-af81-609b4e4e4da7",
+        "word": "hour",
+        "phonetic": "aʊɚ ",
+        "type": "noun",
+        "defineEn": "each of the twenty-four time periods that exist in a day and each time period is made up of sixty minutes",
+        "defineVi": "mỗi khoảng thời gian trong số hai mươi bốn khoảng thời gian tồn tại trong một ngày và mỗi khoảng thời gian được tạo thành từ sáu mươi phút",
+        "hasImg": true
+    },
+    {
+        "id": "39250916-2db8-42a6-a5eb-1be3f6fe3558",
+        "word": "o\\'clock",
+        "phonetic": "oʊ bækslæʃ klɑːk ",
+        "type": "adverb",
+        "defineEn": "put after the numbers one to twelve to show or tell what time it is, only when it is at that exact hour",
+        "defineVi": "đặt sau các số từ một đến mười hai để hiển thị hoặc cho biết mấy giờ rồi, chỉ khi nó vào chính xác giờ đó",
+        "hasImg": true
+    },
+    {
+        "id": "7230d4cc-8e69-4484-8503-0c0d2627430a",
+        "word": "minute",
+        "phonetic": "mɪnɪt ",
+        "type": "noun",
+        "defineEn": "each of the sixty parts that creates one hour and is made up of sixty seconds",
+        "defineVi": "mỗi phần trong số sáu mươi phần tạo ra một giờ và được tạo thành từ sáu mươi giây",
+        "hasImg": true
+    },
+    {
+        "id": "570b2ec4-7af5-49b6-8044-bfab9b758bb3",
+        "word": "second",
+        "phonetic": "sɛkənd ",
+        "type": "noun",
+        "defineEn": "each of the sixty parts that creates one minute",
+        "defineVi": "mỗi phần trong số sáu mươi phần tạo ra một phút",
+        "hasImg": true
+    },
+    {
+        "id": "058e0ac1-c8b7-4794-9191-6479c9a02f10",
+        "word": "morning",
+        "phonetic": "mɔːɹnɪŋ ",
+        "type": "noun",
+        "defineEn": "the time of day that is between when the sun starts to rise and the middle of the day at twelve o'clock",
+        "defineVi": "thời gian trong ngày là giữa khi mặt trời bắt đầu mọc và giữa ngày lúc mười hai giờ",
+        "hasImg": true
+    },
+    {
+        "id": "580c0a7f-a6d4-469d-ac96-34371eb65ecc",
+        "word": "afternoon",
+        "phonetic": "æftɚnuːn ",
+        "type": "noun",
+        "defineEn": "the time of day that is between twelve o'clock and the time that the sun starts to set",
+        "defineVi": "thời gian trong ngày là giữa mười hai giờ và thời gian mà mặt trời bắt đầu lặn",
+        "hasImg": true
+    },
+    {
+        "id": "aa3c4e0d-32f9-453a-88c4-522716885fb6",
+        "word": "evening",
+        "phonetic": "iːvnɪŋ ",
+        "type": "noun",
+        "defineEn": "the time of day that is between the time that the sun starts to set and when the sky becomes completely dark",
+        "defineVi": "thời gian trong ngày nằm giữa thời điểm mặt trời bắt đầu lặn và khi bầu trời trở nên tối hoàn toàn",
+        "hasImg": true
+    },
+    {
+        "id": "78008e7c-2c71-4628-a5dc-c65624e6159a",
+        "word": "night",
+        "phonetic": "naɪt ",
+        "type": "noun",
+        "defineEn": "the time when the sun goes down, it gets dark outside, and we sleep",
+        "defineVi": "thời gian khi mặt trời lặn, trời tối bên ngoài, và chúng tôi ngủ",
+        "hasImg": true
+    },
+    {
+        "id": "c5d7406b-94a9-4369-a4b7-ee0c74faa6df",
+        "word": "week",
+        "phonetic": "wiːk ",
+        "type": "noun",
+        "defineEn": "a period of time that is made up of seven days in a calendar",
+        "defineVi": "một khoảng thời gian được tạo thành từ bảy ngày trong lịch",
+        "hasImg": true
+    },
+    {
+        "id": "605eb785-eef1-4e63-9ff6-c6109f0edb42",
+        "word": "Sunday",
+        "phonetic": "sʌndeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Saturday",
+        "defineVi": "‌ngày diễn ra sau thứ bảy",
+        "hasImg": true
+    },
+    {
+        "id": "d2a8917b-b0dd-4d27-8984-2cbe982fdf27",
+        "word": "Monday",
+        "phonetic": "mʌndeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Sunday",
+        "defineVi": "‌ngày diễn ra sau chủ nhật",
+        "hasImg": true
+    },
+    {
+        "id": "3e7f8dfc-5305-4087-aea7-c88a18a9707a",
+        "word": "Tuesday",
+        "phonetic": "tuːzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Monday",
+        "defineVi": "‌ngày diễn ra sau thứ Hai",
+        "hasImg": true
+    },
+    {
+        "id": "b45080d5-a065-47b8-ae23-f4a59535f099",
+        "word": "Wednesday",
+        "phonetic": "wɛnzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Tuesday",
+        "defineVi": "‌ngày diễn ra sau thứ ba",
+        "hasImg": true
+    },
+    {
+        "id": "06890c84-db4c-46c2-8294-f6f6449a325d",
+        "word": "Thursday",
+        "phonetic": "θɜːzdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Wednesday",
+        "defineVi": "‌ngày diễn ra sau thứ Tư",
+        "hasImg": true
+    },
+    {
+        "id": "364d911a-e94d-419f-8c6e-4d6e6f1ff6c2",
+        "word": "Friday",
+        "phonetic": "fɹaɪdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Thursday",
+        "defineVi": "‌ngày diễn ra sau thứ năm",
+        "hasImg": true
+    },
+    {
+        "id": "e0d0a994-e906-4a25-acc1-5b647b4d1a07",
+        "word": "Saturday",
+        "phonetic": "sæɾɚdeɪ ",
+        "type": "noun",
+        "defineEn": "‌the day that takes place after Friday",
+        "defineVi": "‌ngày diễn ra sau thứ sáu",
+        "hasImg": true
+    },
+    {
+        "id": "49ca5d8c-1592-4257-becc-88ac1dc0d7de",
+        "word": "weekend",
+        "phonetic": "wiːkɛnd ",
+        "type": "noun",
+        "defineEn": "the days of the week, usually Saturday and Sunday, when people do not have to go to work or school",
+        "defineVi": "các ngày trong tuần, thường là thứ bảy và chủ nhật, khi mọi người không phải đi làm hoặc đi học",
+        "hasImg": true
+    },
+    {
+        "id": "e7383098-9c0e-4d4c-80f6-1573b16a8d65",
+        "word": "next",
+        "phonetic": "nɛkst ",
+        "type": "adjective",
+        "defineEn": "coming immediately after a person or thing in time, place, or rank",
+        "defineVi": "đến ngay sau một người hoặc vật trong thời gian, địa điểm, hoặc thứ hạng",
+        "hasImg": true
+    },
+    {
+        "id": "55d792b0-e726-4e5d-825c-d86329df1101",
+        "word": "half",
+        "phonetic": "hæf ",
+        "type": "noun",
+        "defineEn": "either of two equal parts into which something can be divided",
+        "defineVi": "một trong hai phần bằng nhau mà một cái gì đó có thể được chia",
+        "hasImg": true
+    }
+]

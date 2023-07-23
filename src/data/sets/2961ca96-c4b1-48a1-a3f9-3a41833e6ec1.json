@@ -1,0 +1,270 @@
+[
+    {
+        "id": "64622975-aa94-41e6-82d4-33d2d8cc8091",
+        "word": "atmosphere",
+        "phonetic": "ætməsfɪɹ ",
+        "type": "noun",
+        "defineEn": "the different types of gases that surround the earth or other planets",
+        "defineVi": "các loại khí khác nhau bao quanh trái đất hoặc các hành tinh khác"
+    },
+    {
+        "id": "1d30075e-e82e-4831-9b23-218ea0a582d8",
+        "word": "cloudy",
+        "phonetic": "klaʊdi ",
+        "type": "adjective",
+        "defineEn": "having many clouds up in the sky",
+        "defineVi": "có nhiều đám mây trên bầu trời",
+        "hasImg": true
+    },
+    {
+        "id": "3c9c9e7d-d446-4e07-a606-b31afab5d73b",
+        "word": "to flood",
+        "phonetic": "tə flʌd ",
+        "type": "verb",
+        "defineEn": "to become covered or filled by water",
+        "defineVi": "để trở thành bao phủ hoặc lấp đầy bởi nước",
+        "hasImg": true
+    },
+    {
+        "id": "4979b575-df3f-456e-bf0d-2ea43e576543",
+        "word": "to freeze",
+        "phonetic": "tə fɹiːz ",
+        "type": "verb",
+        "defineEn": "(of the weather) to be very cold",
+        "defineVi": "(về thời tiết) rất lạnh",
+        "hasImg": true
+    },
+    {
+        "id": "cac6daa5-dc5b-4d5a-a751-4440236825b4",
+        "word": "hurricane",
+        "phonetic": "hɜːɹᵻkeɪn ",
+        "type": "noun",
+        "defineEn": "a very strong and destructive wind that moves in circles, often seen in the Caribbean",
+        "defineVi": "một cơn gió rất mạnh và có sức tàn phá di chuyển theo vòng tròn, thường thấy ở vùng biển Caribe",
+        "hasImg": true
+    },
+    {
+        "id": "52032c04-dc84-4619-987e-0d88d522dc3c",
+        "word": "lightning",
+        "phonetic": "laɪtnɪŋ ",
+        "type": "noun",
+        "defineEn": "a bright flash, caused by electricity, in the sky or one that hits the ground from within the clouds",
+        "defineVi": "một tia sáng do điện gây ra trên bầu trời hoặc một tia sáng chạm đất từ trong các đám mây",
+        "hasImg": true
+    },
+    {
+        "id": "47fb581b-a7da-40e6-94cb-d019c012c16e",
+        "word": "to pour",
+        "phonetic": "tə poːɹ ",
+        "type": "verb",
+        "defineEn": "to rain heavily and in a large amount",
+        "defineVi": "mưa to và với số lượng lớn",
+        "hasImg": true
+    },
+    {
+        "id": "95397a5d-5b3f-45eb-a815-3ce213db4526",
+        "word": "rainfall",
+        "phonetic": "ɹeɪnfɔːl ",
+        "type": "noun",
+        "defineEn": "the amount or the event of rain falling in a particular area in a given time",
+        "defineVi": "lượng hoặc sự kiện mưa rơi ở một khu vực cụ thể trong một thời gian nhất định",
+        "hasImg": true
+    },
+    {
+        "id": "05aceb3c-eeaa-4d33-9759-4d669c06b8f6",
+        "word": "snowfall",
+        "phonetic": "snoʊfɔːl ",
+        "type": "noun",
+        "defineEn": "the amount of snow that falls from the sky, or the time when it starts to snow during a period of time",
+        "defineVi": "lượng tuyết rơi từ trên trời xuống hoặc thời điểm bắt đầu có tuyết rơi trong một khoảng thời gian",
+        "hasImg": true
+    },
+    {
+        "id": "01ac7f2c-5df8-491c-a37e-17494accf425",
+        "word": "tornado",
+        "phonetic": "tɔːɹneɪdoʊ ",
+        "type": "noun",
+        "defineEn": "a strong and dangerous type of wind, which is formed like a turning cone, usually causing damage",
+        "defineVi": "một loại gió mạnh và nguy hiểm, được hình thành giống như một hình nón quay, thường gây ra thiệt hại",
+        "hasImg": true
+    },
+    {
+        "id": "ee8c46cf-7ac0-4e99-9285-dfbb0d19bca1",
+        "word": "avalanche",
+        "phonetic": "ævəlænʃ ",
+        "type": "noun",
+        "defineEn": "large amounts of snow falling from mountains",
+        "defineVi": "một lượng lớn tuyết rơi từ trên núi",
+        "hasImg": true
+    },
+    {
+        "id": "f1b88fcf-ee60-4382-989f-9806afe66615",
+        "word": "blizzard",
+        "phonetic": "blɪzɚd ",
+        "type": "noun",
+        "defineEn": "a storm with heavy snowfall and strong winds",
+        "defineVi": "một cơn bão với tuyết rơi dày và gió mạnh",
+        "hasImg": true
+    },
+    {
+        "id": "5059ca68-1cd8-4aae-ad10-c8ec3cd8c212",
+        "word": "drought",
+        "phonetic": "dɹaʊt ",
+        "type": "noun",
+        "defineEn": "a long period of time when there is not much raining",
+        "defineVi": "một thời gian dài khi không có nhiều mưa",
+        "hasImg": true
+    },
+    {
+        "id": "fce3a1a9-dfdd-4a94-b979-d7dcbbd97af5",
+        "word": "forecast",
+        "phonetic": "fɔːɹkæst ",
+        "type": "noun",
+        "defineEn": "a prediction of what will happen such as a change in the weather",
+        "defineVi": "một dự đoán về những gì sẽ xảy ra chẳng hạn như một sự thay đổi trong thời tiết",
+        "hasImg": true
+    },
+    {
+        "id": "a26e0a46-e35e-446f-a7a4-bc734b02df7e",
+        "word": "typhoon",
+        "phonetic": "taɪfuːn ",
+        "type": "noun",
+        "defineEn": "a tropical storm with violent winds moving in a circle, occurring in West Pacific Ocean",
+        "defineVi": "một cơn bão nhiệt đới với gió dữ dội di chuyển theo hình tròn, xảy ra ở Tây Thái Bình Dương",
+        "hasImg": true
+    },
+    {
+        "id": "ef6af75b-3a31-40ff-a8ec-7bf2db43effc",
+        "word": "acid rain",
+        "phonetic": "æsɪd ɹeɪn ",
+        "type": "noun",
+        "defineEn": "rain containing a great deal of acidic chemicals, caused by air pollution, which can harm the environment",
+        "defineVi": "mưa chứa nhiều hóa chất có tính axit, gây ra bởi ô nhiễm không khí, có thể gây hại cho môi trường",
+        "hasImg": true
+    },
+    {
+        "id": "7879386c-819c-40c7-bd3f-f9bc3c175309",
+        "word": "centigrade",
+        "phonetic": "sɛntɪɡɹeɪd ",
+        "type": "adjective",
+        "defineEn": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+        "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 100° và đóng băng ở 0°",
+        "hasImg": true
+    },
+    {
+        "id": "40518a5a-8314-463b-8c01-973580eb46f5",
+        "word": "cyclone",
+        "phonetic": "saɪkloʊn ",
+        "type": "noun",
+        "defineEn": "a violent storm with winds moving in circles",
+        "defineVi": "một cơn bão dữ dội với gió di chuyển trong vòng tròn",
+        "hasImg": true
+    },
+    {
+        "id": "a0bee73e-db59-468b-aac9-7af57e58472a",
+        "word": "downpour",
+        "phonetic": "daʊnpoːɹ ",
+        "type": "noun",
+        "defineEn": "a brief heavy rainfall",
+        "defineVi": "một lượng mưa lớn ngắn",
+        "hasImg": true
+    },
+    {
+        "id": "55903492-da8c-4baf-b9c8-83dca425a755",
+        "word": "Fahrenheit",
+        "phonetic": "fæɹənhaɪt ",
+        "type": "adjective",
+        "defineEn": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+        "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 212° và đóng băng ở 32°",
+        "hasImg": true
+    },
+    {
+        "id": "359b60b6-1f8a-4faf-a002-f0ec1d7058ce",
+        "word": "frost",
+        "phonetic": "fɹɔst ",
+        "type": "noun",
+        "defineEn": "a weather condition during which the temperature drops below the freezing point and thin layers of ice are formed on the surfaces",
+        "defineVi": "một điều kiện thời tiết trong đó nhiệt độ giảm xuống dưới điểm đóng băng và các lớp băng mỏng được hình thành trên bề mặt",
+        "hasImg": true
+    },
+    {
+        "id": "632e32e8-491c-4174-9eb8-8eafe391f4c0",
+        "word": "monsoon",
+        "phonetic": "mɔnsuːn ",
+        "type": "noun",
+        "defineEn": "a period in the summer during which wind blows and rain falls in India or other hot South Asian countries",
+        "defineVi": "một khoảng thời gian vào mùa hè khi gió thổi và mưa rơi ở Ấn Độ hoặc các nước Nam Á nóng khác",
+        "hasImg": true
+    },
+    {
+        "id": "b3410114-4e13-494f-8322-5306adec7db4",
+        "word": "heat wave",
+        "phonetic": "hiːt weɪv ",
+        "type": "noun",
+        "defineEn": "a period of hot weather, usually hotter and longer than before",
+        "defineVi": "một thời kỳ thời tiết nóng, thường nóng hơn và dài hơn trước",
+        "hasImg": true
+    },
+    {
+        "id": "4f9fd936-0224-494e-b753-6608766276de",
+        "word": "humidity",
+        "phonetic": "hjuːmɪdᵻɾi ",
+        "type": "noun",
+        "defineEn": "the quality or condition of being humid",
+        "defineVi": "chất lượng hoặc tình trạng ẩm ướt",
+        "hasImg": true
+    },
+    {
+        "id": "4019d7d2-43ae-47cd-b80a-7dbd6eb3899d",
+        "word": "mist",
+        "phonetic": "mɪst ",
+        "type": "noun",
+        "defineEn": "a thin cloud of tiny drops of water or condensed vapor close to the ground or a water surface",
+        "defineVi": "một đám mây mỏng gồm những giọt nước nhỏ hoặc hơi ngưng tụ gần mặt đất hoặc mặt nước",
+        "hasImg": true
+    },
+    {
+        "id": "cdab26c0-476d-43d7-9dd1-69943f9f9045",
+        "word": "thunder",
+        "phonetic": "θʌndɚ ",
+        "type": "noun",
+        "defineEn": "the loud crackling noise that is heard from the sky during a storm",
+        "defineVi": "tiếng nổ lớn được nghe thấy từ bầu trời trong một cơn bão",
+        "hasImg": true
+    },
+    {
+        "id": "c8157c8c-b006-422e-8abb-ee3edc3f2e82",
+        "word": "vapor",
+        "phonetic": "veɪpɚ ",
+        "type": "noun",
+        "defineEn": "extremely small drops of liquid in the air, resulted from the heating of the liquid",
+        "defineVi": "giọt chất lỏng cực nhỏ trong không khí, là kết quả của sự nóng lên của chất lỏng"
+    },
+    {
+        "id": "ea2b8ed7-44ba-40d9-9e7a-7d0807016698",
+        "word": "torrent",
+        "phonetic": "tɔɹənt ",
+        "type": "noun",
+        "defineEn": "a powerful stream of water or other liquid that moves very fast",
+        "defineVi": "một dòng nước mạnh hoặc chất lỏng khác di chuyển rất nhanh",
+        "hasImg": true
+    },
+    {
+        "id": "04a4e3a3-1c38-41aa-94a7-c61d4463fa66",
+        "word": "to shower",
+        "phonetic": "tə ʃaʊɚ ",
+        "type": "verb",
+        "defineEn": "to rain or snow as if in a shower",
+        "defineVi": "mưa hoặc tuyết như thể đang tắm",
+        "hasImg": true
+    },
+    {
+        "id": "f26dc143-d205-46df-a389-6a9d9c4c7caa",
+        "word": "celsius",
+        "phonetic": "sɛlsɪəs ",
+        "type": "noun",
+        "defineEn": "Swedish astronomer who devised the centigrade thermometer (1701-1744)",
+        "defineVi": "Nhà thiên văn học Thụy Điển, người đã phát minh ra nhiệt kế bách phân (1701-1744)",
+        "hasImg": true
+    }
+]

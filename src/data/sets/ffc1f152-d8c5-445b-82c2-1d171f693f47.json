@@ -1,0 +1,282 @@
+[
+    {
+        "id": "e9278857-30cc-4017-86c7-d5346ab65c8a",
+        "word": "graph",
+        "phonetic": "ɡɹæf ",
+        "type": "noun",
+        "defineEn": "a graphical display of the relationship between two or more numbers using a line or lines",
+        "defineVi": "hiển thị đồ họa về mối quan hệ giữa hai hoặc nhiều số bằng cách sử dụng một hoặc nhiều dòng",
+        "hasImg": true
+    },
+    {
+        "id": "fd3ec746-8a34-418f-84a5-7b99278689ad",
+        "word": "sign",
+        "phonetic": "saɪn ",
+        "type": "noun",
+        "defineEn": "(mathematics) the property of being positive or negative in any number other than zero",
+        "defineVi": "(toán học) tính chất dương hoặc âm ở bất kỳ số nào khác 0"
+    },
+    {
+        "id": "aa5eb9df-503d-4a71-99e1-7be1b52b326c",
+        "word": "deduction",
+        "phonetic": "dᵻdʌkʃən ",
+        "type": "noun",
+        "defineEn": "the action or process of taking an amount away from a total; the amount taken away in such process",
+        "defineVi": "hành động hoặc quá trình lấy đi một số tiền từ tổng số; số tiền lấy đi trong quá trình đó",
+        "hasImg": true
+    },
+    {
+        "id": "b685098b-313a-44e7-87d3-daf25b954cf3",
+        "word": "mathematically",
+        "phonetic": "mæθɪmæɾɪkli ",
+        "type": "adverb",
+        "defineEn": "connected with or according to the rules of mathematics",
+        "defineVi": "kết nối với hoặc theo các quy tắc của toán học"
+    },
+    {
+        "id": "9fc2dca7-0ad6-40e0-8909-f10f749b7bd3",
+        "word": "mathematician",
+        "phonetic": "mæθɪmɐtɪʃən ",
+        "type": "noun",
+        "defineEn": "someone who is a specialist or expert in mathematics",
+        "defineVi": "một người là một chuyên gia hoặc chuyên gia trong toán học",
+        "hasImg": true
+    },
+    {
+        "id": "ee1906ea-fd74-4a81-813f-8ff6520ec98f",
+        "word": "parallel",
+        "phonetic": "pæɹəlɛl ",
+        "type": "adjective",
+        "defineEn": "being of the same distance from each other at every point and not converging",
+        "defineVi": "có cùng khoảng cách với nhau tại mọi điểm và không hội tụ",
+        "hasImg": true
+    },
+    {
+        "id": "360731a4-583a-4820-b22b-7e643e292a90",
+        "word": "probability",
+        "phonetic": "pɹɑːbəbɪlᵻɾi ",
+        "type": "noun",
+        "defineEn": "(mathematics) a number representing the chances of something specific happening",
+        "defineVi": "(toán học) một con số đại diện cho khả năng xảy ra một điều gì đó cụ thể"
+    },
+    {
+        "id": "4da4c9ff-a6c3-428c-abea-b9c062770c60",
+        "word": "problem",
+        "phonetic": "pɹɑːbləm ",
+        "type": "noun",
+        "defineEn": "a question that can be answered by mathematics or logical thought",
+        "defineVi": "một câu hỏi có thể được trả lời bằng toán học hoặc tư duy logic"
+    },
+    {
+        "id": "63275af3-16d5-44d2-9f21-40576f5e75f5",
+        "word": "scale",
+        "phonetic": "skeɪl ",
+        "type": "noun",
+        "defineEn": "the size, amount, or degree of one thing compared with another",
+        "defineVi": "kích thước, số lượng, hoặc mức độ của một điều so với khác"
+    },
+    {
+        "id": "8f1d3899-c38f-4fe7-93f9-8be89c9f36c8",
+        "word": "square",
+        "phonetic": "skwɛɹ ",
+        "type": "noun",
+        "defineEn": "the second exponent of any given number produced when multiplied by itself",
+        "defineVi": "số mũ thứ hai của bất kỳ số đã cho nào được tạo ra khi nhân với chính nó"
+    },
+    {
+        "id": "76efff5b-f1b8-410f-827e-762d72483746",
+        "word": "vertical",
+        "phonetic": "vɜːɾɪkəl ",
+        "type": "adjective",
+        "defineEn": "going straight up and down from a level surface or line; at an angle of 90 degrees with a flat surface",
+        "defineVi": "đi thẳng lên và xuống từ một bề mặt hoặc đường thẳng; một góc 90 độ với mặt phẳng",
+        "hasImg": true
+    },
+    {
+        "id": "95b22bfe-6718-47a9-b875-9ec3e1c4d890",
+        "word": "set",
+        "phonetic": "sɛt ",
+        "type": "noun",
+        "defineEn": "(mathematics) a group of things that belong together because of having some similarities",
+        "defineVi": "(toán học) một nhóm những thứ thuộc về nhau vì có một số điểm tương đồng",
+        "hasImg": true
+    },
+    {
+        "id": "8e8e8dbb-1cd1-4b12-a5fb-3398ab91b615",
+        "word": "axis",
+        "phonetic": "æksɪs ",
+        "type": "noun",
+        "defineEn": "(geometry) an arbitrary straight line that passes through the center of a symmetrical object or around which an object spins",
+        "defineVi": "(hình học) đường thẳng tùy ý đi qua tâm của một vật đối xứng hoặc xung quanh vật quay",
+        "hasImg": true
+    },
+    {
+        "id": "7bf59fe1-547c-4aae-a6cb-968654112eef",
+        "word": "bracket",
+        "phonetic": "bɹækɪt ",
+        "type": "noun",
+        "defineEn": "each of the two symbols [ ] used to indicate that the enclosed numbers or words should be considered separately",
+        "defineVi": "mỗi ký hiệu trong số hai ký hiệu [ ] được sử dụng để chỉ ra rằng các số hoặc từ kèm theo cần được xem xét riêng",
+        "hasImg": true
+    },
+    {
+        "id": "a37470ae-6012-45c1-99ec-03a3ba2b36f3",
+        "word": "equation",
+        "phonetic": "ᵻkweɪʒən ",
+        "type": "noun",
+        "defineEn": "(mathematics) a statement indicating the equality between two values",
+        "defineVi": "(toán học) phát biểu biểu thị sự bằng nhau giữa hai giá trị"
+    },
+    {
+        "id": "22822144-b814-42cc-982f-89c274573f87",
+        "word": "to deduce",
+        "phonetic": "tə dᵻduːs ",
+        "type": "verb",
+        "defineEn": "to determine by a process of logical reasoning",
+        "defineVi": "để xác định bởi một quá trình suy luận logic"
+    },
+    {
+        "id": "94c408c0-7610-4d5a-99e1-86b5b45928fb",
+        "word": "formula",
+        "phonetic": "fɔːɹmjʊlə ",
+        "type": "noun",
+        "defineEn": "(mathematics) a rule or law represented in symbols, letters, or numbers",
+        "defineVi": "(toán học) một quy tắc hoặc luật được biểu thị bằng ký hiệu, chữ cái hoặc số"
+    },
+    {
+        "id": "654d8304-91ba-451a-8e18-6cfb20380f1d",
+        "word": "function",
+        "phonetic": "fʌŋkʃən ",
+        "type": "noun",
+        "defineEn": "(mathematics) a quantity whose value changes according to another quantity's varying value",
+        "defineVi": "(toán học) đại lượng có giá trị thay đổi theo giá trị thay đổi của đại lượng khác"
+    },
+    {
+        "id": "77b5dc23-9e97-4d1c-afa8-966f79988645",
+        "word": "ratio",
+        "phonetic": "ɹeɪʃɪoʊ ",
+        "type": "noun",
+        "defineEn": "(mathematics) the result of the division of two mathematical expressions",
+        "defineVi": "(toán học) kết quả của phép chia hai biểu thức toán học"
+    },
+    {
+        "id": "0b3a5633-b76a-4708-a9ff-8cc88b867cf7",
+        "word": "segment",
+        "phonetic": "sɛɡmənt ",
+        "type": "noun",
+        "defineEn": "(geometry) a part of a circle that is separated from the rest by a line",
+        "defineVi": "(hình học) một phần của hình tròn được phân cách với phần còn lại bằng một đường thẳng"
+    },
+    {
+        "id": "8da5cc86-ecd9-4bf9-bd67-ddca91462d61",
+        "word": "asymmetric",
+        "phonetic": "eɪsɪmɛtɹɪk ",
+        "type": "adjective",
+        "defineEn": "not having symmetry or equal shape or size between the two sides or parts of something",
+        "defineVi": "không có sự đối xứng hoặc hình dạng hoặc kích thước bằng nhau giữa hai bên hoặc các bộ phận của một cái gì đó",
+        "hasImg": true
+    },
+    {
+        "id": "05c884e9-2e7e-4490-a25f-2ce9202bd427",
+        "word": "induction",
+        "phonetic": "ɪndʌkʃən ",
+        "type": "noun",
+        "defineEn": "(logic) the process of arriving at a general conclusion based on particular instances",
+        "defineVi": "(logic) quá trình đi đến một kết luận chung dựa trên các trường hợp cụ thể"
+    },
+    {
+        "id": "fb716db4-e1ab-4b31-89b9-d7423a34a01b",
+        "word": "to divide",
+        "phonetic": "tə dᵻvaɪd ",
+        "type": "verb",
+        "defineEn": "(mathematics) to calculate how many times a number contains another number",
+        "defineVi": "(toán học) để tính số lần một số chứa một số khác",
+        "hasImg": true
+    },
+    {
+        "id": "898d803a-e278-491a-a167-abc426250068",
+        "word": "percentage",
+        "phonetic": "pɚsɛntɪdʒ ",
+        "type": "noun",
+        "defineEn": "a quantity of something expressed in hundredth",
+        "defineVi": "một số lượng của một cái gì đó thể hiện trong phần trăm",
+        "hasImg": true
+    },
+    {
+        "id": "6205273a-1350-4646-acdd-9eb7592be1ed",
+        "word": "algebra",
+        "phonetic": "ældʒᵻbɹə ",
+        "type": "noun",
+        "defineEn": "a branch of mathematics in which abstract letters and symbols represent numbers in order to generalize the arithmetic",
+        "defineVi": "một nhánh của toán học trong đó các chữ cái và ký hiệu trừu tượng đại diện cho các số để khái quát hóa số học",
+        "hasImg": true
+    },
+    {
+        "id": "1b911611-d415-48b8-9e52-19c6135d9820",
+        "word": "calculus",
+        "phonetic": "kælkjʊləs ",
+        "type": "noun",
+        "defineEn": "the branch of mathematics that comprises differentials and integrals",
+        "defineVi": "ngành toán học bao gồm vi phân và tích phân",
+        "hasImg": true
+    },
+    {
+        "id": "705f97cc-1f6a-4f37-a498-8a41cdfa2fc5",
+        "word": "geometry",
+        "phonetic": "dʒiɑːmətɹi ",
+        "type": "noun",
+        "defineEn": "the branch of mathematics that deals with the relation between the lines, angles and surfaces or the properties of the space",
+        "defineVi": "nhánh toán học liên quan đến mối quan hệ giữa các đường thẳng, góc và bề mặt hoặc các tính chất của không gian",
+        "hasImg": true
+    },
+    {
+        "id": "2d21d366-94a6-466e-a56d-a6ea42d12357",
+        "word": "arithmetic",
+        "phonetic": "ɚɹɪθmətɪk ",
+        "type": "noun",
+        "defineEn": "a branch of mathematics that deals with addition, subtraction, multiplication, etc.",
+        "defineVi": "một nhánh của toán học liên quan đến phép cộng, phép trừ, phép nhân, v.v.",
+        "hasImg": true
+    },
+    {
+        "id": "0addc821-991b-40fd-ba2a-f51259d1e04a",
+        "word": "mean",
+        "phonetic": "miːn ",
+        "type": "noun",
+        "defineEn": "(mathematics) the average value of a set of quantities calculated by adding them, and dividing them by the total number of the quantities",
+        "defineVi": "(toán học) giá trị trung bình của một tập hợp các đại lượng được tính bằng cách cộng chúng lại và chia chúng cho tổng số lượng",
+        "hasImg": true
+    },
+    {
+        "id": "30e5b39d-cfa8-44c0-a05b-01533a727c95",
+        "word": "variable",
+        "phonetic": "vɛɹɪəbəl ",
+        "type": "noun",
+        "defineEn": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+        "defineVi": "(toán học) đại lượng có khả năng nhận các giá trị khác nhau trong một phép tính"
+    },
+    {
+        "id": "f90fe308-69dd-4f3f-bf4d-bb9a6d7c9456",
+        "word": "normal distribution",
+        "phonetic": "noːɹməl dɪstɹɪbjuːʃən ",
+        "type": "noun",
+        "defineEn": "a function that shows the probability of variables in a symmetrical and bell-shaped graph",
+        "defineVi": "một hàm hiển thị xác suất của các biến trong biểu đồ đối xứng và hình chuông"
+    },
+    {
+        "id": "9a17160d-10bf-43bf-a7ee-c89252dd4546",
+        "word": "correlation coefficient",
+        "phonetic": "kɔɹɪleɪʃən koʊɪfɪʃənt ",
+        "type": "noun",
+        "defineEn": "(statistics) a measure used to show how strong is the relationship between two sets of data or variables",
+        "defineVi": "(thống kê) thước đo được sử dụng để chỉ ra mức độ mạnh mẽ của mối quan hệ giữa hai bộ dữ liệu hoặc biến số"
+    },
+    {
+        "id": "940a2d9d-b874-42ff-b454-f0b5432a8c03",
+        "word": "dependent variable",
+        "phonetic": "dᵻpɛndənt vɛɹɪəbəl ",
+        "type": "noun",
+        "defineEn": "(statistics) a variable whose value is determined by the value of another variable in a function",
+        "defineVi": "(thống kê) một biến có giá trị được xác định bởi giá trị của một biến khác trong một hàm"
+    }
+]
