@@ -12,6 +12,7 @@ import QuizChoiceWordStep from "./steps/QuizChoiceWordStep";
 import QuizWriteWordStep from "./steps/QuizWriteWordStep";
 import QuizChoiceDefineStep from "./steps/QuizChoiceDefineStep";
 import ViewTableWord from "./ViewTableWord";
+import {Link} from "react-router-dom";
 const WORD_LIST_STEP = "wordList";
 const FLASHCARD_STEP = "flashcard";
 const QUIZ_PRONUNCIATION_STEP = "quizPronunciation";
@@ -90,9 +91,12 @@ const SubCategory = (props) => {
                     <IoIosArrowBack />
                 </div>
                 <div className="text-xl font-bold">{subCategory.title}</div>
-                <div onClick={() => setShowTableWord((prev) => !prev)}>
+                <Link
+                    to={`/table-word/${data.id}`}
+                    // onClick={() => setShowTableWord((prev) => !prev)}
+                >
                     <CiViewTable />
-                </div>
+                </Link>
             </div>
             <div className="flex items-center justify-center px-4">
                 {steps.map((step, index) => {
@@ -122,8 +126,8 @@ const SubCategory = (props) => {
                 {showStepContent()}
             </div>
             {showTableWord && (
-                <div className="fixed top-0 left-0 right-0 bottom-0 bg-white">
-                    <ViewTableWord />
+                <div className="fixed top-0 left-0 right-0 bottom-0 bg-white overflow-y-auto">
+                    <ViewTableWord data={data}/>
                 </div>
             )}
         </div>
