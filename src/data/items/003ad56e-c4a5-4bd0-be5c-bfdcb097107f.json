@@ -1,0 +1,819 @@
+{
+    "id": "003ad56e-c4a5-4bd0-be5c-bfdcb097107f",
+    "title": "Baby Care Products",
+    "originalTitle": "Baby Care Products",
+    "words": [
+        {
+            "id": "a296d1fd-5421-4672-91b5-7475ec40283e",
+            "word": "baby wipe",
+            "phonetic": "beɪbi waɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSB3aXBl&hash=a8cf60127416741de4027c0db7b610d9342ce119&lang=en&cache-only=0",
+            "defineEn": "a disposable moistened cloth or towelette used for cleaning a baby's skin, typically during diaper changes or for general hygiene purposes",
+            "defineVi": "một miếng vải hoặc khăn giấy ẩm dùng một lần được sử dụng để làm sạch da em bé, thường là khi thay tã hoặc cho các mục đích vệ sinh chung",
+            "hasImg": true
+        },
+        {
+            "id": "d95a0b75-96fd-48bc-9a0c-1b02426d4971",
+            "word": "wet wipe",
+            "phonetic": "wɛt waɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2V0IHdpcGU&hash=63feaf3dbfc337bbe431a2ba1a50f59eb34c00e0&lang=en&cache-only=0",
+            "defineEn": "a disposable moist cloth used for cleaning hands, face, or surfaces",
+            "defineVi": "một miếng vải ẩm dùng một lần dùng để lau tay, mặt hoặc các bề mặt",
+            "hasImg": true
+        },
+        {
+            "id": "1d1298c5-14d0-4e3b-aa4b-492a5772a24f",
+            "word": "baby powder",
+            "phonetic": "beɪbi paʊdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBwb3dkZXI&hash=e96c2bba76c90d8194915af303ad9088537ec82c&lang=en&cache-only=0",
+            "defineEn": "a fine, talc-based or cornstarch-based powder used to prevent or soothe diaper rash and absorb moisture on a baby's skin",
+            "defineVi": "một loại bột mịn, dựa trên bột talc hoặc bột ngô được sử dụng để ngăn ngừa hoặc làm dịu vết hăm tã và hút ẩm trên da em bé",
+            "hasImg": true
+        },
+        {
+            "id": "60eb1644-cae0-4e49-b256-81343ab5cecd",
+            "word": "baby food",
+            "phonetic": "beɪbi fuːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBmb29k&hash=c9f8fa95133b3d790ccd1b2ec7612a9487b660b1&lang=en&cache-only=0",
+            "defineEn": "specially prepared food for infants and young children to transition to solid foods",
+            "defineVi": "thức ăn được chế biến đặc biệt cho trẻ sơ sinh và trẻ nhỏ chuyển sang thức ăn đặc",
+            "hasImg": true
+        },
+        {
+            "id": "feba24b8-aeac-4bb8-868c-c623eea63c3a",
+            "word": "baby monitor",
+            "phonetic": "beɪbi mɑːnɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBtb25pdG9y&hash=a41e579777086c92a0376a264829a6e4e7c986b6&lang=en&cache-only=0",
+            "defineEn": "a device for remotely monitoring a baby or young child for safety and well-being",
+            "defineVi": "một thiết bị để giám sát từ xa trẻ sơ sinh hoặc trẻ nhỏ để đảm bảo an toàn và sức khỏe",
+            "hasImg": true
+        },
+        {
+            "id": "8574badc-da56-4c52-94e6-1ca944b3aa81",
+            "word": "baby's room",
+            "phonetic": "beɪbi bækslæʃ ɛs ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSdzIHJvb20&hash=79df3fedd57c537a51822d1aba19a2ea4d0d2738&lang=en&cache-only=0",
+            "defineEn": "a designated space in a home specifically arranged and furnished for the care, comfort, and sleep of a baby",
+            "defineVi": "một không gian được chỉ định trong một ngôi nhà được sắp xếp và trang bị đặc biệt để chăm sóc, thoải mái và ngủ cho em bé",
+            "hasImg": true
+        },
+        {
+            "id": "461e249b-3756-41e3-be44-5489c0e231f0",
+            "word": "baby bed",
+            "phonetic": "beɪbi bɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBiZWQ&hash=cfb0e15555546716fe8d836150f3c86a62e2c687&lang=en&cache-only=0",
+            "defineEn": "a small, specially designed sleeping furniture or crib intended for infants",
+            "defineVi": "một đồ nội thất ngủ nhỏ, được thiết kế đặc biệt hoặc giường cũi dành cho trẻ sơ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "8cdf7aef-3c66-45e0-a7c3-fd9754d1c910",
+            "word": "baby buggy",
+            "phonetic": "beɪbi bʌɡi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBidWdneQ&hash=46cc6d997a67010307ea4cd82b2894b848b7cbee&lang=en&cache-only=0",
+            "defineEn": "a lightweight, collapsible stroller or pram used for transporting infants or young children",
+            "defineVi": "xe đẩy nhẹ, có thể thu gọn hoặc xe nôi được sử dụng để vận chuyển trẻ sơ sinh hoặc trẻ nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "5d616cc0-03e4-4ee2-8524-6cd288ffdf1f",
+            "word": "baby carriage",
+            "phonetic": "beɪbi kæɹɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBjYXJyaWFnZQ&hash=e6ea347f07aade44d6888f7679a401d2398f9b1c&lang=en&cache-only=0",
+            "defineEn": "a wheeled vehicle with a handle, designed for transporting infants or young children in a lying or seated position",
+            "defineVi": "một phương tiện có bánh xe có tay cầm, được thiết kế để vận chuyển trẻ sơ sinh hoặc trẻ nhỏ ở tư thế nằm hoặc ngồi",
+            "hasImg": true
+        },
+        {
+            "id": "498731b5-662c-4824-93f3-1912f59ee8d5",
+            "word": "baby oil",
+            "phonetic": "beɪbi ɔɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBvaWw&hash=42726545fe68903025e97978a31c26b2914f662f&lang=en&cache-only=0",
+            "defineEn": "a mild and gentle oil formulated specifically for the delicate skin of babies",
+            "defineVi": "một loại dầu nhẹ và dịu nhẹ được bào chế dành riêng cho làn da mỏng manh của trẻ sơ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "0558bba9-1243-4685-a4f6-9b14d5400461",
+            "word": "baby walker",
+            "phonetic": "beɪbi wɔːkɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSB3YWxrZXI&hash=378f71cb96bb4883de192cedbce428ecfbb5c90e&lang=en&cache-only=0",
+            "defineEn": "a device to assist babies in learning to walk, but it's not recommended due to safety concerns",
+            "defineVi": "một thiết bị hỗ trợ trẻ tập đi, nhưng không được khuyên dùng do lo ngại về an toàn",
+            "hasImg": true
+        },
+        {
+            "id": "26952f0d-5733-4186-b773-bb9f3a01a9f6",
+            "word": "nipple",
+            "phonetic": "nɪpəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Dogs, cats, pigs and whales all have nipples too.",
+                "Nipples are one of the most complicated body parts!",
+                "Break off the nipple.",
+                "Massage the nipple.",
+                "Here comes the nipple!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmlwcGxl&hash=e294c826a9575957868a74753f1e23411e8f1ab0&lang=en&cache-only=0",
+            "defineEn": "the small, projecting structure on the bottle through which liquid or milk is drawn, typically used for feeding infants",
+            "defineVi": "cấu trúc nhỏ, nhô ra trên chai mà qua đó chất lỏng hoặc sữa được rút ra, thường được sử dụng để cho trẻ bú",
+            "hasImg": true
+        },
+        {
+            "id": "a7acd7d5-487d-42df-ab27-935b73a0086e",
+            "word": "stroller",
+            "phonetic": "stɹoʊlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She pushed the stroller along the path in the park.",
+                "Also this week, in the same city, a man was beaten on the street while pushing his toddler's stroller.",
+                "We’re also anticipating around $300 for a used crib, $200 for a bassinet, $300 for a fancy but used stroller set, $500 for the first year of baby clothes, and another $800 for car seats, room decor and whatever else we might not get from our registry.",
+                "There’s not a lot you can do about medical costs, but you can have a bit more control over stuff like cribs, car seats, onesies and strollers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Ryb2xsZXI&hash=f84a2ca2a5c87aeb92a6017f1220367a43032b33&lang=en&cache-only=0",
+            "defineEn": "a wheeled carriage with a handle, designed for pushing infants or young children in a seated or reclining position",
+            "defineVi": "xe đẩy có bánh xe có tay cầm, được thiết kế để đẩy trẻ sơ sinh hoặc trẻ nhỏ ở tư thế ngồi hoặc nằm",
+            "hasImg": true
+        },
+        {
+            "id": "3b4289a4-5b5b-451e-b7ce-5ea4c28d3168",
+            "word": "baby sling",
+            "phonetic": "beɪbi slɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBzbGluZw&hash=bef4e71ca779f1236a6c25b38d54afbf64dcb180&lang=en&cache-only=0",
+            "defineEn": "a type of baby carrier that uses fabric or material to hold a baby close to the caregiver's body",
+            "defineVi": "một loại địu em bé sử dụng vải hoặc vật liệu để giữ em bé gần cơ thể của người chăm sóc",
+            "hasImg": true
+        },
+        {
+            "id": "1ae0eef7-aaec-49aa-acca-356b44379113",
+            "word": "rattle",
+            "phonetic": "ɹæɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Let him throw his rattle out of the cot.",
+                "So, rattlesnake rattles are hollow.",
+                "We had rattled them.",
+                "The rattle is actually a bunch of loosely interlocking segments.",
+                "In the sound design, here, you really hear the rattle of the gun."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmF0dGxl&hash=67ea8c612b680dbff6907279b4e2783fb11791c2&lang=en&cache-only=0",
+            "defineEn": "a toy for babies that makes a noise once shaken",
+            "defineVi": "một món đồ chơi cho trẻ sơ sinh phát ra tiếng động khi lắc",
+            "hasImg": true
+        },
+        {
+            "id": "10caae2b-b14e-4e14-a6c1-f1f6631cbe52",
+            "word": "pushchair",
+            "phonetic": "pʊʃtʃɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVzaGNoYWly&hash=011dca33ee9f6c3ce8fb92debf98160f9592dbbe&lang=en&cache-only=0",
+            "defineEn": "a portable chair with wheels and a handle, designed for pushing infants in a seated or reclined position",
+            "defineVi": "ghế di động có bánh xe và tay cầm, được thiết kế để đẩy trẻ sơ sinh ở tư thế ngồi hoặc nằm",
+            "hasImg": true
+        },
+        {
+            "id": "ffb8333d-46f0-499d-9516-7c7ca0746315",
+            "word": "pram",
+            "phonetic": "pɹæm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJhbQ&hash=0193444d1c928d8fa9abb21fe7be59e116e4a8c7&lang=en&cache-only=0",
+            "defineEn": "a four-wheeled carriage with a protective hood or canopy, designed for transporting infants in a lying down or semi-reclined position",
+            "defineVi": "xe bốn bánh có mui hoặc mái che bảo vệ, được thiết kế để vận chuyển trẻ sơ sinh ở tư thế nằm hoặc nửa nằm",
+            "hasImg": true
+        },
+        {
+            "id": "41237f38-2b30-488a-bcad-a200770a1e2b",
+            "word": "papoose",
+            "phonetic": "pæpuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFwb29zZQ&hash=fbd327f9ba61d89525c1cef9093535fb54681d90&lang=en&cache-only=0",
+            "defineEn": "a type of Native American baby carrier consisting of a small cradle or pouch worn on the back",
+            "defineVi": "một loại địu em bé của người Mỹ bản địa bao gồm một cái nôi nhỏ hoặc túi đeo sau lưng"
+        },
+        {
+            "id": "e62c4d3c-98bf-4265-ac8b-409ba0e150a5",
+            "word": "pacifier",
+            "phonetic": "pæsɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Narrator: Yoga mats, pacifiers, pens, and shopping carts are also being explored and manufactured with the Sharklet pattern.",
+                "She can suck her thumb or her pacifier and lie down or sit up just like a real baby.",
+                "Usually, these really young infants notice the difference and perk up somehow, like by looking around or sucking harder on a pacifier.",
+                "Babies suck faster on pacifiers when they're interested and slower when they're bored."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFjaWZpZXI&hash=ca12ca73120b7a57458ec93ec302f3ef4f533834&lang=en&cache-only=0",
+            "defineEn": "a rubber or silicone nipple-shaped device designed to be sucked on by infants",
+            "defineVi": "một thiết bị hình núm vú bằng cao su hoặc silicon được thiết kế để trẻ bú",
+            "hasImg": true
+        },
+        {
+            "id": "b395d1dd-8e9c-47c6-ae6b-6d0eaa5b3772",
+            "word": "baby's dummy",
+            "phonetic": "beɪbi bækslæʃ ɛs dʌmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSdzIGR1bW15&hash=62bec23791338f6777a5abf711e1ffeb6a33ed0b&lang=en&cache-only=0",
+            "defineEn": "a small, nipple-shaped object made from rubber or silicone, intended for infants to suck on as a means of providing comfort",
+            "defineVi": "một vật nhỏ, hình núm vú làm từ cao su hoặc silicone, dành cho trẻ sơ sinh bú như một phương tiện mang lại sự thoải mái",
+            "hasImg": true
+        },
+        {
+            "id": "0a731ef9-e4a0-4a71-8b10-87c698b3a3a2",
+            "word": "nappy",
+            "phonetic": "næpi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She can't even change a nappy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmFwcHk&hash=16994fe8358799ebd2c956c8ac94ef7d2258acb3&lang=en&cache-only=0",
+            "defineEn": "an absorbent garment worn by infants and young children to contain and absorb urine and feces",
+            "defineVi": "một loại quần áo thấm nước được mặc bởi trẻ sơ sinh và trẻ nhỏ để chứa và hấp thụ nước tiểu và phân",
+            "hasImg": true
+        },
+        {
+            "id": "9b82b4aa-5b2f-4856-8b34-eb7dcdc26078",
+            "word": "diaper",
+            "phonetic": "daɪpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We just transitioned our daughter out of diapers, and she's having a very hard time holding her water so far.",
+                "Diapers are a bit more expensive.",
+                "They've changed babies' diapers on the wing.",
+                "- They wouldn't do dirty diaper.",
+                "He should have had a diaper on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhcGVy&hash=57e6878950536312a918891bb3056febb099c6cd&lang=en&cache-only=0",
+            "defineEn": "a type of absorbent undergarment worn by infants or individuals who are incontinent",
+            "defineVi": "một loại đồ lót thấm nước được mặc bởi trẻ sơ sinh hoặc cá nhân không tự chủ",
+            "hasImg": true
+        },
+        {
+            "id": "ff7556d8-ca08-4247-be64-6c4007de2c6d",
+            "word": "feeding bottle",
+            "phonetic": "fiːdɪŋ bɑːɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZGluZyBib3R0bGU&hash=e5a163222adabb4310e997956e8353aa9d089597&lang=en&cache-only=0",
+            "defineEn": "a container with a nipple or teat used for bottle-feeding infants with milk or other liquids",
+            "defineVi": "hộp đựng có núm vú hoặc núm vú dùng cho trẻ bú bình bằng sữa hoặc chất lỏng khác",
+            "hasImg": true
+        },
+        {
+            "id": "73947a31-8065-46c4-a4dc-ef596bdd67b7",
+            "word": "bottle",
+            "phonetic": "bɑːɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The waiter opened the bottle of wine for the guests.",
+                "She hits the bottle every couple of years.",
+                "He killed three bottles of rum.",
+                "They collected glass bottles for a recycling project.",
+                "I brought a bottle of Pinot grape wine as a gift to the dinner party."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym90dGxl&hash=083135fc1cc1adf19e54c5706863b4d9b540c28f&lang=en&cache-only=0",
+            "defineEn": "a container specifically designed for infants to hold and dispense milk or other liquids during feeding",
+            "defineVi": "một vật chứa được thiết kế đặc biệt cho trẻ sơ sinh để giữ và phân phối sữa hoặc các chất lỏng khác trong khi cho ăn",
+            "hasImg": true
+        },
+        {
+            "id": "97f18878-1941-44f0-922a-075876f15df6",
+            "word": "disposable diaper",
+            "phonetic": "dɪspoʊzəbəl daɪpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzcG9zYWJsZSBkaWFwZXI&hash=f50d0ce2e96529161b62ba7078a0b6729a45ce15&lang=en&cache-only=0",
+            "defineEn": "a single-use, absorbent diaper designed for easy disposal after use, typically made of synthetic materials with absorbent polymers",
+            "defineVi": "tã thấm hút, sử dụng một lần được thiết kế để dễ dàng vứt bỏ sau khi sử dụng, thường được làm bằng vật liệu tổng hợp với polyme thấm hút",
+            "hasImg": true
+        },
+        {
+            "id": "93618116-046e-4f2d-93b6-2e479985ef92",
+            "word": "cloth diaper",
+            "phonetic": "klɔθ daɪpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2xvdGggZGlhcGVy&hash=08515fe75f0c60f5131036d5463d7e5da27e31b8&lang=en&cache-only=0",
+            "defineEn": "a reusable fabric diaper that requires washing and can be used multiple times on a baby or young child",
+            "defineVi": "tã vải có thể tái sử dụng cần phải giặt và có thể được sử dụng nhiều lần cho trẻ sơ sinh hoặc trẻ nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "52646c44-1aed-461e-8bf6-021540971e72",
+            "word": "potty seat",
+            "phonetic": "pɑːɾi siːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG90dHkgc2VhdA&hash=1e04590c62089bd44d99bf86f7e091051b945168&lang=en&cache-only=0",
+            "defineEn": "a small, detachable seat specifically designed for toddlers to sit on when using the toilet",
+            "defineVi": "một chiếc ghế nhỏ, có thể tháo rời được thiết kế đặc biệt cho trẻ mới biết đi khi đi vệ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "38ba005c-85ad-4ed2-a976-68be33425301",
+            "word": "training pants",
+            "phonetic": "tɹeɪnɪŋ pænts ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhaW5pbmcgcGFudHM&hash=9f24a70fa8aa4f8d19b84d259ebc94a656d7d1d3&lang=en&cache-only=0",
+            "defineEn": "a type of underwear-like garment for toddlers transitioning from diapers to regular underwear, providing comfort and absorbency for toileting training",
+            "defineVi": "một loại quần áo giống đồ lót dành cho trẻ mới biết đi đang chuyển từ tã giấy sang đồ lót thông thường, mang lại sự thoải mái và thấm hút để tập đi vệ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "84cfa6b1-9b6b-4822-95d8-d7d70c0930c7",
+            "word": "diaper pail",
+            "phonetic": "daɪpɚ peɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlhcGVyIHBhaWw&hash=44d31cab75469546816a10f8225657ead5878091&lang=en&cache-only=0",
+            "defineEn": "a specialized container for storing used diapers, often with odor control features for easier disposal",
+            "defineVi": "một hộp chuyên dụng để đựng tã đã qua sử dụng, thường có tính năng kiểm soát mùi để xử lý dễ dàng hơn",
+            "hasImg": true
+        },
+        {
+            "id": "71ff1823-ae5c-4985-be6f-367da7493ac5",
+            "word": "high chair",
+            "phonetic": "haɪ tʃɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGlnaCBjaGFpcg&hash=969f18877bab4f69c1340cbeadcf2ea1b3dcf90f&lang=en&cache-only=0",
+            "defineEn": "a special type of chair with long legs used by a small child or baby to sit in have a meal",
+            "defineVi": "một loại ghế đặc biệt có chân dài được sử dụng bởi một đứa trẻ nhỏ hoặc em bé để ngồi trong bữa ăn",
+            "hasImg": true
+        },
+        {
+            "id": "844c53e5-4a70-4956-b31e-8a511e4b7956",
+            "word": "teething ring",
+            "phonetic": "tiːðɪŋ ɹɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGVldGhpbmcgcmluZw&hash=042fb3a3f15af12aaddfa0f8f24a49c577714911&lang=en&cache-only=0",
+            "defineEn": "a small ring-shaped object designed for infants to chew on during the teething process to soothe their sore gums",
+            "defineVi": "một đồ vật nhỏ hình chiếc nhẫn được thiết kế cho trẻ nhai trong quá trình mọc răng để làm dịu nướu bị đau",
+            "hasImg": true
+        },
+        {
+            "id": "6dfd921c-c5ff-44e1-88f3-30cf7d380f39",
+            "word": "sippy cup",
+            "phonetic": "sɪpi kʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2lwcHkgY3Vw&hash=6ae982ab71dab69c5762480dccc7a5dd198f7db0&lang=en&cache-only=0",
+            "defineEn": "a spill-proof drinking cup with a lid and spout or straw, designed for young children transitioning from a bottle to a regular cup",
+            "defineVi": "cốc uống nước chống tràn có nắp và vòi hoặc ống hút, được thiết kế dành cho trẻ nhỏ đang chuyển từ bú bình sang cốc thông thường",
+            "hasImg": true
+        },
+        {
+            "id": "9831f2d3-2556-485d-ae52-3afb3afec03e",
+            "word": "baby spoon",
+            "phonetic": "beɪbi spuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBzcG9vbg&hash=bb00b0f5a88ddf602cd90237a31a71feff6218cc&lang=en&cache-only=0",
+            "defineEn": "a small spoon designed for feeding infants and young children solid foods, with a short handle and shallow, rounded bowl",
+            "defineVi": "thìa nhỏ được thiết kế để cho trẻ sơ sinh và trẻ nhỏ ăn thức ăn đặc, có tay cầm ngắn và bát nông, tròn",
+            "hasImg": true
+        },
+        {
+            "id": "62f70c79-2445-4496-bfcf-bc281f6afeee",
+            "word": "diaper bag",
+            "phonetic": "daɪpɚ bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlhcGVyIGJhZw&hash=d180f43af757c70e9b24bdd7df14b470474c043f&lang=en&cache-only=0",
+            "defineEn": "a specialized bag for carrying baby essentials, designed for use when on the go",
+            "defineVi": "một chiếc túi chuyên dụng để mang theo những thứ cần thiết cho em bé, được thiết kế để sử dụng khi di chuyển",
+            "hasImg": true
+        },
+        {
+            "id": "0608aa63-9dd9-4219-bb9e-00d9274600cc",
+            "word": "baby bag",
+            "phonetic": "beɪbi bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBiYWc&hash=242b5f124f12e476ac5c5b8cd2a1abda6ef35cb4&lang=en&cache-only=0",
+            "defineEn": "a bag specifically designed for carrying baby essentials, such as diapers, wipes, bottles, and other supplies, when on the go",
+            "defineVi": "một chiếc túi được thiết kế đặc biệt để mang theo những thứ cần thiết cho em bé, chẳng hạn như tã, khăn lau, bình sữa và các vật dụng khác khi di chuyển",
+            "hasImg": true
+        },
+        {
+            "id": "9ab542ac-07a6-4e0e-9300-76334de658f5",
+            "word": "changing bag",
+            "phonetic": "tʃeɪndʒɪŋ bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbmdpbmcgYmFn&hash=33df0b57163afd6564f47f5f8038d4ae01966203&lang=en&cache-only=0",
+            "defineEn": "a bag for carrying baby essentials, including diapers, wipes, and changing supplies, often with a changing pad or mat for on-the-go diaper changing",
+            "defineVi": "một chiếc túi để mang theo những thứ cần thiết cho em bé, bao gồm tã lót, khăn lau và đồ dùng thay tã, thường có một miếng lót hoặc thảm thay tã để thay tã khi di chuyển",
+            "hasImg": true
+        },
+        {
+            "id": "8501b049-b2fc-4e52-ae9e-a0a9a8370dbc",
+            "word": "changing table",
+            "phonetic": "tʃeɪndʒɪŋ teɪbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbmdpbmcgdGFibGU&hash=5be28e803ab54a88f0cc00f93f715d162fb8fa34&lang=en&cache-only=0",
+            "defineEn": "a specialized piece of furniture with a raised platform and cushioned surface for changing diapers, often with storage shelves or drawers for supplies",
+            "defineVi": "một món đồ nội thất chuyên dụng có bệ nâng và bề mặt có đệm để thay tã, thường có giá để đồ hoặc ngăn kéo để đựng đồ dùng",
+            "hasImg": true
+        },
+        {
+            "id": "d2d5f79a-5e36-4d2d-9b7f-40faae90ccea",
+            "word": "changing pad",
+            "phonetic": "tʃeɪndʒɪŋ pæd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbmdpbmcgcGFk&hash=1b5d6e953a7656a6e2bf76733588b9dbb5ec3b56&lang=en&cache-only=0",
+            "defineEn": "a portable cushioned surface for changing diapers, often waterproof, used when on the go or placed on top of a regular surface",
+            "defineVi": "bề mặt đệm di động để thay tã, thường không thấm nước, được sử dụng khi di chuyển hoặc đặt trên bề mặt thông thường",
+            "hasImg": true
+        },
+        {
+            "id": "2a561693-00b9-4fdf-a3c2-108798cc8dc9",
+            "word": "crib",
+            "phonetic": "kɹɪb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Those wasps put a lot of effort into building this crib for their babies.",
+                "Since the cells are both the crib and the cocoon for these wasp babies, the nest must maintain a stable temperature with high humidity.",
+                "Welcome to my crib, Leaders and Tyrants It's time to talk tax, trade, keeping debt climbing What?!",
+                "They're what's called holometabolous insects, meaning they go through a metamorphosis before they become adults, and these cells are basically their cribs.",
+                "And she said, \"Those cats are gonna climb in the crib and suffocate my grandson.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JpYg&hash=06ad5686a12bda6b1a3431ac4eae5ece5d958784&lang=en&cache-only=0",
+            "defineEn": "a small bed for infants and young babies with slatted sides to keep them safely contained and often with an adjustable mattress height, which can be converted into a toddler bed as the child grows",
+            "defineVi": "một chiếc giường nhỏ dành cho trẻ sơ sinh và trẻ nhỏ với các mặt có rãnh để giữ chúng an toàn và thường có chiều cao nệm có thể điều chỉnh, có thể chuyển đổi thành giường cho trẻ mới biết đi khi trẻ lớn lên",
+            "hasImg": true
+        },
+        {
+            "id": "ae0e4809-4fea-4417-a418-8600cb0da0a8",
+            "word": "bassinet",
+            "phonetic": "bæsɪnɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Each one is bundled in a little leaf-wrapped bassinet.",
+                "We’re also anticipating around $300 for a used crib, $200 for a bassinet, $300 for a fancy but used stroller set, $500 for the first year of baby clothes, and another $800 for car seats, room decor and whatever else we might not get from our registry."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFzc2luZXQ&hash=ca389f1b3257898108459a0407d0321a33029479&lang=en&cache-only=0",
+            "defineEn": "a small, portable bed designed for newborn infants and typically used for the first few months of a baby's life",
+            "defineVi": "một chiếc giường nhỏ di động được thiết kế cho trẻ sơ sinh và thường được sử dụng trong vài tháng đầu đời của trẻ",
+            "hasImg": true
+        },
+        {
+            "id": "64d2a947-fa96-4972-b8e4-799a194d3def",
+            "word": "night-light",
+            "phonetic": "naɪtlaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmlnaHQtbGlnaHQ&hash=5fdcc97ef07a13e344b50984d68079f493d9c5c6&lang=en&cache-only=0",
+            "defineEn": "a small, low-intensity light source used to provide a gentle illumination during nighttime",
+            "defineVi": "một nguồn sáng nhỏ, cường độ thấp được sử dụng để chiếu sáng nhẹ nhàng vào ban đêm",
+            "hasImg": true
+        },
+        {
+            "id": "dade1c9d-9f1d-4071-93b9-5028578c6a8c",
+            "word": "nursery glider",
+            "phonetic": "nɜːsɚɹi ɡlaɪdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2VyeSBnbGlkZXI&hash=e2d34c6832795c637b4b61bf731dad5423edabf4&lang=en&cache-only=0",
+            "defineEn": "a chair or rocking chair with smooth gliding motion, used in a nursery or baby's room for soothing and comforting a baby during feeding or bonding moments",
+            "defineVi": "ghế hoặc ghế bập bênh với chuyển động trượt mượt mà, được sử dụng trong nhà trẻ hoặc phòng của em bé để làm dịu và an ủi em bé trong những khoảnh khắc cho ăn hoặc gắn kết",
+            "hasImg": true
+        },
+        {
+            "id": "9eb512eb-febf-47da-bf89-bbc26c81371f",
+            "word": "mobile",
+            "phonetic": "moʊbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I can probably reach him on his mobile.",
+                "Try phoning his mobile.",
+                "She checked her account balance using the bank's mobile app.",
+                "The school discouraged the use of cell phones by implementing a ban on mobile devices during class hours to maintain a focused learning environment.",
+                "It was described as a large, luxury mobile home, but there was barely room to swing a cat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9iaWxl&hash=ad33661a55d523caf227893335c3fcaa8fc012b9&lang=en&cache-only=0",
+            "defineEn": "a suspended decorative object that moves in response to air currents or manipulation, commonly used for visual interest and stimulation in indoor spaces",
+            "defineVi": "một vật trang trí lơ lửng di chuyển theo luồng không khí hoặc thao tác, thường được sử dụng để thu hút và kích thích thị giác trong không gian trong nhà",
+            "hasImg": true
+        },
+        {
+            "id": "1ac5c8a5-fdb4-4167-acce-dda448d70582",
+            "word": "baby swing",
+            "phonetic": "beɪbi swɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBzd2luZw&hash=bc2d1e3882c35cf467a07c9727966f912ac7df73&lang=en&cache-only=0",
+            "defineEn": "a suspended seat or cradle that provides a gentle rocking motion to soothe and entertain a baby",
+            "defineVi": "một chiếc ghế treo hoặc nôi mang lại chuyển động lắc lư nhẹ nhàng để làm dịu và giải trí cho em bé"
+        },
+        {
+            "id": "bb3e1c16-6187-4ab8-b064-c54b95a5c005",
+            "word": "nursery rhyme",
+            "phonetic": "nɜːsɚɹi ɹaɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2VyeSByaHltZQ&hash=ff12b7af723d6d75730074f905635aa40b439dc5&lang=en&cache-only=0",
+            "defineEn": "a short traditional poem or song specifically intended for young children, often with a catchy melody and repetitive lyrics",
+            "defineVi": "một bài thơ hoặc bài hát truyền thống ngắn dành riêng cho trẻ nhỏ, thường có giai điệu hấp dẫn và lời bài hát lặp đi lặp lại",
+            "hasImg": true
+        },
+        {
+            "id": "79f8a0aa-676e-4818-a665-2e299396f92d",
+            "word": "baby bouncer",
+            "phonetic": "beɪbi baʊnsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBib3VuY2Vy&hash=0478854066676496cf7917d0165645862ec0aab9&lang=en&cache-only=0",
+            "defineEn": "a padded seat or cradle with a bouncing or vibrating feature that soothes and entertains a baby, often with a built-in toy bar",
+            "defineVi": "ghế đệm hoặc nôi có tính năng nảy hoặc rung giúp xoa dịu và giải trí cho bé, thường có thanh đồ chơi tích hợp",
+            "hasImg": true
+        },
+        {
+            "id": "7b026424-52cc-4a5d-a875-e002fec417b3",
+            "word": "formula",
+            "phonetic": "fɔːɹmjʊlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Formula One is the pinnacle of motorsport.",
+                "You'll be following the same tried-and-true formula as other successful businesses.",
+                "As the baby grew older, we transitioned from liquid formula to a powdered formula.",
+                "As the baby grew older, we transitioned from liquid formula to a powdered formula.",
+                "The professor delivered a lecture on abstract mathematics, exploring complex theories and formulas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9ybXVsYQ&hash=f39ba15cb3a95c86d178e289ca6866c9bb57cf6a&lang=en&cache-only=0",
+            "defineEn": "a specially prepared nutritional substance, typically in liquid or powder form, designed to provide essential nutrients for infants",
+            "defineVi": "một chất dinh dưỡng được chuẩn bị đặc biệt, thường ở dạng lỏng hoặc bột, được thiết kế để cung cấp các chất dinh dưỡng thiết yếu cho trẻ sơ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "c26016f3-f628-431b-9a8d-bf9cf084ef29",
+            "word": "toy",
+            "phonetic": "tɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I bought a toy for my nephew's birthday.",
+                "The little boy's favorite toy was a blue car.",
+                "The child's room was filled with colorful toys.",
+                "I gave my little brother a toy for his birthday.",
+                "We spent hours building structures with construction toys."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG95&hash=e34ece276dc12a36e3a77f186337093ed33531e7&lang=en&cache-only=0",
+            "defineEn": "an object that looks like a car, person, house, etc. designed for children to play with",
+            "defineVi": "một đồ vật trông giống như ô tô, người, ngôi nhà, v.v. được thiết kế cho trẻ em chơi cùng",
+            "hasImg": true
+        },
+        {
+            "id": "73b1ee15-977b-4de4-b8f3-9cbd07877d3d",
+            "word": "burp cloth",
+            "phonetic": "bɜːp klɔθ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVycCBjbG90aA&hash=1d2a68beb0a6002903fdbee564c2c2312c7eff5e&lang=en&cache-only=0",
+            "defineEn": "a small cloth or towel used to protect clothing from baby spit-up or drool during burping or feeding, typically made of soft and absorbent materials",
+            "defineVi": "một miếng vải hoặc khăn tắm nhỏ được sử dụng để bảo vệ quần áo khỏi nước dãi hoặc nước dãi của em bé khi ợ hơi hoặc cho ăn, thường được làm bằng vật liệu mềm và thấm hút",
+            "hasImg": true
+        },
+        {
+            "id": "f4fcd212-4a5c-4a48-a528-341d519ad9ce",
+            "word": "receiving blanket",
+            "phonetic": "ɹᵻsiːvɪŋ blæŋkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVjZWl2aW5nIGJsYW5rZXQ&hash=4ca23f6752ca054de6857ed13ef28147dae08e60&lang=en&cache-only=0",
+            "defineEn": "a lightweight, square-shaped blanket used to swaddle or wrap a newborn baby for warmth, typically made of soft and breathable materials like cotton or flannel",
+            "defineVi": "một chiếc chăn nhẹ, hình vuông được sử dụng để quấn hoặc quấn trẻ sơ sinh để giữ ấm, thường được làm bằng vật liệu mềm và thoáng khí như cotton hoặc flannel",
+            "hasImg": true
+        },
+        {
+            "id": "8ec8d6a0-7931-47d3-a0cf-d7884458dd91",
+            "word": "nursing cover",
+            "phonetic": "nɜːsɪŋ kʌvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2luZyBjb3Zlcg&hash=aba6d56995953738e731ed0a926cef9af47d9ee1&lang=en&cache-only=0",
+            "defineEn": "a garment for breastfeeding privacy, worn around the neck or shoulders, covering the baby and mother's chest, often with adjustable straps or necklines",
+            "defineVi": "một bộ quần áo để đảm bảo sự riêng tư khi cho con bú, được đeo quanh cổ hoặc vai, che ngực cho em bé và mẹ, thường có dây đai hoặc đường viền cổ áo có thể điều chỉnh được",
+            "hasImg": true
+        },
+        {
+            "id": "89bf5e04-99a5-4921-9050-bbfb45100276",
+            "word": "nursing pillow",
+            "phonetic": "nɜːsɪŋ pɪloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2luZyBwaWxsb3c&hash=2d9312bcbe3f26ca4df5a05c4150fec2bf702b47&lang=en&cache-only=0",
+            "defineEn": "a specialized pillow used for breastfeeding support, featuring a contoured shape and soft filling to help position the baby for optimal latch and feeding",
+            "defineVi": "một chiếc gối chuyên dụng được sử dụng để hỗ trợ cho con bú, có hình dạng đường viền và chất liệu mềm mại giúp định vị em bé để ngậm và bú một cách tối ưu",
+            "hasImg": true
+        },
+        {
+            "id": "2eb39fde-c93f-4fc8-9a26-93e962be356d",
+            "word": "nursing bra",
+            "phonetic": "nɜːsɪŋ bɹɑː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2luZyBicmE&hash=8be3d234819d4e44f7c4b494ab85d099ba5570b0&lang=en&cache-only=0",
+            "defineEn": "a specialized bra for breastfeeding, with convenient openings for easy access and additional support features",
+            "defineVi": "áo ngực chuyên dụng dành cho con bú, có các lỗ mở thuận tiện để dễ dàng tiếp cận và các tính năng hỗ trợ bổ sung"
+        },
+        {
+            "id": "1c2df070-d61d-4a9c-97db-71ec7f419384",
+            "word": "bib",
+            "phonetic": "bɪb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You would Have just like a mechanized version of bib overalls.",
+                "Kind of goes out there, and the whole audience, 60% of the audience is in bib overalls. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymli&hash=65eaf1ada27407f25d4f8fa6af38fc68a47d0b12&lang=en&cache-only=0",
+            "defineEn": "a piece of cloth or plastic fastened at the neck of a child to protect its clothes when eating or drinking",
+            "defineVi": "một mảnh vải hoặc nhựa buộc vào cổ của một đứa trẻ để bảo vệ quần áo của nó khi ăn hoặc uống",
+            "hasImg": true
+        },
+        {
+            "id": "78c5a1dc-0ceb-4db3-95c5-b38c51ef0808",
+            "word": "breast pump",
+            "phonetic": "bɹɛst pʌmp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJlYXN0IHB1bXA&hash=75e49c2ae148a0ac43d2fedc7e73b303b45cc9ea&lang=en&cache-only=0",
+            "defineEn": "a device used by breastfeeding mothers to express and collect milk from their breasts",
+            "defineVi": "một thiết bị được các bà mẹ cho con bú sử dụng để vắt và lấy sữa từ vú của họ",
+            "hasImg": true
+        },
+        {
+            "id": "67a539bc-fc69-4712-9b07-d60d162cec1a",
+            "word": "bottle warmer",
+            "phonetic": "bɑːɾəl wɔːɹmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym90dGxlIHdhcm1lcg&hash=40ad05889a757a5236dcd81fb777281fe366015a&lang=en&cache-only=0",
+            "defineEn": "a device used to quickly and safely heat baby bottles to a desired temperature for feeding",
+            "defineVi": "một thiết bị được sử dụng để làm nóng bình sữa em bé một cách nhanh chóng và an toàn đến nhiệt độ mong muốn để cho bé bú",
+            "hasImg": true
+        },
+        {
+            "id": "a1d718f1-cb3c-48e0-a58d-20fe1e9bc82a",
+            "word": "breastmilk storage bag",
+            "phonetic": "bɹɛstmɪlk stoːɹɪdʒ bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJlYXN0bWlsayBzdG9yYWdlIGJhZw&hash=a80bb59d8b6cfd7dc95923f57c361c18ae0eca45&lang=en&cache-only=0",
+            "defineEn": "a specialized bag used to store expressed breast milk for later use, typically freezer-safe",
+            "defineVi": "một túi chuyên dụng được sử dụng để bảo quản sữa mẹ vắt ra để sử dụng sau này, thường là tủ đông an toàn",
+            "hasImg": true
+        },
+        {
+            "id": "4610b490-f8e2-464f-99b6-9843ac2178f3",
+            "word": "bottle brush",
+            "phonetic": "bɑːɾəl bɹʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym90dGxlIGJydXNo&hash=9443ea9ca1230763cb53065f8ea137d649e9b645&lang=en&cache-only=0",
+            "defineEn": "a tool with bristles used to clean the inside of bottles",
+            "defineVi": "một công cụ có lông dùng để làm sạch bên trong chai",
+            "hasImg": true
+        },
+        {
+            "id": "71a9a4e5-aa74-46d6-8e6e-86160653a62f",
+            "word": "swaddle blanket",
+            "phonetic": "swɑːdəl blæŋkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3dhZGRsZSBibGFua2V0&hash=8bb36b53844d069732295d9e1ea325d857548d5a&lang=en&cache-only=0",
+            "defineEn": "a soft, cloth wrap used to securely and comfortably swaddle a baby",
+            "defineVi": "một tấm vải mềm, được sử dụng để quấn em bé một cách an toàn và thoải mái",
+            "hasImg": true
+        },
+        {
+            "id": "2138f008-92b1-4fbf-b9b0-5fc5ad872726",
+            "word": "blanket sleeper",
+            "phonetic": "blæŋkɪt sliːpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmxhbmtldCBzbGVlcGVy&hash=3f34c4ae8c2807181115508b468fd5fb908775f6&lang=en&cache-only=0",
+            "defineEn": "a one-piece sleepwear for babies and young children that covers the entire body and includes attached feet",
+            "defineVi": "quần áo ngủ một mảnh dành cho trẻ sơ sinh và trẻ nhỏ bao phủ toàn bộ cơ thể và bao gồm cả bàn chân kèm theo",
+            "hasImg": true
+        },
+        {
+            "id": "df6283b4-05da-4b21-a37c-a0dc01330c3e",
+            "word": "thermometer",
+            "phonetic": "θɜːmɑːmɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What does the thermometer read?",
+                "The thermometer read 0° C.",
+                "If you suspect that your child has a fever, you can use a thermometer to measure their temperature.",
+                "The thermometer has been reading over 90 degrees all day.",
+                "Contactless thermometers measure the surface temperature of our skin."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlcm1vbWV0ZXI&hash=6637a4802d8daa57144866ec500326db01955ac0&lang=en&cache-only=0",
+            "defineEn": "a device used to measure a person's body temperature to assess for fever or abnormal temperature using various methods like oral, ear, armpit, or forehead readings",
+            "defineVi": "một thiết bị được sử dụng để đo nhiệt độ cơ thể của một người để đánh giá sốt hoặc nhiệt độ bất thường bằng nhiều phương pháp khác nhau như đọc miệng, tai, nách hoặc trán",
+            "hasImg": true
+        },
+        {
+            "id": "4148f9c4-ea07-4d9d-b8f7-1a1b874ba8e7",
+            "word": "stuffed animal",
+            "phonetic": "stʌft ænɪməl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3R1ZmZlZCBhbmltYWw&hash=0e76934ff237d28e9d508e8e55f8b302ecd46fc6&lang=en&cache-only=0",
+            "defineEn": "a soft, plush toy typically filled with stuffing, often resembling an animal, that is used for play, comfort, or decoration",
+            "defineVi": "một món đồ chơi mềm, sang trọng thường chứa đầy đồ, thường giống như một con vật, được sử dụng để chơi, thoải mái hoặc trang trí",
+            "hasImg": true
+        },
+        {
+            "id": "5d9789b5-f8c9-456c-b8fc-9b09d22813be",
+            "word": "bumper pad",
+            "phonetic": "bʌmpɚ pæd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVtcGVyIHBhZA&hash=5ab0e33c0b25deefac1575013c92bead5f87c7cb&lang=en&cache-only=0",
+            "defineEn": "a protective cushion or padding used to prevent damage or impacts between objects",
+            "defineVi": "một đệm hoặc đệm bảo vệ được sử dụng để ngăn ngừa thiệt hại hoặc tác động giữa các đối tượng",
+            "hasImg": true
+        },
+        {
+            "id": "7b0fc972-72df-4272-9d73-2fcf39dfcb6c",
+            "word": "cradle",
+            "phonetic": "kɹeɪdəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mother gently cradled her newborn baby in her arms.",
+                "The book describes her life from cradle to grave.",
+                "He led a life of hardship from the cradle to the grave.",
+                "People said he had robbed the cradle.",
+                "She lived in the same village from the cradle to the grave."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JhZGxl&hash=95a68d52255b8dcc7071ef6d5e5f66ac504795f8&lang=en&cache-only=0",
+            "defineEn": "a small bed or bassinet designed for infants and young babies, typically made of wood or wicker, and equipped with rockers or gliders to help soothe and lull the baby to sleep",
+            "defineVi": "một chiếc giường nhỏ hoặc nôi được thiết kế cho trẻ sơ sinh và trẻ nhỏ, thường được làm bằng gỗ hoặc đan lát, và được trang bị bập bênh hoặc tàu lượn để giúp làm dịu và ru em bé ngủ",
+            "hasImg": true
+        },
+        {
+            "id": "d5daf6bf-83fd-493c-83b2-11bd37e40a5c",
+            "word": "baby lotion",
+            "phonetic": "beɪbi loʊʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBsb3Rpb24&hash=48ae62c3abbe42f27a295215846d6d6186d5d6e7&lang=en&cache-only=0",
+            "defineEn": "a mild moisturizing cream or lotion designed for the delicate skin of infants and babies to keep their skin soft and supple",
+            "defineVi": "một loại kem hoặc kem dưỡng ẩm nhẹ được thiết kế cho làn da mỏng manh của trẻ sơ sinh và trẻ sơ sinh để giữ cho làn da mềm mại và dẻo dai",
+            "hasImg": true
+        },
+        {
+            "id": "97ee837e-bbba-4fac-ba3b-f7e7a857e58a",
+            "word": "baby carrier",
+            "phonetic": "beɪbi kæɹiɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFieSBjYXJyaWVy&hash=9a71c775f3981125821648a333dcb23231e6110a&lang=en&cache-only=0",
+            "defineEn": "a wearable device for caregivers to carry infants or babies on their body, providing closeness and mobility",
+            "defineVi": "một thiết bị đeo được để người chăm sóc bế trẻ sơ sinh hoặc em bé trên người, mang lại sự gần gũi và di động",
+            "hasImg": true
+        },
+        {
+            "id": "7e4e472a-5d19-46d6-b068-dd62e64c6bf6",
+            "word": "child safety car seat",
+            "phonetic": "tʃaɪld seɪfti kɑːɹ siːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGQgc2FmZXR5IGNhciBzZWF0&hash=1482a5c4d65d09fc1e1dcdf18bd05636c15df02e&lang=en&cache-only=0",
+            "defineEn": "a seat designed to protect infants and young children in vehicles, providing proper restraint for safety during car travel",
+            "defineVi": "ghế được thiết kế để bảo vệ trẻ sơ sinh và trẻ nhỏ trên xe, cung cấp sự kiềm chế thích hợp để đảm bảo an toàn trong khi di chuyển bằng xe",
+            "hasImg": true
+        }
+    ]
+}

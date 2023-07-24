@@ -1,0 +1,561 @@
+{
+    "id": "435d29c1-24b0-4d5f-8554-74869c57ba8b",
+    "title": "Unit 11",
+    "originalTitle": "Unit 11",
+    "words": [
+        {
+            "id": "9a645015-9689-423c-a3df-285c6100fa02",
+            "word": "to sink or swim",
+            "phonetic": "tə sɪŋk ɔːɹ swɪm ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2luayBvciBzd2lt&hash=e4bf9fc51aa36926aa10b4672f1874b4a5158f44&lang=en&cache-only=0",
+            "defineEn": "to be left in a situation where one either succeeds or fails",
+            "defineVi": "bị bỏ lại trong một tình huống mà một người thành công hoặc thất bại",
+            "hasImg": true
+        },
+        {
+            "id": "264ca2c1-1449-427f-aa5d-927bdfcc9bbd",
+            "word": "wait and see",
+            "phonetic": "weɪt ænd siː ",
+            "partOfSpeechType": "sentence",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2FpdCBhbmQgc2Vl&hash=5004ab98ad4fb1405c676aac25317431cae73cf5&lang=en&cache-only=0",
+            "defineEn": "to be patient in order to find out about the outcome, answer, or future happenings",
+            "defineVi": "kiên nhẫn để tìm hiểu về kết quả, câu trả lời hoặc những diễn biến trong tương lai"
+        },
+        {
+            "id": "9c0629e0-271a-4ab1-b17a-0636f7316241",
+            "word": "far and wide",
+            "phonetic": "fɑːɹ ænd waɪd ",
+            "partOfSpeechType": "adverb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFyIGFuZCB3aWRl&hash=c3608561f7f99d55f7960a8989499f28ad650830&lang=en&cache-only=0",
+            "defineEn": "over a great distance or in many places, often used to describe the extent of someone's search, travels, or influence",
+            "defineVi": "trên một khoảng cách lớn hoặc ở nhiều nơi, thường được sử dụng để mô tả mức độ tìm kiếm, du lịch hoặc ảnh hưởng của ai đó"
+        },
+        {
+            "id": "d6da336a-5d10-4705-bb6c-f0352c23f25c",
+            "word": "to [give] and [take]",
+            "phonetic": "tə ɡɪv ænd teɪk ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ2l2ZSBhbmQgdGFrZQ&hash=81aa7f95250ef64d21f98aeff80a898c539ce7a5&lang=en&cache-only=0",
+            "defineEn": "(of two or more parties) to agree with each other's terms or opinions in order to reach an agreement",
+            "defineVi": "(của hai hoặc nhiều bên) đồng ý với các điều khoản hoặc ý kiến của nhau để đạt được thỏa thuận",
+            "hasImg": true
+        },
+        {
+            "id": "cc627267-5115-4a3f-a2d8-3e6181581d6b",
+            "word": "ifs, ands, or buts",
+            "phonetic": "ɪfs ændz ɔːɹ bʌts ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWZzLCBhbmRzLCBvciBidXRz&hash=8754f39401396d06ffcb7c9f15f01b6b236c7351&lang=en&cache-only=0",
+            "defineEn": "the various objections or reasons why something might not be possible, or the conditions that need to be met for something to happen",
+            "defineVi": "các phản đối khác nhau hoặc lý do tại sao một cái gì đó có thể không thể, hoặc các điều kiện cần phải được đáp ứng để một cái gì đó xảy ra"
+        },
+        {
+            "id": "443aaeb2-3116-4b24-a8c4-693a6021ec37",
+            "word": "once and for all",
+            "phonetic": "wʌns ænd fɔːɹ ɔːl ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b25jZSBhbmQgZm9yIGFsbA&hash=34a8a57fcaedce65238c5979904fa5a166e2a89b&lang=en&cache-only=0",
+            "defineEn": "in a way that finalizes and completes the matter at hand",
+            "defineVi": "theo cách mà kết thúc và hoàn thành các vấn đề trong tầm tay"
+        },
+        {
+            "id": "085aa588-42da-4404-8491-5fed8aeda597",
+            "word": "hit-and-miss",
+            "phonetic": "hɪtændmɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGl0LWFuZC1taXNz&hash=a779136cf2f6398a6c30713fd0da446f99c30a38&lang=en&cache-only=0",
+            "defineEn": "unpredictable or unreliable, with a high degree of inconsistency in its outcomes or results",
+            "defineVi": "không thể đoán trước hoặc không đáng tin cậy, với mức độ không nhất quán cao trong kết quả hoặc kết quả của nó"
+        },
+        {
+            "id": "f9d321c6-7db9-4630-912d-e0ba854db062",
+            "word": "short and sweet",
+            "phonetic": "ʃɔːɹt ænd swiːt ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQgYW5kIHN3ZWV0&hash=8c147f9c68076b1005d70168f05f35eb4e18400c&lang=en&cache-only=0",
+            "defineEn": "used to describe something that is brief and to the point, yet pleasant or enjoyable",
+            "defineVi": "được sử dụng để mô tả một cái gì đó ngắn gọn và chính xác, nhưng dễ chịu hoặc thú vị"
+        },
+        {
+            "id": "59d89b3f-9b9b-434d-bea6-aad48d044bd2",
+            "word": "the ins and outs of {sth}",
+            "phonetic": "ðɪ ɪnz ænd aʊts ʌv ɛstiːeɪtʃ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhlIGlucyBhbmQgb3V0cyBvZiB7c3RofQ&hash=5710e865949b89c5b006e67a19743f4b75843bf6&lang=en&cache-only=0",
+            "defineEn": "a complete set of facts or details about how something is done or how it works",
+            "defineVi": "một tập hợp đầy đủ các sự kiện hoặc chi tiết về cách một cái gì đó được thực hiện hoặc cách nó hoạt động"
+        },
+        {
+            "id": "b00f0ca9-721d-424a-96a8-5894420a081b",
+            "word": "by and large",
+            "phonetic": "baɪ ænd lɑːɹdʒ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnkgYW5kIGxhcmdl&hash=e1a04acbab97d2bb4b8473d468aceb01d192d62a&lang=en&cache-only=0",
+            "defineEn": "used when something is being considered or regarded in a general manner",
+            "defineVi": "được sử dụng khi một cái gì đó đang được xem xét hoặc xem xét một cách chung chung"
+        },
+        {
+            "id": "9b51e90e-1a82-4a1d-b0c8-dfd798d284e0",
+            "word": "to tense",
+            "phonetic": "tə tɛns ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "While it's always better to be honest, sometimes a bad excuse is better than none, especially if it can help diffuse a tense situation.",
+                "He managed to change the mood from tense to relaxed in minutes.",
+                "The atmosphere of EPA is really tense.",
+                "The atmosphere of EPA is really tense.",
+                "Inside, the mood is also tense."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGVuc2U&hash=8c2f2625a0f2d2ea503700ea3c9eafe32c5f2e0a&lang=en&cache-only=0",
+            "defineEn": "to make someone feel nervous, anxious, or uneasy",
+            "defineVi": "để làm cho ai đó cảm thấy lo lắng, lo lắng, hoặc khó chịu"
+        },
+        {
+            "id": "0bbb36bb-ddaa-4be6-8c78-750898220101",
+            "word": "groggy",
+            "phonetic": "ɡɹɑːɡi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sorry, I'm still really groggy.",
+                "Have you ever woken up groggy after your first night in a new place?",
+                "Meanwhile, non-nappers may experience more deep sleep while napping, making them groggy afterward.",
+                "Brooks appears groggy and disoriented.",
+                "You can actually set a window of five to 50 minutes where the headband is gonna sense, based on your brainwaves, when you're most readily wake-up-able, so that you can wake up not feeling groggy, but kinda ready to go, you know?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JvZ2d5&hash=9e94e61fb1b78ad1693645547f559c1922c8b2f0&lang=en&cache-only=0",
+            "defineEn": "feeling dizzy, weak, or confused due to being tired, sick, etc.",
+            "defineVi": "cảm thấy chóng mặt, yếu ớt hoặc bối rối do mệt mỏi, ốm yếu, v.v."
+        },
+        {
+            "id": "ae0cdccd-964f-4006-bfed-c02a740360af",
+            "word": "inconsistency",
+            "phonetic": "ɪŋkənsɪstənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The detective knew that it needs a hundred lies to cover a single lie, so he focused his investigation on inconsistencies in the suspect's story to reveal the underlying falsehood.",
+                "The argument that the company's products were environmentally friendly had more holes than Swiss cheese, and critics pointed out several inconsistencies in their claims.",
+                "But his thought experiment points out some huge inconsistencies in our moral thinking.",
+                "Over the years, the one dominant theme in the relationship between Puerto Rico and the United States is the inconsistency of American policy towards the territory.",
+                "But this combination of styles and functions caused a slew of design inconsistencies across the UI."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jb25zaXN0ZW5jeQ&hash=e89956ca98622bd4bf052dd6af5d83a42bc4b501&lang=en&cache-only=0",
+            "defineEn": "the state or quality of being irregular or unpredictable",
+            "defineVi": "trạng thái hoặc chất lượng không đều hoặc không thể đoán trước"
+        },
+        {
+            "id": "71243317-d44f-4ea2-a8bb-ecba1363fa6d",
+            "word": "to slip",
+            "phonetic": "tə slɪp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That detail must have slipped between the cracks.",
+                "Thousands of factory workers have been given the pink slip in recent months.",
+                "The glass slipped from her hand and broke into a dozen pieces.",
+                "The burglar gave us the slip, but we're in pursuit.",
+                "I'm sorry I didn't call you back sooner, it totally slipped my mind."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2xpcA&hash=7ba14dd2f73add2dca4664376685d69dc7a880c7&lang=en&cache-only=0",
+            "defineEn": "to pass or escape unnoticed or undetected",
+            "defineVi": "để vượt qua hoặc trốn thoát không được chú ý hoặc không bị phát hiện"
+        },
+        {
+            "id": "d8a6beb6-9c67-4175-b5b5-1d9e72304ec1",
+            "word": "to do up",
+            "phonetic": "tə duː ʌp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "and I did up the Inca trail to Machu Picchu in Peru.",
+                "It's all done up front in front of the camera.",
+                "So what, what do you do up here?",
+                "So what I'm going to do up here is I'm going to write a little simple program that will essentially just define a bunch of strings for me.",
+                "What's Santa doing up on the rooftop?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZG8gdXA&hash=b43bb6fb10b29839679b0e03077d65278bd7234e&lang=en&cache-only=0",
+            "defineEn": "to fasten, button, zip, or otherwise secure something, often related to clothing or accessories",
+            "defineVi": "để buộc chặt, nút, khóa kéo hoặc bảo vệ thứ gì đó, thường liên quan đến quần áo hoặc phụ kiện",
+            "hasImg": true
+        },
+        {
+            "id": "467ee072-a615-48bf-915b-9f708b5a343c",
+            "word": "mind-boggling",
+            "phonetic": "maɪndbɑːɡlɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The numbers are mind-boggling!",
+                "In normal cases, these systems are mind-boggling.",
+                "That is mind-boggling in 2022, that this is the first time that has happened.",
+                "It's somewhat mind-boggling because while his FBI and his DEPARTMENT of Homeland Security have warned of an INCREASE in VIOLENCE by white SUPREMACISTS and far-right extremists, the PRESIDENT refuses to acknowledge that and instead talks about the violence perpetrated by Left Wing.",
+                "We all hate it, or many of us hate it, and especially in the women's department of jeans, it's absolutely mind-boggling."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluZC1ib2dnbGluZw&hash=e6ceab4ca3687a50e6d080aa1ab1fc7a8c125110&lang=en&cache-only=0",
+            "defineEn": "describing something that is so surprising, overwhelming, or confusing that it is difficult to comprehend or understand",
+            "defineVi": "mô tả một cái gì đó là rất đáng ngạc nhiên, choáng ngợp, hoặc khó hiểu mà nó khó hiểu hoặc hiểu được"
+        },
+        {
+            "id": "2edff6bf-3e49-4f3a-bc44-06faa4eebb5d",
+            "word": "to munch",
+            "phonetic": "tə mʌntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We enjoyed a picnic in the park, munching on pistachios while soaking up the warm sun.",
+                "They fed the carrot to their pet rabbit, who happily munched on it.",
+                "In fact, people in the United States munched through four billion of them in 2014 alone.",
+                "And he munched on them a little bit.",
+                "Instead they munch on what's above ground."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbXVuY2g&hash=7c432f7dc9c846571b9fa21b35a80fd32c8ff40d&lang=en&cache-only=0",
+            "defineEn": "to chew steadily or vigorously, often making a crunching sound",
+            "defineVi": "nhai đều đặn hoặc mạnh mẽ, thường tạo ra âm thanh lạo xạo",
+            "hasImg": true
+        },
+        {
+            "id": "00dbcc35-a946-446f-9c93-8c1f6373bc94",
+            "word": "random",
+            "phonetic": "ɹændəm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The maniac ran amuck in the crowd, shooting at random.",
+                "The actions and interactions of an individual are random.",
+                "These things are random.",
+                "The list, at least initially, was pretty random.",
+                "Random words strung together."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFuZG9t&hash=f58ad4c74e70805cc1504261a1774ae6b101e44e&lang=en&cache-only=0",
+            "defineEn": "chosen, done, or happening by chance and without any particular plan, method, or purpose",
+            "defineVi": "lựa chọn, thực hiện hoặc xảy ra một cách tình cờ và không có bất kỳ kế hoạch, phương pháp hoặc mục đích cụ thể nào"
+        },
+        {
+            "id": "7cd55139-3e39-404b-a557-a641963458bd",
+            "word": "worst-case scenario",
+            "phonetic": "wɜːstkeɪs sənæɹioʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yc3QtY2FzZSBzY2VuYXJpbw&hash=821b9f8774e1dd2420ae5d06b0aec2e78f534a1a&lang=en&cache-only=0",
+            "defineEn": "the most severe or negative outcome that could happen in a given situation",
+            "defineVi": "kết quả nghiêm trọng nhất hoặc tiêu cực có thể xảy ra trong một tình huống nhất định"
+        },
+        {
+            "id": "a44c1229-6852-4e6b-8ff1-88bf28e03b6f",
+            "word": "recurring",
+            "phonetic": "ɹᵻkɜːɹɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVjdXJyaW5n&hash=8705bc7b9d7bb1575bae57ca792ac15b6a0b6478&lang=en&cache-only=0",
+            "defineEn": "happening repeatedly or returning from time to time",
+            "defineVi": "xảy ra lặp đi lặp lại hoặc thỉnh thoảng quay lại"
+        },
+        {
+            "id": "90fbee63-000a-4e24-9f68-ff6ec7977f9f",
+            "word": "painstakingly",
+            "phonetic": "peɪnsteɪkɪŋli ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Several film enthusiasts have painstakingly compiled these scenes in online videos.",
+                "Next, colorful thread is painstakingly woven into the bed of warp.",
+                "The costly skin is painstakingly dyed to emulate the snowy appearance of the Himalayan mountains.",
+                "Each one is painstakingly threaded through a tuning pin and then hammered into place.",
+                "Within 4 months of getting some initial hits on the genealogy site, police officers had painstakingly narrowed their focus from thousands of relatives to one man."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFpbnN0YWtpbmdseQ&hash=dba6d287deb834171657d6f8d62bfe8309fff2fb&lang=en&cache-only=0",
+            "defineEn": "with great care, attention, and thoroughness, often taking a long time to complete",
+            "defineVi": "hết sức cẩn thận, chú ý và kỹ lưỡng, thường mất nhiều thời gian để hoàn thành"
+        },
+        {
+            "id": "406fa5c6-5701-44ed-b4e0-8aab8edddd37",
+            "word": "tedious",
+            "phonetic": "tiːdiəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "This job is very tedious.",
+                "It could be so tedious.",
+                "The tedious trade has been the main source of income in this small Ecuadorian village in the Andes for over 100 years.",
+                "Now, this is going to sound tedious.",
+                "Assignments can feel so tedious when they take hours to do."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVkaW91cw&hash=f5142a85e2c2658c9204c1fc62667bd1e89af007&lang=en&cache-only=0",
+            "defineEn": "continuing for too long and boring",
+            "defineVi": "tiếp tục quá lâu và nhàm chán",
+            "hasImg": true
+        },
+        {
+            "id": "f8a1b8d0-f44c-484a-959e-c45f5f9ebf66",
+            "word": "stroke",
+            "phonetic": "stɹoʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The disease wiped out 40 million rabbits at a stroke.",
+                "At one stroke, the country lost two outstanding leaders.",
+                "stroke a nerve didn't I?",
+                "The nurses had to spoon-feed my mother after her stroke.",
+                "They added 230 customers to their list at a stroke."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Ryb2tl&hash=cdfb0a15ee9fb4c35fa7f9391ad99725cacc3165&lang=en&cache-only=0",
+            "defineEn": "a gentle caress or touch, especially one made with the hand",
+            "defineVi": "một cái vuốt ve hoặc chạm nhẹ nhàng, đặc biệt là cái được làm bằng tay",
+            "hasImg": true
+        },
+        {
+            "id": "517997bf-794b-46be-b9cd-df8da0ca8e39",
+            "word": "bizarre",
+            "phonetic": "bᵻzɑːɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It is a bizarre tale and the author hits just the right note of horror and disbelief.",
+                "Their creation story is just as bizarre.",
+                "The magical setting of the woods at night disrupts the boundaries between separate groups, with bizarre results.",
+                "That is bizarre!",
+                "Which is bizarre."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml6YXJyZQ&hash=191b7501d9ffb6ada8d90824180e4dd3fa9b7481&lang=en&cache-only=0",
+            "defineEn": "very strange or unusual in a way that surprises or confuses people",
+            "defineVi": "rất lạ hoặc bất thường theo cách gây ngạc nhiên hoặc nhầm lẫn cho mọi người",
+            "hasImg": true
+        },
+        {
+            "id": "06bb4e9d-d19b-4698-bec8-ca1a09092644",
+            "word": "vividly",
+            "phonetic": "vɪvɪdli ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "So you remember your dreams more vividly.",
+                "Others will probably describe the scene more vividly to you.",
+                "- I remember it vividly.",
+                "I remember that very vividly.",
+                "So I remember that quite vividly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dml2aWRseQ&hash=fa54e593514fbac2a3dcade4fc851192f5d60620&lang=en&cache-only=0",
+            "defineEn": "in a clear and detailed manner",
+            "defineVi": "một cách rõ ràng và chi tiết"
+        },
+        {
+            "id": "e80282f3-9b6f-4bd6-b218-079deb49263d",
+            "word": "to struggle",
+            "phonetic": "tə stɹʌɡəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The economy is struggling.",
+                "The struggle ended indecisively.",
+                "She struggled to keep up with the fast pace of the marathon runners.",
+                "After all that struggle, their constructive advice fell on stony ground.",
+                "For years they struggled to keep their heads above water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RydWdnbGU&hash=337c32fbc79e8a700af61860ad68858e086eba68&lang=en&cache-only=0",
+            "defineEn": "to put a great deal of effort into doing something, although it is extremely hard",
+            "defineVi": "để nỗ lực rất nhiều để làm một cái gì đó, mặc dù nó là vô cùng khó khăn"
+        },
+        {
+            "id": "d5657a36-a3ca-40a6-bcda-babb71d20a1d",
+            "word": "contest",
+            "phonetic": "kɑːntɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That contest wasn't fair!",
+                "You don't have a prayer in this contest.",
+                "The battle lines were drawn yesterday for the fiercest contest in the history of local radio.",
+                "I know you worked really hard on this project, but it looks like your cake is dough, and you won't be winning the contest.",
+                "The trip to the beach cost me $100, but I almost broke even after winning $90 in a contest."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udGVzdA&hash=375f1f3dfc4bf70ff81f9b043eafc94df885236b&lang=en&cache-only=0",
+            "defineEn": "a competition in which participants compete to defeat their opponents",
+            "defineVi": "một cuộc thi trong đó những người tham gia cạnh tranh để đánh bại đối thủ của họ",
+            "hasImg": true
+        },
+        {
+            "id": "43ddc23d-afb4-44ad-8a27-d4aca5eb6d05",
+            "word": "vision",
+            "phonetic": "vɪʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The vision seems a flight of fancy.",
+                "She has tunnel vision in all matters of opinion and morality.",
+                "The two business partners had different visions for the company, and eventually decided to part ways because day and night cannot dwell together.",
+                "I know you had visions of conquering this area, but it appears that your cake is dough.",
+                "The artist refused to compromise on their vision for commercial success, understanding that no man loves his fetters, be they made of gold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlzaW9u&hash=8d3a3c9501d2f3b0ab86c4ff285aa1049ca5330b&lang=en&cache-only=0",
+            "defineEn": "a mental image of what one wants or hopes to achieve in the future",
+            "defineVi": "một hình ảnh tinh thần về những gì một người muốn hoặc hy vọng đạt được trong tương lai"
+        },
+        {
+            "id": "6ce9cff2-0bf6-453b-90a5-478a456dcce3",
+            "word": "monstrous",
+            "phonetic": "mɔnstɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Its monstrous looks inspired the movie \"Aliens.\"",
+                "They have a mixture of monstrous appearances, yet alluring personalities.",
+                "Monstrous eruptions and destructive earthquakes change our world everyday and influence the lives of humans all over it.",
+                "He fights a monstrous eel, but he also gets into an argument with the sun!",
+                "For some Puerto Ricans, the monster became an anti-hero, a monstrous symbol for their own otherness in relation to the United States."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9uc3Ryb3Vz&hash=0371ad3e35348077d72acc0a297f7ab4fec493d4&lang=en&cache-only=0",
+            "defineEn": "being very ugly to an extent that is unnatural or frightening",
+            "defineVi": "rất xấu xí đến mức không tự nhiên hoặc đáng sợ"
+        },
+        {
+            "id": "b22d731c-c476-4257-8c97-dfaa78dbc130",
+            "word": "melody",
+            "phonetic": "mɛlədi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The musician's fingers lightly touched the piano keys, creating a beautiful melody.",
+                "I love playing the piano and composing my own melodies.",
+                "Rodgers’s melodies had a distinctly American sound.",
+                "- You changed the melody.",
+                "Every lyric and melody was right there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVsb2R5&hash=fa6a0a1cda5db525ccfe29e095358fc279deac05&lang=en&cache-only=0",
+            "defineEn": "the arrangement or succession of single musical notes in a tune or piece of music",
+            "defineVi": "sự sắp xếp hoặc nối tiếp các nốt nhạc đơn lẻ trong một giai điệu hoặc một đoạn nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "741e8e45-2365-44a4-8ca8-09b40ee558c1",
+            "word": "ready-made",
+            "phonetic": "ɹɛdimeɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVhZHktbWFkZQ&hash=1e3bc0357fde203f9579a91e9c834675ba2aa641&lang=en&cache-only=0",
+            "defineEn": "made in advance and available for immediate use or purchase, without the need for any additional preparation or assembly",
+            "defineVi": "được làm trước và có sẵn để sử dụng hoặc mua ngay mà không cần chuẩn bị hoặc lắp ráp thêm"
+        },
+        {
+            "id": "d6a30d0d-0436-4f19-ac36-c6180b469c5b",
+            "word": "round",
+            "phonetic": "ɹaʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My debts are a millstone round my neck.",
+                "The hairstylist used a round brush to create curls.",
+                "Glaring round at the solitary embryo sheepskin, who quaked in his shoes.",
+                "The mortgage on it has turned into a real yoke round my neck.",
+                "You can buy strawberries all year round, but at a price."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm91bmQ&hash=34ce8fbc7fb0b9ad4c72b60949f85719f0ccccce&lang=en&cache-only=0",
+            "defineEn": "a period of play in certain sports during which one team or competitor is on the offensive, attempting to score or defeat their opponent",
+            "defineVi": "một khoảng thời gian chơi trong một số môn thể thao trong đó một đội hoặc đối thủ đang tấn công, cố gắng ghi bàn hoặc đánh bại đối thủ của họ"
+        },
+        {
+            "id": "f9570ceb-44c6-4ab2-80cc-1c3b7da57ec7",
+            "word": "ups and downs",
+            "phonetic": "ʌps ænd daʊnz ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dXBzIGFuZCBkb3ducw&hash=66a02d522327f3e1d20081359dbd441f275d5fb1&lang=en&cache-only=0",
+            "defineEn": "a combination of both good things and bad things that can happen to one",
+            "defineVi": "một sự kết hợp của cả những điều tốt và những điều xấu có thể xảy ra với một"
+        },
+        {
+            "id": "7728366d-52dc-4c27-b2d4-7a4754089137",
+            "word": "sooner or later",
+            "phonetic": "suːnɚɹ ɔːɹ leɪɾɚ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29vbmVyIG9yIGxhdGVy&hash=0096ab750d7071fe75e80629f3ced1ca4f62e479&lang=en&cache-only=0",
+            "defineEn": "eventually, particularly after a long delay or dispute",
+            "defineVi": "cuối cùng, đặc biệt là sau một thời gian dài trì hoãn hoặc tranh chấp"
+        },
+        {
+            "id": "53e7aca4-ee29-44c0-91e8-7188ac4a0763",
+            "word": "pros and cons",
+            "phonetic": "pɹoʊz ænd kɑːnz ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvcyBhbmQgY29ucw&hash=4e21d86bb18a41509f06d043f1baf4ae25dda2ec&lang=en&cache-only=0",
+            "defineEn": "the positive and negative elements, arguments, outcomes, etc. of something",
+            "defineVi": "các yếu tố tích cực và tiêu cực, lập luận, kết quả, vv của một cái gì đó"
+        },
+        {
+            "id": "aebfb475-a4c7-4717-a6cf-ac4f2f34f4e7",
+            "word": "(every|) now and then",
+            "phonetic": "ɛvɹi naʊ ænd ðɛn ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXZlcnkgbm93IGFuZCB0aGVu&hash=5b2e039d2ad823f93c65b2e5e669fb424c9803ab&lang=en&cache-only=0",
+            "defineEn": "not happening regularly or frequently",
+            "defineVi": "không xảy ra thường xuyên hoặc thường xuyên"
+        },
+        {
+            "id": "c16c8685-74cd-4ee4-a3af-3c47e50d9d1a",
+            "word": "sick and tired",
+            "phonetic": "sɪk ænd taɪɚd ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2ljayBhbmQgdGlyZWQ&hash=1fef88313232fd7bddffd1b9ef1de8cfd2fadeb6&lang=en&cache-only=0",
+            "defineEn": "annoyed or disgusted by someone or something one has been dealing with for a long time",
+            "defineVi": "khó chịu hoặc ghê tởm bởi một ai đó hoặc một cái gì đó mà một người đã đối phó trong một thời gian dài"
+        },
+        {
+            "id": "c217a109-78a7-4e4b-8df3-7ed415d711ee",
+            "word": "more or less",
+            "phonetic": "moːɹ ɔːɹ lɛs ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9yZSBvciBsZXNz&hash=cc689ca7a952f2b38d644ceed76e7910e81c1ff1&lang=en&cache-only=0",
+            "defineEn": "used to indicate a rough estimate or approximation without precise measurements or exact figures",
+            "defineVi": "được sử dụng để biểu thị ước tính sơ bộ hoặc gần đúng mà không có phép đo chính xác hoặc số liệu chính xác"
+        },
+        {
+            "id": "c4a8aa5a-5435-48a3-a13f-379bb6c5916a",
+            "word": "touch and go",
+            "phonetic": "tʌtʃ ænd ɡoʊ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG91Y2ggYW5kIGdv&hash=bbdf38fe5b2f97e6604bd64bb13542f9ed83a6a4&lang=en&cache-only=0",
+            "defineEn": "involving risk and uncertainty",
+            "defineVi": "liên quan đến rủi ro và sự không chắc chắn"
+        },
+        {
+            "id": "ccdb9f10-a487-4797-aac6-3e7b16a2524c",
+            "word": "peace and quiet",
+            "phonetic": "piːs ænd kwaɪət ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVhY2UgYW5kIHF1aWV0&hash=40c1d46790b40e63d7f9c10e31f09242f1b57d6e&lang=en&cache-only=0",
+            "defineEn": "a state or situation that is free from disturbance, noise, or any kind of interruption or disruption, typically characterized by calmness, serenity, and tranquility",
+            "defineVi": "một trạng thái hoặc tình huống không bị xáo trộn, ồn ào hoặc bất kỳ loại gián đoạn hoặc gián đoạn nào, thường được đặc trưng bởi sự bình tĩnh, thanh thản và yên bình"
+        },
+        {
+            "id": "02961bed-4539-4249-a3bb-979c4a5221dd",
+            "word": "safe and sound",
+            "phonetic": "seɪf ænd saʊnd ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FmZSBhbmQgc291bmQ&hash=1d327b6f343caeb2af58a8436492ff08ec0c91d7&lang=en&cache-only=0",
+            "defineEn": "not damaged or injured in any way",
+            "defineVi": "không bị hư hỏng hoặc bị thương trong bất kỳ cách nào",
+            "hasImg": true
+        },
+        {
+            "id": "2b0eb63f-8250-4d1b-b761-0448d08c1df8",
+            "word": "slowly but surely",
+            "phonetic": "sloʊli bʌt ʃʊɹli ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2xvd2x5IGJ1dCBzdXJlbHk&hash=5c78ce878183c4a03652632a89c4c1b4bedf9fe6&lang=en&cache-only=0",
+            "defineEn": "with gradual progress, steadily, and consistently over time",
+            "defineVi": "với sự tiến bộ dần dần, đều đặn và nhất quán theo thời gian"
+        },
+        {
+            "id": "2a26a3c1-eabe-479e-8d82-03071680b629",
+            "word": "come rain or come shine",
+            "phonetic": "kʌm ɹeɪn ɔːɹ kʌm ʃaɪn ",
+            "partOfSpeechType": "sentence",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tZSByYWluIG9yIGNvbWUgc2hpbmU&hash=9de5c04056d268d5a525ec43a2f3119d616bd25a&lang=en&cache-only=0",
+            "defineEn": "no matter what happens",
+            "defineVi": "không có vấn đề gì xảy ra"
+        }
+    ]
+}

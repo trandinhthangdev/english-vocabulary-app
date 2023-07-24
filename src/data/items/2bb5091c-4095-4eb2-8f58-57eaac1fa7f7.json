@@ -1,0 +1,526 @@
+{
+    "id": "2bb5091c-4095-4eb2-8f58-57eaac1fa7f7",
+    "title": "Employment and Jobs 2",
+    "originalTitle": "Lesson 34",
+    "words": [
+        {
+            "id": "08a696ef-12db-4232-994f-23e347802e87",
+            "word": "salesclerk",
+            "phonetic": "seɪlsklɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FsZXNjbGVyaw&hash=f675511fc3cf9e21c87ecefd3effd403ad9418e9&lang=en&cache-only=0",
+            "defineEn": "someone who serves customers in a shop",
+            "defineVi": "một người phục vụ khách hàng trong một cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "f42720e5-bf9a-4b9e-b869-0242ee76ad44",
+            "word": "fashion designer",
+            "phonetic": "fæʃən dɪzaɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The fashion designer unrolled a bolt of colorful fabric to examine its pattern.",
+                "The fashion designer's bold new collection was ahead of the curve, featuring styles and colors that were completely unexpected and ahead of their time.",
+                "The fashion designer's latest collection was ridiculed by some critics, but the designer remained optimistic - after all, there is no such thing as bad publicity.",
+                "The fashion designer is currently enjoying her salad days, receiving prestigious awards and recognition for her unique and innovative designs.",
+                "One of them was with the famous fashion designer, Betsy Johnson."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzaGlvbiBkZXNpZ25lcg&hash=9f5774f3ed335bbb22dc84dd0cd061c699ba4ad6&lang=en&cache-only=0",
+            "defineEn": "a person who designs stylish clothes",
+            "defineVi": "một người thiết kế quần áo thời trang",
+            "hasImg": true
+        },
+        {
+            "id": "cf852899-3451-44dc-b814-ec8f54882408",
+            "word": "farmer",
+            "phonetic": "fɑːɹmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The farmer harvested a bountiful crop of watermelons from his fields.",
+                "The farmer harvested the tuberous roots of the yam plant.",
+                "The farmer harvested the fresh broccoli florets from the garden for market.",
+                "The farmer witnessed the birth of a baby calf in the barn.",
+                "The farmer fed the chickens with corn and grains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFybWVy&hash=346e81d9e04f9535cd9e8650b2ec9d9d3ca98c10&lang=en&cache-only=0",
+            "defineEn": "someone who has a farm or manages a farm",
+            "defineVi": "một người có một trang trại hoặc quản lý một trang trại",
+            "hasImg": true
+        },
+        {
+            "id": "3f590f05-6b88-469b-9d4d-dddd744cc8ea",
+            "word": "soldier",
+            "phonetic": "soʊldʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The soldiers kept the attackers at bay.",
+                "Suddenly another soldier hits the dirt beside me.",
+                "The new soldiers had no stomach for a fight.",
+                "The tomb is guarded day and night by soldiers.",
+                "We must strike now that they are down to only a handful of soldiers!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29sZGllcg&hash=43284305d3040217e598d70e2c4c4865437c7856&lang=en&cache-only=0",
+            "defineEn": "someone who serves in an army, particularly a person who is not an officer",
+            "defineVi": "một người phục vụ trong quân đội, đặc biệt là một người không phải là một sĩ quan",
+            "hasImg": true
+        },
+        {
+            "id": "cf43d9ea-84ff-49e9-9a6c-fc96554a3154",
+            "word": "officer",
+            "phonetic": "ɑːfɪsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The police department has encouraged officers to walk the beat.",
+                "Officers on the case are unable to find a motive.",
+                "The immigration officer reviewed my passport before granting entry.",
+                "Customs officers have the right to check all baggage going through customs.",
+                "The officer refused to let his men take part in the operation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2ZmaWNlcg&hash=d05ff93b01225a965358ef6dab7c00aa0faef2d1&lang=en&cache-only=0",
+            "defineEn": "a member of the police",
+            "defineVi": "một thành viên của cảnh sát",
+            "hasImg": true
+        },
+        {
+            "id": "16b10cae-73dd-40be-bc91-77266a189318",
+            "word": "hairstylist",
+            "phonetic": "hɛɹstaɪlɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hairstylist used a round brush to create curls.",
+                "And my hairstylist was amazing.",
+                "I think the other kinds of personal care and close interaction services, I mean, we've seen the example of what happens when a hairstylist goes into work sick, and that's really problematic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFpcnN0eWxpc3Q&hash=fbe4855d7a55affb68a8ef56ef3e53777d69707b&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to cut people's hair or arrange it",
+            "defineVi": "ai đó có công việc là cắt tóc của mọi người hoặc sắp xếp nó",
+            "hasImg": true
+        },
+        {
+            "id": "efed00f4-0070-465c-abb7-e0867dfb0e0d",
+            "word": "scientist",
+            "phonetic": "saɪəntɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scientists are taking water samples from the river.",
+                "Scientists believe that a major breakthrough is on the horizon.",
+                "Scientists fear that global warming has gone beyond the point of no return.",
+                "The scientist presented an abstract theory that revolutionized our understanding of the universe.",
+                "Scientists worked day and night to break the code."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NpZW50aXN0&hash=3b6e253492e1bc4b136b5b727cfaf6aec96a7746&lang=en&cache-only=0",
+            "defineEn": "someone whose job or education is about science",
+            "defineVi": "một người có công việc hoặc giáo dục là về khoa học",
+            "hasImg": true
+        },
+        {
+            "id": "b79d8981-238f-4da8-9025-3d55f588f21e",
+            "word": "chemist",
+            "phonetic": "kɛmɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There's a chemist around the corner.",
+                "But by this time, chemists wanted a more scientific society.",
+                "In 1931, German chemists developed an effective anti-malaria drug, mepacrine.",
+                "Chemists accomplish all of these feats with the use of additives.",
+                "For a chemist, a mole conjures up the number 6.02 times 10 to the 23rd, not a fuzzy little animal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlbWlzdA&hash=2bb30e50ee10f6b5a4d29032a4f0b3029c49bd5f&lang=en&cache-only=0",
+            "defineEn": "a scientist who studies chemistry",
+            "defineVi": "một nhà khoa học nghiên cứu hóa học",
+            "hasImg": true
+        },
+        {
+            "id": "74960266-d73e-4dfa-90f5-f949adf52b8b",
+            "word": "head",
+            "phonetic": "hɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The baby cried its head off.",
+                "The prisoner held his head in his hands.",
+                "Heads are rolling all over the place.",
+                "Hold your head up.",
+                "Watch your head on the low ceiling."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhZA&hash=2abd8cb012e51c7b2b53b59f69b72bf289920647&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of something; a director or leader",
+            "defineVi": "ai đó chịu trách nhiệm về một cái gì đó; một giám đốc hoặc lãnh đạo",
+            "hasImg": true
+        },
+        {
+            "id": "c9792464-876b-4e81-8ddf-29c2e180f39f",
+            "word": "politician",
+            "phonetic": "pɑːlɪtɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Politicians think they can easily lead people by the nose.",
+                "Politicians again failed to reach an agreement.",
+                "The politician is riding on the wave of public support, with high approval ratings and successful campaigns.",
+                "The media portrayed the politician in a bad light, focusing only on their past mistakes.",
+                "The politician made his bow at the campaign rally and gave a passionate speech to the crowd."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9saXRpY2lhbg&hash=416a86905d00d0a9ff1d8cb8696a0701b5eb7702&lang=en&cache-only=0",
+            "defineEn": "someone who works in the government or a law-making organization",
+            "defineVi": "một người làm việc trong chính phủ hoặc một tổ chức làm luật",
+            "hasImg": true
+        },
+        {
+            "id": "0f76e9c1-d278-44fc-b747-052e9dd188ad",
+            "word": "organization",
+            "phonetic": "ɔːɹɡɐnᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The organization supports various charitable causes through donations.",
+                "The organization called the new regulations a turning point in the campaign against smoking.",
+                "The organization was forced to abandon its plans for expansion due to budget constraints.",
+                "There existed no organization to cope with espionage.",
+                "The organization is committed to promoting equality and fairness for every person."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3JnYW5pemF0aW9u&hash=ede60196f6a02b78ca603de5a159d066423ba7c3&lang=en&cache-only=0",
+            "defineEn": "a group of people who work together for a particular reason, such as a business, department, etc.",
+            "defineVi": "một nhóm người làm việc cùng nhau vì một lý do cụ thể, chẳng hạn như một doanh nghiệp, bộ phận, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "63a19a3b-da98-4ad7-a3bd-eb53ecf43108",
+            "word": "title",
+            "phonetic": "taɪɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "John Martin took the men's title.",
+                "On his death, the title passed to his eldest son.",
+                "On his death, the title passed to his eldest son.",
+                "She held the title of world champion for three years.",
+                "The conference program included a list of session titles along with their corresponding abstracts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGl0bGU&hash=2f1149429d2d57ba69440c8b4e40a395d276c275&lang=en&cache-only=0",
+            "defineEn": "a name that is used to describe someone's position or status",
+            "defineVi": "một tên được sử dụng để mô tả vị trí hoặc trạng thái của ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "0c36ac6c-bd10-4360-8855-0bf46e9ece7b",
+            "word": "staff",
+            "phonetic": "stæf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These changes will involve everyone on the staff.",
+                "The president is looking for staff who will give him advice straight from the shoulder.",
+                "A military delegation was led by the Chief of Staff.",
+                "They have taken on six more staff, bringing the total to 45.",
+                "Each month she holds a meeting with her entire staff."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhZmY&hash=f45320117d1eb3a601c48d6fd812fb066d4f92b2&lang=en&cache-only=0",
+            "defineEn": "a group of people who work for a particular company or organization",
+            "defineVi": "một nhóm người làm việc cho một công ty hoặc tổ chức cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "43e48d86-132d-4372-a4a1-1f2a17155a9a",
+            "word": "salary",
+            "phonetic": "sælɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With Betty's salary they barely made ends meet.",
+                "I was living in cloud-cuckoo-land about my salary expectations.",
+                "He was able to negotiate a healthily high salary for his new job.",
+                "She had never been able to save much from her salary.",
+                "The software company was having trouble finding developers who could write quality code, but they were only offering salaries that were well below market rates."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsYXJ5&hash=0565f5357f360c474c6f3e30bbc18c7bc484748d&lang=en&cache-only=0",
+            "defineEn": "an amount of money we receive for doing our job, usually monthly",
+            "defineVi": "một số tiền chúng tôi nhận được để thực hiện công việc của mình, thường là hàng tháng",
+            "hasImg": true
+        },
+        {
+            "id": "ee9179dd-75ab-49d3-93e6-05ff5d07eff9",
+            "word": "raise",
+            "phonetic": "ɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bank raised interest rates.",
+                "Many shops have raised their prices.",
+                "The piece raises the ghosts of a number of twentieth-century art ideas.",
+                "The book raises many important questions.",
+                "Local residents have raised concerns about late-night noise."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFpc2U&hash=ba1130d979d697ec58cccbc33515773c4844f8b1&lang=en&cache-only=0",
+            "defineEn": "an amount of money added to our regular payment for the job we do",
+            "defineVi": "một số tiền được thêm vào khoản thanh toán thường xuyên của chúng tôi cho công việc chúng tôi làm",
+            "hasImg": true
+        },
+        {
+            "id": "cb34a969-1466-40fd-9942-686b4dc80bcc",
+            "word": "overtime",
+            "phonetic": "oʊvɚtaɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When I told Jack that he had to work overtime again, he looked at me with a face like a bulldog chewing a wasp.",
+                "He's trying to get back in his boss's good books by offering to work overtime.",
+                "After working overtime and completing the project ahead of schedule, the team was given a bonus because a good dog deserves a good bone.",
+                "This is really one of the main changes overtime.",
+                "The longer, you're kind of stuck at home, the less likely you're going to pay overtime."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3ZlcnRpbWU&hash=664c92a7518f5f83b8167bfd0ca10b36289f7dbe&lang=en&cache-only=0",
+            "defineEn": "the extra hours a person works at their job",
+            "defineVi": "thêm giờ một người làm việc tại công việc của họ",
+            "hasImg": true
+        },
+        {
+            "id": "e3625831-bf76-4a17-a465-a734c447f34a",
+            "word": "promotion",
+            "phonetic": "pɹəmoʊʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His promotion was one in the eye for his rivals.",
+                "The hardworking employee received a promotion for their exceptional performance.",
+                "So, did you get the promotion?",
+                "With the promotion, the company's future is now in his hands.",
+                "She's really going for that promotion at work."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvbW90aW9u&hash=8df2f3d7f4861cb77cfa22bc517086b3e847d0b0&lang=en&cache-only=0",
+            "defineEn": "an act of raising someone to a higher rank or position",
+            "defineVi": "một hành động nâng ai đó lên một cấp bậc hoặc vị trí cao hơn",
+            "hasImg": true
+        },
+        {
+            "id": "4927f2a7-4c07-4f04-92b3-647d89d7d36c",
+            "word": "recommendation",
+            "phonetic": "ɹɛkəmɛndeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The report includes a number of recommendations.",
+                "She asked friends and family for recommendations on where to find affordable caviar.",
+                "We get most of our work through word-of-mouth recommendations.",
+                "When a student goes AWOL repeatedly, the Principal determines the appropriate disciplinary action, up to and including recommendation for discharge.",
+                "The neighborhood bookstore, despite the rise of online retailers, is alive and kicking, offering personalized recommendations and hosting book signings that draw in book lovers from the community."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjb21tZW5kYXRpb24&hash=9d61711198a36cebe3c234499f590995f5480ea6&lang=en&cache-only=0",
+            "defineEn": "the suggestion that someone or something is good for a job or purpose",
+            "defineVi": "gợi ý rằng một ai đó hoặc một cái gì đó là tốt cho một công việc hoặc mục đích",
+            "hasImg": true
+        },
+        {
+            "id": "e7410f39-d9fb-4114-81c9-c9295232346a",
+            "word": "meeting",
+            "phonetic": "miːɾɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The meeting won't take too much time.",
+                "The meetings are always in the main conference room.",
+                "The board meeting painted a pretty grim picture.",
+                "We have a meeting at 10 o'clock in the morning.",
+                "The meeting was held behind closed doors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVldGluZw&hash=60f3c06cc57dc7c81008d580be50cc4e0d72e7fd&lang=en&cache-only=0",
+            "defineEn": "an event in which people meet, either in person or online, to talk about something",
+            "defineVi": "một sự kiện trong đó mọi người gặp nhau, trực tiếp hoặc trực tuyến, để nói về điều gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "59a2329d-aad1-4a67-93d3-533d5b7a1dc4",
+            "word": "break",
+            "phonetic": "bɹeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their approach to sports teaching broke the mold.",
+                "The movie broke all box-office records.",
+                "The movie broke box office records in the US.",
+                "The bag broke under the weight of the bottles inside it.",
+                "My watch has broken."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWs&hash=d95de3db3ce6955e70bb482a4e1c418429d97bff&lang=en&cache-only=0",
+            "defineEn": "a rest from the work or activity we usually do",
+            "defineVi": "nghỉ ngơi từ công việc hoặc hoạt động chúng ta thường làm",
+            "hasImg": true
+        },
+        {
+            "id": "a82f1267-efa7-4ebf-a566-c88321107d99",
+            "word": "job interview",
+            "phonetic": "dʒɑːb ɪntɚvjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The candidate's strong qualifications and experience were presented in a good light during the job interview.",
+                "The interviewer asked me a series of questions during the job interview.",
+                "You really have to sell yourself at a job interview.",
+                "He dressed up for the job interview to the tee, wearing a suit, tie, and polished shoes.",
+                "He is going to wear black pants and a white shirt for his job interview."
+            ],
+            "audio": "https://tts.langeek.co/read?text=am9iIGludGVydmlldw&hash=88a0d3d1d172b02e64ec77d63a448ef752b93b45&lang=en&cache-only=0",
+            "defineEn": "a meeting in which someone asks questions to decide whether a person is suitable for a job",
+            "defineVi": "một cuộc họp trong đó ai đó đặt câu hỏi để quyết định xem một người có phù hợp với công việc không",
+            "hasImg": true
+        },
+        {
+            "id": "556518ac-ea07-4de6-bd64-20cbc6c4bf8d",
+            "word": "apprentice",
+            "phonetic": "ɐpɹɛntɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brilliant move my apprentice.",
+                "He mentors apprentices during the four-year program at Arion.",
+                "His announcement mirrored \"The Apprentice.\"",
+                "he apprenticed himself to the director Max Reinhardt.",
+                "She leaves her apprentice in charge and heads to the center of the city."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwcmVudGljZQ&hash=a29c228be78a46aa4482575d01c85685f03b24b0&lang=en&cache-only=0",
+            "defineEn": "someone who works for a skilled person for a specific period of time to learn their skills, usually earning a low wage",
+            "defineVi": "một người làm việc cho một người có kỹ năng trong một khoảng thời gian cụ thể để học các kỹ năng của họ, thường kiếm được mức lương thấp",
+            "hasImg": true
+        },
+        {
+            "id": "9d813034-5aa8-48ac-8ee7-6cdf5bd6061d",
+            "word": "full-time",
+            "phonetic": "fʊltaɪm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "With three kids and a full-time job, she’s got enough on her plate already.",
+                "I've had to tighten my belt since I stopped working full-time.",
+                "I earn full-time income.",
+                "Buffalo Games has six full-time designers.",
+                "Meanwhile, her husband Tony worked the night shift full-time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbC10aW1l&hash=91d7fb0582c8760ae7d46edb0e7c74910924332c&lang=en&cache-only=0",
+            "defineEn": "done for the usual hours in a working day or week",
+            "defineVi": "được thực hiện trong những giờ bình thường trong một ngày hoặc tuần làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "e41a8ece-2b8d-4e0f-acd5-2ad91bbee63e",
+            "word": "part-time",
+            "phonetic": "pɑːɹttaɪm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Part-time work would suit me right down to the ground.",
+                "I work part-time to pay the mortgage and keep the wolf from the door.",
+                "She is looking for a part-time job to earn extra money.",
+                "I went to college anyway, as a part-time student, paying my own way.",
+                "I'm just a part-time employee, so I don't get paid vacation days as it is."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFydC10aW1l&hash=5310e2108d1e6cc027425997c043b7dd73386763&lang=en&cache-only=0",
+            "defineEn": "done only for a part of the working hours",
+            "defineVi": "chỉ được thực hiện trong một phần thời gian làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "29ddbec7-0d6a-491c-842c-62a83767b956",
+            "word": "retired",
+            "phonetic": "ɹᵻtaɪɚd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The elderly couple, retired and content with simple pleasures, chose to live from day to day, cherishing each other's company and the beauty of the present.",
+                "Retired stockbroker, Gary Shaw, is secretary of the residents' association.",
+                "The retired CEO of the online shoe store Zappos, Tony Hsieh, died on Friday from injuries suffered in a fire.",
+                "He is a retired ATF agent and an adviser at the gun control group Giffords.",
+                "Nelson called retired paramedic Michelle Moseng, who treated Floyd on that day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmV0aXJlZA&hash=d77f401c3e405c30fc9769e0e0f3982ef3a274b5&lang=en&cache-only=0",
+            "defineEn": "no longer working, typically because of old age",
+            "defineVi": "không còn làm việc, thường là vì tuổi già",
+            "hasImg": true
+        },
+        {
+            "id": "d6e24b3a-310e-4591-ab92-b807c1cf787c",
+            "word": "to hire",
+            "phonetic": "tə haɪɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They hired a detective firm to dig up dirt on their rival.",
+                "They hired a violin teacher to guide them in their learning.",
+                "After years of mismanagement, they hired a new CEO to turn things around.",
+                "A babysitter was hired to take care of the baby while the parents were out.",
+                "Local people took matters into their own hands and hired their own security guards."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaGlyZQ&hash=d16c158f40ea4189efab64b4f39735cdf28b3284&lang=en&cache-only=0",
+            "defineEn": "to pay someone to do a job",
+            "defineVi": "trả tiền cho ai đó để làm một công việc",
+            "hasImg": true
+        },
+        {
+            "id": "6da41d95-69b5-4496-9a44-8cf8da365b27",
+            "word": "to fire",
+            "phonetic": "tə faɪɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Hold your fire!",
+                "Who started the fire?",
+                "The firefighter bravely extinguished the house fire.",
+                "The government has played with fire.",
+                "A fire attack shall chill the enemy to the bone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmlyZQ&hash=b999d5c783b9b165165f1407a7a2d9695f183647&lang=en&cache-only=0",
+            "defineEn": "to make someone leave their job, position, etc., usually as punishment",
+            "defineVi": "để làm cho ai đó rời khỏi công việc, vị trí của họ, vv, thường là hình phạt",
+            "hasImg": true
+        },
+        {
+            "id": "486b138d-eec3-4dd2-b675-08e877c4b643",
+            "word": "to earn",
+            "phonetic": "tʊ ɜːn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He earned his money by the sweat of his brow.",
+                "He certainly earned his place in the sun.",
+                "She earns money sitting for artists.",
+                "Mary's kindness and generosity towards others has earned her love and respect from everyone she meets.",
+                "Owing to legal changes, young barristers can no longer earn easy money on undefended divorces, which are now done by solicitors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWFybg&hash=53d79be9d91c5a15943803b479819267b3d70d93&lang=en&cache-only=0",
+            "defineEn": "to get money for the job that we do or services that we provide",
+            "defineVi": "để có được tiền cho công việc mà chúng tôi làm hoặc dịch vụ mà chúng tôi cung cấp",
+            "hasImg": true
+        },
+        {
+            "id": "d7758018-5104-4a3f-8ee6-c68456923916",
+            "word": "to quit",
+            "phonetic": "tə kwɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "You might as well just quit.",
+                "They quit the rat race in order to live a simple life.",
+                "She would quit her job at the drop of a hat if she found a better opportunity.",
+                "Quit milking the bull and do as I say instead.",
+                "The project went haywire when the team leader quit unexpectedly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcXVpdA&hash=3b24b89083408dca49b88f8e5e9a6bbd306ca25f&lang=en&cache-only=0",
+            "defineEn": "to give up one's job, school, etc.",
+            "defineVi": "từ bỏ công việc, trường học, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "9521d38c-2c43-44ee-909b-b78c0f0b2a45",
+            "word": "pay",
+            "phonetic": "peɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father pays his bills at the beginning of the month.",
+                "Our efforts are finally paying dividends.",
+                "Not paying attention.",
+                "They both pay their employees badly.",
+                "No one paid them any attention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF5&hash=1950bfac13b4bf7515675e096e54b6a44f94a1c6&lang=en&cache-only=0",
+            "defineEn": "the money that is paid to someone for doing their job",
+            "defineVi": "số tiền được trả cho ai đó để làm công việc của họ",
+            "hasImg": true
+        },
+        {
+            "id": "202c39e4-ce56-4758-b9c4-ed5e11df7ff6",
+            "word": "resume",
+            "phonetic": "ɹᵻzuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That piece of work just rejected my resume for the third time!",
+                "I prepare my resume and cover letter for job applications.",
+                "The United Nations Security Council has passed a resolution asking the two countries to resume peace negotiations.",
+                "After a few weeks of rest and self-care, John's health is finally up to the mark, and he's ready to resume his regular activities.",
+                "The accident left Peter with a broken leg, but thanks to a successful surgery and intensive rehabilitation, he was able to get back on his feet and resume his active lifestyle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzdW1l&hash=ad8b73ffbbfca76ee36e08394fe90f3e5c3c7a6a&lang=en&cache-only=0",
+            "defineEn": "a short written note of our education, skills, and job experiences that we send when trying to get a job",
+            "defineVi": "một ghi chú ngắn bằng văn bản về trình độ học vấn, kỹ năng và kinh nghiệm làm việc của chúng tôi mà chúng tôi gửi khi cố gắng kiếm việc làm",
+            "hasImg": true
+        }
+    ]
+}

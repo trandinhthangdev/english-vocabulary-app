@@ -1,0 +1,677 @@
+{
+    "id": "701bff38-bb55-47df-a38e-5ce686afc43a",
+    "title": "Semantics",
+    "originalTitle": "Semantics",
+    "words": [
+        {
+            "id": "e1711cc8-b33f-4e68-9ae9-6fd007182c88",
+            "word": "synonymy",
+            "phonetic": "sɪnənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3lub255bXk&hash=8598b7d80e4d607641e0066187461583229f55cf&lang=en&cache-only=0",
+            "defineEn": "the relationship between words or expressions that have similar or identical meanings, or nearly identical meanings, in a particular context or language",
+            "defineVi": "mối quan hệ giữa các từ hoặc thành ngữ có nghĩa tương tự hoặc giống hệt nhau hoặc nghĩa gần giống nhau trong một ngữ cảnh hoặc ngôn ngữ cụ thể"
+        },
+        {
+            "id": "b1837930-cac3-4fc8-929a-4f4dc541146d",
+            "word": "antonymy",
+            "phonetic": "æntənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW50b255bXk&hash=fd88d8748479481044ca621e319eb545afceeca9&lang=en&cache-only=0",
+            "defineEn": "the relationship between words or expressions that have opposite or contrasting meanings",
+            "defineVi": "mối quan hệ giữa các từ hoặc biểu thức có ý nghĩa trái ngược hoặc tương phản"
+        },
+        {
+            "id": "5dec67ca-606e-4bc5-925f-b11a3e9758cc",
+            "word": "hyponymy",
+            "phonetic": "haɪpoʊnaɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHlwb255bXk&hash=6cbb5b8704a3d1f6ec846069d51e8c57cd2eab42&lang=en&cache-only=0",
+            "defineEn": "a hierarchical relationship between words, where one word (the hyponym) represents a more specific or subordinate category within the meaning of another word (the hypernym)",
+            "defineVi": "một mối quan hệ thứ bậc giữa các từ, trong đó một từ (hypernym) đại diện cho một danh mục cụ thể hơn hoặc cấp dưới trong nghĩa của một từ khác (hypernym)"
+        },
+        {
+            "id": "0860f08b-9003-4013-b734-84cf9108717c",
+            "word": "prototype",
+            "phonetic": "pɹoʊɾoʊtaɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The prototype is finished.",
+                "But not every word has a prototype.",
+                "Rosch’s prototype theory offers us an escape hatch from definitions.",
+                "Most engineers test their prototypes over and over and over again.",
+                "They actually flew a prototype in 2006."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvdG90eXBl&hash=5c29b7a2b05910f5847fefb077f0c98f9232ca9a&lang=en&cache-only=0",
+            "defineEn": "an exemplary representation of a category that embodies its essential features and serves as a reference for evaluating other members of the category",
+            "defineVi": "một đại diện mẫu mực của một danh mục thể hiện các tính năng thiết yếu của nó và dùng làm tài liệu tham khảo để đánh giá các thành viên khác của danh mục"
+        },
+        {
+            "id": "71f7df3a-21d7-4cb6-b32b-7fdbf1872497",
+            "word": "homonymy",
+            "phonetic": "hɑːmənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tb255bXk&hash=7e8b30319ad961d820e8f973ad31d52ddb794da3&lang=en&cache-only=0",
+            "defineEn": "a linguistic phenomenon where words share the same form (spelling or pronunciation) but have different meanings, contributing to lexical ambiguity and requiring context for proper interpretation",
+            "defineVi": "một hiện tượng ngôn ngữ trong đó các từ có cùng hình thức (chính tả hoặc phát âm) nhưng có ý nghĩa khác nhau, góp phần tạo ra sự mơ hồ về từ vựng và cần có ngữ cảnh để giải thích chính xác"
+        },
+        {
+            "id": "25254df8-e206-43b1-aa89-9103df12d774",
+            "word": "homophony",
+            "phonetic": "həmɑːfəni ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tb3Bob255&hash=bc94594a18cbfb45b0805890956c90ba8581545d&lang=en&cache-only=0",
+            "defineEn": "a linguistic phenomenon where different words have the same or similar pronunciation but may have different spellings and meanings, resulting in potential confusion and ambiguity in oral communication",
+            "defineVi": "một hiện tượng ngôn ngữ trong đó các từ khác nhau có cách phát âm giống hoặc tương tự nhưng có thể có cách viết và nghĩa khác nhau, dẫn đến khả năng nhầm lẫn và mơ hồ trong giao tiếp bằng miệng"
+        },
+        {
+            "id": "bff97440-d336-418c-8574-c16017ad69a8",
+            "word": "polysemy",
+            "phonetic": "pɑːlɪsəmi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is known as polysemy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9seXNlbXk&hash=87729a74f8295407313217bcadf283ad7ca52bec&lang=en&cache-only=0",
+            "defineEn": "the phenomenon in language where a single word has multiple related meanings or senses, allowing for flexibility and richness of expression through context-dependent interpretation",
+            "defineVi": "hiện tượng trong ngôn ngữ trong đó một từ có nhiều nghĩa hoặc nghĩa liên quan, cho phép diễn đạt linh hoạt và phong phú thông qua diễn giải phụ thuộc vào ngữ cảnh"
+        },
+        {
+            "id": "5d3a349e-e384-48af-a30a-45938b01bccb",
+            "word": "catachresis",
+            "phonetic": "kæɾɐtʃɹiːsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2F0YWNocmVzaXM&hash=1302cd741263ec0f3ab50e8b634daeaf90982025&lang=en&cache-only=0",
+            "defineEn": "a type of figurative language that involves the unconventional or strained use of words, often resulting in an unexpected or exaggerated expression",
+            "defineVi": "một loại ngôn ngữ tượng hình liên quan đến việc sử dụng các từ độc đáo hoặc căng thẳng, thường dẫn đến một cách diễn đạt bất ngờ hoặc phóng đại"
+        },
+        {
+            "id": "ebe45865-3801-47ff-90b4-64b78041445d",
+            "word": "scope",
+            "phonetic": "skoʊp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Instead of hiring the brightest scientists and locking them in an ivory tower with like-minded people, the organization strives to embrace collaboration and a full-stack scope of solutions.",
+                "Now, strategic carriers are widening their scopes.",
+                "The scope of the scam shocked the world.",
+                "We zeroed the scope with old cans.",
+                "And, more importantly here, bigger scopes are very sensitive to, well, everything."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NvcGU&hash=c4b9c7ddf3af69ef1326ab55a474c22ec0aa7351&lang=en&cache-only=0",
+            "defineEn": "the extent or range of meaning that a word, phrase, or grammatical construction has within a sentence or discourse",
+            "defineVi": "mức độ hoặc phạm vi ý nghĩa mà một từ, cụm từ hoặc cấu trúc ngữ pháp có trong một câu hoặc diễn ngôn"
+        },
+        {
+            "id": "46da4c1b-57e2-42ad-98c6-2b1532026c92",
+            "word": "modality",
+            "phonetic": "moʊdælᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And unfortunately with pseudomonas, we don't have good treatment modalities.",
+                "When one sensory modality like hearing is stimulated, those with synesthesia might perceive something in a different, unstimulated sensory modality.",
+                "Health experts here say they are still discussing the modalities of introducing and distributing a vaccine that will suitable for their environment.",
+                "When one sensory modality like hearing is stimulated, those with synesthesia might perceive something in a different, unstimulated sensory modality."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9kYWxpdHk&hash=2e6dbb5d08b385532e3b17640f71940ad1403f44&lang=en&cache-only=0",
+            "defineEn": "the way in which language expresses the speaker's or writer's attitude, opinion, or degree of certainty regarding a statement or proposition",
+            "defineVi": "cách thức mà ngôn ngữ thể hiện thái độ, quan điểm hoặc mức độ chắc chắn của người nói hoặc người viết về một tuyên bố hoặc đề xuất"
+        },
+        {
+            "id": "d7799cd3-3b25-406d-85be-f563fd39b94b",
+            "word": "semantic network",
+            "phonetic": "səmæntɪk nɛtwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VtYW50aWMgbmV0d29yaw&hash=8a2cc9c613f20f48d0bc66cd2b81483edff794b0&lang=en&cache-only=0",
+            "defineEn": "a graphical representation or structure that depicts relationships between concepts or entities in a language or knowledge domain",
+            "defineVi": "một biểu diễn hoặc cấu trúc đồ họa mô tả các mối quan hệ giữa các khái niệm hoặc thực thể trong một ngôn ngữ hoặc miền kiến thức"
+        },
+        {
+            "id": "6360c9cc-791f-42fd-ace6-eab0c90683ab",
+            "word": "word sense",
+            "phonetic": "wɜːd sɛns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yZCBzZW5zZQ&hash=9b97b311e352ce02b97c6b551beffaeb23903889&lang=en&cache-only=0",
+            "defineEn": "the specific meaning or interpretation of a word in a given context or language",
+            "defineVi": "ý nghĩa cụ thể hoặc giải thích của một từ trong một bối cảnh nhất định hoặc ngôn ngữ"
+        },
+        {
+            "id": "c2948ba5-6c19-4429-ac09-8b9591b7283a",
+            "word": "troponymy",
+            "phonetic": "tɹɑːpənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJvcG9ueW15&hash=7d721254fc4f3fde95df79281cc3b168860366bc&lang=en&cache-only=0",
+            "defineEn": "the study of how one word's meaning represents a specific way or type of another word's meaning within a particular category or field of language",
+            "defineVi": "nghiên cứu về cách ý nghĩa của một từ đại diện cho một cách cụ thể hoặc loại ý nghĩa của một từ khác trong một thể loại hoặc lĩnh vực ngôn ngữ cụ thể"
+        },
+        {
+            "id": "e78b2aab-8658-46ac-8266-97ebe9a551c8",
+            "word": "thematic role",
+            "phonetic": "θiːmæɾɪk ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhlbWF0aWMgcm9sZQ&hash=2e0ec84c731e85321819f58d84e41c9b99d5a8be&lang=en&cache-only=0",
+            "defineEn": "a grammatical concept that represents the relationship between a noun phrase and the action or state described by a verb, indicating the role or function of the noun phrase in the event or situation",
+            "defineVi": "một khái niệm ngữ pháp biểu thị mối quan hệ giữa cụm danh từ và hành động hoặc trạng thái được mô tả bởi động từ, cho biết vai trò hoặc chức năng của cụm danh từ trong sự kiện hoặc tình huống"
+        },
+        {
+            "id": "ab81d374-4f12-4871-a231-3a480468531c",
+            "word": "semantic satiation",
+            "phonetic": "səmæntɪk seɪʃɪeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VtYW50aWMgc2F0aWF0aW9u&hash=d33ce940dbfa79df4f98c82b54d4207f9e1d4ecb&lang=en&cache-only=0",
+            "defineEn": "a psychological phenomenon where repeated exposure to a word or phrase leads to a temporary loss of its meaning or sense of familiarity",
+            "defineVi": "một hiện tượng tâm lý khi tiếp xúc nhiều lần với một từ hoặc cụm từ dẫn đến việc tạm thời mất ý nghĩa hoặc cảm giác quen thuộc"
+        },
+        {
+            "id": "9af604c5-61d4-4aae-8738-849cc36e4edf",
+            "word": "lexical chain",
+            "phonetic": "lɛksɪkəl tʃeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbCBjaGFpbg&hash=1c8b547fc6ef6a420cf43b6a6274b8725ccaa097&lang=en&cache-only=0",
+            "defineEn": "a sequence of words or terms in a text that are semantically related or connected by their meaning",
+            "defineVi": "một chuỗi các từ hoặc thuật ngữ trong một văn bản có liên quan về mặt ngữ nghĩa hoặc được kết nối bởi ý nghĩa của chúng"
+        },
+        {
+            "id": "fbc06d5f-3cff-463f-a03a-4cb4442f9535",
+            "word": "semantic field",
+            "phonetic": "səmæntɪk fiːld ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VtYW50aWMgZmllbGQ&hash=71613d225bd12bcab789248a2478c5855f71e081&lang=en&cache-only=0",
+            "defineEn": "a group or set of words that are related in meaning and share a common semantic theme or category",
+            "defineVi": "một nhóm hoặc tập hợp các từ có liên quan về nghĩa và chia sẻ một chủ đề hoặc danh mục ngữ nghĩa chung"
+        },
+        {
+            "id": "88023d51-1db0-441e-83ca-f5e3774331f7",
+            "word": "semantic relation",
+            "phonetic": "səmæntɪk ɹᵻleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VtYW50aWMgcmVsYXRpb24&hash=506d3b78fffbab53f5465a17108641c0d4f78fd2&lang=en&cache-only=0",
+            "defineEn": "the connections or associations between words or concepts based on their meaning",
+            "defineVi": "các kết nối hoặc hiệp hội giữa các từ hoặc khái niệm dựa trên ý nghĩa của chúng"
+        },
+        {
+            "id": "70678252-3641-4977-a14d-244df19d2e8c",
+            "word": "conceptual metaphor",
+            "phonetic": "kənsɛptʃuːəl mɛɾəfɔːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VwdHVhbCBtZXRhcGhvcg&hash=0e2d5c79fe6b4b41b021b7f18df161ef54ec8184&lang=en&cache-only=0",
+            "defineEn": "a cognitive mechanism in which abstract or complex ideas are understood and expressed in terms of more concrete or familiar concepts",
+            "defineVi": "một cơ chế nhận thức trong đó các ý tưởng trừu tượng hoặc phức tạp được hiểu và thể hiện dưới dạng các khái niệm cụ thể hoặc quen thuộc hơn"
+        },
+        {
+            "id": "332d61ce-f53d-415d-acf6-75493eaebdfe",
+            "word": "conceptual metonymy",
+            "phonetic": "kənsɛptʃuːəl mɛtənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VwdHVhbCBtZXRvbnlteQ&hash=34c1eedad596346e00770e9443171ad485df6327&lang=en&cache-only=0",
+            "defineEn": "a cognitive process in which one concept is understood or represented in terms of another concept based on a conceptual or cognitive association between them, often involving contiguity or a part-whole relationship",
+            "defineVi": "một quá trình nhận thức trong đó một khái niệm được hiểu hoặc thể hiện dưới dạng một khái niệm khác dựa trên mối liên hệ về nhận thức hoặc khái niệm giữa chúng, thường liên quan đến sự tiếp giáp hoặc mối quan hệ toàn bộ"
+        },
+        {
+            "id": "2834f989-4a70-4927-bbe0-c2c6ec17bcd0",
+            "word": "agent",
+            "phonetic": "eɪdʒənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have two agents on the case.",
+                "a sharp talent agent who has a finger in the pie in show business.",
+                "The literary festival attracts renowned authors, publishers, and literary agents.",
+                "The agent put me on hold while she consulted a colleague.",
+                "The agent counsels them obliquely against waste, repeats the letter of the law, and smiles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWdlbnQ&hash=b80e3659d4fa110bb390f592939de7c0b64406f8&lang=en&cache-only=0",
+            "defineEn": "a grammatical role or semantic role that refers to the entity that performs or initiates an action or event in a sentence or a clause",
+            "defineVi": "một vai trò ngữ pháp hoặc vai trò ngữ nghĩa đề cập đến thực thể thực hiện hoặc bắt đầu một hành động hoặc sự kiện trong một câu hoặc một mệnh đề"
+        },
+        {
+            "id": "cbb54c5e-9c1e-4e23-a3cf-7162b2e4d958",
+            "word": "broadening",
+            "phonetic": "bɹɔːdənɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By the time the Olympics were held and the Special Olympics were over, Russia is in a state of a broadening and deepening conflict with the West."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvYWRlbmluZw&hash=c5afd3475ef866cacbefa9f1752e87c3b3175968&lang=en&cache-only=0",
+            "defineEn": "a process where the meaning of a word or concept expands or becomes more inclusive, encompassing a wider range of referents or interpretations than its original or core meaning",
+            "defineVi": "một quá trình trong đó ý nghĩa của một từ hoặc khái niệm mở rộng hoặc trở nên bao hàm hơn, bao gồm phạm vi tham chiếu hoặc diễn giải rộng hơn so với nghĩa gốc hoặc ý nghĩa cốt lõi của nó"
+        },
+        {
+            "id": "4123a097-4e2c-4f4b-8335-01d5271cc782",
+            "word": "epithet",
+            "phonetic": "ɛpɪθɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And our studies do indicate that it’s the hidden, unintentional forms of bias that are most damaging to people of color, and that like, at the University of Missouri where you have people being called racial epithets or behaviors that are going on, it actually is only the tip of the iceberg."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXBpdGhldA&hash=3b1b06b5b5804212ac86b7d67bcf46de53c386b6&lang=en&cache-only=0",
+            "defineEn": "a descriptive word or phrase that accompanies or replaces the name of a person or thing, especially to give praise or criticism",
+            "defineVi": "một từ hoặc cụm từ mô tả đi kèm hoặc thay thế tên của một người hoặc vật, đặc biệt là để khen ngợi hoặc phê bình"
+        },
+        {
+            "id": "81fe3869-eb92-4121-a5b3-b9c9466edd7e",
+            "word": "word meaning",
+            "phonetic": "wɜːd miːnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yZCBtZWFuaW5n&hash=217308ea0ec6b7fd4046ec4eb3c844d6ba490488&lang=en&cache-only=0",
+            "defineEn": "the specific sense or interpretation attributed to a word in a particular context",
+            "defineVi": "ý nghĩa hoặc giải thích cụ thể được gán cho một từ trong một ngữ cảnh cụ thể"
+        },
+        {
+            "id": "6bf376ec-9dd0-4d12-8409-ea0704c18bfd",
+            "word": "accidental gap",
+            "phonetic": "æksɪdɛntəl ɡæp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNjaWRlbnRhbCBnYXA&hash=43f96629d902bf4df879bc00a1fffa9f99b60d9c&lang=en&cache-only=0",
+            "defineEn": "a situation where a language lacks a specific word or lexical item to express a particular concept or meaning",
+            "defineVi": "một tình huống trong đó một ngôn ngữ thiếu một từ hoặc mục từ vựng cụ thể để diễn đạt một khái niệm hoặc ý nghĩa cụ thể"
+        },
+        {
+            "id": "c1ac5bae-f493-4a59-9652-4c072f5d7f9a",
+            "word": "content word",
+            "phonetic": "kɑːntɛnt wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29udGVudCB3b3Jk&hash=ec8c533dbc2f0a79ec718b8b9f9aa26961303bbf&lang=en&cache-only=0",
+            "defineEn": "a word that carries semantic meaning and contributes to the overall content and understanding of a sentence, such as nouns, verbs, adjectives, and adverbs",
+            "defineVi": "một từ mang ý nghĩa ngữ nghĩa và đóng góp vào nội dung tổng thể và sự hiểu biết của một câu, chẳng hạn như danh từ, động từ, tính từ và trạng từ"
+        },
+        {
+            "id": "6a05f814-4d99-4ec3-9c8e-ea1de6408118",
+            "word": "concept",
+            "phonetic": "kɑːnsɛpt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Can you explain this math concept to me?",
+                "She presented an abstract concept that challenged traditional notions of reality.",
+                "The audience nodded in understanding as the speaker explained the concept.",
+                "Engineers collaborate with architects to turn design concepts into reality.",
+                "I need someone to explain the concept of gravity to me."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VwdA&hash=dab1dea2b40a7ddf2d3c6f5599d8fb659ac92063&lang=en&cache-only=0",
+            "defineEn": "a principle or idea that is abstract",
+            "defineVi": "một nguyên tắc hoặc ý tưởng đó là trừu tượng"
+        },
+        {
+            "id": "98703270-3973-49da-b362-ad5adf4a9d09",
+            "word": "meronymy",
+            "phonetic": "mɛɹənɪmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVyb255bXk&hash=cb9dc420eec782c1eaba40d58dba2e2a6f09d126&lang=en&cache-only=0",
+            "defineEn": "a linguistic concept that describes the relationship between a word that represents a whole object and a word that represents a part or subset of that object",
+            "defineVi": "một khái niệm ngôn ngữ mô tả mối quan hệ giữa một từ đại diện cho toàn bộ đối tượng và một từ đại diện cho một phần hoặc tập hợp con của đối tượng đó"
+        },
+        {
+            "id": "ea6ca186-7c5b-4d68-ae8b-67c7934ecb6a",
+            "word": "sign system",
+            "phonetic": "saɪn sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2lnbiBzeXN0ZW0&hash=abea4125dd594d4bbc99105b259dfee0ab19f9a1&lang=en&cache-only=0",
+            "defineEn": "a structured system of signs, symbols, or codes that are used to communicate meaning within a particular context or domain",
+            "defineVi": "một hệ thống có cấu trúc gồm các dấu hiệu, ký hiệu hoặc mã được sử dụng để truyền đạt ý nghĩa trong một ngữ cảnh hoặc miền cụ thể"
+        },
+        {
+            "id": "a729bb34-55ba-4eba-8205-67e3b3037965",
+            "word": "circular definition",
+            "phonetic": "sɜːkjʊlɚ dɛfɪnɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2lyY3VsYXIgZGVmaW5pdGlvbg&hash=7091080b141c196e571413b5e3642e5711c82b12&lang=en&cache-only=0",
+            "defineEn": "a type of definition that uses the term being defined as part of the definition itself, resulting in an uninformative or logically flawed explanation",
+            "defineVi": "một kiểu định nghĩa sử dụng thuật ngữ được định nghĩa như một phần của chính định nghĩa đó, dẫn đến cách giải thích thiếu thông tin hoặc thiếu sót về mặt logic"
+        },
+        {
+            "id": "11cd8450-8d9b-4900-b422-8cbfa13a029b",
+            "word": "definition",
+            "phonetic": "dɛfɪnɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "P-values, by definition, only examine null hypotheses.",
+                "We just used our soh cah toa definition.",
+                "This definition has changed. ",
+                "We know the definition.",
+                "This bill does not address that definition."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVmaW5pdGlvbg&hash=9db1504ce6018c3a3bc82d84a7b0364aa746d6b3&lang=en&cache-only=0",
+            "defineEn": "the act or process of explaining the meaning of a word, concept, or term",
+            "defineVi": "hành động hoặc quá trình giải thích ý nghĩa của một từ, khái niệm hoặc thuật ngữ"
+        },
+        {
+            "id": "25775727-064a-4a47-87e7-5970bb2769e8",
+            "word": "holonym",
+            "phonetic": "hɑːlənɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9sb255bQ&hash=ebe61b2f3a10d2b6f8af5cf2f54e6cb2c5e71d6f&lang=en&cache-only=0",
+            "defineEn": "a term used in semantics and linguistics to refer to a word that represents a whole or complete entity, while its parts are referred to as meronyms.",
+            "defineVi": "một thuật ngữ được sử dụng trong ngữ nghĩa và ngôn ngữ học để chỉ một từ đại diện cho một thực thể toàn bộ hoặc hoàn chỉnh, trong khi các bộ phận của nó được gọi là từ đồng nghĩa."
+        },
+        {
+            "id": "cb640013-d136-4cd3-b680-0ea0e1a731cc",
+            "word": "homograph",
+            "phonetic": "hɑːməɡɹæf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tb2dyYXBo&hash=bb96fa422b1dea245a0e032ac8f380f164c38978&lang=en&cache-only=0",
+            "defineEn": "(grammar) one of two or more words that are spelled the same but differ in meaning",
+            "defineVi": "(ngữ pháp) một trong hai hay nhiều từ viết giống nhau nhưng nghĩa khác nhau"
+        },
+        {
+            "id": "be77802e-0d67-462f-83aa-d89dd00e954f",
+            "word": "descriptor",
+            "phonetic": "dᵻskɹɪptɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s always used as a negative descriptor. ",
+                "Some words are just such useful descriptors, like elegans, meaning elegant, or vulgaris which means common.",
+                "That’s because researchers have found that adding colorful descriptors can increase sales by up to 27%.",
+                "It feels strange to call these people content creators, even though they too have produced many and varied works not easily corralled under one descriptor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVzY3JpcHRvcg&hash=a8a95680ddb5fb94c6fe2713615f778b39e0ae62&lang=en&cache-only=0",
+            "defineEn": "a word or phrase that describes or provides information about something",
+            "defineVi": "một từ hoặc cụm từ mô tả hoặc cung cấp thông tin về một cái gì đó"
+        },
+        {
+            "id": "68d710c4-da57-4b6b-83f4-d88b63953974",
+            "word": "denotation",
+            "phonetic": "dᵻnoʊteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVub3RhdGlvbg&hash=4b4a1d4781e529a39e33eb0dc3d76b78c94d1a3e&lang=en&cache-only=0",
+            "defineEn": "the objective and dictionary-based meaning of a word, representing its core and universally accepted definition",
+            "defineVi": "ý nghĩa khách quan và dựa trên từ điển của một từ, đại diện cho định nghĩa cốt lõi và được chấp nhận rộng rãi của từ đó"
+        },
+        {
+            "id": "8e9d3c59-e1ec-410e-8932-4b0838960207",
+            "word": "connotation",
+            "phonetic": "kɑːnəteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Not everyone likes the connotation.",
+                "At one time in African-American culture, the name also had a very negative connotation.",
+                "When people hear the word developer, it has a certain connotation that might not necessarily be all that positive.",
+                "Frankincense and myrrh are perhaps best known for their biblical connotations.",
+                "They were much more likely to think the word’s connotation was its most disgusting trait."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ubm90YXRpb24&hash=aa5965e7cf911e13b45a4c19c09388b0594fab1d&lang=en&cache-only=0",
+            "defineEn": "a feeling or an idea suggested by a word aside from its literal or primary meaning",
+            "defineVi": "một cảm giác hoặc một ý tưởng được gợi ý bởi một từ ngoài nghĩa đen hoặc nghĩa chính của nó"
+        },
+        {
+            "id": "fdc49ca2-af90-493a-9b0c-836e95e57778",
+            "word": "untranslatability",
+            "phonetic": "ʌntɹænsleɪɾəbɪlᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW50cmFuc2xhdGFiaWxpdHk&hash=0f5901d7b802b0e06e4c28cf47498713ae9947f6&lang=en&cache-only=0",
+            "defineEn": "the condition when a word, phrase, or concept from one language lacks an equivalent or precise translation in another language due to cultural, linguistic, or contextual differences",
+            "defineVi": "tình trạng khi một từ, cụm từ hoặc khái niệm từ một ngôn ngữ thiếu bản dịch tương đương hoặc chính xác sang ngôn ngữ khác do sự khác biệt về văn hóa, ngôn ngữ hoặc ngữ cảnh"
+        },
+        {
+            "id": "9040a742-5c17-4b02-991c-c5336c24e5fa",
+            "word": "co-hyponym",
+            "phonetic": "koʊhaɪpoʊnɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y28taHlwb255bQ&hash=fb946c0fe1ca15d914733eca7b3ad65f8029df21&lang=en&cache-only=0",
+            "defineEn": "a word or phrase that belongs to the same semantic field as another word or phrase and shares the same hypernym, representing a distinct subcategory or specific instance within that field",
+            "defineVi": "một từ hoặc cụm từ thuộc về cùng một trường ngữ nghĩa như một từ hoặc cụm từ khác và chia sẻ cùng một siêu từ, đại diện cho một danh mục con riêng biệt hoặc trường hợp cụ thể trong trường đó"
+        },
+        {
+            "id": "e957cea9-a114-432b-afe2-2222b5c7fefa",
+            "word": "hypernym",
+            "phonetic": "haɪpɚnɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And the broader word, like color and animal, is a hypernym.",
+                "A word which is a hyponym of one word can be a hypernym of another: snowshoes are one type of rabbit, and a rabbit is a type of animal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHlwZXJueW0&hash=7bfa61b4fd55baaef0958c095636174891eec299&lang=en&cache-only=0",
+            "defineEn": "a word or concept that represents a broader or more general category and encompasses other words or concepts within that category, known as hyponyms",
+            "defineVi": "một từ hoặc khái niệm đại diện cho một danh mục rộng hơn hoặc tổng quát hơn và bao gồm các từ hoặc khái niệm khác trong danh mục đó, được gọi là từ dưới nghĩa"
+        },
+        {
+            "id": "629a5134-9229-43a7-b602-58a4e05850c3",
+            "word": "instrument",
+            "phonetic": "ɪnstɹəmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Charlotte excels in playing the piano because she learned the instrument at her mother's knee.",
+                "The process involves using steam to sterilize the instruments.",
+                "The musician stepped up his game and practiced his instrument for hours every day, resulting in a more polished and professional sound.",
+                "His consuming passion for music drove him to spend every free moment practicing his instrument.",
+                "This instrument also allowed the development of dead reckoning."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zdHJ1bWVudA&hash=f4101bfbab90dc326fa9247554e8eac1f8d8e1f4&lang=en&cache-only=0",
+            "defineEn": "a semantic role that refers to the entity or object that is used to carry out or perform an action denoted by the verb in a sentence",
+            "defineVi": "một vai trò ngữ nghĩa đề cập đến thực thể hoặc đối tượng được sử dụng để thực hiện hoặc thực hiện một hành động được biểu thị bằng động từ trong câu"
+        },
+        {
+            "id": "c3d76ffd-3ad4-4bc9-82fe-c3dec4ee7918",
+            "word": "theme",
+            "phonetic": "θiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The author abstracted key themes from the novel in her literary analysis.",
+                "The artist's painting depicted a crowded city street, with the figures in the painting appearing isolated and alone, capturing the theme of 'a great city, a great solitude'.",
+                "Edible ink is a popular choice for creating custom designs on cookies, such as monograms, logos, and holiday themes.",
+                "My photography is widely exposing theme of escapism.",
+                "This year's theme is Heroes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlbWU&hash=25ae4cca5a46d2a1c4ffc5d5f4a8e93bd3cc4795&lang=en&cache-only=0",
+            "defineEn": "the main focus or subject of a sentence or an action",
+            "defineVi": "trọng tâm chính hoặc chủ đề của một câu hoặc một hành động"
+        },
+        {
+            "id": "9c94368b-0091-4331-bf9f-1590b0719459",
+            "word": "associative meaning",
+            "phonetic": "ɐsoʊsiətɪv miːnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXNzb2NpYXRpdmUgbWVhbmluZw&hash=d2b1360b20f5e4cc8bccbce41a236a84a9071ea2&lang=en&cache-only=0",
+            "defineEn": "the additional connotations or associations that a word or expression may evoke beyond its literal or primary meaning",
+            "defineVi": "các ý nghĩa hoặc liên kết bổ sung mà một từ hoặc biểu thức có thể gợi lên ngoài nghĩa đen hoặc nghĩa chính của nó"
+        },
+        {
+            "id": "eb84b534-1b00-48a5-8e44-c4d85628c544",
+            "word": "conceptual meaning",
+            "phonetic": "kənsɛptʃuːəl miːnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VwdHVhbCBtZWFuaW5n&hash=f9c821a190a48ce77221bfb3307e5d64bc37a2e7&lang=en&cache-only=0",
+            "defineEn": "the abstract understanding and mental representation associated with a word or expression",
+            "defineVi": "sự hiểu biết trừu tượng và đại diện tinh thần liên quan đến một từ hoặc biểu thức"
+        },
+        {
+            "id": "e2b77d75-3cac-4bb2-b0b2-9647ecdd5205",
+            "word": "semantic root",
+            "phonetic": "səmæntɪk ɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VtYW50aWMgcm9vdA&hash=47e38c3b8d7203f100033ba2e3ff094eabf99278&lang=en&cache-only=0",
+            "defineEn": "the minimal, irreducible unit of meaning within a word",
+            "defineVi": "đơn vị tối thiểu, không thể rút gọn của ý nghĩa trong một từ"
+        },
+        {
+            "id": "548736ec-03a9-4656-8999-b5695756736e",
+            "word": "monosemy",
+            "phonetic": "mɑːnoʊsəmi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9ub3NlbXk&hash=3dd6bf916f900274a2322a49c1f735282a341b74&lang=en&cache-only=0",
+            "defineEn": "the condition in which a word or expression has only one primary or dominant meaning, without significant ambiguity or variation in interpretation. It contrasts with polysemy, where a word has multiple related meanings",
+            "defineVi": "tình trạng trong đó một từ hoặc cụm từ chỉ có một nghĩa chính hoặc nghĩa chủ đạo, không có sự mơ hồ hoặc biến thể đáng kể trong cách giải thích. Nó tương phản với từ đa nghĩa, trong đó một từ có nhiều nghĩa liên quan"
+        },
+        {
+            "id": "1d3412a7-2363-4aec-94c6-bf7930f20ce3",
+            "word": "sign",
+            "phonetic": "saɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sign must be taken down.",
+                "The doctor examined her neck for any signs of injury.",
+                "I checked the car for signs of damage.",
+                "We sign our names with a pen when writing greeting cards.",
+                "The loyal subjects bowed down before their king as a sign of reverence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lnbg&hash=49c367b4ac03d1f65a0d1efed1f612016963e927&lang=en&cache-only=0",
+            "defineEn": "a unit or entity that carries meaning and represents a concept, idea, or object, often through a system of arbitrary associations between the signifier and the signified",
+            "defineVi": "một đơn vị hoặc thực thể mang ý nghĩa và đại diện cho một khái niệm, ý tưởng hoặc đối tượng, thường thông qua một hệ thống liên kết tùy ý giữa người ký và người được ký"
+        },
+        {
+            "id": "c06ac105-1be3-4dc2-af72-eaea11e0b277",
+            "word": "signifier",
+            "phonetic": "sɪɡnɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We use signifiers as modes of communication to express both simple and complex thought, but they’re not inherently tied to the thing they describe.",
+                "They became a scratchy, and not particularly aesthetic, signifier attached to the myth of a rugged American masculinity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lnbmlmaWVy&hash=be65445df57e8b03b6b0ef3dabd3b7670196fbaf&lang=en&cache-only=0",
+            "defineEn": "the physical or perceptible form of a sign, such as a word, sound, image, or gesture, that represents or signifies a particular meaning or concept",
+            "defineVi": "hình thức vật lý hoặc cảm nhận được của một dấu hiệu, chẳng hạn như một từ, âm thanh, hình ảnh hoặc cử chỉ, đại diện hoặc biểu thị một ý nghĩa hoặc khái niệm cụ thể"
+        },
+        {
+            "id": "c5d79caa-0eb1-4fda-98ea-6df385e478b0",
+            "word": "signified",
+            "phonetic": "sɪɡnᵻfaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "that is used to refer to the signified.",
+                "Because even though both the signifier and the signified of the hashtag have changed through time and usage, there is a common feature in the pound sign, and that’s the grouping together of both objects and concepts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lnbmlmaWVk&hash=e97960a41f00ffcc97f79db6d1cf7e9e518d557a&lang=en&cache-only=0",
+            "defineEn": "the concept, meaning, or idea that a sign represents or signifies",
+            "defineVi": "khái niệm, ý nghĩa hoặc ý tưởng mà một dấu hiệu đại diện hoặc biểu thị"
+        },
+        {
+            "id": "d6d0cb0c-63b3-4807-8307-16ea36e90cf2",
+            "word": "patient",
+            "phonetic": "peɪʃənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The dentist can't take any new patients.",
+                "You have to be patient.",
+                "she puts her patients in touch with a great acupuncturist in London.",
+                "The treatment has not yet been tried on patients.",
+                "The patient's life was hanging by a thread."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
+            "defineEn": "the entity that undergoes or experiences an action or change as a result of an event",
+            "defineVi": "thực thể trải qua hoặc trải qua một hành động hoặc thay đổi do kết quả của một sự kiện"
+        },
+        {
+            "id": "dc67800d-6d68-491f-8309-3b7f99f22368",
+            "word": "experiencer",
+            "phonetic": "ɛkspiəɹɪənsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Studies done after the fact rely on experiencers identifying themselves as participants, which can cause some serious bias.",
+                "It’s also possible that near-death experiences could be entirely or partly biological, and there are a number of possible mechanisms that could explain the things experiencers see and feel.",
+                "They found that the experiencers scored much higher on the dissociation test, meaning they were more prone to mentally check out of situations.",
+                "One idea is that rather than experiencers seeing and feeling the same things because they’re actually having similar experiences, they see and feel them because they expect to."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZXJpZW5jZXI&hash=966927446b691535bd66ac0c69e7659da3b85a02&lang=en&cache-only=0",
+            "defineEn": "a semantic role assigned to the entity that undergoes an emotional or perceptual experience, such as feeling, sensing, or perceiving something",
+            "defineVi": "một vai trò ngữ nghĩa được gán cho thực thể trải qua trải nghiệm cảm xúc hoặc nhận thức, chẳng hạn như cảm giác, cảm nhận hoặc nhận thức điều gì đó"
+        },
+        {
+            "id": "954af47c-67b3-4687-9484-89e7d72505d4",
+            "word": "goal",
+            "phonetic": "ɡoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ref gave the goal.",
+                "His first goal came in the 81st minute.",
+                "Three cheers for Sarah, whose brilliant goal at the last minute won us the game!",
+                "She moved the ball toward the opponent's goal.",
+                "The goal is to involve workers in the decision-making process."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29hbA&hash=78afcab9462bdb0b4ae60e8fd879c3d9b15840c8&lang=en&cache-only=0",
+            "defineEn": "a role assigned to the entity that represents the target or endpoint of an action or movement",
+            "defineVi": "một vai trò được gán cho thực thể đại diện cho mục tiêu hoặc điểm cuối của một hành động hoặc chuyển động"
+        },
+        {
+            "id": "1197fa0c-b4d0-4d57-8812-b66004048721",
+            "word": "source",
+            "phonetic": "soːɹs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Eggs are a great source of protein.",
+                "Prunes are a good source of antioxidants.",
+                "They couldn't locate the source of the noise for the life of them.",
+                "The scientist abstracted the data from various sources to analyze trends.",
+                "Poultry is a lean source of protein and a healthier alternative to red meat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cmNl&hash=40197f7ba37b600c0a63f099a737673078efd83b&lang=en&cache-only=0",
+            "defineEn": "a role assigned to the entity that represents the starting point or origin of an action or movement",
+            "defineVi": "một vai trò được gán cho thực thể đại diện cho điểm bắt đầu hoặc nguồn gốc của một hành động hoặc chuyển động"
+        },
+        {
+            "id": "a8aa8965-7b08-4bfe-a607-ac59bcefa879",
+            "word": "location",
+            "phonetic": "loʊkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The jury is still out as concerns the location of the new station.",
+                "She unfolded the map to find the location of the tourist attractions.",
+                "Having 3 locations in the same area creates a situation that the left doesn't know what the right hand is doing.",
+                "Whenever a celebrity is spotted in town, fans make a beeline for the location, hoping to catch a glimpse or snap a photo.",
+                "I used my finger to point at the map and show them the location."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9jYXRpb24&hash=3a096c951810123538e4f0454d574b80c6eff17f&lang=en&cache-only=0",
+            "defineEn": "a thematic role associated with a noun phrase that indicates the place or position where an action or state occurs",
+            "defineVi": "một vai trò chuyên đề liên quan đến một cụm danh từ chỉ địa điểm hoặc vị trí xảy ra một hành động hoặc trạng thái"
+        },
+        {
+            "id": "0a6086a3-5eea-4594-bad2-307bae2d01e7",
+            "word": "beneficiary",
+            "phonetic": "bɛnɪfɪʃɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He is its beneficiary.",
+                "Over the past decade or so, with respect to the exodus of California, markets like Phenix and Las Vegas and Reno and Salt Lake City have been big beneficiaries.",
+                "But astronauts aren’t the only beneficiaries.",
+                "You know, the consumer is ultimately the beneficiary, clearly.",
+                "And William Blair has called it the only clear beneficiary of the Covid-19 outbreak in our universe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVuZWZpY2lhcnk&hash=09fec5d8e452d13b32881ccbba84149b12ad6e49&lang=en&cache-only=0",
+            "defineEn": "the semantic role of the intended recipient who benefits from the happening denoted by the verb in the clause",
+            "defineVi": "vai trò ngữ nghĩa của người nhận dự định được hưởng lợi từ việc xảy ra được biểu thị bằng động từ trong mệnh đề"
+        },
+        {
+            "id": "79c77763-2251-4d2b-b121-cb58e0260f69",
+            "word": "recipient",
+            "phonetic": "ɹᵻsɪpiənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meanwhile, the recipient prepares for the transplant.",
+                "At this vaccine center in Mumbai, hopeful recipients were turned away.",
+                "But the recipient of the money was a surprise: Joy Tomchin, a New York real estate developer and philanthropist.",
+                "I'm a recipient of it.",
+                "He begins this report in Indonesia, a recipient of Belt and Road investments."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjaXBpZW50&hash=16cf87b0ef1c79794518cd8c2ef4a10ef4de63da&lang=en&cache-only=0",
+            "defineEn": "a thematic role associated with a noun phrase that represents the entity to whom something is given or transferred",
+            "defineVi": "một vai trò chủ đề được liên kết với một cụm danh từ đại diện cho thực thể mà một cái gì đó được trao hoặc chuyển giao"
+        }
+    ]
+}

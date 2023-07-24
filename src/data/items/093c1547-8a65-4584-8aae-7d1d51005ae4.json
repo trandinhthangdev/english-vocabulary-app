@@ -1,0 +1,414 @@
+{
+    "id": "093c1547-8a65-4584-8aae-7d1d51005ae4",
+    "title": "Lesson 4A",
+    "originalTitle": "Lesson 4A",
+    "words": [
+        {
+            "id": "139465ef-0c79-45a0-8141-137c8bc43844",
+            "word": "boy",
+            "phonetic": "bɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Boys his age are a law unto themselves.",
+                "In his mother’s eyes, the boy can do no wrong.",
+                "Boy meets girl, boy loses girl, yadda yadda yadda.",
+                "A boy took us to our room.",
+                "\"That boy isn't very bright.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym95&hash=364d1e5c79e892c8583f1302e15c187b6d0f0189&lang=en&cache-only=0",
+            "defineEn": "someone who is a child and a male",
+            "defineVi": "một người là một đứa trẻ và một người đàn ông",
+            "hasImg": true
+        },
+        {
+            "id": "5cc20355-c52e-4c15-a9c8-c2cf9ecb5272",
+            "word": "girl",
+            "phonetic": "ɡɜːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The girls looked so pretty in their summer dresses.",
+                "The girl held her father's hand tightly.",
+                "The girls watched the development of this relationship with incredulity.",
+                "These girls play for keeps.",
+                "The poor girl was almost beside herself."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lybA&hash=2b3842253bcd0500eb69f12e697a4e820e528fac&lang=en&cache-only=0",
+            "defineEn": "someone who is a child and a female",
+            "defineVi": "một người là một đứa trẻ và một phụ nữ",
+            "hasImg": true
+        },
+        {
+            "id": "3fec0fe4-c0e0-4237-8800-d7a67f4fc8de",
+            "word": "man",
+            "phonetic": "mæn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meat and mass never hindered man.",
+                "Men still hold most positions of power in this country.",
+                "Both men wore confident smiles.",
+                "Man, that was a black day for the organization.",
+                "All men must die."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFu&hash=7aa9ac9bf19048ae58a18f50f8d2ebc2b76dd978&lang=en&cache-only=0",
+            "defineEn": "a person who is a male adult",
+            "defineVi": "một người là nam giới trưởng thành",
+            "hasImg": true
+        },
+        {
+            "id": "55d293c2-b5d1-486d-bbe9-7dcbf33c2853",
+            "word": "woman",
+            "phonetic": "wʊmən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The woman has eyes like a hawk!",
+                "The woman hit the mugger with her umbrella.",
+                "The old woman knitted blankets for her grandchildren.",
+                "That young woman was close as an oyster!",
+                "Women sometimes damage their skin by going overboard with abrasive cleansers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29tYW4&hash=8065fd98df0a3feba869e80d720b4f3cfb2a0c23&lang=en&cache-only=0",
+            "defineEn": "a person who is a female adult",
+            "defineVi": "một người là phụ nữ trưởng thành",
+            "hasImg": true
+        },
+        {
+            "id": "5cdf7178-63c2-4f0a-8b00-498e4716f839",
+            "word": "child",
+            "phonetic": "tʃaɪld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children enjoyed a refreshing slice of watermelon on a hot summer day.",
+                "Parents often support their children financially during college.",
+                "The children threw the crumpled paper balls into the classroom trash can.",
+                "The children decorated their cupcakes on a colorful dish.",
+                "The children drank their juice from colorful plastic glasses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGQ&hash=31bd1d075c4b75f6f5c51c25b7169101aaa079d3&lang=en&cache-only=0",
+            "defineEn": "a young person who has not reached puberty or adulthood yet",
+            "defineVi": "một người trẻ chưa đến tuổi dậy thì hoặc trưởng thành",
+            "hasImg": true
+        },
+        {
+            "id": "38d4eec8-7c36-4b0c-94d7-dfdc6da60f8b",
+            "word": "friend",
+            "phonetic": "fɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "The new student quickly made friends with the other musicians, because birds of a feather flock together.",
+                "My friends enjoyed tangy barbecue gammon skewers at the summer barbecue.",
+                "My friend prefers a vegetarian sandwich with avocado and sprouts.",
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJpZW5k&hash=5e74cc46adc85945ef3be3fac90f3f092f8114c9&lang=en&cache-only=0",
+            "defineEn": "someone we know well, like a lot, and trust, but normally they are not part of our family",
+            "defineVi": "một người mà chúng ta biết rõ, rất thích và tin tưởng, nhưng thông thường họ không phải là một phần của gia đình chúng ta",
+            "hasImg": true
+        },
+        {
+            "id": "13bb4170-efa9-4bf2-a6a4-bc7fec084dca",
+            "word": "husband",
+            "phonetic": "hʌsbənd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her husband had been very involved in his work.",
+                "She lost her husband in the fire.",
+                "She lost her husband in the crowd.",
+                "Her husband disappeared into thin air for years.",
+                "She introduced her husband as a successful entrepreneur during the charity event."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVzYmFuZA&hash=fd1e3231a06255d855f0a1b7fb2b121fdac572bd&lang=en&cache-only=0",
+            "defineEn": "the man you are officially married to",
+            "defineVi": "người đàn ông bạn đã chính thức kết hôn",
+            "hasImg": true
+        },
+        {
+            "id": "e64d60c2-6dd7-488d-afa6-b01751ce0792",
+            "word": "wife",
+            "phonetic": "waɪf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My wife talked sense into me.",
+                "His wife drove him to Regent's Park.",
+                "He leaves a wife and two children.",
+                "As a loving husband, he surprises his wife with romantic gestures on special occasions.",
+                "My wife enjoys reading books in her free time during the week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lmZQ&hash=9cc4cf7cd3e1d99a1df649a31fefa7a35645966e&lang=en&cache-only=0",
+            "defineEn": "the lady you are officially married to",
+            "defineVi": "người phụ nữ bạn đã chính thức kết hôn",
+            "hasImg": true
+        },
+        {
+            "id": "d5d7bbdd-b355-47cc-a0bd-871dcf422146",
+            "word": "mother",
+            "phonetic": "mʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mother gently cradled her newborn baby in her arms.",
+                "My mother pickled radishes with vinegar and spices.",
+                "My mother throws that far away.",
+                "This picture shows my mother as a young woman.",
+                "My mother has blue eyes and black hair."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90aGVy&hash=d75032151c301990b21ab1f40620038c08a8969b&lang=en&cache-only=0",
+            "defineEn": "a child's female parent",
+            "defineVi": "cha mẹ của một đứa trẻ",
+            "hasImg": true
+        },
+        {
+            "id": "e670c909-02b7-4ede-85ae-60159c0bd970",
+            "word": "father",
+            "phonetic": "fɑːðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fathers play a crucial role in their children's upbringing and development.",
+                "My father pays his bills at the beginning of the month.",
+                "My father has brown eyes.",
+                "Her father kept a grocer's shop.",
+                "My father always had a lead foot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF0aGVy&hash=8b49844f32762d6c79be86193a449311846fa0c1&lang=en&cache-only=0",
+            "defineEn": "a child's male parent",
+            "defineVi": "cha mẹ nam của một đứa trẻ",
+            "hasImg": true
+        },
+        {
+            "id": "d0b8eead-190a-4211-94fd-8fc117c2545d",
+            "word": "son",
+            "phonetic": "sʌn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My son reads twelve pages of his book every day.",
+                "My sister's son is my beloved nephew.",
+                "His son doesn't share his passion for athletics.",
+                "Your son is in high school already?",
+                "My son is coming home soon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29u&hash=4b9c77866033904e62e58cf1d81ed826e12d1887&lang=en&cache-only=0",
+            "defineEn": "a person's male child",
+            "defineVi": "con trai của một người",
+            "hasImg": true
+        },
+        {
+            "id": "7ecf5bc7-6699-4e91-8cc3-50d89923238f",
+            "word": "daughter",
+            "phonetic": "dɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The father proudly walked his daughter down the aisle on her wedding day.",
+                "My daughter always has her head in the clouds as she walks home from school.",
+                "My daughters love gur candies that their grandfather buys for them.",
+                "My daughter enjoys homemade popsicles I make with pomegranate juice.",
+                "Their daughter is as clever as they come."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGF1Z2h0ZXI&hash=77ff6bdc50635883d124500766eb34c32aae3e46&lang=en&cache-only=0",
+            "defineEn": "a person's female child",
+            "defineVi": "con gái của một người",
+            "hasImg": true
+        },
+        {
+            "id": "67fd2eda-eaf4-423b-91a0-933f998d0894",
+            "word": "brother",
+            "phonetic": "bɹʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her brother is the bane of her life.",
+                "The three brothers took stock of the warehouse.",
+                "My brother always drinks smoothie after exercising.",
+                "My brother taught me the best way to cook spuds over the campfire.",
+                "She has one brother and two sisters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvdGhlcg&hash=61393eb7cc473b4eda7bf10932b623ae4d6e2f76&lang=en&cache-only=0",
+            "defineEn": "a man who shares a mother and father with us",
+            "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "96aaa062-1bdb-4b5d-902f-d84f90d6ee55",
+            "word": "sister",
+            "phonetic": "sɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My sister has a job at a restaurant as a waitress.",
+                "My sister skillfully cooks a flavorful curry for dinner.",
+                "My sister has a girl crush on Billie Eilish.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "He loved his sister dearly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lzdGVy&hash=e3f6556d90506c42ccf7f0b16654d10dc56ab040&lang=en&cache-only=0",
+            "defineEn": "a lady who shares a mother and father with us",
+            "defineVi": "một người phụ nữ chia sẻ một người mẹ và cha với chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "4f57b7d6-6390-4d4a-8369-a7c34ccd02b8",
+            "word": "grandmother",
+            "phonetic": "ɡɹændmʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandmother kept chickens in her back yard.",
+                "My grandmother made a dress for me.",
+                "My grandmother baked a batch of foxtail millet and chocolate chip cookies for us.",
+                "My grandmother makes the most amazing damson jam every summer.",
+                "The antique clock belongs to my grandmother."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmRtb3RoZXI&hash=0ca187a2ae4505700fe262dd7867b38fac278f5a&lang=en&cache-only=0",
+            "defineEn": "the woman who is our mom or dad's mother",
+            "defineVi": "người phụ nữ là mẹ của chúng tôi hoặc mẹ của cha",
+            "hasImg": true
+        },
+        {
+            "id": "40033e8b-2619-4451-b7a4-4ceaf75108ee",
+            "word": "grandfather",
+            "phonetic": "ɡɹændfɑːðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandfather was a man of few words.",
+                "My grandfather was a bit of a rough diamond.",
+                "My grandfather used to raise chickens on his farm.",
+                "My grandfather immigrated to America from a small European town.",
+                "My grandfather enjoys growing his own salad greens in his backyard garden."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmRmYXRoZXI&hash=1b6adec4fa98432f2497566c382e9dbeed7a84ab&lang=en&cache-only=0",
+            "defineEn": "the man who is our mom or dad's father",
+            "defineVi": "người đàn ông là cha hoặc mẹ của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "9bc86da0-ec12-4b52-8c0b-7f1725a08537",
+            "word": "boyfriend",
+            "phonetic": "bɔɪfɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She brought her boyfriend to the party.",
+                "Has she got a new boyfriend?",
+                "She introduced her boyfriend to her parents during the family gathering.",
+                "Her boyfriend is an amateur race car driver who really lives on the edge.",
+                "Mentioning her new boyfriend just rubbed salt into the wound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym95ZnJpZW5k&hash=f5ce6f62035a674e2815ce5105f4bde368479ce1&lang=en&cache-only=0",
+            "defineEn": "a man that you love and are in a relationship with",
+            "defineVi": "một người đàn ông mà bạn yêu và đang trong một mối quan hệ với",
+            "hasImg": true
+        },
+        {
+            "id": "6575135a-5140-4425-b4af-bf77124fce5e",
+            "word": "girlfriend",
+            "phonetic": "ɡɜːlfɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her intelligence and kindness make her the perfect girlfriend.",
+                "\"Will you be my girlfriend?\"",
+                "He memorized his girlfriend's address by heart.",
+                "My girlfriend and I are planning a weekend getaway to the beach.",
+                "He introduced his girlfriend to his friends at the party last night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lybGZyaWVuZA&hash=cebf6aebce5bee24f38532e8aecd176c052d4830&lang=en&cache-only=0",
+            "defineEn": "‌a lady that you love and are in a relationship with",
+            "defineVi": "một người phụ nữ mà bạn yêu và đang có mối quan hệ với",
+            "hasImg": true
+        },
+        {
+            "id": "b9302732-9fba-4f47-b822-4d47ff80c400",
+            "word": "mum",
+            "phonetic": "mʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mum has taken to the bottle!",
+                "OK, mum's the word!",
+                "Mum's the word, or the surprise party won't be a surprise.",
+                "After mum passed on, you filled her shoes amazingly well.",
+                "Mum takes her hat off to her son as he comes up with an ingenious way to ensure he gets more presents this Christmas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVt&hash=505770654419dd0b1d31f634b1e8c6e61d5b0786&lang=en&cache-only=0",
+            "defineEn": "a woman who raises or gives birth to a child",
+            "defineVi": "một người phụ nữ nuôi hoặc sinh con",
+            "hasImg": true
+        },
+        {
+            "id": "068ffb63-0d2f-4c3f-9787-3f7ebf442685",
+            "word": "dad",
+            "phonetic": "dæd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad bought a stylish suit for his friend's wedding.",
+                "My dad grilled a succulent pork joint with barbecue sauce for a backyard cookout.",
+                "My dad spread a thick layer of orange marmalade on my morning toast.",
+                "My dad works forty hours a week.",
+                "My dad doesn't play golf any more."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFk&hash=8c920f60d447129ecb77608008c79010abe8104f&lang=en&cache-only=0",
+            "defineEn": "an informal way of calling our father",
+            "defineVi": "một cách không chính thức để gọi cha của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "f5e4538b-9229-496e-a5c8-1f06f37d8c3c",
+            "word": "babysitter",
+            "phonetic": "beɪbɪsɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A babysitter was hired to take care of the baby while the parents were out.",
+                "It's hard to find a babysitter.",
+                "What's the going rate for a babysitter?",
+                "They always got a babysitter in to stay with me because I was only ten years old.",
+                "And then we have a village, a team of people, my niece and their former babysitter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFieXNpdHRlcg&hash=ff3f92529233dc87943320d5c3c377e68420aa17&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to take care of a child or children while their parents are away",
+            "defineVi": "ai đó có công việc chăm sóc một đứa trẻ hoặc trẻ em trong khi cha mẹ của họ đi vắng",
+            "hasImg": true
+        },
+        {
+            "id": "94bf4f18-adb5-4030-9633-0edf070b7768",
+            "word": "perhaps",
+            "phonetic": "pɚhæps ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Perhaps it had something to do with their drink.",
+                "Perhaps we should consider the flip side of the coin : there should be no expenditure without representation.",
+                "I know there's a lot to discuss, but perhaps we should take a break for now.",
+                "The chances of Francis eventually becoming manager of England are perhaps higher.",
+                "Next week perhaps I’ll find myself wearing a different hat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyaGFwcw&hash=18c3313396c1bd267ba34abc61b991a4f449f199&lang=en&cache-only=0",
+            "defineEn": "used to express possibility or to show one's uncertainty about something",
+            "defineVi": "được sử dụng để thể hiện khả năng hoặc để thể hiện sự không chắc chắn của một người về điều gì đó"
+        },
+        {
+            "id": "663853d0-2d80-40d8-8ba9-1c04fc21af16",
+            "word": "parent",
+            "phonetic": "pɛɹənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Parents often support their children financially during college.",
+                "His parents footed the bill for his college education.",
+                "My parents always took an interest in my hobbies.",
+                "My parents enjoyed a delicious calamari appetizer at the seaside restaurant.",
+                "My parents always drink orange juice for breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyZW50&hash=f2a00e6568c98c0531d50eea35e189d2fc3f328c&lang=en&cache-only=0",
+            "defineEn": "our mother or our father",
+            "defineVi": "mẹ của chúng tôi hoặc cha của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "773a9953-48be-464e-8287-a9b500733575",
+            "word": "grandparent",
+            "phonetic": "ɡɹændpɛɹənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandparents celebrated their sixtieth wedding anniversary.",
+                "My grandparents immigrated to this country in search of better opportunities.",
+                "They often visit their grandparents on weekends.",
+                "We usually visit our grandparents during the holidays.",
+                "My grandparents discovered the unique flavor of tomatillos while traveling in Mexico."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmRwYXJlbnQ&hash=8bb683a33cd026d62f579a5d4fb45283fd21660e&lang=en&cache-only=0",
+            "defineEn": "someone who is our mom or dad's parent",
+            "defineVi": "ai đó là cha mẹ của chúng tôi hoặc cha mẹ của chúng tôi",
+            "hasImg": true
+        }
+    ]
+}

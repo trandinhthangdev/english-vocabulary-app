@@ -1,0 +1,471 @@
+{
+    "id": "0cdda5f0-eca5-4dc5-8253-dd41117a1a68",
+    "title": "I Think, Therefore I Am!",
+    "originalTitle": "I Think, Therefore I Am!",
+    "words": [
+        {
+            "id": "08d9abd9-b464-4696-96cc-9bb4831ed51b",
+            "word": "aesthetics",
+            "phonetic": "ɛsθɛɾɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Aesthetics is the study of beauty, and art.",
+                "Aesthetics is a part of value theory, because beauty, and art, are things we value, and evaluate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWVzdGhldGljcw&hash=4c7ac52810e21572e74968b10aa31d8fc24b18b7&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy which deals with the nature of beauty and art",
+            "defineVi": "nhánh của triết học liên quan đến bản chất của vẻ đẹp và nghệ thuật"
+        },
+        {
+            "id": "5b339070-ddd7-4a49-83f4-8365fbadf5e1",
+            "word": "ethics",
+            "phonetic": "ɛθɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The group Citizens for Responsibility and Ethics in Washington obtained the records.",
+                "Noah Bookbinder is president and CEO of Citizens for Responsibility and Ethics in Washington, also known as CREW.",
+                "We know that there will be internal investigations from the Committee on Ethics.",
+                "The first is Ethics.",
+                "He is a senior fellow at the Ethics and Public Policy Center in Washington and a contributing opinion writer for The New York Times."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXRoaWNz&hash=2ab4ae43cae6d44c29c10ae395918cf23fcc24cb&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy that studies moral values and principles",
+            "defineVi": "ngành triết học nghiên cứu các giá trị và nguyên tắc đạo đức"
+        },
+        {
+            "id": "4a05c30c-bca4-4ccc-be52-87552cfb0d79",
+            "word": "epistemology",
+            "phonetic": "ᵻpɪstɪmɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For now you’ve learned about the historical origins of philosophy in ancient Greece, and its three main divisions: metaphysics, epistemology, and value theory."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXBpc3RlbW9sb2d5&hash=3378df49ab15b235be3cb11c4223847f330bbb14&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy in which knowledge is studied",
+            "defineVi": "ngành triết học trong đó kiến thức được nghiên cứu"
+        },
+        {
+            "id": "d0db16ac-4b27-4996-bc88-b1362fe610ab",
+            "word": "humanism",
+            "phonetic": "hjuːmənɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That's the overall philosophy I call humanism.",
+                "But the Freemasons of Mozart's time were also influenced by 18th century European ideals - rationalism, humanism, and skepticism towards traditional authorities, like monarchy and the church.",
+                "Anyway, all humanism means is that these scholars studied what were called the humanities.",
+                "And nature, as a setting for humans and thus humanism, was also glorified in Renaissance art, 15.",
+                "He’s a person of exceptional honesty, humanism, decency, and he is a person who did for Russia and for the world so much good that probably no other person of the history did."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVtYW5pc20&hash=e42b66aeb380a4881c10cb69a5c72c795f9aead2&lang=en&cache-only=0",
+            "defineEn": "a system of thought based on human values and nature in which solving human problems is considered more important than religious beliefs",
+            "defineVi": "một hệ thống tư tưởng dựa trên các giá trị và bản chất của con người, trong đó giải quyết các vấn đề của con người được coi là quan trọng hơn niềm tin tôn giáo"
+        },
+        {
+            "id": "3849dff9-3034-4e0c-8f38-d8d060667e01",
+            "word": "metaphysics",
+            "phonetic": "mɛɾəfɪzɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This book bridges a gulf between the metaphysics literature and philosophy of mind literature."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0YXBoeXNpY3M&hash=29ad9522b10afecead11abb0364e3a4508405236&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy that deals with the most fundamental abstract concepts such as existence, truth, identity, etc.",
+            "defineVi": "nhánh của triết học liên quan đến các khái niệm trừu tượng cơ bản nhất như sự tồn tại, sự thật, bản sắc, v.v."
+        },
+        {
+            "id": "de1a7268-4e1c-40b8-96b1-204dbeb6f132",
+            "word": "ontology",
+            "phonetic": "ɑːntɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b250b2xvZ3k&hash=dbe06428c50ae414db7760fe6389e0d9013cd700&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy that is concerned with concepts such as existence, being, and reality",
+            "defineVi": "nhánh của triết học liên quan đến các khái niệm như sự tồn tại, hiện hữu và thực tế"
+        },
+        {
+            "id": "d076f29e-de79-4df8-be9e-3c4897c005e3",
+            "word": "determinism",
+            "phonetic": "dɪtɜːmɪnɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Determinism, by contrast, doesn’t allow options.",
+                "This view is known as hard determinism.",
+                "Hard determinism is tough to refute.",
+                "Today we learned about libertarian free will and it’s counterpoint, hard determinism.",
+                "Next time, we’ll see if some middle ground can be found between determinism and libertarianism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGV0ZXJtaW5pc20&hash=d438b25b86d42e29727209ad0c388f2209883a5a&lang=en&cache-only=0",
+            "defineEn": "the theory or doctrine that all events and occurrences are completely determined by previously existing causes, therefore human beings cannot be punished or held accountable for their deeds",
+            "defineVi": "lý thuyết hoặc học thuyết rằng tất cả các sự kiện và sự kiện được xác định hoàn toàn bởi các nguyên nhân đã tồn tại trước đó, do đó con người không thể bị trừng phạt hoặc chịu trách nhiệm về hành động của mình"
+        },
+        {
+            "id": "09bbd32b-5901-4be2-b91f-ac335b907b2f",
+            "word": "hedonism",
+            "phonetic": "hɛdənɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVkb25pc20&hash=e9fce4ca53c6096f7ef4740d9d7c9955883899eb&lang=en&cache-only=0",
+            "defineEn": "a system of belief that the highest of good is when one is in the pursuit of pleasure",
+            "defineVi": "một hệ thống niềm tin rằng điều tốt đẹp nhất là khi một người đang theo đuổi niềm vui"
+        },
+        {
+            "id": "5c8bf670-e3c9-4e10-8761-6b0303f0c94e",
+            "word": "idealism",
+            "phonetic": "aɪdiəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And so it's an idealism that drives a teacher.",
+                "That idealism is one of the reasons people think of Plato as more of a philosopher than a scientist.",
+                "In terms of math, Pythagoras’s idealism meant a shift from practical arithmetic, inherited from Egypt and Mesopotamia, to a new, pure geometry.",
+                "The prom marks George’s transition from youthful idealism into a nuanced and complex adulthood.",
+                "The reason there are so many celebrations of Lincoln's 200th birthday this year is his remarkable combination of idealism, sensitivity, and shrewd practical political ability."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWRlYWxpc20&hash=e7b44ad0d5399d4bbbd9caecdcaf006443caebe5&lang=en&cache-only=0",
+            "defineEn": "(philosophy) the physical world is either a product of the mind, or is entirely subjective and exists only in the mind",
+            "defineVi": "(triết học) thế giới vật chất hoặc là sản phẩm của tâm trí, hoặc hoàn toàn chủ quan và chỉ tồn tại trong tâm trí"
+        },
+        {
+            "id": "27f1b0b1-396e-4832-aeca-9ea5564f0db5",
+            "word": "empiricism",
+            "phonetic": "ɛmpɪɹɪsɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Today we have learned about empiricism as a response to skepticism.",
+                "But by contrast, empiricism is based on the principle that the most reliable source of knowledge isn’t our ideas, or our reasoning, but our senses.",
+                "By unleashing the power of empiricism.",
+                "He basically took empiricism to its logical conclusion, dismantling the whole process of perception to the point that he had to wonder whether anything existed at all.",
+                "And on the other: empiricism Descartes, like Plato long before him, was a lover of reason."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1waXJpY2lzbQ&hash=2ca8c0a8c0577b584b1377fe903c20d21dccea84&lang=en&cache-only=0",
+            "defineEn": "a theory stating that all knowledge is derived from experience",
+            "defineVi": "một lý thuyết nói rằng tất cả các kiến thức được bắt nguồn từ kinh nghiệm"
+        },
+        {
+            "id": "b32dc76b-54b1-46f7-a938-c19bce734461",
+            "word": "existentialism",
+            "phonetic": "ɛɡzɪstɛnʃɪəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now, existentialism has its roots in late-19th-century thinkers like Kierkegaard and Nietzsche.",
+                "This is a fundamental component of existentialism.",
+                "A lot of people think existentialism paints a pretty bleak picture of the world.",
+                "We’ll get to existentialism later, but in the meantime, there was turmoil almost everywhere else in Europe.",
+                "Well this became the framework for what we now know as existentialism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhpc3RlbnRpYWxpc20&hash=3f0b6441de515b3f6f1080a73b1912e82b508903&lang=en&cache-only=0",
+            "defineEn": "a philosophical theory according to which the world has no meaning and humans are free and responsible for their actions",
+            "defineVi": "một lý thuyết triết học theo đó thế giới không có ý nghĩa và con người được tự do và chịu trách nhiệm về hành động của họ"
+        },
+        {
+            "id": "95efdd20-b3bc-44be-b7ec-745982227677",
+            "word": "materialism",
+            "phonetic": "mətɪɹiəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They rejected materialism, and suburban ennui and things like regular jobs while celebrating impulsivity, and recklessness, experimentation and freedom.",
+                "In the United States, for example, narcissism as a personality trait has been rising since the 1970s, when the communal focus of the 60s gave way to the self-esteem movement and a rise in materialism.",
+                "So we're always trying to find the authentic in a saturated world that's kinda contaminated by materialism.",
+                "I feel we put our personalities first before any gimmick and before any, you know, materialism.",
+                "It also makes it easier to save and retrieve positive memories Even more, gratitude directly counteracts negative feelings and traits, like envy and social comparison, narcissism, cynicism, and materialism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF0ZXJpYWxpc20&hash=661f89ad462c991fa233a20b6c218880bff9f174&lang=en&cache-only=0",
+            "defineEn": "the philosophical belief that the spiritual world does not exist and the only thing that exists is physical matter",
+            "defineVi": "niềm tin triết học rằng thế giới tâm linh không tồn tại và thứ duy nhất tồn tại là vật chất",
+            "hasImg": true
+        },
+        {
+            "id": "5fed708c-c44c-4b6f-bc7d-18aba15232e6",
+            "word": "nihilism",
+            "phonetic": "naɪəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "German philosopher Friedrich Nietzsche, for example, embraced nihilism, the belief in the ultimate meaningless of life.",
+                "We counter existential dread with optimistic nihilism.",
+                "It's containment nihilism, in other words, a refusal to do contact tracing, to invest adequately in public health responses.",
+                "E tried to make my way to nihilism and cynicism and through Simic asses and the grand inquisitor of those that can't It's inside of me.",
+                "What I think we see here is not clinical nihilism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmloaWxpc20&hash=29df8430bdddff38b646dafc2ed693302dd57997&lang=en&cache-only=0",
+            "defineEn": "a system of thought that considers life as meaningless and rejects religious beliefs, moral principles, legal rules, etc.",
+            "defineVi": "một hệ thống tư tưởng coi cuộc sống là vô nghĩa và từ chối niềm tin tôn giáo, nguyên tắc đạo đức, quy tắc pháp lý, v.v."
+        },
+        {
+            "id": "e4e6d176-4aa0-44ab-96eb-1ec609272c69",
+            "word": "positivism",
+            "phonetic": "pɑːzɪtɪvɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now, whether you’re using it to explore the natural world or the social world, the scientific method is rooted in the philosophy known as positivism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zaXRpdmlzbQ&hash=4de6569c07db86cbd8e9166f4133846a9b136ee4&lang=en&cache-only=0",
+            "defineEn": "a philosophical system based on things that can be proved by logic or experienced with the senses, rejecting metaphysics and theism",
+            "defineVi": "một hệ thống triết học dựa trên những điều có thể được chứng minh bằng logic hoặc trải nghiệm bằng các giác quan, từ chối siêu hình học và thuyết hữu thần"
+        },
+        {
+            "id": "47a54c2a-6f6a-4fa3-80a8-7f82af9040be",
+            "word": "pragmatism",
+            "phonetic": "pɹæɡmətɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He represented something to the American public of independence, pragmatism, bipartisanship, and he moved very aggressively to maximize the leverage of the brand legislatively.",
+                "With so many different responses to death, it can be hard to tell which species might go beyond pragmatism and experience grief.",
+                "I would say that our defining characteristic for the U.S.-Russia relation was pragmatism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJhZ21hdGlzbQ&hash=d5cc431fc6f9078c2afa2cd405da9e266a7052d8&lang=en&cache-only=0",
+            "defineEn": "an approach that evaluates theories or beliefs in terms of their practicality",
+            "defineVi": "một cách tiếp cận đánh giá các lý thuyết hoặc niềm tin về tính thực tế của chúng"
+        },
+        {
+            "id": "b8f92601-edcd-4d0a-a540-1ec77347f366",
+            "word": "rationalism",
+            "phonetic": "ɹæʃənəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He met skepticism with rationalism.",
+                "On the one hand, there was rationalism.",
+                "In Bavaria, new ideals of rationalism, religious freedom, and universal human rights competed with the Catholic church’s heavy influence over public affairs.",
+                "Also, they were Hellenizers, bringing in Greek theater and architecture, and rationalism.",
+                "But the Freemasons of Mozart's time were also influenced by 18th century European ideals - rationalism, humanism, and skepticism towards traditional authorities, like monarchy and the church."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmF0aW9uYWxpc20&hash=211f7e8df5aa60c9a5d27faf45fc2c451dd1c018&lang=en&cache-only=0",
+            "defineEn": "the belief or principle that ideas and actions should be based on logic instead of religion or emotion",
+            "defineVi": "niềm tin hoặc nguyên tắc rằng ý tưởng và hành động nên dựa trên logic thay vì tôn giáo hoặc cảm xúc"
+        },
+        {
+            "id": "db03d8d1-8ebd-4a96-9f08-16047da27f9c",
+            "word": "scholasticism",
+            "phonetic": "skəlæstɪsɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Nob2xhc3RpY2lzbQ&hash=7ba7813e7a94e6faf47d3d023249a8e58616f714&lang=en&cache-only=0",
+            "defineEn": "a system of philosophy based on religious scripts and principles and Aristotelian logic, taught in medieval European universities",
+            "defineVi": "một hệ thống triết học dựa trên các nguyên tắc và kịch bản tôn giáo và logic của Aristotle, được dạy trong các trường đại học châu Âu thời trung cổ"
+        },
+        {
+            "id": "3ea0ecd2-22bc-40b3-9329-55061105db8c",
+            "word": "skepticism",
+            "phonetic": "skɛptɪsɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But skepticism abounds.",
+                "Renault's investment in Nissan drew widespread skepticism.",
+                "He met skepticism with rationalism.",
+                "The skepticism around ESG investing is warranted.",
+                "The belief in homeopathy correlates with skepticism about vaccinations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2tlcHRpY2lzbQ&hash=74e388a198c6cb34fed197b3af2cdb4ff0ed587e&lang=en&cache-only=0",
+            "defineEn": "the philosophical theory that certain knowledge is unattainable",
+            "defineVi": "lý thuyết triết học rằng kiến thức nhất định là không thể đạt được"
+        },
+        {
+            "id": "14c2c74f-dbfd-455c-a97c-5bb0ff641930",
+            "word": "stoicism",
+            "phonetic": "stoʊɪsɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RvaWNpc20&hash=0ff915c44f0a20334c6b3a4252b602c12019842e&lang=en&cache-only=0",
+            "defineEn": "an ancient Greek school of philosophy founded by Zeno of Citium stating that virtue is based on knowledge and that it is wise to live in harmony with the divine Reason that governs nature",
+            "defineVi": "một trường phái triết học Hy Lạp cổ đại do Zeno of Citium thành lập nói rằng đạo đức dựa trên kiến thức và điều khôn ngoan là sống hài hòa với Lý trí thiêng liêng chi phối tự nhiên"
+        },
+        {
+            "id": "dd901d9e-4657-46cb-932c-54d2b155ce52",
+            "word": "subjectivism",
+            "phonetic": "sʌbdʒɪktɪvɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We also learned about moral subjectivism, which is a form of moral antirealism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ViamVjdGl2aXNt&hash=3c3d564dfb8ab15a9766f4879ed8f4c5f47eec3c&lang=en&cache-only=0",
+            "defineEn": "a notion in philosophy according to which knowledge, moral values, and ethical obligations are subjective and there is no external or objective truth",
+            "defineVi": "một khái niệm trong triết học theo đó kiến thức, giá trị đạo đức và nghĩa vụ đạo đức là chủ quan và không có sự thật bên ngoài hoặc khách quan"
+        },
+        {
+            "id": "6ad609d3-b8a4-4581-a80c-4a76de1c6e2b",
+            "word": "utilitarianism",
+            "phonetic": "juːɾɪlɪtɛɹiənɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "One moral theory that does this is utilitarianism.",
+                "Modern utilitarianism was founded in the 18th century by British philosophers Jeremy Bentham and John Stuart Mill.",
+                "Today we learned about utilitarianism.",
+                "But, utilitarianism is not what you’d call an egoistic theory.",
+                "Williams actually presents this case as a critique of utilitarianism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXRpbGl0YXJpYW5pc20&hash=9c5eed9e919727c18b917c0c7dce2168ee1fbef8&lang=en&cache-only=0",
+            "defineEn": "the doctrine that the best measure or decision is the one that satisfies the majority of people",
+            "defineVi": "học thuyết rằng biện pháp hay quyết định tốt nhất là quyết định làm hài lòng đa số mọi người"
+        },
+        {
+            "id": "b7159801-8f67-4299-bd0b-a79b759ddaf1",
+            "word": "phenomenology",
+            "phonetic": "fɪnɑːmɪnɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's the same element, just the different atomic letter structure, makes them so extreme opposite in the phenomenology, in their appearance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGhlbm9tZW5vbG9neQ&hash=0246d332e7788ee4d46fb8125942e9767a5a1449&lang=en&cache-only=0",
+            "defineEn": "the branch of philosophy concerned with things that exist and can be seen, felt, etc. as opposed to what may actually be their real existence",
+            "defineVi": "nhánh triết học liên quan đến những thứ tồn tại và có thể nhìn thấy, cảm nhận được, v.v. trái ngược với những gì thực sự có thể là sự tồn tại thực của chúng"
+        },
+        {
+            "id": "56f04ab4-600b-4aa2-8774-9929bd29b21b",
+            "word": "alienation",
+            "phonetic": "eɪliəneɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "[Patrick Colucci]: I was carrying a lot of angst and feelings of alienation and despair, really, about the way things were going in America.",
+                "This attitude creates hostility between Meursault and the orderly society he inhabits, slowly increasing his alienation until the novel’s explosive climax.",
+                "How best can we understand the internal experience of alienation?",
+                "\"Alienation has a way of reaching to where you'd be tempted to see its relativity with some other dilemma, like being slapped with a heavy years-long and life-altering public demerit.\"",
+                "And if we look at the races and how they came out, I think you see an alienation from suburban, particularly suburban, women voting against the president, that he was going too far. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxpZW5hdGlvbg&hash=657e5108b9dee926a3f497539ed18416000f9b92&lang=en&cache-only=0",
+            "defineEn": "‌the feeling that one is different from others and therefore not part of a particular group",
+            "defineVi": "‌cảm giác rằng một người khác với những người khác và do đó không phải là một phần của một nhóm cụ thể"
+        },
+        {
+            "id": "0ebf1c5f-25e3-42c6-8dbd-f6463c129bbe",
+            "word": "a priori",
+            "phonetic": "ɐ pɹaɪɔːɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "But she was this harbinger of revolution, which is a priori in the Russian mind a bad thing, and for the Ukrainians she was a supporter, an advocate for revolution, which they also saw as a good thing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YSBwcmlvcmk&hash=e247ddf2d956831a76538b8fa160326ebb8b4981&lang=en&cache-only=0",
+            "defineEn": "using the previous knowledge, reasoning, or general facts to decide the likely result of something",
+            "defineVi": "sử dụng kiến thức, lý luận hoặc sự kiện chung trước đó để quyết định kết quả có thể xảy ra của một điều gì đó"
+        },
+        {
+            "id": "25d86e60-d89a-4eb9-abef-344e5f4805a9",
+            "word": "a posteriori",
+            "phonetic": "ɐ pɑːstɪɹiɔːɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YSBwb3N0ZXJpb3Jp&hash=3ef10e6e1e525d34cfd4719c4ecb2228d5ae6951&lang=en&cache-only=0",
+            "defineEn": "using observation or experience to determine the probable cause of something",
+            "defineVi": "sử dụng quan sát hoặc kinh nghiệm để xác định nguyên nhân có thể xảy ra của một cái gì đó"
+        },
+        {
+            "id": "73fb8c14-3cf7-46f5-922c-7ebc5a834be6",
+            "word": "being",
+            "phonetic": "biːɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We're all imperfect human beings in an imperfect world.",
+                "Education for a human being is a window to the world.",
+                "As every normal human being knows, one shouldn't throw good money after bad.",
+                "Human beings are everywhere.",
+                "Human beings need relationships on every level of their lives."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVpbmc&hash=981fed48bbac51069d87216a84959ed09dbbbb15&lang=en&cache-only=0",
+            "defineEn": "existence; the state of existing",
+            "defineVi": "sự tồn tại; tình trạng hiện có"
+        },
+        {
+            "id": "5c1ec403-0ab7-4cbe-aeab-d86982107961",
+            "word": "nothingness",
+            "phonetic": "nʌθɪŋnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you are simulated, not that much changes for you you might be on a small planet speeding through eternal nothingness, or a simulation inside a computer.",
+                "I don't know about you, but I have a hard time conceiving of nothingness.",
+                "Even though this myth doesn't focus on Chaos, or the void or nothingness, it does have the idea that before creation, there was nothing.",
+                "And just because I think it's going to be fun to watch Thought Bubble animate nothingness, let's see this myth there.",
+                "We have to show them that Mr. Trump is upset about the same petty nothingness that they are."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm90aGluZ25lc3M&hash=f2d1b2d75bf0c461ea3b5486693aae466393cc7f&lang=en&cache-only=0",
+            "defineEn": "non-existence; a state in which nothing exists",
+            "defineVi": "không tồn tại; một trạng thái trong đó không có gì tồn tại"
+        },
+        {
+            "id": "36bedfd7-5d7a-44cb-a754-d2e6ff83cc9f",
+            "word": "consciousness",
+            "phonetic": "kɑːnʃəsnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your consciousness is like a spotlight on a busy stage.",
+                "She never regained consciousness.",
+                "This influenced public consciousness.",
+                "Is our consciousness then an emergent property of the cells in our brain?",
+                "What is consciousness?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uc2Npb3VzbmVzcw&hash=5f99b595e529ba3d9473635dbc94a3ec84faeb7f&lang=en&cache-only=0",
+            "defineEn": "the state of being sensible and aware",
+            "defineVi": "trạng thái hợp lý và nhận thức"
+        },
+        {
+            "id": "cfaf8d47-e9c5-4b0d-b6fe-4a4529b632b1",
+            "word": "dogma",
+            "phonetic": "dɑːɡmə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Critical race theory is sort of a dogma or paradigm present in legal studies. ",
+                "Instead, it shields science from becoming unchallenged dogma.",
+                "We call this universal pathway the central dogma of biology, because it sounds really cool, and because it’s something that all life shares.",
+                "Early collections like the Quranic manuscripts at Chinguetti were more centered around storing and spreading religious dogma.",
+                "One of the things you’ve written and talked about in speeches is kind of a culture here in Silicon Valley and a culture of, you know, there’s a very strong dogma at Facebook of making the world more open and connected and seeing the social good of this tool that they’ve created. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9nbWE&hash=49a1167a3e5f018bc0b868ec75bebb7e7907454a&lang=en&cache-only=0",
+            "defineEn": "a belief or a belief system held by an authority who proclaims it to be undeniably true and expects immediate acceptance",
+            "defineVi": "một niềm tin hoặc một hệ thống niềm tin được nắm giữ bởi một cơ quan tuyên bố nó là sự thật không thể phủ nhận và mong đợi sự chấp nhận ngay lập tức"
+        },
+        {
+            "id": "a18f7b7a-f2f5-45d8-a196-d5934776f8e7",
+            "word": "logic",
+            "phonetic": "lɑːdʒɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Logic is the philosopher’s toolbox.",
+                "Their badness has defied all logic.",
+                "This logic makes sense in a lot of situations.",
+                "What's my logic?",
+                "This defies all logic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9naWM&hash=952f49432242b9953a50d4b1dd83fd97669d4634&lang=en&cache-only=0",
+            "defineEn": "sensible methods of thinking and decision making, especially ones that are based on reasonable judgment",
+            "defineVi": "phương pháp suy nghĩ và ra quyết định hợp lý, đặc biệt là những phương pháp dựa trên phán đoán hợp lý"
+        },
+        {
+            "id": "40974169-bb97-4f87-a5f1-0d7f99422a0a",
+            "word": "virtue",
+            "phonetic": "vɜːtʃuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When he lost his driver's license, he made a virtue out of necessity and got in shape by riding his bike to work.",
+                "As a business owner, I believe that virtue is its own reward, and that treating my employees and customers with respect, fairness, and honesty is the key to long-term success and fulfillment.",
+                "On the stump, he was a master at turning his simple speaking style into a political virtue.",
+                "When faced with a difficult situation, I try to remember that patience is a virtue and that taking a step back and waiting can often lead to better outcomes.",
+                "There will be many times in your life where you have to do something you don't want to, so it's best to learn very early how to make a virtue of necessity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlydHVl&hash=cf76cb603ff6cb6389ebce0e5eb90dfd3fcc1037&lang=en&cache-only=0",
+            "defineEn": "attitudes or manners exhibiting high moral standards",
+            "defineVi": "thái độ hoặc cách cư xử thể hiện các tiêu chuẩn đạo đức cao"
+        },
+        {
+            "id": "35a792d7-99db-47d6-862a-4d58bde90902",
+            "word": "wisdom",
+            "phonetic": "wɪzdəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Thanks for the pearl of wisdom, buddy, but your suggestion is ridiculous.",
+                "She cherished the wisdom and experience that came with being old.",
+                "James, in the vale of his years, reflects on his life's journey and the wisdom he has gained along the way.",
+                "She presented an abstract idea that challenged conventional wisdom and sparked a lively debate.",
+                "The wrinkles and gray hair show that he's getting on, but he's still full of wisdom and experience."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lzZG9t&hash=271d4ddccb72f5fc089149e3e8b639184e957039&lang=en&cache-only=0",
+            "defineEn": "the quality of being knowledgeable, experienced, and able to make good decisions and judgments",
+            "defineVi": "phẩm chất của kiến thức, kinh nghiệm, và có thể đưa ra quyết định và đánh giá tốt"
+        },
+        {
+            "id": "9a136d67-21fd-484c-b8c0-02b03aefd08e",
+            "word": "sophist",
+            "phonetic": "sɑːfɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29waGlzdA&hash=87d2586a4ac41f486d1cf4370bd2cdc2be213002&lang=en&cache-only=0",
+            "defineEn": "a teacher of philosophy and rhetoric in ancient Greek with a skeptical attitude",
+            "defineVi": "một giáo viên triết học và hùng biện bằng tiếng Hy Lạp cổ đại với thái độ hoài nghi"
+        }
+    ]
+}

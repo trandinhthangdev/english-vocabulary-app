@@ -1,0 +1,599 @@
+{
+    "id": "54e639ae-7062-403a-a6db-d115afdd5d9c",
+    "title": "Phonology",
+    "originalTitle": "Phonology",
+    "words": [
+        {
+            "id": "692c829b-4a29-4b60-abf4-03530217cba8",
+            "word": "coda",
+            "phonetic": "koʊdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So Caribbean sperm whales will have a coda of one pattern, while a sperm whale in a different region will arrange their clicks differently.",
+                "Granted, the deaf community does have issues with CODAs and SODAs, sibling of deaf adult, SODA.",
+                "Even if the hearing person is a CODA and they grew up in the Deaf community and are fluent in sign language, they cannot give you a name sign.",
+                "And then the most important thing is, in my opinion, don't talk to our interpreter or captioner or CODA friend or parent who knows ASL, et cetera, et cetera.",
+                "And the scene with Abbie on the stand is a kind of coda."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29kYQ&hash=bd5ef3a936a7963e47a04677807947a4f42d3275&lang=en&cache-only=0",
+            "defineEn": "the final part of a syllable, occurring after the nucleus",
+            "defineVi": "phần cuối cùng của một âm tiết, xảy ra sau hạt nhân"
+        },
+        {
+            "id": "90a58fca-314c-4174-8454-93b2bc8a1dfd",
+            "word": "nucleus",
+            "phonetic": "nuːklɪəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These cells have a nucleus.",
+                "The nucleus has a crazy-high density.",
+                "The nucleus has a net positive Coulomb charge.",
+                "Their nucleus is pretty circular.",
+                "The nucleus is crazy small."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVjbGV1cw&hash=790f9657c5a7fd14c309f5a64bf8469bf524b4c7&lang=en&cache-only=0",
+            "defineEn": "the central and typically sonorous part of a syllable, usually occupied by a vowel or a vowel-like sound",
+            "defineVi": "phần trung tâm và thường là âm của một âm tiết, thường được chiếm giữ bởi một nguyên âm hoặc một âm giống như nguyên âm"
+        },
+        {
+            "id": "548d20ca-aabd-4204-81ea-a1a9d3cc5ef2",
+            "word": "onset",
+            "phonetic": "ɑːnsɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The second shot, the onset was much faster.",
+                "But the onset of the global pandemic has boosted consumer interest.",
+                "So what causes the onset of psychosis?",
+                "There is late onset.",
+                "There is early onset."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b25zZXQ&hash=2132f22d6f1813f04ebd9a42fc4c6fd62193a1bd&lang=en&cache-only=0",
+            "defineEn": "the initial sound or sounds of a syllable that come before the vowel, forming the beginning part of a syllable and can consist of one or more consonant sounds",
+            "defineVi": "âm thanh hoặc âm thanh đầu tiên của một âm tiết xuất hiện trước nguyên âm, tạo thành phần đầu của âm tiết và có thể bao gồm một hoặc nhiều phụ âm"
+        },
+        {
+            "id": "3f2774d6-9975-44d1-b0db-f1e3c40378ae",
+            "word": "cluster",
+            "phonetic": "klʌstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They carefully removed the exocarp of the pomegranate, revealing the clusters of vibrant red arils inside.",
+                "The grape vine in my backyard is flourishing, with clusters of ripe grapes ready for harvest.",
+                "The third major data mining technique is clustering.",
+                "Clusters of galaxies would separate.",
+                "The distribution has a cluster from four to six days."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2x1c3Rlcg&hash=fa5e7171e6d06c4461afd8c2fd785503f42b3d53&lang=en&cache-only=0",
+            "defineEn": "a sequence of two or more consonant sounds that occur together without an intervening vowel in a syllable",
+            "defineVi": "một chuỗi hai hoặc nhiều phụ âm xuất hiện cùng nhau mà không có nguyên âm xen kẽ trong một âm tiết"
+        },
+        {
+            "id": "f6725553-2f14-482e-bf95-2d0f1601c7bf",
+            "word": "phoneme",
+            "phonetic": "foʊniːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They’ve learned phonemes!",
+                "Linguists call this language-specific distinction a phoneme and write these symbols in slashes.",
+                "In English, these same sounds are different phones, but they're NOT different phonemes.",
+                "In linguistic terms, we say that these two phones are part of the same phoneme in English.",
+                "Let's go into the Thought Bubble to observe some phonemes in their natural environment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGhvbmVtZQ&hash=bf007dd2f0f168b9962388e92bc784d6c96d3d19&lang=en&cache-only=0",
+            "defineEn": "the smallest unit of sound in a language that can distinguish meaning, often represented by a specific symbol in phonetic notation",
+            "defineVi": "đơn vị âm thanh nhỏ nhất trong ngôn ngữ có thể phân biệt nghĩa, thường được biểu thị bằng một ký hiệu cụ thể trong ký hiệu ngữ âm"
+        },
+        {
+            "id": "8fca3526-214b-4537-8708-6ff1567efa4a",
+            "word": "minimal pair",
+            "phonetic": "mɪnɪməl pɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWluaW1hbCBwYWly&hash=874de2791920a7bf0c6efdec2c485dfba291b8c5&lang=en&cache-only=0",
+            "defineEn": "a pair of words in a language that differ in meaning by only one phoneme, demonstrating that the phoneme contrast is significant for distinguishing words",
+            "defineVi": "một cặp từ trong một ngôn ngữ chỉ khác nhau về nghĩa bởi một âm vị, chứng tỏ rằng sự tương phản về âm vị rất quan trọng để phân biệt các từ"
+        },
+        {
+            "id": "3c609cca-5cd2-4420-bfd6-bc88efcb2f12",
+            "word": "phonological rule",
+            "phonetic": "fɑːnəlɑːdʒɪkəl ɹuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGhvbm9sb2dpY2FsIHJ1bGU&hash=ad07981e67fa4972041e49243a6c6f64c1048b0e&lang=en&cache-only=0",
+            "defineEn": "a systematic pattern or process in a language that governs the way phonemes or sounds interact with each other, influencing their pronunciation or distribution within words and sentences",
+            "defineVi": "một mô hình hoặc quy trình có hệ thống trong một ngôn ngữ chi phối cách các âm vị hoặc âm thanh tương tác với nhau, ảnh hưởng đến cách phát âm hoặc phân phối của chúng trong các từ và câu"
+        },
+        {
+            "id": "0d586d54-e4b8-4bca-9e4e-9bfab7653ae4",
+            "word": "assimilation",
+            "phonetic": "ɐsɪmɪleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This phonological process is known as assimilation.",
+                "Some native groups responded with a measure of assimilation.",
+                "Assimilation in signed languages can affect the handshape or sign location.",
+                "Organized by the East Coast Homophile Organization, two of its most prominent leaders, Frank Kameny and Barbara Gittings, placed an emphasis on assimilation.",
+                "Other forms of assimilation like conversion to Christianity and education in settler schools only helped to rationalize and encourage participation in trafficking and enslavement."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXNzaW1pbGF0aW9u&hash=69a1ad03e9235c53764f7fb98433480992edf724&lang=en&cache-only=0",
+            "defineEn": "a phonological process where a sound becomes more similar to a neighboring sound in terms of one or more of its phonetic features",
+            "defineVi": "một quá trình âm vị học trong đó một âm thanh trở nên giống với âm thanh lân cận hơn về một hoặc nhiều đặc điểm ngữ âm của nó"
+        },
+        {
+            "id": "6ad8e5a4-d669-4e8b-bcc2-55c4b9f8a2e7",
+            "word": "elision",
+            "phonetic": "ᵻlɪʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This phonological process is known as deletion or elision."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxpc2lvbg&hash=4cf1f99898627a9e8be2ec0a00553b2b196bccdc&lang=en&cache-only=0",
+            "defineEn": "the phonological process of omitting or deleting a sound or sounds in connected speech, typically in order to facilitate smoother and faster pronunciation",
+            "defineVi": "quá trình âm vị học bỏ qua hoặc xóa một âm thanh hoặc âm thanh trong lời nói được kết nối, thường là để tạo điều kiện phát âm mượt mà và nhanh hơn"
+        },
+        {
+            "id": "535140b8-afee-4990-aef1-1acb18167154",
+            "word": "dissimilation",
+            "phonetic": "dɪsɪmɪleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Linguists call this phonological process dissimilation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzc2ltaWxhdGlvbg&hash=bc8f5df76380966e9a27393ee4b2025c059acf9a&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which two similar or adjacent sounds in a word become less similar or distinct from each other",
+            "defineVi": "một quá trình âm vị học trong đó hai âm thanh tương tự hoặc liền kề trong một từ trở nên ít giống nhau hơn hoặc khác biệt với nhau"
+        },
+        {
+            "id": "b7e33c39-b400-4ca1-9050-80c23262b94a",
+            "word": "epenthesis",
+            "phonetic": "ɛpənθəsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This phonological process is known as insertion or epenthesis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXBlbnRoZXNpcw&hash=45ab8949b75070ae16667551daa6535e82d96c51&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a sound or phoneme is inserted into a word, typically to break up a consonant cluster or improve phonotactic constraints",
+            "defineVi": "một quá trình âm vị học trong đó một âm thanh hoặc âm vị được chèn vào một từ, thường là để phá vỡ một cụm phụ âm hoặc cải thiện các ràng buộc về âm vị học"
+        },
+        {
+            "id": "9c49d7ce-bc5f-4c43-b112-6cd9648a97b7",
+            "word": "deletion",
+            "phonetic": "dᵻliːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This phonological process is known as deletion or elision.",
+                "PWS is caused by deletion or damage to chromosome 15.",
+                "But don't you, as a committee, make decisions on suspensions and bans and deletions in other cases?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVsZXRpb24&hash=5eeb53f4c19f3fd8f8c6f7d369fa556d4628dac9&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a sound or phoneme is removed or omitted from a word",
+            "defineVi": "một quá trình âm vị học trong đó một âm thanh hoặc âm vị được loại bỏ hoặc bỏ qua từ một từ"
+        },
+        {
+            "id": "1ff5b5e5-a6b9-46a2-aa13-53cf9938edb4",
+            "word": "distinctive feature",
+            "phonetic": "dɪstɪŋktɪv fiːtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzdGluY3RpdmUgZmVhdHVyZQ&hash=93d50958ce33e8a508959bfaef4aab40cea6c51c&lang=en&cache-only=0",
+            "defineEn": "a characteristic or property of a sound that distinguishes it from other sounds in a particular language",
+            "defineVi": "một đặc điểm hoặc thuộc tính của một âm thanh phân biệt nó với các âm thanh khác trong một ngôn ngữ cụ thể"
+        },
+        {
+            "id": "9bbc3e47-ece7-440c-a85f-b0d8a8682776",
+            "word": "juncture",
+            "phonetic": "dʒʌŋktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It was about this decisive juncture in Lincoln's career that Herndon wrote of his partner's ambition.",
+                "This is a critical juncture where you have the power to stop your descent.",
+                "As a result, the U.S. never considers military intervention at other junctures in the 20th century, because they simply couldn’t afford to on a unified national level.",
+                "It seems that WWII was a critical juncture for the introduction of seismic healthcare changes worldwide.",
+                "And, at this juncture, there is a real sense of Severe Exhaustion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVuY3R1cmU&hash=9e9f553f5db9c48126b76805a7923236c0991156&lang=en&cache-only=0",
+            "defineEn": "the way speech sounds are connected and organized, including pauses, sound blending, and overall rhythm, influencing word boundaries and speech interpretation",
+            "defineVi": "cách các âm thanh lời nói được kết nối và tổ chức, bao gồm các khoảng dừng, hòa trộn âm thanh và nhịp điệu tổng thể, ảnh hưởng đến ranh giới từ và diễn giải lời nói"
+        },
+        {
+            "id": "7fb44afd-4fa9-4cfc-b906-c3fde7b30f26",
+            "word": "metathesis",
+            "phonetic": "mɛɾəθəsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This phonological process is known as metathesis.",
+                "Many English words were derived through metathesis.",
+                "The common pronunciation of ask as aks is an example of metathesis in which two speech sounds are allowed in flexible order.",
+                "But things changed with the discovery of metathesis, a new approach to chemical synthesis that got its creators the 2005 Nobel Prize in chemistry.",
+                "To develop greener detergents, a company called Elevance used metathesis to break apart plant-derived oils, then assembled the resulting building blocks into novel chemicals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0YXRoZXNpcw&hash=ca58e1621d704786f0dc16d9d1045be055f25e60&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which sounds or syllables in a word are rearranged or switched positions, resulting in a change in the order of phonemes or syllables within the word",
+            "defineVi": "một quá trình âm vị học trong đó các âm thanh hoặc âm tiết trong một từ được sắp xếp lại hoặc chuyển đổi vị trí, dẫn đến sự thay đổi thứ tự của các âm vị hoặc âm tiết trong từ"
+        },
+        {
+            "id": "6e4c8a5d-5516-4ca0-b468-d5478d8cf065",
+            "word": "neutralization",
+            "phonetic": "nuːtɹəlᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hydrogen ions can react with various rocks and other substances in fairly typical neutralization reactions.",
+                "One of their most effective and common strategies is neutralization, where antibodies physically block the binding sites on viruses or bacterial toxins, so they can’t hook up to your tissues."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV1dHJhbGl6YXRpb24&hash=e222eab9843196660278fcaae602c2c248ae0000&lang=en&cache-only=0",
+            "defineEn": "the phonological process in which phonemic distinctions between sounds are lost or neutralized in specific phonetic contexts, resulting in a single phonetic realization",
+            "defineVi": "quá trình âm vị học trong đó sự phân biệt ngữ âm giữa các âm thanh bị mất hoặc trung hòa trong các ngữ cảnh ngữ âm cụ thể, dẫn đến một nhận thức ngữ âm duy nhất"
+        },
+        {
+            "id": "facf93de-436a-4d95-a8c8-de8f6cadd6b4",
+            "word": "sonority",
+            "phonetic": "sənɔːɹᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The second chord is C minor, a sour sonority that mirrors Tamino's sadness and doubt in the middle of the opera."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29ub3JpdHk&hash=0311316cb224027e2c2004c8225f2af5d639607e&lang=en&cache-only=0",
+            "defineEn": "the relative loudness, prominence, or audibility of speech sounds, often associated with their acoustic properties and the degree of constriction in the vocal tract during their production",
+            "defineVi": "độ lớn tương đối, nổi bật hoặc khả năng nghe của âm thanh lời nói, thường liên quan đến đặc tính âm thanh của chúng và mức độ co thắt trong đường phát âm trong quá trình tạo ra chúng"
+        },
+        {
+            "id": "811a7b44-a976-411a-973c-c9159807b354",
+            "word": "stress-timed language",
+            "phonetic": "stɹɛstaɪmd læŋɡwɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RyZXNzLXRpbWVkIGxhbmd1YWdl&hash=1eb7f1bbb2d2e3502f95f830949333cd6594ce07&lang=en&cache-only=0",
+            "defineEn": "a type of language where the syllables are organized in a way that the stressed syllables occur at relatively regular intervals, resulting in a rhythmic pattern of speech",
+            "defineVi": "một loại ngôn ngữ trong đó các âm tiết được tổ chức theo cách mà các âm tiết được nhấn mạnh xuất hiện ở những khoảng thời gian tương đối đều đặn, dẫn đến một kiểu nói có nhịp điệu"
+        },
+        {
+            "id": "5a4208ee-160b-45a8-90cc-225d03978861",
+            "word": "syllable-timed language",
+            "phonetic": "sɪləbəltaɪmd læŋɡwɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3lsbGFibGUtdGltZWQgbGFuZ3VhZ2U&hash=a9216272b8ab4101fd98280929fbf335a6329bcc&lang=en&cache-only=0",
+            "defineEn": "a type of language where each syllable is given roughly equal time and stress, resulting in a more evenly paced and rhythmic pattern of speech",
+            "defineVi": "một loại ngôn ngữ trong đó mỗi âm tiết được cung cấp thời gian và trọng âm gần như bằng nhau, dẫn đến một mẫu lời nói có nhịp độ và nhịp độ đều hơn"
+        },
+        {
+            "id": "85c8d751-af84-440d-9aa6-8bf9a6916637",
+            "word": "lenition",
+            "phonetic": "lɛnɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGVuaXRpb24&hash=cf7647dc4edf615883a488e0eac9371f8b293886&lang=en&cache-only=0",
+            "defineEn": "a phonological process where a consonant becomes weaker or less prominent in terms of articulation, often resulting in its softening, reduction, or loss of certain features",
+            "defineVi": "một quá trình âm vị học trong đó một phụ âm trở nên yếu hơn hoặc kém nổi bật hơn về mặt phát âm, thường dẫn đến việc nó bị mềm, giảm hoặc mất một số tính năng nhất định"
+        },
+        {
+            "id": "251cf351-b10b-4041-858e-abd6b0259b80",
+            "word": "rendaku",
+            "phonetic": "ɹɛndɑːkuː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVuZGFrdQ&hash=80b55e4b41b2fef10a33a261b848d43723b20303&lang=en&cache-only=0",
+            "defineEn": "a phonological phenomenon in Japanese where the initial consonant of the second element in a compound word undergoes voicing or consonant softening",
+            "defineVi": "một hiện tượng âm vị học trong tiếng Nhật trong đó phụ âm đầu tiên của yếu tố thứ hai trong một từ ghép trải qua việc phát âm hoặc làm mềm phụ âm"
+        },
+        {
+            "id": "13d5ef72-68dd-4fd1-9dfd-3ed57855a37f",
+            "word": "sandhi",
+            "phonetic": "sændhaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FuZGhp&hash=fc8745a4225d8a1f386bde0dd3b75b27f3540630&lang=en&cache-only=0",
+            "defineEn": "the phonological process in which the pronunciation of sounds changes when they occur in specific phonetic contexts or in continuous speech",
+            "defineVi": "quá trình âm vị học trong đó cách phát âm của âm thanh thay đổi khi chúng xuất hiện trong ngữ cảnh ngữ âm cụ thể hoặc trong lời nói liên tục"
+        },
+        {
+            "id": "2731405b-924d-438b-98c0-719e895e932d",
+            "word": "consonant gradation",
+            "phonetic": "kɑːnsənənt ɡɹeɪdeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29uc29uYW50IGdyYWRhdGlvbg&hash=fa6a054d95aa210bd40563b3f12f22031c4d75ea&lang=en&cache-only=0",
+            "defineEn": "a phonological process where a consonant undergoes systematic changes in its articulation or voicing depending on its position within a word or in certain morphological contexts",
+            "defineVi": "một quá trình âm vị học trong đó một phụ âm trải qua những thay đổi có hệ thống trong cách phát âm hoặc phát âm tùy thuộc vào vị trí của nó trong một từ hoặc trong các ngữ cảnh hình thái nhất định"
+        },
+        {
+            "id": "c8c1577d-69ce-44cc-af87-a9a8ccbfdb0d",
+            "word": "vowel harmony",
+            "phonetic": "vaʊəl hɑːɹməni ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dm93ZWwgaGFybW9ueQ&hash=cd6887dcd8fc6b612a01606bb7725042a087914d&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which vowels within a word or across adjacent words become more similar or assimilate to each other in terms of certain phonetic features, typically involving vowel height, backness, or rounding",
+            "defineVi": "một quá trình âm vị học trong đó các nguyên âm trong một từ hoặc giữa các từ liền kề trở nên giống nhau hơn hoặc đồng hóa với nhau về các đặc điểm ngữ âm nhất định, thường liên quan đến độ cao, độ lùi hoặc làm tròn của nguyên âm"
+        },
+        {
+            "id": "28857aca-aeb1-40da-955b-b1fda104d5c8",
+            "word": "tone sandhi",
+            "phonetic": "toʊn sændhaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9uZSBzYW5kaGk&hash=07abebae3ab4c803fd6f626fc2a24b61f27caa59&lang=en&cache-only=0",
+            "defineEn": "the phonological phenomenon where the tone of a word or syllable changes based on its position or interaction with neighboring tones, typically occurring in tonal languages",
+            "defineVi": "hiện tượng âm vị học trong đó âm của một từ hoặc âm tiết thay đổi dựa trên vị trí của nó hoặc tương tác với các âm lân cận, thường xảy ra trong các ngôn ngữ có thanh điệu"
+        },
+        {
+            "id": "c329adc8-9805-4d82-8646-7f915572c280",
+            "word": "tonal language",
+            "phonetic": "toʊnəl læŋɡwɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9uYWwgbGFuZ3VhZ2U&hash=f55a08ed177c308820fcc723eb325a184755d1b5&lang=en&cache-only=0",
+            "defineEn": "a language in which variations in pitch or tone can distinguish different words or convey different meanings",
+            "defineVi": "một ngôn ngữ trong đó các biến thể về cao độ hoặc âm điệu có thể phân biệt các từ khác nhau hoặc truyền đạt các ý nghĩa khác nhau"
+        },
+        {
+            "id": "87281754-d5c1-4f18-a4c9-50cc9db7b657",
+            "word": "imbrication",
+            "phonetic": "ɪmbɹɪkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW1icmljYXRpb24&hash=8ca8672a8bf518b45669767448d6a78490756862&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which adjacent or alternating segments in a word share a common feature, resulting in the assimilation or co-occurrence of certain articulatory or acoustic characteristics",
+            "defineVi": "một quá trình âm vị học trong đó các phân đoạn liền kề hoặc xen kẽ trong một từ có chung một đặc điểm, dẫn đến sự đồng hóa hoặc cùng xuất hiện của một số đặc điểm phát âm hoặc âm thanh nhất định"
+        },
+        {
+            "id": "e609c2ec-6a9d-4884-b787-77df9c351920",
+            "word": "syncope",
+            "phonetic": "sɪŋkoʊp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you suddenly decrease that oxygen-rich blood flow, you get a temporary loss of consciousness known to doctors as syncope, and to the rest of us as fainting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3luY29wZQ&hash=938ddc3c6328ed7003a5d9faa47293f2107f30bf&lang=en&cache-only=0",
+            "defineEn": "(phonetics) the omission or loss of one or more sounds from the pronunciation of a word",
+            "defineVi": "(ngữ âm) sự lược bỏ hoặc mất đi một hoặc nhiều âm trong cách phát âm của một từ"
+        },
+        {
+            "id": "47fca52f-d881-41d0-99fb-f5c1da2b2826",
+            "word": "digraph",
+            "phonetic": "dɪɡɹæf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlncmFwaA&hash=32ab10b807b0f378af2267d319eb5b639d553578&lang=en&cache-only=0",
+            "defineEn": "two successive letters (especially two letters used to represent a single sound: `sh' in `shoe')",
+            "defineVi": "hai chữ cái liên tiếp (đặc biệt là hai chữ cái được sử dụng để biểu thị một âm duy nhất: `sh' trong `shoe')"
+        },
+        {
+            "id": "1d84da38-b295-497d-8f71-3330a3194152",
+            "word": "nasalization",
+            "phonetic": "neɪzəlᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Nasalization is a feature of French.",
+                "Second is nasalization.",
+                "This is known as nasalization, and it has a diacritic too.",
+                "We’re going to look briefly at three of these distinctions: length, nasalization and tone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmFzYWxpemF0aW9u&hash=b8b9e4e0d00723e522029188eadef0a083d476cd&lang=en&cache-only=0",
+            "defineEn": "the process of producing a sound with nasal resonance, where air flows through the nasal cavity while a sound is being articulated",
+            "defineVi": "quá trình tạo ra âm thanh có cộng hưởng mũi, trong đó không khí đi qua khoang mũi trong khi âm thanh được phát ra"
+        },
+        {
+            "id": "614d5543-9303-4024-91e4-77251e1e3698",
+            "word": "insertion",
+            "phonetic": "ɪnsɜːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- Insertion is complete.",
+                "Gina Giotta, professor of communication and technology at California State University Northridge, traces the laugh tracks insertion into early television back to its non visual mass media predecessor: the radio.",
+                "This phonological process is known as insertion or epenthesis.",
+                "We can sometimes see a movement insertion between signs.",
+                "While other comedians viewed the introduction of a bunch of audience plants as the equivalent of a comedic crutch, home listeners responded positively to the insertion of these audience surrogates."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zZXJ0aW9u&hash=5765ca1d20dfed479aa8b0c886004f63fd933b5e&lang=en&cache-only=0",
+            "defineEn": "the process of adding sounds, typically vowels or consonants, into a word or morpheme that are not present in its underlying or base form",
+            "defineVi": "quá trình thêm âm thanh, thường là nguyên âm hoặc phụ âm, vào một từ hoặc hình thái không có ở dạng cơ bản hoặc cơ sở của nó"
+        },
+        {
+            "id": "9eac02c6-7f25-403e-8be7-a6e71b5b97af",
+            "word": "prothesis",
+            "phonetic": "pɹɑːθəsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvdGhlc2lz&hash=560d66b67624d4ffe718bf8486446d45a706f3cc&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a sound or phoneme is added at the beginning of a word, typically to facilitate pronunciation or conform to phonotactic constraints",
+            "defineVi": "một quá trình âm vị học trong đó một âm thanh hoặc âm vị được thêm vào đầu từ, thường để tạo điều kiện phát âm hoặc tuân theo các ràng buộc về âm vị học"
+        },
+        {
+            "id": "a41501f2-45b9-4ec4-a5aa-d0d59ce1b5ca",
+            "word": "terminal devoicing",
+            "phonetic": "tɜːmɪnəl dɪvɔɪsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGVybWluYWwgZGV2b2ljaW5n&hash=1db9ab2c74c7561f3294c6d8b70b2be7c4af690d&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which voiced consonants at the end of a word are pronounced as voiceless",
+            "defineVi": "một quá trình âm vị học trong đó các phụ âm hữu thanh ở cuối từ được phát âm là vô thanh"
+        },
+        {
+            "id": "348ea26f-5dee-45b1-b296-724ad0d51837",
+            "word": "ablaut",
+            "phonetic": "æblaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This system, the ablaut, can still be heard today in irregular verbs: Dig, dug."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWJsYXV0&hash=52ce3eb2b42981cc48e4640099f64fba601ddce0&lang=en&cache-only=0",
+            "defineEn": "a phonological phenomenon where a vowel in a word changes systematically to indicate grammatical or derivational distinctions, often resulting in different word forms or meanings",
+            "defineVi": "một hiện tượng âm vị học trong đó một nguyên âm trong một từ thay đổi một cách có hệ thống để biểu thị sự khác biệt về ngữ pháp hoặc nguồn gốc, thường dẫn đến các dạng hoặc nghĩa của từ khác nhau"
+        },
+        {
+            "id": "7d8c2a32-7e6c-4b50-97f9-760266cd4a4b",
+            "word": "regressive assimilation",
+            "phonetic": "ɹᵻɡɹɛsɪv ɐsɪmɪleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVncmVzc2l2ZSBhc3NpbWlsYXRpb24&hash=94b1ff7b53dbf1ddb960c81f2a0beace50d0603e&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a sound is modified or assimilated to match a neighboring sound that comes after it",
+            "defineVi": "một quá trình âm vị học trong đó âm thanh được sửa đổi hoặc đồng hóa để phù hợp với âm thanh lân cận xuất hiện sau nó"
+        },
+        {
+            "id": "55d8dda7-9d10-491f-8a9c-28a48222e2bc",
+            "word": "haplology",
+            "phonetic": "hæplɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFwbG9sb2d5&hash=4d922c6000c2cb595539f4966a8876df36bc2d41&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a repeated or similar sequence of sounds within a word or phrase is simplified or deleted, resulting in the loss of one of the similar elements",
+            "defineVi": "một quá trình âm vị học trong đó một chuỗi âm thanh lặp đi lặp lại hoặc tương tự trong một từ hoặc cụm từ được đơn giản hóa hoặc bị xóa, dẫn đến việc mất một trong các yếu tố tương tự"
+        },
+        {
+            "id": "bd028505-0350-482d-bcb7-9e19c6e51616",
+            "word": "intervocalic voicing",
+            "phonetic": "ɪntɚvoʊkælɪk vɔɪsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJ2b2NhbGljIHZvaWNpbmc&hash=6aa8b9c369a4d02b2dcbd1b2854ed4cf7e65d274&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a voiceless consonant between two vowels becomes voiced, typically due to the influence of the surrounding vowel sounds",
+            "defineVi": "một quá trình âm vị học trong đó một phụ âm vô thanh giữa hai nguyên âm trở nên hữu thanh, điển hình là do ảnh hưởng của các nguyên âm xung quanh"
+        },
+        {
+            "id": "0b03708c-ba7a-4306-8f9a-6d574a387e5b",
+            "word": "vowel reduction",
+            "phonetic": "vaʊəl ɹᵻdʌkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dm93ZWwgcmVkdWN0aW9u&hash=2f8b9ee189963864a04341a8c5a517b04bef43cb&lang=en&cache-only=0",
+            "defineEn": "the process in which a vowel in an unstressed position or in a particular phonological context becomes centralized and/or weakened, resulting in a reduced vowel quality",
+            "defineVi": "quá trình trong đó một nguyên âm ở vị trí không nhấn hoặc trong một bối cảnh ngữ âm cụ thể trở nên tập trung và/hoặc yếu đi, dẫn đến chất lượng nguyên âm giảm"
+        },
+        {
+            "id": "5a07503d-ad21-4d5b-8003-14351d137023",
+            "word": "palatalization",
+            "phonetic": "pælɐɾəlᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFsYXRhbGl6YXRpb24&hash=7e401cbb1f5789afc21d123eea312e10c708489f&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which a sound, typically a consonant, becomes palatal or acquires palatal characteristics under the influence of a neighboring palatal sound or due to the position within a particular linguistic environment",
+            "defineVi": "một quá trình âm vị học trong đó một âm thanh, điển hình là phụ âm, trở thành âm vòm hoặc có được các đặc điểm của âm vòm dưới ảnh hưởng của âm vòm lân cận hoặc do vị trí trong một môi trường ngôn ngữ cụ thể"
+        },
+        {
+            "id": "716856aa-ab42-43a6-975d-f81b7160f2a9",
+            "word": "vrddhi",
+            "phonetic": "viːɑːɹdiːdiːeɪtʃaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dnJkZGhp&hash=59df6587c9e15295b4b730550ebd6b452b236633&lang=en&cache-only=0",
+            "defineEn": "a phonological process in Sanskrit and other Indo-Aryan languages where a vowel lengthens or becomes long as a result of specific phonetic and phonological conditions, often related to the presence of certain consonants or morphological factors",
+            "defineVi": "một quá trình âm vị học trong tiếng Phạn và các ngôn ngữ Ấn-Arya khác trong đó một nguyên âm kéo dài hoặc trở nên dài ra do các điều kiện ngữ âm và âm vị học cụ thể, thường liên quan đến sự hiện diện của một số phụ âm hoặc yếu tố hình thái học"
+        },
+        {
+            "id": "b97eb067-7610-4417-bbdd-e177a595de57",
+            "word": "crasis",
+            "phonetic": "kɹæsiz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Jhc2lz&hash=1350257230425477fdb299966fe596cf0a9d4ae4&lang=en&cache-only=0",
+            "defineEn": "the linguistic phenomenon where two or more adjacent words merge together, typically resulting in the contraction or fusion of sounds or syllables",
+            "defineVi": "hiện tượng ngôn ngữ trong đó hai hoặc nhiều từ liền kề hợp nhất với nhau, thường dẫn đến sự co lại hoặc hợp nhất của âm thanh hoặc âm tiết"
+        },
+        {
+            "id": "4da199f5-8823-4ee2-94c3-cbdc5bd3060a",
+            "word": "zero consonant",
+            "phonetic": "ziəɹoʊ kɑːnsənənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=emVybyBjb25zb25hbnQ&hash=6968565610c8627770279a59b2af070ed07ecb14&lang=en&cache-only=0",
+            "defineEn": "a phonological phenomenon where a consonant sound is not pronounced in a particular position within a word or a specific language context, often resulting in a phonetic gap or absence of sound",
+            "defineVi": "một hiện tượng âm vị học trong đó một phụ âm không được phát âm ở một vị trí cụ thể trong một từ hoặc một ngữ cảnh ngôn ngữ cụ thể, thường dẫn đến một lỗ hổng ngữ âm hoặc không có âm thanh"
+        },
+        {
+            "id": "5d2eb340-72bc-4040-9430-bb10e6afa33f",
+            "word": "allomorph",
+            "phonetic": "æləmoːɹf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWxsb21vcnBo&hash=ac35328ec3a9be0c212d378f9407d68488ddc338&lang=en&cache-only=0",
+            "defineEn": "any of the variant forms of a morpheme, which are phonetically or phonologically conditioned",
+            "defineVi": "bất kỳ dạng biến thể nào của một hình vị, được điều hòa về mặt ngữ âm hoặc âm vị học"
+        },
+        {
+            "id": "af487573-807d-4b45-bded-361753910ff0",
+            "word": "sound symbolism",
+            "phonetic": "saʊnd sɪmbəlɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c291bmQgc3ltYm9saXNt&hash=50e853e8f992a5a6db0ed06ab477dbd4f5f1e6b9&lang=en&cache-only=0",
+            "defineEn": "the phenomenon where certain sounds or phonetic patterns are associated with specific meanings or qualities, often independent of linguistic convention or arbitrary assignment",
+            "defineVi": "hiện tượng trong đó các âm thanh hoặc mẫu ngữ âm nhất định được liên kết với các ý nghĩa hoặc phẩm chất cụ thể, thường độc lập với quy ước ngôn ngữ hoặc sự gán tùy ý"
+        },
+        {
+            "id": "8aee6882-88a3-4ca7-a71a-4893308ca88a",
+            "word": "mora",
+            "phonetic": "mɔːɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9yYQ&hash=7c1c377810bd235f87f173e1c09b6aed3318af09&lang=en&cache-only=0",
+            "defineEn": "a unit of phonological timing that determines the length or duration of a syllable or a vowel sound",
+            "defineVi": "một đơn vị thời gian âm vị học xác định độ dài hoặc thời lượng của một âm tiết hoặc nguyên âm"
+        },
+        {
+            "id": "c9e41676-421e-4497-84d4-4fd3aae878f6",
+            "word": "null allomorph",
+            "phonetic": "nʌl æləmoːɹf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVsbCBhbGxvbW9ycGg&hash=dd1ccb23773543553a33c5dfd45b9d7e878a41dd&lang=en&cache-only=0",
+            "defineEn": "a silent or phonetically empty form of a morpheme that represents its absence in certain linguistic environments",
+            "defineVi": "một dạng im lặng hoặc trống rỗng về mặt ngữ âm của một hình vị thể hiện sự vắng mặt của nó trong một số môi trường ngôn ngữ nhất định"
+        },
+        {
+            "id": "ba53dbb1-642c-4e58-a25c-2317ae9510e7",
+            "word": "cluster reduction",
+            "phonetic": "klʌstɚ ɹᵻdʌkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2x1c3RlciByZWR1Y3Rpb24&hash=da641f3eca655a34634b8a4d9341a4755cbebf15&lang=en&cache-only=0",
+            "defineEn": "a phonological process in which one or more consonants in a consonant cluster are omitted or simplified in pronunciation",
+            "defineVi": "một quá trình âm vị học trong đó một hoặc nhiều phụ âm trong cụm phụ âm bị bỏ qua hoặc đơn giản hóa trong cách phát âm"
+        },
+        {
+            "id": "fe100661-2db1-4dcd-9280-753651c3292c",
+            "word": "rhotacism",
+            "phonetic": "ɹoʊɾɐsɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmhvdGFjaXNt&hash=7dd5ca091d3fd40ca251364db8904fda63dec1d7&lang=en&cache-only=0",
+            "defineEn": "a phonological process or phenomenon where a non-\"r\" sound is changed or replaced by an \"r\" sound, commonly observed in language evolution or dialectal variations",
+            "defineVi": "một quá trình hoặc hiện tượng âm vị học trong đó âm thanh không phải là \"r\" được thay đổi hoặc thay thế bằng âm thanh \"r\", thường được quan sát thấy trong quá trình phát triển ngôn ngữ hoặc các biến thể phương ngữ"
+        },
+        {
+            "id": "260ab596-426e-4fee-aebb-979da37de720",
+            "word": "palindrome",
+            "phonetic": "peɪlɪndɹoʊm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sorry, I just wanted to get the palindrome in there somewhere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFsaW5kcm9tZQ&hash=e7e4cbbe4af70c177093278dda625e77b88ec3d3&lang=en&cache-only=0",
+            "defineEn": "a word or phrase or sentence that is read the same backward as forward",
+            "defineVi": "một từ hoặc cụm từ hoặc câu được đọc ngược như tiến"
+        },
+        {
+            "id": "5cf1cec5-4a57-4c5f-bf23-1c6f68000c3d",
+            "word": "onomatopoeia",
+            "phonetic": "ɑːnəmæɾəpoʊiə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Since Ancient Greece, we’ve been trying to figure out why people feel that some words just sound like the thing they refer to that is, why onomatopoeias exist."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b25vbWF0b3BvZWlh&hash=e836ae85f8130d536602587ec2a255a87490c4fb&lang=en&cache-only=0",
+            "defineEn": "the naming of a thing or action based on the sound that they refer to",
+            "defineVi": "việc đặt tên của một điều hoặc hành động dựa trên âm thanh mà họ đề cập đến"
+        },
+        {
+            "id": "3b71a0a9-01e4-4789-be19-97cb4d790993",
+            "word": "phonestheme",
+            "phonetic": "foʊnsθiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGhvbmVzdGhlbWU&hash=c7a5af4be694e053cd052f514a3f5dd9be22d243&lang=en&cache-only=0",
+            "defineEn": "a recurring sound pattern or sequence of phonemes that is associated with a particular meaning or connotation in language",
+            "defineVi": "một mẫu âm thanh định kỳ hoặc chuỗi âm vị được liên kết với một ý nghĩa hoặc ý nghĩa cụ thể trong ngôn ngữ"
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "id": "3661fdb1-ae5a-48ae-b971-29b0017a80fa",
+    "title": "Weather",
+    "originalTitle": "Lesson 25",
+    "words": [
+        {
+            "id": "50870cd9-0b1d-4465-a0d3-c5b9deaa3d8d",
+            "word": "climate",
+            "phonetic": "klaɪmət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Italy's Mediterranean climate and diverse geography offer a wide range of outdoor activities",
+                "Climate is one factor.",
+                "A hypoxic ocean can also cool the climate.",
+                "Climate is not weather.",
+                "And these new mountains changed climate patterns all over the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xpbWF0ZQ&hash=488d3ebc1bd728bae23b031be7b0681995262ce1&lang=en&cache-only=0",
+            "defineEn": "the typical weather conditions of a particular region",
+            "defineVi": "các điều kiện thời tiết điển hình của một khu vực cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "fa0b2700-ef77-41a9-8a64-00ae83852ebf",
+            "word": "condition",
+            "phonetic": "kəndɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her condition is very serious.",
+                "All clothes are in mint condition and less than two years old.",
+                "The orchard's yield of apples was lower this year due to unfavorable weather conditions.",
+                "In addition, road conditions were very poor, which led to greater wear and tear.",
+                "Long hours and tough working conditions are often par for the course in catering."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZGl0aW9u&hash=29df18a9569db826604928df6d94798f9d91b3fd&lang=en&cache-only=0",
+            "defineEn": "the state of something at a particular time",
+            "defineVi": "trạng thái của một cái gì đó tại một thời điểm cụ thể"
+        },
+        {
+            "id": "f55acb45-cc83-4e05-81f0-74b5aca3d15b",
+            "word": "air",
+            "phonetic": "ɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boss sure aired his lungs when we lost another customer!",
+                "The whole future of the project is still up in the air.",
+                "The scent of wild cherry blossoms filled the air, signaling the arrival of spring.",
+                "As I peel the Jaffa orange, its fragrant zest fills the air.",
+                "The scent of bergamot orange fills the air as I zest it over my freshly baked lemon bars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWly&hash=0f1e3f46862fdb076f37d80756ee3a32906f1628&lang=en&cache-only=0",
+            "defineEn": "the mixture of gases in the atmosphere that we breathe",
+            "defineVi": "hỗn hợp khí trong khí quyển mà chúng ta hít thở",
+            "hasImg": true
+        },
+        {
+            "id": "2b225489-2318-4dc4-97b4-c9cdb82e2cbd",
+            "word": "cold",
+            "phonetic": "koʊld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He feels the cold a lot.",
+                "The film caught a cold over the outstanding debt.",
+                "Sarah’s got a cold.",
+                "On the day of the wedding, Brown experienced cold feet.",
+                "He's out cold and as still as a stone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
+            "defineEn": "a low temperature; the weather with a low temperature",
+            "defineVi": "nhiệt độ thấp; thời tiết với nhiệt độ thấp",
+            "hasImg": true
+        },
+        {
+            "id": "fcdbf3b7-4bb0-48f7-8d1c-67b2fce9a575",
+            "word": "heat",
+            "phonetic": "hiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Turn the heat down.",
+                "The heat was really on at work.",
+                "Morning brought no relief from the heat.",
+                "Cathy was really feeling the heat.",
+                "The radiation from the sun provides heat and light to sustain life on Earth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhdA&hash=3ec0eb9bcc6abab3918d2f73733b6042772f258e&lang=en&cache-only=0",
+            "defineEn": "high temperature; the quality of being hot",
+            "defineVi": "nhiệt độ cao; chất lượng nóng",
+            "hasImg": true
+        },
+        {
+            "id": "f85f87a2-928c-4a74-8b01-27591fb1d596",
+            "word": "wind",
+            "phonetic": "wɪnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The police got wind of the illegal drug deal.",
+                "The fall knocked the wind out of me.",
+                "The president has the wind at his back on this issue.",
+                "At last the wind dropped.",
+                "The wind has changed direction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2luZA&hash=2a194480137a53ba88003e4fb179e607130ebb6d&lang=en&cache-only=0",
+            "defineEn": "air that moves quickly or strongly in a current as a result of natural forces",
+            "defineVi": "không khí di chuyển nhanh hoặc mạnh theo dòng chảy do tác động của các lực tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "cf8f7c7d-c0ab-468d-8c11-62ca984035cb",
+            "word": "windy",
+            "phonetic": "wɪndi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It's windy!",
+                "It was windy.",
+                "it's not windy?",
+                "They put hundreds of wind machines in windy places. ",
+                "And it may be windy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2luZHk&hash=bf0a99cc41ca8285477393deb1a770deff76cbfb&lang=en&cache-only=0",
+            "defineEn": "with a lot of winds or exposed to winds",
+            "defineVi": "với rất nhiều gió hoặc tiếp xúc với gió",
+            "hasImg": true
+        },
+        {
+            "id": "8a6fae2c-cdca-4b6d-8759-60b462d3f313",
+            "word": "fog",
+            "phonetic": "fɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I always feel like I'm in a fog when I take that medication.",
+                "I had brain fog.",
+                "That’s fog!",
+                "And New Jersey father of three and guidance counselor Dane Tabano has terrible brain fog.",
+                "The most common kind is called radiation fog."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9n&hash=7c7fc44cea26c03d59c378b658a7e97c6b3f1c26&lang=en&cache-only=0",
+            "defineEn": "‌a thick cloud of small water droplets suspended in the air near the land or sea which is difficult to see through",
+            "defineVi": "‌một đám mây dày gồm những giọt nước nhỏ lơ lửng trong không khí gần đất liền hoặc biển rất khó nhìn xuyên qua",
+            "hasImg": true
+        },
+        {
+            "id": "99a2a178-fc96-40ec-9fbd-59bbb079a6c3",
+            "word": "foggy",
+            "phonetic": "fɑːɡi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I didn't have the foggiest idea what he was talking about.",
+                "I don't have the foggiest idea how to fix a car.",
+                "The glass gets foggy.",
+                "So the evolution of pterosaurs is still foggy.",
+                "They then put the spheres in a foggy wind tunnel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9nZ3k&hash=6a8c482b3e93a9230e6eb05c52b90683e2a6aaa5&lang=en&cache-only=0",
+            "defineEn": "filled with or full of fog",
+            "defineVi": "đầy hoặc đầy sương mù",
+            "hasImg": true
+        },
+        {
+            "id": "06a9626e-4390-4df0-8350-ce0887a69182",
+            "word": "breeze",
+            "phonetic": "bɹiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The open window let in a cool breeze.",
+                "We've been shooting the breeze for well over an hour now.",
+                "As the wind blew gently, the silver-gray leaves of artemisia danced in the breeze.",
+                "My grandmother takes her dog for a walk in the evening to enjoy the cool breeze.",
+                "As she caught sight of the house, Breeze came to an abrupt standstill, nearly falling over her own feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlZXpl&hash=3c15b9d138e3e852470884e183813aa2d2f9a8a0&lang=en&cache-only=0",
+            "defineEn": "a gentle and usually pleasant wind",
+            "defineVi": "một cơn gió nhẹ nhàng và thường dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "85cdad99-b3b8-4a38-b836-a3bbe8979cb8",
+            "word": "storm",
+            "phonetic": "stoːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The storms took the lives of 50 people.",
+                "After a couple of hours the storm passed.",
+                "The storm brought the old oak tree crashing down.",
+                "A port in a storm is a welcome thing.",
+                "The journey home through the storm was absolute murder!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rvcm0&hash=ac3e6510850fe4beed4864b05ee88217da56a16a&lang=en&cache-only=0",
+            "defineEn": "a very bad weather with strong winds, heavy rain or snow, and often thunder and lightning",
+            "defineVi": "một thời tiết rất xấu với gió mạnh, mưa lớn hoặc tuyết, và thường có sấm sét",
+            "hasImg": true
+        },
+        {
+            "id": "987e25cd-1182-440d-ba2c-2b7662824c6c",
+            "word": "stormy",
+            "phonetic": "stoːɹmi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We had to cancel our outdoor plans due to the stormy weather.",
+                "She knew better than to go sailing in stormy weather.",
+                "A stormy sea has high volatility with big waves and toughs.",
+                "Everything is stormy and dark to me.",
+                "The rain beat down, and crashes of thunder filled the stormy sky."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rvcm15&hash=8d6a8374bb2661c6825c4b38a85dfba75fdd2b96&lang=en&cache-only=0",
+            "defineEn": "(of weather) with strong wind and often heavy rain and thick clouds",
+            "defineVi": "(về thời tiết) có gió mạnh và thường có mưa lớn và mây dày",
+            "hasImg": true
+        },
+        {
+            "id": "7bf42a7f-496c-44ab-9b37-0931d17d2f08",
+            "word": "blizzard",
+            "phonetic": "blɪzɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You're going skiing in this blizzard?",
+                "Last week's storm was small potatoes compared to the blizzard we had two years ago.",
+                "Imagine blizzards in Florida, Brazil, Kenya!",
+                "A blizzard is a kind of big snowstorm.",
+                "Blizzards start in the same way that some other powerful storms start: when two big areas of air meet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxpenphcmQ&hash=9d3e4ca8af9b7d2bca78eb50e40be7d19650787f&lang=en&cache-only=0",
+            "defineEn": "a storm with heavy snowfall and strong winds",
+            "defineVi": "một cơn bão với tuyết rơi dày và gió mạnh",
+            "hasImg": true
+        },
+        {
+            "id": "6ca3ae24-74f7-421c-8680-3f244b1fb1d6",
+            "word": "snowstorm",
+            "phonetic": "snoʊstoːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "To hit a snowstorm while driving home.",
+                "A blizzard is a kind of big snowstorm.",
+                "Snowstorms on Mars weren’t the only breakthrough in planetary science announced this week.",
+                "There's been three major snowstorms.",
+                "♩ ♩ Intro ♩♩ We just had the first big snowstorm of the year the other day!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25vd3N0b3Jt&hash=f4856c5246ac7ad928deb83bfa3ae3104cdba6dc&lang=en&cache-only=0",
+            "defineEn": "a heavy fall of snow with a strong wind",
+            "defineVi": "tuyết rơi dày kèm theo gió mạnh",
+            "hasImg": true
+        },
+        {
+            "id": "3faef99f-9de9-449a-890d-5ef98b8404cf",
+            "word": "thunderstorm",
+            "phonetic": "θʌndɚstoːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After a lightning strike hit a tree in our neighborhood, my mother said 'beware of an oak, it draws the stroke' and advised me to stay inside during thunderstorms.",
+                "You did look for all the world like a dying duck in a thunderstorm.",
+                "Soon, however, a thunderstorm breaks out.",
+                "Heat bursts usually start with a thunderstorm.",
+                "Mainly, he just picked up static from thunderstorms."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGh1bmRlcnN0b3Jt&hash=222b368d93a72db971493806205d48fcc792af1c&lang=en&cache-only=0",
+            "defineEn": "‌a storm with thunder and lightning and often heavy rain",
+            "defineVi": "‌một cơn bão có sấm sét và thường có mưa lớn",
+            "hasImg": true
+        },
+        {
+            "id": "89c47967-0061-46b9-8829-e60f1ebbab6e",
+            "word": "hail",
+            "phonetic": "heɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I hailed a taxi to take me to the airport.",
+                "Still, America's top infectious disease expert, Dr. Anthony Fauci, hailed the news.",
+                "Modern hail cannons basically just blast a bunch of noise into the sky.",
+                "AMNA NAWAZ: The tech giants hailed the progress they have made so far.",
+                "Greetings home planet and all hail our supreme Zorgdorg."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFpbA&hash=708caed6a600afd2fe57bdafe3a965e82fcf5b51&lang=en&cache-only=0",
+            "defineEn": "small and round balls of ice falling from the sky like rain",
+            "defineVi": "những viên băng tròn nhỏ từ trên trời rơi xuống như mưa",
+            "hasImg": true
+        },
+        {
+            "id": "a7e27a06-b104-4b29-832b-2c9f013a41ff",
+            "word": "warm",
+            "phonetic": "wɔːɹm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The water feels warm.",
+                "Are you warm enough?",
+                "It's quite warm outside.",
+                "The afternoon sun casts a warm glow on the buildings and trees.",
+                "The season of summer brings warm weather and longer days."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FybQ&hash=3e7674ce40eef8f569c5f8aa090f9ab079c41b0f&lang=en&cache-only=0",
+            "defineEn": "having a temperature that is high but not hot, especially in a way that is enjoyable and pleasant",
+            "defineVi": "có nhiệt độ cao nhưng không nóng, đặc biệt là theo cách thú vị và dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "701b41e4-120d-4350-81fa-79e317cf7066",
+            "word": "cool",
+            "phonetic": "kuːl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The open window let in a cool breeze.",
+                "I dipped my feet in the cool water of the river.",
+                "I'd give my right arm for a nice cool drink.",
+                "She pressed her cheek against the cool glass window.",
+                "He completely lost his cool and started yelling."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29vbA&hash=3c9ad96c7f537e6d5a29b49b98061df8b20f3fc0&lang=en&cache-only=0",
+            "defineEn": "having a temperature that is low but not cold, especially in a way that is enjoyable and pleasant",
+            "defineVi": "có nhiệt độ thấp nhưng không lạnh, đặc biệt là theo cách thú vị và dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "19c64ef7-8b9d-4284-8275-b3ff0c1bad2a",
+            "word": "freezing",
+            "phonetic": "fɹiːzɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Freezing is not consent",
+                "Turning - into a little freezing sweat.",
+                "Our cells just don’t do well in the freezing cold.",
+                "But even on a freezing cold day, the sun can still come out.",
+                "And what about the refrigeration, the freezing that's needed?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJlZXppbmc&hash=1151f61db767fad2feea6ec19f6649ac19e987e9&lang=en&cache-only=0",
+            "defineEn": "describing the temperature at which water turns into ice",
+            "defineVi": "mô tả nhiệt độ tại đó nước biến thành băng",
+            "hasImg": true
+        },
+        {
+            "id": "50377393-2b26-4199-a661-360fa725c994",
+            "word": "chilly",
+            "phonetic": "tʃɪli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather turned quite chilly in the afternoon.",
+                "We enjoyed hot cabbage soup on a chilly evening.",
+                "They enjoyed a hot cup of masala chai on a chilly evening.",
+                "She enjoyed a warm bowl of tapioca pudding on a chilly winter evening.",
+                "He buttoned up his coat to keep out the chilly wind."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGx5&hash=e65c60598ff7fc4006c7d14f9ff3d831352a1e17&lang=en&cache-only=0",
+            "defineEn": "cold in an unpleasant or uncomfortable way",
+            "defineVi": "lạnh một cách khó chịu hoặc không thoải mái",
+            "hasImg": true
+        },
+        {
+            "id": "aaa17ca9-c560-4659-ac08-a2923a4998cf",
+            "word": "clear",
+            "phonetic": "klɪɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Our waiter cleared the empty plates from the table.",
+                "The coast is clear.",
+                "Sanskrit inscriptions are clear as day.",
+                "The house rules are crystal clear.",
+                "The answers came back clear as a bell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYXI&hash=ec255d47e368bae4bbe35305fd232cd0ff969ce7&lang=en&cache-only=0",
+            "defineEn": "without clouds or mist",
+            "defineVi": "không có mây hay sương mù",
+            "hasImg": true
+        },
+        {
+            "id": "f1a4b024-ae4a-4c4c-8f7f-0c4b5c8b35f0",
+            "word": "dark",
+            "phonetic": "dɑːɹk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The coffee in the mug was a dark.",
+                "The coffee table was a dark wood color.",
+                "Her dark hair was tied back in a ponytail.",
+                "The unique flavor of physalis pairs wonderfully with dark chocolate in desserts.",
+                "The dark clouds signaled that rain was on its way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFyaw&hash=4903a65ca72e0da4c94d242c45faf6b4f7416e06&lang=en&cache-only=0",
+            "defineEn": "having very little or no light",
+            "defineVi": "có rất ít hoặc không có ánh sáng",
+            "hasImg": true
+        },
+        {
+            "id": "e788e948-b78d-4af9-bb9d-96dff7ab140f",
+            "word": "light",
+            "phonetic": "laɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The car ahead of me jumped the light.",
+                "The lights changed to green.",
+                "Sometimes darkness can show you the light.",
+                "A major technological advancement like that is still light years away.",
+                "This software first saw the light of day back in 1993."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlnaHQ&hash=63673c8d6438c2eb063d7052377e05b9d5fe0031&lang=en&cache-only=0",
+            "defineEn": "having enough brightness, especially natural light; not dark",
+            "defineVi": "đủ độ sáng, đặc biệt là ánh sáng tự nhiên; không tối",
+            "hasImg": true
+        },
+        {
+            "id": "33917536-cf23-44f1-9848-458d4f76da06",
+            "word": "wet",
+            "phonetic": "wɛt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Here, wet your whistle.",
+                "He's still wet behind the ears!",
+                "You're all wet Jameson",
+                "I may be all wet on this point.",
+                "He sounds about as much fun as a wet weekend in Carmarthenshire."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2V0&hash=372fcafe56f185a9dfde63d3581ae1843ddd9778&lang=en&cache-only=0",
+            "defineEn": "covered with or full of water or another liquid",
+            "defineVi": "được bao phủ bởi hoặc đầy nước hoặc chất lỏng khác",
+            "hasImg": true
+        },
+        {
+            "id": "83bb630e-de1f-4c27-b7df-5836e5c8ea11",
+            "word": "dry",
+            "phonetic": "dɹaɪ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My mouth felt completely dry.",
+                "I dried my hands with a soft towel.",
+                "His throat was dry as dust.",
+                "Try some dried apricots as a healthy snack.",
+                "The flowers died during a dry spell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJ5&hash=7e403535553590f82691cf75e2b960416f9f8caf&lang=en&cache-only=0",
+            "defineEn": "lacking moisture or liquid",
+            "defineVi": "thiếu độ ẩm hoặc chất lỏng",
+            "hasImg": true
+        },
+        {
+            "id": "4dd1999f-2ffa-4213-ab79-be8a126a4406",
+            "word": "to blow",
+            "phonetic": "tə bloʊ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The investigation blew the lid off corruption in city hall.",
+                "The baby blew kisses, puckering up her tiny lips.",
+                "The children came to blows over the new toy.",
+                "The wind is blowing from the east today.",
+                "The team rained down blows on their opponents, overwhelming them with a flurry of punches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmxvdw&hash=77d605341aee9a313f062f8ace3d1bc1426828f9&lang=en&cache-only=0",
+            "defineEn": "(of wind or an air current) to move or be in motion",
+            "defineVi": "(của gió hoặc luồng không khí) để di chuyển hoặc đang chuyển động",
+            "hasImg": true
+        },
+        {
+            "id": "a04c0995-d2a3-408d-bdaf-016a6f8b371d",
+            "word": "to change",
+            "phonetic": "tə tʃeɪndʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That experience changed my life.",
+                "The storekeeper changed my dollar bill for four quarters.",
+                "Leaves change colour in autumn.",
+                "The wind has changed direction.",
+                "The lights changed to green."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hhbmdl&hash=cfe58ecdbdf274fe64af4fdf5332fe5608faf329&lang=en&cache-only=0",
+            "defineEn": "to not stay the same and as a result become different",
+            "defineVi": "để không giữ nguyên và kết quả là trở nên khác biệt",
+            "hasImg": true
+        },
+        {
+            "id": "b3c7cbbc-a2f6-4533-b1f6-40f87dec8a29",
+            "word": "awful",
+            "phonetic": "ɔːfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She said an awful lot",
+                "The incident says an awful lot about his character.",
+                "It's awful having a boss who breathes down your neck all the time.",
+                "I told you that you'd feel awful if you drank that much wine.",
+                "He couldn't help but grimace when he saw the awful outfit his friend was wearing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXdmdWw&hash=6092cf52adeda1cf92ec233a8a5595b62077a840&lang=en&cache-only=0",
+            "defineEn": "extremely unpleasant, bad, or disagreeable",
+            "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "1a5266df-e834-4172-adcf-dbc904c4236e",
+            "word": "mild",
+            "phonetic": "maɪld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather in this city is usually mild throughout the year.",
+                "Almond-leaved pear has a mild sweetness and a hint of almond taste.",
+                "I like the mild spiciness and crisp texture that green pepper adds to my omelettes.",
+                "His favorite season is spring, when the weather is mild and the flowers are in full bloom.",
+                "I'm not a fan of spicy foods, but I really enjoy the mild flavor of yellow capsicum."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlsZA&hash=edabbd4ec8047d66b28e2d3c393a3788f3155b73&lang=en&cache-only=0",
+            "defineEn": "(of weather) pleasantly warm and less cold than expected",
+            "defineVi": "(về thời tiết) ấm áp dễ chịu và ít lạnh hơn dự kiến",
+            "hasImg": true
+        },
+        {
+            "id": "903081da-cb35-41e7-bb79-8f05f12a3eb2",
+            "word": "severe",
+            "phonetic": "sᵻvɪɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The severest toil was child's play compared with this.",
+                "When the company's financial problems became too severe to overcome, the CEO called in a financial consultant for advice.",
+                "The company's prowess in driving a hard bargain has placed severe pressure on suppliers.",
+                "Trauma surgeons work tirelessly to save lives, but ultimately they realize there is a remedy for everything except death and must accept that some injuries are simply too severe.",
+                "Fibroids can cause severe pain."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V2ZXJl&hash=90886791d8d0e1fd24bc439a42b7b117bc236c8d&lang=en&cache-only=0",
+            "defineEn": "very bad, harsh, or intense",
+            "defineVi": "rất xấu, khắc nghiệt, hoặc dữ dội",
+            "hasImg": true
+        },
+        {
+            "id": "19459b33-a960-423d-8755-2648f1695393",
+            "word": "to snow",
+            "phonetic": "tə snoʊ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The sunny weather melted the snow, revealing patches of green grass.",
+                "As a vegetarian, she often used snow peas as a substitute for meat in her stir-fry dishes.",
+                "The sledge ran smoothly over the frozen snow.",
+                "The snow on the roof started to melt in the warmth of the sun.",
+                "This new snow shovel makes short work of clearing off the driveway."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc25vdw&hash=37e2ae7da631ad9db59a0a7d8f9156219d9067ae&lang=en&cache-only=0",
+            "defineEn": "(of water) to fall from the sky in the shape of small and soft ice crystals",
+            "defineVi": "(của nước) từ trên trời rơi xuống dưới dạng tinh thể băng nhỏ và mềm",
+            "hasImg": true
+        },
+        {
+            "id": "61dfd7c9-16f0-4d4e-bd21-43062632ca64",
+            "word": "to rain",
+            "phonetic": "tə ɹeɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Rain is the kiss of death for a barbecue.",
+                "Come rain or shine.",
+                "The team rained down blows on their opponents, overwhelming them with a flurry of punches.",
+                "Could I take a rain check?",
+                "This rain looks as if it has set in for the rest of the day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmFpbg&hash=93ac7380097132898a4d9bd137d17bfb3dad5125&lang=en&cache-only=0",
+            "defineEn": "(of water) to fall from the sky in the shape of small drops",
+            "defineVi": "(của nước) từ trên trời rơi xuống dưới hình dạng những giọt nước nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "143202e3-a2b5-492f-9927-03bd5bba2bb9",
+            "word": "snowy",
+            "phonetic": "snoʊi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The snowy landscape looked magical under the moonlight.",
+                "I took beautiful pictures of the snowy scenery during our winter hike.",
+                "We went skiing in the snowy mountains.",
+                "I wore warm boots to trudge through the snowy streets.",
+                "I put on my boots to go for a walk in the snowy park."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25vd3k&hash=54cdfeb37f3b1a568a280bdd22f757e3a2d3e159&lang=en&cache-only=0",
+            "defineEn": "covered or filled with snow",
+            "defineVi": "bao phủ hoặc đầy tuyết",
+            "hasImg": true
+        }
+    ]
+}

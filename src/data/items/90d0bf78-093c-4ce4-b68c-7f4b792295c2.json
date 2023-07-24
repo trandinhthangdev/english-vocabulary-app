@@ -1,0 +1,884 @@
+{
+    "id": "90d0bf78-093c-4ce4-b68c-7f4b792295c2",
+    "title": "Unit 9",
+    "originalTitle": "Unit 9",
+    "words": [
+        {
+            "id": "6bfadd1f-c218-46ef-981f-71a8aa42482a",
+            "word": "song",
+            "phonetic": "sɔŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Alice's song hits the airwaves.",
+                "That song always sends a shiver down my spine.",
+                "Fans have given the band's new song their seal of approval.",
+                "That band's new song is really off the hook!",
+                "She bought the painting for a song."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29uZw&hash=453d40d9a834f06c0bb84685374bcd6a451d5210&lang=en&cache-only=0",
+            "defineEn": "a piece of music that has words",
+            "defineVi": "một bản nhạc có lời",
+            "hasImg": true
+        },
+        {
+            "id": "c4c2a4c3-3d97-4c62-8da8-b7ecd1c407aa",
+            "word": "rhyme",
+            "phonetic": "ɹaɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That rhymed.",
+                "These rhymes are Darryl's ♪",
+                "- Didn't rhyme.",
+                "but I'm rhyming.",
+                "I can't rhyme."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmh5bWU&hash=2a74241a1d45f5cdd122fd9482a80e4d8005767f&lang=en&cache-only=0",
+            "defineEn": "agreement between the sound or the ending of a word and another word",
+            "defineVi": "thỏa thuận giữa âm thanh hoặc kết thúc của một từ và một từ khác"
+        },
+        {
+            "id": "855a7fcf-0215-4de7-8334-8591c7f9fcd9",
+            "word": "rhythm",
+            "phonetic": "ɹɪðəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The music in the movie had a familiar rhythm to it.",
+                "So the fight has this rhythm to it.",
+                "But our body has a rhythm.",
+                "Circadian rhythms also influence your immune system.",
+                "Can we keep rhythm together?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmh5dGht&hash=fc99a0cfb0c357f7ffea7cb742d3360509073ac8&lang=en&cache-only=0",
+            "defineEn": "a strong repeated pattern of musical notes or sounds",
+            "defineVi": "một mô hình lặp đi lặp lại mạnh mẽ của các nốt nhạc hoặc âm thanh"
+        },
+        {
+            "id": "cc80477c-0295-4fd6-89bf-ab3ebe2535c9",
+            "word": "lead",
+            "phonetic": "liːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The receptionist led the way to the boardroom.",
+                "The department led the world in cancer research.",
+                "The company's new product launch led to a fat increase in revenue.",
+                "We lead a very quiet life.",
+                "To lead a life of luxury/a miserable existence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVhZA&hash=e8c13e26cfbed16150978377d6d91e1a6eea432e&lang=en&cache-only=0",
+            "defineEn": "a role or position of guiding or influencing others by setting an example or taking the initiative",
+            "defineVi": "một vai trò hoặc vị trí hướng dẫn hoặc ảnh hưởng đến người khác bằng cách nêu gương hoặc chủ động"
+        },
+        {
+            "id": "1172d654-17ed-43c2-beb1-d30964d178f4",
+            "word": "singer",
+            "phonetic": "sɪŋɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The singer always brings the house down with her powerful voice and stage presence.",
+                "The singer is in the spotlight for her new album release.",
+                "At the age of 75, the singer is not exactly in the prime of his life!",
+                "The singer won the talent competition by a nose, impressing the judges with her powerful voice and stage presence.",
+                "The talented young singer gave the established artist a run for her money, impressing the audience with her exceptional vocal skills."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2luZ2Vy&hash=3d931eae2e8d87f1b1b6b9aadd4fdd74181d869d&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to use their voice for creating music",
+            "defineVi": "ai đó có công việc là sử dụng giọng nói của họ để tạo ra âm nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "231d609f-43be-46e9-8b18-f4c87c4d1887",
+            "word": "guitar",
+            "phonetic": "ɡɪtɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They play the guitar together during jam sessions.",
+                "She usually plays the guitar by ear, rather than reading the music.",
+                "He kept his guitar in his room and played music whenever he felt like it.",
+                "Unless you’ve got money to burn, these expensive guitars are probably not for you.",
+                "He loves playing the guitar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3VpdGFy&hash=5900bc6faafcd1d9662460dff24162135e55cd4e&lang=en&cache-only=0",
+            "defineEn": "a musical instrument, usually with six strings, played by pulling the strings with the fingers or with a plectrum",
+            "defineVi": "một nhạc cụ, thường có sáu dây, được chơi bằng cách kéo dây bằng ngón tay hoặc bằng miếng gảy",
+            "hasImg": true
+        },
+        {
+            "id": "047bb9ad-2620-4ab6-8930-dbd363685644",
+            "word": "keyboard",
+            "phonetic": "kiːboːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So keyboard, got my fancy mouse.",
+                "I use keyboards",
+                "Keyboard shortcuts for effects and presets.",
+                "Imagine a keyboard.",
+                "This keyboard is fantastic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2V5Ym9hcmQ&hash=6795ad3ad42bef404d81435ad660f5e8ed66e7d5&lang=en&cache-only=0",
+            "defineEn": "a type of electronic musical instrument with keys like those of a piano, which is able to make many different sounds",
+            "defineVi": "một loại nhạc cụ điện tử có các phím giống như đàn piano, có thể tạo ra nhiều âm thanh khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "9bb36e3b-da03-457d-878c-c5a200cb9f68",
+            "word": "apprentice",
+            "phonetic": "ɐpɹɛntɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brilliant move my apprentice.",
+                "He mentors apprentices during the four-year program at Arion.",
+                "His announcement mirrored \"The Apprentice.\"",
+                "he apprenticed himself to the director Max Reinhardt.",
+                "She leaves her apprentice in charge and heads to the center of the city."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwcmVudGljZQ&hash=a29c228be78a46aa4482575d01c85685f03b24b0&lang=en&cache-only=0",
+            "defineEn": "someone who works for a skilled person for a specific period of time to learn their skills, usually earning a low wage",
+            "defineVi": "một người làm việc cho một người có kỹ năng trong một khoảng thời gian cụ thể để học các kỹ năng của họ, thường kiếm được mức lương thấp",
+            "hasImg": true
+        },
+        {
+            "id": "56e0f39f-c419-4433-a911-93971101b04b",
+            "word": "mechanic",
+            "phonetic": "mᵻkænɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mechanic replaced the rusted bolt with a new one.",
+                "The mechanic was able to turn a trick and fix my car in no time.",
+                "The mechanic gave the car a clean bill of health, saying it was in excellent condition.",
+                "The game's premise and mechanics are interesting, but there's just no meat on the bone when it comes to story and gameplay variety.",
+                "The video gamer is leaving his opponent in the dust with his expert knowledge of the game mechanics and quick reflexes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVjaGFuaWM&hash=bd77403c3814580471aa6ee26d2be63561619ac3&lang=en&cache-only=0",
+            "defineEn": "a person whose job is repairing and maintaining motor vehicles and machinery",
+            "defineVi": "một người có công việc sửa chữa và bảo trì xe cơ giới và máy móc",
+            "hasImg": true
+        },
+        {
+            "id": "5c778113-3610-4c59-8fce-71b4042907cf",
+            "word": "street singer",
+            "phonetic": "stɹiːt sɪŋɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RyZWV0IHNpbmdlcg&hash=a4ee55a5cdbd7cfaa7f71569a0aed9083134d6b4&lang=en&cache-only=0",
+            "defineEn": "a musician or performer who sings or plays music in public places, such as streets, parks, and squares, often to earn money",
+            "defineVi": "một nhạc sĩ hoặc người biểu diễn hát hoặc chơi nhạc ở những nơi công cộng, chẳng hạn như đường phố, công viên và quảng trường, thường để kiếm tiền",
+            "hasImg": true
+        },
+        {
+            "id": "9e196a09-00b4-4e01-8938-f205984d232e",
+            "word": "to debut",
+            "phonetic": "tə deɪbjuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Her second movie followed close on the heels of her successful film debut.",
+                "Her second movie followed close on the heels of her successful film debut.",
+                "The author rode on a wave of success with her debut novel, which became a bestseller and won critical acclaim.",
+                "It is also a red-letter day for Bath's Ben Clarke, who makes his debut.",
+                "The show was one of the hottest programs on television when it debuted."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGVidXQ&hash=31889efa660405fd059239bef1116abe03fa6996&lang=en&cache-only=0",
+            "defineEn": "to make a first appearance or perform publicly for the first time, especially as a professional or artist",
+            "defineVi": "xuất hiện lần đầu tiên hoặc biểu diễn công khai lần đầu tiên, đặc biệt là với tư cách là một nghệ sĩ chuyên nghiệp hoặc nghệ sĩ"
+        },
+        {
+            "id": "a0fff6d5-048c-4786-99a8-e96f4068ee91",
+            "word": "hill",
+            "phonetic": "hɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A path led down the hill.",
+                "The village was set among olive groves on a hill.",
+                "They were driven to an unknown place in the hills.",
+                "The truck's engine roared as it climbed the steep hill.",
+                "An engineer suggested driving a tunnel through the Judean hills."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlsbA&hash=48476df7c72078e2c0d632e0f2b5286926b2bace&lang=en&cache-only=0",
+            "defineEn": "a naturally raised area of land that is higher than the land around it, but smaller than a mountain",
+            "defineVi": "một vùng đất được nâng lên tự nhiên cao hơn vùng đất xung quanh nó, nhưng nhỏ hơn một ngọn núi",
+            "hasImg": true
+        },
+        {
+            "id": "682df403-b8be-4ed1-90d0-c44bdc2c4708",
+            "word": "valley",
+            "phonetic": "væli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In front of them the valley dropped sharply away from the road.",
+                "The land dropped steeply away into a small valley.",
+                "The river flows through the valley, creating a beautiful landscape.",
+                "The mountain provided a natural barrier between the two valleys.",
+                "The river took a meandering bend through the picturesque valley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFsbGV5&hash=0d559d333701dbc561508ced9fc3e196da64798e&lang=en&cache-only=0",
+            "defineEn": "a low area of land between mountains or hills, often with a river flowing through it",
+            "defineVi": "một vùng đất thấp giữa núi hoặc đồi, thường có một dòng sông chảy qua nó",
+            "hasImg": true
+        },
+        {
+            "id": "abaf006f-6129-44aa-bb5a-03e201feb263",
+            "word": "mountain",
+            "phonetic": "maʊntɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mountain provided a natural barrier between the two valleys.",
+                "The mountain is a popular destination for climbers and hikers.",
+                "You're making a mountain out of a molehill.",
+                "Asian landscapes range from breathtaking mountains to stunning beaches.",
+                "They went farther north into the mountains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91bnRhaW4&hash=ea59668576bca4896a9e5901714438b8f88b90d5&lang=en&cache-only=0",
+            "defineEn": "a very tall and large natural structure that looks like a huge hill with a pointed top that is often covered in snow",
+            "defineVi": "một cấu trúc tự nhiên rất cao và lớn trông giống như một ngọn đồi khổng lồ với đỉnh nhọn thường được bao phủ bởi tuyết",
+            "hasImg": true
+        },
+        {
+            "id": "9fae2827-740e-4cc0-9d95-c8b503e81086",
+            "word": "idea",
+            "phonetic": "aɪdiə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "ideas that are light-years ahead of their time",
+                "The idea hit me like a tornado.",
+                "Who's been putting ideas in your head?",
+                "Their ideas seem to be far more down to earth and sensible.",
+                "He’d run out of ideas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWRlYQ&hash=6e878579205a904374d07e871af8f006a102f6af&lang=en&cache-only=0",
+            "defineEn": "a suggestion or thought about something that we should do",
+            "defineVi": "một gợi ý hoặc suy nghĩ về một cái gì đó mà chúng ta nên làm"
+        },
+        {
+            "id": "0683e0fa-59c1-4e65-832a-19168490195d",
+            "word": "mind",
+            "phonetic": "maɪnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mind your own business!",
+                "You mind the cattle, Herb.",
+                "Mind if I take a rain check on that drink?",
+                "Travel broadens the mind.",
+                "My mind went totally blank."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluZA&hash=a7e3a1551cc3d427e84e80a8aaec233bd826d2cc&lang=en&cache-only=0",
+            "defineEn": "the ability in a person that makes them think, feel, or imagine",
+            "defineVi": "khả năng ở một người khiến họ suy nghĩ, cảm nhận hoặc tưởng tượng"
+        },
+        {
+            "id": "e1e3d5f6-a0cd-4992-a48f-ae5e363cb7ff",
+            "word": "view",
+            "phonetic": "vjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They exchanged views on every subject under the sun.",
+                "He holds strange views on education.",
+                "The course gives you a bird's eye view of European art history.",
+                "He takes the view that children are responsible for their own actions.",
+                "Being assigned to the General Secretariat provided a worm's-eye view of international diplomacy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
+            "defineEn": "a particular way of seeing or understanding something",
+            "defineVi": "một cách cụ thể để xem hoặc hiểu một cái gì đó"
+        },
+        {
+            "id": "8631895f-83fd-4054-a014-99fc4a49c0d6",
+            "word": "wheat",
+            "phonetic": "wiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They added cooked wheat berries to their homemade granola bars.",
+                "She mixed wheat flour, water, and yeast to make a dough for homemade bread.",
+                "The fertile soil in this region yields abundant crops of wheat and corn.",
+                "The region produces over 50 per cent of the country's wheat.",
+                "He separated the wheat from the chaff in hopes of improving productivity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2hlYXQ&hash=a2673c58a8f746578456538d82cf0b4d9e2fa91c&lang=en&cache-only=0",
+            "defineEn": "the common grain that is used in making flour, taken from a cereal grass which is green and tall",
+            "defineVi": "loại ngũ cốc phổ biến được sử dụng để làm bột, được lấy từ một loại cỏ ngũ cốc có màu xanh và cao",
+            "hasImg": true
+        },
+        {
+            "id": "7239c872-4684-4d15-a399-b26ce32f986e",
+            "word": "barley",
+            "phonetic": "bɑːɹli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I asked my mother to prepare a refreshing barley salad for me.",
+                "They planted wheat, barley, and other grains. ",
+                "A barley seedling predicts a baby boy, while emmer foretells a girl.",
+                "Grains are plants, like oats, wheat, and barley.",
+                "And in England, they settled on the barleycorn: a single grain of barley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFybGV5&hash=a7b72d6a7c05c23717cf4005e3857d70aefa04fa&lang=en&cache-only=0",
+            "defineEn": "a type of plant from which food and alcoholic beverages are produced; the grain from this plant",
+            "defineVi": "một loại cây trồng để sản xuất thức ăn và đồ uống có cồn; hạt từ cây này",
+            "hasImg": true
+        },
+        {
+            "id": "8e51b115-fba2-448d-b84d-f529db803ab7",
+            "word": "corn",
+            "phonetic": "kɔːɹn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I measured your corn by my own bushel.",
+                "They raise corn, soybeans and alfalfa on 460 acres.",
+                "The farmer fed the chickens with corn and grains.",
+                "Don't measure other people's corn by your own bushel.",
+                "The fertile soil in this region yields abundant crops of wheat and corn."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ybg&hash=7a24640bca47273ad2986e9edd323c7014219101&lang=en&cache-only=0",
+            "defineEn": "a tall plant with large yellow seeds that grow together on a cob, which is cooked and eaten as a vegetable or animal food",
+            "defineVi": "một loại cây cao với những hạt lớn màu vàng mọc cùng nhau trên một lõi ngô, được nấu chín và ăn như một loại thực vật hoặc thức ăn cho động vật",
+            "hasImg": true
+        },
+        {
+            "id": "e3230c5a-4fdc-4056-8312-eea0d255a792",
+            "word": "thing",
+            "phonetic": "θɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I see things differently now.",
+                "Things certainly move fast in the blogosphere.",
+                "Things like this take time.",
+                "Things have changed dramatically since then.",
+                "Finally things are moving in the right direction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpbmc&hash=01c8346327c26885cfd0504d70b3830fd2b7f045&lang=en&cache-only=0",
+            "defineEn": "an object that we cannot or do not need to name when we are talking about it",
+            "defineVi": "một đối tượng mà chúng ta không thể hoặc không cần đặt tên khi nói về nó",
+            "hasImg": true
+        },
+        {
+            "id": "df75c6dd-9b28-4753-a3ce-f7b6ec41727b",
+            "word": "to act",
+            "phonetic": "tʊ ækt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Get your act together.",
+                "This armed vigilante is acting as judge, jury, and executioner.",
+                "he acted maturely.",
+                "He acted out of fear.",
+                "A squeeze of lemon juice can act as a refreshing condiment to brighten up seafood dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYWN0&hash=79e2be26d16ed5a64c2a4d07b42cd4f25a642093&lang=en&cache-only=0",
+            "defineEn": "to do something for a special reason; to take action",
+            "defineVi": "để làm điều gì đó vì một lý do đặc biệt; hành động"
+        },
+        {
+            "id": "22a1ffab-ceeb-4e6b-89ea-5c43006db351",
+            "word": "deed",
+            "phonetic": "diːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Remember, deeds are fruits, words are but leaves.",
+                "Although Sarah wasn't able to attend the event, her friends were grateful for her sincere apologies, and decided to take the will for the deed.",
+                "When my friend kept making promises but failing to follow through, I reminded him that good words without deeds are rushes and reeds.",
+                "The politician promised to lower taxes, but the people knew that a man is judged by his deeds, not by his words, and voted for the candidate with a proven track record of following through on promises.",
+                "Few words many deeds, and that's exactly what the team needed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVlZA&hash=83c0ae584b4a9b7d018d700df57d82c0fc2780cd&lang=en&cache-only=0",
+            "defineEn": "an action or behavior that someone does",
+            "defineVi": "một hành động hoặc hành vi mà ai đó làm"
+        },
+        {
+            "id": "39120593-c3a5-4788-b08a-e1b3a7b0dbde",
+            "word": "wild",
+            "phonetic": "waɪld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I am wild about my new car.",
+                "May your wildest dreams come true!",
+                "The crowd went wild when the Golden State Warriors turned the game.",
+                "Her hair is wild and woolly, with strands sticking out in all directions.",
+                "They're taking our lives in their hands out here in the wild."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lsZA&hash=6e85388e31766e246c53be384f05c576801972c7&lang=en&cache-only=0",
+            "defineEn": "(of an animal or plant) living or growing in a natural state; not tamed or domesticated, or cultivated by people",
+            "defineVi": "(của động vật hoặc thực vật) sống hoặc phát triển trong trạng thái tự nhiên; không được thuần hóa hoặc thuần hóa, hoặc được con người trồng trọt",
+            "hasImg": true
+        },
+        {
+            "id": "28eb8fec-c481-4504-bb42-cdd93cb2bc26",
+            "word": "riot",
+            "phonetic": "ɹaɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What began as a minor scuffle turned into a full-scale riot.",
+                "I'm glad you read the riot act to Billy.",
+                "I know Mary messed up, but there was no need to read her the riot act for it.",
+                "Some protesters have rioted.",
+                "Otherwise people might riot online."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmlvdA&hash=c6ef56fcfb3f857cffa271a51d0a521064c4ed4f&lang=en&cache-only=0",
+            "defineEn": "a situation when a group of people behave violently, particularly as a protest",
+            "defineVi": "một tình huống khi một nhóm người cư xử bạo lực, đặc biệt là một cuộc biểu tình"
+        },
+        {
+            "id": "16670633-2479-4da5-8eb7-daf7d83390f6",
+            "word": "amok",
+            "phonetic": "ɐmɑːk ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "The kids are running amok around the house.",
+                "Rammed it down America's throats, government run amok.",
+                "Just in case things run amok.",
+                "You're gonna with corruption run amok.",
+                "But if you've got a business is not concerned about justice, you end up with greed run amok."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1vaw&hash=b85bfe70c39d27885aceea2d5677d9e68286ffc6&lang=en&cache-only=0",
+            "defineEn": "in a wild, uncontrolled, and often violent or frenzied manner",
+            "defineVi": "một cách hoang dã, không kiểm soát và thường bạo lực hoặc điên cuồng"
+        },
+        {
+            "id": "fddca0d8-b4f0-4947-9e94-1d129e50c86a",
+            "word": "submarine",
+            "phonetic": "sʌbmɚɹiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Send in the troops, aircraft, nuclear submarine experts, the whole nine yards.",
+                "I boarded the submarine.",
+                "You're a submarine.",
+                "And submarines can float on top of the water for the same reason.",
+                "That was a submarine shower."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VibWFyaW5l&hash=0253914326c6911ddc3fbc064011095fa2c21e29&lang=en&cache-only=0",
+            "defineEn": "a warship that can operate both on and under water",
+            "defineVi": "một tàu chiến có thể hoạt động cả trên và dưới nước",
+            "hasImg": true
+        },
+        {
+            "id": "0eee9fb2-6ec8-4cda-9ddb-e3515f8ed867",
+            "word": "train",
+            "phonetic": "tɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The train’s here at long last.",
+                "The train traveled through beautiful countryside.",
+                "Trains between London and Brighton run throughout the day.",
+                "To hold the train.",
+                "The slow train arrived at the station behind schedule."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhaW4&hash=c1b4f01b274baa72abf82f56f006c02cb4003696&lang=en&cache-only=0",
+            "defineEn": "a series of connected carriages or wagons pulled along a railroad line by a locomotive",
+            "defineVi": "một loạt các toa xe hoặc toa xe được kết nối với nhau do đầu máy kéo dọc theo một tuyến đường sắt",
+            "hasImg": true
+        },
+        {
+            "id": "4117d459-b2a7-4efa-ba85-e6374a4b6bd9",
+            "word": "plane",
+            "phonetic": "pleɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The plane holds about 300 passengers.",
+                "The plane holds about 300 passengers.",
+                "We changed planes in Miami.",
+                "Your plane leaves in ten minutes.",
+                "To take a cab/plane."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhbmU&hash=3a43bfa5a80f4c50a5aaa563f998d22eb9daade3&lang=en&cache-only=0",
+            "defineEn": "a winged flying vehicle driven by one or more engines",
+            "defineVi": "một phương tiện bay có cánh được điều khiển bởi một hoặc nhiều động cơ",
+            "hasImg": true
+        },
+        {
+            "id": "2830a6f7-a316-4482-b824-d5c8ff7aae5a",
+            "word": "compulsive",
+            "phonetic": "kəmpʌlsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Check out these other videos on the compulsive disorders: body repetitive behaviors and body dysmorphic disorder.",
+                "If you have obsessive compulsive disorder.",
+                "Pathological lying is more compulsive and the lies don't have a clear motive or benefit.",
+                "Hoarding used to be a subtype of obsessive compulsive disorder.",
+                "But memantine might also help with other brain conditions, like obsessive compulsive disorder, or OCD."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcHVsc2l2ZQ&hash=0ca8a903b7d1edd5c12d8241006dd5693ecba481&lang=en&cache-only=0",
+            "defineEn": "(of a behavior or action) driven by a strong inner urge or impulse, where the person feels compelled to do something even if they do not want to",
+            "defineVi": "(về một hành vi hoặc hành động) được thúc đẩy bởi một sự thôi thúc hoặc thôi thúc mạnh mẽ bên trong, khi một người cảm thấy bắt buộc phải làm điều gì đó ngay cả khi họ không muốn"
+        },
+        {
+            "id": "93c75582-731d-45c0-b8d4-ea2c41ca2cdc",
+            "word": "to scrawl",
+            "phonetic": "tə skɹɔːl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "And scrubbing the graffiti that's been scrawled on the walls of businesses overnight.",
+                "STEPHANIE SY: And scrubbing the graffiti that's been scrawled on the walls of businesses overnight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2NyYXds&hash=78869a99f9aacedc942f7c3f170e82968b000239&lang=en&cache-only=0",
+            "defineEn": "write carelessly",
+            "defineVi": "viết cẩu thả"
+        },
+        {
+            "id": "cede87d1-595a-4f29-85d2-63fb4f8224ad",
+            "word": "to smash",
+            "phonetic": "tə smæʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "In 1994, fragments of the comet Shoemaker-Levy 9 smashed into Jupiter.",
+                "Smash that like button!",
+                "A smashed dish lies on the floor.",
+                "I will smash your face to powder.",
+                "They were smashing cars in the streets. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc21hc2g&hash=e144d0cf1824882d1708794c1e763a78d878278a&lang=en&cache-only=0",
+            "defineEn": "to strike something with great force and intensity",
+            "defineVi": "để tấn công một cái gì đó với lực lượng lớn và cường độ"
+        },
+        {
+            "id": "10f5c574-a10a-435c-babb-ef545b364119",
+            "word": "tactile",
+            "phonetic": "tæktaɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "it's still not tactile.",
+                "That's like pretty tactile.",
+                "Like your cat’s whiskers, these tactile hairs can sense objects around them.",
+                "This is the G915 TKL Lightspeed wireless tactile.",
+                "Tactile hallucinations occur when you feel things that aren't there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFjdGlsZQ&hash=ba1b4b28e432119c2139670af9fdca122e760af4&lang=en&cache-only=0",
+            "defineEn": "of or relating to or proceeding from the sense of touch",
+            "defineVi": "của, liên quan đến hoặc bắt nguồn từ xúc giác"
+        },
+        {
+            "id": "0f974d16-533c-409a-b7c3-6df5bdadedea",
+            "word": "stunned",
+            "phonetic": "stʌnd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Just ten miles from rebel lines, the animals look as stunned as I am.",
+                "You look stunned looking at my hair right now.",
+                "In Bat Yam, just south of Tel Aviv, a stunned Arab shop owner returned to her damaged ice cream parlor.",
+                "In Bat Yam, just south of Tel Aviv, a stunned Arab shop owner returned to her damaged ice cream parlor.",
+                "I remember being pretty, pretty stunned. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1bm5lZA&hash=3a3805f6c17caada9244f765c30ab2e714b5574f&lang=en&cache-only=0",
+            "defineEn": "feeling so shocked or surprised that one is incapable of acting in a normal way",
+            "defineVi": "cảm thấy quá sốc hoặc ngạc nhiên đến mức không thể hành động theo cách bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "86dd7e50-b037-4699-9b5c-cbd4ddbd5087",
+            "word": "primeval",
+            "phonetic": "pɹaɪmiːvəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "By 370 million years ago entire ecosystems had developed on the primeval continents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpbWV2YWw&hash=300ecc8ce6641e45ece76240ef5f4d5e180bcc1c&lang=en&cache-only=0",
+            "defineEn": "having existed from the beginning; in an earliest or original stage or state",
+            "defineVi": "đã tồn tại ngay từ đầu; trong giai đoạn hoặc trạng thái sớm nhất hoặc ban đầu"
+        },
+        {
+            "id": "afe1503d-a0b9-4e75-9496-696dd8729d77",
+            "word": "to belly",
+            "phonetic": "tə bɛli ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The restaurant went belly up before the end of the first year.",
+                "What goes over the devil's back comes under his belly.",
+                "The street vendor at the night market skillfully grilled savory pork belly skewers.",
+                "I started with a plate of confit pork belly, enjoying the lusciously tender and flavorful meat that had been slow-cooked in its own fat.",
+                "Ten years working behind a desk has given him quite a belly!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmVsbHk&hash=bb02fccc183b511e63e7d2fde7fb12c5d883989d&lang=en&cache-only=0",
+            "defineEn": "swell out or bulge out",
+            "defineVi": "phồng ra hoặc phồng ra"
+        },
+        {
+            "id": "0577b9e7-3beb-4557-8c28-2d0cfab74bf8",
+            "word": "prescription",
+            "phonetic": "pɹɪskɹɪpʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The doctor wrote her a prescription for more antibiotics.",
+                "So her daughter took the prescription.",
+                "My life depends on prescription drugs.",
+                "PBMs manage prescription drug benefits on behalf of health insurers, drug plans, large employers, and other payers.",
+                "Are people writing more prescriptions in Tennessee than other parts of the country?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlc2NyaXB0aW9u&hash=4ad2a00ea38212cca92ffda92ed05c112a4974d6&lang=en&cache-only=0",
+            "defineEn": "directions prescribed beforehand; the action of prescribing authoritative rules or directions",
+            "defineVi": "hướng dẫn quy định trước; hành động quy định các quy tắc hoặc hướng dẫn có thẩm quyền",
+            "hasImg": true
+        },
+        {
+            "id": "da4196fc-7982-411f-bf9a-e07efd246dfe",
+            "word": "to stir",
+            "phonetic": "tə stɜː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She stirred the creamy mushroom sauce into her pasta.",
+                "He stirred a spoonful of molasses into his morning coffee.",
+                "She carefully stirred her tea, watching the sugar cube dissolve slowly.",
+                "The chef prepared a mouthwatering teff stir-fry, incorporating flavorful spices and vegetables.",
+                "He stirred butterscotch chips into his pancake batter, resulting in a stack of fluffy and caramelized pancakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Rpcg&hash=c8a3eb14dfa62173ce4e9766f65dad212c420826&lang=en&cache-only=0",
+            "defineEn": "stir the feelings, emotions, or peace of",
+            "defineVi": "khuấy động cảm xúc, cảm xúc, hoặc hòa bình của"
+        },
+        {
+            "id": "2b92efd6-807b-4104-9abc-1a8ca2b5a7e7",
+            "word": "impetuosity",
+            "phonetic": "ɪmpɛtʃuːɔsᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They’re afraid to work with each other because of the way the president’s handling things and the impetuosity of his firings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW1wZXR1b3NpdHk&hash=11e3985f15b558eb49f983a2e6b0a86249360b97&lang=en&cache-only=0",
+            "defineEn": "rash impulsiveness",
+            "defineVi": "phát ban bốc đồng"
+        },
+        {
+            "id": "f1aea5a9-e8c6-4ce8-80a7-97b802dd03dd",
+            "word": "to retreat",
+            "phonetic": "tə ɹᵻtɹiːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The team then beats a retreat from the mall, hoping no one noticed them.",
+                "Next month, I will go on a yoga retreat to recharge my batteries.",
+                "Just as a turtle retreats into its shell for protection, the turtle bean provides a nutritious and hearty meal.",
+                "Due to the impending rain we did not hang around on the summit, but instead made hasty retreat back to the van.",
+                "The man retreats inside."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmV0cmVhdA&hash=278d6f2a524f82953a2924a069af8175843a4295&lang=en&cache-only=0",
+            "defineEn": "move back",
+            "defineVi": "Lùi lại"
+        },
+        {
+            "id": "cd92e1c4-1274-478b-b6df-e8e8bde93c6b",
+            "word": "submission",
+            "phonetic": "səbmɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Back then, submissions where, I had a lot of submissions through VHS tapes.",
+                "I know some great submission holds.",
+                "Just waiting for the submissions from them.",
+                "A society of surveillance is just one step away from a society of submission.",
+                "Lin’s proposal was selected from a pool of over fourteen hundred submissions and constituted a decisive break from the traditions of monument design."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VibWlzc2lvbg&hash=282b0f79f9170c78b797fdae6aaf91c035c85dfa&lang=en&cache-only=0",
+            "defineEn": "the state or act of accepting defeat and not having a choice but to obey the person in the position of power",
+            "defineVi": "trạng thái hoặc hành động chấp nhận thất bại và không có lựa chọn nào khác ngoài việc tuân theo người ở vị trí quyền lực"
+        },
+        {
+            "id": "878505a4-1956-4e0a-aa5c-9d4809faf668",
+            "word": "kinship",
+            "phonetic": "kɪnʃɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Well race started as a marker of kinship.",
+                "Before the Spanish influence, kinship and inheritance were bilateral, with both male and female familial lines recognized.",
+                "Their proximity to death and their religious beliefs made burial a sacred but often imperfect practice and that their kinship with ancestors was so important it could literally last beyond the grave.",
+                "Many of these monsters are a test for the story’s hero or heroine, and often reflect power struggles between different kinship groups or even within families.",
+                "If that seems remarkable, remember the ancient Polynesians, who through close study and kinship with nature, were able to forge these paths across an unfathomably vast, vibrant living ocean."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2luc2hpcA&hash=54a52c5b06d390ec36cb187267bd754e38f6f4c9&lang=en&cache-only=0",
+            "defineEn": "a close connection marked by community of interests or similarity in nature or character",
+            "defineVi": "một kết nối chặt chẽ được đánh dấu bởi cộng đồng sở thích hoặc sự tương đồng về bản chất hoặc tính cách"
+        },
+        {
+            "id": "9c469929-74ae-4efd-a8f2-b3781b252054",
+            "word": "howling",
+            "phonetic": "haʊlɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Both bands took the blues and made it heavier, adding theatrics, and of course, the howling of Ozzy Osbourne and Robert Plant."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG93bGluZw&hash=b7a1a2873ad2c483dbb1b75d60c5c4f4f9b80e3c&lang=en&cache-only=0",
+            "defineEn": "a long loud emotional utterance",
+            "defineVi": "một lời phát biểu cảm xúc lớn dài"
+        },
+        {
+            "id": "7e6cb7b6-b312-4298-91ef-beda8b83d591",
+            "word": "to take back",
+            "phonetic": "tə teɪk bæk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Oh, once I get my hands on you, you'll take back what you said!",
+                "Later, Ali Baba's wife takes back the scales.",
+                "Take back pain for instance.",
+                "We have taken back control of our laws and our destiny.",
+                "Together, we are taking back our country."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFrZSBiYWNr&hash=e2d955528d1cea40cb40d1ab2f4a5c7d9a5553c2&lang=en&cache-only=0",
+            "defineEn": "to remember or recollect something from the past",
+            "defineVi": "để nhớ hoặc nhớ lại một cái gì đó từ quá khứ"
+        },
+        {
+            "id": "2fc526c7-d3ce-44ed-8cc1-c002a0039766",
+            "word": "to play",
+            "phonetic": "tə pleɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The manager played his strongest side of the season.",
+                "The bedside radio played softly.",
+                "The media, as always, played an important part in the election campaign.",
+                "Fathers play a crucial role in their children's upbringing and development.",
+                "His dedication and hard work played a big part in the company's success."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcGxheQ&hash=a3c216e79f57dc78f3571927648783c93d2a305f&lang=en&cache-only=0",
+            "defineEn": "to assign someone to assume a particular role and position and take part in a match",
+            "defineVi": "chỉ định ai đó đảm nhận một vai trò và vị trí cụ thể và tham gia vào một trận đấu"
+        },
+        {
+            "id": "0852bb66-ee26-4c44-82cb-4b7e572b1c99",
+            "word": "haywire",
+            "phonetic": "heɪwaɪɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My laptop went haywire",
+                "The party went haywire after the music got too loud.",
+                "The project went haywire when the team leader quit unexpectedly.",
+                "The toddler went haywire when she saw the ice cream truck.",
+                "The stock market went haywire after the company's CEO resigned."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGF5d2lyZQ&hash=68e7636ed7a1e9a5806c12f33d09cf1471bf3453&lang=en&cache-only=0",
+            "defineEn": "informal or slang terms for mentally irregular",
+            "defineVi": "thuật ngữ không chính thức hoặc tiếng lóng cho bất thường về tinh thần"
+        },
+        {
+            "id": "8086ec6f-ba7c-4ce2-8ebf-8932b733124a",
+            "word": "attitude",
+            "phonetic": "æɾɪtuːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He strikes an attitude of bravery and lonely defiance.",
+                "The make-or-break factor in this delicate post-course period is the attitude of the person's immediate superior.",
+                "He struck an attitude of offended dignity and marched out of the room.",
+                "Their arrogant attitude is what really made my hackles rise.",
+                "Sticks and stones may break my bones, but my positive attitude will never falter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXR0aXR1ZGU&hash=2d700785bc195199d36d0136570585214ef76c1f&lang=en&cache-only=0",
+            "defineEn": "the way a person thinks or feels about something or someone, often affecting their behavior and decisions",
+            "defineVi": "cách một người suy nghĩ hoặc cảm nhận về một cái gì đó hoặc ai đó, thường ảnh hưởng đến hành vi và quyết định của họ"
+        },
+        {
+            "id": "bb94ffc1-46b3-4447-80e6-de02031d5d9d",
+            "word": "underground",
+            "phonetic": "ʌndɚɡɹaʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subway station is underground and has multiple entrances.",
+                "Sinkholes happen when water eats away at underground rock, creating pits and craters.",
+                "The next target meets his end underground, in the coils of the corkscrew plant.",
+                "For one thing earwigs spend the majority of their lives underground.",
+                "A pair of beetles can get an entire rabbit underground in just a few hours."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5kZXJncm91bmQ&hash=ea417f7ee57e7de8c15f448920bc12896a01b064&lang=en&cache-only=0",
+            "defineEn": "a city's railway system that is below the ground, usually in big cities",
+            "defineVi": "hệ thống đường sắt của thành phố nằm dưới mặt đất, thường là ở các thành phố lớn",
+            "hasImg": true
+        },
+        {
+            "id": "7d1ebb73-de74-4c4d-9add-b0d24541496a",
+            "word": "station",
+            "phonetic": "steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The rebels held the radio station.",
+                "The taxi station is just a short walk from my apartment.",
+                "The slow train arrived at the station behind schedule.",
+                "The bus station is located in the city center.",
+                "On the way to the station she passed a cinema."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
+            "defineEn": "a place or building where we can get on or off a train or bus",
+            "defineVi": "một địa điểm hoặc tòa nhà nơi chúng ta có thể lên hoặc xuống xe lửa hoặc xe buýt",
+            "hasImg": true
+        },
+        {
+            "id": "9e870d68-8637-4bc3-8e83-e71437654601",
+            "word": "to hang around",
+            "phonetic": "tə hæŋ ɚɹaʊnd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Due to the impending rain we did not hang around on the summit, but instead made hasty retreat back to the van.",
+                "People would much rather go home and spend time with their nearest and dearest, not hang around their co-workers at some dull office party.",
+                "Well, that guy with the skull juice hangs around my house a lot.",
+                "Medications with long half-lives hang around for a long time and medications and short half-lives kind of wear off quickly.",
+                "Comey hangs around afterward."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaGFuZyBhcm91bmQ&hash=0bc1d10e251be9f45781363c16f0945897a2da29&lang=en&cache-only=0",
+            "defineEn": "to spend time in a particular place or to stay in a place without any specific purpose or activity",
+            "defineVi": "dành thời gian ở một nơi cụ thể hoặc ở lại một nơi mà không có mục đích cụ thể hoặc hoạt động"
+        },
+        {
+            "id": "a72b9d04-81eb-4867-92d1-a434ac70ce4c",
+            "word": "self-conscious",
+            "phonetic": "sɛlfkɑːnʃəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Despite his warm personality, Steve was often self-conscious about his appearance, describing himself as ugly as sin.",
+                "and I feel kind of self-conscious.",
+                "Or self-conscious about what you did or didn’t learn in school.",
+                "So they might literally be so self-conscious that they fail our test of self-consciousness.",
+                "I didn't mean to make you all self-conscious about it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VsZi1jb25zY2lvdXM&hash=ab86bac407b41821601def4aeac36b9831ce573f&lang=en&cache-only=0",
+            "defineEn": "embarrassed or worried about one's appearance or actions",
+            "defineVi": "xấu hổ hoặc lo lắng về ngoại hình hoặc hành động của một người",
+            "hasImg": true
+        },
+        {
+            "id": "d855b508-e349-453c-91f7-bfd039730ed8",
+            "word": "dementia",
+            "phonetic": "dᵻmɛnʃə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After the CEO announced that she had been diagnosed with dementia, her daughter gradually began taking the reins of the company.",
+                "Only a small percentage of older adults actually have dementia.",
+                "There's various aspects of dementia.",
+                "Alzheimer's disease is a form of progressive, irreversible dementia.",
+                "But this can happen with other forms of dementia, too."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVtZW50aWE&hash=ee6c4432f0894554906a4421414ef7e1ed9ce302&lang=en&cache-only=0",
+            "defineEn": "a mental condition that happens when the brain is damaged by disease or injury, causing memory loss and impairing the ability to think or make decisions",
+            "defineVi": "một tình trạng tâm thần xảy ra khi não bị tổn thương do bệnh tật hoặc chấn thương, gây mất trí nhớ và suy giảm khả năng suy nghĩ hoặc đưa ra quyết định"
+        },
+        {
+            "id": "b5f50b83-e573-406c-8223-2e5414a2e189",
+            "word": "to come upon",
+            "phonetic": "tə kʌm əpɑːn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "At that time the war came upon us almost like a thief in the night.",
+                "We came upon a fishing boat.",
+                "And Donald came upon this site which had the Bonwit Teller building on it.",
+                "And Donald came upon this site which had the Bonwit Teller building on it.",
+                "That is, until 1796, when British doctor Edward Jenner came upon milkmaids without the telltale pockmarks of smallpox survivors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29tZSB1cG9u&hash=261e924ba23b26f3881992ab4746780ceaf1722d&lang=en&cache-only=0",
+            "defineEn": "find unexpectedly",
+            "defineVi": "thấy bất ngờ"
+        },
+        {
+            "id": "8e84b525-a1d0-4886-8d6e-d3f7784d8e98",
+            "word": "to suffer",
+            "phonetic": "tə sʌfɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He suffered a traumatic brain injury in a car accident.",
+                "When the storm arrived, his house suffered significant damage.",
+                "They've suffered a heart attack, maybe two.",
+                "Britain has suffered a huge brain drain in recent years.",
+                "You planted the seed of greed yourself, now you must suffer the consequences."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3VmZmVy&hash=f86607b6da54b970cb28b841374192d3e5c9feb1&lang=en&cache-only=0",
+            "defineEn": "to have an illness or disease",
+            "defineVi": "để có một bệnh tật hoặc bệnh tật",
+            "hasImg": true
+        },
+        {
+            "id": "6816e611-bace-4b20-876f-4ff41be4e518",
+            "word": "to [answer] (to all|) {one's} prayers",
+            "phonetic": "tʊ ænsɚ tʊ ɔːl wʌn bækslæʃ ɛs pɹɛɹz ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gYW5zd2VyIHRvIGFsbCB7b25lJ3N9IHByYXllcnM&hash=00abc2f2938d375d95043446ef2d63d52e73cd8b&lang=en&cache-only=0",
+            "defineEn": "***  to provide what someone hopes or prays for",
+            "defineVi": "*** để cung cấp những gì ai đó hy vọng hoặc cầu nguyện cho"
+        }
+    ]
+}

@@ -1,0 +1,613 @@
+{
+    "id": "672b55e3-1d21-43ec-9c12-27eb527c167d",
+    "title": "The Animal Kingdom",
+    "originalTitle": "Lesson 2",
+    "words": [
+        {
+            "id": "f12d0e2c-07a2-4850-a6e4-957ca844623e",
+            "word": "alligator",
+            "phonetic": "ælᵻɡeɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's an alligator!",
+                "She adores her little alligator pouch.",
+                "And some modern reptiles, like alligators, have keratin sheaths over their osteoderms.",
+                "But there’s a problem with this idea: Alligators.",
+                "It's a little alligator."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxsaWdhdG9y&hash=ec5eb23fc6ad40723b85f91a349204662d52ee07&lang=en&cache-only=0",
+            "defineEn": "a large animal living in both water and on land which has strong jaws, a long tail, and sharp teeth",
+            "defineVi": "một loài động vật lớn sống ở cả dưới nước và trên cạn có bộ hàm khỏe, đuôi dài và hàm răng sắc nhọn",
+            "hasImg": true
+        },
+        {
+            "id": "286a59d4-b022-4c63-b316-d5a0ba233990",
+            "word": "ant",
+            "phonetic": "ænt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Together, the ant colony was greater than the sum of its parts.",
+                "Remember, an ant may destroy a whole dam.",
+                "The kids really have ants in the pants today, so I'm going to take them to the playground.",
+                "And of course, ants wage war.",
+                "Ants communicate their current job via chemicals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW50&hash=53839514638f8168c2da4cc93dd93e055365f49d&lang=en&cache-only=0",
+            "defineEn": "a small insect that lives in a colony",
+            "defineVi": "một loài côn trùng nhỏ sống trong một thuộc địa",
+            "hasImg": true
+        },
+        {
+            "id": "8de8a111-8bbf-49ea-8a4b-2302be4a35ef",
+            "word": "bat",
+            "phonetic": "bæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She made the suggestions entirely off her own bat.",
+                "I learned right off the bat that you can't rely on anything in this business.",
+                "In the darkness, he was blind as a bat, relying on his memory to navigate his own home.",
+                "You can't expect to be accepted in a new town right off the bat.",
+                "Righ off the bat, you need to boil the water and add some salt to it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmF0&hash=4147aa6df285da69481cbec7bb1bdcf271413692&lang=en&cache-only=0",
+            "defineEn": "a small flying creature that comes out at night",
+            "defineVi": "một sinh vật bay nhỏ xuất hiện vào ban đêm",
+            "hasImg": true
+        },
+        {
+            "id": "ef403782-421c-40b8-b828-66b4046e52a8",
+            "word": "rat",
+            "phonetic": "ɹæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They ratted on the deal.",
+                "The news reporter ratted out the people who were involved with the scandal.",
+                "Someone ratted us out to the police.",
+                "They quit the rat race in order to live a simple life.",
+                "Where I come from, you don't rat on your friends."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmF0&hash=b23ce0e5d8273a9c0208df072d816f0eae33d452&lang=en&cache-only=0",
+            "defineEn": "a large mouse-like animal with a long tail, which spreads diseases",
+            "defineVi": "một loài động vật giống chuột lớn có đuôi dài, lây lan bệnh tật",
+            "hasImg": true
+        },
+        {
+            "id": "9fb65885-247a-4bea-a4a2-21268762636c",
+            "word": "wolf",
+            "phonetic": "wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hunger drives the wolf out of the wood.",
+                "He's a wolf in lamb's clothing.",
+                "We all met that wolf in sheep's clothing I guess at least once a life.",
+                "He has cried wolf so many times that people have stopped trusting him.",
+                "This keeps the wolves from the door and allows individuals time to sort themselves out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
+            "defineEn": "a big and wild animal from the same family as dogs that hunts for food in groups",
+            "defineVi": "một loài động vật lớn và hoang dã cùng họ với chó săn tìm thức ăn theo nhóm",
+            "hasImg": true
+        },
+        {
+            "id": "1c46411c-b8d5-4b65-a63f-3a27f252336a",
+            "word": "turtle",
+            "phonetic": "tɜːɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Picturing myself as a skilled home cook, I started making turtle bean sandwiches.",
+                "Just as a turtle retreats into its shell for protection, the turtle bean provides a nutritious and hearty meal.",
+                "The turtle bean's dark and glossy appearance, resembling the shell of a turtle.",
+                "Just as a turtle retreats into its shell for protection, the turtle bean provides a nutritious and hearty meal.",
+                "The turtle bean's dark and glossy appearance, resembling the shell of a turtle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHVydGxl&hash=b6d2f1b30204fccf50f6ae1b6d766f995fc0d55e&lang=en&cache-only=0",
+            "defineEn": "an animal that has a hard shell around its body and lives mainly in water",
+            "defineVi": "một loài động vật có lớp vỏ cứng bao quanh cơ thể và sống chủ yếu dưới nước",
+            "hasImg": true
+        },
+        {
+            "id": "ea1ccef3-74c2-43d8-ae3d-90b1ff9a6493",
+            "word": "goldfish",
+            "phonetic": "ɡoʊldfɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The goldfish in the bowl was swimming around happily.",
+                "My grandmother used to say that dying is as natural as living as a way of comforting me when my pet goldfish passed away.",
+                "My kids love Goldfish.",
+                "- They're Goldfish.",
+                "Then, they tested those predictions on free-swimming goldfish. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
+            "defineEn": "a small red or orange fish often kept as a pet",
+            "defineVi": "một con cá nhỏ màu đỏ hoặc cam thường được giữ như một con vật cưng",
+            "hasImg": true
+        },
+        {
+            "id": "c225844d-3c83-49ed-8b89-720a8da2c908",
+            "word": "bull",
+            "phonetic": "bʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Quit milking the bull and do as I say instead.",
+                "She decided to take the bull by the horns and try to solve the problem without any further delay.",
+                "Don't tell him you're a vegetarian - it's like a red rag to a bull.",
+                "You do realize that bringing your new girlfriend to your ex-wife's house is like a red flag to a bull, right?",
+                "The high share price does not deter bulls."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVsbA&hash=3b62dc9fcab682ee86b24aa98b3571c0f21c5f09&lang=en&cache-only=0",
+            "defineEn": "any male member of the cow family",
+            "defineVi": "bất kỳ thành viên nam nào của gia đình bò",
+            "hasImg": true
+        },
+        {
+            "id": "b781694f-0687-4090-9943-619842f3c186",
+            "word": "chimpanzee",
+            "phonetic": "tʃɪmpɐnziː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Then chimpanzees further split into a separate species, the Bonobos.",
+                "This chimpanzee stumbles across a windfall of overripe plums.",
+                "Yeah, chimpanzees are frugivores.",
+                "Humans and chimpanzees split from their last shared ancestor about three days ago!",
+                "Our friend Dino the cuckoo bird sent Squeaks this toy chimpanzee the other day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbXBhbnplZQ&hash=f0279f4411b14199c5fff216b403024b3394d360&lang=en&cache-only=0",
+            "defineEn": "an intelligent ape, with mainly black fur, which has no tail and is native to the forests of western and central Africa",
+            "defineVi": "một loài vượn thông minh, có bộ lông chủ yếu là màu đen, không có đuôi và có nguồn gốc từ các khu rừng ở phía tây và trung tâm châu Phi",
+            "hasImg": true
+        },
+        {
+            "id": "e764b0e4-02f0-4096-9d0c-7899a0757c1f",
+            "word": "donkey",
+            "phonetic": "dɔŋki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I have talked the hind leg off a donkey.",
+                "I've been a vegetarian for donkey's years.",
+                "She's been in the same job for donkey's years.",
+                "You are unusually communicative, to the point of talking the hind legs off a donkey.",
+                "The professor may have a wealth of academic credentials, but a donkey that carries a lot of books is not necessarily learned - true expertise comes from experience and practical application."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9ua2V5&hash=797ffc28bb73d3530127b734cbda3c2ccb730a74&lang=en&cache-only=0",
+            "defineEn": "an animal that is like a horse but has shorter legs and longer ears, and we use for carrying things and riding",
+            "defineVi": "một con vật giống như ngựa nhưng có chân ngắn hơn và tai dài hơn, và chúng tôi sử dụng để mang đồ và cưỡi",
+            "hasImg": true
+        },
+        {
+            "id": "1aabe502-d2f4-4bde-8765-0136ac522fa5",
+            "word": "giraffe",
+            "phonetic": "dʒᵻɹæf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the zoo, you can see various animals like giraffes, zebras, and monkeys.",
+                "It was head over heels for a stuffed giraffe in South Kensington this morning for upside down was the only way the half ton exhibit would go in through the doors of the Natural History Museum.",
+                "Africa is known for its diverse wildlife, including elephants, lions, and giraffes.",
+                "Close behind elephants are giraffes.",
+                "You see the giraffe?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lyYWZmZQ&hash=a9b94e44e1cc4accd0fbe2aed659fb014ada71db&lang=en&cache-only=0",
+            "defineEn": "a tall animal with a very long neck and long legs that has brown spots on its yellow fur",
+            "defineVi": "một con vật cao với cái cổ rất dài và đôi chân dài có những đốm nâu trên bộ lông màu vàng của nó",
+            "hasImg": true
+        },
+        {
+            "id": "db4377b8-1147-470c-84c0-20d492db9607",
+            "word": "gorilla",
+            "phonetic": "ɡɚɹɪlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Across the Atlantic, deforestation in Ituri in the Congo Basin, the world’s second largest expanse of equatorial rainforest, is endangering the mountain gorilla.",
+                "It also has a gorilla glass screen.",
+                "And the infant gorillas are very playful, just like humans.",
+                "Did you notice the gorilla earlier?",
+                "Our close relatives, gorillas, have it as well to an even larger extent."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29yaWxsYQ&hash=010537f173750599bb324ab399953e652cc85767&lang=en&cache-only=0",
+            "defineEn": "an African ape which has a large head and short neck that looks like a monkey with no tail",
+            "defineVi": "một con vượn châu Phi có đầu to và cổ ngắn trông giống như một con khỉ không có đuôi",
+            "hasImg": true
+        },
+        {
+            "id": "83f2e284-3d8e-4b6d-b11b-52e75acba453",
+            "word": "rooster",
+            "phonetic": "ɹuːstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My oldest brother, 51, his name is Rooster.",
+                "He's Rooster.",
+                "And people would call him Rooster.",
+                "It's a Rastafarian rooster.",
+                "Rooster - \"Don't forget to breathe little yogis!\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9vc3Rlcg&hash=2b1044ae06e241ce5e7590853b514cbb3a967077&lang=en&cache-only=0",
+            "defineEn": "an adult male chicken",
+            "defineVi": "một con gà đực trưởng thành",
+            "hasImg": true
+        },
+        {
+            "id": "a5bdebe9-46ee-45f1-9e7f-410e99922203",
+            "word": "kangaroo",
+            "phonetic": "kæŋɡɐɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The kangaroo was making mincemeat of him.",
+                "The kangaroo can jump very far with its powerful hind legs.",
+                "The kangaroo is a unique animal found in Australia known for its ability to hop.",
+                "The baby kangaroo, called a joey, stays in its mother's pouch for several months.",
+                "So are kangaroos, koala bears, wombats, possums, things like that."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2FuZ2Fyb28&hash=b95e1128da5fdd6cd56d46d053220f11e7fffc31&lang=en&cache-only=0",
+            "defineEn": "a large Australian animal with a long tail and two strong legs that moves by leaping, female of which can carry its babies in its stomach pocket which is called a pouch",
+            "defineVi": "một loài động vật lớn của Úc có đuôi dài và hai chân khỏe di chuyển bằng cách nhảy, con cái có thể mang con trong túi bụng được gọi là túi",
+            "hasImg": true
+        },
+        {
+            "id": "ca119951-ff4b-4a8c-9701-ad3a3468c536",
+            "word": "snail",
+            "phonetic": "sneɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The old man was driving along the road at a snail's pace.",
+                "Snails are hermaphrodites.",
+                "Snails that aren’t infected reproduce super quickly.",
+                "[Woman] Are you guys seriously doing shots out of the snail?",
+                "Garden snails have done pretty well in spite of hungry humans, though."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25haWw&hash=172d68964d3aba03bcf998295d102b94208ea0b3&lang=en&cache-only=0",
+            "defineEn": "a small, soft creature which carries a hard shell on its back and moves very slowly",
+            "defineVi": "một sinh vật nhỏ, mềm mang một cái mai cứng trên lưng và di chuyển rất chậm",
+            "hasImg": true
+        },
+        {
+            "id": "9bb05599-06ac-463f-963e-0ec3ed158515",
+            "word": "lizard",
+            "phonetic": "lɪzɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So, from their slow start in the Triassic to the start of their rise in the Cretaceous, and their eventual explosion ever since, lizards have really played the long game.",
+                "Shingleback lizards also have a tough pregnancy.",
+                "These reptiles were true lizards, too.",
+                "Regenerated lizard tails also regrow skeletal muscle.",
+                "But crocodilians’ closest living relatives are not lizards."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl6YXJk&hash=311713b552fefde2ca18b4902d0ee7e13c7505b7&lang=en&cache-only=0",
+            "defineEn": "a group of animals with a long body and tail, a rough skin and two pairs of short legs",
+            "defineVi": "một nhóm động vật có thân và đuôi dài, da sần sùi và hai cặp chân ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "a801e21e-cd06-4a4d-933d-ebbf054a3162",
+            "word": "guinea pig",
+            "phonetic": "ɡɪni pɪɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Guinea pigs should get a high-quality guinea pig pellet.",
+                "Guinea pigs are naturally really nervous animals.",
+                "He's our guinea pig.",
+                "They eat guinea pigs in South America.",
+                "Well, what are guinea pigs?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3VpbmVhIHBpZw&hash=0fab9975f7e1edb07fc6685d14b6ea6a1b252961&lang=en&cache-only=0",
+            "defineEn": "a small furry animal with rounded ears, short legs and no tail, which is often kept as a pet or for research",
+            "defineVi": "một con vật lông nhỏ với đôi tai tròn, chân ngắn và không có đuôi, thường được nuôi làm thú cưng hoặc để nghiên cứu",
+            "hasImg": true
+        },
+        {
+            "id": "a4ea91ce-0a02-4ce5-a017-e991970ccaac",
+            "word": "octopus",
+            "phonetic": "ɑːktəpəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For one thing, octopuses have eight arms!",
+                "Octopuses are well known for their skills at camouflage.",
+                "The plural of octopus is octopuses.",
+                "Octopuses sure are complicated creatures!",
+                "And an octopus has neurons, too!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2N0b3B1cw&hash=6c279c53b6f147b928d3281ba6646462febd314c&lang=en&cache-only=0",
+            "defineEn": "a sea creature with eight, long arms and a soft round body with no internal shell",
+            "defineVi": "một sinh vật biển có tám cánh tay dài và thân hình tròn mềm không có vỏ bên trong",
+            "hasImg": true
+        },
+        {
+            "id": "f009e991-c570-4986-ab6f-9a135d88c01d",
+            "word": "salmon",
+            "phonetic": "sæmən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The waiter served them both with salmon poached in white wine.",
+                "The chef brushed a sweet glaze made of honey and soy sauce onto the grilled salmon.",
+                "The seafood market offered fresh and flaky salmon fillets.",
+                "The chef carefully grated some mace over his grilled salmon.",
+                "Salmon is an excellent choice for a simple and healthy grilled seafood dinner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
+            "defineEn": "a silver-colored fish with pink flesh that people eat as food",
+            "defineVi": "một con cá màu bạc với thịt màu hồng mà mọi người ăn làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "7df60464-85a3-4ded-a246-70f2408bd095",
+            "word": "lobster",
+            "phonetic": "lɑːbstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We enjoyed lobster tails with creamy Bearnaise sauce.",
+                "She prepared a delicious lobster dish by frying it in clarified butter until it turned a perfect shade of golden brown.",
+                "He savored the succulent lobster tail with melted butter, enjoying every bite.",
+                "She ordered a whole lobster and cracked it open to reveal the tender meat inside.",
+                "Lobsters are arthropods, in the same large group as insects."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
+            "defineEn": "a sea animal with a shell, two strong pincers or claws and eight legs, eaten as food",
+            "defineVi": "một loài động vật biển có vỏ, hai càng hoặc móng vuốt khỏe và tám chân, ăn làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "83c06c13-e827-4214-920f-5a565c0bd984",
+            "word": "swan",
+            "phonetic": "swɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Wow, all his geese are swans, all right!",
+                "We saw a beautiful white swan swimming in the lake.",
+                "Not to be mean, but all George's geese are swans if he really thinks he's getting the promotion.",
+                "Now the children are near the swans.",
+                "Things like black swans, wombats, platypus, and echidnas were seen by Europeans for the first time in the 19th century."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3dhbg&hash=20faa5f3f361fbb17bfa73fe6899f77267b86e2b&lang=en&cache-only=0",
+            "defineEn": "a large bird that is normally white, has a long neck and lives on or around water",
+            "defineVi": "một loài chim lớn thường có màu trắng, cổ dài và sống trên hoặc xung quanh mặt nước",
+            "hasImg": true
+        },
+        {
+            "id": "1cd536a3-fccb-4a15-8a4b-859ec21f2fad",
+            "word": "cobra",
+            "phonetic": "koʊbɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "COBRA dates back to 1986.",
+                "The package also has 100% COBRA subsidy through September.",
+                "Pulling through for cobra.",
+                "But some species also go after cobras, mambas, and other venomous snakes.",
+                "i have a couple questions on cobra"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29icmE&hash=cdab7bb4a740702ad74d1073c2bd48e6bed456e8&lang=en&cache-only=0",
+            "defineEn": "a highly venomous kind of snake that can flatten its neck when in danger or to scare other animals",
+            "defineVi": "một loại rắn cực độc có thể làm phẳng cổ khi gặp nguy hiểm hoặc để dọa các động vật khác",
+            "hasImg": true
+        },
+        {
+            "id": "67ca2776-c3f3-4b6f-b297-076697ce7850",
+            "word": "raccoon",
+            "phonetic": "ɹækuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Take raccoons.",
+                "Raccoons are trouble makers. ",
+                "Raccoons can also spread demodectic mange to dogs. ",
+                "Even worse, raccoons can transmit diseases like canine distemper and, in rare cases, rabies.",
+                "For instance, in one park in Fort Lauderdale, Florida, researchers counted roughly 238 raccoons per square kilometer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFjY29vbg&hash=355a7b341109335d9aa682c30269f72f8e567095&lang=en&cache-only=0",
+            "defineEn": "a small animal with a thick tail, gray-brown fur and black marks on its face",
+            "defineVi": "một con vật nhỏ có đuôi dày, lông màu nâu xám và có vết đen trên mặt",
+            "hasImg": true
+        },
+        {
+            "id": "3eaccee7-4147-4e27-9418-47f853c62c28",
+            "word": "zebra",
+            "phonetic": "ziːbɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the zoo, you can see various animals like giraffes, zebras, and monkeys.",
+                "Take zebras, for instance.",
+                "I want a tank zebra.",
+                "But zebras are also different from horses in some important ways.",
+                "It’s a zebra!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=emVicmE&hash=a15024fa5bb6c038497e29c410a8d2f80110bc79&lang=en&cache-only=0",
+            "defineEn": "a wild animal that lives in Africa, which is like a horse, with black-and-white stripes on its body",
+            "defineVi": "một loài động vật hoang dã sống ở châu Phi, giống như một con ngựa, có sọc đen trắng trên cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "068d89a7-d88a-41c1-af18-943a2654bfbf",
+            "word": "seal",
+            "phonetic": "siːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My lips are sealed.",
+                "The bill has the President's seal of approval.",
+                "Fans have given the band's new song their seal of approval.",
+                "My student had a secret but my lips were sealed.",
+                "With a gentle push, the window closed tightly, sealing out the draft."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VhbA&hash=a55579c8abf3ef776555e5c235e37a73fca9e927&lang=en&cache-only=0",
+            "defineEn": "a large sea animal that eats fish and lives in coastal areas, its feet are like flippers and is hunted by humans for its fur",
+            "defineVi": "một loài động vật biển lớn ăn cá và sống ở các vùng ven biển, chân của nó giống như chân chèo và bị con người săn lùng để lấy lông",
+            "hasImg": true
+        },
+        {
+            "id": "132c6881-104b-44f0-a60a-1dd9522cf32d",
+            "word": "porcupine",
+            "phonetic": "poːɹkjuːpaɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Porcupines come in 29 different models, or species.",
+                "I also love porcupines.",
+                "Take the porcupine.",
+                "I'm saying porcupine.",
+                "That porcupine is Stinky!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9yY3VwaW5l&hash=7f50b7400d839438b0f478a15955dd3ed764bb9f&lang=en&cache-only=0",
+            "defineEn": "an animal with sharp needle-like parts (called quills) on its body and tail, used for protection",
+            "defineVi": "một con vật có các bộ phận giống như kim sắc nhọn (được gọi là bút lông) trên thân và đuôi, được sử dụng để bảo vệ",
+            "hasImg": true
+        },
+        {
+            "id": "1fbd156f-32de-4626-ad0b-f62b8bc817f1",
+            "word": "turkey",
+            "phonetic": "tɜːki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lingonberry sauce perfectly complemented the roasted turkey at Thanksgiving dinner.",
+                "The street vendor served flavorful turkey legs.",
+                "Turkey treads a tightrope in its approach to Russia.",
+                "She prefers boneless turkey breast for its ease of slicing.",
+                "His family is as poor as a Job's turkey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
+            "defineEn": "a large bird that has a bald head and is often kept for its meat, which is eaten especially at Thanksgiving in the US",
+            "defineVi": "một con chim lớn có cái đầu hói và thường được nuôi để lấy thịt, đặc biệt được ăn vào Lễ tạ ơn ở Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "f5cd023d-6a0c-425b-b3e6-c9c711120d2b",
+            "word": "goose",
+            "phonetic": "ɡuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He roasted a plump goose for his family's Thanksgiving dinner.",
+                "You sent me on a wild goose chase.",
+                "She really cooked my goose today, when she told to the boss that I had come late to work.",
+                "The smart entrepreneur didn't invest in a risky business opportunity offered by a stranger online, remembering that it is a silly goose that comes to a fox's sermon.",
+                "Physicists searching for the hypothetical particle may be on a wild goose chase."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
+            "defineEn": "a waterbird with webbed feet, a long neck, and short bill, which is like a large duck",
+            "defineVi": "một loài chim nước có chân có màng, cổ dài và mỏ ngắn, giống như một con vịt lớn",
+            "hasImg": true
+        },
+        {
+            "id": "22b8b151-9c33-48fb-9989-eef1cf21d1f3",
+            "word": "crow",
+            "phonetic": "kɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The author had to eat crow and rewrite their manuscript after receiving harsh criticism from their editor.",
+                "The scientist had to eat crow and revise their theory after new evidence contradicted their original findings.",
+                "The celebrity had to eat crow and apologize for her offensive comments after facing backlash from the public and media.",
+                "The company had to eat crow and apologize to its customers after a major data breach exposed their personal information.",
+                "The politician had to eat crow and retract his statements after they were proven to be false."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Jvdw&hash=d9f9b9cd83bffc8ae57e1aa024af0dd994cfe776&lang=en&cache-only=0",
+            "defineEn": "a large bird with black feathers and a loud unpleasant call",
+            "defineVi": "một con chim lớn có lông đen và kêu to khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "2561d10a-4d35-4fff-9cd2-bf71e2b2661e",
+            "word": "pigeon",
+            "phonetic": "pɪdʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The prime minister's casual remarks about the role of ethnicity in unemployment numbers has predictably put the cat among the pigeons on both sides of the political spectrum.",
+                "As he explored the local market, he discovered a bag of pigeon pea snacks.",
+                "I think he's a stool pigeon for the management.",
+                "John and Emily are a pigeon pair, with John being the older brother and Emily being the younger sister.",
+                "She added boiled pigeon peas to her favorite salad, enjoying their nutty flavor and the contrasting textures they brought to the dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlnZW9u&hash=e3e79f802a57a0a3a75cc88023df093c28b66b3a&lang=en&cache-only=0",
+            "defineEn": "a wild or domestic bird with short legs and a short beak which typically has gray and white feathers",
+            "defineVi": "một loài chim hoang dã hoặc chim nhà có chân ngắn và mỏ ngắn thường có lông màu xám và trắng",
+            "hasImg": true
+        },
+        {
+            "id": "80414045-6511-4edb-a4f7-9ef36c811881",
+            "word": "cricket",
+            "phonetic": "kɹɪkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Crickets usually avoid bodies of water.",
+                "One tiny worm infects crickets.",
+                "Each cricket lays 600 eggs or so.",
+                "Kauai’s crickets became the strong silent type in fewer than 20 generations.",
+                "The crickets here eat a mixture of corn, soy, and some flax."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JpY2tldA&hash=224d9919ad3d1dc625616f0e3a1e8e41b5f67e8d&lang=en&cache-only=0",
+            "defineEn": "a leaping insect, distantly related to grasshoppers, the male of which makes a chirping sound",
+            "defineVi": "một loài côn trùng nhảy, có họ hàng xa với châu chấu, con đực phát ra tiếng kêu",
+            "hasImg": true
+        },
+        {
+            "id": "0cd17bab-8135-44ea-a900-fd5287cb683d",
+            "word": "creature",
+            "phonetic": "kɹiːtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Certain species of fucoid algae serve as habitats for small marine creatures.",
+                "The whale was a big creature that swam in the ocean.",
+                "The monkey's intelligence and adaptability made it a fascinating creature to study.",
+                "That night the little creature did not stop crying and its pitiful little squeak tore at Aggie's heartstrings.",
+                "Reindeer moss, with its tufted form, provides a cozy bed for small creatures seeking shelter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYXR1cmU&hash=b6da05cde5537220a67c75e49f772c2c4d132485&lang=en&cache-only=0",
+            "defineEn": "any living thing that is able to move on its own, such as an animal, fish, etc.",
+            "defineVi": "bất kỳ sinh vật sống nào có thể tự di chuyển, chẳng hạn như động vật, cá, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "1939fcd5-8d2a-4416-9d6a-262a68136f70",
+            "word": "to bite",
+            "phonetic": "tə baɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "By the will of his wife, he bit the bullet.",
+                "The bite had scarcely broken the skin.",
+                "The bite had scarcely broken the skin.",
+                "The street vendor served crispy trotter bites with a tangy dipping sauce at the food market.",
+                "Never bite the hand that feeds you Carol."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
+            "defineEn": "to cut into flesh using the teeth",
+            "defineVi": "để cắt vào thịt bằng cách sử dụng răng",
+            "hasImg": true
+        },
+        {
+            "id": "cbd9b11b-26b3-4839-aa92-763fde7862e8",
+            "word": "poison",
+            "phonetic": "pɔɪzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her blood was found to contain poison.",
+                "It was found that her blood contained poison.",
+                "Prejudice is a poison that divides and conquers the people that are engaged in this fear based, antagonistic way of living.",
+                "Every breath carries poison to the lungs of the survivors.",
+                "The first one is poison."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9pc29u&hash=49a37e39c618158396d23b4bb52cf243da4e8fad&lang=en&cache-only=0",
+            "defineEn": "a deadly substance that can kill or seriously harm if it enters the body",
+            "defineVi": "một chất chết người có thể giết chết hoặc gây hại nghiêm trọng nếu xâm nhập vào cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "5dc01fab-0884-4696-a4a7-3eae54603338",
+            "word": "trap",
+            "phonetic": "tɹæp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He fell into a trap by believing his childhood friend and giving away all of his savings.",
+                "I told you that trap spelled danger for all of us.",
+                "Macbeth falls into their trap and believes that he is safer than he actually is.",
+                "was unaware that I was falling into the trap of toxic positivity.",
+                "One day, she finally catches a sight of him and instead of capturing him, falls into his trap and ends up his prisoner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhcA&hash=e74b145b984a6e73dee43469a83c3b953bd95320&lang=en&cache-only=0",
+            "defineEn": "an object that can be used to catch an animal",
+            "defineVi": "một đối tượng có thể được sử dụng để bắt một con vật",
+            "hasImg": true
+        },
+        {
+            "id": "57cf884a-b3e2-425d-aa59-c3a9842d5a73",
+            "word": "bull shark",
+            "phonetic": "bʊl ʃɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVsbCBzaGFyaw&hash=59775dfa65ad9038c9492a195bed404aac85f02d&lang=en&cache-only=0",
+            "defineEn": "an aggressive type of shark that lives in warm and shallow waters near coastlines",
+            "defineVi": "một loại cá mập hung dữ sống ở vùng nước nông và ấm gần bờ biển",
+            "hasImg": true
+        }
+    ]
+}

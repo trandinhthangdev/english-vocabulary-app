@@ -1,0 +1,506 @@
+{
+    "id": "ea31d5e6-c795-411d-8ad6-698d7d9789b1",
+    "title": "Dieting",
+    "originalTitle": "Dieting",
+    "words": [
+        {
+            "id": "ed73a5de-f296-415a-a466-c1510e25d6cd",
+            "word": "to diet",
+            "phonetic": "tə daɪət ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He followed a strict diet.",
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "We existed on a diet of rice.",
+                "She includes thin slices of celery in her diet.",
+                "They lived frugally off a diet of beans and lentils."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlldA&hash=215ef18e10564233d1ce597d1f86c19cf04c1c7d&lang=en&cache-only=0",
+            "defineEn": "to eat small amounts or particular kinds of food, especially to lose weight",
+            "defineVi": "ăn một lượng nhỏ hoặc các loại thực phẩm cụ thể, đặc biệt là để giảm cân",
+            "hasImg": true
+        },
+        {
+            "id": "9ddf6793-f632-4d7a-8439-6b529a6cba6c",
+            "word": "diabetic diet",
+            "phonetic": "daɪəbɛɾɪk daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlhYmV0aWMgZGlldA&hash=b2e772c3936455d0bc285efa646c76cd1f90cf6d&lang=en&cache-only=0",
+            "defineEn": "a diet designed to help control the symptoms of diabetes",
+            "defineVi": "một chế độ ăn uống được thiết kế để giúp kiểm soát các triệu chứng của bệnh tiểu đường"
+        },
+        {
+            "id": "3d4ade0a-8855-4adf-86b4-a358d89f1b35",
+            "word": "spoon food",
+            "phonetic": "spuːn fuːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3Bvb24gZm9vZA&hash=262ff23352b05d270ca43f275e11928fdecd247c&lang=en&cache-only=0",
+            "defineEn": "a diet that does not require chewing; advised for those with intestinal disorders",
+            "defineVi": "một chế độ ăn kiêng không cần nhai; khuyên dùng cho những người bị rối loạn đường ruột"
+        },
+        {
+            "id": "e8216769-aabd-4368-a093-2cff8d37746f",
+            "word": "spoon food",
+            "phonetic": "sɔft daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3Bvb24gZm9vZA&hash=262ff23352b05d270ca43f275e11928fdecd247c&lang=en&cache-only=0",
+            "defineEn": "a diet that does not require chewing; advised for those with intestinal disorders",
+            "defineVi": "một chế độ ăn kiêng không cần nhai; khuyên dùng cho những người bị rối loạn đường ruột"
+        },
+        {
+            "id": "4afc9c5c-1dfb-45f2-893a-5ec90d06c8ba",
+            "word": "staple diet",
+            "phonetic": "steɪpəl daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RhcGxlIGRpZXQ&hash=912fde58fb4a4d7d950fd10948c634b7ea32be1d&lang=en&cache-only=0",
+            "defineEn": "the food normally eaten by a person or an animal",
+            "defineVi": "thức ăn thường được ăn bởi một người hoặc một con vật",
+            "hasImg": true
+        },
+        {
+            "id": "da162c13-6c2e-4b43-bcc4-39feee7ff584",
+            "word": "macrobiotic diet",
+            "phonetic": "mækɹəbaɪɑːɾɪk daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFjcm9iaW90aWMgZGlldA&hash=5ea720bec0b1ae46e9f35d4bc4bc0e03b28dda68&lang=en&cache-only=0",
+            "defineEn": "a diet consisting chiefly of beans and whole grains",
+            "defineVi": "một chế độ ăn uống bao gồm chủ yếu là đậu và ngũ cốc nguyên hạt"
+        },
+        {
+            "id": "2ac9ea8f-8f56-4d61-a987-b4ac2e0ea413",
+            "word": "clean eating",
+            "phonetic": "kliːn iːɾɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In 2019, it means clean eating, the latest fitness fads and the no-makeup look, which actually does involve some makeup."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW4gZWF0aW5n&hash=2af3c638890923b5f7874a41c7cc2ee0bfb5b95b&lang=en&cache-only=0",
+            "defineEn": "a type of diet in which one avoids eating processed food to become healthier",
+            "defineVi": "một loại chế độ ăn kiêng trong đó một người tránh ăn thực phẩm chế biến để trở nên khỏe mạnh hơn",
+            "hasImg": true
+        },
+        {
+            "id": "d6f7561e-0be8-4677-b1a2-3bb5febc950b",
+            "word": "calorie",
+            "phonetic": "kælɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He decided to use saccharin in his tea instead of sugar to reduce his calorie intake.",
+                "Wax beans are low in calories and fat, making them a nutritious addition to a balanced diet.",
+                "The low-calorie salad dressing used a bulking agent to create a satisfying texture without adding excess calories.",
+                "The calories in, calories out.",
+                "Each tablespoon of olive oil has 128 calories."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Fsb3JpZQ&hash=ded2ff96e4106a5813cb1185c5ff16190f4f1bf6&lang=en&cache-only=0",
+            "defineEn": "the unit used to measure the amount of energy that a food produces",
+            "defineVi": "đơn vị được sử dụng để đo lượng năng lượng mà thực phẩm tạo ra",
+            "hasImg": true
+        },
+        {
+            "id": "3f898192-b4eb-468a-8aad-2fed2dbc2ae7",
+            "word": "balanced diet",
+            "phonetic": "bælənst daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFsYW5jZWQgZGlldA&hash=e7602e054b19a308f9e8bd77e59d5341413dda2b&lang=en&cache-only=0",
+            "defineEn": "a diet that contains adequate amounts of all the necessary nutrients required for healthy growth and activity",
+            "defineVi": "một chế độ ăn uống có chứa đủ lượng tất cả các chất dinh dưỡng cần thiết cần thiết cho sự tăng trưởng và hoạt động lành mạnh"
+        },
+        {
+            "id": "d3215885-a227-4153-bbc5-2d7e2750450b",
+            "word": "appetite",
+            "phonetic": "æpɪtaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It'll give you an appetite.",
+                "Delicious smells from the kitchen whetted our appetites.",
+                "Kim may be tiny, but she has a big appetite, so don't be surprised if she eats you out of house and home.",
+                "After eating that questionable street food, Sarah ended up riding the porcelain bus all night, regretting her adventurous appetite.",
+                "Max had been feeling down lately, and as a result, he was off his food and had little appetite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwZXRpdGU&hash=999638aec5315eb2becd865f433d1e32462313d9&lang=en&cache-only=0",
+            "defineEn": "the feeling of wanting food",
+            "defineVi": "cảm giác muốn ăn",
+            "hasImg": true
+        },
+        {
+            "id": "cbd8417d-dd30-427f-99a7-11b2118ee4ae",
+            "word": "nutrient",
+            "phonetic": "njuːtɹiənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Including homogenized milk in your diet provides essential nutrients like calcium and vitamin D.",
+                "He added Swiss chard to his smoothie for an extra boost of nutrients.",
+                "We added cauliflower to our vegetable soup for an extra dose of nutrients.",
+                "The heart pumps blood throughout the body to provide oxygen and nutrients.",
+                "Breakfast plays an important role as it provides the body with the necessary energy and nutrients to start the day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnV0cmllbnQ&hash=7163cc0400f04ee92921afe0d13578909e769c11&lang=en&cache-only=0",
+            "defineEn": "a substance such as a vitamin, protein, fat, etc. that is essential for good health and growth",
+            "defineVi": "một chất như vitamin, protein, chất béo, vv cần thiết cho sức khỏe tốt và tăng trưởng",
+            "hasImg": true
+        },
+        {
+            "id": "e860b2dc-976c-41e6-af74-8fc488e8abb8",
+            "word": "body mass index",
+            "phonetic": "bɑːdi mæs ɪndɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym9keSBtYXNzIGluZGV4&hash=c19a6ce498e56178eb9f3049df4e1758849f639e&lang=en&cache-only=0",
+            "defineEn": "a measure of someone's weight in relation to height; to calculate one's BMI, multiply one's weight in pounds and divide that by the square of one's height in inches; overweight is a BMI greater than 25; obese is a BMI greater than 30",
+            "defineVi": "thước đo cân nặng của ai đó liên quan đến chiều cao; để tính chỉ số BMI của một người, hãy nhân trọng lượng của một người theo đơn vị pound và chia số đó cho bình phương chiều cao của một người theo inch; thừa cân là chỉ số BMI lớn hơn 25; béo phì là chỉ số BMI lớn hơn 30"
+        },
+        {
+            "id": "5378b4f1-8a20-427f-8f41-546eb18a0773",
+            "word": "vegetarian",
+            "phonetic": "vɛdʒɪtɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend prefers a vegetarian sandwich with avocado and sprouts.",
+                "My vegetarian friend often uses beans as a filling for vegetarian tacos.",
+                "My vegetarian friend enjoyed a nourishing adzuki bean grain bowl for lunch.",
+                "The vegetarian menu offers a delicious black bean burrito as a protein-packed option.",
+                "The restaurant offered a vegetarian dish with a mix of seasonal vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVnZXRhcmlhbg&hash=f9bfdbeeb562e7b0f708430d13c745efe7cd116d&lang=en&cache-only=0",
+            "defineEn": "someone who avoids eating meat or fish",
+            "defineVi": "một người tránh ăn thịt hoặc cá",
+            "hasImg": true
+        },
+        {
+            "id": "70b6af78-ad2b-45af-aee3-437440425427",
+            "word": "lacto-vegetarian",
+            "phonetic": "læktoʊvɛdʒɪtɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGFjdG8tdmVnZXRhcmlhbg&hash=09c89a0ac7b71cd98c5f013e8f26a33d502414fa&lang=en&cache-only=0",
+            "defineEn": "someone who does not eat fish, eggs, or meat, but consumes dairy products",
+            "defineVi": "một người không ăn cá, trứng hoặc thịt, nhưng tiêu thụ các sản phẩm từ sữa"
+        },
+        {
+            "id": "e7719f5b-d938-4052-8505-79b62d54b4b0",
+            "word": "vegan",
+            "phonetic": "viːɡən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As a vegan, she substituted almond butter for traditional dairy-based spreads.",
+                "Some vegan cheeses use algae-based ingredients to achieve a creamy texture and unique flavor.",
+                "As a vegan, she often used tahini as a substitute for butter or cream in her recipes.",
+                "As a vegan alternative, they used graham flour to create a plant-based pie crust.",
+                "I tried a vegan cookie made with plant-based ingredients and loved its taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVnYW4&hash=ee7c92beae078fde3192ec3d25157019fc534d4a&lang=en&cache-only=0",
+            "defineEn": "someone who does not consume or use anything that is produced from animals, such as meat, milk, or eggs",
+            "defineVi": "một người không tiêu thụ hoặc sử dụng bất cứ thứ gì được sản xuất từ động vật, chẳng hạn như thịt, sữa hoặc trứng",
+            "hasImg": true
+        },
+        {
+            "id": "8730ea57-e1cd-42d7-89c3-f935a73664c0",
+            "word": "pescatarian",
+            "phonetic": "pɛskɐtɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Joe Biden is polling surprisingly well among libertarians and even better among pescatarians."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVzY2F0YXJpYW4&hash=70b75eee6df0fd13c34bac30abe7ffd8f01e8785&lang=en&cache-only=0",
+            "defineEn": "a person who abstains from consuming meat but still includes fish and other seafood in their diet",
+            "defineVi": "một người kiêng ăn thịt nhưng vẫn bao gồm cá và hải sản khác trong chế độ ăn uống của họ"
+        },
+        {
+            "id": "4ed3940e-28e8-494a-8ba1-bb3dceeff9d7",
+            "word": "flexitarian",
+            "phonetic": "flɛksɪtɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But, as the flexitarian demographic continues to grow, it means, more cows might stay in the pasture."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxleGl0YXJpYW4&hash=be6900e31b09be93e6c3b26c1e895f811e2166ca&lang=en&cache-only=0",
+            "defineEn": "a person who primarily follows a plant-based diet but occasionally includes meat or other animal products in their meals",
+            "defineVi": "một người chủ yếu tuân theo chế độ ăn uống dựa trên thực vật nhưng đôi khi bao gồm thịt hoặc các sản phẩm động vật khác trong bữa ăn của họ"
+        },
+        {
+            "id": "830e9266-232f-4572-bdfc-e9739dfb085a",
+            "word": "fruitarian",
+            "phonetic": "fɹuːtɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXRhcmlhbg&hash=ecef2556908f4491a837fc0fe0e08b5e9ef0a6e2&lang=en&cache-only=0",
+            "defineEn": "a person who primarily consumes fruits, nuts, seeds, and other plant-based foods",
+            "defineVi": "một người chủ yếu ăn trái cây, quả hạch, hạt và các loại thực phẩm có nguồn gốc thực vật khác"
+        },
+        {
+            "id": "215e2b4b-2250-4d89-b792-b763994c3d5b",
+            "word": "dietician",
+            "phonetic": "daɪətɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Use a dietician or a nutritionist.",
+                "Now we usually don't like our dieticians the way we like our therapists.",
+                "Narrator: That's registered dietician Marion Groetch.",
+                "Interestingly enough, a recent survey of doctors, dieticians and physical trainers revealed that even the experts in fat loss didn't know the answer.",
+                "Talk to your doctor, talk to your dietician."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlldGljaWFu&hash=256f8b867cbb33b75f5498c91d16948d1e62d8ed&lang=en&cache-only=0",
+            "defineEn": "someone who is an expert in the field of diet and nutrition",
+            "defineVi": "một người là một chuyên gia trong lĩnh vực ăn kiêng và dinh dưỡng",
+            "hasImg": true
+        },
+        {
+            "id": "367b31c4-2a8b-4567-9278-9adb99567e04",
+            "word": "low-carb diet",
+            "phonetic": "loʊkɑːɹb daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They discovered sucralose as a great alternative to sugar while following their low-carb diet plan.",
+                "At the height of it’s fame, 1 in 11 american adults reported themselves as following a low-carb diet.",
+                "People have been surviving on high-fat, low-carb diets for centuries.",
+                "Low-carb diets might make you think you’re losing weight quickly because stored carbs in your body bind to water, so losing those comes with a reduction in water weight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG93LWNhcmIgZGlldA&hash=2a458e9eae82c0b62eee7ad4dbd6473928d75e0c&lang=en&cache-only=0",
+            "defineEn": "a diet containing a small amount of carbohydrates",
+            "defineVi": "một chế độ ăn uống có chứa một lượng nhỏ carbohydrate",
+            "hasImg": true
+        },
+        {
+            "id": "a21711f7-8104-4dbd-9566-5c04ccaadaf5",
+            "word": "low-fat diet",
+            "phonetic": "loʊfæt daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Low-fat diets were popular during the 1980s and '90s, pushing the food industry to create low-fat products.",
+                "Meanwhile, the group that switched to a high-fiber, low-fat diet had the opposite result."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG93LWZhdCBkaWV0&hash=e7ea2777224988a2409a0fc7d2f517c5a1752b28&lang=en&cache-only=0",
+            "defineEn": "a diet containing a small amount of fat",
+            "defineVi": "một chế độ ăn uống có chứa một lượng nhỏ chất béo"
+        },
+        {
+            "id": "864461bc-d503-451b-8b83-cc77280e25f1",
+            "word": "gluten-free diet",
+            "phonetic": "ɡluːʔn̩fɹiː daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A gluten-free diet typically helps with these symptoms.",
+                "The most effective treatment is a gluten-free diet, which helps heal intestinal damage and improve symptoms.",
+                "Diagnosis is based on the development of symptoms, the absence of wheat allergy and celiac disease, and subsequent improvement on a gluten-free diet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2x1dGVuLWZyZWUgZGlldA&hash=c8c776c673c80546d77fd6f73a45ca83044c8dcc&lang=en&cache-only=0",
+            "defineEn": "a diet containing no amount of gluten",
+            "defineVi": "một chế độ ăn uống không chứa lượng gluten"
+        },
+        {
+            "id": "67e4ccbd-074e-4e49-b07f-173a3388d91a",
+            "word": "low-calorie diet",
+            "phonetic": "loʊkælɚɹi daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bG93LWNhbG9yaWUgZGlldA&hash=ef64a0dfccaa5c4afff76b87dcdbd20d0f9538a7&lang=en&cache-only=0",
+            "defineEn": "a diet that is low on calories",
+            "defineVi": "một chế độ ăn ít calo"
+        },
+        {
+            "id": "1e68fa90-c67e-417f-aaf6-d58173a8185f",
+            "word": "fad diet",
+            "phonetic": "fæd daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFkIGRpZXQ&hash=41d4944764f1d22cc70d2688a9771e95b301c09f&lang=en&cache-only=0",
+            "defineEn": "a reducing diet that enjoys temporary popularity",
+            "defineVi": "một chế độ ăn giảm được phổ biến tạm thời"
+        },
+        {
+            "id": "23098f71-86cd-4046-a91b-96b728edc713",
+            "word": "the Atkins Diet",
+            "phonetic": "ðɪ ætkɪnz daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Instead, it now had the added reputation of being a diet food which only increased in the early 2000s as Jell-O pivoted to promoting it's sugar free products to take advantage of the Atkins diet craze."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlIEF0a2lucyBEaWV0&hash=5eaf06b6949201f7022b358a32fd13838fbc82bf&lang=en&cache-only=0",
+            "defineEn": "a diet plan which is high in protein and fat but very low in carbohydrates, developed by Dr. Robert Atkins",
+            "defineVi": "một kế hoạch ăn kiêng giàu protein và chất béo nhưng rất ít carbohydrate, được phát triển bởi Tiến sĩ Robert Atkins"
+        },
+        {
+            "id": "5513c783-59d3-47d7-8e85-8d5687f16c09",
+            "word": "high-vitamin diet",
+            "phonetic": "haɪvaɪɾəmɪn daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGlnaC12aXRhbWluIGRpZXQ&hash=dcf4e268a0b921989357fe3d7f74324210cc7f5a&lang=en&cache-only=0",
+            "defineEn": "a diet designed to patients with vitamin deficiencies",
+            "defineVi": "một chế độ ăn uống được thiết kế cho bệnh nhân bị thiếu vitamin"
+        },
+        {
+            "id": "e8ca0722-4181-4be0-b7ed-8e9c83339d3b",
+            "word": "high-vitamin diet",
+            "phonetic": "vaɪɾəmɪndᵻfɪʃənsi daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGlnaC12aXRhbWluIGRpZXQ&hash=dcf4e268a0b921989357fe3d7f74324210cc7f5a&lang=en&cache-only=0",
+            "defineEn": "a diet designed to patients with vitamin deficiencies",
+            "defineVi": "một chế độ ăn uống được thiết kế cho bệnh nhân bị thiếu vitamin"
+        },
+        {
+            "id": "438bb14e-4b1c-459d-83c8-9502f238898a",
+            "word": "high-protein diet",
+            "phonetic": "haɪpɹoʊtiːn daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGlnaC1wcm90ZWluIGRpZXQ&hash=919c80ddbe53ee9a654cbafa56ce9a1b3f6f1c6d&lang=en&cache-only=0",
+            "defineEn": "a diet high in plant and animal proteins; used to treat malnutrition or to increase muscle mass",
+            "defineVi": "chế độ ăn nhiều protein thực vật và động vật; được sử dụng để điều trị suy dinh dưỡng hoặc tăng khối lượng cơ bắp"
+        },
+        {
+            "id": "17cfdf98-9b0d-4aa9-b7a0-10bc454b17f9",
+            "word": "light diet",
+            "phonetic": "laɪt daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlnaHQgZGlldA&hash=9f23c014179f84a112d6fd5eca2bdbeb4437f3c9&lang=en&cache-only=0",
+            "defineEn": "diet prescribed for bedridden or convalescent people; does not include fried or highly seasoned foods",
+            "defineVi": "chế độ ăn theo quy định cho người nằm liệt giường hoặc người đang dưỡng bệnh; không bao gồm thực phẩm chiên hoặc nhiều gia vị"
+        },
+        {
+            "id": "c88870b7-aba8-4a44-b86e-accf9b441b38",
+            "word": "liquid diet",
+            "phonetic": "lɪkwɪd daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlxdWlkIGRpZXQ&hash=0de954491dfe9591e1fa70fe7ac3755ab2c93fe4&lang=en&cache-only=0",
+            "defineEn": "a diet of foods that can be served in liquid or strained form (plus custards or puddings); prescribed after certain kinds of surgery",
+            "defineVi": "một chế độ ăn uống gồm các loại thực phẩm có thể được phục vụ ở dạng lỏng hoặc dạng đặc (cộng với sữa trứng hoặc bánh pudding); quy định sau một số loại phẫu thuật"
+        },
+        {
+            "id": "2bf15b00-81af-431e-b7c9-d6a7f7da4a45",
+            "word": "low-salt diet",
+            "phonetic": "loʊsɔlt daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bG93LXNhbHQgZGlldA&hash=d9f71b22d03921d1cf4e5fdcd09c15982225b0db&lang=en&cache-only=0",
+            "defineEn": "a diet that limits the intake of salt (sodium chloride); often used in treating hypertension or edema or certain other disorders",
+            "defineVi": "chế độ ăn kiêng hạn chế lượng muối (natri clorua); thường được sử dụng trong điều trị tăng huyết áp hoặc phù nề hoặc một số rối loạn khác"
+        },
+        {
+            "id": "0b25f762-ca12-45ac-995b-ee8ffa44e8e7",
+            "word": "reducing diet",
+            "phonetic": "ɹᵻduːsɪŋ daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVkdWNpbmcgZGlldA&hash=63089bb369c66e4ced0884249bc70a2420e9357b&lang=en&cache-only=0",
+            "defineEn": "a diet designed to help you lose weight (especially fat)",
+            "defineVi": "một chế độ ăn kiêng được thiết kế để giúp bạn giảm cân (đặc biệt là chất béo)"
+        },
+        {
+            "id": "d5be1140-e386-48c6-b77a-eaed6bd8517f",
+            "word": "low-salt diet",
+            "phonetic": "sɔltfɹiː daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bG93LXNhbHQgZGlldA&hash=d9f71b22d03921d1cf4e5fdcd09c15982225b0db&lang=en&cache-only=0",
+            "defineEn": "a diet that limits the intake of salt (sodium chloride); often used in treating hypertension or edema or certain other disorders",
+            "defineVi": "chế độ ăn kiêng hạn chế lượng muối (natri clorua); thường được sử dụng trong điều trị tăng huyết áp hoặc phù nề hoặc một số rối loạn khác"
+        },
+        {
+            "id": "4fa85bce-8679-40ba-bb2b-16e610e1a55f",
+            "word": "ulcer diet",
+            "phonetic": "ʌlsɚ daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dWxjZXIgZGlldA&hash=ce4d044d0be1facf36a580fd7dc0a267ac10c523&lang=en&cache-only=0",
+            "defineEn": "a diet of foods that are not irritating",
+            "defineVi": "một chế độ ăn uống của thực phẩm không gây khó chịu"
+        },
+        {
+            "id": "3bebf4a0-2f41-40f4-910e-0ec62a7e2590",
+            "word": "5:2 diet",
+            "phonetic": "faɪv tuː daɪət ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=NToyIGRpZXQ&hash=09416a0dcf42375fed43dc32bfd106104403f556&lang=en&cache-only=0",
+            "defineEn": "a diet where a person eats normally for five days a week and restricts their calorie intake for the other two days",
+            "defineVi": "một chế độ ăn uống mà một người ăn bình thường trong năm ngày một tuần và hạn chế lượng calo của họ trong hai ngày còn lại"
+        },
+        {
+            "id": "38333240-4a08-4727-9d0d-77ed935da71d",
+            "word": "crash diet",
+            "phonetic": "kɹæʃ daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Jhc2ggZGlldA&hash=8f7e97d96b8ad1c38481d524bdebaad61f0d5b2b&lang=en&cache-only=0",
+            "defineEn": "a short-term, drastic and restrictive diet that is usually aimed at rapid weight loss but may not be sustainable or healthy in the long term",
+            "defineVi": "một chế độ ăn kiêng ngắn hạn, quyết liệt và hạn chế thường nhằm mục đích giảm cân nhanh chóng nhưng có thể không bền vững hoặc lành mạnh trong thời gian dài"
+        },
+        {
+            "id": "23d206df-b291-4fcf-bbb4-5fd28ee0af74",
+            "word": "to fast",
+            "phonetic": "tə fæst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Sales are growing fast.",
+                "Things certainly move fast in the blogosphere.",
+                "He takes bends much too fast.",
+                "The fast runner won the race by a wide margin.",
+                "He's going too fast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmFzdA&hash=0c86b8d3d6525b58253c23c5310925225cae98f2&lang=en&cache-only=0",
+            "defineEn": "to completely or partially avoid eating or drinking for a period of time, especially because of religious reasons",
+            "defineVi": "hoàn toàn hoặc một phần tránh ăn hoặc uống trong một khoảng thời gian, đặc biệt là vì lý do tôn giáo"
+        },
+        {
+            "id": "d0e61416-a01a-46f0-b86f-0b16cd3b88fa",
+            "word": "fat farm",
+            "phonetic": "fæt fɑːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmF0IGZhcm0&hash=c5e074b911e72b1cd1c456d95800c09ea57b2b8f&lang=en&cache-only=0",
+            "defineEn": "a health spa that specializes in helping people lose weight",
+            "defineVi": "một spa sức khỏe chuyên giúp mọi người giảm cân"
+        },
+        {
+            "id": "da0d36f4-7731-471e-a4b2-095643d7f090",
+            "word": "paleo diet",
+            "phonetic": "peɪlɪoʊ daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFsZW8gZGlldA&hash=6442234d83823d837ec799ab86f9d32ca8b39ad0&lang=en&cache-only=0",
+            "defineEn": "a dietary plan that emulates the eating habits of early humans by focusing on whole, unprocessed foods",
+            "defineVi": "một kế hoạch ăn kiêng mô phỏng thói quen ăn uống của người nguyên thủy bằng cách tập trung vào thực phẩm nguyên chất, chưa qua chế biến"
+        },
+        {
+            "id": "8fb998f7-cc02-4f68-a47e-6e1c1ac8d1c9",
+            "word": "plant-based",
+            "phonetic": "plæntbeɪst ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGxhbnQtYmFzZWQ&hash=3651c860d792e3c66c56ddd88b5ddc200b74a91e&lang=en&cache-only=0",
+            "defineEn": "(of a diet or food) completely or mainly consisting of plants",
+            "defineVi": "(của một chế độ ăn uống hoặc thực phẩm) hoàn toàn hoặc chủ yếu bao gồm thực vật",
+            "hasImg": true
+        },
+        {
+            "id": "b868f01a-ddd8-4d1c-808a-19626b439b11",
+            "word": "starvation diet",
+            "phonetic": "stɑːɹveɪʃən daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RhcnZhdGlvbiBkaWV0&hash=44943804228346585debccb96e41c21c3416c9d4&lang=en&cache-only=0",
+            "defineEn": "a type of diet that involves severe caloric restriction or prolonged periods of fasting, often with the goal of rapid weight loss",
+            "defineVi": "một loại chế độ ăn kiêng liên quan đến việc hạn chế calo nghiêm trọng hoặc thời gian nhịn ăn kéo dài, thường với mục tiêu giảm cân nhanh chóng"
+        },
+        {
+            "id": "3aa02e8f-e190-4cef-adab-1e397a9f96d4",
+            "word": "Cambridge diet",
+            "phonetic": "keɪmbɹɪdʒ daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2FtYnJpZGdlIGRpZXQ&hash=cb1d36f63c9fd84b57c640ba96d0520c43b90ebd&lang=en&cache-only=0",
+            "defineEn": "a weight loss program that involves consuming low-calorie meal replacement products to achieve rapid weight loss",
+            "defineVi": "một chương trình giảm cân liên quan đến việc tiêu thụ các sản phẩm thay thế bữa ăn ít calo để giảm cân nhanh chóng"
+        }
+    ]
+}

@@ -1,0 +1,604 @@
+{
+    "id": "683aecc9-7f70-4725-9518-ec2347ed1bc0",
+    "title": "Nervous System",
+    "originalTitle": "Nervous System",
+    "words": [
+        {
+            "id": "3e2ce514-dc89-46de-b423-d312e9b27d60",
+            "word": "brain",
+            "phonetic": "bɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The brain weighs about three pounds.",
+                "After all, an electrical brain is smarter than the sum of its parts.",
+                "He has golf on the brain!",
+                "The brain is responsible for controlling our thoughts and actions.",
+                "He suffered a traumatic brain injury in a car accident."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhaW4&hash=680e4f8d64ce52f344e7cd50b0559b751969d388&lang=en&cache-only=0",
+            "defineEn": "the body part that is inside our head controlling how we feel, think, move, etc.",
+            "defineVi": "phần cơ thể nằm trong đầu kiểm soát cách chúng ta cảm nhận, suy nghĩ, di chuyển, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8e0ef1d1-b538-4a2b-abb7-8bcbc02cfec0",
+            "word": "neuron",
+            "phonetic": "nʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Multipolar neurons are the most common type of neuron found in the brain and spinal cord.",
+                "Multipolar neurons are the most common type of neuron found in the brain and spinal cord.",
+                "The interneurons in the spinal cord help to relay signals from sensory neurons to motor neurons, allowing for coordinated movements.",
+                "The interneurons in the spinal cord help to relay signals from sensory neurons to motor neurons, allowing for coordinated movements.",
+                "Like a soccer-playing teenager, neurons have a crazy-high metabolic rate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV1cm9u&hash=5d56f567a665bce1d478b4a7e26201b64581eb32&lang=en&cache-only=0",
+            "defineEn": "a cell that is responsible for transmitting nerve impulses between the brain and the rest of the body",
+            "defineVi": "một tế bào chịu trách nhiệm truyền các xung thần kinh giữa não và phần còn lại của cơ thể"
+        },
+        {
+            "id": "0c69295b-7842-4705-b02a-b57888acc495",
+            "word": "nerve",
+            "phonetic": "nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "stroke a nerve didn't I?",
+                "It really gets on my nerves.",
+                "He had some nerve to insult Mina's cooking.",
+                "You struck a raw nerve when you mentioned divorce.",
+                "Jake has a nerve talking back to his mother like that!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVydmU&hash=bf003f4121aec7288370090f8956756f73fc1247&lang=en&cache-only=0",
+            "defineEn": "each of a group of long thread-like structures in the body that carry messages between the brain and other parts of the body, sensing things is a result of this process",
+            "defineVi": "mỗi nhóm cấu trúc giống như sợi chỉ dài trong cơ thể mang thông điệp giữa não và các bộ phận khác của cơ thể, cảm nhận mọi thứ là kết quả của quá trình này",
+            "hasImg": true
+        },
+        {
+            "id": "563f4951-f462-42ff-b11c-08000404c78c",
+            "word": "fiber",
+            "phonetic": "faɪbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Avocado's high fiber content can aid in digestion and help promote a healthy gut.",
+                "Baobab fruit is a great source of dietary fiber, which helps support a healthy digestive system.",
+                "I often include nopal in my smoothies for its high fiber content and nutrient-rich properties.",
+                "I like to add beans to my salads for an extra dose of fiber and texture.",
+                "She added a spoonful of wheatmeal to her morning oatmeal for an extra boost of fiber and nutrients."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmliZXI&hash=8ea15c05ad2bad01f8cc9a9771f81d9d87277fa4&lang=en&cache-only=0",
+            "defineEn": "any strand of muscle or nervous tissues",
+            "defineVi": "bất kỳ sợi cơ hoặc mô thần kinh"
+        },
+        {
+            "id": "ecf882c0-b521-40a8-b32b-42298a1fef15",
+            "word": "spinal cord",
+            "phonetic": "spaɪnəl koːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The interneurons in the spinal cord help to relay signals from sensory neurons to motor neurons, allowing for coordinated movements.",
+                "Multipolar neurons are the most common type of neuron found in the brain and spinal cord.",
+                "So afferent neurons carry information to the brain and spinal cord for analysis.",
+                "They send signals along your nerves to the sacral region in your spinal cord.",
+                "We have a spinal column with a spinal cord in it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BpbmFsIGNvcmQ&hash=84550914a0d48e3e30b319b8214ab6f5f9e30a21&lang=en&cache-only=0",
+            "defineEn": "the inner part of the spine containing a mass of nerves that connects the brain to almost all the body parts",
+            "defineVi": "phần bên trong của cột sống chứa một khối dây thần kinh kết nối não với hầu hết các bộ phận cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "3ec54c13-5543-42c5-ba28-acfb6371ebf4",
+            "word": "axon",
+            "phonetic": "æksɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The neuron’s axon, meanwhile, is like the talker.",
+                "Each of these hair cells is attached to axons in the nervous system.",
+                "That myelin around the axon lets an action potential chain reaction jump down an axon, from node to node, way faster!",
+                "The axon is also covered in fatty material called myelin, which acts as insulation.",
+                "Neurons also have a single axon the trunk of the tree which is branched at the end and transmits signals to other neurons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXhvbg&hash=6a7d62b1fdc5b5a96c63d1a1dc302561728b5b81&lang=en&cache-only=0",
+            "defineEn": "a long, slender projection of a nerve cell that conducts electrical impulses away from the cell body towards other neurons or target cells",
+            "defineVi": "một hình chiếu dài, mảnh mai của một tế bào thần kinh dẫn các xung điện ra khỏi cơ thể tế bào tới các tế bào thần kinh hoặc tế bào đích khác"
+        },
+        {
+            "id": "41db5707-68fb-4dfd-82d0-55547bf55b36",
+            "word": "solar plexus",
+            "phonetic": "soʊlɚ plɛksəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "More importantly, they’re not seeing how it’s hitting working-class people in the solar plexus."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29sYXIgcGxleHVz&hash=2f65fa4158587719a4f59b0ccd72171e374df544&lang=en&cache-only=0",
+            "defineEn": "(anatomy) a network of nerves in the abdomen and in front of the aorta that contains several ganglia",
+            "defineVi": "(giải phẫu) mạng lưới dây thần kinh ở bụng và phía trước động mạch chủ có chứa nhiều hạch"
+        },
+        {
+            "id": "e36ae055-9e7f-47f1-891c-01fed264c7ec",
+            "word": "ganglion",
+            "phonetic": "ɡæŋɡliən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But these ganglion cells are more sensitive to certain colors of light than others.",
+                "Since parasympathetic ganglia are so close to, or even inside of, their effector organs, the preganglionic fibers are a lot longer.",
+                "But where these ganglia appear relate to their function, and which division of the autonomic system they're serving.",
+                "It turns out that pressure can also excite ganglion cells.",
+                "Each cone, by contrast, gets its own personal ganglion cell to hook up with, which allows for very detailed color vision, at least if conditions are bright enough."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FuZ2xpb24&hash=9544af428e06be8b6f5425c17c439715665568f1&lang=en&cache-only=0",
+            "defineEn": "(anatomy) a mass of neurons that form a nerve center in the body outside the brain or spinal cord",
+            "defineVi": "(giải phẫu) một khối tế bào thần kinh tạo thành một trung tâm thần kinh trong cơ thể bên ngoài não hoặc tủy sống"
+        },
+        {
+            "id": "cb0cc1ad-36db-4142-8ca9-ed6a21e68177",
+            "word": "glial",
+            "phonetic": "ɡlaɪəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Now, over in your peripheral nervous system, there are just two kinds of glial cells.",
+                "Star-shaped astrocytes are found in your central nervous system and are your most abundant and versatile glial cells.",
+                "In fact, you could say that behind every successful neuron is a glial cell. ",
+                "But these wise guys really account for just a small part of your nervous tissue because they are surrounded and protected by gaggles of neuroglia, or glial cells.",
+                "Scientists have known about glial cells since the 1920s, but they often overlooked them in favor of those much flashier cells, the neurons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2xpYWw&hash=9c2f58781358c9f15995fb099c9bb41c25a0bed0&lang=en&cache-only=0",
+            "defineEn": "related to or associated with glia or glial cells in the nervous system",
+            "defineVi": "liên quan đến hoặc liên kết với tế bào thần kinh đệm hoặc thần kinh đệm trong hệ thần kinh"
+        },
+        {
+            "id": "3cfd9571-30d9-427f-8535-9e04dcaa7fe4",
+            "word": "plexus",
+            "phonetic": "plɛksəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The group of blood vessels is called Kiesselbach's plexus or Little's area after the doctors who first described it, and those nosebleeds can usually be treated at home.",
+                "They start when arteries rupture from a group called Woodruff's plexus, and since they're closer to the back of your throat, the blood can sometimes drain down there and cause nausea or vomiting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxleHVz&hash=5ec7985e6ece0d5dd5a7e714d727951b5d0c1a9e&lang=en&cache-only=0",
+            "defineEn": "a complex arrangement or network of nerve fibers or blood vessels that intersect and intertwine within the body",
+            "defineVi": "một sự sắp xếp phức tạp hoặc mạng lưới các sợi thần kinh hoặc mạch máu giao nhau và đan xen trong cơ thể"
+        },
+        {
+            "id": "67c2fc0a-881c-4386-9221-bedd5deac6e7",
+            "word": "interneuron",
+            "phonetic": "ɪntɚnʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The interneurons in the spinal cord help to relay signals from sensory neurons to motor neurons, allowing for coordinated movements.",
+                "Other interneurons will pass that signal to neurons that carry it up your spinal cord to your brain.",
+                "Interneurons are the most abundant of your body’s neurons and are mostly multipolar.",
+                "And then there are interneurons, or association neurons, which live in the central nervous system and transmit impulses between those sensory and motor neurons.",
+                "Now, some of those interneurons might send a signal straight down a bunch of multipolar neurons to your quadriceps muscle on your thigh, triggering you to kick your leg out before you even know what’s going on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJuZXVyb24&hash=c49c952f30066e73879ee387674c6934c6b5ff08&lang=en&cache-only=0",
+            "defineEn": "a neuron that acts as an intermediary between sensory neurons and motor neurons, or between other interneurons.",
+            "defineVi": "một tế bào thần kinh hoạt động như một trung gian giữa các tế bào thần kinh cảm giác và tế bào thần kinh vận động, hoặc giữa các tế bào thần kinh khác."
+        },
+        {
+            "id": "19a5e4ef-9f84-4a5b-af7d-9af7c67f2bbe",
+            "word": "fascicle",
+            "phonetic": "fæsɪkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Those muscle fibers then form larger, string-like bundles called fascicles, which combine to form the larger rope-like muscle organ, like your biceps brachii."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzY2ljbGU&hash=acec440d481878a4d549185f242cc7fdf9b44d03&lang=en&cache-only=0",
+            "defineEn": "a bundle of muscle fibers or nerve fibers bound together by connective tissue",
+            "defineVi": "một bó sợi cơ hoặc sợi thần kinh liên kết với nhau bằng mô liên kết"
+        },
+        {
+            "id": "1b695975-cd6a-4894-9dea-21f6394f2fcd",
+            "word": "motor neuron",
+            "phonetic": "moʊɾɚ nʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In response to a signal from the brain, the motor neuron releases acetylcholine, which triggers pores on the muscle cell membrane to open.",
+                "These results jive well with the motor neuron excitability idea, although they still leave a lot of questions unanswered, like why we’ve evolved this reaction in the first place."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90b3IgbmV1cm9u&hash=040e807ff6fa6d44db76715017afc479f53ea45d&lang=en&cache-only=0",
+            "defineEn": "a nerve cell that transmits signals from the central nervous system to the muscles, enabling voluntary movements",
+            "defineVi": "một tế bào thần kinh truyền tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép các chuyển động tự nguyện"
+        },
+        {
+            "id": "0423c9f0-0c22-4758-8629-e30f6529f2df",
+            "word": "pons",
+            "phonetic": "pɑːnz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9ucw&hash=fbeeecb35e6b75e1be61b22f4597dc99a2a2a273&lang=en&cache-only=0",
+            "defineEn": "a region in the brainstem that acts as a bridge, connecting different parts of the brain and aiding in essential functions like sleep regulation and sensory-motor coordination",
+            "defineVi": "một vùng trong thân não hoạt động như một cây cầu, kết nối các phần khác nhau của não và hỗ trợ các chức năng thiết yếu như điều hòa giấc ngủ và phối hợp cảm giác-vận động"
+        },
+        {
+            "id": "c3fbeaf9-a3fe-42ad-bd56-65232b416146",
+            "word": "optic nerve",
+            "phonetic": "ɑːptɪk nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3B0aWMgbmVydmU&hash=bad19ab7ca40272b322f0748f4bde3cfb1bf0e41&lang=en&cache-only=0",
+            "defineEn": "the bundle of nerve fibers that carries visual information from the eye to the brain",
+            "defineVi": "bó sợi thần kinh mang thông tin thị giác từ mắt đến não"
+        },
+        {
+            "id": "f65f0e0e-561a-4faf-bf8e-1ec280ab4e88",
+            "word": "mixed cranial nerve",
+            "phonetic": "mɪkst kɹeɪnɪəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWl4ZWQgY3JhbmlhbCBuZXJ2ZQ&hash=8f9f1973aba370cb5d9a8b8aeff83fa3161e66e0&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve that contains both sensory and motor fibers",
+            "defineVi": "một dây thần kinh sọ chứa cả sợi cảm giác và vận động"
+        },
+        {
+            "id": "667a8c0b-460f-4282-af61-183829d60a52",
+            "word": "ulnar nerve",
+            "phonetic": "ʌlnɑːɹ nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dWxuYXIgbmVydmU&hash=a1e812ac97501de7b547b514e58d90f8cdfd7e9a&lang=en&cache-only=0",
+            "defineEn": "a nerve in the upper limb that provides sensation and controls muscle movement in the hand and forearm",
+            "defineVi": "một dây thần kinh ở chi trên cung cấp cảm giác và kiểm soát chuyển động cơ ở bàn tay và cẳng tay"
+        },
+        {
+            "id": "231ba284-f545-4260-aa3d-d76aaf766ddb",
+            "word": "olfactory nerve",
+            "phonetic": "ɑːlfæktɚɹi nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2xmYWN0b3J5IG5lcnZl&hash=c4693a2e1cbd3be993cfd6fceb8f4416dee6ce35&lang=en&cache-only=0",
+            "defineEn": "a sensory nerve responsible for the sense of smell",
+            "defineVi": "một dây thần kinh cảm giác chịu trách nhiệm về khứu giác"
+        },
+        {
+            "id": "bdf20424-8a18-4136-a47a-3336b13ad22a",
+            "word": "oculomotor nerve",
+            "phonetic": "ɑːkjʊlɑːmoʊɾɚ nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2N1bG9tb3RvciBuZXJ2ZQ&hash=e43ab36890fda71a581665fe2fecfdafcf028ac6&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for controlling the movement of the eye muscles",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát chuyển động của cơ mắt"
+        },
+        {
+            "id": "23d980f0-ffe0-46d2-bafb-7f37b1ff664b",
+            "word": "neural network",
+            "phonetic": "nʊɹɹəl nɛtwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmV1cmFsIG5ldHdvcms&hash=1dc9315932865de75292f004aeb88a8868901da2&lang=en&cache-only=0",
+            "defineEn": "a complex system of interconnected neurons that processes and transmits information in the body",
+            "defineVi": "một hệ thống phức tạp gồm các nơ-ron liên kết với nhau xử lý và truyền thông tin trong cơ thể"
+        },
+        {
+            "id": "16f00bf7-b683-4286-b4f2-ff38618260b1",
+            "word": "trochlear nerve",
+            "phonetic": "tɹoʊklɪɹ nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJvY2hsZWFyIG5lcnZl&hash=97556bd652d0de8ba1ca3a9a9bc30613cbd5754b&lang=en&cache-only=0",
+            "defineEn": "the fourth cranial nerve responsible for controlling the movement of the superior oblique muscle of the eye",
+            "defineVi": "dây thần kinh sọ thứ tư chịu trách nhiệm kiểm soát chuyển động của cơ chéo trên của mắt"
+        },
+        {
+            "id": "d4bd9d95-a443-4df0-9eca-056d0d8fc7ee",
+            "word": "trigeminal nerve",
+            "phonetic": "tɹaɪdʒɛmɪnəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJpZ2VtaW5hbCBuZXJ2ZQ&hash=f9745e8157431a350575010a78e91241b1379982&lang=en&cache-only=0",
+            "defineEn": "the fifth cranial nerve that provides sensory information from the face and controls the muscles responsible for chewing",
+            "defineVi": "dây thần kinh sọ thứ năm cung cấp thông tin cảm giác từ mặt và kiểm soát các cơ chịu trách nhiệm nhai"
+        },
+        {
+            "id": "9b53c102-e43a-4f1d-bc22-1b0093ef5f41",
+            "word": "schwann cell",
+            "phonetic": "ʃwæn sɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Nod2FubiBjZWxs&hash=b9e2bd936a43431a62942576d829937275b95090&lang=en&cache-only=0",
+            "defineEn": "a glial cell in the peripheral nervous system that forms myelin sheaths around nerve fibers",
+            "defineVi": "một tế bào thần kinh đệm trong hệ thống thần kinh ngoại vi hình thành vỏ myelin xung quanh sợi thần kinh"
+        },
+        {
+            "id": "739817f1-5d4d-4a86-b569-7ce48890cf1a",
+            "word": "facial nerve",
+            "phonetic": "feɪʃəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFjaWFsIG5lcnZl&hash=e38cec3d3cf6bbabf9dec5ee6d58eaf23f28031c&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for controlling the muscles of facial expression",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát các cơ biểu hiện trên khuôn mặt"
+        },
+        {
+            "id": "0f518c8c-2cb4-48b0-a673-cad2048d4b2d",
+            "word": "vestibulocochlear nerve",
+            "phonetic": "vɛstɪbjʊləkɑːtʃlɪɹ nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmVzdGlidWxvY29jaGxlYXIgbmVydmU&hash=2b206d3443ad9a03fe20af9129f910f09c18d7db&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for hearing and balance",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm cho thính giác và cân bằng"
+        },
+        {
+            "id": "d3516ee7-4fa2-441b-b66b-ef9fb08e26f5",
+            "word": "glossopharyngeal nerve",
+            "phonetic": "ɡlɔsəfɑːɹɹɪndʒiəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2xvc3NvcGhhcnluZ2VhbCBuZXJ2ZQ&hash=58711bf8eb4a38d62268dfd10b3c5669d2ae8e6d&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for sensory and motor functions in the head and neck region",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm cho các chức năng cảm giác và vận động ở vùng đầu và cổ"
+        },
+        {
+            "id": "bd439954-bf87-4ec4-a130-97640549c5f4",
+            "word": "vagus nerve",
+            "phonetic": "væɡəs nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmFndXMgbmVydmU&hash=ef1aebe1fa65f4e4ec3b767ea9b2826ed12f90ee&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve that plays a vital role in regulating various bodily functions, including heart rate, digestion, and respiratory control",
+            "defineVi": "một dây thần kinh sọ đóng một vai trò quan trọng trong việc điều chỉnh các chức năng cơ thể khác nhau, bao gồm nhịp tim, tiêu hóa và kiểm soát hô hấp"
+        },
+        {
+            "id": "32d619df-d795-45c0-874f-e92fcd878041",
+            "word": "accessory nerve",
+            "phonetic": "ɐksɛsɚɹi nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNjZXNzb3J5IG5lcnZl&hash=00e727fd0e5aaee39f51cb0ffc7c292bcdd11b48&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for controlling certain muscles involved in head and neck movements",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát một số cơ liên quan đến chuyển động của đầu và cổ"
+        },
+        {
+            "id": "e49837ad-8db8-4d32-b46b-a197097381e1",
+            "word": "hypoglossal nerve",
+            "phonetic": "haɪpoʊɡlɔsəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHlwb2dsb3NzYWwgbmVydmU&hash=9968444fd63bdc62054aa2fc68a47201946853bb&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for controlling the movements of the tongue",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát các cử động của lưỡi"
+        },
+        {
+            "id": "b044e4cf-e15e-4972-a192-1b5b231e4352",
+            "word": "abducens nerve",
+            "phonetic": "ɐbduːsənz nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWJkdWNlbnMgbmVydmU&hash=9e34e1ae7097e7678ffb98c6845b0d3ed85bab33&lang=en&cache-only=0",
+            "defineEn": "a cranial nerve responsible for controlling the movement of the lateral rectus muscle, which enables the eye to move laterally or outward",
+            "defineVi": "một dây thần kinh sọ chịu trách nhiệm kiểm soát chuyển động của cơ trực tràng bên, cho phép mắt di chuyển sang bên hoặc ra ngoài"
+        },
+        {
+            "id": "4b58cc51-caab-45f4-bdf9-0c868fa0ab78",
+            "word": "unipolar neuron",
+            "phonetic": "juːnɪpoʊlɚ nʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW5pcG9sYXIgbmV1cm9u&hash=74ab09b977487d868d4c2a4b9971abb4168663d1&lang=en&cache-only=0",
+            "defineEn": "a type of neuron that has a single projection, or process, that branches into two directions",
+            "defineVi": "một loại tế bào thần kinh có một phép chiếu hoặc quá trình duy nhất, phân nhánh thành hai hướng"
+        },
+        {
+            "id": "5f0b7dc7-c699-479c-978c-3878b390c4a2",
+            "word": "motor nerve fiber",
+            "phonetic": "moʊɾɚ nɜːv faɪbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW90b3IgbmVydmUgZmliZXI&hash=1658b5a622eacefe492c35818ffd396cc34e6012&lang=en&cache-only=0",
+            "defineEn": "a type of nerve cell extension that carries signals from the central nervous system to the muscles, enabling voluntary movement",
+            "defineVi": "một loại phần mở rộng của tế bào thần kinh mang tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép chuyển động tự nguyện"
+        },
+        {
+            "id": "cefb4a70-8614-4ab2-b981-f32681e0a982",
+            "word": "parasympathetic nervous system",
+            "phonetic": "pæɹəsɪmpəθɛɾɪk nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFyYXN5bXBhdGhldGljIG5lcnZvdXMgc3lzdGVt&hash=45931e48faeca251040e9147192d7e9a540d3c75&lang=en&cache-only=0",
+            "defineEn": "a division of the autonomic nervous system responsible for regulating rest, digestion, and other essential bodily functions",
+            "defineVi": "một bộ phận của hệ thống thần kinh tự trị chịu trách nhiệm điều chỉnh việc nghỉ ngơi, tiêu hóa và các chức năng cơ thể thiết yếu khác"
+        },
+        {
+            "id": "7521ddf8-8e38-4de7-818d-ef77134114ff",
+            "word": "nerve cell",
+            "phonetic": "nɜːv sɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVydmUgY2VsbA&hash=119f60e2d4ea3d70e7804104c2a49fe9d1562c74&lang=en&cache-only=0",
+            "defineEn": "a specialized cell that transmits electrical signals in the nervous system",
+            "defineVi": "một tế bào chuyên biệt truyền tín hiệu điện trong hệ thống thần kinh"
+        },
+        {
+            "id": "60c77d63-5ebc-4a8f-b769-da0ee50319f4",
+            "word": "central nervous system",
+            "phonetic": "sɛntɹəl nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2VudHJhbCBuZXJ2b3VzIHN5c3RlbQ&hash=316fc9b422ae6fe94020b71947f55c66403403f1&lang=en&cache-only=0",
+            "defineEn": "the complex network of the brain and spinal cord that controls and coordinates bodily functions and processes",
+            "defineVi": "mạng lưới phức tạp của não và tủy sống điều khiển và phối hợp các chức năng và quá trình của cơ thể"
+        },
+        {
+            "id": "ab651df0-beb0-4afc-981a-c235d99f93ce",
+            "word": "glial cell",
+            "phonetic": "ɡlaɪəl sɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2xpYWwgY2VsbA&hash=11207f8710c47c9822d4f25d467aac10a93ecf09&lang=en&cache-only=0",
+            "defineEn": "a non-neuronal cell in the nervous system that provides support and protection for neurons, helps maintain homeostasis, and participates in signaling and other important functions",
+            "defineVi": "một tế bào không phải tế bào thần kinh trong hệ thần kinh cung cấp sự hỗ trợ và bảo vệ cho các tế bào thần kinh, giúp duy trì cân bằng nội môi và tham gia truyền tín hiệu cũng như các chức năng quan trọng khác"
+        },
+        {
+            "id": "06437a38-74eb-40e5-9862-c2a75728d0e7",
+            "word": "peripheral nervous system",
+            "phonetic": "pɚɹɪfɚɹəl nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVyaXBoZXJhbCBuZXJ2b3VzIHN5c3RlbQ&hash=e17ff702c6f01c32ba7831a515bb1132e2af74c0&lang=en&cache-only=0",
+            "defineEn": "a network of nerves and ganglia that connects the central nervous system to the organs, muscles, and tissues of the body, facilitating communication and control",
+            "defineVi": "một mạng lưới các dây thần kinh và hạch kết nối hệ thống thần kinh trung ương với các cơ quan, cơ và mô của cơ thể, tạo điều kiện giao tiếp và kiểm soát"
+        },
+        {
+            "id": "6964421b-fc0a-479b-b1b8-4ebf6e7c1a03",
+            "word": "autonomic nervous system",
+            "phonetic": "ɔːtənɑːmɪk nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXV0b25vbWljIG5lcnZvdXMgc3lzdGVt&hash=eba92e2032ad35f3dede07463f37359c05956693&lang=en&cache-only=0",
+            "defineEn": "the part of the peripheral nervous system that controls and regulates involuntary bodily functions, including heart rate, digestion, and glandular activity",
+            "defineVi": "một phần của hệ thống thần kinh ngoại vi kiểm soát và điều chỉnh các chức năng cơ thể không tự nguyện, bao gồm nhịp tim, tiêu hóa và hoạt động của tuyến"
+        },
+        {
+            "id": "b9da04b6-e860-420f-b74d-f1d847ddcc0b",
+            "word": "autonomic ganglion",
+            "phonetic": "ɔːtənɑːmɪk ɡæŋɡliən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXV0b25vbWljIGdhbmdsaW9u&hash=48a1e9ab4c9f422446e45802a83640eafae7536d&lang=en&cache-only=0",
+            "defineEn": "a cluster of nerve cell bodies that mediates communication between the central nervous system and the organs",
+            "defineVi": "một cụm các tế bào thần kinh làm trung gian giao tiếp giữa hệ thống thần kinh trung ương và các cơ quan"
+        },
+        {
+            "id": "e5ac98bf-e1ad-4171-96c4-c02716d8a354",
+            "word": "autonomic plexus",
+            "phonetic": "ɔːtənɑːmɪk plɛksəs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXV0b25vbWljIHBsZXh1cw&hash=e2d6f9e21a3a4da54bca379f2c27042d436a66f5&lang=en&cache-only=0",
+            "defineEn": "a network of nerves and ganglia that regulates involuntary bodily functions",
+            "defineVi": "một mạng lưới các dây thần kinh và hạch điều chỉnh các chức năng cơ thể không tự nguyện"
+        },
+        {
+            "id": "02508142-3059-431b-bf14-ad0f2149e5f0",
+            "word": "sympathetic nervous system",
+            "phonetic": "sɪmpəθɛɾɪk nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ltcGF0aGV0aWMgbmVydm91cyBzeXN0ZW0&hash=441d020e4d53328d8642670648319771856d7ee5&lang=en&cache-only=0",
+            "defineEn": "a network of nerves that prepares the body for stressful or emergency situations by activating the \"fight or flight\" response",
+            "defineVi": "một mạng lưới các dây thần kinh giúp cơ thể chuẩn bị cho các tình huống căng thẳng hoặc khẩn cấp bằng cách kích hoạt phản ứng \"chiến đấu hay bỏ chạy\""
+        },
+        {
+            "id": "600ee543-7e50-4b0e-9275-77f5c4af44ae",
+            "word": "somatic nervous system",
+            "phonetic": "səmæɾɪk nɜːvəs sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29tYXRpYyBuZXJ2b3VzIHN5c3RlbQ&hash=85510bb4b10d5627247aa0b699153ba66e7bf241&lang=en&cache-only=0",
+            "defineEn": "the part of the peripheral nervous system that is responsible for the voluntary control of body movements and the reception of external stimuli.",
+            "defineVi": "một phần của hệ thống thần kinh ngoại biên chịu trách nhiệm kiểm soát tự nguyện các chuyển động của cơ thể và tiếp nhận các kích thích bên ngoài."
+        },
+        {
+            "id": "da0bbc11-8ff3-4d5c-ba74-28329ab04f8d",
+            "word": "motor nerve",
+            "phonetic": "moʊɾɚ nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW90b3IgbmVydmU&hash=a7aa34959c4398e9ceb217fb9bf5bbc0915f4d85&lang=en&cache-only=0",
+            "defineEn": "a type of nerve that carries signals from the central nervous system to the muscles, enabling voluntary muscle movements",
+            "defineVi": "một loại dây thần kinh mang tín hiệu từ hệ thống thần kinh trung ương đến các cơ, cho phép các cử động cơ tự nguyện"
+        },
+        {
+            "id": "ffd7682a-a59f-41aa-af1b-f0ead71963d3",
+            "word": "somatic sensory system",
+            "phonetic": "səmæɾɪk sɛnsɚɹi sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29tYXRpYyBzZW5zb3J5IHN5c3RlbQ&hash=9398cd3c0c30e38ed036895a79110f9e9f3af1e8&lang=en&cache-only=0",
+            "defineEn": "a network of nerves and receptors that enables the perception of touch, temperature, pain, and body position",
+            "defineVi": "một mạng lưới các dây thần kinh và thụ thể cho phép nhận thức về xúc giác, nhiệt độ, cơn đau và vị trí cơ thể"
+        },
+        {
+            "id": "6dcd2603-39a5-45a1-9ae2-9bb11d620a61",
+            "word": "cranial nerve",
+            "phonetic": "kɹeɪnɪəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3JhbmlhbCBuZXJ2ZQ&hash=390ddd9a06b6a53b7884848b646af493b6ce4638&lang=en&cache-only=0",
+            "defineEn": "a bundle of nerves that emerge directly from the brain and innervate structures in the head and neck",
+            "defineVi": "một bó dây thần kinh xuất hiện trực tiếp từ não và các cấu trúc bẩm sinh ở đầu và cổ"
+        },
+        {
+            "id": "7d051ddf-b9e2-4bf3-be81-270d7d14aff2",
+            "word": "spinal nerve",
+            "phonetic": "spaɪnəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BpbmFsIG5lcnZl&hash=8b4413962395537bb99293e2a4083fdc60219d7c&lang=en&cache-only=0",
+            "defineEn": "a singular anatomical structure that carries sensory and motor signals between the spinal cord and the rest of the body",
+            "defineVi": "một cấu trúc giải phẫu đơn lẻ mang tín hiệu cảm giác và vận động giữa tủy sống và phần còn lại của cơ thể"
+        },
+        {
+            "id": "b5cd243b-9a6e-4d78-b9e9-86b601d070c3",
+            "word": "spinal nerve root",
+            "phonetic": "spaɪnəl nɜːv ɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BpbmFsIG5lcnZlIHJvb3Q&hash=0eb80ac68d9b569b4cbed5588be5745c2fa9400f&lang=en&cache-only=0",
+            "defineEn": "the initial segment of a spinal nerve that emerges from the spinal cord",
+            "defineVi": "đoạn ban đầu của một dây thần kinh cột sống xuất hiện từ tủy sống"
+        },
+        {
+            "id": "100d37b2-4f5e-475a-8c9f-63d47bdea54c",
+            "word": "sensory nerve",
+            "phonetic": "sɛnsɚɹi nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vuc29yeSBuZXJ2ZQ&hash=9f9ac7a3ca65ee0b63a3d8354fb02c0c7711b77a&lang=en&cache-only=0",
+            "defineEn": "a body part that carries sensory information from the body to the central nervous system",
+            "defineVi": "một bộ phận cơ thể mang thông tin cảm giác từ cơ thể đến hệ thống thần kinh trung ương"
+        },
+        {
+            "id": "494a0791-77df-4dfc-8160-99be89e35908",
+            "word": "sensory neuron",
+            "phonetic": "sɛnsɚɹi nʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vuc29yeSBuZXVyb24&hash=f697eb9b583d04b411adfd41835861c1f342f9a5&lang=en&cache-only=0",
+            "defineEn": "a nerve cell that transmits sensory information from the body to the central nervous system",
+            "defineVi": "một tế bào thần kinh truyền thông tin cảm giác từ cơ thể đến hệ thống thần kinh trung ương"
+        },
+        {
+            "id": "17376cfd-eb5d-4817-b34b-61e3c35323d2",
+            "word": "sensory fiber",
+            "phonetic": "sɛnsɚɹi faɪbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vuc29yeSBmaWJlcg&hash=fcceb2c687771b831b6ac0b106025e00958abfa5&lang=en&cache-only=0",
+            "defineEn": "a nerve fiber that carries sensory information from sensory receptors to the central nervous system",
+            "defineVi": "một sợi thần kinh mang thông tin cảm giác từ các thụ thể cảm giác đến hệ thống thần kinh trung ương"
+        },
+        {
+            "id": "b2ce726c-e54c-4dd5-bcd1-7959160dee94",
+            "word": "sensory cortex",
+            "phonetic": "sɛnsɚɹi kɔːɹɾɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vuc29yeSBjb3J0ZXg&hash=beb56143eb7f4e141f115d9d085d18b32736ff1d&lang=en&cache-only=0",
+            "defineEn": "the part of the brain that processes and interprets sensory information from the body",
+            "defineVi": "phần não xử lý và giải thích thông tin cảm giác từ cơ thể"
+        },
+        {
+            "id": "2b6aa8c7-dd8d-4cdc-9692-ae01488cd00e",
+            "word": "multipolar neuron",
+            "phonetic": "mʌltɪpoʊlɚ nʊɹɹɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bXVsdGlwb2xhciBuZXVyb24&hash=eb04fc128b8b3a07fdf83b52e5ef9c8753687898&lang=en&cache-only=0",
+            "defineEn": "a type of neuron that has many processes or projections (dendrites) arising from its cell body, and a single axon that extends away from the cell body",
+            "defineVi": "một loại tế bào thần kinh có nhiều quá trình hoặc hình chiếu (dây gai) phát sinh từ thân tế bào của nó và một sợi trục duy nhất kéo dài ra khỏi thân tế bào"
+        },
+        {
+            "id": "dfa89edd-4a37-480d-984f-2f49a8c696be",
+            "word": "femoral nerve",
+            "phonetic": "fɛmɚɹəl nɜːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVtb3JhbCBuZXJ2ZQ&hash=bd27b45d57b01a5b497a3c6982fc137646e9774e&lang=en&cache-only=0",
+            "defineEn": "a key nerve responsible for transmitting signals to the muscles and skin of the thigh and leg",
+            "defineVi": "một dây thần kinh chính chịu trách nhiệm truyền tín hiệu đến các cơ và da của đùi và chân"
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "id": "71ec3090-321b-4183-a1fc-67afbfa6fd8b",
+    "title": "Canines",
+    "originalTitle": "Canines",
+    "words": [
+        {
+            "id": "b6f24cc9-49d5-43ae-b66e-c1984da78f88",
+            "word": "wolf",
+            "phonetic": "wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hunger drives the wolf out of the wood.",
+                "He's a wolf in lamb's clothing.",
+                "We all met that wolf in sheep's clothing I guess at least once a life.",
+                "He has cried wolf so many times that people have stopped trusting him.",
+                "This keeps the wolves from the door and allows individuals time to sort themselves out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29sZg&hash=6be53fb6519a48c41e02f4e04884f1fa8ed86859&lang=en&cache-only=0",
+            "defineEn": "a big and wild animal from the same family as dogs that hunts for food in groups",
+            "defineVi": "một loài động vật lớn và hoang dã cùng họ với chó săn tìm thức ăn theo nhóm",
+            "hasImg": true
+        },
+        {
+            "id": "c5dab0d6-3cb1-4ae6-ba65-6708667b247d",
+            "word": "gray wolf",
+            "phonetic": "ɡɹeɪ wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The average dire wolf was about 60 to 68 kg, which is 20 kg heavier than the average of their close cousin, the Gray Wolf."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JheSB3b2xm&hash=3b57d1bc19f3b83431aac5f315d95d8cc9f5d209&lang=en&cache-only=0",
+            "defineEn": "a highly social and adaptable carnivorous mammal, known for its sleek appearance, cooperative hunting behavior, and cultural significance",
+            "defineVi": "một loài động vật có vú ăn thịt có tính xã hội cao và dễ thích nghi, được biết đến với vẻ ngoài bóng bẩy, hành vi săn mồi hợp tác và ý nghĩa văn hóa"
+        },
+        {
+            "id": "c625ca88-7723-4ff2-88ee-712bb4cffae9",
+            "word": "maned wolf",
+            "phonetic": "meɪnd wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFuZWQgd29sZg&hash=0d3d00453ab32b38ff18c6729be8a4db733241be&lang=en&cache-only=0",
+            "defineEn": "a unique and elusive large canid species native to South America, known for its distinctive appearance",
+            "defineVi": "một loài chó lớn độc đáo và khó nắm bắt có nguồn gốc từ Nam Mỹ, được biết đến với vẻ ngoài đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "5f43af14-69bb-4188-8484-c5107c797c13",
+            "word": "Arctic wolf",
+            "phonetic": "ɑːɹktɪk wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QXJjdGljIHdvbGY&hash=c1204340498d3a60b25a0f3a36f8e4b0ac32ee1b&lang=en&cache-only=0",
+            "defineEn": "a subspecies of the gray wolf adapted to survive in the harsh Arctic regions of North America",
+            "defineVi": "một phân loài của sói xám thích nghi để tồn tại ở vùng Bắc cực khắc nghiệt của Bắc Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "743a3f33-fd49-44e4-bfd4-e7bcdbbc0bdc",
+            "word": "eastern wolf",
+            "phonetic": "iːstɚn wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWFzdGVybiB3b2xm&hash=a3a6047866de530f10293c7dd074c79f5ab42c51&lang=en&cache-only=0",
+            "defineEn": "a medium-sized subspecies of the gray wolf found in eastern Canada, with a grayish-brown coat and black and white markings.",
+            "defineVi": "một phân loài cỡ trung bình của sói xám được tìm thấy ở miền đông Canada, với bộ lông màu nâu xám và các mảng màu đen và trắng."
+        },
+        {
+            "id": "a0ae7018-eb3c-498d-834c-11ad66a14c4d",
+            "word": "Ethiopian wolf",
+            "phonetic": "iːθɪoʊpiən wʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RXRoaW9waWFuIHdvbGY&hash=c0253a7eecb107c2c0ae11e42e060e718dc93213&lang=en&cache-only=0",
+            "defineEn": "The Ethiopian wolf is a slender canid with a reddish-brown coat, white markings, long legs, and a long, narrow snout. It is found only in the highlands of Ethiopia.",
+            "defineVi": "Sói Ethiopia là một loài chó mảnh khảnh với bộ lông màu nâu đỏ, các mảng màu trắng, chân dài và mõm dài và hẹp. Nó chỉ được tìm thấy ở vùng cao nguyên của Ethiopia.",
+            "hasImg": true
+        },
+        {
+            "id": "679d4be9-f21f-4da4-8933-7d658704a594",
+            "word": "fox",
+            "phonetic": "fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After the accident, the company president told the employees to let every fox take care of his own tail and not to blame others for their mistakes.",
+                "The smart entrepreneur didn't invest in a risky business opportunity offered by a stranger online, remembering that it is a silly goose that comes to a fox's sermon.",
+                "It's hard to trust someone who has a history of deceit because a fox may grow grey, but never good.",
+                "When the neighbors argued over their property lines, the mediator advised them to let every fox take care of his own tail and not to interfere with each other's property.",
+                "Now in captivity, foxes will often enjoy the company of other foxes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm94&hash=6dbc18df7f7b616f8e32fc6924313ed401ec5551&lang=en&cache-only=0",
+            "defineEn": "a small to medium-sized mammal belonging to the family Canidae, known for its slender body, bushy tail, and remarkable adaptability to various habitats around the world",
+            "defineVi": "một loài động vật có vú cỡ nhỏ đến trung bình thuộc họ Canidae, được biết đến với thân hình mảnh mai, đuôi rậm rạp và khả năng thích nghi vượt trội với các môi trường sống khác nhau trên thế giới",
+            "hasImg": true
+        },
+        {
+            "id": "878007e3-6014-4caf-8f1d-3e9cbf36f40f",
+            "word": "red fox",
+            "phonetic": "ɹɛd fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cas the male Arctic fox and Seraphina the female red fox.",
+                "I’m Jessi, and this is Seraphina the red fox.",
+                "I’m Jessi, and this is Seraphina the red fox."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVkIGZveA&hash=4c507bcb5e6febee94f6a3ef2b0027d30f1413cc&lang=en&cache-only=0",
+            "defineEn": "a medium-sized mammal of the Canidae family, known for its distinctive red fur, bushy tail, and adaptability to a wide range of habitats",
+            "defineVi": "một loài động vật có vú cỡ trung bình thuộc họ Canidae, được biết đến với bộ lông đỏ đặc biệt, chiếc đuôi rậm rạp và khả năng thích nghi với nhiều môi trường sống",
+            "hasImg": true
+        },
+        {
+            "id": "c9b9cb65-d626-43ef-8dac-8939cbe0db60",
+            "word": "gray fox",
+            "phonetic": "ɡɹeɪ fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JheSBmb3g&hash=3f17e9ef345f91bae7aa40e8335291915143e213&lang=en&cache-only=0",
+            "defineEn": "a medium-sized mammal of the Canidae family, known for its unique appearance",
+            "defineVi": "một loài động vật có vú cỡ trung bình thuộc họ Canidae, được biết đến với vẻ ngoài độc đáo",
+            "hasImg": true
+        },
+        {
+            "id": "05536fd2-6812-452e-b883-24bfa2ca6493",
+            "word": "Tibetan fox",
+            "phonetic": "tɪbɛtən fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VGliZXRhbiBmb3g&hash=c19dd86cfdd39a2c135e2cee9e4dfd6cac4330a3&lang=en&cache-only=0",
+            "defineEn": "a small, wild canid found in the high Tibetan Plateau, with a coat that ranges from reddish-brown to grey and white.",
+            "defineVi": "một loài chó nhỏ, hoang dã được tìm thấy ở cao nguyên Tây Tạng, với bộ lông có màu từ nâu đỏ đến xám và trắng.",
+            "hasImg": true
+        },
+        {
+            "id": "bd7372e8-2e0f-4572-aa27-5582f789ad89",
+            "word": "crab-eating fox",
+            "phonetic": "kɹæbiːɾɪŋ fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3JhYi1lYXRpbmcgZm94&hash=2b6dedddade2e87391adb2c1c6f9766c7ab4641d&lang=en&cache-only=0",
+            "defineEn": "a medium-sized canid found in Central and South America, known for its omnivorous diet that includes crabs",
+            "defineVi": "một loài chó cỡ trung bình được tìm thấy ở Trung và Nam Mỹ, được biết đến với chế độ ăn tạp bao gồm cua"
+        },
+        {
+            "id": "d2859bbe-7eaa-4568-9fb0-ce977d9c8d1b",
+            "word": "kit fox",
+            "phonetic": "kɪt fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a2l0IGZveA&hash=e876c29537e237d1e0e05f36fb1138aec54567f2&lang=en&cache-only=0",
+            "defineEn": "a small fox species found in North America, known for its small size, large ears, and distinctive appearance",
+            "defineVi": "một loài cáo nhỏ được tìm thấy ở Bắc Mỹ, được biết đến với kích thước nhỏ, đôi tai lớn và vẻ ngoài đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "ec498878-6541-4922-90e8-2e4d1aadff3b",
+            "word": "fennec fox",
+            "phonetic": "fɛnɛk fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Today there are 34 species of canids, from the leggy maned wolf to the big-eared fennec fox."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVubmVjIGZveA&hash=2e85ab20999cd6a0c4a0627b1906252f804c0ccd&lang=en&cache-only=0",
+            "defineEn": "a small nocturnal fox found in the Sahara Desert of North Africa. It has distinctive large ears, which serve to dissipate heat and aid in hunting prey in the dark",
+            "defineVi": "một con cáo nhỏ sống về đêm được tìm thấy ở sa mạc Sahara của Bắc Phi Nó có đôi tai lớn đặc biệt, có tác dụng tản nhiệt và hỗ trợ săn mồi trong bóng tối.",
+            "hasImg": true
+        },
+        {
+            "id": "743d39b2-9a47-41d6-96b1-9a416f9d8745",
+            "word": "corsac fox",
+            "phonetic": "kɔːɹsæk fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29yc2FjIGZveA&hash=6556b667dac89e6ee119e093320a4c638446bd85&lang=en&cache-only=0",
+            "defineEn": "a small, wild canid found in the steppes and deserts of central Asia and parts of Eastern Europe. It has a yellowish-grey coat and a bushy tail with a black tip.",
+            "defineVi": "một loài chó nhỏ, hoang dã được tìm thấy ở thảo nguyên và sa mạc ở Trung Á và một phần của Đông Âu. Nó có bộ lông màu xám vàng và một cái đuôi rậm rạp với một đầu màu đen.",
+            "hasImg": true
+        },
+        {
+            "id": "83090b56-84d3-4c1c-8a81-df3b627a23d3",
+            "word": "Cape fox",
+            "phonetic": "keɪp fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2FwZSBmb3g&hash=05d27a1aa0014e2666a32105621057d0d0e3f447&lang=en&cache-only=0",
+            "defineEn": "a small, wild canid found in southern Africa, with a reddish-brown coat and black-tipped ears",
+            "defineVi": "một loài chó nhỏ, hoang dã được tìm thấy ở miền nam châu Phi, với bộ lông màu nâu đỏ và đôi tai có chóp màu đen",
+            "hasImg": true
+        },
+        {
+            "id": "e6f1cd31-7629-4bcb-af19-f95adcfe25bb",
+            "word": "silver fox",
+            "phonetic": "sɪlvɚ fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "One participant had been a barber, so the staff at Town Square asked him if he would help out at the barber shop, called The Silver Fox."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lsdmVyIGZveA&hash=d54c5ecf17722a55b43aa0335b3ab04f3e3fdcd4&lang=en&cache-only=0",
+            "defineEn": "a melanistic color morph of the red fox, characterized by its dark charcoal or black coat color",
+            "defineVi": "một hình thái màu melanistic của cáo đỏ, được đặc trưng bởi màu than sẫm hoặc màu lông đen",
+            "hasImg": true
+        },
+        {
+            "id": "a23e316c-456a-4ff1-b2a2-227573597361",
+            "word": "hoary fox",
+            "phonetic": "hoːɹi fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9hcnkgZm94&hash=b5fd296e7b5d9cf80ab151c206c0754ef7a72d17&lang=en&cache-only=0",
+            "defineEn": "a small, wild canid found in parts of South America, including Brazil, Paraguay, and Argentina. It has a distinctive grayish-white coat and black-tipped tail.",
+            "defineVi": "một loài chó nhỏ, hoang dã được tìm thấy ở các vùng của Nam Mỹ, bao gồm Brazil, Paraguay và Argentina. Nó có bộ lông màu trắng xám đặc biệt và đuôi có đốm đen."
+        },
+        {
+            "id": "89b838a9-6cfd-47db-9abb-da0fceb23e6e",
+            "word": "jackal",
+            "phonetic": "dʒækəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That’s earlier than many other canines, like coyotes, African wolves, African wild dogs, and jackals.",
+                "At least 26 vertebrate species depend on the plant for shade, water, or food, including jackals, antelope, and mice.",
+                "Researchers have seen adult cats circled by jackals five times their size, fight to survive, and win."
+            ],
+            "audio": "https://tts.langeek.co/read?text=amFja2Fs&hash=ded8297832ae566ac68d21d0058b19c9bcd998c3&lang=en&cache-only=0",
+            "defineEn": "a mid-sized canine that hunts in packs, usually found in Africa and Southern Asia",
+            "defineVi": "một con chó cỡ trung bình đi săn theo bầy, thường được tìm thấy ở Châu Phi và Nam Á",
+            "hasImg": true
+        },
+        {
+            "id": "53543888-13fc-4e51-853d-b17964356d29",
+            "word": "dhole",
+            "phonetic": "doʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGhvbGU&hash=11e41351f92ff8a22b8e98fac75c6a594a18c7fa&lang=en&cache-only=0",
+            "defineEn": "a highly social and endangered species of wild canid known for its distinctive reddish coat, native to parts of Asia",
+            "defineVi": "một loài canid hoang dã có tính xã hội cao và có nguy cơ tuyệt chủng được biết đến với bộ lông màu đỏ đặc biệt, có nguồn gốc từ các vùng của châu Á",
+            "hasImg": true
+        },
+        {
+            "id": "47199f57-cc7d-47c0-b753-4e4f6e5fbd25",
+            "word": "dingo",
+            "phonetic": "dɪŋɡoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A dingo is prowling in the shadows, and fruit won’t satisfy his appetite.",
+                "Instead, she attacks, sending the dingo running for cover with one swipe of her razor-sharp toe claws.",
+                "More recent drawings include animals that were introduced to Australia, like dingos and horses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGluZ28&hash=8d5e89b3ca060fe52d6f9825bf56bd0fb01cb456&lang=en&cache-only=0",
+            "defineEn": "a wild dog with a tan or reddish coat that is found in Australia",
+            "defineVi": "một con chó hoang có bộ lông màu nâu hoặc đỏ được tìm thấy ở Úc",
+            "hasImg": true
+        },
+        {
+            "id": "fde5e44c-7694-43d8-bcef-62e0af65e117",
+            "word": "coyote",
+            "phonetic": "kaɪoʊɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Like coyote urine piece of clothing.",
+                "But scientists often use coyotes as a sentinel species.",
+                "For comparison - here’s a coyote.",
+                "So the coyotes exacerbate it. ",
+                "The coyote picked me up at that point."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y295b3Rl&hash=00d2e53946d1191a04dfeaa31b0456bc174c75fc&lang=en&cache-only=0",
+            "defineEn": "a North American wild animal that resembles a small wolf",
+            "defineVi": "một loài động vật hoang dã ở Bắc Mỹ giống như một con sói nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "f5c5c70a-208f-4787-8096-b75e4e896f12",
+            "word": "Culpeo",
+            "phonetic": "kʌlpɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q3VscGVv&hash=5b32f35846d4fd9ec2f41eb9f911e3587e7c189c&lang=en&cache-only=0",
+            "defineEn": "a medium-sized wild canid found in South America, ranging from the Andes Mountains down to the southern tip of the continent. It has a reddish-brown coat and a distinctive black-tipped tail",
+            "defineVi": "một loài chó hoang có kích thước trung bình được tìm thấy ở Nam Mỹ, trải dài từ dãy núi Andes đến mũi phía nam của lục địa. Nó có bộ lông màu nâu đỏ và chiếc đuôi có đốm đen đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "ecabd14e-39f0-46af-aeb9-118506c49bd9",
+            "word": "raccoon dog",
+            "phonetic": "ɹækuːn dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmFjY29vbiBkb2c&hash=4f381aa6924208c4bba100d325dcd6d400b53107&lang=en&cache-only=0",
+            "defineEn": "a small, wild canine species native to East Asia, known for its distinctive appearance resembling a raccoon, with a stocky body, bushy tail, and masked facial markings",
+            "defineVi": "một loài chó nhỏ, hoang dã, có nguồn gốc từ Đông Á, được biết đến với vẻ ngoài đặc biệt giống gấu trúc, với thân hình chắc nịch, đuôi rậm rạp và các dấu hiệu trên mặt",
+            "hasImg": true
+        },
+        {
+            "id": "1d3b6027-4dee-4a78-9353-10e1733e8dc7",
+            "word": "short-eared dog",
+            "phonetic": "ʃɔːɹtɪɹd dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQtZWFyZWQgZG9n&hash=998a5dd0fdf0e0e2fdd990ddfc8d251c8a1f2fd3&lang=en&cache-only=0",
+            "defineEn": "a wild canid found in South America. It is known for its distinctive physical features, including its short, round ears and dark brown fur.",
+            "defineVi": "một loài canid hoang dã được tìm thấy ở Nam Mỹ Nó được biết đến với các đặc điểm ngoại hình đặc biệt, bao gồm đôi tai ngắn, tròn và bộ lông màu nâu sẫm.",
+            "hasImg": true
+        },
+        {
+            "id": "ffdbd51b-4012-4058-aee0-124b40ff9ee4",
+            "word": "bush dog",
+            "phonetic": "bʊʃ dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVzaCBkb2c&hash=7117727cf0979afc89b7e12ef9e35066f4d1c190&lang=en&cache-only=0",
+            "defineEn": "a small, wild canid found in Central and South America. It is known for its distinctive bushy tail and reddish-brown fur.",
+            "defineVi": "một loài chó nhỏ, hoang dã được tìm thấy ở Trung và Nam Mỹ. Nó được biết đến với cái đuôi rậm rạp đặc biệt và bộ lông màu nâu đỏ.",
+            "hasImg": true
+        },
+        {
+            "id": "d6d8f822-fb9c-4749-bf85-b770e08a0d45",
+            "word": "hyena",
+            "phonetic": "haɪiːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the wild plains of Africa, hyenas stand out as repugnant animals.",
+                "But no fossil evidence could place hyenas north of Kansas, until now.",
+                "Yes, captive hyenas are less afraid of new objects.",
+                "Paleontologists have described dozens of hyena species from Africa, Asia, Europe, and even the southern parts of North America.",
+                "So hyenas have big brains, kind of like primates do, but they don’t use them in the same way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHllbmE&hash=b5b63abf39eaf9f6c488898bc33323b8425c05cd&lang=en&cache-only=0",
+            "defineEn": "a nocturnal wild mammal that eats the remains of the flesh of other animals and makes a sound like laughter",
+            "defineVi": "một loài động vật có vú hoang dã sống về đêm ăn phần còn lại của thịt của các loài động vật khác và tạo ra âm thanh như tiếng cười",
+            "hasImg": true
+        },
+        {
+            "id": "31222545-4b8a-4771-a2aa-cb3132be3e48",
+            "word": "brown hyena",
+            "phonetic": "bɹaʊn haɪiːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJvd24gaHllbmE&hash=e8cc83a214c7d0a3f213e17113088caa9eea9019&lang=en&cache-only=0",
+            "defineEn": "a carnivorous mammal native to Africa, known for its distinct appearance and scavenging behaviors",
+            "defineVi": "một loài động vật có vú ăn thịt có nguồn gốc từ Châu Phi, được biết đến với vẻ ngoài khác biệt và hành vi nhặt rác",
+            "hasImg": true
+        },
+        {
+            "id": "62a122b2-2c67-4ea7-b229-e8a311be2d11",
+            "word": "striped hyena",
+            "phonetic": "stɹaɪpt haɪiːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RyaXBlZCBoeWVuYQ&hash=1ac2badb9b5fffae8c879206052cb7185849a0e7&lang=en&cache-only=0",
+            "defineEn": "a carnivorous mammal found in parts of Africa, the Middle East, and South Asia, characterized by its distinctive striped coat, powerful build, and scavenging behaviors",
+            "defineVi": "một loài động vật có vú ăn thịt được tìm thấy ở các vùng của Châu Phi, Trung Đông và Nam Á, được đặc trưng bởi bộ lông sọc đặc biệt, thân hình mạnh mẽ và hành vi nhặt rác",
+            "hasImg": true
+        },
+        {
+            "id": "abfd77ba-23b1-4176-b228-cf23e1a018a3",
+            "word": "spotted hyena",
+            "phonetic": "spɑːɾᵻd haɪiːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BvdHRlZCBoeWVuYQ&hash=e5b8f2d6f4193a129fc130707bb0bc29615a1087&lang=en&cache-only=0",
+            "defineEn": "a large, carnivorous mammal known for its distinctive spotted coat, powerful build, and complex social structure",
+            "defineVi": "một loài động vật có vú lớn, ăn thịt được biết đến với bộ lông đốm đặc biệt, cơ thể mạnh mẽ và cấu trúc xã hội phức tạp",
+            "hasImg": true
+        },
+        {
+            "id": "f8d323d9-ef2b-4b6f-bebb-802c06913ac6",
+            "word": "African wild dog",
+            "phonetic": "æfɹɪkən waɪld dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QWZyaWNhbiB3aWxkIGRvZw&hash=4c6c4a2760cc8d9058e6698129bd65b55b995798&lang=en&cache-only=0",
+            "defineEn": "a canid found in sub-Saharan Africa. It is characterized by its unique coat pattern, which consists of patches of black, white, and brown.",
+            "defineVi": "một loài chó được tìm thấy ở châu Phi cận Sahara. Nó được đặc trưng bởi kiểu lông độc đáo, bao gồm các mảng màu đen, trắng và nâu.",
+            "hasImg": true
+        },
+        {
+            "id": "71dfefb7-266f-4ccd-afb2-b093ee105866",
+            "word": "island fox",
+            "phonetic": "aɪlənd fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aXNsYW5kIGZveA&hash=c985fc1c10baf039ac3e58b2f77a053397399f57&lang=en&cache-only=0",
+            "defineEn": "a small fox endemic to six of the eight Channel Islands of California. It is a subspecies of the gray fox, and is notable for its diminutive size.",
+            "defineVi": "một con cáo nhỏ đặc hữu của sáu trong số tám Quần đảo Channel của California Nó là một phân loài của cáo xám, và đáng chú ý vì kích thước nhỏ bé của nó."
+        },
+        {
+            "id": "d1b917a9-03b9-4e33-b4e1-ae910218e843",
+            "word": "swift fox",
+            "phonetic": "swɪft fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3dpZnQgZm94&hash=b26a3a08fcc8291048183f5c4bd627d9aec85925&lang=en&cache-only=0",
+            "defineEn": "a small North American fox, Vulpes velox, with greyish-brown fur and a black-tipped tail",
+            "defineVi": "một con cáo Bắc Mỹ nhỏ, Vulpes velox, với bộ lông màu nâu xám và cái đuôi đen"
+        },
+        {
+            "id": "a0607c7b-da36-4b19-bc4b-cd0ec3574f3c",
+            "word": "bat-eared fox",
+            "phonetic": "bætɪɹd fɑːks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmF0LWVhcmVkIGZveA&hash=bd7518e104715a75d6822c2a71530361ad30efbf&lang=en&cache-only=0",
+            "defineEn": "a small mammal species known for its distinctively large ears and insectivorous diet, found in various habitats in Africa",
+            "defineVi": "một loài động vật có vú nhỏ được biết đến với đôi tai lớn đặc biệt và chế độ ăn côn trùng, được tìm thấy ở nhiều môi trường sống khác nhau ở Châu Phi"
+        },
+        {
+            "id": "89fdf578-f8ca-4605-ac87-1bdd0b465d13",
+            "word": "aardwolf",
+            "phonetic": "ɑːɹdwʊlf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWFyZHdvbGY&hash=2c5a978c4c915edd27d96bcd70d3fc53b45c4e06&lang=en&cache-only=0",
+            "defineEn": "a small, insectivorous mammal native to Africa, known for its distinctive appearance, which resembles a small striped hyena, and its diet consisting mainly of termites",
+            "defineVi": "một loài động vật có vú nhỏ, ăn côn trùng có nguồn gốc từ Châu Phi, được biết đến với vẻ ngoài đặc biệt, giống như một con linh cẩu sọc nhỏ và chế độ ăn uống của nó bao gồm chủ yếu là mối"
+        }
+    ]
+}

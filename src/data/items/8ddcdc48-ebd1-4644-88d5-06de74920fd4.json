@@ -1,0 +1,731 @@
+{
+    "id": "8ddcdc48-ebd1-4644-88d5-06de74920fd4",
+    "title": "Types of Meal",
+    "originalTitle": "Types of Meal",
+    "words": [
+        {
+            "id": "b4cddf39-7d22-4b51-bb0e-958bdad64830",
+            "word": "breakfast",
+            "phonetic": "bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My parents always drink orange juice for breakfast.",
+                "The new secretary made a dog's breakfast out of the filing system.",
+                "They serve breakfast at all hours.",
+                "Breakfast is served until 9 am.",
+                "Your breakfast is coming soon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWtmYXN0&hash=9843166500799279810976461a971b6036acfc38&lang=en&cache-only=0",
+            "defineEn": "the first meal someone has in the early hours of the day",
+            "defineVi": "bữa ăn đầu tiên của ai đó vào đầu giờ trong ngày",
+            "hasImg": true
+        },
+        {
+            "id": "01510e64-abf4-43ef-9f27-7d99bc00bf4f",
+            "word": "second breakfast",
+            "phonetic": "sɛkənd bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vjb25kIGJyZWFrZmFzdA&hash=ca98a7e0547a2f91eddeec7776e90244866179bc&lang=en&cache-only=0",
+            "defineEn": "a meal that is eaten after the regular breakfast, typically as a mid-morning snack or additional meal",
+            "defineVi": "một bữa ăn được ăn sau bữa sáng thông thường, thường là bữa ăn nhẹ giữa buổi sáng hoặc bữa ăn bổ sung"
+        },
+        {
+            "id": "8ff98e72-f54e-4484-8edb-1e904094ab9f",
+            "word": "full breakfast",
+            "phonetic": "fʊl bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbCBicmVha2Zhc3Q&hash=ab8a6420dad692641004e8e6526c2d5b4ad14522&lang=en&cache-only=0",
+            "defineEn": "a substantial and hearty meal traditionally eaten in the morning",
+            "defineVi": "một bữa ăn thịnh soạn và thịnh soạn theo truyền thống được ăn vào buổi sáng"
+        },
+        {
+            "id": "78e7416b-c233-48a7-80cd-3b05795c0966",
+            "word": "midnight breakfast",
+            "phonetic": "mɪdnaɪt bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWlkbmlnaHQgYnJlYWtmYXN0&hash=5786ea8bc8666883347e69d6effc3c2e5ebd589a&lang=en&cache-only=0",
+            "defineEn": "a meal that is consumed during the late-night hours, typically after midnight",
+            "defineVi": "một bữa ăn được tiêu thụ trong những giờ đêm muộn, thường là sau nửa đêm"
+        },
+        {
+            "id": "3c804bbe-8e9f-43cb-a0d6-324c43f66a74",
+            "word": "instant breakfast",
+            "phonetic": "ɪnstənt bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5zdGFudCBicmVha2Zhc3Q&hash=1f9a0a743955084e5c46bca9faa36209be3e4fcb&lang=en&cache-only=0",
+            "defineEn": "a type of breakfast food or beverage that is designed to be quickly and easily prepared, often in a powdered or liquid form",
+            "defineVi": "một loại đồ ăn sáng hoặc đồ uống được thiết kế để chuẩn bị nhanh chóng và dễ dàng, thường ở dạng bột hoặc lỏng"
+        },
+        {
+            "id": "d1957686-d3d7-4944-bf5c-cc165815be9f",
+            "word": "champagne breakfast",
+            "phonetic": "ʃæmpeɪn bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbXBhZ25lIGJyZWFrZmFzdA&hash=436c60f84f6a2e7cc288bcca16143eed7ad28976&lang=en&cache-only=0",
+            "defineEn": "a meal that includes champagne or other sparkling wine, often consumed in the morning or as part of a celebratory occasion",
+            "defineVi": "một bữa ăn bao gồm rượu sâm banh hoặc rượu sủi tăm khác, thường được dùng vào buổi sáng hoặc là một phần của dịp ăn mừng"
+        },
+        {
+            "id": "a8a7e4e3-4592-40ac-abe5-bc968f64cd3e",
+            "word": "tiffin",
+            "phonetic": "tɪfɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGlmZmlu&hash=b557945353db20ac8b6f465341127a4acb0934e9&lang=en&cache-only=0",
+            "defineEn": "a midday meal",
+            "defineVi": "một bữa ăn trưa",
+            "hasImg": true
+        },
+        {
+            "id": "447ea321-acbe-4d71-af96-87bf850a8792",
+            "word": "brunch",
+            "phonetic": "bɹʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The brunch special featured a beefburger with a sunny-side-up egg, crispy bacon, and a dollop of hollandaise sauce.",
+                "They gathered in the dining room for Sunday brunch.",
+                "Grandma's clabber pancakes are a family favorite for Sunday brunch.",
+                "They hosted a brunch and prepared gluten-free pancakes using a blend of gluten-free flours.",
+                "My parents hosted a brunch and served Eggs Benedict with a luscious mornay sauce, impressing their guests."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJ1bmNo&hash=e721e840d0739db687eff6a6a096280525a12b5e&lang=en&cache-only=0",
+            "defineEn": "a meal served late in the morning, as a combination of breakfast and lunch",
+            "defineVi": "một bữa ăn được phục vụ vào buổi sáng muộn, như một sự kết hợp giữa bữa sáng và bữa trưa",
+            "hasImg": true
+        },
+        {
+            "id": "4e025498-2c0d-4f2e-923d-ddb00f125387",
+            "word": "elevenses",
+            "phonetic": "ᵻlɛvɛnsᵻz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxldmVuc2Vz&hash=ddb843d52a14fb426ab9b079bbe9301955639067&lang=en&cache-only=0",
+            "defineEn": "a light refreshment or snack, typically enjoyed around 11 a.m., often consisting of tea or coffee accompanied by biscuits, pastries, or similar small treats",
+            "defineVi": "giải khát nhẹ hoặc bữa ăn nhẹ, thường được thưởng thức vào khoảng 11 giờ sáng, thường bao gồm trà hoặc cà phê kèm theo bánh quy, bánh ngọt hoặc các món ăn nhỏ tương tự"
+        },
+        {
+            "id": "2c8d004c-2d27-40f5-be06-dfdd957ea48a",
+            "word": "lunch",
+            "phonetic": "lʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does this pub do lunches?",
+                "The chef prepared a creamy tomato soup for lunch.",
+                "The employee took a lunch break in the cafeteria.",
+                "I made a delicious turkey and cheese sandwich for lunch.",
+                "I ate a sandwich and a half for lunch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bHVuY2g&hash=3fbf392c8676a321b91c2f08df8342a72dff5654&lang=en&cache-only=0",
+            "defineEn": "a meal eaten in the middle of the day",
+            "defineVi": "một bữa ăn vào giữa ngày",
+            "hasImg": true
+        },
+        {
+            "id": "f60ea9cc-89b3-4c9c-a2e6-1c0d05ebe78a",
+            "word": "packed lunch",
+            "phonetic": "pækt lʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFja2VkIGx1bmNo&hash=3b13379802ed5dbd32bc8642dc3ba47d45613c52&lang=en&cache-only=0",
+            "defineEn": "the food such as fruit, sandwiches, etc. taken to work or school",
+            "defineVi": "thức ăn như trái cây, bánh mì, v.v. mang đi làm hoặc đi học",
+            "hasImg": true
+        },
+        {
+            "id": "35604fdc-4303-406d-bd94-9d0edc353494",
+            "word": "meal deal",
+            "phonetic": "miːl diːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVhbCBkZWFs&hash=e80ca44d1aaf413317f648b67cf9c1dca2fdae99&lang=en&cache-only=0",
+            "defineEn": "a promotional offer or package from a restaurant, cafe, or food establishment that includes a combination of food items or dishes",
+            "defineVi": "ưu đãi hoặc gói khuyến mại từ nhà hàng, quán cà phê hoặc cơ sở thực phẩm bao gồm sự kết hợp của các mặt hàng thực phẩm hoặc món ăn"
+        },
+        {
+            "id": "237dee0b-f48e-46ac-8166-1eeb4dc88ba4",
+            "word": "tea",
+            "phonetic": "tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Spill the tea!",
+                "The aromatic wintergreen tea soothes her sore throat.",
+                "A cup of tea sounds perfect.",
+                "The restaurant served tea accompanied by delicate sugar lumps on the side.",
+                "Do you want some more tea?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVh&hash=b7657d4c14b9556d6b6da8f12dd4d9f2e35fcc2c&lang=en&cache-only=0",
+            "defineEn": "a light midafternoon meal of tea and sandwiches or cakes",
+            "defineVi": "một bữa ăn nhẹ giữa buổi chiều với trà và bánh mì hoặc bánh ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "490a4e9a-0ecd-4944-8e90-3489a954a470",
+            "word": "afternoon tea",
+            "phonetic": "æftɚnuːn tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She hosted an afternoon tea and served golden syrup scones.",
+                "They gathered for afternoon tea and enjoyed scones with clotted cream and jam.",
+                "He elevated his afternoon tea by adding a spoonful of lemon curd to his hot tea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWZ0ZXJub29uIHRlYQ&hash=8097755cf280482aebc22e7693d323690e2cbec1&lang=en&cache-only=0",
+            "defineEn": "a small meal that consists of cakes and tea, eaten in the afternoon",
+            "defineVi": "một bữa ăn nhỏ bao gồm bánh ngọt và trà, ăn vào buổi chiều",
+            "hasImg": true
+        },
+        {
+            "id": "20e8416f-15d4-4548-b26a-eaff20a33d03",
+            "word": "high tea",
+            "phonetic": "haɪ tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I had Dainty and Truffle - those were the two that I bought from, like, Sugarpill's High Tea collection, or Tea collection, whatever."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaCB0ZWE&hash=1c1f75aa0e4710d226c4dcce7db40795c10281e2&lang=en&cache-only=0",
+            "defineEn": "a meal that includes cakes, bread and butter with tea, eaten in the early evening",
+            "defineVi": "một bữa ăn bao gồm bánh ngọt, bánh mì và bơ với trà, ăn vào đầu buổi tối",
+            "hasImg": true
+        },
+        {
+            "id": "cdfa3ba2-f8c0-445a-892c-2a27108d08cf",
+            "word": "dinner",
+            "phonetic": "dɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The price includes dinner, bed, and breakfast.",
+                "After dinner comes the reckoning.",
+                "The bell sounded for dinner.",
+                "The government's latest proposals are a dog's dinner.",
+                "Dinner is served between 7 and 10 p.m."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlubmVy&hash=88cb0ba0d8d8408a01693a4b60d49db1908635d4&lang=en&cache-only=0",
+            "defineEn": "the main meal of the day, eaten either in the middle of the day or in the evening",
+            "defineVi": "bữa ăn chính trong ngày, ăn vào giữa ngày hoặc vào buổi tối",
+            "hasImg": true
+        },
+        {
+            "id": "fa38eaaf-4f84-445b-8f71-f5864eac1b08",
+            "word": "dinner party",
+            "phonetic": "dɪnɚ pɑːɹɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlubmVyIHBhcnR5&hash=3a0f1a45f7725c08ced923abbd5d95116aad7f9a&lang=en&cache-only=0",
+            "defineEn": "a party of people assembled to have dinner together",
+            "defineVi": "một nhóm người tụ tập để ăn tối cùng nhau"
+        },
+        {
+            "id": "52e24bc2-c211-468a-97ab-bed30caa1fd6",
+            "word": "full course dinner",
+            "phonetic": "fʊl koːɹs dɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbCBjb3Vyc2UgZGlubmVy&hash=0adef533eb119538aedecc6f738872251ff0854f&lang=en&cache-only=0",
+            "defineEn": "a formal or elaborate meal that consists of multiple courses",
+            "defineVi": "một bữa ăn chính thức hoặc công phu bao gồm nhiều khóa học"
+        },
+        {
+            "id": "d45b0113-5454-40e2-8afe-559c1d2bfdca",
+            "word": "supper",
+            "phonetic": "sʌpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'll get supper.",
+                "\"My grandmother always used to say, after dinner sleep a while, after supper walk a mile,\" said Sarah.",
+                "Julie, I know you're excited about your new project, but remember that hope is a good breakfast but a bad supper.",
+                "Now, if you’ll excuse me, it’s supper time.",
+                "He called it \"The Supper at Emmaus.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VwcGVy&hash=9f9c2d99eadb5d1f0408350552ad4cdd595e301b&lang=en&cache-only=0",
+            "defineEn": "a meal that is often less formal than dinner and is eaten in the evening, which is either a main meal or a light one",
+            "defineVi": "một bữa ăn thường ít trang trọng hơn bữa tối và được ăn vào buổi tối, đó là bữa ăn chính hoặc bữa ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "9d5a49df-570c-4783-92d8-757df4c46b05",
+            "word": "siu yeh",
+            "phonetic": "sɪuː jeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2l1IHllaA&hash=4ec68743035932307392c6a024dc546cf48ed9eb&lang=en&cache-only=0",
+            "defineEn": "a late-night meal or late-night dining culture in Hong Kong, where people gather to eat and socialize after midnight",
+            "defineVi": "một bữa ăn khuya hoặc văn hóa ăn khuya ở Hồng Kông, nơi mọi người tụ tập ăn uống và giao lưu sau nửa đêm"
+        },
+        {
+            "id": "16a0c992-0c31-401a-88ed-3750cd2f93e4",
+            "word": "midnight snack",
+            "phonetic": "mɪdnaɪt snæk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWlkbmlnaHQgc25hY2s&hash=70b1ae787e2d1097cd18e39b889c6382f1eb52ba&lang=en&cache-only=0",
+            "defineEn": "a small meal or snack that is consumed during the late-night hours, typically after dinner and before bedtime",
+            "defineVi": "một bữa ăn nhỏ hoặc bữa ăn nhẹ được tiêu thụ vào đêm khuya, thường là sau bữa tối và trước khi đi ngủ"
+        },
+        {
+            "id": "c27ee533-d5ce-4c07-9705-a81f92786103",
+            "word": "airline meal",
+            "phonetic": "ɛɹlaɪn miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWlybGluZSBtZWFs&hash=1f7a1bc1cfd04eab8d91b733e519ba93f3b67846&lang=en&cache-only=0",
+            "defineEn": "a meal that is served on board an aircraft during a flight",
+            "defineVi": "một bữa ăn được phục vụ trên máy bay trong một chuyến bay"
+        },
+        {
+            "id": "44fb59d2-f643-4297-a97d-155d6ffc950d",
+            "word": "banquet",
+            "phonetic": "bæŋkwɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And this is the big banquet dinner that they're all going to be at together.",
+                "- I've had lot of bug banquets, but this was superb.",
+                "Before the NFL draft became a premier television event, the battle for new players was fought behind closed doors and hotel banquet halls.",
+                "I recently flew to Long Beach to attend a big bug banquet where a bunch of talented chefs are turning insects into fine dining.",
+                "And whether he actually sees Banquo’s ghost in the banquet scene or just hallucinates him, neither suggests a man who is happy in his life choices."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFucXVldA&hash=5e8d849f4ebbd462de6b6d5bb07afc53281cbfcb&lang=en&cache-only=0",
+            "defineEn": "a large and formal meal for many people, often for a special event",
+            "defineVi": "một bữa ăn lớn và trang trọng cho nhiều người, thường cho một sự kiện đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "f3f844a9-7c07-420c-8a6d-8da826da2776",
+            "word": "barbecue",
+            "phonetic": "bɑːɹbɪkjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We sometimes have a barbecue in the backyard.",
+                "My friends enjoyed tangy barbecue gammon skewers at the summer barbecue.",
+                "My friends enjoyed tangy barbecue gammon skewers at the summer barbecue.",
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue.",
+                "They grilled marinated fryer chicken skewers at the backyard barbecue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFyYmVjdWU&hash=dfbe06d9faeec91a2817eb74ec4eeb80c6dcd206&lang=en&cache-only=0",
+            "defineEn": "an outdoor meal or party during which food (meat, fish, etc.) is cooked on a metal frame over an open fire",
+            "defineVi": "một bữa ăn hoặc bữa tiệc ngoài trời trong đó thức ăn (thịt, cá, v.v.) được nấu trên khung kim loại trên ngọn lửa trần",
+            "hasImg": true
+        },
+        {
+            "id": "b4129b82-4a8d-4a1d-9f33-9174bb2b7e8b",
+            "word": "blue-plate special",
+            "phonetic": "bluːpleɪt spɛʃəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ymx1ZS1wbGF0ZSBzcGVjaWFs&hash=7c05a1e3db197a9c6b9d944e628c851234e35a79&lang=en&cache-only=0",
+            "defineEn": "a special discounted meal or menu item offered for a limited time",
+            "defineVi": "một bữa ăn hoặc thực đơn giảm giá đặc biệt được cung cấp trong một thời gian giới hạn"
+        },
+        {
+            "id": "aa2762cb-ea5a-4eeb-9de8-c545231ce940",
+            "word": "buffet",
+            "phonetic": "bʌfɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At a family reunion picnic, the buffet table showcased a classic beef plate roast.",
+                "Our scalp is their buffet.",
+                "Think: Las Vegas buffet.",
+                "The stream delivers an endless buffet of new victims.",
+                "In the process, it releases a buffet of long dead plants and animals on the lake floor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVmZmV0&hash=2fdc68f23739d81b0ef367d9802e48892bd3769f&lang=en&cache-only=0",
+            "defineEn": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+            "defineVi": "một bữa ăn với nhiều món ăn mà mọi người tự phục vụ tại bàn và sau đó ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "d1c939fb-4cd2-4799-9cac-f95b20ff1be3",
+            "word": "collation",
+            "phonetic": "kəleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29sbGF0aW9u&hash=c4e19db7f49b1499120aca56a76ca14885531434&lang=en&cache-only=0",
+            "defineEn": "a light informal meal",
+            "defineVi": "một bữa ăn nhẹ không chính thức",
+            "hasImg": true
+        },
+        {
+            "id": "8b87ed80-3267-4a3b-893b-1d4d7f24b089",
+            "word": "haute cuisine",
+            "phonetic": "hɔːt kwᵻziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGF1dGUgY3Vpc2luZQ&hash=f15342677bc7d0f6d19994d1491a2c875e5eb715&lang=en&cache-only=0",
+            "defineEn": "(French) an elaborate and skillful manner of preparing food",
+            "defineVi": "(tiếng Pháp) cách chế biến thức ăn công phu và khéo léo"
+        },
+        {
+            "id": "8c87bcfc-2c9f-48c8-9348-c55048a7af25",
+            "word": "kaiseki",
+            "phonetic": "kaɪzɛki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We are at an restaurant called Jisaku, and we are about to enjoy a ceremonial meal called a kaiseki"
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2Fpc2VraQ&hash=603ed8785499e0f8938bbe2a0d237caa9d9135f8&lang=en&cache-only=0",
+            "defineEn": "a traditional Japanese multi-course meal that showcases seasonal and regional ingredients",
+            "defineVi": "một bữa ăn nhiều món truyền thống của Nhật Bản trưng bày các nguyên liệu theo mùa và theo vùng"
+        },
+        {
+            "id": "33ae9c3c-840f-4461-89c9-da1fac64b485",
+            "word": "picnic",
+            "phonetic": "pɪknɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children spread cheese dip on crackers during their picnic in the park.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "We often have a picnic in the park on sunny Sundays.",
+                "At a family reunion picnic, the buffet table showcased a classic beef plate roast.",
+                "We packed sandwiches for our picnic in the park."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGljbmlj&hash=20920f10e08d0fd7e696114df67479a2a00b0738&lang=en&cache-only=0",
+            "defineEn": "the meal that people eat during their picnics",
+            "defineVi": "bữa ăn mà mọi người ăn trong buổi dã ngoại của họ",
+            "hasImg": true
+        },
+        {
+            "id": "dc332f00-025d-43bb-b98b-7c966d8ba7e9",
+            "word": "potluck",
+            "phonetic": "pɑːtlʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They brought a dish of roasted Jerusalem artichokes to the potluck.",
+                "We'd take potluck at whatever restaurants might still be open.",
+                "She proudly served a fat hen-infused pesto at the neighborhood potluck.",
+                "I'll put you down for bringing dessert to the potluck",
+                "It was evident that the left hand did not know what the right hand was doing when we planned our potluck dinner party, since everyone brought dessert and no one brought a main dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG90bHVjaw&hash=2a8647b9f9fdbf23d687bb7bc9bbe43c17c2e730&lang=en&cache-only=0",
+            "defineEn": "a meal or party where each guest brings a dish to share with the group, typically without prior coordination of what dishes will be prepared",
+            "defineVi": "một bữa ăn hoặc bữa tiệc trong đó mỗi khách mang một món ăn để chia sẻ với nhóm, thường không có sự phối hợp trước về những món ăn sẽ được chuẩn bị"
+        },
+        {
+            "id": "0e5881f9-44c4-413a-a2cb-af5a62c5fed0",
+            "word": "tv dinner",
+            "phonetic": "tiːviː dɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHYgZGlubmVy&hash=7b10713eabc222e4c29cd6f091ff49b9b8f05748&lang=en&cache-only=0",
+            "defineEn": "a pre-prepared and cooked meal that only needs heating before being ready to be eaten",
+            "defineVi": "một bữa ăn được chuẩn bị trước và nấu chín, chỉ cần hâm nóng trước khi ăn",
+            "hasImg": true
+        },
+        {
+            "id": "5d2ac411-49ca-4a93-ae89-f1ee64e09540",
+            "word": "family meal",
+            "phonetic": "fæmɪli miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFtaWx5IG1lYWw&hash=f6b01ed5b81292c05117aef86547357838816cca&lang=en&cache-only=0",
+            "defineEn": "a shared meal that is prepared and consumed by a group of people, often within a family or close-knit community",
+            "defineVi": "một bữa ăn chung được chuẩn bị và tiêu thụ bởi một nhóm người, thường là trong một gia đình hoặc cộng đồng gần gũi"
+        },
+        {
+            "id": "3c003ec4-7987-43b1-bb33-b71abba6f36b",
+            "word": "value meal",
+            "phonetic": "væljuː miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmFsdWUgbWVhbA&hash=38abab671e935747260cbecc9cd07e33ca6898af&lang=en&cache-only=0",
+            "defineEn": "a discounted combo meal with a main dish, sides, and a beverage offered at fast food restaurants",
+            "defineVi": "một bữa ăn kết hợp giảm giá với món chính, món phụ và đồ uống được cung cấp tại các nhà hàng thức ăn nhanh"
+        },
+        {
+            "id": "77ad524c-52f2-4513-bafb-65b7730a4af4",
+            "word": "suhur",
+            "phonetic": "suːhɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VodXI&hash=7874b4a59f10ba01ee042ef9389e705bf7d1d351&lang=en&cache-only=0",
+            "defineEn": "the pre-dawn meal consumed by Muslims during the Islamic fasting month of Ramadan",
+            "defineVi": "bữa ăn trước bình minh của người Hồi giáo trong tháng ăn chay Ramadan của người Hồi giáo"
+        },
+        {
+            "id": "dae56c72-f605-4530-a23e-cc902227000b",
+            "word": "iftar",
+            "phonetic": "ɪftɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Certainly, what we are seeing is extremely worrying, and certainly, when you see the treatment to some of the protesters and even people who weren't protesting, people who were simply praying or people who were having their iftar, who've been subjected to violence or completely unprovoked responses by the security forces.",
+                "Certainly, what we are seeing is extremely worrying, and certainly, when you see the treatment to some of the protesters and even people who weren't protesting, people who were simply praying or people who were having their iftar, who've been subjected to violence or completely unprovoked responses by the security forces."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWZ0YXI&hash=411a88755fe054d5e7a18e0bd92ee1fcbf254d66&lang=en&cache-only=0",
+            "defineEn": "the evening meal that Muslims consume to break their fast during the Islamic month of Ramadan",
+            "defineVi": "bữa ăn tối mà người Hồi giáo dùng để nhịn ăn trong tháng Ramadan của người Hồi giáo"
+        },
+        {
+            "id": "301b12c6-1bfe-4340-8a2a-a227b7a501ec",
+            "word": "bite",
+            "phonetic": "baɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By the will of his wife, he bit the bullet.",
+                "The bite had scarcely broken the skin.",
+                "The bite had scarcely broken the skin.",
+                "The street vendor served crispy trotter bites with a tangy dipping sauce at the food market.",
+                "Never bite the hand that feeds you Carol."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0ZQ&hash=abbc6b5a929034492455a205c4024f98ca67469a&lang=en&cache-only=0",
+            "defineEn": "a small amount of food that is taken into the mouth at one time, often to chew or swallow",
+            "defineVi": "một lượng nhỏ thức ăn được đưa vào miệng cùng một lúc, thường nhai hoặc nuốt"
+        },
+        {
+            "id": "6c672d8d-68ee-4870-9649-1e06c8722efc",
+            "word": "square meal",
+            "phonetic": "skwɛɹ miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJlIG1lYWw&hash=66887f6bd94e41e31dd93283619b5e3929152e8e&lang=en&cache-only=0",
+            "defineEn": "a meal that is complete and satisfying",
+            "defineVi": "một bữa ăn đầy đủ và thỏa mãn"
+        },
+        {
+            "id": "09bfc876-9b93-4445-a0c0-32251f66b230",
+            "word": "continental breakfast",
+            "phonetic": "kɑːntɪnɛntəl bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29udGluZW50YWwgYnJlYWtmYXN0&hash=e5713a35d3521880747f5927930c6ebf77d50888&lang=en&cache-only=0",
+            "defineEn": "a breakfast that usually includes a roll and coffee or tea",
+            "defineVi": "một bữa ăn sáng thường bao gồm bánh cuộn và cà phê hoặc trà"
+        },
+        {
+            "id": "293b7a1f-3b99-4d74-b753-c7e5321663dc",
+            "word": "cookout",
+            "phonetic": "kʊkaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Grilled vegetable skewers are a crowd-pleasing appetizer at summer cookouts.",
+                "They hosted a backyard cookout, serving mouthwatering ribs that were a hit with their guests.",
+                "My dad grilled a succulent pork joint with barbecue sauce for a backyard cookout.",
+                "We gathered for a summer cookout and savored delicious short loin burgers.",
+                "They gathered around the barbecue, grilling a variety of sausages for a fun and flavorful backyard cookout."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29va291dA&hash=4e870bd6bb2c5b7c9c04203942024ed787818d3d&lang=en&cache-only=0",
+            "defineEn": "an informal meal cooked and eaten outdoors",
+            "defineVi": "một bữa ăn không chính thức nấu chín và ăn ngoài trời",
+            "hasImg": true
+        },
+        {
+            "id": "dcce20a5-e155-4977-9d98-794d264459e7",
+            "word": "cream tea",
+            "phonetic": "kɹiːm tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What's happened is the pleasure I get from cream teas has activated an area here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYW0gdGVh&hash=be219c6fefb04947235fd1b90e23ca32ef6aaf9f&lang=en&cache-only=0",
+            "defineEn": "a meal that consists of jam, cream, and tea with small cakes, eaten in the afternoon",
+            "defineVi": "một bữa ăn bao gồm mứt, kem và trà với bánh nhỏ, ăn vào buổi chiều",
+            "hasImg": true
+        },
+        {
+            "id": "a81803c8-b689-4a22-8cca-225c3d820eed",
+            "word": "English breakfast",
+            "phonetic": "ɪŋɡlɪʃ bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But the full English Breakfast, a hot meal consisting of sausages, eggs, bacon, beans, black pudding, hash browns, fried tomatoes and mushrooms has some varied origin stories."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RW5nbGlzaCBicmVha2Zhc3Q&hash=bd1c71a01c4d081d38d8405940779e71995bb7c4&lang=en&cache-only=0",
+            "defineEn": "a traditional British morning meal with eggs, bacon, sausage, beans, tomatoes, black pudding, and toast or fried bread, usually served with tea or coffee",
+            "defineVi": "một bữa ăn sáng truyền thống của Anh với trứng, thịt xông khói, xúc xích, đậu, cà chua, bánh pudding đen và bánh mì nướng hoặc bánh mì chiên, thường được dùng với trà hoặc cà phê"
+        },
+        {
+            "id": "8f1c7567-d679-473d-93fa-a040240c4273",
+            "word": "feast",
+            "phonetic": "fiːst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The garden is a feast for the eyes.",
+                "The audience at the fashion show feasted their eyes on the stunning runway models, showcasing the latest designer collections.",
+                "His sketches are always a feast to the eyes.",
+                "Jazz has always been a feast to my ears.",
+                "Pop is a feast to the ears of many, but I despise it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVhc3Q&hash=6b92abece3a8b748af54e5efce22cc78fdf87e79&lang=en&cache-only=0",
+            "defineEn": "a meal with fine food or a large meal for many people celebrating a special event",
+            "defineVi": "một bữa ăn với thức ăn ngon hoặc một bữa ăn lớn cho nhiều người ăn mừng một sự kiện đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "13c55937-46cb-46cc-98cc-81db6085e709",
+            "word": "liquid lunch",
+            "phonetic": "lɪkwɪd lʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlxdWlkIGx1bmNo&hash=345f0c007599a0668c6d472397451a03aeb6bd9a&lang=en&cache-only=0",
+            "defineEn": "a midday meal or gathering where alcoholic beverages, such as cocktails or wine, are consumed instead of solid food",
+            "defineVi": "một bữa ăn trưa hoặc tụ tập nơi đồ uống có cồn, chẳng hạn như cocktail hoặc rượu vang, được tiêu thụ thay vì thức ăn đặc"
+        },
+        {
+            "id": "624f6f24-e246-4fdc-992a-3a61d857e8f6",
+            "word": "tiffin",
+            "phonetic": "lʌntʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGlmZmlu&hash=b557945353db20ac8b6f465341127a4acb0934e9&lang=en&cache-only=0",
+            "defineEn": "a midday meal",
+            "defineVi": "một bữa ăn trưa",
+            "hasImg": true
+        },
+        {
+            "id": "5dbb38f2-5fc3-4c59-a9f5-c7b091e4065d",
+            "word": "nosh-up",
+            "phonetic": "nɑːʃʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm9zaC11cA&hash=1182aa06dc501f4a9f3c1251a6be14e01346b8c2&lang=en&cache-only=0",
+            "defineEn": "a big meal",
+            "defineVi": "một bữa ăn lớn",
+            "hasImg": true
+        },
+        {
+            "id": "04358dbc-b671-4201-9e53-283722b7b800",
+            "word": "meal",
+            "phonetic": "miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Good wine can make a meal.",
+                "The chef cooks a delicious meal in the restaurant.",
+                "Meals can be served to you in your room.",
+                "She cooked a delicious meal in the kitchen.",
+                "She enjoys cooking meals for her family in the kitchen of their home."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhbA&hash=6f376b331ec002aa51137fff6a33f809acc597ea&lang=en&cache-only=0",
+            "defineEn": "the food that you eat on regular occasions during the day, especially breakfast, lunch, or dinner; or any of these occasions",
+            "defineVi": "thức ăn mà bạn ăn thường xuyên trong ngày, đặc biệt là bữa sáng, bữa trưa hoặc bữa tối; hoặc bất kỳ dịp nào trong số này",
+            "hasImg": true
+        },
+        {
+            "id": "964bc81f-1346-4dea-acd2-114d50132ee0",
+            "word": "ready meal",
+            "phonetic": "ɹɛdi miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's rank in the frozen ready meals category is also on the rise."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVhZHkgbWVhbA&hash=be7c34f3314839573b537f6fbea0ec935a906b34&lang=en&cache-only=0",
+            "defineEn": "a meal that is pre-cooked and only needs reheating before it is ready to be eaten",
+            "defineVi": "một bữa ăn được nấu sẵn và chỉ cần hâm nóng lại trước khi ăn",
+            "hasImg": true
+        },
+        {
+            "id": "37080ea0-02ce-45eb-bd84-3b605fe7fc19",
+            "word": "smorgasbord",
+            "phonetic": "smoːɹɡɐsboːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- We have a smorgasbord to cover with cheese.",
+                "Sewage treatment plants are a virtual microbe zoo, with hundreds of different species enjoying that smorgasbord: bacteria, of course, but also fungi, protozoans, rotifers, and nematodes.",
+                "Corporate debt has gotten, it, I've been saying there's no one thing this is if we're going to have a recession, it's going gonna be a smorgasbord recessions, it's going to be no one thing, but just a bunch of different things.",
+                "If we're going to have a recession, it's gonna be a smorgasbord recession.",
+                "I've been saying there's no one thing this is if we're going to have a recession it's going to be a smorgasbord recession."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21vcmdhc2JvcmQ&hash=618cb28f7516526ed3d00eab5e5579b044bafca9&lang=en&cache-only=0",
+            "defineEn": "an assortment of foods starting with herring or smoked eel or salmon etc with bread and butter; then cheeses and eggs and pickled vegetables and aspics; finally hot foods; served as a buffet meal",
+            "defineVi": "một loạt các loại thực phẩm bắt đầu với cá trích hoặc lươn hun khói hoặc cá hồi, v.v. với bánh mì và bơ; sau đó là pho mát và trứng, rau ngâm và aspics; cuối cùng là thức ăn nóng; phục vụ như một bữa ăn tự chọn"
+        },
+        {
+            "id": "eb5e1f51-6012-4682-a837-3ec6cc86ee0e",
+            "word": "snack",
+            "phonetic": "snæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We snacked on crispy roasted adzuki beans by the riverside.",
+                "Try some dried apricots as a healthy snack.",
+                "A complimentary afternoon snack is served to all guests.",
+                "He ate an orange carrot for a snack.",
+                "They snacked on a handful of mixed nuts for an energy boost during their hike."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25hY2s&hash=e379bd7ae8ea6793e883bf254828c6058c1ea05c&lang=en&cache-only=0",
+            "defineEn": "a small meal that is usually eaten between the main meals or when there is not much time for cooking",
+            "defineVi": "một bữa ăn nhỏ thường được ăn giữa các bữa ăn chính hoặc khi không có nhiều thời gian để nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "94b42ee3-18a8-4b41-b313-8c0b61ea7d38",
+            "word": "spread",
+            "phonetic": "spɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad spread a thick layer of orange marmalade on my morning toast.",
+                "The children spread cheese dip on crackers during their picnic in the park.",
+                "She spread a thick layer of tomato sauce on the pizza dough.",
+                "I spread a layer of brown sauce on my sandwich.",
+                "She spread a dollop of cocktail sauce on her oysters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ByZWFk&hash=8dd7abd9196cd4d4205100836d36992cee31a84f&lang=en&cache-only=0",
+            "defineEn": "a meal that is well prepared and greatly enjoyed",
+            "defineVi": "một bữa ăn được chuẩn bị tốt và rất thích"
+        },
+        {
+            "id": "fccc6bd7-599d-4c85-8c9d-6fba41fcfed1",
+            "word": "takeaway",
+            "phonetic": "teɪkəweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She ordered a takeaway meal of pizza and garlic bread for dinner.",
+                "They began to offer takeaway food, and other restaurants followed suit.",
+                "So anyways, here's the takeaway.",
+                "What was your takeaway from those Russian exercises?",
+                "Ultimately the takeaway here Is that if you're looking for a therapist?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFrZWF3YXk&hash=1a72f42ac4178e47d1d6edb944ff4dc897691789&lang=en&cache-only=0",
+            "defineEn": "a meal bought from a restaurant or store to be eaten somewhere else",
+            "defineVi": "một bữa ăn mua từ một nhà hàng hoặc cửa hàng để ăn ở một nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "f064c0d6-a19d-4a7f-a289-e6bebcf03f80",
+            "word": "takeaway",
+            "phonetic": "teɪkaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She ordered a takeaway meal of pizza and garlic bread for dinner.",
+                "They began to offer takeaway food, and other restaurants followed suit.",
+                "So anyways, here's the takeaway.",
+                "What was your takeaway from those Russian exercises?",
+                "Ultimately the takeaway here Is that if you're looking for a therapist?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFrZWF3YXk&hash=1a72f42ac4178e47d1d6edb944ff4dc897691789&lang=en&cache-only=0",
+            "defineEn": "a meal bought from a restaurant or store to be eaten somewhere else",
+            "defineVi": "một bữa ăn mua từ một nhà hàng hoặc cửa hàng để ăn ở một nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "017614be-18b4-46c4-8246-5a78ebba61be",
+            "word": "to go",
+            "phonetic": "tə ɡoʊ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
+            "defineEn": "food that is bought from a restaurant, etc. to be eaten elsewhere",
+            "defineVi": "thực phẩm được mua từ một nhà hàng, vv để ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "cb1124a0-5631-4216-adbd-49b79db261cd",
+            "word": "wedding breakfast",
+            "phonetic": "wɛdɪŋ bɹɛkfəst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2VkZGluZyBicmVha2Zhc3Q&hash=d3d1aa853ec02b9d638f0b7d1ec9655b09dabb89&lang=en&cache-only=0",
+            "defineEn": "a meal or reception held after a wedding ceremony, typically consisting of a formal sit-down meal with multiple courses",
+            "defineVi": "một bữa ăn hoặc tiệc chiêu đãi được tổ chức sau lễ cưới, thường bao gồm một bữa ăn ngồi xuống trang trọng với nhiều món"
+        },
+        {
+            "id": "1359f34d-1f7b-4377-b7f2-e62b1e578eb9",
+            "word": "staff meal",
+            "phonetic": "stæf miːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RhZmYgbWVhbA&hash=72884abc9e9d7915cd1d25e419b38931734fdf72&lang=en&cache-only=0",
+            "defineEn": "a meal that is provided by a restaurant, catering service, or other food establishment to its employees or staff",
+            "defineVi": "một bữa ăn được cung cấp bởi một nhà hàng, dịch vụ ăn uống hoặc cơ sở thực phẩm khác cho nhân viên hoặc nhân viên của mình"
+        }
+    ]
+}

@@ -1,0 +1,522 @@
+{
+    "id": "79cba1ce-9a4f-49e5-9578-6e0f58f89d1d",
+    "title": "Engineering and Electronics",
+    "originalTitle": "Engineering and Electronics",
+    "words": [
+        {
+            "id": "de7a7389-c215-481b-9c06-02f2fb63eef6",
+            "word": "engineering",
+            "phonetic": "ɛndʒɪnɪɹɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "German engineering is highly regarded for its precision and quality.",
+                "She works for an engineering company.",
+                "She attends a prestigious university known for its engineering program.",
+                "An engineer's job is to apply scientific principles to solve engineering challenges.",
+                "Mary is blazing a trail as the first woman to lead the company's engineering team."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5naW5lZXJpbmc&hash=289e72a1c14f6cf828fbb3707e21cddaf7587cc4&lang=en&cache-only=0",
+            "defineEn": "a field of study that deals with the building, designing, developing, etc. of structures, bridges, or machines",
+            "defineVi": "một lĩnh vực nghiên cứu liên quan đến việc xây dựng, thiết kế, phát triển, v.v. của các cấu trúc, cây cầu hoặc máy móc",
+            "hasImg": true
+        },
+        {
+            "id": "5f3ab3c1-785b-4294-9bed-7203c0eebee5",
+            "word": "electronics",
+            "phonetic": "ᵻlɛktɹɑːnɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He needed a new computer, and he was in luck - there was a sale at the electronics store.",
+                "Narrator: Electronics are also fixed up.",
+                "I've owned an electronics store for 33 years.",
+                "The first deal during Jolie's tenure was with Korean electronics maker Samsung in April of 2013.",
+                "At the electronics store, I was in communication technology department."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb25pY3M&hash=9ac46c2c607ab32fbf9c5271d3613d3f16c7c209&lang=en&cache-only=0",
+            "defineEn": "the branch of physics and electrical engineering that focuses on designing circuits that use transistors and microchips",
+            "defineVi": "ngành vật lý và kỹ thuật điện tập trung vào việc thiết kế các mạch sử dụng bóng bán dẫn và vi mạch",
+            "hasImg": true
+        },
+        {
+            "id": "5d0afa9d-d27e-40fd-9a61-3fe40d43a1a7",
+            "word": "transistor",
+            "phonetic": "tɹænzɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By 1980, CPUs contained 30 thousand transistors.",
+                "Thus the transistor has two modes: on and off, one and zero.",
+                "It contained 2,300 transistors.",
+                "Our transistor is finally complete!",
+                "CPU transistor count exploded!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNpc3Rvcg&hash=702d917c2a5b87e618a461bb7d625a4a34c73dd4&lang=en&cache-only=0",
+            "defineEn": "a small semiconductor device, used in television and radio sets, able to amplify or rectify an electric current",
+            "defineVi": "một thiết bị bán dẫn nhỏ, được sử dụng trong tivi và đài phát thanh, có thể khuếch đại hoặc chỉnh lưu dòng điện",
+            "hasImg": true
+        },
+        {
+            "id": "3197db25-efc4-4233-9487-3dcd79914567",
+            "word": "semiconductor",
+            "phonetic": "sɛmɪkəndʌktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It also boosts semiconductor manufacturing.",
+                "AMNA NAWAZ: Very briefly, Madam Secretary, you mentioned the semiconductor shortage.",
+                "Researchers have been studying the crystals in semiconductors on the ISS since 2002, as part of the SUBSA program.",
+                "Well, we had a semiconductor shortage, which is stalling the production of cars.",
+                "And if I pushed him hard, clearly in the end, it would be artificial intelligence, semiconductors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VtaWNvbmR1Y3Rvcg&hash=a4717281d2469ff4077b9e9f7e64c14e94b721ec&lang=en&cache-only=0",
+            "defineEn": "a solid substance that conducts electricity or heat better than insulators, but not as well as most metals",
+            "defineVi": "một chất rắn dẫn điện hoặc nhiệt tốt hơn chất cách điện, nhưng không tốt bằng hầu hết các kim loại"
+        },
+        {
+            "id": "b837d78e-a577-49da-be2d-5a6ab2476078",
+            "word": "ac",
+            "phonetic": "eɪsiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's got full-sized AC power ports.",
+                "Everyone knows AC/DC.",
+                "We have an AC adapter here, and then here is the monitor and the EVF loupe.",
+                "We lost the central AC that we just put in.",
+                "And it does so without the help of an AC unit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWM&hash=b21b7f74f73b402739193c902eec2663bc474329&lang=en&cache-only=0",
+            "defineEn": "an electric current that changes directions at regular intervals",
+            "defineVi": "một dòng điện thay đổi hướng đều đặn"
+        },
+        {
+            "id": "11d5a852-7f38-4ef5-8f83-ab3abb317ae8",
+            "word": "dc",
+            "phonetic": "diːsiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Some animal experts in the know, even refer to DC as an urban paradise for wild animals.",
+                "Now you shot this movie in DC.",
+                "Oh, you hit DC.",
+                "So we have DC-in, Thunderbolt there, and then two more Thunderbolts here on the other side.",
+                "It's set up for DC amps."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGM&hash=878d15c9a5ebb59d4f1931edc7dcf8fd5c13ad89&lang=en&cache-only=0",
+            "defineEn": "an electric current that flows only in one direction",
+            "defineVi": "dòng điện chỉ chạy theo một chiều"
+        },
+        {
+            "id": "6c4541bf-4c51-458d-9304-dbb6b785025e",
+            "word": "circuit board",
+            "phonetic": "sɜːkɪt boːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2lyY3VpdCBib2FyZA&hash=5d856310ccf1b72ece21e21aa9f8c9c791cbc005&lang=en&cache-only=0",
+            "defineEn": "a thin board on which the circuits are printed",
+            "defineVi": "một bảng mỏng trên đó các mạch được in",
+            "hasImg": true
+        },
+        {
+            "id": "b1fc6621-6fba-44ef-b7a9-a6e7fccbbe07",
+            "word": "short circuit",
+            "phonetic": "ʃɔːɹt sɜːkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Subscribe to Short Circuit, see you guys later.",
+                "- It's not every Short Circuit.",
+                "Today's Short Circuit is brought to you by BLUblox.",
+                "That's it for Short Circuit for today.",
+                "Hey, if you enjoyed this video, subscribe to Short Circuit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQgY2lyY3VpdA&hash=27aba18d030cc248fb6b979bc1fa688df3ed73f3&lang=en&cache-only=0",
+            "defineEn": "a failure in a circuit caused when the electricity flows in the wrong route due to wire damage or fault in the connections of wires",
+            "defineVi": "sự cố trong mạch gây ra khi dòng điện chạy sai tuyến do dây bị hỏng hoặc lỗi trong kết nối dây"
+        },
+        {
+            "id": "b9ad7f32-451a-46cc-a906-6477177b17fe",
+            "word": "electrode",
+            "phonetic": "ᵻlɛktɹoʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Electrodes are planted deep within the patient’s brain.",
+                "It has electrodes that measure EEG, your brain waves.",
+                "A tDCS headset contains two electrodes, called the anode and cathode.",
+                "It uses transparent electrodes to run a weak electric current in a wave across a machine’s surface.",
+                "Now I’m going to plug these electrodes into my special neuron detector box here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb2Rl&hash=7918edca07e7405490474f9df4760eb09445422f&lang=en&cache-only=0",
+            "defineEn": "a conductor through which electricity travels to or from an object, such as batteries",
+            "defineVi": "một dây dẫn mà qua đó điện di chuyển đến hoặc từ một vật thể, chẳng hạn như pin"
+        },
+        {
+            "id": "55948818-1dbf-4f8f-88b1-43c8f89122be",
+            "word": "voltage",
+            "phonetic": "voʊltɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "so the voltage drops way down.",
+                "The voltage is 16 volts.",
+                "The voltage here is the same thing as the voltage here.",
+                "The voltage here is the same thing as the voltage here.",
+                "LEDs have a voltage limit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm9sdGFnZQ&hash=e80f63e5f46bf2dd698ee5801b6d796c6c75c618&lang=en&cache-only=0",
+            "defineEn": "the electronic potential and force whose measurement unit is volts",
+            "defineVi": "thế và lực điện tử có đơn vị đo là vôn"
+        },
+        {
+            "id": "2079b324-597d-4a0b-8947-3fcc750a5213",
+            "word": "transformer",
+            "phonetic": "tɹænsfoːɹmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This monitor is a Transformer.",
+                "\"Transformers: Age of Extinction\" took in $320 million from China, 28% of its global gross.",
+                "A transformer blew in a secured area hours after the power company, LUMA Energy, was targeted by a cyberattack.",
+                "And he ruined transformers, And then he gets the turtle's noses, and ruins them.",
+                "The donut acted like a transformer, a device that changes the voltage of an electrical current running through it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNmb3JtZXI&hash=197c53f261cdc36c2f7a5da7729db4f0249a65f6&lang=en&cache-only=0",
+            "defineEn": "an electric device that is used to increase or decrease the voltage of an alternating current",
+            "defineVi": "một thiết bị điện được sử dụng để tăng hoặc giảm hiệu điện thế của dòng điện xoay chiều",
+            "hasImg": true
+        },
+        {
+            "id": "bf04e9da-2819-4f0b-97f9-fd2595bb83a8",
+            "word": "transmitter",
+            "phonetic": "tɹænsmɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Paypal has money transmitter licenses.",
+                "They put radio transmitters on the turtles to keep track of them.",
+                "They prevent other midbrain neurons from flooding the brain’s pleasure circuits with another transmitter, dopamine.",
+                "And can the bird even tell that it has the transmitter on?",
+                "We have a receiver that reads the signal from the transmitter when it's turned on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNtaXR0ZXI&hash=9acedd4e605d64f2c11278a541fa986c9367d860&lang=en&cache-only=0",
+            "defineEn": "a piece of electronic equipment used for sending electromagnetic waves carrying radio or television signals",
+            "defineVi": "một phần của thiết bị điện tử được sử dụng để gửi sóng điện từ mang tín hiệu radio hoặc truyền hình",
+            "hasImg": true
+        },
+        {
+            "id": "bc81d8cf-5498-4302-929e-46d22dd0d816",
+            "word": "capacitor",
+            "phonetic": "kəpæsɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Wow, those are definitely exposed capacitors.",
+                "A capacitor is a device that can store an electric charge.",
+                "The other plate of the capacitor is my hand.",
+                "Destin: \"Is that a capacitor bank down there?\"",
+                "And when I move my hand further away, the capacitor’s plates are farther apart."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FwYWNpdG9y&hash=d88bcf62f6eec9fc25de2f3b03d2c97d51e80856&lang=en&cache-only=0",
+            "defineEn": "an electric device that is used to accumulate electric charge",
+            "defineVi": "một thiết bị điện được sử dụng để tích lũy điện tích",
+            "hasImg": true
+        },
+        {
+            "id": "9e8bbf24-9165-4af8-a567-c408bedc984e",
+            "word": "to conduct",
+            "phonetic": "tə kəndʌkt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Her recent conduct is beyond the pale.",
+                "The court held that such conduct violated the statute.",
+                "I enjoy conducting experiments and making observations in science class.",
+                "Even though he came from a humble background, John's refined manners and impeccable conduct showed that it takes three generations to make a gentleman.",
+                "Before investing in a new business venture, it's important to conduct thorough research and assess potential risks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uZHVjdA&hash=1f9bbd1c81dcffa00eba094b82026ba1f13e0bda&lang=en&cache-only=0",
+            "defineEn": "to allow heat or electricity be transmitted",
+            "defineVi": "để cho phép nhiệt hoặc điện được truyền đi"
+        },
+        {
+            "id": "a14410b5-3d7f-4c6f-973a-25d491754f34",
+            "word": "to screw",
+            "phonetic": "tə skɹuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Bill Mathis had his head screwed on right.",
+                "You must have a few screws loose if you think jumping out of an airplane without a parachute is a good idea.",
+                "Thank you so much for getting his head screwed on straight.",
+                "John thinks he can talk to aliens, he must have a number of screws loose.",
+                "She is the youngest, but she has her head screwed on the right way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2NyZXc&hash=10076aa3a6de868b954cde9af0291d43d1b8df72&lang=en&cache-only=0",
+            "defineEn": "to tighten or fasten something with a screw",
+            "defineVi": "để thắt chặt hoặc buộc một cái gì đó với một vít",
+            "hasImg": true
+        },
+        {
+            "id": "b1bc5504-44fa-452d-994d-d249a5eb03c1",
+            "word": "bolt",
+            "phonetic": "boʊlt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The textile store offers bolts of various fabrics, from cotton to linen.",
+                "The bolt clicked into place.",
+                "The mechanic replaced the rusted bolt with a new one.",
+                "The construction worker used a heavy-duty bolt to connect the steel beams.",
+                "The dressmaker purchased a bolt of silk to create a stunning gown."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9sdA&hash=a66f4b67ed39c6b064c158bc2ea153af1212e1ae&lang=en&cache-only=0",
+            "defineEn": "a piece of metal like a thick nail without a point that is screwed into a nut to help fasten things together",
+            "defineVi": "một mảnh kim loại giống như một chiếc đinh dày không có đầu nhọn được vặn vào đai ốc để giúp gắn chặt mọi thứ lại với nhau",
+            "hasImg": true
+        },
+        {
+            "id": "b6dd3ced-4900-4662-a5cd-414566c366e4",
+            "word": "nut",
+            "phonetic": "nʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She is a hard nut",
+                "The squirrel was running with a small nut in its mouth.",
+                "The problem is a hard nut to crack.",
+                "The team's defense is a tough nut to crack.",
+                "She carefully arranged a selection of kola nuts on a decorative plate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnV0&hash=a83d2898669f2afef7bfd7b3bfdbf561e11d8e50&lang=en&cache-only=0",
+            "defineEn": "a flat piece of metal with a hole in the middle through which a bolt is put, used as a fastener",
+            "defineVi": "một miếng kim loại phẳng có một lỗ ở giữa để đặt bu lông, được sử dụng làm dây buộc",
+            "hasImg": true
+        },
+        {
+            "id": "e615bebd-c0c7-455c-95c8-d20ca4b2aae6",
+            "word": "cog",
+            "phonetic": "kɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cogs in a machine can't strive for excellence.",
+                "Mr Lake was an important cog in the Republican campaign machine.",
+                "Copywriters have been seen as just a cog in the big advertising machine.",
+                "Frank knew he was just a cog in the wheel of this giant corporation.",
+                "I don't want to be just a cog in the machine anymore!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29n&hash=77e76560a9ae9dbe11df6e9f237de243bdd9fc9e&lang=en&cache-only=0",
+            "defineEn": "a wheel with a set of square or triangular teeth sticking out around the edge that fits into the edge of a similar wheel, causing both wheels to turn",
+            "defineVi": "một bánh xe có một bộ răng hình vuông hoặc hình tam giác nhô ra xung quanh mép vừa với mép của một bánh xe tương tự, khiến cả hai bánh quay",
+            "hasImg": true
+        },
+        {
+            "id": "21f8676b-d3c1-46f6-9720-152022ac6ed1",
+            "word": "diode",
+            "phonetic": "daɪoʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Here, the researchers place diodes on the floor of a tank-- replicating the same electric frequency as a breathing fish.",
+                "And then your photo diodes are below that.",
+                "Whereas in this, and this guy here, you have the photo diodes on top, and the metal wiring below it.",
+                "Instead of sun we use LED's - light-emitting diode's.",
+                "And then we have a little tiny diode here which is the red dot that you see."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlvZGU&hash=32f5c38ccd88817c63270a1f8496c9548ea206a7&lang=en&cache-only=0",
+            "defineEn": "an electronic device with two terminals, typically allowing the flow of current in one direction only",
+            "defineVi": "một thiết bị điện tử có hai đầu cuối, thường chỉ cho phép dòng điện chạy theo một hướng",
+            "hasImg": true
+        },
+        {
+            "id": "aa8bab43-bd13-4fc9-ba4d-49e736ba38be",
+            "word": "fuse",
+            "phonetic": "fjuːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boss has a short fuse these days!",
+                "The boss blew a fuse when the shipment didn't arrive on time.",
+                "For all my experience, I blew a fuse in the quarter-final and could have been sent off.",
+                "So over time, evolution fused those two elytra together.",
+                "Kahlo's work fuses elements of many artistic styles from different times and disparate parts of the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVzZQ&hash=ae2383f3f3b6e49b483629afd140f8e331aed561&lang=en&cache-only=0",
+            "defineEn": "an electrical device that is used to stop or control the flow of current in a circuit in case it is too strong",
+            "defineVi": "một thiết bị điện được sử dụng để ngăn chặn hoặc kiểm soát dòng điện trong mạch trong trường hợp nó quá mạnh",
+            "hasImg": true
+        },
+        {
+            "id": "7a894968-a29e-4bc6-b948-5992613cb0e5",
+            "word": "generator",
+            "phonetic": "dʒɛnɚɹeɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Much of the town lost electricity in the storm, but for people with generators it was business as usual.",
+                "The lights suddenly went out, and we waited anxiously for the backup generator to go on.",
+                "The truck literally is your generator.",
+                "We just need electric generator.",
+                "Instead, the panel above your head contains a chemical oxygen generator."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2VuZXJhdG9y&hash=6240847d74000044f0f7ccdfa04797ab5d7fef17&lang=en&cache-only=0",
+            "defineEn": "a machine that produces electricity by converting mechanical energy into electrical energy",
+            "defineVi": "một máy sản xuất điện bằng cách chuyển đổi năng lượng cơ học thành năng lượng điện",
+            "hasImg": true
+        },
+        {
+            "id": "ada9b7ff-b0e8-44a1-9360-92f2b089f709",
+            "word": "crank",
+            "phonetic": "kɹæŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Some of the best nights we had when we were teenagers were spent just driving aimlessly, cranking the car stereo up to eleven.",
+                "Crank it back up again.",
+                "Mostly just crank it up very loudly.",
+                "So they crank you up that first hill.",
+                "Like really crank it up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Jhbms&hash=b867c00ac62de51815fb09dcfe816b811172a919&lang=en&cache-only=0",
+            "defineEn": "a device that allows movement between mechanical parts of a machine or converts backward and forward motion into circular movement",
+            "defineVi": "một thiết bị cho phép chuyển động giữa các bộ phận cơ khí của máy hoặc chuyển đổi chuyển động lùi và tiến thành chuyển động tròn",
+            "hasImg": true
+        },
+        {
+            "id": "43a6c286-431e-4b2b-9c3b-247981f088b9",
+            "word": "shaft",
+            "phonetic": "ʃæft ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "\"That sign says shaft, it's danger.\"",
+                "In turn, the shaft had a dial divided 250 times.",
+                "And mine shafts differ from biome to biome.",
+                "Mine shafts are completely revamped from straight lines into dynamic varied webs of tunnels.",
+                "Ben Turner: They make 2,380 shaft horsepower, each side."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhZnQ&hash=aa6bef73724ae03236e17b2c91bdd6721dff748f&lang=en&cache-only=0",
+            "defineEn": "a metal bar in an engine that enables movement and power to be transmitted from one part to another",
+            "defineVi": "một thanh kim loại trong động cơ cho phép truyền chuyển động và sức mạnh từ bộ phận này sang bộ phận khác",
+            "hasImg": true
+        },
+        {
+            "id": "4a85da80-df38-4336-ac49-d85584d4e659",
+            "word": "thermostat",
+            "phonetic": "θɜːməstæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your body’s thermostat lives here.",
+                "I've changed the thermostat back.",
+                "Do not connect a Nest thermostat to these high-voltage wires.",
+                "Okay Google set the thermostat to 70. -",
+                "It’s like the thermostat in your house."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlcm1vc3RhdA&hash=7d35ddd853f81795a7b080b503a7d9ff3c381d35&lang=en&cache-only=0",
+            "defineEn": "an instrument that automatically controls the temperature of a room, machine, etc.",
+            "defineVi": "một công cụ tự động kiểm soát nhiệt độ của phòng, máy móc, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "47e55596-cd4e-42f0-8193-d778177b5478",
+            "word": "safety valve",
+            "phonetic": "seɪfti vælv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FmZXR5IHZhbHZl&hash=b33855fd1a390cc9fecc6df3e40b621db641290a&lang=en&cache-only=0",
+            "defineEn": "a device that allows steam, liquid, etc. to escape a machine, if the pressure inside the machine becomes too high",
+            "defineVi": "một thiết bị cho phép hơi nước, chất lỏng, v.v. thoát ra khỏi máy, nếu áp suất bên trong máy trở nên quá cao",
+            "hasImg": true
+        },
+        {
+            "id": "6b9cc1be-162c-492d-9c7d-deb1a1faf5ac",
+            "word": "robotics",
+            "phonetic": "ɹoʊbɑːɾɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Reliable Robotics is testing with a FedEx owned prototype.",
+                "At the Center for Robotics and Intelligent Machines at the Georgia Institute of Technology, researchers are making robots with cute, childlike faces and humanlike movements, but the machines are obviously robots.",
+                "Here's how Reliable Robotics and Xwing's technology works."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9ib3RpY3M&hash=4cbd90fa109e0259047164358058790a0166109c&lang=en&cache-only=0",
+            "defineEn": "an area of technology that is concerned with the study or use of robots",
+            "defineVi": "một lĩnh vực công nghệ liên quan đến việc nghiên cứu hoặc sử dụng robot",
+            "hasImg": true
+        },
+        {
+            "id": "67247aa5-3a36-40c6-9f7b-8313a872c904",
+            "word": "relay",
+            "phonetic": "ɹiːleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The interneurons in the spinal cord help to relay signals from sensory neurons to motor neurons, allowing for coordinated movements.",
+                "Relays are doing the same thing, just with electrons instead of water.",
+                "The brains of these huge electro-mechanical beasts were relays: electrically-controlled mechanical switches.",
+                "Then the relay race begins.",
+                "The Harvard Mark I had roughly 3500 relays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVsYXk&hash=e66f903b07d0441595a21aaf5a51cb44b2f05b81&lang=en&cache-only=0",
+            "defineEn": "an electrical device that typically contains an electromagnet, which is activated in response to a signal or current in one circuit to close or open another circuit",
+            "defineVi": "một thiết bị điện thường chứa nam châm điện, được kích hoạt để đáp ứng với tín hiệu hoặc dòng điện trong một mạch để đóng hoặc mở một mạch khác",
+            "hasImg": true
+        },
+        {
+            "id": "e8c9f4ea-d254-404c-8efd-8990eeb03fd3",
+            "word": "oscillator",
+            "phonetic": "ɑːsɪleɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's a classic example of the period doubling that occurs when a linear oscillator is strongly driven.",
+                "This is the beauty of the Fourier series, you take simple things you understand like oscillators, sine waves, circles, and you can add them together to do something much more complex.",
+                "Planck explained the colors of light emitted by hot objects, like the filament in a light bulb, but to do it, he needed a desperate trick: he said the object was made up of oscillators that could only emit light in discrete chunks, units of energy that depend on the frequency of the light.",
+                "Now is the part of the video where I tell you about how what we just learned is a simplified model because the pendulum is only approximately a simple harmonic oscillator when it's swinging at a small angle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3NjaWxsYXRvcg&hash=9b0b4809da90390901e9485ed7105f47869d842d&lang=en&cache-only=0",
+            "defineEn": "a piece of equipment for generating oscillating electric currents or voltages by non-mechanical means",
+            "defineVi": "một phần của thiết bị để tạo ra dòng điện hoặc điện áp dao động bằng các phương tiện phi cơ học",
+            "hasImg": true
+        },
+        {
+            "id": "b5fe52c2-c6cd-412e-b993-7092605c58fd",
+            "word": "insulator",
+            "phonetic": "ɪnsəleɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They are good insulators.",
+                "One example is called a topological insulator.",
+                "This arrangement makes it an excellent insulator.",
+                "So we’ve got insulators and conductors with free electrons moving around in them.",
+                "Something with a high resistance is an insulator, like plastic, and something with a low resistance is a conductor, like metal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zdWxhdG9y&hash=d191646183d891dc47fa15a61e984b5c9f12a15a&lang=en&cache-only=0",
+            "defineEn": "a substance that doesn't conduct heat, sound, etc.",
+            "defineVi": "một chất không dẫn nhiệt, âm thanh, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "fdc5dc3c-f8c5-46cf-805b-d9a9ea86517b",
+            "word": "solar cell",
+            "phonetic": "soʊlɚ sɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29sYXIgY2VsbA&hash=22b19028603c6b2ca606d8dff3c8ede9fd997428&lang=en&cache-only=0",
+            "defineEn": "a device that converts the energy of the sun into electricity",
+            "defineVi": "một thiết bị chuyển đổi năng lượng của mặt trời thành điện năng",
+            "hasImg": true
+        },
+        {
+            "id": "f0c00660-ef71-4e9a-ae6e-5d89ef9df6d5",
+            "word": "rotor",
+            "phonetic": "ɹoʊɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In fact, the Reuleaux rotor can even turn smoothly in a square hole!",
+                "Of course antitorque is the rotor system on the back.",
+                "All Vietnam vets remember the sound of the rotor blades of a Huey Helicopter.",
+                "Mars changes the equation for flights with wings or rotors.",
+                "The H aliade-X has a rotor diameter that's longer than two American football fields placed end-to-end."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm90b3I&hash=705159044dbd187107fe47a114010c8341d1e36f&lang=en&cache-only=0",
+            "defineEn": "the rotating part of a machine that revolves around a stationary part",
+            "defineVi": "bộ phận quay của máy xoay quanh một bộ phận đứng yên",
+            "hasImg": true
+        },
+        {
+            "id": "36fd49c0-a806-433c-9d32-3948a9562f9e",
+            "word": "to rewire",
+            "phonetic": "tə ɹᵻwaɪɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Productivity will be less dynamic as companies rewire supply chains.",
+                "Researchers have figured out a way to rewire your brain into taking this monster head-on.",
+                "If they found a mistake, the program could be rewired before it left the factory, though fixing it was an enormous pain.",
+                "But I don't think my brain was rewired, as the product promises.",
+                "Neuroplasticity is the ability of your brain to change the nerve connections and rewire itself."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmV3aXJl&hash=64f092d39d9291de582ac7d48370cd9c06a6ad1b&lang=en&cache-only=0",
+            "defineEn": "to provide new electrical wiring for a building or machine",
+            "defineVi": "để cung cấp hệ thống dây điện mới cho một tòa nhà hoặc máy móc"
+        }
+    ]
+}

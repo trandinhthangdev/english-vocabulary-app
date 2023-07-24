@@ -1,0 +1,533 @@
+{
+    "id": "db5b1335-823f-4837-a89a-30cc6884b762",
+    "title": "Opposite Adjectives",
+    "originalTitle": "Lesson 11",
+    "words": [
+        {
+            "id": "cca92796-da8f-429b-aba9-67a53f54f775",
+            "word": "good",
+            "phonetic": "ɡʊd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The food looks good.",
+                "Good wine can make a meal.",
+                "Bad luck often brings good luck.",
+                "This information is as good as gold.",
+                "\"Your guess is as good as mine.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29vZA&hash=23dba10598e546d0d581f340c648d497a4e2bcb6&lang=en&cache-only=0",
+            "defineEn": "having a standard or quality that is satisfying",
+            "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+            "hasImg": true
+        },
+        {
+            "id": "c0eaf855-5694-4065-92e5-4698cc5314cc",
+            "word": "bad",
+            "phonetic": "bæd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Bad weather brought chaos to the utility companies.",
+                "Bad luck often brings good luck.",
+                "The bad weather brought famine.",
+                "Don’t use bad language.",
+                "Bad manners will get you nowhere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFk&hash=ba0e7eda3d140656dd10d32c2ec596c38ebb3e1a&lang=en&cache-only=0",
+            "defineEn": "having a standard or quality that is unsatisfying",
+            "defineVi": "có tiêu chuẩn hoặc chất lượng không thỏa mãn",
+            "hasImg": true
+        },
+        {
+            "id": "21dd9b35-3149-405f-a44f-c7dd971b67f2",
+            "word": "high",
+            "phonetic": "haɪ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The colorful bird flew high in the sky.",
+                "The prices at the luxury boutique were quite high.",
+                "Unfortunately, the price of short ribs can be quite high.",
+                "He had high expectations for the team's performance in the tournament.",
+                "They set high standards of customer service."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
+            "defineEn": "having an amount, degree, size, etc, that is greater than normal",
+            "defineVi": "có số lượng, mức độ, kích thước, v.v., lớn hơn bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "18df7f4b-6f16-4649-9828-0777393bf586",
+            "word": "big",
+            "phonetic": "bɪɡ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The big fellow keeps a fish shop near the post office.",
+                "The government makes a big thing out of public support.",
+                "His dedication and hard work played a big part in the company's success.",
+                "The conference attracted many big names in the tech industry.",
+                "We're talking big money."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymln&hash=340cec77523732d5bc33f027cecb19ef75c4678d&lang=en&cache-only=0",
+            "defineEn": "large or above average in size, amount, degree, etc.",
+            "defineVi": "lớn hoặc trên mức trung bình về kích thước, số lượng, mức độ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "33fc4960-61ae-46ba-9a20-7d0da4678ffd",
+            "word": "small",
+            "phonetic": "smɔːl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Small cracks appeared in the wall.",
+                "That holiday cost me a small fortune.",
+                "This small restaurant is the best pound for pound in the city.",
+                "The whole may be smaller than the sum of its parts!",
+                "I gave a small donation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21hbGw&hash=7df44bdfe670afa5fa2f958b47b2ad3554cee646&lang=en&cache-only=0",
+            "defineEn": "little or below average in size, amount, degree, etc.",
+            "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "e65bfd18-a0cd-4686-a055-fe8c4eaf6966",
+            "word": "heavy",
+            "phonetic": "hɛvi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm finding the advanced physics a bit heavy going.",
+                "They pushed the heavy box across the room.",
+                "The book is really heavy going at the beginning.",
+                "We loaded the heavy boxes onto the truck for transport.",
+                "She carried a heavy load of books in her backpack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhdnk&hash=35f2737e54017ea38f0052324518c98a6a47c1e4&lang=en&cache-only=0",
+            "defineEn": "having a lot of weight and not easy to move or pick up",
+            "defineVi": "có nhiều trọng lượng và không dễ di chuyển hoặc nhặt lên",
+            "hasImg": true
+        },
+        {
+            "id": "f28977b9-9b83-44d5-a2a2-367cad778911",
+            "word": "light",
+            "phonetic": "laɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The car ahead of me jumped the light.",
+                "The lights changed to green.",
+                "Sometimes darkness can show you the light.",
+                "A major technological advancement like that is still light years away.",
+                "This software first saw the light of day back in 1993."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlnaHQ&hash=63673c8d6438c2eb063d7052377e05b9d5fe0031&lang=en&cache-only=0",
+            "defineEn": "having very little weight and easy to move or pick up",
+            "defineVi": "có rất ít trọng lượng và dễ dàng di chuyển hoặc lấy",
+            "hasImg": true
+        },
+        {
+            "id": "8a83d369-bb77-4b35-8103-c3c81ba384b9",
+            "word": "expensive",
+            "phonetic": "ɛkspɛnsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The new restaurant is expensive.",
+                "The hotel had expensive rates during the holiday season.",
+                "She bought an expensive dress for a special occasion.",
+                "He bought an expensive watch as a gift for his father.",
+                "The restaurant had expensive prices, but the food was delicious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZW5zaXZl&hash=49d271dd88283dc21453a8c2f272494ea30d4393&lang=en&cache-only=0",
+            "defineEn": "having a high price",
+            "defineVi": "có giá cao",
+            "hasImg": true
+        },
+        {
+            "id": "7dbebd59-01d2-4830-9fe6-c231ae86d3ff",
+            "word": "cheap",
+            "phonetic": "tʃiːp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "It was dirt cheap.",
+                "He found a cheap flight deal for his vacation.",
+                "She bought cheap headphones, but the sound quality was poor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlYXA&hash=0c343d67b95c937ba68b0929d033fd7c14b0c522&lang=en&cache-only=0",
+            "defineEn": "having a low price",
+            "defineVi": "có giá thấp",
+            "hasImg": true
+        },
+        {
+            "id": "ccfa8b06-82ce-4337-aaed-a8bd9f24cf52",
+            "word": "old",
+            "phonetic": "oʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My father is quite old now",
+                "This thankless IT support job is really getting old.",
+                "This old house gives me the willies.",
+                "The old man gave up the ghost.",
+                "The old man considered his granddaughter thoughtfully."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2xk&hash=4760358aa3bbca48929cb4bab31f6097e8c8fea0&lang=en&cache-only=0",
+            "defineEn": "(of a thing) having been used or existing for a long period of time",
+            "defineVi": "(của một thứ) đã được sử dụng hoặc tồn tại trong một thời gian dài",
+            "hasImg": true
+        },
+        {
+            "id": "83e2f076-c65e-4e9f-9187-972df9ce3285",
+            "word": "new",
+            "phonetic": "nuː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The team's new manager brings ten years' experience to the job.",
+                "The new loan takes the total debt to $100 000.",
+                "The new president takes office in January.",
+                "Fans have given the band's new song their seal of approval.",
+                "The organization called the new regulations a turning point in the campaign against smoking."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV3&hash=8de84aac1cb818e84e240f22c1368fe30795b5c0&lang=en&cache-only=0",
+            "defineEn": "recently built, invented, made, etc.",
+            "defineVi": "được xây dựng, phát minh, chế tạo gần đây, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "0ca85fe8-5d4d-4fa9-9828-62182c68c4e7",
+            "word": "beautiful",
+            "phonetic": "bjuːɾifəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The purple flowers in the vase were beautiful.",
+                "My mom planted beautiful flowers in the front yard.",
+                "It's beautiful!",
+                "The train traveled through beautiful countryside.",
+                "The vibrant purple color of whinberries adds a beautiful touch to desserts like cheesecakes and tarts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhdXRpZnVs&hash=31230419dcdf7c3ceb4454c2419b954eaee422e9&lang=en&cache-only=0",
+            "defineEn": "extremely pleasing to the mind or senses",
+            "defineVi": "cực kỳ dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "f5f8e046-df8e-4785-8935-c30b6acf3106",
+            "word": "ugly",
+            "phonetic": "ʌɡli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The game turned ugly in the final minutes, when two players were ejected for fighting.",
+                "She received an ugly haircut that she immediately regretted.",
+                "I can't believe tax day is already rearing its ugly head again.",
+                "He drew an ugly picture that didn't resemble anything recognizable.",
+                "The old, torn sweater she wore was ugly and outdated."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
+            "defineEn": "not pleasant to the mind or senses",
+            "defineVi": "không dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "7e2cfdb2-fbc6-4521-b968-8b7db18d4cff",
+            "word": "clean",
+            "phonetic": "kliːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The mother gently cleaned her baby's ears with a cotton swab.",
+                "A new broom sweeps clean, after all.",
+                "Sarah cleans the kitchen counters with a sponge.",
+                "She had to clean her dirty car after a long road trip.",
+                "She cleans the dining room after each meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
+            "defineEn": "not having any stains, bacteria, marks, or dirt",
+            "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "63ffb7a6-b519-4148-9dee-c0b9379456d1",
+            "word": "dirty",
+            "phonetic": "dɜːɾi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She found a dirty stain on her favorite shirt.",
+                "She had to clean her dirty car after a long road trip.",
+                "He wore dirty shoes that left muddy footprints on the floor.",
+                "The dirty dishes in the restaurant's kitchen needed to be washed.",
+                "He had a dirty face after playing in the mud."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlydHk&hash=43deae50b556b211983491c3655570f07bc29014&lang=en&cache-only=0",
+            "defineEn": "having stains, bacteria, marks, or dirt",
+            "defineVi": "có vết bẩn, vi khuẩn, vết hoặc bụi bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "182f5502-5f67-4802-ab45-5ec473d07c6d",
+            "word": "easy",
+            "phonetic": "iːzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Knowledge of cooking comes easy to him.",
+                "The whole procedure is as easy as ABC.",
+                "A ramp allows easy access for wheelchairs.",
+                "Using the camera was as easy as pie.",
+                "It's an easy exam."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFzeQ&hash=625c1df691f722a2783b32160c2c4f235bfed440&lang=en&cache-only=0",
+            "defineEn": "needing little skill or effort to do or understand",
+            "defineVi": "cần ít kỹ năng hoặc nỗ lực để làm hoặc hiểu",
+            "hasImg": true
+        },
+        {
+            "id": "d6dcbd08-4d19-4f2f-a692-36549331d874",
+            "word": "fast",
+            "phonetic": "fæst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sales are growing fast.",
+                "Things certainly move fast in the blogosphere.",
+                "He takes bends much too fast.",
+                "The fast runner won the race by a wide margin.",
+                "He's going too fast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdA&hash=1073443ff3b1f337934c21034bd28a5c6a1c128e&lang=en&cache-only=0",
+            "defineEn": "having a high speed when moving or doing something",
+            "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "adcd618a-cd94-4e45-a222-2de8b8d8c12a",
+            "word": "slow",
+            "phonetic": "sloʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The slow train arrived at the station behind schedule.",
+                "The slow healing process of the wound required regular care.",
+                "The slow elevator took a long time to reach the desired floor.",
+                "Our progress has been fairly slow so far, but it's early days.",
+                "She had a slow learning pace but never gave up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xvdw&hash=0f7b65292fe1032cddd34e63a2f2c3c8ae99d6a3&lang=en&cache-only=0",
+            "defineEn": "moving, happening, or being done at a speed that is low",
+            "defineVi": "di chuyển, xảy ra hoặc được thực hiện ở tốc độ thấp",
+            "hasImg": true
+        },
+        {
+            "id": "58f04de1-c655-4ba7-a700-df8eadcbd0be",
+            "word": "different",
+            "phonetic": "dɪfɹənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Everyone has different interests.",
+                "The figures tell a different story.",
+                "Actually, I wear several different hats.",
+                "He had a different perspective on the movie.",
+                "She studied different subjects in school, from math to history."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmVyZW50&hash=56d0cff4b3443dbeac5dc54ead4efe1093bc4e52&lang=en&cache-only=0",
+            "defineEn": "not like another thing or person in form, quality, nature, etc.",
+            "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8c95ed0c-9893-4f9a-a136-6645b9ab1fde",
+            "word": "similar",
+            "phonetic": "sɪmɪlɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The two friends had similar tastes in music, enjoying the same bands and artists.",
+                "She and her sister look very similar, but they have very different personalities.",
+                "He found two similar shirts in different colors, deciding to buy both.",
+                "He inherited his father's love of music and talent for playing the guitar - like father, like son, they share similar interests and skills.",
+                "Her success in the industry had opened doors for other women to pursue similar careers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2ltaWxhcg&hash=6980b436ca5033b3b5943fae1b3d2269f786a954&lang=en&cache-only=0",
+            "defineEn": "(of two or more things) having qualities in common that are not exactly the same",
+            "defineVi": "(của hai hoặc nhiều thứ) có những phẩm chất chung không hoàn toàn giống nhau",
+            "hasImg": true
+        },
+        {
+            "id": "60394a2a-e103-43cd-956c-e70551ae0140",
+            "word": "right",
+            "phonetic": "ɹaɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Right, pin back your ears, everyone.",
+                "That extension is busy right now.",
+                "I want a dish of creamy mushroom bucatini with Parmesan right now.",
+                "Right by holding the candle to the devil.",
+                "After the traffic lights, turn right."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmlnaHQ&hash=33365bcec53c098a6f39584838658b862008d6fe&lang=en&cache-only=0",
+            "defineEn": "based on facts or the truth",
+            "defineVi": "dựa trên sự thật hoặc sự thật",
+            "hasImg": true
+        },
+        {
+            "id": "1e1979d6-da95-42bb-bdfa-6bd48c052d48",
+            "word": "wrong",
+            "phonetic": "ɹɔŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "In his mother’s eyes, the boy can do no wrong.",
+                "The journalist published a wrong statement in the article.",
+                "I accidentally hit the wrong key.",
+                "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood.",
+                "She pressed the wrong button and accidentally deleted the file."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d3Jvbmc&hash=e6795ab587f9d848e27f1ba748f6e1574dd5ef8c&lang=en&cache-only=0",
+            "defineEn": "not based on facts or the truth",
+            "defineVi": "không dựa trên sự thật hay sự thật",
+            "hasImg": true
+        },
+        {
+            "id": "88f5ac70-426c-4c89-8615-36ac91f63c1f",
+            "word": "open",
+            "phonetic": "oʊpən ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The driver of the car opened the car door for the passengers.",
+                "The waiter opened the bottle of wine for the guests.",
+                "The library opens at 10 o'clock on weekdays.",
+                "right on cue the door opened",
+                "The store stays open late on Thursdays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3Blbg&hash=34a0e897f6d992598958d195c329d91edce4da65&lang=en&cache-only=0",
+            "defineEn": "letting people or things pass through",
+            "defineVi": "để người hoặc vật đi qua",
+            "hasImg": true
+        },
+        {
+            "id": "81768977-f1e2-4ac8-8e71-1c861d380509",
+            "word": "closed",
+            "phonetic": "kloʊzd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "\"The discussion is closed.\"",
+                "The closed window blocked out the noise from the street.",
+                "The closed lid of the jar preserved the freshness of the food inside.",
+                "The meeting was held behind closed doors.",
+                "She received a closed envelope containing a surprise gift."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xvc2Vk&hash=13b5bd50da3f898ec13c184f8b4caccf476f691b&lang=en&cache-only=0",
+            "defineEn": "not letting things, people, etc. go in or out",
+            "defineVi": "không cho đồ vật, người, v.v. ra vào",
+            "hasImg": true
+        },
+        {
+            "id": "343c5ff1-7175-42ba-aff3-c74dbc59303e",
+            "word": "true",
+            "phonetic": "tɹuː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "May your wildest dreams come true!",
+                "A true leader walks the talk.",
+                "The true story inspired many people around the world.",
+                "Calamity is man's true touchstone.",
+                "Her true feelings were finally out in the open."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJ1ZQ&hash=ec1a9b39945f342ee74947cfb7fb356ad67e00f7&lang=en&cache-only=0",
+            "defineEn": "according to reality or facts",
+            "defineVi": "theo thực tế hoặc sự kiện",
+            "hasImg": true
+        },
+        {
+            "id": "37f0b0aa-275a-4ab6-84bc-55a1b9b0a8ec",
+            "word": "false",
+            "phonetic": "fɔls ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A reporter obtained documents from the company under false pretenses.",
+                "He presented a false document as evidence in the court case.",
+                "He shared false information without verifying its accuracy.",
+                "She received false advice that led to negative consequences.",
+                "She received a false promise that was never fulfilled."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFsc2U&hash=240fa58cfb536ec3f1cda2e66c3b1a1557c2b419&lang=en&cache-only=0",
+            "defineEn": "not according to reality or facts",
+            "defineVi": "không theo thực tế hoặc sự kiện",
+            "hasImg": true
+        },
+        {
+            "id": "bbdc2cd0-c819-45bb-80d8-1814ce8c5677",
+            "word": "rich",
+            "phonetic": "ɹɪtʃ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The rich family owned a private jet.",
+                "The rich man bought a big house and a fancy car.",
+                "The rich businessman owned multiple luxurious cars.",
+                "Asparagus beanare rich in iron and vitamin K.",
+                "Asian cultures have a rich heritage of art, music, and dance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmljaA&hash=5371549ed8826faf60ccbef7166d7e90d1ec9cdb&lang=en&cache-only=0",
+            "defineEn": "owning a great amount of money or many things that cost a lot",
+            "defineVi": "sở hữu một số tiền lớn hoặc nhiều thứ có giá rất cao",
+            "hasImg": true
+        },
+        {
+            "id": "3046709b-2cb9-4697-8364-1cfd1fe3dcb9",
+            "word": "poor",
+            "phonetic": "pʊɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His family is as poor as a Job's turkey.",
+                "The poor girl was almost beside herself.",
+                "My poor old car finally gave up the ghost.",
+                "That poor kid is shaking in his shoes up there on stage.",
+                "And now the poor thing is crying his heart out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9vcg&hash=d44898325ffbbacae019c833d1cd7a97f2baa329&lang=en&cache-only=0",
+            "defineEn": "owning a very small amount of money or a very small number of things",
+            "defineVi": "sở hữu một số tiền rất nhỏ hoặc một số lượng rất nhỏ của những thứ",
+            "hasImg": true
+        },
+        {
+            "id": "b38b2c7b-8301-461a-a745-37721c8874c1",
+            "word": "sure",
+            "phonetic": "ʃʊɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Jane sure ran a tight ship around here.",
+                "That player sure got the bird after he dropped the ball.",
+                "The boss sure aired his lungs when we lost another customer!",
+                "He felt sure about his answer during the exam.",
+                "You can be sure of that."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VyZQ&hash=f73faae01c779f276ccdba58f660a1e197d64697&lang=en&cache-only=0",
+            "defineEn": "feeling confident about something being correct or true",
+            "defineVi": "cảm thấy tự tin về một cái gì đó là đúng hoặc đúng"
+        },
+        {
+            "id": "b6ac764a-d01e-4958-bec5-1405f2991e25",
+            "word": "correct",
+            "phonetic": "kɚɹɛkt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The teacher corrected my mistake and explained the correct solution.",
+                "She gave a correct response to the teacher's question.",
+                "His correct pronunciation impressed everyone in the language class.",
+                "The teacher highlighted the correct steps to solve the math problem.",
+                "After numerous inspections, the correct answer to this dilemma still remains at sea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ycmVjdA&hash=05f1e49321757e0a705bc555a3d2687242d794c9&lang=en&cache-only=0",
+            "defineEn": "based on the truth and without mistakes",
+            "defineVi": "dựa trên sự thật và không có sai lầm",
+            "hasImg": true
+        },
+        {
+            "id": "bc508e20-64f4-4211-9739-8616a352dd45",
+            "word": "incorrect",
+            "phonetic": "ɪŋkɚɹɛkt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His incorrect translation of the phrase caused a misunderstanding between the two parties.",
+                "She realized that the information in the textbook was incorrect.",
+                "She received a warning for using incorrect grammar in her writing assignment.",
+                "In recent years, comedians have found themselves in hot water for making politically incorrect topics about everything from race to gender.",
+                "The map he was using had incorrect directions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jb3JyZWN0&hash=d3ec7e5447a2764305296f9c8e574ddd543eb25a&lang=en&cache-only=0",
+            "defineEn": "having mistakes; not correct or true",
+            "defineVi": "có lỗi lầm; không đúng hoặc đúng",
+            "hasImg": true
+        }
+    ]
+}

@@ -1,0 +1,917 @@
+{
+    "id": "852f7b7c-9fb5-4d64-917e-8d966232560d",
+    "title": "Musical Notation",
+    "originalTitle": "Musical Notation",
+    "words": [
+        {
+            "id": "b3ca1cc1-ce0a-4349-869a-56fc28bb14cc",
+            "word": "A",
+            "phonetic": "eɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The universal language of art is bridging a divide.",
+                "Good wine can make a meal.",
+                "Memories of that day still bring a lump to his throat.",
+                "The brunch special featured a beefburger with a sunny-side-up egg, crispy bacon, and a dollop of hollandaise sauce.",
+                "My vegetarian friend enjoyed a nourishing adzuki bean grain bowl for lunch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QQ&hash=9c15a222a9ee0cc0a08bd26914fae8bb6fd26c4b&lang=en&cache-only=0",
+            "defineEn": "the musical pitch A, which is a specific note in the diatonic scale commonly used in Western music",
+            "defineVi": "cao độ âm nhạc A, là một nốt cụ thể trong thang âm diatonic thường được sử dụng trong âm nhạc phương Tây"
+        },
+        {
+            "id": "e879a589-9d76-417e-885b-c70e9c555522",
+            "word": "B",
+            "phonetic": "biː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "B: \"Save it!\"",
+                "Let A and B stand for X and Y respectively.",
+                "If a = b and b = c it follows that a = c.",
+                "If a = b and b = c it follows that a = c.",
+                "When the new employee started working, it was clear that they didn't know B from a battledore when it came to the company's products."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Qg&hash=19dc09d1df4f2ff431a7e1e0124b8cfa8b3283ad&lang=en&cache-only=0",
+            "defineEn": "the 7th note in the C-major scale",
+            "defineVi": "nốt thứ 7 trong thang âm Đô trưởng",
+            "hasImg": true
+        },
+        {
+            "id": "d7d40407-63f7-4303-9db1-1030fcff7383",
+            "word": "C",
+            "phonetic": "siː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Daytime temperatures can reach 40°C.",
+                "If a = b and b = c it follows that a = c.",
+                "I suggest grabbing a few navel oranges for their delicious taste and vitamin C content.",
+                "C is 1.",
+                "C is for companionship."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Qw&hash=aa65e24e9059719a56697be1f0b889b983d1abcc&lang=en&cache-only=0",
+            "defineEn": "the first note in the C-major scale",
+            "defineVi": "nốt đầu tiên trong thang âm C-major",
+            "hasImg": true
+        },
+        {
+            "id": "56140cb8-1922-48be-91c7-3ca3afef5d27",
+            "word": "D",
+            "phonetic": "diː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "David's uncle married money when he wed a rich woman who owned a big company.",
+                "Even though John wasn't her ideal match, Mary decided to marry him because he was a good man who lived nearby, following the old saying better wed over the mixen than over the moor.",
+                "D has a four year 164 million dollar contract with the Brooklyn Nets.",
+                "The correct answer is D: phloem.",
+                "The answer is D: phloem."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RA&hash=77a2b67f7094104ba37383cfe1f040bb505abc62&lang=en&cache-only=0",
+            "defineEn": "the second note of the C-major scale",
+            "defineVi": "nốt thứ hai của thang âm C-major",
+            "hasImg": true
+        },
+        {
+            "id": "17737b48-7c57-4932-ad0a-13a29e63145f",
+            "word": "E",
+            "phonetic": "iː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "e stood on a ladder to change a lightbulb on the ceiling.",
+                "e's always crying wolf, but I'm starting to think he just likes the attention.",
+                "E: C'm on in.",
+                "E is the midpoint of BC.",
+                "E is for exaggerated fears."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RQ&hash=efa758bf51fd2c8e6011fabcb2d7ebae0bdbc8b0&lang=en&cache-only=0",
+            "defineEn": "the third note in the C-major scale",
+            "defineVi": "nốt thứ ba trong thang âm C-major",
+            "hasImg": true
+        },
+        {
+            "id": "83a7af94-8460-4aca-922b-129276de130a",
+            "word": "F",
+            "phonetic": "ɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is the third time in a row my professor has given me an F on my paper.",
+                "f you keep crying wolf, people won't take you seriously when you really need them.",
+                "F starts for flu like symptoms.",
+                "F equals some constant stuff times distance.",
+                "So f inverse takes us back from 4 to 0."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Rg&hash=89a3cd7f6a2833e0eedd760d6ed8e15639feb18a&lang=en&cache-only=0",
+            "defineEn": "the fourth note in the C-major scale",
+            "defineVi": "nốt thứ tư trong thang âm C-major",
+            "hasImg": true
+        },
+        {
+            "id": "cb18bd52-1d2f-453c-b9c5-dea42e277792",
+            "word": "G",
+            "phonetic": "dʒiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Paying nine bucks for 200g of dried mango is highway robbery.",
+                "The G I U K gap is deeper and in international waters.",
+                "The drivers get that lower latency that 5G enables.",
+                "g of a is equal to 0.",
+                "g of a is equal to 0."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Rw&hash=43d5aef1b69a3ec36e65d4c0dedc04d3ce2b0e39&lang=en&cache-only=0",
+            "defineEn": "the fifth note in the C-major scale",
+            "defineVi": "nốt thứ năm trong thang âm C-major",
+            "hasImg": true
+        },
+        {
+            "id": "274b60b5-b56b-4f22-b9ad-8f70346c5894",
+            "word": "whole note",
+            "phonetic": "hoʊl noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2hvbGUgbm90ZQ&hash=8dfdfb2f59b3674019c510200cd157812d40437d&lang=en&cache-only=0",
+            "defineEn": "a musical note having the longest time value (equal to four beats in common time)",
+            "defineVi": "một nốt nhạc có giá trị thời gian dài nhất (bằng bốn nhịp trong thời gian chung)",
+            "hasImg": true
+        },
+        {
+            "id": "e5502f85-7191-47e4-b532-fd6ec5476b07",
+            "word": "double whole note",
+            "phonetic": "dʌbəl hoʊl noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG91YmxlIHdob2xlIG5vdGU&hash=590480e4b2bc0ed7dd2276ff09a5b3e983aa6c5e&lang=en&cache-only=0",
+            "defineEn": "a square-shaped notehead with no stem or flags representing a note duration equivalent to four whole notes in Western music",
+            "defineVi": "một đầu ghi chú hình vuông không có thân hoặc cờ biểu thị thời lượng ghi chú tương đương với bốn ghi chú trong âm nhạc phương Tây",
+            "hasImg": true
+        },
+        {
+            "id": "767806b3-e0da-4183-9f3e-c48b4e842d56",
+            "word": "key",
+            "phonetic": "kiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The author abstracted key themes from the novel in her literary analysis.",
+                "The keys are kept in my office.",
+                "I turned the key in the lock.",
+                "He turned the key in the lock.",
+                "The piano keys are black and white."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2V5&hash=8a2ad1b59a19375b9569d9dc58ff8b7b76afd159&lang=en&cache-only=0",
+            "defineEn": "a set of notes based on a particular note that form the tonal basis of a musical passage",
+            "defineVi": "một tập hợp các ghi chú dựa trên một ghi chú cụ thể tạo thành cơ sở âm thanh của một đoạn nhạc"
+        },
+        {
+            "id": "318542be-d9fb-4ec6-a9cd-05956c8b03b1",
+            "word": "middle c",
+            "phonetic": "mɪdəl siː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWlkZGxlIGM&hash=1edb7d6b54081789a72452acfce6cb2460923261&lang=en&cache-only=0",
+            "defineEn": "the note designated by the first ledger line below the treble staff; 261.63 hertz",
+            "defineVi": "ghi chú được chỉ định bởi dòng sổ cái đầu tiên bên dưới khuông ba; 261,63 hertz"
+        },
+        {
+            "id": "55045484-b72a-4c55-b016-45ba982c4407",
+            "word": "natural",
+            "phonetic": "nætʃɚɹəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The custard apple's natural sweetness makes it a perfect filling for homemade pies and tarts.",
+                "The mountain provided a natural barrier between the two valleys.",
+                "The natural tanginess of tamarind adds a unique twist to sauces, marinades, and soups.",
+                "He used turnip leaves as natural wrapping for steamed dumplings.",
+                "We used honey as a natural sweetener in our homemade salad dressing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
+            "defineEn": "a notation cancelling a previous sharp or flat",
+            "defineVi": "một ký hiệu hủy bỏ một sắc nét hoặc phẳng trước đó"
+        },
+        {
+            "id": "93eb0b9f-b622-4555-84f4-9100b57c5a3b",
+            "word": "octave",
+            "phonetic": "ɑːktɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Perfect octave!",
+                "His vocal range is reportedly over six octaves, going from E flat one to to E seven.",
+                "All told, we can hear between seven and eight octaves.",
+                "We say that they are an octave apart. ",
+                "Partch was interested in micro-tonality and a 12 tone octave just wasn't enough."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2N0YXZl&hash=e69a6a1e40b93d20247bcf2be044b79268bd9098&lang=en&cache-only=0",
+            "defineEn": "the interval between the first and the last notes in eight diatonic degrees",
+            "defineVi": "quãng giữa nốt đầu và nốt cuối theo tám độ diatonic",
+            "hasImg": true
+        },
+        {
+            "id": "eded1eb2-ca7b-44e6-b436-8faf70fef132",
+            "word": "chord",
+            "phonetic": "kɔːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Thank you for speaking, your words really touched a chord with me.",
+                "Great job on the win, but after victory, tighten your helmet chord and stay focused for the rest of the season.",
+                "The candidate built his brand off of speaking as he finds, which seems to strike a chord with the working class voters in his constituency.",
+                "The film still strikes a chord with younger audiences, even after all these years.",
+                "When she first started learning how to play the guitar, it was difficult and frustrating, but with regular practice, the chords became easier to play, proving that all things are difficult before they are easy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hvcmQ&hash=c0e24c9a6ffe7977ad51b5c0431c0a2f58d307f9&lang=en&cache-only=0",
+            "defineEn": "three or more musical notes that form a harmony when played together",
+            "defineVi": "ba hoặc nhiều nốt nhạc tạo thành một bản hòa âm khi chơi cùng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "da252ec3-94d2-44d5-90f6-3731eb59aac8",
+            "word": "double sharp",
+            "phonetic": "dʌbəl ʃɑːɹp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG91YmxlIHNoYXJw&hash=a3a5c521c1c1a5bd003cdd8ceb72d0aef8466a73&lang=en&cache-only=0",
+            "defineEn": "a musical symbol that indicates the raising of a note by two half steps or two semitones, equivalent to the same note as a natural but two half steps higher.",
+            "defineVi": "một biểu tượng âm nhạc biểu thị việc nâng một nốt lên hai nửa cung hoặc hai nửa cung, tương đương với cùng một nốt như một nốt tự nhiên nhưng cao hơn hai nửa cung.",
+            "hasImg": true
+        },
+        {
+            "id": "c2d0394a-8292-4e5c-b922-1e5b2a3aeecb",
+            "word": "sharp",
+            "phonetic": "ʃɑːɹp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Keep a sharp lookout for David.",
+                "With a sharp knife, the chef expertly removed the gristle from the pork chops.",
+                "He remained sharp as a tack.",
+                "She felt a sharp pain in her hand.",
+                "He's as sharp as a tack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
+            "defineEn": "a musical notation indicating one half step higher than the note named",
+            "defineVi": "một ký hiệu âm nhạc chỉ ra một nửa cung cao hơn ghi chú có tên"
+        },
+        {
+            "id": "070615ac-9252-48ba-b45a-deddc49d0069",
+            "word": "flat",
+            "phonetic": "flæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The theory falls flat on its face when put into practice.",
+                "The couple in the flat upstairs are always at it hammer and tongs.",
+                "We drove through the night flat-out, with the pedal to the metal.",
+                "He threw caution to the winds and rang the bell of the ground-floor flat.",
+                "For the record, I have never been to the flat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxhdA&hash=b0319827b03811bef371270d8f3951212b3b8133&lang=en&cache-only=0",
+            "defineEn": "a musical symbol indicating a pitch that is one half step lower than the note indicated",
+            "defineVi": "một biểu tượng âm nhạc biểu thị cao độ thấp hơn nửa cung so với nốt được chỉ định",
+            "hasImg": true
+        },
+        {
+            "id": "f0311710-79ac-45ad-b08c-f8a7473e8979",
+            "word": "half note",
+            "phonetic": "hæf noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFsZiBub3Rl&hash=3edb337124342dedf9e6eeb66d48d2edd2d84035&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of half a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian bằng một nửa nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "5231fe01-64c2-4a51-b034-82afb331d80d",
+            "word": "half step",
+            "phonetic": "hæf stɛp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFsZiBzdGVw&hash=e3f66155da3ac7dfa1e887bba05c3beadf854876&lang=en&cache-only=0",
+            "defineEn": "the smallest interval used in Western music, equal to the distance between two adjacent notes on a keyboard or fretboard",
+            "defineVi": "khoảng thời gian nhỏ nhất được sử dụng trong âm nhạc phương Tây, bằng khoảng cách giữa hai nốt liền kề trên bàn phím hoặc phím đàn",
+            "hasImg": true
+        },
+        {
+            "id": "c06beb9b-3ed2-4f55-8c0e-8df1b5df0e44",
+            "word": "thirty-second note",
+            "phonetic": "θɜːɾisɛkənd noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhpcnR5LXNlY29uZCBub3Rl&hash=891c6b43e032d69317b19cbea1c0c383166efdc4&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of a thirty-second of a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian là một phần ba mươi giây của toàn bộ nốt nhạc"
+        },
+        {
+            "id": "e2b4c6a8-44e9-44b9-9eb7-c13ad0a4a2dd",
+            "word": "fermata",
+            "phonetic": "fɜːmɑːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVybWF0YQ&hash=2335b5e6df4af66b3b47ba3a145064fd77d2846a&lang=en&cache-only=0",
+            "defineEn": "a musical symbol placed over a note or rest to indicate that it should be held longer than its normal duration",
+            "defineVi": "một biểu tượng âm nhạc được đặt trên một nốt nhạc hoặc phần còn lại để chỉ ra rằng nó sẽ được giữ lâu hơn thời lượng bình thường của nó",
+            "hasImg": true
+        },
+        {
+            "id": "67963bc4-6171-45a1-b0e7-debfb41846e4",
+            "word": "dot",
+            "phonetic": "dɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our family line has presided over this land from the year dot.",
+                "I've known Peter since the year dot.",
+                "the European Council will seize the opportunity to cross the t's and dot the i's.",
+                "Please make sure to dot your i's and cross your t's when signing this contract.",
+                "I made sure to cross my t's and dot my"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG90&hash=8fc899d4a015c8a461933e043903a07752d22bfe&lang=en&cache-only=0",
+            "defineEn": "a small round symbol in written music indicating augmentation of time by one half or staccato",
+            "defineVi": "một biểu tượng tròn nhỏ trong âm nhạc bằng văn bản biểu thị thời gian tăng thêm một nửa hoặc ngắt âm",
+            "hasImg": true
+        },
+        {
+            "id": "e3f2a627-8228-4d80-b2c2-52344392df93",
+            "word": "double bar",
+            "phonetic": "dʌbəl bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG91YmxlIGJhcg&hash=5edb78422859d56a366e107345982fc973a76628&lang=en&cache-only=0",
+            "defineEn": "a pair of upright lines in written music marking the end of a composition or a main passage",
+            "defineVi": "một cặp đường thẳng đứng trong bản nhạc đánh dấu sự kết thúc của một tác phẩm hoặc một đoạn văn chính",
+            "hasImg": true
+        },
+        {
+            "id": "edc51d8c-87b3-48c0-a081-8f400cde2360",
+            "word": "quarter note",
+            "phonetic": "kwɔːɹɾɚ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cXVhcnRlciBub3Rl&hash=9c6ebc960f90bebfcf64954c9f0d7672c276b01d&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of a quarter of a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian bằng một phần tư toàn bộ nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "a8847bc5-5868-4194-b298-d67e3b2705fc",
+            "word": "tonic",
+            "phonetic": "tɑːnɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That’s the tonic.",
+                "It was a tonic. ",
+                "But most scientists call it tonic immobility, or TI.",
+                "Kelly Hopping: Traditionally it was used as a general tonic for immune support.",
+                "It is a tonic at a time of great turmoil, isn't it?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9uaWM&hash=3e0472c997b12eae0f329ea3557d12a296bea5da&lang=en&cache-only=0",
+            "defineEn": "(music) the first note of a diatonic scale",
+            "defineVi": "(âm nhạc) nốt đầu tiên của âm giai diatonic"
+        },
+        {
+            "id": "daf0db01-a492-433f-88c3-4c58a5f7cdcc",
+            "word": "staff",
+            "phonetic": "stæf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These changes will involve everyone on the staff.",
+                "The president is looking for staff who will give him advice straight from the shoulder.",
+                "A military delegation was led by the Chief of Staff.",
+                "They have taken on six more staff, bringing the total to 45.",
+                "Each month she holds a meeting with her entire staff."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhZmY&hash=f45320117d1eb3a601c48d6fd812fb066d4f92b2&lang=en&cache-only=0",
+            "defineEn": "a set of five horizontal lines and the blank space between them on which a musical composition is written according to a pitch",
+            "defineVi": "một tập hợp năm đường kẻ ngang và khoảng trống giữa chúng, trên đó một tác phẩm âm nhạc được viết theo cao độ",
+            "hasImg": true
+        },
+        {
+            "id": "cd82bf9a-a7ee-41fd-b200-92cc0a902da3",
+            "word": "ledger line",
+            "phonetic": "lɛdʒɚ laɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGVkZ2VyIGxpbmU&hash=230121791957cfd1d0dbafb8ffc62385e4ffe3af&lang=en&cache-only=0",
+            "defineEn": "a short line added above or below the staff to represent a note that is outside the range of the staff",
+            "defineVi": "một dòng ngắn được thêm vào bên trên hoặc bên dưới khuông nhạc để thể hiện nốt nằm ngoài phạm vi của khuông nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "056190bb-9060-4da5-898b-b59e54a8f42b",
+            "word": "bar line",
+            "phonetic": "bɑːɹ laɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These are bar lines and we refer to each section as a bar.",
+                "In standard notation, rhythm is indicated on a musical bar line, but there are other ways.",
+                "By freeing us from the tyranny of the bar line, we can visualize rhythm in terms of time, and a simple turn of the wheel can take us on a musical journey around the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFyIGxpbmU&hash=e9efb4c2ff7a3a69ae936681f99b891f85de0f0b&lang=en&cache-only=0",
+            "defineEn": "an upright line that separates the bars in written music",
+            "defineVi": "một đường thẳng đứng ngăn cách các thanh trong âm nhạc bằng văn bản",
+            "hasImg": true
+        },
+        {
+            "id": "d7dfcb4a-d561-4b13-b8e7-7ea171f30ac1",
+            "word": "value",
+            "phonetic": "væljuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "The new policy sits well with the company's values.",
+                "Enhance the flavor and nutritional value of your smoothies by adding powdered red algae as a nutrient-rich ingredient.",
+                "A retail group which sets great store by traditional values.",
+                "She needed to prioritize her own needs and values."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFsdWU&hash=09ca43dca802b343bf3515a0183f47dd19888ce6&lang=en&cache-only=0",
+            "defineEn": "(music) the relative duration of a musical note",
+            "defineVi": "(âm nhạc) thời lượng tương đối của một nốt nhạc"
+        },
+        {
+            "id": "05cf5f6c-980d-4e49-aed8-35564fe6f644",
+            "word": "maxima",
+            "phonetic": "mæksɪmə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWF4aW1h&hash=89a63a05b2268f18f838368d78689867323a2cb3&lang=en&cache-only=0",
+            "defineEn": "a note duration equivalent to 64 whole notes in Western music",
+            "defineVi": "thời lượng nốt nhạc tương đương với 64 nốt nhạc trong âm nhạc phương Tây"
+        },
+        {
+            "id": "8a47d4a0-4b0a-4e77-881c-048fbfc6af32",
+            "word": "quadruple note",
+            "phonetic": "kwɑːdɹuːpəl noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cXVhZHJ1cGxlIG5vdGU&hash=7a53937ec8731fe77481d16b8f36afe4809b84c8&lang=en&cache-only=0",
+            "defineEn": "a note duration equivalent to 16 whole notes in Western music",
+            "defineVi": "thời lượng nốt nhạc tương đương với 16 nốt nhạc trong âm nhạc phương Tây"
+        },
+        {
+            "id": "029e2d92-d4da-41f5-8dba-3e048b00398d",
+            "word": "dotted bar line",
+            "phonetic": "dɑːɾᵻd bɑːɹ laɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG90dGVkIGJhciBsaW5l&hash=b8649175f33d45f89b8474bf9415cbbb7a4d8737&lang=en&cache-only=0",
+            "defineEn": "a musical symbol indicating the end of a section or phrase in sheet music",
+            "defineVi": "một biểu tượng âm nhạc cho biết phần cuối của một phần hoặc cụm từ trong bản nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "c1b4af8a-5bf9-4cf6-bf66-e5d9ab71c85f",
+            "word": "clef",
+            "phonetic": "klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At the beginning of a piece of music, just after the clef, is something called the time signature, which tells a performer how many beats are in each bar.",
+                "We use something called a clef, a weird-looking figure placed at the beginning of the staff, which acts like a reference point, telling you that a particular line or space corresponds to a specific note on your instrument.",
+                "If we have to draw so many ledger lines that it gets confusing, then we need to change to a different clef."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlZg&hash=dac9cfe94fb484b0fbce0b9126f6c82dd218aa70&lang=en&cache-only=0",
+            "defineEn": "any of the signs written on the left-hand end of a staff indicating the pitch of the notes",
+            "defineVi": "bất kỳ dấu hiệu nào được viết ở đầu bên trái của một nhân viên cho biết cao độ của các ghi chú",
+            "hasImg": true
+        },
+        {
+            "id": "a33f5bab-64ba-43c2-a819-955d472e357c",
+            "word": "G clef",
+            "phonetic": "dʒiː klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RyBjbGVm&hash=37e48dcfadc909a7810e098e2016eaf6e33b81e4&lang=en&cache-only=0",
+            "defineEn": "a musical symbol that indicates the position of the G note on the staff, also known as the treble clef",
+            "defineVi": "một biểu tượng âm nhạc cho biết vị trí của nốt G trên khuông nhạc, còn được gọi là khóa của âm nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "538d8a19-0a60-40cd-a0a6-3c084243f37b",
+            "word": "C clef",
+            "phonetic": "siː klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QyBjbGVm&hash=5d4e121146bedce144aa931aa11b4fbdd4191a7c&lang=en&cache-only=0",
+            "defineEn": "a musical symbol used to indicate the position of middle C on a staff, and is commonly used for notating the pitches of instruments such as viola, bassoon, and cello",
+            "defineVi": "một ký hiệu âm nhạc được sử dụng để biểu thị vị trí của nốt C ở giữa trên khuông nhạc và thường được sử dụng để ký hiệu cao độ của các nhạc cụ như viola, bassoon và cello",
+            "hasImg": true
+        },
+        {
+            "id": "6b809279-3a53-4d52-acd4-caa8bc4036b8",
+            "word": "F clef",
+            "phonetic": "ɛf klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RiBjbGVm&hash=6ba480da5acf449e0b4c84e18aaf760b5b5bc42f&lang=en&cache-only=0",
+            "defineEn": "a musical symbol that indicates the position of the F note on the staff, also known as the bass clef",
+            "defineVi": "một biểu tượng âm nhạc cho biết vị trí của nốt F trên khuông nhạc, còn được gọi là khóa của âm trầm",
+            "hasImg": true
+        },
+        {
+            "id": "748dabd7-5118-437d-94ad-25fc4efa41db",
+            "word": "octave clef",
+            "phonetic": "ɑːktɪv klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2N0YXZlIGNsZWY&hash=d53917ee511232ceba1d624cbc97c0a1607fd574&lang=en&cache-only=0",
+            "defineEn": "a musical symbol used to indicate that the written notes should be played or sung one octave higher or lower than notated",
+            "defineVi": "một biểu tượng âm nhạc được sử dụng để chỉ ra rằng các nốt viết nên được chơi hoặc hát cao hơn hoặc thấp hơn một quãng tám so với ký hiệu"
+        },
+        {
+            "id": "fb60c23b-bb86-40fc-b736-3a0f35cdf9cc",
+            "word": "neutral clef",
+            "phonetic": "nuːtɹəl klɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmV1dHJhbCBjbGVm&hash=d1b36d3eac0b994092d32b18720d3c6eb6b69a6e&lang=en&cache-only=0",
+            "defineEn": "***A symbol used for pitchless instruments, such as some of those used for percussion instruments, for which each line can represent a specific percussion instrument within a set, such as in a drum set.",
+            "defineVi": "***Một ký hiệu được sử dụng cho các nhạc cụ không có cao độ, chẳng hạn như một số loại được sử dụng cho nhạc cụ gõ, mà mỗi dòng có thể đại diện cho một nhạc cụ gõ cụ thể trong một bộ, chẳng hạn như trong bộ trống."
+        },
+        {
+            "id": "5d2e4ac0-2289-486d-b157-d26e78f210d4",
+            "word": "tablature",
+            "phonetic": "tæblətʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFibGF0dXJl&hash=3ea0205a4d87adb7637b24f8ccd83c5d5f575c29&lang=en&cache-only=0",
+            "defineEn": "a musical notation indicating the fingering to be used",
+            "defineVi": "một ký hiệu âm nhạc chỉ ngón tay được sử dụng"
+        },
+        {
+            "id": "e300d825-b116-48a8-8d17-a900a1e1aafa",
+            "word": "eighth note",
+            "phonetic": "eɪtθ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWlnaHRoIG5vdGU&hash=ca34b8144d33ced74d75073d7cbe6d2f1e776514&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of an eighth of a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian bằng một phần tám của toàn bộ nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "536b5643-4f08-47a8-b770-76620c948d29",
+            "word": "sixteenth note",
+            "phonetic": "sɪkstiːnθ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2l4dGVlbnRoIG5vdGU&hash=cda7f7c359d7010c392cc5cc11b1795313153737&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of a sixteenth of a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian bằng một phần mười sáu của toàn bộ nốt nhạc"
+        },
+        {
+            "id": "88e2d61f-3552-4f18-b0e9-31c8f8b8fb7e",
+            "word": "sixty-fourth note",
+            "phonetic": "sɪkstifoːɹθ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2l4dHktZm91cnRoIG5vdGU&hash=9576f54ff4334ce1dc9a398c6c5207239eef93e0&lang=en&cache-only=0",
+            "defineEn": "a musical note having the time value of a sixty-fourth of a whole note",
+            "defineVi": "một nốt nhạc có giá trị thời gian bằng một phần sáu mươi tư của toàn bộ nốt nhạc"
+        },
+        {
+            "id": "00666a41-8643-4802-aa32-647204a0f195",
+            "word": "hundred twenty-eighth note",
+            "phonetic": "hʌndɹɪd twɛntieɪtθ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHVuZHJlZCB0d2VudHktZWlnaHRoIG5vdGU&hash=2481c663e6c37cceb4b00661a282ca3f6b8c3f13&lang=en&cache-only=0",
+            "defineEn": "a musical notation representing a very short duration of time, typically used in fast-paced music",
+            "defineVi": "một ký hiệu âm nhạc đại diện cho một khoảng thời gian rất ngắn, thường được sử dụng trong âm nhạc có nhịp độ nhanh",
+            "hasImg": true
+        },
+        {
+            "id": "07b12884-9285-4bf6-a0fb-c0bbcd8fb295",
+            "word": "two hundred fifty-sixth note",
+            "phonetic": "tuː hʌndɹɪd fɪftisɪksθ noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHdvIGh1bmRyZWQgZmlmdHktc2l4dGggbm90ZQ&hash=25fb9e34b46859f10129053468cb23ae2379020a&lang=en&cache-only=0",
+            "defineEn": "a musical notation representing an extremely short duration of time, typically used in very fast-paced music",
+            "defineVi": "một ký hiệu âm nhạc đại diện cho một khoảng thời gian cực ngắn, thường được sử dụng trong âm nhạc có nhịp độ rất nhanh"
+        },
+        {
+            "id": "1e785a18-1df8-4594-af9b-fdbaf9d3ffb3",
+            "word": "beam",
+            "phonetic": "biːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lisa beamed with pride as she watched her son receive his diploma on graduation day.",
+                "The construction worker used a heavy-duty bolt to connect the steel beams.",
+                "The proud father watched his child perform on stage, beaming with joy.",
+                "Little beams of light played over the sea.",
+                "Beam of light knocks him down."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhbQ&hash=4e49c21077cb58fde7a96fef133a463e928dfa1c&lang=en&cache-only=0",
+            "defineEn": "a horizontal line used in musical notation to connect two or more adjacent notes of the same value, indicating that they should be played as a single, continuous sound",
+            "defineVi": "một đường ngang được sử dụng trong ký hiệu âm nhạc để kết nối hai hoặc nhiều nốt liền kề có cùng giá trị, biểu thị rằng chúng nên được phát dưới dạng một âm thanh liên tục, đơn lẻ",
+            "hasImg": true
+        },
+        {
+            "id": "ddd87263-2995-4c9f-9ae0-2fc05c5407ce",
+            "word": "dotted note",
+            "phonetic": "dɑːɾᵻd noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG90dGVkIG5vdGU&hash=81da7a755f3f303d75c1db51452e8465a065f1c5&lang=en&cache-only=0",
+            "defineEn": "a musical note with a dot placed to the right of it, which increases its duration by half, indicating that it should be held longer than a regular note of the same value",
+            "defineVi": "một nốt nhạc có một dấu chấm được đặt ở bên phải của nó, làm tăng thời lượng của nó lên một nửa, cho biết rằng nó nên được giữ lâu hơn một nốt thông thường có cùng giá trị",
+            "hasImg": true
+        },
+        {
+            "id": "b9697577-d15d-4d21-8aea-f2f90edaba01",
+            "word": "ghost note",
+            "phonetic": "ɡoʊst noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2hvc3Qgbm90ZQ&hash=0131f54495086393184ebe6491592c04ed86d8ef&lang=en&cache-only=0",
+            "defineEn": "a percussive note played with reduced or muted volume, often used in drumming and rhythm guitar to add subtle accents or create a syncopated feel",
+            "defineVi": "một nốt gõ được chơi với âm lượng giảm hoặc tắt tiếng, thường được sử dụng trong tiếng trống và ghi-ta nhịp điệu để thêm các điểm nhấn tinh tế hoặc tạo cảm giác đảo phách",
+            "hasImg": true
+        },
+        {
+            "id": "4e130463-e943-40de-a745-cdc221045629",
+            "word": "breath mark",
+            "phonetic": "bɹɛθ mɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJlYXRoIG1hcms&hash=dcb4936e5e103292f230a3d7a3b2609699dc8636&lang=en&cache-only=0",
+            "defineEn": "a musical notation symbol indicating where a performer should take a breath while playing or singing",
+            "defineVi": "một biểu tượng ký hiệu âm nhạc cho biết nơi người biểu diễn nên lấy hơi khi chơi hoặc hát",
+            "hasImg": true
+        },
+        {
+            "id": "7f6759a2-5da8-4d72-b7e2-da645567abfc",
+            "word": "caesura",
+            "phonetic": "siːsɜːɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2Flc3VyYQ&hash=a85d2ba9d5bf16e37007d0315633acdf3be42467&lang=en&cache-only=0",
+            "defineEn": "a musical notation symbol indicating a pause or break in the music, often used for dramatic or expressive effect",
+            "defineVi": "một ký hiệu ký hiệu âm nhạc biểu thị sự tạm dừng hoặc nghỉ trong âm nhạc, thường được sử dụng để tạo hiệu ứng ấn tượng hoặc ấn tượng",
+            "hasImg": true
+        },
+        {
+            "id": "c0694f9f-78cb-42bc-a7bb-a2d8b38c1ab0",
+            "word": "double flat",
+            "phonetic": "dʌbəl flæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG91YmxlIGZsYXQ&hash=a875ace4d553c730be66a07efbf4c029ccc432e4&lang=en&cache-only=0",
+            "defineEn": "a musical symbol that indicates the lowering of a note by two half steps or two semitones, equivalent to the same note as a natural but two half steps lower",
+            "defineVi": "một ký hiệu âm nhạc biểu thị việc hạ thấp một nốt xuống hai nửa cung hoặc hai nửa cung, tương đương với cùng một nốt như một nốt tự nhiên nhưng thấp hơn hai nửa cung",
+            "hasImg": true
+        },
+        {
+            "id": "25e60481-d2cf-4afc-bbfd-2bea2873d98e",
+            "word": "common time",
+            "phonetic": "kɑːmən taɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbW9uIHRpbWU&hash=a574517f85c63fc34c6ac4d92188da51aa688dde&lang=en&cache-only=0",
+            "defineEn": "a time signature indicating four beats to the bar",
+            "defineVi": "chữ ký thời gian chỉ ra bốn nhịp cho ô nhịp"
+        },
+        {
+            "id": "1d3e5074-2e3a-427f-bf13-e0d52b55f021",
+            "word": "alla breve",
+            "phonetic": "ælə bɹiːv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWxsYSBicmV2ZQ&hash=ef1a226eccb8e76bfc76ae7f1e638266e65e0308&lang=en&cache-only=0",
+            "defineEn": "a musical notation indicating that the music should be played with a double beat, where the half note receives one beat",
+            "defineVi": "một ký hiệu âm nhạc chỉ ra rằng âm nhạc nên được chơi với nhịp đôi, trong đó nửa nốt nhạc nhận được một nhịp",
+            "hasImg": true
+        },
+        {
+            "id": "00bd1f4f-e48d-4208-b291-1654497da070",
+            "word": "tie",
+            "phonetic": "taɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Which tie do you like best?",
+                "She finally loosened her tie after a long day at work.",
+                "Do I have to wear a tie?",
+                "He wore a tie to the wedding for a unique look.",
+                "She tied some strips of cloth around the wound to check the bleeding."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGll&hash=34ff36d031fc054b7082e34d21e5b5051fd386a7&lang=en&cache-only=0",
+            "defineEn": "a curved line written over a pair of notes of the same pitch indicating that they should be played as one note",
+            "defineVi": "một đường cong được viết trên một cặp nốt nhạc có cùng cao độ cho biết chúng nên được chơi như một nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "2577b988-575f-4dd2-9ea2-19d3c7ef8603",
+            "word": "dot",
+            "phonetic": "dɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our family line has presided over this land from the year dot.",
+                "I've known Peter since the year dot.",
+                "the European Council will seize the opportunity to cross the t's and dot the i's.",
+                "Please make sure to dot your i's and cross your t's when signing this contract.",
+                "I made sure to cross my t's and dot my"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG90&hash=8fc899d4a015c8a461933e043903a07752d22bfe&lang=en&cache-only=0",
+            "defineEn": "a small round symbol in written music indicating augmentation of time by one half or staccato",
+            "defineVi": "một biểu tượng tròn nhỏ trong âm nhạc bằng văn bản biểu thị thời gian tăng thêm một nửa hoặc ngắt âm",
+            "hasImg": true
+        },
+        {
+            "id": "2e3bf61b-65d3-4c42-89d2-d5760939b994",
+            "word": "slur",
+            "phonetic": "slɜː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "\"Asian student faces racial slur outside of Longfellow Middle School.\"",
+                "Mr. Connolly was slurring his words.",
+                "The racial slur in this newsreel title shows the prejudice towards Mexican workers during this time.",
+                "Racial slurs, comments about my personal appearance, you name it.",
+                "And he hurled slurs at college student and birth control advocate Sandra Fluke."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2x1cg&hash=f4445913238835f4716a37a752a0b8d6863da967&lang=en&cache-only=0",
+            "defineEn": "(music) a curved line spanning notes that are to be played legato",
+            "defineVi": "(âm nhạc) một đường cong kéo dài các nốt sẽ được chơi legato"
+        },
+        {
+            "id": "adc9cbbe-bde0-4046-915a-f265d5665c7e",
+            "word": "quarter tone",
+            "phonetic": "kwɔːɹɾɚ toʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cXVhcnRlciB0b25l&hash=c09a44ed8b0b6df000db682115032ae061b7a53d&lang=en&cache-only=0",
+            "defineEn": "half of a semitone",
+            "defineVi": "một nửa cung"
+        },
+        {
+            "id": "0e20d297-adfa-454b-a749-ce53c173c032",
+            "word": "time signature",
+            "phonetic": "taɪm sɪɡnɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It has a steady 4/4 time signature that you can easily stomp your feet to.",
+                "At the beginning of a piece of music, just after the clef, is something called the time signature, which tells a performer how many beats are in each bar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGltZSBzaWduYXR1cmU&hash=3352b92709a83b60d973cf67fff2bd2d600b2b9b&lang=en&cache-only=0",
+            "defineEn": "a sign written at the beginning of a musical composition in the form of a fraction showing the number of beats in each bar",
+            "defineVi": "một dấu hiệu được viết ở phần đầu của một tác phẩm âm nhạc dưới dạng phân số cho biết số nhịp trong mỗi ô nhịp",
+            "hasImg": true
+        },
+        {
+            "id": "b2e0648b-1f06-4f2a-a8c3-e27de5eb4a81",
+            "word": "accidental",
+            "phonetic": "æksɪdɛntəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Accidental discoveries are a common theme in science.",
+                "It could have been accidental. ",
+                "Buildings like these are accidental monuments to the bygone sea that once divided North America.",
+                "It was an accidental song, thank God.",
+                "In each of these accidental discoveries, there was an element of chance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjaWRlbnRhbA&hash=b876ac69e80346abc1ed46c756e7c730e2386e11&lang=en&cache-only=0",
+            "defineEn": "a symbol placed before a note to indicate that it should be played higher or lower than it is written in the key signature",
+            "defineVi": "một biểu tượng được đặt trước một ghi chú để chỉ ra rằng nó nên được chơi cao hơn hoặc thấp hơn so với ghi trong chữ ký chính",
+            "hasImg": true
+        },
+        {
+            "id": "0757042b-5f15-48ce-a689-5ba320cf958b",
+            "word": "accent",
+            "phonetic": "æksənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Can you do a Welsh accent?",
+                "His accent made him difficult to understand.",
+                "The British accent is often considered elegant and distinctive.",
+                "The cast didn't attempt a Spanish accent, which was definitely for the best.",
+                "Syncopation is just putting accents in between the strong beats."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjZW50&hash=8b129bd252d44fa64c25cc5e98e0e127ba9bb710&lang=en&cache-only=0",
+            "defineEn": "an emphasis given to a particular syllable of a word, part of a sentence, or note in a set of musical notes",
+            "defineVi": "một sự nhấn mạnh dành cho một âm tiết cụ thể của một từ, một phần của câu hoặc ghi chú trong một tập hợp các nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "7a548668-04f6-4413-a189-05d813f29c5d",
+            "word": "marcato",
+            "phonetic": "mɑːɹkɑːɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFyY2F0bw&hash=425ab2988416ec54854798bf53a6d8f7c180b10c&lang=en&cache-only=0",
+            "defineEn": "a musical term indicating that a note or passage should be played with a marked emphasis or accent",
+            "defineVi": "một thuật ngữ âm nhạc chỉ ra rằng một nốt nhạc hoặc đoạn văn nên được chơi với sự nhấn mạnh hoặc trọng âm rõ rệt"
+        },
+        {
+            "id": "f031b7b7-dce9-4b64-90ee-ba715e2b4127",
+            "word": "tenuto",
+            "phonetic": "tɛnuːɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGVudXRv&hash=8f33d89b78dbb4b9c7e432817136353cf403fc64&lang=en&cache-only=0",
+            "defineEn": "a musical term indicating that a note should be held for its full duration, typically marked by a horizontal line or dash above or below the note",
+            "defineVi": "một thuật ngữ âm nhạc chỉ ra rằng một nốt nhạc phải được giữ trong toàn bộ thời lượng của nó, thường được đánh dấu bằng một đường ngang hoặc dấu gạch ngang bên trên hoặc bên dưới nốt nhạc"
+        },
+        {
+            "id": "c0507a0f-b547-464f-9150-5f584e0acb2c",
+            "word": "glissando",
+            "phonetic": "ɡlɪsændoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the certified cheese professionals are a group of people who have dedicated themselves to learning about cheese production, so we study everything from the effect that feed and hay and grass have on milk production in animals all the way up through designing the ultimate cheese board (harp glissando) - I'm so excited you're here.",
+                "Hitchcock originally wanted the shower scene to be silent, but composer Bernard Herrmann decided to write a piece featuring violins playing the shrieking upward glissando, which is produced when a violinist glides their fingers up or down the strings as they play."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2xpc3NhbmRv&hash=1f25b1f1cb88c8d6f5dd86b5414fa946085b202f&lang=en&cache-only=0",
+            "defineEn": "a musical technique that involves sliding one or more fingers or the entire hand across the keys of a piano or the strings of a stringed instrument to produce a continuous, sliding sound",
+            "defineVi": "một kỹ thuật âm nhạc liên quan đến việc trượt một hoặc nhiều ngón tay hoặc toàn bộ bàn tay trên các phím đàn piano hoặc dây của một nhạc cụ có dây để tạo ra âm thanh trượt liên tục",
+            "hasImg": true
+        },
+        {
+            "id": "14ebb0bf-3d99-4aeb-81a9-712a295f9798",
+            "word": "arpeggio",
+            "phonetic": "ɑːɹpɛɡɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "then it goes to eight sixteenth notes (medium arpeggios)",
+                "I used the Fibonacci numbers so this has five sixteenth notes (slow arpeggios)",
+                "So it's like how I'm gonna end this (fast arpeggios)"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJwZWdnaW8&hash=e947dcd4be8bf6114af474e89812743b07bca3a5&lang=en&cache-only=0",
+            "defineEn": "a chord whose notes are played in rapid succession rather than simultaneously",
+            "defineVi": "một hợp âm có các nốt được chơi liên tiếp nhanh hơn là đồng thời"
+        },
+        {
+            "id": "bbf55c3c-034e-4e30-8439-c170991d952b",
+            "word": "trill",
+            "phonetic": "tɹɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Then you encounter the unique voice of Kyriaki Giannakari, trilling as clear as a bird, chatting to her distant neighbors.",
+                "( wavering trills )",
+                "I don't even think it has SLI-39, so like (lip trill)",
+                "(midi music trills) Even though this all may look bad, experts say Chuck E. Cheese will be fine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJpbGw&hash=7bf63dccae08bbde5b32026349ac13012d6a6a8f&lang=en&cache-only=0",
+            "defineEn": "a note that alternates rapidly with another note a semitone above it",
+            "defineVi": "một nốt nhạc xen kẽ nhanh chóng với một nốt nhạc khác phía trên nó một nửa cung"
+        },
+        {
+            "id": "7078e538-524e-4398-bb87-93be3101e875",
+            "word": "grace note",
+            "phonetic": "ɡɹeɪs noʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JhY2Ugbm90ZQ&hash=edee665ebe1f8f30d05a83ac0050d272f7f10722&lang=en&cache-only=0",
+            "defineEn": "a musical ornament that is played quickly before the main note and is not essential to the harmony or melody of a piece of music",
+            "defineVi": "một vật trang trí âm nhạc được chơi nhanh trước nốt chính và không cần thiết cho sự hài hòa hoặc giai điệu của một bản nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "a9ee4be1-0ab7-44c2-8ea2-5f0c03353542",
+            "word": "key signature",
+            "phonetic": "kiː sɪɡnɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a2V5IHNpZ25hdHVyZQ&hash=d9d9f609a1a4f88f94a5e8959e0fa77ed87245ba&lang=en&cache-only=0",
+            "defineEn": "the set of marks at the beginning of a printed piece of music, indicating the key in which the piece is played",
+            "defineVi": "tập hợp các dấu ở phần đầu của một bản nhạc được in, cho biết phím mà bản nhạc được chơi"
+        },
+        {
+            "id": "ddeea9b7-7551-45e8-b9e7-4dd6dcbb83a3",
+            "word": "rest",
+            "phonetic": "ɹɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His argument rests on shaky ground.",
+                "He gently rested his chin on her shoulder.",
+                "The rest of his money went into medical expenses.",
+                "May she rest in peace.",
+                "I rested my head on a soft pillow to sleep."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzdA&hash=b7fa5dd7d7b7934cadf4cc291d48818b2ae1e53f&lang=en&cache-only=0",
+            "defineEn": "a period of silence or the sign that indicates a silence between musical notes",
+            "defineVi": "một khoảng thời gian im lặng hoặc dấu hiệu cho thấy sự im lặng giữa các nốt nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "c9fd4646-2ae0-4e71-9132-34e4c0c8bc44",
+            "word": "mordent",
+            "phonetic": "mɔːɹdənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9yZGVudA&hash=f8e1e2fb696b24a852bc777111646c6c825d1f9b&lang=en&cache-only=0",
+            "defineEn": "a musical ornament indicating a rapid alternation between a note and the note above or below it",
+            "defineVi": "một vật trang trí âm nhạc biểu thị sự luân phiên nhanh chóng giữa một nốt nhạc và nốt nhạc ở trên hoặc dưới nó"
+        },
+        {
+            "id": "d9f03435-68bd-4147-a8e5-77971b377458",
+            "word": "repeat sign",
+            "phonetic": "ɹᵻpiːt saɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVwZWF0IHNpZ24&hash=31e32357ed09f0ef9420894df819d79839c27221&lang=en&cache-only=0",
+            "defineEn": "a notation symbol consisting of two vertical lines with dots or arrows, indicating that a section of music should be repeated from the beginning or a designated point",
+            "defineVi": "một ký hiệu ký hiệu bao gồm hai đường thẳng đứng có dấu chấm hoặc mũi tên, cho biết rằng một đoạn nhạc nên được lặp lại từ đầu hoặc một điểm được chỉ định"
+        },
+        {
+            "id": "5d0334df-a23a-4de7-a0cd-1e2842811c0e",
+            "word": "tuplet",
+            "phonetic": "tuːplɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHVwbGV0&hash=21b3bc1f47d37e372068733cba3e6d420a369bc8&lang=en&cache-only=0",
+            "defineEn": "a notation that indicates a grouping of a specific number of notes or beats within a time value, allowing for irregular rhythms or subdivisions",
+            "defineVi": "một ký hiệu cho biết một nhóm của một số nốt nhạc hoặc nhịp cụ thể trong một giá trị thời gian, cho phép các nhịp điệu hoặc phần nhỏ không đều"
+        }
+    ]
+}

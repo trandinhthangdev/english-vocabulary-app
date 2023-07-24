@@ -1,0 +1,382 @@
+{
+    "id": "9e26e367-0290-4aa5-9b25-f918ae8a03e3",
+    "title": "Streaming Media",
+    "originalTitle": "Streaming Media",
+    "words": [
+        {
+            "id": "0000fdb0-e676-450c-9573-a1cd8486944c",
+            "word": "streaming",
+            "phonetic": "stɹiːmɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I got a free subscription to a streaming service for a month, and even though the selection wasn't great, I watched as much as I could because free vinegar is sweeter than honey.",
+                "In fact, streaming is now the largest source of US music industry revenue.",
+                "I'm used to streaming.",
+                "Is this a streaming?",
+                "Other streaming services weren’t much better."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RyZWFtaW5n&hash=a67c1c5ca68dd899c14f66b0b663828e6a9275ca&lang=en&cache-only=0",
+            "defineEn": "the real-time delivery and playback of multimedia content over the internet",
+            "defineVi": "phân phối thời gian thực và phát lại nội dung đa phương tiện qua internet"
+        },
+        {
+            "id": "7847a602-fc96-469a-b5f0-28c9c1c939b0",
+            "word": "podcasting",
+            "phonetic": "pɑːdkæstɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "(laughing) No, podcasting, I said.",
+                "This is another example of why in a gaming or podcasting setting, whether you're taking notes or just playing a video game, you don't really want omni-directional.",
+                "And that if you have someone who is writing on Tumblr, writing on a blog, uploading YouTube videos, uploading or podcasting on SoundCloud, there are remarkably fewer gatekeepers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9kY2FzdGluZw&hash=671a9604d95042d755f4e16258598b69e0da81a5&lang=en&cache-only=0",
+            "defineEn": "the activity of posting a series of digital media files available for download over the internet on regular basis",
+            "defineVi": "hoạt động đăng một loạt các tệp phương tiện kỹ thuật số có sẵn để tải xuống qua internet một cách thường xuyên"
+        },
+        {
+            "id": "8479a4b3-ae60-4333-9866-1afea70adf27",
+            "word": "podcast",
+            "phonetic": "pɑːdkæst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He picked up the new language easily by listening to podcasts.",
+                "My dog has a podcast.",
+                "Your podcast will fail.",
+                "Your podcast will fail.",
+                "She loves your podcast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9kY2FzdA&hash=2f896fb6193d1039bccf5592f71a5fbf404bd4b7&lang=en&cache-only=0",
+            "defineEn": "a digital audio or video program that is available for download or streaming on the internet, typically produced in a series format covering a wide range of topics",
+            "defineVi": "một chương trình âm thanh hoặc video kỹ thuật số có sẵn để tải xuống hoặc phát trực tuyến trên internet, thường được sản xuất ở định dạng sê-ri bao gồm nhiều chủ đề"
+        },
+        {
+            "id": "478904be-7559-46d6-86e5-72b102a4d9f7",
+            "word": "subtitle",
+            "phonetic": "sʌbtaɪɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I love watching Spanish movies with subtitles to improve my language skills.",
+                "He was as deaf as a post and relied on subtitles to follow the dialogue.",
+                "Subtitles show you the sounds of the game.",
+                "Note the subtitle.",
+                "Do they use subtitles?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VidGl0bGU&hash=6942b5f04a253366e7c701d080e7eec7457fe321&lang=en&cache-only=0",
+            "defineEn": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who don't understand the language",
+            "defineVi": "các từ phiên âm hoặc dịch của câu chuyện hoặc lời thoại của một bộ phim hoặc chương trình truyền hình, xuất hiện ở cuối màn hình để giúp người khiếm thính hoặc những người không hiểu ngôn ngữ",
+            "hasImg": true
+        },
+        {
+            "id": "52a43be1-e7a0-4ba4-9237-4510c11f5a34",
+            "word": "live stream",
+            "phonetic": "laɪv stɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So i hope you all have a wonderful day, and I will see you tomorrow on a Live Stream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl2ZSBzdHJlYW0&hash=80dff4cc1e306b5d4f2d3a91938454b898acae45&lang=en&cache-only=0",
+            "defineEn": "the act of broadcasting or transmitting live video or audio content over the internet, allowing viewers to watch the content in real time as it is happening",
+            "defineVi": "hành động phát hoặc truyền nội dung video hoặc âm thanh trực tiếp qua internet, cho phép người xem xem nội dung trong thời gian thực khi nó đang diễn ra"
+        },
+        {
+            "id": "9d806713-c445-4c51-b2f1-35e88097e892",
+            "word": "video on demand",
+            "phonetic": "vɪdɪoʊ ɔn dᵻmænd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmlkZW8gb24gZGVtYW5k&hash=c6b8bd9e62960ebb5696d40a24c8a878fe323e75&lang=en&cache-only=0",
+            "defineEn": "a system or service that allows users to access and watch video content at their convenience, enabling them to choose and play videos whenever they want rather than following a fixed broadcasting schedule",
+            "defineVi": "một hệ thống hoặc dịch vụ cho phép người dùng truy cập và xem nội dung video một cách thuận tiện, cho phép họ chọn và phát video bất cứ khi nào họ muốn thay vì tuân theo lịch phát sóng cố định"
+        },
+        {
+            "id": "df3b9341-eea2-471e-9b99-c97f45d17004",
+            "word": "OTT",
+            "phonetic": "ɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=T1RU&hash=f81b1af07dac053a4b55cb374d2879322c62cf7b&lang=en&cache-only=0",
+            "defineEn": "the delivery of video, audio, and other media content over the internet directly to users, bypassing traditional distribution channels such as cable or satellite television providers",
+            "defineVi": "việc phân phối video, âm thanh và nội dung phương tiện khác qua internet trực tiếp tới người dùng, bỏ qua các kênh phân phối truyền thống như nhà cung cấp truyền hình cáp hoặc vệ tinh"
+        },
+        {
+            "id": "9a482a01-54fe-4755-91f9-5bbc310519ad",
+            "word": "adaptive streaming",
+            "phonetic": "ɐdæptɪv stɹiːmɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRhcHRpdmUgc3RyZWFtaW5n&hash=c731876442a8d27fb118be4e86b0df1769e58685&lang=en&cache-only=0",
+            "defineEn": "a technique used in multimedia delivery over the internet that dynamically adjusts the quality and resolution of the streaming content based on the viewer's network conditions and device capabilities",
+            "defineVi": "một kỹ thuật được sử dụng trong phân phối đa phương tiện qua internet tự động điều chỉnh chất lượng và độ phân giải của nội dung phát trực tuyến dựa trên điều kiện mạng của người xem và khả năng của thiết bị"
+        },
+        {
+            "id": "8c1bc798-8f04-4fcf-9627-e0cb5cac9281",
+            "word": "streaming service",
+            "phonetic": "stɹiːmɪŋ sɜːvɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RyZWFtaW5nIHNlcnZpY2U&hash=67e5bc49778c7e480b3feaf2492fb6f5c583573a&lang=en&cache-only=0",
+            "defineEn": "a platform or service that allows users to stream and access a wide range of audio, video, or other media content over the internet",
+            "defineVi": "một nền tảng hoặc dịch vụ cho phép người dùng truyền phát và truy cập nhiều loại âm thanh, video hoặc nội dung phương tiện khác qua internet"
+        },
+        {
+            "id": "fbc0f06e-60ac-4c0a-b0f4-30e2c59e878d",
+            "word": "buffering",
+            "phonetic": "bʌfɚɹɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's part of Starlink, the expansive constellation from Musk and SpaceX that hopes to bring the world low-latency high-speed internet, promising no more buffering and nearly instantaneous internet in every corner of the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVmZmVyaW5n&hash=d3f1f18bc85a7d16c746bf1a41952e374c47849b&lang=en&cache-only=0",
+            "defineEn": "the process of temporarily storing and preloading data to ensure uninterrupted playback of streaming media",
+            "defineVi": "quá trình lưu trữ tạm thời và tải trước dữ liệu để đảm bảo phát lại phương tiện truyền trực tuyến không bị gián đoạn"
+        },
+        {
+            "id": "c9a9c5d3-ef5e-45c7-a9cf-efefd36f04b9",
+            "word": "audio",
+            "phonetic": "ɔːdɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Getting rid of noise enhances the quality of your audio and makes it sound more pleasing to the ears.",
+                "Records, cassettes, CDs, or streamed audio files.",
+                "That audio was courtesy of the pool.",
+                "The phone will record the screen without audio.",
+                "The external processor doesn't even get audio feedback."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXVkaW8&hash=127face057ee97e000cdfa7a13876be3cd4e32bf&lang=en&cache-only=0",
+            "defineEn": "the sound or audible content in the form of music, speech, or other types of sound that can be recorded, played, or transmitted",
+            "defineVi": "âm thanh hoặc nội dung nghe được dưới dạng nhạc, lời nói hoặc các loại âm thanh khác có thể được ghi, phát hoặc truyền đi",
+            "hasImg": true
+        },
+        {
+            "id": "78de679a-1094-4221-a005-123cf604fe9e",
+            "word": "video",
+            "phonetic": "vɪdɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We were shown a training video.",
+                "The video gamer is leaving his opponent in the dust with his expert knowledge of the game mechanics and quick reflexes.",
+                "The video was produced and directed by filmmaker Neil Campbell.",
+                "Her grandchild lives in another country, but they video chat every week to stay in touch.",
+                "The student was struggling with a difficult math problem, but she happened to come across a helpful video tutorial online - she found herself in luck!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlkZW8&hash=78b3d528ae88ec8b44439c9284b7c65ab50ec035&lang=en&cache-only=0",
+            "defineEn": "a recording of sounds and images that are moving",
+            "defineVi": "một bản ghi âm thanh và hình ảnh đang chuyển động",
+            "hasImg": true
+        },
+        {
+            "id": "6c80489e-2c34-4c7a-bb75-80cd8f7b9e3b",
+            "word": "watchlist",
+            "phonetic": "wɑːtʃlɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He creates a watchlist of students who have really bad grades and checks up on them every week, and he ignores the students who keep up with good grades.",
+                "If any of the students on his watchlist don’t do their homework that week, they get punished."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0Y2hsaXN0&hash=245443c1917b1f5665ca8978abdaadd94f548fb6&lang=en&cache-only=0",
+            "defineEn": "a personalized collection of media that allows individuals to keep track of movies, TV shows, or other content they intend to watch in the future",
+            "defineVi": "một bộ sưu tập phương tiện được cá nhân hóa cho phép các cá nhân theo dõi phim, chương trình truyền hình hoặc nội dung khác mà họ dự định xem trong tương lai"
+        },
+        {
+            "id": "37b895a4-32e1-43f3-9fbd-15d4b7ba9da7",
+            "word": "forward",
+            "phonetic": "fɔːɹwɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After that, things moved forward at lightning speed.",
+                "We'll take the matter forward at our next meeting.",
+                "My children look forward to receiving gifts during the winter holidays.",
+                "He took a big step forward to start his new adventure.",
+                "He leaned forward to take her hand."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9yd2FyZA&hash=19539ffc431b46d0fdd87bd9492e444e89b65d6a&lang=en&cache-only=0",
+            "defineEn": "the action of advancing or moving ahead through a recorded media file, such as a video or audio track, to a later point in the content",
+            "defineVi": "hành động tiến lên hoặc di chuyển về phía trước thông qua tệp phương tiện đã ghi, chẳng hạn như video hoặc bản âm thanh, đến điểm sau trong nội dung"
+        },
+        {
+            "id": "b586756b-88a6-4cc3-a58a-50a016af8e51",
+            "word": "fast-forward",
+            "phonetic": "fæstfɔːɹwɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fast-forward to 1983, when Popular Merchandise launched its first catalog, the J.Crew catalog.",
+                "Fast-forward to last weekend, and those stories intersected with a food delivery in New York City.",
+                "Now, fast-forward a few decades, and meet contemporary American philosopher William Lycan.",
+                "Now, fast-forward to the late Miocene, about 10 million years ago, and we find fossils of another two walrus species in Japan.",
+                "But let's fast-forward to last Wednesday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdC1mb3J3YXJk&hash=405caffe43ac1dcdc38d1720ccbda17a4463036c&lang=en&cache-only=0",
+            "defineEn": "a function or action that allows you to quickly advance or skip forward through a recorded media file, such as a video or audio track, at a faster speed than normal playback",
+            "defineVi": "một chức năng hoặc hành động cho phép bạn nhanh chóng chuyển tiếp hoặc chuyển tiếp qua tệp phương tiện đã ghi, chẳng hạn như video hoặc bản âm thanh, với tốc độ nhanh hơn tốc độ phát lại bình thường"
+        },
+        {
+            "id": "f0b398c4-dceb-4c8c-ae6c-efb6e4128491",
+            "word": "playback",
+            "phonetic": "pleɪbæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And the playback looks actually okay too.",
+                "Using this function shortens continuous playback time.",
+                "If you charge these ones for 10 minutes, you only get 60 minutes of playback.",
+                "I sound high-pitched and everything else but obviously, it doesn't come out that way in playback.",
+                "In-ear detection, of course, you pull out one earphone and the playback pauses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxheWJhY2s&hash=c858bcd9230531ce9294f4141532da48efbb888d&lang=en&cache-only=0",
+            "defineEn": "the process of reproducing or playing back recorded media, such as audio or video content",
+            "defineVi": "quá trình sao chép hoặc phát lại phương tiện đã ghi, chẳng hạn như nội dung âm thanh hoặc video"
+        },
+        {
+            "id": "c57fec5e-e8bc-426f-988b-51b96ce9fa91",
+            "word": "streaming radio",
+            "phonetic": "stɹiːmɪŋ ɹeɪdɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RyZWFtaW5nIHJhZGlv&hash=00185276ea291a4c7f52c64176e75b0626a4ec99&lang=en&cache-only=0",
+            "defineEn": "the online delivery of live or pre-recorded radio broadcasts over the internet, allowing users to listen to a wide range of radio stations and programs using their connected devices",
+            "defineVi": "phân phối trực tuyến các chương trình phát thanh trực tiếp hoặc được ghi sẵn qua internet, cho phép người dùng nghe nhiều loại đài phát thanh và chương trình bằng các thiết bị được kết nối của họ"
+        },
+        {
+            "id": "9dfb0cee-e3b9-4a9d-bca6-4347fff85868",
+            "word": "pause",
+            "phonetic": "pɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He paused, took a step back, and remembered to be swift to hear and slow to speak.",
+                "She paused and considered for a moment.",
+                "Pause the video!",
+                "Like always, pause the video.",
+                "In unfavorable conditions, female kangaroos can pause their pregnancies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF1c2U&hash=e4d3b1523024c9c8bc17243d79978114c8214adc&lang=en&cache-only=0",
+            "defineEn": "the action of temporarily stopping the playback of a media file, allowing users to resume from where they left off",
+            "defineVi": "hành động tạm thời dừng phát lại tệp phương tiện, cho phép người dùng tiếp tục từ nơi họ dừng lại"
+        },
+        {
+            "id": "cdcc3a08-4f59-4c1e-bc43-176ea4489816",
+            "word": "play",
+            "phonetic": "pleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The manager played his strongest side of the season.",
+                "The bedside radio played softly.",
+                "The media, as always, played an important part in the election campaign.",
+                "Fathers play a crucial role in their children's upbringing and development.",
+                "His dedication and hard work played a big part in the company's success."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxheQ&hash=892965475b3d8de28659d6efc3daa9fc268f45db&lang=en&cache-only=0",
+            "defineEn": "the function or action of starting or initiating the playback of a media file",
+            "defineVi": "chức năng hoặc hành động bắt đầu hoặc bắt đầu phát lại tệp phương tiện"
+        },
+        {
+            "id": "13b7a43c-c138-4a06-a64e-b3c46f2b3e3a",
+            "word": "resolution",
+            "phonetic": "ɹɛzəluːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That resolution clearly withered on the vine.",
+                "The resolution passed both houses before the zero hour and the President signed it.",
+                "Some people set resolutions for the new year in December, hoping to make positive changes.",
+                "The United Nations Security Council has passed a resolution asking the two countries to resume peace negotiations.",
+                "When dealing with customer service, it can be helpful to be assertive and persistent, as the squeaky wheel gets the grease and is more likely to receive a satisfactory resolution."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzb2x1dGlvbg&hash=58d6be386162ce9debaea106db6c6c007de95c89&lang=en&cache-only=0",
+            "defineEn": "the quality and clarity of an image or video display",
+            "defineVi": "chất lượng và độ rõ nét của hình ảnh hoặc video hiển thị"
+        },
+        {
+            "id": "4f587ace-82fe-4071-8f94-bcc45019ea65",
+            "word": "channel",
+            "phonetic": "tʃænəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Complaints must go through the proper channels.",
+                "We should go through the established channels for product development.",
+                "We can't get Channel 5 in our area.",
+                "But when it comes time to purchase, transactions often go through traditional channels.",
+                "To go through official channels to obtain one you must have a Spanish address."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbm5lbA&hash=ad02bd157a24030b1440c6b1461741ac5b908cef&lang=en&cache-only=0",
+            "defineEn": "a specific platform or service that offers a collection of content, such as movies, TV shows, or live broadcasts, for streaming over the internet",
+            "defineVi": "một nền tảng hoặc dịch vụ cụ thể cung cấp một bộ sưu tập nội dung, chẳng hạn như phim, chương trình truyền hình hoặc chương trình phát sóng trực tiếp, để phát trực tuyến qua internet"
+        },
+        {
+            "id": "90ac5fd5-1ef1-4e3b-ad2f-67ddc1de1f0a",
+            "word": "autoplay",
+            "phonetic": "ɔːɾoʊpleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I got the autoplay coming at me, and it's just like, stop!",
+                "Which means that because of autoplay, if you scroll through your timeline slowly enough, you count as a viewer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXV0b3BsYXk&hash=8b089837650a81711a14b4d3cb6afbdd723cddd3&lang=en&cache-only=0",
+            "defineEn": "the automatic and continuous playback of content without requiring the user to manually start each item",
+            "defineVi": "phát lại nội dung tự động và liên tục mà không yêu cầu người dùng bắt đầu từng mục theo cách thủ công"
+        },
+        {
+            "id": "05b854f8-00bd-4413-bbb9-5c09de80ae0e",
+            "word": "display mode",
+            "phonetic": "dɪspleɪ moʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzcGxheSBtb2Rl&hash=73b964bda73b999d399ae010cf346142f0ac0650&lang=en&cache-only=0",
+            "defineEn": "the available options for how the content is presented on the screen, such as full screen, theater mode, picture-in-picture, and windowed mode",
+            "defineVi": "các tùy chọn khả dụng về cách trình bày nội dung trên màn hình, chẳng hạn như toàn màn hình, chế độ rạp hát, hình trong hình và chế độ cửa sổ"
+        },
+        {
+            "id": "b43e1370-194f-4f2e-9bcf-11aff7be049b",
+            "word": "full screen",
+            "phonetic": "fʊl skɹiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbCBzY3JlZW4&hash=1de1772891096d74e1040205a8b4a08c512e5be9&lang=en&cache-only=0",
+            "defineEn": "the display mode where the video or content occupies the entire screen of the device, maximizing the viewing experience",
+            "defineVi": "chế độ hiển thị trong đó video hoặc nội dung chiếm toàn bộ màn hình của thiết bị, tối đa hóa trải nghiệm xem"
+        },
+        {
+            "id": "8c7f07e0-bfd7-413a-ab69-d2c079aa3ae4",
+            "word": "theater mode",
+            "phonetic": "θiəɾɚ moʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhlYXRlciBtb2Rl&hash=0dcc94a25f65c959298788a16bde736a5193ab6d&lang=en&cache-only=0",
+            "defineEn": "a display setting that provides a larger and more immersive viewing experience by maximizing the video content and removing distractions from the screen",
+            "defineVi": "cài đặt hiển thị cung cấp trải nghiệm xem lớn hơn và sống động hơn bằng cách tối đa hóa nội dung video và loại bỏ phiền nhiễu khỏi màn hình"
+        },
+        {
+            "id": "1c77fc82-a044-4ef7-94f7-678db0aa3536",
+            "word": "picture-in-picture",
+            "phonetic": "pɪktʃɚɹɪnpɪktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGljdHVyZS1pbi1waWN0dXJl&hash=ba2a7045b0d06281f0fcffc0b005e2abdbfee96e&lang=en&cache-only=0",
+            "defineEn": "a feature that allows users to watch a video or content in a small window while simultaneously performing other tasks or browsing through different applications on the device",
+            "defineVi": "một tính năng cho phép người dùng xem video hoặc nội dung trong một cửa sổ nhỏ đồng thời thực hiện các tác vụ khác hoặc duyệt qua các ứng dụng khác nhau trên thiết bị"
+        },
+        {
+            "id": "6b626cc4-3b8d-4607-b58a-814b341392d4",
+            "word": "windowed mode",
+            "phonetic": "wɪndoʊd moʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2luZG93ZWQgbW9kZQ&hash=5450867080faf995f8507a26854a12946b294f72&lang=en&cache-only=0",
+            "defineEn": "a display setting that allows the video or content to be viewed in a resizable window, similar to other applications, enabling users to multitask and have better control over the viewing experience",
+            "defineVi": "cài đặt hiển thị cho phép xem video hoặc nội dung trong cửa sổ có thể thay đổi kích thước, tương tự như các ứng dụng khác, cho phép người dùng đa nhiệm và kiểm soát tốt hơn trải nghiệm xem"
+        },
+        {
+            "id": "bae6e834-1297-4616-a4e4-75d3f91f642d",
+            "word": "subscription",
+            "phonetic": "sʌbskɹɪpʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have a TV subscription that gives us access to a variety of channels and programs.",
+                "I got a free subscription to a streaming service for a month, and even though the selection wasn't great, I watched as much as I could because free vinegar is sweeter than honey.",
+                "That subscription gives you access to tons of interactive courses, as well as the huge Brilliant community.",
+                "One method is through subscriptions.",
+                "Get a subscription for that kid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vic2NyaXB0aW9u&hash=6b9fa85edc42fda380c11af3b61bc54dec77f526&lang=en&cache-only=0",
+            "defineEn": "an agreement or arrangement where an individual or entity pays a recurring fee or provides their contact information in exchange for access to content, services, or updates from a specific source, such as a website, online platform, or digital publication",
+            "defineVi": "một thỏa thuận hoặc thỏa thuận trong đó một cá nhân hoặc tổ chức trả phí định kỳ hoặc cung cấp thông tin liên hệ của họ để đổi lấy quyền truy cập vào nội dung, dịch vụ hoặc cập nhật từ một nguồn cụ thể, chẳng hạn như trang web, nền tảng trực tuyến hoặc ấn phẩm kỹ thuật số"
+        }
+    ]
+}

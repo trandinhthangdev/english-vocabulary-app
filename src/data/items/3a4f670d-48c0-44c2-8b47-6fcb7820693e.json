@@ -1,0 +1,334 @@
+{
+    "id": "3a4f670d-48c0-44c2-8b47-6fcb7820693e",
+    "title": "Home Appliances",
+    "originalTitle": "Home Appliances",
+    "words": [
+        {
+            "id": "d611aaba-997f-4950-a8ef-102ed8e1a462",
+            "word": "vacuum cleaner",
+            "phonetic": "vækjuːm kliːnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The new vacuum cleaner works like magic, easily picking up dirt from the floors.",
+                "Would you mind giving the carpet a once-over with the vacuum cleaner?",
+                "And then the rest of it that we can't get, that's below the section, we can use just the regular vacuum cleaner.",
+                "Here’s another misconception: A lot of people think of black holes as cosmic vacuum cleaners, sucking in everything near them.",
+                "But the much more important fact is a black hole's gravity doesn't just suck things in like some sort of cosmic vacuum cleaner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFjdXVtIGNsZWFuZXI&hash=80daa1bd87e307fc27dc89c049414d51d878d13f&lang=en&cache-only=0",
+            "defineEn": "an electrical device that pulls up dirt and dust from a floor to clean it",
+            "defineVi": "một thiết bị điện kéo bụi bẩn từ sàn nhà để làm sạch nó",
+            "hasImg": true
+        },
+        {
+            "id": "caedd3a6-38b1-44f3-b97a-bb4efec4acc8",
+            "word": "space heater",
+            "phonetic": "speɪs hiːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2UgaGVhdGVy&hash=77f1ca5a5559e530574c2b6de96ca5bf7af772aa&lang=en&cache-only=0",
+            "defineEn": "a portable device that generates heat and is used to warm up a small area or room",
+            "defineVi": "một thiết bị di động tạo ra nhiệt và được sử dụng để làm ấm một khu vực nhỏ hoặc căn phòng"
+        },
+        {
+            "id": "26558ed8-1799-4a99-850b-1b5f0d352c63",
+            "word": "pressure washer",
+            "phonetic": "pɹɛʃɚ wɑːʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlc3N1cmUgd2FzaGVy&hash=0b7278dd61605623da022957a60151a079fb7c8b&lang=en&cache-only=0",
+            "defineEn": "a machine that uses high-pressure water spray to remove dirt, grime, and other types of stubborn stains from surfaces",
+            "defineVi": "máy sử dụng vòi phun nước áp suất cao để loại bỏ bụi bẩn, vết bẩn và các loại vết bẩn cứng đầu khác trên bề mặt"
+        },
+        {
+            "id": "898664b4-c2ec-4d98-948f-2c7fc7dd6519",
+            "word": "air conditioner",
+            "phonetic": "ɛɹ kəndɪʃənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I turned on the air conditioner because it was getting too hot inside.",
+                "Think about the telephone and the air conditioner and the Eiffel Tower, and then try again.",
+                "Throughout the 20th century, CFCs were being produced as coolants in refrigerators and air conditioners, and in aerosol sprays.",
+                "But we also saw, over that same time period, consumer prices for refrigerators and other products like air conditioners come down.",
+                "Modern bulbs just don’t suck as much electricity anymore, and while people have turned off some lights, they’ve turned on lots of air conditioners, computers, and TVs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWlyIGNvbmRpdGlvbmVy&hash=ac2b3d74debd53c02cebc8e6e49cef45e5975447&lang=en&cache-only=0",
+            "defineEn": "a machine that is designed to cool and dry the air in a room, building, or vehicle",
+            "defineVi": "một máy được thiết kế để làm mát và làm khô không khí trong phòng, tòa nhà hoặc phương tiện",
+            "hasImg": true
+        },
+        {
+            "id": "58425423-8f3a-48ea-a983-950b0aba4e8e",
+            "word": "humidifier",
+            "phonetic": "hjuːmɪdɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHVtaWRpZmllcg&hash=a33415aba547eb51da94cdd29fd36fcc4dccf272&lang=en&cache-only=0",
+            "defineEn": "an appliance that increases the moisture level in a room or an entire building",
+            "defineVi": "một thiết bị làm tăng độ ẩm trong phòng hoặc toàn bộ tòa nhà",
+            "hasImg": true
+        },
+        {
+            "id": "8c59ac25-7862-459f-866d-ef0f8479604f",
+            "word": "dehumidifier",
+            "phonetic": "diːhjuːmɪdɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For example, the car had a dehumidifier in the cabin to prevent the windows from fogging."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVodW1pZGlmaWVy&hash=5aad9ce1c192bde778e88c4ea47583a101ab66e1&lang=en&cache-only=0",
+            "defineEn": "a device that reduces the amount of moisture in the air, typically used to maintain a comfortable and healthy humidity level in a room or building",
+            "defineVi": "một thiết bị làm giảm độ ẩm trong không khí, thường được sử dụng để duy trì mức độ ẩm thoải mái và lành mạnh trong phòng hoặc tòa nhà"
+        },
+        {
+            "id": "213c456e-ab64-41be-bb4c-3ce2d6e6139e",
+            "word": "fan",
+            "phonetic": "fæn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His speeches fanned the flames of racial tension.",
+                "Fans have given the band's new song their seal of approval.",
+                "The fans had fun and got their money's worth.",
+                "The determined fan elbowed his way through the crowd to get closer to the stage.",
+                "The new album by that band is going down a bomb with music fans all over the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFu&hash=af482d3c8e5ab064e654e5b69cdc159e7a446b94&lang=en&cache-only=0",
+            "defineEn": "an electric device with blades that rotate quickly and keep an area cool",
+            "defineVi": "một thiết bị điện có lưỡi quay nhanh và giữ cho khu vực mát mẻ",
+            "hasImg": true
+        },
+        {
+            "id": "2d361370-0b0f-44bb-9747-c907839424de",
+            "word": "air purifier",
+            "phonetic": "ɛɹ pjʊɹɹɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWlyIHB1cmlmaWVy&hash=70baa5b4066b0138af6ae73463723aad4e8068f8&lang=en&cache-only=0",
+            "defineEn": "a device designed to remove pollutants and particles such as dust, smoke, and allergens from the air in a room",
+            "defineVi": "một thiết bị được thiết kế để loại bỏ các chất ô nhiễm và hạt như bụi, khói và chất gây dị ứng khỏi không khí trong phòng",
+            "hasImg": true
+        },
+        {
+            "id": "8ecd1cb8-4606-481d-b683-d558fa757275",
+            "word": "steam cleaner",
+            "phonetic": "stiːm kliːnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RlYW0gY2xlYW5lcg&hash=861872f3ca2585cbca3afeb797368fbef9dc07e6&lang=en&cache-only=0",
+            "defineEn": "a device that uses steam to clean and sanitize surfaces",
+            "defineVi": "một thiết bị sử dụng hơi nước để làm sạch và vệ sinh bề mặt"
+        },
+        {
+            "id": "72c2ad5c-67e8-4414-87da-4a074c5bf99b",
+            "word": "steam cleaner",
+            "phonetic": "stiːm kliːnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RlYW0gY2xlYW5lcg&hash=861872f3ca2585cbca3afeb797368fbef9dc07e6&lang=en&cache-only=0",
+            "defineEn": "a device that uses steam to clean and sanitize surfaces",
+            "defineVi": "một thiết bị sử dụng hơi nước để làm sạch và vệ sinh bề mặt"
+        },
+        {
+            "id": "a9fede6d-4e07-4792-b54b-c4c780b1a982",
+            "word": "sewing machine",
+            "phonetic": "soʊɪŋ məʃiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2V3aW5nIG1hY2hpbmU&hash=2024ff5dbfcdcad588340e22513b10041193ce5e&lang=en&cache-only=0",
+            "defineEn": "a machine used to sew fabric and other materials together with thread",
+            "defineVi": "một máy dùng để may vải và các vật liệu khác cùng với chỉ",
+            "hasImg": true
+        },
+        {
+            "id": "1a76645d-b730-4331-926e-8b17b17ddb0e",
+            "word": "portable air conditioner",
+            "phonetic": "poːɹɾəbəl ɛɹ kəndɪʃənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9ydGFibGUgYWlyIGNvbmRpdGlvbmVy&hash=40bf97441069413bcd922e7b97d6a2a7b3ae5bf3&lang=en&cache-only=0",
+            "defineEn": "a compact, mobile unit that can be easily moved from room to room and used to cool a specific area or space",
+            "defineVi": "một thiết bị nhỏ gọn, di động có thể dễ dàng di chuyển từ phòng này sang phòng khác và được sử dụng để làm mát một khu vực hoặc không gian cụ thể"
+        },
+        {
+            "id": "911ab65e-52bd-4af3-a0f1-d8417eedd5fa",
+            "word": "window air conditioner",
+            "phonetic": "wɪndoʊ ɛɹ kəndɪʃənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2luZG93IGFpciBjb25kaXRpb25lcg&hash=efee69d975e11bca1f2877b0386604e219379238&lang=en&cache-only=0",
+            "defineEn": "a type of air conditioning unit that is installed in a window or through a wall and is designed to cool a single room or area",
+            "defineVi": "một loại máy điều hòa không khí được lắp đặt trong cửa sổ hoặc xuyên qua tường và được thiết kế để làm mát một phòng hoặc một khu vực"
+        },
+        {
+            "id": "0a1be75a-ab57-4a6a-b2d0-91e49b849267",
+            "word": "tower fan",
+            "phonetic": "taʊɚ fæn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG93ZXIgZmFu&hash=175d4bc2754480f5285e0b907def6dcfaec14348&lang=en&cache-only=0",
+            "defineEn": "a type of electric fan that oscillates and is designed to be tall and narrow, often with a sleek and modern appearance",
+            "defineVi": "một loại quạt điện dao động và được thiết kế cao và hẹp, thường có kiểu dáng đẹp và hiện đại"
+        },
+        {
+            "id": "8d4ce4b0-dbc5-406a-934c-7da1850812de",
+            "word": "air cooler",
+            "phonetic": "ɛɹ kuːlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWlyIGNvb2xlcg&hash=dcb618e4d6eb140b76f7dcc90e17db56ce69be81&lang=en&cache-only=0",
+            "defineEn": "a device that cools the air by passing it over water-soaked pads or through a water mist",
+            "defineVi": "một thiết bị làm mát không khí bằng cách truyền nó qua các miếng thấm nước hoặc qua sương mù nước"
+        },
+        {
+            "id": "4ea7a358-991d-4073-99a2-59da9becebe6",
+            "word": "electric heater",
+            "phonetic": "ᵻlɛktɹɪk hiːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgaGVhdGVy&hash=f5572a9f047526823fcdd47d3a6c551c87edc949&lang=en&cache-only=0",
+            "defineEn": "a device that converts electrical energy into heat to provide warmth in a room or space",
+            "defineVi": "một thiết bị chuyển đổi năng lượng điện thành nhiệt để cung cấp hơi ấm trong phòng hoặc không gian"
+        },
+        {
+            "id": "8688c9f6-6f82-4183-b16d-cc217196f233",
+            "word": "central vacuum system",
+            "phonetic": "sɛntɹəl vækjuːm sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2VudHJhbCB2YWN1dW0gc3lzdGVt&hash=9f6a99e6792b26c4470c3ae9507f6b4a5839b8b2&lang=en&cache-only=0",
+            "defineEn": "a built-in vacuum cleaning system that is installed inside a building and connected to a network of inlets throughout the building",
+            "defineVi": "một hệ thống làm sạch chân không tích hợp được lắp đặt bên trong tòa nhà và được kết nối với mạng lưới các cửa hút gió khắp tòa nhà"
+        },
+        {
+            "id": "a18e6a1d-5a41-4d16-ba61-53663db370a9",
+            "word": "water softener",
+            "phonetic": "wɔːɾɚ sɔfənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2F0ZXIgc29mdGVuZXI&hash=6ef8cdebca5eeeeb636f1b92d75c1d9671dd5240&lang=en&cache-only=0",
+            "defineEn": "a device that removes minerals, such as calcium and magnesium, from hard water to make it soft and more suitable for household use",
+            "defineVi": "một thiết bị loại bỏ các khoáng chất, chẳng hạn như canxi và magiê, khỏi nước cứng để làm cho nước mềm và phù hợp hơn để sử dụng trong gia đình"
+        },
+        {
+            "id": "0ad6dae6-a137-4d40-8d62-60a9a6e0aded",
+            "word": "electric blanket",
+            "phonetic": "ᵻlɛktɹɪk blæŋkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgYmxhbmtldA&hash=a3aeb7f1d507e561c3dc5f41542f305cd205fa03&lang=en&cache-only=0",
+            "defineEn": "a blanket with integrated electrical heating wires, which can be adjusted to different levels of warmth using a controller",
+            "defineVi": "một chiếc chăn có tích hợp dây điện sưởi ấm, có thể điều chỉnh các mức độ ấm khác nhau bằng bộ điều khiển"
+        },
+        {
+            "id": "396d4237-f9c4-4e1e-83cf-bfecbaa90137",
+            "word": "handheld vacuum cleaner",
+            "phonetic": "hændhɛld vækjuːm kliːnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFuZGhlbGQgdmFjdXVtIGNsZWFuZXI&hash=3adfe210f0a1bd53dc3e7e84ab0c50c180aa8117&lang=en&cache-only=0",
+            "defineEn": "a small, portable vacuum cleaner designed for quick and easy cleaning of small messes and hard-to-reach areas",
+            "defineVi": "máy hút bụi nhỏ, di động được thiết kế để làm sạch nhanh chóng và dễ dàng những mớ hỗn độn nhỏ và những khu vực khó tiếp cận"
+        },
+        {
+            "id": "2c5edd1f-79d5-4aa1-9d8a-2a8c1734efca",
+            "word": "water purifier",
+            "phonetic": "wɔːɾɚ pjʊɹɹɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2F0ZXIgcHVyaWZpZXI&hash=0d821979a6af3feda51c7c9984c2526d656599c3&lang=en&cache-only=0",
+            "defineEn": "a device that removes impurities and contaminants from water to make it safe for drinking and other purposes",
+            "defineVi": "một thiết bị loại bỏ tạp chất và chất gây ô nhiễm khỏi nước để đảm bảo an toàn cho nước uống và các mục đích khác"
+        },
+        {
+            "id": "daa1c4e0-6920-4798-b9fb-ce7a1262153d",
+            "word": "washing machine",
+            "phonetic": "wɑːʃɪŋ məʃiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The washing machine’s broken again.",
+                "The salesman was a fast talker who persuaded the old lady to buy a new washing machine.",
+                "They have washing machines in their apartments.",
+                "They built washing machines and telephones and refrigerators and computers. ",
+                "You could buy and install better filters for washing machines to catch more microfibers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FzaGluZyBtYWNoaW5l&hash=04b72820a9788eadd0de37cab78729dc8fd8e6e6&lang=en&cache-only=0",
+            "defineEn": "an electric machine used for washing clothes",
+            "defineVi": "một máy điện được sử dụng để giặt quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "9fb24ae1-e17b-4004-9dfc-e4b055b3e2a7",
+            "word": "dryer",
+            "phonetic": "dɹaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Washer dryers, of course, were floated in the garage.",
+                "I actually sold Maytag washers and dryers.",
+                "but it was a dryer not a washer?",
+                "- I'll drop a deuce in a dryer - of your enemy.",
+                "A dryer, you gotta open it and back into - the cave."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJ5ZXI&hash=f7005d5865fcc49078c30f39ff31e079b2b01172&lang=en&cache-only=0",
+            "defineEn": "a machine used for drying clothes",
+            "defineVi": "một máy được sử dụng để làm khô quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "1a019335-5df7-474d-aa40-9c3481408e4a",
+            "word": "iron",
+            "phonetic": "aɪɚn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Turned the iron to a hotter setting.",
+                "The patriarch has always been an iron fist in a velvet glove.",
+                "Asparagus beanare rich in iron and vitamin K.",
+                "The iron hand in the velvet glove approach seems to work best with this age group.",
+                "She needs to iron her suit before the important meeting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aXJvbg&hash=06b7a94fa654ab595980a327cfbf97cf74c0b43c&lang=en&cache-only=0",
+            "defineEn": "a piece of equipment with a heated flat metal base, used to smooth clothes",
+            "defineVi": "một thiết bị có đế kim loại phẳng được làm nóng, dùng để làm phẳng quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "6f763b28-0585-4a06-8070-59eabdc59123",
+            "word": "garment steamer",
+            "phonetic": "ɡɑːɹmənt stiːmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FybWVudCBzdGVhbWVy&hash=8a39c7001fc04cf27d3566d014d6697ea79b13ba&lang=en&cache-only=0",
+            "defineEn": "a device that uses hot steam to remove wrinkles and creases from clothing and other fabrics",
+            "defineVi": "một thiết bị sử dụng hơi nước nóng để loại bỏ các nếp nhăn và nếp nhăn trên quần áo và các loại vải khác"
+        },
+        {
+            "id": "06e81d32-da0c-4268-8b6b-8192b95f8a18",
+            "word": "drying cabinet",
+            "phonetic": "dɹaɪɪŋ kæbᵻnət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJ5aW5nIGNhYmluZXQ&hash=805e28320ad7fae60fb3f45948c8d5ad25926947&lang=en&cache-only=0",
+            "defineEn": "an appliance that is used to dry clothes, towels, and other fabrics using forced air and sometimes heat",
+            "defineVi": "một thiết bị được sử dụng để làm khô quần áo, khăn tắm và các loại vải khác bằng cách sử dụng không khí cưỡng bức và đôi khi là nhiệt"
+        },
+        {
+            "id": "a349fa41-8a1e-4f0a-a652-20e78d89706a",
+            "word": "snow blower",
+            "phonetic": "snoʊ bloʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c25vdyBibG93ZXI&hash=3cbee82db33fe9cd624ae23745db4246cb0396b4&lang=en&cache-only=0",
+            "defineEn": "a machine used to clear snow from surfaces such as driveways, sidewalks, and roads",
+            "defineVi": "một máy dùng để dọn tuyết khỏi các bề mặt như đường lái xe, vỉa hè và đường"
+        },
+        {
+            "id": "e696d191-3ff4-4263-aa2d-a27d02202bdf",
+            "word": "steam mop",
+            "phonetic": "stiːm mɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RlYW0gbW9w&hash=e939f85f090c4f3f0ae1e87bd946fb36fe7dc3bb&lang=en&cache-only=0",
+            "defineEn": "a mop that utilizes steam to sanitize and clean hard flooring surfaces, such as tile, laminate, or hardwood, by loosening dirt and grime",
+            "defineVi": "cây lau nhà sử dụng hơi nước để khử trùng và làm sạch các bề mặt sàn cứng, chẳng hạn như gạch, gỗ dán hoặc gỗ cứng, bằng cách nới lỏng bụi bẩn"
+        }
+    ]
+}

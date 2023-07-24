@@ -1,0 +1,696 @@
+{
+    "id": "ccc4d8e9-57b2-420c-a16c-000f568bb1ea",
+    "title": "Internet and Websites 1",
+    "originalTitle": "Internet and Websites 1",
+    "words": [
+        {
+            "id": "1877d619-7007-4fd1-9643-3aacfe7dc55a",
+            "word": "access provider",
+            "phonetic": "æksɛs pɹəvaɪdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNjZXNzIHByb3ZpZGVy&hash=286e96fcfb5b1048c8dd14a97698413b7e0ec5d2&lang=en&cache-only=0",
+            "defineEn": "a company that provides customers with internet access",
+            "defineVi": "một công ty cung cấp cho khách hàng truy cập internet",
+            "hasImg": true
+        },
+        {
+            "id": "395509c8-74e2-4b68-8030-aed62b8b4e57",
+            "word": "account",
+            "phonetic": "ɐkaʊnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The end-of-year accounts show a loss.",
+                "Their bank account was in the red again.",
+                "John's bank account is in credit by $500.",
+                "Then the punishment of individuals invariably took account of the harm or damage done to the victim.",
+                "He gave a good account of himself in matches against Crewe and Chesterfield."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3VudA&hash=a14f9ecf7c006812f3c236dcb3be803b3ccf278a&lang=en&cache-only=0",
+            "defineEn": "an arrangement based on which a user is given a private and personalized access to an online platform, application, or computer",
+            "defineVi": "một sự sắp xếp dựa trên đó người dùng được cấp quyền truy cập riêng tư và được cá nhân hóa vào một nền tảng, ứng dụng hoặc máy tính trực tuyến",
+            "hasImg": true
+        },
+        {
+            "id": "75f5236d-1c52-4c2e-bcf4-e164fe59fd68",
+            "word": "ad blocker",
+            "phonetic": "æd blɑːkɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWQgYmxvY2tlcg&hash=5c95a459b15ae8fe45b745157aaaf1c28f16e539&lang=en&cache-only=0",
+            "defineEn": "a piece of software that prevents pop-up advertisements from appearing on a website",
+            "defineVi": "một phần mềm ngăn quảng cáo bật lên xuất hiện trên trang web"
+        },
+        {
+            "id": "879e0231-5b87-432a-a8bc-53f8337bc55c",
+            "word": "address",
+            "phonetic": "ɐdɹɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He memorized his girlfriend's address by heart.",
+                "The police officer took my name and address.",
+                "Give me your name and address.",
+                "The address is written in capital letters to ensure clarity.",
+                "I sent a letter to their address but haven't received a response yet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
+            "defineEn": "a series of letters and other characters that identifies a destination for email messages or the location of a website",
+            "defineVi": "một loạt các chữ cái và các ký tự khác xác định đích đến của email hoặc vị trí của một trang web",
+            "hasImg": true
+        },
+        {
+            "id": "6e4b591b-096b-437d-826b-6b1df26aca75",
+            "word": "address bar",
+            "phonetic": "ɐdɹɛs bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRkcmVzcyBiYXI&hash=cbfd5859c6fe61de668032940af9eaacf114b603&lang=en&cache-only=0",
+            "defineEn": "a box-like area in a web browser where the address of a website is shown or where the user can type a web address into",
+            "defineVi": "một khu vực giống như hộp trong trình duyệt web nơi địa chỉ của trang web được hiển thị hoặc nơi người dùng có thể nhập địa chỉ web vào",
+            "hasImg": true
+        },
+        {
+            "id": "80a81ee2-5ff3-4449-965f-2129d6046789",
+            "word": "ADSL",
+            "phonetic": "eɪdiːɛsɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QURTTA&hash=7a5f1ba5416cf8b0e2762a3be897bb1c5ae38237&lang=en&cache-only=0",
+            "defineEn": "a method of connecting to the internet using a phone line that allows you to use that phone line at the same time",
+            "defineVi": "một phương pháp kết nối với internet bằng đường dây điện thoại cho phép bạn sử dụng đường dây điện thoại đó cùng một lúc",
+            "hasImg": true
+        },
+        {
+            "id": "23453585-3f97-42d9-b8f8-3e189af0b91e",
+            "word": "to anonymize",
+            "phonetic": "tʊ ɐnɑːnəmaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Because Ahwaa is public, yet anonymized and encrypted."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYW5vbnltaXpl&hash=e61513589c4e32b257f6871168e9d67b466fa7ee&lang=en&cache-only=0",
+            "defineEn": "(computing) to remove any information from the data sent or received over the internet so that it cannot be traced or identified",
+            "defineVi": "(máy tính) để xóa bất kỳ thông tin nào khỏi dữ liệu được gửi hoặc nhận qua internet để không thể truy tìm hoặc xác định thông tin đó"
+        },
+        {
+            "id": "7d6e1517-65ab-41bf-ab9d-5b8a1735830e",
+            "word": "bandwidth",
+            "phonetic": "bændwɪdθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There is just not a lot of bandwidth in the system.",
+                "And yes, Thunderbolt 3 does have a huge bandwidth and tons of features, but a lot of devices still use other ports.",
+                "It's got 10 gigs of GDDR6X video memory, which is a huge bandwidth boost over the previous GDDR6.",
+                "That helps ensure that healthcare facilities have the bandwidth to give quality care to everyone who needs it.",
+                "I guess, that's a lot of bandwidth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFuZHdpZHRo&hash=77d63ad062f64aea5ddb8e93a65e53420dc583f1&lang=en&cache-only=0",
+            "defineEn": "(computing) the maximum rate of data transfer of an electronic communications system",
+            "defineVi": "(máy tính) tốc độ truyền dữ liệu tối đa của một hệ thống thông tin liên lạc điện tử"
+        },
+        {
+            "id": "69b7263c-2d6a-4841-890f-1a1a8e9aab6d",
+            "word": "banner ad",
+            "phonetic": "bænɚɹ æd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Banner ads on websites can totally be bypassed by ad-blocking software."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFubmVyIGFk&hash=e1a8d0bd081f1aa27de1b89e0b342149b3735e66&lang=en&cache-only=0",
+            "defineEn": "a form of online advertisement that is shown at the sides, top or bottom of a webpage and is delivered by an ad server",
+            "defineVi": "một hình thức quảng cáo trực tuyến được hiển thị ở hai bên, trên cùng hoặc dưới cùng của trang web và được phân phối bởi một máy chủ quảng cáo"
+        },
+        {
+            "id": "86d5c878-2702-4445-bbe9-6979e7ee81fa",
+            "word": "bookmark",
+            "phonetic": "bʊkmɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's a kitty bookmark.",
+                "And it has little bookmarks and stuff.",
+                "It's used as a bookmark.",
+                "Turn these following links into bookmarks in your browser for easy access.",
+                "But I could use it as a bookmark if I wanted"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9va21hcms&hash=4e74624501c427fc29965039f28cdf36f189e984&lang=en&cache-only=0",
+            "defineEn": "(computing) the marked address of a website or file for easier and faster access",
+            "defineVi": "(máy tính) địa chỉ được đánh dấu của trang web hoặc tệp để truy cập dễ dàng và nhanh hơn",
+            "hasImg": true
+        },
+        {
+            "id": "206390c1-32b6-4396-b3c1-9ec2ff26ea46",
+            "word": "to bookmark",
+            "phonetic": "tə bʊkmɑːɹk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "It's a kitty bookmark.",
+                "And it has little bookmarks and stuff.",
+                "It's used as a bookmark.",
+                "Turn these following links into bookmarks in your browser for easy access.",
+                "But I could use it as a bookmark if I wanted"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYm9va21hcms&hash=23c07b9d51f0ff40d404c7b45005d590e0ef0367&lang=en&cache-only=0",
+            "defineEn": "to store the address of a file, website, etc. for faster and easier access",
+            "defineVi": "để lưu trữ địa chỉ của tệp, trang web, v.v. để truy cập nhanh hơn và dễ dàng hơn",
+            "hasImg": true
+        },
+        {
+            "id": "18741c96-e395-4c01-9eaa-d54eba45ebdb",
+            "word": "broadband",
+            "phonetic": "bɹɔːdbænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "95 per cent of the UK can now get superfast broadband.",
+                "Over 50 percent of residents lack broadband Internet altogether.",
+                "Is broadband going to affect those people right out of the gate?",
+                "My broadband operator would take his cursor.",
+                "So, as a town of 16,000, we have gigabit broadband."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
+            "defineEn": "a system of Internet connection that allows users to share information simultaneously",
+            "defineVi": "một hệ thống kết nối Internet cho phép người dùng chia sẻ thông tin đồng thời",
+            "hasImg": true
+        },
+        {
+            "id": "2a9e5833-dacf-480a-a50f-8cf5860b6a32",
+            "word": "broadband",
+            "phonetic": "bɹɔːdbænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "95 per cent of the UK can now get superfast broadband.",
+                "Over 50 percent of residents lack broadband Internet altogether.",
+                "Is broadband going to affect those people right out of the gate?",
+                "My broadband operator would take his cursor.",
+                "So, as a town of 16,000, we have gigabit broadband."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvYWRiYW5k&hash=1971990c4e0caed920f6a3274c4ac0755f56b4ad&lang=en&cache-only=0",
+            "defineEn": "relating to or of a high-speed Internet connection that allows simultaneous exchange of different forms of data through dividing the frequency range into multiple channels",
+            "defineVi": "liên quan đến hoặc kết nối Internet tốc độ cao cho phép trao đổi đồng thời các dạng dữ liệu khác nhau thông qua việc chia dải tần thành nhiều kênh",
+            "hasImg": true
+        },
+        {
+            "id": "d62c6555-837b-4d04-8d15-1fb193d86b78",
+            "word": "to browse",
+            "phonetic": "tə bɹaʊz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The system allows people the opportunity to browse a wide selection of books.",
+                "Jake got caught in the rabbit hole of online shopping, constantly browsing through websites and adding items to his cart, unable to resist the allure of new deals and discounts.",
+                "Did they browse the site?",
+                "I was actually just browsing the web",
+                "Inside Joy's, participants can browse clothing or attend a class."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYnJvd3Nl&hash=4b3ccb981e009e10a7854a8563b6cfeadac2480f&lang=en&cache-only=0",
+            "defineEn": "to check a web page, text, etc. without  reading all the content",
+            "defineVi": "để kiểm tra một trang web, văn bản, v.v. mà không đọc hết nội dung",
+            "hasImg": true
+        },
+        {
+            "id": "5d015167-a044-418f-99e4-5d61977e7f89",
+            "word": "browser",
+            "phonetic": "bɹaʊzɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your web browser has strong encryption in it.",
+                "Open the Google Chrome browser.",
+                "He called his browser the World Wide Web.",
+                "Microsoft's browser has since been eclipsed by the likes of Google's Chrome and Apple Safari.",
+                "Originally, these laptops just accessed the internet via Google's Chrome browser, nothing else."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvd3Nlcg&hash=ad58cfb0c9f1d9420461948d9a5ee58733b4a565&lang=en&cache-only=0",
+            "defineEn": "a computer program that enables the user to read or look at information on the Internet",
+            "defineVi": "một chương trình máy tính cho phép người dùng đọc hoặc xem thông tin trên Internet",
+            "hasImg": true
+        },
+        {
+            "id": "a13fc06b-4660-41cb-9fbc-cc4d7dcf6c37",
+            "word": "carrier",
+            "phonetic": "kæɹiɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She carried her baby on her back using a baby carrier.",
+                "U.S. carriers lost a record $60 billion, according to Airlines for America, an industry, trade and lobbying group.",
+                "In 2019 the carrier expanded its farm-to-plane initiative for one of the world's longest flights.",
+                "Now, strategic carriers are widening their scopes.",
+                "American carriers later followed with their version of the flat bed seat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Fycmllcg&hash=e68e000e884944159523620c9cb068ab4a87c84d&lang=en&cache-only=0",
+            "defineEn": "a telecommunications firm that provides a cellular or internet service",
+            "defineVi": "một công ty viễn thông cung cấp dịch vụ di động hoặc internet"
+        },
+        {
+            "id": "fb2f10b0-3ad8-438c-8277-2354818a2846",
+            "word": "clickjacking",
+            "phonetic": "klɪkdʒækɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2xpY2tqYWNraW5n&hash=8ce19149d69aa48d857ef39ca5d808a025a9e193&lang=en&cache-only=0",
+            "defineEn": "the unfair practice of hiding hyperlinks beneath the content of a website in order to manipulate the users who might click on them unintentionally",
+            "defineVi": "hành vi không công bằng khi ẩn các siêu liên kết bên dưới nội dung của một trang web để thao túng những người dùng có thể vô tình nhấp vào chúng"
+        },
+        {
+            "id": "d133a834-dcea-495c-8cca-a0bcc2a8e285",
+            "word": "clickstream",
+            "phonetic": "klɪkstɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2xpY2tzdHJlYW0&hash=9806503796ec48c8e69ffc0a9d42329a73e97fef&lang=en&cache-only=0",
+            "defineEn": "the chronological order by which a user clicks on the hyperlinks in a given website",
+            "defineVi": "thứ tự thời gian mà người dùng nhấp vào các siêu liên kết trong một trang web nhất định"
+        },
+        {
+            "id": "ae47178c-280c-4d61-828a-4b54a3fb2f5c",
+            "word": "to connect",
+            "phonetic": "tə kənɛkt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The construction worker used a heavy-duty bolt to connect the steel beams.",
+                "There's been some monkey business connected with his tax returns.",
+                "He is raising their spirits and giving them opportunities while connecting them with nature.",
+                "It's an opportunity to network and connect with everybody who is anybody in the high society.",
+                "The popular new social media platform left its rivals in the dust, attracting millions of users and revolutionizing the way people connect and share information online."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29ubmVjdA&hash=a5fb6f86fa95181c14dfe8ac974b319ef204bc83&lang=en&cache-only=0",
+            "defineEn": "to join a device such as a computer or cell phone to a computer network or the Internet",
+            "defineVi": "để kết nối một thiết bị như máy tính hoặc điện thoại di động với mạng máy tính hoặc Internet",
+            "hasImg": true
+        },
+        {
+            "id": "5e7ca818-267f-416c-8542-1d9320f5fb0d",
+            "word": "connection",
+            "phonetic": "kənɛkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Police are holding two men in connection with last Thursday's bank raid.",
+                "He is wanted by the police in connection with an arms theft.",
+                "In this connection, I should once again like to haul my own country over the coals.",
+                "Although they have their differences, there's no denying that they share a lot of similarities - like mother, like daughter, they have a strong bond and connection.",
+                "Hanging your hat on your connection with the professor is not gonna save you this time Jess."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ubmVjdGlvbg&hash=c363c03f00cddb696421cef85f2edf151f07dc75&lang=en&cache-only=0",
+            "defineEn": "the state of being linked or connected",
+            "defineVi": "trạng thái được liên kết hoặc kết nối",
+            "hasImg": true
+        },
+        {
+            "id": "3fb63c2b-a587-4994-9981-b98b01031cc0",
+            "word": "cookie",
+            "phonetic": "kʊki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She's a sharp cookie!",
+                "I added a generous amount of wholewheat flour to the cookie batter.",
+                "She baked a batch of delicious hazelnut cookies.",
+                "A lot of people had their hands in the cookie jar at the company.",
+                "I had a gluten-free cookie that was just as delicious as the regular ones."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29va2ll&hash=3bf9fc47c2be6246661c00346cd476c123aada4e&lang=en&cache-only=0",
+            "defineEn": "(computing) data that a web server sends to a browser and receives if the user visits the website again, used for identifying or tracking the user's activities",
+            "defineVi": "dữ liệu (máy tính) mà máy chủ web gửi đến trình duyệt và nhận được nếu người dùng truy cập lại trang web, được sử dụng để xác định hoặc theo dõi các hoạt động của người dùng"
+        },
+        {
+            "id": "d505209e-4971-40bb-ae97-0e4cfe8a82a7",
+            "word": "cybercafe",
+            "phonetic": "saɪbɚkæfeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3liZXJjYWZl&hash=f361cc3a0b3d4d80dbd160c60deb7a26c25801c7&lang=en&cache-only=0",
+            "defineEn": "a café that provides its customers with internet access",
+            "defineVi": "một quán cà phê cung cấp cho khách hàng của mình truy cập internet",
+            "hasImg": true
+        },
+        {
+            "id": "1b977720-1f20-49b8-b2c5-9aa6c953ea79",
+            "word": "cybernaut",
+            "phonetic": "saɪbɚnɔːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3liZXJuYXV0&hash=9c431d06b09661a9228383148c7814603241583f&lang=en&cache-only=0",
+            "defineEn": "a person who is actively engaged in online communities and uses the internet a lot",
+            "defineVi": "một người tích cực tham gia vào các cộng đồng trực tuyến và sử dụng internet rất nhiều",
+            "hasImg": true
+        },
+        {
+            "id": "6a2c09bc-cfbc-4568-8dd0-b1e300556be0",
+            "word": "dial-up",
+            "phonetic": "daɪəlʌp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "George W Bush had just been sworn in as president, most Americans on the internet were connecting to it with dial-up modems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhbC11cA&hash=387e2fa9c9837609bb06df14c7b42108f386ad90&lang=en&cache-only=0",
+            "defineEn": "using a modem and a conventional phone line to access the internet",
+            "defineVi": "sử dụng modem và đường dây điện thoại thông thường để truy cập internet"
+        },
+        {
+            "id": "be22748a-2a7f-4c60-9e18-21c3f97cdafb",
+            "word": "discussion forum",
+            "phonetic": "dɪskʌʃən foːɹəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY3Vzc2lvbiBmb3J1bQ&hash=3c031968d03fb8a67ca8e753c88986706546d16b&lang=en&cache-only=0",
+            "defineEn": "a meeting in which the participants get online to exchange ideas about a topic",
+            "defineVi": "một cuộc họp trong đó những người tham gia trực tuyến để trao đổi ý kiến về một chủ đề"
+        },
+        {
+            "id": "39bee093-0494-4ea1-a4c9-fdd8995daca4",
+            "word": "distance learning",
+            "phonetic": "dɪstəns lɜːnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- I really don't like distance learning.",
+                "We're going to continue the distance learning.",
+                "Living through a full year of closed schools and distance learning has taken a heavy toll on students, parents, teachers, and school administrators.",
+                "And it's important for education, because distance learning and in-person learning at the same time, which is happening in many places in this country, costs a lot of money.",
+                "Not only that but distance learning can help students that deal with anxiety as they don't have to deal with the drama of school and just the distractions that it can bring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzdGFuY2UgbGVhcm5pbmc&hash=6788a89cefe7fedf66fc16e523d05eb5400d8c36&lang=en&cache-only=0",
+            "defineEn": "a learning system in which students and teachers do not attend classes instead use online or broadcast resources",
+            "defineVi": "một hệ thống học tập trong đó học sinh và giáo viên không tham gia các lớp học thay vào đó sử dụng các tài nguyên trực tuyến hoặc phát sóng"
+        },
+        {
+            "id": "c8867b28-ea0b-406d-a318-fc756c5a1136",
+            "word": "DOI",
+            "phonetic": "dɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RE9J&hash=9931024fb6b5464c285eba3bc9293c9f0597d31c&lang=en&cache-only=0",
+            "defineEn": "(computing) a series of numbers and letters dedicated to a piece of text or document published on the internet electronically",
+            "defineVi": "(máy tính) một dãy số và chữ cái dành riêng cho một đoạn văn bản hoặc tài liệu được xuất bản trên internet dưới dạng điện tử"
+        },
+        {
+            "id": "9c54b446-ae7e-4e61-92af-b94675259872",
+            "word": "domain",
+            "phonetic": "dəmeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What is the domain of sine of the sine function?",
+                "Because the x-y plane here is our domain.",
+                "So what is the domain of the sine function?",
+                "We call it Domain.",
+                "It's the domain."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9tYWlu&hash=274a0c6380fdddd823ab0012908bdde666844a03&lang=en&cache-only=0",
+            "defineEn": "the last characters of a website's address such as '.com', '.org', etc.",
+            "defineVi": "các ký tự cuối cùng của địa chỉ trang web, chẳng hạn như '.com', '.org', v.v."
+        },
+        {
+            "id": "4b1129ab-d12d-4c4a-83ec-601be6eb6b8e",
+            "word": "domain name",
+            "phonetic": "dəmeɪn neɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Maybe they got the domain name.",
+                "You will see domain names called Official Burrito Blanket, Real Burrito Blanket, The Burrito Blanket.",
+                "If you look closer, maybe it's Amazon.co instead of Amazon.com, or maybe there's an ever-so-slight misspelling like the Z and the A are reversed in the domain name.",
+                "So Cloudflares 1.1.1.1 is simply a DNS resolver which is the service that translates your human readable domain name, like linustechtips.com into an internet understandable address like 10.30.192.6, an IP address!",
+                "With 1.1 for families, Cloudflare has added in basically a middle man that looks up whether or not that domain name has been categorized by third party providers as adult content or malware."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9tYWluIG5hbWU&hash=d88327465bf3af5cfba6f0610335096c481733fe&lang=en&cache-only=0",
+            "defineEn": "a series of letters and numbers separated by periods that show the address of a webpage",
+            "defineVi": "một loạt các chữ cái và số được phân tách bằng dấu chấm hiển thị địa chỉ của trang web"
+        },
+        {
+            "id": "2e7dab79-16f6-4912-a133-da5d3cba0248",
+            "word": "dot-com",
+            "phonetic": "dɑːtkɑːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Instead, on March 10, 2000, the dot-com boom reached its peak.",
+                "Consider the dot-com boom of the early 2000’s.",
+                "Dot-com companies used expensive TV commercials to attract investors, sometimes without indicating what product they were selling.",
+                "Most of the dot-coms were out of business, filing for bankruptcy or selling off their assets to healthier companies.",
+                "In 2001, at a time when most dot-coms were closing their doors, Google earned a profit of $7 million, and in 2002, $100 million."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG90LWNvbQ&hash=082dd71e7a3612b6b73bf49a7a99349901e108f9&lang=en&cache-only=0",
+            "defineEn": "a firm that has based its business mainly on the internet with a website under the domain '.com'",
+            "defineVi": "một công ty hoạt động kinh doanh chủ yếu dựa trên internet với một trang web có tên miền '.com'"
+        },
+        {
+            "id": "cb0c5712-0743-40a5-8ecf-a29837d9c5c4",
+            "word": "eBay",
+            "phonetic": "iː beɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "EBay will find appropriate categories for your item.",
+                "So eBay organizes things into subcategories.",
+                "Must sell on eBay.",
+                "And I love myself some ebay.",
+                "E-commerce platforms like eBay, Amazon and Alibaba have ushered in a golden age for counterfeiters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZUJheQ&hash=d50b23bd414c54143108ce1c50e55ea484297a0c&lang=en&cache-only=0",
+            "defineEn": "a website dedicated to the buying and selling of items that are put in an auction by users",
+            "defineVi": "một trang web dành riêng cho việc mua và bán các mặt hàng được người dùng đưa vào đấu giá"
+        },
+        {
+            "id": "853f406d-6cb3-4bce-aebc-577b6179a46c",
+            "word": "to eBay",
+            "phonetic": "tʊ iː beɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "EBay will find appropriate categories for your item.",
+                "So eBay organizes things into subcategories.",
+                "Must sell on eBay.",
+                "And I love myself some ebay.",
+                "E-commerce platforms like eBay, Amazon and Alibaba have ushered in a golden age for counterfeiters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZUJheQ&hash=b9c3b4af68061f1c15179a2794cb2dd69c37fd9e&lang=en&cache-only=0",
+            "defineEn": "to buy or sell an item that has been auctioned on eBay",
+            "defineVi": "để mua hoặc bán một mặt hàng đã được bán đấu giá trên eBay"
+        },
+        {
+            "id": "f3859a96-e24f-4de4-93f5-ebb5b05d27ad",
+            "word": "to egosurf",
+            "phonetic": "tʊ iːɡoʊʒɚf ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWdvc3VyZg&hash=b4015ca941dba638f6cf051cc99cbf6b33a275e5&lang=en&cache-only=0",
+            "defineEn": "to search the internet for one's own name or a personal website",
+            "defineVi": "để tìm kiếm trên internet tên riêng của một người hoặc một trang web cá nhân"
+        },
+        {
+            "id": "319aab73-9143-4a20-8a52-530a7b5272a2",
+            "word": "ego-surfing",
+            "phonetic": "iːɡoʊsɜːfɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWdvLXN1cmZpbmc&hash=4b3d777f0d17b3e693c7915049dd4018683b10e8&lang=en&cache-only=0",
+            "defineEn": "the act of searching the internet to find one's own name online",
+            "defineVi": "hành động tìm kiếm trên internet để tìm tên của chính mình trực tuyến"
+        },
+        {
+            "id": "cc3e3fe8-432d-4626-9f1a-6ed610101fc2",
+            "word": "e-zine",
+            "phonetic": "iːziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZS16aW5l&hash=bc38e85b81f10f733a11a42bf8a834309ee6d85c&lang=en&cache-only=0",
+            "defineEn": "a magazine that is published on the internet in an electronic form",
+            "defineVi": "một tạp chí được xuất bản trên internet ở dạng điện tử"
+        },
+        {
+            "id": "302a8401-d5d8-4a25-a3ce-cbf7124fb390",
+            "word": "favorite",
+            "phonetic": "feɪvɚɹᵻt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My sister's famous sweet cherry jam is a family favorite.",
+                "My son's favorite animal is the lion.",
+                "The little boy's favorite toy was a blue car.",
+                "What is your favorite color?",
+                "Our mascarpone cheesecake is a customer favorite"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF2b3JpdGU&hash=ac6262f9f3ee51356f23354e2d148264ed0e9367&lang=en&cache-only=0",
+            "defineEn": "a record of the address of a file, webpage, etc. that the user creates for the ease of access in future",
+            "defineVi": "bản ghi địa chỉ của tệp, trang web, v.v. mà người dùng tạo để dễ dàng truy cập trong tương lai"
+        },
+        {
+            "id": "438a25ed-839e-48fb-ad4a-3b295931d491",
+            "word": "feed",
+            "phonetic": "fiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Feed the kitty.",
+                "The farmer fed the chickens with corn and grains.",
+                "They fed the carrot to their pet rabbit, who happily munched on it.",
+                "The old man sat on the park bench, feeding crumbs to the birds.",
+                "I took pity on the stray cat and fed him."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZA&hash=978bc5013b73f26c0a889d82bec1a28dadfc0109&lang=en&cache-only=0",
+            "defineEn": "a feature on a website that enables the users to be notified of the updated information without logging on the website",
+            "defineVi": "một tính năng trên trang web cho phép người dùng được thông báo về thông tin cập nhật mà không cần đăng nhập vào trang web"
+        },
+        {
+            "id": "09a35864-ee07-411f-805f-6db6d9cd354b",
+            "word": "feed reader",
+            "phonetic": "fiːd ɹiːdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZCByZWFkZXI&hash=e37cda118b63b9c568a89b0425b240a8ad3b0d51&lang=en&cache-only=0",
+            "defineEn": "‌a piece of software that enables a user to be updated with the new information on a webpage, social media, etc. without visiting the page mentioned",
+            "defineVi": "‌một phần mềm cho phép người dùng cập nhật thông tin mới trên trang web, phương tiện truyền thông xã hội, v.v. mà không cần truy cập trang được đề cập"
+        },
+        {
+            "id": "d326e10f-2b2f-4c47-9ea7-2d76d1ecf293",
+            "word": "to flame",
+            "phonetic": "tə fleɪm ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "His speeches fanned the flames of racial tension.",
+                "On May 1st, the proposal went down in flames.",
+                "The project is going up in flames due to mismanagement.",
+                "The company's ambitious expansion plans went up in flames when their major investor pulled out.",
+                "The old house went up in flames after a faulty electrical wiring caused a fire."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmxhbWU&hash=9f9a2d38d9f9a4a42f255d8ef2bd13630aead782&lang=en&cache-only=0",
+            "defineEn": "(computing) to send an offensive or abusive message to someone over the internet",
+            "defineVi": "(máy tính) để gửi một tin nhắn xúc phạm hoặc lăng mạ ai đó qua internet"
+        },
+        {
+            "id": "81282e1b-f19b-4662-972e-c9e440e8d2a2",
+            "word": "flame",
+            "phonetic": "fleɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His speeches fanned the flames of racial tension.",
+                "On May 1st, the proposal went down in flames.",
+                "The project is going up in flames due to mismanagement.",
+                "The company's ambitious expansion plans went up in flames when their major investor pulled out.",
+                "The old house went up in flames after a faulty electrical wiring caused a fire."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxhbWU&hash=010ba0c700691fbc69fe7db91676cfaa1bec74cc&lang=en&cache-only=0",
+            "defineEn": "(computing) an offensive or violent e-mail sent to someone usually in quick response",
+            "defineVi": "(máy tính) một e-mail xúc phạm hoặc bạo lực được gửi cho ai đó thường được phản hồi nhanh chóng"
+        },
+        {
+            "id": "fcb2eb0b-520d-43e2-85ff-a03aed85e04b",
+            "word": "Google",
+            "phonetic": "ɡuːɡəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s as if Google is just so big now, the left hand doesn’t know what the right is doing, and thus different teams keep coming up with the same products.",
+                "I googled that one.",
+                "My mom's going to google this debacle.",
+                "My father Googles me a lot",
+                "Hey Google, unlock the garage. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=R29vZ2xl&hash=6c74e1b22e529604801b73f775d3d3a262e7cd0b&lang=en&cache-only=0",
+            "defineEn": "a widely used and very popular search engine",
+            "defineVi": "một công cụ tìm kiếm được sử dụng rộng rãi và rất phổ biến",
+            "hasImg": true
+        },
+        {
+            "id": "11b106af-c1a6-463a-be69-c6929080cce9",
+            "word": "to google",
+            "phonetic": "tə ɡuːɡəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "It’s as if Google is just so big now, the left hand doesn’t know what the right is doing, and thus different teams keep coming up with the same products.",
+                "I googled that one.",
+                "My mom's going to google this debacle.",
+                "My father Googles me a lot",
+                "Hey Google, unlock the garage. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ29vZ2xl&hash=426ee3d9404bf78c57b355a280f2b6deea43b7a9&lang=en&cache-only=0",
+            "defineEn": "to search the Internet for information about someone or something using the search engine Google",
+            "defineVi": "để tìm kiếm thông tin trên Internet về ai đó hoặc cái gì đó bằng cách sử dụng công cụ tìm kiếm Google",
+            "hasImg": true
+        },
+        {
+            "id": "1cc4df1d-e142-459a-a064-ebf0858508ba",
+            "word": "home page",
+            "phonetic": "hoʊm peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What's up with your new picture on the home page?",
+                "The Google home page remains free of ads.",
+                "One obvious tactic was to sell advertising space on Google's home page.",
+                "Once you've signed in, you'll be taken to the Skype home page.",
+                "Let's return to the home page and customize some of Discord's settings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBwYWdl&hash=23ffd259609bfeade781d3cde6d49c03ee5ac176&lang=en&cache-only=0",
+            "defineEn": "the opening page of a website that introduces it and links the user to other pages",
+            "defineVi": "trang mở đầu của một trang web giới thiệu nó và liên kết người dùng với các trang khác",
+            "hasImg": true
+        },
+        {
+            "id": "f671e9b7-8121-44f8-a0e0-e5093396c4c8",
+            "word": "hotlink",
+            "phonetic": "hɑːtlɪŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG90bGluaw&hash=5d09dcf0b30d471898ede84d24347f0d25c64d77&lang=en&cache-only=0",
+            "defineEn": "(computing) a connection between two electronic documents by means of a hypertext",
+            "defineVi": "(máy tính) sự kết nối giữa hai tài liệu điện tử bằng siêu văn bản"
+        },
+        {
+            "id": "f2ada2aa-8876-46fb-8a98-3a6f71b7cde8",
+            "word": "hotspot",
+            "phonetic": "hɑːtspɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This neighborhood is a hotspot for coronavirus.",
+                "- Washington state has been called a hotspot because of its anti-vaccine movement.",
+                "But feeders can also be a hotspot for the spread of avian diseases. ",
+                "Interestingly, we still had a couple of little hotspots.",
+                "Just enable your iPhone's hotspot setting, and its data signal will be shared."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90c3BvdA&hash=8d91015b174fb6a52ab5b32144e5a4b7add3ebdf&lang=en&cache-only=0",
+            "defineEn": "a public place where a wireless Internet connection is made available",
+            "defineVi": "một nơi công cộng nơi kết nối Internet không dây được cung cấp",
+            "hasImg": true
+        },
+        {
+            "id": "8bf490dc-6d42-43df-8a3c-2500f9fa9b37",
+            "word": "HTML",
+            "phonetic": "eɪtʃtiːɛmɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It was hand coded a few years ago using a combination of HTML, CSS, and JavaScript, and the problem is that it’s a huge pain to update regularly.",
+                "You can back up WhatsApp Business, LINE, Viber, Kik, and WeChat, which is pretty sweet, and preview and check any item you want and export it to your computer as an HTML file for reading or printing.",
+                "He did so by inventing an interface using HTTP, HTML, and URLs that made internet browsers possible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SFRNTA&hash=d9786a3f00e543d68eb40130f698390d674299fe&lang=en&cache-only=0",
+            "defineEn": "(computing) a markup language used for the documents that are supposed to be displayed on the World Wide Web",
+            "defineVi": "(máy tính) một ngôn ngữ đánh dấu được sử dụng cho các tài liệu được cho là sẽ được hiển thị trên World Wide Web"
+        },
+        {
+            "id": "440b511c-0f1f-4201-877f-54c2f3e1d6ae",
+            "word": "HTTP",
+            "phonetic": "eɪtʃtiːtiːpiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He did so by inventing an interface using HTTP, HTML, and URLs that made internet browsers possible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SFRUUA&hash=ef43d3b924e5cbf21c239c130c39ab6ebc650d4d&lang=en&cache-only=0",
+            "defineEn": "the system in HTML in which data is being sent and received on World Wide Web",
+            "defineVi": "hệ thống trong HTML trong đó dữ liệu đang được gửi và nhận trên World Wide Web",
+            "hasImg": true
+        },
+        {
+            "id": "a08907a8-b9d2-42d9-9ebb-71a604789305",
+            "word": "hyperlink",
+            "phonetic": "haɪpɚlɪŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Because when you looked at the listing, it said the manufacturer was Land O'Lakes and there was a hyperlink.",
+                "Messina, who was a developer at Google, thought that the hashtag had staying power since it would allow Twitter to create hyperlinks between groups.",
+                "With how we read on the internet and short snip-its here and there, jumping form hyperlink to hyperlink, our brains are becoming better at scanning non-linear text and searching for key terms instead of reading something all the way through.",
+                "With how we read on the internet and short snip-its here and there, jumping form hyperlink to hyperlink, our brains are becoming better at scanning non-linear text and searching for key terms instead of reading something all the way through."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHlwZXJsaW5r&hash=d3d61df691a2a77fc0e6f0665ac8e71f210c597c&lang=en&cache-only=0",
+            "defineEn": "a link from a hypertext file (a word or picture in a website or computer document) to another location or file that will take the user to another page or document if they click on it",
+            "defineVi": "một liên kết từ một tệp siêu văn bản (một từ hoặc hình ảnh trong trang web hoặc tài liệu máy tính) đến một vị trí hoặc tệp khác sẽ đưa người dùng đến một trang hoặc tài liệu khác nếu họ nhấp vào nó"
+        },
+        {
+            "id": "c4c181a2-0812-4f95-947e-8468ba2d3a34",
+            "word": "hypertext",
+            "phonetic": "haɪpɚtɛkst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHlwZXJ0ZXh0&hash=13de02e1dfd5a514c17274873debc15457c90631&lang=en&cache-only=0",
+            "defineEn": "a database format that contains links by which one can access related information on a display directly from that display",
+            "defineVi": "một định dạng cơ sở dữ liệu có chứa các liên kết mà người ta có thể truy cập thông tin liên quan trên màn hình trực tiếp từ màn hình đó"
+        }
+    ]
+}

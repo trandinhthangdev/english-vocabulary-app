@@ -1,0 +1,541 @@
+{
+    "id": "d26c7f19-291b-4937-9c42-1f888c74f98c",
+    "title": "Travel and Tourism",
+    "originalTitle": "Travel and Tourism",
+    "words": [
+        {
+            "id": "5f0e62e0-9b65-4d46-ae32-3a8deaa97814",
+            "word": "accommodations",
+            "phonetic": "ɐkɑːmədeɪʃənz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNjb21tb2RhdGlvbnM&hash=6d290a8ada64d87df75fab4b398946b6aba1c7ed&lang=en&cache-only=0",
+            "defineEn": "a place to stay in for a short period, often with food or other services",
+            "defineVi": "một nơi để ở trong một thời gian ngắn, thường với thức ăn hoặc các dịch vụ khác",
+            "hasImg": true
+        },
+        {
+            "id": "46cde4f4-e267-458f-a5a5-7866d653a668",
+            "word": "hostel",
+            "phonetic": "hɑːstəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Life for mostof these workers is confined to the factory floor and adormitory in a migrant's hostel.",
+                "Sanxingchen is encircledwith hostels, some of them squalid,others indescribable."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9zdGVs&hash=eaaa00534f53f44281a002232388086003ad753f&lang=en&cache-only=0",
+            "defineEn": "a place or building that provides cheap food and accommodations for visitors",
+            "defineVi": "một địa điểm hoặc tòa nhà cung cấp thức ăn và chỗ ở giá rẻ cho du khách",
+            "hasImg": true
+        },
+        {
+            "id": "7d9ac956-5497-4020-abdb-af67e6d346ab",
+            "word": "apartment hotel",
+            "phonetic": "ɐpɑːɹtmənt hoʊtɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXBhcnRtZW50IGhvdGVs&hash=53460355fb7cb9d1a68e5ca7b918a79d43f36144&lang=en&cache-only=0",
+            "defineEn": "a hotel with apartments that one can rent for an indefinite amount of time",
+            "defineVi": "một khách sạn với các căn hộ mà người ta có thể thuê trong một khoảng thời gian không xác định"
+        },
+        {
+            "id": "d38469f9-f336-463d-b5e8-010e9ef94b88",
+            "word": "bed and breakfast",
+            "phonetic": "bɛd ænd bɹɛkfəst ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmVkIGFuZCBicmVha2Zhc3Q&hash=ed6866a1979e11e46a08d95e40ae8d3a9ecfcaa3&lang=en&cache-only=0",
+            "defineEn": "a small hotel or guesthouse that provides the residents with a resting place and breakfast",
+            "defineVi": "một khách sạn nhỏ hoặc nhà khách cung cấp cho cư dân nơi nghỉ ngơi và ăn sáng",
+            "hasImg": true
+        },
+        {
+            "id": "35ba8ac6-f38f-4e37-9e2b-adf8c321cded",
+            "word": "motel",
+            "phonetic": "moʊtɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "More people are coming from the motel.",
+                "Is there a motel?",
+                "After the action in the ring, Clay and three famous friends get together in a motel room for the real action, deeply personal debates over their work and responsibilities as Black men.",
+                "'There's a nice motel across the river.",
+                "Suddenly, Kenny remembers the girl at the motel desk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90ZWw&hash=7f6c83a9b4ccb48fbba19aed2a2af41e6431fcfe&lang=en&cache-only=0",
+            "defineEn": "a hotel near the road suitable for people who are on a road trip, usually with rooms arranged in a row and parking places outside",
+            "defineVi": "một khách sạn gần đường thích hợp cho những người đi du lịch trên đường, thường có các phòng được sắp xếp theo dãy và bãi đậu xe bên ngoài",
+            "hasImg": true
+        },
+        {
+            "id": "d404bf3a-cf48-4d85-997b-be1894b52e19",
+            "word": "suite",
+            "phonetic": "swiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The suite will add a touch of class to your bedroom.",
+                "Here's your suite for today's flight.",
+                "In first class, passengers get a whole suite to themselves.",
+                "Welcome to the master suite.",
+                "Among other things, their suite of instruments will study the environment created by the Sun’s solar wind on the lunar soil."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VpdGU&hash=8f31f4ac886fab3b196eba9508e2c70be9e0e405&lang=en&cache-only=0",
+            "defineEn": "a series of rooms, particularly in a hotel",
+            "defineVi": "một loạt các phòng, đặc biệt là trong một khách sạn",
+            "hasImg": true
+        },
+        {
+            "id": "e9eefd6e-7512-4f8f-ad24-d8c550e2d1e1",
+            "word": "resort",
+            "phonetic": "ɹᵻzɔːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Asking them to leave the school should be a last resort.",
+                "As a last resort we can call Lugas.",
+                "When I lost my job and couldn't pay my rent, I had to resort to stealing food from the grocery store - as they say, necessity knows no law.",
+                "Resort fees are very common.",
+                "These resort fees can range anywhere between $4 to $50 per day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzb3J0&hash=af7feac3a24a36394a9f3f51a628193d676c5960&lang=en&cache-only=0",
+            "defineEn": "an establishment that provides vacationers with lodging, food, entertainment, etc.",
+            "defineVi": "một cơ sở cung cấp cho khách du lịch chỗ ở, thức ăn, giải trí, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "65fc7076-1922-4aee-a750-b3af2e65c4d9",
+            "word": "check-in",
+            "phonetic": "tʃɛkɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gave her ticket to the woman at the check-in desk.",
+                "Their check-in prompted other chicken brands to get into the conversation.",
+                "When you enter the terminal, there's no check-in.",
+                "And a recent check-in with kids from the original marshmallow study found that this was part of their story, too.",
+                "Now you're ready for check-in and security."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlY2staW4&hash=e7b6aadaa4eba51e4be3afc9dd3f76265f65702c&lang=en&cache-only=0",
+            "defineEn": "the process of reporting one's arrival at an airport or a hotel",
+            "defineVi": "quá trình báo cáo một người đến sân bay hoặc khách sạn",
+            "hasImg": true
+        },
+        {
+            "id": "d40f9491-7858-4b8a-aa40-0e6c0a627554",
+            "word": "checkout",
+            "phonetic": "tʃɛkaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The books in the library are available for checkout at their pleasure.",
+                "The checkout process was slow. ",
+                "You could checkout their Curious Minds series on Brain Health, for instance.",
+                "So checkout MentalPod if you haven't checked out the mental-illness Happy Hour.",
+                "And then, at the checkout, pick out, like, a Nerds Rope or a chocolate or whatever they had at the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlY2tvdXQ&hash=858a256cb2c364d2537550ce48ef5ccf0c7a7efb&lang=en&cache-only=0",
+            "defineEn": "the time when a guest should leave a hotel room, pay the bills, and return the key",
+            "defineVi": "thời điểm mà khách nên rời khỏi phòng khách sạn, thanh toán hóa đơn và trả lại chìa khóa",
+            "hasImg": true
+        },
+        {
+            "id": "d4069dd9-2d7c-4a8e-b59b-f8df8af1f117",
+            "word": "concierge",
+            "phonetic": "kɑːnsɪɛɹʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And arrange transportation for concierge for the customer when they leave the terminal.",
+                "Costco also offers a concierge service for members, essentially a technical support line where people can call for help with products purchased in the store.",
+                "The store or mall also pays Happy Returns a fee, hoping the concierge service will bring shoppers into its stores.",
+                "We have our concierge team take the luggage upon arrival."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2llcmdl&hash=0e142b6177bfc77465ba87f22ba2e69d86e38222&lang=en&cache-only=0",
+            "defineEn": "someone who is employed by a hotel to help guests by booking events, making restaurant reservations, etc.",
+            "defineVi": "một người được khách sạn tuyển dụng để giúp khách bằng cách đặt các sự kiện, đặt chỗ nhà hàng, v.v."
+        },
+        {
+            "id": "88b5ab8c-af65-43d0-97eb-cc2bcf6ae880",
+            "word": "desk clerk",
+            "phonetic": "dɛsk klɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVzayBjbGVyaw&hash=95ab4a4e629883548611581d9df351bf75047244&lang=en&cache-only=0",
+            "defineEn": "the receptionist of a hotel",
+            "defineVi": "lễ tân của một khách sạn",
+            "hasImg": true
+        },
+        {
+            "id": "dc827c67-65ec-4323-9286-8af4804e2687",
+            "word": "vacancy",
+            "phonetic": "veɪkənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His vacancy demanded, in the view of many conservatives, somebody of equal import, somebody of equal standing, somebody of equal definition with regard to the principles of conservatism. ",
+                "And so his vacancy was not just another vacancy. ",
+                "And so his vacancy was not just another vacancy. ",
+                "And in a professional setting, well, the employer suddenly has an unexpected vacancy, which isn’t great.",
+                "Justice Anthony Kennedy, whose seat, whose vacancy he was filling, was involved."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFjYW5jeQ&hash=e4a8855660b8ddd1a68cbb11f543fa7d6ef007db&lang=en&cache-only=0",
+            "defineEn": "(in a hotel, etc.) an available room",
+            "defineVi": "(trong khách sạn, v.v.) phòng trống",
+            "hasImg": true
+        },
+        {
+            "id": "b64ff26c-438b-4622-a2df-1480629ca34d",
+            "word": "vacationer",
+            "phonetic": "veɪkeɪʃənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the virus has spread, both vacationers and business travelers have curb ed their plans.",
+                "Eyes are closely watching the fate of Virgin Voyages, the cruise line aimed at upscale vacationers that Virgin Group had announced it was building with partner Bain Capital in December 2014.",
+                "According to a 2015 study by Tourism Concern, about two-thirds of all-inclusive vacationers go on some sort of excursion, which can add up fast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFjYXRpb25lcg&hash=cd7433a458d7232896e6d5de68d4ccdf1357a79c&lang=en&cache-only=0",
+            "defineEn": "someone who has gone on vacation",
+            "defineVi": "một người đã đi nghỉ",
+            "hasImg": true
+        },
+        {
+            "id": "cd03fae2-7fa6-4892-9a1e-677bafb50031",
+            "word": "en suite",
+            "phonetic": "ɛn swiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Through here, this is another bedroom, en suite bedroom."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW4gc3VpdGU&hash=d5bbec314feb1022a458f11dbbd034a3c17da28b&lang=en&cache-only=0",
+            "defineEn": "a bedroom, especially in a hotel, which is directly joined to a bathroom",
+            "defineVi": "một phòng ngủ, đặc biệt là trong một khách sạn, được kết nối trực tiếp với phòng tắm",
+            "hasImg": true
+        },
+        {
+            "id": "1a4e148d-cc0a-4fd4-ace9-a1bcc3dc18d0",
+            "word": "lounge",
+            "phonetic": "laʊndʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ugh, Ross just posted pictures of him and Steve lounging on a beach in Hawaii.",
+                "We took a boat to the tropical island and spent the day lounging on the sandy beach.",
+                "Although I missed my flight, I ended up meeting my future spouse in the airport lounge.",
+                "He was in the front room, or the lounge or whatever you want to call it.",
+                "I could probably like lounge a little bit side to side."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG91bmdl&hash=5990b38529b55da6c249f62bf854c4aff408d91a&lang=en&cache-only=0",
+            "defineEn": "a room in an airport or hotel in which waiting people can sit",
+            "defineVi": "một căn phòng trong một sân bay hoặc khách sạn trong đó người chờ đợi có thể ngồi",
+            "hasImg": true
+        },
+        {
+            "id": "6ac4fc7d-38e2-415b-a28e-72a618a82c4b",
+            "word": "lobby",
+            "phonetic": "lɑːbi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The elevator doors opened, revealing a crowded lobby.",
+                "After two hours of waiting in the airport lobby, we were chafing at the bit to finally get on the plane.",
+                "Amazon lobbied more government entities than any other tech company.",
+                "He lobbied for a foreign government in the United States illegally.",
+                "I heard gunshots in the speaker's lobby."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9iYnk&hash=3c7ebc7f366ab67ba7bc3b7a98c53ca6c579c6ad&lang=en&cache-only=0",
+            "defineEn": "the area just inside the entrance of a public building such as a hotel, etc.",
+            "defineVi": "khu vực ngay bên trong lối vào của một tòa nhà công cộng như khách sạn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "060c58fb-f6a9-4751-85d5-c83a23d5ecf0",
+            "word": "housekeeping",
+            "phonetic": "haʊskiːpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Housekeeping collects the used bars and bottles and deposits them in special bins.",
+                "Cosmic housekeeping Let's create a black hole with dirty laundry.",
+                "Couple other housekeeping items then not only is it a high refresh rate display it supports adaptive sync.",
+                "And get their official photo taken, along with myriad housekeeping details that fill up their one- to two-week stay in processing.",
+                "And if they need to do some housekeeping, it’s easy to take out the trash."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG91c2VrZWVwaW5n&hash=66adc834de2e94fcf72c42c7b903fbaeef531b29&lang=en&cache-only=0",
+            "defineEn": "the department tasked with cleaning rooms, etc. in a hotel, hospital, etc.",
+            "defineVi": "bộ phận được giao nhiệm vụ dọn phòng, v.v. trong khách sạn, bệnh viện, v.v."
+        },
+        {
+            "id": "db6b54e7-5f98-4d3a-aa6f-60a32dd0b471",
+            "word": "maid",
+            "phonetic": "meɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The maid gave the room the once-over lightly.",
+                "\"He was just praising Lady Bagshaw's maid.\"",
+                "'Catherine Cusack, her maid, told me,' said Ryder.",
+                "'We have no maids here,' he answered.",
+                "Catherine Cusack, the countess's maid, spoke next: 'I heard Mr Ryder call and I ran to the Countess's room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFpZA&hash=84354a8c7b81da5db4d9c157be007f4a82560a8c&lang=en&cache-only=0",
+            "defineEn": "a female servant",
+            "defineVi": "một nữ đầy tớ",
+            "hasImg": true
+        },
+        {
+            "id": "36fa0f30-e91b-46c2-88df-598a5e996bb8",
+            "word": "all-inclusive",
+            "phonetic": "ɔːlɪŋkluːsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Moreover, it is a movement that is all-embracive, all-inclusive and all about ensuring no one falls between the cracks.",
+                "All-inclusives are a great option for families, in particular, with kids.",
+                "All-inclusives offer more amenities than you'll actually use, and they bank on that.",
+                "Demand for all-inclusive resorts rose to 14% in 2014 from 8% in 2011.",
+                "According to a 2018 study from the UK's Post Office, UK families spend an average of $980 on top of the price of their all-inclusive."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxsLWluY2x1c2l2ZQ&hash=35ac97b5cfe7d39f2f3f34cc9dd5d83de29276f0&lang=en&cache-only=0",
+            "defineEn": "including everyone or everything, particularly for a single price",
+            "defineVi": "bao gồm tất cả mọi người hoặc tất cả mọi thứ, đặc biệt với một mức giá duy nhất"
+        },
+        {
+            "id": "a9578bb8-5995-412a-8aec-4065b4145a0a",
+            "word": "minibar",
+            "phonetic": "mɪnɪbɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There's a minibar with spirits, Champagne, and white wine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluaWJhcg&hash=ea51b4c496d5b36d81c58976f320e50d4fa3404e&lang=en&cache-only=0",
+            "defineEn": "a small refrigerator in a hotel room with different types of drinks inside",
+            "defineVi": "một tủ lạnh nhỏ trong phòng khách sạn với nhiều loại đồ uống bên trong",
+            "hasImg": true
+        },
+        {
+            "id": "3438464e-1893-4468-bea8-8e65b5832d02",
+            "word": "room service",
+            "phonetic": "ɹuːm sɜːvɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Minibars, room service, phone calls, high-speed WiFi, and butler services all come with an upcharge.",
+                "So I call, I keep calling the room service guy up",
+                "But we could take each one of these inmates and put them up at the Waldorf Astoria Hotel in New York for a month with room service and still not get to the amount of money we're spending every year for them.",
+                "So instead of a TTY or a video phone or whatever, I got a regular phone that hearing people would use to call room service, the front desk, or anybody."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9vbSBzZXJ2aWNl&hash=983464bcffb3dd17b9ac46fa4ebb693bbe59be82&lang=en&cache-only=0",
+            "defineEn": "a hotel service by which food and drink can be brought to the rooms of the guests",
+            "defineVi": "một dịch vụ khách sạn mà thức ăn và đồ uống có thể được mang đến phòng của khách",
+            "hasImg": true
+        },
+        {
+            "id": "443b474d-d3c9-43df-b2db-7e8020b537dc",
+            "word": "low season",
+            "phonetic": "loʊ siːzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Both the smaller susceptible pool and the onset of the low season, such as a rise in humidity, dictate when a disease's high season begins to turn around."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG93IHNlYXNvbg&hash=66bcabc06926cca102aa60695f989141623925c1&lang=en&cache-only=0",
+            "defineEn": "the time of the year that a hotel, resort, etc. has the least visitors and prices are lower than normal",
+            "defineVi": "thời điểm trong năm mà khách sạn, khu nghỉ dưỡng, v.v. có ít khách nhất và giá thấp hơn bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "e70d73c8-b6bb-4e4c-8df4-dfe14bea54ab",
+            "word": "high season",
+            "phonetic": "haɪ siːzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Japanese eat 10,000 tons of the fish every year, but in high season, it could cost you $265 per kilo.",
+                "And the other thing is if we release always in the same place-- for example, in high season, every day, we release maybe thousand of turtles.",
+                "Both the smaller susceptible pool and the onset of the low season, such as a rise in humidity, dictate when a disease's high season begins to turn around."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaCBzZWFzb24&hash=2b2946bd0f5af442724c4d2481a89787b6e69361&lang=en&cache-only=0",
+            "defineEn": "the time of the year that visiting a hotel, attraction, etc. is in high demand and the prices are high",
+            "defineVi": "thời điểm trong năm mà nhu cầu đến thăm một khách sạn, điểm tham quan, v.v. cao và giá cao",
+            "hasImg": true
+        },
+        {
+            "id": "dbadfe5e-f6ec-4152-a130-83389dab449a",
+            "word": "to backpack",
+            "phonetic": "tə bækpæk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She carried a heavy load of books in her backpack.",
+                "During my beach vacations, I always pack a juicy grapefruit in my backpack.",
+                "He carried a light backpack filled with his school supplies.",
+                "He carries a small container of stevia in his backpack to sweeten his drinks while on the go.",
+                "He had a small backpack that was easy to carry."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmFja3BhY2s&hash=df70249a809d6a422543997a0e78d901c70bbd87&lang=en&cache-only=0",
+            "defineEn": "to hike or travel carrying one's clothes, etc. in a backpack",
+            "defineVi": "đi bộ hoặc đi du lịch mang theo quần áo của một người, v.v. trong ba lô",
+            "hasImg": true
+        },
+        {
+            "id": "ead6c052-134a-4a56-882e-7ca32b779e7e",
+            "word": "reservation",
+            "phonetic": "ɹɛzɚveɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The restaurant reservation is for 8 o'clock tonight.",
+                "We can hold your reservation for three days.",
+                "Is there a table available for dinner reservations tonight?",
+                "They asked for his last name at the hotel check-in, to confirm his reservation.",
+                "We should spell our last names when making reservations to avoid any misunderstandings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzZXJ2YXRpb24&hash=ccb6c7360e3ab205074266d98a4324929e22a117&lang=en&cache-only=0",
+            "defineEn": "the act of arranging something, such as a place on an airplane, in a restaurant, or at a hotel to be kept for one to use later at a particular time",
+            "defineVi": "hành động sắp xếp một cái gì đó, chẳng hạn như một địa điểm trên máy bay, trong một nhà hàng hoặc tại một khách sạn để được giữ cho một người sử dụng sau này vào một thời điểm cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "3cdaccd1-bb4e-4862-a8b8-6a0b805dc092",
+            "word": "cancelation",
+            "phonetic": "kænsɪleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But cost cutting measures were starting to result in complaints about flight delays and cancelations, problems with baggage and issues with reservations and bookings.",
+                "Take a moment to make sure it’s clear what’s happening without velocity diagram: The change from one vector to the next, the little difference vector joining one tip to the next, will always have the same length, which was a consequence of the perfect cancelation that happens when mixing Kepler’s second law with the inverse square law."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FuY2VsYXRpb24&hash=9ba50d0d0343fea43a067cdf0b53498ca18522b7&lang=en&cache-only=0",
+            "defineEn": "the act of canceling a planned event or an order for something",
+            "defineVi": "hành động hủy bỏ một sự kiện theo kế hoạch hoặc một đơn đặt hàng cho một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "ab22d802-d4e9-404e-bfd3-07c0b59c03b5",
+            "word": "to overbook",
+            "phonetic": "tʊ oʊvɚbʊk ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gb3ZlcmJvb2s&hash=638212c3509b17473012a8f418da339e9818ed51&lang=en&cache-only=0",
+            "defineEn": "to sell more tickets or accept more reservations than the available number of seats, rooms, etc.",
+            "defineVi": "để bán thêm vé hoặc nhận đặt trước nhiều hơn số ghế, số phòng hiện có, v.v."
+        },
+        {
+            "id": "93254281-4466-4f2e-be17-f87565462c70",
+            "word": "duty-free",
+            "phonetic": "duːɾifɹiː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Often, the first thing you see after security is duty-free.",
+                "Globally, duty-free is a huge industry valued at over $67 billion in 2018, according to a report from Coherent Market Insights.",
+                "Slotnick: Duty-free can be a great savings if you buy something like alcohol or cigarettes, which are usually highly taxed.",
+                "You even notice that, in some airports, London Heathrow, for example, walking paths in duty-free veer to the left.",
+                "And while duty-free means foreign taxes on goods are removed, this doesn't necessarily mean they're cheaper."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHV0eS1mcmVl&hash=7227bbb6930a6cbb586c7c3699f41aaae4d5320e&lang=en&cache-only=0",
+            "defineEn": "(of goods) able to be imported without paying tax on them",
+            "defineVi": "(của hàng hóa) có thể được nhập khẩu mà không phải trả thuế cho chúng"
+        },
+        {
+            "id": "cd40b0c3-fd0c-42af-9a2c-5b13e338ed7f",
+            "word": "cruise",
+            "phonetic": "kɹuːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cruise went very quickly.",
+                "They were cruising for a bruising.",
+                "To go on a journey/tour/trip/cruise.",
+                "Unless you've got your stuff together then you're cruising for a bruising",
+                "The Rhine River is one of the longest rivers in Germany and offers scenic boat cruises."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3J1aXNl&hash=c7ef11f6f19ad87e3b64e8a9f48a9bf94c1b3924&lang=en&cache-only=0",
+            "defineEn": "a journey taken by a ship for pleasure, especially one involving several destinations",
+            "defineVi": "một hành trình được thực hiện bởi một con tàu để giải trí, đặc biệt là một hành trình liên quan đến một số điểm đến",
+            "hasImg": true
+        },
+        {
+            "id": "a362e975-7b84-4fbc-b612-ec4af7f27623",
+            "word": "excursion",
+            "phonetic": "ɛkskɜːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Likewise, Homo erectus began its excursions out of Africa hundreds of thousands of years before the first definitive evidence of widespread fire use.",
+                "But what most agree on is the extravagant scale of the excursion.",
+                "This was the last sample collected on Apollo 11, as Neil Armstrong's outside the LEM, the lunar excursion module, getting ready to seal up the rock box.",
+                "According to a 2015 study by Tourism Concern, about two-thirds of all-inclusive vacationers go on some sort of excursion, which can add up fast.",
+                "There were smaller versions for fishing and local excursions, and larger adaptations for open sea voyages capable of carrying tens of tons of cargo."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhjdXJzaW9u&hash=4d017f3456d44b953c0bc9e800b37384de8d2b61&lang=en&cache-only=0",
+            "defineEn": "a short trip taken for pleasure, particularly one arranged for a group of people",
+            "defineVi": "một chuyến đi ngắn được thực hiện cho niềm vui, đặc biệt là một chuyến đi được sắp xếp cho một nhóm người",
+            "hasImg": true
+        },
+        {
+            "id": "0d125dee-3d6f-4848-8a3c-80a94ca04b87",
+            "word": "to get away",
+            "phonetic": "tə ɡɛt ɐweɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I can't believe he got away with cheating on his taxes again.",
+                "I held the attacker at bay while Mary got away and called the police.",
+                "Hey, get away!",
+                "You get away quickly.",
+                "Could any other company get away with selling a brick or a branded crowbar?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ2V0IGF3YXk&hash=134a202e5dd8a88786eae130059a857ed4e707df&lang=en&cache-only=0",
+            "defineEn": "to go on vacation away from home",
+            "defineVi": "đi nghỉ xa nhà",
+            "hasImg": true
+        },
+        {
+            "id": "01fa7391-cc90-4b05-a1e2-8fad07df5405",
+            "word": "itinerary",
+            "phonetic": "aɪtɪnɚɹɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We found the President's itinerary in your desk.",
+                "We only know a quarter, at most, probably less, a fraction, really, of what they have got up to, based on their travel plans, their itinerary, right?",
+                "When I got the itinerary from the Thunderbirds, and I started reading stuff, and it said things like, get plenty of sleep, I was like, oh, I haven't really done that."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aXRpbmVyYXJ5&hash=de40eef0cf08e4d99378b31be0e30af724f3b16c&lang=en&cache-only=0",
+            "defineEn": "a plan of the route and the places that one will visit on a journey",
+            "defineVi": "một kế hoạch của tuyến đường và những nơi mà một người sẽ ghé thăm trên một hành trình",
+            "hasImg": true
+        },
+        {
+            "id": "47e77d26-966f-411b-a41a-744a573a19d4",
+            "word": "bellhop",
+            "phonetic": "bɛlhɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I was a bellhop at a hotel in Canada in my hometown where my father worked as the chef.",
+                "A lot of the bellhops have keys that they can get into all the rooms, but they don't give me one anymore."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVsbGhvcA&hash=f47a366632b76547bcafa675f1f9b1852acb77ae&lang=en&cache-only=0",
+            "defineEn": "a person who is employed by a hotel to carry the guests' baggage to their rooms",
+            "defineVi": "một người được khách sạn thuê để mang hành lý của khách lên phòng của họ",
+            "hasImg": true
+        },
+        {
+            "id": "9b3bd470-9e77-4299-873f-4f266d461b86",
+            "word": "to sightsee",
+            "phonetic": "tə saɪtsiː ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2lnaHRzZWU&hash=607e09fe5151806222a2a0405b3d95e28734ff02&lang=en&cache-only=0",
+            "defineEn": "to visit interesting and well-known places",
+            "defineVi": "đến thăm những nơi thú vị và nổi tiếng",
+            "hasImg": true
+        },
+        {
+            "id": "499b3f04-bda6-4d3b-b2f4-515594d0044f",
+            "word": "touristy",
+            "phonetic": "tʊɹɹɪsti ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "When you live in a touristy area, you should expect noise, crowds, foot traffic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG91cmlzdHk&hash=d4c3f19834c79cdfec6c4e9dabda1aa402cbf440&lang=en&cache-only=0",
+            "defineEn": "intended for, visited by, or attractive to tourists, in a way that one does not like it",
+            "defineVi": "dành cho, được ghé thăm hoặc hấp dẫn khách du lịch, theo cách mà người ta không thích",
+            "hasImg": true
+        },
+        {
+            "id": "887fce98-f2a2-47f2-b748-036894fda58c",
+            "word": "hitchhiking",
+            "phonetic": "hɪtʃhaɪkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hitchhiking, you're hitching a ride and you're naked.",
+                "But when the hitchhiking atoms are chromium instead, the mineral turns red and you have a ruby.",
+                "He and three other friends set out, at first hitchhiking."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGl0Y2hoaWtpbmc&hash=a955d0cc98a7a69aff492b3e19d8585173974544&lang=en&cache-only=0",
+            "defineEn": "a means of traveling by standing at the side of a road and signaling passing cars to stop and asking them to give one a ride, which is usually free",
+            "defineVi": "một phương tiện di chuyển bằng cách đứng ở bên đường và ra hiệu cho những chiếc ô tô đi ngang qua dừng lại và yêu cầu họ cho một người đi nhờ, thường là miễn phí"
+        }
+    ]
+}

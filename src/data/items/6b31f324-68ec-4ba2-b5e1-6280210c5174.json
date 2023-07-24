@@ -1,0 +1,917 @@
+{
+    "id": "6b31f324-68ec-4ba2-b5e1-6280210c5174",
+    "title": "Parts and Types of Fruits and Vegetables",
+    "originalTitle": "Parts and Types of Fruits and Vegetables",
+    "words": [
+        {
+            "id": "edd740e7-0a72-48f6-a06f-01e4ce584c3f",
+            "word": "edible",
+            "phonetic": "ɛdᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He found an edible mushroom in the forest.",
+                "She decorated her cake with edible glitter for a touch of sparkle.",
+                "Chefs and bakers may use edible ink pens to add personalized messages or artwork to wedding cakes.",
+                "Sushi rolls are often wrapped in sheets of edible algae, known as nori.",
+                "Some candies have a glossy coating made with edible gum."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWRpYmxl&hash=6104655f3cd42b91bb629f335917f2fb78d1579c&lang=en&cache-only=0",
+            "defineEn": "safe or suitable for eating",
+            "defineVi": "an toàn hoặc thích hợp để ăn",
+            "hasImg": true
+        },
+        {
+            "id": "af5a4706-0015-45ae-b48b-8afb9e0636ea",
+            "word": "inedible",
+            "phonetic": "ɪnɛdᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We found an inedible plant in the garden and decided to remove it for safety reasons.",
+                "He accidentally took a bite of the inedible fruit and quickly spat it out.",
+                "He received a beautifully decorated cake, but the fondant decorations were inedible.",
+                "And that produces a lot of inedible waste.",
+                "Changing water conditions may also be creating an environment that selects for organisms that can’t make thiamine, or are inedible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5lZGlibGU&hash=e9a4f3f794003ba1fb3ec04d9538ff3ab464dc00&lang=en&cache-only=0",
+            "defineEn": "describing something that cannot be eaten or is not safe for consumption",
+            "defineVi": "mô tả thứ gì đó không thể ăn được hoặc không an toàn để tiêu thụ"
+        },
+        {
+            "id": "26b6a210-2111-4178-8efd-b7af41bf6de5",
+            "word": "achene",
+            "phonetic": "eɪkn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The squirrel buried the achene in the ground, unknowingly aiding in the plant's reproduction.",
+                "They planted the achene in the soil, hoping it would grow into a beautiful flower.",
+                "As the wind blew, the achene detached from the plant and floated away, carried by the breeze.",
+                "You actually have to look much closer at the receptacle to see the fruit, which are called achenes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNoZW5l&hash=97e2eecba1085f3043454b25f28139fb3c4f5688&lang=en&cache-only=0",
+            "defineEn": "a small, dry fruit that typically contains a single seed and is often surrounded by a hardened outer layer",
+            "defineVi": "một loại trái cây khô, nhỏ thường chứa một hạt và thường được bao quanh bởi một lớp cứng bên ngoài",
+            "hasImg": true
+        },
+        {
+            "id": "d9259802-d067-4bfa-a8a2-7331f75d5dd2",
+            "word": "legume",
+            "phonetic": "lɛɡjuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend studied the nutritional benefits of different legumes for her research project.",
+                "As the harvest season arrived, the farmer gathered caryopses of various legumes.",
+                "He discovered a new variety of legume while exploring the rainforest.",
+                "You can make a satisfying chickpea curry by simmering the legumes with aromatic spices and creamy coconut milk.",
+                "You can create a protein-packed garbanzo bean curry by simmering the legumes with fragrant spices."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVndW1l&hash=36bbf29a154a0e9177fe063349da4a472585745f&lang=en&cache-only=0",
+            "defineEn": "a plant seedpod that contains multiple seeds, such as peas or peanuts",
+            "defineVi": "một seedpod thực vật có chứa nhiều hạt giống, chẳng hạn như đậu Hà Lan hoặc đậu phộng",
+            "hasImg": true
+        },
+        {
+            "id": "130dced5-c7cb-412f-8fd5-7129ca655fb3",
+            "word": "nut",
+            "phonetic": "nʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She is a hard nut",
+                "The squirrel was running with a small nut in its mouth.",
+                "The problem is a hard nut to crack.",
+                "The team's defense is a tough nut to crack.",
+                "She carefully arranged a selection of kola nuts on a decorative plate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnV0&hash=a83d2898669f2afef7bfd7b3bfdbf561e11d8e50&lang=en&cache-only=0",
+            "defineEn": "a small fruit with a seed inside a hard shell that grows on some trees",
+            "defineVi": "một quả nhỏ có hạt bên trong vỏ cứng mọc trên một số cây",
+            "hasImg": true
+        },
+        {
+            "id": "87e9f564-e6e1-40c4-84a1-626c068cb4e4",
+            "word": "caryopsis",
+            "phonetic": "kɑːɹɹɪɑːpsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The child carefully planted caryopses of wildflowers in the garden.",
+                "As the harvest season arrived, the farmer gathered caryopses of various legumes.",
+                "We examined the caryopsis of the rice grain under the microscope, observing its unique structure."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FyeW9wc2lz&hash=93ecaee605cf63c61b4bab0846e596c43d93000e&lang=en&cache-only=0",
+            "defineEn": "a one-seeded fruit where the seed is fused with the fruit wall (pericarp), commonly found in grasses and grains",
+            "defineVi": "một loại quả một hạt nơi hạt được hợp nhất với thành quả (vỏ quả), thường được tìm thấy trong các loại cỏ và ngũ cốc",
+            "hasImg": true
+        },
+        {
+            "id": "3155822c-757c-4f17-85e0-6c238435720f",
+            "word": "drupe",
+            "phonetic": "dɹuːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Birds and animals are attracted to drupes.",
+                "They enjoyed a refreshing drupe smoothie on a hot summer day, cooling themselves down with every sip.",
+                "The market was filled with an assortment of drupes, each displaying its unique shape, size, and color.",
+                "Drupes only have one seed with a distinct skin, covering a fleshy middle layer.",
+                "But technically, walnuts and pecans are not nuts, along with other single ovary fruits like peaches and and plums and coconuts, they're called drupes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJ1cGU&hash=70127d60d461c6fd88000c02fc513e8b05bbe6b1&lang=en&cache-only=0",
+            "defineEn": "a type of fruit that consists of an outer fleshy layer, a hard inner shell, and a single seed",
+            "defineVi": "một loại trái cây bao gồm một lớp thịt bên ngoài, một lớp vỏ cứng bên trong và một hạt",
+            "hasImg": true
+        },
+        {
+            "id": "eaea7909-dde8-40c9-abe2-88c8029cc2e2",
+            "word": "capsule",
+            "phonetic": "kæpsjuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She collected capsules from various plants and carefully stored them for future study.",
+                "He crushed the dried capsules of the poppy flowers to extract the tiny seeds for culinary purposes.",
+                "The children collected capsules from the oak trees, playing a game to see whose capsule would burst open first.",
+                "The children collected capsules from the oak trees, playing a game to see whose capsule would burst open first.",
+                "The capsules are supported on a cushion of air."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Fwc3VsZQ&hash=fa961acf2f8a7b8eeec2980a262f55d456b98340&lang=en&cache-only=0",
+            "defineEn": "a dry, hard covering type of fruit that splits open to release seeds, such as in poppy seeds or okra",
+            "defineVi": "một loại trái cây khô, có vỏ cứng, tách ra để giải phóng hạt, chẳng hạn như trong hạt anh túc hoặc đậu bắp"
+        },
+        {
+            "id": "54260f70-2c70-48f3-9df8-1220b4abec6e",
+            "word": "stone fruit",
+            "phonetic": "stoʊn fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RvbmUgZnJ1aXQ&hash=531fc12c8e14e39a93a0b1b4f252edc6e0e2eb36&lang=en&cache-only=0",
+            "defineEn": "a type of fruit that has a hard, pit-like stone (or seed) surrounded by fleshy edible fruit",
+            "defineVi": "một loại trái cây có đá (hoặc hạt) cứng, giống như hố được bao quanh bởi thịt quả ăn được",
+            "hasImg": true
+        },
+        {
+            "id": "7412cb51-4c28-4f2b-8573-6a41eba06b53",
+            "word": "pome",
+            "phonetic": "pɑːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In her grandmother's garden, there were several pomes, including apples and quinces.",
+                "He picked a ripe apple from the tree, enjoying the crispness of the pome.",
+                "Take pome fruits, for instance, like apples and pears.",
+                "Pome fruits are known as accessory fruits because there's so much more going on in them than a simple ovary The ovary makes up only the core of the fruit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9tZQ&hash=467651f61df1768d391f6005c0b2be2394a26dc6&lang=en&cache-only=0",
+            "defineEn": "a fruit with a central core surrounded by a fleshy layer",
+            "defineVi": "một loại trái cây có lõi trung tâm được bao quanh bởi một lớp thịt"
+        },
+        {
+            "id": "c1497bf1-c465-4354-b982-25f013e0ac50",
+            "word": "citrus",
+            "phonetic": "sɪtɹəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "In her tropical garden, there were several citrus trees, including lime, lemon, and tangerine.",
+                "You can marinate your grilled chicken in a citrus vinaigrette before cooking."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2l0cnVz&hash=ddf72da1c1565275908107af14d0ccdd6651a111&lang=en&cache-only=0",
+            "defineEn": "any fruit with a sour taste, such as oranges, limes, and tangerines",
+            "defineVi": "bất kỳ loại trái cây nào có vị chua, chẳng hạn như cam, chanh và quýt",
+            "hasImg": true
+        },
+        {
+            "id": "a654563a-a895-4852-8634-f4e8752df43b",
+            "word": "aggregate fruit",
+            "phonetic": "æɡɹɪɡeɪt fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWdncmVnYXRlIGZydWl0&hash=bef166111541bc24f719ab067f3dc5b00cee622e&lang=en&cache-only=0",
+            "defineEn": "a cluster of small individual fruits that develop from separate ovaries within a single flower",
+            "defineVi": "một cụm quả nhỏ riêng lẻ phát triển từ buồng trứng riêng biệt trong một bông hoa",
+            "hasImg": true
+        },
+        {
+            "id": "8901ad02-e50f-4b6e-b3c0-c93b74e3240d",
+            "word": "multiple fruit",
+            "phonetic": "mʌltɪpəl fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bXVsdGlwbGUgZnJ1aXQ&hash=d52bae2d8c6311be74d0516d62abd7dcbad32211&lang=en&cache-only=0",
+            "defineEn": "a fruit formed from the fused ovaries of multiple flowers",
+            "defineVi": "một quả hình thành từ buồng trứng hợp nhất của nhiều hoa",
+            "hasImg": true
+        },
+        {
+            "id": "b6c8cc08-3290-4b6f-b907-cc30c78b398d",
+            "word": "accessory fruit",
+            "phonetic": "ɐksɛsɚɹi fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNjZXNzb3J5IGZydWl0&hash=dbf366755d9ff85aebd2424980b53f12678000c4&lang=en&cache-only=0",
+            "defineEn": "a type of fruit where the flesh comes from tissues other than the ovary",
+            "defineVi": "một loại trái cây mà thịt đến từ các mô khác với bầu nhụy",
+            "hasImg": true
+        },
+        {
+            "id": "e9ed9bf7-fedf-4ef3-b3ca-ad549304c702",
+            "word": "seedless",
+            "phonetic": "siːdləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My son prefers the seedless grapes because they are easy to eat.",
+                "I couldn't resist the temptation of buying a bag of seedless tangerines.",
+                "But planting these genetic weirdos isn’t the last step to delicious, seedless fruit.",
+                "And similar methods can produce all sorts of seedless fruits.",
+                "Then, about 80 years ago, Japanese scientists tinkered with the plants’ genome more directly to create seedless varieties."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VlZGxlc3M&hash=e7a76fbc7d797edb984eda8c3f52ff68bd625373&lang=en&cache-only=0",
+            "defineEn": "describing something that does not contain seeds",
+            "defineVi": "mô tả một cái gì đó không chứa hạt giống"
+        },
+        {
+            "id": "89502d3a-6303-4a07-921b-08a7692849f6",
+            "word": "leafy",
+            "phonetic": "liːfi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He admired the vibrant colors of the leafy plants in his garden.",
+                "As she prepared the celery for a salad, she trimmed the leafy stalks and discarded the tougher parts.",
+                "The restaurant offered a refreshing salad with a mix of leafy greens and crunchy vegetables.",
+                "They decided to take a walk in the park, surrounded by tall, leafy trees.",
+                "The first kind is leafy like lettuce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVhZnk&hash=3c73434532339f4c2c09ea9f3ee0d3c9af3dc34a&lang=en&cache-only=0",
+            "defineEn": "having an abundance of leaves or characterized by the presence of leaves",
+            "defineVi": "có nhiều lá hoặc đặc trưng bởi sự hiện diện của lá"
+        },
+        {
+            "id": "cf29ab01-e004-413c-93b5-506ae2c466e6",
+            "word": "salad greens",
+            "phonetic": "sæləd ɡɹiːnz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FsYWQgZ3JlZW5z&hash=020ca1fd13d81f2c015c3e7fb03a4b51d77b872b&lang=en&cache-only=0",
+            "defineEn": "a variety of leafy vegetables that are commonly used as the base for salads",
+            "defineVi": "nhiều loại rau lá thường được sử dụng làm nền cho món salad",
+            "hasImg": true
+        },
+        {
+            "id": "e69fc0ca-695c-4418-952d-2aad23e893ce",
+            "word": "bulb",
+            "phonetic": "bʌlb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The gardener dug a hole and gently placed the bulb of an onion into the soil.",
+                "My sister was enjoying a meal that included roasted camas bulbs.",
+                "She prepared a delicious camas dish, combining the cooked bulbs with fresh herbs.",
+                "She discovered a forgotten bulb of garlic in the pantry and decided to use it in her recipe.",
+                "He looked at his daughter planting wild leek bulbs in the garden."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVsYg&hash=a9a112dcd2433ad7d028c5c6a2770be410fbd45f&lang=en&cache-only=0",
+            "defineEn": "the ball-shaped root of some plants that grows anew every year",
+            "defineVi": "rễ hình quả bóng của một số cây mọc lại hàng năm",
+            "hasImg": true
+        },
+        {
+            "id": "ed193b3a-0b03-49a2-bfd8-98bb77828b41",
+            "word": "stem",
+            "phonetic": "stɛm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The gardener carefully wrapped the stem of the young tree with burlap to protect it from frost during winter.",
+                "They admired the sturdy stem of the oak tree, providing support to its branches and leaves.",
+                "As the rain poured, the thirsty plant absorbed water through its roots, nourishing its leaves and stems.",
+                "The differences in these properties stem mostly from the differences in their polarities.",
+                "And the stem contains the tens digits."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RlbQ&hash=e79e90ae543fee54acc6a891bc555e35f4884d87&lang=en&cache-only=0",
+            "defineEn": "the main part of a plant that connects the roots to the twigs, leaves, and flowers",
+            "defineVi": "phần chính của cây nối rễ với cành, lá và hoa",
+            "hasImg": true
+        },
+        {
+            "id": "446e3055-63a5-41b7-8088-a350ad9ec451",
+            "word": "root",
+            "phonetic": "ɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The laws were reformed root and branch.",
+                "The farmer harvested the tuberous roots of the yam plant.",
+                "Racism must be eliminated, roots and all.",
+                "It's time for a roots and all review of political donations.",
+                "I watched as the pig rooted around in the dirt for food."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9vdA&hash=56abf0681805fefc5383f82410e1a3d71eca084b&lang=en&cache-only=0",
+            "defineEn": "the underground part of a plant that absorbs water and minerals, sending it to other parts",
+            "defineVi": "phần ngầm của cây hấp thụ nước và khoáng chất, gửi nó đến các bộ phận khác",
+            "hasImg": true
+        },
+        {
+            "id": "ebaf6cf2-9f0d-4588-9dec-26d461f1ef45",
+            "word": "tuber",
+            "phonetic": "tuːbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She carefully lifted the ginger tuber from the soil.",
+                "The chef used the horseradish tuber to add a kick of flavor to her signature sauce.",
+                "He harvested the sweet potato tubers and cooked them in a flavorful stew.",
+                "Okay, and tuber a great way to cleanse body of toxin.",
+                "-Okay, me only eat fruit, vegetables, tuber, and small lizard."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHViZXI&hash=baccfeac84bfc53c65940c6f5da584cc779a32c8&lang=en&cache-only=0",
+            "defineEn": "a swollen, underground stem or root of a plant that stores nutrients",
+            "defineVi": "một thân hoặc rễ bị sưng, ngầm của cây dự trữ chất dinh dưỡng"
+        },
+        {
+            "id": "c1a0bb73-076b-4a9c-8a17-403a978e4e5b",
+            "word": "tuberous",
+            "phonetic": "tuːbɚɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The farmer harvested the tuberous roots of the yam plant.",
+                "It was a delight to see the tuberous vines of the morning glory climbing up the garden fence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHViZXJvdXM&hash=177f7e14bb8abe576e75ecd2277870bc026a1ec7&lang=en&cache-only=0",
+            "defineEn": "describing something that has or resembles tubers, which are thickened, fleshy underground stems or roots",
+            "defineVi": "mô tả một cái gì đó có hoặc tương tự như củ, thân hoặc rễ dày, nhiều thịt dưới lòng đất"
+        },
+        {
+            "id": "bbefa311-8fc4-48e5-a387-867332cb2fc7",
+            "word": "marrow",
+            "phonetic": "mæɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mother added diced marrow to a summer salad, providing a refreshing and nutritious element to the mix.",
+                "Marrow is some of the most important stuff in an animal's body.",
+                "So our ancestors were clearly eating meat and marrow pretty often by then.",
+                "In other cases, the marrow is extracted directly from a bone in the hip, the iliac crest, with a needle.",
+                "That marrow was just worth the risk of breaking some teeth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFycm93&hash=d768bba31ae54f154533a65839f407cb0e3b390b&lang=en&cache-only=0",
+            "defineEn": "a large long vegetable of the squash family with green skin and white flesh, grown on the ground",
+            "defineVi": "một loại rau to dài thuộc họ bí da xanh ruột trắng mọc bò trên mặt đất",
+            "hasImg": true
+        },
+        {
+            "id": "efba8f5e-a8c7-4bc4-889a-71250bda331f",
+            "word": "core",
+            "phonetic": "koːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her family is English to the core.",
+                "He carefully cored the pineapple before serving it as a tropical dessert.",
+                "She cored the apple and sliced it into pieces for the pie.",
+                "He's rotten to the core.",
+                "She carefully removed the core of the apple before taking a bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29yZQ&hash=fcc286d0a70be42b73566246a1b9fc6705849e3e&lang=en&cache-only=0",
+            "defineEn": "the central part of a fruit that typically contains seeds, like in apples, pears, and pineapples",
+            "defineVi": "phần trung tâm của một loại trái cây thường chứa hạt giống như trong táo, lê và dứa",
+            "hasImg": true
+        },
+        {
+            "id": "ae244915-23c6-4d08-a2b6-85310b0ed640",
+            "word": "dextrose",
+            "phonetic": "dɛkstɹoʊz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She added a spoonful of dextrose to her morning coffee for a quick energy boost.",
+                "My mother always keeps a jar of dextrose in my pantry for baking cookies and cakes.",
+                "And some of these things are agave nectar, brown rice syrup, high fructose corn syrup, dextrose, evaporated cane juice, lactose, malt syrup, molasses and sucrose."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGV4dHJvc2U&hash=968a24ea40ffadf5a2b6c7ad32e681c0b333d48e&lang=en&cache-only=0",
+            "defineEn": "a simple sugar that is commonly used as a sweetener or a source of energy in various food and medical products",
+            "defineVi": "một loại đường đơn giản thường được sử dụng làm chất làm ngọt hoặc nguồn năng lượng trong các sản phẩm thực phẩm và y tế khác nhau"
+        },
+        {
+            "id": "c8bdce13-afaa-4132-ace3-54c32140d9c5",
+            "word": "flesh",
+            "phonetic": "flɛʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The memory of all that blood made his flesh creep.",
+                "Just talking about snakes makes my flesh crawl.",
+                "The golden skin of the loquat contrasts beautifully with its vibrant orange flesh.",
+                "The roasted duck had a crispy skin and succulent flesh.",
+                "He dipped a spoon into the luscious flesh of the ripe cantaloupe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxlc2g&hash=2446754f10e3ed46de60c8a10391b288ad5aaf96&lang=en&cache-only=0",
+            "defineEn": "the soft, edible part of a fruit, typically rich in flavor and texture",
+            "defineVi": "phần mềm, ăn được của trái cây, thường có hương vị và kết cấu phong phú"
+        },
+        {
+            "id": "1a81be9a-354a-49d2-93b9-ca875786aaaf",
+            "word": "hull",
+            "phonetic": "hʌl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He carefully hulled the almonds to use in his homemade granola.",
+                "She asked her brother to hull the sunflower seeds for her snack.",
+                "She used a knife to scrape the hull off the coconut to reveal the white flesh inside.",
+                "He carefully removed the hull of the walnut before cracking it open.",
+                "We hired workers to hull the soybeans on the farm before packaging them for sale."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVsbA&hash=088a33897856a721ad4996f24cf0d1f317aeba1c&lang=en&cache-only=0",
+            "defineEn": "the outer covering or shell of a seed or fruit",
+            "defineVi": "lớp vỏ bên ngoài hoặc vỏ của hạt hoặc quả",
+            "hasImg": true
+        },
+        {
+            "id": "52e23c62-f3ee-4826-865e-a51b93ba2d64",
+            "word": "juice",
+            "phonetic": "dʒuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children drank their juice from colorful plastic glasses.",
+                "My parents always drink orange juice for breakfast.",
+                "Watermelon juice is a popular beverage during picnics and barbecues.",
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "She poured orange juice into a clear glass."
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVpY2U&hash=8516857d091968689303dc9041da0169ab014da3&lang=en&cache-only=0",
+            "defineEn": "the liquid that exists inside fruits and vegetables or the drink that we make from them",
+            "defineVi": "chất lỏng tồn tại bên trong trái cây và rau quả hoặc đồ uống mà chúng ta làm từ chúng",
+            "hasImg": true
+        },
+        {
+            "id": "13a20c52-5bc9-490d-bdc4-01a6da40d418",
+            "word": "nectar",
+            "phonetic": "nɛktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She carefully collected the nectar from the blooming flowers to make a delicious homemade honey.",
+                "They watched as the bees buzzed around, sipping the nectar from the colorful blossoms.",
+                "In return, the flowers make nectar!",
+                "And this nectar attracts the local mountain tree shrews, big-eyed rodents about 18 centimeters in length.",
+                "Most flowers make sugary nectar, too."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVjdGFy&hash=c12fc76fa9a8e51c11b0d0b2e9ef206952d86364&lang=en&cache-only=0",
+            "defineEn": "a sweet, liquid substance produced by flowers and used by insects as a source of energy",
+            "defineVi": "một chất lỏng, ngọt do hoa tạo ra và được côn trùng sử dụng làm nguồn năng lượng"
+        },
+        {
+            "id": "08a4fbc2-3ee8-4b23-9b25-fc590a07db3d",
+            "word": "pectin",
+            "phonetic": "pɛktɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I bought pectin at the store to make my own jelly from fresh fruits.",
+                "She added pectin to the strawberry jam to help it thicken.",
+                "But pectin can dissolve in water.",
+                "Pectin is a carbohydrate in cell walls that fruit generates as it ripens.",
+                "soon/. That’s because their mealy texture is tied to the breakdown of a substance called pectin."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVjdGlu&hash=72b9c56efa52267e3b7d0fa44ea18ee696b90032&lang=en&cache-only=0",
+            "defineEn": "a natural substance found in fruits that is used as a thickening agent in food preparation",
+            "defineVi": "một chất tự nhiên được tìm thấy trong trái cây được sử dụng làm chất làm đặc trong chế biến thực phẩm"
+        },
+        {
+            "id": "d6e64234-a407-49df-a569-44b363e08d11",
+            "word": "peel",
+            "phonetic": "piːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mom peeled a ripe banana for me.",
+                "He carefully peeled the apple with a sharp knife.",
+                "The chef skillfully peeled the potato, preparing it for the delicious mashed potatoes.",
+                "Bitter orange peel is a great addition to my herbal remedies.",
+                "I carefully peeled the purple eggplant to cook it for dinner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVlbA&hash=15091bee70dffdfc8e679e9eb18e7ebe86d81fa4&lang=en&cache-only=0",
+            "defineEn": "the outer, protective layer of a fruit that can be removed",
+            "defineVi": "lớp bảo vệ bên ngoài của trái cây có thể được loại bỏ",
+            "hasImg": true
+        },
+        {
+            "id": "3ac3eb84-b262-4592-8097-cd9c31782ab1",
+            "word": "pip",
+            "phonetic": "pɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The squirrel buried the hazelnut pip in the ground for safekeeping.",
+                "He accidentally swallowed a pip while eating the juicy watermelon.",
+                "They planted the apple pips in the garden, hoping to grow their own apple tree.",
+                "PIP At higher levels, you can get your name listed in the description of every video, or in the end credits.",
+                "When the little baby turtles start to pip and emerge from the eggs, the shell falls down to the bottom of the hole, and all the fluid drains out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlw&hash=4411139cd0763edd6974a11209e95fb063132cc6&lang=en&cache-only=0",
+            "defineEn": "a tiny hard seed that is found in some fruits such as an apple, orange, etc.",
+            "defineVi": "một hạt nhỏ cứng được tìm thấy trong một số loại trái cây như táo, cam, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8a8e0ecd-2310-4ad7-9728-dd60133deeff",
+            "word": "pit",
+            "phonetic": "pɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She carefully pitted the cherry before adding it to the cake batter.",
+                "Shall we make a pit stop at the next service station?",
+                "We made a pit stop for some food before getting back on the highway.",
+                "He noticed the pitted olives in the salad and picked them out.",
+                "They spent the afternoon pitting the peaches for their summer jam."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGl0&hash=035687216e26765064e9989a72552278f6fdb505&lang=en&cache-only=0",
+            "defineEn": "a small, hard seed or stone found inside certain fruits",
+            "defineVi": "một hạt nhỏ, cứng hoặc đá được tìm thấy bên trong một số loại trái cây",
+            "hasImg": true
+        },
+        {
+            "id": "72446b86-18a6-4e7b-88eb-0022aeb9e35d",
+            "word": "pith",
+            "phonetic": "pɪθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "She examined the pith under a microscope to study its cellular structure.",
+                "We collected samples of pith from different plants to compare their properties.",
+                "The cambium is the layer that separates the xylem from the phloem, among other things, while the pith is where the nutrients are stored.",
+                "\"Medulla,\" on the other hand, meaning narrow or pith, so you know that it's the inside."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGl0aA&hash=ee968cf9c864375a9812ad3250d45c62a2e251d1&lang=en&cache-only=0",
+            "defineEn": "the spongy tissue found inside the stems and branches of plants",
+            "defineVi": "mô xốp được tìm thấy bên trong thân và cành cây"
+        },
+        {
+            "id": "3052974c-591c-4875-a703-4d0651f33fb5",
+            "word": "pulp",
+            "phonetic": "pʌlp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She squeezed the orange, releasing the refreshing pulp into her glass.",
+                "He carefully removed the pomegranate seeds, leaving behind the vibrant red pulp.",
+                "The children enjoyed the fleshy pulp of the mango, their faces smeared with its sweet and sticky juice.",
+                "He carefully skinned the mango, ensuring none of the sweet, juicy pulp went to waste.",
+                "He felt like beating the kid to a pulp, but knew that would only magnify the problem and he'd be the one ending up in jail."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVscA&hash=d0a6a74676890d6c9f112561b845d987913abaa3&lang=en&cache-only=0",
+            "defineEn": "the soft, fibrous part of a fruit or vegetable",
+            "defineVi": "phần mềm, xơ của trái cây hoặc rau"
+        },
+        {
+            "id": "7a17f464-a6fa-4f34-a884-7c96a8f0c94f",
+            "word": "rind",
+            "phonetic": "ɹaɪnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the Camembert matured, the cheese rind turned soft and bloomy.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "As the sun beat down, they relaxed on the beach, sipping on cold beverages with slices of lime rind floating on top.",
+                "The Brie cheese had a soft and creamy interior, with a bloomy white cheese rind.",
+                "They found an overripe watermelon in their garden, its rind was dull and the flesh was overly soft and sweet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmluZA&hash=38416eb7cf6b4dc2b6effbe9b6960b29acddec84&lang=en&cache-only=0",
+            "defineEn": "the tough outer covering or skin of a fruit or vegetable",
+            "defineVi": "lớp vỏ hoặc lớp vỏ cứng bên ngoài của trái cây hoặc rau"
+        },
+        {
+            "id": "1b673306-83bd-4831-af79-017ae522b3a5",
+            "word": "seed",
+            "phonetic": "siːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She planted rutabaga seeds in her garden.",
+                "She blended pumpkin seeds into a creamy pesto sauce.",
+                "She carefully sprinkled sunflower seeds on top of her homemade bread dough.",
+                "He's sowing the seeds of his own downfall.",
+                "They have planted the seeds of their own destruction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VlZA&hash=13146a5c87b9ce772f7438e499a910cecbe7d397&lang=en&cache-only=0",
+            "defineEn": "a small, hard object produced by a plant that can grow into a new plant.",
+            "defineVi": "một vật thể nhỏ, cứng được tạo ra bởi một loại cây có thể phát triển thành một loại cây mới.",
+            "hasImg": true
+        },
+        {
+            "id": "c989c4b3-eadb-4c4d-a353-34e590fef8a1",
+            "word": "segment",
+            "phonetic": "sɛɡmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tangor segments are perfect for snacking on-the-go.",
+                "Identifying a specific segment of the market as our target will be more effective than a shotgun approach.",
+                "When our main competitor went out of business, the market segment was there for the taking.",
+                "They divided the grapefruit into equal segments to share among the group.",
+                "He carefully removed the peel of the orange and savored the juicy segments."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VnbWVudA&hash=18a784c03898a701f037e5d1dfc9b9734359525e&lang=en&cache-only=0",
+            "defineEn": "any of the inner parts of a fruit such as an orange, lemon, etc. that can be easily separated",
+            "defineVi": "bất kỳ phần bên trong nào của trái cây như cam, chanh, v.v. có thể dễ dàng tách ra",
+            "hasImg": true
+        },
+        {
+            "id": "c7eed23b-bb14-4a10-baf6-91dc6d299fc9",
+            "word": "skin",
+            "phonetic": "skɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Its skin feels really smooth.",
+                "The bite had scarcely broken the skin.",
+                "The bite had scarcely broken the skin.",
+                "The milk skin gives a unique texture to the homemade pudding.",
+                "The crispy skin of the parson's nose offered a satisfying crunch with each bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2tpbg&hash=cfb45af02c6e3224e5221f6757b1937825a91e71&lang=en&cache-only=0",
+            "defineEn": "the outer layer that covers a fruit, seed or vegetable",
+            "defineVi": "lớp bên ngoài bao phủ một loại trái cây, hạt hoặc rau",
+            "hasImg": true
+        },
+        {
+            "id": "fd3e7069-6b75-4528-876b-d51b51478129",
+            "word": "stalk",
+            "phonetic": "stɔːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The intense gaze from across the room, eyes on stalks, left no doubt about his attraction.",
+                "As she prepared the celery for a salad, she trimmed the leafy stalks and discarded the tougher parts.",
+                "They picked the juicy tomatoes, gently twisting the stalks to separate them from the vine.",
+                "As we walked through the cornfield, we came across a cob that had fallen from one of the stalks.",
+                "The child's eyes were on stalks as he watched the magician's performance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhbGs&hash=691897fe541e21c89ea8bec56eb9e33181c26534&lang=en&cache-only=0",
+            "defineEn": "the slender, elongated part of a plant that supports leaves, flowers, or fruits",
+            "defineVi": "phần mảnh mai, thon dài của cây hỗ trợ lá, hoa hoặc quả",
+            "hasImg": true
+        },
+        {
+            "id": "5d99d5ce-3480-450f-977d-58a5d69539e0",
+            "word": "stone",
+            "phonetic": "stoʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children skipped stones across the calm river surface.",
+                "The children were dropping stones off the bridge.",
+                "The stone made a dent in the roof of the car.",
+                "The houses are built out of local stone.",
+                "The baker skillfully removed the stone from the apricot, preparing it for a delicious pie."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvbmU&hash=569d1c769e275e96e2056e2cc0e6ef1c6d582159&lang=en&cache-only=0",
+            "defineEn": "the tough, woody layer found inside the pericarp of certain fruits",
+            "defineVi": "lớp gỗ, cứng được tìm thấy bên trong màng ngoài tim của một số loại trái cây"
+        },
+        {
+            "id": "1b1534fb-749f-4164-8e6c-52c03f45146d",
+            "word": "zest",
+            "phonetic": "zɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He zests the lemon over the pasta to give it a refreshing flavor.",
+                "As I peel the Jaffa orange, its fragrant zest fills the air.",
+                "She zests the orange into the salad dressing to add a tangy twist.",
+                "I always keep some orange zest on hand to enhance the flavor of my favorite desserts.",
+                "They discovered the delightful combination of lemon zest and herbs in their roasted vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=emVzdA&hash=648c32a8d69a99bfb0e00052d40ca7a9e17f8755&lang=en&cache-only=0",
+            "defineEn": "the flavorful outer peel of citrus fruits used in culinary applications for its tangy and fragrant qualities",
+            "defineVi": "lớp vỏ bên ngoài có hương vị của trái cây họ cam quýt được sử dụng trong các ứng dụng ẩm thực vì chất lượng thơm và thơm của nó",
+            "hasImg": true
+        },
+        {
+            "id": "0cb386f7-a2c1-4744-bdb3-8436174ee36e",
+            "word": "cob",
+            "phonetic": "kɑːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As we walked through the cornfield, we came across a cob that had fallen from one of the stalks.",
+                "I found a cob of hazelnuts lying on the ground and eagerly started shelling them.",
+                "The corn cob doesn't digest well",
+                "You're listening to COB in the chill ch-ch-ch-chill job.",
+                "You're listening to COB in the chill times."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29i&hash=aa6386fcb84075da39b198e5ab43b667264e2c5d&lang=en&cache-only=0",
+            "defineEn": "a hard, rounded shell that encloses certain types of nuts",
+            "defineVi": "một lớp vỏ cứng, tròn bao quanh một số loại hạt",
+            "hasImg": true
+        },
+        {
+            "id": "4d8e5854-ea90-41ed-9d89-781acf0916cb",
+            "word": "corncob",
+            "phonetic": "kɔːɹŋkɑːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We roasted the corncobs on the campfire, savoring the smoky flavor.",
+                "The chickens pecked at the corncob, eagerly devouring the remaining bits of corn.",
+                "Corncob is a good name for a horse!",
+                "There's seldom-seen Slim with the old corncob pike."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ybmNvYg&hash=ffc5772a9ab7205ebfb6c400752e9aa1f2f4f136&lang=en&cache-only=0",
+            "defineEn": "the central cylindrical part of the corn ear that is covered in tightly packed kernelsn",
+            "defineVi": "phần hình trụ trung tâm của bắp ngô được bao phủ bởi các hạt được đóng gói chặt chẽ",
+            "hasImg": true
+        },
+        {
+            "id": "ae52c670-718f-4214-900c-673f12619a60",
+            "word": "eye",
+            "phonetic": "aɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father has brown eyes.",
+                "The woman has eyes like a hawk!",
+                "A vase on a side table caught his eye.",
+                "The actor's intense bedroom eyes added an extra layer of allure to his performance.",
+                "The intense gaze from across the room, eyes on stalks, left no doubt about his attraction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXll&hash=f6db2d27d3e734403e211643841eb4f89c653156&lang=en&cache-only=0",
+            "defineEn": "a small opening or indentation on the surface, often associated with the attachment point or reproductive structures, such as in potatoes, pineapples, and beans",
+            "defineVi": "một lỗ nhỏ hoặc vết lõm trên bề mặt, thường liên quan đến điểm đính kèm hoặc cấu trúc sinh sản, chẳng hạn như khoai tây, dứa và đậu",
+            "hasImg": true
+        },
+        {
+            "id": "09579831-eb73-4419-9a25-7adaca487b13",
+            "word": "floret",
+            "phonetic": "flɔːɹət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The farmer harvested the fresh broccoli florets from the garden for market.",
+                "He picked off the tiny florets from the cauliflower head to use in his salad.",
+                "Yeah, I definitely feel florets of broccoli."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxvcmV0&hash=745ee9aa5eb3b489b054dee3c38b95f3ac6e1deb&lang=en&cache-only=0",
+            "defineEn": "a small flower or cluster of flowers that form the flowering head of vegetables like broccoli, cauliflower, and Brussels sprouts, commonly used in culinary applications",
+            "defineVi": "một bông hoa nhỏ hoặc cụm hoa tạo thành đầu hoa của các loại rau như bông cải xanh, súp lơ trắng và mầm Brussels, thường được sử dụng trong các ứng dụng ẩm thực"
+        },
+        {
+            "id": "fa385eba-0c79-48ad-b559-4618ad2a9b59",
+            "word": "top",
+            "phonetic": "tɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They topped fruit tarts with mango coulis.",
+                "The fish tacos were topped with tangy slaw and creamy sauce.",
+                "This dictionary goes on the top shelf.",
+                "We topped our baked potatoes with a generous drizzle of bechamel sauce.",
+                "Write your name at the top of the paper."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9w&hash=c9ff900024933090da10f2cab4fb194f4287759e&lang=en&cache-only=0",
+            "defineEn": "the edible leafy greens or uppermost part of certain plants, used in culinary applications",
+            "defineVi": "lá xanh ăn được hoặc phần trên cùng của một số loại cây nhất định, được sử dụng trong các ứng dụng ẩm thực",
+            "hasImg": true
+        },
+        {
+            "id": "14fdb285-48e0-4ce6-982c-7aa5e273ec1a",
+            "word": "endosperm",
+            "phonetic": "ɛndoʊspɜːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With a knife, he separated the endosperm from the seed, revealing its starchy and nutrient-rich composition.",
+                "The researcher studied the endosperm of various seeds, aiming to understand its role in plant development and nutrition.",
+                "An outer shell, called the seed coat, a tiny baby plant that's inside the seed called the Embryo and some plant food for the Embryo called Endosperm.",
+                "and if you leaves pushes its way up towards the sunlight Once the chute breaks through the soil to the open air above We say that it's sprouted, now the plant doesn't need the endosperm anymore because it can make its own food from sunlight with enough water and sunlight and the right temperature, the young plant will continue to grow getting bigger and growing more leaves until It to the don't plant",
+                "In plants, those polar bodies actually also get fertilized too, and they become the endosperm, that's the starchy-proteiny stuff that we grind into wheat or pop into popcorn."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5kb3NwZXJt&hash=8ae6f1f5d12b2b87080965266cd9294b4952e1e2&lang=en&cache-only=0",
+            "defineEn": "the tissue within a seed that provides nourishment to the developing embryo",
+            "defineVi": "mô trong hạt cung cấp chất dinh dưỡng cho phôi đang phát triển",
+            "hasImg": true
+        },
+        {
+            "id": "148b68e1-7a1b-4447-b7dc-4c9b86da71c4",
+            "word": "mesocarp",
+            "phonetic": "mɛsəkɑːɹp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The market vendor displayed a variety of tropical fruits, each with its own unique-colored mesocarp.",
+                "The children eagerly bit into the peach, savoring the delicate and velvety mesocarp."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVzb2NhcnA&hash=d002da162e181db3424ff7d7c23308508e8edd8b&lang=en&cache-only=0",
+            "defineEn": "the middle layer of the pericarp of a fruit, typically fleshy in texture",
+            "defineVi": "lớp giữa của màng ngoài tim của quả, thường có kết cấu thịt"
+        },
+        {
+            "id": "b034ef20-d4d9-4b7f-b017-79db60783c4d",
+            "word": "seed coat",
+            "phonetic": "siːd koʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VlZCBjb2F0&hash=692e77c1b50d31bef961dc388316e32d4ccf5926&lang=en&cache-only=0",
+            "defineEn": "the protective outer layer of a seed",
+            "defineVi": "lớp ngoài bảo vệ của hạt"
+        },
+        {
+            "id": "23f587fe-8295-486a-882e-671c4da72fa6",
+            "word": "exocarp",
+            "phonetic": "ɛɡzɑːkɑːɹp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They carefully removed the exocarp of the pomegranate, revealing the clusters of vibrant red arils inside.",
+                "As I cut into the exocarp of the pineapple, its tropical aroma filled the room, making my mouth water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhvY2FycA&hash=2629128ec1103e34453c0c7856db1b67382bdfc6&lang=en&cache-only=0",
+            "defineEn": "the outermost layer or skin of a fruit",
+            "defineVi": "lớp ngoài cùng hoặc vỏ của trái cây",
+            "hasImg": true
+        },
+        {
+            "id": "df6667b6-2176-41f6-a52c-b363557725c7",
+            "word": "pericarp",
+            "phonetic": "pɛɹɪkɑːɹp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the peach ripened, its pericarp softened and its sweet aroma filled the room.",
+                "The squirrel nibbled on the pericarp of the hazelnut, trying to access the tasty kernel hidden inside."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyaWNhcnA&hash=4fe05fa5fedb289b251000954181cca662ef6c47&lang=en&cache-only=0",
+            "defineEn": "the protective outer layer of a fruit that develops from the ovary wall after fertilization",
+            "defineVi": "lớp ngoài bảo vệ của quả phát triển từ thành bầu nhụy sau khi thụ tinh"
+        },
+        {
+            "id": "ce7cece5-fa5f-4c20-99a2-e75722d522f7",
+            "word": "fleshy",
+            "phonetic": "flɛʃi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The chef prepared a fleshy avocado salad, combining its creamy texture with tangy dressing.",
+                "She plucked a fleshy strawberry from the garden and enjoyed its juicy sweetness.",
+                "The children enjoyed the fleshy pulp of the mango, their faces smeared with its sweet and sticky juice.",
+                "Imagine a fleshy cube.",
+                "See that fleshy tent there?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxlc2h5&hash=3807bec8ad72ca711c664f76e22c303acf83a48f&lang=en&cache-only=0",
+            "defineEn": "(of plant or fruit tissue) soft, juicy, and succulent, often with a high water content",
+            "defineVi": "(của mô thực vật hoặc trái cây) mềm, mọng nước và mọng nước, thường có hàm lượng nước cao"
+        },
+        {
+            "id": "418dd50d-e4ac-4f12-b885-3ce62cf0f278",
+            "word": "glace",
+            "phonetic": "ɡleɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "They shared a glace plum tart after their meal.",
+                "The children eagerly reached for the glace lollipops at the candy store.",
+                "He couldn't resist the glace coating on the freshly baked donut."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2xhY2U&hash=2a93638f020f0b5edcde479f565cb747c8b954fd&lang=en&cache-only=0",
+            "defineEn": "describing something that has been coated with a glossy or sugary surface",
+            "defineVi": "mô tả một cái gì đó đã được phủ một bề mặt bóng hoặc có đường",
+            "hasImg": true
+        },
+        {
+            "id": "3cca00e0-f810-4576-983b-af9ec028af19",
+            "word": "overripe",
+            "phonetic": "oʊvɚɹaɪp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He carefully selected the least overripe avocados from the pile.",
+                "They found an overripe watermelon in their garden, its rind was dull and the flesh was overly soft and sweet.",
+                "She discovered an overripe banana in the fruit bowl, its peel turned completely brown and mushy.",
+                "This chimpanzee stumbles across a windfall of overripe plums.",
+                "The sugars in overripe fruit attract microscopic organisms known as yeasts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3ZlcnJpcGU&hash=af5408351f5b19f4ee460a3ac55f355a0d87fb0b&lang=en&cache-only=0",
+            "defineEn": "describing the condition of being excessively ripe or beyond the point of optimal freshness",
+            "defineVi": "mô tả tình trạng quá chín hoặc vượt quá độ tươi tối ưu"
+        },
+        {
+            "id": "a2f822a1-83ea-476b-88d5-abf0d5735df6",
+            "word": "pitted",
+            "phonetic": "pɪɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGl0dGVk&hash=5e269f8fea6750606f3fa4b01ec1f541d547cede&lang=en&cache-only=0",
+            "defineEn": "having had the pits or stones removed",
+            "defineVi": "đã loại bỏ các hố hoặc đá"
+        },
+        {
+            "id": "97b78da8-bf08-48c8-a454-fcdea9f56522",
+            "word": "ripe",
+            "phonetic": "ɹaɪp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The time was ripe for change in the company.",
+                "The market had ripe oranges with bright orange peels.",
+                "My mom peeled a ripe banana for me.",
+                "The bramble bushes along the hiking trail were filled with ripe dewberries.",
+                "The delicate aroma of ripe may apples fills the kitchen."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmlwZQ&hash=66ee4aba52a2ec6956b24382ff839674567f5d31&lang=en&cache-only=0",
+            "defineEn": "describing a fruit or crop that has completed its growth and is ready to be eaten",
+            "defineVi": "mô tả một loại trái cây hoặc cây trồng đã hoàn thành quá trình tăng trưởng và sẵn sàng để ăn",
+            "hasImg": true
+        },
+        {
+            "id": "01f12245-b48b-4610-bf04-72f13a496049",
+            "word": "seasonal",
+            "phonetic": "siːzənəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The greengage is a seasonal fruit, typically available during the late summer months.",
+                "The restaurant offered a vegetarian dish with a mix of seasonal vegetables.",
+                "The bakery showcased a special maple sugar cake as the highlight of their seasonal menu.",
+                "As the winter approached, he started preparing his garden for the planting of seasonal flowers.",
+                "They decided to visit a local farm to pick their own seasonal fruits and vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vhc29uYWw&hash=936e80860d1788ca3be2cfc3e07ea4ae8de4d809&lang=en&cache-only=0",
+            "defineEn": "relating to or happening during a particular season of the year",
+            "defineVi": "liên quan đến hoặc xảy ra trong một mùa cụ thể của năm",
+            "hasImg": true
+        },
+        {
+            "id": "cb24ce18-62b1-4d88-b081-0172c9187fc1",
+            "word": "sun-dried",
+            "phonetic": "sʌndɹaɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VuLWRyaWVk&hash=6c4b16f394b655da09dfe78120140ab7191b99e4&lang=en&cache-only=0",
+            "defineEn": "describing something, particularly food, that has been dried in the sun",
+            "defineVi": "mô tả một cái gì đó, đặc biệt là thực phẩm, đã được làm khô dưới ánh mặt trời",
+            "hasImg": true
+        }
+    ]
+}

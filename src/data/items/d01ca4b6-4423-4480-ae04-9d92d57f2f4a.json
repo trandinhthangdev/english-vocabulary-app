@@ -1,0 +1,789 @@
+{
+    "id": "d01ca4b6-4423-4480-ae04-9d92d57f2f4a",
+    "title": "Unit 6 - Preview",
+    "originalTitle": "Unit 6 - Preview",
+    "words": [
+        {
+            "id": "216a51fd-d138-43c6-bb8a-1164f9f6f2d4",
+            "word": "animal",
+            "phonetic": "ænɪməl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Canadian wildlife includes animals like bears, moose, beavers, and eagles.",
+                "My son's favorite animal is the lion.",
+                "Birds and animals are attracted to drupes.",
+                "In the zoo, you can see various animals like giraffes, zebras, and monkeys.",
+                "Whales are incredible marine animals that migrate long distances."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5pbWFs&hash=c8bd8a7d2710489675af3c44213de592d10d4fdc&lang=en&cache-only=0",
+            "defineEn": "a living thing, like a cat or a dog, that can move and needs food to stay alive, but not a plant or a human",
+            "defineVi": "một sinh vật sống, chẳng hạn như một con mèo hoặc một con chó, có thể di chuyển và cần thức ăn để sống, nhưng không phải là thực vật hay con người",
+            "hasImg": true
+        },
+        {
+            "id": "84776835-8f4e-4bfe-95af-2a19af2fd7d9",
+            "word": "invertebrate",
+            "phonetic": "ɪnvɜːɾɪbɹeɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This makes them Earth’s fastest invertebrates.",
+                "It typically makes the hard parts of invertebrates, like crab shells and the exoskeletons of insects and spiders.",
+                "Invertebrates from mollusks to coral to starfish all use calcium to build their bodies’ support structures.",
+                "And then we have animals like invertebrates that have an exoskeleton.",
+                "Only a handful of invertebrates can remember where things are like this."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW52ZXJ0ZWJyYXRl&hash=39bd89465a7f84704eb91b7f89bdc0bc2d2e59f9&lang=en&cache-only=0",
+            "defineEn": "any animal that does not possess or cannot develop a spinal column, such as an arthropod, mollusk, etc.",
+            "defineVi": "bất kỳ động vật nào không sở hữu hoặc không thể phát triển cột sống, chẳng hạn như động vật chân đốt, động vật thân mềm, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "81be6cee-1a09-4425-bc33-a7d4d7f341d7",
+            "word": "spider",
+            "phonetic": "spaɪdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Spiders can live for several days without food.",
+                "Spiders can live for several days without food.",
+                "He noticed a spider crawling up the wall.",
+                "The child's cry of fear alerted the adults to the presence of a spider.",
+                "As the saying goes, when spider webs unite, they can tie up a lion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BpZGVy&hash=5cbe6155b9bb4c81cef351fa7a9031dbfceb5c39&lang=en&cache-only=0",
+            "defineEn": "a small creature that spins webs to catch insects for food, with eight legs and two fangs by which poison is injected to its prey",
+            "defineVi": "một sinh vật nhỏ giăng mạng để bắt côn trùng làm thức ăn, có tám chân và hai răng nanh để tiêm chất độc vào con mồi",
+            "hasImg": true
+        },
+        {
+            "id": "fd815d3f-2aa4-4c08-9565-da1121692aa1",
+            "word": "worm",
+            "phonetic": "wɜːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The worm turns quickly in the world of politics.",
+                "She finally wormed the truth out of him.",
+                "Steve wormed his way out of going to the meeting.",
+                "I can only offer you a worm's eye view of the situation.",
+                "He always managed to worm his way out of doing the dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ybQ&hash=4f709c4bba73f935f80093cba1c2fd50b6e997e8&lang=en&cache-only=0",
+            "defineEn": "a small soft-bodied animal with an elongated body that lacks limbs and eyes",
+            "defineVi": "một động vật thân mềm nhỏ với cơ thể thon dài không có chân tay và mắt",
+            "hasImg": true
+        },
+        {
+            "id": "da21212c-8f1e-4fc7-a7ae-b48990d0d39a",
+            "word": "reptile",
+            "phonetic": "ɹɛptaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Right from the start of the Mesozoic, reptiles were incredibly successful.",
+                "Ichthyosaurs were reptiles, like snakes and lizards.",
+                "These reptiles were true lizards, too.",
+                "After all, gators and lizards are both reptiles.",
+                "Today, amniotes include all reptiles, birds, and mammals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVwdGlsZQ&hash=9f29336cfe2e1a6e4018e05aeee544dac31b9899&lang=en&cache-only=0",
+            "defineEn": "a class of animals to which crocodiles, lizards, etc. belong, having cold blood and scaly skin",
+            "defineVi": "một lớp động vật thuộc về cá sấu, thằn lằn, v.v., có máu lạnh và da có vảy",
+            "hasImg": true
+        },
+        {
+            "id": "e6a8a87a-8059-44b4-9692-c6d9dd5eb4e3",
+            "word": "crocodile",
+            "phonetic": "kɹɑːkədaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Although the company had been performing well for years, the new CEO knew to never think there are no crocodiles because the water is calm, and he implemented changes to help the company stay competitive and adapt to new challenges.",
+                "Crocodiles patrolled the waters.",
+                "Also crocodiles.",
+                "Crocodiles have these as well.",
+                "Theories included crocodiles, misplaced sea mammals like seals, fossil bones, the duck-billed platypus, swamp gas, and the sounds from swamp birds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JvY29kaWxl&hash=e7b64715a657b231ccc1a8fdbf39fae0ddcff219&lang=en&cache-only=0",
+            "defineEn": "a large reptile with very big jaws, sharp teeth, short legs, and a hard skin and long tail that lives in rivers and lakes in hot countries",
+            "defineVi": "một loài bò sát lớn có hàm rất to, răng sắc nhọn, chân ngắn, da cứng và đuôi dài sống ở sông hồ ở các nước nóng",
+            "hasImg": true
+        },
+        {
+            "id": "1a589710-163c-4170-8593-eadf723a8442",
+            "word": "snake",
+            "phonetic": "sneɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Snakes use their tongues to smell their surroundings.",
+                "The snake shed its old skin to grow a new one.",
+                "These snakes are to be found in North America.",
+                "He looks slippery as a snake.",
+                "Snakes are cold-blooded animals, relying on external sources to regulate their body temperature."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25ha2U&hash=e1962a8fea5960fd85432fcbdde3f2574ed7327a&lang=en&cache-only=0",
+            "defineEn": "a legless, long, and thin animal whose bite may be dangerous",
+            "defineVi": "một con vật không chân, dài và gầy mà vết cắn của nó có thể nguy hiểm",
+            "hasImg": true
+        },
+        {
+            "id": "3a5b5508-3ca0-48fa-aee8-2882ac23c1f1",
+            "word": "lizard",
+            "phonetic": "lɪzɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So, from their slow start in the Triassic to the start of their rise in the Cretaceous, and their eventual explosion ever since, lizards have really played the long game.",
+                "Shingleback lizards also have a tough pregnancy.",
+                "These reptiles were true lizards, too.",
+                "Regenerated lizard tails also regrow skeletal muscle.",
+                "But crocodilians’ closest living relatives are not lizards."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl6YXJk&hash=311713b552fefde2ca18b4902d0ee7e13c7505b7&lang=en&cache-only=0",
+            "defineEn": "a group of animals with a long body and tail, a rough skin and two pairs of short legs",
+            "defineVi": "một nhóm động vật có thân và đuôi dài, da sần sùi và hai cặp chân ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "34cc185f-4cc8-4ced-bf7d-609e11ca2f93",
+            "word": "amphibian",
+            "phonetic": "æmfɪbiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And like fish, amphibians lay eggs that don’t have protective shells.",
+                "But afterward, in the Triassic, some amphibians still held on.",
+                "See you, giant amphibians!",
+                "It shared its tropical forests and humid swamps with amphibians like Cochleosaurus, a giant, semiaquatic ambush predator - like, the amphibian version of today’s crocodiles.",
+                "When amphibians first wiggled their way out of the swamps and walked onto land."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1waGliaWFu&hash=2cc2017840129ddfad27973e8d9d453012f81341&lang=en&cache-only=0",
+            "defineEn": "any cold-blooded animal with the ability to live both on land and in water, such as toads, frogs, etc.",
+            "defineVi": "bất kỳ động vật máu lạnh nào có khả năng sống cả trên cạn và dưới nước, chẳng hạn như cóc, ếch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c5734a75-13d5-45c9-9c4f-aecec623efb7",
+            "word": "salamander",
+            "phonetic": "sælɐmændɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Okay, I mean, a salamander?",
+                "And six to ten weeks later the salamander has a complete limb where there was once a stump.",
+                "Two main things threaten the Texas salamander's survival.",
+                "Some salamanders do bury themselves in the ground near places like creeks and rivers.",
+                "Axolotls are salamanders, a type of amphibian."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsYW1hbmRlcg&hash=ffb1afc0767b73d8300b1382986b00521fb5d5a1&lang=en&cache-only=0",
+            "defineEn": "any ground-dwelling amphibian with a long body and tail that has a soft moist skin",
+            "defineVi": "bất kỳ loài lưỡng cư sống trên mặt đất nào có thân dài và đuôi có làn da ẩm mềm",
+            "hasImg": true
+        },
+        {
+            "id": "f9ea938d-2f5a-4ed4-af94-7121209d4c98",
+            "word": "frog",
+            "phonetic": "fɹɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With a wave of her magic wand, she changed the frog into a handsome prince.",
+                "The green frog hopped from one lily pad to another.",
+                "Ever since I started here, I've just been a little frog in a big pond.",
+                "We get the first glimpse of his brilliance when he juggles frogs during his adolescence.",
+                "Mary gets a frog in her throat whenever she has to sing in front of an audience, but she practices diligently to overcome it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJvZw&hash=3aa4fc168fd3ae3d26e69e52b1a533326d463e89&lang=en&cache-only=0",
+            "defineEn": "a small green animal with smooth skin, long legs for jumping and no tail, that lives both in water and on land",
+            "defineVi": "một loài động vật nhỏ màu xanh, da nhẵn, chân dài để nhảy và không có đuôi, sống cả dưới nước và trên cạn",
+            "hasImg": true
+        },
+        {
+            "id": "96f34ead-13c1-4fae-9e06-d05a813e3a10",
+            "word": "fish",
+            "phonetic": "fɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef used fish paste as a filling for his sushi rolls",
+                "This fish is as dead as a herring.",
+                "I soon had the fish in a net.",
+                "The big fellow keeps a fish shop near the post office.",
+                "The colorful fish in the aquarium captured my attention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlzaA&hash=fdb92758151e316180093ddbf02f81bac6bfe227&lang=en&cache-only=0",
+            "defineEn": "an animal with a tail, gills and fins that lives in water",
+            "defineVi": "một con vật có đuôi, mang và vây sống dưới nước",
+            "hasImg": true
+        },
+        {
+            "id": "ab2ac012-06ca-433c-8593-3689d1d4698f",
+            "word": "goldfish",
+            "phonetic": "ɡoʊldfɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The goldfish in the bowl was swimming around happily.",
+                "My grandmother used to say that dying is as natural as living as a way of comforting me when my pet goldfish passed away.",
+                "My kids love Goldfish.",
+                "- They're Goldfish.",
+                "Then, they tested those predictions on free-swimming goldfish. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29sZGZpc2g&hash=6f9739af29024d1bdeddd6e7eca2a37cf34a70aa&lang=en&cache-only=0",
+            "defineEn": "a small red or orange fish often kept as a pet",
+            "defineVi": "một con cá nhỏ màu đỏ hoặc cam thường được giữ như một con vật cưng",
+            "hasImg": true
+        },
+        {
+            "id": "fae0fb3a-8554-448a-b9bb-08b09d3a22fe",
+            "word": "eel",
+            "phonetic": "iːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A heinous criminal who seems slippery as an eel.",
+                "Everyone wanted to know if I'd tried jellied eel.",
+                "The frilled shark looks closer to an eel.",
+                "Meanwhile, the eel catfish makes its onshore voyage to satisfy its hearty craving for beetles.",
+                "But he did find significant amounts of eel DNA."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWVs&hash=07a05332b78fafe783b61683ad9b4c7fc1820757&lang=en&cache-only=0",
+            "defineEn": "a long and thin freshwater or marine fish that is like a snake, sometimes eaten as food",
+            "defineVi": "một loài cá nước ngọt hoặc cá biển dài và mỏng giống như rắn, đôi khi được ăn làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "bd8278a9-ae21-4e85-a9b2-6cd2e2eab8f9",
+            "word": "bird",
+            "phonetic": "bɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The birds built their nest in the tree.",
+                "The bird had bright feathers and a long beak.",
+                "Birds can fly freely in the sky.",
+                "But this bird was as dead as a dodo.",
+                "The colorful bird flew high in the sky."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlyZA&hash=de250209953d40f16a4b9a25ef316c04adb2223e&lang=en&cache-only=0",
+            "defineEn": "an animal with a beak, wings, and feathers that are usually capable of flying",
+            "defineVi": "một con vật có mỏ, cánh và lông thường có khả năng bay",
+            "hasImg": true
+        },
+        {
+            "id": "b32b2824-c90e-4998-a057-1b5243acc43d",
+            "word": "parrot",
+            "phonetic": "pæɹət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Take parrots, for example.",
+                "'Food!' answered the parrot.",
+                "'River Liffey!' squawked the parrot.",
+                "Parrots like Zoe depend on trees for everything.",
+                "And the WHO basically parroted that language."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFycm90&hash=b940ec17d189463015db98616fb2572f9561b18d&lang=en&cache-only=0",
+            "defineEn": "a tropical bird with bright colors and a curved beak that can be trained to mimic human speech",
+            "defineVi": "một loài chim nhiệt đới có màu sắc tươi sáng và mỏ cong có thể được huấn luyện để bắt chước giọng nói của con người",
+            "hasImg": true
+        },
+        {
+            "id": "c3cf4000-c6de-4823-953d-4d02ced98c43",
+            "word": "eagle",
+            "phonetic": "iːɡəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He's as bald as a eagle.",
+                "At his young age, he became bald as an eagle.",
+                "Canadian wildlife includes animals like bears, moose, beavers, and eagles.",
+                "For once, Beatrice's eagle eye failed to detect the tenderness in Timothy whenever he spoke to Topaz.",
+                "He knew that eagles fly alone, but sheep flock together, and that true progress requires breaking away from the herd."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFnbGU&hash=46286e448557e7c7c5c487e6ee3e3a404b84adf4&lang=en&cache-only=0",
+            "defineEn": "a large bird of prey with a sharp beak, long broad wings, and very good sight",
+            "defineVi": "một loài chim săn mồi lớn với cái mỏ nhọn, đôi cánh dài rộng và tầm nhìn rất tốt",
+            "hasImg": true
+        },
+        {
+            "id": "29ae2615-4ca6-4f73-917d-75ba1a8a9292",
+            "word": "mammal",
+            "phonetic": "mæməl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In reality, mammals have a figure-eight circulation.",
+                "As a result, mammals evolved different-shaped teeth for different purposes.",
+                "venomous mammals do exist.",
+                "Mammals can breathe out of their butts.",
+                "These mammals are native to the Americas and Australia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFtbWFs&hash=53c63e4807cd21214619519f3ca7701d6d273f32&lang=en&cache-only=0",
+            "defineEn": "a class of animals to which humans, cows, lions, etc. belong, having warm blood, fur or hair and producing live offspring",
+            "defineVi": "một lớp động vật mà con người, bò, sư tử, v.v. thuộc về, có máu nóng, lông hoặc lông và sinh ra con cái sống",
+            "hasImg": true
+        },
+        {
+            "id": "d35818ff-0c74-4190-b5ea-cdcfa88de9fd",
+            "word": "horse",
+            "phonetic": "hɔːɹs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The horse took the first fence well.",
+                "My people have a horse in this race, too.",
+                "She sits her horse gracefully.",
+                "Just hold your horses, Bill!",
+                "They turned the horse into the field."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9yc2U&hash=35fc4244c152e9021535a7b4d0262ff226a3fff6&lang=en&cache-only=0",
+            "defineEn": "an animal that is large, has a tail and four legs, and we use for racing, pulling carriages, riding, etc.",
+            "defineVi": "một con vật lớn, có đuôi và bốn chân, và chúng tôi sử dụng để đua, kéo xe, cưỡi ngựa, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8a6e2cdc-ebd3-4c32-9b6b-ebbfc7ab2985",
+            "word": "lion",
+            "phonetic": "laɪən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My son's favorite animal is the lion.",
+                "The lions closed in on their prey.",
+                "The firm has captured the lion’s share of the UK market.",
+                "The lion’s share of his money went to his grandchildren.",
+                "A live dog is better than a dead lion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlvbg&hash=ab74fe6d5caa031d802e102fbd155c1646564353&lang=en&cache-only=0",
+            "defineEn": "a powerful and large animal that is from the cat family and mostly found in Africa, with the male having a large mane",
+            "defineVi": "một loài động vật mạnh mẽ và to lớn thuộc họ mèo và chủ yếu được tìm thấy ở Châu Phi, với con đực có bờm lớn",
+            "hasImg": true
+        },
+        {
+            "id": "168cdc88-5e52-427f-bb38-ffe9085bdf66",
+            "word": "elephant",
+            "phonetic": "ɛlɪfənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The elephant had big ears and a long trunk.",
+                "Elephants are known for their intelligence and remarkable memory.",
+                "The new office block has become an expensive white elephant.",
+                "The incident has remained something of an elephant in the room within our family.",
+                "A huge white elephant of a house that needed ten thousand spent on it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxlcGhhbnQ&hash=6111e07f888974ccff5ae05fafa4e727e31b5268&lang=en&cache-only=0",
+            "defineEn": "an animal that is very large, has thick gray skin, four legs, a very long nose that is called a trunk, and mostly lives in Asia and Africa",
+            "defineVi": "một loài động vật rất lớn, da dày màu xám, bốn chân, mũi rất dài gọi là vòi, chủ yếu sống ở châu Á và châu Phi",
+            "hasImg": true
+        },
+        {
+            "id": "230ae744-48a1-4586-8c3c-3809cffb6c20",
+            "word": "rabbit",
+            "phonetic": "ɹæbɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The disease wiped out 40 million rabbits at a stroke.",
+                "The caterer really pulled a rabbit out of a hat by producing 100 cupcakes with just 20 minutes' notice.",
+                "I gave a carrot to the hungry rabbit.",
+                "I saw a fluffy white rabbit in our garden.",
+                "She once went down that political rabbit hole."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFiYml0&hash=4d12b5f99d6fc02b8be99b34cf5bcb31ce0f24d6&lang=en&cache-only=0",
+            "defineEn": "an animal that is small, eats plants, has a short tale, long ears, and soft fur",
+            "defineVi": "một con vật nhỏ, ăn thực vật, có một câu chuyện ngắn, đôi tai dài và bộ lông mềm mại",
+            "hasImg": true
+        },
+        {
+            "id": "d1876009-814d-4c70-9f79-a21c529890ab",
+            "word": "monkey",
+            "phonetic": "mʌŋki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The monkey skillfully plucked the almonds from the tree.",
+                "Inevitably, the cartoonists made a monkey of him.",
+                "No one makes a monkey out of me.",
+                "Monkey see, monkey do.",
+                "His drug addiction has been a monkey on his back for years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ua2V5&hash=db4f59c42ce52e7adf15b2d27d96b0e79cda37ec&lang=en&cache-only=0",
+            "defineEn": "an animal that has a long tail and usually lives in trees and warm countries",
+            "defineVi": "một con vật có đuôi dài và thường sống trên cây và các nước ấm áp",
+            "hasImg": true
+        },
+        {
+            "id": "28e27b19-fabb-4d70-96e6-9e12be5fc938",
+            "word": "mouse",
+            "phonetic": "maʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mice have small ears and a long tail.",
+                "I held the mouse by its tail.",
+                "I gave some cheese to the hungry mouse.",
+                "My friend's cat is playing with a toy mouse.",
+                "Mice can squeeze through small openings to enter a house."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91c2U&hash=a18c5f8cd42cc436dfbb8fb3eea46162f70a9c29&lang=en&cache-only=0",
+            "defineEn": "a small animal that lives in fields or houses, and often has fur, a long furless thin tail, and a pointed nose",
+            "defineVi": "một con vật nhỏ sống trên cánh đồng hoặc trong nhà, thường có lông, đuôi dài mỏng không có lông và mũi nhọn",
+            "hasImg": true
+        },
+        {
+            "id": "07237b35-4e7e-4555-ae48-7584480eee38",
+            "word": "dog",
+            "phonetic": "dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These dogs seldom make the news.",
+                "The tail was wagging the dog.",
+                "The dog has gone inside.",
+                "A dog is undoubtedly a man’s best friend.",
+                "As the saying goes, dogs of the same street bark alike."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9n&hash=9c76ede62c83ccf5a858995731637f8190ae4301&lang=en&cache-only=0",
+            "defineEn": "an animal that has a tail and four legs and we keep as a pet",
+            "defineVi": "một con vật có đuôi và bốn chân và chúng tôi giữ như một con vật cưng",
+            "hasImg": true
+        },
+        {
+            "id": "057184e5-57d3-4632-9f33-dad24e12f5cc",
+            "word": "dolphin",
+            "phonetic": "dɑːlfɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sea is home to a variety of marine life, such as fish, dolphins, and coral reefs.",
+                "Dolphins have even demonstrated language comprehension.",
+                "Dolphins is a big qualification on board.",
+                "Dolphins pass down their communication methods and other skills from generation to generation.",
+                "So dolphins sleep unihemispherically, with just one hemisphere at a time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9scGhpbg&hash=8583c3d4bfacd1bc77c4b350bdfb460bd05252e3&lang=en&cache-only=0",
+            "defineEn": "an intelligent sea mammal that looks like a whale and has a long snout and teeth",
+            "defineVi": "một động vật có vú biển thông minh trông giống như một con cá voi và có mõm dài và răng",
+            "hasImg": true
+        },
+        {
+            "id": "fa212e3b-4661-4553-80e3-723787364df5",
+            "word": "sheep",
+            "phonetic": "ʃiːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "To drive sheep into a field.",
+                "They drove a flock of sheep through the center of the city.",
+                "The sheep gathered around the feeding trough to eat their meal.",
+                "The sheep had thick wool that was used to make warm clothing.",
+                "A curious sheep approached me and sniffed my hand."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hlZXA&hash=682afe5a452e28b71db0bbfb6bd6924b9ea65d16&lang=en&cache-only=0",
+            "defineEn": "a farm animal that we keep to use its meat or wool",
+            "defineVi": "một động vật trang trại mà chúng tôi giữ để sử dụng thịt hoặc len của nó",
+            "hasImg": true
+        },
+        {
+            "id": "9b23b40c-6c94-481f-b8d8-7ccfaeec5f42",
+            "word": "attractive",
+            "phonetic": "ɐtɹæktɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The vibrant green color of perilla leaves adds an attractive touch to any dish.",
+                "Guys automatically become less attractive when they break Priscian's head.",
+                "The food packaging film had a color retention agent to prevent discoloration and maintain the attractive appearance of it.",
+                "The sight of the attractive lifeguard on the beach was enough to make Tom feel like he needed a cold shower to calm his racing heart.",
+                "A sinfully attractive man who knows what he wants, Rafael seduces Cherri before she knows what hits her."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXR0cmFjdGl2ZQ&hash=bafc79bd7449a4e59d3483f8ed797a356095a0e6&lang=en&cache-only=0",
+            "defineEn": "pleasing or appealing to the senses",
+            "defineVi": "làm hài lòng hoặc hấp dẫn các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "e6ec9880-5c18-426f-8bdf-ce5ec44678b6",
+            "word": "cute",
+            "phonetic": "kjuːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The baby had chubby cheeks and a cute face.",
+                "They're so chubby and cute.",
+                "And cute little kitties.",
+                "The smile is pretty cute.",
+                "Animals are seriously cute."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3V0ZQ&hash=462bef6d42008505892e983baa8c2063b10d6a2f&lang=en&cache-only=0",
+            "defineEn": "attractive and good-looking",
+            "defineVi": "hấp dẫn và ưa nhìn",
+            "hasImg": true
+        },
+        {
+            "id": "d456d2c9-08ec-4ca6-ae13-ed0437be3c9f",
+            "word": "dangerous",
+            "phonetic": "deɪndʒɚɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A dangerous policy that runs the risk of failure.",
+                "These foods are potentially dangerous, yet nobody thinks twice before handing them out to their loved ones.",
+                "It's known as the most dangerous part of the city.",
+                "When it comes to cybersecurity, there is no little enemy, and even a seemingly harmless email or file can contain a dangerous virus or malware.",
+                "The student kept procrastinating on their assignments and projects, and eventually learned the hard way that delays are dangerous when they failed their exams."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFuZ2Vyb3Vz&hash=991ccfa8a0a2070d41a832e21dccb58d23ad09af&lang=en&cache-only=0",
+            "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+            "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+            "hasImg": true
+        },
+        {
+            "id": "4068c430-c9b8-4814-8348-603350d1bd5a",
+            "word": "disgusting",
+            "phonetic": "dɪsɡʌstɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Scorpion was disgusting rehearsal.",
+                "That's disgusting.",
+                "This is disgusting.",
+                "- That's disgusting.",
+                "- It looks disgusting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzZ3VzdGluZw&hash=a09b8548d3099a0a935897855dbfede98abd370c&lang=en&cache-only=0",
+            "defineEn": "describing something that is very unpleasant",
+            "defineVi": "mô tả một cái gì đó là rất khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "28109087-2a8d-4911-81d7-d3bd383a79e9",
+            "word": "energetic",
+            "phonetic": "ɛnɚdʒɛɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The company is trying to create a young energetic image.",
+                "You're energetic.",
+                "It's so energetic.",
+                "But really energetic phenomena, like star and galaxy formation, emit really energetic light, like x-rays.",
+                "But really energetic phenomena, like star and galaxy formation, emit really energetic light, like x-rays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5lcmdldGlj&hash=7abbdcd7bc2a4a57a153efc65c5d7d6e6dff0972&lang=en&cache-only=0",
+            "defineEn": "active and full of energy",
+            "defineVi": "năng động và tràn đầy năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "1b5c31d8-34fd-4268-99dc-71a2386aed0b",
+            "word": "fascinating",
+            "phonetic": "fæsᵻneɪɾɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The museum is a fascinating place to learn about history and art.",
+                "The monkey's intelligence and adaptability made it a fascinating creature to study.",
+                "I find it fascinating to learn about the wonders of the natural world through science.",
+                "This meeting was fascinating.",
+                "Today's question is fascinating."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzY2luYXRpbmc&hash=e7754603dd07dc80d7ef4380c46d7d9537f9f8e2&lang=en&cache-only=0",
+            "defineEn": "extremely interesting or captivating",
+            "defineVi": "cực kỳ thú vị hoặc quyến rũ",
+            "hasImg": true
+        },
+        {
+            "id": "720606d6-3553-4d9d-a3b5-ac71399df090",
+            "word": "frightening",
+            "phonetic": "fɹaɪʔn̩ɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "They are frightening the daylights out of people.",
+                "It’s a very frightening situation, but we mustn’t lose our heads.",
+                "It's frightening, how often her mind is blank.",
+                "They never watch scary movies because they find them too frightening.",
+                "The vibrations are frightening."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJpZ2h0ZW5pbmc&hash=e494537f8f46167ba27500ff0c1b87995b5e37f1&lang=en&cache-only=0",
+            "defineEn": "causing one to feel fear",
+            "defineVi": "khiến người ta cảm thấy sợ hãi",
+            "hasImg": true
+        },
+        {
+            "id": "f94bf443-369a-46ae-b949-84b937abb095",
+            "word": "funny",
+            "phonetic": "fʌni ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The play was too funny for words.",
+                "He always tells funny jokes that make everyone laugh.",
+                "I saw some really funny pictures of myself as a kid and I couldn't believe what a minger I was.",
+                "She imagined kids making funny faces after trying scorzonera for the first time.",
+                "We spent the evening watching funny movies and she felt much better."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVubnk&hash=b191c1a0aa80e329a670cd704f4d54f133c73dc3&lang=en&cache-only=0",
+            "defineEn": "able to make people laugh",
+            "defineVi": "có thể làm cho mọi người cười",
+            "hasImg": true
+        },
+        {
+            "id": "5496388a-1331-43df-afc6-772bae7c33b7",
+            "word": "hardworking",
+            "phonetic": "hɑːɹdwɜːkɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The hardworking employee received a promotion for their exceptional performance.",
+                "He chose a loyal and hardworking employee from an ordinary background over one with an impressive resume but a questionable work ethic.",
+                "My husband is a hardworking and supportive partner who always puts family first.",
+                "Foreign companies and workers are not as hardworking as the Chinese.",
+                "These animals are super cool, and super hardworking, too!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFyZHdvcmtpbmc&hash=550d0ef244dc245b4a0525fd7497bff408ec7b85&lang=en&cache-only=0",
+            "defineEn": "(of a person) working with a lot of effort, energy, and commitment",
+            "defineVi": "(của một người) làm việc với rất nhiều nỗ lực, năng lượng và cam kết",
+            "hasImg": true
+        },
+        {
+            "id": "d35cf3e4-4099-4d27-a6ca-6859d9400b86",
+            "word": "independent",
+            "phonetic": "ɪndᵻpɛndənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "From a young age, he had a strong independent spirit and always did his own thing, refusing to be influenced by others' opinions.",
+                "Each one is independent. ",
+                "Sideways motion is independent of up and down motion.",
+                "Naomi: My mom, she'e fiercely independent.",
+                "Independent stores are carving out their own niches as well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQ&hash=23b04d012ba1fd35e4f170cb08119b98ceede632&lang=en&cache-only=0",
+            "defineEn": "free to do things as one wants and not needing help from others",
+            "defineVi": "tự do làm mọi việc theo ý muốn và không cần sự giúp đỡ của người khác",
+            "hasImg": true
+        },
+        {
+            "id": "f3086de5-5ab7-475d-aaf1-265176ec60ae",
+            "word": "intelligent",
+            "phonetic": "ɪntɛlɪdʒənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I couldn't help notice how pretty and intelligent she was and we just clicked.",
+                "Other intelligent animals experience grief in similar ways.",
+                "Are they intelligent?",
+                "What would intelligent life look like?",
+                "You're very intelligent."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZWxsaWdlbnQ&hash=56dda34420157d5529ebbacaed3095192ef97380&lang=en&cache-only=0",
+            "defineEn": "having or showing a high level of intelligence; good at learning things, understanding ideas, and thinking clearly",
+            "defineVi": "có hoặc thể hiện mức độ thông minh cao; giỏi học hỏi mọi thứ, hiểu ý tưởng và suy nghĩ rõ ràng",
+            "hasImg": true
+        },
+        {
+            "id": "1f396c1d-09a8-402b-adf1-91218c177997",
+            "word": "lazy",
+            "phonetic": "leɪzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He's just too lazy to come.",
+                "The lazy employee's work was not worth a brass farthing, and he was eventually fired for his lack of effort.",
+                "He can be lazy about doing his work, but when he gets the bit between his teeth there's no stopping him.",
+                "I enjoy reading a book or watching a movie during the lazy afternoon hours.",
+                "She calls him lazy and useless, but it's water off a duck's back to him"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGF6eQ&hash=4ab56869f1388f86c480e982655ea4f5635d156b&lang=en&cache-only=0",
+            "defineEn": "not liking physical activity or unwilling to work",
+            "defineVi": "không thích hoạt động thể chất hoặc không muốn làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "f27a6aab-4512-4b08-8b23-aa622b2ca8a2",
+            "word": "noisy",
+            "phonetic": "nɔɪzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We ate dinner in a noisy café.",
+                "The teacher took the student out of the noisy classroom to have a private conversation.",
+                "The party was ruined by a couple of noisy, rude gate-crashers.",
+                "Despite his wealth and fame, he often feels outside noisy, inside empty, longing for something more meaningful in his life.",
+                "We are so noisy!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9pc3k&hash=17baf34dc9b9dd3424391ff6c152451185be3048&lang=en&cache-only=0",
+            "defineEn": "making or having of a lot of unwanted sounds",
+            "defineVi": "tạo ra hoặc có nhiều âm thanh không mong muốn",
+            "hasImg": true
+        },
+        {
+            "id": "2d22619e-2106-449a-a1bd-e0d2ce7f700b",
+            "word": "patient",
+            "phonetic": "peɪʃənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The dentist can't take any new patients.",
+                "You have to be patient.",
+                "she puts her patients in touch with a great acupuncturist in London.",
+                "The treatment has not yet been tried on patients.",
+                "The patient's life was hanging by a thread."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0aWVudA&hash=14ce5640f6fa4778e0dc590535fcc54e586c59e9&lang=en&cache-only=0",
+            "defineEn": "staying calm during hard times or accepting delays without getting angry or irritated",
+            "defineVi": "giữ bình tĩnh trong thời gian khó khăn hoặc chấp nhận sự chậm trễ mà không tức giận hoặc cáu kỉnh",
+            "hasImg": true
+        },
+        {
+            "id": "c4b3360a-5f6c-4020-9db6-0166d22624bd",
+            "word": "quiet",
+            "phonetic": "kwaɪət ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The library is often quiet during weekdays.",
+                "Be quiet, please.",
+                "We lead a very quiet life.",
+                "Surprisingly, the quiet neighborhood came alive with vibrant festivities during the annual festival.",
+                "You've been awfully quiet tonight, honey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVpZXQ&hash=437416576a2b0948a05d2838d59cd9fc5bd97411&lang=en&cache-only=0",
+            "defineEn": "making very little noise or no noise at all",
+            "defineVi": "tạo ra rất ít tiếng ồn hoặc không có tiếng ồn nào cả",
+            "hasImg": true
+        },
+        {
+            "id": "f536f8de-1e0d-4c4f-bb06-bb516113b81b",
+            "word": "relaxed",
+            "phonetic": "ɹᵻlækst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm more relaxed now.",
+                "He must have been hoping for a relaxed time.",
+                "Rainy days make me feel calm and relaxed.",
+                "He managed to change the mood from tense to relaxed in minutes.",
+                "Your body is completely relaxed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVsYXhlZA&hash=ffda3840ce4650c3866b4f8d5c48b5ae5f94b392&lang=en&cache-only=0",
+            "defineEn": "feeling calm and at ease without tension or stress",
+            "defineVi": "cảm thấy bình tĩnh và thoải mái mà không căng thẳng hay căng thẳng",
+            "hasImg": true
+        },
+        {
+            "id": "6bafca21-e1f3-456d-b720-4432b91649f6",
+            "word": "tasty",
+            "phonetic": "teɪsti ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Blue cheese crumbles are a tasty addition to burgers or salads.",
+                "The chef prepared a tasty fish stew with vegetables and spices.",
+                "The salad dressing is a tasty combination of olive oil and balsamic vinegar.",
+                "Drinking pineapple juice is a tasty way to boost your immune system.",
+                "He prepared a tasty beef stew, using tender pieces of shin meat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFzdHk&hash=aeb504baa35e98fe72069362bc051ba592c4e65c&lang=en&cache-only=0",
+            "defineEn": "having a satisfying or pleasant flavor",
+            "defineVi": "có một hương vị thỏa mãn hoặc dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "068acaa6-05b1-4e51-9edd-d1acdb036e12",
+            "word": "ugly",
+            "phonetic": "ʌɡli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The game turned ugly in the final minutes, when two players were ejected for fighting.",
+                "She received an ugly haircut that she immediately regretted.",
+                "I can't believe tax day is already rearing its ugly head again.",
+                "He drew an ugly picture that didn't resemble anything recognizable.",
+                "The old, torn sweater she wore was ugly and outdated."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
+            "defineEn": "not pleasant to the mind or senses",
+            "defineVi": "không dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "236af8d2-1047-45ef-8618-ecb8f0ece6ac",
+            "word": "useful",
+            "phonetic": "juːsfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His help is useful as a chocolate teapot.",
+                "These experiments serve no useful purpose.",
+                "Thanks for the information, it was very useful.",
+                "It was time to see if Sam was just blowing smoke or if he actually had some useful information for us.",
+                "This umbrella is stuck inside out, so it's about as useful as a chocolate teapot right now."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXNlZnVs&hash=784f1517697d6923484edf77101e6ae620c32f3f&lang=en&cache-only=0",
+            "defineEn": "providing help when we want to get or do something",
+            "defineVi": "cung cấp trợ giúp khi chúng tôi muốn nhận hoặc làm điều gì đó",
+            "hasImg": true
+        }
+    ]
+}

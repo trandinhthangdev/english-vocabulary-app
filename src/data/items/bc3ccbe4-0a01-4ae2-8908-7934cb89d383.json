@@ -1,0 +1,611 @@
+{
+    "id": "bc3ccbe4-0a01-4ae2-8908-7934cb89d383",
+    "title": "Sweet Sauces, Pastes and Spreads",
+    "originalTitle": "Sweet Sauces, Pastes and Spreads",
+    "words": [
+        {
+            "id": "c3861c33-bc89-47bc-bfc1-7e2627afa7b6",
+            "word": "almond paste",
+            "phonetic": "ɔlmənd peɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWxtb25kIHBhc3Rl&hash=aa75dc7a7e069fa6fdc4e77f4bd7d47f48e1b820&lang=en&cache-only=0",
+            "defineEn": "a sweet mixture of ground almonds and sugar, used in baking for filling, flavoring, or topping desserts, pastries, and confections",
+            "defineVi": "một hỗn hợp ngọt của hạnh nhân nghiền và đường, được sử dụng trong nướng bánh để làm nhân, tạo hương vị hoặc phủ lên các món tráng miệng, bánh ngọt và bánh kẹo",
+            "hasImg": true
+        },
+        {
+            "id": "a0dc563a-cb63-43a1-be5d-78eb64a93d50",
+            "word": "peanut butter",
+            "phonetic": "piːnʌt bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children enjoy peanut butter on toast.",
+                "Peanut butter was the secret ingredient for his famous cookies.",
+                "They packed peanut butter and jam sandwiches for a picnic.",
+                "She had a sweet tooth craving, so she indulged in a peanut butter and jelly sandwich.",
+                "I toasted a slice of bread and spread peanut butter on it for breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVhbnV0IGJ1dHRlcg&hash=3bb282588ec97d84e0667e20af4ba299314f4875&lang=en&cache-only=0",
+            "defineEn": "the soft food or paste that is made from ground peanuts",
+            "defineVi": "thức ăn mềm hoặc bột nhão được làm từ đậu phộng xay",
+            "hasImg": true
+        },
+        {
+            "id": "3b871770-96b6-4ac2-b6a8-b91a05adcbbb",
+            "word": "cheese spread",
+            "phonetic": "tʃiːz spɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNlIHNwcmVhZA&hash=1c6a133e02df11bb017c17736996da7a7d373829&lang=en&cache-only=0",
+            "defineEn": "a creamy and spreadable cheese product",
+            "defineVi": "một sản phẩm phô mai kem và phết",
+            "hasImg": true
+        },
+        {
+            "id": "38bf6e92-8aef-4053-942f-ad0f056fd904",
+            "word": "butter",
+            "phonetic": "bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community.",
+                "As a vegan, she substituted almond butter for traditional dairy-based spreads.",
+                "The mobile phone business was actually his bread and butter.",
+                "I accidentally buttered both sides of the bread when making a sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVy&hash=b688b3f85d5ed92aabce633aa0c0172e4846bc9f&lang=en&cache-only=0",
+            "defineEn": "a soft, yellow food made from cream that we spread on bread or use in cooking",
+            "defineVi": "một loại thực phẩm mềm, màu vàng làm từ kem mà chúng ta phết lên bánh mì hoặc dùng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "c8aff1e0-43cd-458e-bcf9-3d6934f780f4",
+            "word": "honey",
+            "phonetic": "hʌni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We used honey as a natural sweetener in our homemade salad dressing.",
+                "I hear you, honey.",
+                "We used honey as a natural remedy for soothing a sore throat.",
+                "You've been awfully quiet tonight, honey.",
+                "Honey berries are perfect for making jams and preserves with their naturally sweet taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9uZXk&hash=d63d6aa9d44215682b5a048d5cebc9dd38248d34&lang=en&cache-only=0",
+            "defineEn": "a sweet, sticky substance produced by bees that is yellow or brown and is used as food",
+            "defineVi": "một chất ngọt, dính do ong tạo ra có màu vàng hoặc nâu và được dùng làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "8f437a8c-18ae-4f00-a804-62a482d92d14",
+            "word": "jam",
+            "phonetic": "dʒæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Huckleberry jam is a popular spread for toast and biscuits.",
+                "Do you want jam on it?",
+                "My grandmother makes the most amazing damson jam every summer.",
+                "My homemade star fruit jam was a hit among my family.",
+                "Fig jam is a popular spread that you can enjoy on bread or toast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=amFt&hash=bfa4af94d254e5a27806b8cbf740907e2fbfd61d&lang=en&cache-only=0",
+            "defineEn": "a thick, sweet substance made by boiling fruit with sugar, often sold in jars and eaten on bread",
+            "defineVi": "một chất đặc, ngọt được làm bằng cách đun sôi trái cây với đường, thường được bán trong lọ và ăn kèm với bánh mì",
+            "hasImg": true
+        },
+        {
+            "id": "ee3ba9cc-357d-4630-a3b2-dac0a5e11f8a",
+            "word": "jelly",
+            "phonetic": "dʒɛli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Muscat grape jelly on my morning toast was a delightful burst of sweetness.",
+                "Make lemonade jelly by dissolving agar-agar in lemon juice and sweetened water.",
+                "The vegetarian jelly was made using carrageen as a plant-based alternative.",
+                "The agar jelly shots were a hit at the party, with their vibrant colors and jiggly texture.",
+                "She had a sweet tooth craving, so she indulged in a peanut butter and jelly sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=amVsbHk&hash=67eaf31e5409be3ed3d3936c1536405664827a94&lang=en&cache-only=0",
+            "defineEn": "a type of food made of pieces of fruit that are boiled with sugar, which people put on bread",
+            "defineVi": "một loại thực phẩm làm từ những miếng trái cây đun sôi với đường, người ta cho vào bánh mì",
+            "hasImg": true
+        },
+        {
+            "id": "fdf8d143-70e6-4f25-a919-bd7a3fbed9a9",
+            "word": "apple butter",
+            "phonetic": "æpəl bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGUgYnV0dGVy&hash=8b9117dc92207efe50e827008cf5f21453002c6c&lang=en&cache-only=0",
+            "defineEn": "a smooth and concentrated spread made by cooking down apples with sugar and spices",
+            "defineVi": "một hỗn hợp mịn và cô đặc được làm bằng cách nấu chín táo với đường và gia vị",
+            "hasImg": true
+        },
+        {
+            "id": "0b343a93-ce65-4815-a7d9-80b119be59d0",
+            "word": "bean dip",
+            "phonetic": "biːn dɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmVhbiBkaXA&hash=2dfe9e059309edcdde694efa838b4350e41f4446&lang=en&cache-only=0",
+            "defineEn": "a flavorful and creamy spread or dip made from mashed beans, often seasoned with various herbs and spices",
+            "defineVi": "một loại phết hoặc nhúng có hương vị và kem được làm từ đậu nghiền, thường được nêm với nhiều loại thảo mộc và gia vị khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "a4205baa-4aa8-468c-bf39-8679c0298801",
+            "word": "coulis",
+            "phonetic": "kuːliz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y291bGlz&hash=822e0630a8ef55141d01d8aa32d87aae19f4cdd2&lang=en&cache-only=0",
+            "defineEn": "a thick pureed sauce made from fruits, vegetables, or herbs, used as a garnish or accompaniment for dishes",
+            "defineVi": "một loại nước sốt đặc làm từ trái cây, rau hoặc thảo mộc, được dùng để trang trí hoặc ăn kèm cho các món ăn",
+            "hasImg": true
+        },
+        {
+            "id": "4e41ffc6-135c-4c43-abc6-c351fceed799",
+            "word": "ganache",
+            "phonetic": "ɡænæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bakery introduced a new layered mousse cake with ganache and raspberry filling.",
+                "She satisfied her sweet craving with sliced strawberries drizzled in glossy ganache sauce.",
+                "My ganache's too wet.",
+                "You pour the ganache in fourths along the cake.",
+                "You make a really simple white chocolate ganache and then dyed it this really gorgeous blue color."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FuYWNoZQ&hash=2ebdb47e1129f69d55827142475318fe265178d0&lang=en&cache-only=0",
+            "defineEn": "a rich, smooth, and creamy mixture of chocolate and heavy cream, used as a glaze, filling, or icing in cakes, pastries, and desserts",
+            "defineVi": "một hỗn hợp giàu kem, mịn và béo ngậy của sô cô la và kem nặng, được sử dụng làm men, nhân hoặc đóng băng trong bánh ngọt, bánh ngọt và món tráng miệng",
+            "hasImg": true
+        },
+        {
+            "id": "7a38053e-6cdc-43e3-8c39-a6beccfd01f0",
+            "word": "fondant",
+            "phonetic": "fɑːndənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He surprised his partner with a basket of homemade sugar cookies decorated with rolled fondant.",
+                "She attended a baking class and learned the art of working with fondant.",
+                "He received a beautifully decorated cake, but the fondant decorations were inedible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9uZGFudA&hash=488c2eda8aa0a5e4d4c790389bb6ed51890687e6&lang=en&cache-only=0",
+            "defineEn": "a thick paste made from water and sugar that is usually flavored, colored and used for decorating cakes",
+            "defineVi": "một loại bột nhão làm từ nước và đường thường có hương vị, màu sắc và được sử dụng để trang trí bánh",
+            "hasImg": true
+        },
+        {
+            "id": "f8902984-cf64-437b-9286-28b3ba1a67c1",
+            "word": "maple syrup",
+            "phonetic": "meɪpəl sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A touch of maple extract in the pancake batter gives them a delightful maple syrup taste.",
+                "He bought pure maple syrup from a local farm.",
+                "He drizzled warm maple syrup over his stack of fluffy pancakes.",
+                "I always butter my pancakes before pouring maple syrup over them for a delicious breakfast treat.",
+                "I toasted a handful of rolled oats with maple syrup and spices to make a crunchy and sweet granola topping."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFwbGUgc3lydXA&hash=5cd659d31cd8e0c174f43bd97fa9a71da1f73d2a&lang=en&cache-only=0",
+            "defineEn": "a sweet sauce that is taken from the sap of the sugar maple, often served with pancakes",
+            "defineVi": "một loại nước sốt ngọt được lấy từ nhựa của cây phong đường, thường được dùng với bánh kếp",
+            "hasImg": true
+        },
+        {
+            "id": "d89571be-3b51-4596-8e7c-b194a0887fec",
+            "word": "syrup",
+            "phonetic": "sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He drizzled syrup over his waffles, creating a delicious breakfast.",
+                "He dipped his strawberries into a bowl of chocolate syrup.",
+                "Drizzling key lime syrup over pancakes or waffles gives them a delicious tropical twist.",
+                "A drizzle of sugar syrup over pancakes or waffles adds a delightful sweetness to breakfast.",
+                "She prepared a homemade fruit jam, using corn syrup as a natural sweetener and thickener for the preserves."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3lydXA&hash=4f9cd51364393e6f215596a0aa74d67647a54264&lang=en&cache-only=0",
+            "defineEn": "a thick sweet liquid made with sugar that is often used as a sauce",
+            "defineVi": "một chất lỏng ngọt dày được làm bằng đường thường được dùng làm nước sốt",
+            "hasImg": true
+        },
+        {
+            "id": "7f565a94-29f9-4cc5-80bc-f312683620bd",
+            "word": "golden syrup",
+            "phonetic": "ɡoʊldən sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29sZGVuIHN5cnVw&hash=bf3415dc4c49b5204f66016458278121cca8f5b7&lang=en&cache-only=0",
+            "defineEn": "a thick, amber-colored sweetener with a rich and buttery flavor",
+            "defineVi": "một chất làm ngọt dày, màu hổ phách với hương vị phong phú và bơ",
+            "hasImg": true
+        },
+        {
+            "id": "487502b3-c9b1-464f-8920-3dc1ea1b5747",
+            "word": "molasses",
+            "phonetic": "məlæsᵻz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9sYXNzZXM&hash=8994cccef201086f2c9e15531996a42709ff7f4e&lang=en&cache-only=0",
+            "defineEn": "a thick, dark syrup with a strong and distinctive flavor, produced during the process of refining sugar",
+            "defineVi": "một loại xi-rô đậm đặc, có hương vị mạnh và đặc biệt, được sản xuất trong quá trình tinh luyện đường",
+            "hasImg": true
+        },
+        {
+            "id": "970a6585-953d-4704-b6c6-0676e3ccbbe6",
+            "word": "treacle",
+            "phonetic": "tɹiːkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He poured a generous amount of treacle over his warm pancakes",
+                "Last week everything was easy and we were making good progress, but now it is like walking through treacle.",
+                "We used treacle as a glaze for our roasted ham, resulting in a deliciously caramelized and flavorful dish.",
+                "She decided to make a traditional British treacle tart, using golden syrup as the key ingredient in the sweet and sticky filling.",
+                "One of those days where you feel like you're running through treacle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJlYWNsZQ&hash=de08299bcf322239d6923e6f244226e08f9ae1c8&lang=en&cache-only=0",
+            "defineEn": "a thick, sweet, sticky liquid made from refined sugar, used in cooking",
+            "defineVi": "một chất lỏng đặc, ngọt, dính làm từ đường tinh luyện, được sử dụng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "0154ed02-a29a-48fa-8adc-d727fcf020f1",
+            "word": "corn syrup",
+            "phonetic": "kɔːɹn sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29ybiBzeXJ1cA&hash=1c1a147051b5ff9f6b220d4c78cd4a2233786ee7&lang=en&cache-only=0",
+            "defineEn": "a sweet, sticky liquid derived from cornstarch, commonly used as a sweetener and food ingredient",
+            "defineVi": "một chất lỏng ngọt, dính có nguồn gốc từ bột ngô, thường được sử dụng làm chất làm ngọt và thành phần thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "93ad8632-e302-41a1-a6af-31021ef44de0",
+            "word": "sugar syrup",
+            "phonetic": "ʃʊɡɚ sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VnYXIgc3lydXA&hash=b8e2f2ea5f2db2de9e51b787ec8ede4f1ee5187b&lang=en&cache-only=0",
+            "defineEn": "a sweet liquid made by dissolving sugar in water, commonly used as a sweetener",
+            "defineVi": "một chất lỏng ngọt được tạo ra bằng cách hòa tan đường trong nước, thường được sử dụng làm chất làm ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "ca3f201f-6504-4faf-ae85-8679b4f2179e",
+            "word": "chocolate syrup",
+            "phonetic": "tʃɑːklət sɪɹʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hvY29sYXRlIHN5cnVw&hash=5405803c0fa6bd4c3871fd70ab62f4619fa408a8&lang=en&cache-only=0",
+            "defineEn": "a thick and sweet liquid made from cocoa powder or chocolate, commonly used as a topping in various desserts",
+            "defineVi": "một chất lỏng đặc và ngọt làm từ bột ca cao hoặc sô cô la, thường được sử dụng làm lớp phủ trong các món tráng miệng khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "8e1a512d-122f-4319-9f90-b98e3cc22ead",
+            "word": "cream",
+            "phonetic": "kɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef drizzled cream over the warm apple pie.",
+                "Double cream adds indulgence to creamy pasta sauces.",
+                "Milk and cream should keep quite well in a fridge.",
+                "The hair styling cream included an emulsifier to combine the water and styling agents.",
+                "She prefers her coffee black, without any sugar or cream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYW0&hash=d629d211aca7ba7a423e51be63197b3f737c7f9a&lang=en&cache-only=0",
+            "defineEn": "the thick white or pale yellow fatty liquid that rises to the top of milk",
+            "defineVi": "chất lỏng béo đặc màu trắng hoặc vàng nhạt nổi lên trên cùng của sữa",
+            "hasImg": true
+        },
+        {
+            "id": "7c72d843-8d0e-4c68-8c84-f8c494397a7d",
+            "word": "custard",
+            "phonetic": "kʌstɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Vanilla custard is a popular choice for filling pastries and cream puffs.",
+                "When hosting a dinner party, I like to surprise my guests with a custard apple-infused cocktail.",
+                "I used mashed canistel to make a delightful custard for my homemade ice cream.",
+                "Cream puff in Japan is usually stuffed with custard cream and it's so delicious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VzdGFyZA&hash=7ca2646e6fb1681614c2aac1de232e62a8d4d0ea&lang=en&cache-only=0",
+            "defineEn": "a thick creamy sauce made with milk, eggs, sugar, flour or corn flour that is served hot on top of puddings, fruits, etc.",
+            "defineVi": "một loại nước sốt kem đặc làm từ sữa, trứng, đường, bột mì hoặc bột ngô dùng nóng trên bánh pudding, trái cây, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "e30fc0cd-ff39-4c2b-a52c-4cdac927e881",
+            "word": "hard sauce",
+            "phonetic": "hɑːɹd sɔːs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFyZCBzYXVjZQ&hash=6fec30c9e6f11ef46c0063eb70286c7802377226&lang=en&cache-only=0",
+            "defineEn": "a thick and sweet butter-based sauce often flavored with alcohol",
+            "defineVi": "nước sốt làm từ bơ đặc và ngọt thường có hương vị rượu",
+            "hasImg": true
+        },
+        {
+            "id": "dcaecb99-f472-475b-a934-13da2dbd56e5",
+            "word": "fudge",
+            "phonetic": "fʌdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I asked him to pour warm fudge over my vanilla ice cream.",
+                "They hosted a DIY dessert bar, providing guests with various toppings, including fudge.",
+                "What the fudge is happening right now?",
+                "And this is from Gabby from fudge perfection.",
+                "I don't even like fudge, little known thing about me, but these brownies are insane."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVkZ2U&hash=ff29e9727bee383610850631d96b9ef93bd02163&lang=en&cache-only=0",
+            "defineEn": "a soft and sweet confectionery made from sugar, butter, milk, and flavorings, often flavored and mixed with additional ingredients like nuts or chocolate",
+            "defineVi": "một loại bánh kẹo mềm và ngọt làm từ đường, bơ, sữa và hương liệu, thường được thêm hương vị và trộn với các thành phần bổ sung như các loại hạt hoặc sô cô la",
+            "hasImg": true
+        },
+        {
+            "id": "cfb3453f-d6d3-4040-869f-ab205ba859e5",
+            "word": "brandy butter",
+            "phonetic": "bɹændi bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJhbmR5IGJ1dHRlcg&hash=52581989fc36897e150639f0aa27a307c4820bde&lang=en&cache-only=0",
+            "defineEn": "a sweet spread made from butter, sugar, and brandy, often served as a topping or sauce for desserts, particularly during the holiday season",
+            "defineVi": "một loại phết ngọt làm từ bơ, đường và rượu mạnh, thường được dùng làm lớp phủ hoặc nước sốt cho món tráng miệng, đặc biệt là trong mùa lễ",
+            "hasImg": true
+        },
+        {
+            "id": "d2e689c4-69e2-408a-924a-eb425c370854",
+            "word": "butterscotch",
+            "phonetic": "bʌɾɚskɑːtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gifted a jar of homemade butterscotch sauce to his neighbor.",
+                "He stirred butterscotch chips into his pancake batter, resulting in a stack of fluffy and caramelized pancakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVyc2NvdGNo&hash=703fa5405a9e712f076c43fe6e19637b5a486796&lang=en&cache-only=0",
+            "defineEn": "a sauce or syrup made from brown sugar, butter, and flavorings, used as a topping or drizzle for desserts, ice cream, or pancakes",
+            "defineVi": "nước sốt hoặc xi-rô làm từ đường nâu, bơ và hương liệu, được sử dụng làm lớp phủ hoặc mưa phùn cho món tráng miệng, kem hoặc bánh kếp",
+            "hasImg": true
+        },
+        {
+            "id": "599c3713-5541-4b8c-a7f9-6561643b4db4",
+            "word": "caviar",
+            "phonetic": "kævɪɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was amazed by the high price tag on the caviar, realizing it was a luxury out of his reach.",
+                "They visited a seafood market and purchased a small tin of caviar.",
+                "She asked friends and family for recommendations on where to find affordable caviar.",
+                "It's caviar?",
+                "Those high prices earned bird nests the title \"Caviar of the East.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2F2aWFy&hash=617ec3a0d2f0724de16547fb8850f6ea15d9e9df&lang=en&cache-only=0",
+            "defineEn": "the preserved eggs of some fish, especially one called sturgeon, eaten as food, which is considered a very expensive dish",
+            "defineVi": "trứng được bảo quản của một số loài cá, đặc biệt là cá tầm, được dùng làm thực phẩm, được coi là một món ăn rất đắt tiền",
+            "hasImg": true
+        },
+        {
+            "id": "568cfbbd-5a38-443b-af8e-c63bc20a7ceb",
+            "word": "lemon curd",
+            "phonetic": "lɛmən kɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She imagined a sunny day at the beach, enjoying a scoop of lemon curd ice cream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVtb24gY3VyZA&hash=7cfdab2d7546e200e70c9f57686505b7969627fe&lang=en&cache-only=0",
+            "defineEn": "a tangy and creamy citrus spread made from lemon juice, eggs, sugar, and butter",
+            "defineVi": "phết cam quýt thơm và kem được làm từ nước cốt chanh, trứng, đường và bơ",
+            "hasImg": true
+        },
+        {
+            "id": "56ee5e01-dfe3-4564-8d73-69085ba10e4d",
+            "word": "marmalade",
+            "phonetic": "mɑːɹmɐleɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad spread a thick layer of orange marmalade on my morning toast.",
+                "I found a vendor who was selling exotic fruit marmalades.",
+                "My tangor marmalade turned out deliciously tangy and sweet.",
+                "My grandmother's homemade marmalade made from native oranges is a family favorite.",
+                "The Keiller family began making orange marmalade here in 1797, and it became famous all over the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFybWFsYWRl&hash=f09b4c1f6f334351031c9c9a5191b26d60fef6c0&lang=en&cache-only=0",
+            "defineEn": "a sweetened food made from cooked lemons, oranges, etc., eaten at breakfast",
+            "defineVi": "một loại thực phẩm ngọt làm từ chanh, cam, v.v. nấu chín, ăn vào bữa sáng",
+            "hasImg": true
+        },
+        {
+            "id": "d81c2d87-4ebe-49ae-9fd3-b426c1db6820",
+            "word": "Marmite",
+            "phonetic": "mɑːɹmaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mom made a delicious homemade Marmite spread.",
+                "She grew up with Marmite as a staple in her household."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWFybWl0ZQ&hash=72a7ea740972e4aefb4460a417ec9578f5c992c5&lang=en&cache-only=0",
+            "defineEn": "a dark brown, savory spread made from yeast extract, known for its strong and distinctive flavor, often used as a condiment or spread on bread or crackers",
+            "defineVi": "một loại phết mặn, màu nâu sẫm được làm từ chiết xuất men, được biết đến với hương vị đậm đà và đặc biệt, thường được dùng làm gia vị hoặc phết lên bánh mì hoặc bánh quy giòn",
+            "hasImg": true
+        },
+        {
+            "id": "af0e11eb-e88c-4fe3-9d52-df4f3215b3aa",
+            "word": "paste",
+            "phonetic": "peɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef used fish paste as a filling for his sushi rolls",
+                "Tomato paste is a staple ingredient for many recipes.",
+                "She discovered almond paste as a perfect substitute for cream cheese in her cheesecake recipe.",
+                "To work the mixture into a paste.",
+                "Work the mixture into a paste with your hands."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzdGU&hash=38b347008ff72a8b77210d5d4a15084d3a31f453&lang=en&cache-only=0",
+            "defineEn": "a soft mixture of meat, fruit, vegetables, etc. to be spread on bread or used in cooking other dishes",
+            "defineVi": "một hỗn hợp mềm của thịt, trái cây, rau, vv để phết lên bánh mì hoặc dùng để nấu các món ăn khác",
+            "hasImg": true
+        },
+        {
+            "id": "69b03803-1843-4ab9-95bc-d0a981fd72cf",
+            "word": "pate",
+            "phonetic": "pæteɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It looks just like a pâté at, like, a fine party.",
+                "The dough is called pate choux, and if you fry them, you can make churros.",
+                "Rice is mine, pâté is mine, pastry is mine.",
+                "The COUNTRY is famous for its bread, PASTRIES, pates and other DELICACIES.",
+                "I recently taught Ryan and Shane from Unsolved how to make pate choux."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0ZQ&hash=68cf8be3010957bc39b614be28c3deb11574eb4a&lang=en&cache-only=0",
+            "defineEn": "a paste made from finely chopped or ground meat, fish, or vegetables, mixed with spices and sometimes alcohol, served cold and often used as an appetize",
+            "defineVi": "một loại bột nhão làm từ thịt, cá hoặc rau thái nhỏ hoặc xay nhỏ, trộn với gia vị và đôi khi là rượu, được dùng lạnh và thường được sử dụng như một món khai vị",
+            "hasImg": true
+        },
+        {
+            "id": "08c66691-cd61-478a-a417-cd29b6cd5456",
+            "word": "Vegemite",
+            "phonetic": "vɛdʒɪmaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She introduced her friends to Vegemite sandwiches during a picnic.",
+                "He nostalgically recalled his childhood, reminiscing about his mom's homemade Vegemite and cheese scrolls.",
+                "The Vegemite is so bad.",
+                "You got to the Vegemite, though.",
+                "The Vegemite-- Vegemite is a mistake."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VmVnZW1pdGU&hash=cfef1a9035f82e1a4ddfbe763cca0753d0bceaaa&lang=en&cache-only=0",
+            "defineEn": "a salty yeast extract spread popular in Australia, used as a condiment or spread on bread or crackers",
+            "defineVi": "một chiết xuất men mặn phổ biến ở Úc, được sử dụng làm gia vị hoặc phết lên bánh mì hoặc bánh quy giòn",
+            "hasImg": true
+        },
+        {
+            "id": "390f5a8e-ed46-4bfc-8762-f773ba993f1c",
+            "word": "yeast extract",
+            "phonetic": "jiːst ɛkstɹækt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=eWVhc3QgZXh0cmFjdA&hash=948f8bcdc0b447f4ba006e74f06770feb8aae1cc&lang=en&cache-only=0",
+            "defineEn": "a concentrated savory ingredient made from yeast cells, used to add rich umami flavor to foods like soups, sauces, and spreads",
+            "defineVi": "một thành phần mặn đậm đặc được làm từ các tế bào nấm men, được sử dụng để thêm hương vị umami phong phú cho các món ăn như súp, nước sốt và phết",
+            "hasImg": true
+        },
+        {
+            "id": "a3337752-367f-465c-9dd6-7a142a4d15a2",
+            "word": "cheese dip",
+            "phonetic": "tʃiːz dɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNlIGRpcA&hash=47161ca0836c481c2e706fded1ac04bb8d0da0d8&lang=en&cache-only=0",
+            "defineEn": "a creamy and savory sauce made from melted cheese, often served as a condiment or appetizer",
+            "defineVi": "một loại nước sốt kem và mặn làm từ phô mai tan chảy, thường được dùng làm gia vị hoặc món khai vị",
+            "hasImg": true
+        },
+        {
+            "id": "30def55c-4f27-4817-8205-d9f40ac41207",
+            "word": "cheese fondue",
+            "phonetic": "tʃiːz fɑːnduː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNlIGZvbmR1ZQ&hash=854e26130c29ebe46eb91d31754fd7e6031d9ff1&lang=en&cache-only=0",
+            "defineEn": "a melted cheese dish often served as a communal appetizer or main course",
+            "defineVi": "một món phô mai tan chảy thường được phục vụ như một món khai vị chung hoặc món chính",
+            "hasImg": true
+        },
+        {
+            "id": "afd2e662-8b33-4c66-97b0-4c4a7cf9be7e",
+            "word": "icing",
+            "phonetic": "aɪsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The birthday cake was adorned with a personalized message written in blue icing.",
+                "The dinner was delicious, but the icing on the cake was when the chef sent out a complimentary dessert.",
+                "The icing on the cake are the sound effects.",
+                "You could put in icing, cheese whiz, your own chocolate, whatever you want.",
+                "The icing's coming down, but I don't see any water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWNpbmc&hash=22c0541a92f24980726e7196f8637a826993d73e&lang=en&cache-only=0",
+            "defineEn": "a mixing of sugar, water, egg and milk, used to decorate or cover cakes",
+            "defineVi": "hỗn hợp đường, nước, trứng và sữa, dùng để trang trí hoặc phủ bánh",
+            "hasImg": true
+        },
+        {
+            "id": "15d2c797-9cac-479d-a2cd-957a9c16bda9",
+            "word": "icing",
+            "phonetic": "fɹɔstɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The birthday cake was adorned with a personalized message written in blue icing.",
+                "The dinner was delicious, but the icing on the cake was when the chef sent out a complimentary dessert.",
+                "The icing on the cake are the sound effects.",
+                "You could put in icing, cheese whiz, your own chocolate, whatever you want.",
+                "The icing's coming down, but I don't see any water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWNpbmc&hash=22c0541a92f24980726e7196f8637a826993d73e&lang=en&cache-only=0",
+            "defineEn": "a mixing of sugar, water, egg and milk, used to decorate or cover cakes",
+            "defineVi": "hỗn hợp đường, nước, trứng và sữa, dùng để trang trí hoặc phủ bánh",
+            "hasImg": true
+        },
+        {
+            "id": "6d4dd7d7-8945-4fe1-b6dc-53cd99d7c988",
+            "word": "fruit curd",
+            "phonetic": "fɹuːt kɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXQgY3VyZA&hash=cd4822d0287fe3dc14286e44eb819a7bbd8e7b7b&lang=en&cache-only=0",
+            "defineEn": "a sweet and tangy spread made from fruit juice or puree, eggs, sugar, and butter, used as a topping, filling, or flavoring for desserts, pastries, and cakes",
+            "defineVi": "một loại phết ngọt và thơm được làm từ nước ép trái cây hoặc bột nhuyễn, trứng, đường và bơ, được sử dụng làm lớp phủ, nhân hoặc hương liệu cho món tráng miệng, bánh ngọt và bánh ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "ab926ba1-aef5-4984-936f-4fe0cf72e405",
+            "word": "tomato paste",
+            "phonetic": "təmeɪɾoʊ peɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9tYXRvIHBhc3Rl&hash=a6d8337f75c47632eb6394d3c9911ce2d64d2dbb&lang=en&cache-only=0",
+            "defineEn": "a soft and thick substance made from boiled tomatoes, used as a cooking ingredient",
+            "defineVi": "một chất mềm và đặc làm từ cà chua luộc, dùng làm nguyên liệu nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "41d81e72-dbd0-47cb-b536-7eddacfc9cd1",
+            "word": "anchovy paste",
+            "phonetic": "æntʃoʊvi peɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW5jaG92eSBwYXN0ZQ&hash=bfe65a1408a33f8993f489c705cfc15e137f1713&lang=en&cache-only=0",
+            "defineEn": "a concentrated, flavorful paste made from mashed anchovies (small, oily fish found in saltwater)",
+            "defineVi": "một loại bột nhão đậm đặc, có hương vị được làm từ cá cơm nghiền (loại cá nhỏ, nhiều dầu được tìm thấy ở nước mặn)",
+            "hasImg": true
+        },
+        {
+            "id": "26325d50-a6a9-4ea5-9e89-ae012a0ebeb2",
+            "word": "fishpaste",
+            "phonetic": "fɪʃpeɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmlzaHBhc3Rl&hash=991d43eff870981c5b7a2840f93eaf3725538e83&lang=en&cache-only=0",
+            "defineEn": "a smooth and spreadable mixture made from ground fish",
+            "defineVi": "một hỗn hợp mịn và có thể phết được làm từ cá xay",
+            "hasImg": true
+        },
+        {
+            "id": "38fc9079-1ac5-4327-a9d7-4b2d6ba16d3e",
+            "word": "tahini",
+            "phonetic": "tæhiːni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As a vegan, she often used tahini as a substitute for butter or cream in her recipes.",
+                "He loved making his own tahini at home by toasting sesame seeds and grinding them into a smooth paste.",
+                "They ground sesame seeds into a paste and used it as a base for making tahini sauce.",
+                "My favorite is kinda like the classic hummus with tahini, which we're doing today, but my rule of thumb is everything goes good on hummus.",
+                "When you sit down in an Arab restaurant in Israel, you typically get plates of hummus and then you get plates of Moroccan carrot salad and pickled cauliflower and tabouleh and baba ghanoush and tahini and maybe some grated tomato and extra virgin olive oil and a little sea salt and spicy peppers, and then you get all this pita, and then that's kinda the way your meal starts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFoaW5p&hash=a32a252d16fae1b22b864951374aa234b1316022&lang=en&cache-only=0",
+            "defineEn": "a creamy paste made from ground sesame seeds, commonly used in Middle Eastern cuisine",
+            "defineVi": "một loại kem làm từ hạt vừng xay, thường được sử dụng trong ẩm thực Trung Đông",
+            "hasImg": true
+        }
+    ]
+}

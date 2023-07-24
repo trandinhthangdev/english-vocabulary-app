@@ -1,0 +1,834 @@
+{
+    "id": "61bd456e-0154-4ed5-ba97-210071213f67",
+    "title": "Unit 2",
+    "originalTitle": "Unit 2",
+    "words": [
+        {
+            "id": "5155e90b-17cb-4288-86c0-9b54b20c118d",
+            "word": "amazing",
+            "phonetic": "ɐmeɪzɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The paneer curry smells amazing!",
+                "It’s amazing.",
+                "My mom is an amazing cook.",
+                "It is amazing really.",
+                "That's amazing Ralph. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1hemluZw&hash=3c876f797e98a952b73e8f7848fdd2573cbb486c&lang=en&cache-only=0",
+            "defineEn": "extremely surprising, particularly in a good way",
+            "defineVi": "cực kỳ ngạc nhiên, đặc biệt là trong một cách tốt",
+            "hasImg": true
+        },
+        {
+            "id": "ad314730-04a1-4ddd-ba06-5c1a798c2672",
+            "word": "architect",
+            "phonetic": "ɑːɹkɪtɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Engineers collaborate with architects to turn design concepts into reality.",
+                "The completion of the landmark building was the architect's crowning glory, showcasing their visionary design and construction skills.",
+                "When the architect designed the building, the contractor followed the plans, recognizing that every man to his trade and he was not qualified to make design decisions.",
+                "The going rate for a skilled architect in India is about $50,000 per year.",
+                "The entrepreneur knew that every man is the architect of his own fortune when he started his own business."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJjaGl0ZWN0&hash=f2ac57be572d4a9276121a729cb9e6d546226196&lang=en&cache-only=0",
+            "defineEn": "a person whose job is designing buildings and typically supervising their construction",
+            "defineVi": "một người có công việc là thiết kế các tòa nhà và thường giám sát việc xây dựng của họ",
+            "hasImg": true
+        },
+        {
+            "id": "03727f97-5075-41aa-ad33-8735eb50efd7",
+            "word": "awful",
+            "phonetic": "ɔːfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She said an awful lot",
+                "The incident says an awful lot about his character.",
+                "It's awful having a boss who breathes down your neck all the time.",
+                "I told you that you'd feel awful if you drank that much wine.",
+                "He couldn't help but grimace when he saw the awful outfit his friend was wearing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXdmdWw&hash=6092cf52adeda1cf92ec233a8a5595b62077a840&lang=en&cache-only=0",
+            "defineEn": "extremely unpleasant, bad, or disagreeable",
+            "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "a24bccfe-7c1d-4c9e-b000-0078fcf0db3d",
+            "word": "beautiful",
+            "phonetic": "bjuːɾifəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The purple flowers in the vase were beautiful.",
+                "My mom planted beautiful flowers in the front yard.",
+                "It's beautiful!",
+                "The train traveled through beautiful countryside.",
+                "The vibrant purple color of whinberries adds a beautiful touch to desserts like cheesecakes and tarts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhdXRpZnVs&hash=31230419dcdf7c3ceb4454c2419b954eaee422e9&lang=en&cache-only=0",
+            "defineEn": "extremely pleasing to the mind or senses",
+            "defineVi": "cực kỳ dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "4ac3b396-ae46-4b45-bbdf-7b1d0dd239ea",
+            "word": "building",
+            "phonetic": "bɪldɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The school building has a playground for the students.",
+                "The workers construct the building from the ground up.",
+                "The tall building stands out among the other structures in the city.",
+                "The monastery was several three-storey buildings.",
+                "The truck carried a load of construction materials to the building site."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVpbGRpbmc&hash=963fbf1fc2753dd180763a21b78ec467a4dc62dc&lang=en&cache-only=0",
+            "defineEn": "a structure that has walls, a roof, and sometimes many levels, like an apartment, house, school, etc.",
+            "defineVi": "một cấu trúc có tường, mái nhà và đôi khi có nhiều tầng, như căn hộ, nhà ở, trường học, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "0107cd22-fd2c-4a6b-a3cf-c0674a854731",
+            "word": "city",
+            "phonetic": "sɪɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The city has put the brakes on further spending.",
+                "The band are playing 11 cities around the country.",
+                "The company are playing 11 cities around the country.",
+                "The book paints a vivid picture of life in the city.",
+                "The city of Paris lies on the banks of the Seine River."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2l0eQ&hash=a356ce3002eac7171f94f7cd560875bd4e138f5c&lang=en&cache-only=0",
+            "defineEn": "a larger and more populated town",
+            "defineVi": "một thị trấn lớn hơn và đông dân cư hơn",
+            "hasImg": true
+        },
+        {
+            "id": "4e1a77c8-ec30-4e52-95a7-dcddd93c7ccc",
+            "word": "country",
+            "phonetic": "kʌntɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The country celebrated its independence with a grand parade and fireworks.",
+                "At one stroke, the country lost two outstanding leaders.",
+                "The country is holding its first free elections for 20 years.",
+                "Men still hold most positions of power in this country.",
+                "The country was at a low ebb due to the recent war"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y291bnRyeQ&hash=3232849aafcf17b407d54c8e2e043b989354cc1a&lang=en&cache-only=0",
+            "defineEn": "a piece of land with a government of its own, official borders, laws, etc.",
+            "defineVi": "một mảnh đất với một chính phủ của riêng mình, biên giới chính thức, pháp luật, vv",
+            "hasImg": true
+        },
+        {
+            "id": "1acd0fb3-ef95-406a-8974-9f70db5b9910",
+            "word": "doctor",
+            "phonetic": "dɑːktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Doctors couldn't stop the bleeding.",
+                "The doctor examined her neck for any signs of injury.",
+                "Somebody get a doctor!",
+                "The doctor will see you now.",
+                "The doctor used a small flashlight to examine her eyes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9jdG9y&hash=ca73dffd3b050170c1d206340314db5c1ca41ee5&lang=en&cache-only=0",
+            "defineEn": "someone who has studied medicine and treats sick or injured people",
+            "defineVi": "một người đã nghiên cứu y học và điều trị những người bị bệnh hoặc bị thương",
+            "hasImg": true
+        },
+        {
+            "id": "a12a9b6a-75a9-451e-9a05-0ddfc73b431e",
+            "word": "fantastic",
+            "phonetic": "fæntæstɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Danish Blue cheese is fantastic in vegetarian dishes.",
+                "The vibrant hue of damson makes it a fantastic ingredient for homemade fruit popsicles.",
+                "Take time by the forelock and accept that fantastic internship!",
+                "She told me that yeast extract is a fantastic seasoning substitute for reducing sodium in my meals.",
+                "All my friends agree that Gruyère is a fantastic melting cheese."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFudGFzdGlj&hash=c21fbcdbe849406058430c1324b7ff7268d8d678&lang=en&cache-only=0",
+            "defineEn": "extremely amazing and great",
+            "defineVi": "cực kỳ tuyệt vời và tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "8c18db29-e9c0-4afb-9a28-ea513282de3e",
+            "word": "favorite",
+            "phonetic": "feɪvɚɹᵻt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My sister's famous sweet cherry jam is a family favorite.",
+                "My son's favorite animal is the lion.",
+                "The little boy's favorite toy was a blue car.",
+                "What is your favorite color?",
+                "Our mascarpone cheesecake is a customer favorite"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF2b3JpdGU&hash=ac6262f9f3ee51356f23354e2d148264ed0e9367&lang=en&cache-only=0",
+            "defineEn": "someone or something that one likes more among others of the same kind",
+            "defineVi": "một ai đó hoặc một cái gì đó mà người ta thích hơn trong số những người khác cùng loại"
+        },
+        {
+            "id": "06c50b7a-6a65-4220-814c-c8b612d29d85",
+            "word": "great",
+            "phonetic": "ɡɹeɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Your presentation sounded great, honestly.",
+                "The finance minister's fall from grace gave his enemies great satisfaction.",
+                "To show great courage.",
+                "The pope himself had taken great umbrage at the book.",
+                "The baby has brought them great joy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JlYXQ&hash=a889bca53e758b8e988a95aa55f2edec16643e26&lang=en&cache-only=0",
+            "defineEn": "worthy of being approved or admired",
+            "defineVi": "xứng đáng được chấp thuận hoặc ngưỡng mộ",
+            "hasImg": true
+        },
+        {
+            "id": "c2ed1ad6-fb09-4431-913c-1736cdbe648e",
+            "word": "hamburger",
+            "phonetic": "hæmbɜːɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They grilled hamburgers and hot dogs for a casual summer dinner.",
+                "He savored a classic hamburger with cheese, lettuce, and tomato.",
+                "John: Here's your hamburger.",
+                "The restaurant offered a specialty hamburger steak dish.",
+                "They gathered around the picnic table, passing around a bottle of barbecue sauce to enhance the flavor of their hamburgers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFtYnVyZ2Vy&hash=99f627f14786b95a5a0dd5c63fd510b97932cd69&lang=en&cache-only=0",
+            "defineEn": "a sandwich consisting of a cooked patty made from ground beef, served between two buns",
+            "defineVi": "một chiếc bánh sandwich bao gồm một miếng thịt nấu chín làm từ thịt bò xay, được phục vụ giữa hai chiếc bánh",
+            "hasImg": true
+        },
+        {
+            "id": "b9f9746f-fdbd-4e2b-87c5-dbe0a7306937",
+            "word": "hospital",
+            "phonetic": "hɑːspɪɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The helicopter transported the injured person to the hospital.",
+                "He later died in hospital.",
+                "The hospital's plea for donors tugged at the heartstrings of millions of viewers.",
+                "While in hospital, Jeremy took stock of his life.",
+                "I have to go to hospital for an operation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9zcGl0YWw&hash=1f0cfb41031280ce1afe4c48a555e1bda9cec0bf&lang=en&cache-only=0",
+            "defineEn": "a large building where sick or injured people receive medical treatment and care",
+            "defineVi": "một tòa nhà lớn nơi những người bị bệnh hoặc bị thương được điều trị và chăm sóc y tế",
+            "hasImg": true
+        },
+        {
+            "id": "90fee726-361e-4503-b062-cb82e7ffc5e6",
+            "word": "map",
+            "phonetic": "mæp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The map shows the principal towns and rivers.",
+                "The explosion wiped the island off the map.",
+                "I used a map to navigate my way through the city.",
+                "He studied the map to plan the best route for his road trip.",
+                "She unfolded the map to find the location of the tourist attractions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFw&hash=6224d4b0322a533956ca398101e401b2c8ee39c6&lang=en&cache-only=0",
+            "defineEn": "an image that shows where things like countries, seas, cities, roads, etc. are in an area",
+            "defineVi": "một hình ảnh cho biết vị trí của những thứ như quốc gia, biển, thành phố, đường xá, v.v. trong một khu vực",
+            "hasImg": true
+        },
+        {
+            "id": "1bf924af-27c6-4895-a7ba-66f73b5bf889",
+            "word": "married",
+            "phonetic": "mæɹid ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My parents are married and have been together for a long time.",
+                "They have built a life together as a married couple, sharing responsibilities and dreams.",
+                "I can't believe John is in bed with his married coworker!",
+                "After years of dating, they finally decided to tie the knot and start their journey as a married couple.",
+                "Like most married couples we've had our ups and downs, but life's like that."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFycmllZA&hash=088ccb5d3d6530da549e6c3b95fd45d2ced17f48&lang=en&cache-only=0",
+            "defineEn": "having a wife or husband",
+            "defineVi": "có vợ hoặc chồng",
+            "hasImg": true
+        },
+        {
+            "id": "c2699e9a-a838-49ad-8ce3-0a8ccb5bb8f9",
+            "word": "office",
+            "phonetic": "ɑːfɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The new president takes office in January.",
+                "This room would make a nice office.",
+                "The keys are kept in my office.",
+                "The Mayor left office in 2018.",
+                "Go to the principal's office, now!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2ZmaWNl&hash=59c7b1417abf0aea78637505feb01e61dd3505fd&lang=en&cache-only=0",
+            "defineEn": "a building, a room, or a place where people work, particularly behind a desk",
+            "defineVi": "tòa nhà, phòng hoặc nơi mọi người làm việc, đặc biệt là sau bàn làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "d40f9140-0d78-44de-b7b1-f57e8e420965",
+            "word": "view",
+            "phonetic": "vjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They exchanged views on every subject under the sun.",
+                "He holds strange views on education.",
+                "The course gives you a bird's eye view of European art history.",
+                "He takes the view that children are responsible for their own actions.",
+                "Being assigned to the General Secretariat provided a worm's-eye view of international diplomacy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
+            "defineEn": "a place or an area that can be seen, and is usually beautiful",
+            "defineVi": "một nơi hoặc một khu vực có thể được nhìn thấy, và thường là đẹp",
+            "hasImg": true
+        },
+        {
+            "id": "43485d4e-720c-4403-9fd3-fa420f7f724e",
+            "word": "weather",
+            "phonetic": "wɛðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bad weather brought chaos to the utility companies.",
+                "The weather was disagreeably hot.",
+                "The weather turned quite chilly in the afternoon.",
+                "The bad weather brought famine.",
+                "Good afternoon, the weather is perfect for a walk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VhdGhlcg&hash=b4a232573064706369e26c1ce65ccbda4f901d57&lang=en&cache-only=0",
+            "defineEn": "the temperature and other atmospheric conditions such as sunshine, rain, wind, etc.",
+            "defineVi": "nhiệt độ và các điều kiện khí quyển khác như nắng, mưa, gió, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d6084bcc-57c2-4f60-a066-6ff7de7d95e3",
+            "word": "where",
+            "phonetic": "wɛɹ ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Where do you keep the scissors?",
+                "Where did you get that skirt?",
+                "Where did you buy that dress?",
+                "Where do you live?",
+                "\"Where have you been?\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2hlcmU&hash=0f0db838bb23bfa1a59597fdc0a1e6772469aa0a&lang=en&cache-only=0",
+            "defineEn": "to or in what place, situation, or position",
+            "defineVi": "đến hoặc ở nơi nào, tình huống hoặc vị trí",
+            "hasImg": true
+        },
+        {
+            "id": "89c717e5-4b7f-4804-9d9d-945fb04a7aa6",
+            "word": "world",
+            "phonetic": "wɜːld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Intellectually, this man and I are worlds apart.",
+                "Her children mean the world to her.",
+                "The department led the world in cancer research.",
+                "The novel is worlds apart from his academic writings.",
+                "She had broken the world 100 meters record."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ybGQ&hash=5b1f3cf11604e7bd5e62a79fb9d1a687eda34ef7&lang=en&cache-only=0",
+            "defineEn": "the planet Earth, where we all live",
+            "defineVi": "hành tinh Trái đất, nơi tất cả chúng ta sống",
+            "hasImg": true
+        },
+        {
+            "id": "c50446af-cf4b-4702-abe5-5b68785b30c0",
+            "word": "Argentina",
+            "phonetic": "ɑːɹdʒəntiːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In Argentina, giants like Petagotitan, the biggest dinosaur on record, turned up around 100 million years ago.",
+                "Argentina, Austria, Brazil, Cuba, Ecuador, and Nicaragua all allow voting at 16.",
+                "Argentina has already led the region in other instances of expansion of civil liberties and legal rights.",
+                "- Vaseline is a-- - Argentina.",
+                "Argentina may still be possible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QXJnZW50aW5h&hash=2fd372fbf27fdd0d5628a5671a2c127b66f78ed8&lang=en&cache-only=0",
+            "defineEn": "a country that is in the southern part of South America",
+            "defineVi": "một quốc gia nằm ở phía nam của Nam Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "b9d352c9-32cc-4915-a299-9909680e0587",
+            "word": "Australia",
+            "phonetic": "ɔːstɹeɪliə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Australia is the only continent that is also a country.",
+                "Carefully, in harness with the captain, he carried Australia to victory.",
+                "Sue, our beloved daughter, is leaving the country to live in Australia.",
+                "He had the opportunity to learn English in Australia.",
+                "The kangaroo is a unique animal found in Australia known for its ability to hop."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QXVzdHJhbGlh&hash=5caa7a3d9ac447dc0bb85541e44a12415646ddfb&lang=en&cache-only=0",
+            "defineEn": "a large island country in Southwest Pacific Ocean, known for its unique wildlife such as kangaroos",
+            "defineVi": "một quốc đảo lớn ở Tây Nam Thái Bình Dương, được biết đến với động vật hoang dã độc đáo như chuột túi",
+            "hasImg": true
+        },
+        {
+            "id": "a565b4af-e2f4-470a-a985-a58df802f00b",
+            "word": "Brazil",
+            "phonetic": "bɹɐzɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Did you see that programme on Brazil last night?",
+                "He enjoyed a handful of Brazil nuts as a nutritious snack during his hiking adventure.",
+                "Brazil is going all out to protect its markets.",
+                "My grandmother shared stories of her childhood, reminiscing about the Brazil nut tree that grew in her backyard.",
+                "No president ignored Brazil."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QnJhemls&hash=688200e32aae91f43d801c1501091df546bd6cf8&lang=en&cache-only=0",
+            "defineEn": "the largest country in both South America and Latin America",
+            "defineVi": "quốc gia lớn nhất ở cả Nam Mỹ và Mỹ Latinh",
+            "hasImg": true
+        },
+        {
+            "id": "0204aecf-907a-423d-97e3-bcb2ca1cda23",
+            "word": "Canada",
+            "phonetic": "kænədə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Canada celebrates its national day, Canada Day, on July 1st.",
+                "Canada is located to the north of the United States.",
+                "Ice hockey is a beloved sport in Canada.",
+                "Canada is a vast country known for its stunning landscapes and friendly people.",
+                "Canada may follow the EU’s example by banning these products."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Q2FuYWRh&hash=8cf8c535ea26ebeb3c191f4497e7d2ceb9342536&lang=en&cache-only=0",
+            "defineEn": "the second largest country in the world that is in the northern part of North America",
+            "defineVi": "quốc gia lớn thứ hai trên thế giới nằm ở phía bắc của Bắc Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "265168a3-2b59-4fe7-9ba0-3f5ad74e5d3a",
+            "word": "China",
+            "phonetic": "tʃaɪnə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Great Wall of China is a famous landmark in Asia.",
+                "Asian countries like China, Japan, and South Korea are known for their advancements in technology.",
+                "But they certainly view China as a threat of such dimensions that their minds boggle.",
+                "It's all Lombard Street to a China orange.",
+                "Understanding this complex legal document is Lombard Street to a China orange for most people."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Q2hpbmE&hash=0390691b4b8204c8cfe511502ebf74284ac2f662&lang=en&cache-only=0",
+            "defineEn": "the biggest country in East Asia",
+            "defineVi": "quốc gia lớn nhất Đông Á",
+            "hasImg": true
+        },
+        {
+            "id": "08e9274f-cf90-41e3-a45d-7909619ddf0e",
+            "word": "Egypt",
+            "phonetic": "iːdʒɪpt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I came from Egypt. ",
+                "But after the Arab Spring uprisings in 2011, tourism in Egypt crashed.",
+                "Egypt was the Arab Spring's zenith.",
+                "Tonight, the people of Egypt have toppled their leader.",
+                "The mystery cult of Isis was popular well beyond Egypt, into Roman times."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RWd5cHQ&hash=9b983eceebac048364bbabd31e7c0f93f4f82d48&lang=en&cache-only=0",
+            "defineEn": "a country on the continent of Africa with a rich history, famous for its pyramids, temples, and pharaohs",
+            "defineVi": "một quốc gia trên lục địa châu Phi có lịch sử phong phú, nổi tiếng với các kim tự tháp, đền thờ và pharaoh",
+            "hasImg": true
+        },
+        {
+            "id": "0b3b3aaa-3506-4434-9be6-93dd62e6e75e",
+            "word": "England",
+            "phonetic": "ɪŋɡlənd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He ate for England that day.",
+                "When they went out for a meal, they talked for England.",
+                "Until three years ago, I could have slept for England.",
+                "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+                "England failed to take their chances and had to settle for a draw."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RW5nbGFuZA&hash=1074b251ece042d89161422694d5150e2a601b77&lang=en&cache-only=0",
+            "defineEn": "the largest country in the United Kingdom, located in Western Europe",
+            "defineVi": "quốc gia lớn nhất ở Vương quốc Anh, nằm ở Tây Âu",
+            "hasImg": true
+        },
+        {
+            "id": "5056327d-585c-4665-a51a-478f46406a93",
+            "word": "France",
+            "phonetic": "fɹæns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What is the capital of France?",
+                "She wrote to him in France.",
+                "France is known for its rich history and cultural heritage.",
+                "France held its breath while the Senate chose its new president.",
+                "France are playing against Wales on Saturday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RnJhbmNl&hash=6260663d6f6ffa8bd02b30698da99862b44b110c&lang=en&cache-only=0",
+            "defineEn": "a country in Europe known for its famous landmarks such as the Eiffel Tower",
+            "defineVi": "một quốc gia ở châu Âu được biết đến với các địa danh nổi tiếng như tháp Eiffel",
+            "hasImg": true
+        },
+        {
+            "id": "92e5d6f3-35f5-41df-b282-3d8e41334a6b",
+            "word": "Italy",
+            "phonetic": "ɪɾəli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her childhood was spent in Italy.",
+                "Italy is famous for its delicious cuisine, such as pasta, pizza, and gelato.",
+                "They've given him a holiday in Italy.",
+                "Italy's Mediterranean climate and diverse geography offer a wide range of outdoor activities",
+                "Milan, in northern Italy, is known for its fashion and design industry."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SXRhbHk&hash=11fade54151c70f70ba5051e461acd523fbc7157&lang=en&cache-only=0",
+            "defineEn": "a country in southern Europe, with a long Mediterranean coastline",
+            "defineVi": "một quốc gia ở phía nam châu Âu, với bờ biển Địa Trung Hải dài",
+            "hasImg": true
+        },
+        {
+            "id": "f5012d01-bf0d-4321-bec6-2e806d3a0b51",
+            "word": "Japan",
+            "phonetic": "dʒəpæn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Japan is a country in Asia famous for its technology, anime, and cherry blossoms.",
+                "He paid a visit to Japan last year.",
+                "In Japan a European stands out like a sore thumb.",
+                "Asian countries like China, Japan, and South Korea are known for their advancements in technology.",
+                "Changes began during Japan's doldrums when the government tried to revive growth by steadily deregulating sections of the economy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SmFwYW4&hash=f7097a44a0ce072161a0894f5e2050e4b075dbeb&lang=en&cache-only=0",
+            "defineEn": "a country that is in East Asia and made up of many islands",
+            "defineVi": "một quốc gia ở Đông Á và được tạo thành từ nhiều hòn đảo",
+            "hasImg": true
+        },
+        {
+            "id": "5f6c96fd-3d5b-49bd-afd4-a106c3b84db2",
+            "word": "Russia",
+            "phonetic": "ɹʌʃə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Turkey treads a tightrope in its approach to Russia.",
+                "Russia, he said, had reached the point of no return on the road to reform and had to go forward.",
+                "As Asmus shows, even the German government remained in two minds as to the benefits of no longer being on the frontline and the drawbacks of alienating Russia.",
+                "His family immigrated from Russia.",
+                "\"Take care of Russia.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=UnVzc2lh&hash=232abaa5daf8932effca85e58acfa2d9461c21f3&lang=en&cache-only=0",
+            "defineEn": "a country located in Eastern Europe and Northern Asia",
+            "defineVi": "một quốc gia nằm ở Đông Âu và Bắc Á",
+            "hasImg": true
+        },
+        {
+            "id": "ce97c670-c10d-4241-9cf8-da689dff9f8e",
+            "word": "Scotland",
+            "phonetic": "skɑːtlənd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We took the night train to Scotland.",
+                "The novel follows the fortunes of a village community in Scotland.",
+                "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+                "The company's moving to Scotland.",
+                "The British flag, known as the Union Jack, is a combination of the flags of England, Scotland, and Northern Ireland."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U2NvdGxhbmQ&hash=92fa8ac0f9f713749ea880a07125665e81017036&lang=en&cache-only=0",
+            "defineEn": "a European country in the northern United Kingdom",
+            "defineVi": "một quốc gia châu Âu ở phía bắc Vương quốc Anh",
+            "hasImg": true
+        },
+        {
+            "id": "40b2aa6a-f2f8-4ae8-a1b1-fd53db027e27",
+            "word": "Spain",
+            "phonetic": "speɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I've never been to Spain.",
+                "Real Madrid and FC Barcelona are two popular football teams from Spain.",
+                "Madrid, the capital city of Spain, is famous for its lively nightlife and art scene.",
+                "These birds head for France or Spain but sometimes overshoot the mark and end up in English gardens.",
+                "We met on a course in Spain and had a wonderful time together."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U3BhaW4&hash=795f0a5e50a35b47d1f8ba7448ced0fdb90cd274&lang=en&cache-only=0",
+            "defineEn": "a country in southwest Europe",
+            "defineVi": "một quốc gia ở tây nam châu Âu",
+            "hasImg": true
+        },
+        {
+            "id": "c469dce8-e44f-4694-8743-807901e5c57a",
+            "word": "UK",
+            "phonetic": "juːkeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "95 per cent of the UK can now get superfast broadband.",
+                "The firm has captured the lion’s share of the UK market.",
+                "They follow their March show with four UK dates next month.",
+                "According to a 2018 study from the UK's Post Office, UK families spend an average of $980 on top of the price of their all-inclusive.",
+                "The UK has one of the most robust fintech ecosystems in the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VUs&hash=e4a12a8d355e5e6a684ec7274ed9f2ef618f0614&lang=en&cache-only=0",
+            "defineEn": "a country located in the northwest of Europe that includes England, Wales, Northern Ireland, and Scotland",
+            "defineVi": "một quốc gia nằm ở phía tây bắc châu Âu bao gồm Anh, xứ Wales, Bắc Ireland và Scotland",
+            "hasImg": true
+        },
+        {
+            "id": "e5e8f8fa-cad2-4f31-b15c-5acc35e9c84c",
+            "word": "United States",
+            "phonetic": "juːnaɪɾᵻd steɪts ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The United States celebrates Independence Day on July 4th.",
+                "The United States is a country located in North America.",
+                "American football is a popular sport in the United States.",
+                "New York City is located on the east coast of the United States.",
+                "Mexico is located to the south of the United States."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VW5pdGVkIFN0YXRlcw&hash=26ac189f885603220569b916fa88b6ac2d93ca23&lang=en&cache-only=0",
+            "defineEn": "a country in North America consisting of 50 states",
+            "defineVi": "một quốc gia ở Bắc Mỹ bao gồm 50 tiểu bang",
+            "hasImg": true
+        },
+        {
+            "id": "9fb77d7d-3c46-420f-997e-482df4e939d9",
+            "word": "eleven",
+            "phonetic": "ᵻlɛvən ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The clock struck eleven times, signaling the start of the event.",
+                "My little son knows that eleven is one more than ten.",
+                "Whenever our parents' fighting got up to eleven, my sister and I made ourselves scarce.",
+                "Some of the best nights we had when we were teenagers were spent just driving aimlessly, cranking the car stereo up to eleven.",
+                "My resume says five eleven."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxldmVu&hash=e9085da4016d96b0b0e8885755ea11d3f61f759f&lang=en&cache-only=0",
+            "defineEn": "the number 11; the number of players on a soccer team",
+            "defineVi": "số 11; số lượng cầu thủ trong một đội bóng đá",
+            "hasImg": true
+        },
+        {
+            "id": "c1e60220-7419-41a6-a5c8-0190916306fd",
+            "word": "twelve",
+            "phonetic": "twɛlv ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "My son reads twelve pages of his book every day.",
+                "There are twelve hours on a standard clock.",
+                "The year is divided into twelve months, with each month having its own unique characteristics.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "Twelve is dodec-."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlbHZl&hash=87a8fde5dbe18d75212c539bc78e23689aa374ee&lang=en&cache-only=0",
+            "defineEn": "the number 12; the number of months in a year",
+            "defineVi": "số 12; số tháng trong một năm",
+            "hasImg": true
+        },
+        {
+            "id": "0bc7e565-de60-4601-a952-a290bc6a7c9b",
+            "word": "thirteen",
+            "phonetic": "θɜːtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Thirteen is a prime number.",
+                "I have thirteen stamps in my collection.",
+                "She's only thirteen and she already smokes like a chimney.",
+                "Despite thirteen years in the job, she has not lost her touch.",
+                "Hank has thirteen hundred."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpcnRlZW4&hash=75d1485dec8b7ac1b7fe12315b3066c3d805dfc9&lang=en&cache-only=0",
+            "defineEn": "the number 13; the number of weeks in a season",
+            "defineVi": "con số 13; số tuần trong một mùa",
+            "hasImg": true
+        },
+        {
+            "id": "61b4f15d-658a-4cbf-9a02-7b0a82d697c2",
+            "word": "fourteen",
+            "phonetic": "foːɹtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "There are fourteen chapters in the novel I'm reading.",
+                "She was born fourteen years ago, and there are now fourteen candles on her birthday cake.",
+                "She was born fourteen years ago, and there are now fourteen candles on her birthday cake.",
+                "Fourteen is tetradec-.",
+                "When will you turn fourteen?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm91cnRlZW4&hash=5ce69b057082d821ecf9d0d639dd031bfaa45251&lang=en&cache-only=0",
+            "defineEn": "the number 14; the number of days in two weeks",
+            "defineVi": "số 14; số ngày trong hai tuần",
+            "hasImg": true
+        },
+        {
+            "id": "aaac0da9-ca65-4308-b90d-6f4486f043e7",
+            "word": "fifteen",
+            "phonetic": "fɪftiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "There are fifteen students in our class.",
+                "Mr. Russell served as president of the Association for fifteen years.",
+                "He was fifteen, and his voice was just beginning to break.",
+                "I turned fifteen years old last week, and I celebrated my birthday with my friends.",
+                "\"Fifteen dollars,\" the owner answered."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlmdGVlbg&hash=21372cb58354a3e08ccf4302944426210ac8b86f&lang=en&cache-only=0",
+            "defineEn": "the number 15; the number of fingers in three hands",
+            "defineVi": "số 15; số ngón tay trong ba bàn tay",
+            "hasImg": true
+        },
+        {
+            "id": "6a86ec56-94dd-4dc4-aae3-6288e9e0d973",
+            "word": "sixteen",
+            "phonetic": "sɪkstiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "She has sixteen unread messages in her inbox.",
+                "There are sixteen chairs in the conference room.",
+                "At the age of sixteen he left home.",
+                "And I'm sixteen.",
+                "Sixteen is hexadec-."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2l4dGVlbg&hash=27f0bd820d499be1abdc2cd781b7b528cd314eea&lang=en&cache-only=0",
+            "defineEn": "the number 16; the number of pieces each side has in a game of chess",
+            "defineVi": "số 16; số quân mỗi bên có trong một ván cờ vua",
+            "hasImg": true
+        },
+        {
+            "id": "87b91064-62fe-4c38-b16c-071b383cd501",
+            "word": "seventeen",
+            "phonetic": "sɛvəntiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "She bought seventeen books from the bookstore.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "Seventeen is heptadec-.",
+                "'Room seventeen,' says the woman at the desk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V2ZW50ZWVu&hash=63f00a62b03cc1e2147140923d972de8ed37a2d5&lang=en&cache-only=0",
+            "defineEn": "the number 17; the number of days in two weeks and three days",
+            "defineVi": "số 17; số ngày trong hai tuần và ba ngày",
+            "hasImg": true
+        },
+        {
+            "id": "a370f237-7702-4fca-9d1f-5f7b5f842749",
+            "word": "eighteen",
+            "phonetic": "eɪtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The legal drinking age in this country is eighteen.",
+                "Leeds United had waited for success for eighteen years.",
+                "He has been working at his job for eighteen years.",
+                "He’s only eighteen.",
+                "The Wrigley's brand name in twenty twenty, the gum industry's market value hit eighteen point six billion dollars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWlnaHRlZW4&hash=312860cf4b5cbb1970c04e4c253335784d64d1be&lang=en&cache-only=0",
+            "defineEn": "the number 18; the number of squares in three cubes",
+            "defineVi": "số 18; số ô vuông trong ba hình lập phương",
+            "hasImg": true
+        },
+        {
+            "id": "48562602-2d22-4e1b-b730-cd3b2a0cef4a",
+            "word": "nineteen",
+            "phonetic": "naɪntiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The temperature outside is nineteen degrees Celsius.",
+                "Katy Jones is nineteen and comes from Birmingham.",
+                "My aunt can get talking nineteen to the dozen if you get her on a topic she's passionate about.",
+                "Sam came running nineteen to the dozen when he heard his son crying out to him from the back garden.",
+                "Nineteen percent say yes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmluZXRlZW4&hash=4166286f24ce0389c7b4465d8c4814777fdc6acd&lang=en&cache-only=0",
+            "defineEn": "the number 19; the number of months in a year and seven months",
+            "defineVi": "số 19; số tháng trong một năm bảy tháng",
+            "hasImg": true
+        },
+        {
+            "id": "3dfbba2d-5a26-4fa7-ad33-48271210898d",
+            "word": "twenty",
+            "phonetic": "twɛnti ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The distance between the two cities is twenty kilometers.",
+                "The clock struck twenty times at midnight.",
+                "By the next morning, over twenty of my friends had liked my new profile picture.",
+                "We lost twenty minutes changing a tire.",
+                "He worked in the oil industry for twenty years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlbnR5&hash=d16d77b8ffe3502fbb5c599f7afb366df857b8f9&lang=en&cache-only=0",
+            "defineEn": "the number 20; the number of fingers and toes that we have",
+            "defineVi": "số 20; số lượng ngón tay và ngón chân mà chúng ta có",
+            "hasImg": true
+        },
+        {
+            "id": "2a23b18a-165e-482d-afcd-5ee3a093e1c5",
+            "word": "twenty-one",
+            "phonetic": "twɛntiwʌn ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHdlbnR5LW9uZQ&hash=3a7a10feae9fb3294241152c2ddf0fc6f63c1189&lang=en&cache-only=0",
+            "defineEn": "describing a quantity that is one more than twenty",
+            "defineVi": "mô tả một số lượng là một hơn hai mươi",
+            "hasImg": true
+        },
+        {
+            "id": "10b7cfca-b5df-4c82-ab18-f0ae3cc9321a",
+            "word": "twenty-two",
+            "phonetic": "twɛntituː ",
+            "partOfSpeechType": "numeral",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHdlbnR5LXR3bw&hash=07f69955a7692af8ba3f648d276bf98469f07cee&lang=en&cache-only=0",
+            "defineEn": "the number 22; the number of players on two soccer teams",
+            "defineVi": "số 22; số cầu thủ của hai đội bóng đá",
+            "hasImg": true
+        },
+        {
+            "id": "5f66abe7-f24b-4cc2-9eb5-cedeff52eda7",
+            "word": "twenty-three",
+            "phonetic": "twɛntiθɹiː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Room twenty-three In the little town, fifty kilometres away from Los Angeles, Kenny goes into the motel and asks for a room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlbnR5LXRocmVl&hash=56d2f29fa9f9d92535307ceb05222638a8938b65&lang=en&cache-only=0",
+            "defineEn": "the number 23; the number of pairs of chromosomes in the human body",
+            "defineVi": "con số 23; số lượng các cặp nhiễm sắc thể trong cơ thể con người",
+            "hasImg": true
+        },
+        {
+            "id": "7f5986de-0f5c-41aa-9829-b2a1dee8c9c5",
+            "word": "thirty",
+            "phonetic": "θɜːɾi ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The recipe calls for thirty grams of sugar.",
+                "It's two thirty.",
+                "Thirty years up the river had made him a stranger to society.",
+                "Julia is in her early thirties.",
+                "If he was over thirty, then I was a monkey's uncle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpcnR5&hash=32cab230acd23fa990091b243299bc957f4814e3&lang=en&cache-only=0",
+            "defineEn": "the number 30; the number of days in April, June, September, and November",
+            "defineVi": "con số 30; số ngày trong tháng 4, tháng 6, tháng 9 và tháng 11",
+            "hasImg": true
+        },
+        {
+            "id": "e9e3c1d3-47d2-45f4-8e18-b6b0ef6953bb",
+            "word": "city center",
+            "phonetic": "sɪɾi sɛntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2l0eSBjZW50ZXI&hash=17325b8bce0356dd39ae61a22c05f0339c9adae3&lang=en&cache-only=0",
+            "defineEn": "the part of the city where the main businesses and shops are located",
+            "defineVi": "một phần của thành phố nơi đặt các doanh nghiệp và cửa hàng chính",
+            "hasImg": true
+        }
+    ]
+}

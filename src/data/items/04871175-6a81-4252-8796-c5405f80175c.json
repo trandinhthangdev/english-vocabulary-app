@@ -1,0 +1,745 @@
+{
+    "id": "04871175-6a81-4252-8796-c5405f80175c",
+    "title": "Tastes and Flavors",
+    "originalTitle": "Tastes and Flavors",
+    "words": [
+        {
+            "id": "f6872657-3fe6-408e-8bc8-5aedd2f9fd33",
+            "word": "sweetness",
+            "phonetic": "swiːtnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subtle bitterness of artemisia balanced the sweetness of the dessert.",
+                "The custard apple's natural sweetness makes it a perfect filling for homemade pies and tarts.",
+                "She enjoyed the juicy sweetness of raspberries, an aggregate fruit.",
+                "Almond-leaved pear has a mild sweetness and a hint of almond taste.",
+                "The McIntosh applesauce adds a touch of sweetness to my pork roast recipe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3dlZXRuZXNz&hash=0fca56b7592fde7f904d1f05251dbdd8f23a2254&lang=en&cache-only=0",
+            "defineEn": "the taste experience when sugar dissolves in the mouth",
+            "defineVi": "trải nghiệm hương vị khi đường tan trong miệng"
+        },
+        {
+            "id": "7b8b66c5-53f9-4d31-9499-50cfc29f088b",
+            "word": "sourness",
+            "phonetic": "saʊɚnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When I tasted the pickles, I was pleasantly surprised by the perfect balance of sourness and spices.",
+                "You get hit with that sourness.",
+                "Both bitterness and sourness provide us with important clues about what we might consume.",
+                "But maybe the weirdest taste adaptation we have is the ability to taste sourness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cm5lc3M&hash=2a7f459b3e1e26bdbfaf53b1d9579a667fcd65d9&lang=en&cache-only=0",
+            "defineEn": "the taste experience when vinegar or lemon juice is taken into the mouth",
+            "defineVi": "trải nghiệm hương vị khi giấm hoặc nước chanh được đưa vào miệng"
+        },
+        {
+            "id": "ed19e04f-7bbe-49c9-82ce-4d2d4d78b0e3",
+            "word": "saltiness",
+            "phonetic": "sɔltinəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It hits you right from the start-- the saltiness, the texture.",
+                "Ocean circulation is driven by changes in water temperature and salinity, or saltiness.",
+                "It has a little saltiness to it, which is nice.",
+                "Your tastebuds are dulled at high altitudes, meaning your perception of saltiness and sweetness drops.",
+                "For example, research has shown that white noise can dull saltiness but enhance crunchiness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsdGluZXNz&hash=ca4bfb421ab3818fa780f15660f9a2b139fb0b4b&lang=en&cache-only=0",
+            "defineEn": "the taste experience when common salt is taken into the mouth",
+            "defineVi": "trải nghiệm hương vị khi muối thông thường được đưa vào miệng"
+        },
+        {
+            "id": "6664c999-c534-46c8-9896-df5895e646a3",
+            "word": "bitterness",
+            "phonetic": "bɪtɚnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subtle bitterness of artemisia balanced the sweetness of the dessert.",
+                "You can reduce the bitterness of sour gourd by soaking it in saltwater before cooking.",
+                "She loved the slight bitterness of endive, which added complexity to her dish.",
+                "He picked a few rue leaves from the garden to add to his soup for a touch of bitterness.",
+                "- Bitterness, what are you working on?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0dGVybmVzcw&hash=1efb18bd5dc64e566b60984517a92bc457bfd9a4&lang=en&cache-only=0",
+            "defineEn": "the taste experience when quinine or coffee is taken into the mouth",
+            "defineVi": "trải nghiệm vị giác khi đưa quinine hoặc cà phê vào miệng"
+        },
+        {
+            "id": "6e5cb559-d0b6-4c62-84ca-c724e4f0d6c9",
+            "word": "umami",
+            "phonetic": "juːmɑːmi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There's umami in seaweed.",
+                "But raw meat doesn’t have that umami flavor.",
+                "So what are your favorite umami foods?",
+                "Umami is actually enhanced in the air.",
+                "I don't like meat, but the mushrooms, they give this umami taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW1hbWk&hash=c6f48b4e85f297a0f5245ec0b7ed34c8947b9757&lang=en&cache-only=0",
+            "defineEn": "‌a taste that is not sour, bitter, salty or sweet, found in some foods such as meat, etc.",
+            "defineVi": "‌là vị không chua, đắng, mặn hay ngọt, có trong một số thực phẩm như thịt, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "3ee449cb-309a-4db3-8f43-67b1f3b4b8b1",
+            "word": "pungency",
+            "phonetic": "pʌndʒənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVuZ2VuY3k&hash=d59b256181b768940120856dccb5c6ad82069ba9&lang=en&cache-only=0",
+            "defineEn": "a strong odor or taste property",
+            "defineVi": "một mùi mạnh hoặc hương vị tài sản"
+        },
+        {
+            "id": "e9f4f93b-85a0-4eae-9978-c4c219a7e104",
+            "word": "spiciness",
+            "phonetic": "spaɪsinəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sour gourd pickle had a delightful combination of tanginess and spiciness.",
+                "I like the mild spiciness and crisp texture that green pepper adds to my omelettes.",
+                "The hot sauce had a stiff level of spiciness that left my taste buds tingling.",
+                "She couldn't handle the spiciness of the pepper and reached for a glass of water to cool her mouth.",
+                "She tossed mustard sprouts into her salad for a crunchy texture and a hint of spiciness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BpY2luZXNz&hash=81b380e4ac7ccbb0b39b667e911b891c27bb53b3&lang=en&cache-only=0",
+            "defineEn": "the property of being seasoned with spice and so highly flavored",
+            "defineVi": "tài sản được nêm với gia vị và rất có hương vị"
+        },
+        {
+            "id": "3b94000f-0d44-4eb1-835c-56396315ae5c",
+            "word": "hotness",
+            "phonetic": "hɑːtnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And also on this side, which is probably helping a lot with the hotness that I was talking about before, one little fan, which is probably more than enough."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90bmVzcw&hash=5b3185809e30393cacbdc8c4295744bebb3f3989&lang=en&cache-only=0",
+            "defineEn": "a hot spiciness",
+            "defineVi": "cay nóng"
+        },
+        {
+            "id": "91cc1457-7f34-466d-90bc-5fd84283873a",
+            "word": "coolness",
+            "phonetic": "kuːlnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And ICON’s coolness isn’t limited to the satellite itself.",
+                "Some non-black speakers might use features of the dialect to show affiliation with African-Americans or with traits they might stereotypically associate with them, like confidence, coolness or toughness.",
+                "It's not for everybody because if something goes wrong, you have to have the coolness of a airplane pilot, you have to have the humor of a standup comedian, you also have to be serious, and this is serious stuff for many people who are depending upon the auctioneer to deliver a very high-level, a high-quality sale."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29vbG5lc3M&hash=fb6c15fcc4f84d5b87a6253b3445d4b89825059d&lang=en&cache-only=0",
+            "defineEn": "a refreshing, mild, or soothing sensation in the mouth, often associated with mint, menthol, or cucumber",
+            "defineVi": "cảm giác sảng khoái, nhẹ hoặc êm dịu trong miệng, thường liên quan đến bạc hà, tinh dầu bạc hà hoặc dưa chuột"
+        },
+        {
+            "id": "bf13ab2a-2aae-48e1-9ad3-13d3b2b06ff3",
+            "word": "numbness",
+            "phonetic": "nʌmnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The changes to blood flow cause lightheadedness and numbness in the hands and feet.",
+                "There's a numbness in my left thigh.",
+                "But many depression sufferers experience this more as a lack of feeling, or numbness, rather than sadness.",
+                "I was just sitting at the computer on the 4th of July probably and just started feeling this little numbness.",
+                "This can cause symptoms like numbness, drowsiness, paralysis, and even death in extreme cases."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVtYm5lc3M&hash=39bb6d9ca802344716fe8b85ab3b38d229980b4b&lang=en&cache-only=0",
+            "defineEn": "partial or total lack of sensation in a part of the body; a symptom of nerve damage or dysfunction",
+            "defineVi": "mất cảm giác một phần hoặc toàn bộ ở một bộ phận cơ thể; một triệu chứng của tổn thương thần kinh hoặc rối loạn chức năng"
+        },
+        {
+            "id": "0022fda3-b215-429e-81b3-2b994dd9986c",
+            "word": "astringency",
+            "phonetic": "ɐstɹɪndʒənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXN0cmluZ2VuY3k&hash=41c5060d10896b18848cd034e3bacdbab9914ef3&lang=en&cache-only=0",
+            "defineEn": "a sharp astringent taste; the taste experience when a substance causes the mouth to pucker",
+            "defineVi": "một hương vị làm se sắc nét; trải nghiệm vị giác khi một chất khiến miệng nhăn lại"
+        },
+        {
+            "id": "22bd66c4-2ad0-4db5-8d81-30a865e82e79",
+            "word": "metallicness",
+            "phonetic": "mətælɪknəs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWV0YWxsaWNuZXNz&hash=93cef94beb35cc664620a8defd8cf3242cba4ea6&lang=en&cache-only=0",
+            "defineEn": "a taste, aroma, or sensation resembling that of metal such as certain medicines or amalgam dental fillings",
+            "defineVi": "mùi vị, mùi thơm hoặc cảm giác giống như kim loại chẳng hạn như một số loại thuốc hoặc chất trám răng hỗn hống"
+        },
+        {
+            "id": "57c83f53-62e5-427a-8aa5-d262e895b8aa",
+            "word": "acidic",
+            "phonetic": "ɐsɪdɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sodium benzoate is a preservative commonly used in acidic foods, such as soft drinks and pickles.",
+                "Your blood is becoming too acidic.",
+                "The outer membrane becomes more acidic than the matrix inside.",
+                "Becoming warmer and more acidic.",
+                "Surface waters are 30% more acidic than before the industrial revolution."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNpZGlj&hash=c2fc92ab8028cc94de9a64c73b807cd73c6f49b7&lang=en&cache-only=0",
+            "defineEn": "being sour to the taste",
+            "defineVi": "có vị chua",
+            "hasImg": true
+        },
+        {
+            "id": "2bd3bd1d-c51c-44b0-b3ee-1f46fa104667",
+            "word": "astringent",
+            "phonetic": "ɐstɹɪndʒənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "So the outside of this berry, has a red shell that has a little bit of a fuzz on it, and that has this really tangy astringent kind of flavor.",
+                "They also bind to proteins in our saliva, which is why you get that sort of astringent mouthfeel when you drink a glass of cabernet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN0cmluZ2VudA&hash=167827c8c6c5be782776468a53a14b286521e6ae&lang=en&cache-only=0",
+            "defineEn": "sour or bitter in taste",
+            "defineVi": "vị chua hoặc đắng"
+        },
+        {
+            "id": "2a9ae800-2dc9-4ca3-95aa-b89e705a4aca",
+            "word": "bitter",
+            "phonetic": "bɪɾɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "Bitter orange peel is a great addition to my herbal remedies.",
+                "Losing to a younger player was a bitter pill to swallow.",
+                "She grimaced at the taste of the bitter medicine.",
+                "Sarah and her ex-husband had a bitter divorce, and there is no love lost between them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
+            "defineEn": "having a strong taste that is not sweet",
+            "defineVi": "có vị đậm đà không ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "ec2a3dfd-bda1-4974-8bd4-96deaadacdb1",
+            "word": "bittersweet",
+            "phonetic": "bɪɾɚswiːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It's many a man and woman who, in old age, looks back on the prime of their lives with bittersweet nostalgia.",
+                "The latest data from Johns Hopkins University come at a bittersweet moment.",
+                "The latest data from Johns Hopkins University come at a bittersweet moment.",
+                "[ ♪ Intro ] October was kind of a bittersweet month for space scientists.",
+                "What was the most bittersweet part of Pirates of the Caribbean Dead Men Tell No Tales?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0dGVyc3dlZXQ&hash=1e54408fb6bc55592f358e72d834a1b07ea59e51&lang=en&cache-only=0",
+            "defineEn": "having a taste that is a mixture of bitterness and sweetness",
+            "defineVi": "có một hương vị là một hỗn hợp của vị đắng và ngọt"
+        },
+        {
+            "id": "5e715089-020a-4462-8767-69151906061d",
+            "word": "brackish",
+            "phonetic": "bɹækɪʃ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "While the eurypterines were busy competing with fish, stylonurines moved inland, to brackish and freshwater ecosystems where there were fewer placoderms and less competition.",
+                "They live in the estuaries of Southeast Asia, where mangrove trees stand knee deep in brackish water.",
+                "You can get it from oysters or from swimming with an open wound in brackish water where the bacteria lives.",
+                "And this warm, kinda brackish water turned out to be a great place for sea turtles, hosting an explosion of their diversity - including some of the giants.",
+                "We don't want to lose sight of other sorts of desal, brackish water, which is, you can think of brackish water is it's not as salty as ocean water, but it's saltier than freshwater."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhY2tpc2g&hash=7d0c7763aca7cde83204402d75a6050555b8ba1f&lang=en&cache-only=0",
+            "defineEn": "slightly salty (especially from containing a mixture of seawater and fresh water)",
+            "defineVi": "hơi mặn (đặc biệt là do chứa hỗn hợp nước biển và nước ngọt)"
+        },
+        {
+            "id": "ac8253fb-8f01-441c-b3d4-9ef97384b3ad",
+            "word": "hot",
+            "phonetic": "hɑːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather was disagreeably hot.",
+                "The news came hot on the heels of another plane crash.",
+                "The factory closure follows hot on the heels of several others",
+                "The winter issue is hot off the press.",
+                "That hot guy had a good head on his shoulders."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90&hash=0da9ddb695c016e223f206638448aae9581d299f&lang=en&cache-only=0",
+            "defineEn": "describing food that contains spices or pepper which when tasted creates a burning feeling in one's mouth",
+            "defineVi": "mô tả thức ăn có chứa gia vị hoặc hạt tiêu mà khi nếm sẽ tạo ra cảm giác nóng rát trong miệng",
+            "hasImg": true
+        },
+        {
+            "id": "6a1ab48f-e8a6-4535-a102-08e9b830036f",
+            "word": "mild",
+            "phonetic": "maɪld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather in this city is usually mild throughout the year.",
+                "Almond-leaved pear has a mild sweetness and a hint of almond taste.",
+                "I like the mild spiciness and crisp texture that green pepper adds to my omelettes.",
+                "His favorite season is spring, when the weather is mild and the flowers are in full bloom.",
+                "I'm not a fan of spicy foods, but I really enjoy the mild flavor of yellow capsicum."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlsZA&hash=edabbd4ec8047d66b28e2d3c393a3788f3155b73&lang=en&cache-only=0",
+            "defineEn": "having a taste or flavor that is not strong or intense",
+            "defineVi": "có hương vị hoặc hương vị không mạnh hoặc nồng"
+        },
+        {
+            "id": "aee26b1b-e36f-423a-914d-469c2fff12f7",
+            "word": "robust",
+            "phonetic": "ɹoʊbʌst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The hollow center of rigatoni allows it to hold robust sauces and fillings.",
+                "When I tasted the tomato chutney, I was pleasantly surprised by the robust flavors.",
+                "Sarah is strong as an oak, effortlessly conquering physical challenges with her robust and unyielding strength.",
+                "The marinara sauce used a flavor enhancer made from sun-dried tomatoes, enhancing the robust and tangy taste.",
+                "But these faster techniques produce less robust resilience."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9idXN0&hash=dd508e7e5449ea307626357a0bdc665cad9d4677&lang=en&cache-only=0",
+            "defineEn": "marked by richness and fullness of flavor",
+            "defineVi": "được đánh dấu bởi sự phong phú và đầy đủ của hương vị",
+            "hasImg": true
+        },
+        {
+            "id": "093a9481-0978-4544-8fb6-d73ba2207949",
+            "word": "savory",
+            "phonetic": "seɪvɚɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sprinkling Parmesan cheese over pasta dishes adds a savory touch.",
+                "The bakery incorporated finely diced fatback into savory pie crusts for flaky results.",
+                "She harvested fresh savory from her herb garden and dried it for future use in her favorite recipes.",
+                "The street vendor at the night market skillfully grilled savory pork belly skewers.",
+                "I stuffed the aubergine with a savory mixture of rice, vegetables, and herbs, creating a flavorful meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F2b3J5&hash=545a1e40328099efe44b5902ec5a118dba1cfed8&lang=en&cache-only=0",
+            "defineEn": "(of food) salty or spicy rather than sweet",
+            "defineVi": "(của thức ăn) mặn hoặc cay hơn là ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "3a1d566e-452f-49da-bcbb-a63c8fb5751f",
+            "word": "seasoned",
+            "phonetic": "siːzənd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He prepared a spicy chicken roll, with seasoned chicken, jalapeños, and a kick of hot sauce.",
+                "For a nutritious wrap, fill blanched sea tangle with seasoned rice and fresh vegetables.",
+                "As a seasoned carpenter, he knew that there are tricks in every trade and was always willing to share his knowledge with others.",
+                "The seasoned politician scoffed at the young upstart's superficial promises, muttering that you cannot catch old birds with chaff, as he knew from experience that voters were not easily swayed by empty rhetoric.",
+                "They gathered around the dinner table, sharing a plate of seasoned roasted fava beans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vhc29uZWQ&hash=5ed71a4707000ec20966b11309f78e4aabb656f1&lang=en&cache-only=0",
+            "defineEn": "(of food) flavored with spices, herbs, or other ingredients to improve its taste and smell",
+            "defineVi": "(của thực phẩm) hương vị với gia vị, thảo mộc, hoặc các thành phần khác để cải thiện hương vị và mùi của nó"
+        },
+        {
+            "id": "52b28477-59d1-40c0-9c83-9d20dd22d914",
+            "word": "sharp",
+            "phonetic": "ʃɑːɹp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Keep a sharp lookout for David.",
+                "With a sharp knife, the chef expertly removed the gristle from the pork chops.",
+                "He remained sharp as a tack.",
+                "She felt a sharp pain in her hand.",
+                "He's as sharp as a tack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
+            "defineEn": "having a taste or flavor that is strong, intense, pungent, or tangy",
+            "defineVi": "có hương vị hoặc hương vị mạnh, nồng, hăng hoặc thơm"
+        },
+        {
+            "id": "7cdd9236-572f-4aa9-ad0a-eff2fb7312b4",
+            "word": "sour",
+            "phonetic": "saʊɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sour cherry compote is the perfect topping for pancakes or waffles.",
+                "The sour gourd pickle had a delightful combination of tanginess and spiciness.",
+                "He's as sour as vinegar.",
+                "You definitely struck a sour note when you brought up Dan's ex-girlfriends during your best man speech.",
+                "If you leave milk out in a warm place, it will go sour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cg&hash=7592381bbf80a20c064c44dada376715df611f71&lang=en&cache-only=0",
+            "defineEn": "one of the four basic taste sensations; like the taste of vinegar or lemons",
+            "defineVi": "một trong bốn cảm giác vị giác cơ bản; như hương vị của giấm hoặc chanh"
+        },
+        {
+            "id": "b8d01f79-b671-416b-b9ec-56fe996ebcef",
+            "word": "spicy",
+            "phonetic": "spaɪsi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The spicy beef jerky left a smoky aftertaste in my mouth.",
+                "Spicy food doesn't sit well with me.",
+                "The spicy sausage and mushroom fusilli had a nice kick of flavor.",
+                "He prepared a spicy chicken roll, with seasoned chicken, jalapeños, and a kick of hot sauce.",
+                "I hate spicy food because it burns my mouth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BpY3k&hash=9bcc1e7fc6caf538a2b5b0e2af1078ef9c94444b&lang=en&cache-only=0",
+            "defineEn": "having a strong taste that gives your mouth a pleasant burning feeling",
+            "defineVi": "có hương vị mạnh mang lại cho miệng bạn cảm giác bỏng rát dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "d498784d-92c9-4d34-9789-563ed891c559",
+            "word": "sweet-and-sour",
+            "phonetic": "swiːtændsaʊɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3dlZXQtYW5kLXNvdXI&hash=9e37deea72e6d59304b7a770e7c38b95978eb6cf&lang=en&cache-only=0",
+            "defineEn": "describing food that has been cooked in a way that tastes both sweet and sour",
+            "defineVi": "mô tả thức ăn đã được nấu chín theo cách vừa ngọt vừa chua",
+            "hasImg": true
+        },
+        {
+            "id": "5b6df891-9d67-4d21-a1ec-c239d533e473",
+            "word": "sweetish",
+            "phonetic": "swiːɾɪʃ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It was one of those, sort of light, sweetish beers that they make in China."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3dlZXRpc2g&hash=1e8bf957f489e87b5f6467b686d61d42d989b6cd&lang=en&cache-only=0",
+            "defineEn": "somewhat sweet",
+            "defineVi": "hơi ngọt"
+        },
+        {
+            "id": "a5d0bfc3-34bb-40f6-9248-8d08b3a3e75b",
+            "word": "syrupy",
+            "phonetic": "sɪɹʌpi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "When birds eat the goo-filled berries, their mouths get covered with the syrupy white stuff. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3lydXB5&hash=b927c4da8dbbc55445858b9c468603af234bddc9&lang=en&cache-only=0",
+            "defineEn": "overly sweet",
+            "defineVi": "quá ngọt"
+        },
+        {
+            "id": "096bc9aa-e740-4fdd-90bb-1ba71fb2fc4e",
+            "word": "tart",
+            "phonetic": "tɑːɹt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "They shared a glace plum tart after their meal.",
+                "Our dessert of the day is a delectable almond-leaved pear tart.",
+                "They topped fruit tarts with mango coulis.",
+                "Nectarines can be used in various culinary creations, from pies and tarts to jams and chutneys.",
+                "Tonight we serve a delicious apple tart made with Fuji apples."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFydA&hash=518fc95a532638a385ffa57f9519e802e72df3fa&lang=en&cache-only=0",
+            "defineEn": "having a sharp taste that stings the tongue",
+            "defineVi": "có một hương vị sắc nét làm cay lưỡi",
+            "hasImg": true
+        },
+        {
+            "id": "4895a640-302a-40fe-9039-ecddcb5be9ee",
+            "word": "unsalted",
+            "phonetic": "ʌnsɔltᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Who is ordering unsalted fries from McDonald's, sir?",
+                "When you’ve fully occupied the base of the pan, dot the apples with one cup of unsalted butter cut into pieces.",
+                "Actually, the best SELLER is unsalted.",
+                "Interestingly, the worst sellers in the United States are the best sellers in ASIA, and it's unsalted and SEA salt."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5zYWx0ZWQ&hash=03e37baf6551542c0b4b2f2dacede9b9ee78f723&lang=en&cache-only=0",
+            "defineEn": "without salt or seasoning",
+            "defineVi": "không có muối hoặc gia vị"
+        },
+        {
+            "id": "17284e55-f14b-488e-a5af-fc29ef9b2081",
+            "word": "watery",
+            "phonetic": "wɔːɾɚɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "This is too watery.",
+                "Think, watery iced coffee or a room temperature latte.",
+                "Fire ant venom is a watery solution of toxin that affects human mast cells.",
+                "-Like we're sacks of watery meat stuff",
+                "Mom launches them by the tens of thousands into the wide watery wilderness - along with some of her own waste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0ZXJ5&hash=98d2a42d241c12ef6a25f63a82880a24542f19e5&lang=en&cache-only=0",
+            "defineEn": "having too much water and little taste",
+            "defineVi": "có quá nhiều nước và ít hương vị",
+            "hasImg": true
+        },
+        {
+            "id": "942b6157-b7f9-4aeb-92f1-c73e8d17e0bf",
+            "word": "tang",
+            "phonetic": "tæŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A teaspoon of grape vinegar brightened up the tomato soup, giving it a pleasant tang.",
+                "Adding crème fraîche to mashed potatoes gives them a silky smooth texture and a subtle tang.",
+                "Tang: I love the Venmo feed.",
+                "That was Tang.",
+                "And Tang could cover up that taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZw&hash=820e55f8be53dba785dbf5b179f3e0f1c46aaaf6&lang=en&cache-only=0",
+            "defineEn": "the taste experience when a savoury condiment is taken into the mouth",
+            "defineVi": "trải nghiệm hương vị khi một gia vị mặn được đưa vào miệng"
+        },
+        {
+            "id": "f901542e-c692-4c38-a526-a0b5874d66c0",
+            "word": "tang",
+            "phonetic": "seɪvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A teaspoon of grape vinegar brightened up the tomato soup, giving it a pleasant tang.",
+                "Adding crème fraîche to mashed potatoes gives them a silky smooth texture and a subtle tang.",
+                "Tang: I love the Venmo feed.",
+                "That was Tang.",
+                "And Tang could cover up that taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZw&hash=820e55f8be53dba785dbf5b179f3e0f1c46aaaf6&lang=en&cache-only=0",
+            "defineEn": "the taste experience when a savoury condiment is taken into the mouth",
+            "defineVi": "trải nghiệm hương vị khi một gia vị mặn được đưa vào miệng"
+        },
+        {
+            "id": "16418bf2-fd89-492b-ad46-03be68742e4a",
+            "word": "pungency",
+            "phonetic": "baɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVuZ2VuY3k&hash=d59b256181b768940120856dccb5c6ad82069ba9&lang=en&cache-only=0",
+            "defineEn": "a strong odor or taste property",
+            "defineVi": "một mùi mạnh hoặc hương vị tài sản"
+        },
+        {
+            "id": "716287db-0299-466e-991b-55e8cdfd6f23",
+            "word": "aftertaste",
+            "phonetic": "æftɚteɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The spicy beef jerky left a smoky aftertaste in my mouth.",
+                "As I bite into a black cherry, its deep red juice stains my lips, leaving behind a sweet aftertaste.",
+                "The aftertaste is very barnyard.",
+                "The aftertaste gives that away.",
+                "That aftertaste isn't that bad."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWZ0ZXJ0YXN0ZQ&hash=7be39ddc4a62ac6c76e5e6de316eacbcdf26b006&lang=en&cache-only=0",
+            "defineEn": "an afterimage of a taste",
+            "defineVi": "một dư ảnh của một hương vị"
+        },
+        {
+            "id": "3512b7b1-49eb-40c4-a451-52fbe9264cb0",
+            "word": "savoriness",
+            "phonetic": "seɪvɚɹinəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The story goes that Ikeda started pondering whether the savoriness of the dish was a biologically determined taste for, well, something he couldn't quite pin down."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F2b3JpbmVzcw&hash=82c452db87e85cf01427443556c148b8199b7721&lang=en&cache-only=0",
+            "defineEn": "having an appetizing flavor",
+            "defineVi": "có hương vị thơm ngon"
+        },
+        {
+            "id": "1982ba8d-2ae2-42cb-a206-25ccb372d35d",
+            "word": "oleogustus",
+            "phonetic": "oʊləɡʌstəs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2xlb2d1c3R1cw&hash=92f6425abd0ca5a6fa6f291c5ba8587181644328&lang=en&cache-only=0",
+            "defineEn": "a unique taste sensation that is attributed to the perception of fats or lipids in food",
+            "defineVi": "một cảm giác hương vị độc đáo được cho là do nhận thức về chất béo hoặc chất béo trong thực phẩm"
+        },
+        {
+            "id": "a6b9337e-d2ed-4ef9-8ca0-c3d8e1e69c18",
+            "word": "supertaster",
+            "phonetic": "suːpɚteɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What is the line between lucky tea guesser and tea supertaster?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VwZXJ0YXN0ZXI&hash=93613c0bfa3728cc56309ed9a6a259a6e32a2149&lang=en&cache-only=0",
+            "defineEn": "an individual who has a heightened sense of taste and is more sensitive to the flavors and sensations in food and beverages",
+            "defineVi": "một cá nhân có vị giác cao và nhạy cảm hơn với hương vị và cảm giác trong thực phẩm và đồ uống"
+        },
+        {
+            "id": "0cf34943-13ff-4d26-8677-de60c9599871",
+            "word": "acquired taste",
+            "phonetic": "ɐkwaɪɚd teɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- It's an acquired taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNxdWlyZWQgdGFzdGU&hash=5c631c80155e47d49f2834a082fbfc97b13d2cf6&lang=en&cache-only=0",
+            "defineEn": "something that one dislikes first but starts to like it with the passage of time",
+            "defineVi": "một cái gì đó mà người ta không thích đầu tiên nhưng bắt đầu thích nó với thời gian trôi qua"
+        },
+        {
+            "id": "f252e75b-c68c-4453-9942-ff2654d7fc45",
+            "word": "brackish",
+            "phonetic": "bɹaɪni ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "While the eurypterines were busy competing with fish, stylonurines moved inland, to brackish and freshwater ecosystems where there were fewer placoderms and less competition.",
+                "They live in the estuaries of Southeast Asia, where mangrove trees stand knee deep in brackish water.",
+                "You can get it from oysters or from swimming with an open wound in brackish water where the bacteria lives.",
+                "And this warm, kinda brackish water turned out to be a great place for sea turtles, hosting an explosion of their diversity - including some of the giants.",
+                "We don't want to lose sight of other sorts of desal, brackish water, which is, you can think of brackish water is it's not as salty as ocean water, but it's saltier than freshwater."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhY2tpc2g&hash=7d0c7763aca7cde83204402d75a6050555b8ba1f&lang=en&cache-only=0",
+            "defineEn": "slightly salty (especially from containing a mixture of seawater and fresh water)",
+            "defineVi": "hơi mặn (đặc biệt là do chứa hỗn hợp nước biển và nước ngọt)"
+        },
+        {
+            "id": "ca31eccb-1bba-44c3-aa38-b4c1a918824e",
+            "word": "earthy",
+            "phonetic": "ɜːθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The earthy aroma of mushrooms adds depth to any pasta dish.",
+                "He loved the earthy taste of Jerusalem artichokes and often added them to his stir-fry dishes for an extra crunch.",
+                "The distinctive taste of truffles adds an earthy and musky note to dishes like pasta and risotto.",
+                "There's, like, an earthy flavor there.",
+                "Woods add a real warmth and an earthy moment, but still with an upscale feel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFydGh5&hash=88eb9e6d4464f0cf5505df14e1f0035dcafaf253&lang=en&cache-only=0",
+            "defineEn": "having characteristics of soil or the earth, often associated with flavors such as mushrooms, root vegetables, or certain types of wine",
+            "defineVi": "có đặc điểm của đất hoặc trái đất, thường được kết hợp với các hương vị như nấm, rau củ hoặc một số loại rượu"
+        },
+        {
+            "id": "38e69d1d-20b1-415d-a823-ce44f954edd2",
+            "word": "fruity",
+            "phonetic": "fɹuːɾi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "He used grape juice to make a fruity popsicle.",
+                "Anchovy pear can be used to make a tangy and fruity barbecue sauce.",
+                "The salmonberry muffins I baked turned out moist and packed with fruity flavor.",
+                "She likes to infuse her water with dried rose hips for a refreshing and slightly fruity taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXR5&hash=97dd4f1d0a14efa6f0fd8767a94688d87277eda4&lang=en&cache-only=0",
+            "defineEn": "tasting or smelling richly of or as of fruit",
+            "defineVi": "nếm hoặc ngửi hương vị đậm đà của trái cây"
+        },
+        {
+            "id": "e8365e7b-eeaa-46ea-9bd7-28d56f61bfb7",
+            "word": "full-bodied",
+            "phonetic": "fʊlbɑːdid ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbC1ib2RpZWQ&hash=722ec536343adc0a70da1a1b29365b120c00fee4&lang=en&cache-only=0",
+            "defineEn": "describing something rich and pleasant in taste or sound",
+            "defineVi": "mô tả một cái gì đó phong phú và dễ chịu trong hương vị hoặc âm thanh",
+            "hasImg": true
+        },
+        {
+            "id": "74840c79-17ab-4d8f-99f9-dc30a635936f",
+            "word": "nutty",
+            "phonetic": "nʌɾi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "They mixed teff grains into their homemade granola bars, creating a delightful crunch and nutty flavor.",
+                "The Edam cheese adds a creamy and nutty flavor to my grilled cheese sandwich.",
+                "Gouda has a mild and slightly nutty flavor.",
+                "He baked a loaf of bread using graham flour, giving it a rich and nutty flavor.",
+                "I suggest trying our Emmental cheese, it has a mild and nutty flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnV0dHk&hash=759befa9f714727bef6eb00ce799c4db49ea69bd&lang=en&cache-only=0",
+            "defineEn": "having the flavor of nuts",
+            "defineVi": "có hương vị của các loại hạt"
+        },
+        {
+            "id": "4478d98d-9d19-4eaf-aae3-f62578074dc2",
+            "word": "rich",
+            "phonetic": "ɹɪtʃ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The rich family owned a private jet.",
+                "The rich man bought a big house and a fancy car.",
+                "The rich businessman owned multiple luxurious cars.",
+                "Asparagus beanare rich in iron and vitamin K.",
+                "Asian cultures have a rich heritage of art, music, and dance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmljaA&hash=5371549ed8826faf60ccbef7166d7e90d1ec9cdb&lang=en&cache-only=0",
+            "defineEn": "(of food) containing much fat, sugar, etc.",
+            "defineVi": "(của thực phẩm) có chứa nhiều chất béo, đường, vv",
+            "hasImg": true
+        },
+        {
+            "id": "982c9c1a-aacb-40e9-bdde-60f7a47dab03",
+            "word": "smoky",
+            "phonetic": "smoʊki ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The ham had a smoky flavor.",
+                "The spicy beef jerky left a smoky aftertaste in my mouth.",
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue.",
+                "We roasted the corncobs on the campfire, savoring the smoky flavor.",
+                "I cooked bacon to add a smoky flavor to my homemade baked beans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21va3k&hash=95cb39f9c01f391074a40593e35bdc2aa4df081b&lang=en&cache-only=0",
+            "defineEn": "tasting of smoke",
+            "defineVi": "nếm khói"
+        },
+        {
+            "id": "7380d334-4c25-4239-859b-f2914c1a3f96",
+            "word": "tangy",
+            "phonetic": "tæŋi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My friends enjoyed tangy barbecue gammon skewers at the summer barbecue.",
+                "Feta cheese adds a tangy flavor to salads.",
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "Enhance your salad with tangy bergamot orange for a dose of vitamin E.",
+                "The fish tacos were topped with tangy slaw and creamy sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZ3k&hash=2e44fa92ef7d33f12bbad958a46074a59632a0e4&lang=en&cache-only=0",
+            "defineEn": "tasting sour like a lemon",
+            "defineVi": "vị chua như chanh",
+            "hasImg": true
+        },
+        {
+            "id": "d985a70b-04d8-4585-b350-0dbcd35caebd",
+            "word": "yeasty",
+            "phonetic": "jiːsti ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "- We got some yeasty water, it smells kinda yeasty. -",
+                "- We got some yeasty water, it smells kinda yeasty. -",
+                "And as you may be thirstily anticipating, the solution is to toss a yeasty Higgs field in with the other ingredients of the Standard Model, so that when we let the math ferment, we get out particles that have mass!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=eWVhc3R5&hash=578483506ecd037f5b7cca50e3e2f751fee22129&lang=en&cache-only=0",
+            "defineEn": "of or resembling or containing yeast",
+            "defineVi": "của hoặc giống hoặc có chứa men"
+        },
+        {
+            "id": "b963251e-1060-48c3-9c3d-0c0610a9e5ac",
+            "word": "woody",
+            "phonetic": "wʊdi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Woody come on Woody!",
+                "Woody come on Woody!",
+                "And although they mostly ate grasses and sedges, mammoths also sometimes ate woody plants.",
+                "Woody roots helped plants anchor themselves more solidly into the earth and allowed them to grow taller.",
+                "And at the same time as plants were developing woody tissues, they were also making a few more modifications."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29vZHk&hash=6479805538cf1ac26646402b804949c3eed3629a&lang=en&cache-only=0",
+            "defineEn": "made of or containing or resembling wood",
+            "defineVi": "làm bằng hoặc có chứa hoặc giống như gỗ"
+        },
+        {
+            "id": "9aca0305-944e-4bf1-aaae-d4096a04dcf7",
+            "word": "zesty",
+            "phonetic": "zɛsti ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I added mamoncillo slices to my tropical smoothie, giving it a zesty kick.",
+                "She prepared a colorful salad with foxtail millet, fresh vegetables, and a zesty dressing.",
+                "He made a tomato and avocado salad with a zesty lemon dressing.",
+                "When I tasted the aioli, I was pleasantly surprised by the balance of rich garlic and zesty lemon.",
+                "You can create a refreshing asparagus bean and tomato salad by tossing them with a zesty dressing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=emVzdHk&hash=4f13139e56cdf46ea9146368b164905d7d675739&lang=en&cache-only=0",
+            "defineEn": "having an agreeably pungent taste",
+            "defineVi": "có một hương vị cay nồng dễ chịu"
+        }
+    ]
+}

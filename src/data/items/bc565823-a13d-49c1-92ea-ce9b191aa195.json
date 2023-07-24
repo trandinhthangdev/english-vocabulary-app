@@ -1,0 +1,782 @@
+{
+    "id": "bc565823-a13d-49c1-92ea-ce9b191aa195",
+    "title": "Meal Venues",
+    "originalTitle": "Meal Venues",
+    "words": [
+        {
+            "id": "2e0c35a3-36ee-452f-9f97-458fd3b238c5",
+            "word": "bar",
+            "phonetic": "bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "er killer was finally put behind bars.",
+                "He has raised the bar for other filmmakers.",
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "Apple iPhone is really raising the bar with the latest model.",
+                "I washed my face and hands with a bar of soap."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFy&hash=ad2da7ff2333c91e5f56246cc478b9d3ea64829c&lang=en&cache-only=0",
+            "defineEn": "a place where alcoholic and other drinks and light snacks are sold and served",
+            "defineVi": "nơi bán và phục vụ đồ uống có cồn, đồ uống khác và đồ ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "b994545a-773c-4a3a-a3e9-9b496b666b50",
+            "word": "bistro",
+            "phonetic": "biːstɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmlzdHJv&hash=78c64763d55f0a547f07e3c09d455f76302ed34e&lang=en&cache-only=0",
+            "defineEn": "a small restaurant that is not expensive",
+            "defineVi": "một nhà hàng nhỏ không đắt tiền",
+            "hasImg": true
+        },
+        {
+            "id": "dfa7a61f-01af-4dea-a98b-383b99f567c9",
+            "word": "brasserie",
+            "phonetic": "bɹæsɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJhc3Nlcmll&hash=561bbe4a348b596b6a1994c1e17fbdbb7df2e2dd&lang=en&cache-only=0",
+            "defineEn": "an inexpensive French restaurant",
+            "defineVi": "một nhà hàng Pháp rẻ tiền",
+            "hasImg": true
+        },
+        {
+            "id": "2dbe6de6-b4ed-4b35-9017-6d2a34db9b80",
+            "word": "cafe",
+            "phonetic": "kæfeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel.",
+                "Surprisingly, the little café had the best coffee in town.",
+                "The little café had, surprisingly, the best coffee in town.",
+                "The café served a variety of coffee drinks, including cappuccino and macchiato.",
+                "She discovered a new café in the neighborhood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FmZQ&hash=9421e16162d634ea4b2314881412d7f668947a29&lang=en&cache-only=0",
+            "defineEn": "a small restaurant that sells drinks and meals",
+            "defineVi": "một nhà hàng nhỏ bán đồ uống và bữa ăn",
+            "hasImg": true
+        },
+        {
+            "id": "a696bd44-307a-4c8f-9ac2-7ba501d22c5b",
+            "word": "cafeteria",
+            "phonetic": "kæfɪtɪɹiə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The employee took a lunch break in the cafeteria.",
+                "The factory employee was eating lunc in the cafeteria.",
+                "I never eat in the school cafeteria.",
+                "The cafeteria food is not something to write home about, but the company will be good.",
+                "Food went missing from the school cafeteria?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FmZXRlcmlh&hash=c351f1218395a73ec214dafdf601af3bea96d431&lang=en&cache-only=0",
+            "defineEn": "a restaurant, typically in colleges, hospitals, etc. where you choose and pay for your meal before carrying it to a table",
+            "defineVi": "một nhà hàng, thường là ở các trường cao đẳng, bệnh viện, v.v. nơi bạn chọn và trả tiền cho bữa ăn của mình trước khi mang nó đến bàn",
+            "hasImg": true
+        },
+        {
+            "id": "7b155437-b3ef-4a97-8598-c4796e5b5834",
+            "word": "carry-out",
+            "phonetic": "kæɹiaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2Fycnktb3V0&hash=65db647a883a708ffd46fe2675bb63ada765d472&lang=en&cache-only=0",
+            "defineEn": "a restaurant in which food is sold to be eaten elsewhere",
+            "defineVi": "một nhà hàng trong đó thực phẩm được bán để ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "81558dbc-cfca-40bd-b147-c1c8c2590dca",
+            "word": "carvery",
+            "phonetic": "kɑːɹvɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FydmVyeQ&hash=ae2c062745e3d1775c912052615bc300d6f3e4a2&lang=en&cache-only=0",
+            "defineEn": "‌a restaurant where roast meat is served",
+            "defineVi": "‌một nhà hàng phục vụ thịt nướng",
+            "hasImg": true
+        },
+        {
+            "id": "aedccd88-585e-4851-b214-21bf6c4477a7",
+            "word": "diner",
+            "phonetic": "daɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Menus are for diners.",
+                "Diners at a cafe in Lod hid in the kitchen area for safety.",
+                "Diners at a cafe in Lod hid in the kitchen area for safety.",
+                "And, in return, the diner gets a sugar reward.",
+                "This first diner overhears the drama right away."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGluZXI&hash=e39e17c69275ed19c47e7447960f2402299cd25c&lang=en&cache-only=0",
+            "defineEn": "a small restaurant",
+            "defineVi": "một nhà hàng nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "b92be10f-725b-401c-814a-538321a83852",
+            "word": "dinner theater",
+            "phonetic": "dɪnɚ θiəɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her parents ran a dinner theater."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlubmVyIHRoZWF0ZXI&hash=e70ccd1b3522e936148a2d83ad54561f10e42268&lang=en&cache-only=0",
+            "defineEn": "a theater where the price of a meal is added to the ticket",
+            "defineVi": "một nhà hát nơi giá của một bữa ăn được thêm vào vé",
+            "hasImg": true
+        },
+        {
+            "id": "ec988eec-2d38-48b8-8023-2fd2cb57ab89",
+            "word": "drive-through",
+            "phonetic": "dɹaɪvθɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Anyone could mistake a freeway entrance ramp for a McDonald's drive-through.",
+                "Now he's volunteering at this drive-through test clinic.",
+                "Me, personally, I never go through the drive-through because it's not worth the hassle",
+                "But a lot of people prefer to go through the drive-through.",
+                "It's just a lot of people can't go inside for reasons and honestly, ordering inside, it really isn't any easier than doing it at the drive-through."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJpdmUtdGhyb3VnaA&hash=ee0bceb65eac5d22ee36d47dded7d4c69cf2be51&lang=en&cache-only=0",
+            "defineEn": "a restaurant or other service provider where one is served without needing to leave one's car",
+            "defineVi": "một nhà hàng hoặc nhà cung cấp dịch vụ khác nơi một người được phục vụ mà không cần rời khỏi xe của một người",
+            "hasImg": true
+        },
+        {
+            "id": "76bc9773-707f-406f-af49-f1345eb94c7b",
+            "word": "eatery",
+            "phonetic": "iːɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The eatery featured a cast of computer-controlled robot characters led by Chuck E. Cheese, the pudgy cigar smoking rat with a New Jersey accent.",
+                "Americans were flocking to the eatery after facing a slowdown in the brand name cereal and food business.",
+                "But the company doubled down on the full service restaurant business, buying eatery North Italia and Fox Restaurant Concepts in October of 2019.",
+                "Scientists found that people outside these eateries are more likely to accept a smaller gift card in the moment rather than receive a larger gift card later.",
+                "In 1982, General Mills, home of Lucky Charms and Cocoa Puffs, decided to expand its restaurant portfolio beyond its Red Lobster business by launching the Italian eatery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWF0ZXJ5&hash=e0492a8fb340f3e117475a7a2c7217d272841b0b&lang=en&cache-only=0",
+            "defineEn": "a café or restaurant where food is served",
+            "defineVi": "một quán cà phê hoặc nhà hàng nơi thức ăn được phục vụ",
+            "hasImg": true
+        },
+        {
+            "id": "b3646c4b-cec2-4c43-a821-86c5c0fbbe38",
+            "word": "food court",
+            "phonetic": "fuːd koːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cheap food courts were installed where courtyards were supposed to be.",
+                "Another looked at people eating alone in the food courts of shopping malls.",
+                "Well, it also has the sausage in the little cubes, which I actually do think that that is from the food court.",
+                "And there is, of course, the food court that sells $1.5 hot dogs and other low-priced fare.",
+                "What we really need is a cosmic food court capable of feeding us wherever we go."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9vZCBjb3VydA&hash=ce9294e3f5dc5f446ed974564868a991dc03ec4a&lang=en&cache-only=0",
+            "defineEn": "an area in a public place such as a shopping mall, etc. where multiple small restaurants are located",
+            "defineVi": "một khu vực ở nơi công cộng như trung tâm mua sắm, v.v. nơi có nhiều nhà hàng nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "90cbcd6d-7f43-4938-a1cb-144cdaead93f",
+            "word": "gastropub",
+            "phonetic": "ɡæstɹəpʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In Frederick, Virginia, Mike Mansfield's gastropub began a phased reopening today.",
+                "High Country Market and Gastropub is one such business."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FzdHJvcHVi&hash=aa7443676d79233a0c8d7c1fd4cbd3f0fed5bdf3&lang=en&cache-only=0",
+            "defineEn": "a type of bar or restaurant that serves high-quality food, beer, and wine in a relaxed and comfortable atmosphere",
+            "defineVi": "một loại quán bar hoặc nhà hàng phục vụ đồ ăn, bia và rượu chất lượng cao trong một bầu không khí thoải mái và dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "e05f3519-7b84-473c-830b-3c01b4ef3420",
+            "word": "greasy spoon",
+            "phonetic": "ɡɹiːzi spuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlYXN5IHNwb29u&hash=a6e977ec7021060642eae63daec95bc76bcc60e3&lang=en&cache-only=0",
+            "defineEn": "a small cheap restaurant or café where fried foods are served",
+            "defineVi": "một nhà hàng hoặc quán cà phê nhỏ giá rẻ nơi phục vụ đồ chiên",
+            "hasImg": true
+        },
+        {
+            "id": "a38da1aa-df87-4953-bf6d-5886449d6ea9",
+            "word": "luncheonette",
+            "phonetic": "lʌntʃənɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bHVuY2hlb25ldHRl&hash=0804601ea51d05dbfed6a34a277b09c963e3298e&lang=en&cache-only=0",
+            "defineEn": "a small restaurant where light meals are served",
+            "defineVi": "một nhà hàng nhỏ nơi phục vụ các bữa ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "124e35ae-22b4-46d3-8832-6d8f04f1b3d9",
+            "word": "pizzeria",
+            "phonetic": "piːtsɚɹiə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We ate at a pizzeria.",
+                "So the fracas spilled out from Sal's pizzeria to the street.",
+                "- I'm Daniele Uditi, we are Pizzana in Brentwood, Los Angeles, and this is my first pizzeria in this beautiful city.",
+                "Thanks to three things: Chuck E. Cheese's could fit over 400 guests, way more than any other pizzerias.",
+                "When Sal's pizzeria is set ablaze, Sunny, the Korean store owner becomes a target of the mob."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGl6emVyaWE&hash=ccf2e68ea338666532e44937dddcc212730ef174&lang=en&cache-only=0",
+            "defineEn": "a restaurant where mainly pizza is served",
+            "defineVi": "một nhà hàng chủ yếu phục vụ bánh pizza",
+            "hasImg": true
+        },
+        {
+            "id": "5ec56b5f-45e2-49a0-b08f-6c5acfcedc38",
+            "word": "pub",
+            "phonetic": "pʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does this pub do lunches?",
+                "He and his fellow workers would incessantly talk shop in the village pub.",
+                "He was in the pub drowning his sorrows after the break-up of his relationship.",
+                "After the row in a pub he drove off in a huff.",
+                "There were a couple of drunkards having a go outside our local pub last night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVi&hash=f080cd89b60a34b427be0c712df2a5e07ca40e30&lang=en&cache-only=0",
+            "defineEn": "a place where alcoholic and non-alcoholic drinks, and often food, are served",
+            "defineVi": "một nơi phục vụ đồ uống có cồn và không cồn, và thường là thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "ad9cf7ae-c099-486c-8162-a5aabfd5b134",
+            "word": "restaurant",
+            "phonetic": "ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The restaurant featured a signature dish of slow-roasted brisket.",
+                "On the credit side, the restaurant offers a wide range of choices.",
+                "The restaurant served their fish and chips with a side of brown sauce.",
+                "The restaurant served a mouthwatering plate of spaghetti with bolognese pasta sauce.",
+                "The restaurant offered a delightful combination of prosciutto and Parmesan tortelli."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzdGF1cmFudA&hash=d50fe30d7809a0b05960468add36e69277bff29e&lang=en&cache-only=0",
+            "defineEn": "a place where we pay to sit and eat a meal",
+            "defineVi": "một nơi mà chúng tôi trả tiền để ngồi và ăn một bữa ăn",
+            "hasImg": true
+        },
+        {
+            "id": "53253809-a266-41a4-a290-e27cab4f23bc",
+            "word": "roadhouse",
+            "phonetic": "ɹoʊdhaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cm9hZGhvdXNl&hash=4f603081426f640a3246af09b2ee13741944b3bc&lang=en&cache-only=0",
+            "defineEn": "a restaurant, inn, etc. located near a major road outside city limits",
+            "defineVi": "một nhà hàng, quán trọ, v.v. nằm gần một con đường lớn bên ngoài giới hạn thành phố",
+            "hasImg": true
+        },
+        {
+            "id": "a9468694-08ef-44f2-a529-60732e9cd3e2",
+            "word": "snack bar",
+            "phonetic": "snæk bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c25hY2sgYmFy&hash=d5bceb63d89e20a677f81460412ec70b23cca6f1&lang=en&cache-only=0",
+            "defineEn": "a place in which small meals such as sandwiches, etc. are sold",
+            "defineVi": "một nơi bán các bữa ăn nhỏ như bánh mì, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "371d7c28-b96e-4977-87b6-f3508623480c",
+            "word": "steakhouse",
+            "phonetic": "steɪkhaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The steakhouse served juicy lamb chops, perfectly grilled to perfection.",
+                "He went to a steakhouse and ordered a juicy steak cooked to perfection.",
+                "She visited a renowned steakhouse and savored a mouthwatering plate of grilled lamb ribs.",
+                "And then you go to Outback Steakhouse",
+                "There's alternatives like steakhouses and more closer to fine-dining-type places, oyster bars, cocktail bars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RlYWtob3VzZQ&hash=b8b4aa1ac765155aa7e14d4c504e16e8daa23f68&lang=en&cache-only=0",
+            "defineEn": "a restaurant which primarily serves steaks",
+            "defineVi": "một nhà hàng chủ yếu phục vụ bít tết",
+            "hasImg": true
+        },
+        {
+            "id": "b37e8bb3-45bd-409a-b4f1-2d805696b211",
+            "word": "carry-out",
+            "phonetic": "teɪkaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2Fycnktb3V0&hash=65db647a883a708ffd46fe2675bb63ada765d472&lang=en&cache-only=0",
+            "defineEn": "a restaurant in which food is sold to be eaten elsewhere",
+            "defineVi": "một nhà hàng trong đó thực phẩm được bán để ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "2cd3433e-8c51-4c61-95da-00973cb006ff",
+            "word": "tea room",
+            "phonetic": "tiː ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "'The tea room?' said Nick.",
+                "'The tea room?' said Nick.",
+                "He asked me about the tea room.'",
+                "He asked me about the tea room.'",
+                "A tea party Nick looked through the doors of the tea room in the Empress Hotel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVhIHJvb20&hash=f1c21b760866842d0d9c86445c8ab026b24b0a1b&lang=en&cache-only=0",
+            "defineEn": "a café or small restaurant where coffee, tea, and light meals are served",
+            "defineVi": "một quán cà phê hoặc nhà hàng nhỏ phục vụ cà phê, trà và các bữa ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "bf5e6042-f68e-4808-b30f-a2efcbf22b9e",
+            "word": "trattoria",
+            "phonetic": "tɹætoːɹiə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhdHRvcmlh&hash=db36e1171a492360614763ecf0eee52dbe6fa327&lang=en&cache-only=0",
+            "defineEn": "‌an Italian restaurant, which is usually small",
+            "defineVi": "‌một nhà hàng Ý, thường nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "90abdb97-4b3c-438b-bf91-c322015d6659",
+            "word": "wine bar",
+            "phonetic": "waɪn bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2luZSBiYXI&hash=fc2b3e25ddf733d61cfc0eea8bcfe3b6c2f43e28&lang=en&cache-only=0",
+            "defineEn": "a type of bar that primarily serves a variety of wines instead of other alcoholic beverages such as beer",
+            "defineVi": "một loại quán bar chủ yếu phục vụ nhiều loại rượu thay vì đồ uống có cồn khác như bia",
+            "hasImg": true
+        },
+        {
+            "id": "2091b7e0-18bc-41c6-bacd-141e3a2dcc5f",
+            "word": "food court",
+            "phonetic": "fuːd koːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cheap food courts were installed where courtyards were supposed to be.",
+                "Another looked at people eating alone in the food courts of shopping malls.",
+                "Well, it also has the sausage in the little cubes, which I actually do think that that is from the food court.",
+                "And there is, of course, the food court that sells $1.5 hot dogs and other low-priced fare.",
+                "What we really need is a cosmic food court capable of feeding us wherever we go."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9vZCBjb3VydA&hash=ce9294e3f5dc5f446ed974564868a991dc03ec4a&lang=en&cache-only=0",
+            "defineEn": "an area in a public place such as a shopping mall, etc. where multiple small restaurants are located",
+            "defineVi": "một khu vực ở nơi công cộng như trung tâm mua sắm, v.v. nơi có nhiều nhà hàng nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "f9432449-0151-4421-a5c6-3ea64646580a",
+            "word": "public house",
+            "phonetic": "pʌblɪk haʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVibGljIGhvdXNl&hash=67bd19850fcfc26ee233b338927dff67e8f1e1b2&lang=en&cache-only=0",
+            "defineEn": "a building that serves various alcoholic and non-alchoholic drinks, and usually food as well",
+            "defineVi": "một tòa nhà phục vụ nhiều loại đồ uống có cồn và không cồn, và thường là đồ ăn nữa",
+            "hasImg": true
+        },
+        {
+            "id": "6a8283e4-a316-41a9-a3ca-c92efecd96b3",
+            "word": "beer garden",
+            "phonetic": "bɪɹ ɡɑːɹdən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmVlciBnYXJkZW4&hash=6c2d85488b794437e10b5d8ac128866a211b7a7b&lang=en&cache-only=0",
+            "defineEn": "tavern with an outdoor area (usually resembling a garden) where beer and other alcoholic drinks are served",
+            "defineVi": "quán rượu có khu vực ngoài trời (thường giống như một khu vườn), nơi phục vụ bia và đồ uống có cồn khác"
+        },
+        {
+            "id": "9ee79442-a626-4fab-bc13-281b5250ec83",
+            "word": "coffeehouse",
+            "phonetic": "kɔfihaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With the Enlightenment era, the game moved from royal courts to coffeehouses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29mZmVlaG91c2U&hash=aafdcbb780daddd7f2950b7c285ca4a2bdd2c6e8&lang=en&cache-only=0",
+            "defineEn": "a place where people can buy and consume coffee as well as other drinks, food, and desserts while relaxing or socializing",
+            "defineVi": "một nơi mà mọi người có thể mua và uống cà phê cũng như các loại đồ uống, thức ăn và món tráng miệng khác trong khi thư giãn hoặc giao lưu",
+            "hasImg": true
+        },
+        {
+            "id": "23ecfda9-2a4f-4d61-86f6-c951aadada92",
+            "word": "Tex-Mex",
+            "phonetic": "tɛksmɛks ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It briefly sold Tex-Mex food with its version of chicken fajitas, made with chicken, cheese, green peppers, and onions on a tortilla."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VGV4LU1leA&hash=a10b6be0c4aadac1fb7099d0a6b86ad03000f08f&lang=en&cache-only=0",
+            "defineEn": "a type of meal venue or restaurant that serves Mexican and Texan cuisine",
+            "defineVi": "một loại địa điểm ăn uống hoặc nhà hàng phục vụ ẩm thực Mexico và Texan"
+        },
+        {
+            "id": "e55cea1b-6ea7-49f9-94cd-1ee210fd620d",
+            "word": "teahouse",
+            "phonetic": "tiːhaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGVhaG91c2U&hash=ff48729157251910a49868087b1eeb8d8f8f2c27&lang=en&cache-only=0",
+            "defineEn": "a place for preparing and serving tea, often featuring traditional architectural elements and providing a serene setting for tea ceremonies and social gatherings",
+            "defineVi": "một nơi để chuẩn bị và phục vụ trà, thường có các yếu tố kiến trúc truyền thống và cung cấp một khung cảnh thanh bình cho các nghi lễ trà và các cuộc tụ họp xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "612abd15-3680-481f-afed-c061df1da47b",
+            "word": "dining car",
+            "phonetic": "daɪnɪŋ kɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGluaW5nIGNhcg&hash=2a749fa48c48efd0395fea0dc72f016bfd62dec8&lang=en&cache-only=0",
+            "defineEn": "a passenger car where food is served in transit",
+            "defineVi": "một chiếc xe khách nơi thức ăn được phục vụ trong quá cảnh",
+            "hasImg": true
+        },
+        {
+            "id": "3d0c2f1f-45f2-4aac-b64a-fc480b83f2d0",
+            "word": "delicatessen",
+            "phonetic": "dɛlɪkæɾɛsən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is the Stage Delicatessen"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVsaWNhdGVzc2Vu&hash=e74f7083c1fadfa4e4918d1fb39ed62e008c8308&lang=en&cache-only=0",
+            "defineEn": "a shop or part of one that sells high-quality foods, such as types of cooked meat, cheese, and unusual foods that come from other countries",
+            "defineVi": "một cửa hàng hoặc một phần của cửa hàng bán thực phẩm chất lượng cao, chẳng hạn như các loại thịt nấu chín, pho mát và các loại thực phẩm khác thường đến từ các quốc gia khác",
+            "hasImg": true
+        },
+        {
+            "id": "37d1ae37-617f-4fdf-a658-eabfb272252c",
+            "word": "restaurant chain",
+            "phonetic": "ɹɛstɹɑːnt tʃeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVzdGF1cmFudCBjaGFpbg&hash=e82e9209f390126c7655845f9d42493356d0d8ee&lang=en&cache-only=0",
+            "defineEn": "a set of restaurants in different locations under the same ownership",
+            "defineVi": "một tập hợp các nhà hàng ở các địa điểm khác nhau dưới cùng một quyền sở hữu"
+        },
+        {
+            "id": "c2ee4997-6556-4934-9ff8-8bc99b66c08b",
+            "word": "supper club",
+            "phonetic": "sʌpɚ klʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VwcGVyIGNsdWI&hash=aa21bd9326d2a77d316bc9af985f3c501d97dc19&lang=en&cache-only=0",
+            "defineEn": "usually a small luxurious nightclub",
+            "defineVi": "thường là một hộp đêm nhỏ sang trọng"
+        },
+        {
+            "id": "6ab28b89-4d4a-438b-9a48-379dd9db237a",
+            "word": "food truck",
+            "phonetic": "fuːd tɹʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zm9vZCB0cnVjaw&hash=cbaab702ede2ffb0c184ef7551ffc2fd627ae346&lang=en&cache-only=0",
+            "defineEn": "a movable kitchen that serves food on the street or at events, usually from the side or back of a truck or van",
+            "defineVi": "một nhà bếp di động phục vụ thức ăn trên đường phố hoặc tại các sự kiện, thường là từ bên cạnh hoặc phía sau xe tải hoặc xe van"
+        },
+        {
+            "id": "550e8dbb-dd68-4101-95d3-81eb54c56102",
+            "word": "ethnic restaurant",
+            "phonetic": "ɛθnɪk ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXRobmljIHJlc3RhdXJhbnQ&hash=2f004c734bf3da2a80dd5eb304029eff798833f7&lang=en&cache-only=0",
+            "defineEn": "a type of restaurant that serves cuisine from a specific cultural or regional group, offering dishes that are traditional to that culture or region",
+            "defineVi": "một loại nhà hàng phục vụ các món ăn từ một nhóm văn hóa hoặc khu vực cụ thể, cung cấp các món ăn truyền thống cho nền văn hóa hoặc khu vực đó"
+        },
+        {
+            "id": "60e2354e-44b2-493a-9697-9c455bc639c1",
+            "word": "QSR",
+            "phonetic": "kjuːɛsɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fast casual chains like Panera and Cava resisted the drive-thru model for years, but QSR magazine says that's changing.",
+                "So, you know, it's hard to say that this, you know, this one sandwich changed the trajectory of QSR chicken, but it certainly changed the trajectory for Popeyes.",
+                "It's not with Impossible Foods, but it's like it's a segment that's probably here to stay and it will continue to grow and we are very proud and happy to be like one of the first brands if not the first brand that brought that into scale in QSR fast food especially in the US."
+            ],
+            "audio": "https://tts.langeek.co/read?text=UVNS&hash=4bc7dcba052926f45930df15493835656a5ab649&lang=en&cache-only=0",
+            "defineEn": "a type of restaurant that provides fast and efficient service for customers",
+            "defineVi": "một loại nhà hàng cung cấp dịch vụ nhanh chóng và hiệu quả cho khách hàng"
+        },
+        {
+            "id": "fa8c26a4-a249-4b31-80a0-4159a2c13f66",
+            "word": "fast-food restaurant",
+            "phonetic": "fæstfuːd ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdC1mb29kIHJlc3RhdXJhbnQ&hash=fb3f90bc1a3e6264f075357573ea48d4a367b2a9&lang=en&cache-only=0",
+            "defineEn": "a type of eatery that offers quick and convenient service, typically inexpensive and easy to consume on-the-go",
+            "defineVi": "một loại quán ăn cung cấp dịch vụ nhanh chóng và thuận tiện, thường không tốn kém và dễ tiêu thụ khi đang di chuyển"
+        },
+        {
+            "id": "8e89336f-9742-4560-8585-8df579b683c3",
+            "word": "fast casual restaurant",
+            "phonetic": "fæst kæʒuːəl ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdCBjYXN1YWwgcmVzdGF1cmFudA&hash=778df907e4b2491d5da6253333eb639b35e2161e&lang=en&cache-only=0",
+            "defineEn": "a type of eatery that provides a higher-quality, more customized dining experience compared to fast food, typically with a higher price point",
+            "defineVi": "một loại hình quán ăn cung cấp trải nghiệm ăn uống chất lượng cao hơn, tùy chỉnh hơn so với thức ăn nhanh, thường có mức giá cao hơn"
+        },
+        {
+            "id": "0e80c1d3-e4af-4069-92ef-23461f6cd20e",
+            "word": "casual dining restaurant",
+            "phonetic": "kæʒuːəl daɪnɪŋ ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FzdWFsIGRpbmluZyByZXN0YXVyYW50&hash=8645799916c20efc93701922c344309a140fb1da&lang=en&cache-only=0",
+            "defineEn": "an establishment that offers a moderately priced menu, table service, and a relaxed atmosphere for dining",
+            "defineVi": "một cơ sở cung cấp thực đơn có giá vừa phải, dịch vụ bàn và không gian ăn uống thoải mái"
+        },
+        {
+            "id": "c474800c-c39a-4be2-876e-96569c3d0f23",
+            "word": "premium casual restaurant",
+            "phonetic": "pɹiːmiəm kæʒuːəl ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlbWl1bSBjYXN1YWwgcmVzdGF1cmFudA&hash=e18f26a8454a08a44615287b67ee015cd36d77e5&lang=en&cache-only=0",
+            "defineEn": "a type of dining establishment that provides a higher level of quality, service, and ambiance than a traditional casual dining restaurant",
+            "defineVi": "một loại cơ sở ăn uống cung cấp chất lượng, dịch vụ và không gian cao hơn so với một nhà hàng ăn uống bình thường truyền thống"
+        },
+        {
+            "id": "d84ff53b-1c01-4fb5-a05c-1dc208b4103a",
+            "word": "family style restaurant",
+            "phonetic": "fæmɪli staɪl ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFtaWx5IHN0eWxlIHJlc3RhdXJhbnQ&hash=edc8c1b330c599cb421d52bac84cc2d15408d39a&lang=en&cache-only=0",
+            "defineEn": "a type of dining establishment that serves meals meant to be shared by multiple diners at the same table",
+            "defineVi": "một loại cơ sở ăn uống phục vụ các bữa ăn được chia sẻ bởi nhiều thực khách trong cùng một bàn"
+        },
+        {
+            "id": "4f69ea46-0e30-46a9-bb97-84ddca312eb6",
+            "word": "fine dining restaurant",
+            "phonetic": "faɪn daɪnɪŋ ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmluZSBkaW5pbmcgcmVzdGF1cmFudA&hash=d1939213ac862769209b5ecaf811c24af821f19f&lang=en&cache-only=0",
+            "defineEn": "an upscale establishment that offers high-quality cuisine, sophisticated service, and an elegant ambiance",
+            "defineVi": "một cơ sở cao cấp cung cấp các món ăn chất lượng cao, dịch vụ tinh tế và bầu không khí trang nhã"
+        },
+        {
+            "id": "17119350-2b9e-48be-a2df-8e4620e8ae5c",
+            "word": "buffet",
+            "phonetic": "bʌfɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At a family reunion picnic, the buffet table showcased a classic beef plate roast.",
+                "Our scalp is their buffet.",
+                "Think: Las Vegas buffet.",
+                "The stream delivers an endless buffet of new victims.",
+                "In the process, it releases a buffet of long dead plants and animals on the lake floor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVmZmV0&hash=2fdc68f23739d81b0ef367d9802e48892bd3769f&lang=en&cache-only=0",
+            "defineEn": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+            "defineVi": "một bữa ăn với nhiều món ăn mà mọi người tự phục vụ tại bàn và sau đó ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "99f7f617-bf61-486e-9515-4335bd52c762",
+            "word": "self-service",
+            "phonetic": "sɛlfsɜːvɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "There'll be no self-service at all.",
+                "The first self-service supermarket, Piggly Wiggly, opened in 1916 in Memphis, Tennessee.",
+                "Glenn started with a self-service hamburger stand in 1948 in San Bernardino, California.",
+                "Its self-service strategy had customers shop for shoes themselves, allowing the company to employ fewer people and save on operating costs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VsZi1zZXJ2aWNl&hash=6e0922acc3f67a21d49a1498e4817ae14f887b35&lang=en&cache-only=0",
+            "defineEn": "(of a restaurant, store, etc.) providing customers with the chance to serve themselves and then pay for it",
+            "defineVi": "(của một nhà hàng, cửa hàng, v.v.) cung cấp cho khách hàng cơ hội tự phục vụ và sau đó trả tiền cho việc đó",
+            "hasImg": true
+        },
+        {
+            "id": "1343160f-a7d4-4cdd-a527-5cf4c19f6b90",
+            "word": "destination restaurant",
+            "phonetic": "dɛstɪneɪʃən ɹɛstɹɑːnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVzdGluYXRpb24gcmVzdGF1cmFudA&hash=5ba1f88bdf634f9760dfa1388603ea7e59880a4c&lang=en&cache-only=0",
+            "defineEn": "a dining establishment that is so highly regarded or unique that it becomes a primary reason or attraction for people to visit a particular location",
+            "defineVi": "một cơ sở ăn uống được đánh giá cao hoặc độc đáo đến mức nó trở thành lý do hoặc điểm thu hút chính để mọi người ghé thăm một địa điểm cụ thể"
+        },
+        {
+            "id": "e5d618ec-9862-47e3-9990-1c21cd22d1ff",
+            "word": "sandwich bar",
+            "phonetic": "sændwɪtʃ bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FuZHdpY2ggYmFy&hash=c16044313a22e997cce09f10b05d4ca61cbf7198&lang=en&cache-only=0",
+            "defineEn": "a place that specializes in making and selling sandwiches, often with a variety of ingredients and options to choose from",
+            "defineVi": "một nơi chuyên sản xuất và bán bánh mì, thường có nhiều loại nguyên liệu và các lựa chọn để lựa chọn"
+        },
+        {
+            "id": "03d1b674-0778-4e8b-bc2d-3c5b640a55a8",
+            "word": "cabaret",
+            "phonetic": "kæbɚɹeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is this year's cabaret egg.",
+                "Brecht combined Piscator’s technique with elements borrowed from cabaret, silent film, and Shakespeare’s history plays to create his own unique style."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FiYXJldA&hash=4ac890bb624ca88c0d56f095a4725d8a628000a5&lang=en&cache-only=0",
+            "defineEn": "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink",
+            "defineVi": "một địa điểm mở cửa vào đêm khuya và cung cấp dịch vụ giải trí (với tư cách là ca sĩ hoặc vũ công) cũng như khiêu vũ và đồ ăn thức uống",
+            "hasImg": true
+        },
+        {
+            "id": "e2471d19-61ae-4303-aba5-3c6d81ac4ff6",
+            "word": "canteen",
+            "phonetic": "kæntiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Drop the canteens.",
+                "Petty Officer Gunn: Get your canteens above your skulls!",
+                "It is a canteen.",
+                "Nope, just grab your canteen and go.",
+                "Nope, just grab your canteens and go, you failed this event."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FudGVlbg&hash=74e2344e83fd9872109f63f181949605e15c3dfa&lang=en&cache-only=0",
+            "defineEn": "a restaurant or cafeteria located in a workplace, such as a factory or school, where employees or students can purchase and eat food",
+            "defineVi": "một nhà hàng hoặc quán ăn tự phục vụ ở nơi làm việc, chẳng hạn như nhà máy hoặc trường học, nơi nhân viên hoặc sinh viên có thể mua và ăn thức ăn"
+        },
+        {
+            "id": "82bbca12-c061-4bb1-aca3-c985d033d8b1",
+            "word": "coffee bar",
+            "phonetic": "kɔfi bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29mZmVlIGJhcg&hash=b90fec18c4645586dba74b8eebaff4d7d6e8c4db&lang=en&cache-only=0",
+            "defineEn": "a cafe or bar where one can buy non-alcoholic drinks and light snacks",
+            "defineVi": "một quán cà phê hoặc quán bar nơi người ta có thể mua đồ uống không cồn và đồ ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "4f7b75a9-6335-431d-a9e4-8b14045ef8fa",
+            "word": "coffee shop",
+            "phonetic": "kɔfi ʃɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We usually meet at the coffee shop on Fridays.",
+                "John enjoys going to coffee shops for company, as being around people provides him a sense of companionship.",
+                "Steve Hildebrand runs Josiah's coffee shop here in Sioux Falls.",
+                "Narrator: Kaffeeform's cups and mugs are used in 20 coffee shops in Berlin and 150 vendors across Europe.",
+                "Be welcoming to people at the coffee shop."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29mZmVlIHNob3A&hash=129751fa6865338c81071d6e5f341a1dbdd9fc12&lang=en&cache-only=0",
+            "defineEn": "a kind of small restaurant where people can drink coffee, tea, etc. and usually eat light meals too",
+            "defineVi": "một loại nhà hàng nhỏ nơi mọi người có thể uống cà phê, trà, v.v. và thường ăn những bữa ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "5bc75f08-bf85-4e5b-b2e8-be528e75d5ec",
+            "word": "commissary",
+            "phonetic": "kəmɪsɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The new venture kept the commissary kitchen humming."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWlzc2FyeQ&hash=ec348e7f8b712fe93b2fd80cd187cd080d1248bc&lang=en&cache-only=0",
+            "defineEn": "a snack bar in a film studio",
+            "defineVi": "một quán ăn nhanh trong phim trường"
+        },
+        {
+            "id": "821b9924-3ec1-4356-8f01-10fdf3b9d5ef",
+            "word": "cybercafe",
+            "phonetic": "saɪbɚkæfeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3liZXJjYWZl&hash=f361cc3a0b3d4d80dbd160c60deb7a26c25801c7&lang=en&cache-only=0",
+            "defineEn": "a café that provides its customers with internet access",
+            "defineVi": "một quán cà phê cung cấp cho khách hàng của mình truy cập internet",
+            "hasImg": true
+        },
+        {
+            "id": "db045dde-af05-4aea-ab32-76db986ce3e4",
+            "word": "grill",
+            "phonetic": "ɡɹɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad grilled a succulent pork joint with barbecue sauce for a backyard cookout.",
+                "They grilled hamburgers and hot dogs for a casual summer dinner.",
+                "He grilled a juicy chicken breast for his dinner.",
+                "They grilled marinated fryer chicken skewers at the backyard barbecue.",
+                "My dad grilled flatbread and served it with a smoky bean dip."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JpbGw&hash=8aad70ce2eea116a055a9203202ddd7a1c33dab4&lang=en&cache-only=0",
+            "defineEn": "a restaurant where food is cooked on a grill",
+            "defineVi": "một nhà hàng nơi thức ăn được nấu trên vỉ nướng"
+        },
+        {
+            "id": "e0006ad2-1e52-4964-a1cb-45ff5576fbd3",
+            "word": "hole-in-the-wall",
+            "phonetic": "hoʊlɪnðəwɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9sZS1pbi10aGUtd2FsbA&hash=d3acede3de94b7dca85423ff2b1f8a8094ebe3a2&lang=en&cache-only=0",
+            "defineEn": "a small unpretentious out-of-the-way place",
+            "defineVi": "một nơi nhỏ không phô trương"
+        },
+        {
+            "id": "26750506-26df-42f5-92ef-ef41cbb46111",
+            "word": "joint",
+            "phonetic": "dʒɔɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad grilled a succulent pork joint with barbecue sauce for a backyard cookout.",
+                "Nobody lays a glove on your joint.",
+                "Mrs. Tinker puts my nose out of joint by bringing you the Lilies of the Field.",
+                "Ever since Bill got that traffic ticket, he's had his nose out of joint.",
+                "I smoked a joint an hour ago, and I'm still waiting to come up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=am9pbnQ&hash=7060cbece844a5297f8a05981f4bf489c20609d5&lang=en&cache-only=0",
+            "defineEn": "a disreputable place of entertainment",
+            "defineVi": "một nơi giải trí tai tiếng",
+            "hasImg": true
+        },
+        {
+            "id": "32d74b7c-a217-444c-aa44-27a6a5881ee4",
+            "word": "saloon",
+            "phonetic": "sɐluːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Kinetoscope and Kinetophone movies took off in saloons.",
+                "The saloon is on the U.S. side.",
+                "The monument will remain, but the saloon will be torn down.",
+                "It first gained traction during the Industrial Revolution as new populations of workers poured into cities and men gathered in saloons to drink.",
+                "Hey, where is the nearest saloon?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Fsb29u&hash=d0aa3f9790f4e927872345b9a63219ab663b6637&lang=en&cache-only=0",
+            "defineEn": "a room or establishment where alcoholic drinks are served over a counter",
+            "defineVi": "một căn phòng hoặc cơ sở nơi đồ uống có cồn được phục vụ trên quầy",
+            "hasImg": true
+        },
+        {
+            "id": "5b5c6dbb-101e-4ef0-adff-dfc44437122f",
+            "word": "club",
+            "phonetic": "klʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His clubs are collecting dust now.",
+                "The club has an important place in the community as far as golf is concerned.",
+                "Are you coming to the club with us tonight?",
+                "The club will cease to exist if financial help is not found.",
+                "They joined a swimming club to meet other swimmers and train together."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2x1Yg&hash=022ac594dac510e016ebbd16f69a0797da4e2f78&lang=en&cache-only=0",
+            "defineEn": "a place where people, especially young people, go to dance, listen to music, or spend time together",
+            "defineVi": "một nơi mà mọi người, đặc biệt là những người trẻ tuổi, đến khiêu vũ, nghe nhạc hoặc dành thời gian cho nhau",
+            "hasImg": true
+        }
+    ]
+}

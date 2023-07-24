@@ -1,0 +1,356 @@
+{
+    "id": "abd36bb1-aff3-40f8-af5a-139ccddc417f",
+    "title": "Mexican Food",
+    "originalTitle": "Mexican Food",
+    "words": [
+        {
+            "id": "b1a0bc0b-d58a-4019-ae38-bce103a73023",
+            "word": "taco",
+            "phonetic": "tɑːkoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tacos aren't complete without a generous amount of grated cheese on top.",
+                "The fish tacos were topped with tangy slaw and creamy sauce.",
+                "We added sauerkraut to our tacos for an extra burst of flavor.",
+                "The menu featured a creative dish of beef plate tacos.",
+                "He added a squeeze of lemon to his fish tacos for a citrusy twist."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFjbw&hash=c65e0696d83a376c2fd286cb3f3d1f0f15f6dbf1&lang=en&cache-only=0",
+            "defineEn": "a dish that consists of a folded tortilla filled with ground meat, beans, etc., originated in Mexico",
+            "defineVi": "một món ăn bao gồm một chiếc bánh tortilla gấp lại chứa đầy thịt xay, đậu, v.v., có nguồn gốc từ Mexico",
+            "hasImg": true
+        },
+        {
+            "id": "1efa9843-3131-4cbd-b454-dd8d7111f5de",
+            "word": "fajita",
+            "phonetic": "fɐhiːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It briefly sold Tex-Mex food with its version of chicken fajitas, made with chicken, cheese, green peppers, and onions on a tortilla."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFqaXRh&hash=c10055536e2b9dadb56c20a5dda19fd111b39b74&lang=en&cache-only=0",
+            "defineEn": "‌a dish of strips of meat, cut up vegetables, and cheese wrapped in a tortilla and often served with sour cream, originated in Mexico",
+            "defineVi": "‌một món ăn gồm các dải thịt, rau cắt nhỏ và phô mai bọc trong bánh tortilla và thường ăn kèm với kem chua, có nguồn gốc từ Mexico",
+            "hasImg": true
+        },
+        {
+            "id": "7495dbae-e20b-4040-b56d-6f9aca666b5a",
+            "word": "burrito",
+            "phonetic": "bɜːɹiːɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The vegetarian menu offers a delicious black bean burrito as a protein-packed option.",
+                "He ordered a burrito with chipotle sauce, enjoying the smoky and spicy flavor it added to the dish.",
+                "I like to mix cooked brown rice with black beans, corn, and salsa for a flavorful and filling burrito filling.",
+                "I needed that burrito blanket.",
+                "And the burrito is that big."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVycml0bw&hash=653ab3b4393fffd470253811b50e562a983751f2&lang=en&cache-only=0",
+            "defineEn": "a dish of a tortilla wrapped around a mixture of ground meat or beans, originated in Mexico",
+            "defineVi": "một đĩa bánh ngô bao quanh hỗn hợp thịt xay hoặc đậu, có nguồn gốc từ Mexico",
+            "hasImg": true
+        },
+        {
+            "id": "dbf48364-bb91-4381-b4e1-64b2a403bd4b",
+            "word": "quesadilla",
+            "phonetic": "keɪsədiːə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- They make a quesadilla.",
+                "Quesadilla, and then they make the cheese quesadilla, and then they wrap that as the surroundings for the burrito.",
+                "- They make it into a quesadilla.",
+                "Quesadilla, and then they make the cheese quesadilla, and then they wrap that as the surroundings for the burrito.",
+                "It's definitely like, the doneness of a quesadilla at the moment, so I think if I tried to roll this, it would not go too great."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVlc2FkaWxsYQ&hash=fb1d22e6ccb5104af2a78755ccb34a94dec82423&lang=en&cache-only=0",
+            "defineEn": "a dish of a tortilla filled with cheese and sometimes meat and then fried, originated in Mexico",
+            "defineVi": "một đĩa bánh tortilla chứa đầy phô mai và đôi khi là thịt rồi chiên, có nguồn gốc từ Mexico",
+            "hasImg": true
+        },
+        {
+            "id": "46bf9d26-4439-4e5f-82d5-6cd5594ea634",
+            "word": "barbacoa",
+            "phonetic": "bɑːɹbɐkoʊə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFyYmFjb2E&hash=d42d4647a342538b5f1f9aef594f0fee92f04f0f&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican dish made from slow-cooked, seasoned meat that is tender and flavorful",
+            "defineVi": "một món ăn truyền thống của Mexico được chế biến từ thịt nấu chín chậm, mềm và có hương vị"
+        },
+        {
+            "id": "67841900-b95b-42a7-ad55-add3a8d470b0",
+            "word": "chilaquiles",
+            "phonetic": "tʃɪlɐkwaɪlz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGFxdWlsZXM&hash=e6a6fba129fff38ae277739b38caa3353492cc11&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with fried or baked tortilla chips (or strips) simmered in a tomato or tomatillo sauce",
+            "defineVi": "một món ăn Mexico được làm bằng bánh tortilla chiên hoặc nướng (hoặc dải) đun sôi trong nước sốt cà chua hoặc cà chua"
+        },
+        {
+            "id": "181046b7-bbe1-4793-beb1-4783a8591da0",
+            "word": "huevos rancheros",
+            "phonetic": "hweɪvoʊz ɹæntʃɛɹoʊz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHVldm9zIHJhbmNoZXJvcw&hash=eab40d3e78c034cf9d5d42c6765d664c564c6207&lang=en&cache-only=0",
+            "defineEn": "a Mexican breakfast dish consisting of fried or poached eggs served on top of tortillas",
+            "defineVi": "một món ăn sáng của Mexico bao gồm trứng chiên hoặc luộc được phục vụ trên bánh ngô"
+        },
+        {
+            "id": "ea5a562b-6733-484b-81cd-876679aafc62",
+            "word": "machaca",
+            "phonetic": "mætʃɑːkə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFjaGFjYQ&hash=835653cb4517517d0d68b4cc149cc94f56ef434d&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made from dried, shredded beef or pork that is typically seasoned with spices",
+            "defineVi": "một món ăn Mexico làm từ thịt bò hoặc thịt lợn khô, xé nhỏ thường được tẩm gia vị"
+        },
+        {
+            "id": "c213723d-b251-437d-b256-10909fedf3c2",
+            "word": "discada",
+            "phonetic": "dɪskɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY2FkYQ&hash=0e2190eb171d8047633d7857b84e5457ae9e834a&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made from a combination of various meats, cooked on a large, flat disc-shaped griddle called a disco",
+            "defineVi": "một món ăn Mexico được làm từ sự kết hợp của nhiều loại thịt khác nhau, được nấu trên một vỉ nướng hình đĩa phẳng lớn gọi là disco"
+        },
+        {
+            "id": "186b7395-30e7-43d7-b6aa-06707e8956ec",
+            "word": "menudo",
+            "phonetic": "mɛnjuːdoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But the modern boy band seems to really kick off in the early 1980s with groups like Menudo and New Edition.",
+                "But non-white boy bands (with exceptions for groups like Boyz II Men) largely did not have the same mainstream success of their all white counterparts, leading many to consider the boy band archetype to be groups like Backstreet Boys and New Kids on the Block, even though they were proceed by acts like New Edition and Menudo."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVudWRv&hash=3b1ca4b82b68b9c55c11f042c683216d36beab31&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican soup made with beef tripe, typically simmered in a chili-based broth with hominy and seasoned with spices",
+            "defineVi": "một món súp truyền thống của Mexico được làm từ lòng bò, thường được ninh trong nước dùng có ớt với hominy và nêm gia vị"
+        },
+        {
+            "id": "eeb27992-e590-462d-8dab-a3662f389a92",
+            "word": "enchilada",
+            "phonetic": "ɛntʃɪlɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The renowned scientist, Dr. Rebecca Thompson, is considered the big enchilada in the field of quantum physics.",
+                "High-tech gadgetry is the spice, but not the whole enchilada.",
+                "The conference is attended by industry leaders and big enchiladas who share their expertise and insights.",
+                "The team has a good chance in the playoffs and may win the whole enchilada this year.",
+                "Let's throw a party - birthday cake, balloons, the whole enchilada."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5jaGlsYWRh&hash=ee9330be40b1c95f818e8b0e9d3111b855d35174&lang=en&cache-only=0",
+            "defineEn": "a dish of tortilla filled with meat or cheese and covered with a spicy sauce, originated in Mexico",
+            "defineVi": "một món bánh tortilla nhân thịt hoặc phô mai và phủ sốt cay, có nguồn gốc từ Mexico",
+            "hasImg": true
+        },
+        {
+            "id": "60564a51-1b38-4cfa-9b84-a2d6232fa249",
+            "word": "aguachile",
+            "phonetic": "æɡjuːækaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWd1YWNoaWxl&hash=9450687f9029764c9f22e78b7819e092d00607da&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish consisting of raw seafood, typically shrimp or fish, marinated in a tangy and spicy chili-lime sauce",
+            "defineVi": "một món ăn Mexico bao gồm hải sản sống, điển hình là tôm hoặc cá, ướp trong nước sốt ớt chanh thơm và cay"
+        },
+        {
+            "id": "145ce496-cff6-4c54-8e5e-8ce3649d85f0",
+            "word": "cemita",
+            "phonetic": "sɛmiːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2VtaXRh&hash=8c9450bde9f69fcb37d9a44298fc08e42430376e&lang=en&cache-only=0",
+            "defineEn": "a Mexican sandwich made with a sesame seed-covered roll, typically filled with meat, cheese, avocado",
+            "defineVi": "một loại bánh mì Mexico được làm bằng một cuộn phủ hạt vừng, thường chứa đầy thịt, pho mát, bơ"
+        },
+        {
+            "id": "4ea6d5a4-83c5-4fe8-9d18-57c8ba449fb6",
+            "word": "arroz rojo",
+            "phonetic": "æɹɑːz ɹoʊdʒoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXJyb3ogcm9qbw&hash=ca49b922b1cf5422f81a22404954b3dda0a8bf37&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with red rice cooked with tomato sauce, spices, and sometimes vegetables or meat",
+            "defineVi": "một món ăn Mexico làm từ gạo đỏ nấu với nước sốt cà chua, gia vị và đôi khi là rau hoặc thịt"
+        },
+        {
+            "id": "2a9e990a-e5a7-4d96-8c9f-8a45d18c34ad",
+            "word": "molote",
+            "phonetic": "mɑːloʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9sb3Rl&hash=d7e64e91614c01cbc16958f97935a427f7b1f432&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with a tortilla filled with mashed potatoes, meat, and other ingredients",
+            "defineVi": "một món ăn Mexico được làm bằng bánh tortilla chứa đầy khoai tây nghiền, thịt và các thành phần khác"
+        },
+        {
+            "id": "452d1b3d-eb90-4101-87ad-5ae0e9be625b",
+            "word": "flauta",
+            "phonetic": "flɔːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmxhdXRh&hash=bb2d1953f98348456bfb8ef9d6ef11ccb606d6bb&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made by rolling a tortilla with meat, cheese, or other fillings, and then frying until crispy",
+            "defineVi": "một món ăn Mexico được làm bằng cách cuộn một chiếc bánh tortilla với thịt, pho mát hoặc các loại nhân khác, sau đó chiên cho đến khi giòn"
+        },
+        {
+            "id": "f1ccc283-b5f6-4c23-8d38-5f9f32ed07a9",
+            "word": "sope",
+            "phonetic": "soʊpeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29wZQ&hash=e448bcf36bac015fab790011cae628c108cf8c4d&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican dish made with a thick, fried or toasted masa base, topped with meat, beans, cheese, and other toppings",
+            "defineVi": "một món ăn truyền thống của Mexico được làm bằng masa dày, chiên hoặc nướng, bên trên là thịt, đậu, pho mát và các loại phủ khác"
+        },
+        {
+            "id": "40a9da3f-45e1-4eeb-a573-c1e39c6b86ce",
+            "word": "puntas",
+            "phonetic": "pʌntəz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVudGFz&hash=2d7e6d66c1dc28aa96f4979d2df881bb8c14034a&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with thinly sliced beef cooked in its own juices",
+            "defineVi": "một món ăn Mexico được làm từ thịt bò thái lát mỏng nấu trong nước ép của chính nó"
+        },
+        {
+            "id": "0340e55e-09dd-411f-a785-49fe11ff748b",
+            "word": "chili",
+            "phonetic": "tʃɪli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He enjoyed a chili cheese frankfurter, smothered in homemade chili sauce and melted cheddar cheese.",
+                "He couldn't handle the heat of the chili pepper and reached for a glass of water.",
+                "She loved the spicy kick that chili pepper added to her homemade salsa.",
+                "You can elevate your tacos by spooning some chili sauce onto the fillings.",
+                "I love to pepper my popcorn with a sprinkle of chili powder for a spicy snack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGk&hash=ee971b0b467656969bfe65db966cdeee09c0a507&lang=en&cache-only=0",
+            "defineEn": "a spicy stew made from tomatoes, peppers, onions, and other ingredients, usually including ground beef or pork",
+            "defineVi": "một món hầm cay làm từ cà chua, ớt, hành tây và các thành phần khác, thường bao gồm thịt bò hoặc thịt lợn xay",
+            "hasImg": true
+        },
+        {
+            "id": "443f0cfb-c48b-4fb8-a64a-ffba5df340b3",
+            "word": "enmolada",
+            "phonetic": "ɛnməlɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZW5tb2xhZGE&hash=7d41ad1bc74e8f8a75ea7c516a718b063b5c1617&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with tortillas filled with meat or other ingredients, and covered with mole sauce",
+            "defineVi": "một món ăn Mexico được làm bằng bánh ngô nhân thịt hoặc các thành phần khác, và phủ nước sốt chuột chũi"
+        },
+        {
+            "id": "f43a5068-d6b4-4516-8552-01a3269afa07",
+            "word": "enfrijolada",
+            "phonetic": "ɛnfɹɪdʒəlɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZW5mcmlqb2xhZGE&hash=f5763b294e03dca6c1df451109890da4d6408aaa&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made with tortillas dipped in bean (frijol) sauce, typically made from cooked and blended beans",
+            "defineVi": "một món ăn Mexico làm từ bánh tortillas nhúng trong nước sốt đậu (frijol), thường được làm từ đậu nấu chín và trộn"
+        },
+        {
+            "id": "59715c95-17aa-4880-822a-50ecac98ff5d",
+            "word": "bionico",
+            "phonetic": "baɪɑːnɪkoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ymlvbmljbw&hash=b33b2abdf3b478c5af4b2c10ad2da64419a71d7b&lang=en&cache-only=0",
+            "defineEn": "a Mexican dessert made with diced fruit, usually served with yogurt, sweet cream, and granola",
+            "defineVi": "một món tráng miệng Mexico được làm bằng trái cây thái hạt lựu, thường được dùng với sữa chua, kem ngọt và granola"
+        },
+        {
+            "id": "fdbd4356-fa8f-4f4d-9ad8-3dfab2330c02",
+            "word": "papadzules",
+            "phonetic": "pæpɐdzjuːlz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFwYWR6dWxlcw&hash=7645472a381a9f2bc16d4096590663d8735a9f03&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican dish, made with corn tortillas filled with hard-boiled eggs and covered with a sauce",
+            "defineVi": "một món ăn truyền thống của Mexico, được làm bằng bánh ngô với trứng luộc chín và phủ nước sốt"
+        },
+        {
+            "id": "6414ba5f-ced6-4dda-95f0-5ebf4b2ce98e",
+            "word": "torta",
+            "phonetic": "tɔːɹɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9ydGE&hash=acc320e842662146b9f732ddcc09718da5a2b90c&lang=en&cache-only=0",
+            "defineEn": "a type of Mexican sandwich made with a crusty bread roll called a telera, filled with ingredients such as refried beans, meat, cheese, avocado, and salsa, and often grilled or pressed before serving",
+            "defineVi": "một loại bánh mì Mexico được làm bằng bánh mì cuộn giòn gọi là telera, chứa đầy các nguyên liệu như đậu chiên, thịt, pho mát, bơ và salsa, và thường được nướng hoặc ép trước khi ăn"
+        },
+        {
+            "id": "220f4b41-6781-4b4c-866d-f26857b1b95b",
+            "word": "tamale",
+            "phonetic": "tɐmɑːli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We make a lot of tamales.",
+                "The paches are the best tamales in Latin America.",
+                "This modern recipe I am kind of marrying together the idea of Cherokee bean bread with tamale preparation because they are such similar types of dish.",
+                "Paches are Guatemalan tamales, these are made with tomatoes.",
+                "Every once in awhile, my mom just randomly feels like making tamales and those are the best days."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFtYWxl&hash=2e9927ea6a6ab2e309d178f3a73c41c9f548f522&lang=en&cache-only=0",
+            "defineEn": "dough stuffed with a meat mixture and sometimes wrapped in corn husks and steamed",
+            "defineVi": "bột nhồi với hỗn hợp thịt và đôi khi bọc trong vỏ ngô và hấp"
+        },
+        {
+            "id": "dd54440a-c6d7-43e0-8bee-e0759fbbb9bb",
+            "word": "tostada",
+            "phonetic": "təstɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9zdGFkYQ&hash=3a528e08d7a0364d11e64fe05dcb7380bca3249c&lang=en&cache-only=0",
+            "defineEn": "a flat, fried tortilla topped with cheese, lettuce, tomatoes, and other ingredients, typically served as an appetizer or light meal",
+            "defineVi": "một loại bánh tortilla dẹt, chiên phủ phô mai, rau diếp, cà chua và các nguyên liệu khác, thường được dùng như món khai vị hoặc bữa ăn nhẹ"
+        },
+        {
+            "id": "9d31e540-05ff-46e2-8469-0ff55c27309d",
+            "word": "pambazo",
+            "phonetic": "pæmbɑːzoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFtYmF6bw&hash=2bae8ab9694bee029e5cf580d3f7a66a9b2aa1a2&lang=en&cache-only=0",
+            "defineEn": "a type of Mexican sandwich made with a fried or grilled bread roll that is dipped in red guajillo pepper sauce",
+            "defineVi": "một loại bánh mì Mexico được làm từ bánh mì cuộn chiên hoặc nướng chấm với sốt tiêu guajillo đỏ"
+        },
+        {
+            "id": "ec3e816b-2fc4-4b5c-b19a-1fe752eaa567",
+            "word": "gordita",
+            "phonetic": "ɡoːɹdiːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29yZGl0YQ&hash=dbd24a7e67820795ae8e6ef22777af4b15465c17&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish consisting of a thick masa (corn dough) tortilla that is typically stuffed with a variety of fillings",
+            "defineVi": "một món ăn Mexico bao gồm bánh tortilla masa (bột ngô) dày thường được nhồi với nhiều loại nhân"
+        },
+        {
+            "id": "4fc402dc-38f8-43eb-85c2-def169e3b4ce",
+            "word": "tlayuda",
+            "phonetic": "tiːleɪjuːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGxheXVkYQ&hash=767f108cb9979c892568dc339e29c6b6867af9c0&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican dish consisting of a large, thin, crispy tortilla that is typically topped with refried beans, cheese, meat, and vegetables",
+            "defineVi": "một món ăn truyền thống của Mexico bao gồm một chiếc bánh tortilla lớn, mỏng, giòn, thường được phủ lên trên là đậu chiên, pho mát, thịt và rau"
+        },
+        {
+            "id": "66ae4d1b-3f0a-472a-ba44-b89c7b56a957",
+            "word": "chalupa",
+            "phonetic": "tʃæluːpə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- Is that a eggroll, a burrito, or a chalupa?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhbHVwYQ&hash=493a45cbad43dd12b649a4a3babed1b65f6ab9ca&lang=en&cache-only=0",
+            "defineEn": "a Mexican dish made of a fried corn tortilla shaped like a boat, filled with various toppings",
+            "defineVi": "một món ăn Mexico làm từ bánh ngô chiên có hình dạng như một chiếc thuyền, chứa đầy các loại toppings khác nhau"
+        }
+    ]
+}

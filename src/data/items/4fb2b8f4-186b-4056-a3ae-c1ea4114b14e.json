@@ -1,0 +1,633 @@
+{
+    "id": "4fb2b8f4-186b-4056-a3ae-c1ea4114b14e",
+    "title": "Food and Restaurant",
+    "originalTitle": "Food and Restaurant",
+    "words": [
+        {
+            "id": "02b4bd7b-5640-4f7c-826a-51ae4eddd75e",
+            "word": "flavor",
+            "phonetic": "fleɪvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ham had a smoky flavor.",
+                "A pinch of laver flakes enhances the flavor of miso soup.",
+                "Cheshire cheese has a unique flavor profile.",
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "Feta cheese adds a tangy flavor to salads."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxhdm9y&hash=f8b3f113c1f7f82880b4d5e236025f19d1d36070&lang=en&cache-only=0",
+            "defineEn": "the specific taste that a type of food or drink has",
+            "defineVi": "hương vị cụ thể mà một loại thực phẩm hoặc đồ uống có",
+            "hasImg": true
+        },
+        {
+            "id": "1afda1f4-29e9-4697-b5ff-6448edf88bba",
+            "word": "sour",
+            "phonetic": "saʊɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sour cherry compote is the perfect topping for pancakes or waffles.",
+                "The sour gourd pickle had a delightful combination of tanginess and spiciness.",
+                "He's as sour as vinegar.",
+                "You definitely struck a sour note when you brought up Dan's ex-girlfriends during your best man speech.",
+                "If you leave milk out in a warm place, it will go sour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cg&hash=7592381bbf80a20c064c44dada376715df611f71&lang=en&cache-only=0",
+            "defineEn": "having a sharp acidic taste like lemon",
+            "defineVi": "có vị chua gắt như chanh",
+            "hasImg": true
+        },
+        {
+            "id": "b9f5f256-bc5d-4efe-b407-06e49202dff5",
+            "word": "bitter",
+            "phonetic": "bɪɾɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "Bitter orange peel is a great addition to my herbal remedies.",
+                "Losing to a younger player was a bitter pill to swallow.",
+                "She grimaced at the taste of the bitter medicine.",
+                "Sarah and her ex-husband had a bitter divorce, and there is no love lost between them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0dGVy&hash=a4c043a9f3b714360345d1ec0a09235cf6cf1627&lang=en&cache-only=0",
+            "defineEn": "having a strong taste that is not sweet",
+            "defineVi": "có vị đậm đà không ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "28c2d29f-bf1e-494e-ab34-39687178bfd8",
+            "word": "stale",
+            "phonetic": "steɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "They get stale.",
+                "For example, selling stale Doritos.",
+                "Sucking out the stale blood to make way for the good stuff.",
+                "Ah, contrary to popular belief, things don't get stale because they lose water.",
+                "The Crumbler grinds stale baguettes into breadcrumbs that are so fine they can replace flour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhbGU&hash=62372998eae298301c578d3feff612d2be4ccee2&lang=en&cache-only=0",
+            "defineEn": "(of food, particularly cake and bread) not fresh anymore",
+            "defineVi": "(thức ăn, đặc biệt là bánh và bánh mì) không còn tươi nữa",
+            "hasImg": true
+        },
+        {
+            "id": "aff6fbb7-3a7e-4269-baf9-580a2763189c",
+            "word": "crispy",
+            "phonetic": "kɹɪspi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The street vendor served crispy trotter bites with a tangy dipping sauce at the food market.",
+                "The street vendor served crispy chicken cutlet sandwiches with lettuce and mayonnaise.",
+                "The skinless tilapia fillets were pan-fried until crispy.",
+                "The children enjoyed onion rings as a crispy side dish.",
+                "The crispy skin of the parson's nose offered a satisfying crunch with each bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Jpc3B5&hash=4b8b0949bc3aa8b2240074ced108c7560f32d9b8&lang=en&cache-only=0",
+            "defineEn": "(of food) having a pleasant, dry, and hard texture or surface",
+            "defineVi": "(của thực phẩm) có kết cấu hoặc bề mặt dễ chịu, khô và cứng",
+            "hasImg": true
+        },
+        {
+            "id": "ac2e8744-137c-4845-b294-756f05a85d8e",
+            "word": "chunky",
+            "phonetic": "tʃʌŋki ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The penne pasta perfectly holds the chunky tomato sauce, making each bite flavorful.",
+                "Really chunky HDMI cable.",
+                "This is chunky.",
+                "It's perfectly chunky.",
+                "Boy, that's chunky."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2h1bmt5&hash=09fd6d451d8976b6a9c2cdb713a87dcdcb937299&lang=en&cache-only=0",
+            "defineEn": "(of food) having large pieces",
+            "defineVi": "(của thực phẩm) có miếng lớn",
+            "hasImg": true
+        },
+        {
+            "id": "69c39592-16af-4c91-ab29-ba80d4c62552",
+            "word": "omelet",
+            "phonetic": "ɑːmlət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can add a touch of sweetness to your omelet by swirling some ketchup into the beaten eggs before cooking.",
+                "We ran out of spinach, so we substituted it with arugula in our omelet.",
+                "She made a colorful pepper and cheese omelet for breakfast.",
+                "I sprinkled some finely chopped fat hen over my omelet.",
+                "Making an omelet without breaking eggs is not gonna happen again Paul I assure you."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b21lbGV0&hash=1ded6c3a81219a7c96d77c71ca2ac1352e7e9323&lang=en&cache-only=0",
+            "defineEn": "a dish that consists of eggs mixed together and cooked in a frying pan",
+            "defineVi": "một món ăn bao gồm trứng trộn với nhau và nấu trong chảo",
+            "hasImg": true
+        },
+        {
+            "id": "48014527-1f0f-4410-91c5-cbe63406c847",
+            "word": "baguette",
+            "phonetic": "bæɡɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "we'll be serving brie and baguette for breakfast.",
+                "Spread some goat cheese on a warm baguette for a simple and delicious appetizer.",
+                "Spread some Stilton on a warm baguette for a quick and satisfying snack.",
+                "The gourmet sandwich shop featured sliced Boston butt, pickles, and mustard on a crusty baguette.",
+                "He walks with a big baguette all the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFndWV0dGU&hash=42245202f8b6010414ac885c3655c824238cfc3d&lang=en&cache-only=0",
+            "defineEn": "a loaf of bread that is narrow and long",
+            "defineVi": "một ổ bánh mì hẹp và dài",
+            "hasImg": true
+        },
+        {
+            "id": "d3d78dd3-d498-4299-8274-af21cd5029c9",
+            "word": "topping",
+            "phonetic": "tɑːpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sour cherry compote is the perfect topping for pancakes or waffles.",
+                "I added mushrooms, onions, and bell peppers as toppings on my pizza.",
+                "I used slices of bully beef as a topping for my homemade pizza.",
+                "I always use mascarpone cheese as a light and creamy topping.",
+                "You can create delicious linguine dishes with your favorite toppings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9wcGluZw&hash=cf20f3c98f41c7582c055d4ad19058713d903eed&lang=en&cache-only=0",
+            "defineEn": "a layer of food that is spread over the top of a dish to make it taste or look better",
+            "defineVi": "một lớp thức ăn được trải lên trên cùng của một món ăn để làm cho nó ngon hơn hoặc trông đẹp mắt hơn",
+            "hasImg": true
+        },
+        {
+            "id": "f796b9bc-65cc-4c24-babf-d1ad6b8bb05b",
+            "word": "supper",
+            "phonetic": "sʌpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'll get supper.",
+                "\"My grandmother always used to say, after dinner sleep a while, after supper walk a mile,\" said Sarah.",
+                "Julie, I know you're excited about your new project, but remember that hope is a good breakfast but a bad supper.",
+                "Now, if you’ll excuse me, it’s supper time.",
+                "He called it \"The Supper at Emmaus.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VwcGVy&hash=9f9c2d99eadb5d1f0408350552ad4cdd595e301b&lang=en&cache-only=0",
+            "defineEn": "a meal that is often less formal than dinner and is eaten in the evening, which is either a main meal or a light one",
+            "defineVi": "một bữa ăn thường ít trang trọng hơn bữa tối và được ăn vào buổi tối, đó là bữa ăn chính hoặc bữa ăn nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "f9068cdd-b566-4b75-a64d-6186ee822d56",
+            "word": "appetizer",
+            "phonetic": "æpɪtaɪzɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My parents enjoyed a delicious calamari appetizer at the seaside restaurant.",
+                "The consomme was served in a small cup as an appetizer before the main course.",
+                "Grilled vegetable skewers are a crowd-pleasing appetizer at summer cookouts.",
+                "You can serve camembert with some crusty bread and fig jam for a delightful appetizer.",
+                "The party guests were intrigued by the kohlrabi slices on the appetizer platter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwZXRpemVy&hash=e13996e1aabf4780cf86a8496d21d466fcab7de1&lang=en&cache-only=0",
+            "defineEn": "a small dish that is eaten before the main part of a meal",
+            "defineVi": "một món ăn nhỏ được ăn trước phần chính của bữa ăn",
+            "hasImg": true
+        },
+        {
+            "id": "9edb5345-d989-4fba-ab89-c8410bb0b8f9",
+            "word": "self-service",
+            "phonetic": "sɛlfsɜːvɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "There'll be no self-service at all.",
+                "The first self-service supermarket, Piggly Wiggly, opened in 1916 in Memphis, Tennessee.",
+                "Glenn started with a self-service hamburger stand in 1948 in San Bernardino, California.",
+                "Its self-service strategy had customers shop for shoes themselves, allowing the company to employ fewer people and save on operating costs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VsZi1zZXJ2aWNl&hash=6e0922acc3f67a21d49a1498e4817ae14f887b35&lang=en&cache-only=0",
+            "defineEn": "(of a restaurant, store, etc.) providing customers with the chance to serve themselves and then pay for it",
+            "defineVi": "(của một nhà hàng, cửa hàng, v.v.) cung cấp cho khách hàng cơ hội tự phục vụ và sau đó trả tiền cho việc đó",
+            "hasImg": true
+        },
+        {
+            "id": "1afc02b5-ff9e-44e3-b400-8dc1b89ff722",
+            "word": "buffet",
+            "phonetic": "bʌfɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At a family reunion picnic, the buffet table showcased a classic beef plate roast.",
+                "Our scalp is their buffet.",
+                "Think: Las Vegas buffet.",
+                "The stream delivers an endless buffet of new victims.",
+                "In the process, it releases a buffet of long dead plants and animals on the lake floor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVmZmV0&hash=2fdc68f23739d81b0ef367d9802e48892bd3769f&lang=en&cache-only=0",
+            "defineEn": "a meal with many dishes from which people serve themselves at a table and then eat elsewhere",
+            "defineVi": "một bữa ăn với nhiều món ăn mà mọi người tự phục vụ tại bàn và sau đó ăn ở nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "e68c60b4-758d-42c1-8cba-59e7cda669f9",
+            "word": "takeaway",
+            "phonetic": "teɪkəweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She ordered a takeaway meal of pizza and garlic bread for dinner.",
+                "They began to offer takeaway food, and other restaurants followed suit.",
+                "So anyways, here's the takeaway.",
+                "What was your takeaway from those Russian exercises?",
+                "Ultimately the takeaway here Is that if you're looking for a therapist?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFrZWF3YXk&hash=1a72f42ac4178e47d1d6edb944ff4dc897691789&lang=en&cache-only=0",
+            "defineEn": "a meal bought from a restaurant or store to be eaten somewhere else",
+            "defineVi": "một bữa ăn mua từ một nhà hàng hoặc cửa hàng để ăn ở một nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "04cbc534-548b-4e87-a1cb-6db83903e8e8",
+            "word": "side dish",
+            "phonetic": "saɪd dɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children enjoyed onion rings as a crispy side dish.",
+                "She served a side dish of piccalilli with her homemade burgers.",
+                "In my favorite restauran, warm applesauce is served as a side dish with the roasted chicken.",
+                "I mashed the swede with butter and seasonings, creating a creamy side dish.",
+                "He harvested the cardoon from his garden and cooked it into a delicious side dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lkZSBkaXNo&hash=4dd6a9e7da0848f04cebecce289da029aa40b3bb&lang=en&cache-only=0",
+            "defineEn": "an extra amount of food that is served with the main course, such as salad",
+            "defineVi": "một lượng thức ăn bổ sung được phục vụ với món chính, chẳng hạn như salad",
+            "hasImg": true
+        },
+        {
+            "id": "e3ac14f4-318f-4b6d-b1b9-fb4107882aaa",
+            "word": "brunch",
+            "phonetic": "bɹʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The brunch special featured a beefburger with a sunny-side-up egg, crispy bacon, and a dollop of hollandaise sauce.",
+                "They gathered in the dining room for Sunday brunch.",
+                "Grandma's clabber pancakes are a family favorite for Sunday brunch.",
+                "They hosted a brunch and prepared gluten-free pancakes using a blend of gluten-free flours.",
+                "My parents hosted a brunch and served Eggs Benedict with a luscious mornay sauce, impressing their guests."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJ1bmNo&hash=e721e840d0739db687eff6a6a096280525a12b5e&lang=en&cache-only=0",
+            "defineEn": "a meal served late in the morning, as a combination of breakfast and lunch",
+            "defineVi": "một bữa ăn được phục vụ vào buổi sáng muộn, như một sự kết hợp giữa bữa sáng và bữa trưa",
+            "hasImg": true
+        },
+        {
+            "id": "274ac3b1-6fb2-4c83-a1ef-acf3d56d4b91",
+            "word": "portion",
+            "phonetic": "poːɹʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Last night we served individual portions of chicken and mushroom aspic.",
+                "The full English breakfast included a generous portion of black pudding alongside eggs, bacon, and beans.",
+                "The traditional English breakfast included a generous portion of kippers, served alongside eggs and bacon.",
+                "The restaurant is working out the kinks in the new menu, adjusting portion sizes and experimenting with new dishes",
+                "I'm sorry to split hairs, but your portion of the bill is $25.97, not $25.79."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9ydGlvbg&hash=a531ef539bd8a138a0e3ba9aa5ca001303fe2554&lang=en&cache-only=0",
+            "defineEn": "an amount of food served to or enough for one person",
+            "defineVi": "một lượng thức ăn phục vụ cho hoặc đủ cho một người",
+            "hasImg": true
+        },
+        {
+            "id": "3f3efe7d-9c06-44cb-8607-cc613dbed60e",
+            "word": "savory",
+            "phonetic": "seɪvɚɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sprinkling Parmesan cheese over pasta dishes adds a savory touch.",
+                "The bakery incorporated finely diced fatback into savory pie crusts for flaky results.",
+                "She harvested fresh savory from her herb garden and dried it for future use in her favorite recipes.",
+                "The street vendor at the night market skillfully grilled savory pork belly skewers.",
+                "I stuffed the aubergine with a savory mixture of rice, vegetables, and herbs, creating a flavorful meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F2b3J5&hash=545a1e40328099efe44b5902ec5a118dba1cfed8&lang=en&cache-only=0",
+            "defineEn": "smelling or tasting pleasant",
+            "defineVi": "ngửi hoặc nếm dễ chịu",
+            "hasImg": true
+        },
+        {
+            "id": "4d51a193-026d-49f6-890a-f545efcb2bc0",
+            "word": "cuisine",
+            "phonetic": "kwᵻziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "French cuisine is known for its delicious cheeses and wines.",
+                "The distinct taste and texture of kelp are appreciated in certain cuisines around the world.",
+                "In Asian cuisine, plum sauce is often used as a dipping sauce for spring rolls or dumplings.",
+                "Iceland moss is commonly used in traditional Scandinavian cuisine",
+                "We explored the regional cuisine, discovering a traditional dish of confit rabbit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vpc2luZQ&hash=0726fe0086765fb36c9e26e7de57812c88234e5f&lang=en&cache-only=0",
+            "defineEn": "a method or style of cooking that is specific to a country or region",
+            "defineVi": "một phương pháp hoặc phong cách nấu ăn dành riêng cho một quốc gia hoặc khu vực",
+            "hasImg": true
+        },
+        {
+            "id": "2d029133-327c-446b-aadd-14468852a8f8",
+            "word": "to beat",
+            "phonetic": "tə biːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Beat it!",
+                "Truly we have beaten swords into ploughshares!",
+                "Don't beat around the bush - get to the point!",
+                "They could easily have beaten us.",
+                "The team then beats a retreat from the mall, hoping no one noticed them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmVhdA&hash=14b6a5e5516853eab3dd3c141536485f300b4800&lang=en&cache-only=0",
+            "defineEn": "to repeatedly mix something using a spoon, fork, etc.",
+            "defineVi": "liên tục trộn thứ gì đó bằng thìa, nĩa, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "80893e10-e53a-47f4-9571-feec15bbad88",
+            "word": "to stir",
+            "phonetic": "tə stɜː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She stirred the creamy mushroom sauce into her pasta.",
+                "He stirred a spoonful of molasses into his morning coffee.",
+                "She carefully stirred her tea, watching the sugar cube dissolve slowly.",
+                "The chef prepared a mouthwatering teff stir-fry, incorporating flavorful spices and vegetables.",
+                "He stirred butterscotch chips into his pancake batter, resulting in a stack of fluffy and caramelized pancakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Rpcg&hash=c8a3eb14dfa62173ce4e9766f65dad212c420826&lang=en&cache-only=0",
+            "defineEn": "to move a spoon, etc. around in a liquid or other substance to completely mix it",
+            "defineVi": "di chuyển thìa, v.v. xung quanh chất lỏng hoặc chất khác để trộn hoàn toàn",
+            "hasImg": true
+        },
+        {
+            "id": "7e3a6197-e944-4679-bd4f-20637bf0eb14",
+            "word": "vinegar",
+            "phonetic": "vɪnᵻɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mother pickled radishes with vinegar and spices.",
+                "He's as sour as vinegar.",
+                "A teaspoon of grape vinegar brightened up the tomato soup, giving it a pleasant tang.",
+                "She mixed vinegar with oil and herbs to create a homemade salad dressing.",
+                "The business partnership had started out promising, but from the sweetest wine, the tartest vinegar - it ended in a messy legal battle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmluZWdhcg&hash=3f1925cd5531ff5104b9f6b12ada9f5b939882be&lang=en&cache-only=0",
+            "defineEn": "a sour liquid that is made from wine or malt, used as a flavor or to preserve food",
+            "defineVi": "một chất lỏng chua được làm từ rượu vang hoặc mạch nha, được sử dụng làm hương vị hoặc để bảo quản thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "13ee182f-c823-43f0-8737-c0c6ff070167",
+            "word": "herb",
+            "phonetic": "ɜːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You mind the cattle, Herb.",
+                "They discovered the delightful combination of lemon zest and herbs in their roasted vegetables.",
+                "Among all herbs, basil is my favorite.",
+                "The sauce would kill the taste of the herbs.",
+                "She roasted the rutabaga cubes with olive oil and herbs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyYg&hash=2c936b4a164cf201e0f40084df63aff9bcedd373&lang=en&cache-only=0",
+            "defineEn": "a plant with seeds, leaves, or flowers used for cooking or medicine, such as mint and parsley",
+            "defineVi": "một loại cây có hạt, lá hoặc hoa dùng để nấu ăn hoặc làm thuốc, chẳng hạn như bạc hà và rau mùi tây",
+            "hasImg": true
+        },
+        {
+            "id": "fe798e7b-0aa2-42a1-866c-1d152bde4ed7",
+            "word": "chili",
+            "phonetic": "tʃɪli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He enjoyed a chili cheese frankfurter, smothered in homemade chili sauce and melted cheddar cheese.",
+                "He couldn't handle the heat of the chili pepper and reached for a glass of water.",
+                "She loved the spicy kick that chili pepper added to her homemade salsa.",
+                "You can elevate your tacos by spooning some chili sauce onto the fillings.",
+                "I love to pepper my popcorn with a sprinkle of chili powder for a spicy snack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGk&hash=ee971b0b467656969bfe65db966cdeee09c0a507&lang=en&cache-only=0",
+            "defineEn": "the red or green fruit of a particular type of pepper plant, used in cooking for its hot taste",
+            "defineVi": "quả màu đỏ hoặc xanh của một loại cây tiêu cụ thể, được sử dụng trong nấu ăn vì vị cay của nó",
+            "hasImg": true
+        },
+        {
+            "id": "c9d2f395-723a-4b08-80be-dfe5acf8591b",
+            "word": "zucchini",
+            "phonetic": "zʌkiːni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I promised my husband that I would grill some zucchini alongside the steaks.",
+                "My roommate asked me if she could borrow a zucchini to make a zucchini bread.",
+                "My roommate asked me if she could borrow a zucchini to make a zucchini bread.",
+                "Corn, zucchini, and green beans, on the other hand all fruit, so are tomatoes.",
+                "And they're so fresh, these zucchini."
+            ],
+            "audio": "https://tts.langeek.co/read?text=enVjY2hpbmk&hash=0f517bbf540cff3638a0f92513c396f845b15a26&lang=en&cache-only=0",
+            "defineEn": "a long and thin vegetable with dark green skin",
+            "defineVi": "một loại rau dài và mỏng với vỏ màu xanh đậm",
+            "hasImg": true
+        },
+        {
+            "id": "bab215f9-8431-4667-a569-ee9d73b91461",
+            "word": "skim milk",
+            "phonetic": "skɪm mɪlk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And you're getting the skim milk.",
+                "(Stevie) It was real skim milk. -",
+                "Full fat milk, sometimes referred to as whole milk, has 3.25% butterfat added compared to 1-2% for low and reduced fat milk, and less than half a percent for skim milk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2tpbSBtaWxr&hash=b39a3586c87f366f3642f9096e964e06adcd0ad5&lang=en&cache-only=0",
+            "defineEn": "a type of milk with removed fat",
+            "defineVi": "một loại sữa đã loại bỏ chất béo",
+            "hasImg": true
+        },
+        {
+            "id": "050e8440-5f02-44b9-a55d-a81984ed7f88",
+            "word": "margarine",
+            "phonetic": "mɑːɹdʒɚɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They decided to use margarine instead of butter for a healthier option in their cooking.",
+                "He reached for the tub of margarine to add a rich and smooth texture to his mashed potatoes.",
+                "So there's a couple of categories within dairy that have been struggling over the past few years, one being processed cheese and one being margarine.",
+                "But what we saw was we saw processed cheese and margarine all of a sudden did some pretty good growth, which we hadn't seen, again, for like the last four or five years.",
+                "And so you think about how consumers have moved away from processed food, processed cheese and and margarine have really struggled over the last five years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFyZ2FyaW5l&hash=5046abd243e0ec84c34438cba510239fe1228a2b&lang=en&cache-only=0",
+            "defineEn": "a type of food similar to butter, made from vegetable oils or animal fats",
+            "defineVi": "một loại thực phẩm tương tự như bơ, làm từ dầu thực vật hoặc mỡ động vật",
+            "hasImg": true
+        },
+        {
+            "id": "094c92d7-ed8e-4bff-9a46-85fcbc288354",
+            "word": "cereal",
+            "phonetic": "siəɹɪəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They use cereal as a crunchy topping for their homemade ice cream sundaes.",
+                "The children enjoyed a bowl of chocolate cereal with cold milk and a glass of orange juice for breakfast.",
+                "I start my day with a bowl of cereal and a splash of cold milk.",
+                "I enjoy starting my day with a bowl of cereal and a glass of dairy product, like milk or yogurt.",
+                "I added fresh youngberries to my cereal for a vibrant and nutritious breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VyZWFs&hash=015b56ed2fbef49ba2e279ff5a8f946c4b4978d0&lang=en&cache-only=0",
+            "defineEn": "food made from grain, eaten with milk particularly in the morning",
+            "defineVi": "thực phẩm làm từ ngũ cốc, ăn với sữa đặc biệt là vào buổi sáng",
+            "hasImg": true
+        },
+        {
+            "id": "2b5df709-c844-4bd4-9020-53d9b3721de7",
+            "word": "beverage",
+            "phonetic": "bɛvɚɹɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Watermelon juice is a popular beverage during picnics and barbecues.",
+                "Lime juice is commonly added to beverages for a refreshing twist.",
+                "Take your hot beverages to the next level by adding a splash of double cream to them.",
+                "I often use Rangpur in my special beverages.",
+                "I made a refreshing summer beverage by muddling Concord grapes and adding sparkling water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmV2ZXJhZ2U&hash=b3269577e71d7548b6f9c07bb266ae54e7d15284&lang=en&cache-only=0",
+            "defineEn": "a drink that is not water",
+            "defineVi": "một thức uống không phải là nước",
+            "hasImg": true
+        },
+        {
+            "id": "ab47d06b-ad5c-405b-a11e-84d7729f174d",
+            "word": "cocktail",
+            "phonetic": "kɑːkteɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bartender served a cocktail in a fancy glass.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "They garnished their summer cocktails with a sprig of fresh angelica.",
+                "The bartender rimmed the cocktail glass with a touch of white sugar, adding a touch of sweetness to the drink.",
+                "She spread a dollop of cocktail sauce on her oysters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ja3RhaWw&hash=484bee160b4e81fc501fb18005680707f8b55330&lang=en&cache-only=0",
+            "defineEn": "an alcoholic drink made by mixing several drinks together",
+            "defineVi": "một thức uống có cồn được làm bằng cách pha trộn nhiều loại đồ uống với nhau",
+            "hasImg": true
+        },
+        {
+            "id": "caeaca3f-cfe3-49aa-87f2-07eb5c35b11b",
+            "word": "tonic",
+            "phonetic": "tɑːnɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That’s the tonic.",
+                "It was a tonic. ",
+                "But most scientists call it tonic immobility, or TI.",
+                "Kelly Hopping: Traditionally it was used as a general tonic for immune support.",
+                "It is a tonic at a time of great turmoil, isn't it?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9uaWM&hash=3e0472c997b12eae0f329ea3557d12a296bea5da&lang=en&cache-only=0",
+            "defineEn": "a type of fizzy water that can be mixed with other drinks such as gin or vodka",
+            "defineVi": "một loại nước có ga có thể được trộn với các loại đồ uống khác như rượu gin hoặc rượu vodka",
+            "hasImg": true
+        },
+        {
+            "id": "0ae1417a-32fc-4f1b-b521-1b894d90f9fc",
+            "word": "sparkling",
+            "phonetic": "spɑːɹklɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I made a refreshing summer beverage by muddling Concord grapes and adding sparkling water.",
+                "You think your personality is so sparkling?",
+                "But in 2020, his sparkling empire is taking hits on all sides from a global pandemic, and his critics are casting him as another billionaire seeking government bailouts.",
+                "In 2018, Climeworks also entered into a partnership with Coca-Cola, Switzerland, to provide CO2 for its sparkling water.",
+                "Inside the safe were trays of sparkling rings, necklaces, and earrings. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhcmtsaW5n&hash=bd601f0ddaf31f77502a23b5a9cb512b1ffc8f74&lang=en&cache-only=0",
+            "defineEn": "(of drinks or beverages) containing bubbles",
+            "defineVi": "(của đồ uống hoặc đồ uống) có bong bóng",
+            "hasImg": true
+        },
+        {
+            "id": "27d11b17-869d-46b8-a492-82b66e6e1b7f",
+            "word": "still",
+            "phonetic": "stɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Memories of that day still bring a lump to his throat.",
+                "A major technological advancement like that is still light years away.",
+                "The child is still running a fever",
+                "Men still hold most positions of power in this country.",
+                "Our trip is still very much up in the air."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
+            "defineEn": "(of a drink) not having bubbles in it",
+            "defineVi": "(của một thức uống) không có bong bóng trong đó",
+            "hasImg": true
+        },
+        {
+            "id": "1a44a419-fd6b-4461-b9e3-f13b21d5daad",
+            "word": "flat",
+            "phonetic": "flæt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The theory falls flat on its face when put into practice.",
+                "The couple in the flat upstairs are always at it hammer and tongs.",
+                "We drove through the night flat-out, with the pedal to the metal.",
+                "He threw caution to the winds and rang the bell of the ground-floor flat.",
+                "For the record, I have never been to the flat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxhdA&hash=b0319827b03811bef371270d8f3951212b3b8133&lang=en&cache-only=0",
+            "defineEn": "(of a fizzy drink) not having bubbles anymore",
+            "defineVi": "(về đồ uống có ga) không còn bong bóng nữa",
+            "hasImg": true
+        },
+        {
+            "id": "6fde26c3-5d88-44e0-a354-febe12a8ec07",
+            "word": "neat",
+            "phonetic": "niːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm going to iron my T-shirt to make it look neat and wrinkle-free.",
+                "^That was pretty neat.",
+                "Glaciers are so neat!",
+                "Now, this bit of research in itself is neat.",
+                "This is neat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVhdA&hash=3589394d7e718500c787bf2432d933da0e789933&lang=en&cache-only=0",
+            "defineEn": "(particularly of alcoholic drinks) not mixed with anything",
+            "defineVi": "(đặc biệt là đồ uống có cồn) không pha trộn với bất cứ thứ gì",
+            "hasImg": true
+        },
+        {
+            "id": "257a7a4b-f28a-4c0c-bede-af3ce3ff3813",
+            "word": "to sip",
+            "phonetic": "tə sɪp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "To take a bite/drink/sip.",
+                "He sipped his drink, feeling the cool liquid touch his lips.",
+                "He sipped the steaming chicken broth, feeling its comforting warmth soothe his sore throat.",
+                "I feel thirsty and need a sip of water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2lw&hash=d9aff912cfb734891cbbb3f5bec8dd4869b1c059&lang=en&cache-only=0",
+            "defineEn": "to drink a liquid by taking a small amount each time",
+            "defineVi": "uống một chất lỏng bằng cách uống một lượng nhỏ mỗi lần",
+            "hasImg": true
+        },
+        {
+            "id": "8b55d071-a481-414d-9dd1-4203a530f505",
+            "word": "corkscrew",
+            "phonetic": "kɔːɹkskɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Devil’s corkscrews were first described in 1891 from the badlands of Nebraska, by geologist Erwin Hinckley Barbour.",
+                "They’re just giant, perfect corkscrews in the sand.",
+                "The next target meets his end underground, in the coils of the corkscrew plant.",
+                "It’s clear these corkscrews were created by some form of life, but what?",
+                "But he also noticed that the corkscrews had this weird feature at the bottom, a little flare that stuck out like a hockey stick."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ya3NjcmV3&hash=68cda47b792099849e310216b38ef53d50906ed3&lang=en&cache-only=0",
+            "defineEn": "a small tool with a pointy spiral metal for pulling out corks from bottles",
+            "defineVi": "một công cụ nhỏ với kim loại xoắn ốc nhọn để kéo nút chai ra khỏi chai",
+            "hasImg": true
+        }
+    ]
+}

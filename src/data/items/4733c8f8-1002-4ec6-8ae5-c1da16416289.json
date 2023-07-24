@@ -1,0 +1,500 @@
+{
+    "id": "4733c8f8-1002-4ec6-8ae5-c1da16416289",
+    "title": "Types of Rooms",
+    "originalTitle": "Types of Rooms",
+    "words": [
+        {
+            "id": "9dffe6f8-3e6c-4d60-8ada-3c5240bf0416",
+            "word": "living room",
+            "phonetic": "lɪvɪŋ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The corridor led into a spacious living room.",
+                "The living room had a soft rug that felt comfortable under her feet.",
+                "The living room had a comfortable sofa where she took afternoon naps.",
+                "The living room had a large window that let in plenty of natural light.",
+                "The little boy was excitedly playing with his toy cars in the living room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl2aW5nIHJvb20&hash=037641ac7ccd35a97a83310e5a20f56249a9f3aa&lang=en&cache-only=0",
+            "defineEn": "the part of a house where people spend time together talking, watching television, relaxing, etc.",
+            "defineVi": "một phần của ngôi nhà nơi mọi người dành thời gian cùng nhau nói chuyện, xem truyền hình, thư giãn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "311453a6-e737-410f-8b3c-40725fe0876d",
+            "word": "bedroom",
+            "phonetic": "bɛdɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The suite will add a touch of class to your bedroom.",
+                "The actor's intense bedroom eyes added an extra layer of allure to his performance.",
+                "He kept his favorite toys on the shelves in his bedroom.",
+                "She placed a small nightstand next to the bed in the bedroom for her belongings.",
+                "In our house, the bigger bedroom was always reserved for my older sister."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVkcm9vbQ&hash=0bbd03af86fc3c3258a01c30d0da8fe5851ab63d&lang=en&cache-only=0",
+            "defineEn": "a room we use for sleeping",
+            "defineVi": "một căn phòng chúng tôi sử dụng để ngủ",
+            "hasImg": true
+        },
+        {
+            "id": "8bc56d55-5792-4393-9149-56299adddb96",
+            "word": "kitchen",
+            "phonetic": "kɪtʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The delicate aroma of ripe may apples fills the kitchen.",
+                "A voice came from the kitchen.",
+                "The aromatic spice fills the kitchen with a delightful scent.",
+                "The kitchen was filled with the smell of garlic.",
+                "I love the aroma of fresh herbs in my kitchen."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2l0Y2hlbg&hash=424c434e57ae7d314a1b9172171eaf9d5e85ee41&lang=en&cache-only=0",
+            "defineEn": "the place in a building or home where we make food",
+            "defineVi": "nơi trong một tòa nhà hoặc nhà nơi chúng tôi làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "1fe54c46-bea9-4c86-860e-7637be4d3b38",
+            "word": "bathroom",
+            "phonetic": "bæθɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She organized shampoo and soap bottles in the shower caddy in the bathroom.",
+                "Water was running all over the bathroom floor.",
+                "The medicine cabinet in the bathroom holds our first aid supplies.",
+                "I cleaned the bathroom yesterday so I'm in Mum's good books.",
+                "He took a refreshing shower in the bathroom after a long day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmF0aHJvb20&hash=1df0dd490c01630a275169bf21768dc890a57cab&lang=en&cache-only=0",
+            "defineEn": "a room that has a toilet and a sink, and often times a bathtub or a shower as well",
+            "defineVi": "một căn phòng có nhà vệ sinh và bồn rửa, và thường có cả bồn tắm hoặc vòi hoa sen",
+            "hasImg": true
+        },
+        {
+            "id": "29bc07ae-fed5-4380-8c50-1ae627625228",
+            "word": "dining room",
+            "phonetic": "daɪnɪŋ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The dining room has a table and chairs as furniture.",
+                "She cleans the dining room after each meal.",
+                "They gathered in the dining room for Sunday brunch.",
+                "They enjoyed breakfast in the dining room, starting the day with a tasty meal.",
+                "She set the table with plates and glasses in the dining room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGluaW5nIHJvb20&hash=32b08af606ba48c7624351561a19272f34f42fd7&lang=en&cache-only=0",
+            "defineEn": "a room that we use to eat meals in",
+            "defineVi": "một căn phòng mà chúng tôi sử dụng để ăn bữa ăn trong",
+            "hasImg": true
+        },
+        {
+            "id": "6888c6f9-3ee4-48df-a406-6c58fd3f20e9",
+            "word": "home office",
+            "phonetic": "hoʊm ɑːfɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBvZmZpY2U&hash=a78ef5eba76004ebf6eece52f5aa2d4cd02c0287&lang=en&cache-only=0",
+            "defineEn": "a room in a private house that a person uses for work, which often contains a computer, working desk, printer, etc.",
+            "defineVi": "một căn phòng trong một ngôi nhà riêng mà một người sử dụng để làm việc, thường chứa máy tính, bàn làm việc, máy in, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "f34da6c7-0704-4a5f-adab-7311c4a0c4c6",
+            "word": "media room",
+            "phonetic": "miːdiːɚ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVkaWEgcm9vbQ&hash=d049e6578261d9a51e5d0965462d75e5dacf5bd8&lang=en&cache-only=0",
+            "defineEn": "a space in a house dedicated to entertainment and relaxation, equipped with audiovisual equipment such as a large screen, surround sound, and comfortable seating",
+            "defineVi": "một không gian trong ngôi nhà dành riêng cho giải trí và thư giãn, được trang bị các thiết bị nghe nhìn như màn hình lớn, âm thanh vòm, chỗ ngồi thoải mái"
+        },
+        {
+            "id": "b78ce41c-3163-4dfc-b5ec-b1dd66a2af3d",
+            "word": "home theater room",
+            "phonetic": "hoʊm θiəɾɚ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSB0aGVhdGVyIHJvb20&hash=a40c7b7b25ffa493fed8b2abd990170a3132925c&lang=en&cache-only=0",
+            "defineEn": "a dedicated room in a house equipped for watching movies or TV shows with high-quality audio and video systems",
+            "defineVi": "một phòng chuyên dụng trong một ngôi nhà được trang bị để xem phim hoặc chương trình truyền hình với hệ thống âm thanh và video chất lượng cao"
+        },
+        {
+            "id": "e4839f01-9a82-417a-88dd-23afb3c55104",
+            "word": "laundry room",
+            "phonetic": "lɔːndɹi ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGF1bmRyeSByb29t&hash=85562b21620e6c70a399341755cd7010de4c67a3&lang=en&cache-only=0",
+            "defineEn": "a dedicated space for washing, drying, folding, and ironing clothes and linens, typically equipped with a washer, dryer, ironing board, and storage cabinets",
+            "defineVi": "một không gian dành riêng để giặt, sấy, gấp và ủi quần áo và khăn trải giường, thường được trang bị máy giặt, máy sấy, bàn ủi và tủ đựng đồ"
+        },
+        {
+            "id": "e8867183-37ae-472f-99f4-07f526135c40",
+            "word": "guest room",
+            "phonetic": "ɡɛst ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You may use the guest room at your pleasure.",
+                "But at any given time, she has piles of clean clothes in baskets and on a bed in the guest room.",
+                "And The Washington Post reported on October 27th, 2020 that the U.S. government has paid the Trump Organization at least 2.5 million dollars since Trump took office for guest rooms, food and wine and other services at Trump properties.",
+                "So now here we are in the guest room, which is really sophisticated and beautiful.",
+                "So now I'm going into the youth/guest room, and I'm taking a look."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3Vlc3Qgcm9vbQ&hash=89ae9e4d5d6f1ac5eb1139c3bde6aad4a937738b&lang=en&cache-only=0",
+            "defineEn": "a bedroom in a house for guests to stay or sleep in",
+            "defineVi": "một phòng ngủ trong một ngôi nhà cho khách ở lại hoặc ngủ trong",
+            "hasImg": true
+        },
+        {
+            "id": "538fee32-6a18-49df-bffa-7c1051523b07",
+            "word": "playroom",
+            "phonetic": "pleɪɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have a colorful rug in the children's playroom.",
+                "You know the kids have gotten into some mischief when the playroom is suddenly silent as the grave.",
+                "She'd put a one-year-old kid and their mom in an unfamiliar room, like a playroom at the lab and then observe the child playing with the mother."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxheXJvb20&hash=bf3ddc896f1fa67e9a2770424918ca8af70a4fcb&lang=en&cache-only=0",
+            "defineEn": "a room in an apartment or house for children to play in",
+            "defineVi": "một căn phòng trong một căn hộ hoặc nhà cho trẻ em chơi trong",
+            "hasImg": true
+        },
+        {
+            "id": "705fcd73-bde2-405f-9402-18ed73083cd1",
+            "word": "mudroom",
+            "phonetic": "mʌdɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bXVkcm9vbQ&hash=72b417cf91fad64581d6635afa37ac547e130e94&lang=en&cache-only=0",
+            "defineEn": "a small room or area for putting in wet or dirty footwear and clothes before entering a house",
+            "defineVi": "một căn phòng nhỏ hoặc khu vực để đặt giày dép và quần áo ướt hoặc bẩn trước khi vào nhà",
+            "hasImg": true
+        },
+        {
+            "id": "c5e3d28d-1fc5-4893-a419-01ccad34586c",
+            "word": "library",
+            "phonetic": "laɪbɹɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The library closes early on Sundays.",
+                "The library opens at 10 o'clock on weekdays.",
+                "The library is often quiet during weekdays.",
+                "The library is a great place to find books on various topics.",
+                "I meet my study group at the library on Tuesday afternoons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlicmFyeQ&hash=d6807e6488f505253b10cfa3a567d8dcb70e8e76&lang=en&cache-only=0",
+            "defineEn": "a room in a private residence that is used for keeping books",
+            "defineVi": "một căn phòng trong một nơi cư trú tư nhân được sử dụng để giữ sách",
+            "hasImg": true
+        },
+        {
+            "id": "162d0f30-45d3-4345-ba99-cc16efd6a236",
+            "word": "home gym",
+            "phonetic": "hoʊm dʒɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBneW0&hash=cbb331a95d2ed67302712fbf97dbd7aeff02b442&lang=en&cache-only=0",
+            "defineEn": "a space in a residence designed for fitness and exercise activities, equipped with various fitness equipment and accessories",
+            "defineVi": "một không gian trong một nơi cư trú được thiết kế cho các hoạt động thể dục và thể thao, được trang bị nhiều thiết bị và phụ kiện thể dục"
+        },
+        {
+            "id": "e04bc8bc-c177-4d5e-9627-368fcd5e10b3",
+            "word": "sunroom",
+            "phonetic": "sʌnɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3Vucm9vbQ&hash=7c985918303fb838bb51f71e6d5ad4df322d3c7e&lang=en&cache-only=0",
+            "defineEn": "a room enclosed largely with glass and affording exposure to the sun",
+            "defineVi": "một căn phòng được bao bọc phần lớn bằng kính và cho phép tiếp xúc với ánh nắng mặt trời"
+        },
+        {
+            "id": "ec49d6e7-391a-4b51-a633-9747eab782b7",
+            "word": "attic",
+            "phonetic": "æɾɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I think she's got rats in the attic.",
+                "I think she has rats in the attic because she declined to accept that work regardless of the salary and benefits.",
+                "Soon the attics were quiet again.",
+                "We stuff things in our attics.",
+                "Is it about two grandma's attics in here?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXR0aWM&hash=fae0f58e14ca388099dcbdebcecf519e96886594&lang=en&cache-only=0",
+            "defineEn": "an area or room directly under the roof of a house, particularly used as a storage",
+            "defineVi": "một khu vực hoặc căn phòng ngay dưới mái nhà, đặc biệt được sử dụng làm kho chứa",
+            "hasImg": true
+        },
+        {
+            "id": "06632133-3591-49b4-932a-e1dfdae2d36a",
+            "word": "basement",
+            "phonetic": "beɪsmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The house has a basement where they store their belongings.",
+                "She lives downstairs in the basement apartment.",
+                "And our basement miraculously survived.",
+                "He retreated to his basement.",
+                "- This is a basement on steroids."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFzZW1lbnQ&hash=29d6fb34da6437a115a2119da816a62995183eff&lang=en&cache-only=0",
+            "defineEn": "an area or room in a house or building that is partially or completely below the ground level",
+            "defineVi": "một khu vực hoặc căn phòng trong một ngôi nhà hoặc tòa nhà nằm dưới mặt đất một phần hoặc hoàn toàn",
+            "hasImg": true
+        },
+        {
+            "id": "555e297d-70c2-4b37-8d94-360c3274f15d",
+            "word": "family room",
+            "phonetic": "fæmɪli ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And my son on the flip side found all those teen magazine kind of pictures when he was about the same age and ran into the family room to my daughter and said, \"Look, dad was huge and we missed it.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtaWx5IHJvb20&hash=928a5b36919f9c407e9a5229c9b095fa685ad9b6&lang=en&cache-only=0",
+            "defineEn": "a room in an apartment or house in which the family gathers to watch TV, relax, etc.",
+            "defineVi": "một căn phòng trong một căn hộ hoặc ngôi nhà trong đó gia đình quây quần để xem TV, thư giãn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "cb1290f9-ea97-48a7-8cbd-748eafacb8a9",
+            "word": "powder room",
+            "phonetic": "paʊdɚ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG93ZGVyIHJvb20&hash=c3d6345ff07fffe67b2306538cb37b3ddd4cce42&lang=en&cache-only=0",
+            "defineEn": "a small bathroom that usually contains only a toilet and a sink, intended for use by guests",
+            "defineVi": "một phòng tắm nhỏ thường chỉ có nhà vệ sinh và bồn rửa, dành cho khách sử dụng"
+        },
+        {
+            "id": "f96b46a4-6578-488e-a796-aa34f090f3e3",
+            "word": "master bedroom",
+            "phonetic": "mæstɚ bɛdɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFzdGVyIGJlZHJvb20&hash=63d618b373c698336418bfd09d16267ee5667f95&lang=en&cache-only=0",
+            "defineEn": "the principal bedroom in a house; usually occupied by the head of the household",
+            "defineVi": "phòng ngủ chính trong một ngôi nhà; chủ hộ thường ở"
+        },
+        {
+            "id": "5f744336-a47a-4882-a155-87aa6fdd35dc",
+            "word": "dressing room",
+            "phonetic": "dɹɛsɪŋ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I went to the dressing room.",
+                "So he took us into the dressing room.",
+                "Dora: You walk into a dressing room that looks like an Hermès shop.",
+                "I don't know, I've been coughing in the dressing room.",
+                "Robert was standing there like this, like In your dressing room What did he say?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJlc3Npbmcgcm9vbQ&hash=cbf2ff8006a83a078e161ea7cf7e60ea2e077950&lang=en&cache-only=0",
+            "defineEn": "a small room situated beside the bedroom of a large house, where people get dressed and store their clothes",
+            "defineVi": "một căn phòng nhỏ nằm bên cạnh phòng ngủ của một ngôi nhà lớn, nơi mọi người mặc quần áo và cất giữ quần áo của họ",
+            "hasImg": true
+        },
+        {
+            "id": "ced74fce-8e31-45b2-805d-525e3783f186",
+            "word": "nursery",
+            "phonetic": "nɜːsɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Down the hall here, I have my nursery.",
+                "You’ve decorated the nursery.",
+                "I shared my nursery with other embryos and juveniles, from clams and crabs to sea urchins and anemones.",
+                "There is a nursery program.",
+                "It includes a hatchery, nursery, and part of Virginia's Mobjack Bay."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2VyeQ&hash=fa9d07a7d31ad51a036b678302125dddb53aba84&lang=en&cache-only=0",
+            "defineEn": "a room in an apartment or house that a baby sleeps in",
+            "defineVi": "một căn phòng trong một căn hộ hoặc ngôi nhà mà em bé ngủ trong",
+            "hasImg": true
+        },
+        {
+            "id": "ad6da459-490f-4dc0-907b-93e639743cd7",
+            "word": "game room",
+            "phonetic": "ɡeɪm ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FtZSByb29t&hash=5761d3735c791ac723f36b2d626448fdf9504346&lang=en&cache-only=0",
+            "defineEn": "a designated space in a house or building that is used for playing games, such as video games, board games, or billiards",
+            "defineVi": "một không gian được chỉ định trong một ngôi nhà hoặc tòa nhà được sử dụng để chơi trò chơi, chẳng hạn như trò chơi điện tử, trò chơi trên bàn hoặc bi-a"
+        },
+        {
+            "id": "0d0a1bcb-21bb-4545-bc51-e3afd36d2782",
+            "word": "parlor",
+            "phonetic": "pɑːɹlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tattoo parlors even advertised this service!",
+                "Electricity went from parlor trick to a key element of the natural sciences.",
+                "You don't some kinda parlor trick here?",
+                "In Bat Yam, just south of Tel Aviv, a stunned Arab shop owner returned to her damaged ice cream parlor.",
+                "In Bat Yam, just south of Tel Aviv, a stunned Arab shop owner returned to her damaged ice cream parlor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFybG9y&hash=3bb0acba080cf300d17905b5f0e70aafb6d92b30&lang=en&cache-only=0",
+            "defineEn": "a room where one can relax in a private house",
+            "defineVi": "một căn phòng nơi người ta có thể thư giãn trong một ngôi nhà riêng",
+            "hasImg": true
+        },
+        {
+            "id": "4cbf5ca2-c626-4fbb-a283-3fff04b1d020",
+            "word": "den",
+            "phonetic": "dɛn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Someone just bearded him in his den.",
+                "a young reporter thrown into the lion's den",
+                "Today I walked straight into his office and bearded the lion in his den.",
+                "I felt like I was walking into the lion's den when I went in front of the board for my annual review.",
+                "Coming in person seemed the decent thing for Lily to do, bearding the lion in her den, so to speak."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVu&hash=df8a49f1702d395896efe02bc5e77b6583855e99&lang=en&cache-only=0",
+            "defineEn": "a small, cozy room in a house, typically used as a private study, home office, or a space for relaxation and entertainment",
+            "defineVi": "một căn phòng nhỏ, ấm cúng trong một ngôi nhà, thường được sử dụng làm phòng làm việc riêng, văn phòng tại nhà hoặc không gian để thư giãn và giải trí"
+        },
+        {
+            "id": "deb26043-3cfa-418f-9ed3-b67e9df987a9",
+            "word": "great room",
+            "phonetic": "ɡɹeɪt ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlYXQgcm9vbQ&hash=febf122c24b0f7826097a00587a7e640f927ee3a&lang=en&cache-only=0",
+            "defineEn": "a large and open living space that combines multiple functions like a living room, dining room, and sometimes a kitchen, into one area",
+            "defineVi": "một không gian sống rộng và mở kết hợp nhiều chức năng như phòng khách, phòng ăn và đôi khi là nhà bếp vào một khu vực"
+        },
+        {
+            "id": "2d1effb3-2fa5-4e9d-840f-421ea2909d0f",
+            "word": "bunk room",
+            "phonetic": "bʌŋk ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVuayByb29t&hash=2a9decca1ed3547a4bfe53379b4d5693524db0f6&lang=en&cache-only=0",
+            "defineEn": "a type of shared sleeping quarters that typically has multiple bunk beds arranged in the same room",
+            "defineVi": "một loại chỗ ngủ chung thường có nhiều giường tầng được bố trí trong cùng một phòng"
+        },
+        {
+            "id": "ec0caaf4-05a6-4565-9388-bd182d68f335",
+            "word": "home spa",
+            "phonetic": "hoʊm spɑː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBzcGE&hash=a78399974b620e46a622541e32907a95926bfe69&lang=en&cache-only=0",
+            "defineEn": "a private relaxation area in a home, equipped with features like hot tubs, saunas, steam rooms, or massage areas",
+            "defineVi": "khu vực thư giãn riêng trong nhà, được trang bị các tính năng như bồn tắm nước nóng, phòng xông hơi khô, phòng xông hơi ướt hoặc khu vực mát-xa"
+        },
+        {
+            "id": "573cb601-5688-4726-93f8-81091105a302",
+            "word": "sauna",
+            "phonetic": "sɔːnə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It was really hot in the sauna.",
+                "Which is Finish for sauna society.",
+                "This 24 million pound mansion in Highgate, northwest London, comes complete with a two-story basement housing staff quarters, cinema, sauna, spa, and gym. -",
+                "It's a place where people can have a sauna.",
+                "They get really cold and then they go into a sauna and then they - come back out, you know?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F1bmE&hash=be9ef5b0903f29385b195096f1733f3be5610338&lang=en&cache-only=0",
+            "defineEn": "a small room that is often heated with steam and has wooden walls, where people sit for relaxation or health benefits",
+            "defineVi": "một căn phòng nhỏ thường được sưởi ấm bằng hơi nước và có những bức tường bằng gỗ, nơi mọi người ngồi để thư giãn hoặc có lợi cho sức khỏe",
+            "hasImg": true
+        },
+        {
+            "id": "5c833e29-9267-439f-bcd0-50d7aabf7213",
+            "word": "recreation room",
+            "phonetic": "ɹɛkɹiːeɪʃən ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVjcmVhdGlvbiByb29t&hash=53c3a5bc4c333e443b90af61c9b0f1cfbe29cf56&lang=en&cache-only=0",
+            "defineEn": "a designated space within a home or building designed for leisure activities such as playing games, watching movies, or socializing with friends and family",
+            "defineVi": "một không gian được chỉ định trong nhà hoặc tòa nhà được thiết kế cho các hoạt động giải trí như chơi trò chơi, xem phim hoặc giao lưu với bạn bè và gia đình"
+        },
+        {
+            "id": "a12d46c3-4572-4afc-a958-9475fc94a5f7",
+            "word": "drawing room",
+            "phonetic": "dɹɔːɪŋ ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJhd2luZyByb29t&hash=daa3bde9467762987cdf082619b25a389417514a&lang=en&cache-only=0",
+            "defineEn": "a room, particularly found in a large house, used for entertaining guests or relaxing",
+            "defineVi": "một căn phòng, đặc biệt được tìm thấy trong một ngôi nhà lớn, được sử dụng để giải trí cho khách hoặc thư giãn",
+            "hasImg": true
+        },
+        {
+            "id": "ea47858e-b65a-4402-b854-36ac7881a600",
+            "word": "front room",
+            "phonetic": "fɹʌnt ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was in the front room, or the lounge or whatever you want to call it.",
+                "He slept at once, and didn't hear Percy in I the front room.",
+                "If they widened out a little bit, you'd see that he resigned in that front room right there.",
+                "Huckleberry has been really eager to explore this front room, but he's never actually been out here so he's being pretty cautious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJvbnQgcm9vbQ&hash=53623457205c8ee027635d927e353319e9ffe46f&lang=en&cache-only=0",
+            "defineEn": "a room at the front of a house where family members usually gather to talk to each other, relax, watch television, etc.",
+            "defineVi": "một căn phòng ở phía trước của một ngôi nhà, nơi các thành viên trong gia đình thường tụ tập để nói chuyện với nhau, thư giãn, xem tivi, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "dae7d974-bf05-4c9a-8e35-25d651140195",
+            "word": "mother-in-law apartment",
+            "phonetic": "mʌðɚɹɪnlɔː ɐpɑːɹtmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW90aGVyLWluLWxhdyBhcGFydG1lbnQ&hash=c461103944a3d142e5d7da5969f37f57e87690b8&lang=en&cache-only=0",
+            "defineEn": "a living space, usually as a smaller part of a house, in which an elderly family member lives",
+            "defineVi": "một không gian sống, thường là một phần nhỏ hơn của một ngôi nhà, trong đó một thành viên lớn tuổi trong gia đình sống"
+        },
+        {
+            "id": "809f5da2-4414-4d2b-b8c4-82d668f87b11",
+            "word": "loft",
+            "phonetic": "lɔft ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I prefer to sleep upstairs in the loft rather than downstairs.",
+                "So over time, through collisions and crashes, the cloud loses its loft and flattens into a spinning, roughly 2 dimensional disk shape, like a solar system or a spiral galaxy.",
+                "Since this house has a high ceiling, we're going to make a loft.",
+                "We'll use oak for the loft floor and spruce fence for the supports.",
+                "You only needed a very small garden, a tiny loft, and you could raise pigeons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9mdA&hash=24a1c94878313a47acb8d4fd673c562162bda7b2&lang=en&cache-only=0",
+            "defineEn": "a room immediately under the roof of a house, which is used as a storage or living space",
+            "defineVi": "một căn phòng ngay dưới mái nhà, được sử dụng làm kho chứa hoặc không gian sống",
+            "hasImg": true
+        },
+        {
+            "id": "d2bc558f-e52f-4ec2-82c6-f8edf08c22f9",
+            "word": "man cave",
+            "phonetic": "mæn keɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFuIGNhdmU&hash=cee98b43bc50fc1eac4fb01a331ec50b37ac3fa0&lang=en&cache-only=0",
+            "defineEn": "a room or area in a house where a man can spend time doing his favorite hobbies and activities alone",
+            "defineVi": "một căn phòng hoặc khu vực trong một ngôi nhà nơi một người đàn ông có thể dành thời gian thực hiện sở thích và hoạt động yêu thích của mình một mình",
+            "hasImg": true
+        },
+        {
+            "id": "52f65f58-3864-43d4-8867-4150268dae92",
+            "word": "panic room",
+            "phonetic": "pænɪk ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFuaWMgcm9vbQ&hash=49e93dc9e5681c6ec39a42259006c5b0723be335&lang=en&cache-only=0",
+            "defineEn": "a safe room in an office or house where people can escape into in case of danger",
+            "defineVi": "một căn phòng an toàn trong một văn phòng hoặc ngôi nhà nơi mọi người có thể thoát vào trong trường hợp nguy hiểm"
+        },
+        {
+            "id": "5d0c7a86-5cd0-4d10-aba3-0e7090d98bfa",
+            "word": "utility room",
+            "phonetic": "juːtɪlᵻɾi ɹuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dXRpbGl0eSByb29t&hash=1f07bebc4874fa2e6071c72ec297fa9c4e9f0859&lang=en&cache-only=0",
+            "defineEn": "a room in which there are large pieces of household equipment such as a dishwasher",
+            "defineVi": "một căn phòng trong đó có những thiết bị gia dụng lớn như máy rửa chén",
+            "hasImg": true
+        }
+    ]
+}

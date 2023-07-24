@@ -1,0 +1,574 @@
+{
+    "id": "ed88b331-5b6e-4f1f-995d-fca8a2c215e8",
+    "title": "Rock Music",
+    "originalTitle": "Rock Music",
+    "words": [
+        {
+            "id": "89904ea8-3bc2-4278-9228-f7ebc77966f5",
+            "word": "alternative rock",
+            "phonetic": "ɔːltɜːnətɪv ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For the BAND, the ALBUM was a new direction, moving from their Alt-Country Base to experimental Alternative Rock."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmUgcm9jaw&hash=2ce6da9742e5a6cac8e69288bccc85b057574ac8&lang=en&cache-only=0",
+            "defineEn": "a diverse genre that emerged in the 1980s and 1990s, known for its experimental sound and unconventional approach to rock music",
+            "defineVi": "một thể loại đa dạng xuất hiện vào những năm 1980 và 1990, được biết đến với âm thanh thử nghiệm và cách tiếp cận độc đáo đối với nhạc rock"
+        },
+        {
+            "id": "b31b929b-9fc3-4e6a-a587-2b7366c6e107",
+            "word": "alternative dance",
+            "phonetic": "ɔːltɜːnətɪv dæns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmUgZGFuY2U&hash=397f6cb86db7fe65991cc4973f1e51aebf548e80&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses dance, pop, and alternative rock, known for its catchy beats and melodic hooks",
+            "defineVi": "một thể loại kết hợp giữa dance, pop và alternative rock, được biết đến với nhịp điệu hấp dẫn và những câu luyến láy du dương"
+        },
+        {
+            "id": "55941d01-2444-4a3e-b8b1-4596b2077289",
+            "word": "hard rock",
+            "phonetic": "hɑːɹd ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But if you looked underneath this river, you’d find a layer of hard rock, then a layer of softer rock or dirt, then another layer of hard rock, over and over in a pattern!",
+                "When the layer of soft rock is completely eroded away, that creates a cliff between two of the layers of hard rock.",
+                "And when it was discovered, Borealopelta was encased in a tomb of hard rock called a concretion.",
+                "But if you looked underneath this river, you’d find a layer of hard rock, then a layer of softer rock or dirt, then another layer of hard rock, over and over in a pattern!",
+                "Because of the big difference in how these layers erode, this river has carved a huge amount of soft rock out of the way, and very little hard rock."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFyZCByb2Nr&hash=0058ebe1da7f4210f626eb315d130b05d3b17d2f&lang=en&cache-only=0",
+            "defineEn": "a genre of rock music marked with a heavy beat and high amplification of electric guitars",
+            "defineVi": "một thể loại nhạc rock được đánh dấu bằng nhịp nặng và độ khuếch đại cao của guitar điện",
+            "hasImg": true
+        },
+        {
+            "id": "41dd3889-07f8-46eb-9652-6f8aee7d5d41",
+            "word": "gothic rock",
+            "phonetic": "ɡɑːθɪk ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z290aGljIHJvY2s&hash=22bd9a682f84e0a36c685f7f229568f0cad34231&lang=en&cache-only=0",
+            "defineEn": "a dark, atmospheric genre with haunting vocals and prominent basslines that emerged in the late 1970s",
+            "defineVi": "một thể loại u tối, không khí với giọng hát ám ảnh và âm trầm nổi bật xuất hiện vào cuối những năm 1970"
+        },
+        {
+            "id": "690a27fb-b9c7-4229-9d44-fcb6897f0186",
+            "word": "dream pop",
+            "phonetic": "dɹiːm pɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJlYW0gcG9w&hash=3477e955076e3a4789976f901cc1208137f8e8fd&lang=en&cache-only=0",
+            "defineEn": "an ethereal, atmospheric genre with lush instrumentation and hazy vocals, emerged in the 1980s and 1990s",
+            "defineVi": "một thể loại tao nhã, không khí với nhạc cụ tươi tốt và giọng hát mơ hồ, xuất hiện vào những năm 1980 và 1990"
+        },
+        {
+            "id": "681bd4d9-6419-43fc-9f12-1c394f70fac4",
+            "word": "instrumental rock",
+            "phonetic": "ɪnstɹəmɛntəl ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5zdHJ1bWVudGFsIHJvY2s&hash=2b1be60d216d44ff7480e369ff1fea15a7c20cce&lang=en&cache-only=0",
+            "defineEn": "a vocal-free genre with dynamic guitars, melodic hooks, and powerful rhythms",
+            "defineVi": "một thể loại không có giọng hát với guitar năng động, hook du dương và nhịp điệu mạnh mẽ"
+        },
+        {
+            "id": "663fc188-316f-4e61-bc9b-bc7075b6e587",
+            "word": "progressive rock",
+            "phonetic": "pɹəɡɹɛsɪv ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvZ3Jlc3NpdmUgcm9jaw&hash=49fbb2a4548ffd9dd52641b8e26294863e8280fa&lang=en&cache-only=0",
+            "defineEn": "a subgenre of rock music of the late 1960s with sophisticated wordings and improvisations accompanied by unusual time signatures and instruments",
+            "defineVi": "một thể loại phụ của nhạc rock vào cuối những năm 1960 với những từ ngữ và cách ứng tấu phức tạp đi kèm với các ký hiệu thời gian và nhạc cụ khác thường"
+        },
+        {
+            "id": "c4567cec-d053-4d83-aa1d-55ed7c37dcf0",
+            "word": "grunge rock",
+            "phonetic": "ɡɹʌndʒ ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3J1bmdlIHJvY2s&hash=6e56301ff7de254c7d5b6d7cec1a634cdc8670bc&lang=en&cache-only=0",
+            "defineEn": "a subdivision of rock music with heavy metal and punk rock influences, popular in the early 1990s",
+            "defineVi": "một nhánh của nhạc rock với ảnh hưởng của heavy metal và punk rock, phổ biến vào đầu những năm 1990"
+        },
+        {
+            "id": "3b78a584-d54e-4dc9-a383-ad43ba6b4c62",
+            "word": "psychedelic rock",
+            "phonetic": "saɪkɪdɛlɪk ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hlZGVsaWMgcm9jaw&hash=2cb7290a47fe37dd42b4658b906da60272005d27&lang=en&cache-only=0",
+            "defineEn": "a genre of 1960s music that has a dreamy, surreal sound, made with electric guitars and effects, and often inspired by mind-altering drugs",
+            "defineVi": "một thể loại âm nhạc của thập niên 1960 có âm thanh mơ mộng, siêu thực, được tạo ra bằng guitar điện và các hiệu ứng, và thường lấy cảm hứng từ các loại thuốc làm thay đổi tâm trí"
+        },
+        {
+            "id": "917809ee-b82b-46c1-a925-de780cbdfd5f",
+            "word": "funk rock",
+            "phonetic": "fʌŋk ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVuayByb2Nr&hash=a09df308f2eec04d7fca59ed02a53ade15e8f2e0&lang=en&cache-only=0",
+            "defineEn": "a genre of music that combines elements of funk and rock, characterized by tight grooves, syncopated rhythms, soulful vocals, and guitar-driven melodies",
+            "defineVi": "một thể loại âm nhạc kết hợp các yếu tố của funk và rock, được đặc trưng bởi các rãnh chặt chẽ, nhịp điệu đảo phách, giọng hát có hồn và giai điệu do guitar điều khiển"
+        },
+        {
+            "id": "4e7a3184-6e50-4bba-80af-bf7234abe333",
+            "word": "indie rock",
+            "phonetic": "ɪndi ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5kaWUgcm9jaw&hash=f7c8a43ff5d5c10784640fff243cc982f8c2b148&lang=en&cache-only=0",
+            "defineEn": "a genre of rock music with a fairly light tone that was first developed in the United States and United Kingdom in the 1970s",
+            "defineVi": "một thể loại nhạc rock với giai điệu khá nhẹ lần đầu tiên được phát triển ở Hoa Kỳ và Vương quốc Anh vào những năm 1970",
+            "hasImg": true
+        },
+        {
+            "id": "f6e24b8f-dd36-4aa8-9392-6c36bd13c2b4",
+            "word": "experimental rock",
+            "phonetic": "ɛkspɛɹɪmɛntəl ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZXJpbWVudGFsIHJvY2s&hash=3142930d2ca6711567baec29fc32136935e28998&lang=en&cache-only=0",
+            "defineEn": "a genre of music that pushes the boundaries of traditional rock music, often featuring unconventional song structures, unique instrumentation, and experimental soundscapes",
+            "defineVi": "một thể loại âm nhạc vượt qua ranh giới của nhạc rock truyền thống, thường có cấu trúc bài hát độc đáo, nhạc cụ độc đáo và âm thanh thử nghiệm"
+        },
+        {
+            "id": "b8ef0c1e-689a-401d-b7c7-de9a28e5158f",
+            "word": "folk rock",
+            "phonetic": "foʊk ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zm9sayByb2Nr&hash=ab71fc45381f668298b083697d8f48d27960c537&lang=en&cache-only=0",
+            "defineEn": "a genre of music that blends folk and rock elements, often characterized by acoustic guitars, melodic vocal harmonies, and storytelling lyrics",
+            "defineVi": "một thể loại âm nhạc pha trộn các yếu tố dân gian và rock, thường được đặc trưng bởi guitar acoustic, hòa âm giọng hát du dương và lời bài hát kể chuyện"
+        },
+        {
+            "id": "d3112ac4-a6da-48ed-a6b8-56059effcc6f",
+            "word": "afro rock",
+            "phonetic": "æfɹoʊ ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWZybyByb2Nr&hash=01fe01429e0649edbf1823cbfc943cb21de0244f&lang=en&cache-only=0",
+            "defineEn": "a music genre that fuses African musical traditions with rock instrumentation and influences, creating a unique and vibrant sound",
+            "defineVi": "một thể loại âm nhạc kết hợp truyền thống âm nhạc châu Phi với nhạc cụ và ảnh hưởng của nhạc rock, tạo ra âm thanh độc đáo và sống động"
+        },
+        {
+            "id": "eab742ce-9e3d-4a45-b2fc-30ff0516ecd3",
+            "word": "garage rock",
+            "phonetic": "ɡɚɹɑːʒ ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FyYWdlIHJvY2s&hash=113bc6955304bfe7b208968e35888b3c37624738&lang=en&cache-only=0",
+            "defineEn": "a genre of rock music characterized by its raw, energetic, and often lo-fi sound, typically associated with bands playing in small, unpolished spaces like garages",
+            "defineVi": "một thể loại nhạc rock được đặc trưng bởi âm thanh thô, tràn đầy năng lượng và thường là lo-fi, thường được kết hợp với các ban nhạc chơi trong không gian nhỏ, không được trau chuốt như nhà để xe"
+        },
+        {
+            "id": "25768908-fe85-4d30-b007-2b24b67c85f8",
+            "word": "post-rock",
+            "phonetic": "poʊstɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Check out the guitar in this post-rock song by Sigur Ros.",
+                "It's used more like a texture, similar to how a post-rock band might use a guitar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zdC1yb2Nr&hash=a1a9c7ea3f781c3df343f15941e970f188b364a2&lang=en&cache-only=0",
+            "defineEn": "experimental rock music known for its unconventional structures, instrumentation, and atmospheric soundscapes",
+            "defineVi": "nhạc rock thử nghiệm được biết đến với cấu trúc độc đáo, thiết bị đo đạc và âm thanh trong khí quyển"
+        },
+        {
+            "id": "98df6538-65d2-4ff7-bc6a-7b59a087beab",
+            "word": "death rock",
+            "phonetic": "dɛθ ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVhdGggcm9jaw&hash=ccb151ca4834cfc84026638f034ecebad4a67c5f&lang=en&cache-only=0",
+            "defineEn": "a subgenre of punk rock and gothic rock",
+            "defineVi": "một thể loại phụ của punk rock và gothic rock",
+            "hasImg": true
+        },
+        {
+            "id": "0016c33f-3b94-4215-b3b5-c60b90b2a57e",
+            "word": "rap rock",
+            "phonetic": "ɹæp ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmFwIHJvY2s&hash=964ac51d1433353ae1b0b16cd95246e59ac47653&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses hip-hop/rap and rock, characterized by rap-style vocals and rock instrumentation",
+            "defineVi": "một thể loại kết hợp giữa hip-hop/rap và rock, được đặc trưng bởi giọng hát theo phong cách rap và nhạc cụ rock"
+        },
+        {
+            "id": "79b4b841-880d-4fae-9390-71b894402cd5",
+            "word": "neo-progressive rock",
+            "phonetic": "niːoʊpɹəɡɹɛsɪv ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVvLXByb2dyZXNzaXZlIHJvY2s&hash=6b1781bd92263e4515821b18877c0bd4852e5a13&lang=en&cache-only=0",
+            "defineEn": "a modernized subgenre of progressive rock with complex structures, virtuosic musicianship, and philosophical lyrics",
+            "defineVi": "một tiểu thể loại hiện đại hóa của progressive rock với cấu trúc phức tạp, kỹ thuật âm nhạc điêu luyện và ca từ triết học"
+        },
+        {
+            "id": "2a3640b4-24b0-4816-9728-35034460ae0e",
+            "word": "space rock",
+            "phonetic": "speɪs ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2Ugcm9jaw&hash=9917e1b2267eb514affce612cde70a1650058800&lang=en&cache-only=0",
+            "defineEn": "a genre of psychedelic rock music with atmospheric, experimental, and cosmic themes, often featuring expansive instrumentation",
+            "defineVi": "một thể loại nhạc rock ảo giác với chủ đề khí quyển, thử nghiệm và vũ trụ, thường có nhạc cụ mở rộng"
+        },
+        {
+            "id": "76ad764e-229e-4131-b6dc-94831885c09c",
+            "word": "dance-rock",
+            "phonetic": "dænsɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGFuY2Utcm9jaw&hash=50bd16fbdbe04f79ac12eda0c8b0fb01c6d1d7a8&lang=en&cache-only=0",
+            "defineEn": "an upbeat genre that blends rock and dance music, featuring rhythmic tracks with catchy hooks and danceable grooves",
+            "defineVi": "một thể loại lạc quan kết hợp giữa nhạc rock và nhạc dance, bao gồm các bản nhạc nhịp nhàng với những câu luyến láy hấp dẫn và những giai điệu có thể nhảy được"
+        },
+        {
+            "id": "63bbd3c9-9e72-40fc-b4fa-bf923650dc1f",
+            "word": "heavy metal",
+            "phonetic": "hɛvi mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pentatonic and blues scales are even common throughout heavy metal music.",
+                "Those catalysts are often made from heavy metals, or other substances with significant environmental impacts.",
+                "Lithium-ion batteries also require certain heavy metals to make.",
+                "Neurotoxic heavy metals seeped into the drinking water, affecting hundreds of thousands of residents.",
+                "Things like asbestos in pipes, heavy metals in paints, biological hazards from sewage tanks, radioactive material from gauges, and the list goes on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhdnkgbWV0YWw&hash=e4876ad0b7f55e26fe60eb27aa0842b105042913&lang=en&cache-only=0",
+            "defineEn": "loud, energetic genre of rock music characterized by powerful guitar melodies, strong drum beats, and intense vocals",
+            "defineVi": "thể loại nhạc rock ồn ào, tràn đầy năng lượng đặc trưng bởi giai điệu guitar mạnh mẽ, nhịp trống mạnh mẽ và giọng hát mãnh liệt",
+            "hasImg": true
+        },
+        {
+            "id": "b48e01cf-f841-4a0b-96b3-9f74a663e6d3",
+            "word": "alternative metal",
+            "phonetic": "ɔːltɜːnətɪv mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWx0ZXJuYXRpdmUgbWV0YWw&hash=862b021e8107af61211de35bddb525b26811e344&lang=en&cache-only=0",
+            "defineEn": "a subgenre of heavy metal music that combines elements of various musical genres to create a sound that is often characterized by heavy guitar riffs, melodic vocals, and an emphasis on songwriting and structure",
+            "defineVi": "một thể loại phụ của nhạc heavy metal kết hợp các yếu tố của nhiều thể loại âm nhạc khác nhau để tạo ra âm thanh thường được đặc trưng bởi những đoạn riff guitar nặng, giọng hát du dương và nhấn mạnh vào sáng tác và cấu trúc",
+            "hasImg": true
+        },
+        {
+            "id": "6cc72cc8-be0c-47ab-bde2-3f12b9a1ade9",
+            "word": "death 'n' roll",
+            "phonetic": "dɛθ bækslæʃ ɛn bækslæʃ ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVhdGggJ24nIHJvbGw&hash=4afb89286baa3ba765434ec07fa081b039aa0e77&lang=en&cache-only=0",
+            "defineEn": "a fusion of death metal and rock 'n' roll, featuring heavy riffs, aggressive vocals, and a groovy attitude",
+            "defineVi": "sự kết hợp giữa death metal và rock 'n' roll, nổi bật với những đoạn riff nặng nề, giọng hát mạnh mẽ và thái độ hấp dẫn"
+        },
+        {
+            "id": "1e43a81e-1511-4a40-8561-1a28f4cd9209",
+            "word": "funk metal",
+            "phonetic": "fʌŋk mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVuayBtZXRhbA&hash=2ff2af9600f8cc01401e41937b54b3d1e3fbf474&lang=en&cache-only=0",
+            "defineEn": "a fusion of funk and metal, featuring heavy guitar riffs, funky basslines, and energetic rhythms",
+            "defineVi": "sự kết hợp giữa funk và metal, nổi bật với những đoạn riff guitar nặng nề, âm trầm sôi nổi và nhịp điệu tràn đầy năng lượng"
+        },
+        {
+            "id": "3d6e30a0-584e-481a-90ef-35843b32138e",
+            "word": "nu metal",
+            "phonetic": "nuː mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnUgbWV0YWw&hash=71cb77fcc83e676f3cd5015a9975133da1f6b221&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses metal, alternative, and hip-hop, featuring downtuned guitars, rap-style vocals, and a blend of aggressive and melodic elements",
+            "defineVi": "một thể loại kết hợp giữa metal, alternative và hip-hop, nổi bật với guitar đã được điều chỉnh lại, giọng hát theo phong cách rap và sự pha trộn giữa các yếu tố mạnh mẽ và du dương"
+        },
+        {
+            "id": "a374dbd6-1b70-453e-84be-d6e1f1b525bf",
+            "word": "rap metal",
+            "phonetic": "ɹæp mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmFwIG1ldGFs&hash=af4b44f8d4ff5409d363f87b85b4ff7821fcc69f&lang=en&cache-only=0",
+            "defineEn": "a genre that merges rap/hip-hop with metal, featuring rap-style vocals, heavy guitar riffs, and confrontational lyrics",
+            "defineVi": "một thể loại kết hợp rap/hip-hop với metal, có giọng hát theo phong cách rap, những đoạn riff guitar nặng nề và lời bài hát mang tính đối đầu"
+        },
+        {
+            "id": "e5cddad5-8128-45e3-a56f-e1fd249394cd",
+            "word": "folk metal",
+            "phonetic": "foʊk mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zm9sayBtZXRhbA&hash=fb7955e71cc2898b161ea3f8565ab446606a7d87&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses folk music with heavy metal, featuring traditional instruments, folk melodies, and themes of folklore, mythology, or history, combined with the aggressive sound of metal",
+            "defineVi": "một thể loại kết hợp âm nhạc dân gian với kim loại nặng, bao gồm các nhạc cụ truyền thống, giai điệu dân gian và các chủ đề về văn hóa dân gian, thần thoại hoặc lịch sử, kết hợp với âm thanh mạnh mẽ của kim loại"
+        },
+        {
+            "id": "7329adfc-0262-4b43-a397-6cee495c2c2d",
+            "word": "gothic metal",
+            "phonetic": "ɡɑːθɪk mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z290aGljIG1ldGFs&hash=c28e2c88e82d4d1f9fa36d6b66a2e18ded82470b&lang=en&cache-only=0",
+            "defineEn": "a genre that combines elements of gothic rock or darkwave with heavy metal, featuring dark melodies, powerful vocals, and symphonic or orchestral elements for a dramatic and grandiose sound",
+            "defineVi": "một thể loại kết hợp các yếu tố của gothic rock hoặc darkwave với heavy metal, có giai điệu u tối, giọng hát mạnh mẽ và các yếu tố giao hưởng hoặc dàn nhạc để tạo ra âm thanh ấn tượng và hoành tráng"
+        },
+        {
+            "id": "22f2ff0f-95e4-4e6e-8f42-53e5379eb3a9",
+            "word": "post-metal",
+            "phonetic": "poʊstmɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9zdC1tZXRhbA&hash=cbddfa562368ab300484f1fa9d8c8d13d7151cc3&lang=en&cache-only=0",
+            "defineEn": "an experimental genre that blends heavy guitar work, atmospheric elements, and influences from other genres for a progressive and introspective sound",
+            "defineVi": "một thể loại thử nghiệm pha trộn tác phẩm guitar nặng, các yếu tố khí quyển và ảnh hưởng từ các thể loại khác để tạo ra âm thanh tiến bộ và nội tâm"
+        },
+        {
+            "id": "e42da12a-aecf-4f2f-b801-cdb7a7aee973",
+            "word": "black metal",
+            "phonetic": "blæk mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2sgbWV0YWw&hash=2c3c878c69e363e4654fbf276a06ce1fc3c2b732&lang=en&cache-only=0",
+            "defineEn": "a subgenre of heavy metal music known for its aggressive and fast-paced sound, high-pitched and shrieking vocals, and dark, often controversial lyrics",
+            "defineVi": "một thể loại phụ của nhạc heavy metal được biết đến với âm thanh mạnh mẽ và nhịp độ nhanh, giọng hát the thé và chói tai, và lời bài hát đen tối, thường gây tranh cãi",
+            "hasImg": true
+        },
+        {
+            "id": "75a18701-28b6-4659-b149-5a013bd1b0bc",
+            "word": "neoclassical metal",
+            "phonetic": "niːoʊklæsɪkəl mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVvY2xhc3NpY2FsIG1ldGFs&hash=5a39d636d9c390f8f256111486b397649a2d14f0&lang=en&cache-only=0",
+            "defineEn": "a fusion of classical music and heavy metal characterized by intricate guitar solos, shredding techniques, and classical-inspired melodies",
+            "defineVi": "sự kết hợp giữa âm nhạc cổ điển và kim loại nặng được đặc trưng bởi những bản độc tấu guitar phức tạp, kỹ thuật cắt nhỏ và giai điệu lấy cảm hứng từ cổ điển"
+        },
+        {
+            "id": "302f5cdf-880e-4a73-9e8c-ddcc3ab2dbdb",
+            "word": "doom metal",
+            "phonetic": "duːm mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG9vbSBtZXRhbA&hash=fee2aa0c366476018bd2b7b9b57dfa0adaf6e3bd&lang=en&cache-only=0",
+            "defineEn": "a subgenre of heavy metal music that is characterized by slow tempos, heavy and downtuned guitars, dark and melancholic atmospheres, and often features deep, growling vocals",
+            "defineVi": "một thể loại phụ của nhạc heavy metal được đặc trưng bởi tiết tấu chậm, guitar nặng và trầm, bầu không khí u ám và u sầu, và thường có giọng hát trầm, gầm gừ"
+        },
+        {
+            "id": "1f72d945-edeb-454d-98fd-dfc3cfa07572",
+            "word": "death metal",
+            "phonetic": "dɛθ mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVhdGggbWV0YWw&hash=6deb9fa7785d207fd472d6079d8f592efd63937f&lang=en&cache-only=0",
+            "defineEn": "a genre of extreme metal featuring aggressive, brutal music with guttural vocals, fast tempos, and dark, often violent lyrics",
+            "defineVi": "một thể loại nhạc cực đoan có âm nhạc mạnh mẽ, tàn bạo với giọng hát khàn khàn, nhịp độ nhanh và lời bài hát đen tối, thường là bạo lực"
+        },
+        {
+            "id": "4a73e8bb-9a98-485c-bc33-d65af8396743",
+            "word": "progressive metal",
+            "phonetic": "pɹəɡɹɛsɪv mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvZ3Jlc3NpdmUgbWV0YWw&hash=22bf7428f34ea1a5f704c9bfd2fb17693aafde89&lang=en&cache-only=0",
+            "defineEn": "a subgenre of heavy metal music that combines the technicality and complexity of progressive rock with the heaviness and intensity of heavy metal",
+            "defineVi": "một thể loại phụ của nhạc heavy metal kết hợp tính kỹ thuật và độ phức tạp của progressive rock với độ nặng và cường độ của heavy metal"
+        },
+        {
+            "id": "39fed771-61d6-40d7-b78e-1cc1fea43550",
+            "word": "deathcore",
+            "phonetic": "dɛθkoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVhdGhjb3Jl&hash=f3f8fb93e7cfd55ca9d2bbe161f533e0fe67e0cd&lang=en&cache-only=0",
+            "defineEn": "an extreme metal subgenre that combines death metal and metalcore, featuring heavy breakdowns, guttural vocals, and dark lyrics",
+            "defineVi": "một thể loại phụ của Extreme metal kết hợp giữa death metal và metalcore, nổi bật với những đoạn nhạc bị phá vỡ nặng nề, giọng hát khàn khàn và lời bài hát đen tối"
+        },
+        {
+            "id": "ab40152c-704d-4b60-baf8-74a72e38be8d",
+            "word": "metalcore",
+            "phonetic": "mɛɾəlkoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I don't have that much knowledge about metal, hardcore, what is it, metalcore?",
+                "The genres were known as metalcore, screamo, post-hardcore, and whatever else bands and their fans decided to call them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0YWxjb3Jl&hash=3435b5b47b4f7e73c8dd114f38489cb265a1388e&lang=en&cache-only=0",
+            "defineEn": "a heavy metal subgenre that combines hardcore punk and metal, featuring aggressive breakdowns, screamed and clean vocals, and a fusion of metal and punk riffing styles",
+            "defineVi": "một tiểu thể loại heavy metal kết hợp giữa hardcore punk và metal, nổi bật với những đoạn phá vỡ mạnh mẽ, giọng hát trong trẻo và chói tai, đồng thời là sự kết hợp giữa phong cách riffing của metal và punk"
+        },
+        {
+            "id": "f4a6150a-5751-463a-965f-b052192ea5f5",
+            "word": "thrashcore",
+            "phonetic": "θɹæʃkoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhyYXNoY29yZQ&hash=1a6211c95cb6cae8fbbd4efea1984f9fd8d778c7&lang=en&cache-only=0",
+            "defineEn": "a subgenre of hardcore punk that blends thrash metal elements with short, fast, and aggressive songs, intense vocals, and punk-style riffing",
+            "defineVi": "một thể loại phụ của nhạc punk mạnh mẽ pha trộn các yếu tố thrash metal với các bài hát ngắn, nhanh và hung hãn, giọng hát mạnh mẽ và đoạn riff theo phong cách punk"
+        },
+        {
+            "id": "6733db2b-b3ef-4621-adb4-958b494bfebd",
+            "word": "thrash metal",
+            "phonetic": "θɹæʃ mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The band plays blackened thrash metal with the pedal to the metal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhyYXNoIG1ldGFs&hash=588830b2c6ca29de85a921f055831aae1cae8475&lang=en&cache-only=0",
+            "defineEn": "a harsh and loud subdivision of rock music with a fast tempo that combines elements of heavy metal and punk",
+            "defineVi": "một phân khúc nhạc rock mạnh và ồn ào với nhịp độ nhanh kết hợp các yếu tố của kim loại nặng và nhạc punk",
+            "hasImg": true
+        },
+        {
+            "id": "2bf28a24-5065-4383-8953-70df99c9eba2",
+            "word": "punk",
+            "phonetic": "pʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Wipe that smirk off your face, you little punk.",
+                "Why don't you take a picture punk?",
+                "You're a punk.",
+                "I ain't no punk!",
+                "I ain't no punk!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVuaw&hash=9a0437eeb78b464c6a243d4ca2a9ce8f6fd1e0be&lang=en&cache-only=0",
+            "defineEn": "a subgenre of rock music that is loud, fast, and aggressive which emerged in the 70s",
+            "defineVi": "một thể loại nhạc rock ồn ào, nhanh và mạnh mẽ xuất hiện vào những năm 70",
+            "hasImg": true
+        },
+        {
+            "id": "f15b9659-d666-439d-9c92-1db13e25fe1b",
+            "word": "hardcore punk",
+            "phonetic": "hɑːɹdkoːɹ pʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFyZGNvcmUgcHVuaw&hash=699d3afe17d7fbccf8660f0bda92ad31b8015455&lang=en&cache-only=0",
+            "defineEn": "a subgenre of punk rock music known for its fast, aggressive, and raw sound",
+            "defineVi": "một thể loại phụ của nhạc punk rock được biết đến với âm thanh nhanh, hung hãn và thô"
+        },
+        {
+            "id": "3c5c6787-23a9-45e1-98ac-1d3348a4141d",
+            "word": "punk blues",
+            "phonetic": "pʌŋk bluːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVuayBibHVlcw&hash=fe7c67262210a57b539874da12e6dffabbec1f89&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses punk rock's raw energy with traditional blues elements, featuring distorted guitars, gritty vocals, and a blend of punk and blues styles",
+            "defineVi": "một thể loại kết hợp năng lượng thô của punk rock với các yếu tố blues truyền thống, nổi bật với tiếng guitar méo mó, giọng hát da diết và sự pha trộn giữa phong cách punk và blues"
+        },
+        {
+            "id": "341bb919-12c7-46df-ac86-fed1fe9b2702",
+            "word": "folk punk",
+            "phonetic": "foʊk pʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zm9sayBwdW5r&hash=958418d2f9bdbf782c7aeaca1f79a5c3b5a114c9&lang=en&cache-only=0",
+            "defineEn": "a fusion of folk music and punk rock, known for acoustic instruments, heartfelt lyrics, and a DIY punk ethos",
+            "defineVi": "sự kết hợp giữa nhạc dân gian và nhạc punk rock, được biết đến với các nhạc cụ acoustic, lời bài hát chân thành và đặc tính punk DIY"
+        },
+        {
+            "id": "b152bafa-8724-4814-b4ae-ee39b7d1512d",
+            "word": "post-punk",
+            "phonetic": "poʊstpʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Taking cues from artists like The Doors and The Velvet Underground, British post-punk groups, like Joy Division, Bauhaus, and The Cure, combined gloomy lyrics and punk dissonance with imagery inspired by the Victorian era, classic horror, and androgynous glam fashion.",
+                "What do fans of atmospheric post-punk music have in common with ancient barbarians?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zdC1wdW5r&hash=7c75af6e6c05ce0bac7f2bae4fe69f37ff824af8&lang=en&cache-only=0",
+            "defineEn": "alternative rock music that emerged as a reaction to punk rock, characterized by experimental songwriting, unique soundscapes, and a focus on mood, atmosphere, and social commentary",
+            "defineVi": "nhạc rock thay thế nổi lên như một phản ứng đối với punk rock, được đặc trưng bởi sáng tác thử nghiệm, âm thanh độc đáo và tập trung vào tâm trạng, bầu không khí và bình luận xã hội"
+        },
+        {
+            "id": "62e14a24-afbc-4b68-85b9-ca27b5674503",
+            "word": "noise rock",
+            "phonetic": "nɔɪz ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm9pc2Ugcm9jaw&hash=378fef2d4c39c3c3493ff16c5c867ee0ac310d7b&lang=en&cache-only=0",
+            "defineEn": "an experimental and abrasive genre of alternative rock characterized by dissonant sounds, unconventional song structures, and distorted guitars",
+            "defineVi": "một thể loại rock thay thế mang tính thử nghiệm và mài mòn được đặc trưng bởi âm thanh bất hòa, cấu trúc bài hát độc đáo và tiếng guitar bị bóp méo"
+        },
+        {
+            "id": "257b268e-67fb-4c9b-9e07-f783f99b92d0",
+            "word": "baroque pop",
+            "phonetic": "bɚɹoʊk pɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFyb3F1ZSBwb3A&hash=ba6e303a004b60a1383a2f0687ec0451b2db6a3a&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses baroque classical music with pop and rock, known for ornate arrangements, lush melodies, and intricate instrumentation",
+            "defineVi": "một thể loại kết hợp âm nhạc cổ điển baroque với pop và rock, được biết đến với sự sắp xếp trang trí công phu, giai điệu tươi tốt và nhạc cụ phức tạp"
+        },
+        {
+            "id": "1dc8e44e-81b1-4896-af1d-ce62012253c0",
+            "word": "glam rock",
+            "phonetic": "ɡlæm ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2xhbSByb2Nr&hash=44a3346ce8f4bdbc4561cef6ef7c18283ce5d489&lang=en&cache-only=0",
+            "defineEn": "a subgenre of rock music that emerged in the 1970s in England, with male performers who were dressed unconventionally",
+            "defineVi": "một thể loại nhạc rock nổi lên vào những năm 1970 ở Anh, với những nam nghệ sĩ biểu diễn ăn mặc khác thường",
+            "hasImg": true
+        },
+        {
+            "id": "657ade98-e4f9-40b9-bf48-e94881fa2f4a",
+            "word": "pop rock",
+            "phonetic": "pɑːp ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9wIHJvY2s&hash=0e940b6ed16348a2e80da5e3c9c43e01c6814e1d&lang=en&cache-only=0",
+            "defineEn": "a genre that combines pop and rock, known for catchy melodies, accessible song structures, and a balance between pop hooks and rock instrumentation",
+            "defineVi": "một thể loại kết hợp pop và rock, được biết đến với giai điệu hấp dẫn, cấu trúc bài hát dễ tiếp cận và sự cân bằng giữa pop hook và nhạc cụ rock"
+        },
+        {
+            "id": "ad27dcad-d097-4c6f-ae63-b5fe829932e7",
+            "word": "pop punk",
+            "phonetic": "pɑːp pʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9wIHB1bms&hash=119a5af7043b46ebb0290325f8a54a116dd77204&lang=en&cache-only=0",
+            "defineEn": "a genre of punk rock with pop melodies, catchy hooks, and upbeat songwriting, blending punk attitudes with mainstream appeal",
+            "defineVi": "một thể loại punk rock với giai điệu pop, hook hấp dẫn và sáng tác bài hát lạc quan, pha trộn thái độ punk với sức hấp dẫn chủ đạo"
+        },
+        {
+            "id": "8dcf8700-41a3-404c-8926-ab31de19f99d",
+            "word": "emo",
+            "phonetic": "ɪmoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And poets and emo rockers love them for it.",
+                "She's a little emo, and he's a little emo.",
+                "She's a little emo, and he's a little emo.",
+                "Vampires and emo teenagers aren’t the only ones who find moonlight romantic.",
+                "My hair's long enough, I could become an emo hair icon if I want."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1v&hash=fac7603f9dc29e12867b20e3a05393c5037ff942&lang=en&cache-only=0",
+            "defineEn": "a music genre characterized by emotional and introspective lyrics and a fashion style that often includes tight jeans, band t-shirts, and dyed hair",
+            "defineVi": "một thể loại âm nhạc được đặc trưng bởi ca từ đầy cảm xúc và nội tâm và phong cách thời trang thường bao gồm quần jean bó sát, áo phông của ban nhạc và tóc nhuộm",
+            "hasImg": true
+        },
+        {
+            "id": "7581741c-6353-4b91-9fdd-00a97e8cee57",
+            "word": "rock opera",
+            "phonetic": "ɹɑːk ɑːpɚɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cm9jayBvcGVyYQ&hash=64d0f19b774868a8055a5da0c6da882b917d91ce&lang=en&cache-only=0",
+            "defineEn": "an opera with rock music",
+            "defineVi": "một vở opera với nhạc rock"
+        },
+        {
+            "id": "182a5927-e660-4de3-aa90-eb51f5e23af8",
+            "word": "cowpunk",
+            "phonetic": "kaʊpʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y293cHVuaw&hash=b4c1d8a7c81db8fcb7c41358e32281d3d82bfc84&lang=en&cache-only=0",
+            "defineEn": "a genre that combines punk rock with country and western, featuring twangy guitars, storytelling lyrics, and often humorous undertones",
+            "defineVi": "một thể loại kết hợp nhạc punk rock với đồng quê và phương Tây, nổi bật với tiếng guitar twangy, lời bài hát kể chuyện và thường có giọng điệu hài hước"
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "id": "e3569df7-ec5a-4a2f-a4ef-140828af27ca",
+    "title": "Colors",
+    "originalTitle": "Lesson 19",
+    "words": [
+        {
+            "id": "1e016a63-ee4b-46d6-b7db-351fd6d4bd69",
+            "word": "bright",
+            "phonetic": "bɹaɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "\"That boy isn't very bright.\"",
+                "These shrubs produce bright red berries.",
+                "The bird had bright feathers and a long beak.",
+                "Some bright spark left the tap running all night.",
+                "I arrived bright and early at Brian the falconer's house for day one of my course."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJpZ2h0&hash=5b30cf51f59f4df2ad4691f35f8297c732316732&lang=en&cache-only=0",
+            "defineEn": "(of colors) strong and easy to see; having a vivid color",
+            "defineVi": "(về màu sắc) mạnh mẽ và dễ nhìn; có màu sắc sặc sỡ",
+            "hasImg": true
+        },
+        {
+            "id": "da76d664-73c2-4cbd-bba7-f2591038fa34",
+            "word": "gold",
+            "phonetic": "ɡoʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Prospectors have hit gold.",
+                "To work gold.",
+                "Some high-end restaurants use gold leaf as a garnish for desserts and other dishes.",
+                "Tickets for the concert are like gold dust.",
+                "This information is as good as gold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29sZA&hash=9183f657bf0171de491d236eebc4786c8c7cb423&lang=en&cache-only=0",
+            "defineEn": "having a deep yellow color or the color of gold",
+            "defineVi": "có màu vàng đậm hoặc màu vàng",
+            "hasImg": true
+        },
+        {
+            "id": "6420dfd5-1aa8-41fc-a72e-739638ae1c5b",
+            "word": "silver",
+            "phonetic": "sɪlvɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The Canadian team handed the game to them on a silver plate.",
+                "The boy was born with a silver spoon in his mouth.",
+                "He now rocks a distinguished look with his silver strands.",
+                "There is no silver bullet that will put an end to unemployment.",
+                "If you sell your share in the company now, you're handing the ownership to him on a silver platter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lsdmVy&hash=726f84f547533c11018e30a65e83d5d477e2cf1a&lang=en&cache-only=0",
+            "defineEn": "having a shiny, grayish-white color or the color of the metal silver",
+            "defineVi": "có màu trắng xám sáng bóng hoặc màu của bạc kim loại",
+            "hasImg": true
+        },
+        {
+            "id": "32ad282f-57fe-4a3f-9dfc-3f1f4454f408",
+            "word": "colored",
+            "phonetic": "kʌlɚd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Most colored diamonds owe their hue to some kind of chemical impurity in their carbon lattice.",
+                "The dark colored patch feels warmer in the sunlight than the light colored patch.",
+                "The colored water from the cup moved up through the celery stalk.",
+                "What’s your favorite colored leaf?",
+                "Then put the celery in the colored water!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sb3JlZA&hash=8823d09b42741b7d5a5a5fe1efe8e0835b90126a&lang=en&cache-only=0",
+            "defineEn": "having a particular color other than black or white",
+            "defineVi": "có một màu cụ thể khác với màu đen hoặc trắng",
+            "hasImg": true
+        },
+        {
+            "id": "c97d179e-dec2-4449-b565-27959d0548ec",
+            "word": "pale",
+            "phonetic": "peɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Emmeline turned pale.",
+                "Emmeline turned pale.",
+                "Her recent conduct is beyond the pale.",
+                "His opinions are entirely beyond the pale.",
+                "The language my father used was beyond the pale."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFsZQ&hash=134455a3ec178312d03e817ce1e237c80b3485fc&lang=en&cache-only=0",
+            "defineEn": "light in color or shade",
+            "defineVi": "ánh sáng trong màu sắc hoặc bóng râm",
+            "hasImg": true
+        },
+        {
+            "id": "e8a8e7b1-3e3e-4220-b0db-99153945415a",
+            "word": "blackness",
+            "phonetic": "blæknəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The irrationals are like the blackness.",
+                "Yes, so the center is the blackness, the black hole.",
+                "Look at the blackness of that burger.",
+                "Many Christians often equated darkness or Blackness with sin.",
+                "Many Christians often equated darkness or Blackness with sin."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2tuZXNz&hash=1a076924fed820364d8e773a460bf12e8455ebdd&lang=en&cache-only=0",
+            "defineEn": "the quality of being completely black",
+            "defineVi": "chất lượng của màu đen hoàn toàn",
+            "hasImg": true
+        },
+        {
+            "id": "82a9ca0a-5357-4d4b-b34f-2471d1c29f4f",
+            "word": "brightness",
+            "phonetic": "bɹaɪtnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Is that brightness, Andy? -",
+                "Small changes in mass produce enormous changes in a main sequence star's brightness.",
+                "You've got your lighting control, change modes, change brightness.",
+                "The peak brightness is only 300.",
+                "The max brightness is 450 nits."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJpZ2h0bmVzcw&hash=a7af489bf5d247537efb102a116cf5fc72fb3f3a&lang=en&cache-only=0",
+            "defineEn": "the quality or degree of being bright in color",
+            "defineVi": "chất lượng hoặc mức độ sáng màu",
+            "hasImg": true
+        },
+        {
+            "id": "9203f415-14f1-47ed-8541-59c2ee807a81",
+            "word": "darkness",
+            "phonetic": "dɑːɹknəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sometimes darkness can show you the light.",
+                "The spy stole across the border under the cover of darkness.",
+                "In the darkness, he was blind as a bat, relying on his memory to navigate his own home.",
+                "We managed to lose our pursuers in the darkness.",
+                "Instead of criticizing our politicians for not doing enough to combat climate change, it's better to light a candle than to curse the darkness by taking small actions in our daily lives to reduce our carbon footprint."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFya25lc3M&hash=fd6b4f4e4636da9b3af05e32182fa16a2d07a183&lang=en&cache-only=0",
+            "defineEn": "the quality of being dark in color",
+            "defineVi": "chất lượng của màu tối",
+            "hasImg": true
+        },
+        {
+            "id": "9f76574b-9e5a-4f53-afde-3447bd90b007",
+            "word": "lightness",
+            "phonetic": "laɪtnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lightness is there.",
+                "It really adds this nice lightness, a little bit of crispiness.",
+                "And the insane lightness, mice are gonna keep getting better.",
+                "However, I want a third button and the side buttons and really on the body in terms of lightness there's not much to comment on.",
+                "It might be and lightness isn't everything, as we're about to discover, there's other factors that make a good mouse like shape."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlnaHRuZXNz&hash=f42bb3d499cfd8ee7109109d51a02b2de781fafe&lang=en&cache-only=0",
+            "defineEn": "‌the quality of being light or pale in color",
+            "defineVi": "chất lượng của ánh sáng hoặc màu nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "8e6b4b3d-a16e-4b0e-930d-231177102baa",
+            "word": "colorful",
+            "phonetic": "kʌlɚfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The colorful bird flew high in the sky.",
+                "The children decorated their cupcakes on a colorful dish.",
+                "The children drank their juice from colorful plastic glasses.",
+                "The colorful fish in the aquarium captured my attention.",
+                "The colorful bowtie pasta added a fun twist to the classic mac and cheese dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sb3JmdWw&hash=34b0a9cd4159f19db49a64ab206b8673e9b3f107&lang=en&cache-only=0",
+            "defineEn": "having a lot of different colors or full of bright colors",
+            "defineVi": "có rất nhiều màu sắc khác nhau hoặc đầy màu sắc tươi sáng",
+            "hasImg": true
+        },
+        {
+            "id": "c6f90fad-75ba-440d-b835-b762c5f4339a",
+            "word": "ginger",
+            "phonetic": "dʒɪndʒɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She carefully lifted the ginger tuber from the soil.",
+                "He brewed a cup of ginger tea to soothe his upset stomach.",
+                "He marinated the chicken in a mixture of soy sauce, ginger, and sesame oil for a delicious Asian-inspired flavor.",
+                "My Asian friend made a refreshing ramen salad with cold noodles, cucumber, and ginger dressing.",
+                "She used ginger essential oil to create a relaxing atmosphere in her bedroom."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2luZ2Vy&hash=8baa6db77458a13be638790b83b77a3bf45b1b4a&lang=en&cache-only=0",
+            "defineEn": "(of someone's hair or an animal's fur) bright orange-brown in color",
+            "defineVi": "(tóc của ai đó hoặc lông của động vật) có màu nâu cam sáng",
+            "hasImg": true
+        },
+        {
+            "id": "d2941a45-456b-4fe2-9ffe-592f63304b12",
+            "word": "ginger",
+            "phonetic": "dʒɪndʒɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She carefully lifted the ginger tuber from the soil.",
+                "He brewed a cup of ginger tea to soothe his upset stomach.",
+                "He marinated the chicken in a mixture of soy sauce, ginger, and sesame oil for a delicious Asian-inspired flavor.",
+                "My Asian friend made a refreshing ramen salad with cold noodles, cucumber, and ginger dressing.",
+                "She used ginger essential oil to create a relaxing atmosphere in her bedroom."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2luZ2Vy&hash=8baa6db77458a13be638790b83b77a3bf45b1b4a&lang=en&cache-only=0",
+            "defineEn": "a light brownish-orange color",
+            "defineVi": "một màu nâu cam nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "2163eec5-551e-4516-adb7-02254d127f35",
+            "word": "golden",
+            "phonetic": "ɡoʊldən ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The golden skin of the loquat contrasts beautifully with its vibrant orange flesh.",
+                "He wasted a golden opportunity when he missed from the penalty spot.",
+                "We tried golden and crispy fryer chicken nuggets as a tasty snack.",
+                "The chef roasted the Brussels sprouts until they turned golden brown.",
+                "Want to spend your golden years in Europe?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29sZGVu&hash=451d3e97f08544ddf03642e078691d9b860ec549&lang=en&cache-only=0",
+            "defineEn": "having a bright yellow color or colored like the metal gold",
+            "defineVi": "có màu vàng sáng hoặc có màu giống như vàng kim loại",
+            "hasImg": true
+        },
+        {
+            "id": "71dcc73a-40e1-4587-8808-35fc11a1e56e",
+            "word": "shade",
+            "phonetic": "ʃeɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tall oak tree provided shade on a hot summer day.",
+                "The forest provided us with shade on a hot summer day.",
+                "She painted her toenails a vibrant shade of red for the beach vacation.",
+                "We sat beneath the shade of an oak tree, the ground covered in a blanket of fallen acorns.",
+                "The park near my house has a few hackberry trees, and I often enjoy their shade on sunny days."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhZGU&hash=719e444036f4802f42d5264353b007564acb6a2e&lang=en&cache-only=0",
+            "defineEn": "a different degree of the same color",
+            "defineVi": "một mức độ khác nhau của cùng một màu sắc",
+            "hasImg": true
+        },
+        {
+            "id": "f704ae37-16ca-471b-8bc0-c9fa15dd48e9",
+            "word": "vivid",
+            "phonetic": "vɪvɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The book paints a vivid picture of life in the city.",
+                "I often have vivid dreams when I sleep deeply.",
+                "And even have vivid dreams.",
+                "AMNA NAWAZ: Cosby, too, has vivid memories of those visits.",
+                "Think back to a really vivid memory."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dml2aWQ&hash=7eddcbd74bb0bff9f09ac570cbba8d1b18af991a&lang=en&cache-only=0",
+            "defineEn": "(of colors or light) very deep or bright",
+            "defineVi": "(về màu sắc hoặc ánh sáng) rất sâu hoặc sáng",
+            "hasImg": true
+        },
+        {
+            "id": "040d51c3-a3ba-4b8a-b6d9-1093dceb69ad",
+            "word": "beige",
+            "phonetic": "beɪʒ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Well, Bernie shuffled in the night before and went straight to our beige section.",
+                "The brand that once challenged consumers to look beyond the beige filed for bankruptcy in February 2010 after years of lackluster sales.",
+                "There is somethin' kind of unnerving about the juxtaposition of modern RGB aesthetics and old-school red and beige and tan plastics.",
+                "The resulting liquid was a translucent beige that more closely resembled today's ginger ale.",
+                "It was a sort of a return to fun in consumer design when things had been kind of beige and rectilinear and straightforward for so long."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVpZ2U&hash=ffdbade4ef42e852fc6e293b02bdc9ecdf241c3a&lang=en&cache-only=0",
+            "defineEn": "having a pale brown color like sand",
+            "defineVi": "có màu nâu nhạt như cát",
+            "hasImg": true
+        },
+        {
+            "id": "e6e086f5-5a87-4f53-932c-aeeac1f540aa",
+            "word": "bronze",
+            "phonetic": "bɹɑːnz ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The athlete was proud of her bronze medal, but she was determined to go one better and win gold at the next Olympics.",
+                "After a week of camping under the clear skies, swimming in the lake, and enjoying outdoor activities, he was brown as a berry, his skin bronzed from the sun's warm embrace.",
+                "Over time, taotie bronze vessels developed connections to food for humans too.",
+                "For the moment, bronze has been replaced by photographic brawn.",
+                "Soon after in the eastern Mediterranean in the Fertile Crescent, the bronze age ended in violence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvbnpl&hash=3d41b11a8dbff95b42a49f43dba824d942249350&lang=en&cache-only=0",
+            "defineEn": "deep reddish-brown in color",
+            "defineVi": "có màu nâu đỏ đậm",
+            "hasImg": true
+        },
+        {
+            "id": "0a9bc8a9-1db8-4c44-a26f-cce017cf7423",
+            "word": "contrast",
+            "phonetic": "kɑːntɹæst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The golden skin of the loquat contrasts beautifully with its vibrant orange flesh.",
+                "I enjoy the contrast of flavors and textures when I crumble pot cheese over my fresh garden salad.",
+                "We added radicchio to our pasta dish, and it gave a wonderful contrast to the other ingredients.",
+                "They use mint leaves to garnish their chocolate chip ice cream for a delightful contrast.",
+                "The cool and crisp texture of the melon provided a pleasant contrast to the hot weather."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udHJhc3Q&hash=6da8237a5c9a04d56beb61d9d5d22459c88916b8&lang=en&cache-only=0",
+            "defineEn": "differences in color or in brightness and darkness that an artist uses in a painting or photograph to create a special effect",
+            "defineVi": "sự khác biệt về màu sắc hoặc độ sáng và bóng tối mà một nghệ sĩ sử dụng trong một bức tranh hoặc bức ảnh để tạo hiệu ứng đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "89d83637-dfda-43a0-8594-f43e7492d430",
+            "word": "olive",
+            "phonetic": "ɑːlɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The authorities have offered an olive branch to the community.",
+                "The briny taste of olives adds a unique twist to my homemade pizza.",
+                "The village was set among olive groves on a hill.",
+                "The winner extended an olive branch to his opponent by calling him a great player.",
+                "He held out an olive branch to the opposition by releasing 42 political prisoners."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2xpdmU&hash=85b884ab7ee7cd5a35d9a3113b5371a861264fcb&lang=en&cache-only=0",
+            "defineEn": "grayish-green in color",
+            "defineVi": "có màu xanh xám",
+            "hasImg": true
+        },
+        {
+            "id": "bbe28df1-d81c-470a-8021-cafd50bfa6f4",
+            "word": "tan",
+            "phonetic": "tæn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "- I like a smooth tan look.",
+                "So you can sit here, you can get a tan, for the 41st floor on Billionaires' Row.",
+                "So I have to constrict the range on the inverse tan function.",
+                "[Both] No! - This is going to be the sickest tan ever.",
+                "By the way there are cos and tan buttons on your calculator as well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFu&hash=6d208e824ab7f0443f7f4661949aa68a5b6941df&lang=en&cache-only=0",
+            "defineEn": "pale yellowish-brown",
+            "defineVi": "nâu vàng nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "79b81538-5207-48b3-a6d6-8139cee5f595",
+            "word": "vibrant",
+            "phonetic": "vaɪbɹənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "The market had vibrant yellow lemons on display.",
+                "The vibrant hue of damson makes it a fantastic ingredient for homemade fruit popsicles.",
+                "She painted her toenails a vibrant shade of red for the beach vacation.",
+                "The vibrant purple color of whinberries adds a beautiful touch to desserts like cheesecakes and tarts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlicmFudA&hash=a2b42f8ff49695da21c45d21d769056be29bc656&lang=en&cache-only=0",
+            "defineEn": "(of colors) bright and strong",
+            "defineVi": "(về màu sắc) tươi sáng và mạnh mẽ"
+        },
+        {
+            "id": "563af9be-3ad0-495a-bee7-b7c65c47659f",
+            "word": "violet",
+            "phonetic": "vaɪəlɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My best friend is Violet.",
+                "Her name is Violet.",
+                "So violet is VFC.",
+                "But where exactly is violet?",
+                "[Sheril] What do you think, Violet?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlvbGV0&hash=cc4a27515e602d87344df16780360905a18172fb&lang=en&cache-only=0",
+            "defineEn": "having a bluish-purple color",
+            "defineVi": "có màu tím xanh",
+            "hasImg": true
+        },
+        {
+            "id": "167dc01e-94a3-482d-9855-06a8390fdc08",
+            "word": "turquoise",
+            "phonetic": "tɜːkwɔɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Turquoise balloons are louder.",
+                "It's turquoise.",
+                "Turquoise, and I got a Pikachu.",
+                "Kathryne asks, Turquoise.",
+                "This is a button, it's turquoise, which is my favourite colour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHVycXVvaXNl&hash=dbd941150b8dcdbbed2ad2551517534303266842&lang=en&cache-only=0",
+            "defineEn": "greenish-blue in color",
+            "defineVi": "có màu xanh lục",
+            "hasImg": true
+        },
+        {
+            "id": "23d43aeb-eba2-4d80-8d48-dc909301f7ad",
+            "word": "neutral",
+            "phonetic": "nuːtɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "So four of these carbons are neutral.",
+                "Neutral bromine has one, two, three, four, five, six, seven valence electrons.",
+                "And this entire molecules becomes neutral.",
+                "This one is also neutral for the same reason.",
+                "These were neutral."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV1dHJhbA&hash=1176d2ca596b06efa4b02600efbd6328b2731438&lang=en&cache-only=0",
+            "defineEn": "not very bright or strong in color or shade",
+            "defineVi": "không sáng hoặc mạnh về màu sắc hoặc bóng râm",
+            "hasImg": true
+        },
+        {
+            "id": "19e965ed-9420-41c1-bc5f-b6235bf1abab",
+            "word": "cream",
+            "phonetic": "kɹiːm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The chef drizzled cream over the warm apple pie.",
+                "Double cream adds indulgence to creamy pasta sauces.",
+                "Milk and cream should keep quite well in a fridge.",
+                "The hair styling cream included an emulsifier to combine the water and styling agents.",
+                "She prefers her coffee black, without any sugar or cream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYW0&hash=d629d211aca7ba7a423e51be63197b3f737c7f9a&lang=en&cache-only=0",
+            "defineEn": "having a light yellowish-white color",
+            "defineVi": "có màu trắng vàng nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "8a37e936-dfd5-4dda-af01-0dcf7ab7437e",
+            "word": "dull",
+            "phonetic": "dʌl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The film was as dull as ditchwater.",
+                "Frankly, this book sounded dull as ditchwater to me.",
+                "The book was pretty dull and didn't really stand out from other similar books in the genre.",
+                "Much of the book was very dull.",
+                "They found an overripe watermelon in their garden, its rind was dull and the flesh was overly soft and sweet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHVsbA&hash=f8b7be021ede333fc3278f6fe66348ce510f3ba4&lang=en&cache-only=0",
+            "defineEn": "(of colors) not clear or shiny; lacking brightness",
+            "defineVi": "(của màu sắc) không rõ ràng hoặc sáng bóng; thiếu độ sáng",
+            "hasImg": true
+        },
+        {
+            "id": "e73b5115-bc60-408b-9e78-28bcc063389d",
+            "word": "rosy",
+            "phonetic": "ɹoʊzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She wore a pink dress to the wedding, which complemented her rosy cheeks.",
+                "But the picture is not all rosy.",
+                "It's not all rosy, though.",
+                "Our primate relatives are attracted to rosy colors too, just in a different place.",
+                "This contrasts the rosy expectations that we see from some of the numbers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9zeQ&hash=653c02b3d2d5e0a5a60b587d5f4850317563d81c&lang=en&cache-only=0",
+            "defineEn": "having a pinkish-red color",
+            "defineVi": "có màu đỏ hồng",
+            "hasImg": true
+        },
+        {
+            "id": "41ddfb77-28e7-479d-87de-9b525f317b15",
+            "word": "scarlet",
+            "phonetic": "skɑːɹlɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It was down to Scarlet to spread the news not me!",
+                "- It's scarlet.",
+                "Also, Scarlet is very vocal",
+                "Antibiotics like penicillin have saved millions of lives from bacterial illnesses like pneumonia and scarlet fever.",
+                "And we're going to welcome Scarlet the green wing macaw!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NhcmxldA&hash=8c8f791df25ae84426847271cf9b8ac30034b59c&lang=en&cache-only=0",
+            "defineEn": "having a bright red color",
+            "defineVi": "có màu đỏ tươi",
+            "hasImg": true
+        },
+        {
+            "id": "45742a91-24d3-4b2a-8c6b-8d580bbea0f2",
+            "word": "sandy",
+            "phonetic": "sændi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We had a picnic on the sandy beach, enjoying the ocean breeze.",
+                "We spent our vacation relaxing on the sandy beaches by the sea.",
+                "We took a boat to the tropical island and spent the day lounging on the sandy beach.",
+                "Next to Leonard is Sandy the Kenyan sand boa.",
+                "So sandy soil doesn’t hold on to water very well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FuZHk&hash=632311b4cc17824af2677a268604665dec4e86ca&lang=en&cache-only=0",
+            "defineEn": "(especially of hair) pale yellowish-brown in color",
+            "defineVi": "(đặc biệt là tóc) có màu nâu vàng nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "0c855adf-4d8c-49b5-8cca-fc7ac8640d9d",
+            "word": "monochrome",
+            "phonetic": "mɑːnoʊkɹoʊm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The Simon Personal Communicator had a monochrome LCD and stylus.",
+                "There's a two megapixel monochrome sensor that's meant to add detail to black and white photos.",
+                "So it's just gonna have that monochrome sensor.",
+                "Whether it’s waxing, waning, or shining in its full glory, it always presents the same face to Earth: a mottled, monochrome landscape of black and white rocks.",
+                "For the macro lens, we've gone from two megapixels to five, and they've actually included a monochrome sensor, which I think is just OnePlus's nomenclature for depth sensor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ub2Nocm9tZQ&hash=593537f0692a8c31e1626bcee4dc2e70f9435090&lang=en&cache-only=0",
+            "defineEn": "(of a picture or photograph) containing or portraying images in black and white or different shades of a single color only",
+            "defineVi": "(của một bức ảnh hoặc bức ảnh) chứa hoặc miêu tả hình ảnh đen trắng hoặc các sắc thái khác nhau của một màu duy nhất",
+            "hasImg": true
+        },
+        {
+            "id": "c32f5182-490d-4d6d-9bb0-e33c1f5e8750",
+            "word": "subtle",
+            "phonetic": "sʌɾəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The ricotta adds a creamy texture and subtle tanginess to the pancakes.",
+                "The subtle bitterness of artemisia balanced the sweetness of the dessert.",
+                "The Pinot grape juice had a subtle sweetness, making it a great base for refreshing cocktails.",
+                "Adding crème fraîche to mashed potatoes gives them a silky smooth texture and a subtle tang.",
+                "While ordinary onions have a strong pungent flavor, Welsh onions have a more delicate and subtle taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VidGxl&hash=971cb165686953e56157bb414624828c0bf6067e&lang=en&cache-only=0",
+            "defineEn": "hard to notice or detect",
+            "defineVi": "khó nhận thấy hoặc phát hiện"
+        },
+        {
+            "id": "be49f942-8144-4a01-9009-a69b55a8f194",
+            "word": "to lighten",
+            "phonetic": "tə laɪʔn̩ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Over many generations of selection, skin color in those regions gradually lightened.",
+                "But engaging with people or groups that acknowledge that parenting is hard can lighten the load.",
+                "Other companies are trying to lighten the load of the ever critical last-mile delivery.",
+                "Then, they rinse the strips with water and chlorine to lighten the color.",
+                "Both figures offered to lighten the man’s burden, and act as Godfather to his most recent child."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGlnaHRlbg&hash=b1dfd5946d0c8ef53bbd27add8d90d7449fb0554&lang=en&cache-only=0",
+            "defineEn": "to become brighter or clearer in color",
+            "defineVi": "để trở nên sáng hơn hoặc rõ ràng hơn trong màu sắc"
+        }
+    ]
+}

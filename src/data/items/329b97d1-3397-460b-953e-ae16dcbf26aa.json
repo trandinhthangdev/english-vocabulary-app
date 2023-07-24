@@ -1,0 +1,916 @@
+{
+    "id": "329b97d1-3397-460b-953e-ae16dcbf26aa",
+    "title": "Unit 12",
+    "originalTitle": "Unit 12",
+    "words": [
+        {
+            "id": "c3a1c80a-6a9b-4f86-9738-aeaa2b59568b",
+            "word": "apple pie",
+            "phonetic": "æpəl paɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGUgcGll&hash=ca4d08d636244082279a5e117f75a9067a4f268c&lang=en&cache-only=0",
+            "defineEn": "a traditional American dessert made with a pastry crust filled with sliced apples, sugar, and spices, often served warm and accompanied by ice cream or whipped cream",
+            "defineVi": "một món tráng miệng truyền thống của Mỹ được làm bằng vỏ bánh ngọt với táo thái lát, đường và gia vị, thường được phục vụ khi còn ấm và ăn kèm với kem hoặc kem đánh bông",
+            "hasImg": true
+        },
+        {
+            "id": "81f80e0c-060d-47d2-97d7-b0515fa8aa37",
+            "word": "bacon",
+            "phonetic": "beɪkən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But a truck driver saved her bacon.",
+                "That bacon sandwich really hit the spot!",
+                "Blue cheese and bacon make an irresistible combination in a creamy spinach salad.",
+                "I wanted bacon and eggs for breakfast.",
+                "I cooked bacon to add a smoky flavor to my homemade baked beans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFjb24&hash=ca987ddca249116a1e929d94dfb952885722319e&lang=en&cache-only=0",
+            "defineEn": "meat from the back or sides of a pig, preserved by salt or smoke, usually sliced in thin narrow pieces",
+            "defineVi": "thịt từ lưng hoặc hai bên của lợn, được bảo quản bằng muối hoặc xông khói, thường được thái thành miếng mỏng và hẹp",
+            "hasImg": true
+        },
+        {
+            "id": "8de747ca-f01a-4779-a74a-aac33c686cbe",
+            "word": "bookshop",
+            "phonetic": "bʊkʃɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We had some teething problems when we first opened the bookshop, but now everything is okay.",
+                "Four years later, they started the bookshop, in 1745.",
+                "Charing Cross Road is famous for its bookshops.",
+                "Later that day, he walked past a bookshop.",
+                "Perhaps it's just the natural ebb and flow of economic forces that determine the prevalence of brick and mortar bookshops."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9va3Nob3A&hash=2f2b43da9600337be7337179a49914220b2023cf&lang=en&cache-only=0",
+            "defineEn": "a shop that sells books and usually stationery",
+            "defineVi": "một cửa hàng bán sách và thường là văn phòng phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "daf46eef-4dbe-4114-95ad-cf93dc394320",
+            "word": "bottle",
+            "phonetic": "bɑːɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The waiter opened the bottle of wine for the guests.",
+                "She hits the bottle every couple of years.",
+                "He killed three bottles of rum.",
+                "They collected glass bottles for a recycling project.",
+                "I brought a bottle of Pinot grape wine as a gift to the dinner party."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym90dGxl&hash=083135fc1cc1adf19e54c5706863b4d9b540c28f&lang=en&cache-only=0",
+            "defineEn": "a glass or plastic container that has a narrow neck and is used for storing drinks or other liquids",
+            "defineVi": "một hộp thủy tinh hoặc nhựa có cổ hẹp và được sử dụng để đựng đồ uống hoặc các chất lỏng khác",
+            "hasImg": true
+        },
+        {
+            "id": "d756d800-c520-43d9-9c72-47150c2cdd32",
+            "word": "bread",
+            "phonetic": "bɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "They dipped their bread into a small bowl of balsamic vinegar and olive oil.",
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWQ&hash=887a28d2a7fa3a37ef4a658c95bc7c7bb24e1bac&lang=en&cache-only=0",
+            "defineEn": "a type of food made from flour, water and usually yeast mixed together and baked",
+            "defineVi": "một loại thực phẩm được làm từ bột mì, nước và thường là men trộn với nhau và nướng",
+            "hasImg": true
+        },
+        {
+            "id": "ec8c9b98-1573-40fe-a552-37953c58f498",
+            "word": "butter",
+            "phonetic": "bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community.",
+                "As a vegan, she substituted almond butter for traditional dairy-based spreads.",
+                "The mobile phone business was actually his bread and butter.",
+                "I accidentally buttered both sides of the bread when making a sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVy&hash=b688b3f85d5ed92aabce633aa0c0172e4846bc9f&lang=en&cache-only=0",
+            "defineEn": "a soft, yellow food made from cream that we spread on bread or use in cooking",
+            "defineVi": "một loại thực phẩm mềm, màu vàng làm từ kem mà chúng ta phết lên bánh mì hoặc dùng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "75d25cd2-ba1b-4e0c-a16b-0c4373ccc147",
+            "word": "cabbage",
+            "phonetic": "kæbɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We enjoyed hot cabbage soup on a chilly evening.",
+                "They cooked corned beef and cabbage for their St. Patrick's Day celebration.",
+                "He picked up a beautiful head of savoy cabbage from the market.",
+                "The mahimahi tacos were a hit at the party, topped with fresh cabbage slaw and avocado.",
+                "She made some delicious food with shredded cabbage and a creamy dressing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FiYmFnZQ&hash=8fe31fb7b50f83f90a458fea13965bf4d3f253f6&lang=en&cache-only=0",
+            "defineEn": "a large round vegetable with thick white, green or purple leaves, eaten raw or cooked",
+            "defineVi": "một loại rau tròn lớn có lá dày màu trắng, xanh hoặc tím, ăn sống hoặc nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "885db626-4bdb-4160-9169-028fe37c69e3",
+            "word": "canteen",
+            "phonetic": "kæntiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Drop the canteens.",
+                "Petty Officer Gunn: Get your canteens above your skulls!",
+                "It is a canteen.",
+                "Nope, just grab your canteen and go.",
+                "Nope, just grab your canteens and go, you failed this event."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FudGVlbg&hash=74e2344e83fd9872109f63f181949605e15c3dfa&lang=en&cache-only=0",
+            "defineEn": "a small container or bottle used for carrying water or other liquids, typically used by hikers, campers, or soldiers",
+            "defineVi": "một thùng hoặc chai nhỏ được sử dụng để mang nước hoặc các chất lỏng khác, thường được sử dụng bởi những người đi bộ đường dài, người cắm trại hoặc binh lính",
+            "hasImg": true
+        },
+        {
+            "id": "d6cea70e-a2b4-4940-ba98-e7a386ec4fa3",
+            "word": "cocoa",
+            "phonetic": "koʊkoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I replaced cocoa powder with carob powder in my favorite cake recipe.",
+                "They added a pinch of cocoa powder to their milk for a homemade chocolate milk.",
+                "A classic hot chocolate recipe calls for scalded milk to be mixed with cocoa powder and sugar.",
+                "So now adding the cocoa.",
+                "[Sheril] Taste 100% cocoa."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29jb2E&hash=563f09ae0f502d918ffa37ce6afe62c149246102&lang=en&cache-only=0",
+            "defineEn": "a hot or cold beverage made from cocoa powder, milk or water, and sweetener (such as sugar)",
+            "defineVi": "đồ uống nóng hoặc lạnh làm từ bột ca cao, sữa hoặc nước và chất làm ngọt (chẳng hạn như đường)",
+            "hasImg": true
+        },
+        {
+            "id": "06e8d3f9-9d41-46f7-a193-b9575c9976e5",
+            "word": "curry",
+            "phonetic": "kɜːɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The paneer curry smells amazing!",
+                "The ambassador curried favor with the dictator by praising his construction projects.",
+                "My sister skillfully cooks a flavorful curry for dinner.",
+                "They served white rice with the chicken curry.",
+                "She prepared a flavorful chicken curry with aromatic spices and coconut milk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vycnk&hash=bc2652638118170396a07304dac6e706367eef6d&lang=en&cache-only=0",
+            "defineEn": "a type of Indian dish made with meat, vegetables, etc., which is cooked in a hot sauce and then served with rice",
+            "defineVi": "một loại món ăn của Ấn Độ làm từ thịt, rau, v.v., được nấu trong nước sốt nóng và dùng với cơm",
+            "hasImg": true
+        },
+        {
+            "id": "83a5a2ec-fbb0-44a0-a4dd-95080ee00667",
+            "word": "customer",
+            "phonetic": "kʌstəmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef impressed the customers by his special dish of button mushrooms with crumbled feta cheese.",
+                "The bakery offered gluten-free options for customers with dietary restrictions.",
+                "Customer service calls went unanswered.",
+                "Our mascarpone cheesecake is a customer favorite",
+                "Customers feel they have been left up the creek without a paddle by the bank."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VzdG9tZXI&hash=683db48f39be401059f0de0fff541aa167650cdb&lang=en&cache-only=0",
+            "defineEn": "a person, organization, company, etc. that pays to get things from businesses or stores",
+            "defineVi": "một người, tổ chức, công ty, v.v. trả tiền để lấy đồ từ doanh nghiệp hoặc cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "8424c83f-0b02-4326-a994-8f55c45da4d9",
+            "word": "dessert",
+            "phonetic": "dɪzɜːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The dessert was beautifully presented with a garnish of chocolate shavings on top.",
+                "The chef incorporated chunks of multiple fruits into a delectable dessert.",
+                "The combination of ripe cherimoya and coconut milk created a heavenly dessert pudding.",
+                "Our dessert of the day is a delectable almond-leaved pear tart.",
+                "The subtle bitterness of artemisia balanced the sweetness of the dessert."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVzc2VydA&hash=aee1d72d4eec797f2164e19128ee8c089f8dc4c2&lang=en&cache-only=0",
+            "defineEn": "‌sweet food eaten after the main dish",
+            "defineVi": "món ngọt ăn sau món chính",
+            "hasImg": true
+        },
+        {
+            "id": "07222e33-8a91-4403-a49f-67b4deefe791",
+            "word": "diet",
+            "phonetic": "daɪət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He followed a strict diet.",
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "We existed on a diet of rice.",
+                "She includes thin slices of celery in her diet.",
+                "They lived frugally off a diet of beans and lentils."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlldA&hash=b3a0e0f93ff225215160b5361694cb134815cbe7&lang=en&cache-only=0",
+            "defineEn": "the types of food or drink that people or animals usually consume",
+            "defineVi": "các loại thực phẩm hoặc đồ uống mà người hoặc động vật thường tiêu thụ",
+            "hasImg": true
+        },
+        {
+            "id": "6bb91fda-bc1a-4766-9bf9-ab6080492e61",
+            "word": "entrance",
+            "phonetic": "ɛntɹəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Two huge fountains were playing outside the entrance.",
+                "They checked our tickets at the entrance of the stadium.",
+                "The taxi dropped me off at the entrance of the restaurant.",
+                "My grandmother stands near the entrance to greet guests.",
+                "She left her muddy boots at the entrance and put on slippers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW50cmFuY2U&hash=4b38c71d69501ec272642fb66f6fe8f306d961fa&lang=en&cache-only=0",
+            "defineEn": "an opening like a door, gate, or passage that we can use to enter a building,  room, etc.",
+            "defineVi": "một lỗ mở như cửa, cổng hoặc lối đi mà chúng ta có thể sử dụng để vào tòa nhà, phòng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d8fe902c-26cb-4179-b04b-32d9a33d993b",
+            "word": "entry",
+            "phonetic": "ɛntɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "See full dictionary entry for heart.",
+                "The apartment has a secure entry system.",
+                "The immigration officer reviewed my passport before granting entry.",
+                "I know this data entry process seems complex now, but it'll be second nature after you do it for a few weeks.",
+                "I know this data entry job isn't what you wanted for a career, but for the time being try and make the best of it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW50cnk&hash=575ca19d67bf30b6f3ab64d7cb243915352a1900&lang=en&cache-only=0",
+            "defineEn": "a door, path, etc. through which one can enter a building or place",
+            "defineVi": "một cánh cửa, con đường, v.v. qua đó người ta có thể vào một tòa nhà hoặc địa điểm",
+            "hasImg": true
+        },
+        {
+            "id": "f972239f-0491-4a39-9d3a-e5f7e38c3dda",
+            "word": "exit",
+            "phonetic": "ɛɡzɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We better stop at the next exit to make sure we don't run out of gas.",
+                "Frustrated with the congestion, he started elbowing through the packed hallway to reach the exit.",
+                "The flavor has exited the building.",
+                "Three Democratic candidates in three days have exited the Democratic race for president.",
+                "Bad exit, go back!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhpdA&hash=4056c96c98934dd93ddd25fe0f04b865e25a1ad9&lang=en&cache-only=0",
+            "defineEn": "a way that enables someone to get out of a room, building, or a vehicle of large capacity",
+            "defineVi": "một cách cho phép ai đó ra khỏi phòng, tòa nhà hoặc phương tiện có công suất lớn",
+            "hasImg": true
+        },
+        {
+            "id": "bb4843fd-884c-4dea-9966-6850b24dd700",
+            "word": "to forget",
+            "phonetic": "tə fɚɡɛt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We can't forget the limburger cheese!",
+                "My son never forgets to pack a few cherry tomatoes in his lunchbox.",
+                "I forgot my umbrella, and now I'm getting wet in the rain.",
+                "Don't forget to bring your books with you.",
+                "Don't forget to sprinkle some shredded cheese on the pizza as a tasty topping."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZm9yZ2V0&hash=2363391c949e1cdf1f8da1e9064166af84b72a99&lang=en&cache-only=0",
+            "defineEn": "to not be able to remember something or someone from the past",
+            "defineVi": "để không thể nhớ một cái gì đó hoặc ai đó từ quá khứ",
+            "hasImg": true
+        },
+        {
+            "id": "7491dc97-40bd-45ff-84b7-538444849d39",
+            "word": "garlic bread",
+            "phonetic": "ɡɑːɹlɪk bɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FybGljIGJyZWFk&hash=5b05f5a08388eb0c6b5025d0ae0eb52caaf8eee0&lang=en&cache-only=0",
+            "defineEn": "bread that is spread with a mixture of butter and minced or crushed garlic, then toasted or baked until crispy and golden brown",
+            "defineVi": "bánh mì được phết hỗn hợp bơ và tỏi băm nhỏ hoặc nghiền nát, sau đó nướng hoặc nướng cho đến khi giòn và có màu vàng nâu",
+            "hasImg": true
+        },
+        {
+            "id": "86b8f3bd-3d12-4690-a817-9e8c18381c6b",
+            "word": "ham",
+            "phonetic": "hæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ham had a smoky flavor.",
+                "The ham was glazed with a mixture of brown sugar and mustard.",
+                "A classic ham and Swiss cheese sandwich is always a crowd-pleaser for lunch.",
+                "She sliced the ham into thin strips and added it to her pasta dish.",
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFt&hash=1c255bac776ec5899c269a0eb36d7e3f01e14e0b&lang=en&cache-only=0",
+            "defineEn": "a type of meat cut from a pig's thigh, usually smoked or salted",
+            "defineVi": "một loại thịt cắt từ đùi lợn, thường được hun khói hoặc ướp muối",
+            "hasImg": true
+        },
+        {
+            "id": "9ef11205-181b-4595-8c7f-0b67f0e31474",
+            "word": "herbal tea",
+            "phonetic": "hɜːbəl tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "She carefully harvested the tender leaves of the Alexander plant for her herbal tea.",
+                "I enjoy the soothing aroma of mastic while brewing a cup of herbal tea.",
+                "After struggling to sleep for weeks, the herbal tea that Jane tried worked like a charm and helped her sleep soundly.",
+                "She used galangal as a natural remedy, brewing it with hot water to make a soothing herbal tea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyYmFsIHRlYQ&hash=fa91661370ddd1022fb246f894e01a7385acf234&lang=en&cache-only=0",
+            "defineEn": "a hot drink that is made by soaking different fruits, leaves, flowers, etc. in hot water",
+            "defineVi": "một thức uống nóng được làm bằng cách ngâm các loại trái cây, lá, hoa, v.v. trong nước nóng",
+            "hasImg": true
+        },
+        {
+            "id": "f3874104-ddd1-4975-9f5a-c8dffb739dc1",
+            "word": "jam",
+            "phonetic": "dʒæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Huckleberry jam is a popular spread for toast and biscuits.",
+                "Do you want jam on it?",
+                "My grandmother makes the most amazing damson jam every summer.",
+                "My homemade star fruit jam was a hit among my family.",
+                "Fig jam is a popular spread that you can enjoy on bread or toast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=amFt&hash=bfa4af94d254e5a27806b8cbf740907e2fbfd61d&lang=en&cache-only=0",
+            "defineEn": "a thick, sweet substance made by boiling fruit with sugar, often sold in jars and eaten on bread",
+            "defineVi": "một chất đặc, ngọt được làm bằng cách đun sôi trái cây với đường, thường được bán trong lọ và ăn kèm với bánh mì",
+            "hasImg": true
+        },
+        {
+            "id": "503e79e8-e038-4a8d-9d81-20272f9db765",
+            "word": "just",
+            "phonetic": "dʒʌst ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Our cat has just had five kittens.",
+                "Just click the link below.",
+                "That piece of work just rejected my resume for the third time!",
+                "Just hold your horses, Bill!",
+                "Alan's explanation just muddies the issue!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVzdA&hash=93ede64f32e2bcd8c70571ca4151cd17227e486c&lang=en&cache-only=0",
+            "defineEn": "no one and nothing more",
+            "defineVi": "không ai và không gì hơn"
+        },
+        {
+            "id": "e66f5d89-001f-4af9-b01e-fa7767404a0c",
+            "word": "kilo",
+            "phonetic": "kiːloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Any baggage over five kilos must be checked.",
+                "Two hundred kilos a bale.",
+                "This puppy is 1.35 kilos.",
+                "This ship will hold 825 kilos in three separate tanks, one tank for each engine. -",
+                "A schoolboy asks for one kilo of apples."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2lsbw&hash=170e90e1e24472e85ab480c26f4119606709396e&lang=en&cache-only=0",
+            "defineEn": "a unit of measuring weight equal to 2.20 pounds or 1000 grams",
+            "defineVi": "một đơn vị đo trọng lượng bằng 2,20 pound hoặc 1000 gram",
+            "hasImg": true
+        },
+        {
+            "id": "f25917cf-200d-4cdd-96e8-7435a1dc3d83",
+            "word": "lady",
+            "phonetic": "leɪdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The old lady walked slowly with the support of her cane.",
+                "The old lady's cake wasn't wonderful",
+                "Her affection for her grandson was written all over the old lady's face.",
+                "Cry me a river, I don't even have a cleaning lady.",
+                "Her coach reminded her that faint heart never won fair lady, and encouraged her to push her limits."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFkeQ&hash=17d34aef01d7aef72d760dccab0199791e9ea314&lang=en&cache-only=0",
+            "defineEn": "a formal or polite word for referring to a woman",
+            "defineVi": "một từ trang trọng hoặc lịch sự để đề cập đến một người phụ nữ",
+            "hasImg": true
+        },
+        {
+            "id": "dee7d731-83bf-46d1-afe8-6e05abcb79af",
+            "word": "maybe",
+            "phonetic": "meɪbiː ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Maybe this photograph will jog your memory.",
+                "You know, maybe that old guy was yanking our chain.",
+                "They've suffered a heart attack, maybe two.",
+                "If you're not prepared to handle the pressure, then maybe this job isn't for you.",
+                "Maybe I should take a leaf out of Rick's book and start coming in early every morning."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF5YmU&hash=da457ba76c86442c101d7bc84a9a1c22de531a45&lang=en&cache-only=0",
+            "defineEn": "used to show that you are uncertain about the occurrence, correctness, or truth of something",
+            "defineVi": "được sử dụng để cho thấy rằng bạn không chắc chắn về sự xuất hiện, tính chính xác hoặc sự thật của một cái gì đó"
+        },
+        {
+            "id": "420983eb-edae-4a61-8df4-15d17ea08784",
+            "word": "meat",
+            "phonetic": "miːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meat and mass never hindered man.",
+                "In my plant-based lasagna, I replaced the meat with textured vegetable protein.",
+                "She seasoned the meat with herbs and spices before cooking.",
+                "Too much garlic killed the taste of the meat.",
+                "As a vegetarian, I often substitute mozzarella for meat in my sandwiches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhdA&hash=c0f8d6677812f202675229cb0d0651f46355c72b&lang=en&cache-only=0",
+            "defineEn": "the flesh of animals and birds that can be eaten as food",
+            "defineVi": "thịt của động vật và chim có thể được ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "0a7dee3c-444b-4a98-aa7a-6406a1405fdd",
+            "word": "menu",
+            "phonetic": "mɛnjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The menu featured a creative dish of beef plate tacos.",
+                "The menu features an innovative dish of Korean-style lamb chops.",
+                "The vegetarian menu offers a delicious black bean burrito as a protein-packed option.",
+                "They finally added a delicious veggie burger option to their menu.",
+                "The restaurant offered a diverse menu to cater to different tastes and dietary restrictions - horses for courses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVudQ&hash=62bfdc56a302048407ad361c54a4375336f40f17&lang=en&cache-only=0",
+            "defineEn": "a list of the different food available for a meal in a restaurant",
+            "defineVi": "một danh sách các loại thực phẩm khác nhau có sẵn cho một bữa ăn trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "293cdaa9-a9c4-45d8-8142-c58afdd3eec6",
+            "word": "to order",
+            "phonetic": "tʊ ɔːɹdɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They ordered a mouthwatering venison burger from a trendy restaurant.",
+                "She ordered a takeaway meal of pizza and garlic bread for dinner.",
+                "We ordered takeout pizza for an easy dinner.",
+                "I ordered a bowl of delicious oxtail soup for the first time.",
+                "Three players got their marching orders last week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gb3JkZXI&hash=5a65cdc475df8ca6b86449c09bd01d556754013a&lang=en&cache-only=0",
+            "defineEn": "to ask for something, especially food, drinks, services, etc. in a restaurant, bar, or shop",
+            "defineVi": "để yêu cầu một cái gì đó, đặc biệt là thực phẩm, đồ uống, dịch vụ, vv trong một nhà hàng, quán bar, hoặc cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "cbeca7ab-b7be-4ac2-87f4-0dbe2909d128",
+            "word": "out of order",
+            "phonetic": "aʊɾəv ɔːɹdɚ ",
+            "partOfSpeechType": "phrase",
+            "examples": [
+                "You're out of order.",
+                "Judiciary Clone: You're out of order!",
+                "By this statute, you're out of order.",
+                "No, you're out of order, too!",
+                "- Oh, this is-- - Can you go out of order?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3V0IG9mIG9yZGVy&hash=c125057791eff5a6097b055eeb160f1c26fa30b4&lang=en&cache-only=0",
+            "defineEn": "(of a machine, equipment, or device)  not working correctly and needing repair or maintenance to function properly",
+            "defineVi": "(của máy móc, thiết bị hoặc thiết bị) hoạt động không chính xác và cần sửa chữa hoặc bảo trì để hoạt động bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "642d0422-c9c1-4a46-8428-91e4cad9b101",
+            "word": "pepper",
+            "phonetic": "pɛpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef peppers the steak with a blend of spices for a flavorful taste.",
+                "They passed around the pepper grinder at the dinner table.",
+                "She added a dash of cayenne pepper to her soup for an extra kick of flavor.",
+                "I tossed the roasted vegetables with olive oil and a sprinkle of salt and pepper.",
+                "I love to pepper my popcorn with a sprinkle of chili powder for a spicy snack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVwcGVy&hash=8df145ff8a7cd52c675078a1a5f5c7a698a345ac&lang=en&cache-only=0",
+            "defineEn": "a hollow fruit, typically red, green or yellow, eaten as a vegetable either raw or cooked with other food",
+            "defineVi": "một loại trái cây rỗng, thường có màu đỏ, xanh lá cây hoặc vàng, được ăn như một loại rau sống hoặc nấu chín với thực phẩm khác",
+            "hasImg": true
+        },
+        {
+            "id": "60955033-a7d3-4aff-8536-4768e0dd1a0b",
+            "word": "potato",
+            "phonetic": "pəteɪɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef skillfully peeled the potato, preparing it for the delicious mashed potatoes.",
+                "The creamy potato salad was enhanced with crispy lardons of bacon.",
+                "The team's success is built on the meat and potatoes of hard work and dedication.",
+                "Britain grows 6,000,000 tons of potatoes a year.",
+                "The farmer harvested a basket of potatoes from the field, satisfied with a successful yield."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG90YXRv&hash=d5e172be4127e5cdef6d2b48ed01de63b616a228&lang=en&cache-only=0",
+            "defineEn": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+            "defineVi": "một loại rau tròn mọc dưới đất, có vỏ màu nâu nhạt và được dùng nấu chín hoặc chiên",
+            "hasImg": true
+        },
+        {
+            "id": "7cdf627e-b57d-44ae-8ae1-95e4328cfbfd",
+            "word": "present",
+            "phonetic": "pɹɛzənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lawyer presented the right argument in court.",
+                "Bring Helen a present.",
+                "Bring a present for Helen.",
+                "He presented a false document as evidence in the court case.",
+                "Our hosts presented us with an embarrassment of riches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlc2VudA&hash=0956ee46e93e5b7ee68fd548b712c65d1d7b4038&lang=en&cache-only=0",
+            "defineEn": "the period of time happening now, not before or after",
+            "defineVi": "khoảng thời gian xảy ra bây giờ, không phải trước hay sau"
+        },
+        {
+            "id": "0e46e9a1-5ff7-4159-a80d-c36959f5737f",
+            "word": "private",
+            "phonetic": "pɹaɪvət ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The rich family owned a private jet.",
+                "The U.S. tax code now loads the dice in favor of private pension plans.",
+                "The backyard is a private part of the house.",
+                "This information is private, so keep it on the Q.T.",
+                "She keeps a lid on her private life."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpdmF0ZQ&hash=3f5889bcc91ee3a32a50ab91bc7b96d0ddaa43e2&lang=en&cache-only=0",
+            "defineEn": "used by or belonging to only a particular individual, group, institution, etc.",
+            "defineVi": "được sử dụng bởi hoặc chỉ thuộc về một cá nhân, nhóm, tổ chức cụ thể, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d868cca0-0c78-41c6-b75b-de23c0b07ce5",
+            "word": "to pull",
+            "phonetic": "tə pʊl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She always pulls her weight.",
+                "Uh, I was just pulling your chain, man.",
+                "The caterer really pulled a rabbit out of a hat by producing 100 cupcakes with just 20 minutes' notice.",
+                "She pulls a face at her brother whenever he teases her.",
+                "She pulled her suitcase behind her as she walked through the airport."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHVsbA&hash=7803b5d930e90d0b43e59137e79835be57f15beb&lang=en&cache-only=0",
+            "defineEn": "to use our hands to move something or someone toward us or in the direction that our hands are moving",
+            "defineVi": "sử dụng bàn tay của chúng tôi để di chuyển một cái gì đó hoặc ai đó về phía chúng tôi hoặc theo hướng mà bàn tay của chúng tôi đang di chuyển",
+            "hasImg": true
+        },
+        {
+            "id": "37a93871-5a2b-4772-b5c4-7177c81d41b5",
+            "word": "to push",
+            "phonetic": "tə pʊʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She pushed the stroller along the path in the park.",
+                "They pushed the heavy box across the room.",
+                "The weight of the world pushed him to his knees.",
+                "She pushed the cart down the aisle at the grocery store.",
+                "The new product design pushes the limits of what is currently available on the market."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHVzaA&hash=5dbc73e4539f043c65297ceeaf3e9a2ca08d1ee3&lang=en&cache-only=0",
+            "defineEn": "to use our hands, arms, body, etc. in order to make something or someone move forward or away from us",
+            "defineVi": "sử dụng bàn tay, cánh tay, cơ thể của chúng ta, v.v. để làm cho một cái gì đó hoặc ai đó di chuyển về phía trước hoặc ra xa chúng ta",
+            "hasImg": true
+        },
+        {
+            "id": "cd8c2ee3-0b3b-404a-a75a-493a323dd0fd",
+            "word": "queue",
+            "phonetic": "kjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He jumped the queue at the ticket counter.",
+                "Developers queued up to buy the property in 1995 but Turner played hard to get, waiting for better offers.",
+                "There has been public outrage after it came to light that some people had been jumping the queue for surgery appointments because they had a friend or relative working at the hospital.",
+                "Some people were queuing outside the Scala Theatre for tickets for a very popular show.",
+                "In Mumbai today, crowds queued for precious doses, with little regard to safe social distance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVldWU&hash=90e1bb6ac21a88ac73432fe42beea1ff148bf9cd&lang=en&cache-only=0",
+            "defineEn": "a line in which people or vehicles wait for a particular purpose",
+            "defineVi": "một dòng người hoặc phương tiện chờ đợi cho một mục đích cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "e447428c-420c-4da8-83c0-ec28e6fab1d4",
+            "word": "reserved",
+            "phonetic": "ɹɪzɜːvd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Kix is more reserved and will eventually follow her mother’s lead and give the new things a chance.",
+                "I do see Finns are very reserved, is that true, you think?",
+                "I'm a very sort of reserved and shy person.",
+                "Those close-in waters were reserved to protect a handful of local Small-Boat Fishermen, called Alia Fishermen, from competition from larger BOATS.",
+                "He was cautioning him to be more careful and more reserved. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzZXJ2ZWQ&hash=ee1413b7ff61a2a414292f101986be5bd68edb6b&lang=en&cache-only=0",
+            "defineEn": "kept or set apart for a specific purpose or person, typically booked or set aside in advance",
+            "defineVi": "giữ hoặc dành riêng cho một mục đích hoặc người cụ thể, thường được đặt trước hoặc dành riêng"
+        },
+        {
+            "id": "f06f31f5-33cd-4bdc-9091-aa060e72460d",
+            "word": "rice",
+            "phonetic": "ɹaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They served white rice with the chicken curry.",
+                "Rice is a staple food in many Asian countries.",
+                "I prefer brown rice over white rice for its nutritional benefits.",
+                "Leave the rice to cook for 20 minutes.",
+                "The rice cooks in boiling water until it becomes fluffy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmljZQ&hash=2a6e41f6c0fbd8fde2f21ea0659be9ef89f86870&lang=en&cache-only=0",
+            "defineEn": "a small and short grain that is white or brown and usually grown and eaten a lot in Asia",
+            "defineVi": "một loại hạt nhỏ và ngắn có màu trắng hoặc nâu và thường được trồng và ăn nhiều ở châu Á",
+            "hasImg": true
+        },
+        {
+            "id": "1d355f9d-763c-4b3a-81df-cbbd18f6c47e",
+            "word": "salami",
+            "phonetic": "sɐlɑːmi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My husband used to add thinly sliced salami to his favorite pasta salad.",
+                "I made a salami and Swiss cheese omelette for breakfast.",
+                "- Salami slices are typically thinner than this.",
+                "This is salami.",
+                "- I've hooked my salami."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsYW1p&hash=9d913bd91eb74337b3b5cc78e7aa0acd50b0bb0a&lang=en&cache-only=0",
+            "defineEn": "a type of sausage that is large, spicy, and is served cold in thin slices, originated in Italy",
+            "defineVi": "một loại xúc xích lớn, cay và được phục vụ lạnh ở dạng lát mỏng, có nguồn gốc từ Ý",
+            "hasImg": true
+        },
+        {
+            "id": "a7ce4cb4-8ea9-4137-adaf-ef237e1d0fc8",
+            "word": "sale",
+            "phonetic": "seɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sales have lost steam in recent weeks.",
+                "Sales are growing fast.",
+                "Shares went on sale this morning.",
+                "Sales assistants are often on the receiving end of verbal abuse from customers.",
+                "The report showed an increase in sales."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsZQ&hash=ce7bab7543732a9ac2dec3b724e54e737283dd2e&lang=en&cache-only=0",
+            "defineEn": "the act of selling something",
+            "defineVi": "hành động bán một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "08a58c60-3a7f-469d-b5be-14534c087f75",
+            "word": "salmon",
+            "phonetic": "sæmən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The waiter served them both with salmon poached in white wine.",
+                "The chef brushed a sweet glaze made of honey and soy sauce onto the grilled salmon.",
+                "The seafood market offered fresh and flaky salmon fillets.",
+                "The chef carefully grated some mace over his grilled salmon.",
+                "Salmon is an excellent choice for a simple and healthy grilled seafood dinner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsbW9u&hash=8eb4d4062dc8e892a69e86fdfed2f8cedced8679&lang=en&cache-only=0",
+            "defineEn": "a silver-colored fish with pink flesh that people eat as food",
+            "defineVi": "một con cá màu bạc với thịt màu hồng mà mọi người ăn làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "17475f9b-28e3-499e-9d61-e28e1771b80d",
+            "word": "seaweed",
+            "phonetic": "siːwiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I enjoy the refreshing taste of seaweed salad.",
+                "Seaweed can be ground into powder and used as a seasoning to add depth of flavor to dishes.",
+                "Carrageenan is a food additive derived from seaweed that is used as a thickener and stabilizer in dairy products and other foods.",
+                "The Sargasso Sea is renowned for its vast floating mats of Sargasso seaweed.",
+                "Like many reef fish, these colorful creatures eat seaweed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vhd2VlZA&hash=628a7402ccb307909df67d07c5829f21ca52212f&lang=en&cache-only=0",
+            "defineEn": "a type of plant that grows in or near the sea",
+            "defineVi": "một loại thực vật mọc trong hoặc gần biển",
+            "hasImg": true
+        },
+        {
+            "id": "1e6d5e04-7b7e-4fce-8e3f-c2d591d46293",
+            "word": "side order",
+            "phonetic": "saɪd ɔːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At Chipotle even a side order of tortilla chips is more than a dollar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lkZSBvcmRlcg&hash=a2e9279b584d62e681b82292562bee1457846f55&lang=en&cache-only=0",
+            "defineEn": "a small dish which is served separately from the main course",
+            "defineVi": "một món ăn nhỏ được phục vụ riêng biệt với món chính",
+            "hasImg": true
+        },
+        {
+            "id": "cb27421a-b645-4668-bcbf-98eefde5e5e1",
+            "word": "sign",
+            "phonetic": "saɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sign must be taken down.",
+                "The doctor examined her neck for any signs of injury.",
+                "I checked the car for signs of damage.",
+                "We sign our names with a pen when writing greeting cards.",
+                "The loyal subjects bowed down before their king as a sign of reverence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lnbg&hash=49c367b4ac03d1f65a0d1efed1f612016963e927&lang=en&cache-only=0",
+            "defineEn": "a symbol or word used to indicate a particular operation, instruction or concept in mathematics, music or other subjects",
+            "defineVi": "một biểu tượng hoặc từ được sử dụng để biểu thị một hoạt động, hướng dẫn hoặc khái niệm cụ thể trong toán học, âm nhạc hoặc các môn học khác",
+            "hasImg": true
+        },
+        {
+            "id": "c56be29b-6c85-4625-8be6-e092c28b46ca",
+            "word": "slice",
+            "phonetic": "slaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A slice of sweet orange adds a delightful touch to a cold glass of iced tea.",
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "He used swede slices as a healthier alternative to french fries.",
+                "I used slices of bully beef as a topping for my homemade pizza.",
+                "He added pepperoni slices to his homemade pasta sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xpY2U&hash=29288f98e6d314fa70d6895d4d7d3955e4792187&lang=en&cache-only=0",
+            "defineEn": "a small cut of a larger portion such as a piece of cake, pizza, etc.",
+            "defineVi": "một vết cắt nhỏ của một phần lớn hơn chẳng hạn như một miếng bánh, bánh pizza, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "ba2f7fdf-b9ba-47e9-8162-aa199a2b7947",
+            "word": "snack",
+            "phonetic": "snæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We snacked on crispy roasted adzuki beans by the riverside.",
+                "Try some dried apricots as a healthy snack.",
+                "A complimentary afternoon snack is served to all guests.",
+                "He ate an orange carrot for a snack.",
+                "They snacked on a handful of mixed nuts for an energy boost during their hike."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25hY2s&hash=e379bd7ae8ea6793e883bf254828c6058c1ea05c&lang=en&cache-only=0",
+            "defineEn": "a small meal that is usually eaten between the main meals or when there is not much time for cooking",
+            "defineVi": "một bữa ăn nhỏ thường được ăn giữa các bữa ăn chính hoặc khi không có nhiều thời gian để nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "c89ac6dc-a546-4b73-aeac-e5ea4b4137fa",
+            "word": "soup",
+            "phonetic": "suːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The soup needs a little more seasoning.",
+                "My friend Prepared a nourishing soup with cellophane noodles, mushrooms, and bok choy.",
+                "We enjoyed hot cabbage soup on a chilly evening.",
+                "I always garnish my soup with a sprinkle of fresh herbs.",
+                "My grandma makes the best homemade chicken soup."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cA&hash=67f29063b48162b01e8f9cbe5b0593e9428e7e45&lang=en&cache-only=0",
+            "defineEn": "liquid food cooked in water, typically containing small pieces of meat, fish, or vegetables",
+            "defineVi": "thức ăn lỏng được nấu trong nước, thường chứa những miếng thịt, cá hoặc rau nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "bec850e5-3381-48af-be17-e1ff9d013055",
+            "word": "sparkling water",
+            "phonetic": "spɑːɹklɪŋ wɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BhcmtsaW5nIHdhdGVy&hash=692e5644a248b554eea808d6959e9be27affdb87&lang=en&cache-only=0",
+            "defineEn": "water which is carbonated or fizzy",
+            "defineVi": "nước có ga hoặc có ga",
+            "hasImg": true
+        },
+        {
+            "id": "d7531062-80df-4d0c-a7c0-d4e2b5838ecc",
+            "word": "starter",
+            "phonetic": "stɑːɹɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The backup quarterback had to make up for the injured starter and lead the team to victory.",
+                "For Alex, his starter marriage served as a valuable learning experience, teaching him valuable lessons about communication, compromise, and the kind of partner he wanted to be with for the long term.",
+                "After college, Nicole and John got married, but it turned out to be a starter marriage as they soon realized they wanted different things in life and decided to go their separate ways.",
+                "For starters, animals in captivity have more interaction with humans.",
+                "Some bakers could bring their starters to R.C. Chocolat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhcnRlcg&hash=cb2a93fedfc8321e6250fb62a67e5ce58c6a6b16&lang=en&cache-only=0",
+            "defineEn": "a small dish served before the main course",
+            "defineVi": "một món ăn nhỏ phục vụ trước món chính",
+            "hasImg": true
+        },
+        {
+            "id": "5351d809-f0bf-4f1e-9be4-40a5d3ba7e79",
+            "word": "to stew",
+            "phonetic": "tə stuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She prepared a creamy navy bean and vegetable stew for his children.",
+                "Black-eyed peas are commonly used in stews, soups, salads, and traditional dishes.",
+                "The chef prepared a tasty fish stew with vegetables and spices.",
+                "He prepared a delicious pork hock stew, with tender chunks of meat, vegetables, and a savory broth.",
+                "William is in a stew about his tax return."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Rldw&hash=58d88082b9e667491f392828cde919fbb1b3ac69&lang=en&cache-only=0",
+            "defineEn": "to cook or be cooked at a low temperature in liquid in a closed container",
+            "defineVi": "nấu hoặc được nấu ở nhiệt độ thấp trong chất lỏng trong hộp kín",
+            "hasImg": true
+        },
+        {
+            "id": "48bb39b6-7e28-4681-ba22-ef801afe31a0",
+            "word": "still",
+            "phonetic": "stɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Memories of that day still bring a lump to his throat.",
+                "A major technological advancement like that is still light years away.",
+                "The child is still running a fever",
+                "Men still hold most positions of power in this country.",
+                "Our trip is still very much up in the air."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RpbGw&hash=0d544a84282b142edd0f916056c873f1b158c96b&lang=en&cache-only=0",
+            "defineEn": "(of a drink) not having bubbles in it",
+            "defineVi": "(của một thức uống) không có bong bóng trong đó",
+            "hasImg": true
+        },
+        {
+            "id": "7126c1bf-a843-4082-94a8-17f37de91fbf",
+            "word": "water",
+            "phonetic": "wɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our waitress poured water for everyone at the table.",
+                "Water will always find its own level.",
+                "My mother waters the plants in our garden every morning.",
+                "Police turned water cannon on the rioters.",
+                "The water boiled away."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0ZXI&hash=fd853ff5e3f42247c9f00b85e95c541093dd8ff0&lang=en&cache-only=0",
+            "defineEn": "a liquid with no smell, taste, or color, that falls from the sky as rain, and we use for washing, cooking, drinking, etc.",
+            "defineVi": "một chất lỏng không mùi, không vị, không màu, từ trên trời rơi xuống dưới dạng mưa, và chúng ta dùng để giặt giũ, nấu ăn, uống, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "e0ea3e7b-b966-48e1-80a0-bd11e014f4e9",
+            "word": "subway",
+            "phonetic": "sʌbweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subway map helped me navigate the different lines.",
+                "I like reading a book during my subway ride.",
+                "I prefer taking the subway instead of driving in the city.",
+                "There are designated seats for elderly and pregnant passengers on the subway.",
+                "In 2012, each Subway franchise generated an average of $482,000 a year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
+            "defineEn": "an underground railway system, typically in a big city",
+            "defineVi": "một hệ thống đường sắt ngầm, thường ở một thành phố lớn",
+            "hasImg": true
+        },
+        {
+            "id": "7ee0185a-0dab-4ef0-b377-8931b0c01104",
+            "word": "to wait",
+            "phonetic": "tə weɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Your car is waiting, sir.",
+                "C'm on the crowd is waiting.",
+                "We waited there for the better part of an hour.",
+                "What are you waiting for?",
+                "Leeds United had waited for success for eighteen years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd2FpdA&hash=74591c31ad6ebbfbb06b428dd2e259575e443fa8&lang=en&cache-only=0",
+            "defineEn": "to not leave until a person or thing is ready or present or something happens",
+            "defineVi": "để không rời đi cho đến khi một người hoặc điều đã sẵn sàng hoặc hiện tại hoặc một cái gì đó xảy ra",
+            "hasImg": true
+        },
+        {
+            "id": "31ab7cb7-1e77-48fe-856f-a33533f6bbea",
+            "word": "pate",
+            "phonetic": "pæteɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It looks just like a pâté at, like, a fine party.",
+                "The dough is called pate choux, and if you fry them, you can make churros.",
+                "Rice is mine, pâté is mine, pastry is mine.",
+                "The COUNTRY is famous for its bread, PASTRIES, pates and other DELICACIES.",
+                "I recently taught Ryan and Shane from Unsolved how to make pate choux."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0ZQ&hash=68cf8be3010957bc39b614be28c3deb11574eb4a&lang=en&cache-only=0",
+            "defineEn": "a paste made from finely chopped or ground meat, fish, or vegetables, mixed with spices and sometimes alcohol, served cold and often used as an appetize",
+            "defineVi": "một loại bột nhão làm từ thịt, cá hoặc rau thái nhỏ hoặc xay nhỏ, trộn với gia vị và đôi khi là rượu, được dùng lạnh và thường được sử dụng như một món khai vị",
+            "hasImg": true
+        }
+    ]
+}

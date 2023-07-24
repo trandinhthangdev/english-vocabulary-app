@@ -1,0 +1,564 @@
+{
+    "id": "f2df26e9-664f-4a51-8faf-a32fdcdb7c4e",
+    "title": "The Computer World",
+    "originalTitle": "The Computer World",
+    "words": [
+        {
+            "id": "ca8ad344-b8f3-4d97-856e-28e994162b02",
+            "word": "software",
+            "phonetic": "sɔftwɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This software first saw the light of day back in 1993.",
+                "Have you ever used this software before?",
+                "You have to set up the software to fit the company like a glove.",
+                "The new software update has done the trick and fixed the issue with the app.",
+                "The software is designed to block pornographic websites, but in practice, it blocks many other sites as well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29mdHdhcmU&hash=87070c14140c98b684a8e2934f4725de8686fd41&lang=en&cache-only=0",
+            "defineEn": "the programs that a computer uses to perform specific tasks",
+            "defineVi": "các chương trình mà máy tính sử dụng để thực hiện các tác vụ cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "68bef333-f7e1-4770-aeb2-a89f3244d4e7",
+            "word": "hardware",
+            "phonetic": "hɑːɹdwɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Doris said that on the day of the murder, if her memory served her right, Ronda Jo left the hardware store soon after the town fire alarm went off.",
+                "He'd made a lot of money out of hardware.",
+                "Hardware accelerated video decoding for web browsers.",
+                "Okay, hardware is right there.",
+                "Because the program was hardware, essentially."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFyZHdhcmU&hash=e77e17d63c37f3839f4c648d31506e37c3cb5010&lang=en&cache-only=0",
+            "defineEn": "the physical and electronic parts of a computer or other similar system",
+            "defineVi": "các bộ phận vật lý và điện tử của máy tính hoặc hệ thống tương tự khác",
+            "hasImg": true
+        },
+        {
+            "id": "43b37085-0b20-490c-b84a-ee2efa9e3514",
+            "word": "application",
+            "phonetic": "æplɪkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can build database applications without writing any code.",
+                "The passport application requires you to fill in your first name, middle name, and last name.",
+                "Examining job applications is the first stage in separating the sheep from the goats.",
+                "They explained the procedure for submitting the application form.",
+                "I prepare my resume and cover letter for job applications."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGljYXRpb24&hash=01fc938725be049fd529b3c76b3668898ac12edf&lang=en&cache-only=0",
+            "defineEn": "(computing) a piece of software programmed to perform a specific task",
+            "defineVi": "(máy tính) một phần mềm được lập trình để thực hiện một nhiệm vụ cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "df8a70d1-d25f-4585-ab39-b18a37ed5852",
+            "word": "operating system",
+            "phonetic": "ɑːpɚɹeɪɾɪŋ sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Suddenly, the operating system blew up the smartphone market.",
+                "Google's first big hardware partnerships were thanks to its operating system, Android.",
+                "It came with the operating system.",
+                "Our intelligence operating system is the product of billions of years of evolution, fine-tuned by the experiences of one adorably awkward childhood.",
+                "You can change the operating system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3BlcmF0aW5nIHN5c3RlbQ&hash=c6dbaa5ece0c4a5bbed7c353515dea36c6478e71&lang=en&cache-only=0",
+            "defineEn": "the most fundamental software operating on a computer, cell phone, etc., without which the mentioned devices are useless",
+            "defineVi": "phần mềm cơ bản nhất hoạt động trên máy tính, điện thoại di động, v.v., nếu không có nó thì các thiết bị được đề cập là vô dụng",
+            "hasImg": true
+        },
+        {
+            "id": "d29d5904-3d08-428b-8b8d-222786afdcc0",
+            "word": "ram",
+            "phonetic": "ɹæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Working for your last boss sure sounds like milking a ram to me.",
+                "People are sick of having advertising rammed down their throats.",
+                "- Battering ram your smoothie.",
+                "In this case, the bottleneck is RAM.",
+                "We got so much RAM."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFt&hash=ea2e55e1c59afdd1cfc43458bf8097436b162b1e&lang=en&cache-only=0",
+            "defineEn": "a type of computer memory tasked with temporarily storing data for a quicker access",
+            "defineVi": "một loại bộ nhớ máy tính được giao nhiệm vụ lưu trữ dữ liệu tạm thời để truy cập nhanh hơn",
+            "hasImg": true
+        },
+        {
+            "id": "d9e4b06c-143c-4b77-835f-b4409751720d",
+            "word": "flash drive",
+            "phonetic": "flæʃ dɹaɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zmxhc2ggZHJpdmU&hash=d5fe0b17ee6fe5b03e24c9ea66d5ecffa4ace2e2&lang=en&cache-only=0",
+            "defineEn": "a small device used for storing data or transferring data between electronic devices",
+            "defineVi": "một thiết bị nhỏ được sử dụng để lưu trữ dữ liệu hoặc truyền dữ liệu giữa các thiết bị điện tử",
+            "hasImg": true
+        },
+        {
+            "id": "3c37bec1-0f7d-48ce-8163-69575e14d36a",
+            "word": "to install",
+            "phonetic": "tʊ ɪnstɔːl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Finally, staff install wheels to the now complete X7.",
+                "Install the app?",
+                "Install a jet engine underneath or within the machine on gimbals.",
+                "For dangerous runways like Telluride's, airports will install an engineered materials arrestor system.",
+                "Here, they install the exhaust system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW5zdGFsbA&hash=7979fca7b7206f01ee07edd9c8287d0f3d2f96fa&lang=en&cache-only=0",
+            "defineEn": "to add a piece of software to a computer system",
+            "defineVi": "để thêm một phần mềm vào hệ thống máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "e0825005-ee4a-4386-b74c-c80ab87a9b14",
+            "word": "input",
+            "phonetic": "ɪnpʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She appreciated their input, but reminded herself that advice is cheap and that she needed to do her own research and make her own decisions.",
+                "Input equals output.",
+                "Get a disabled creator's input.",
+                "We are soliciting input.",
+                "Your input was greatly appreciated."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5wdXQ&hash=283fe3ad9d41e070bee40c3671cffffd0cba6d31&lang=en&cache-only=0",
+            "defineEn": "(computing) the act of inserting information into a computer; the information that is inserted",
+            "defineVi": "(máy tính) hành động đưa thông tin vào máy tính; thông tin được chèn vào"
+        },
+        {
+            "id": "7964dc0c-44e2-4246-abbe-2c4a66fd2897",
+            "word": "to load",
+            "phonetic": "tə loʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The U.S. tax code now loads the dice in favor of private pension plans.",
+                "The blackberry bushes in our backyard were loaded with plump, juicy fruits.",
+                "Get a load of that dress Mag!",
+                "Get a load of George over there.",
+                "The truck carried a load of construction materials to the building site."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbG9hZA&hash=13367f5e4dcdea5dc1786caa32f649509e7ac37c&lang=en&cache-only=0",
+            "defineEn": "to move data or a program from a local storage device into the memory of a computer",
+            "defineVi": "để di chuyển dữ liệu hoặc chương trình từ thiết bị lưu trữ cục bộ vào bộ nhớ của máy tính"
+        },
+        {
+            "id": "7056c1bc-4eaf-4b35-bf1c-400b6ccb0cac",
+            "word": "to refresh",
+            "phonetic": "tə ɹᵻfɹɛʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "As I took a sip of the pomegranate smoothie, I felt instantly refreshed and energized.",
+                "If not, refresh the drive list.",
+                "Refresh the page and exit out of the inspection window.",
+                "Refresh the page and exit out of the inspection window.",
+                "Betty McCall: Your mind, it refreshes you."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVmcmVzaA&hash=266409fab191ac3872f5295782189d9e1c5eb697&lang=en&cache-only=0",
+            "defineEn": "(computing) to update a display, internet page, etc. and make the most recent information appear",
+            "defineVi": "(máy tính) để cập nhật màn hình, trang internet, v.v. và hiển thị thông tin mới nhất"
+        },
+        {
+            "id": "4d94211b-85bb-43e8-968d-f45dcf78d526",
+            "word": "server",
+            "phonetic": "sɜːvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There were no servers. ",
+                "Come on super fast server.",
+                "First, open the Dropbox web server.",
+                "- I shipped you a 160 terabytes server.",
+                "Each server is a broad chat room that can host subgroups and private messages."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VydmVy&hash=564a2d8757587d5ea04f9c0f420571983e84c153&lang=en&cache-only=0",
+            "defineEn": "a computer that gives other computers access to files and information in a network",
+            "defineVi": "một máy tính cho phép các máy tính khác truy cập vào các tệp và thông tin trong mạng",
+            "hasImg": true
+        },
+        {
+            "id": "7da03c0b-d1bd-4d1f-b1df-58bb68d9de84",
+            "word": "database",
+            "phonetic": "deɪɾəbeɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can build database applications without writing any code.",
+                "In recent years, various teams of astronomers have compiled a database of carbon-14 levels in ancient trees.",
+                "Call centers had databases of every landline phone number and the street address associated with it.",
+                "So there's a database somewhere. ",
+                "We brought together 12 different databases with financial information, GIS information, depth information."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGF0YWJhc2U&hash=ca0b90e1f06550c4aa29fdccc2fbd590732b1d29&lang=en&cache-only=0",
+            "defineEn": "a large structure of data stored in a computer that makes accessing necessary information easier",
+            "defineVi": "một cấu trúc lớn dữ liệu được lưu trữ trong máy tính giúp truy cập thông tin cần thiết dễ dàng hơn"
+        },
+        {
+            "id": "24a140d0-7184-45bf-80bd-84ba848e57e1",
+            "word": "desktop",
+            "phonetic": "dɛsktɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The company offers a range of form factors for its products, including desktops, laptops, and tablets.",
+                "I'm locking the desktop.",
+                "The YouTube Community Contribution stuff is only available on desktop.",
+                "But here's the Pop OS desktop.",
+                "Then drag this folder onto the desktop."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVza3RvcA&hash=2e51f2da2a9c92fffee4d9373d3c062dacbf13ef&lang=en&cache-only=0",
+            "defineEn": "an area on a computer where the icons of programs are displayed",
+            "defineVi": "một khu vực trên máy tính nơi các biểu tượng của chương trình được hiển thị",
+            "hasImg": true
+        },
+        {
+            "id": "6b10128d-82a6-465d-9394-fc6dc2303309",
+            "word": "cursor",
+            "phonetic": "kɜːsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My broadband operator would take his cursor.",
+                "Put your mouse cursor over it.",
+                "Hover your cursor over the bottom right corner of the cell until you see a small black cross.",
+                "Once you press this command, your mouse cursor will turn into a crosshair.",
+                "You can run your cursor over footage in the import window to see a preview here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vyc29y&hash=607f5746127fbcd1c96959bd7e58bc70fb329220&lang=en&cache-only=0",
+            "defineEn": "a movable mark on a computer screen that indicates where the user is working",
+            "defineVi": "một dấu di chuyển trên màn hình máy tính cho biết nơi người dùng đang làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "cb916084-8469-4d3f-904f-cd359dd133b5",
+            "word": "to upgrade",
+            "phonetic": "tʊ ʌpɡɹeɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "You can always upgrade a bit further down the road if you want.",
+                "Sarah was content with her old phone and refused to upgrade it.",
+                "I think we should use the extra money to invest in some new computer upgrades, but it's the boss's call in the end.",
+                "The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car.",
+                "When Jack's friend suggested he upgrade his phone to the latest model, Jack replied, \"If it ain't broke, don't fix it.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdXBncmFkZQ&hash=932ecfb990337153660f9999e9e68ba577f29e59&lang=en&cache-only=0",
+            "defineEn": "to improve a machine, computer system, etc. in terms of efficiency, standards, etc.",
+            "defineVi": "để cải thiện máy móc, hệ thống máy tính, v.v. về hiệu quả, tiêu chuẩn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d22b3ed3-89ee-475f-87a9-46118c70eb8f",
+            "word": "compatible",
+            "phonetic": "kəmpæɾᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Are healthy oceans compatible with an industrialized world? ",
+                "\"Your software is compatible with an IR blaster.\"",
+                "Your system is not compatible.",
+                "But also x86 compatible apps.",
+                "So, this battery is actually compatible with both cameras."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGF0aWJsZQ&hash=260d227b8393b41bf27ab4d80e61632633409154&lang=en&cache-only=0",
+            "defineEn": "having the ability to work with different devices, machines, etc.",
+            "defineVi": "có khả năng làm việc với các thiết bị, máy móc khác nhau, v.v."
+        },
+        {
+            "id": "b60292b7-d7bb-4335-bc53-cbca3c590ece",
+            "word": "to crash",
+            "phonetic": "tə kɹæʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "It crashed just after take-off.",
+                "The bank crash has had a ripple effect on the whole community.",
+                "She lost a leg in a car crash.",
+                "The loud crash made everyone in the room sit up and take notice.",
+                "The car crashed into a tree and went down in flames, leaving no survivors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3Jhc2g&hash=23f3947697f830a7174ce25160eb4c0364f9586b&lang=en&cache-only=0",
+            "defineEn": "(computing) to suddenly stop working",
+            "defineVi": "(máy tính) đột nhiên ngừng hoạt động"
+        },
+        {
+            "id": "ddb8e202-3976-46ad-b501-fd36dd744e03",
+            "word": "down",
+            "phonetic": "daʊn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The children scarfed down the pizza at the birthday party.",
+                "Turn the mould upside down.",
+                "His parents are always breathing down his neck.",
+                "That song always sends a shiver down my spine.",
+                "A path led down the hill."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG93bg&hash=2d12df48405febe70f17b9b0afff95955d789097&lang=en&cache-only=0",
+            "defineEn": "(of a computer system) temporarily unavailable or out of order",
+            "defineVi": "(của một hệ thống máy tính) tạm thời không khả dụng hoặc không hoạt động"
+        },
+        {
+            "id": "fc5595ee-00c6-49c3-8fb1-70566ed311f9",
+            "word": "to run",
+            "phonetic": "tə ɹʌn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The local bus company only runs a skeleton service on Sundays.",
+                "The college runs summer courses for foreign students.",
+                "The college also runs evening classes in bricklaying and joinery.",
+                "The bookcase runs the length of the room.",
+                "The tabloid press ran the story."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcnVu&hash=a89561462897e0e7118780b949d5a04c57c3f8c0&lang=en&cache-only=0",
+            "defineEn": "(of vehicles, machines, or computer programs) to function or be in operation",
+            "defineVi": "(của phương tiện, máy móc hoặc chương trình máy tính) hoạt động hoặc đang hoạt động",
+            "hasImg": true
+        },
+        {
+            "id": "69b9e652-6561-4b5c-b581-c4c8da71b4a1",
+            "word": "to scroll",
+            "phonetic": "tə skɹoʊl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He used his finger to scroll through the pictures on his phone.",
+                "He nostalgically recalled his childhood, reminiscing about his mom's homemade Vegemite and cheese scrolls.",
+                "Thomas whiled away hours each day scrolling mindlessly online, understanding that by doing nothing we learn to do ill through lack of purpose.",
+                "Lisa found herself down the rabbit hole of social media, endlessly scrolling through feeds, liking posts, and following new accounts, unable to break free from the addictive nature of online platforms.",
+                "For many people, social media is like a moth to a flame - they can't resist checking their phones and scrolling through their feeds, even if it's not productive or healthy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2Nyb2xs&hash=13667fa933bb2e352550ef8278fdcaf526c719df&lang=en&cache-only=0",
+            "defineEn": "to move what is being displayed on a computer or smartphone screen up or down to see different parts of it",
+            "defineVi": "để di chuyển những gì đang được hiển thị trên màn hình máy tính hoặc điện thoại thông minh lên hoặc xuống để xem các phần khác nhau của màn hình đó",
+            "hasImg": true
+        },
+        {
+            "id": "bfd0f40c-a654-4d3a-8545-b866b5036533",
+            "word": "to cut",
+            "phonetic": "tə kʌt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The line cuts the circle at two points.",
+                "He's cutting his own throat.",
+                "Budget cuts are putting the squeeze on scientific research.",
+                "Cutting Jefferson a break?",
+                "He really cuts the ground from under my feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
+            "defineEn": "to remove part of a digital text in order to put it elsewhere",
+            "defineVi": "để loại bỏ một phần của một văn bản kỹ thuật số để đặt nó ở nơi khác"
+        },
+        {
+            "id": "4bb068dc-8540-4966-95a6-e6f65a5f9a72",
+            "word": "command",
+            "phonetic": "kəmænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her wish was my command",
+                "Your wish is my command sire.",
+                "They knew that, as a going concern, the cafe would command a higher price with prospective buyers.",
+                "The manager offered her team suggestions on how to complete the project, but reminded them that counsel is no command and that they were free to pursue their own strategies.",
+                "Even though he's usually quiet and unassuming, my brother can be incredibly assertive and commanding when he's at home - every dog is a lion at home, as they say."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWFuZA&hash=a7ad107d662ebaab8edb4ce21f5945e08119bfd2&lang=en&cache-only=0",
+            "defineEn": "(computing) an instruction that tells a computer what to do",
+            "defineVi": "(máy tính) một hướng dẫn cho máy tính biết phải làm gì"
+        },
+        {
+            "id": "3ab47b74-ddf0-4c2f-af91-45de3ac50f6b",
+            "word": "to code",
+            "phonetic": "tə koʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "To break a code.",
+                "The U.S. tax code now loads the dice in favor of private pension plans.",
+                "Is it a code, or what?",
+                "He could make nothing of the coded message.",
+                "Yes, the new dress code is at the top of my agenda to discuss with the principal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29kZQ&hash=04960aa81febd3cb36cac5b1f4c5964e626a4a41&lang=en&cache-only=0",
+            "defineEn": "(computing) to write a computer program using specific instructions",
+            "defineVi": "(máy tính) để viết một chương trình máy tính bằng cách sử dụng các hướng dẫn cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "82086fdb-d68b-4ebd-935f-8a13c5a827f4",
+            "word": "to computerize",
+            "phonetic": "tə kəmpjuːɾɚɹaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He was a computer guy who had had an idea about the way to computerize federal medical systems.",
+                "They will pioneer technology like they computerized reservation systems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29tcHV0ZXJpemU&hash=c3cd26f1d473a54b1260d1a730cb8856b03fbb45&lang=en&cache-only=0",
+            "defineEn": "to use computers to perform a task or do a particular job",
+            "defineVi": "để sử dụng máy tính để thực hiện một nhiệm vụ hoặc làm một công việc cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "39961068-7f50-4d70-a31c-4e461f11d477",
+            "word": "to back up",
+            "phonetic": "tə bæk ʌp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "And tests backed up these claims.",
+                "Brain imaging studies have also backed up these findings.",
+                "About halfway down, the traffic backed up.",
+                "Publicly, Secretary of State Tony Blinken backs up Trump era concerns.",
+                "Crematoriums are backed up, sometimes for days."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmFjayB1cA&hash=1bb8102e632d0337f1c1db4ff4fb53baaefec463&lang=en&cache-only=0",
+            "defineEn": "to make a copy of computer data",
+            "defineVi": "để sao chép dữ liệu máy tính"
+        },
+        {
+            "id": "5b9a2293-4a9a-4c0b-8ac1-3669af5d6ef9",
+            "word": "data processing",
+            "phonetic": "deɪɾə pɹɑːsɛsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGF0YSBwcm9jZXNzaW5n&hash=63a450f72222badc6a787e139e6bc87d856da6fe&lang=en&cache-only=0",
+            "defineEn": "a set of actions done on data by a computer to have a certain result",
+            "defineVi": "một tập hợp các hành động được thực hiện trên dữ liệu bởi máy tính để có một kết quả nhất định"
+        },
+        {
+            "id": "5a039f4b-f083-41c4-aa1e-3756852be52f",
+            "word": "artificial intelligence",
+            "phonetic": "ɑːɹɾɪfɪʃəl ɪntɛlɪdʒəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When discussing the limitations of artificial intelligence, I point out that even the most advanced algorithms can make mistakes, for even Homer nods.",
+                "Artificial Intelligence raises serious questions about philosophical boundaries.",
+                "Sometimes, they enlist artificial intelligence for help.",
+                "Whether we notice it or not, artificial intelligence is EVERYWHERE.",
+                "He was an early pioneer in artificial intelligence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2U&hash=358c4ce189007957d1fa6666084627cd87ed0ec7&lang=en&cache-only=0",
+            "defineEn": "a field of science that deals with creating programs able to learn or copy human behavior",
+            "defineVi": "một lĩnh vực khoa học liên quan đến việc tạo ra các chương trình có thể học hoặc sao chép hành vi của con người"
+        },
+        {
+            "id": "3a2fa904-fc98-4a74-a33d-3281880a95a3",
+            "word": "firewall",
+            "phonetic": "faɪɚwɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's a firewall separating our system from the mainland system.",
+                "Very soon after you cross the event horizon, you would hit a firewall and be terminated in an instant.",
+                "Firewall is in theaters now, Paul, always really fun to talking to you, Paul Bettany, we'll be right back.",
+                "Now how was the Firewall premiere?",
+                "We have a clip here from Firewall, and what do we need to know about this?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlyZXdhbGw&hash=06147c1998397c0a58d2ff9c09629c47281194a1&lang=en&cache-only=0",
+            "defineEn": "(computing) a computer program whose task is providing protection against cyber attacks by limiting outside access of data",
+            "defineVi": "(máy tính) một chương trình máy tính có nhiệm vụ bảo vệ chống lại các cuộc tấn công mạng bằng cách hạn chế quyền truy cập dữ liệu từ bên ngoài"
+        },
+        {
+            "id": "8c26df1b-db2d-434e-a854-a22a91a69e7d",
+            "word": "antivirus",
+            "phonetic": "æntɪvaɪɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "To make matters worse, antivirus programs had trouble finding the virus on an infected machine.",
+                "Antivirus programs help, but they can have trouble dealing with threats they’ve never seen before.",
+                "John McAfee, the developer of the antivirus software, has been indicted on fraud and money laundering charges.",
+                "Antivirus and IT companies knew it was there, but it was hard to stop it.",
+                "Only if they do so can they activate their most effective antivirus system: they save a part of the virus DNA in their own genetic code in a DNA archive called CRISPR."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW50aXZpcnVz&hash=39cbb48ecf6793e50aaae38de0815d20eaa9bae3&lang=en&cache-only=0",
+            "defineEn": "having the ability to protect a system from viruses by finding and destroying them",
+            "defineVi": "có khả năng bảo vệ hệ thống khỏi virus bằng cách tìm và tiêu diệt chúng"
+        },
+        {
+            "id": "18313090-1cb3-42eb-a94f-a0d6f7ec13fa",
+            "word": "machine learning",
+            "phonetic": "məʃiːn lɜːnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Global AI experts surveyed at both the International Conference on Machine Learning and the Neural Information Processing Systems Conference in 2015 claimed that artificial intelligence is already on course to totally eclipse our own intelligence within a century."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFjaGluZSBsZWFybmluZw&hash=65fb1e1c95c5d7e6b3e40a440a4080fb90158f2b&lang=en&cache-only=0",
+            "defineEn": "a branch of artificial intelligence where computers learn how to perform specific operations without previous instructions",
+            "defineVi": "một nhánh của trí tuệ nhân tạo nơi máy tính học cách thực hiện các hoạt động cụ thể mà không cần hướng dẫn trước"
+        },
+        {
+            "id": "5e1fdeb4-5e4e-4b1e-bc4c-1609ac73f4c2",
+            "word": "programming",
+            "phonetic": "pɹoʊɡɹæmɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For her, computer programming is child’s play.",
+                "With computer programming becoming an increasingly in-demand skill, many who might have been picked on in high school are now going from zeros to heroes.",
+                "Netflix customers expect quality programming, good predictive suggestions, excellent customer service, and high-end technology performance.",
+                "Fikr Shalltoot runs Gaza programming for the U.K.-based group Medical Aid For Palestinians.",
+                "Ants are essentially tiny machines with simple programming."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvZ3JhbW1pbmc&hash=245c3372f836fa7764dff6d1cd8de37cdee498af&lang=en&cache-only=0",
+            "defineEn": "the process of writing a computer program",
+            "defineVi": "quá trình viết một chương trình máy tính"
+        },
+        {
+            "id": "ddcf8bfe-7270-4950-bdbc-23f47b405b9a",
+            "word": "to process",
+            "phonetic": "tə pɹɑːsɛs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He knew the process backwards.",
+                "The slow healing process of the wound required regular care.",
+                "They explained the process of making a paper airplane step by step.",
+                "The filtration process works by physically removing the contaminants from the water.",
+                "Processes to check against deterioration in the quality of the data held."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHJvY2Vzcw&hash=d0b97c5b29351106bfb8a09b690fce11f96f82a1&lang=en&cache-only=0",
+            "defineEn": "(computing) to handle data by operating on them in a computer",
+            "defineVi": "(máy tính) để xử lý dữ liệu bằng cách thao tác trên chúng trong máy tính"
+        },
+        {
+            "id": "dc90a64a-1b22-4bf9-80e3-13c4a9248904",
+            "word": "virtual reality",
+            "phonetic": "vɜːtʃuːəl ɹɪælᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Virtual reality is an expensive commitment.",
+                "And some training will now be virtual reality.",
+                "Not to mention, virtual reality is very platform specific.",
+                "Is it a rejected virtual reality ride at Action Park, New Jersey.",
+                "It uses VR, not virtual reality, vein recognition."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlydHVhbCByZWFsaXR5&hash=78c19bdc2caf499e29f355aa18456ec70a76ff18&lang=en&cache-only=0",
+            "defineEn": "an artificial environment generated by a computer that makes the user think what they are seeing or hearing is real, by using a special headphone and a helmet that displays the generated environment",
+            "defineVi": "một môi trường nhân tạo do máy tính tạo ra khiến người dùng nghĩ rằng những gì họ đang nhìn hoặc nghe là có thật, bằng cách sử dụng tai nghe đặc biệt và mũ bảo hiểm hiển thị môi trường được tạo"
+        },
+        {
+            "id": "61cf9b14-f952-41a3-947e-69f73d22c151",
+            "word": "passcode",
+            "phonetic": "pæskoʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enter your phone's passcode and, if prompted, trust your device.",
+                "I won't to try my passcode, but like, wow, this is one handable.",
+                "And instead of remembering a passcode, the new iPhone X uses your face to unlock it.",
+                "Next, ensure that your Apple Watch has a passcode and risk detection is turned on.",
+                "During the investigation, the FBI obtained Farouk's iPhone, but could not access it through the passcode."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzc2NvZGU&hash=aeb5cb782e3b981c5287c086d496f21b1d28adbd&lang=en&cache-only=0",
+            "defineEn": "a specific group of letters, numbers, etc. that one needs to enter in order to access a computer or smartphone",
+            "defineVi": "một nhóm chữ cái, số, v.v. cụ thể mà một người cần nhập để truy cập máy tính hoặc điện thoại thông minh",
+            "hasImg": true
+        },
+        {
+            "id": "7168e28a-0990-4330-a33a-00ddb7d9e11a",
+            "word": "developer",
+            "phonetic": "dɪvɛləpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Developers want to build on the site of the old gasworks.",
+                "Developers want to run a road right through his farm.",
+                "Developers should stop half-arsing things and make good games!",
+                "Property developers have been smacking their lips at the thoughts of getting their hands on such prime real estate.",
+                "The city and developer need to think ambitiously about redevelopment plans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGV2ZWxvcGVy&hash=de5bf204d595484a62462a186661537f9ff66e4d&lang=en&cache-only=0",
+            "defineEn": "someone or something that designs and produces applications, video games, etc.",
+            "defineVi": "ai đó hoặc cái gì đó thiết kế và sản xuất các ứng dụng, trò chơi điện tử, v.v."
+        }
+    ]
+}

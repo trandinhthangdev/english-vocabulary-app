@@ -1,0 +1,751 @@
+{
+    "id": "0796927c-7c8f-4373-aeec-e77ee50a975b",
+    "title": "Circulatory System",
+    "originalTitle": "Circulatory System",
+    "words": [
+        {
+            "id": "0ba52cf8-ae41-4978-873f-b8147d1ef24f",
+            "word": "artery",
+            "phonetic": "ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Try the artery clogger.",
+                "Also, both arteries are positioned close to the axis of rotation.",
+                "Blood roars through arteries and veins.",
+                "Squeeze the ventricle and a stream of water squirts out of the pulmonary artery.",
+                "It's a vital artery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJ0ZXJ5&hash=d8be1cf7cf72f6ea7f6398546ac23806ed51be49&lang=en&cache-only=0",
+            "defineEn": "any blood vessel, carrying the blood to different organs of body from the heart",
+            "defineVi": "bất kỳ mạch máu nào, mang máu đến các cơ quan khác nhau của cơ thể từ tim",
+            "hasImg": true
+        },
+        {
+            "id": "81496469-11ff-46f0-8b26-4ff291ad1584",
+            "word": "arteriole",
+            "phonetic": "ɑːɹtɪɹioʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is actually called the afferent arteriole.",
+                "And then it leaves via the efferent arteriole.",
+                "So we had our arteriole go in.",
+                "As arteries branch off to go to different places, they form smaller arterioles and finally very fine little capillary beds, which, through their huge surface area, facilitate the delivery of oxygen to all of the cells in the body that need it.",
+                "These arteries keep tapering down until they turn into the nearly microscopic arterioles that feed into the smallest of your blood vessels, your tiny, extremely thin-walled capillaries which serve as a sort of exchange or bridge between your arterial and venous systems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJ0ZXJpb2xl&hash=503b8ca515d295508d81f4b243d7209a79200d16&lang=en&cache-only=0",
+            "defineEn": "a small blood vessel that connects arteries to capillaries, regulating blood flow and blood pressure in the body",
+            "defineVi": "một mạch máu nhỏ nối động mạch với mao mạch, điều hòa lưu lượng máu và huyết áp trong cơ thể"
+        },
+        {
+            "id": "1243ab8e-a461-4dba-ae45-19d669fbc831",
+            "word": "blood",
+            "phonetic": "blʌd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A white blouse will show the blood.",
+                "Blue blood is no guarantee of any particular merit, competence, or expertise.",
+                "The nurse takes my blood pressure.",
+                "My aunt and I are related by blood.",
+                "The heart pumps blood throughout the body to provide oxygen and nutrients."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymxvb2Q&hash=97c8f6a5b0d0a485c1cc55d20fbd54b004d26cc4&lang=en&cache-only=0",
+            "defineEn": "the red liquid that the heart pumps through the body, carrying oxygen to and carbon dioxide from the tissues",
+            "defineVi": "chất lỏng màu đỏ mà tim bơm qua cơ thể, mang oxy đến và carbon dioxide từ các mô",
+            "hasImg": true
+        },
+        {
+            "id": "5aaee767-93a5-4012-998d-d4f49657b273",
+            "word": "blood vessel",
+            "phonetic": "blʌd vɛsəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Another type of heart problem is blood vessel disease.",
+                "Blood vessels can usually handle these fluctuations easily.",
+                "Cue the blood vessels.",
+                "First, they have very special bones and blood vessels.",
+                "Don't pop a blood vessel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymxvb2QgdmVzc2Vs&hash=b4a7ea286a322bfeecade679bcebb9f727e70515&lang=en&cache-only=0",
+            "defineEn": "any tube structure inside the body through which blood can circulate, such as a vein, artery, etc.",
+            "defineVi": "bất kỳ cấu trúc ống nào bên trong cơ thể mà qua đó máu có thể lưu thông, chẳng hạn như tĩnh mạch, động mạch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "08a18c8f-7b99-447d-9be8-f50add79b3ff",
+            "word": "capillary",
+            "phonetic": "kæpɪlɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the alveoli and capillaries basically just swap one gas for another.",
+                "These new cells enter the bloodstream through holes in small capillaries in the marrow.",
+                "And the endothelium of these capillaries is very porous.",
+                "The capillaries are also where those cells can dump their carbon dioxide and other waste back into the blood and send it away, through the veins to the lungs and kidneys.",
+                "And, of course, the actual capillaries have cells that line them so there are cells here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FwaWxsYXJ5&hash=5dbf9bb284c70b8eed65fcaa482d00ebf22edb73&lang=en&cache-only=0",
+            "defineEn": "(anatomy) any of the small and thin-walled branching blood vessels that connect the arterioles and venules",
+            "defineVi": "(giải phẫu) bất kỳ mạch máu phân nhánh nhỏ và có thành mỏng nào nối các tiểu động mạch và tiểu tĩnh mạch",
+            "hasImg": true
+        },
+        {
+            "id": "11eaa2c2-a02c-4a91-8959-644a4a252bec",
+            "word": "capillary artery",
+            "phonetic": "kæpɪlɚɹi ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FwaWxsYXJ5IGFydGVyeQ&hash=29fee2c0153b8ed1754eeb89e5f4c0007330d9f0&lang=en&cache-only=0",
+            "defineEn": "a small blood vessel that connects larger arteries to capillaries, facilitating the exchange of oxygen, nutrients, and waste products in the body",
+            "defineVi": "một mạch máu nhỏ kết nối các động mạch lớn hơn với mao mạch, tạo điều kiện trao đổi oxy, chất dinh dưỡng và chất thải trong cơ thể"
+        },
+        {
+            "id": "405b54b0-0dcf-49d6-a0e9-cc753337a488",
+            "word": "venule",
+            "phonetic": "vɛnuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cells send their CO2 and other junk out to the venal end of the capillary exchange where the capillaries unite into venules, and then merge into veins that head back to the heart.",
+                "From the capillaries and venules in your thumb, that low-pressure blood flows from the radial vein to the brachial vein to the subclavian vein, where it dumps into the superior vena cava and settles for a second in the right atria, before dropping into the right ventricle.",
+                "oh how are you planning to solve this problem Putin responded and venules digital applause pathetic you read your question did you prepare it yourself or did someone put you up to it little life prepared me for this question"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVudWxl&hash=39124a114df40ddcc9b818086a27f169a88faf3e&lang=en&cache-only=0",
+            "defineEn": "a small blood vessel that carries deoxygenated blood from capillaries to larger veins",
+            "defineVi": "một mạch máu nhỏ mang máu khử oxy từ mao mạch đến các tĩnh mạch lớn hơn"
+        },
+        {
+            "id": "1b682ac0-78de-4b48-9e56-0c79b892bab2",
+            "word": "jugular",
+            "phonetic": "dʒuːɡjʊlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Katz proposed going for the jugular by attacking Nintendo's reputation with marketing.",
+                "It's like the jugular might start boofing out on you.",
+                "But two, how he immediately went to the jugular when it came to partisan politics, talking about Hillary Clinton, defining people by their political party."
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVndWxhcg&hash=32986141645ff4b0a61bec0a9f44fe986963b438&lang=en&cache-only=0",
+            "defineEn": "any of the three large veins in the neck that carry blood from the head and face",
+            "defineVi": "bất kỳ tĩnh mạch nào trong ba tĩnh mạch lớn ở cổ mang máu từ đầu và mặt"
+        },
+        {
+            "id": "73d301b8-bf8d-4e67-a761-e4dda9e9269a",
+            "word": "vein",
+            "phonetic": "veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bravery is coursing through my veins.",
+                "The blue-green veins that criss-cross cheeses like gorgonzola come from penicillium molds.",
+                "He had a forehead vein.",
+                "There's a vein.",
+                "Blood roars through arteries and veins."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVpbg&hash=f26b6f874db391e8f0d6df49228c147d0b142a38&lang=en&cache-only=0",
+            "defineEn": "any tube or vessel that carries blood to one's heart",
+            "defineVi": "bất kỳ ống hoặc tàu nào mang máu đến tim của một người",
+            "hasImg": true
+        },
+        {
+            "id": "675f3310-87c6-4a43-913a-4acaa2f135df",
+            "word": "plasma",
+            "phonetic": "plæzmə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Plasma companies spend over half of their operating expenses on just the collection and manufacturing of the plasma itself.",
+                "But plasma is over 90% water.",
+                "In 2019 alone, plasma companies paid about $2.7 billion for Americans' donations.",
+                "Lightning is made of plasma.",
+                "We can just transfer the plasma."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhc21h&hash=9ce18efda2a3d6fee8ed27188e4bac95e079fe99&lang=en&cache-only=0",
+            "defineEn": "(biology) the colorless liquid part of the blood in which the blood cells are suspended",
+            "defineVi": "(sinh học) phần chất lỏng không màu của máu, trong đó các tế bào máu bị đình chỉ"
+        },
+        {
+            "id": "52014e92-47fc-47e1-a89e-39fafa82bcc2",
+            "word": "aorta",
+            "phonetic": "eɪoːɹɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And as it happens, the RLN forms next to, and at the same time as, the aorta.",
+                "Let us say we cut out a pig’s heart, severing the aorta, pulmonary artery, and vena cava.",
+                "The nerve letting me to talk to you right now is wrapped around my aorta.",
+                "Next, the recurrent laryngeal nerve, which controls most movement in the vertebrate voice box, is wrapped around part of the aorta.",
+                "From the left ventricle, the blood moves through the aorta, a giant tube, and then through the arteries, blood vessels that carry blood away from the heart, to the rest of the body."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW9ydGE&hash=ccc735626651261407436598e17183474f833677&lang=en&cache-only=0",
+            "defineEn": "the main artery that carries highly oxygenated blood from the heart, which has circulated through the lungs, to the rest of the body",
+            "defineVi": "động mạch chính mang máu giàu oxy từ tim, đã lưu thông qua phổi, đến phần còn lại của cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "d1cc0a9f-cb15-4d5e-ab65-d1ffcc12c4bb",
+            "word": "red blood cell",
+            "phonetic": "ɹɛd blʌd sɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVkIGJsb29kIGNlbGw&hash=1a44be2cf6f3b2b665a7789e1660e4c576c78927&lang=en&cache-only=0",
+            "defineEn": "one of the many cells of red color carrying oxygen in the body",
+            "defineVi": "một trong nhiều tế bào màu đỏ mang oxy trong cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "4bbcf0fc-bad3-4e10-ab58-87c8700c9745",
+            "word": "median cubital vein",
+            "phonetic": "miːdiːən kjuːbɪɾəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVkaWFuIGN1Yml0YWwgdmVpbg&hash=5197b795c57310d025d31d393614a1d3a4d026b1&lang=en&cache-only=0",
+            "defineEn": "a forearm vein often used for blood draws and IV catheter insertion",
+            "defineVi": "tĩnh mạch cẳng tay thường được sử dụng để lấy máu và đặt ống thông IV"
+        },
+        {
+            "id": "172cf2fc-1e4b-40b7-8b27-3f3863bb79f4",
+            "word": "ulnar artery",
+            "phonetic": "ʌlnɑːɹ ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dWxuYXIgYXJ0ZXJ5&hash=4f070aadc4133661bbfb6bda9074a37582cc7610&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies oxygenated blood to the forearm and hand",
+            "defineVi": "một mạch máu lớn cung cấp máu oxy cho cẳng tay và bàn tay"
+        },
+        {
+            "id": "6504a007-6f7a-41bf-8852-46b8654aeaac",
+            "word": "radial artery",
+            "phonetic": "ɹeɪdɪəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmFkaWFsIGFydGVyeQ&hash=c39a438472a57ca5f549af6fb67d4d8375c0dcbc&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel in the forearm that delivers oxygenated blood to the hand and fingers",
+            "defineVi": "một mạch máu lớn ở cẳng tay cung cấp máu oxy cho bàn tay và ngón tay"
+        },
+        {
+            "id": "2bc96e51-824d-4652-8cd7-181eb613c42a",
+            "word": "pulmonary artery",
+            "phonetic": "pʌlmənɛɹi ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVsbW9uYXJ5IGFydGVyeQ&hash=bbf96305ec47c49fa0a6d0bc5b6ed8990d72ca5d&lang=en&cache-only=0",
+            "defineEn": "the blood vessel that transports deoxygenated blood from the heart to the lungs for oxygenation",
+            "defineVi": "mạch máu vận chuyển máu khử oxy từ tim đến phổi để oxy hóa",
+            "hasImg": true
+        },
+        {
+            "id": "7b00cbad-3882-4fd3-ac87-d67ec0f8f16e",
+            "word": "pulmonary vein",
+            "phonetic": "pʌlmənɛɹi veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVsbW9uYXJ5IHZlaW4&hash=00d9a928a3d5e388dc9d6c8912c14937a09bd0a8&lang=en&cache-only=0",
+            "defineEn": "any of four blood vessels responsible for transporting oxygen-rich blood from the lungs back to the heart",
+            "defineVi": "bất kỳ trong số bốn mạch máu chịu trách nhiệm vận chuyển máu giàu oxy từ phổi trở lại tim"
+        },
+        {
+            "id": "cb2e3875-30f2-4716-aa4e-0ba694f302bf",
+            "word": "celiac trunk",
+            "phonetic": "sɛliæk tɹʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2VsaWFjIHRydW5r&hash=2d18de5b3edbf7a447b50656e1375b9d13d1f907&lang=en&cache-only=0",
+            "defineEn": "a major artery that supplies oxygenated blood to the abdominal organs",
+            "defineVi": "một động mạch chính cung cấp máu oxy cho các cơ quan bụng"
+        },
+        {
+            "id": "3cb6a896-d25b-4269-b304-b7bad09b57af",
+            "word": "hepatic vein",
+            "phonetic": "hɛpæɾɪk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVwYXRpYyB2ZWlu&hash=1f682bd76702c3d60317dcbd1c8d0ed313a9d127&lang=en&cache-only=0",
+            "defineEn": "a blood vessel that carries deoxygenated blood from the liver to the inferior vena cava",
+            "defineVi": "một mạch máu mang máu khử oxy từ gan đến tĩnh mạch chủ dưới"
+        },
+        {
+            "id": "391ed3de-eb3a-4915-bedb-812367e64aaa",
+            "word": "renal vein",
+            "phonetic": "ɹiːnəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVuYWwgdmVpbg&hash=65c07ad719f2e718831ddddf59d12f328b8b99bc&lang=en&cache-only=0",
+            "defineEn": "a blood vessel that carries deoxygenated blood from the kidneys to the heart",
+            "defineVi": "một mạch máu mang máu khử oxy từ thận đến tim"
+        },
+        {
+            "id": "3d92d819-aaf2-4fb0-9ed0-ec32081de7de",
+            "word": "renal artery",
+            "phonetic": "ɹiːnəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVuYWwgYXJ0ZXJ5&hash=b8a84e9c459072545fff4a4f466356cc015a6d34&lang=en&cache-only=0",
+            "defineEn": "a blood vessel that carries oxygenated blood from the heart to the kidneys",
+            "defineVi": "một mạch máu mang máu oxy từ tim đến thận"
+        },
+        {
+            "id": "bc97b6ea-33c6-4385-bfa3-dfcef353c15a",
+            "word": "gonadal vein",
+            "phonetic": "ɡɑːneɪdəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29uYWRhbCB2ZWlu&hash=9fed40e0ccdace0065610dde931e04bc9c6b7db3&lang=en&cache-only=0",
+            "defineEn": "a vein that drains blood from the gonads (ovaries in females or testes in males) and carries it back to the heart",
+            "defineVi": "một tĩnh mạch dẫn máu từ tuyến sinh dục (buồng trứng ở nữ hoặc tinh hoàn ở nam) và đưa nó trở lại tim"
+        },
+        {
+            "id": "8d9112c3-dcc6-41ad-a9fa-5b7650eb5313",
+            "word": "gonadal artery",
+            "phonetic": "ɡɑːneɪdəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29uYWRhbCBhcnRlcnk&hash=fc448341d121cdc2c0977d7a519698e3073b69f4&lang=en&cache-only=0",
+            "defineEn": "an artery that supplies blood to the gonads (ovaries in females or testes in males) in order to support their normal function",
+            "defineVi": "một động mạch cung cấp máu cho tuyến sinh dục (buồng trứng ở nữ hoặc tinh hoàn ở nam) để hỗ trợ chức năng bình thường của chúng"
+        },
+        {
+            "id": "bef02131-4520-4e32-bfe0-ad9a4196121d",
+            "word": "common iliac artery",
+            "phonetic": "kɑːmən ɪliæk ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbW9uIGlsaWFjIGFydGVyeQ&hash=d2bcf3978946e5f742348488fa0ea9fb62f01c17&lang=en&cache-only=0",
+            "defineEn": "a large blood vessel that arises from the abdominal aorta and branches into the left and right iliac arteries",
+            "defineVi": "một mạch máu lớn phát sinh từ động mạch chủ bụng và phân nhánh vào các động mạch chậu trái và phải"
+        },
+        {
+            "id": "71d852c7-7064-4356-85a0-bed998326e92",
+            "word": "common iliac vein",
+            "phonetic": "kɑːmən ɪliæk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbW9uIGlsaWFjIHZlaW4&hash=138f352484f42ee3632e0a40405f3e66270fd255&lang=en&cache-only=0",
+            "defineEn": "a large blood vessel that carries deoxygenated blood from the lower limbs, pelvis, and abdominal organs back to the heart",
+            "defineVi": "một mạch máu lớn mang máu khử oxy từ các chi dưới, xương chậu và các cơ quan bụng trở lại tim"
+        },
+        {
+            "id": "ef83304c-7fa9-4f8c-acfe-5919e9ff9299",
+            "word": "external iliac artery",
+            "phonetic": "ɛkstɜːnəl ɪliæk ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXh0ZXJuYWwgaWxpYWMgYXJ0ZXJ5&hash=12415f93475e128d6801b06c57cff6d265b87ba4&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies oxygenated blood to the lower extremities of the body",
+            "defineVi": "một mạch máu lớn cung cấp máu oxy đến các chi dưới của cơ thể"
+        },
+        {
+            "id": "1a0ad258-45df-433e-84d1-7f0fedd3a875",
+            "word": "external iliac vein",
+            "phonetic": "ɛkstɜːnəl ɪliæk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXh0ZXJuYWwgaWxpYWMgdmVpbg&hash=0ec209dc0a1a93e90c7797210a3c15b3e2981d9a&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that carries deoxygenated blood from the lower extremities back to the heart",
+            "defineVi": "một mạch máu lớn mang máu khử oxy từ các chi dưới trở lại tim"
+        },
+        {
+            "id": "5b4fe7b6-2545-463f-b26d-fe1ebd3ef72c",
+            "word": "internal iliac artery",
+            "phonetic": "ɪntɜːnəl ɪliæk ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJuYWwgaWxpYWMgYXJ0ZXJ5&hash=882cafacc2fc76dcf8b759e599975165656339c7&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies oxygenated blood to the pelvic region and its surrounding structures in the human body",
+            "defineVi": "một mạch máu chính cung cấp máu chứa oxy đến vùng xương chậu và các cấu trúc xung quanh của nó trong cơ thể con người"
+        },
+        {
+            "id": "982b7fae-2357-4ae9-8759-2823abf324e5",
+            "word": "internal iliac vein",
+            "phonetic": "ɪntɜːnəl ɪliæk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJuYWwgaWxpYWMgdmVpbg&hash=f684f313a6a6058da1ba00c2061709ed2fc9b355&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that carries deoxygenated blood from the pelvis and its surrounding structures back to the heart",
+            "defineVi": "một mạch máu lớn mang máu khử oxy từ xương chậu và các cấu trúc xung quanh của nó trở lại tim"
+        },
+        {
+            "id": "cb57940f-615a-4e20-b735-2e873e5c3b64",
+            "word": "basilar artery",
+            "phonetic": "bæzɪlɚɹ ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFzaWxhciBhcnRlcnk&hash=e1793774689612e7df0ed0c8a6c88622141708dd&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel in the human body that supplies oxygenated blood to the brainstem and posterior regions of the brain",
+            "defineVi": "một mạch máu lớn trong cơ thể con người cung cấp máu chứa oxy đến thân não và các vùng sau của não"
+        },
+        {
+            "id": "da6ca3a5-45ce-40d9-8100-5a0b37172434",
+            "word": "internal carotid artery",
+            "phonetic": "ɪntɜːnəl kɚɹɑːɾɪd ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJuYWwgY2Fyb3RpZCBhcnRlcnk&hash=495a1068a37e159a7dbfcad7b872f868e69fc350&lang=en&cache-only=0",
+            "defineEn": "a vital blood vessel that delivers oxygenated blood to the brain and is located in the neck",
+            "defineVi": "một mạch máu quan trọng mang máu oxy đến não và nằm ở cổ"
+        },
+        {
+            "id": "05bd0b39-aef3-4bf1-b346-e3bd9193237c",
+            "word": "external carotid artery",
+            "phonetic": "ɛkstɜːnəl kɚɹɑːɾɪd ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXh0ZXJuYWwgY2Fyb3RpZCBhcnRlcnk&hash=85dd7b4f2130dd7e687d6358c5f6bea002021481&lang=en&cache-only=0",
+            "defineEn": "a vital blood vessel in the neck that delivers oxygenated blood to structures outside the skull",
+            "defineVi": "một mạch máu quan trọng ở cổ mang máu oxy đến các cấu trúc bên ngoài hộp sọ"
+        },
+        {
+            "id": "4fdd1b9f-2e74-4cc0-b163-8545f4184169",
+            "word": "external jugular vein",
+            "phonetic": "ɛkstɜːnəl dʒuːɡjʊlɚ veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXh0ZXJuYWwganVndWxhciB2ZWlu&hash=5b394c5f5b378c0f9e3d0b08439a6136f877e563&lang=en&cache-only=0",
+            "defineEn": "a major superficial vein in the neck that drains blood from the scalp and face",
+            "defineVi": "một tĩnh mạch nông lớn ở cổ dẫn máu từ da đầu và mặt"
+        },
+        {
+            "id": "c401833c-e20b-4256-88e8-9ac4ed8117a1",
+            "word": "internal jugular vein",
+            "phonetic": "ɪntɜːnəl dʒuːɡjʊlɚ veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJuYWwganVndWxhciB2ZWlu&hash=c60514caadc05ac432e6e031889207f66a65807d&lang=en&cache-only=0",
+            "defineEn": "a major vein in the neck that carries deoxygenated blood from the brain, face, and neck back to the heart",
+            "defineVi": "một tĩnh mạch chính ở cổ mang máu khử oxy từ não, mặt và cổ trở lại tim"
+        },
+        {
+            "id": "885a8d75-2ff6-43c1-ac8b-3274ea72403f",
+            "word": "vertebral artery",
+            "phonetic": "vɜːɾɪbɹəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmVydGVicmFsIGFydGVyeQ&hash=b31a2f6999ae0164b3a2e6a3707053646788588c&lang=en&cache-only=0",
+            "defineEn": "a blood vessel that supplies oxygenated blood to the brain and spinal cord through the vertebrae of the neck",
+            "defineVi": "một mạch máu cung cấp máu oxy đến não và tủy sống qua các đốt sống cổ"
+        },
+        {
+            "id": "90d26674-06ae-4ded-b3d8-84bae9f391ae",
+            "word": "common carotid artery",
+            "phonetic": "kɑːmən kɚɹɑːɾɪd ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbW9uIGNhcm90aWQgYXJ0ZXJ5&hash=ac4829ca88d04d90ec3a495b36e9c64be635cc11&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies oxygenated blood to the head and neck regions of the human body",
+            "defineVi": "một mạch máu lớn cung cấp máu chứa oxy đến vùng đầu và cổ của cơ thể con người"
+        },
+        {
+            "id": "3853b1bd-b193-4a82-b800-6e9f9074ed6b",
+            "word": "subclavian artery",
+            "phonetic": "sʌbklæviən ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ViY2xhdmlhbiBhcnRlcnk&hash=8e7f5ce7befd6709d477e9c1c313332517c644fa&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies oxygenated blood to the upper body, including the arms, neck, and chest",
+            "defineVi": "một mạch máu chính cung cấp máu oxy cho phần trên cơ thể, bao gồm cả cánh tay, cổ và ngực"
+        },
+        {
+            "id": "1f5a0dd6-e23a-40a5-882e-4f1537dd18f3",
+            "word": "subclavian vein",
+            "phonetic": "sʌbklæviən veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ViY2xhdmlhbiB2ZWlu&hash=534c744a2d329b74dd74fa0a4abdb194d7b664d5&lang=en&cache-only=0",
+            "defineEn": "a large blood vessel that collects deoxygenated blood from the upper body and carries it back to the heart",
+            "defineVi": "một mạch máu lớn thu thập máu khử oxy từ phần trên cơ thể và mang nó trở lại tim"
+        },
+        {
+            "id": "27df9fbc-1b19-4494-b23a-3059a0521210",
+            "word": "cephalic vein",
+            "phonetic": "sɛfælɪk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2VwaGFsaWMgdmVpbg&hash=cc3c51b488ad6fb4b95e7828d9e1bdaa4cc3f2fd&lang=en&cache-only=0",
+            "defineEn": "an arm vein located near the surface of the skin, responsible for draining blood from the hand, forearm, and lateral aspects of the arm",
+            "defineVi": "một tĩnh mạch cánh tay nằm gần bề mặt da, chịu trách nhiệm dẫn máu từ bàn tay, cẳng tay và các mặt bên của cánh tay"
+        },
+        {
+            "id": "1c1615ac-e758-4d37-b52e-3ed0d65a1def",
+            "word": "axillary artery",
+            "phonetic": "æksɪlɚɹi ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXhpbGxhcnkgYXJ0ZXJ5&hash=1316b077d5d81769114e8db30e1d35b40e669c3c&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that supplies the upper arm and shoulder region",
+            "defineVi": "một mạch máu lớn cung cấp cho cánh tay trên và vùng vai"
+        },
+        {
+            "id": "bebc73cc-2e20-4f2e-ac91-3f5089b06f5a",
+            "word": "axillary vein",
+            "phonetic": "æksɪlɚɹi veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXhpbGxhcnkgdmVpbg&hash=3c32509dc2227969afda9077826e351275e730a2&lang=en&cache-only=0",
+            "defineEn": "a major vein located in the armpit region that drains deoxygenated blood from the upper limb and returns it to the heart",
+            "defineVi": "một tĩnh mạch chính nằm ở vùng nách dẫn máu khử oxy từ chi trên và đưa nó trở lại tim"
+        },
+        {
+            "id": "ffaf65b1-c933-4522-9c9a-f7f98e3240c0",
+            "word": "superior vena cava",
+            "phonetic": "suːpiəɹɪɚ viːnə kɑːvə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VwZXJpb3IgdmVuYSBjYXZh&hash=d1bebf1f53010dc3aa0185571b0cd7675b881590&lang=en&cache-only=0",
+            "defineEn": "a large vein that transports deoxygenated blood from the upper body to the heart",
+            "defineVi": "một tĩnh mạch lớn vận chuyển máu khử oxy từ phần trên cơ thể đến tim",
+            "hasImg": true
+        },
+        {
+            "id": "c4955050-c7a3-44cd-805f-c206d8a1ded8",
+            "word": "inferior vena cava",
+            "phonetic": "ɪnfɪɹiɚ viːnə kɑːvə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5mZXJpb3IgdmVuYSBjYXZh&hash=fd97294e47a6388df05cdac8b28a7fce99aca84f&lang=en&cache-only=0",
+            "defineEn": "a large vein that carries deoxygenated blood from the lower body to the heart",
+            "defineVi": "một tĩnh mạch lớn mang máu khử oxy từ phần dưới cơ thể đến tim"
+        },
+        {
+            "id": "94d51168-471e-4620-b646-5d038663c790",
+            "word": "descending aorta",
+            "phonetic": "dᵻsɛndɪŋ eɪoːɹɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVzY2VuZGluZyBhb3J0YQ&hash=4548a2d5b2edc62dd799665232ad5bb00cf9ac39&lang=en&cache-only=0",
+            "defineEn": "he portion of the main artery that carries oxygenated blood from the heart to the lower body",
+            "defineVi": "anh ấy là một phần của động mạch chính mang máu giàu oxy từ tim đến phần dưới cơ thể"
+        },
+        {
+            "id": "da483881-40b2-46ff-adfe-d036327f79b4",
+            "word": "brachial artery",
+            "phonetic": "bɹeɪʃəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJhY2hpYWwgYXJ0ZXJ5&hash=3cce514f1d6ece3c289dd2e5949d9e76fca1db45&lang=en&cache-only=0",
+            "defineEn": "a blood vessel in the upper arm that carries oxygenated blood to the muscles and tissues of the arm",
+            "defineVi": "một mạch máu ở cánh tay trên mang máu oxy đến các cơ và mô của cánh tay"
+        },
+        {
+            "id": "022a872b-d518-45f2-9aa6-94836f673d4b",
+            "word": "basilic vein",
+            "phonetic": "bæzɪlɪk veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFzaWxpYyB2ZWlu&hash=fc6fd9677c8486f8912f6d63f67ddd44e31b3a24&lang=en&cache-only=0",
+            "defineEn": "a large vein located in the arm that carries deoxygenated blood from the hand to the axillary vein",
+            "defineVi": "một tĩnh mạch lớn nằm ở cánh tay mang máu khử oxy từ tay đến tĩnh mạch nách"
+        },
+        {
+            "id": "a7f1610f-10a3-49df-8dfd-817858c2eab7",
+            "word": "platelet",
+            "phonetic": "pleɪtlɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Like platelets, which look like little blobs.",
+                "Platelets lie in stacks inside the iridophore, but their spacing and position change in response to chemical signals from the body.",
+                "We call this brown, hard lump of platelets and fibers a scab.",
+                "They were also associated with low platelets and led to some pretty severe consequences, but a small number.",
+                "Over time high blood pressure damages blood vessel walls, creating little pockets for fats, platelets, and other debris to build up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhdGVsZXQ&hash=d7c97cab702528251c9908d0e12c9b1dd23dc4b1&lang=en&cache-only=0",
+            "defineEn": "a small, cell-like structure in the blood that helps in clotting and preventing excessive bleeding",
+            "defineVi": "một cấu trúc nhỏ giống như tế bào trong máu giúp đông máu và ngăn chảy máu quá nhiều"
+        },
+        {
+            "id": "5f9d1ad1-fddc-4b53-96f5-244e1b0f0fab",
+            "word": "great saphenous vein",
+            "phonetic": "ɡɹeɪt sæfənəs veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlYXQgc2FwaGVub3VzIHZlaW4&hash=ea8d9f88d5618e6c7c20ee5b0873c4bd943c0f6c&lang=en&cache-only=0",
+            "defineEn": "a major superficial vein in the leg responsible for returning deoxygenated blood from the lower extremities to the heart",
+            "defineVi": "một tĩnh mạch nông chính ở chân chịu trách nhiệm đưa máu khử oxy từ các chi dưới về tim"
+        },
+        {
+            "id": "43ec3855-de70-4694-ad30-fd3c218619f2",
+            "word": "small saphenous vein",
+            "phonetic": "smɔːl sæfənəs veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c21hbGwgc2FwaGVub3VzIHZlaW4&hash=73a999668f2b34da5996eb579d7a3a4ed78ab89e&lang=en&cache-only=0",
+            "defineEn": "a superficial vein located in the lower leg that plays a role in returning blood from the foot and lateral aspect of the leg back to the heart",
+            "defineVi": "một tĩnh mạch nông nằm ở cẳng chân có vai trò đưa máu từ bàn chân và mặt bên của chân trở về tim"
+        },
+        {
+            "id": "ad90738e-a033-4b69-8852-52b878367c55",
+            "word": "femoral artery",
+            "phonetic": "fɛmɚɹəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVtb3JhbCBhcnRlcnk&hash=228dac4f1622e75c5a105d576c7dff751f373ebf&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that carries oxygenated blood from the heart to the lower limb",
+            "defineVi": "một mạch máu lớn mang máu oxy từ tim đến chi dưới"
+        },
+        {
+            "id": "b2958514-1b5e-4d70-8f09-1943b675d918",
+            "word": "femoral artery",
+            "phonetic": "fɛmɚɹəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmVtb3JhbCBhcnRlcnk&hash=228dac4f1622e75c5a105d576c7dff751f373ebf&lang=en&cache-only=0",
+            "defineEn": "a major blood vessel that carries oxygenated blood from the heart to the lower limb",
+            "defineVi": "một mạch máu lớn mang máu oxy từ tim đến chi dưới"
+        },
+        {
+            "id": "01178eaa-5516-4f2a-9176-2f714beed675",
+            "word": "popliteal artery",
+            "phonetic": "pɑːplaɪɾəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9wbGl0ZWFsIGFydGVyeQ&hash=84d10e2b16edaf96324b4b541042331b439f3510&lang=en&cache-only=0",
+            "defineEn": "the major artery located behind the knee that supplies blood to the lower leg and foot",
+            "defineVi": "động mạch chính nằm phía sau đầu gối cung cấp máu cho cẳng chân và bàn chân"
+        },
+        {
+            "id": "99af1313-8a96-45c8-8661-17cd974738ef",
+            "word": "popliteal vein",
+            "phonetic": "pɑːplaɪɾəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9wbGl0ZWFsIHZlaW4&hash=cd9594dca60e0ae9841318283e24f5ba502e8e43&lang=en&cache-only=0",
+            "defineEn": "a major vein located behind the knee that carries deoxygenated blood from the lower leg back to the heart",
+            "defineVi": "một tĩnh mạch chính nằm phía sau đầu gối mang máu khử oxy từ cẳng chân trở về tim"
+        },
+        {
+            "id": "33ce031f-e73d-45b3-94a9-e745749fe8cb",
+            "word": "anterior tibial artery",
+            "phonetic": "æntiəɹɪɚ tɪbɪəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW50ZXJpb3IgdGliaWFsIGFydGVyeQ&hash=707d754e2835832fa0e35a75b51f29737b89607f&lang=en&cache-only=0",
+            "defineEn": "an artery that supplies blood to the front of the leg and foot, and is a branch of the popliteal artery located behind the knee",
+            "defineVi": "một động mạch cung cấp máu cho mặt trước của chân và bàn chân, và là một nhánh của động mạch khoeo nằm phía sau đầu gối"
+        },
+        {
+            "id": "724df69f-9bda-4d50-bc2c-5aef9ec08ca5",
+            "word": "posterior tibial artery",
+            "phonetic": "pɑːstɪɹiɚ tɪbɪəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9zdGVyaW9yIHRpYmlhbCBhcnRlcnk&hash=7c9d7fdf7424c2e44cdab85306e0af0a6bba62fc&lang=en&cache-only=0",
+            "defineEn": "an artery that supplies blood to the posterior (back) part of the leg and foot, and is one of the two main branches of the popliteal artery located behind the knee",
+            "defineVi": "một động mạch cung cấp máu cho phần sau (phía sau) của chân và bàn chân, và là một trong hai nhánh chính của động mạch khoeo nằm phía sau đầu gối"
+        },
+        {
+            "id": "9da8bf91-a7aa-4fc7-b757-de8b3a487713",
+            "word": "peroneal vein",
+            "phonetic": "pɛɹoʊnəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVyb25lYWwgdmVpbg&hash=eb5492d5874ca528c9602b607762483bb7c04c2f&lang=en&cache-only=0",
+            "defineEn": "a blood vessel in the lower leg that carries deoxygenated blood from the lateral side of the leg back to the heart",
+            "defineVi": "một mạch máu ở cẳng chân mang máu khử oxy từ phía bên của chân trở về tim"
+        },
+        {
+            "id": "a5bf1973-c4ae-45dc-9eb1-f2cfd713c148",
+            "word": "peroneal artery",
+            "phonetic": "pɛɹoʊnəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVyb25lYWwgYXJ0ZXJ5&hash=7f954c50cf997720352f34df8ddcb4f0274f3dcb&lang=en&cache-only=0",
+            "defineEn": "an artery that supplies blood to the lateral (outer) part of the leg and foot, and is one of the two main branches of the popliteal artery located behind the knee",
+            "defineVi": "một động mạch cung cấp máu cho phần bên (bên ngoài) của chân và bàn chân, và là một trong hai nhánh chính của động mạch khoeo nằm phía sau đầu gối"
+        },
+        {
+            "id": "a7a48502-2b1c-449e-a091-28284dd7118a",
+            "word": "anterior tibial vein",
+            "phonetic": "æntiəɹɪɚ tɪbɪəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW50ZXJpb3IgdGliaWFsIHZlaW4&hash=da67255098139bd093132f98a5eb8f7e0341d1e7&lang=en&cache-only=0",
+            "defineEn": "a vein that accompanies the anterior tibial artery and helps to drain blood from the front of the leg and foot, and carries it back towards the heart",
+            "defineVi": "một tĩnh mạch đi kèm với động mạch chày trước và giúp thoát máu từ phía trước của chân và bàn chân, và đưa nó trở lại tim"
+        },
+        {
+            "id": "023b8be1-ac7e-45f2-aecf-12b5a0234aab",
+            "word": "arcuate artery",
+            "phonetic": "ɑːɹkjuːeɪt ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXJjdWF0ZSBhcnRlcnk&hash=9e17a0418d155cb07575badb7c95ac830bbc174a&lang=en&cache-only=0",
+            "defineEn": "a small blood vessel in the kidneys that supplies oxygenated blood to the renal cortex",
+            "defineVi": "một mạch máu nhỏ trong thận cung cấp máu oxy cho vỏ thận"
+        },
+        {
+            "id": "d7beb653-32ab-46ae-8cf3-d2bf6a9d019d",
+            "word": "posterior tibial vein",
+            "phonetic": "pɑːstɪɹiɚ tɪbɪəl veɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9zdGVyaW9yIHRpYmlhbCB2ZWlu&hash=a9d9ae2e9e3e0bdc484ecb58efccc62119e9b6cb&lang=en&cache-only=0",
+            "defineEn": "a vein that accompanies the posterior tibial artery and helps to drain blood from the back of the leg and foot, and carries it back towards the heart",
+            "defineVi": "một tĩnh mạch đi kèm với động mạch chày sau và giúp dẫn máu từ mặt sau của chân và bàn chân, rồi đưa máu trở lại tim"
+        },
+        {
+            "id": "85cd7ffb-13d1-4bed-b45c-4ab41c6e3cae",
+            "word": "dorsal venous arch",
+            "phonetic": "doːɹsəl vɛnəs ɑːɹtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZG9yc2FsIHZlbm91cyBhcmNo&hash=7698e51651d63ab92f3f6a1ef2ab9689756955e5&lang=en&cache-only=0",
+            "defineEn": "a foot vein that collects blood from the toes and top of the foot, serving as a drainage point for venous blood returning from the foot",
+            "defineVi": "một tĩnh mạch chân thu thập máu từ các ngón chân và đỉnh bàn chân, đóng vai trò là điểm thoát nước cho máu tĩnh mạch trở về từ bàn chân"
+        },
+        {
+            "id": "8249eed7-c54f-46a3-8b73-57f26ed393ab",
+            "word": "lymph vessel",
+            "phonetic": "lɪmf vɛsəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bHltcGggdmVzc2Vs&hash=563424add65730b202ab385fa8cbbb7a48522753&lang=en&cache-only=0",
+            "defineEn": "a thin-walled tube that carries lymph, a clear fluid containing immune cells and waste products",
+            "defineVi": "một ống có thành mỏng mang bạch huyết, một chất lỏng trong suốt chứa các tế bào miễn dịch và các chất thải"
+        },
+        {
+            "id": "a690828c-d261-49dd-935d-63f549a55bed",
+            "word": "episcleral veins",
+            "phonetic": "ᵻpɪsklɚɹəl veɪnz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXBpc2NsZXJhbCB2ZWlucw&hash=200c8ed046a07e972f54c3b3a047a3dfe9d213b6&lang=en&cache-only=0",
+            "defineEn": "a network of small blood vessels that reside in the outermost layer of the eye",
+            "defineVi": "một mạng lưới các mạch máu nhỏ cư trú ở lớp ngoài cùng của mắt"
+        },
+        {
+            "id": "2bd2528e-bc5e-43cc-b0ba-d4d4d2dd4366",
+            "word": "digital artery",
+            "phonetic": "dɪdʒɪɾəl ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlnaXRhbCBhcnRlcnk&hash=58da8f33b5ef26dfa976a480047b88e057d6d9c7&lang=en&cache-only=0",
+            "defineEn": "a small blood vessel that supplies oxygenated blood to the tissues of the fingers and toes",
+            "defineVi": "một mạch máu nhỏ cung cấp máu oxy cho các mô của ngón tay và ngón chân"
+        },
+        {
+            "id": "64fcc83d-f114-4fb9-a181-cd6f5d945d54",
+            "word": "elastic artery",
+            "phonetic": "ᵻlæstɪk ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxhc3RpYyBhcnRlcnk&hash=4f077cd40888cc35e8f720636ffa908f6aab45e1&lang=en&cache-only=0",
+            "defineEn": "a large artery that stretches and recoils to accommodate blood flow from the heart, helping to maintain blood pressure",
+            "defineVi": "một động mạch lớn kéo dài và co lại để chứa lưu lượng máu từ tim, giúp duy trì huyết áp"
+        },
+        {
+            "id": "578f0840-d86b-43eb-9bc3-6bccb0871b33",
+            "word": "muscular artery",
+            "phonetic": "mʌskjʊlɚɹ ɑːɹɾɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bXVzY3VsYXIgYXJ0ZXJ5&hash=f071fab74484ecbbaeeb3ef04c788c360298958c&lang=en&cache-only=0",
+            "defineEn": "a type of artery that has thick walls composed of smooth muscle, allowing it to regulate blood flow to specific organs or tissues",
+            "defineVi": "một loại động mạch có thành dày bao gồm cơ trơn, cho phép nó điều chỉnh lưu lượng máu đến các cơ quan hoặc mô cụ thể"
+        },
+        {
+            "id": "1a25d5ac-7dd6-4cac-b2a6-811f5930a5ca",
+            "word": "erythrocyte",
+            "phonetic": "ɜːɹɪθɹəsaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Most of your blood cells are erythrocytes, or your famous red blood cells that zoom around, carrying oxygen and carbon dioxide through your body."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXJ5dGhyb2N5dGU&hash=63653fab8ad0a91f088449ca57c76640b686605a&lang=en&cache-only=0",
+            "defineEn": "a specialized blood cell responsible for transporting oxygen and carbon dioxide throughout the body",
+            "defineVi": "một tế bào máu chuyên biệt chịu trách nhiệm vận chuyển oxy và carbon dioxide khắp cơ thể",
+            "hasImg": true
+        }
+    ]
+}

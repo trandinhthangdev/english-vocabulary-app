@@ -1,0 +1,610 @@
+{
+    "id": "2a6866cd-a05e-4bce-9944-2baf86d40180",
+    "title": "Science and the Natural World",
+    "originalTitle": "Lesson 46",
+    "words": [
+        {
+            "id": "4376ce24-c42c-4be3-b710-5dd88302bc1d",
+            "word": "atom",
+            "phonetic": "æɾəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Atoms form molecules.",
+                "Fission bombs like the weapons that struck Japan, split atoms apart.",
+                "Atoms are the building blocks of matter.",
+                "In this way, atoms are a lot like us.",
+                "Other Lewis bases are negatively charged atoms like chloride, or groups of atoms like hydroxide."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXRvbQ&hash=e6bbe7259badb05d037cac19060dbd931f7f452f&lang=en&cache-only=0",
+            "defineEn": "(science) the smallest part of a chemical element that is found in the nature",
+            "defineVi": "(khoa học) phần nhỏ nhất của một nguyên tố hóa học được tìm thấy trong tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "081fade8-618b-42e3-bbac-07cfc7524263",
+            "word": "organism",
+            "phonetic": "ɔːɹɡənɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Diatoms are an important part of the food chain, providing nourishment for other organisms.",
+                "That organism lived.",
+                "Sometimes an organism needs armor for a specialized purpose like the whale shark.",
+                "Lots of organisms are good at this.",
+                "But organisms could potentially survive a few meters underground."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3JnYW5pc20&hash=bc82cea6ceabaad40552a7a79154731b6fca3964&lang=en&cache-only=0",
+            "defineEn": "a living thing such as a plant, animal, etc., especially a very small one that lives on its own",
+            "defineVi": "một sinh vật sống như thực vật, động vật, v.v., đặc biệt là một sinh vật rất nhỏ sống một mình",
+            "hasImg": true
+        },
+        {
+            "id": "f970e61f-d3e1-4516-b6c9-4cda24138f68",
+            "word": "chemical",
+            "phonetic": "kɛmɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The cleaning product contains stiff chemicals that effectively remove tough stains.",
+                "These chemicals remain in the dock until we have more scientific evidence.",
+                "She uses organic gardening methods in her garden, avoiding harmful chemicals.",
+                "The students played a trick on their teacher by switching the labels on the chemical bottles.",
+                "The chemical passes from a liquid to a solid state during the cooling process."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlbWljYWw&hash=491857ae3742469aac2d20d30fedf532abcae98b&lang=en&cache-only=0",
+            "defineEn": "made by a process that involves chemistry",
+            "defineVi": "được thực hiện bởi một quá trình liên quan đến hóa học",
+            "hasImg": true
+        },
+        {
+            "id": "17b1ac2f-8ea7-428b-879b-c0d831a3d3bc",
+            "word": "gas",
+            "phonetic": "ɡæs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She went halves on gas.",
+                "The gas stove has four burners for cooking multiple dishes at once.",
+                "She's definitely cooking with gas!",
+                "Shouldn't we stop for gas?",
+                "They'll definitely be cooking with gas!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2Fz&hash=06945d84a561b68c5bd1696498911c73ec5c438d&lang=en&cache-only=0",
+            "defineEn": "the state of a substance that is neither solid nor liquid",
+            "defineVi": "trạng thái của một chất không rắn cũng không lỏng",
+            "hasImg": true
+        },
+        {
+            "id": "59be09ba-75a6-4725-9a26-e41b301ec337",
+            "word": "liquid",
+            "phonetic": "lɪkwɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the baby grew older, we transitioned from liquid formula to a powdered formula.",
+                "In a comedy of errors, a waiter spills drinks, slips on the spilled liquid, and accidentally sends plates flying across the restaurant.",
+                "He sipped his drink, feeling the cool liquid touch his lips.",
+                "I strained the vegetable stock after simmering carrots and onions to achieve a clear liquid.",
+                "The chemical passes from a liquid to a solid state during the cooling process."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlxdWlk&hash=a6fa8d09481d4216736aea455344273090a9aa98&lang=en&cache-only=0",
+            "defineEn": "the state of a substance that is without shape and can flow easily",
+            "defineVi": "trạng thái của một chất không có hình dạng và có thể chảy dễ dàng",
+            "hasImg": true
+        },
+        {
+            "id": "5f4daf28-e90b-4ffd-99d2-d01c2ceb466e",
+            "word": "solid",
+            "phonetic": "sɑːlɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They drove a tunnel through the solid rock.",
+                "If you're planning to start a business, it's important to have a solid business plan and some experience in the industry.",
+                "The chemical passes from a liquid to a solid state during the cooling process.",
+                "Joe warned him that 'a fool's bolt is soon shot' and advised him to take the time to develop a solid plan before making any drastic decisions.",
+                "The project's success will rely on getting the meat and potatoes right, ensuring the core components are solid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29saWQ&hash=5cf761efea8fd81409ce33e8058d6ab06e663129&lang=en&cache-only=0",
+            "defineEn": "the state of a substance that is firm and has a certain shape, not like gas or liquid",
+            "defineVi": "trạng thái của một chất cứng và có hình dạng nhất định, không giống như chất khí hoặc chất lỏng",
+            "hasImg": true
+        },
+        {
+            "id": "41b85ffa-e2e8-4d15-8afa-6e8f336e0829",
+            "word": "material",
+            "phonetic": "mətɪɹiəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An industrial machine like that can cut through any material like a knife through butter.",
+                "The truck carried a load of construction materials to the building site.",
+                "He's written a lot of good material that has never seen the light of day.",
+                "The Geiger counter detected high levels of radiation in the vicinity of the radioactive material.",
+                "The company has won a contract to supply books and materials to schools."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF0ZXJpYWw&hash=ed2e1f538e9acab8380bb391cc7621bf7493c1a6&lang=en&cache-only=0",
+            "defineEn": "a substance from which things can be made",
+            "defineVi": "một chất mà từ đó mọi thứ có thể được thực hiện",
+            "hasImg": true
+        },
+        {
+            "id": "559a541b-c0a9-4f99-a7f0-4bf030ee979f",
+            "word": "substance",
+            "phonetic": "sʌbstəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The politician's speech was all fluff and no substance, just a dog and pony show to get votes.",
+                "Catch not at the shadow and lose the substance.",
+                "What is this substance?",
+                "Behavioral addictions don’t involve a substance.",
+                "And certain substances have both water-loving and water-hating parts in the same package."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vic3RhbmNl&hash=d322f162fb71d17f9b2ac97849632f28ad3a01d0&lang=en&cache-only=0",
+            "defineEn": "a particular kind of matter in gas, solid or liquid form",
+            "defineVi": "một loại vật chất cụ thể ở dạng khí, rắn hoặc lỏng"
+        },
+        {
+            "id": "458b3486-0306-45d0-97dc-1aca40204974",
+            "word": "electric",
+            "phonetic": "ᵻlɛktɹɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The popularity of electric vehicles has remained in the ascendant.",
+                "I cooked dinner on the electric stove in the kitchen.",
+                "The dentist recommended using an electric toothbrush for better cleaning.",
+                "You can feel as safe as houses here with electric entrance gates.",
+                "After a romantic evening together, Mark and Lisa couldn't resist going to first base with each other, sharing a passionate and electric kiss."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RyaWM&hash=c211f4317730e0a4a81cb9585e9567a7c6705939&lang=en&cache-only=0",
+            "defineEn": "relating to, produced by, or using electricity",
+            "defineVi": "liên quan đến, sản xuất bởi, hoặc sử dụng điện",
+            "hasImg": true
+        },
+        {
+            "id": "1c80b716-fe60-4e6f-8b6d-d65e2e1b8b54",
+            "word": "real",
+            "phonetic": "ɹiːəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Get real!",
+                "Get real!",
+                "Is your jacket real leather?",
+                "Her last book was a real money-spinner.",
+                "You are a real grouch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVhbA&hash=502972cf2c27370a1c43771c4e4426b9862acfa6&lang=en&cache-only=0",
+            "defineEn": "happening or being in the world and not on someone's mind",
+            "defineVi": "xảy ra hoặc tồn tại trên thế giới và không có trong tâm trí của ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "1c7de0b1-0d27-460c-a460-e01ab9de9067",
+            "word": "systematic",
+            "phonetic": "sɪstəmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "For example, a 2017 systematic review examined 43 studies on the topic between 2003 and 2013.",
+                "And after that it, becomes very systematic.",
+                "And you probably know that systematic method as the scientific method.",
+                "Systematic knowledge production in abstract natural philosophy was never unified.",
+                "Their systematic approach to abstract principles was in stark contrast to the popular belief that math was an intuitive science, and an over-dependence on logic constrained creativity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3lzdGVtYXRpYw&hash=a0446e181e2e5696bb21dae18b535da7211e1724&lang=en&cache-only=0",
+            "defineEn": "done according to a system and in a planned way",
+            "defineVi": "được thực hiện theo một hệ thống và theo một cách có kế hoạch"
+        },
+        {
+            "id": "d6f6874a-b31e-4049-98c0-9ee05b021b99",
+            "word": "metal",
+            "phonetic": "mɛɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our players kept the pedal to the metal all season long.",
+                "The metal rod began to bend under the weight of the heavy load.",
+                "The metal rod began to bend under the weight of the heavy object.",
+                "The metal handle became hot when left in the sun.",
+                "We drove through the night flat-out, with the pedal to the metal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0YWw&hash=d94e327f148df564738df0a688c11e571c953590&lang=en&cache-only=0",
+            "defineEn": "a usually solid and hard substance that heat and electricity can move through it, such as gold, iron, etc.",
+            "defineVi": "một chất thường rắn và cứng mà nhiệt và điện có thể di chuyển qua nó, chẳng hạn như vàng, sắt, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "557b4f8f-6d0d-4e05-ab23-c4eb2b708fb1",
+            "word": "plastic",
+            "phonetic": "plæstɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children drank their juice from colorful plastic glasses.",
+                "The children used a plastic fork to eat their pasta.",
+                "The frames are made of plastic and they tend to break quite easily.",
+                "The mother allowed the children to use a plastic knife for their safety.",
+                "The children enjoyed eating yogurt with a colorful plastic spoon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhc3RpYw&hash=310d1071d55baf9de079b6081e269c0a848852cf&lang=en&cache-only=0",
+            "defineEn": "a light substance produced in a chemical process that can be formed into different shapes when heated",
+            "defineVi": "một chất nhẹ được tạo ra trong một quá trình hóa học có thể tạo thành các hình dạng khác nhau khi đun nóng",
+            "hasImg": true
+        },
+        {
+            "id": "648bed9c-d426-4259-8efb-ab59a6ee3e42",
+            "word": "iron",
+            "phonetic": "aɪɚn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Turned the iron to a hotter setting.",
+                "The patriarch has always been an iron fist in a velvet glove.",
+                "Asparagus beanare rich in iron and vitamin K.",
+                "The iron hand in the velvet glove approach seems to work best with this age group.",
+                "She needs to iron her suit before the important meeting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aXJvbg&hash=06b7a94fa654ab595980a327cfbf97cf74c0b43c&lang=en&cache-only=0",
+            "defineEn": "a magnetic gray metal that is very hard and is used in building structures or found in the blood or some food in small amounts",
+            "defineVi": "một kim loại màu xám từ tính rất cứng và được sử dụng trong các công trình xây dựng hoặc được tìm thấy trong máu hoặc một số thực phẩm với số lượng nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "c8d651fa-ec07-458f-bf5c-8676ee01a18c",
+            "word": "gold",
+            "phonetic": "ɡoʊld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Prospectors have hit gold.",
+                "To work gold.",
+                "Some high-end restaurants use gold leaf as a garnish for desserts and other dishes.",
+                "Tickets for the concert are like gold dust.",
+                "This information is as good as gold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29sZA&hash=9183f657bf0171de491d236eebc4786c8c7cb423&lang=en&cache-only=0",
+            "defineEn": "a valuable yellow-colored metal that is used for making jewelry",
+            "defineVi": "một kim loại màu vàng có giá trị được sử dụng để làm đồ trang sức",
+            "hasImg": true
+        },
+        {
+            "id": "e8429490-0a1c-48e7-9081-53f0baee1526",
+            "word": "silver",
+            "phonetic": "sɪlvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Canadian team handed the game to them on a silver plate.",
+                "The boy was born with a silver spoon in his mouth.",
+                "He now rocks a distinguished look with his silver strands.",
+                "There is no silver bullet that will put an end to unemployment.",
+                "If you sell your share in the company now, you're handing the ownership to him on a silver platter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lsdmVy&hash=726f84f547533c11018e30a65e83d5d477e2cf1a&lang=en&cache-only=0",
+            "defineEn": "a shiny grayish-white metal of high value that heat and electricity can move through it and is used in jewelry making, tableware, coins, electronics, etc.",
+            "defineVi": "một kim loại màu trắng xám sáng bóng có giá trị cao mà nhiệt và điện có thể di chuyển qua nó và được sử dụng trong chế tạo đồ trang sức, bộ đồ ăn, tiền xu, đồ điện tử, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "3d62d923-3bc5-4580-bc53-958ab14fceed",
+            "word": "carbon",
+            "phonetic": "kɑːɹbən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The carbon tax will inevitably lead to an increase in energy bills.",
+                "Carbon is the foundation of biology.",
+                "Getting carbon out of the air and into the soil.",
+                "And carbon has lost the electron.",
+                "Carbon is, maybe, the most important element for life."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FyYm9u&hash=e2f5f9a9417517b52c70a2a0f12244a5917e7603&lang=en&cache-only=0",
+            "defineEn": "a nonmetal element that can be found in all organic compounds and living things",
+            "defineVi": "một nguyên tố phi kim có thể được tìm thấy trong tất cả các hợp chất hữu cơ và sinh vật",
+            "hasImg": true
+        },
+        {
+            "id": "fbc6a93c-dbc5-4bff-813c-4a30a3692264",
+            "word": "oxygen",
+            "phonetic": "ɑːksɪdʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The heart pumps blood throughout the body to provide oxygen and nutrients.",
+                "The atmosphere contained oxygen since about 2.4 billion years ago.",
+                "This blood absorbs oxygen from the inflated alveoli and leaves behind carbon dioxide.",
+                "Making oxygen right now.",
+                "Oxygen is losing electrons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3h5Z2Vu&hash=d4569a1636df06c7f18c3c9335756837580d7ed5&lang=en&cache-only=0",
+            "defineEn": "a chemical element in gas form with no color that living things need for breathing",
+            "defineVi": "một nguyên tố hóa học ở dạng khí không có màu mà các sinh vật sống cần để thở",
+            "hasImg": true
+        },
+        {
+            "id": "b476de5c-336b-401f-8115-6865d8c566be",
+            "word": "chemical element",
+            "phonetic": "kɛmɪkəl ɛlɪmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Altogether, 97% of the mass of all living matter is made of just four chemical elements.",
+                "And by soil health, I mean, not just sort of a balance of chemical elements in the soil.",
+                "As far as chemical elements go, regular hydrogen is as simple as it gets: just one proton and one electron."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlbWljYWwgZWxlbWVudA&hash=98b3aa959d49d4275efd2e2d5332aada3b7db47a&lang=en&cache-only=0",
+            "defineEn": "any of the simple chemical substances that consist of atoms of only one type, such as gold, oxygen, carbon, etc.",
+            "defineVi": "bất kỳ chất hóa học đơn giản nào bao gồm các nguyên tử chỉ thuộc một loại, chẳng hạn như vàng, oxy, carbon, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "7271c43c-784c-436c-898e-26715a3f9f0e",
+            "word": "stone",
+            "phonetic": "stoʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children skipped stones across the calm river surface.",
+                "The children were dropping stones off the bridge.",
+                "The stone made a dent in the roof of the car.",
+                "The houses are built out of local stone.",
+                "The baker skillfully removed the stone from the apricot, preparing it for a delicious pie."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvbmU&hash=569d1c769e275e96e2056e2cc0e6ef1c6d582159&lang=en&cache-only=0",
+            "defineEn": "a hard and solid material that forms the rocks, which is often used for building things",
+            "defineVi": "một vật liệu cứng và rắn tạo thành đá, thường được sử dụng để xây dựng mọi thứ",
+            "hasImg": true
+        },
+        {
+            "id": "9ae34be3-5991-4996-9798-4d5698f5dd82",
+            "word": "to research",
+            "phonetic": "tə ɹᵻsɜːtʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Her groundbreaking research has revolutionized the scientific community.",
+                "Her early research laid the foundation for many important medical discoveries.",
+                "The department led the world in cancer research.",
+                "Budget cuts are putting the squeeze on scientific research.",
+                "Her research has been ruffling feathers for years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVzZWFyY2g&hash=ad091c3c050c4446c4cf6b5e61325ebdfaf2c2be&lang=en&cache-only=0",
+            "defineEn": "to study a subject carefully and systematically to discover new facts or information about it",
+            "defineVi": "nghiên cứu một chủ đề một cách cẩn thận và có hệ thống để khám phá những sự kiện hoặc thông tin mới về nó",
+            "hasImg": true
+        },
+        {
+            "id": "e1daf56d-a223-45fb-8b0a-9d472c0ef6eb",
+            "word": "method",
+            "phonetic": "mɛθəd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Teaching methods will take various forms.",
+                "This business method takes the risk of failure out of the table.",
+                "The teaching method has stood the test of time.",
+                "To hold with new methods.",
+                "This method of testing is the best bet for getting an uncontaminated result."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0aG9k&hash=8328049709cef8f652fdec57fad8620a0005446c&lang=en&cache-only=0",
+            "defineEn": "a specific way or process of doing something, particularly an established or systematic one",
+            "defineVi": "một cách cụ thể hoặc quá trình làm một cái gì đó, đặc biệt là một thiết lập hoặc có hệ thống"
+        },
+        {
+            "id": "a211569e-34f1-4b85-934d-858eb53957d7",
+            "word": "example",
+            "phonetic": "ɛɡzæmpəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You should include some examples in your essay.",
+                "We should take our cue from their example.",
+                "It's a classic example of 'full of courtesy, full of craft.'",
+                "Alec Davidson, for example, was one of those who came off worst.",
+                "Canada may follow the EU’s example by banning these products."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhhbXBsZQ&hash=f67bc709d71c1965cbcbdda06fdd7a120209b7a5&lang=en&cache-only=0",
+            "defineEn": "something such as a situation, object, fact, etc. that shows or proves what one is saying",
+            "defineVi": "một cái gì đó như một tình huống, đối tượng, thực tế, vv cho thấy hoặc chứng minh những gì một người đang nói"
+        },
+        {
+            "id": "7a429983-4f68-4b60-bc23-275922329ce9",
+            "word": "to invent",
+            "phonetic": "tʊ ɪnvɛnt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Stop inventing silly excuses.",
+                "Chick-Fil-A's founder S. Truett Cathy invented the chain's original chicken sandwich in 1964.",
+                "Invented the field of psychoanalysis?",
+                "My grandpa invented the phrase dollars to donuts.",
+                "For that, engineers invented the mate-demate device, or MDD."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW52ZW50&hash=32356d94f0bcf3431150c849626b98f2dc801acf&lang=en&cache-only=0",
+            "defineEn": "to make or design something that did not exist before",
+            "defineVi": "để thực hiện hoặc thiết kế một cái gì đó không tồn tại trước đây",
+            "hasImg": true
+        },
+        {
+            "id": "f55e712b-77ee-4ac3-b545-a4c3371b2770",
+            "word": "inventor",
+            "phonetic": "ɪnvɛntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The machine takes its name from its inventor.",
+                "The inventor who sold their patent for a large sum of money also had to give up the right to profit from the invention in the future.",
+                "The inventor believed that even though his idea seemed impossible to implement, it was still achievable with time, patience, perseverance, effort, and faith, as difficult is done at once, the impossible takes a little longer.",
+                "Despite facing criticism and doubt from his peers, the young inventor persevered and ultimately succeeded in creating a groundbreaking new technology - he who laughs last laughs loudest.",
+                "Inventors have proposed plenty of ideas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW52ZW50b3I&hash=70bc5b7a5df29399fbd3746ddc97586428daea3b&lang=en&cache-only=0",
+            "defineEn": "someone who makes or designs something that did not exist before",
+            "defineVi": "một người làm hoặc thiết kế một cái gì đó không tồn tại trước đây",
+            "hasImg": true
+        },
+        {
+            "id": "dd68a9b4-dfa5-4695-b719-cbd98d9f6183",
+            "word": "to discover",
+            "phonetic": "tə dɪskʌvɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She discovered a new café in the neighborhood.",
+                "He discovered a jar of homemade barberry jam in the pantry.",
+                "Surprisingly I discovered water chestnuts at the local market.",
+                "She discovered almond paste as a perfect substitute for cream cheese in her cheesecake recipe.",
+                "I discovered a pack of lardons in the back of my home fridge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlzY292ZXI&hash=a892357b7667e4b662d1b571ef98fb8ed2783867&lang=en&cache-only=0",
+            "defineEn": "to be the first person who finds something or someplace that others did not know about",
+            "defineVi": "là người đầu tiên tìm thấy một cái gì đó hoặc một nơi nào đó mà những người khác không biết về",
+            "hasImg": true
+        },
+        {
+            "id": "576c3c07-bb19-4aea-ae7d-10f2c190a204",
+            "word": "discovery",
+            "phonetic": "dɪskʌvɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The discovery of gold brought thousands of people to the Transvaal.",
+                "Her early research laid the foundation for many important medical discoveries.",
+                "The discovery of new planets represents a quantum leap in astronomy, with the potential to deepen our understanding of the universe and our place in it.",
+                "We discuss current scientific advancements and discoveries in science class.",
+                "He spoke with the fervour of discovery, unaware that he was reinventing the wheel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY292ZXJ5&hash=768d442f6257b680f6cf41913cb246b20c5140c5&lang=en&cache-only=0",
+            "defineEn": "the act of finding something for the first time and before others",
+            "defineVi": "hành động tìm kiếm một cái gì đó lần đầu tiên và trước những người khác",
+            "hasImg": true
+        },
+        {
+            "id": "ddf6629d-d0fb-4607-a81b-128d8230a883",
+            "word": "lab",
+            "phonetic": "læb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You’re taking your time with the lab tests.",
+                "She's very shy, so working in a research lab really fits her like a glove.",
+                "I can't really see myself working in a lab all day.",
+                "It was all going according to plan until we caught a cold and lost funding at the lab.",
+                "The system covers every doctor every lab every hospital every clinic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFi&hash=ee4061423b2a6a69a7c171205ac25354672524f9&lang=en&cache-only=0",
+            "defineEn": "a place that is used for research, testing, and other scientific or medical experiments",
+            "defineVi": "một nơi được sử dụng để nghiên cứu, thử nghiệm và các thí nghiệm khoa học hoặc y tế khác",
+            "hasImg": true
+        },
+        {
+            "id": "84e49d2e-8f46-49b1-93d6-5ad2fddf4f27",
+            "word": "tool",
+            "phonetic": "tuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They used a special tool to effortlessly remove the core of the pear.",
+                "He used a tool storage box to organize his workshop.",
+                "I rolled the dice on a tool brand I haven't used before.",
+                "Her new boyfriend isn't the sharpest tool in the box, but he's pretty good looking!",
+                "That's the best brand of tools there is, for my money."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9vbA&hash=e743ac560272a0c38907951a6b5a96922dd2dcbf&lang=en&cache-only=0",
+            "defineEn": "something such as a hammer, saw, etc. that is held in the hand and used for a specific job",
+            "defineVi": "một cái gì đó như búa, cưa, v.v. được cầm trên tay và được sử dụng cho một công việc cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "537a6aef-27b3-4141-ab73-d0c04aabb7f4",
+            "word": "fact",
+            "phonetic": "fækt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But you have to go on the facts.",
+                "The exorbitant prices are explainable in light of the facts.",
+                "In fact it was Jack's sense of humour that kept her feelings in proportion during the next few days.",
+                "The fact that the Champions League is increasingly dominated by English clubs just rubs salt into his wounds.",
+                "Needs to check her facts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFjdA&hash=b5e3636ec0c457962d4d41868379944014c5fcfe&lang=en&cache-only=0",
+            "defineEn": "something that is known to be true or real, especially when it can be proved",
+            "defineVi": "một cái gì đó được biết là đúng hoặc có thật, đặc biệt là khi nó có thể được chứng minh"
+        },
+        {
+            "id": "ed37d001-dcf0-44c7-a98e-4fc8c91ab119",
+            "word": "reason",
+            "phonetic": "ɹiːzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By that point in the argument, reason had gone out the window.",
+                "I fully understand the reason for your decision.",
+                "She's got no reason to give herself airs and graces.",
+                "If you went through channels, then they have no reason to turn you away.",
+                "Up until now, I have kept my own counsel about my reasons for leaving the Department of Justice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVhc29u&hash=465b98ed5929e926bc9a9ae46c8725b55176b02f&lang=en&cache-only=0",
+            "defineEn": "something that explains an action or event",
+            "defineVi": "một cái gì đó giải thích một hành động hoặc sự kiện"
+        },
+        {
+            "id": "13f8beb0-c0bb-417d-903b-778dc48ea046",
+            "word": "technology",
+            "phonetic": "tɛknɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Technology advances by fits and starts.",
+                "Each technology has its pros and cons.",
+                "Current drilling technology thus barely scrapes the surface.",
+                "Our superior technology is our ace in the hole.",
+                "We lead the way in space technology."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVjaG5vbG9neQ&hash=3ab1213bc3e2bca745c5831655b519ded26483f3&lang=en&cache-only=0",
+            "defineEn": "scientific knowledge put into practice in a particular area, especially in industry",
+            "defineVi": "kiến thức khoa học đưa vào thực tiễn trong một lĩnh vực cụ thể, đặc biệt là trong ngành công nghiệp",
+            "hasImg": true
+        },
+        {
+            "id": "36401b00-7ab5-405e-8ea6-142a41bd88d4",
+            "word": "data",
+            "phonetic": "deɪɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Save data frequently.",
+                "The scientist abstracted the data from various sources to analyze trends.",
+                "The teacher asked the students to collect data for their science project.",
+                "Processes to check against deterioration in the quality of the data held.",
+                "He gained a reputation as a smart number-cruncher who could turn data into policy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGF0YQ&hash=205599b20d539e05b797861dc91a1f9976963b99&lang=en&cache-only=0",
+            "defineEn": "information or facts collected to be used for analysis or reference",
+            "defineVi": "thông tin hoặc sự kiện được thu thập để sử dụng cho phân tích hoặc tham khảo",
+            "hasImg": true
+        },
+        {
+            "id": "98cd80d9-49c5-4cf0-a6c1-9f3739c05dff",
+            "word": "focus",
+            "phonetic": "foʊkəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You just focus on the task at hand.",
+                "We focused on building the business one customer at a time.",
+                "The CEO's focus on customer satisfaction was reflected in the employees' behavior, as like master, like man.",
+                "The gourmet cooking class focused on mastering the art of cooking the perfect beefsteak.",
+                "He focused on the meat and potatoes of his job, accomplishing tasks efficiently and effectively."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9jdXM&hash=4ffdc18c778687d848b68a3c651e53017fed8f3b&lang=en&cache-only=0",
+            "defineEn": "the main point of activity or interest",
+            "defineVi": "điểm chính của hoạt động hoặc sở thích",
+            "hasImg": true
+        },
+        {
+            "id": "0704f421-617a-4ee6-bf24-88b1f5f96452",
+            "word": "sound",
+            "phonetic": "saʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tax increase sounded the death knell for the business.",
+                "He sounds about as much fun as a wet weekend in Carmarthenshire.",
+                "The bell sounded for dinner.",
+                "A cup of tea sounds perfect.",
+                "Your presentation sounded great, honestly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291bmQ&hash=ae77e73272d1ed95565097850d9f17ce0582a780&lang=en&cache-only=0",
+            "defineEn": "anything that we can hear",
+            "defineVi": "bất cứ điều gì mà chúng ta có thể nghe thấy",
+            "hasImg": true
+        },
+        {
+            "id": "038607fb-91ee-42f0-b187-6283f51a1779",
+            "word": "result",
+            "phonetic": "ɹɪzʌlt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We need the results now.",
+                "She'll have had the results by now.",
+                "The result of this election is going to be too close to call.",
+                "The bakery incorporated finely diced fatback into savory pie crusts for flaky results.",
+                "If you invest time and energy into learning and personal growth, you will see positive results in your life."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzdWx0&hash=4cd6b175ad93d907fe42c76ab89bcd7a6b5a139f&lang=en&cache-only=0",
+            "defineEn": "something that is caused by something else",
+            "defineVi": "một cái gì đó được gây ra bởi một cái gì đó khác"
+        }
+    ]
+}

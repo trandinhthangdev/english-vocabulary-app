@@ -1,0 +1,879 @@
+{
+    "id": "daa59775-8aa8-41b3-8504-6b464db9bb68",
+    "title": "Acting",
+    "originalTitle": "Acting",
+    "words": [
+        {
+            "id": "32af7c9c-6506-44f7-9b4c-68ac9d767a66",
+            "word": "actor",
+            "phonetic": "æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The director praised the actor for their outstanding performance in the movie.",
+                "The actor is hitting the big time with his new movie.",
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain.",
+                "Many actors dream of winning prestigious awards for their performances.",
+                "Right in the middle of the review is a left-handed compliment: the critic praises the actor for his \"startling career departure.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN0b3I&hash=ff51d3cf52dbdb212c09682c85250cde406d0147&lang=en&cache-only=0",
+            "defineEn": "someone whose job involves performing in movies, plays, or series",
+            "defineVi": "ai đó có công việc liên quan đến việc biểu diễn trong phim, vở kịch hoặc sê-ri",
+            "hasImg": true
+        },
+        {
+            "id": "b1dfc6f7-ef30-4152-b950-816b9d0368c1",
+            "word": "actress",
+            "phonetic": "æktɹəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The actress had a love child with her co-star.",
+                "The actress was practicing her lines before the audition.",
+                "The actress performed beautifully in the play.",
+                "The young actress received an award for her outstanding performance.",
+                "being an actress."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN0cmVzcw&hash=b37d834f56c0ba4d73f6dd0a30839becc1c48d8f&lang=en&cache-only=0",
+            "defineEn": "a woman whose job involves performing in movies, plays, or series",
+            "defineVi": "một người phụ nữ có công việc liên quan đến biểu diễn trong phim, vở kịch hoặc sê-ri",
+            "hasImg": true
+        },
+        {
+            "id": "3261749d-aef8-49d7-9bc7-989fc02445ad",
+            "word": "double",
+            "phonetic": "dʌbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Double cream adds indulgence to creamy pasta sauces.",
+                "His parents did a double take when he came home with a tattoo.",
+                "The kitchen had a double oven, allowing for simultaneous baking of different dishes.",
+                "Take your hot beverages to the next level by adding a splash of double cream to them.",
+                "When the price of skiing doubled, tourists voted with their feet and just stopped going."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG91Ymxl&hash=b3dd0135f219abf0318bcd73af2132cd533a8f89&lang=en&cache-only=0",
+            "defineEn": "someone who takes part in a movie in order to replace the real actor while the nude or dangerous scenes are recorded",
+            "defineVi": "ai đó tham gia vào một bộ phim để thay thế diễn viên thực sự trong khi những cảnh khỏa thân hoặc nguy hiểm được ghi lại"
+        },
+        {
+            "id": "851eb87a-2e86-41d1-8f2c-e287762f2957",
+            "word": "ensemble cast",
+            "phonetic": "ɑːnsɑːmbəl kæst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZW5zZW1ibGUgY2FzdA&hash=0a17a6d3bf4a9b9a208def18d57548f878e45c5a&lang=en&cache-only=0",
+            "defineEn": "a group of actors who share roughly equal screen time and importance in a movie",
+            "defineVi": "một nhóm diễn viên chia sẻ thời lượng và tầm quan trọng trên màn ảnh gần như bằng nhau trong một bộ phim"
+        },
+        {
+            "id": "531a8394-582a-48c8-839b-349f85fd031c",
+            "word": "character actor",
+            "phonetic": "kæɹɪktɚɹ æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhcmFjdGVyIGFjdG9y&hash=11d415581b9b5dfd787042cf462696b7997a392e&lang=en&cache-only=0",
+            "defineEn": "an actor who always plays the role of a bizarre or outlandish character rather than a main role",
+            "defineVi": "một diễn viên luôn đóng vai một nhân vật kỳ quái hoặc kỳ quặc hơn là vai chính"
+        },
+        {
+            "id": "0935bc64-6c25-4293-9ea6-d32c96e77a3f",
+            "word": "leading man",
+            "phonetic": "liːdɪŋ mæn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGVhZGluZyBtYW4&hash=bcff7ae2941c6b08febb1e029f4ba8953b6dc8a7&lang=en&cache-only=0",
+            "defineEn": "actor who plays the leading male role",
+            "defineVi": "diễn viên đảm nhận vai nam chính"
+        },
+        {
+            "id": "124b23b9-8a09-441a-b6b5-9b247a896a81",
+            "word": "leading lady",
+            "phonetic": "liːdɪŋ leɪdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No, I don't want to injure the leading lady."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVhZGluZyBsYWR5&hash=6d81102ab2b61978f3b03b8b7864e6a57c134003&lang=en&cache-only=0",
+            "defineEn": "an actress who plays the main role in a movie or play",
+            "defineVi": "một nữ diễn viên đóng vai chính trong một bộ phim hoặc vở kịch"
+        },
+        {
+            "id": "78148708-013c-410d-b16b-07331cec21bf",
+            "word": "ham",
+            "phonetic": "hæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ham had a smoky flavor.",
+                "The ham was glazed with a mixture of brown sugar and mustard.",
+                "A classic ham and Swiss cheese sandwich is always a crowd-pleaser for lunch.",
+                "She sliced the ham into thin strips and added it to her pasta dish.",
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFt&hash=1c255bac776ec5899c269a0eb36d7e3f01e14e0b&lang=en&cache-only=0",
+            "defineEn": "an actor with an exaggerated theatrical style",
+            "defineVi": "một diễn viên với phong cách sân khấu phóng đại"
+        },
+        {
+            "id": "b18c700f-a440-439f-b8ae-cb2bbd5f7f3f",
+            "word": "lead",
+            "phonetic": "liːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The receptionist led the way to the boardroom.",
+                "The department led the world in cancer research.",
+                "The company's new product launch led to a fat increase in revenue.",
+                "We lead a very quiet life.",
+                "To lead a life of luxury/a miserable existence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVhZA&hash=e8c13e26cfbed16150978377d6d91e1a6eea432e&lang=en&cache-only=0",
+            "defineEn": "an actor who plays the main role in a play or movie",
+            "defineVi": "một diễn viên đóng vai chính trong một vở kịch hoặc bộ phim",
+            "hasImg": true
+        },
+        {
+            "id": "e149ff24-917b-4ad2-8f66-fc28a6a8e17f",
+            "word": "supporting actor",
+            "phonetic": "səpoːɹɾɪŋ æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VwcG9ydGluZyBhY3Rvcg&hash=e4753715ddc7de439fe7bad44a795e142c3bf610&lang=en&cache-only=0",
+            "defineEn": "an actor who plays a secondary character in a film or television show, often providing support or context to the main plot or protagonist",
+            "defineVi": "một diễn viên đóng vai phụ trong một bộ phim hoặc chương trình truyền hình, thường cung cấp hỗ trợ hoặc bối cảnh cho cốt truyện chính hoặc nhân vật chính"
+        },
+        {
+            "id": "c0e7eb43-7e82-4453-b940-b4f98ed695c6",
+            "word": "voice actor",
+            "phonetic": "vɔɪs æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dm9pY2UgYWN0b3I&hash=0396f9a82f9ea4388fd6e0d7ce2cc2d68d8efbd7&lang=en&cache-only=0",
+            "defineEn": "a performer who provides voices for animated films, TV shows, video games, commercials, audiobooks, and other media where speaking voices are needed",
+            "defineVi": "người biểu diễn cung cấp giọng nói cho phim hoạt hình, chương trình truyền hình, trò chơi điện tử, quảng cáo, sách nói và các phương tiện truyền thông khác khi cần có giọng nói"
+        },
+        {
+            "id": "e1cbc4bb-2d4e-48b1-bdc4-c6412832c095",
+            "word": "bit part",
+            "phonetic": "bɪt pɑːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So, a bit part of the problem is that not all of the water on Earth is usable.",
+                "When you eat a number of bacon bits, the bit part really kind of loses all meaning and it just becomes bacon again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0IHBhcnQ&hash=7ad095f8d63549a4638154f77a8376902b0eed5a&lang=en&cache-only=0",
+            "defineEn": "a minor role in a movie or play",
+            "defineVi": "một vai nhỏ trong một bộ phim hoặc vở kịch"
+        },
+        {
+            "id": "423e0ed8-3d2d-4c3e-8359-7da117150810",
+            "word": "stand-in",
+            "phonetic": "stændɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Like here, vague language provides a stand-in for detailed testimony.",
+                "If we can develop neural tissue that models these conditions, these organoids could be a stand-in for people’s actual brains.",
+                "He's a stand-in hired by Google and he's a really cool guy.",
+                "Since they couldn’t look at the parents’ genomes directly, they used the child’s genome as a stand-in for which genetic variants the parents had.",
+                "It's a video of Tupac appearing the the 2011 Occupy Wall Street stand-in."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhbmQtaW4&hash=25b9db4bbb8d19f04a2a2e26ad69c82e4fd83c56&lang=en&cache-only=0",
+            "defineEn": "a person who replaces someone else briefly in doing their job while they are not available",
+            "defineVi": "một người thay thế người khác trong thời gian ngắn làm công việc của họ khi họ không có mặt"
+        },
+        {
+            "id": "91308f7c-b591-4caf-9534-33b9b019042d",
+            "word": "star",
+            "phonetic": "stɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The stars twinkled brightly in the dark night sky.",
+                "She counted zero stars in the sky.",
+                "The night sky is filled with stars and a beautiful moon.",
+                "In the world of sports, a star athlete can be considered a big shot.",
+                "The night sky is black, except for the stars and the moon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rhcg&hash=a668830f867321684ac9d50d88bee87270c30989&lang=en&cache-only=0",
+            "defineEn": "the chief actor or performer in a motion picture, play, TV or radio program, etc.",
+            "defineVi": "diễn viên chính hoặc người biểu diễn trong một bộ phim chuyển động, vở kịch, chương trình truyền hình hoặc đài phát thanh, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "a8aab08a-56be-4061-b63d-e19453e58346",
+            "word": "starlet",
+            "phonetic": "stɑːɹlɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And it involved a bear kissing like a beautiful Hollywood starlet.",
+                "And it actually, I don't think got on the air with these different starlets, but luckily they roll videotape at the dress show just beforehand.",
+                "And then I sort of hope every time a starlet came back like I hope we do that bear thing again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhcmxldA&hash=34bafd590a6e7ee0b81ed645631700fc9b38bb73&lang=en&cache-only=0",
+            "defineEn": "a young and promising female actor who is coached and publicized in order to become a star",
+            "defineVi": "một nữ diễn viên trẻ triển vọng được đào tạo và quảng bá để trở thành một ngôi sao"
+        },
+        {
+            "id": "b02b7d49-dde1-4ac3-8db1-fa1d5ec91372",
+            "word": "tragedian",
+            "phonetic": "tɹædʒiːdiən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhZ2VkaWFu&hash=df76ea89aecc4c6e592ce9ca4b9be8fdf32eece8&lang=en&cache-only=0",
+            "defineEn": "an actor who takes part in performing a role in a tragedy",
+            "defineVi": "một diễn viên tham gia thực hiện một vai trong bi kịch"
+        },
+        {
+            "id": "b0f688eb-60de-4d78-a61e-2690cc159589",
+            "word": "understudy",
+            "phonetic": "ʌndɚstʌdi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW5kZXJzdHVkeQ&hash=a0cbc092377d9fa90b8fa0604d2f40ba5bcd3c2d&lang=en&cache-only=0",
+            "defineEn": "an actor who practices the lines of another actor in order to replace them if necessary",
+            "defineVi": "một diễn viên thực hành lời thoại của một diễn viên khác để thay thế họ nếu cần thiết"
+        },
+        {
+            "id": "7142f25b-e377-4428-bd76-71f43fed70f3",
+            "word": "walk-on",
+            "phonetic": "wɔːkɔn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2Fsay1vbg&hash=bac7bfa3706e0b02ac60c5661e1c6ab339b589fc&lang=en&cache-only=0",
+            "defineEn": "a small, non-speaking role played by an actor who appears briefly on screen, often as a background character or extra",
+            "defineVi": "một vai nhỏ, không nói được của một diễn viên xuất hiện thoáng qua trên màn ảnh, thường là nhân vật nền hoặc phụ"
+        },
+        {
+            "id": "47e0c683-f295-4577-a139-594de3ba832e",
+            "word": "acting coach",
+            "phonetic": "æktɪŋ koʊtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN0aW5nIGNvYWNo&hash=2ea5bafe082c8af670ab4e28f2becd8c70783905&lang=en&cache-only=0",
+            "defineEn": "a professional who trains actors to improve their performance skills and technique",
+            "defineVi": "một chuyên gia đào tạo các diễn viên để cải thiện kỹ năng và kỹ thuật biểu diễn của họ"
+        },
+        {
+            "id": "3a05a2e2-f1b3-43d0-96f8-0424cf0fc0f5",
+            "word": "bad guy",
+            "phonetic": "bæd ɡaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And I know you're a Bad Guy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFkIGd1eQ&hash=3e9711df6a23de9fb8bd642f18ff55e775eb4238&lang=en&cache-only=0",
+            "defineEn": "a character in a story or film who is portrayed as an antagonist or villain",
+            "defineVi": "một nhân vật trong một câu chuyện hoặc bộ phim được miêu tả là một nhân vật phản diện hoặc nhân vật phản diện"
+        },
+        {
+            "id": "be812fce-19a1-4501-ab44-70d5d4e0b20b",
+            "word": "cameo",
+            "phonetic": "kæmɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Its cameo in Harold and Kumar is just one example of the company's eccentric marketing strategies.",
+                "- I do have a cameo.",
+                "They also made a cameo in our episode about cryptocurrency and the future of money, so make sure you check that out.",
+                "and then I'm off to join Cameo.",
+                "Also, I just started a Cameo, which is like YouTubers, if you hire them to make a personalized video, they'll make you a video."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FtZW8&hash=799ae0dac40029c39ae47138f7ec9a67551f61ef&lang=en&cache-only=0",
+            "defineEn": "a minor role that is played by a well-known actor",
+            "defineVi": "một vai nhỏ được đóng bởi một diễn viên nổi tiếng"
+        },
+        {
+            "id": "ea719dd2-6a69-49e9-9be5-4d3219ac3b9f",
+            "word": "co-star",
+            "phonetic": "koʊstɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The actress had a love child with her co-star.",
+                "He got the hook, reportedly due to differences with his co-star.",
+                "In the interview the actor revealed he had a man crush on his co-star.",
+                "The tabloids were quick to label the famous actor as a backdoor man after rumors circulated about his affairs with multiple co-stars.",
+                "We keep hearing it on the grapevine that the two co-stars of that movie are getting married, but they are not saying anything."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y28tc3Rhcg&hash=cc29e35a71cd59e99d1f56de96d7ad1c68b6b942&lang=en&cache-only=0",
+            "defineEn": "a leading actor or actress who takes part in a movie, play, etc.",
+            "defineVi": "một diễn viên chính hoặc nữ diễn viên tham gia một bộ phim, vở kịch, v.v."
+        },
+        {
+            "id": "3dab36ab-72df-49a4-8bf4-fc528d0adbb8",
+            "word": "extra",
+            "phonetic": "ɛkstɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Airport security was extra tight in the wake of yesterday's bomb attacks.",
+                "They run extra trains during the rush hour.",
+                "Be extra careful with this one.",
+                "She turned her singing talent into extra money.",
+                "I packed an extra jacket for the camping trip."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0cmE&hash=ede5ef4b06446c5d32a21cfebd9727c472db6f31&lang=en&cache-only=0",
+            "defineEn": "someone who plays a very small part in a movie, usually as a part of a crowd",
+            "defineVi": "ai đó đóng một phần rất nhỏ trong một bộ phim, thường là một phần của đám đông"
+        },
+        {
+            "id": "04c37b89-3d34-4e9c-b5e5-845b28678204",
+            "word": "good guy",
+            "phonetic": "ɡʊd ɡaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29vZCBndXk&hash=192958bdc9d761c4f458d136eada1458b5eb4708&lang=en&cache-only=0",
+            "defineEn": "a protagonist or a heroic character in a story or film who embodies positive traits and intentions",
+            "defineVi": "một nhân vật chính hoặc một nhân vật anh hùng trong một câu chuyện hoặc bộ phim thể hiện những đặc điểm và ý định tích cực"
+        },
+        {
+            "id": "3b3f249d-deba-429a-8317-933e3874a74c",
+            "word": "part",
+            "phonetic": "pɑːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His dedication and hard work played a big part in the company's success.",
+                "The crowd parted to let the truck pass.",
+                "She knows her part in the play back to front.",
+                "The media, as always, played an important part in the election campaign.",
+                "Sailors spend the better part of their time at sea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFydA&hash=83a1db6808bd0eee48dd434de42ca07e9965694e&lang=en&cache-only=0",
+            "defineEn": "the specific role given to an actor",
+            "defineVi": "vai trò cụ thể được trao cho một diễn viên"
+        },
+        {
+            "id": "03da2c45-99d1-4c78-8922-6c3d91b0ff0b",
+            "word": "role",
+            "phonetic": "ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The role isn't exactly a walk in the park.",
+                "Fathers play a crucial role in their children's upbringing and development.",
+                "Many young people look up to celebrities as role models.",
+                "The boss of the failed company is keeping schtum about his role in the disaster.",
+                "Callas created only one role, and that was Eurydice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9sZQ&hash=19be4081a760bbf93790ed6b3c1ad89de7490ba8&lang=en&cache-only=0",
+            "defineEn": "the part or character that an actor plays in a movie or play",
+            "defineVi": "phần hoặc nhân vật mà một diễn viên đóng trong phim hoặc vở kịch"
+        },
+        {
+            "id": "82eaba49-b864-484f-8f2c-c7955244638e",
+            "word": "starring role",
+            "phonetic": "stɑːɹɹɪŋ ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RhcnJpbmcgcm9sZQ&hash=3e37c1c1a3661bae36d2174037b2eb89acb4b73d&lang=en&cache-only=0",
+            "defineEn": "a lead or main role played by an actor in a film or a theatrical production",
+            "defineVi": "một vai chính hoặc vai chính do một diễn viên đóng trong phim hoặc sản xuất sân khấu"
+        },
+        {
+            "id": "25536aea-b7af-4076-a977-02d2d2fcacbc",
+            "word": "title role",
+            "phonetic": "taɪɾəl ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGl0bGUgcm9sZQ&hash=bfba705bce46a276fda6440e536012204ab9c47e&lang=en&cache-only=0",
+            "defineEn": "the role of the character after whom the play is named",
+            "defineVi": "vai trò của nhân vật mà vở kịch được đặt tên"
+        },
+        {
+            "id": "ff8ec8cc-b10b-4dae-b609-bae710ef5f6b",
+            "word": "villain",
+            "phonetic": "vɪlən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain.",
+                "That's the villain.",
+                "And the villain in the piece is American law enforcement.",
+                "\"We need a real villain,\" and so on.",
+                "And there's the villain"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlsbGFpbg&hash=7ea9267264203fa993f91cc53968d25e1f328852&lang=en&cache-only=0",
+            "defineEn": "the main bad character in a movie, story, play, etc.",
+            "defineVi": "nhân vật xấu chính trong một bộ phim, câu chuyện, vở kịch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "e3dd6375-a17c-4bda-a5e1-bf957ed970f8",
+            "word": "line",
+            "phonetic": "laɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Health services are lining the drug companies’ pockets, according to the report.",
+                "The line cuts the circle at two points.",
+                "The actress was practicing her lines before the audition.",
+                "Your remarks were really out of line.",
+                "Remuneration is in line with comparable international organizations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGluZQ&hash=e89245f2be47e8897fc5069817862feb24c1d8be&lang=en&cache-only=0",
+            "defineEn": "the words recited by an actor in a play or movie",
+            "defineVi": "những từ được đọc bởi một diễn viên trong một vở kịch hoặc bộ phim"
+        },
+        {
+            "id": "6fb50fe1-dd12-461e-961a-ff511e23786d",
+            "word": "cue",
+            "phonetic": "kjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "right on cue the door opened",
+                "And then, on cue, the weather changed.",
+                "We should take our cue from their example.",
+                "The sky, as if on cue, was overcast.",
+                "Now he's as bald as a cue ball, and he rocks the look with confidence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vl&hash=110be109a656836a7e146874b305d41c50fb5040&lang=en&cache-only=0",
+            "defineEn": "a few words or actions that hint another performer to say a line or do something",
+            "defineVi": "một vài từ hoặc hành động gợi ý người biểu diễn khác nói một dòng hoặc làm điều gì đó"
+        },
+        {
+            "id": "2cfe2dca-b61e-433c-89bf-83d9eace7d96",
+            "word": "prompt",
+            "phonetic": "pɹɑːmpt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When the company lost a major client, it prompted the CEO to reassess the company's strategy and make changes that helped them gain new clients - as they say, a stumble may prevent a fall.",
+                "The controversial political scandal that dominated news cycles for a week turned into a seven-day wonder, capturing public attention and prompting investigations and debates.",
+                "The incident prompted an SEC investigation into Kodak's disclosure of the loan.",
+                "Branson's request for a bailout prompted mockery from some corners, especially in the British press.",
+                "A decline in new infections has prompted a wider loosening of restrictions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvbXB0&hash=a9be66dc788a02a7cefc30fc332885165bf84033&lang=en&cache-only=0",
+            "defineEn": "a word or phrase that an actor says to signal another actor to begin acting or say a line",
+            "defineVi": "một từ hoặc cụm từ mà một diễn viên nói để ra hiệu cho một diễn viên khác bắt đầu diễn xuất hoặc nói một câu thoại"
+        },
+        {
+            "id": "af0dd090-3210-45be-87a9-c3509634de49",
+            "word": "stage direction",
+            "phonetic": "steɪdʒ dᵻɹɛkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was also big on speaking stage directions out loud."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhZ2UgZGlyZWN0aW9u&hash=aa3741ba4a43fe16444805815319d61e7e586962&lang=en&cache-only=0",
+            "defineEn": "a text in the script of a play, giving an instruction regarding the movement, position, etc. of actors",
+            "defineVi": "một văn bản trong kịch bản của một vở kịch, đưa ra hướng dẫn về chuyển động, vị trí, v.v. của các diễn viên"
+        },
+        {
+            "id": "04ae1323-806f-4c99-9cb7-53d96f2d2d1e",
+            "word": "casting",
+            "phonetic": "kæstɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Well, he is central casting. ",
+                "And so they had these massive casting calls. ",
+                "\"My agent submitted me for a nationwide casting call \"for the roles of Emmett and Daphne.",
+                "That would be opposite of type casting for sure.",
+                "He is a four-star chairman of the Joint Chiefs of Staff, hence central casting. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzdGluZw&hash=ca6e076193355ea1bb13bafe28f1a78c83b489f2&lang=en&cache-only=0",
+            "defineEn": "the process of assigning roles and parts to actors or performers in a movie, play, etc.",
+            "defineVi": "quá trình phân công vai trò và các phần cho các diễn viên hoặc người biểu diễn trong một bộ phim, vở kịch, v.v."
+        },
+        {
+            "id": "5714f9c9-a99c-46ad-95c9-699b0a106ba4",
+            "word": "screen test",
+            "phonetic": "skɹiːn tɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So it was into screen test time",
+                "You could have been that, and I was uh, I screen tested for the Billy Zane, bad guy part.",
+                "I did go have a good screen test, thought I had the role, but did not get the role."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NyZWVuIHRlc3Q&hash=cfb15047e4deff26925aed9f75c9116771443c30&lang=en&cache-only=0",
+            "defineEn": "a session of audition during which the actor is recorded in order to be assessed for a role",
+            "defineVi": "một buổi thử giọng trong đó diễn viên được ghi lại để được đánh giá cho một vai diễn"
+        },
+        {
+            "id": "cb6c4ffc-280a-4d28-8c8e-d80976267128",
+            "word": "act",
+            "phonetic": "ækt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Get your act together.",
+                "This armed vigilante is acting as judge, jury, and executioner.",
+                "he acted maturely.",
+                "He acted out of fear.",
+                "A squeeze of lemon juice can act as a refreshing condiment to brighten up seafood dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN0&hash=d10ed3d22c6a6059856fc532b5a4379580ed5df5&lang=en&cache-only=0",
+            "defineEn": "a main part of a play, opera, or ballet",
+            "defineVi": "một phần chính của vở kịch, opera hoặc múa ba lê",
+            "hasImg": true
+        },
+        {
+            "id": "7c894cf1-52e9-4b97-bab7-0eb5fcbfe5e2",
+            "word": "baddy",
+            "phonetic": "bædi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFkZHk&hash=a4a4e0ebb1919fabeb33e09176d4bad6a1a65c6e&lang=en&cache-only=0",
+            "defineEn": "an evil character in fiction or a motion picture",
+            "defineVi": "một nhân vật ác trong tiểu thuyết hoặc một bộ phim chuyển động"
+        },
+        {
+            "id": "a222882f-c026-4a28-80be-cf31d53f371e",
+            "word": "aside",
+            "phonetic": "ɐsaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We came to a gentleman's agreement that if anybody else wanted the job, I would stand aside.",
+                "Extreme temperatures aside, the planet doesn’t have an atmosphere.",
+                "Here's another aside.",
+                "Resistance to HIV aside, most scientists say the procedure was too risky.",
+                "We'll leave the a aside."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXNpZGU&hash=a4bafe24b9987c25976d06edb461f2f0b62f562a&lang=en&cache-only=0",
+            "defineEn": "an actor's line that is told to the audience but the other characters on the stage are not intended to hear",
+            "defineVi": "lời thoại của một diễn viên được nói với khán giả nhưng các nhân vật khác trên sân khấu không có ý định nghe"
+        },
+        {
+            "id": "f5b3be6e-7718-4cdf-9c80-d801bcb3589b",
+            "word": "protagonist",
+            "phonetic": "pɹoʊɾɐɡənɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The film incorporated abstract imagery and surreal elements to convey the protagonist's inner emotional journey.",
+                "In the novel, the protagonist is pressured by her parents to marry money and is introduced to a wealthy suitor who can provide her with a luxurious lifestyle.",
+                "In a mystery movie, when new suspects or evidence emerges, the plot thickens as the protagonist tries to solve the case.",
+                "In a typical hero's journey, the protagonist sets out on an adventure, undergoes great change, and returns in triumph to their point of origin.",
+                "So, Vonnegut’s protagonist is Billy Pilgrim."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvdGFnb25pc3Q&hash=66c56b0e9e45b366d9d0c2c537a2457c956ff724&lang=en&cache-only=0",
+            "defineEn": "the main character in a movie, novel, TV show, etc.",
+            "defineVi": "nhân vật chính trong phim, tiểu thuyết, chương trình truyền hình, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8b043167-c3cc-4cc1-9221-ff6960624079",
+            "word": "dialogue",
+            "phonetic": "daɪəlɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was as deaf as a post and relied on subtitles to follow the dialogue.",
+                "This dialogue gives us a good look at the characterization between these two characters.",
+                "It has dialogue in it.",
+                "But the dialogue is completely fictitious.",
+                "My first scene with Hugh in the movie is six or seven pages of dialogue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhbG9ndWU&hash=f439ccf07c4f3f4217667cc5a81adfd4375c75b0&lang=en&cache-only=0",
+            "defineEn": "a written or spoken line that is spoken by a character in a play, movie, book, or other work of fiction",
+            "defineVi": "một dòng viết hoặc nói được nói bởi một nhân vật trong vở kịch, phim, sách hoặc tác phẩm hư cấu khác"
+        },
+        {
+            "id": "06f7b10f-931b-4889-87c5-905488378260",
+            "word": "exit",
+            "phonetic": "ɛɡzɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We better stop at the next exit to make sure we don't run out of gas.",
+                "Frustrated with the congestion, he started elbowing through the packed hallway to reach the exit.",
+                "The flavor has exited the building.",
+                "Three Democratic candidates in three days have exited the Democratic race for president.",
+                "Bad exit, go back!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhpdA&hash=4056c96c98934dd93ddd25fe0f04b865e25a1ad9&lang=en&cache-only=0",
+            "defineEn": "an act of departure from the stage by an actor",
+            "defineVi": "một hành động rời khỏi sân khấu của một diễn viên"
+        },
+        {
+            "id": "9d190b8c-8e84-446b-915a-f747a4ba62af",
+            "word": "goody",
+            "phonetic": "ɡʊdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "James is a real goody two-shoes.",
+                "Simon is such a goody two-shoes.",
+                "The last thing I want to be is a goody two shoes!",
+                "What kinda goodies we got here?",
+                "I am a goody two-shoes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29vZHk&hash=b53facfe626aaaf74f095c2a25689d289d4e78a0&lang=en&cache-only=0",
+            "defineEn": "someone who is morally good, especially a character in a movie, play or book",
+            "defineVi": "một người tốt về mặt đạo đức, đặc biệt là một nhân vật trong một bộ phim, vở kịch hoặc cuốn sách",
+            "hasImg": true
+        },
+        {
+            "id": "f6b2914e-8905-4d5b-b06a-defa08e7a681",
+            "word": "hero",
+            "phonetic": "hiəɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These heroes courageously answered the call of duty.",
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain.",
+                "Reeve shot from zero to hero in the 1978 blockbuster, Superman.",
+                "After his parents won the lottery, John went from zero to hero in his high school overnight.",
+                "This is no time to play the hero."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVybw&hash=a0ed9ed2ac83907810b4d224560bcb3a5f1965f8&lang=en&cache-only=0",
+            "defineEn": "the main male character in a story, book, movie, etc., often known for his bravery and other great qualities",
+            "defineVi": "nhân vật nam chính trong truyện, sách, phim, v.v., thường được biết đến với lòng dũng cảm và những phẩm chất tuyệt vời khác",
+            "hasImg": true
+        },
+        {
+            "id": "9990dfe6-aaa3-4ab0-8532-19475bd34cb8",
+            "word": "heroine",
+            "phonetic": "hɛɹoʊɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These headstrong heroines provide an entertaining anchor for their tumultuous romantic narratives.",
+                "Her dry wit and cheeky playfulness informs her heroines, whose conversational tone welcomes readers with a conspiratorial wink.",
+                "The heroes and heroines in these Baba Yaga tales carryover from the folklore because of problem solving, hard work, and courage they exhibit.",
+                "The character’s androgynous-like design would be the inspiration for other heroines as the leads in popular shojo series like Rose of Versailles and Revolutionary Girl Utena. ",
+                "You get so much more use out of Ally, a real deaf heroine, protagonist, et cetera, et cetera."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyb2luZQ&hash=95fb092d271347a23c7c34fbc3c12d66b8b6448f&lang=en&cache-only=0",
+            "defineEn": "the main female character in a story, book, film, etc., typically known for great qualities",
+            "defineVi": "nhân vật nữ chính trong truyện, sách, phim, v.v., thường được biết đến với những phẩm chất tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "d872b9e9-bfff-42dc-ab4d-24a3cc114316",
+            "word": "love interest",
+            "phonetic": "lʌv ɪntɹɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Want to be the hero, instead of the love interest, the scrappy sidekick, or the villain?",
+                "So a super-mini male has to sniff out his love interest by tracking a species-specific pheromone that she emits.",
+                "He’s particularly cruel to Ophelia, his doomed love interest who is brought to madness by the prince’s erratic behavior.",
+                "Maybe we could fit in some kind of beautiful but quiet and demure love interest for Grant.",
+                "Well, you guys, I mean she plays your love interest, June Carter Cash in this film."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG92ZSBpbnRlcmVzdA&hash=b1b0657bc44a08ccaa975fe570de62eadbada460&lang=en&cache-only=0",
+            "defineEn": "a person who is romantically or emotionally involved with another person, often a central character in a story or narrative",
+            "defineVi": "một người có quan hệ tình cảm hoặc lãng mạn với người khác, thường là nhân vật trung tâm trong một câu chuyện hoặc câu chuyện kể"
+        },
+        {
+            "id": "00562882-55b4-44c1-bfa3-e82361526a5c",
+            "word": "soliloquy",
+            "phonetic": "səlɪləkwi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'm writing a, I'm writing a little soliloquy here.",
+                "Before the final battle, Macbeth receives the news that his wife has died and recites a soliloquy saying that at this point life means nothing.",
+                "Ophelia is watching Hamlet, too, but Hamlet isn’t watching her, because he’s too busy staring at Claudius, trying to figure out if he really did murder his father and of course Hamlet also spends a lot of time watching himself and then reciting anguished soliloquies about it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29saWxvcXV5&hash=6a244107c80bd83798277ddc34fd6d8bfee4f118&lang=en&cache-only=0",
+            "defineEn": "a speech that a character in a dramatic play gives in the form of a monologue as a series of inner reflections spoken out loud",
+            "defineVi": "một bài phát biểu mà một nhân vật trong một vở kịch kịch đưa ra dưới hình thức độc thoại như một loạt các phản ánh nội tâm được nói to"
+        },
+        {
+            "id": "9f9754be-610b-4c1b-9ca6-596604b22726",
+            "word": "superhero",
+            "phonetic": "suːpɚhiəɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boy eagerly opened his birthday presents, hoping to find his favorite superhero action figure.",
+                "Think of, like, a superhero with a grappling hook.",
+                "Do you see superhero movies?",
+                "and basically become superheroes.",
+                "The Deaf community has been wanting a Deaf superhero forever."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VwZXJoZXJv&hash=775b81f187629530d5409cbf56db3e4874989ead&lang=en&cache-only=0",
+            "defineEn": "a fictional character with special and strange powers",
+            "defineVi": "một nhân vật hư cấu với sức mạnh đặc biệt và kỳ lạ",
+            "hasImg": true
+        },
+        {
+            "id": "cb4bf624-c3ce-41e6-9282-f75f9ee95607",
+            "word": "character",
+            "phonetic": "kæɹɪktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Its characters are painted in broad brushstrokes.",
+                "Most characters in his movies are somewhat larger than life.",
+                "He brings the character of MacDonald to life with power and precision.",
+                "A person's character can often be deduced from their actions.",
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhcmFjdGVy&hash=9a26580fea1226444c40e9c4502ed9600e5e6a62&lang=en&cache-only=0",
+            "defineEn": "a role or part played by an actor or performer",
+            "defineVi": "một vai trò hoặc một phần đóng bởi một diễn viên hoặc người biểu diễn",
+            "hasImg": true
+        },
+        {
+            "id": "dfe119da-39d9-47d9-9d63-50828e33e4e3",
+            "word": "actor's assistant",
+            "phonetic": "æktɚ bækslæʃ ɛs ɐsɪstənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN0b3IncyBhc3Npc3RhbnQ&hash=9b72778e96459e17a8ed7533daf6040ad91a37e0&lang=en&cache-only=0",
+            "defineEn": "a wardrobe assistant for an actor",
+            "defineVi": "một phụ tá tủ quần áo cho một diễn viên"
+        },
+        {
+            "id": "2e48479a-aca3-414c-b2d5-bc3205c7966c",
+            "word": "actor-manager",
+            "phonetic": "æktɚmænɪdʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN0b3ItbWFuYWdlcg&hash=9170d78c926f564289a36cf66aa720a9fbb7bfe6&lang=en&cache-only=0",
+            "defineEn": "someone who manages a theater company and also acts in their plays",
+            "defineVi": "một người quản lý một công ty nhà hát và cũng diễn xuất trong các vở kịch của họ"
+        },
+        {
+            "id": "1135af27-0336-4f24-b5fa-864aec0bc716",
+            "word": "cast",
+            "phonetic": "kæst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The afternoon sun casts a warm glow on the buildings and trees.",
+                "Imprisonment of student casts a shadow on Human Rights Council candidacy.",
+                "Maths error casts doubts on Greater Cambridge Partnership's road.",
+                "The full moon cast a soft glow on the landscape.",
+                "She casted aspersions on the integrity of her boss."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzdA&hash=b74c709b2681f01bcb724a11760ade98ea0add73&lang=en&cache-only=0",
+            "defineEn": "all the actors and actresses in a movie, play, etc.",
+            "defineVi": "tất cả các nam nữ diễn viên trong một bộ phim, vở kịch, v.v."
+        },
+        {
+            "id": "91c07b16-917e-4f24-b8c6-6ea03de4a021",
+            "word": "matinee idol",
+            "phonetic": "mætəneɪ aɪdəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWF0aW5lZSBpZG9s&hash=12891e6988e05a3b2b239b370444363830ef8151&lang=en&cache-only=0",
+            "defineEn": "a good-looking actor who is admired by women",
+            "defineVi": "một diễn viên đẹp trai được phụ nữ ngưỡng mộ"
+        },
+        {
+            "id": "1c366ad3-8f85-443b-a714-1a3716a86ed5",
+            "word": "movie star",
+            "phonetic": "muːvi stɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Those movie stars live pretty high off the hog.",
+                "He rubbed elbows with his movie star clients and appeared on numerous TV talk shows.",
+                "She put her singing career on the back burner to pursue her dream of being a movie star.",
+                "Are you a movie star?",
+                "hanging out with movie stars like Ingrid Bergman and Gary Cooper!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW92aWUgc3Rhcg&hash=ab75641b840581bddf785895f86d6c5a14f889a9&lang=en&cache-only=0",
+            "defineEn": "a famous actor or actress who plays the leading role in a movie",
+            "defineVi": "một diễn viên hay nữ diễn viên nổi tiếng đóng vai chính trong một bộ phim"
+        },
+        {
+            "id": "a5fb2fe3-9a58-4726-a7e9-ef3f6c02778a",
+            "word": "player",
+            "phonetic": "pleɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our players kept the pedal to the metal all season long.",
+                "Three players got their marching orders last week.",
+                "The baseball team has nine players on the field at a time.",
+                "The squash player killed the ball with a nick.",
+                "The rookie player made his bow on the field during the championship game."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxheWVy&hash=e1ac9ec5062535a1c8c2d6ffca82978dc82d905f&lang=en&cache-only=0",
+            "defineEn": "an actor specially one who performs a role on the stage",
+            "defineVi": "một diễn viên đặc biệt là người thực hiện một vai trò trên sân khấu",
+            "hasImg": true
+        },
+        {
+            "id": "6eb5d8b0-d41c-4807-9d53-09d9e5917333",
+            "word": "prompter",
+            "phonetic": "pɹɑːmptɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "(both laughing) Where is the prompter?",
+                "You know how I knew, a little prompter told me (Ron Funches laughs)",
+                "And you recall, that was one of the times where the prompter failed, and she just ad-libbed it.",
+                "She electrified that G.O.P. base like no one I had ever seen, and you recall, that was one of the times where the prompter failed and she just ad-libbed it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvbXB0ZXI&hash=9a99862be0c8801051c6706c6e2cb40f64ebd680&lang=en&cache-only=0",
+            "defineEn": "someone who reminds actors what to say if they forget their lines on the stage",
+            "defineVi": "người nhắc diễn viên phải nói gì nếu họ quên lời thoại trên sân khấu"
+        },
+        {
+            "id": "dfee8634-f686-4fdd-8998-e9dbf379aa93",
+            "word": "stunt man",
+            "phonetic": "stʌnt mæn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And then every time we would shoot a scene with him on fire, we would run it through once with MGK, pull him off the set, bring in a stunt man named Tim."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1bnQgbWFu&hash=9124b1548c12e296db1d4b9f68f11b11ab95f2bf&lang=en&cache-only=0",
+            "defineEn": "a person who doubles for an actor during the production of dangerous scenes in a motion picture",
+            "defineVi": "một người đóng thế cho một diễn viên trong quá trình sản xuất những cảnh nguy hiểm trong một bộ phim chuyển động"
+        },
+        {
+            "id": "81f06649-f894-4a49-8e05-fa351bf2a16d",
+            "word": "stunt woman",
+            "phonetic": "stʌnt wʊmən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3R1bnQgd29tYW4&hash=9f30a822e3fb9e8b404d75e378364b38059259d7&lang=en&cache-only=0",
+            "defineEn": "a woman who doubles for an actor during the production of dangerous scenes in a movie",
+            "defineVi": "một người phụ nữ đóng thế cho nam diễn viên trong quá trình sản xuất những cảnh nguy hiểm trong phim"
+        },
+        {
+            "id": "b66ce585-7119-4d93-861d-4f74bdaa9f4f",
+            "word": "trouper",
+            "phonetic": "tɹuːpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJvdXBlcg&hash=02a216fb7f5622e9963b7779d7cc0356fb054eee&lang=en&cache-only=0",
+            "defineEn": "an actor or performer who is very reliable and has a lot of experience",
+            "defineVi": "một diễn viên hoặc người biểu diễn rất đáng tin cậy và có nhiều kinh nghiệm"
+        },
+        {
+            "id": "89f76c38-7590-41f9-9611-217adf26b0af",
+            "word": "press agent",
+            "phonetic": "pɹɛs eɪdʒənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlc3MgYWdlbnQ&hash=4b66c17f1333e2076ed4f60679585bcbfdb03d53&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of the advertising and publicity of a particular actor, musician, etc., providing information to a newspaper, magazine, etc.",
+            "defineVi": "người chịu trách nhiệm quảng cáo và quảng bá cho một diễn viên, nhạc sĩ cụ thể, v.v., cung cấp thông tin cho một tờ báo, tạp chí, v.v."
+        },
+        {
+            "id": "68af59ad-4675-4369-b045-34b7f7219a24",
+            "word": "monologue",
+            "phonetic": "mɑːnoʊlɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And our monologue will be as edgy and political as ever.",
+                "The guests, whoever, if the monologue didn't go well.",
+                "Funniest monologue I've ever heard.",
+                "His initial question, about 10 seconds, led to a 45-minute monologue by Putin, quite predictably.",
+                "Woolf uses interior monologue to contrast the rich world of the mind against her characters' external existences."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ub2xvZ3Vl&hash=afc4a0dcce7f78422647bea2a8d51db4d89723fb&lang=en&cache-only=0",
+            "defineEn": "a long speech recited by an actor in a movie or play",
+            "defineVi": "một bài phát biểu dài được đọc bởi một diễn viên trong một bộ phim hoặc vở kịch"
+        },
+        {
+            "id": "d7326c3e-ce45-4ea1-b2c5-c1242d925e35",
+            "word": "ad lib",
+            "phonetic": "æd lɪb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ad lib immediately provoked an uproar.",
+                "Very hot show, had some great ad libs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWQgbGli&hash=eaeef8ef45dd83bf4b4f47c31f47e63ad22eb728&lang=en&cache-only=0",
+            "defineEn": "a line that is recited in a speech or performance without prior preparation",
+            "defineVi": "một dòng được đọc trong một bài phát biểu hoặc hiệu suất mà không cần chuẩn bị trước"
+        },
+        {
+            "id": "f5dca740-2ac2-4f9e-ac7c-d94cbce37bba",
+            "word": "characterization",
+            "phonetic": "kæɹɪktɚɹaɪzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Is it with characters, characterizations, a storyline?",
+                "This dialogue gives us a good look at the characterization between these two characters.",
+                "First of all, I don't agree with all of your characterizations of the situation there.",
+                "An action based on, you know, just the characterization of the lover.",
+                "And then in August 1870, the French National Assembly, outraged at these characterizations, declared war."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhcmFjdGVyaXphdGlvbg&hash=ab4d02e45b15af4738b446d90bca8e7a629d0dcf&lang=en&cache-only=0",
+            "defineEn": "the techniques used by actors to develop and portray a character, including their physicality, personality, and backstory",
+            "defineVi": "các kỹ thuật được các diễn viên sử dụng để phát triển và miêu tả một nhân vật, bao gồm cả thể chất, tính cách và cốt truyện của họ"
+        },
+        {
+            "id": "3cf9e38b-4eae-4aa0-b5ca-0f2a10bd64ab",
+            "word": "screen actor",
+            "phonetic": "skɹiːn æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2NyZWVuIGFjdG9y&hash=cd481bda6d629bbc5bdf16564bcc18ecd63f1111&lang=en&cache-only=0",
+            "defineEn": "a performer who appears on television, film, or other visual media",
+            "defineVi": "một nghệ sĩ biểu diễn xuất hiện trên truyền hình, phim hoặc phương tiện trực quan khác"
+        }
+    ]
+}

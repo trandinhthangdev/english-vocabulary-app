@@ -1,0 +1,559 @@
+{
+    "id": "87c9e5e3-e8a1-485b-9e82-3c212bdb4846",
+    "title": "Math Makes Life Add Up!",
+    "originalTitle": "Lesson 64",
+    "words": [
+        {
+            "id": "72d13f45-9ea5-473e-afc7-b17248cbecca",
+            "word": "diameter",
+            "phonetic": "daɪæmɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The urethra’s diameter also affects flow rate.",
+                "It has a diameter of about 78 billion miles.",
+                "And the diameter here is 150 million light years.",
+                "It covers a region about 14.6 million miles in diameter.",
+                "Making some assumptions about its shape and position, scientists peg its diameter at around 1.3 kilometers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhbWV0ZXI&hash=871158d6c5646c33dfebe5fff19ed08e08ee60b3&lang=en&cache-only=0",
+            "defineEn": "a straight line from one side of a round object, particularly a circle, passing through the center and joining the other side",
+            "defineVi": "một đường thẳng từ một mặt của vật thể tròn, đặc biệt là hình tròn, đi qua tâm và nối với mặt kia",
+            "hasImg": true
+        },
+        {
+            "id": "6891c6b8-2cdd-4dba-96dc-86de87de4668",
+            "word": "radius",
+            "phonetic": "ɹeɪdɪəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So these circles have radius of length a.",
+                "So its radius is 1.",
+                "The unit circle has a radius of 1.",
+                "That gives us the radius.",
+                "Well, what's the radius?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFkaXVz&hash=afb061461aec38b3b6e2b1840f91f846d4b4060d&lang=en&cache-only=0",
+            "defineEn": "a straight line drawn from the center of a circle to any point on its outer boundary; the length that this line has",
+            "defineVi": "một đường thẳng được vẽ từ tâm của một vòng tròn đến bất kỳ điểm nào trên ranh giới bên ngoài của nó; chiều dài mà dòng này có",
+            "hasImg": true
+        },
+        {
+            "id": "4af174c9-f89f-4393-9900-2ca0ddf47e02",
+            "word": "ratio",
+            "phonetic": "ɹeɪʃɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This ratio looks a lot better this time.",
+                "Now we name the ratios.",
+                "Other countries show similar high ratios: 1 in 160 in Australia, 1 in 250 in India, and 1 in 475 in Japan, for example. ",
+                "Well, different engines have different compression ratios.",
+                "The golden ratio shows up a ton in this painting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmF0aW8&hash=e6a7f8d99ef8e996a7942051a3882c694370e4d7&lang=en&cache-only=0",
+            "defineEn": "the relation between two amounts indicating how much larger one value is than the other",
+            "defineVi": "mối quan hệ giữa hai số lượng cho biết giá trị này lớn hơn bao nhiêu so với giá trị kia"
+        },
+        {
+            "id": "29d54f85-ded0-4e38-b684-f50a070e0a52",
+            "word": "decimal",
+            "phonetic": "dɛsɪməl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Decimal point included.",
+                "The decimal point is right over here.",
+                "We have our decimal point.",
+                "We could put some decimals here.",
+                "And then I have three decimal places."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVjaW1hbA&hash=a1c1e701502aae4e72cb34d1946d8fb99a765864&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a number less than one, called a fraction, that is represented as a period followed by the number of tenths, hundredths, etc.",
+            "defineVi": "(toán học) một số nhỏ hơn một, được gọi là phân số, được biểu diễn dưới dạng dấu chấm theo sau là số phần mười, phần trăm, v.v."
+        },
+        {
+            "id": "a1794234-14d9-4a6b-a2f3-26c808ff4038",
+            "word": "equation",
+            "phonetic": "ᵻkweɪʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the student opened his textbook to a difficult math problem, he couldn't help but make a face at the challenging equations.",
+                "I feel like I've been beating my head against the wall trying to understand this math equation.",
+                "So this equation makes sense.",
+                "This equation is essential to engineering.",
+                "This equation is important."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXF1YXRpb24&hash=6c7618cbe8740d3d3aa641c4457e7365a8997c50&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a statement indicating the equality between two values",
+            "defineVi": "(toán học) phát biểu biểu thị sự bằng nhau giữa hai giá trị"
+        },
+        {
+            "id": "2098dcd4-5b66-47ba-a20d-597318f06436",
+            "word": "subtraction",
+            "phonetic": "sʌbtɹækʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Subtraction or minus is the opposite of addition.",
+                "Subtraction is you are taking away.",
+                "So what's subtraction now?",
+                "And then finally, you do addition and subtraction.",
+                "In subtraction you're taking away."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VidHJhY3Rpb24&hash=f89e8f7716047d207bd694b6122a2bb5f9267b1c&lang=en&cache-only=0",
+            "defineEn": "the process or act of taking away one number from another",
+            "defineVi": "quá trình hoặc hành động lấy đi một số từ một số khác",
+            "hasImg": true
+        },
+        {
+            "id": "7f2186c0-e146-4c93-ac7d-3431547eb87e",
+            "word": "formula",
+            "phonetic": "fɔːɹmjʊlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Formula One is the pinnacle of motorsport.",
+                "You'll be following the same tried-and-true formula as other successful businesses.",
+                "As the baby grew older, we transitioned from liquid formula to a powdered formula.",
+                "As the baby grew older, we transitioned from liquid formula to a powdered formula.",
+                "The professor delivered a lecture on abstract mathematics, exploring complex theories and formulas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9ybXVsYQ&hash=f39ba15cb3a95c86d178e289ca6866c9bb57cf6a&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a rule or law represented in symbols, letters, or numbers",
+            "defineVi": "(toán học) một quy tắc hoặc luật được biểu thị bằng ký hiệu, chữ cái hoặc số"
+        },
+        {
+            "id": "1979ebe1-3a22-4654-ba05-4e5005597ca5",
+            "word": "function",
+            "phonetic": "fʌŋkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Art serves an important function in our society.",
+                "The repairman fixed the faulty wiring, and now the electrical system in the house was functioning as right as rain.",
+                "I can't even function in the morning until I've had my first cup of joe.",
+                "The gentlemen's agreement was never intended to apply to executive functions.",
+                "Furthermore, a well-integrated system bridges the divide among multiple, diverse functions within an organization."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVuY3Rpb24&hash=535ac49960f290defdf6358b30fa2207788b0568&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a quantity whose value changes according to another quantity's varying value",
+            "defineVi": "(toán học) đại lượng có giá trị thay đổi theo giá trị thay đổi của đại lượng khác"
+        },
+        {
+            "id": "b691886c-5fff-4b13-b762-19d4cb93927c",
+            "word": "factor",
+            "phonetic": "fæktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The make-or-break factor in this delicate post-course period is the attitude of the person's immediate superior.",
+                "A number of factors decide whether a movie will be successful or not.",
+                "This is the main factor driving investment in the area.",
+                "The company offers a range of form factors for its products, including desktops, laptops, and tablets.",
+                "While all forms of speech are valuable and deserve respect, some varieties are associated with more power and prestige - a language is a dialect with an army and navy, so be aware of the political factors that influence our perceptions of language."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFjdG9y&hash=d5f3821ab5268615f747589a1996b3fa4623c4f4&lang=en&cache-only=0",
+            "defineEn": "(mathematics) one of the numbers that another number can be divided by",
+            "defineVi": "(toán học) một trong các số mà một số khác có thể chia hết cho"
+        },
+        {
+            "id": "6962e2d3-9a25-4547-b3f5-a42e7b298bfa",
+            "word": "dividend",
+            "phonetic": "dɪvɪdɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our efforts are finally paying dividends.",
+                "Profit and dividend growth looks like being above average for the foreseeable future.",
+                "Blue chip refers to firms with long track records for turning profits and paying dividends.",
+                "The time he spent learning English paid dividends when he started looking for a job.",
+                "And finally, some investors just prefer dividends over buybacks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGl2aWRlbmQ&hash=566f07d35fbd256306878d1d7fc6d7dcd07dd230&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the number to be divided in a division problem",
+            "defineVi": "(toán học) số bị chia trong phép chia"
+        },
+        {
+            "id": "1d0808e7-f4db-4965-9769-149b76a621d4",
+            "word": "divisor",
+            "phonetic": "dᵻvaɪzɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Or you can think of it as what is their greatest common divisor?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGl2aXNvcg&hash=30e0673388c540911433de0c84ab98e67a851c66&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the number that divides another number in a division problem",
+            "defineVi": "(toán học) số chia một số khác trong phép chia"
+        },
+        {
+            "id": "3f71c8ed-2608-4056-bfa9-af2068106384",
+            "word": "mathematical",
+            "phonetic": "mæθɪmæɾɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The grand unified theory is compact and elegant in mathematical terms.",
+                "And mathematical truths do, too.",
+                "Mathematical string theories suggest descriptions of this unification, in addition to a fundamental structure for sub-atomic quarks and electrons.",
+                "Quantum mechanics and string theory introduce even more mathematical structures, with nerdy names like Hilbert space, linear operators and Calabi-Yau manifolds. ",
+                "General relativity is a mathematical theory."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF0aGVtYXRpY2Fs&hash=87d753c368f5a1b1bcd4a7372b1a4dd383814bc3&lang=en&cache-only=0",
+            "defineEn": "related to or used in mathematics",
+            "defineVi": "liên quan đến hoặc được sử dụng trong toán học"
+        },
+        {
+            "id": "2447122b-5a6d-41f5-a607-82191e9e68ae",
+            "word": "minimal",
+            "phonetic": "mɪnɪməl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "As a seasoned project manager, he knew that the eye of the master will do more work than both his hands, and his careful oversight led to a successful project completion with minimal errors.",
+                "As a master tailor, he knew that the eye of the master will do more work than both his hands and could create a perfectly fitted garment with minimal waste of fabric.",
+                "When my friend got excited about an investment opportunity that promised astronomical returns with minimal risk, I cautioned her that if something sounds too good to be true, it probably is and urged her to do more research before investing any money.",
+                "The cost is minimal.",
+                "Most insect bites cause only minimal discomfort, if any at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluaW1hbA&hash=c62ca61f915694f845056514c7b28463aab5359e&lang=en&cache-only=0",
+            "defineEn": "very small in amount or degree, particularly the smallest possible",
+            "defineVi": "rất nhỏ về số lượng hoặc mức độ, đặc biệt là nhỏ nhất có thể",
+            "hasImg": true
+        },
+        {
+            "id": "5f01ea9c-6592-434b-9146-bde1251d42c5",
+            "word": "numerical",
+            "phonetic": "nuːmɛɹɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "according to 2001 Census Report, in a population of 365 million is like drop in the bucket and in numerical terms it is a total failure.",
+                "The mathematician Pythagoras and his school of followers found numerical patterns in shapes, music, and the stars.",
+                "In scientific terms, this is called numerical competency.",
+                "When I'm below the numerical limit.",
+                "Numerical methods for approximating and giving us a sense of what the solution to a differential equation might look like."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVtZXJpY2Fs&hash=97e2fe4e1590fd42c2d7e3283b71f0a599810086&lang=en&cache-only=0",
+            "defineEn": "represented in numbers; related to numbers",
+            "defineVi": "được biểu diễn bằng số; liên quan đến số"
+        },
+        {
+            "id": "d5be660c-cbba-4cb2-9f65-64c49cd7b3a8",
+            "word": "countless",
+            "phonetic": "kaʊntləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He spent countless hours practicing his guitar and composing his own songs.",
+                "The sky was so clear that I could see countless stars.",
+                "When the news broke about the celebrity scandal, the paparazzi had a field day - they swarmed the scene and took countless photos.",
+                "The music producer believed that cream rises to the top, and spent countless hours searching for the best up-and-coming talent to sign to his record label.",
+                "After signing countless petitions, finally realized that the most effective way she could make a difference was by voting with her dollars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y291bnRsZXNz&hash=22e7b7855a7748fd54a9e6c080248bf4cd678a2d&lang=en&cache-only=0",
+            "defineEn": "so great that is beyond number",
+            "defineVi": "tuyệt vời đến mức vượt quá số lượng"
+        },
+        {
+            "id": "68ce9aea-f884-4ff1-b160-1f23d45b7031",
+            "word": "endless",
+            "phonetic": "ɛndləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You have to go through endless red tape to get a residence permit.",
+                "The sky seemed endless, stretching as far as the eye could see.",
+                "Karen has broad shoulders sure, but she can't endure endless criticism.",
+                "The supply is endless.",
+                "The possibilities are endless!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5kbGVzcw&hash=fe91fb185dc97e621e0f7ba43e1eebeed49de55b&lang=en&cache-only=0",
+            "defineEn": "very great in number, amount, or size and seeming to be without end or limits",
+            "defineVi": "rất lớn về số lượng, số lượng hoặc kích thước và dường như không có giới hạn hoặc vô tận"
+        },
+        {
+            "id": "784872c8-1976-40f2-b02b-e23706c8b56d",
+            "word": "infinite",
+            "phonetic": "ɪnfɪnət ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Michelangelo's sculptures and paintings are a testament to the fact that genius is an infinite capacity for taking pains.",
+                "The shapes are practically infinite.",
+                "After all, space is infinite.",
+                "It has infinite uses!",
+                "The Whole Universe is probably infinite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5maW5pdGU&hash=a613be748e1b3d9e89a41ed1719511dd600e4d4b&lang=en&cache-only=0",
+            "defineEn": "(of a sequence) having the ability to be continued forever; immeasurable in number or quantity",
+            "defineVi": "(của một chuỗi) có khả năng được tiếp tục mãi mãi; vô lượng về số lượng hoặc số lượng"
+        },
+        {
+            "id": "68579ca4-a1ce-42ff-a3ae-253dd1fa3ac4",
+            "word": "ordinal",
+            "phonetic": "ɔːɹdɪnəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3JkaW5hbA&hash=fc253b1798600a8399950088dd6f51dd6a65d165&lang=en&cache-only=0",
+            "defineEn": "a number that indicates the position of something in a sequence, such as third, second, etc.",
+            "defineVi": "một số chỉ ra vị trí của một cái gì đó trong một chuỗi, chẳng hạn như thứ ba, thứ hai, v.v."
+        },
+        {
+            "id": "46e8936e-d804-4be7-b4ad-974997086991",
+            "word": "bracket",
+            "phonetic": "bɹækɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "All right, bracket boy, put those regular Cheetos up there.",
+                "Next stop is Bracket 2.",
+                "We put a bracket.",
+                "Each bracket along the way applies to one specific chunk of your income, not the whole thing.",
+                "And we close our brackets."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhY2tldA&hash=8b585615a20af210fb2e3edf13ca7fbbd21fce68&lang=en&cache-only=0",
+            "defineEn": "each of the two symbols [ ] used to indicate that the enclosed numbers or words should be considered separately",
+            "defineVi": "mỗi ký hiệu trong số hai ký hiệu [ ] được sử dụng để chỉ ra rằng các số hoặc từ kèm theo cần được xem xét riêng",
+            "hasImg": true
+        },
+        {
+            "id": "60460779-dd88-40ce-83f1-c2b475bf2af4",
+            "word": "segment",
+            "phonetic": "sɛɡmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tangor segments are perfect for snacking on-the-go.",
+                "Identifying a specific segment of the market as our target will be more effective than a shotgun approach.",
+                "When our main competitor went out of business, the market segment was there for the taking.",
+                "They divided the grapefruit into equal segments to share among the group.",
+                "He carefully removed the peel of the orange and savored the juicy segments."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VnbWVudA&hash=18a784c03898a701f037e5d1dfc9b9734359525e&lang=en&cache-only=0",
+            "defineEn": "(geometry) a part of a circle that is separated from the rest by a line",
+            "defineVi": "(hình học) một phần của hình tròn được phân cách với phần còn lại bằng một đường thẳng"
+        },
+        {
+            "id": "10d66850-53b0-46d5-a091-3642b18c9635",
+            "word": "solid",
+            "phonetic": "sɑːlɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They drove a tunnel through the solid rock.",
+                "If you're planning to start a business, it's important to have a solid business plan and some experience in the industry.",
+                "The chemical passes from a liquid to a solid state during the cooling process.",
+                "Joe warned him that 'a fool's bolt is soon shot' and advised him to take the time to develop a solid plan before making any drastic decisions.",
+                "The project's success will rely on getting the meat and potatoes right, ensuring the core components are solid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29saWQ&hash=5cf761efea8fd81409ce33e8058d6ab06e663129&lang=en&cache-only=0",
+            "defineEn": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
+            "defineVi": "(hình học) một hình không có hai chiều vì nó có chiều cao, chiều rộng và chiều dài",
+            "hasImg": true
+        },
+        {
+            "id": "346bcb15-8100-419d-94cc-5e112af7e784",
+            "word": "to express",
+            "phonetic": "tʊ ɛkspɹɛs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Every person has the right to express their opinions and beliefs.",
+                "The manager struck a rather insincere note as he expressed his sorrow at the round of layoffs.",
+                "He wanted to express his appreciation for all they had done, but words failed him.",
+                "Women should feel free to speak their minds and express themselves.",
+                "It is important to create a supportive environment where children can express their thoughts and emotions freely."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZXhwcmVzcw&hash=90eb4a5b0101b7d69c64cbcac65214ccc051c0cd&lang=en&cache-only=0",
+            "defineEn": "(mathematics) to indicate something by a formula, symbol, etc.",
+            "defineVi": "(toán học) để biểu thị một cái gì đó bằng một công thức, ký hiệu, v.v."
+        },
+        {
+            "id": "5977b89a-898c-48d3-bd11-248703c0ff66",
+            "word": "to total",
+            "phonetic": "tə toʊɾəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The new loan takes the total debt to $100 000.",
+                "Add 9 to the total.",
+                "A total of $250 million is up for grabs this year.",
+                "The total cost of the project is $10,500, to be precise.",
+                "In one way or another, the representatives will be compared with the total client system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdG90YWw&hash=9febb9ea53ec833824f8e218ac6391f943c9f613&lang=en&cache-only=0",
+            "defineEn": "to add up numbers so that a total is determined",
+            "defineVi": "để cộng các số sao cho tổng được xác định",
+            "hasImg": true
+        },
+        {
+            "id": "b024841d-faaa-4298-ae64-70ebc5d795a1",
+            "word": "metric system",
+            "phonetic": "mɛtɹɪk sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s called the Metric System, or International System."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWV0cmljIHN5c3RlbQ&hash=d6bb3378f56c44c09a2b4f263c0e80680a592f39&lang=en&cache-only=0",
+            "defineEn": "a standard of measurement that is based on the kilogram, the meter, and the liter",
+            "defineVi": "một tiêu chuẩn đo lường dựa trên kilôgam, mét và lít"
+        },
+        {
+            "id": "3b940325-2a69-4679-a8ba-c117c5c25958",
+            "word": "barrel",
+            "phonetic": "bæɹəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This barrel holds 25 liters.",
+                "This barrel holds 25 liters.",
+                "The TV quiz was more fun than a barrel of monkeys!",
+                "Life is not exactly a barrel of laughs at the moment.",
+                "You really are scraping the bottom of the barrel!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFycmVs&hash=1e6d31630be8725d4e4544a5f28907babc6b1d8c&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring oil and beer that equals 42 US gallons or 35 imperial gallons for oil and 36 imperial gallons for beer; the contents of a barrel or the amount it can contain",
+            "defineVi": "một đơn vị đo dầu và bia tương đương với 42 gallon Mỹ hoặc 35 gallon Anh đối với dầu và 36 gallon Anh đối với bia; nội dung của một cái thùng hoặc số lượng nó có thể chứa"
+        },
+        {
+            "id": "ef68bb08-5ba9-499f-91a3-c53b30820f43",
+            "word": "hectare",
+            "phonetic": "hɛktɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The country lost 53.8 million hectares of tree cover from 2001 to 2018.",
+                "Altogether that’s over 12,448 species of beetles in a single hectare of forest! ",
+                "According to the study, 0.9 billion hectares of land worldwide are available to be reforested and one hectare is the equivalent of 2.47 acres.",
+                "According to the study, 0.9 billion hectares of land worldwide are available to be reforested and one hectare is the equivalent of 2.47 acres.",
+                "Take a hectare of Amazonian rainforest: in that little patch of land, there are more different species of plants and animals than there are in all of Europe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVjdGFyZQ&hash=e6e0b948ed66e024e7ab46abc1c03a7663d4c16b&lang=en&cache-only=0",
+            "defineEn": "a land measurement unit that equals 10000 square meters or 2471 acres",
+            "defineVi": "một đơn vị đo lường đất bằng 10000 mét vuông hoặc 2471 mẫu Anh"
+        },
+        {
+            "id": "e2618704-7b96-4d85-b458-6cf156562680",
+            "word": "horsepower",
+            "phonetic": "hɔːɹspaʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- I mean human horsepower.",
+                "On E85, that goes up to 1600 horsepower.",
+                "It will have 495 horsepower.",
+                "Ben Turner: They make 2,380 shaft horsepower, each side.",
+                "The i4 comes with 523 horsepower."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9yc2Vwb3dlcg&hash=44ee4b4596248d2de2392d0051dfac990be01e93&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring an engine's power",
+            "defineVi": "một đơn vị để đo sức mạnh của động cơ"
+        },
+        {
+            "id": "3f01c143-ba9f-4197-9360-2284fdceb899",
+            "word": "mph",
+            "phonetic": "ɛmpiːeɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The music was clear as a bell up to 60 mph.",
+                "So 60 mph would instead be 6.0 * 10^1.",
+                "And today, at the same track, that speed is more like 200 mph, in large part because of the steep banks.",
+                "That car wasn't going 60.0000-out into infinity mph.",
+                "From that distance, a 90 mph fastball is only in the air for about 400 milliseconds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXBo&hash=fd70ba82068f8d9a7c03a11fa3738c6369a650ea&lang=en&cache-only=0",
+            "defineEn": "the distance traveled in miles in relation to the time passed when doing so",
+            "defineVi": "khoảng cách di chuyển trong dặm liên quan đến thời gian trôi qua khi làm như vậy"
+        },
+        {
+            "id": "dc35e4b1-514f-4244-9d91-76e6dfbb5bb7",
+            "word": "pace",
+            "phonetic": "peɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Space movies have set the pace for the development of special effects.",
+                "The modest pace of economic growth has also kept the lid on price growth.",
+                "The old man was driving along the road at a snail's pace.",
+                "She had a slow learning pace but never gave up.",
+                "She struggled to keep up with the fast pace of the marathon runners."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFjZQ&hash=552b0db18a973fa461e36e16dbccc19207c73b3c&lang=en&cache-only=0",
+            "defineEn": "a measure of length that equals the distance traveled between two steps during a walk",
+            "defineVi": "thước đo chiều dài bằng khoảng cách di chuyển giữa hai bước trong khi đi bộ"
+        },
+        {
+            "id": "bbd72c32-240d-4831-bfd1-4684f66b6b21",
+            "word": "pint",
+            "phonetic": "paɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You cannot get a quart into a pint pot, so it's important to set achievable goals.",
+                "The pints travel along the Spiral Hardener, a corkscrew-shaped conveyor belt inside a freezer.",
+                "It can fill up 270 pints a minute.",
+                "At this point, six pints every hour are pulled off the line for quality testing.",
+                "They're not eating a pint of honey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGludA&hash=312fd209f480c4d1218c9409bde8d78ec47b2f28&lang=en&cache-only=0",
+            "defineEn": "a unit to measure liquids and some dry goods, there are 8 pints in a gallon, and it is equal to 0.568 of a liter in the United Kingdom and some other countries, and 0.473 of a liter in the United States",
+            "defineVi": "một đơn vị đo chất lỏng và một số mặt hàng khô, có 8 panh trong một gallon và nó bằng 0,568 lít ở Vương quốc Anh và một số quốc gia khác, và 0,473 lít ở Hoa Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "d73a8338-c3e8-4624-b762-a48263702054",
+            "word": "proof",
+            "phonetic": "pɹuːf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In a criminal trial the standard of proof is beyond the reasonable doubt.",
+                "During a debate, each debater has the burden of proof to support their arguments and convince the audience of their position.",
+                "In a criminal trial, the prosecution bears the burden of proof to demonstrate the guilt of the accused beyond a reasonable doubt.",
+                "When making an argument or presenting a case, it is important to provide strong evidence to support your claims and carry the burden of proof.",
+                "The job candidate's resume looked impressive, but the proof of the pudding is in the eating, and we need to see how well they perform in a real work setting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvb2Y&hash=fd9428ab5aec8f245de385b6215f8250855facaa&lang=en&cache-only=0",
+            "defineEn": "a scale for measuring the strength of alcoholic beverages",
+            "defineVi": "thang đo độ mạnh của đồ uống có cồn"
+        },
+        {
+            "id": "b70d6fa8-ffea-4c67-9eff-9ab6052ec814",
+            "word": "quart",
+            "phonetic": "kwɔːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You cannot get a quart into a pint pot, so it's important to set achievable goals.",
+                "- Speaking of which, I brought a quart of pre-made macaroni salad.",
+                "A handful of them could’ve bought you a quart of milk or a bite to eat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVhcnQ&hash=a1364db7903caba4ccc90284d1c71013cbaa4e3a&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring an amount of liquid that equals 0.95 liter in the US and approximately 1.14 liters in Canada and the UK",
+            "defineVi": "một đơn vị đo lượng chất lỏng tương đương 0,95 lít ở Mỹ và khoảng 1,14 lít ở Canada và Vương quốc Anh"
+        },
+        {
+            "id": "dd76bc83-32a7-4124-bb70-6226a6524f9c",
+            "word": "score",
+            "phonetic": "skoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She knows the score.",
+                "but this time he scored a hattrick",
+                "They scored just shy of 100 goals last year.",
+                "The score is so close that the game really is anyone's call.",
+                "When the student pulled a prank on the principal, the principal evened the score by giving the student a suspension."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NvcmU&hash=16b419b67f161fc8f07e9a549dd3968b06684565&lang=en&cache-only=0",
+            "defineEn": "a set or group of twenty or approximately twenty people or things",
+            "defineVi": "một tập hợp hoặc nhóm hai mươi hoặc khoảng hai mươi người hoặc vật"
+        },
+        {
+            "id": "dd7d7273-916a-4f9b-8b3e-eb928642aecf",
+            "word": "value",
+            "phonetic": "væljuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "The new policy sits well with the company's values.",
+                "Enhance the flavor and nutritional value of your smoothies by adding powdered red algae as a nutrient-rich ingredient.",
+                "A retail group which sets great store by traditional values.",
+                "She needed to prioritize her own needs and values."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFsdWU&hash=09ca43dca802b343bf3515a0183f47dd19888ce6&lang=en&cache-only=0",
+            "defineEn": "(mathematics) an amount that is shown by a sign or letter",
+            "defineVi": "(toán học) số lượng được biểu thị bằng ký hiệu hoặc chữ cái"
+        },
+        {
+            "id": "f19c72c5-94e0-4e47-aefa-0d538a2e98a7",
+            "word": "variable",
+            "phonetic": "vɛɹɪəbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Just the variables look a little bit more complicated.",
+                "Northern France's variable conditions are the first factor for elevated prices.",
+                "It stores a variable, like a number, and also a pointer.",
+                "The time in months is the independent variable.",
+                "a_with_b is just a variable."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFyaWFibGU&hash=c2905b415aa7d43303a2a38ed7731cf01baeafd4&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+            "defineVi": "(toán học) đại lượng có khả năng nhận các giá trị khác nhau trong một phép tính"
+        }
+    ]
+}

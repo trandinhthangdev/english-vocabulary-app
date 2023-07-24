@@ -1,0 +1,428 @@
+{
+    "id": "11d61ab8-9d2b-4b56-8869-3e26ef4694e8",
+    "title": "Fruits and Nuts",
+    "originalTitle": "Lesson 8",
+    "words": [
+        {
+            "id": "22c1e6ad-a1d0-40ee-8bc1-ac0d3fc36fad",
+            "word": "coconut",
+            "phonetic": "koʊkənʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The coconut flakes provided a delightful crunch in the homemade granola.",
+                "I discovered the delightful combination of pawpaw and coconut in a tropical fruit salad.",
+                "Coconut milk adds richness and depth of flavor to homemade coconut shrimp.",
+                "The combination of ripe cherimoya and coconut milk created a heavenly dessert pudding.",
+                "We smelled the strong scent of coconut in the air."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29jb251dA&hash=7e421cf08b77e456bfab51b0b603b36dcdf923c0&lang=en&cache-only=0",
+            "defineEn": "a large nut with a hard shell and edible white flesh inside containing a milky liquid",
+            "defineVi": "một loại hạt lớn có vỏ cứng và thịt trắng ăn được bên trong chứa chất lỏng màu trắng đục",
+            "hasImg": true
+        },
+        {
+            "id": "dc6536ef-5a6b-4521-b491-cf28238e54de",
+            "word": "pumpkin",
+            "phonetic": "pʌmpkɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She blended pumpkin seeds into a creamy pesto sauce.",
+                "The orange pumpkin was perfect for Halloween.",
+                "He carved a spooky face on the pumpkin and placed it on the front porch.",
+                "As he explored the farmers' market, he discovered a bag of spiced pumpkin seeds.",
+                "I carefully removed the seed coat of the pumpkin seed before roasting it for a tasty snack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVtcGtpbg&hash=ce9916695ed518c2c792a6c056a3c5c7c238130a&lang=en&cache-only=0",
+            "defineEn": "a large thick-skinned and round fruit with orange-yellow flesh and edible seeds",
+            "defineVi": "một loại quả tròn, dày, to, có thịt màu vàng cam và hạt ăn được",
+            "hasImg": true
+        },
+        {
+            "id": "6c936b2c-bfb8-4454-9bfe-620e97187cff",
+            "word": "olive",
+            "phonetic": "ɑːlɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The authorities have offered an olive branch to the community.",
+                "The briny taste of olives adds a unique twist to my homemade pizza.",
+                "The village was set among olive groves on a hill.",
+                "The winner extended an olive branch to his opponent by calling him a great player.",
+                "He held out an olive branch to the opposition by releasing 42 political prisoners."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2xpdmU&hash=85b884ab7ee7cd5a35d9a3113b5371a861264fcb&lang=en&cache-only=0",
+            "defineEn": "a very small black or green fruit with a hard seed and a bitter taste, eaten or used to extract oil from",
+            "defineVi": "một loại quả rất nhỏ màu đen hoặc xanh có hạt cứng và vị đắng, được ăn hoặc dùng để chiết xuất dầu từ",
+            "hasImg": true
+        },
+        {
+            "id": "8956ac13-b2ff-4a88-b755-7c4763af6143",
+            "word": "date",
+            "phonetic": "deɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They set a date for a full hearing at the end of February.",
+                "I’ll check the dates.",
+                "The wedding date is set for next month.",
+                "We should mark the date on the calendar for our family gathering.",
+                "Her date failed to show."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGF0ZQ&hash=306047f81731865f50d6a6e0e1a4a95c77e68b53&lang=en&cache-only=0",
+            "defineEn": "a small brown fruit with a sweet taste and a hard seed",
+            "defineVi": "một quả nhỏ màu nâu có vị ngọt và hạt cứng",
+            "hasImg": true
+        },
+        {
+            "id": "32ee8e68-fc71-4ace-a79e-c03f98bcc59f",
+            "word": "fig",
+            "phonetic": "fɪɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fig jam is a popular spread that you can enjoy on bread or toast.",
+                "You can serve camembert with some crusty bread and fig jam for a delightful appetizer.",
+                "Dried figs make a convenient and healthy snack to take on-the-go.",
+                "The skin of a fig can be green, purple, or brown, depending on the variety.",
+                "Then, the females take pollen from the fig flowers and go in search of another fig tree with another syconium."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmln&hash=0bc947d8d6f4d623bc8f6d1abdf0724d653b849e&lang=en&cache-only=0",
+            "defineEn": "a small soft fruit, containing many small seeds, with green or purple skin and is eaten dried or fresh",
+            "defineVi": "một loại trái cây nhỏ mềm, chứa nhiều hạt nhỏ, có vỏ màu xanh lục hoặc tím và được ăn khô hoặc tươi",
+            "hasImg": true
+        },
+        {
+            "id": "88f517db-e5f0-484f-b965-cc55fbdc5eec",
+            "word": "apricot",
+            "phonetic": "eɪpɹɪkɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Try some dried apricots as a healthy snack.",
+                "The baker skillfully removed the stone from the apricot, preparing it for a delicious pie.",
+                "I made apricot muffins for the bake sale, and they were a big hit among the crowd.",
+                "He enjoyed cracking open the pits of the apricot and extracting the tasty kernel inside.",
+                "Fruits like apricots and peaches contain actual cyanide in their seeds to defend against herbivores."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXByaWNvdA&hash=2ffbc6ebec8058db85aa937d6ecd31af5a26455e&lang=en&cache-only=0",
+            "defineEn": "a small yellow or orange fruit with juicy flesh and a large pit",
+            "defineVi": "một quả nhỏ màu vàng hoặc cam với thịt mọng nước và một cái hố lớn",
+            "hasImg": true
+        },
+        {
+            "id": "62e65de8-7a1e-4d41-8556-012381a42a44",
+            "word": "plum",
+            "phonetic": "plʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In Asian cuisine, plum sauce is often used as a dipping sauce for spring rolls or dumplings.",
+                "They shared a glace plum tart after their meal.",
+                "She used ripe plum tomatoes to make a delicious homemade pasta sauce.",
+                "The sweet aroma of a ripe Victoria plum fills the kitchen as I take a bite.",
+                "I like it when my mother blends the plum tomatoes into a smooth tomato soup."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGx1bQ&hash=ff99c3eaf54ceabb1021a980b2bb5973cc136452&lang=en&cache-only=0",
+            "defineEn": "a small round fruit with juicy flesh and purple or yellow skin and a pit",
+            "defineVi": "một quả tròn nhỏ với thịt mọng nước và da màu tím hoặc vàng và một cái hố",
+            "hasImg": true
+        },
+        {
+            "id": "2b64d849-98f8-428a-aff5-acc901026efe",
+            "word": "nectarine",
+            "phonetic": "nɛktɑːɹɹiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Nectarines can be used in various culinary creations, from pies and tarts to jams and chutneys.",
+                "They carefully extracted the stone from the nectarine, savoring the velvety flesh around it.",
+                "The vibrant orange color of a ripe nectarine is so appealing.",
+                "I love biting into a juicy nectarine on a hot summer day.",
+                "But whether your favorite meal includes noodles or nectarines, tortillas or tofu, most types of food have some of what our bodies need to stay healthy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVjdGFyaW5l&hash=7405fbd47af48bc0824919292f8a5b1d59a8745f&lang=en&cache-only=0",
+            "defineEn": "a peach-like fruit with smooth yellow and red skin",
+            "defineVi": "một loại trái cây giống như quả đào với vỏ màu vàng và đỏ mịn",
+            "hasImg": true
+        },
+        {
+            "id": "52ecfa05-3ffe-4b32-a95e-014bda095c1f",
+            "word": "lime",
+            "phonetic": "laɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Limes have a tangier taste compared to lemons.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "Lime juice is commonly added to beverages for a refreshing twist.",
+                "Drizzling key lime syrup over pancakes or waffles gives them a delicious tropical twist.",
+                "You should use lime juice, but in a pinch lemon juice will work."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGltZQ&hash=f0d750e289312b3241fa01b7f2c48504348ac075&lang=en&cache-only=0",
+            "defineEn": "a round green fruit with a sour taste",
+            "defineVi": "một quả tròn màu xanh có vị chua",
+            "hasImg": true
+        },
+        {
+            "id": "48c04568-d7b3-48ea-808c-7b2a8702ac1f",
+            "word": "tangerine",
+            "phonetic": "tændʒɚɹiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I couldn't resist the temptation of buying a bag of seedless tangerines.",
+                "In her tropical garden, there were several citrus trees, including lime, lemon, and tangerine.",
+                "Snacking on tangerines is a healthy and delicious way to satisfy my sweet tooth.",
+                "I enjoy peeling open a tangerine and being greeted by its bright and citrusy scent.",
+                "Does it have too much tangerine on the palette?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZ2VyaW5l&hash=a10123d655c7a368cf078d673e449301d8ab642d&lang=en&cache-only=0",
+            "defineEn": "a small orange fruit with loose skin and juicy flesh",
+            "defineVi": "một quả cam nhỏ với da lỏng lẻo và thịt mọng nước",
+            "hasImg": true
+        },
+        {
+            "id": "34c912c7-c7ea-4d56-897c-88ba305c09c8",
+            "word": "tangelo",
+            "phonetic": "tændʒiːloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For a refreshing and nutritious beverage, I blend tangelo segments with ice and a splash of sparkling water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZ2Vsbw&hash=4d10c1ac4bb6e7e23036eed363cdd803b37c2b44&lang=en&cache-only=0",
+            "defineEn": "an orange-like fruit that is the product of crossing a grapefruit tree with a tangerine tree",
+            "defineVi": "một loại quả giống như quả cam là sản phẩm của việc lai giữa cây bưởi với cây quýt",
+            "hasImg": true
+        },
+        {
+            "id": "b4deaec7-d2d9-439d-ae42-3379d9296223",
+            "word": "mandarin",
+            "phonetic": "mændɚɹɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scent of freshly peeled mandarin fills the room with a delightful citrus aroma.",
+                "I enjoy peeling and eating mandarin oranges for a quick and healthy snack.",
+                "My favourite language is Mandarin.",
+                "His life here includes mandatory Mandarin classes in the evenings.",
+                "Mandarin is a tonal language."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFuZGFyaW4&hash=68d29f30f9b1392852e0a5b069bb867fd16afbd2&lang=en&cache-only=0",
+            "defineEn": "a small orange-like fruit with easily removable skin",
+            "defineVi": "một loại trái cây nhỏ giống như màu cam với vỏ dễ tháo rời",
+            "hasImg": true
+        },
+        {
+            "id": "39d1094d-a6ae-4c55-9081-661a11355487",
+            "word": "cherry",
+            "phonetic": "tʃɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sour cherry compote is the perfect topping for pancakes or waffles.",
+                "Mix cooked conchiglie with cherry tomatoes, cucumbers, and a vinaigrette for a pasta salad.",
+                "Cherry pie is a classic dessert that brings back childhood memories of family gatherings.",
+                "The bakery decorated the cupcakes with a maraschino cherry on each.",
+                "My sister's famous sweet cherry jam is a family favorite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlcnJ5&hash=131e91a46b90fef25c067c6aff57e81b5fcdaf1a&lang=en&cache-only=0",
+            "defineEn": "a small and round fruit with mainly red skin and a pit",
+            "defineVi": "một quả nhỏ và tròn với vỏ chủ yếu là màu đỏ và một cái hố",
+            "hasImg": true
+        },
+        {
+            "id": "904d42f3-5f34-476b-ad46-5fe3a3a254c9",
+            "word": "berry",
+            "phonetic": "bɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef used juniper berries as a key ingredient in her signature marinade for the grilled meat.",
+                "These shrubs produce bright red berries.",
+                "They added cooked wheat berries to their homemade granola bars.",
+                "The crushed staghorn sumac berries added a beautiful garnish to the hummus dip.",
+                "The winterberry's berries remained on the branches long after the leaves had fallen."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVycnk&hash=168cf6703199ca1db7acc65a5916d969d507cdf0&lang=en&cache-only=0",
+            "defineEn": "a juicy small fruit with no pit, which grows on a bush",
+            "defineVi": "một loại trái cây nhỏ ngon ngọt không có hố mọc trên một bụi cây",
+            "hasImg": true
+        },
+        {
+            "id": "b8a43f09-9b22-4a4d-ba13-ea48927568db",
+            "word": "cranberry",
+            "phonetic": "kɹænbɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandma makes the best cranberry sauce for Thanksgiving dinner.",
+                "The cranberry pie at the bakery is absolutely delicious, especially with a scoop of vanilla ice cream.",
+                "You should definitely bake a brie with cranberry sauce.",
+                "Tonight, my favorite restaurant is serving a delightful cranberry bean and smoked ham hock soup.",
+                "She made mini sliders with turkey patties, topped them with cranberry sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JhbmJlcnJ5&hash=5661d7c79962fdfaf46b4c1d793190d00b0f882d&lang=en&cache-only=0",
+            "defineEn": "a very small red berry with a sour taste",
+            "defineVi": "một quả mọng màu đỏ rất nhỏ có vị chua",
+            "hasImg": true
+        },
+        {
+            "id": "7c2bbc9a-7cc0-4429-8bce-60799bf47ba8",
+            "word": "blackberry",
+            "phonetic": "blækbɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The blackberry bushes in our backyard were loaded with plump, juicy fruits.",
+                "My favorite summer dessert is a blackberry cobbler topped with vanilla ice cream.",
+                "I love picking fresh blackberries from the bramble near my house.",
+                "No, I love blackberries.",
+                "I had a BlackBerry!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2tiZXJyeQ&hash=1515aecefb8730d4763cb5284deb980cdacd8ae6&lang=en&cache-only=0",
+            "defineEn": "a tiny soft fruit with a sweet taste and black color that grows on a thorny bush",
+            "defineVi": "một loại trái cây mềm nhỏ có vị ngọt và màu đen mọc trên một bụi gai",
+            "hasImg": true
+        },
+        {
+            "id": "ddb1b4ca-b807-4df2-9ce9-73476db01588",
+            "word": "cantaloupe",
+            "phonetic": "kæntəloʊp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I added diced cantaloupe to my chicken salad for a burst of flavor and refreshing crunch.",
+                "He dipped a spoon into the luscious flesh of the ripe cantaloupe.",
+                "I packed a container of sliced cantaloupe for a healthy snack during my picnic.",
+                "Rips its paper-leather cover during midday recess, before English class, describes their dance peaches plums cantaloupes before my first-world eyes.",
+                "Have you ever looked at a cantaloupe and thought, gee, I wish I could shrink myself down to the size of a flea and go hiking around on that thing?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FudGFsb3VwZQ&hash=0dcf45da6e0d56b31e84d5f36d098228dff10d87&lang=en&cache-only=0",
+            "defineEn": "a round fruit of the melon family that has orange flesh and green skin",
+            "defineVi": "một loại quả tròn thuộc họ dưa có thịt màu cam và vỏ xanh",
+            "hasImg": true
+        },
+        {
+            "id": "608a3e81-09b6-4303-8bc5-f17d62fdda8d",
+            "word": "melon",
+            "phonetic": "mɛlən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In many Asian countries, winter melon is a staple ingredient in traditional dishes.",
+                "My son's favorite summer treat is a juicy slice of melon.",
+                "Yesterday I purchased a ripe Persian melon from the market.",
+                "The gardener inspected the melon, looking for the presence of eyes that indicated ripeness.",
+                "The refreshing taste of the netted melon made it a perfect choice for a summer fruit platter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVsb24&hash=1ac4b232d51769e730a73ccf17bcf3c43002f830&lang=en&cache-only=0",
+            "defineEn": "a large fruit with yellow, green, or orange skin and juicy flesh of the same color that contains many seeds",
+            "defineVi": "một loại trái cây lớn có vỏ màu vàng, xanh lá cây hoặc cam và thịt mọng nước cùng màu chứa nhiều hạt",
+            "hasImg": true
+        },
+        {
+            "id": "479193d1-494a-413a-ae5e-cf3c758b9d22",
+            "word": "papaya",
+            "phonetic": "pɐpaɪə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When I was a child my mother used to surprise me with homemade papaya smoothies on hot summer afternoons.",
+                "Whenever I feel under the weather, a warm cup of papaya leaf tea is my go-to remedy.",
+                "Babaco is like a cross between a papaya and a pineapple, with a smooth and tender texture.",
+                "Without it, the state's papaya industry would have collapsed.",
+                "The solution was a papaya genetically modified to be vaccinated against the virus."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFwYXlh&hash=d047930faa5ed0bd2ec1152f970a9ae3302b074f&lang=en&cache-only=0",
+            "defineEn": "an oval tropical fruit with an orange-yellow flesh containing black seeds",
+            "defineVi": "một loại trái cây nhiệt đới hình bầu dục có thịt màu vàng cam chứa hạt đen",
+            "hasImg": true
+        },
+        {
+            "id": "f7c6a2db-9945-4e91-b24b-f3485a8fd46e",
+            "word": "pomegranate",
+            "phonetic": "pɑːmɪɡɹæneɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He carefully removed the pomegranate seeds, leaving behind the vibrant red pulp.",
+                "They carefully removed the exocarp of the pomegranate, revealing the clusters of vibrant red arils inside.",
+                "They spent the afternoon seeding the pomegranate to extract the ruby-red arils.",
+                "My daughter enjoys homemade popsicles I make with pomegranate juice.",
+                "As I took a sip of the pomegranate smoothie, I felt instantly refreshed and energized."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9tZWdyYW5hdGU&hash=2dfee98559324a83ffced8923b5e1fc3f90c98f6&lang=en&cache-only=0",
+            "defineEn": "a round fruit with a thick red skin, containing many red edible seeds that are of sour or sweet taste",
+            "defineVi": "một loại quả tròn có vỏ dày màu đỏ, chứa nhiều hạt ăn được màu đỏ có vị chua hoặc ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "0f131eae-fb1e-4ad5-a0dc-e4b0959ac8e4",
+            "word": "citrus",
+            "phonetic": "sɪtɹəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "The children sipped on fruity herbal tea with flavors of berries and citrus.",
+                "In her tropical garden, there were several citrus trees, including lime, lemon, and tangerine.",
+                "You can marinate your grilled chicken in a citrus vinaigrette before cooking."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2l0cnVz&hash=ddf72da1c1565275908107af14d0ccdd6651a111&lang=en&cache-only=0",
+            "defineEn": "any fruit with a sour taste, such as oranges, limes, and tangerines",
+            "defineVi": "bất kỳ loại trái cây nào có vị chua, chẳng hạn như cam, chanh và quýt",
+            "hasImg": true
+        },
+        {
+            "id": "e15df395-7d8d-4922-b748-c2649940292c",
+            "word": "chestnut",
+            "phonetic": "tʃɛstnʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Surprisingly I discovered water chestnuts at the local market.",
+                "She attended a cooking class where she learned to prepare a Chinese dish using water chestnut as the main ingredient.",
+                "He gathered a bag full of chestnuts during his nature walk.",
+                "With a crack, the shell of the chestnut split open, revealing the smooth and glossy nut inside.",
+                "He takes away their chestnuts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlc3RudXQ&hash=ee60885cc91ec73d23f0fe4bba60a23f060db5a8&lang=en&cache-only=0",
+            "defineEn": "a round reddish-brown nut that grows on a chestnut tree, often can be eaten",
+            "defineVi": "một loại hạt tròn màu nâu đỏ mọc trên cây dẻ, thường có thể ăn được",
+            "hasImg": true
+        },
+        {
+            "id": "7e979dfb-63fe-46e3-9a9e-2a83b3ccdcfb",
+            "word": "macadamia nut",
+            "phonetic": "mækədeɪmiə nʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend shared a bag of chocolate-covered macadamia nuts with us.",
+                "The bakery offered a variety of cookies, including snickerdoodles and macadamia nut.",
+                "The squirrel climbed the tree with a macadamia nut, ready to enjoy its treasure.",
+                "Macadamia nuts are the most expensive nuts in the world.",
+                "- Macadamia nuts are your nut here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFjYWRhbWlhIG51dA&hash=0edbe6d1b7297c5b50c9eee3181bd0d29ad1ed50&lang=en&cache-only=0",
+            "defineEn": "the sweet edible nut that grows on the macadamia tree",
+            "defineVi": "hạt ăn ngọt mọc trên cây mắc ca",
+            "hasImg": true
+        },
+        {
+            "id": "97b38fc2-5502-4765-af84-0c791547a265",
+            "word": "pistachio",
+            "phonetic": "pɪstæʃɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She carefully crushed the pistachios and sprinkled them over her ice cream.",
+                "We enjoyed a picnic in the park, munching on pistachios while soaking up the warm sun.",
+                "And her non-basic flavors involve nuts like pistachios and almonds, but a lot of her potential customers have nut allergies.",
+                "so I'm allergic to walnuts, pine nuts, almonds, cashews, hazelnuts, macadamia nuts, pistachios - here in Texas - pecans everywhere.",
+                "This started off as a pistachio green."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlzdGFjaGlv&hash=6d14e5400cd0041bcf8c6d0432fc567b4e118c27&lang=en&cache-only=0",
+            "defineEn": "an edible green nut with a hard shell that is sometimes half-open",
+            "defineVi": "một loại hạt màu xanh lá cây có thể ăn được với lớp vỏ cứng đôi khi mở một nửa",
+            "hasImg": true
+        },
+        {
+            "id": "22066a1a-f145-4153-9bb3-6b1dca517b30",
+            "word": "cashew",
+            "phonetic": "kæʃjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandmother's secret recipe included a sprinkle of crushed cashews.",
+                "As a chef, I love using cashews to create creamy vegan sauces that are both delicious and nutritious.",
+                "Here's a cashew.",
+                "They discovered cashews, peanuts, chocolate, vanilla, strawberries, pineapples.",
+                "So cashew nut, cashew fruit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzaGV3&hash=9474d2c7582b3b49656864a9bef8a4a4b418832b&lang=en&cache-only=0",
+            "defineEn": "a small nut that is curved and is high in protein",
+            "defineVi": "một loại hạt nhỏ cong và giàu protein",
+            "hasImg": true
+        }
+    ]
+}

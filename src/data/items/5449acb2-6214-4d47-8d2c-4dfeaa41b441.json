@@ -1,0 +1,597 @@
+{
+    "id": "5449acb2-6214-4d47-8d2c-4dfeaa41b441",
+    "title": "Needlework",
+    "originalTitle": "Needlework",
+    "words": [
+        {
+            "id": "5155113f-5ffd-4734-9a60-77a27b266524",
+            "word": "applique",
+            "phonetic": "ɐpliːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGlxdWU&hash=e99a57d94b9c2f2949341a9a31871e1599bfb46f&lang=en&cache-only=0",
+            "defineEn": "a decorative design made by cutting out and stitching a different piece of fabric or material onto a larger piece to create a pattern or picture",
+            "defineVi": "một thiết kế trang trí được thực hiện bằng cách cắt ra và khâu một mảnh vải hoặc vật liệu khác lên một mảnh lớn hơn để tạo ra một mẫu hoặc hình ảnh",
+            "hasImg": true
+        },
+        {
+            "id": "59b028ed-b412-44f2-8c84-8d76519ae12b",
+            "word": "bargello",
+            "phonetic": "bɑːɹdʒɛloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFyZ2VsbG8&hash=4ac5b25d6cceb0d16033ec82ddd80278d4a53dde&lang=en&cache-only=0",
+            "defineEn": "a needlework technique that involves creating intricate geometric patterns and designs by using straight stitches of various lengths and colors",
+            "defineVi": "một kỹ thuật may vá liên quan đến việc tạo ra các mẫu và thiết kế hình học phức tạp bằng cách sử dụng các mũi khâu thẳng có độ dài và màu sắc khác nhau"
+        },
+        {
+            "id": "60fffe1c-eb04-455c-80d1-52659973fef6",
+            "word": "berlin wool work",
+            "phonetic": "bɜːlɪn wʊl wɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmVybGluIHdvb2wgd29yaw&hash=8c2de6e42a2cf49edbf64af11e1750431bed33b6&lang=en&cache-only=0",
+            "defineEn": "a type of needlework that originated in the mid-19th century in Germany, which involves using wool yarn to create intricate patterns and designs on canvas or other fabrics",
+            "defineVi": "một loại hình may vá có nguồn gốc từ giữa thế kỷ 19 ở Đức, sử dụng sợi len để tạo ra các hoa văn và thiết kế phức tạp trên vải hoặc các loại vải khác"
+        },
+        {
+            "id": "427781b2-8416-4e8b-9a9c-7e7f5bcec276",
+            "word": "blackwork",
+            "phonetic": "blækwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2t3b3Jr&hash=c2ca5ad9ab20fc81ebbbc6e6c6a064e9d347f281&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that uses black thread to create intricate and decorative designs and patterns on white or light-colored fabric",
+            "defineVi": "một loại hình thêu sử dụng chỉ đen để tạo ra các thiết kế và hoa văn phức tạp và trang trí trên vải trắng hoặc sáng màu"
+        },
+        {
+            "id": "74cf97ed-82d1-4a0b-81b1-627c856249b0",
+            "word": "bobbin",
+            "phonetic": "bɑːbɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And it allowed a person, using just the power of their hand, to spin not one bobbin of thread, but up to 120 at once."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9iYmlu&hash=368ae0c359c9d6450ed7a5449c73412d063100a6&lang=en&cache-only=0",
+            "defineEn": "a small cylinder that holds thread, which is used in a sewing machine or a hand-held sewing tool",
+            "defineVi": "một xi lanh nhỏ giữ chỉ, được sử dụng trong máy may hoặc dụng cụ may cầm tay",
+            "hasImg": true
+        },
+        {
+            "id": "162da8ab-a872-40ac-a659-973d8eabbbc4",
+            "word": "broderie perse",
+            "phonetic": "bɹoʊdɚɹi pɜːs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJvZGVyaWUgcGVyc2U&hash=f63fea4ee22b22f465769e606df101d999ff8486&lang=en&cache-only=0",
+            "defineEn": "a type of needlework that involves cutting out floral or other motifs from printed fabrics and appliqueing them onto a base fabric to create a decorative composition",
+            "defineVi": "một kiểu may vá liên quan đến việc cắt hoa hoặc các họa tiết khác từ vải in và đính chúng lên vải nền để tạo thành một tác phẩm trang trí"
+        },
+        {
+            "id": "b721f984-f7b5-413a-bb05-0a0d74210c43",
+            "word": "candlewicking",
+            "phonetic": "kændəlwɪkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FuZGxld2lja2luZw&hash=fbf28c764f2df695cb80990de7ca3b249b4a5b06&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that uses unbleached cotton thread to create a textured and raised design on a cotton or linen fabric",
+            "defineVi": "một loại hình thêu sử dụng sợi bông chưa tẩy trắng để tạo ra một thiết kế có kết cấu và nổi lên trên vải cotton hoặc vải lanh"
+        },
+        {
+            "id": "3dac5c86-f549-4468-86a1-d624d169b61a",
+            "word": "chain stitch",
+            "phonetic": "tʃeɪn stɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhaW4gc3RpdGNo&hash=81a626cbfcd1af6afd47922442544105cbbcd54e&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery stitch that involves creating a series of looped stitches that form a chain-like pattern",
+            "defineVi": "một loại mũi thêu liên quan đến việc tạo ra một loạt các mũi khâu vòng tạo thành một mẫu giống như chuỗi"
+        },
+        {
+            "id": "b9c30a9b-df34-4881-ba03-600b3b3779fd",
+            "word": "reel",
+            "phonetic": "ɹiːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brick and mortar stores were reeling to.",
+                "The company is still reeling from the fallout.",
+                "Meanwhile, residents in Gaza were reeling from ongoing Israeli airstrikes.",
+                "Meanwhile, residents in Gaza were reeling from ongoing Israeli airstrikes.",
+                "Italy's economy has been reeling since the 2008 global economic crisis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVlbA&hash=be77e70f6f4500eaa399adef8fb9f4e5b1f2c64b&lang=en&cache-only=0",
+            "defineEn": "a small cylinder-shaped object made of wood, plastic, or other materials, used for holding and dispensing thread or yarn",
+            "defineVi": "một vật thể hình trụ nhỏ làm bằng gỗ, nhựa hoặc các vật liệu khác, được sử dụng để giữ và phân phối chỉ hoặc sợi"
+        },
+        {
+            "id": "f7f5edc5-7776-4a4d-927a-c769310c68b1",
+            "word": "couching",
+            "phonetic": "kaʊtʃɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y291Y2hpbmc&hash=2a350f71a6cc8503649d4b5d350df5a42f266e1c&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery technique that involves attaching a decorative thread or yarn to a fabric surface by laying it on top of the fabric and securing it in place with small stitches or knots",
+            "defineVi": "một loại kỹ thuật thêu liên quan đến việc gắn chỉ hoặc sợi trang trí lên bề mặt vải bằng cách đặt nó lên trên vải và cố định nó vào vị trí bằng các mũi khâu nhỏ hoặc nút thắt"
+        },
+        {
+            "id": "f1e95551-dd51-4279-8ffd-23e4989fdaf1",
+            "word": "brazilian embroidery",
+            "phonetic": "bɹæzɪliən ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJhemlsaWFuIGVtYnJvaWRlcnk&hash=9d3d8bd9ed97e5c493a0678026b20aeb3b445fdf&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that originated in Brazil and is characterized by the use of high-sheen rayon thread",
+            "defineVi": "một loại hình thêu có nguồn gốc từ Brazil và được đặc trưng bởi việc sử dụng chỉ tơ nhân tạo có độ bóng cao"
+        },
+        {
+            "id": "1be4ea8b-bb19-4449-a18c-ab34c02fa59b",
+            "word": "counted-thread",
+            "phonetic": "kaʊntᵻdθɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y291bnRlZC10aHJlYWQ&hash=23f6e7d3d128ee90666681d80ea7f6b4f83b6690&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that involves creating designs on fabric using counted stitches",
+            "defineVi": "một loại hình thêu liên quan đến việc tạo ra các thiết kế trên vải bằng cách sử dụng các mũi khâu đã đếm"
+        },
+        {
+            "id": "f1aac450-5673-4225-93c2-3decbbe3c5cc",
+            "word": "crewel embroidery",
+            "phonetic": "kɹɛwəl ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Jld2VsIGVtYnJvaWRlcnk&hash=bc1324ac1bf1407a1571fb905ff89a842177c04c&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that uses wool yarn to create a variety of decorative stitches on a fabric",
+            "defineVi": "một loại hình thêu sử dụng sợi len để tạo ra nhiều mũi khâu trang trí trên vải"
+        },
+        {
+            "id": "81a1a63d-54c2-4b78-9d02-449c35be4d57",
+            "word": "crochet",
+            "phonetic": "kɹoʊʃeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I have been as busy as a beaver these last few weeks crocheting up custom orders for some lovely customers.",
+                "Oh, they're crochet.",
+                "My guess is it's a bunch of crochet Blip Blorps and Blorp Blips that live together.",
+                "A friend of his went on Etsy and had someone crochet him his favorite character from Among Us.",
+                "Once the yarn is finished, it can be used to knit or crochet a sweater just like mine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JvY2hldA&hash=ec6c63736da7fb8813a86d7dedf58f343a5d6756&lang=en&cache-only=0",
+            "defineEn": "a piece of art made by hand in which the threads of cotton or wool are connected to make clothing, etc. by using a needle with a hook on its end",
+            "defineVi": "một tác phẩm nghệ thuật được làm bằng tay trong đó các sợi bông hoặc len được kết nối để làm quần áo, v.v. bằng cách sử dụng kim có móc ở đầu",
+            "hasImg": true
+        },
+        {
+            "id": "c84a2363-9040-4e25-8528-5a429f3646fe",
+            "word": "cross-stitch",
+            "phonetic": "kɹɔsstɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I could have that whole thing cross-stitched onto a pillow for you to sleep on!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Jvc3Mtc3RpdGNo&hash=9d75e6e1abf84b51ae32e6611a77834dda9c28d7&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery stitch that involves creating X-shaped stitches on a fabric",
+            "defineVi": "một loại mũi thêu liên quan đến việc tạo các mũi khâu hình chữ X trên vải"
+        },
+        {
+            "id": "bd1631a4-ed0f-4876-b9a0-af1d8050e403",
+            "word": "darning",
+            "phonetic": "dɑːɹnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGFybmluZw&hash=b2688756d115c65e479ed65a4ff4d7d4a14336aa&lang=en&cache-only=0",
+            "defineEn": "a sewing technique that involves repairing holes or tears in fabric by weaving or sewing new threads over the damaged area",
+            "defineVi": "một kỹ thuật may liên quan đến việc sửa chữa các lỗ hoặc vết rách trên vải bằng cách dệt hoặc khâu các sợi chỉ mới trên khu vực bị hư hỏng"
+        },
+        {
+            "id": "de220fb4-c88b-49b9-931a-14ff9c243433",
+            "word": "to embroider",
+            "phonetic": "tʊ ɛmbɹɔɪdɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The blood loss continues and forms stains that mimic the embroidered red flowers that decorate her skirt.",
+                "It had the little owl embroidered emblem on it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZW1icm9pZGVy&hash=dbbe1139f66af6ba275234fd5b8e3dd94450c5ec&lang=en&cache-only=0",
+            "defineEn": "to sew decorative patterns on a piece of cloth with colored threads",
+            "defineVi": "khâu các hình trang trí trên mảnh vải bằng chỉ màu"
+        },
+        {
+            "id": "cd0b190e-098e-4682-a60c-ccaaf125f9b6",
+            "word": "embroidery",
+            "phonetic": "ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She admired the intricate design and embroidery on the toe of her handmade slippers.",
+                "Liles: The Rose Phantom is the biggest embroidery we've done to date.",
+                "If it was our embroidery stalk, then we could work on maybe 500 embroidery stalks over two weeks to a month.",
+                "I think it’s less about embroidery and more about silhouettes.",
+                "It's not just a case of scanning in an image, turning it into embroidery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1icm9pZGVyeQ&hash=67ce4d34db5922f047073ff1a7d9a6f964a6ad7e&lang=en&cache-only=0",
+            "defineEn": "the activity of sewing decorative patterns onto a piece of clothing",
+            "defineVi": "hoạt động may các mẫu trang trí lên một bộ quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "6df84ff0-dd32-42ac-91ba-bcc254e8d042",
+            "word": "eye",
+            "phonetic": "aɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father has brown eyes.",
+                "The woman has eyes like a hawk!",
+                "A vase on a side table caught his eye.",
+                "The actor's intense bedroom eyes added an extra layer of allure to his performance.",
+                "The intense gaze from across the room, eyes on stalks, left no doubt about his attraction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXll&hash=f6db2d27d3e734403e211643841eb4f89c653156&lang=en&cache-only=0",
+            "defineEn": "the small opening or hole at the non-pointed end of a needle through which the thread or yarn is passed",
+            "defineVi": "lỗ nhỏ hoặc lỗ ở đầu không nhọn của kim mà chỉ hoặc sợi được luồn qua"
+        },
+        {
+            "id": "53043bd0-db01-44f4-915c-4ad28b3f1731",
+            "word": "goldwork",
+            "phonetic": "ɡoʊldwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z29sZHdvcms&hash=ec9e578665bd8d90016faa7a9b051b3774a9c5d1&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that uses metallic threads, such as gold or silver, and sometimes beads or sequins, to create intricate and decorative designs and patterns on fabric or other materials",
+            "defineVi": "một loại hình thêu sử dụng các sợi kim loại, chẳng hạn như vàng hoặc bạc, và đôi khi là hạt hoặc sequin, để tạo ra các thiết kế và hoa văn phức tạp và trang trí trên vải hoặc các vật liệu khác"
+        },
+        {
+            "id": "7f08d972-f9ad-4cc6-a178-d8872885678b",
+            "word": "knitting",
+            "phonetic": "nɪɾɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So yes, in quarantine, some people took up baking and knitting and I deep dived into crypto and NFTs.",
+                "It was woven on a type of loom, by threading individual wires through various holes with large needles, kinda like knitting needles.",
+                "So there’s a lot more to knitting than scarf patterns: it can also take you to the moon and back.",
+                "So there’s a lot more to knitting than scarf patterns: it can also take you to the moon and back.",
+                "Adrenaline junkies may jump out of planes to hit their ideal level, whereas others might be satiated by an engaging book, or new knitting pattern."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a25pdHRpbmc&hash=94a524964d79d770e2a57b1de810ebaeaf18f39f&lang=en&cache-only=0",
+            "defineEn": "the skill or act of making a piece of clothing from threads of wool, etc. by using a pair of special long thin needles or a knitting machine",
+            "defineVi": "kỹ năng hoặc hành động tạo ra một bộ quần áo từ những sợi len, v.v. bằng cách sử dụng một cặp kim dài mỏng đặc biệt hoặc máy dệt kim",
+            "hasImg": true
+        },
+        {
+            "id": "d6fdd5a0-8733-43b2-959b-37e7fcfc65cf",
+            "word": "needle",
+            "phonetic": "niːdəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The compass needle always points north.",
+                "I had pins and needles in the tips of my fingers.",
+                "The compass needle points to the north when you're facing south.",
+                "I’ll have to move because I’m starting to get pins and needles in my foot.",
+                "I was on pins and needles until I found out I'd won."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVlZGxl&hash=be06c53de961b7366a598fed58a13745cf8fd6e0&lang=en&cache-only=0",
+            "defineEn": "a slender, solid, often sharp-pointed instrument used for withdrawing blood samples , injecting medicine , etc.",
+            "defineVi": "một dụng cụ mảnh mai, chắc chắn, thường có đầu nhọn dùng để lấy mẫu máu, tiêm thuốc, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "e400b7e0-1231-4e2b-b85d-3f4d5a36157b",
+            "word": "needle lace",
+            "phonetic": "niːdəl leɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVlZGxlIGxhY2U&hash=99b6828e7c9685569057e81f324262cc7ab006f5&lang=en&cache-only=0",
+            "defineEn": "a type of lace-making technique that involves creating lace designs and patterns using a needle and thread",
+            "defineVi": "một loại kỹ thuật làm ren liên quan đến việc tạo ra các thiết kế và hoa văn ren bằng kim và chỉ"
+        },
+        {
+            "id": "831e83b3-1ad9-4898-a8b9-7e329800d3c1",
+            "word": "needlepoint",
+            "phonetic": "niːdəlpɔɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Also they did a whole needlepoint village, like a train village under one of the trees.",
+                "Tim Gunn: Can I ask a question about the needlepoint?",
+                "Barbra Bush loves to needlepoint.",
+                "We have more needlepoint.",
+                "She did her needlepoint when she picked it up, was when the President was the Ambassador to China."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVlZGxlcG9pbnQ&hash=8ff31dd50e4f4bf0f2133f7e6a51220ede108bdb&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that involves creating designs on canvas or other materials using a needle and thread",
+            "defineVi": "một loại hình thêu liên quan đến việc tạo ra các thiết kế trên vải hoặc các vật liệu khác bằng kim và chỉ"
+        },
+        {
+            "id": "f5b32eea-e413-4136-bada-f1f04c26d07f",
+            "word": "patchwork",
+            "phonetic": "pætʃwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have right now a patchwork of state and federal regulation.",
+                "A patchwork of gun laws in the US stem from each state, having different restrictions on certain types of guns and accessories.",
+                "The eviction moratoria are probably best described as a patchwork.",
+                "There's a whole patchwork of ways that can drive down that annual tax bill.",
+                "Because of this patchwork, the House of Representatives passed the Emergency Housing Protections and Relief Act of 2020, which would appropriate 100 billion dollars for direct rental assistance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0Y2h3b3Jr&hash=039681e55bd59742ed798714581b96aca042f00e&lang=en&cache-only=0",
+            "defineEn": "a sewing technique that involves piecing together small pieces of fabric into a larger design or pattern",
+            "defineVi": "một kỹ thuật may liên quan đến việc ghép các mảnh vải nhỏ lại với nhau thành một thiết kế hoặc mẫu lớn hơn"
+        },
+        {
+            "id": "0a19c192-2807-42a0-8995-bf2cfce121ee",
+            "word": "pin",
+            "phonetic": "pɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Dr. Jaffe pinned her ears back.",
+                "Right, pin back your ears, everyone.",
+                "Don't pin your faith on Sarah.",
+                "I had pins and needles in the tips of my fingers.",
+                "I had pinned all my hopes on this chance, but I was wrong."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlu&hash=2b3f573404a2ddb976f92cc479b47a3a7a81e925&lang=en&cache-only=0",
+            "defineEn": "a slender, elongated object typically made of metal, that has a sharp point at one end and a flat or rounded head at the other",
+            "defineVi": "một vật thể thon dài, thường được làm bằng kim loại, có một đầu nhọn và đầu phẳng hoặc tròn ở đầu kia",
+            "hasImg": true
+        },
+        {
+            "id": "8bd3ddc2-2a61-4734-8844-5b7e3961f09d",
+            "word": "pincushion",
+            "phonetic": "pɪŋkʊʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGluY3VzaGlvbg&hash=510e621d66dc28caa68b7c7dfe4f90e944ee6ad3&lang=en&cache-only=0",
+            "defineEn": "a small pad used to hold and store sewing pins and needles during sewing",
+            "defineVi": "một miếng đệm nhỏ được sử dụng để giữ và lưu trữ ghim và kim may trong khi may",
+            "hasImg": true
+        },
+        {
+            "id": "88d06ff2-1bd5-4d07-89c7-080730e30c82",
+            "word": "pinhead",
+            "phonetic": "pɪnhɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sun was an angry little pinhead.",
+                "And these butterflies are doing it with pinhead brains!",
+                "And she’s smaller than a pinhead.",
+                "Up front, you’ll find their mouth and a teeny tiny brain, about the size of a pinhead."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGluaGVhZA&hash=89af20ed149e9c711bc0eab6caa8a9ef7f8cac70&lang=en&cache-only=0",
+            "defineEn": "the top part of a sewing pin that is used to hold the pin in place and to provide a surface for gripping and pushing with the fingers",
+            "defineVi": "phần trên cùng của ghim may được sử dụng để giữ cố định ghim và tạo bề mặt để kẹp và đẩy bằng các ngón tay"
+        },
+        {
+            "id": "943e7cf5-dd3f-40ae-88cc-2a322ae74606",
+            "word": "ribbon embroidery",
+            "phonetic": "ɹɪbən ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmliYm9uIGVtYnJvaWRlcnk&hash=1f7f6a4fc22d7cac394a370ae25910f9338e93b6&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that uses ribbon rather than traditional embroidery thread to create delicate and intricate designs and patterns on fabric or other materials",
+            "defineVi": "một loại hình thêu sử dụng ruy băng thay vì chỉ thêu truyền thống để tạo ra các thiết kế và hoa văn tinh tế và phức tạp trên vải hoặc các vật liệu khác"
+        },
+        {
+            "id": "398a8239-8756-4951-8b96-cee0a42741df",
+            "word": "sampler",
+            "phonetic": "sæmplɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Until now, rovers have mainly been scientific samplers, only able to collect small amounts of rock and soil.",
+                "30% of samplers at the six-flavor display bought jam, while only 3% at the 24-flavor display did."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FtcGxlcg&hash=86d5f0da50cc00447322fa5361970be12aca142a&lang=en&cache-only=0",
+            "defineEn": "a piece of embroidery or needlework that serves as a model or demonstration of different stitches and techniques",
+            "defineVi": "một mảnh thêu hoặc khâu vá dùng làm mẫu hoặc trình diễn các mũi khâu và kỹ thuật khác nhau"
+        },
+        {
+            "id": "9bd4a593-404c-4324-8616-17e4153d230c",
+            "word": "sashiko",
+            "phonetic": "sæʃɪkoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2FzaGlrbw&hash=fd217cf0a227b35d8297e54eaf700b82cdb870d2&lang=en&cache-only=0",
+            "defineEn": "a traditional Japanese embroidery technique that involves using a running stitch to create decorative patterns and designs on fabric",
+            "defineVi": "một kỹ thuật thêu truyền thống của Nhật Bản liên quan đến việc sử dụng một đường khâu chạy để tạo ra các mẫu và thiết kế trang trí trên vải"
+        },
+        {
+            "id": "cdc132a4-3ad7-4422-8b34-0c9ea1beddf7",
+            "word": "sewing",
+            "phonetic": "soʊɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "he's sewing.",
+                "Our sewing needle became a magnet!",
+                "She went on sewing calmly.",
+                "This is a sewing machine.",
+                "And these flimsy sewing kits filled with needles?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V3aW5n&hash=d81e22d96bdd2ffe282bc11f946bb41de304a318&lang=en&cache-only=0",
+            "defineEn": "the skill or practice of using a scissor, needle, thread, etc. to make or repair clothing",
+            "defineVi": "kỹ năng hoặc thực hành sử dụng kéo, kim, chỉ, v.v. để may hoặc sửa quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "f874a1e0-6639-4be4-9546-3263173a2321",
+            "word": "smocking",
+            "phonetic": "smɑːkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c21vY2tpbmc&hash=634012f0fb4897b45b5c58ef3d5c9dce6075eae2&lang=en&cache-only=0",
+            "defineEn": "a decorative embroidery technique that involves gathering fabric in small, even pleats and securing them with stitches to create a textured and elastic effect",
+            "defineVi": "một kỹ thuật thêu trang trí liên quan đến việc tập hợp vải thành các nếp gấp nhỏ, đều và cố định chúng bằng các mũi khâu để tạo hiệu ứng kết cấu và đàn hồi"
+        },
+        {
+            "id": "05c7166c-a065-4141-8407-1ddf628611e3",
+            "word": "spool knitting",
+            "phonetic": "spuːl nɪɾɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3Bvb2wga25pdHRpbmc&hash=6c5a5f8294f828a90a5934aaaabc9709c7158bd0&lang=en&cache-only=0",
+            "defineEn": "a knitting technique that uses a spool with pegs or nails to create a narrow, tubular cord or braid",
+            "defineVi": "một kỹ thuật đan sử dụng một ống chỉ có chốt hoặc đinh để tạo ra một dây hoặc dây bện hẹp, hình ống"
+        },
+        {
+            "id": "b4cbb731-316b-4810-ac7c-0d48bebd8175",
+            "word": "stitch",
+            "phonetic": "stɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her jokes had us all in stitches.",
+                "At the charity event, the wealthy businessman's joke had everyone in stitches.",
+                "I was in stitches at that comedy show.",
+                "He can have you in stitches in a matter of minutes.",
+                "Here's a book that will have you in stitches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RpdGNo&hash=7d435f5e1f5c0a7b58bf48d080761357c50ac2c4&lang=en&cache-only=0",
+            "defineEn": "a loop or series of loops of thread or yarn that are used to sew or embroider fabric or other materials together",
+            "defineVi": "một vòng hoặc một loạt các vòng chỉ hoặc sợi được sử dụng để may hoặc thêu vải hoặc các vật liệu khác lại với nhau"
+        },
+        {
+            "id": "0515e3a1-5dbc-4976-ad66-6b120e846508",
+            "word": "stumpwork",
+            "phonetic": "stʌmpwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3R1bXB3b3Jr&hash=41dd45ed655784dc9a28f9bd4efd65bf16b49c6d&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that involves creating three-dimensional designs and motifs using a variety of materials such as wire, beads, and fabric",
+            "defineVi": "một loại hình thêu liên quan đến việc tạo ra các thiết kế và họa tiết ba chiều bằng nhiều loại vật liệu như dây, hạt và vải"
+        },
+        {
+            "id": "de0291e0-be40-4425-a06c-cafd82ba09dd",
+            "word": "surface embroidery",
+            "phonetic": "sɜːfɪs ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3VyZmFjZSBlbWJyb2lkZXJ5&hash=ab9a6c739c5fc22edee3d247872f96307ce71ee8&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that involves creating decorative patterns and designs on the surface of fabric using a variety of stitches",
+            "defineVi": "một kiểu thêu liên quan đến việc tạo ra các mẫu và thiết kế trang trí trên bề mặt vải bằng nhiều mũi khâu khác nhau"
+        },
+        {
+            "id": "c103e4c5-2247-42cf-97a3-99d727d9123e",
+            "word": "tapestry",
+            "phonetic": "tæpᵻstɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "On the inside, there are tapestries, lots of gold, an office, bedroom, and full gym for the president.",
+                "Science is a tapestry, and when you yank at one thread, the whole thing may need reweaving.",
+                "This pathetic computer printout is about the opposite of an experience of this work, an immersive environment of color, created through the placement of soft bales of fiber and hanging tapestries.",
+                "But he believed in America as this wonderful tapestry coming together around some fundamental principles and as an experiment in progress that we constantly had to perfect. ",
+                "We need to present all the confusing elements in a sense, and tie them together in a tapestry but not reject things that don't fit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFwZXN0cnk&hash=845ca3bbf93ee51e6c56977a3ffc5e8a04d4b85f&lang=en&cache-only=0",
+            "defineEn": "a piece of heavy cloth that is adorned by weaving complicated pictorial designs into it and is mostly used for wall hangings, curtains, etc.",
+            "defineVi": "một mảnh vải nặng được trang trí bằng cách dệt các thiết kế hình ảnh phức tạp vào đó và chủ yếu được sử dụng để treo tường, rèm cửa, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "37df2868-efaa-4a6d-90f9-77f3abab5e5a",
+            "word": "thimble",
+            "phonetic": "θɪmbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There's a thimble.",
+                "And so if we want to find the volume of the entire outer thimble, or truffle, or whatever we want to call it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpbWJsZQ&hash=7ffaa1c780f0cc6d18eeef50a0bbd3be51b3dc9e&lang=en&cache-only=0",
+            "defineEn": "a small protective cap worn on the finger to prevent injury while pushing a needle through fabric when sewing",
+            "defineVi": "một chiếc mũ bảo vệ nhỏ đeo trên ngón tay để tránh bị thương khi đâm kim qua vải khi may",
+            "hasImg": true
+        },
+        {
+            "id": "58b92f10-4429-47f5-b766-97b6e1ae7615",
+            "word": "thread",
+            "phonetic": "θɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The patient's life was hanging by a thread.",
+                "The mayor's political future has been hanging by a thread since the fraud scandal.",
+                "She made T-bone steak kebabs, threading cubes of marinated steak onto skewers with colorful vegetables.",
+                "The detective still had one more loose thread to deal with before he was ready to close the case.",
+                "Last year, her dress was out at the elbows, exhibiting signs of wear with worn patches and loose threads."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhyZWFk&hash=384598131fdbd94d98edfddb52a9155fa3c59091&lang=en&cache-only=0",
+            "defineEn": "a thin strand of material, such as cotton, nylon, or silk, used for sewing or weaving",
+            "defineVi": "một sợi vật liệu mỏng, chẳng hạn như bông, nylon hoặc lụa, được sử dụng để may hoặc dệt",
+            "hasImg": true
+        },
+        {
+            "id": "5ed74bcd-ac53-4f54-86af-fdd7bcabf6a0",
+            "word": "trapunto",
+            "phonetic": "tɹæpʌntoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhcHVudG8&hash=948ef33d0534cb020bc89e6b373fdf7cecc2adcf&lang=en&cache-only=0",
+            "defineEn": "a type of quilting technique that involves creating a raised and padded effect by stuffing areas of a quilt design with batting or other materials",
+            "defineVi": "một loại kỹ thuật chần bông liên quan đến việc tạo ra hiệu ứng nâng lên và đệm bằng cách nhồi các khu vực của thiết kế chăn bông bằng vải bông hoặc các vật liệu khác"
+        },
+        {
+            "id": "c2c69e7e-cdab-451e-a8fa-71bddc1ce338",
+            "word": "whitework embroidery",
+            "phonetic": "waɪtwɜːk ɛmbɹɔɪdɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2hpdGV3b3JrIGVtYnJvaWRlcnk&hash=688a7a434f35254010a0025610bea64cb45bb3e0&lang=en&cache-only=0",
+            "defineEn": "a type of embroidery that involves creating designs and patterns on white or light-colored fabric using white or neutral-colored threads",
+            "defineVi": "một loại hình thêu liên quan đến việc tạo ra các thiết kế và hoa văn trên vải trắng hoặc sáng màu bằng chỉ trắng hoặc màu trung tính"
+        },
+        {
+            "id": "670f9749-765a-479f-90b4-3d40da3f3ff4",
+            "word": "cable stich",
+            "phonetic": "keɪbəl stɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FibGUgc3RpY2g&hash=e3b61795129d80ba99b44c4d93af9892e65c6b86&lang=en&cache-only=0",
+            "defineEn": "a knitting stitch that creates a twisted and interlocking pattern resembling a cable",
+            "defineVi": "một mũi đan tạo ra một mô hình xoắn và lồng vào nhau giống như một sợi cáp"
+        },
+        {
+            "id": "c09b7e2f-d2ad-49ab-a360-b2c7cada63e3",
+            "word": "to cast off",
+            "phonetic": "tə kæst ɔf ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2FzdCBvZmY&hash=35bfaecd0015a6e060782e3adf5467874c5d2a96&lang=en&cache-only=0",
+            "defineEn": "to finish the final row or stitch of a knitted or crocheted item and secure the loops so that the project is completed and ready to be cut off",
+            "defineVi": "để hoàn thành hàng hoặc mũi cuối cùng của một mặt hàng dệt kim hoặc móc và cố định các vòng để dự án hoàn thành và sẵn sàng để cắt"
+        },
+        {
+            "id": "d3cb880a-5596-404f-8dbe-047bee74f478",
+            "word": "to cast on",
+            "phonetic": "tə kæst ɔn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2FzdCBvbg&hash=c999d2149e6d9c465bf73d2c96f58b312915a791&lang=en&cache-only=0",
+            "defineEn": "to create the first row of stitches on a knitting needle, often using a slip knot or a long-tail cast on method",
+            "defineVi": "để tạo hàng mũi đầu tiên trên kim đan, thường sử dụng nút trượt hoặc phương pháp đúc đuôi dài"
+        },
+        {
+            "id": "78938d42-291d-441f-a9af-d74276f5bc29",
+            "word": "knitting needle",
+            "phonetic": "nɪɾɪŋ niːdəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a25pdHRpbmcgbmVlZGxl&hash=6adb2ee53d72fcf436dbe9c5edd78a56f02b9c4d&lang=en&cache-only=0",
+            "defineEn": "a long, thin, pointed tool used in knitting to hold stitches and manipulate yarn",
+            "defineVi": "một công cụ dài, mỏng, nhọn được sử dụng trong đan để giữ các mũi khâu và điều khiển sợi",
+            "hasImg": true
+        },
+        {
+            "id": "36088db1-4030-4f38-a262-3cadf9744b99",
+            "word": "ribbing",
+            "phonetic": "ɹɪbɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmliYmluZw&hash=e35188593ba0494bd7df001f4edc13f9f0516ee6&lang=en&cache-only=0",
+            "defineEn": "a knitting pattern that creates a stretchy and textured fabric by alternating knit and purl stitches in a specific pattern",
+            "defineVi": "một mẫu đan tạo ra vải co giãn và có kết cấu bằng cách đan xen kẽ các mũi đan và kim tuyến theo một mẫu cụ thể"
+        },
+        {
+            "id": "2ea810cd-e3a4-4357-9cdf-412b5877d2b2",
+            "word": "needlecraft",
+            "phonetic": "niːdəlkɹæft ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVlZGxlY3JhZnQ&hash=e0f6bae7412563a3326b7c5179ea912fd0e1f268&lang=en&cache-only=0",
+            "defineEn": "the craft of sewing for decorative purposes",
+            "defineVi": "nghề may cho mục đích trang trí",
+            "hasImg": true
+        }
+    ]
+}

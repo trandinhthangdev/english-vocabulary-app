@@ -1,0 +1,655 @@
+{
+    "id": "06ea20c9-01c5-4ada-aac1-336fbcc50452",
+    "title": "Cinema and Theater",
+    "originalTitle": "Cinema and Theater",
+    "words": [
+        {
+            "id": "8be60379-ae9d-4982-bb95-ffbe0537141a",
+            "word": "ballet",
+            "phonetic": "bæleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sarah's daughter is an accomplished ballet dancer and has won several awards.",
+                "She slipped her toes into the comfortable and cushioned toe box of the ballet flats.",
+                "Agnes de Mille’s dream ballet took the musical to a daring, expressionist place.",
+                "- she took ballet in that same childhood era - Mm-hmm. - of her own childhood.",
+                "Memphis jookin is called urban ballet for a reason."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFsbGV0&hash=7523f8e88d1e0cc96bccedafd73a6ff2b66a0879&lang=en&cache-only=0",
+            "defineEn": "a form of performing art that narrates a story using elaborate dance movements set to music but no words",
+            "defineVi": "một hình thức biểu diễn nghệ thuật thuật lại một câu chuyện bằng cách sử dụng các động tác khiêu vũ phức tạp được đặt theo nhạc nhưng không có lời",
+            "hasImg": true
+        },
+        {
+            "id": "e5815217-1e8b-4b8c-a155-ecfa41a9bae3",
+            "word": "Broadway",
+            "phonetic": "bɹɔːdweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He appeared on Broadway.",
+                "Her last musical ran for six months on Broadway.",
+                "The Broadway musical made it through the Great Depression.",
+                "My daughter and I are still really into Broadway, and musicals.",
+                "That was the dream, Broadway."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QnJvYWR3YXk&hash=86b4388a8374432261482aeea519a77f92392685&lang=en&cache-only=0",
+            "defineEn": "a well-known street in New York City where many theaters are located, which is considered the center of theater industry in the US",
+            "defineVi": "một con đường nổi tiếng ở thành phố New York, nơi có nhiều nhà hát, được coi là trung tâm của ngành công nghiệp sân khấu ở Mỹ"
+        },
+        {
+            "id": "3e5a8131-9d6c-4f75-96af-5e1defb4bed1",
+            "word": "feature film",
+            "phonetic": "fiːtʃɚ fɪlm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The deal adds thousands of MGM's feature films and TV programs to Amazon's streaming service.",
+                "But then, once it gets to the actual movie, the feature film, when I'm in the States in my own home theatre, in my town that I live in, not in my actual apartment.",
+                "Renowned actor Regina King, directing her first feature film, showcases the meaning of that moment that resonates with this moment now.",
+                "And over the more than 150 years since Little Women was originally published, there have been dozens of adaptations, feature films, television adaptations, plays, ballets, operas and at least two animes based on it.",
+                "Harryhausen's final feature film, The Clash of the Titans (1981), finds Perseus, the hero of Greek myth, fighting giant scorpions, outsmarting the deadly, snake-haired Medusa, and bringing down the colossus Kraken."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVhdHVyZSBmaWxt&hash=e12ae0b0467cba3a237c303985d75a798bd5c3db&lang=en&cache-only=0",
+            "defineEn": "a full-length movie that has a story",
+            "defineVi": "một bộ phim dài đầy đủ có một câu chuyện"
+        },
+        {
+            "id": "fafdbf3f-2950-4d4f-b75c-9ffd0c68eb67",
+            "word": "trailer",
+            "phonetic": "tɹeɪlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The movie trailer piqued my interest in the film.",
+                "Ladies and gentlemen, here is the movie trailer.",
+                "For some trailers, you have the captions.",
+                "Here it is, the trailer.",
+                "I had not seen the trailer at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhaWxlcg&hash=59828174b9d7c8a4717350575969b68984498432&lang=en&cache-only=0",
+            "defineEn": "a selection from different parts of a movie, TV series, games, etc. shown before they become available to the public",
+            "defineVi": "lựa chọn từ các phần khác nhau của phim, phim truyền hình, trò chơi, v.v. được trình chiếu trước khi chúng ra mắt công chúng"
+        },
+        {
+            "id": "3297dbe6-0ab4-4252-8822-444c38f14bcb",
+            "word": "sequel",
+            "phonetic": "siːkwəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'm really surprised that the sequel even holds a candle to the original.",
+                "The sequel isn't too bad, but it isn't in the same league with the original.",
+                "And just as with the Final Destination movies, the sequels have pretty much the same plot, just some new actors.",
+                "The sequel is never quite as good.",
+                "This is a sequel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VxdWVs&hash=06e754dc7a86c2d6b6fa63485b91a47f22224c26&lang=en&cache-only=0",
+            "defineEn": "a book, movie, play, etc. that continues and extends the story of an earlier one",
+            "defineVi": "một cuốn sách, bộ phim, vở kịch, v.v. tiếp tục và mở rộng câu chuyện của một cuốn trước đó",
+            "hasImg": true
+        },
+        {
+            "id": "036e0de3-0e9f-4b7a-8770-359e60f7e29b",
+            "word": "blockbuster",
+            "phonetic": "blɑːkbʌstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Reeve shot from zero to hero in the 1978 blockbuster, Superman.",
+                "He seems to have the Midas touch when it comes to blockbusters.",
+                "Recent nostalgia for '80s and '90s brands has renewed interest in Blockbuster.",
+                "Blockbuster's troubles continued through the mid-2000s.",
+                "I stole skittles from Blockbuster."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvY2tidXN0ZXI&hash=0782d696061d96c8a54e6139a76eb96f5a26554d&lang=en&cache-only=0",
+            "defineEn": "a thing that achieves great commercial success, particularly a movie, book, or other product",
+            "defineVi": "một thứ đạt được thành công lớn về mặt thương mại, đặc biệt là một bộ phim, cuốn sách hoặc sản phẩm khác"
+        },
+        {
+            "id": "8a5d01d1-3e34-420e-97e3-798ffc0cc214",
+            "word": "classic",
+            "phonetic": "klæsɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A classic hot chocolate recipe calls for scalded milk to be mixed with cocoa powder and sugar.",
+                "My friend enjoyed a classic thousand island dressing on her burger.",
+                "He savored a classic hamburger with cheese, lettuce, and tomato.",
+                "At a family reunion picnic, the buffet table showcased a classic beef plate roast.",
+                "The colorful bowtie pasta added a fun twist to the classic mac and cheese dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhc3NpYw&hash=d7ddca8ab7f20f5274b046601b38e54508288cf2&lang=en&cache-only=0",
+            "defineEn": "a long-standing and popular style of filmmaking or writing that is of high quality",
+            "defineVi": "một phong cách làm phim hoặc viết lâu đời và phổ biến có chất lượng cao"
+        },
+        {
+            "id": "1d171b92-9e2b-4730-87d7-c33f1fe37c23",
+            "word": "to stage",
+            "phonetic": "tə steɪdʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We ran a cable from the lights to the stage.",
+                "At this stage in the campaign, the Democratic candidate is way ahead of the pack.",
+                "That poor kid is shaking in his shoes up there on stage.",
+                "At that stage of the game it was too late for diplomacy.",
+                "The singer always brings the house down with her powerful voice and stage presence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RhZ2U&hash=cc108389334adb56e73f7775c3fd553763ae38fe&lang=en&cache-only=0",
+            "defineEn": "to present a play or other event to an audience",
+            "defineVi": "để trình bày một vở kịch hoặc sự kiện khác cho khán giả"
+        },
+        {
+            "id": "9ff79d24-6d21-46f1-a4e8-7ee6c9ab03e2",
+            "word": "to cast",
+            "phonetic": "tə kæst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The afternoon sun casts a warm glow on the buildings and trees.",
+                "Imprisonment of student casts a shadow on Human Rights Council candidacy.",
+                "Maths error casts doubts on Greater Cambridge Partnership's road.",
+                "The full moon cast a soft glow on the landscape.",
+                "She casted aspersions on the integrity of her boss."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2FzdA&hash=c5cdd8b055f9453234db59adf14baa090188c1df&lang=en&cache-only=0",
+            "defineEn": "to choose a performer to play a role in a movie, opera, play, etc.",
+            "defineVi": "để chọn một người biểu diễn để đóng một vai trong một bộ phim, vở opera, vở kịch, v.v."
+        },
+        {
+            "id": "c8f2009b-da30-42bb-87a4-20f5f7f40d81",
+            "word": "to adapt",
+            "phonetic": "tʊ ɐdæpt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The buses have been adapted to take biofuel.",
+                "So I've tried to adapt, letting the comments roll off my back.",
+                "The team quickly developed their sea legs in the fast-paced work environment and adapted to the company's expectations.",
+                "But with a lot of hard work and a willingness to adapt, they were able to get the business back on the rails and turn a profit once again.",
+                "As a marketer, he knew that a jack of all trades is a master of none, but oftentimes better than a master of one, as possessing a diverse skill set allowed him to adapt to changing industry trends and develop innovative marketing strategies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYWRhcHQ&hash=b1b3ee2ba0296b5f37c85a314edec9007b13d3e3&lang=en&cache-only=0",
+            "defineEn": "to change a book or play in a way that can be made into a movie, TV series, etc.",
+            "defineVi": "để thay đổi một cuốn sách hoặc vở kịch theo cách có thể dựng thành phim, phim truyền hình, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "f932aeb0-d08f-42b6-85ae-8261757fc13e",
+            "word": "adaptation",
+            "phonetic": "ædæpteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Margulies makes both ends meet by making adaptations for the movie business.",
+                "Adaptation is already happening.",
+                "Adaptation is already happening.",
+                "Other burrowing animals, like anteaters, have similar adaptations.",
+                "Other creatures' eyes display different adaptations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWRhcHRhdGlvbg&hash=9f44620c81409c31cd6d91495837d4b9946eae19&lang=en&cache-only=0",
+            "defineEn": "a movie, TV program, etc. that is based on a book or play",
+            "defineVi": "một bộ phim, chương trình truyền hình, vv dựa trên một cuốn sách hoặc vở kịch",
+            "hasImg": true
+        },
+        {
+            "id": "a4610ccf-9fb5-43a4-a293-769bf6917c8e",
+            "word": "to cut",
+            "phonetic": "tə kʌt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The line cuts the circle at two points.",
+                "He's cutting his own throat.",
+                "Budget cuts are putting the squeeze on scientific research.",
+                "Cutting Jefferson a break?",
+                "He really cuts the ground from under my feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3V0&hash=5c0a06b7124a306811bf5557a68596a8cb917a5f&lang=en&cache-only=0",
+            "defineEn": "to edit a film and prepare it by removing parts of it",
+            "defineVi": "để chỉnh sửa một bộ phim và chuẩn bị nó bằng cách loại bỏ các phần của nó"
+        },
+        {
+            "id": "38ece20e-cd63-4ea3-b20d-1ee79a7a3976",
+            "word": "to release",
+            "phonetic": "tə ɹᵻliːs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The nuclear power plant released a small amount of radiation into the atmosphere after the incident.",
+                "Its release hasreally raised the ante on the story telling in video games.",
+                "The European Community had even released lists of American unfair trade practices, paying us back in our own coin.",
+                "The singer is in the spotlight for her new album release.",
+                "She squeezed the orange, releasing the refreshing pulp into her glass."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVsZWFzZQ&hash=5d6cb704990b270eaca8ba9fa015cde280df0405&lang=en&cache-only=0",
+            "defineEn": "to make a movie, music, etc. available to the public",
+            "defineVi": "để làm cho một bộ phim, âm nhạc, vv có sẵn cho công chúng"
+        },
+        {
+            "id": "586a8f0c-4c56-4866-b136-19e4f2473040",
+            "word": "box office",
+            "phonetic": "bɑːks ɑːfɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The movie broke box office records in the US.",
+                "The movie's box office performance has propelled it to the top of the charts in Hollywood.",
+                "Despite the critics' harsh reviews, the movie's box office success had the producers laughing all the way to the bank.",
+                "And it was kind of a box office disaster in Bollywood.",
+                "People are saying this may very well smash box office records by the end of this weekend."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym94IG9mZmljZQ&hash=a924e5aaf9347541a502a429e11ea386fd01c997&lang=en&cache-only=0",
+            "defineEn": "a small place at a cinema, theater, etc. from which tickets are bought",
+            "defineVi": "một địa điểm nhỏ tại rạp chiếu phim, nhà hát, v.v. nơi mua vé",
+            "hasImg": true
+        },
+        {
+            "id": "a87c7d23-26b1-4045-931e-6889880ca0e0",
+            "word": "to rehearse",
+            "phonetic": "tə ɹᵻhɜːs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Everything had to be exactly right, rehearsed down to a T.",
+                "And then you rehearse that plan",
+                "- We didn't even rehearse that answer.",
+                "So, we rehearse in the back, on the concrete.",
+                "So we rehearsed with these two German girls, went to Japan with them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVoZWFyc2U&hash=79baf71319b7046201c1eedb22c45bea53618fe0&lang=en&cache-only=0",
+            "defineEn": "to practice a play, piece of music, etc. before the public performance",
+            "defineVi": "tập một vở kịch, bản nhạc, v.v. trước khi biểu diễn trước công chúng"
+        },
+        {
+            "id": "b681bc2b-e285-4bab-b89d-05988b4567d2",
+            "word": "to portray",
+            "phonetic": "tə poːɹtɹeɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain.",
+                "The media portrayed the politician in a bad light, focusing only on their past mistakes.",
+                "The article portrayed her as domineering by dropping quotes from her out of context.",
+                "They portray themselves as patriotic nationalists.",
+                "Actors Laura Carmichael and Michelle Dockery portray sisters Edith and Mary Crawley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcG9ydHJheQ&hash=eef13e061e780f78398def0d503636ce5a8e8681&lang=en&cache-only=0",
+            "defineEn": "to play the role of a character in a movie, play, etc.",
+            "defineVi": "đóng vai một nhân vật trong phim, vở kịch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "b9b3ed41-b7c0-490e-a950-089d40eb2d35",
+            "word": "to narrate",
+            "phonetic": "tə nɚɹeɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Link narrates everything Rhett does.",
+                "A couple of European YouTubers narrated it, and uploaded it to their own channels.",
+                "And it entices the reader towards an appendix, narrated by a scholar living long after Winston.",
+                "Our story comes from two students from the University of California-Berkeley's Graduate School of Journalism, Karla Caraballo-Torres and Lorin Eleni Gill, who narrates the report.",
+                "How do you narrate?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbmFycmF0ZQ&hash=ed9c3f4b59e89fcf408936dd224b3b5839bd1524&lang=en&cache-only=0",
+            "defineEn": "to explain the events taking place in a movie, documentary, etc. as part of the program itself",
+            "defineVi": "để giải thích các sự kiện diễn ra trong một bộ phim, tài liệu, vv như là một phần của chính chương trình"
+        },
+        {
+            "id": "3ae3b6d4-f356-47ca-a8d0-73a0a00e992c",
+            "word": "direction",
+            "phonetic": "dᵻɹɛkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The wind has changed direction.",
+                "Finally things are moving in the right direction.",
+                "We followed the map's directions to reach the hiking trail.",
+                "These directions are plain as a pikestaff, so you shouldn't have any questions.",
+                "These directions are as clear as a bell, so you shouldn't have any questions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlyZWN0aW9u&hash=f45a4c9135e107aab6a5a414ba8293258b255574&lang=en&cache-only=0",
+            "defineEn": "the act of supervising the cast and crew and giving them instructions in the production of a motion picture, play, etc.",
+            "defineVi": "hành động giám sát các diễn viên và đoàn làm phim và hướng dẫn họ trong quá trình sản xuất một bộ phim chuyển động, vở kịch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "2b4ae6c6-c6e7-467b-b5ca-fd1200239182",
+            "word": "to cue",
+            "phonetic": "tə kjuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "right on cue the door opened",
+                "And then, on cue, the weather changed.",
+                "We should take our cue from their example.",
+                "The sky, as if on cue, was overcast.",
+                "Now he's as bald as a cue ball, and he rocks the look with confidence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3Vl&hash=d52572e19c062500cc4258dc1f9b0130120f6b83&lang=en&cache-only=0",
+            "defineEn": "to give a hint or signal to an actor or a performer to do or say something on the stage",
+            "defineVi": "đưa ra gợi ý hoặc tín hiệu cho một diễn viên hoặc người biểu diễn làm hoặc nói điều gì đó trên sân khấu"
+        },
+        {
+            "id": "7d3422c2-0385-48cd-a2f5-8195f705979a",
+            "word": "camerawork",
+            "phonetic": "kæmɹəwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FtZXJhd29yaw&hash=d83f5f7574b93b1ec16700e1907ad22bbe4d3f76&lang=en&cache-only=0",
+            "defineEn": "the style in which a movie or photograph is shot",
+            "defineVi": "phong cách quay phim hoặc chụp ảnh"
+        },
+        {
+            "id": "cb498348-3e4f-4781-8460-94e9172263cf",
+            "word": "to dub",
+            "phonetic": "tə dʌb ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "This star is dubbed PDS 70.",
+                "His friends dubbed him the most interesting man in the world.",
+                "They dub it.",
+                "They dub it.",
+                "Oh they dub it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZHVi&hash=36f9246471a039fa442d0b5a96ad4557546c7566&lang=en&cache-only=0",
+            "defineEn": "to change the original language of a movie or TV show into another language",
+            "defineVi": "để thay đổi ngôn ngữ gốc của một bộ phim hoặc chương trình truyền hình sang một ngôn ngữ khác"
+        },
+        {
+            "id": "3865f939-5cfe-4911-855b-8f60a877c268",
+            "word": "dress rehearsal",
+            "phonetic": "dɹɛs ɹᵻhɜːsəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s a dress rehearsal for Bork. ",
+                "Thankfully, thankfully, they actually do film the dress rehearsal.",
+                "The siege of the Michigan Statehouse was effectively a state-level dress rehearsal for the siege of the U.S. Capitol that Trump incited on January 6."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJlc3MgcmVoZWFyc2Fs&hash=ee6c7a8ef636a503057d9df2cb8ffd7c22833122&lang=en&cache-only=0",
+            "defineEn": "the final practice of a play or live show, in which the same costumes and lights are used as the live performance",
+            "defineVi": "phần thực hành cuối cùng của một vở kịch hoặc chương trình trực tiếp, trong đó trang phục và ánh sáng giống nhau được sử dụng như buổi biểu diễn trực tiếp"
+        },
+        {
+            "id": "7bb6af51-2076-47e7-8d92-415ad097f557",
+            "word": "dramatic",
+            "phonetic": "dɹəmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The twentieth century saw dramatic changes in most areas of life.",
+                "ran the dramatic headline.",
+                "The cloudy sky created a dramatic backdrop for the sunset.",
+                "The show finished with a dramatic cliffhanger, leaving the audience eager for the next episode.",
+                "The results were dramatic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJhbWF0aWM&hash=a5ee58c0edecf5502a28e02990115599f0438aa8&lang=en&cache-only=0",
+            "defineEn": "related to acting, plays, or the theater",
+            "defineVi": "liên quan đến diễn xuất, kịch, hoặc nhà hát",
+            "hasImg": true
+        },
+        {
+            "id": "3203bac8-0fb0-4746-bf16-18bc638b7a36",
+            "word": "animated",
+            "phonetic": "ænɪmeɪɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Animated holiday specials make me feel like I was bitten by a radioactive humbug!",
+                "And it is really funny and very, very animated and I enjoy it very much.",
+                "One of the questions we get asked the most is how we make animated videos.",
+                "Speaking of romance and love, one of the questions we get asked most often is how we make animated videos.",
+                "And it was the first time I've ever seen him so animated."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5pbWF0ZWQ&hash=fdaf81f1babd9a5e25502d806bba5e79c1c130f8&lang=en&cache-only=0",
+            "defineEn": "(of images or drawings in a movie) made to appear as if they are in motion",
+            "defineVi": "(của hình ảnh hoặc hình vẽ trong phim) được tạo ra như thể chúng đang chuyển động",
+            "hasImg": true
+        },
+        {
+            "id": "6dd547bb-7d09-4a6e-8d6c-d3b6e4e37baf",
+            "word": "footage",
+            "phonetic": "fʊɾɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Security camera footage shows that the car was struck by the train after jumping the lights.",
+                "Again, another YouTube channel posted footage.",
+                "Footage from a security camera near one of the military sites shows the missile launch.",
+                "- Surveillance footage clearly shows a female figure.",
+                "So here is an audience member's footage."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9vdGFnZQ&hash=d9f5bd48ce779f7be3acce8aa2c7ce935cf296c3&lang=en&cache-only=0",
+            "defineEn": "the raw material that is filmed by a video or movie camera",
+            "defineVi": "nguyên liệu thô được quay bằng máy quay video hoặc phim"
+        },
+        {
+            "id": "51981060-9317-4e4e-ab42-ac67f6d46dae",
+            "word": "genre",
+            "phonetic": "ʒɑːnɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My husband's favorite genre of music is pop.",
+                "Different genres of music appeal to different people, and for me, classical music really floats my boat.",
+                "While growing up, he had been exposed to various musical genres at his mother's knee, developing a diverse appreciation for music.",
+                "The game strikes a great balance between accessibility for younger players and a rewarding challenge for veterans of the genre.",
+                "The book was pretty dull and didn't really stand out from other similar books in the genre."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2VucmU&hash=a0d13625523bbb41061f418145b3304ad2959a9d&lang=en&cache-only=0",
+            "defineEn": "a style of art, music, literature, film, etc. that has its own special features",
+            "defineVi": "một phong cách nghệ thuật, âm nhạc, văn học, phim, v.v. có những nét đặc biệt riêng",
+            "hasImg": true
+        },
+        {
+            "id": "6f9c5505-3912-4198-94ae-c583964828ee",
+            "word": "scenario",
+            "phonetic": "sənæɹioʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And no matter how many lame delusional scenarios some fans pluck out of the air , they won't change this fact.",
+                "The software engineers had to run the bug to ground by analyzing lines of code and testing various scenarios.",
+                "The politician dismissed the opposition's hypothetical scenarios, reminding him that if ifs and ands were pots and pans, they would have already solved the country's problems, and that they needed to focus on practical solutions instead of empty promises.",
+                "Flip that scenario around.",
+                "The worst case scenario is horrifying."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NlbmFyaW8&hash=fe61840844e020924a8fcfbb4240f1f39ae99cda&lang=en&cache-only=0",
+            "defineEn": "a written description of the characters, events or settings in a movie or play",
+            "defineVi": "mô tả bằng văn bản về các nhân vật, sự kiện hoặc cài đặt trong phim hoặc vở kịch",
+            "hasImg": true
+        },
+        {
+            "id": "90fc92a9-12ad-4f16-ad73-d15e78790c77",
+            "word": "screenplay",
+            "phonetic": "skɹiːnpleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Did you ever write a screenplay?",
+                "He's already written the screenplay, so.",
+                "They're not going to buy some screenplay.",
+                "He also won an Oscar for the screenplay for \"Brokeback Mountain.\"",
+                "As you can see hit screenplays for Hollywood studios."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NyZWVucGxheQ&hash=227aceab45dfdec7af8a3089f765d480339d1561&lang=en&cache-only=0",
+            "defineEn": "the script and written instructions used in producing a motion picture",
+            "defineVi": "kịch bản và hướng dẫn bằng văn bản được sử dụng để sản xuất một bộ phim chuyển động"
+        },
+        {
+            "id": "f604e181-9076-44bc-ad39-ab4bdfdc9c1d",
+            "word": "spotlight",
+            "phonetic": "spɑːtlaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The singer is in the spotlight for her new album release.",
+                "The athlete remained in the spotlight after breaking the world record.",
+                "Although she preferred to stay out of the spotlight, Jane played a crucial role in her husband's political career and was often recognized as the force behind his success.",
+                "The viral internet meme that gained immense popularity for a brief period became a ten-day wonder, with people sharing and referencing it widely before it faded from the online spotlight.",
+                "He hadn't either, but the next election cycle, the Cambridge Analytica scandal put a spotlight on the relationship between big data and voter manipulation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BvdGxpZ2h0&hash=31bf152102a9490773eb26e013f2e35978101160&lang=en&cache-only=0",
+            "defineEn": "a lamp that produces a very strong beam of light that can be cast on someone or something, particularly a person on stage",
+            "defineVi": "một ngọn đèn tạo ra một chùm ánh sáng rất mạnh có thể chiếu vào ai đó hoặc một cái gì đó, đặc biệt là một người trên sân khấu"
+        },
+        {
+            "id": "64039261-fac2-423c-b887-a96e983c66cb",
+            "word": "act",
+            "phonetic": "ækt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Get your act together.",
+                "This armed vigilante is acting as judge, jury, and executioner.",
+                "he acted maturely.",
+                "He acted out of fear.",
+                "A squeeze of lemon juice can act as a refreshing condiment to brighten up seafood dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN0&hash=d10ed3d22c6a6059856fc532b5a4379580ed5df5&lang=en&cache-only=0",
+            "defineEn": "a main part of a play, opera, or ballet",
+            "defineVi": "một phần chính của vở kịch, opera hoặc múa ba lê",
+            "hasImg": true
+        },
+        {
+            "id": "66843cda-6432-4efb-a713-a81e948f43fc",
+            "word": "interval",
+            "phonetic": "ɪntɚvəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now we have an interval here.",
+                "So some interval around the mean that encapsulates 95% of the area.",
+                "So our 95% confidence interval is from 1.38 to 3.3.",
+                "But in that short interval, the character of the storm changed.",
+                "Or what is a confidence interval of the difference of means?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJ2YWw&hash=194b6833ee8f71631370f2f478b428aa9d874840&lang=en&cache-only=0",
+            "defineEn": "a short break between different parts of a theatrical or musical performance",
+            "defineVi": "một khoảng nghỉ ngắn giữa các phần khác nhau của một buổi biểu diễn sân khấu hoặc âm nhạc"
+        },
+        {
+            "id": "0fcf2f02-d4c7-44d1-9088-5bc780785fb4",
+            "word": "lead",
+            "phonetic": "liːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The receptionist led the way to the boardroom.",
+                "The department led the world in cancer research.",
+                "The company's new product launch led to a fat increase in revenue.",
+                "We lead a very quiet life.",
+                "To lead a life of luxury/a miserable existence."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVhZA&hash=e8c13e26cfbed16150978377d6d91e1a6eea432e&lang=en&cache-only=0",
+            "defineEn": "an actor who plays the main role in a play or movie",
+            "defineVi": "một diễn viên đóng vai chính trong một vở kịch hoặc bộ phim",
+            "hasImg": true
+        },
+        {
+            "id": "e47f858d-c1f0-4afc-aac1-2e66f7d475d6",
+            "word": "stunt",
+            "phonetic": "stʌnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No one's catching Steven Bergwijn when he pulls stunts like this.",
+                "The fake article had been in print in the renowned scientific journal for more than a week before its author revealed that he had pulled a stunt.",
+                "I did some stunts.",
+                "I did some stunts myself.",
+                "You did your own stunts?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1bnQ&hash=6a736196d42e2d3a0e77660128351609ca8d5ba0&lang=en&cache-only=0",
+            "defineEn": "a dangerous and difficult action that shows great skill and is done to entertain people, typically as part of a movie",
+            "defineVi": "một hành động nguy hiểm và khó thể hiện kỹ năng tuyệt vời và được thực hiện để giải trí cho mọi người, thường là một phần của bộ phim"
+        },
+        {
+            "id": "8071c88b-faec-458e-9844-b81b9bc2cf3e",
+            "word": "climax",
+            "phonetic": "klaɪmæks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When I came to, the fighting was at a climax.",
+                "The climax of Bartok's first movement happens at bar 55 which is not only a Fibonacci number but also lands very close to the golden ratio.",
+                "The proteststhat climaxed with the Tank Man's lonely actof defiance had begun five weeks earlier with a mass studentdemonstration, and in most Western mediacontinued to be treated as a student phenomenon.",
+                "We traveled across Yemen's northeast desert to where this war has reached a climax.",
+                "They can come here, relax, and reenact the climax from Fargo."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xpbWF4&hash=8a4ec4893d7e8df0a70463e24d4b49a335d0004e&lang=en&cache-only=0",
+            "defineEn": "the most significant moment in a story, play, movie, etc. with a high dramatic suspense",
+            "defineVi": "thời điểm quan trọng nhất trong một câu chuyện, vở kịch, bộ phim, v.v. với tính hồi hộp kịch tính cao"
+        },
+        {
+            "id": "2e0a8e66-0a2f-4915-b5f8-a238265f3bea",
+            "word": "twist",
+            "phonetic": "twɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Any more cuts in government aid to these poor people will be twisting the knife in the wound.",
+                "The colorful bowtie pasta added a fun twist to the classic mac and cheese dish.",
+                "Shadberries offer a refreshing twist to homemade smoothies.",
+                "The briny taste of olives adds a unique twist to my homemade pizza.",
+                "The natural tanginess of tamarind adds a unique twist to sauces, marinades, and soups."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdpc3Q&hash=25513a8b71fa5809f1c8b7428c39cf74bc8afd3c&lang=en&cache-only=0",
+            "defineEn": "an unexpected turn in the course of events",
+            "defineVi": "một bước ngoặt bất ngờ trong quá trình các sự kiện"
+        },
+        {
+            "id": "ff001b87-798b-461c-8776-c2fb43ff8c83",
+            "word": "backstory",
+            "phonetic": "bækstoːɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The backstory on that was aboslutely-- -",
+                "Do you know the backstory there.",
+                "And in The Silence you do get a little more backstory.",
+                "And tattooing has a lot of context and backstory.",
+                "There's a lot of backstory to this, though."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFja3N0b3J5&hash=3a3207cc6f13424e964a3fcbb7c28f1e29fe2094&lang=en&cache-only=0",
+            "defineEn": "the events that have happened to a character before their story in a book, movie, etc. begins",
+            "defineVi": "các sự kiện đã xảy ra với một nhân vật trước khi câu chuyện của họ trong sách, phim, v.v. bắt đầu"
+        },
+        {
+            "id": "e915229b-8c39-4e90-95c8-eebf681e1bda",
+            "word": "subtitle",
+            "phonetic": "sʌbtaɪɾəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I love watching Spanish movies with subtitles to improve my language skills.",
+                "He was as deaf as a post and relied on subtitles to follow the dialogue.",
+                "Subtitles show you the sounds of the game.",
+                "Note the subtitle.",
+                "Do they use subtitles?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VidGl0bGU&hash=6942b5f04a253366e7c701d080e7eec7457fe321&lang=en&cache-only=0",
+            "defineEn": "transcribed or translated words of the narrative or dialogues of a movie or TV show, appearing at the bottom of the screen to help deaf people or those who don't understand the language",
+            "defineVi": "các từ phiên âm hoặc dịch của câu chuyện hoặc lời thoại của một bộ phim hoặc chương trình truyền hình, xuất hiện ở cuối màn hình để giúp người khiếm thính hoặc những người không hiểu ngôn ngữ",
+            "hasImg": true
+        },
+        {
+            "id": "4e3f358a-acd0-4b9a-9984-946be26cb5ea",
+            "word": "theme music",
+            "phonetic": "θiːm mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "(detective theme music)",
+                "(Martha Stewart Living theme music)",
+                "(COD theme music playing on phone) -",
+                "(Theme music) To explain how our universe could destroy itself, we need to understand two principles: One - energy levels.",
+                "We're the Hilton family from North Carolina, and it's time to spin the Wheel of Mythicality! - ♪ (theme music) ♪ -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlbWUgbXVzaWM&hash=b477ce2b501288ed51672301a099c9443ab48a18&lang=en&cache-only=0",
+            "defineEn": "the musical piece that is played at the beginning or the end of a TV or radio program or a motion picture",
+            "defineVi": "bản nhạc được phát ở đầu hoặc cuối chương trình truyền hình hoặc đài phát thanh hoặc hình ảnh chuyển động"
+        },
+        {
+            "id": "d2ae8729-ae42-4960-a222-f19d5613529a",
+            "word": "critic",
+            "phonetic": "kɹɪɾɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The film received lavish praise from critics for its groundbreaking visual effects, compelling storyline, and outstanding performances.",
+                "Right in the middle of the review is a left-handed compliment: the critic praises the actor for his \"startling career departure.\"",
+                "The mayor's critics were laughing up their sleeves when news of the scandal was first reported.",
+                "The President answered his critics by fighting fire with fire.",
+                "She was a critic who loomed large in literary circles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JpdGlj&hash=266c0e2447147fd083763b01e899eeead788d119&lang=en&cache-only=0",
+            "defineEn": "someone who gives their personal standpoint of a movie, play, etc. as a job",
+            "defineVi": "ai đó đưa ra quan điểm cá nhân của họ về một bộ phim, vở kịch, v.v. như một công việc",
+            "hasImg": true
+        },
+        {
+            "id": "51393069-1763-4276-b420-294b50f3feab",
+            "word": "comedian",
+            "phonetic": "kəmiːdiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That comedian was really in rare form last night.",
+                "In recent years, comedians have found themselves in hot water for making politically incorrect topics about everything from race to gender.",
+                "As the comedian told the joke, the audience grimaced in a mixture of amusement and discomfort.",
+                "The comedian joked that from the sublime to the ridiculous is only a step, and that the best comedy often came from taking serious topics and turning them on their head.",
+                "When the comedian saw that the audience wasn't laughing, he quickly read the room and changed his jokes to ones that were more relatable."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tZWRpYW4&hash=25ed0694f28bcbc98a691fdde39b38d9cfb7401e&lang=en&cache-only=0",
+            "defineEn": "someone whose job is making their audience laugh through jokes",
+            "defineVi": "ai đó có công việc là làm cho khán giả của họ cười qua những trò đùa",
+            "hasImg": true
+        }
+    ]
+}

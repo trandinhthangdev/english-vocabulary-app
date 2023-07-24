@@ -1,0 +1,617 @@
+{
+    "id": "d419fd4e-b21e-4815-8ebd-8edbec94acf0",
+    "title": "Money Costs Too Much!",
+    "originalTitle": "Lesson 60",
+    "words": [
+        {
+            "id": "b4f4adc6-c99b-4819-a1b3-4caccd422fa7",
+            "word": "free market",
+            "phonetic": "fɹiː mɑːɹkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJlZSBtYXJrZXQ&hash=5bb4257baa76277bf62b4f2aa3df1d55d12f0ee4&lang=en&cache-only=0",
+            "defineEn": "an economic system that is not operated by the government rather by free competition and supply and demand",
+            "defineVi": "một hệ thống kinh tế không được điều hành bởi chính phủ thay vì cạnh tranh tự do và cung và cầu"
+        },
+        {
+            "id": "4dea8fe3-2908-41f6-a244-4e1c802759a4",
+            "word": "stock exchange",
+            "phonetic": "stɑːk ɛkstʃeɪndʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Stock Exchange is in other countries also have there own indices.",
+                "Philip Olson and Julia-Lorenz Olson guide you through the complex world of personal finance, from the kitchen table to the Stock Exchange.",
+                "Facebook, for example, has earned sixteen billion dollars from it's listing on the Stock Exchange.",
+                "Unlike a normal market in which goods can be touched and taken home on the Stock Exchange only virtual goods are available.",
+                "What is the Stock Exchange and how does it work?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvY2sgZXhjaGFuZ2U&hash=fb755ba95c7cb87e67fa4ed14558390f8a663697&lang=en&cache-only=0",
+            "defineEn": "a place in which shares and stocks are traded",
+            "defineVi": "một nơi mà cổ phiếu và cổ phiếu được giao dịch"
+        },
+        {
+            "id": "d58cb7d0-22a8-4c32-a589-fb51504dc137",
+            "word": "bankrupt",
+            "phonetic": "bæŋkɹʌpt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "That nincompoop is going to bankrupt the entire company!",
+                "The company went bankrupt last year.",
+                "It went bankrupt within a year.",
+                "Unless somebody pulls a rabbit out of the hat by next week, we'll be bankrupt.",
+                "Sooner or later, that company will go bankrupt if they keep sitting on their laurels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFua3J1cHQ&hash=ee1f83464524ba36c155433976a008644ff67b14&lang=en&cache-only=0",
+            "defineEn": "(of organizations or people) legally declared as unable to pay their debts to creditors",
+            "defineVi": "(của tổ chức hoặc người) bị tuyên bố hợp pháp là không có khả năng trả nợ cho các chủ nợ"
+        },
+        {
+            "id": "e40a5fe4-facf-4608-a35a-7898885e3c2d",
+            "word": "broke",
+            "phonetic": "bɹoʊk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "you're broke and you don't have work.",
+                "Jacobsen went for broke on the last nine holes and won the tournament.",
+                "The entrepreneur decided to go for broke and invest all his savings in his new business.",
+                "Broke again!",
+                "The broke person version of investing is having a friend with money."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJva2U&hash=1345f28101288f2421eb8f22b80a346170c0e2e2&lang=en&cache-only=0",
+            "defineEn": "not having any money",
+            "defineVi": "không có tiền",
+            "hasImg": true
+        },
+        {
+            "id": "ec8fd493-e584-4de2-963e-bce75378bd0b",
+            "word": "stake",
+            "phonetic": "steɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Can you give us some sense of exactly what is at stake here?",
+                "Can you give us some sense of exactly what is at stake here?",
+                "It seems that scornful dogs will eat dirty puddings when their power is at stake.",
+                "For every £100 staked a regular better will end up with £88 in pocket.",
+                "Across the Atlantic, a new nation staked its claim for independence on the basis of these ideas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rha2U&hash=3e7cadbc9d71b42b809c4d5f08045a4a7b01749f&lang=en&cache-only=0",
+            "defineEn": "an amount of money invested in a business; a share or part in a business, system, etc. that may yield money",
+            "defineVi": "một số tiền đầu tư vào một doanh nghiệp; một phần hoặc một phần trong một doanh nghiệp, hệ thống, v.v. có thể mang lại tiền"
+        },
+        {
+            "id": "9c7c79e6-1ebb-421c-bbcd-63d64b54ab5a",
+            "word": "market economy",
+            "phonetic": "mɑːɹkɪt ɪkɑːnəmi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These were the so-called yeoman farmers who lived self-sufficiently, raised their own food, and purchased very little in the Market Economy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFya2V0IGVjb25vbXk&hash=8fe32738b9f5b116571757313dc38296d573d643&lang=en&cache-only=0",
+            "defineEn": "an economic system in which private businesses determine production, prices, and salaries not the government",
+            "defineVi": "một hệ thống kinh tế trong đó các doanh nghiệp tư nhân quyết định sản xuất, giá cả và tiền lương chứ không phải chính phủ"
+        },
+        {
+            "id": "e49f5cc2-1991-4892-8828-a1ffe4256286",
+            "word": "earnings",
+            "phonetic": "ɜːnɪŋz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If I'm paying $10 today for $2 of earnings in 2009, the Price to Earnings of 5 for Company A. Well, for Company B, it's a Price to Earnings 20 divided by 4."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFybmluZ3M&hash=f60098cc85f8713c9e77b96550beb58115c34db2&lang=en&cache-only=0",
+            "defineEn": "money received for work done or services provided",
+            "defineVi": "tiền nhận được cho công việc được thực hiện hoặc dịch vụ được cung cấp",
+            "hasImg": true
+        },
+        {
+            "id": "2de87b5a-f574-4a40-8e24-8fb182225b38",
+            "word": "incentive",
+            "phonetic": "ɪnsɛntɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Susan saw how people could be persuaded to betray their values and principles for the right incentive, demonstrating that everyone has their price.",
+                "Innovation follows incentives.",
+                "Free products and payment are increasingly common incentives.",
+                "And cashless registers present no incentive for theft or robbery.",
+                "They had the very large incentives."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jZW50aXZl&hash=33fcad84c6a33ecfcc2354d6c4119b8836661824&lang=en&cache-only=0",
+            "defineEn": "a payment or concession to encourage someone to do something specific",
+            "defineVi": "một khoản thanh toán hoặc nhượng bộ để khuyến khích ai đó làm điều gì đó cụ thể"
+        },
+        {
+            "id": "f0870377-f348-488b-a23d-18b3d4f92f7b",
+            "word": "to hoard",
+            "phonetic": "tə hoːɹd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Initially, consumers hoarded items like rice, beans and frozen foods.",
+                "An example of this intelligent behavior is hoarding food to eat it later.",
+                "There, he uncovered a hoard of precious artifacts, jewelry, and metalwork, including two diadems and a copper shield.",
+                "And in the 1890s the Salvation Army had hoards of Santas on the streets of New York collecting donations.",
+                "So during the day they can hide from predators and munch on their hoard in safety."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaG9hcmQ&hash=7a866be882b3f1db59a003d5adaaf47761275b53&lang=en&cache-only=0",
+            "defineEn": "to gather and store a large supply of food, money, etc., usually somewhere secret",
+            "defineVi": "để thu thập và lưu trữ một lượng lớn thực phẩm, tiền bạc, v.v., thường ở một nơi bí mật"
+        },
+        {
+            "id": "53f54243-30a2-4bf3-89e2-9695982e86c6",
+            "word": "extravagant",
+            "phonetic": "ɛkstɹævəɡənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The billionaire's extravagant spending habits showed that he had more money than sense and lacked any financial restraint.",
+                "He won the lottery, but the money is burning a hole in his pocket, and he's already planning extravagant vacations and luxury purchases.",
+                "The warrior god Set and his wife, the goddess Nephtys, decorated an extravagant hall for the occasion, with a beautiful wooden chest as the centerpiece.",
+                "Or do you enjoy extravagant things?",
+                "However, the costliest creams contain an array of extravagant additions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0cmF2YWdhbnQ&hash=f95576a0e128dca676ee6fef46989fc7d673d858&lang=en&cache-only=0",
+            "defineEn": "costing a lot of money, more than the necessary or affordable amount",
+            "defineVi": "tốn rất nhiều tiền, nhiều hơn số tiền cần thiết hoặc giá cả phải chăng"
+        },
+        {
+            "id": "81ccf9be-795c-4ee9-9a87-a0f8e2cd3051",
+            "word": "to fluctuate",
+            "phonetic": "tə flʌktʃuːeɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Milk prices can fluctuate, sometimes wildly.",
+                "It fluctuates.",
+                "It fluctuates.",
+                "Even in public opinion polls, and public opinion polls fluctuate with the coverage.",
+                "The wholesale price for lobster can fluctuate anywhere from $8 to $10, depending on the season, per pound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmx1Y3R1YXRl&hash=ab5344dac462222f7b61cb679d86d38fa7a08579&lang=en&cache-only=0",
+            "defineEn": "to rise and fall continuously in amount, quality, size, etc.",
+            "defineVi": "tăng giảm liên tục về số lượng, chất lượng, quy mô, v.v."
+        },
+        {
+            "id": "619f4053-9e23-411c-879e-5602e2f63f10",
+            "word": "to freeze",
+            "phonetic": "tə fɹiːz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They froze sliced bananas and blended them into a creamy banana ice cream.",
+                "Make a large batch of pelmeni and freeze them for future meals.",
+                "It's best to blanch the green beans before freezing them for long-term storage.",
+                "White currants can be frozen and enjoyed later as a tasty addition to smoothie bowls.",
+                "Sam tries to wrap her brain around snow and freezing temperatures, but she's always lived in Florida, so real winter is not something she has experienced."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
+            "defineEn": "to legally prevent money, property, or a bank account from being used or sold",
+            "defineVi": "để ngăn chặn hợp pháp tiền, tài sản hoặc tài khoản ngân hàng được sử dụng hoặc bán"
+        },
+        {
+            "id": "26a4e09e-ec90-4d1e-9af3-dbc231392cdd",
+            "word": "to level out",
+            "phonetic": "tə lɛvəl aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "There, the metal content seems to level out at a fixed value.",
+                "[Narrator] Has started to level out.",
+                "Then, once I hit a steady state velocity, I'm gonna level out that acceleration in my mouth.",
+                "If we were renovating this house, I would actually level out the ground here, so that you don't need to have that sunken living room if it's going to be a trip hazard for you.",
+                "My most recent hospitalization was in May, shortly after I experienced a hypomanic episode that felt great, then felt leveled out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGV2ZWwgb3V0&hash=33b5a0b884e74bf7ea8f1c9407749c9b8ec253d8&lang=en&cache-only=0",
+            "defineEn": "to reach a state of balance and stability after a time of rising or falling",
+            "defineVi": "đạt đến trạng thái cân bằng và ổn định sau một thời gian thăng trầm"
+        },
+        {
+            "id": "8da430dc-9931-4dd8-b3dd-05d9ebdb2339",
+            "word": "fundraising",
+            "phonetic": "fʌndɹeɪzɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As I indicated I attended fundraising events.",
+                "Roblox is now worth $29.5 dollars billion, according to its latest fundraising round.",
+                "Think executive salaries, luxury offices, marketing budgets and fancy fundraising parties.",
+                "Meanwhile, in a stunning reversal, Joe Biden's campaign struggles to match rival presidential candidates in fundraising.",
+                "Nonprofits rely on foot traffic and corporate sponsorships, too, but they rely heavily on fundraising events."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVuZHJhaXNpbmc&hash=80225bc0591946584cb6c056d6c1570c6783abb8&lang=en&cache-only=0",
+            "defineEn": "the provision of financial aid for something such as a charity or cause, usually through holding special events",
+            "defineVi": "cung cấp hỗ trợ tài chính cho một cái gì đó như một tổ chức từ thiện hoặc nguyên nhân, thường thông qua việc tổ chức các sự kiện đặc biệt"
+        },
+        {
+            "id": "e69100b3-e016-4f8c-a8c9-e47a10bf0b9f",
+            "word": "depression",
+            "phonetic": "dᵻpɹɛʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After struggling with depression for years, taking up a new hobby like painting might do Jane a world of good.",
+                "John was a silent sufferer, never letting on to his colleagues that he was struggling with anxiety and depression.",
+                "This episode finds him deep in depression as divorce looms large.",
+                "Depression darkens my door and steals so many chunks of what makes me who I am.",
+                "Too much black bile, for example, causes depression."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwcmVzc2lvbg&hash=e97badb39be6db880c5316d35a258a2031312f00&lang=en&cache-only=0",
+            "defineEn": "a time of little economic activity and high unemployment, which lasts for a long time",
+            "defineVi": "một thời gian ít hoạt động kinh tế và tỷ lệ thất nghiệp cao, kéo dài trong một thời gian dài"
+        },
+        {
+            "id": "86ef7080-e5b6-43af-b6e0-45867b4a0cf2",
+            "word": "equilibrium",
+            "phonetic": "iːkwɪlɪbɹiəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "None of these are Nash equilibriums.",
+                "It's in equilibrium.",
+                "For comparison, Earth’s equilibrium temperature is 255 Kelvin.",
+                "So it's in equilibrium.",
+                "Equilibrium expressions also use bracketed concentrations with exponents, and that's no accident."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXF1aWxpYnJpdW0&hash=30e9bbc1866f54275dc06ba78a1f126c811daa88&lang=en&cache-only=0",
+            "defineEn": "a balanced state between opposing influences or powers",
+            "defineVi": "một trạng thái cân bằng giữa các ảnh hưởng hoặc quyền hạn đối lập"
+        },
+        {
+            "id": "c444bba4-9f50-40dc-a34b-a0fd9eb5f3a5",
+            "word": "monopoly",
+            "phonetic": "mənɑːpəli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For decades, a few networks held the monopoly on both morning and evening news.",
+                "Is that monopoly power? ",
+                "It's not monopoly. -",
+                "He played Monopoly.",
+                "It’s a non-coercive monopoly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ub3BvbHk&hash=1ca917e7343c2e7d053b31bc7ba494946298bbb8&lang=en&cache-only=0",
+            "defineEn": "the total control of a business or of the supply of something, which makes other rivals unable to compete; a commodity or service that is controlled using this method",
+            "defineVi": "toàn quyền kiểm soát một doanh nghiệp hoặc nguồn cung cấp một thứ gì đó, khiến các đối thủ khác không thể cạnh tranh được; một hàng hóa hoặc dịch vụ được kiểm soát bằng phương pháp này"
+        },
+        {
+            "id": "006cd3d4-70fb-4838-bc44-53e9b0c776e3",
+            "word": "merger",
+            "phonetic": "mɜːdʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Because of the proposed merger, the company is standing at the crossroads.",
+                "The company CEO let the employees in on the exciting news about the upcoming merger.",
+                "The legal team is still tying up a few loose ends in the merger contract, but, other than that, we are ready to move ahead with the deal.",
+                "And the mergers actually solved the other mystery, too.",
+                "Tech mergers have faced particular scrutiny, especially in congressional hearings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVyZ2Vy&hash=8e0aef97d0b6ad16368c8077711f3cb754559c59&lang=en&cache-only=0",
+            "defineEn": "the joining of two companies or organizations together to form a larger one",
+            "defineVi": "sự tham gia của hai công ty hoặc tổ chức với nhau để tạo thành một công ty lớn hơn"
+        },
+        {
+            "id": "034cd213-92c6-4cc5-a0c3-0145fd2c4a27",
+            "word": "donor",
+            "phonetic": "doʊnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hospital's plea for donors tugged at the heartstrings of millions of viewers.",
+                "The charity's efforts to help the community were recognized, putting them in a good light among donors.",
+                "The politician realized that he who pays the piper, calls the tune, and that he needed to listen to the concerns of his campaign donors.",
+                "We compensate donors for their time and their commitment to the program.",
+                "Regular donors can make extra cash through referral bonuses, holiday giveaways, and rewards programs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9ub3I&hash=1dc2108d3f239a8960331ed87bb2d8a9ccfc9e97&lang=en&cache-only=0",
+            "defineEn": "someone or something that gives money, clothes, etc. to a charity for free",
+            "defineVi": "ai đó hoặc cái gì đó cho tiền, quần áo, v.v. miễn phí cho một tổ chức từ thiện"
+        },
+        {
+            "id": "25f589c6-1968-4ae6-aa9f-0b3b6aec5298",
+            "word": "index",
+            "phonetic": "ɪndɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "On that day the index hit 5,132.52.",
+                "Major indexes finished at new highs.",
+                "The index would have placed Katrina's damage potential in line with a Category 5.",
+                "First, the various decorations on a uniform jacket and hat are indexes of a member's rank in the military. ",
+                "The computer hardware index is up 200 percent."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5kZXg&hash=eb4631112380d90716e833646367d4475a2fc956&lang=en&cache-only=0",
+            "defineEn": "a system that provides the amount of prices, costs, etc. so that one can compare them with their previous value",
+            "defineVi": "một hệ thống cung cấp số lượng giá cả, chi phí, v.v. để người ta có thể so sánh chúng với giá trị trước đó của chúng"
+        },
+        {
+            "id": "44f4a357-d9c5-4a04-9e67-df1f2b27661f",
+            "word": "portfolio",
+            "phonetic": "poːɹtfoʊlɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He took along a portfolio of his drawings.",
+                "The stock portfolio showed a steady yield, generating consistent profits for the shareholders.",
+                "The financial advisor recommended diversifying the investment portfolio to maximize yield and minimize risk.",
+                "In the long run, investing in a diverse portfolio of stocks can yield higher returns.",
+                "Narrator: Vince narrowed down his product portfolio."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9ydGZvbGlv&hash=e8852c604eb6530f74cd14ee50c31673af2efd72&lang=en&cache-only=0",
+            "defineEn": "a group of shares that a person or organization owns",
+            "defineVi": "một nhóm cổ phần mà một người hoặc tổ chức sở hữu"
+        },
+        {
+            "id": "214e2808-b2df-449e-854e-41237aa793fa",
+            "word": "NFC",
+            "phonetic": "ɛnɛfsiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And, a high NFC also has some significant benefits.",
+                "It's got NFC, obviously.",
+                "The result was the modern day NFL with its two conferences: the NFC and AFC.",
+                "I mean, NFC pairing is one of those, like, yeah,",
+                "In 1994, during the NFC championship, Aikman took a knee to the head."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TkZD&hash=463111ffa8c03926a48b95073749c2a7b6176d02&lang=en&cache-only=0",
+            "defineEn": "a technology that allows short-range data transfer between cell phones and other electronic devices to do things such as paying for a purchase, etc.",
+            "defineVi": "một công nghệ cho phép truyền dữ liệu tầm ngắn giữa điện thoại di động và các thiết bị điện tử khác để thực hiện những việc như thanh toán khi mua hàng, v.v."
+        },
+        {
+            "id": "95cbb88f-d090-458a-9390-a441ba17024a",
+            "word": "buck",
+            "phonetic": "bʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The buck stops with him.",
+                "The buck stopped there with Carl.",
+                "The buck stops here with me.",
+                "The buck stops with the players, not with the manager or anybody else.",
+                "He looks a million bucks with his dapper suit and polished shoes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVjaw&hash=4ef3e4b6911c6d7a2de8ce837a7ba556e2eea5e2&lang=en&cache-only=0",
+            "defineEn": "one dollar",
+            "defineVi": "một đô la",
+            "hasImg": true
+        },
+        {
+            "id": "c6e131f7-8f4d-4c1f-8cd1-ecb427ca5c8c",
+            "word": "nickel",
+            "phonetic": "nɪkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Nickel sulfate for batteries, zero percent is produced in the USA.",
+                "Pycnandra acuminata also basically quarantines the nickel in cells that are separate from other parts of the plant.",
+                "I wouldn’t pay a nickel for that!",
+                "The gas also contained different elements during the first day of explosion than later on, things like iron, cobalt, and nickel.",
+                "Other key battery elements include graphite, nickel, manganese and cobalt, which are mined in large quantities in China, Indonesia, South Africa and the Democratic Republic of Congo."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmlja2Vs&hash=b6be8a154ef9998d319e5799248f18896870f0d9&lang=en&cache-only=0",
+            "defineEn": "a five-cent coin of Canada and the US",
+            "defineVi": "một đồng xu năm xu của Canada và Mỹ"
+        },
+        {
+            "id": "8a02ec51-4276-4649-b4a0-7a93abde18e0",
+            "word": "dime",
+            "phonetic": "daɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She dropped everything at the drop of a dime when her friend needed her.",
+                "If you ever need me, I'll be there at the drop of a dime.",
+                "When Tom was offered a high-risk investment opportunity with the potential for a big payout, he remembered the saying better a steady dime than a rare dollar and decided to invest his money in a more stable option.",
+                "He runs up the field and stops on a dime to catch the ball.",
+                "He's always ready to help at the drop of a dime."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGltZQ&hash=c69624c80667a7da992f306e4483f9efb85a200a&lang=en&cache-only=0",
+            "defineEn": "a ten-cent coin of Canada and the US",
+            "defineVi": "đồng 10 cent của Canada và Mỹ"
+        },
+        {
+            "id": "bb1bc727-4fb5-489a-8b52-6441b3356c9a",
+            "word": "peak",
+            "phonetic": "piːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her popularity reached its peak in the late 1990s.",
+                "Mount Kilimanjaro is the highest peak in Africa.",
+                "I took a photo of the mountain peak, capturing its majestic beauty.",
+                "In 2006, the company's US sales peaked.",
+                "Instead, on March 10, 2000, the dot-com boom reached its peak."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVhaw&hash=eae14ae144ce7a39e54eba6981ac369af3708486&lang=en&cache-only=0",
+            "defineEn": "the stage or point of highest quality, activity, success, intensity, etc.",
+            "defineVi": "giai đoạn hoặc điểm có chất lượng cao nhất, hoạt động, thành công, cường độ, v.v."
+        },
+        {
+            "id": "7a9af80c-5393-448c-aadd-25bc6d1ba419",
+            "word": "worthless",
+            "phonetic": "wɜːθləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The diamond thief double-crossed his partners and gave them only worthless fake jewels.",
+                "When the bubble bursts on these toys, a lot of people are going to be left with a lot of worthless trinkets.",
+                "The currency is worthless.",
+                "So polls are worthless?",
+                "So the currency becomes, frankly, worthless."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ydGhsZXNz&hash=be98b430f56efdca6654784b48f664bd7ba96e2d&lang=en&cache-only=0",
+            "defineEn": "of no real value, use, or importance",
+            "defineVi": "không có giá trị thực, sử dụng hoặc tầm quan trọng"
+        },
+        {
+            "id": "d3fd1374-93cb-4f1b-a3d2-c48a984ac092",
+            "word": "costly",
+            "phonetic": "kɔstli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The company overlooked a small detail in their contract, and now they're facing a costly lawsuit.",
+                "My boss always tells us to measure twice, cut once when working on a project to avoid costly mistakes and delays.",
+                "The CEO of the company, who was known for his successful track record, made a costly mistake during a major business deal, demonstrating that a good marksman may miss.",
+                "The chef reminded the kitchen staff that haste makes waste, urging them to take their time and be careful in their food preparation to avoid costly mistakes and wasted ingredients.",
+                "In business, it is often better to give in to a competitor's demands than to risk a costly and protracted battle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29zdGx5&hash=ee2cd5548854c8e546c9b17df147d1bb88c6f2fb&lang=en&cache-only=0",
+            "defineEn": "costing much money, often more than one is willing to pay",
+            "defineVi": "tốn nhiều tiền, thường có nhiều hơn một người sẵn sàng trả",
+            "hasImg": true
+        },
+        {
+            "id": "dcb0eae7-f331-462d-9d37-b73fb566305c",
+            "word": "cut",
+            "phonetic": "kʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The line cuts the circle at two points.",
+                "He's cutting his own throat.",
+                "Budget cuts are putting the squeeze on scientific research.",
+                "Cutting Jefferson a break?",
+                "He really cuts the ground from under my feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3V0&hash=d16f1388479dd1933f1fbaa7dbf36f5a5619c760&lang=en&cache-only=0",
+            "defineEn": "a share in something monetary",
+            "defineVi": "một phần trong một cái gì đó tiền tệ"
+        },
+        {
+            "id": "f45d2395-68d9-43a9-a037-07fff5d7d683",
+            "word": "prepaid",
+            "phonetic": "pɹɪpeɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Then, when you're done, look: prepaid envelopes.",
+                "There is a significant correlation between use of cash, prepaid debit, high end credit and wealth, and there's a huge correlation between wealth and race.",
+                "CellTel, an African cell phone company, realized it could spot impending massacres in the Congo when everyone nearby started buying prepaid phone cards.",
+                "Unlike conventional operators, MVNOs generally offer customers cheaper, prepaid, month-to-month plans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlcGFpZA&hash=78307d6b6c1e8d4c1711baf7cf634a8079da1779&lang=en&cache-only=0",
+            "defineEn": "already paid for",
+            "defineVi": "đã trả tiền cho"
+        },
+        {
+            "id": "65a9e870-20b8-4bd4-ab72-c8a88a48e5d8",
+            "word": "priceless",
+            "phonetic": "pɹaɪsləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Workers scrambled to carry priceless objects out of harm's way.",
+                "- The value of the collection, it's truly priceless.",
+                "The school's library had housed priceless African books and manuscripts.",
+                "It's truly priceless, but we're accepting offers.",
+                "Some would say that's priceless."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpY2VsZXNz&hash=c3f116cf02e5b9baea491348e7b011c05811cb41&lang=en&cache-only=0",
+            "defineEn": "of great value or importance",
+            "defineVi": "có giá trị lớn hoặc tầm quan trọng"
+        },
+        {
+            "id": "2b88c979-596d-46c5-b755-cee77181f56a",
+            "word": "to privatize",
+            "phonetic": "tə pɹaɪvətaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "And does privatizing them change those responsibilities?",
+                "President Trump and Republicans have suggested privatizing the Post Office.",
+                "Many people are wary of the practice of privatizing our penal system because of news stories over the years about corrupt dealings between lawyers, judges, and prison owners/managers who arrange to have people incarcerated in exchange for cash.",
+                "What producers here want is to privatize the reserves, and there’s hostility here towards anyone who tries to stop them.",
+                "As of 2021, privatizing water rights is being proposed as a new solution."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHJpdmF0aXpl&hash=eb2778ebc7003717324bb11670764caf33fa4323&lang=en&cache-only=0",
+            "defineEn": "to change the ownership of an industry, service, or business from public to private",
+            "defineVi": "để thay đổi quyền sở hữu của một ngành công nghiệp, dịch vụ, hoặc kinh doanh từ công sang tư nhân"
+        },
+        {
+            "id": "bb95eff3-25cc-41ca-90d1-50e528596908",
+            "word": "quotation",
+            "phonetic": "kwoʊteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Each chapter begins with a quotation.",
+                "It's a single quotation.",
+                "Everything between these characters, everything between the double quotation, is just viewed as a character.",
+                "They check the spelling of names, the accuracy of numbers, the sequence of events, and the sources of quotations.",
+                "I wanted to read you some quotations from these letters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVvdGF0aW9u&hash=e7812b65445e71eeb8ee1d779f6bf68c58df1e3d&lang=en&cache-only=0",
+            "defineEn": "a statement indicating the cost of a specific service or piece of work",
+            "defineVi": "một tuyên bố chỉ ra chi phí của một dịch vụ hoặc phần công việc cụ thể"
+        },
+        {
+            "id": "9f58329f-4b5d-42e4-a278-98b758070d0d",
+            "word": "subsidy",
+            "phonetic": "sʌbsɪdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A Xerox subsidy can be expensive for a company if employees abuse the privilege.",
+                "Direct subsidies are another issue.",
+                "Farm subsidies are probably just as controversial.",
+                "The package also has 100% COBRA subsidy through September.",
+                "New enrollees also receive larger subsidies than before."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vic2lkeQ&hash=d42005b4e806a2b6b343ef226d35d3aaafc1ad76&lang=en&cache-only=0",
+            "defineEn": "an amount of money that a government or organization pays to lower the costs of producing goods or providing services so that prices do not increase",
+            "defineVi": "một số tiền mà chính phủ hoặc tổ chức trả để giảm chi phí sản xuất hàng hóa hoặc cung cấp dịch vụ để giá không tăng"
+        },
+        {
+            "id": "567aa553-6437-4d17-b940-87ea08c81ed3",
+            "word": "tariff",
+            "phonetic": "tæɹɪf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He upped tariffs.",
+                "Tariffs were completely boneheaded.",
+                "Tariffs announced by the Trump administration.",
+                "He slapped tariffs on European metals and other goods.",
+                "Can tariffs achieve that?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFyaWZm&hash=99ce0faa00553ae6faa906ade5b47ba6c0535bb7&lang=en&cache-only=0",
+            "defineEn": "a tax paid on goods imported or exported",
+            "defineVi": "một loại thuế trả cho hàng hóa nhập khẩu hoặc xuất khẩu"
+        },
+        {
+            "id": "922ede80-692b-4b24-9962-731641e6f557",
+            "word": "accountancy",
+            "phonetic": "ɐkaʊntənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Black folks were doing that little bit better in school now, but when you look at who working class black folk in Britain are particularly West Africans, were essentially comparing the Children of university educated West African civil servants who happened to have ended up in the hood because of discrimination, even though they've got degrees in engineering or accountancy or whatever is from back in Ghana and Nigeria."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3VudGFuY3k&hash=a46b313dde7b86ebbdb4f3eb3ba421906cee88aa&lang=en&cache-only=0",
+            "defineEn": "an accountant's profession or tasks",
+            "defineVi": "nghề nghiệp hoặc nhiệm vụ của kế toán viên",
+            "hasImg": true
+        },
+        {
+            "id": "37450030-ba91-483a-98c4-30401aeb7008",
+            "word": "to back",
+            "phonetic": "tə bæk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Election season always puts my dad's back up.",
+                "Dr. Jaffe pinned her ears back.",
+                "Right, pin back your ears, everyone.",
+                "I ran the tape back.",
+                "The enemy was driven back."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmFjaw&hash=f9a7925ca2d23a3a544cbd2c8e8dda78dd9e544b&lang=en&cache-only=0",
+            "defineEn": "to give emotional or financial support to someone or something",
+            "defineVi": "để hỗ trợ tình cảm hoặc tài chính cho một ai đó hoặc một cái gì đó"
+        },
+        {
+            "id": "67e87477-84bc-4fa9-b7de-3c2ce0468ec3",
+            "word": "to consolidate",
+            "phonetic": "tə kənsɑːlᵻdeɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The entire health system was consolidating.",
+                "The bread business has to consolidate Sara Lee and Wonderbread, two of the biggest names in bread.",
+                "He was consolidating power.",
+                "In 2018, roughly 100 lawsuits over AFFF were consolidated in South Carolina.",
+                "William consolidated his gains with a huge castle-building campaign and a reorganization of English society."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc29saWRhdGU&hash=b3691fd6e7c478148d84d1fae54a901a1dc24592&lang=en&cache-only=0",
+            "defineEn": "to merge several financial accounts, debts, funds, into one",
+            "defineVi": "để hợp nhất một số tài khoản tài chính, các khoản nợ, quỹ, thành một"
+        },
+        {
+            "id": "0c898535-0be7-4924-aa89-c0a4554e87c8",
+            "word": "to deposit",
+            "phonetic": "tə dᵻpɑːzɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I always put my important documents in a safe deposit box at the bank because safe bind, safe find.",
+                "I went to the bank to deposit some money into my savings account.",
+                "The coal deposits of Britain match deposits in the Appalachian Mountains of eastern North America.",
+                "Deposits above and below Dickinsonia had a mixture of about 10 percent cholesteroids and about 75 percent stigmasteroids.",
+                "A collection of Boder material was deposited here in 1967."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGVwb3NpdA&hash=9de5ce8404ea8c9e672aa48f2752490e59663548&lang=en&cache-only=0",
+            "defineEn": "to put an amount of money or other item of value into a bank account",
+            "defineVi": "để đặt một số tiền hoặc mặt hàng khác có giá trị vào một tài khoản ngân hàng"
+        }
+    ]
+}

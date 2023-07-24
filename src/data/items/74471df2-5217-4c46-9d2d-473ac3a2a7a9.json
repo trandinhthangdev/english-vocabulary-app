@@ -1,0 +1,651 @@
+{
+    "id": "74471df2-5217-4c46-9d2d-473ac3a2a7a9",
+    "title": "Cakes and Pancakes",
+    "originalTitle": "Cakes and Pancakes",
+    "words": [
+        {
+            "id": "a3917e74-ac3d-4bd2-9dec-0efe35aea1f4",
+            "word": "sponge cake",
+            "phonetic": "spʌndʒ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now, serve the sponge cake."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BvbmdlIGNha2U&hash=4514691ee397f5690cad12d83f99008f73ff3bb2&lang=en&cache-only=0",
+            "defineEn": "a soft cake made with eggs, flour, sugar, and sometimes butter",
+            "defineVi": "một chiếc bánh mềm làm từ trứng, bột mì, đường và đôi khi là bơ",
+            "hasImg": true
+        },
+        {
+            "id": "ce8f92c9-8ccd-41fa-998f-c3ebb56c94c9",
+            "word": "layer cake",
+            "phonetic": "leɪɚ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGF5ZXIgY2FrZQ&hash=7630b469a5bb2e64ca251f76855d01fad8b61bef&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made by stacking multiple layers of cake with a filling, such as frosting, jam, or whipped cream, in between each layer",
+            "defineVi": "một loại bánh được làm bằng cách xếp chồng nhiều lớp bánh với nhân, chẳng hạn như phủ sương, mứt hoặc kem đánh bông, ở giữa mỗi lớp",
+            "hasImg": true
+        },
+        {
+            "id": "d9f73732-d70b-4bb3-897b-b06dd2bb5183",
+            "word": "flourless cake",
+            "phonetic": "flaʊɚləs keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmxvdXJsZXNzIGNha2U&hash=e6b137e9729cf085959223076b202ed49199f98e&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made without using any flour as an ingredient in the recipe",
+            "defineVi": "một loại bánh được làm mà không sử dụng bất kỳ loại bột nào làm nguyên liệu trong công thức",
+            "hasImg": true
+        },
+        {
+            "id": "f6db2629-8d52-432d-a1f1-17a47d11e34f",
+            "word": "one egg cake",
+            "phonetic": "wʌn ɛɡ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b25lIGVnZyBjYWtl&hash=712fe0330557b61721c1d1a0b1a137c9693a70b5&lang=en&cache-only=0",
+            "defineEn": "a type of cake recipe that uses only one egg as an ingredient, typically resulting in a smaller, simpler cake with a lighter texture",
+            "defineVi": "một loại công thức làm bánh chỉ sử dụng một quả trứng làm nguyên liệu, thường tạo ra một chiếc bánh nhỏ hơn, đơn giản hơn với kết cấu nhẹ hơn",
+            "hasImg": true
+        },
+        {
+            "id": "355c90dd-df94-4672-8d35-dff058b5dcfa",
+            "word": "chocolate cake",
+            "phonetic": "tʃɑːklət keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hvY29sYXRlIGNha2U&hash=0346d81b3d8958dd8074905f665312911495646c&lang=en&cache-only=0",
+            "defineEn": "a sweet dessert made from flour, sugar, eggs, cocoa powder, and other ingredients, typically served in slices",
+            "defineVi": "một món tráng miệng ngọt làm từ bột mì, đường, trứng, bột ca cao và các thành phần khác, thường được phục vụ theo từng lát",
+            "hasImg": true
+        },
+        {
+            "id": "1b3ad6e4-290e-4522-81dc-3aca8bd0f6c7",
+            "word": "coffee cake",
+            "phonetic": "kɔfi keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29mZmVlIGNha2U&hash=63ae163155bb449f19151878b419bb3e723ac40a&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is usually eaten with coffee and is often flavored with cinnamon, nuts, or fruit",
+            "defineVi": "một loại bánh thường được ăn với cà phê và thường có hương quế, các loại hạt hoặc trái cây",
+            "hasImg": true
+        },
+        {
+            "id": "65b4b6c0-b91b-4ad2-add8-391688da4065",
+            "word": "carrot cake",
+            "phonetic": "kæɹət keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2Fycm90IGNha2U&hash=002ea9f8550640247fad197e93a68093debbfa33&lang=en&cache-only=0",
+            "defineEn": "a type of cake that typically includes grated carrots in the batter, resulting in a moist, spiced cake often topped with cream cheese frosting",
+            "defineVi": "một loại bánh thường bao gồm cà rốt nghiền trong bột, tạo ra một chiếc bánh ẩm ướt, có gia vị thường được phủ một lớp kem phủ phô mai",
+            "hasImg": true
+        },
+        {
+            "id": "1cc83ae4-1408-45ce-a75e-2b1458f884db",
+            "word": "coconut cake",
+            "phonetic": "koʊkənʌt keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29jb251dCBjYWtl&hash=9cdb79b45eeb9fed03c26d4a4ea4690f4c616b64&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is flavored with coconut and often includes coconut milk, shredded coconut, or coconut extract in the recipe",
+            "defineVi": "một loại bánh có hương vị dừa và thường bao gồm nước cốt dừa, dừa vụn hoặc chiết xuất dừa trong công thức",
+            "hasImg": true
+        },
+        {
+            "id": "63150c77-0484-4f6f-b362-156c15957faf",
+            "word": "butter cake",
+            "phonetic": "bʌɾɚ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVyIGNha2U&hash=90b12bd2fb5597ec4455029bfe756758c0f7f995&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made with a high proportion of butter, resulting in a rich, tender crumb and a delicate buttery flavor",
+            "defineVi": "một loại bánh được làm với tỷ lệ bơ cao, tạo nên lớp bánh mềm, béo ngậy và hương vị bơ tinh tế",
+            "hasImg": true
+        },
+        {
+            "id": "fed27002-96c3-4f75-91c3-f1e84b4f5516",
+            "word": "applesauce cake",
+            "phonetic": "æpəlsɔːs keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGVzYXVjZSBjYWtl&hash=047068c5ba361e0f0d1db437a7490cff8e3c91eb&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made with applesauce as a key ingredient, which adds moisture and flavor to the cake",
+            "defineVi": "một loại bánh được làm với nước sốt táo là thành phần chính, giúp tăng thêm độ ẩm và hương vị cho bánh"
+        },
+        {
+            "id": "4dd2d3ab-9870-41c5-ac97-f596a666e053",
+            "word": "spice cake",
+            "phonetic": "spaɪs keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BpY2UgY2FrZQ&hash=5983621364a42b73a46a436a272e0d25e014c7ba&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is flavored with a variety of warm spices, such as cinnamon, nutmeg, ginger, and cloves, which add a fragrant and complex flavor to the cake",
+            "defineVi": "một loại bánh có hương vị của nhiều loại gia vị ấm, chẳng hạn như quế, nhục đậu khấu, gừng và đinh hương, làm tăng thêm hương vị thơm và phức tạp cho bánh"
+        },
+        {
+            "id": "3bbf971d-f265-499f-9032-37f24c3a0431",
+            "word": "birthday cake",
+            "phonetic": "bɜːθdeɪ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmlydGhkYXkgY2FrZQ&hash=b78852095e5906b0586c138904df887387e11cca&lang=en&cache-only=0",
+            "defineEn": "a decorated cake with candles on it that is served in a birthday party",
+            "defineVi": "một chiếc bánh trang trí với nến được phục vụ trong một bữa tiệc sinh nhật",
+            "hasImg": true
+        },
+        {
+            "id": "bd7b32a0-4cb8-4903-8a58-f7b635fad032",
+            "word": "wedding cake",
+            "phonetic": "wɛdɪŋ keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2VkZGluZyBjYWtl&hash=0ed5f92fb8b27cadaa0e3226754c051a337db13c&lang=en&cache-only=0",
+            "defineEn": "a decorated cake served at wedding receptions to celebrate the marriage of a couple",
+            "defineVi": "một chiếc bánh được trang trí phục vụ tại tiệc cưới để kỷ niệm cuộc hôn nhân của một cặp vợ chồng",
+            "hasImg": true
+        },
+        {
+            "id": "9d17da8e-fe3c-4538-9d73-7002201d8474",
+            "word": "Christmas cake",
+            "phonetic": "kɹɪsməs keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2hyaXN0bWFzIGNha2U&hash=28bb45de192b9ee3d30cad0ed16155a6023bc182&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is traditionally served during the Christmas holiday season, and is often made with dried fruit, spices, and sometimes brandy or other spirits",
+            "defineVi": "một loại bánh truyền thống được phục vụ trong mùa lễ Giáng sinh, và thường được làm bằng trái cây sấy khô, gia vị, và đôi khi là rượu mạnh hoặc các loại rượu mạnh khác",
+            "hasImg": true
+        },
+        {
+            "id": "ac53d2a1-cdfb-4466-a357-b7240d18c46b",
+            "word": "angel food cake",
+            "phonetic": "eɪndʒəl fuːd keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW5nZWwgZm9vZCBjYWtl&hash=c495c6eddc6e5a0e02f1fa2c436a0afd1908e6ad&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is light and fluffy, and is made from a mixture of whipped egg whites, sugar, and flour",
+            "defineVi": "một loại bánh nhẹ và mịn, được làm từ hỗn hợp lòng trắng trứng đánh bông, đường và bột mì",
+            "hasImg": true
+        },
+        {
+            "id": "7233e279-7ac8-4612-b0ac-76ab2ac0ab64",
+            "word": "black forest cake",
+            "phonetic": "blæk fɔːɹɪst keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2sgZm9yZXN0IGNha2U&hash=deba81970a628f7d531279c54d1c86192543bd71&lang=en&cache-only=0",
+            "defineEn": "a type of chocolate cake that is typically layered with whipped cream and cherries, and often soaked in cherry liqueur",
+            "defineVi": "một loại bánh sô cô la thường có nhiều lớp với kem đánh bông và quả anh đào, và thường ngâm trong rượu mùi anh đào",
+            "hasImg": true
+        },
+        {
+            "id": "5f96d6a1-9382-41cb-8be6-e1a37aee2ccd",
+            "word": "Boston cream pie",
+            "phonetic": "bɔstən kɹiːm paɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Qm9zdG9uIGNyZWFtIHBpZQ&hash=83c769a7f8ed5eec8fd4343232700d91f7d00688&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made from two layers of sponge cake filled with pastry cream and topped with a chocolate glaze",
+            "defineVi": "một loại bánh được làm từ hai lớp bánh xốp chứa đầy kem bánh và phủ một lớp men sô cô la",
+            "hasImg": true
+        },
+        {
+            "id": "640bde52-31f0-4b09-bd12-fd3f7bee268d",
+            "word": "brownie",
+            "phonetic": "bɹaʊni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She’s just trying to win brownie points with the boss.",
+                "A post, which in all probability, is fake and written solely for either earning a brownie point or being afraid of left out.",
+                "Like you have a break up, brownies.",
+                "This is just normal brownie batter.",
+                "Take the brownies out and slam them on your kitchen counter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvd25pZQ&hash=53223805b04aaebda5be22f337d02d210f985d05&lang=en&cache-only=0",
+            "defineEn": "a square shaped flat cake that is made with chocolate and occasionally nuts",
+            "defineVi": "một chiếc bánh phẳng hình vuông được làm bằng sô cô la và đôi khi là các loại hạt",
+            "hasImg": true
+        },
+        {
+            "id": "fb40d132-4a8c-4d1b-8f66-cdb70bdcf115",
+            "word": "charlotte",
+            "phonetic": "ʃɑːɹlət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Charlotte excels in playing the piano because she learned the instrument at her mother's knee.",
+                "He whistles constantly and it gets on Charlotte's nerves.",
+                "As they cuddled on the couch, Charlotte and Henry exchanged sweet nothings, expressing their love for each other.",
+                "Charlotte's friends warned her about the guy she was dating, saying he had a reputation for dating wealthy women and being a gold digger.",
+                "It's Charlotte."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhcmxvdHRl&hash=1b21be84c14f51af349be171db1ae89a3a5b93b3&lang=en&cache-only=0",
+            "defineEn": "a cooked dessert made with sponge cake, biscuits or lady fingers placed in a mold and filled with whipped cream and fruits",
+            "defineVi": "một món tráng miệng nấu chín làm từ bánh bông lan, bánh quy hoặc bánh lady finger được đặt trong khuôn và chứa đầy kem đánh bông và trái cây",
+            "hasImg": true
+        },
+        {
+            "id": "56670238-36f0-4ea4-a297-800f7f0d97d9",
+            "word": "cheesecake",
+            "phonetic": "tʃiːzkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our mascarpone cheesecake is a customer favorite",
+                "One of my favorite desserts is a creamy cheesecake made with cream cheese.",
+                "The vibrant purple color of whinberries adds a beautiful touch to desserts like cheesecakes and tarts.",
+                "She discovered almond paste as a perfect substitute for cream cheese in her cheesecake recipe.",
+                "My grandmother always uses a stabilizer when baking her famous cheesecake to ensure it maintains its perfect texture."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNlY2FrZQ&hash=2bfbf8bf617d588fb3a05af853f42a75ca2302da&lang=en&cache-only=0",
+            "defineEn": "a type of sweet dessert made from soft cheese on a cake or biscuit base",
+            "defineVi": "một loại món tráng miệng ngọt làm từ phô mai mềm trên nền bánh hoặc bánh quy",
+            "hasImg": true
+        },
+        {
+            "id": "40aa8947-9a69-45da-a489-9f2007a7ecf4",
+            "word": "chiffon cake",
+            "phonetic": "tʃɪfən keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hpZmZvbiBjYWtl&hash=19f6edfabb6109f6b82a068db817fde176db13ce&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is light and airy, and is made from a mixture of whipped egg whites, flour, sugar, and oil",
+            "defineVi": "một loại bánh nhẹ và xốp, được làm từ hỗn hợp lòng trắng trứng đánh bông, bột mì, đường và dầu",
+            "hasImg": true
+        },
+        {
+            "id": "23795c64-5bbe-4b25-8821-715ae7235649",
+            "word": "cupcake",
+            "phonetic": "kʌpkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children decorated their cupcakes on a colorful dish.",
+                "The bakery decorated the cupcakes with a maraschino cherry on each.",
+                "The caterer really pulled a rabbit out of a hat by producing 100 cupcakes with just 20 minutes' notice.",
+                "You were all over your sister about her eating habits, but you start pouting when I point out that you had a cupcake for dinner last night!",
+                "You got another cupcake in there?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VwY2FrZQ&hash=946b47a79cc4afa056d2347978e2562986e8af91&lang=en&cache-only=0",
+            "defineEn": "a small cake baked in the shape of a small cup and usually with frosting",
+            "defineVi": "một chiếc bánh nhỏ được nướng trong hình dạng của một chiếc cốc nhỏ và thường có phủ sương",
+            "hasImg": true
+        },
+        {
+            "id": "9e448a2d-1240-4662-a4d2-d8cf311b9077",
+            "word": "devil's food cake",
+            "phonetic": "dɛvəl bækslæʃ ɛs fuːd keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGV2aWwncyBmb29kIGNha2U&hash=e3505205d6b9b80b38890b90fb6aeb46ba1822ae&lang=en&cache-only=0",
+            "defineEn": "a type of chocolate cake that is known for its rich, dark color and deep chocolate flavor",
+            "defineVi": "một loại bánh sô cô la được biết đến với màu đậm, đậm đà và hương vị sô cô la đậm",
+            "hasImg": true
+        },
+        {
+            "id": "28b61125-c61a-4db8-89d0-2e5626d50f1d",
+            "word": "eccles cake",
+            "phonetic": "ɛkəlz keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWNjbGVzIGNha2U&hash=f43e6471bb7a29afdf5efc7a4f46d2c8fd4ff4ec&lang=en&cache-only=0",
+            "defineEn": "a type of pastry that originated in England and is made from a flaky pastry filled with currants, sugar, and spices",
+            "defineVi": "một loại bánh ngọt có nguồn gốc từ Anh và được làm từ một loại bánh ngọt có nhân nho, đường và gia vị",
+            "hasImg": true
+        },
+        {
+            "id": "a6690d2a-23a7-4b5b-af36-b00480e98fb2",
+            "word": "fruitcake",
+            "phonetic": "fɹuːtkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sultanas are a popular ingredient in fruitcakes and other baked goods.",
+                "As a kid, I used to enjoy picking off the maraschino cherries from my mom's homemade fruitcake before devouring the rest of it.",
+                "Pupate cake, will it fruitcake? -",
+                "- Will it fruitcake?",
+                "But will it fruitcake?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXRjYWtl&hash=c58fc3fc30bf61c6152ccb197dd0134c7be4ca46&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made with dried or candied fruit, nuts, and spices, and is often soaked in brandy or other spirits to enhance its flavor",
+            "defineVi": "một loại bánh được làm bằng trái cây sấy khô hoặc kẹo, các loại hạt và gia vị, và thường được ngâm trong rượu mạnh hoặc các loại rượu mạnh khác để tăng hương vị",
+            "hasImg": true
+        },
+        {
+            "id": "c2b0e19d-f585-4512-ad53-a7a36a036a59",
+            "word": "ice-cream cake",
+            "phonetic": "aɪskɹiːm keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWNlLWNyZWFtIGNha2U&hash=b26734426d63ec29f7ac222af26a2cd9570b7481&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made from layers of ice cream and cake, which are then frozen together",
+            "defineVi": "một loại bánh được làm từ nhiều lớp kem và bánh, sau đó được đông lạnh lại với nhau",
+            "hasImg": true
+        },
+        {
+            "id": "badf6e4e-a2d7-404a-8d87-4d5a2b8d5f7e",
+            "word": "Madeira cake",
+            "phonetic": "mædɛɹə keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=TWFkZWlyYSBjYWtl&hash=cd2c47ada421a3ca1b2c40d0217df4e969f5c059&lang=en&cache-only=0",
+            "defineEn": "a type of sponge cake that is dense, buttery, and has a slightly lemony flavor",
+            "defineVi": "một loại bánh xốp dày đặc, bơ và có một chút hương vị chanh",
+            "hasImg": true
+        },
+        {
+            "id": "814fe280-381b-4f4a-ac17-f177b026c6c7",
+            "word": "marble cake",
+            "phonetic": "mɑːɹbəl keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFyYmxlIGNha2U&hash=69e88c71d0c4091702177d94fc4977d19c8a7f10&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made by combining two different flavors of cake batter, usually vanilla and chocolate, which are then swirled together to create a marbled effect",
+            "defineVi": "một loại bánh được làm bằng cách kết hợp hai hương vị khác nhau của bột bánh, thường là vani và sô cô la, sau đó được trộn với nhau để tạo ra hiệu ứng cẩm thạch",
+            "hasImg": true
+        },
+        {
+            "id": "f66a69e7-cc75-48e0-a450-923077bec6d9",
+            "word": "mooncake",
+            "phonetic": "muːŋkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9vbmNha2U&hash=73b52dc90845ab3a9cccbeaaba20e67e26e95b94&lang=en&cache-only=0",
+            "defineEn": "a traditional Chinese pastry typically eaten during the Mid-Autumn Festival, characterized by its round shape and various fillings",
+            "defineVi": "một loại bánh ngọt truyền thống của Trung Quốc thường được ăn trong Tết Trung thu, đặc trưng bởi hình tròn và nhiều loại nhân khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "a8952af8-7c98-4fa0-818a-3ea84e62b219",
+            "word": "petit four",
+            "phonetic": "pətiː foːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "(bright guitar music) - All right, so I'll have a petit four and a green tea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGV0aXQgZm91cg&hash=d8bbec9a4f9dc6b44fa0c58f2d7f1441e9afa63f&lang=en&cache-only=0",
+            "defineEn": "a small designed cake which is served with tea or coffee",
+            "defineVi": "một chiếc bánh được thiết kế nhỏ được phục vụ với trà hoặc cà phê",
+            "hasImg": true
+        },
+        {
+            "id": "4ebeae50-ed44-48e3-8f6c-b737f6a18417",
+            "word": "pound cake",
+            "phonetic": "paʊnd keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG91bmQgY2FrZQ&hash=ccc2b91e7a8169c0ac2096b3925c2d679b67f1c9&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made from a mixture of flour, butter, sugar, and eggs, and is traditionally baked in a loaf pan",
+            "defineVi": "một loại bánh được làm từ hỗn hợp bột mì, bơ, đường và trứng, và được nướng theo kiểu truyền thống trong khuôn ổ bánh mì",
+            "hasImg": true
+        },
+        {
+            "id": "bda3d0bd-8067-430c-82fa-a96bf7fe206c",
+            "word": "red velvet cake",
+            "phonetic": "ɹɛd vɛlvɪt keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVkIHZlbHZldCBjYWtl&hash=f77a74c0a4f1c16bc946f54573187870e1241666&lang=en&cache-only=0",
+            "defineEn": "a popular cake characterized by its distinctive red color, typically made with cocoa powder and buttermilk",
+            "defineVi": "một loại bánh phổ biến đặc trưng bởi màu đỏ đặc trưng của nó, thường được làm bằng bột ca cao và bơ sữa",
+            "hasImg": true
+        },
+        {
+            "id": "a6372994-9619-4440-be11-57018a68662a",
+            "word": "rock cake",
+            "phonetic": "ɹɑːk keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cm9jayBjYWtl&hash=bd69788e237c5e0da7428bb60e92a6598f415f9d&lang=en&cache-only=0",
+            "defineEn": "a type of small, rustic cake that is popular in the United Kingdom and is known for its rough and crumbly texture",
+            "defineVi": "một loại bánh nhỏ, mộc mạc phổ biến ở Vương quốc Anh và được biết đến với kết cấu thô và dễ vỡ",
+            "hasImg": true
+        },
+        {
+            "id": "b408709b-70a5-4c5c-965e-51be2d987b57",
+            "word": "rum baba",
+            "phonetic": "ɹʌm bɑːbə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cnVtIGJhYmE&hash=eab3de6b17954ad931b58acd2980d0eadfc5e20d&lang=en&cache-only=0",
+            "defineEn": "a classic dessert made of a small yeast cake soaked in rum syrup, often filled with whipped cream or pastry cream",
+            "defineVi": "một món tráng miệng cổ điển làm từ một chiếc bánh men nhỏ ngâm trong xi-rô rượu rum, thường chứa đầy kem đánh bông hoặc kem bánh ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "6a2053ca-47e6-45d4-a514-ef4b56cdd213",
+            "word": "souffle",
+            "phonetic": "suːfleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The moment of truth has arrived - I'm going to serve my first soufflé!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291ZmZsZQ&hash=db89213c5ff2b183630edae51684316cae1564c7&lang=en&cache-only=0",
+            "defineEn": "a dish made with mixing beaten egg whites, flour, and milk together with cheese or fruit until light and spongy",
+            "defineVi": "một món ăn được làm bằng cách trộn lòng trắng trứng, bột mì và sữa cùng với pho mát hoặc trái cây cho đến khi nhẹ và xốp",
+            "hasImg": true
+        },
+        {
+            "id": "2fd70de7-426c-4d23-bd4e-893df9320df8",
+            "word": "Swiss roll",
+            "phonetic": "swɪs ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U3dpc3Mgcm9sbA&hash=a8cac5074938239fac84b2a0cfbb46f8d21a1c14&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is made from a thin sheet of sponge cake that is rolled up with a sweet filling, such as jam, cream, or chocolate",
+            "defineVi": "một loại bánh được làm từ một tấm bánh bông lan mỏng được cuộn lại với nhân ngọt, chẳng hạn như mứt, kem hoặc sô cô la",
+            "hasImg": true
+        },
+        {
+            "id": "72246a1c-cb62-42ca-8b68-0669d8b4906a",
+            "word": "teacake",
+            "phonetic": "tiːkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Teacakes should be served hot with butter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVhY2FrZQ&hash=68e4dd850aa95219e50df2d8164d61ead632fcde&lang=en&cache-only=0",
+            "defineEn": "a type of sweet, soft, and fluffy bread or cake that is typically flavored with dried fruit, such as currants, raisins, or cherries",
+            "defineVi": "một loại bánh mì hoặc bánh ngọt, mềm và xốp thường có hương vị trái cây sấy khô, chẳng hạn như nho khô, nho khô hoặc anh đào",
+            "hasImg": true
+        },
+        {
+            "id": "fa03fe71-9526-4fac-a325-0b391f6be46e",
+            "word": "upside-down cake",
+            "phonetic": "ʌpsaɪddaʊn keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dXBzaWRlLWRvd24gY2FrZQ&hash=de6c29d1f8ff0c700ce425d3de4cac20f655fd27&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is baked with fruit on the bottom of the pan, which is then flipped over after baking so that the fruit is on top of the cake",
+            "defineVi": "một loại bánh được nướng với trái cây ở đáy khuôn, sau khi nướng xong thì lật lại để trái cây nằm trên mặt bánh",
+            "hasImg": true
+        },
+        {
+            "id": "dec5e5e0-f0e3-4480-bb05-3548c63353d4",
+            "word": "madeleine",
+            "phonetic": "mædəlɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFkZWxlaW5l&hash=2624bed22be0d53dfff9683b0e933fbbf00a005d&lang=en&cache-only=0",
+            "defineEn": "a traditional small French cake, typically shell-shaped, with a light and airy texture and a distinct lemon or orange flavor",
+            "defineVi": "một loại bánh nhỏ truyền thống của Pháp, thường có hình vỏ sò, với kết cấu nhẹ và thoáng mát và có hương vị chanh hoặc cam riêng biệt"
+        },
+        {
+            "id": "ec3f71df-2884-433a-b74d-a6ef19a86ae1",
+            "word": "Bundt cake",
+            "phonetic": "bʌnt keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QnVuZHQgY2FrZQ&hash=f2f6ff7b84f9830fdc5962a4ca5d46df56c281cd&lang=en&cache-only=0",
+            "defineEn": "a type of cake that is baked in a Bundt pan, resulting in a ring-shaped cake with decorative grooves and a central tube",
+            "defineVi": "một loại bánh được nướng trong chảo Bundt, tạo ra một chiếc bánh hình vòng với các rãnh trang trí và một ống trung tâm",
+            "hasImg": true
+        },
+        {
+            "id": "e2279fef-948a-42f4-a542-292aa20b0c2e",
+            "word": "sheet cake",
+            "phonetic": "ʃiːt keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2hlZXQgY2FrZQ&hash=46e0c15fd9dabfa7c1264afc801133c5a46268ff&lang=en&cache-only=0",
+            "defineEn": "a large rectangular cake that is typically baked in a shallow, flat pan",
+            "defineVi": "một chiếc bánh hình chữ nhật lớn thường được nướng trong một cái chảo nông, phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "97555344-c9a8-48d3-9446-8cb281727d97",
+            "word": "sno ball",
+            "phonetic": "snoʊ bɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c25vIGJhbGw&hash=c937b4924d98b30ed424b034a94b21e507336855&lang=en&cache-only=0",
+            "defineEn": "a type of sweet treat typically made of cake or marshmallow covered in colorful, flavored coconut flakes",
+            "defineVi": "một loại món ngọt thường được làm bằng bánh ngọt hoặc kẹo dẻo phủ trong những miếng dừa có hương vị, nhiều màu sắc",
+            "hasImg": true
+        },
+        {
+            "id": "fe142086-8c38-472a-9179-1d497c27ee45",
+            "word": "pancake",
+            "phonetic": "pæŋkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Grandma's clabber pancakes are a family favorite for Sunday brunch.",
+                "The fluffy pancakes owed their light texture to the addition of baking powder.",
+                "They shared golden-brown mung bean pancakes.",
+                "The fluffy pancakes were made from a simple batter of flour, eggs, milk, and a pinch of salt.",
+                "The ricotta adds a creamy texture and subtle tanginess to the pancakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
+            "defineEn": "a flat round cake that is thin and is made with milk, eggs, and flour, which is then baked in a pan",
+            "defineVi": "một chiếc bánh tròn phẳng, mỏng và được làm bằng sữa, trứng và bột mì, sau đó được nướng trong chảo",
+            "hasImg": true
+        },
+        {
+            "id": "0391e63a-de06-4cf3-874e-1e5b25e15b2c",
+            "word": "hotcake",
+            "phonetic": "hɑːtkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These are gonna sell like hotcakes.",
+                "We have of course our official MAGA hat, that sells like hotcakes.",
+                "Pulled each thing open it, you know, we had, at the end, we didn't win the million dollars, but we had like 200 Big Breakfasts and 300 hotcakes and sausage."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90Y2FrZQ&hash=4e85a0a38c82bfa15a15ecec7c3872421ce3f171&lang=en&cache-only=0",
+            "defineEn": "a type of pancake that is made from a batter of flour, eggs, milk, and other ingredients, cooked on a hot griddle or frying pan until golden brown",
+            "defineVi": "một loại bánh kếp được làm từ bột mì, trứng, sữa và các thành phần khác, nấu trên vỉ nướng hoặc chảo nóng cho đến khi có màu vàng nâu",
+            "hasImg": true
+        },
+        {
+            "id": "77726ae6-8b30-42bc-9bc2-1966fe15e12c",
+            "word": "flapjack",
+            "phonetic": "flæpdʒæk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmxhcGphY2s&hash=c95becd9b37b902b5bd23d775dbede12ce2a4d07&lang=en&cache-only=0",
+            "defineEn": "a thin flat cake made with a batter, both sides of which are cooked on a griddle",
+            "defineVi": "một chiếc bánh phẳng mỏng được làm bằng bột, cả hai mặt đều được nướng trên vỉ nướng",
+            "hasImg": true
+        },
+        {
+            "id": "9e02c395-c6b2-4f23-bfe8-24c5212b6ced",
+            "word": "blini",
+            "phonetic": "blɪni ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ymxpbmk&hash=e570be569d333053d0a70191d4c65a060a140b5b&lang=en&cache-only=0",
+            "defineEn": "a type of Russian pancake that is made from buckwheat flour and yeast, and is typically served with toppings such as sour cream, caviar, or smoked salmon",
+            "defineVi": "một loại bánh kếp của Nga được làm từ bột kiều mạch và men, thường ăn kèm với các loại topping như kem chua, trứng cá muối hoặc cá hồi hun khói",
+            "hasImg": true
+        },
+        {
+            "id": "2dda4563-45f7-4189-8122-2c6d63b02e17",
+            "word": "crepe",
+            "phonetic": "kɹeɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sometimes, life gives you crepes.",
+                "I am 900% crepe right now.",
+                "We made a lot of crepes on Tasty.",
+                "This is the 99th crepe.",
+                "This is our last crepe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlcGU&hash=65aaff07d99e34a06a6aaba51ec9f39b5ed249e9&lang=en&cache-only=0",
+            "defineEn": "a very thin pancake, originally made in Brittany, France",
+            "defineVi": "một chiếc bánh kếp rất mỏng, ban đầu được làm ở Brittany, Pháp",
+            "hasImg": true
+        },
+        {
+            "id": "bc6799ee-ffa6-4803-88c2-e5339fab6298",
+            "word": "gateau",
+            "phonetic": "ɡæɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2F0ZWF1&hash=cf11e1dcdd61ddae639b474b0f1080fb57454223&lang=en&cache-only=0",
+            "defineEn": "any layered cake that is filled with chocolate, fruits, nuts and cream",
+            "defineVi": "bất kỳ loại bánh nhiều lớp nào chứa đầy sô cô la, trái cây, các loại hạt và kem",
+            "hasImg": true
+        },
+        {
+            "id": "ced24dc1-d668-42ce-b8be-c83c6d6f7966",
+            "word": "medovik",
+            "phonetic": "mɛdəvɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVkb3Zpaw&hash=68dd974d9a54454c822a4f6e669ec43716f4366d&lang=en&cache-only=0",
+            "defineEn": "a Russian honey cake made of multiple layers of honey-infused cake filled with creamy frosting or dulce de leche",
+            "defineVi": "một chiếc bánh mật ong của Nga được làm từ nhiều lớp bánh tẩm mật ong chứa đầy kem phủ hoặc dulce de leche",
+            "hasImg": true
+        },
+        {
+            "id": "b3993a22-3926-4964-b8b5-db42b64c27b1",
+            "word": "muffin",
+            "phonetic": "mʌfɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As they hosted a brunch party, they served spelt muffins.",
+                "She sprinkled some powdered sugar on top of the raspberry muffins for an extra touch of sweetness.",
+                "I made apricot muffins for the bake sale, and they were a big hit among the crowd.",
+                "I can't resist the temptation of a loganberry muffin fresh out of the oven.",
+                "Bosc pear and cinnamon muffins are a delicious way to start the day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVmZmlu&hash=397cdd1595fa240b39a6dc5d2e1a0478f3aa8c54&lang=en&cache-only=0",
+            "defineEn": "a small cup-shaped cake that is sweet in taste, made with eggs and baking powder",
+            "defineVi": "một chiếc bánh hình chén nhỏ có vị ngọt, được làm bằng trứng và bột nở",
+            "hasImg": true
+        },
+        {
+            "id": "88db2adc-4565-4783-ba11-8d18e3c28688",
+            "word": "cake",
+            "phonetic": "keɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cake was burnt to a cinder.",
+                "The old lady's cake wasn't wonderful",
+                "My grandmother's hazelnut cake was a crowd-pleaser at the family reunion.",
+                "Oh, that takes the cake!",
+                "I baked a chocolate cake for my friend's birthday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FrZQ&hash=06d0cb848466be1f75dfd8a67dc34ee7a4709661&lang=en&cache-only=0",
+            "defineEn": "a sweet food that is made by mixing flour, butter or oil, sugar, eggs and other ingredients and then backing it in an oven",
+            "defineVi": "một món ăn ngọt được làm bằng cách trộn bột mì, bơ hoặc dầu, đường, trứng và các thành phần khác rồi cho vào lò nướng",
+            "hasImg": true
+        },
+        {
+            "id": "938e7450-0888-4735-89bf-541653561725",
+            "word": "torte",
+            "phonetic": "tɔːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9ydGU&hash=90d0302ea5f3f2a81237d533c70db3f58e25bed7&lang=en&cache-only=0",
+            "defineEn": "a type of cake made with layers of cake, usually filled with jam, cream, or other flavorings, and topped with a glaze or icing",
+            "defineVi": "một loại bánh được làm bằng nhiều lớp bánh, thường chứa đầy mứt, kem hoặc các hương liệu khác và phủ một lớp men hoặc đá lạnh lên trên"
+        },
+        {
+            "id": "0e88558a-886c-4434-9c67-56fe4d20ab1f",
+            "word": "battenburg",
+            "phonetic": "bæʔn̩bɜːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmF0dGVuYnVyZw&hash=134da5f5b1b80a911c7ccf174b7adf3f90b1e219&lang=en&cache-only=0",
+            "defineEn": "a traditional British sponge cake that consists of alternating squares of vanilla and pink or yellow sponge cake",
+            "defineVi": "một loại bánh xốp truyền thống của Anh bao gồm các ô vuông xen kẽ vani và bánh xốp màu hồng hoặc vàng"
+        }
+    ]
+}

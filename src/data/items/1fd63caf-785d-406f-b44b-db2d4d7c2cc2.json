@@ -1,0 +1,636 @@
+{
+    "id": "1fd63caf-785d-406f-b44b-db2d4d7c2cc2",
+    "title": "Get Well Soon!",
+    "originalTitle": "Get Well Soon!",
+    "words": [
+        {
+            "id": "4440285f-28fc-4da6-9fae-cd268e3af8d0",
+            "word": "to tranquillize",
+            "phonetic": "tə tɹæŋkwɪlaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gdHJhbnF1aWxsaXpl&hash=771c9e36bd7b634fc451ebc451505ba9bea1be4f&lang=en&cache-only=0",
+            "defineEn": "to make a person or animal calm or unconscious using drugs, like sedatives",
+            "defineVi": "để làm cho một người hoặc động vật bình tĩnh hoặc bất tỉnh bằng cách sử dụng thuốc, như thuốc an thần"
+        },
+        {
+            "id": "d8e67b90-4068-465e-b603-8d7c86056348",
+            "word": "anesthesia",
+            "phonetic": "ænɪsθiːʒə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They didn’t have any anesthesia?",
+                "We have two ventilators and four anesthesia machines.",
+                "Anesthesia was first used during surgery in 1846.",
+                "And now, patients are given muscle relaxants and anesthesia to reduce possible dangerous side effects from uncontrolled convulsions.",
+                "Under general anesthesia, we were able to see the full extent of the wound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5lc3RoZXNpYQ&hash=4cd0661b1b147efd6bd1768a7bcfa65d0e53038f&lang=en&cache-only=0",
+            "defineEn": "the condition of losing one's sensation or awareness during surgery and other procedures, particularly by use of special drugs",
+            "defineVi": "tình trạng mất cảm giác hoặc nhận thức trong khi phẫu thuật và các thủ tục khác, đặc biệt là do sử dụng các loại thuốc đặc biệt",
+            "hasImg": true
+        },
+        {
+            "id": "a018de7c-1235-4495-8683-a8273c778888",
+            "word": "biopsy",
+            "phonetic": "baɪɑːpsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This involves a doctor examining the cervix through a microscope, and possibly taking a small biopsy of tissue for closer examination.",
+                "For example, they’re now developing pressure-sensitive biopsy needles for use in cancer treatment.",
+                "Celiac disease is present in one in every 100 to 200 persons in the U.S. When blood tests suggest the possibility of celiac, the diagnosis is confirmed with a biopsy.",
+                "It's right in the center of the abdomen next to the spinal cord, so for surgery, biopsies, other things like that, it may be hard to find where the pancreas is.",
+                "This could be for a biopsy, which is a tissue sample taken for testing, or because there’s something in there that doesn’t belong, like diseased tissue or a blood clot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlvcHN5&hash=e59dcb0f2cf9e3544da3aeec7b1b5b65c5baca61&lang=en&cache-only=0",
+            "defineEn": "the process of removing and analyzing tissue from the body of a sick person to learn more about their condition",
+            "defineVi": "quá trình loại bỏ và phân tích mô từ cơ thể của người bệnh để tìm hiểu thêm về tình trạng của họ"
+        },
+        {
+            "id": "10229477-f635-49bd-a37e-df23813558cf",
+            "word": "catheter",
+            "phonetic": "kæθɛɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I might order catheters.",
+                "Then, he pushed the catheter about 65 centimeters up his vein towards his heart.",
+                "There, doctors thread a wire through the vessel to the obstructed site, and then place a deflated balloon catheter over the wire.",
+                "After fertilization, embryos can be further screened for genetic suitability, frozen for later attempted pregnancies, or delivered into the woman's uterus via catheter.",
+                "He’d read about inserting catheters into the animals’ hearts as a diagnostic technique to measure the pressure in their hearts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2F0aGV0ZXI&hash=5825539a600f3d9f9bd88d57e15389de008b7b54&lang=en&cache-only=0",
+            "defineEn": "a flexible tube inserted into one's bladder, to drain and collect urine",
+            "defineVi": "một ống linh hoạt được đưa vào bàng quang của một người, để dẫn lưu và lấy nước tiểu"
+        },
+        {
+            "id": "0ee57ba3-623f-43a2-a545-c77fe03798cc",
+            "word": "chiropractor",
+            "phonetic": "kaɪɹəpɹæktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My chiropractor I've had since 8th grade.",
+                "They came in below chiropractors, insurance salespeople, advertisers, lawyers and members of Congress.",
+                "And so, I went to the chiropractor first.",
+                "And I was going to the chiropractor more often too.",
+                "Even if you have a chiropractor that's known you since the 8th grade Even if you have a family doctor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpcm9wcmFjdG9y&hash=d98a4814530e37d99d0a798f56d3a0b6494d077a&lang=en&cache-only=0",
+            "defineEn": "someone who treats diseases or physical problems by pressing or manipulating joints in the body",
+            "defineVi": "một người điều trị bệnh tật hoặc các vấn đề về thể chất bằng cách ấn hoặc điều khiển các khớp trong cơ thể",
+            "hasImg": true
+        },
+        {
+            "id": "4306a9fa-c6b1-4c8f-8904-10d9c4872b90",
+            "word": "diagnosis",
+            "phonetic": "daɪəɡnoʊsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The doctor asked me about my symptoms and medical history to make a diagnosis.",
+                "He knows he is living on borrowed time after his cancer diagnosis.",
+                "When faced with a difficult health diagnosis, I remind myself that while there is life there is hope - and that with the right treatment and mindset, I can recover and thrive.",
+                "This diagnosis exists for a reason.",
+                "To get this diagnosis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhZ25vc2lz&hash=4e7405ff6290f373e843a1ddb9c2d429763e9a8d&lang=en&cache-only=0",
+            "defineEn": "the identification of the nature and cause of an illness or other problem",
+            "defineVi": "việc xác định bản chất và nguyên nhân của một căn bệnh hoặc vấn đề khác",
+            "hasImg": true
+        },
+        {
+            "id": "eb6d182e-c22b-4aea-9f0f-3b31724d127c",
+            "word": "to discharge",
+            "phonetic": "tə dɪstʃɑːɹdʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "When a student goes AWOL repeatedly, the Principal determines the appropriate disciplinary action, up to and including recommendation for discharge.",
+                "Just discharges me.",
+                "The jumper repeater grenade discharges three large blasts of tear gas in rapid succession.",
+                "And just, discharges me.",
+                "Well, the life of a battery is measured in discharge cycles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlzY2hhcmdl&hash=558f84943c45c9dbe2646b9052516fc5cd1a8e15&lang=en&cache-only=0",
+            "defineEn": "to allow a patient to leave the hospital because they have recovered and no longer need to receive inpatient care",
+            "defineVi": "cho phép bệnh nhân xuất viện vì họ đã bình phục và không cần phải điều trị nội trú nữa",
+            "hasImg": true
+        },
+        {
+            "id": "6787db3c-6c6f-4b8d-b4b9-dc3e5f134477",
+            "word": "to dress",
+            "phonetic": "tə dɹɛs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "My grandmother made a dress for me.",
+                "The bride's wedding dress is white.",
+                "She bought an expensive dress for a special occasion.",
+                "Where did you buy that dress?",
+                "This dress makes me look fat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZHJlc3M&hash=adb9d8e3b42291ca982155552090e4b30bb84d1e&lang=en&cache-only=0",
+            "defineEn": "to clean the wound properly and apply bandages in order to promote healing and to protect it from further harm",
+            "defineVi": "làm sạch vết thương đúng cách và băng lại để thúc đẩy vết thương mau lành và bảo vệ vết thương khỏi bị tổn hại thêm",
+            "hasImg": true
+        },
+        {
+            "id": "4f2b3507-e7de-4980-9139-52ee874a79f6",
+            "word": "geriatric",
+            "phonetic": "dʒɛɹɪætɹɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Every Sunday, 11:00 AM just go oatmeal Geriatric.",
+                "I can't fill up a space shuttle with geriatrics."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2VyaWF0cmlj&hash=c6952bd4367e43837c8f11fef188420dd264eee8&lang=en&cache-only=0",
+            "defineEn": "of or relating to or practicing geriatrics",
+            "defineVi": "của, liên quan đến hoặc thực hành lão khoa"
+        },
+        {
+            "id": "e6d53429-cd3b-4156-b1bf-9b06810e2c8e",
+            "word": "to immunize",
+            "phonetic": "tʊ ɪmjuːnaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "So far, nearly 63 percent of U.S. adults are at least partially immunized.",
+                "Now the San Francisco Zoo has immunized 124 mountain yellow-legged frogs.",
+                "And more importantly, only about three percent of the U.S. population has been immunized so far.",
+                "And in 2017, a record 123 million children were immunized with at least one dose of DTP.",
+                "She also encouraged pregnant women to be immunized."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW1tdW5pemU&hash=d58d0715d48013241b25326ec05d8e09d49ffc14&lang=en&cache-only=0",
+            "defineEn": "to protect an animal or a person from a disease by vaccination",
+            "defineVi": "để bảo vệ một con vật hoặc một người từ một căn bệnh bằng cách tiêm phòng",
+            "hasImg": true
+        },
+        {
+            "id": "1bc389c0-03dd-4e1a-a130-ad780fca6d05",
+            "word": "intravenous",
+            "phonetic": "ɪntɹəviːnəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Our goal is to really change the way intravenous drugs are delivered and to move that delivery from the hospital or clinic into the patient's home.",
+                "Intravenous or oral versions, used to treat chronic autoimmune conditions like lupus or inflammatory bowel disease, impact the whole body.",
+                "And during a difficult childbirth she was given intravenous Fentanyl, an opioid painkiller, by a doctor who didn’t know about her addiction.",
+                "It's important that if your baby is showing signs of water intoxication that you take them to the hospital immediately, where a doctor will likely provide some form of fluids like intravenous saline solution to bring the infant's sodium levels up to normal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50cmF2ZW5vdXM&hash=916b8e31f5f0017a9d95c960e9177a0b8e43ff64&lang=en&cache-only=0",
+            "defineEn": "within, administered into, taking place in, or connected to a vein",
+            "defineVi": "bên trong, đưa vào, diễn ra trong, hoặc kết nối với tĩnh mạch",
+            "hasImg": true
+        },
+        {
+            "id": "5f43522f-f645-4304-8b0d-d4cb4fa22dff",
+            "word": "ointment",
+            "phonetic": "ɔɪntmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tony's poor English was a fly in the ointment when he applied for the job.",
+                "I'm looking forward to Sunday, the only fly in the ointment being the fact that I'll have to sit next to my mother-in-law.",
+                "You got ointment? ",
+                "The doctor wiped my butt with ointment and then it went away.",
+                "And horse trainer Bob Baffert now says a skin ointment may have caused his Kentucky Derby winner to fail a drug test."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2ludG1lbnQ&hash=f7a952541e3e75b90b559d736c7189700c1d0374&lang=en&cache-only=0",
+            "defineEn": "a substance, usually smooth and oily, rubbed on the skin for medical purposes",
+            "defineVi": "một chất, thường mịn và nhờn, được xoa lên da cho mục đích y tế",
+            "hasImg": true
+        },
+        {
+            "id": "a44426e6-1229-43f0-a7e1-657c21be8209",
+            "word": "outpatient",
+            "phonetic": "aʊtpeɪʃənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There are both inpatient and outpatient programs that combine medication, health services, and psychotherapy.",
+                "We don't see paranoid personality disorder much in an outpatient setting.",
+                "Outpatient meaning you go in to see your treatment team members, And you go back to your regular life, Just like a regular doctors appointment.",
+                "The researchers argue that the disclosure of the study led to fewer outpatient and inpatient physician interactions for older Black men.",
+                "Outpatient means that you live your regular everyday life and then you go for your appointments so I go for therapy and I come home"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3V0cGF0aWVudA&hash=98046d51a0ef66aefacff0fc8558930490ca0fea&lang=en&cache-only=0",
+            "defineEn": "a patient who receives treatment in a hospital but does not remain there",
+            "defineVi": "một bệnh nhân được điều trị trong bệnh viện nhưng không ở lại đó",
+            "hasImg": true
+        },
+        {
+            "id": "14763244-d6c0-41c0-83d4-e9d45bcdf89f",
+            "word": "over-the-counter",
+            "phonetic": "oʊvɚðəkaʊntɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Then you’ve got your over-the-counter weight loss supplements.",
+                "And over-the-counter sleeping pills can be highly addictive, leading to withdrawal that worsens symptoms.",
+                "- It's Alaskan Fury, it's cocaine and over-the-counter painkillers.",
+                "Over-the-counter pregnancy tests are all designed to detect one thing: a hormone called HCG.",
+                "You can take over-the-counter medications to help with pain, to help with a fever."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3Zlci10aGUtY291bnRlcg&hash=4bc7cbe00ca440b0ddac0f1e82951e7a8eed9457&lang=en&cache-only=0",
+            "defineEn": "(of drugs and medicines) available for purchase without a physician's prescription",
+            "defineVi": "(của thuốc và dược phẩm) có sẵn để mua mà không cần toa của bác sĩ"
+        },
+        {
+            "id": "2bd14d3c-922a-445e-a5f3-a9801ed80b62",
+            "word": "pharmaceutical",
+            "phonetic": "fɑːɹmɐsuːɾɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The interviewer suddenly began whaling on the politician over his alleged ties to the pharmaceutical industry.",
+                "Airlines do carry pharmaceuticals and vaccines all the time.",
+                "Consumer products and pharmaceuticals also make up a big share of counterfeit goods.",
+                "In 2002, two big pharmaceutical companies took interest in male contraception, Schering and Organon.",
+                "And pharmaceutical companies then turned those into drugs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGhhcm1hY2V1dGljYWw&hash=cfd99b8a1746f48226ba3b435166731a4396c192&lang=en&cache-only=0",
+            "defineEn": "related to the production, use, or sale of medicines",
+            "defineVi": "liên quan đến sản xuất, sử dụng hoặc bán thuốc",
+            "hasImg": true
+        },
+        {
+            "id": "391dbe3d-0915-47d7-a9ee-85b61a6d34d2",
+            "word": "restorative",
+            "phonetic": "ɹᵻstoːɹətɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "One more approach to just punishment is the concept of restorative justice.",
+                "That includes restorative justice, counselors, therapists, nurses and other support staff who can address safety concerns and conflicts.",
+                "But the findings from the orphanage studies taught us something else about brain development, too: the restorative power of relationships and interventions, even in cases of severe deprivation.",
+                "As early as the Middle Ages, monasteries for those with mental illnesses created so-called restorative gardens.",
+                "Another option is restorative justice, where instead of punishment, the focus is on rehabilitation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzdG9yYXRpdmU&hash=f3c7f091e570be01cda444f9afa4cc07cfbfc46e&lang=en&cache-only=0",
+            "defineEn": "able to promote or restore one's health or strength",
+            "defineVi": "có thể thúc đẩy hoặc phục hồi sức khỏe hoặc sức mạnh của một người"
+        },
+        {
+            "id": "bd7b1170-1ca4-458d-b1cf-ff97413bf268",
+            "word": "recuperation",
+            "phonetic": "ɹᵻkjuːpɚɹeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Part of it probably has to do with simple recuperation, allowing our neurons and other cells to rest and repair themselves."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjdXBlcmF0aW9u&hash=6c801d2df0995f051b36681c32014e5a8903c372&lang=en&cache-only=0",
+            "defineEn": "the process or fact of regaining one's health or strength after a period of illness or injury",
+            "defineVi": "quá trình hoặc thực tế lấy lại sức khỏe hoặc sức mạnh của một người sau một thời gian bị bệnh hoặc chấn thương",
+            "hasImg": true
+        },
+        {
+            "id": "d6847e21-9233-4efa-af92-2e90e853127b",
+            "word": "sanitarium",
+            "phonetic": "sænɪtɛɹiəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And lots of Ugly Laws sprung up as an excuse to arrest people and then move them into almshouses or to barr those who wouldn’t or couldn’t go to almshouses and sanitariums from going outside.",
+                "And Ugly Laws arise as the result of local governments trying to force people into newly constructed almshouses and sanitariums.",
+                "Even though many Progressives wanted to fight government corruptions, many of the almshouses and sanitariums that sprung up around this time were also rife with corruption of their own."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FuaXRhcml1bQ&hash=d95ed63be7dd04e4aaaf588e228aad22c6e6261d&lang=en&cache-only=0",
+            "defineEn": "an establishment or facility that treats people who have a chronic illness",
+            "defineVi": "một cơ sở hoặc cơ sở điều trị những người mắc bệnh mãn tính"
+        },
+        {
+            "id": "f5d083d0-6ecb-4068-921b-0ea92c91015f",
+            "word": "to stitch",
+            "phonetic": "tə stɪtʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Her jokes had us all in stitches.",
+                "At the charity event, the wealthy businessman's joke had everyone in stitches.",
+                "I was in stitches at that comedy show.",
+                "He can have you in stitches in a matter of minutes.",
+                "Here's a book that will have you in stitches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RpdGNo&hash=3d5d1c621c8cda404d4aa21514d00598e488fa5d&lang=en&cache-only=0",
+            "defineEn": "to join the edges of a wound together by a thread and needle",
+            "defineVi": "để nối các cạnh của vết thương với nhau bằng chỉ và kim",
+            "hasImg": true
+        },
+        {
+            "id": "8db750c9-70d5-41e0-8bda-38d8732e7926",
+            "word": "to swab",
+            "phonetic": "tə swɑːb ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We need swabs.",
+                "The swabs are issued uniforms.",
+                "In one study, 60 volunteers swabbed their belly buttons.",
+                "After the PFE, male swabs stop at the barbershop.",
+                "Swab: Let's go!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3dhYg&hash=439eb26cd58a1e0d0eecf635558b341746ee78b6&lang=en&cache-only=0",
+            "defineEn": "to clean, apply medication to, or remove liquid from a wound using a swab",
+            "defineVi": "để làm sạch, bôi thuốc hoặc loại bỏ chất lỏng từ vết thương bằng tăm bông"
+        },
+        {
+            "id": "ca2c55f4-e51a-4567-8e79-45ad0eff10d5",
+            "word": "tourniquet",
+            "phonetic": "tɜːnᵻkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And he's got a tourniquet on!",
+                "They give you a swig of alcohol, they put a tourniquet and they hack your leg off.",
+                "So, I was like just to use a glove to tie a tourniquet, your left hand to stabilize it, right hand rotate and pull it back."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG91cm5pcXVldA&hash=0e8c4a021dff6ddc04bdc3fe11cf7f55ee5a98fc&lang=en&cache-only=0",
+            "defineEn": "a device, such as a bandage, piece of fabric, etc. that arrests bleeding by applying pressure to the wound",
+            "defineVi": "một thiết bị, chẳng hạn như băng, mảnh vải, v.v. cầm máu bằng cách tạo áp lực lên vết thương",
+            "hasImg": true
+        },
+        {
+            "id": "c59e927b-c6e0-4941-88b7-3f5106461bee",
+            "word": "hypodermic",
+            "phonetic": "haɪpədɜːmɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So it's kind of like these hypodermic needles.",
+                "The embedded harpoon doubles as a hypodermic needle to inject the victim with paralyzing venom.",
+                "HIV is transmitted through exchange of bodily fluids, mostly through unprotected sexual contact, exchange of non-sterilized hypodermic needles, and earlier on in the epidemic, HIV-infected blood transfusions. ",
+                "So it's like stepping on a hypodermic needle that is upside down ready to squirt as soon as it has force applied.",
+                "They manufacture that venom using modified saliva glands, and deliver it using hypodermic needles disguised as teeth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHlwb2Rlcm1pYw&hash=2b30e226d0a5d90d9ca6d175385ffcbbf311c29e&lang=en&cache-only=0",
+            "defineEn": "a piston syringe with a long thin needle for injecting substances under the skin",
+            "defineVi": "một ống tiêm pít-tông với một cây kim dài mỏng để tiêm các chất dưới da",
+            "hasImg": true
+        },
+        {
+            "id": "44c1d7b9-8677-4146-b87c-28e435321bc2",
+            "word": "psychosis",
+            "phonetic": "saɪkoʊsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What is psychosis?",
+                "Postpartum psychosis can include the depressive symptoms of postpartum depression along with confusion, disorientation, Hallucinations, and paranoia.",
+                "So psychosis can be present in a variety of problems.",
+                "Ever hear the term steroid psychosis?",
+                "A good example is with postpartum psychosis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvc2lz&hash=1319c49b7b0bffa094d25398b36defb81eed4f30&lang=en&cache-only=0",
+            "defineEn": "a severe mental condition in which the patient loses contact with external reality",
+            "defineVi": "một tình trạng tâm thần nghiêm trọng trong đó bệnh nhân mất liên lạc với thực tế bên ngoài"
+        },
+        {
+            "id": "46f7f4a1-9631-4769-8c4d-5c14fb0ad941",
+            "word": "psychotic",
+            "phonetic": "saɪkɑːɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The psychotic symptoms are hallucinations, delusions, or severe thought or behavioral disorganization.",
+                "With psychotic depression, people can have persecutory delusions.",
+                "So who gets psychotic?",
+                "Clinicians sometimes call these micro psychotic episodes.",
+                "Under stress, people with paranoid personality disorder can have brief psychotic episodes that last minutes to hours."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvdGlj&hash=6c888bcb4bf5fa0fe2f033e60d92b5ac700adb08&lang=en&cache-only=0",
+            "defineEn": "(of a mental condition) affecting brain processes so severely that makes one unable to tell the difference between reality and fantasy",
+            "defineVi": "(về tình trạng tâm thần) ảnh hưởng nghiêm trọng đến các quá trình của não khiến người ta không thể phân biệt được đâu là thực và đâu là mộng"
+        },
+        {
+            "id": "916f811e-54fc-496c-8346-cbe58c809640",
+            "word": "neurosis",
+            "phonetic": "nʊɹɹoʊsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And, my neuroses are on display, but it was appealing enough to me that I left it in that.",
+                "Because there’s no risk of rejection in these one-sided relationships, scientists used to think that they had psychological causes, like loneliness, introversion, or neurosis.",
+                "It was also hard to tell if trauma was the real reason for the symptoms of neurosis, since by definition the memories might be repressed.",
+                "It meant they were on the border between a neurosis, which was considered treatable thing, and a psychosis, which was not.",
+                "The symptoms of shell shock were very similar to symptoms of what Freud called a neurosis, which he thought was caused by childhood trauma and the repressed emotions or complexes that came from it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV1cm9zaXM&hash=4e808b311ff5be58ff9cd1cc467d6b2ee56a4b55&lang=en&cache-only=0",
+            "defineEn": "a mental condition that is not caused by organic disease in which one is constantly anxious, worried, and stressed",
+            "defineVi": "một tình trạng tinh thần không phải do bệnh hữu cơ gây ra, trong đó một người thường xuyên lo lắng, lo lắng và căng thẳng"
+        },
+        {
+            "id": "974bb27a-a8d2-453f-aff1-dbfc3b60ea24",
+            "word": "acupressure",
+            "phonetic": "ækəpɹɛʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN1cHJlc3N1cmU&hash=afbbf2ccbfd6e28563547f0816781d9506b51a01&lang=en&cache-only=0",
+            "defineEn": "an alternative therapy in which pressure is put on specific parts of the body with hands and fingers",
+            "defineVi": "một liệu pháp thay thế trong đó áp lực lên các bộ phận cụ thể của cơ thể bằng tay và ngón tay",
+            "hasImg": true
+        },
+        {
+            "id": "2d26f80e-ab21-4eef-8435-7195d4774866",
+            "word": "acupuncture",
+            "phonetic": "ækjuːpʌŋktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Other alternative therapies include yoga, aerobic exercise, acupuncture, biofeedback and hypnosis.",
+                "Correlated with this urban environment is the access to these things, such as veterinary, acupuncture, oncology, dermatology.",
+                "So these tattoos are now thought to be evidence of early acupuncture or attempted healing practices.",
+                "Whatever you do, don't Google, \"Acupuncture gone wrong.\"",
+                "Like I don't want the government to know that I like to get my acupuncture done at 7:30 in the morning on a Tuesday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN1cHVuY3R1cmU&hash=097b49576bf7a9836095cccdc90b5da0471269d8&lang=en&cache-only=0",
+            "defineEn": "a method of treatment in which thin needles are inserted in specific spots on the body, originated in China",
+            "defineVi": "một phương pháp điều trị trong đó kim mỏng được đưa vào những điểm cụ thể trên cơ thể, có nguồn gốc từ Trung Quốc",
+            "hasImg": true
+        },
+        {
+            "id": "6c77c1f6-4cc2-4549-a256-7206dca6dc79",
+            "word": "to amputate",
+            "phonetic": "tʊ æmpjuːteɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "If a newt's leg is amputated, it will grow a new one.",
+                "It was amputated six months after he lost his job.",
+                "She had her leg amputated.",
+                "They bandaged her wing up and hoped she would heal, but the tip of her left wing was so badly damaged, it needed to be amputated. ",
+                "This means that either his right forearm was amputated in an injury, or the humerus was so badly broken that the two ends didn’t heal back together, and the lower part of the arm was somehow removed later."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYW1wdXRhdGU&hash=7b2c363ff6b8f5acddfafac87306f09b4b075d35&lang=en&cache-only=0",
+            "defineEn": "the removal of a limb or a part of it via surgical operatons due to being diseaed or badly damaged",
+            "defineVi": "việc loại bỏ một chi hoặc một phần của nó thông qua phẫu thuật do bị bệnh hoặc bị hư hỏng nặng",
+            "hasImg": true
+        },
+        {
+            "id": "ea9ca50f-bc66-4d4a-8421-5a73ef339d4e",
+            "word": "maladjusted",
+            "phonetic": "mælɐdʒʌstᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFsYWRqdXN0ZWQ&hash=603b6e250cbfd8fcc742302e200fa68ac92cbffb&lang=en&cache-only=0",
+            "defineEn": "(of a person) characterized by being emotionally unstable and incapable of coping with the demands of a normal social environment",
+            "defineVi": "(của một người) được đặc trưng bởi sự không ổn định về mặt cảm xúc và không có khả năng đối phó với các yêu cầu của một môi trường xã hội bình thường"
+        },
+        {
+            "id": "553f4924-5127-481b-942f-50e528fccd65",
+            "word": "mindfulness",
+            "phonetic": "maɪndfəlnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There is mindfulness.",
+                "You can practice mindfulness alongside of your medication treatment.",
+                "So most psychology and neuroscience research focuses on mindfulness meditation.",
+                "Then practice mindfulness to pull you away from that thought.",
+                "Is mindfulness better than medication?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluZGZ1bG5lc3M&hash=b6be3868b76dc7cb39896c8b3b98c065a2072b02&lang=en&cache-only=0",
+            "defineEn": "a mental state achieved by maintaining a moment-by-moment awareness of someone's thoughts, feelings, etc., used as a therapeutic technique",
+            "defineVi": "một trạng thái tinh thần đạt được bằng cách duy trì nhận thức từng khoảnh khắc về suy nghĩ, cảm xúc của ai đó, v.v., được sử dụng như một kỹ thuật trị liệu"
+        },
+        {
+            "id": "daa891d6-aad6-434d-948d-36e9bcb59ae6",
+            "word": "antidote",
+            "phonetic": "æntɪdoʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An antidote to dissatisfaction, so to speak: Gratitude.",
+                "Education is the antidote to the hatred that we are seeing today.",
+                "And if Alex or one of his furry friends comes in contact with a drug, officers have the antidote Narcan on hand.",
+                "Luckily, there's a dependable antidote for that.",
+                "To save your life, you need the antidote excreted by a certain species of frog."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW50aWRvdGU&hash=52471999c1726f0489c318ccc1f913026818129e&lang=en&cache-only=0",
+            "defineEn": "a chemical, particularly a drug that counteracts or controls the effects of a poison",
+            "defineVi": "một hóa chất, đặc biệt là một loại thuốc chống lại hoặc kiểm soát tác dụng của chất độc"
+        },
+        {
+            "id": "f10b1fba-8764-4d7e-a88f-9f70bd7fc410",
+            "word": "gynecology",
+            "phonetic": "ɡaɪnɪkɑːlədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Dr. Erroll Byer is the Chair of Obstetrics and Gynecology.",
+                "The Trotula became foundational to gynecology and all other topics related to women’s health."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3luZWNvbG9neQ&hash=f962b82a55c60e11bbab9752617caafcbd25670d&lang=en&cache-only=0",
+            "defineEn": "the branch of medicine that is concerned with diseases that are specific to women, especially those that affect their reproductive organs",
+            "defineVi": "ngành y học liên quan đến các bệnh dành riêng cho phụ nữ, đặc biệt là những bệnh ảnh hưởng đến cơ quan sinh sản của họ",
+            "hasImg": true
+        },
+        {
+            "id": "ba23091d-fd03-4c37-8d30-36467d4f4850",
+            "word": "rehab",
+            "phonetic": "ɹᵻhæb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When my parents found out that Jack was doing drugs, they sat him down for a come to Jesus talk, in the hopes that they could get him to agree to rehab.",
+                "The current pain science, injury, rehab evidence just doesn't support that thinking.",
+                "Rest is not rehab.",
+                "We're doing the rehab.",
+                "He became a certified rehab counselor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVoYWI&hash=99e89ea47e3057d350d489b3fb27bf44d7698a84&lang=en&cache-only=0",
+            "defineEn": "‌the process of helping someone who has a problem with drugs or alcohol to lead a normal life again",
+            "defineVi": "‌quá trình giúp đỡ một người có vấn đề với ma túy hoặc rượu để trở lại cuộc sống bình thường"
+        },
+        {
+            "id": "52b83c99-2e18-44ea-9deb-40451de0ad09",
+            "word": "to infuse",
+            "phonetic": "tʊ ɪnfjuːz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They infused hyssop in olive oil and used it as a natural remedy for skin irritations.",
+                "We harvested fresh dill seeds from our garden and used them to infuse a jar of homemade vinegar.",
+                "They harvested the marjoram leaves from their garden and used them to infuse oil for salad dressings.",
+                "She infused olive oil with rosemary and used it as a moisturizer for her skin.",
+                "He added slices of boerewors to his homemade pizza, infusing it with a unique and delicious flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW5mdXNl&hash=5d2173237066fd2e26474294a847fedbeb4f6f54&lang=en&cache-only=0",
+            "defineEn": "to slowly administer a drug or other substance through a needle or catheter into the bloodstream",
+            "defineVi": "để từ từ quản lý một loại thuốc hoặc chất khác qua kim hoặc ống thông vào máu",
+            "hasImg": true
+        },
+        {
+            "id": "b8b666d6-7d59-4a4d-a299-d966d2b59442",
+            "word": "pediatrics",
+            "phonetic": "piːdɪætɹɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The American Academy of Pediatrics recommends three feet.",
+                "In 2014, the American Academy of Pediatrics officially recommended that schools start no earlier than 8:30, for example.",
+                "Because of this research, organizations like the CDC, American Medical Association and the American Academy of Pediatrics, all want school to start later than 8:30AM.",
+                "But things started getting intense in 2011, when the American Academy of Pediatrics, an organization of over 60,000 pediatricians, recommended that kids and teens should never drink energy drinks.",
+                "Well, in 2011, a paper published in the journal Pediatrics reviewed the effects of energy drinks on children, adolescents, and young adults."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVkaWF0cmljcw&hash=bee6aca83d063665543c93a49788d2f8bdebd41c&lang=en&cache-only=0",
+            "defineEn": "the branch of medicine that is concerned with children and their conditions",
+            "defineVi": "ngành y học liên quan đến trẻ em và tình trạng của chúng",
+            "hasImg": true
+        },
+        {
+            "id": "28500eb0-03ba-408f-879e-8b4e3b9242f8",
+            "word": "to quarantine",
+            "phonetic": "tə kwɔːɹəntiːn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Quarantine Together has no pictures, no bios and no screening methods.",
+                "Imposing a quarantine.",
+                "The quarantine started.",
+                "Pycnandra acuminata also basically quarantines the nickel in cells that are separate from other parts of the plant.",
+                "People are actually connecting during quarantine. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcXVhcmFudGluZQ&hash=40f973959c3c57a61f23fbb9b34d185918567fd0&lang=en&cache-only=0",
+            "defineEn": "to keep a person or animal into isolation for some time because they are ill, or might be, to prevent the spread of the disease",
+            "defineVi": "để giữ một người hoặc động vật cách ly trong một thời gian vì họ bị bệnh, hoặc có thể, để ngăn chặn sự lây lan của bệnh"
+        },
+        {
+            "id": "0369b034-a482-4a18-9e5a-5c0f525dd43c",
+            "word": "to revive",
+            "phonetic": "tə ɹᵻvaɪv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The company has brought in some new blood in an effort to revive its fortunes.",
+                "Changes began during Japan's doldrums when the government tried to revive growth by steadily deregulating sections of the economy.",
+                "The town tried for years to revive the old factory, but nothing they did brought back business.",
+                "Reviving the old Cold War with new weapons.",
+                "Reviving the old Cold War with new weapons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmV2aXZl&hash=ac5cf43503f4a18107ced5569d63cd6a262d4f7e&lang=en&cache-only=0",
+            "defineEn": "to make a person become conscious again",
+            "defineVi": "để làm cho một người trở nên có ý thức một lần nữa",
+            "hasImg": true
+        },
+        {
+            "id": "37268d48-3b38-4fa8-ba62-6f9619870ba1",
+            "word": "to soothe",
+            "phonetic": "tə suːð ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The aromatic wintergreen tea soothes her sore throat.",
+                "He brewed a cup of ginger tea to soothe his upset stomach.",
+                "He brewed a cup of costmary tea to soothe his upset stomach after a heavy meal.",
+                "The herbalist recommended an anise infusion to soothe their upset stomach.",
+                "He brewed a cup of lavender tea to soothe his mind and reduce stress."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc29vdGhl&hash=706f092874b3b9f761ec47db12ee3528c6f3bcf2&lang=en&cache-only=0",
+            "defineEn": "to reduce the severity of a pain",
+            "defineVi": "để giảm mức độ nghiêm trọng của một cơn đau"
+        },
+        {
+            "id": "e51b727a-3e57-4790-9555-2ba542360689",
+            "word": "dosage",
+            "phonetic": "doʊsɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The medication has a stiff dosage, so be prepared for its potent effects.",
+                "The caffeine dosage is your independent variable, the thing that you can change.",
+                "And fine-tuning the dosage of immunosuppressants is tricky.",
+                "Sometimes N-A-S babies must be given a low dosage of an opioid like morphine to wean them off the drug.",
+                "They can't prescribe a product or dosage, but can provide formal approval for medical use."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9zYWdl&hash=e5eb0ee6a09698c1603ad9bbfd628b01e0c33056&lang=en&cache-only=0",
+            "defineEn": "a prescribed amount of medicine that is taken regularly",
+            "defineVi": "một lượng thuốc theo quy định được thực hiện thường xuyên"
+        },
+        {
+            "id": "be5fb3ee-565e-46aa-999f-34c0bf996ed7",
+            "word": "psychoanalysis",
+            "phonetic": "saɪkoʊɐnæləsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Invented the field of psychoanalysis?",
+                "The other major force at the time was, of course, Freud's psychoanalysis, and its many descendents collectively known as the psychodynamic theories.",
+                "A radical kernel of psychoanalysis was the theory that our personalities are shaped by unconscious motives.",
+                "Freud didn’t even necessarily believe in the psychoanalysis he was peddling.",
+                "Mainly, there were the ideas of structuralism, functionalism and psychoanalysis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvYW5hbHlzaXM&hash=ca0fdd0740d50afcf830bd6fd203c520807ab6fc&lang=en&cache-only=0",
+            "defineEn": "a method of therapy used for mental conditions which consists of the patient opening up about their past and feelings in order to find the reason for their illness",
+            "defineVi": "một phương pháp trị liệu được sử dụng cho các tình trạng tâm thần bao gồm việc bệnh nhân cởi mở về quá khứ và cảm xúc của họ để tìm ra lý do căn bệnh của họ",
+            "hasImg": true
+        }
+    ]
+}

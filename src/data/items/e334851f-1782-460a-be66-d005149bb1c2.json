@@ -1,0 +1,528 @@
+{
+    "id": "e334851f-1782-460a-be66-d005149bb1c2",
+    "title": "Lesson 4B",
+    "originalTitle": "Lesson 4B",
+    "words": [
+        {
+            "id": "bef8c71f-24e3-45f4-8e00-1725597c80c9",
+            "word": "black",
+            "phonetic": "blæk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The night sky is black, except for the stars and the moon.",
+                "The company is finally in the black.",
+                "Each 180-litre container will hold up to three black bags of rubbish.",
+                "Each 180-litre container will hold up to three black bags of rubbish.",
+                "She prefers her coffee black, without any sugar or cream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2s&hash=05fce3d2463eaa5fd49279f7e1eed4df6fedf3fa&lang=en&cache-only=0",
+            "defineEn": "having the color that is the darkest, like most crows",
+            "defineVi": "có màu tối nhất, giống như hầu hết các loài quạ",
+            "hasImg": true
+        },
+        {
+            "id": "b325be2d-b4d3-4c63-b50a-4e867b562d48",
+            "word": "blue",
+            "phonetic": "bluː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Blue blood is no guarantee of any particular merit, competence, or expertise.",
+                "Your friend really talks a blue streak!",
+                "The ocean's blue color amazed us.",
+                "They wore blue jeans to the party.",
+                "The little boy's favorite toy was a blue car."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymx1ZQ&hash=fd600101a1879d2ed2a85f287decd1b977b0ff14&lang=en&cache-only=0",
+            "defineEn": "having the color of the ocean or clear sky at daytime",
+            "defineVi": "có màu sắc của đại dương hoặc bầu trời quang đãng vào ban ngày",
+            "hasImg": true
+        },
+        {
+            "id": "2abc6f0e-0b27-48ec-8b72-ab472426d38a",
+            "word": "brown",
+            "phonetic": "bɹaʊn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My cat's fur is brown.",
+                "My father has brown eyes.",
+                "Brown algae have complex life cycles with genetic diversity.",
+                "We used brown sugar as a key ingredient in our homemade barbecue sauce.",
+                "On the day of the wedding, Brown experienced cold feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvd24&hash=87b7c53fb67274d8f915c51a64d75ae209e52c0b&lang=en&cache-only=0",
+            "defineEn": "having the color of chocolate ice cream",
+            "defineVi": "có màu của kem sô cô la",
+            "hasImg": true
+        },
+        {
+            "id": "31ab9acf-7658-47aa-a1e8-22a0295e220f",
+            "word": "green",
+            "phonetic": "ɡɹiːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The leaves on the trees are green.",
+                "The lights changed to green.",
+                "The color green has a restful effect.",
+                "The green frog hopped from one lily pad to another.",
+                "The vibrant green color of perilla leaves adds an attractive touch to any dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZW4&hash=814f2870faa764c58019b1be535f603d5b799eee&lang=en&cache-only=0",
+            "defineEn": "having the color of fresh grass or most plant leaves",
+            "defineVi": "có màu của cỏ tươi hoặc hầu hết các lá cây",
+            "hasImg": true
+        },
+        {
+            "id": "a50b3417-05e5-45fd-8e22-0572c0947901",
+            "word": "grey",
+            "phonetic": "ɡɹeɪ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'll take the grey jacket.",
+                "Try using your grey matter and you might find the answer.",
+                "The film presents a straightforward choice between good and evil, with no shades of grey.",
+                "It's hard to trust someone who has a history of deceit because a fox may grow grey, but never good.",
+                "People usually get grey hair in their thirties or forties.'"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JleQ&hash=217dde91f8ce54c96e2a549d79271e111903716d&lang=en&cache-only=0",
+            "defineEn": "having a color between white and black, like most koalas or dolphins",
+            "defineVi": "có màu giữa trắng và đen, giống như hầu hết gấu túi hoặc cá heo",
+            "hasImg": true
+        },
+        {
+            "id": "54f78a50-6d55-4897-a685-e335a8ee47b5",
+            "word": "orange",
+            "phonetic": "ɔɹɪndʒ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My parents always drink orange juice for breakfast.",
+                "The market had ripe oranges with bright orange peels.",
+                "Bitter orange peel is a great addition to my herbal remedies.",
+                "She poured orange juice into a clear glass.",
+                "She has an orange cat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3Jhbmdl&hash=99633941bc25f4b445048dab205da735c5e542b6&lang=en&cache-only=0",
+            "defineEn": "having the color of carrots or pumpkins",
+            "defineVi": "có màu của cà rốt hoặc bí ngô",
+            "hasImg": true
+        },
+        {
+            "id": "327aa962-2474-4fae-904d-289299b9919d",
+            "word": "pink",
+            "phonetic": "pɪŋk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Cripps pink apples add a pop of color and a sweet-tart taste to my fruit salad.",
+                "My best friend's pink hair definitely raised a few eyebrows at our very strict school.",
+                "The pig's pink skin was covered in coarse hair.",
+                "Thousands of factory workers have been given the pink slip in recent months.",
+                "Fast food chains removed pink slime from their menus to regain trust."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGluaw&hash=843c7db083c386bdbc7abd2b9e265f2538978e2d&lang=en&cache-only=0",
+            "defineEn": "having the color of strawberry ice cream",
+            "defineVi": "có màu kem dâu tây",
+            "hasImg": true
+        },
+        {
+            "id": "280f89d2-806a-4334-b71a-c15395bfa9d7",
+            "word": "red",
+            "phonetic": "ɹɛd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Red wine leaves a stain.",
+                "The roses in the garden were red with velvety petals.",
+                "These shrubs produce bright red berries.",
+                "REd algae adds a burst of color to the underwater landscape.",
+                "The company has plunged $37 million into the red."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVk&hash=7366fd11df16db029e6bf2dcc750260e1962a869&lang=en&cache-only=0",
+            "defineEn": "having the color of tomatoes or blood",
+            "defineVi": "có màu của cà chua hoặc máu",
+            "hasImg": true
+        },
+        {
+            "id": "0529362b-d1bc-4b6a-9d63-3f2e63d66788",
+            "word": "white",
+            "phonetic": "waɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The bride's wedding dress is white.",
+                "A white blouse will show the blood.",
+                "They served white rice with the chicken curry.",
+                "After the surgery, his face was as white as a sheet.",
+                "After the car accident, her face was as white as a ghost."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2hpdGU&hash=edc5de0702153b6e04b951973edb7eb99812a93e&lang=en&cache-only=0",
+            "defineEn": "having the color that is the lightest, like snow",
+            "defineVi": "có màu nhạt nhất, như tuyết",
+            "hasImg": true
+        },
+        {
+            "id": "6c15f73c-15fe-4edc-9397-4afda977122a",
+            "word": "yellow",
+            "phonetic": "jɛloʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The market had vibrant yellow lemons on display.",
+                "Many lanes are desecrated with yellow lines.",
+                "She drew a yellow sun on the corner of the paper.",
+                "They planted yellow flowers in the garden to attract bees.",
+                "We finally settled on a soft yellow for the kitchen walls."
+            ],
+            "audio": "https://tts.langeek.co/read?text=eWVsbG93&hash=6292b26d3fd6775dd2310c5adf42710e39235694&lang=en&cache-only=0",
+            "defineEn": "having the color of lemons or the sun",
+            "defineVi": "có màu chanh hoặc mặt trời",
+            "hasImg": true
+        },
+        {
+            "id": "4da0464a-b5ad-40b6-88d6-a7ce1e2ed2da",
+            "word": "old",
+            "phonetic": "oʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My father is quite old now",
+                "This thankless IT support job is really getting old.",
+                "This old house gives me the willies.",
+                "The old man gave up the ghost.",
+                "The old man considered his granddaughter thoughtfully."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2xk&hash=4760358aa3bbca48929cb4bab31f6097e8c8fea0&lang=en&cache-only=0",
+            "defineEn": "(of a thing) having been used or existing for a long period of time",
+            "defineVi": "(của một thứ) đã được sử dụng hoặc tồn tại trong một thời gian dài",
+            "hasImg": true
+        },
+        {
+            "id": "b6f70b8b-7965-408c-8a9b-d6ea59c8165f",
+            "word": "new",
+            "phonetic": "nuː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The team's new manager brings ten years' experience to the job.",
+                "The new loan takes the total debt to $100 000.",
+                "The new president takes office in January.",
+                "Fans have given the band's new song their seal of approval.",
+                "The organization called the new regulations a turning point in the campaign against smoking."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV3&hash=8de84aac1cb818e84e240f22c1368fe30795b5c0&lang=en&cache-only=0",
+            "defineEn": "recently built, invented, made, etc.",
+            "defineVi": "được xây dựng, phát minh, chế tạo gần đây, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "73abb6e3-ff9e-475f-a230-a26a4593c191",
+            "word": "fast",
+            "phonetic": "fæst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sales are growing fast.",
+                "Things certainly move fast in the blogosphere.",
+                "He takes bends much too fast.",
+                "The fast runner won the race by a wide margin.",
+                "He's going too fast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdA&hash=1073443ff3b1f337934c21034bd28a5c6a1c128e&lang=en&cache-only=0",
+            "defineEn": "having a high speed when moving or doing something",
+            "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "df302601-6488-432f-af38-ca8b8d1b2b26",
+            "word": "slow",
+            "phonetic": "sloʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The slow train arrived at the station behind schedule.",
+                "The slow healing process of the wound required regular care.",
+                "The slow elevator took a long time to reach the desired floor.",
+                "Our progress has been fairly slow so far, but it's early days.",
+                "She had a slow learning pace but never gave up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xvdw&hash=0f7b65292fe1032cddd34e63a2f2c3c8ae99d6a3&lang=en&cache-only=0",
+            "defineEn": "moving, happening, or being done at a speed that is low",
+            "defineVi": "di chuyển, xảy ra hoặc được thực hiện ở tốc độ thấp",
+            "hasImg": true
+        },
+        {
+            "id": "0ab7f7be-5b0f-4cfe-9f16-fe2c28733255",
+            "word": "beautiful",
+            "phonetic": "bjuːɾifəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The purple flowers in the vase were beautiful.",
+                "My mom planted beautiful flowers in the front yard.",
+                "It's beautiful!",
+                "The train traveled through beautiful countryside.",
+                "The vibrant purple color of whinberries adds a beautiful touch to desserts like cheesecakes and tarts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhdXRpZnVs&hash=31230419dcdf7c3ceb4454c2419b954eaee422e9&lang=en&cache-only=0",
+            "defineEn": "extremely pleasing to the mind or senses",
+            "defineVi": "cực kỳ dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "9b8b40f8-9333-415d-a07c-eb1672b90d7a",
+            "word": "ugly",
+            "phonetic": "ʌɡli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The game turned ugly in the final minutes, when two players were ejected for fighting.",
+                "She received an ugly haircut that she immediately regretted.",
+                "I can't believe tax day is already rearing its ugly head again.",
+                "He drew an ugly picture that didn't resemble anything recognizable.",
+                "The old, torn sweater she wore was ugly and outdated."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dWdseQ&hash=e3fbaa6654ed79f3f6302e7364ef289087ca99dd&lang=en&cache-only=0",
+            "defineEn": "not pleasant to the mind or senses",
+            "defineVi": "không dễ chịu cho tâm trí hoặc các giác quan",
+            "hasImg": true
+        },
+        {
+            "id": "20793815-b423-4782-97d3-68a41d00e59c",
+            "word": "cheap",
+            "phonetic": "tʃiːp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "It was dirt cheap.",
+                "He found a cheap flight deal for his vacation.",
+                "She bought cheap headphones, but the sound quality was poor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlYXA&hash=0c343d67b95c937ba68b0929d033fd7c14b0c522&lang=en&cache-only=0",
+            "defineEn": "having a low price",
+            "defineVi": "có giá thấp",
+            "hasImg": true
+        },
+        {
+            "id": "fa8df31a-a727-4d2b-9c4e-84609f816ae0",
+            "word": "expensive",
+            "phonetic": "ɛkspɛnsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The new restaurant is expensive.",
+                "The hotel had expensive rates during the holiday season.",
+                "She bought an expensive dress for a special occasion.",
+                "He bought an expensive watch as a gift for his father.",
+                "The restaurant had expensive prices, but the food was delicious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZW5zaXZl&hash=49d271dd88283dc21453a8c2f272494ea30d4393&lang=en&cache-only=0",
+            "defineEn": "having a high price",
+            "defineVi": "có giá cao",
+            "hasImg": true
+        },
+        {
+            "id": "c213b124-f912-42d3-928c-dc480f3b7162",
+            "word": "long",
+            "phonetic": "lɔŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She wears her hair long.",
+                "This policy is no longer an effective means to an end.",
+                "Our players kept the pedal to the metal all season long.",
+                "The kids are under my feet all day long.",
+                "North Korea’s refusal had long been a sticking point."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9uZw&hash=8e1b71859f6c34de85901e65e7a983e15966bb35&lang=en&cache-only=0",
+            "defineEn": "(of two points) having an above-average or big distance between them",
+            "defineVi": "(của hai điểm) có khoảng cách trên trung bình hoặc lớn giữa chúng",
+            "hasImg": true
+        },
+        {
+            "id": "01049ea7-106e-4dc2-843b-640bf0c7ccfc",
+            "word": "short",
+            "phonetic": "ʃɔːɹt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Short hair really becomes you.",
+                "The boss has a short fuse these days!",
+                "She made short work of her opponents.",
+                "We fell short of our goal in the competition.",
+                "As they say, short reckonings make long friends."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQ&hash=e11f4f3e15db8d39cc415db16e4047b2b9cf0ae0&lang=en&cache-only=0",
+            "defineEn": "having a below-average or small distance between two points",
+            "defineVi": "có khoảng cách dưới trung bình hoặc nhỏ giữa hai điểm",
+            "hasImg": true
+        },
+        {
+            "id": "ba8a0cbf-0157-4244-9224-1958078f5df0",
+            "word": "clean",
+            "phonetic": "kliːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The mother gently cleaned her baby's ears with a cotton swab.",
+                "A new broom sweeps clean, after all.",
+                "Sarah cleans the kitchen counters with a sponge.",
+                "She had to clean her dirty car after a long road trip.",
+                "She cleans the dining room after each meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
+            "defineEn": "not having any stains, bacteria, marks, or dirt",
+            "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "faeebc32-766e-4e80-9567-24899fcb1c64",
+            "word": "dirty",
+            "phonetic": "dɜːɾi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She found a dirty stain on her favorite shirt.",
+                "She had to clean her dirty car after a long road trip.",
+                "He wore dirty shoes that left muddy footprints on the floor.",
+                "The dirty dishes in the restaurant's kitchen needed to be washed.",
+                "He had a dirty face after playing in the mud."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlydHk&hash=43deae50b556b211983491c3655570f07bc29014&lang=en&cache-only=0",
+            "defineEn": "having stains, bacteria, marks, or dirt",
+            "defineVi": "có vết bẩn, vi khuẩn, vết hoặc bụi bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "77ed8dfd-6d27-458d-aab8-787eb34be739",
+            "word": "easy",
+            "phonetic": "iːzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Knowledge of cooking comes easy to him.",
+                "The whole procedure is as easy as ABC.",
+                "A ramp allows easy access for wheelchairs.",
+                "Using the camera was as easy as pie.",
+                "It's an easy exam."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFzeQ&hash=625c1df691f722a2783b32160c2c4f235bfed440&lang=en&cache-only=0",
+            "defineEn": "needing little skill or effort to do or understand",
+            "defineVi": "cần ít kỹ năng hoặc nỗ lực để làm hoặc hiểu",
+            "hasImg": true
+        },
+        {
+            "id": "6734929e-f8a1-41d0-a0c1-bcf930c2f54d",
+            "word": "difficult",
+            "phonetic": "dɪfɪkəlt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The separation from Julie was already difficult for Alex.",
+                "The boss always assigns difficult projects as a way of kicking the tires of new employees.",
+                "You've given yourselves a difficult task.",
+                "It may be too difficult for the trainee - small dog, tall weeds!",
+                "It’s difficult to do housework with the children under my feet all the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmljdWx0&hash=240fc97e0739c267bc1717fb651dc046f99c4d2b&lang=en&cache-only=0",
+            "defineEn": "needing a lot of work or skill to do, understand, or deal with",
+            "defineVi": "cần rất nhiều công việc hoặc kỹ năng để làm, hiểu hoặc giải quyết",
+            "hasImg": true
+        },
+        {
+            "id": "0f6ebc4b-a4cf-4e31-9147-5772b242fb07",
+            "word": "sir",
+            "phonetic": "sɜː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your car is waiting, sir.",
+                "Your reputation proceeds you sir.",
+                "Sir, the inhabitants have risen up in rebellion.",
+                "Sir, I believe you just drank your fill.",
+                "With all due respect, Sir, I cannot agree with your last statement."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2ly&hash=49fc1599b31ee453fed945a2909b060d77f3442b&lang=en&cache-only=0",
+            "defineEn": "used as a respectful or polite way of referring to or addressing a man",
+            "defineVi": "được sử dụng như một cách tôn trọng hoặc lịch sự đề cập đến hoặc giải quyết một người đàn ông",
+            "hasImg": true
+        },
+        {
+            "id": "9d814311-99f8-4f78-8654-908d8959f843",
+            "word": "madam",
+            "phonetic": "mædəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Pardon me, are you finished, madam?",
+                "Of course we'll change it for a larger size, Madam.",
+                "Brian will answer all your questions madam.",
+                "'Look, madam!'",
+                "'Yes, Madam,' replied Bitzer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFkYW0&hash=0e78a85c4a208ceb21eab088c0311d249c26deae&lang=en&cache-only=0",
+            "defineEn": "a polite way to address or refer to a woman",
+            "defineVi": "một cách lịch sự để giải quyết hoặc đề cập đến một người phụ nữ",
+            "hasImg": true
+        },
+        {
+            "id": "67711c11-c384-41ca-a9ec-e1e1029776b1",
+            "word": "electric car",
+            "phonetic": "ᵻlɛktɹɪk kɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RyaWMgY2Fy&hash=813de33942cf3a9448d7ec76c7172855b7d2031a&lang=en&cache-only=0",
+            "defineEn": "a car that has electricity as its power source instead of gasoline or diesel",
+            "defineVi": "một chiếc ô tô có điện làm nguồn năng lượng thay vì xăng hoặc dầu diesel",
+            "hasImg": true
+        },
+        {
+            "id": "cba11f6e-b72b-49a1-b53a-0c128847d68c",
+            "word": "sports car",
+            "phonetic": "spoːɹts kɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He rented an expensive sports car for his wedding day.",
+                "The new sports car blew the doors off its competitors, setting a new speed record on the track.",
+                "The high-end sports car was a dream for many, but its hefty price tag was rich for most people's blood.",
+                "The sleek sports car turns heads as it zooms down the street, with its roaring engine and eye-catching design.",
+                "I couldn't believe it when I heard he'd bought a sports car, but then he has always been one to let his heart rule his head."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BvcnRzIGNhcg&hash=e69f3cf79fc770583afcb315177553e709dfea40&lang=en&cache-only=0",
+            "defineEn": "a small, fast, and low car that has a powerful engine, usually seats two people, and often has a removable or foldable roof",
+            "defineVi": "một chiếc ô tô nhỏ, nhanh và thấp, có động cơ mạnh mẽ, thường có hai người ngồi và thường có mái che có thể tháo rời hoặc gập lại",
+            "hasImg": true
+        },
+        {
+            "id": "ce0b5a08-8cec-41b7-88eb-ed8cf8307fb2",
+            "word": "perfect",
+            "phonetic": "pɜːfɛkt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A cup of tea sounds perfect.",
+                "The combination of the meatloaf, mashed potatoes, and greens was perfect.",
+                "The orange pumpkin was perfect for Halloween.",
+                "Good afternoon, the weather is perfect for a walk.",
+                "The refreshing Muscat grape juice was the perfect choice for a hot summer day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyZmVjdA&hash=dc4e2e5415599e9e42edd6e18f8fa63a5ed505a6&lang=en&cache-only=0",
+            "defineEn": "being as great, complete, and flawless as possible",
+            "defineVi": "tuyệt vời, đầy đủ và hoàn hảo nhất có thể",
+            "hasImg": true
+        },
+        {
+            "id": "0911b683-950b-4a1d-aa7e-31ce528e365c",
+            "word": "museum",
+            "phonetic": "mjuːziəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The museum has free admission on Fridays.",
+                "The museum had an impressive collection of European art.",
+                "The museum curator collects antique artworks for the museum's collection.",
+                "The museum showcased artifacts from different civilizations spanning over a hundred years.",
+                "The museum is a fascinating place to learn about history and art."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVzZXVt&hash=86fcd1ce44bb65f7d92c77d50eaa201761a864b2&lang=en&cache-only=0",
+            "defineEn": "a place where important cultural, artistic, historical, or scientific objects are kept and shown to the public",
+            "defineVi": "nơi lưu giữ và trưng bày các vật thể văn hóa, nghệ thuật, lịch sử hoặc khoa học quan trọng cho công chúng",
+            "hasImg": true
+        },
+        {
+            "id": "4ec32ceb-8b2a-47b4-ae23-9283c8e83608",
+            "word": "famous",
+            "phonetic": "feɪməs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "This store is famous for its bait and switch tactics.",
+                "The famous author made a mint from royalties on his best-selling books.",
+                "The Black Forest in Germany is famous for its beautiful scenery and delicious cake.",
+                "I saw a famous actress at the shopping mall today.",
+                "My sister's famous sweet cherry jam is a family favorite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtb3Vz&hash=ef9ded7d95792328240ced8ffd35d098b6841f3b&lang=en&cache-only=0",
+            "defineEn": "known by a lot of people",
+            "defineVi": "được nhiều người biết đến",
+            "hasImg": true
+        }
+    ]
+}

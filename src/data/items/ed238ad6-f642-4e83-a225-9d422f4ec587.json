@@ -1,0 +1,661 @@
+{
+    "id": "ed238ad6-f642-4e83-a225-9d422f4ec587",
+    "title": "The Environment and Energy",
+    "originalTitle": "Lesson 35",
+    "words": [
+        {
+            "id": "dde6e5e5-3e2e-4256-a94b-64337db7c5f5",
+            "word": "planet",
+            "phonetic": "plænɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does life exist on other planets?",
+                "He was living on another planet.",
+                "The discovery of new planets represents a quantum leap in astronomy, with the potential to deepen our understanding of the universe and our place in it.",
+                "We live on planet Earth, which is our home.",
+                "To my eye, Jake, you're the most wonderful man on the planet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhbmV0&hash=1269f9ea0acec54b90cc41b3deced8bf9acf33b7&lang=en&cache-only=0",
+            "defineEn": "a huge round object that moves in an orbit, around the Sun or any other star",
+            "defineVi": "một vật thể tròn khổng lồ di chuyển theo quỹ đạo, xung quanh Mặt trời hoặc bất kỳ ngôi sao nào khác",
+            "hasImg": true
+        },
+        {
+            "id": "bc4978b1-01e3-4062-bb9d-dbf9932e6d09",
+            "word": "atmosphere",
+            "phonetic": "ætməsfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He enjoys the peaceful atmosphere of his home.",
+                "The nuclear power plant released a small amount of radiation into the atmosphere after the incident.",
+                "This city is known for its diverse population and multicultural atmosphere.",
+                "As the wind blew, the sweet scent of sassafras filled the air, creating a tranquil atmosphere.",
+                "I speak softly and carry a big stick to maintain a peaceful atmosphere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXRtb3NwaGVyZQ&hash=51a6d50176aa64a2c0f450718f4eab9c86534a18&lang=en&cache-only=0",
+            "defineEn": "the different types of gases that surround the earth or other planets",
+            "defineVi": "các loại khí khác nhau bao quanh trái đất hoặc các hành tinh khác"
+        },
+        {
+            "id": "69660afc-16dd-4c7d-a4ac-550a43d010f2",
+            "word": "habitat",
+            "phonetic": "hæbɪtæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Certain species of fucoid algae serve as habitats for small marine creatures.",
+                "Brown algae create habitats and provide food for marine species.",
+                "Researchers study diatoms to better understand the environmental conditions of aquatic habitats.",
+                "They planted rosemary in their garden to attract bees and butterflies and create a beautiful natural habitat.",
+                "The endangered species was living on borrowed time as their habitat continued to be destroyed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFiaXRhdA&hash=06b382d6940b273530b682801cafefbb601977f2&lang=en&cache-only=0",
+            "defineEn": "the place or area in which certain animals, birds, or plants exist",
+            "defineVi": "địa điểm hoặc khu vực mà một số loài động vật, chim hoặc thực vật tồn tại",
+            "hasImg": true
+        },
+        {
+            "id": "bee3ffc2-9f3a-4939-8c48-6b185d6ddf54",
+            "word": "resource",
+            "phonetic": "ɹᵻsoːɹs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The adventurer used the tail fat as a survival resource during their journey in the wilderness.",
+                "Can you recommend any online resources for studying world history?",
+                "We use textbooks and online resources to help us with our homework.",
+                "We're putting all of our resources behind you and your team.",
+                "We have access to a library with extensive resources at college."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzb3VyY2U&hash=8d46a888f118afa30744e92e86cfe76081d1e094&lang=en&cache-only=0",
+            "defineEn": "(usually plural) a country's gas, oil, trees, etc. that are considered valuable and therefore can be sold to gain wealth",
+            "defineVi": "(thường là số nhiều) khí đốt, dầu mỏ, cây cối, v.v. của một quốc gia được coi là có giá trị và do đó có thể được bán để kiếm của cải",
+            "hasImg": true
+        },
+        {
+            "id": "8841e50d-a1f7-4825-ace2-2a6e04bfa22a",
+            "word": "power",
+            "phonetic": "paʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These powers were eventually passed to municipalities.",
+                "It is no longer exercising power through velvet gloves.",
+                "Men still hold most positions of power in this country.",
+                "The machine is worked by wind power.",
+                "He came to power in 2019."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG93ZXI&hash=08df2a0c158e1a4355a0ce9288f65f807f620072&lang=en&cache-only=0",
+            "defineEn": "the energy that is obtained through different means, such as electrical and solar, to operate different equipment or machines",
+            "defineVi": "năng lượng thu được thông qua các phương tiện khác nhau, chẳng hạn như điện và năng lượng mặt trời, để vận hành các thiết bị hoặc máy móc khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "bb1005dc-1157-420d-aded-55d813cf4dd8",
+            "word": "fuel",
+            "phonetic": "fjuːəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your arrogance only adds fuel to the fire Manfred.",
+                "When the bus stopped for fuel, we took the opportunity to get something to eat.",
+                "The car manufacturer's latest model outperformed its competitors by a nose, offering slightly better fuel efficiency and a more comfortable ride.",
+                "We are starting to feel the pinch of high fuel costs.",
+                "This gauge tells you how much fuel you have left."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVlbA&hash=0e671bb5fea1f8feb484e031d2c47bdb58f5570e&lang=en&cache-only=0",
+            "defineEn": "any substance that can produce energy or heat when burned",
+            "defineVi": "bất kỳ chất nào có thể tạo ra năng lượng hoặc nhiệt khi bị đốt cháy",
+            "hasImg": true
+        },
+        {
+            "id": "29c9e123-c3e6-4032-a26f-00a55abf5e17",
+            "word": "fossil fuel",
+            "phonetic": "fɑːsəl fjuːəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As of 2020, 2/3 of our electricity comes from fossil fuels.",
+                "We can phase out fossil fuel vehicles.",
+                "Fossil fuels come mainly from old plants.",
+                "We call these carbon-rich geological deposits fossil fuels.",
+                "The majority of this energy consumption is supplied by fossil fuels like coal or natural gas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9zc2lsIGZ1ZWw&hash=e23bef84cf438dfad2651c15b11f74515c9420a6&lang=en&cache-only=0",
+            "defineEn": "a fuel that is found in nature and obtained from the remains of plants and animals that died millions of years ago, such as coal and gas",
+            "defineVi": "một loại nhiên liệu được tìm thấy trong tự nhiên và thu được từ phần còn lại của thực vật và động vật đã chết cách đây hàng triệu năm, chẳng hạn như than đá và khí đốt",
+            "hasImg": true
+        },
+        {
+            "id": "024c100c-77d0-4ad4-85f0-3a96b036b4eb",
+            "word": "coal",
+            "phonetic": "koʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I was hauled over the coals by my boss for being late.",
+                "Exporting pine to Scandinavia seems like carrying coals to Newcastle.",
+                "I was dragged over the coals by my boss last week for messing up the accounting software.",
+                "In this connection, I should once again like to haul my own country over the coals.",
+                "My teacher found out that I was skipping class and he raked me over the coals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29hbA&hash=beb2a80320418abaa614f8c3f6843d2c8e6dfc04&lang=en&cache-only=0",
+            "defineEn": "a type of fossil fuel, which is black and is found in the ground, used as a source of energy",
+            "defineVi": "một loại nhiên liệu hóa thạch, có màu đen và được tìm thấy trong lòng đất, được sử dụng làm nguồn năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "f1276acc-1955-48e9-b79b-aa878bd1e533",
+            "word": "oil",
+            "phonetic": "ɔɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father's car needs an oil change.",
+                "International companies set the price of oil.",
+                "She kept her essential oils in a small glass bottle.",
+                "She combined safflower oil with honey and lemon juice for a homemade hair mask.",
+                "Some common types of cooking oils include canola oil, vegetable oil, and sunflower oil."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2ls&hash=f6d91ee20a8939ba7ec6031b2bc2c8c405f162ad&lang=en&cache-only=0",
+            "defineEn": "a liquid found deep under the ground that is used as a fuel",
+            "defineVi": "một chất lỏng được tìm thấy sâu dưới lòng đất được sử dụng làm nhiên liệu",
+            "hasImg": true
+        },
+        {
+            "id": "c61ade18-abfc-4984-a1b4-c6577807ca56",
+            "word": "energy",
+            "phonetic": "ɛnɚdʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Save some energy for the end of the race.",
+                "Lower energy consumption means less pollution.",
+                "Recycling waste saves energy.",
+                "Her energy and talent took her to the top of her profession.",
+                "The teacher spends a lot of energy planning a good lesson."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5lcmd5&hash=2f0e26b00a1151bbab2cda520e1debc6046d80c2&lang=en&cache-only=0",
+            "defineEn": "a source of power that can be used to produce heat, light, or to operate different machines",
+            "defineVi": "một nguồn năng lượng có thể được sử dụng để tạo ra nhiệt, ánh sáng hoặc để vận hành các máy khác nhau"
+        },
+        {
+            "id": "ab3f5460-71aa-4411-a8ad-886019d75ad4",
+            "word": "atomic energy",
+            "phonetic": "ɐtɑːmɪk ɛnɚdʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the decades after World War II, writers wondered what new technologies like atomic energy, artificial intelligence, and space travel meant for humanity's future.",
+                "So before he was duking it out with King Kong, Mothra or any other number of spin-off foes, Godzilla was expressing a critical fear about the future of atomic energy and a-bombs.",
+                "But just how fantastical is a 36-story-tall lizard-dinosaur creature who breathes beams of atomic energy?",
+                "So by the time Ishirō Honda’s original 1954 Godzilla premiered less than a decade later (in which an ancient monster is awakened from the depths of the sea near Japan after being exposed to radiation during atomic bomb testing), it’s safe to say that the dangers of a-bombs, radiation, and atomic energy were heavy on the minds of the entire world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXRvbWljIGVuZXJneQ&hash=b84082e1ab9ea6d3dd1095214129717dba945329&lang=en&cache-only=0",
+            "defineEn": "a clean and powerful energy that is obtained by splitting atoms, which then can be used to produce heat, electricity, etc.",
+            "defineVi": "một năng lượng sạch và mạnh thu được bằng cách tách các nguyên tử, sau đó có thể được sử dụng để tạo ra nhiệt, điện, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c22508e1-7b01-47ca-ad9b-8ef02146621a",
+            "word": "carbon footprint",
+            "phonetic": "kɑːɹbən fʊtpɹɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "the company's new policy purports to reduce its carbon footprint.",
+                "The CEO gave a great speech about the company's commitment to social responsibility, but talk is cheap unless they start implementing concrete actions to reduce their carbon footprint.",
+                "Instead of criticizing our politicians for not doing enough to combat climate change, it's better to light a candle than to curse the darkness by taking small actions in our daily lives to reduce our carbon footprint.",
+                "But the alternatives actually possess a much larger carbon footprint.",
+                "I've reduced my carbon footprint."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FyYm9uIGZvb3RwcmludA&hash=e7537c1ddd06e33934aec3c8a7c72d5dfcf1a368&lang=en&cache-only=0",
+            "defineEn": "the amount of carbon dioxide that an organization or person releases into the atmosphere",
+            "defineVi": "lượng carbon dioxide mà một tổ chức hoặc người giải phóng vào khí quyển"
+        },
+        {
+            "id": "9c974f59-27d4-4a7d-8dab-7062ab18be5d",
+            "word": "carbon dioxide",
+            "phonetic": "kɑːɹbən daɪɑːksaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Humans exhale carbon dioxide.",
+                "In the case of the lungs, oxygen moves in, and carbon dioxide moves out.",
+                "\"Carbon dioxide is the problem.\"",
+                "A great example of that is the carbon dioxide sensors.",
+                "When atmospheric carbon dioxide levels hit 415 parts per million in 2019."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FyYm9uIGRpb3hpZGU&hash=effd460dcc2aec044fe1d46513f27b352c4ebd49&lang=en&cache-only=0",
+            "defineEn": "a type of gas with no color and smell that is produced by burning carbon or during exhalation",
+            "defineVi": "một loại khí không có màu và mùi được tạo ra bằng cách đốt cháy carbon hoặc trong quá trình thở ra"
+        },
+        {
+            "id": "84338f84-4c47-4aa4-9611-10f2ea2c9c67",
+            "word": "clean",
+            "phonetic": "kliːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The mother gently cleaned her baby's ears with a cotton swab.",
+                "A new broom sweeps clean, after all.",
+                "Sarah cleans the kitchen counters with a sponge.",
+                "She had to clean her dirty car after a long road trip.",
+                "She cleans the dining room after each meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
+            "defineEn": "having no harmful substances or pollutants",
+            "defineVi": "không có chất độc hại hoặc chất gây ô nhiễm"
+        },
+        {
+            "id": "8076cb59-481d-41ad-858e-f78463c2f225",
+            "word": "cleanup",
+            "phonetic": "kliːnʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have a cleanup crew: isopods, springtails, and some worms in there.",
+                "Local landowners want a more extensive cleanup of arsenic contamination than federal rules call for.",
+                "Your respiratory system is involved in cleanup but not because you breathe out a stream of toxic junk.",
+                "The site cleanup involved fumigation with chlorine dioxide gas which is reactive and steals electrons from molecules.",
+                "Decades later, Florida began a cleanup expected to end by 2028."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW51cA&hash=5bf3c2f2770c579e84e72341a2b5060156bd060f&lang=en&cache-only=0",
+            "defineEn": "the act of removing harmful or dirty substances from somewhere",
+            "defineVi": "hành động loại bỏ các chất độc hại hoặc bẩn từ một nơi nào đó",
+            "hasImg": true
+        },
+        {
+            "id": "426e9b11-7bf7-4bc5-b23c-f67eb939c8c5",
+            "word": "eco-friendly",
+            "phonetic": "iːkoʊfɹɛndli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "On a busy day, workers at Lifepack can turn out 10,000 eco-friendly plates.",
+                "It converts plastic waste into wax and eco-friendly fuels on a commercial scale.",
+                "Like an eco-friendly treatment plant, the liver uses cells called hepatocytes to convert toxic waste products into this bitter greenish liquid.",
+                "Another reason boosting the industry's valuation is demand for eco-friendly fertilizers.",
+                "And she loves being eco-friendly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWNvLWZyaWVuZGx5&hash=cf644ad4de70a5fddf4b9045b6c420209403de64&lang=en&cache-only=0",
+            "defineEn": "causing or having little to no harm to the environment",
+            "defineVi": "gây ra hoặc có ít hoặc không gây hại cho môi trường"
+        },
+        {
+            "id": "2673a472-c6a7-4217-9c39-08fe5fd018ae",
+            "word": "green",
+            "phonetic": "ɡɹiːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The leaves on the trees are green.",
+                "The lights changed to green.",
+                "The color green has a restful effect.",
+                "The green frog hopped from one lily pad to another.",
+                "The vibrant green color of perilla leaves adds an attractive touch to any dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZW4&hash=814f2870faa764c58019b1be535f603d5b799eee&lang=en&cache-only=0",
+            "defineEn": "(of a substance or product) causing no harm to the environment",
+            "defineVi": "(của một chất hoặc sản phẩm) không gây hại cho môi trường"
+        },
+        {
+            "id": "a14cb181-e752-4118-b569-79650ea77375",
+            "word": "to protect",
+            "phonetic": "tə pɹətɛkt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Import barriers protected the fledgling enterprises.",
+                "The plant is protected under the Wildlife and Countryside Act.",
+                "The body's immune system protects against harmful bacteria and viruses.",
+                "Many policies do not protect you against personal injury.",
+                "Polar bears have been protected by law in Norway since 1973."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHJvdGVjdA&hash=58e94869bd3f5db42aca6a19ca80c2d5938d7c78&lang=en&cache-only=0",
+            "defineEn": "to prevent someone or something from being damaged or harmed",
+            "defineVi": "để ngăn chặn một ai đó hoặc một cái gì đó từ bị hư hỏng hoặc bị tổn hại"
+        },
+        {
+            "id": "306d5893-fc80-42fe-a679-4fd130e22c59",
+            "word": "to pollute",
+            "phonetic": "tə pəluːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Despite accusations that the company was responsible for polluting the lake, it received a clean bill of health from the environmental agency after a thorough investigation.",
+                "The oil industry pollutes, significantly.",
+                "But the chemical polluted the water in the brown pelican’s habitat.",
+                "Global water sources are polluted by excess ammonium nitrate from cornfields.",
+                "Such conduct pollutes the water and kills sea life. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcG9sbHV0ZQ&hash=c315e2bf8db253e8cde8fb4904f5f490f2f3e865&lang=en&cache-only=0",
+            "defineEn": "to damage the environment by releasing harmful chemicals or substances to the air, water, or land",
+            "defineVi": "làm hỏng môi trường bằng cách giải phóng các hóa chất hoặc chất độc hại vào không khí, nước hoặc đất",
+            "hasImg": true
+        },
+        {
+            "id": "3ef2f948-7785-45ca-b223-1ed7bb8da288",
+            "word": "to consume",
+            "phonetic": "tə kənsuːm ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Consuming prunes may have a positive impact on heart health by reducing LDL cholesterol levels.",
+                "Her new job was so consuming that she barely had time for anything else.",
+                "Public education campaigns highlight potential health risks of consuming pink slime products.",
+                "Consuming milk can help maintain healthy skin due to the presence of vitamin A.",
+                "He decided to only consume halal meat to adhere to his religious beliefs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
+            "defineEn": "to use a supply of energy, fuel, etc.",
+            "defineVi": "để sử dụng một nguồn cung cấp năng lượng, nhiên liệu, vv",
+            "hasImg": true
+        },
+        {
+            "id": "daff697f-6916-41de-8a17-624571ecef6b",
+            "word": "climate crisis",
+            "phonetic": "klaɪmət kɹaɪsɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The climate crisis, drugs, criminal activity in neighboring countries, crushing poverty.",
+                "But the really big solution here is taking on the climate crisis.",
+                "We're facing a climate crisis.",
+                "And while government policies are clearly necessary, the market is also responding to the reality of the climate crisis.",
+                "The new administration lays out its plan to tackle the global climate crisis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xpbWF0ZSBjcmlzaXM&hash=71bf1e6340f70536b57bb388af1346f3ab9f6ba6&lang=en&cache-only=0",
+            "defineEn": "an urgent situation in which proper action must be taken to remove the threats done to the environment",
+            "defineVi": "một tình huống khẩn cấp trong đó hành động thích hợp phải được thực hiện để loại bỏ các mối đe dọa đối với môi trường",
+            "hasImg": true
+        },
+        {
+            "id": "d1a262b2-9f66-44a3-ba45-644715fbeb7f",
+            "word": "natural disaster",
+            "phonetic": "nætʃɚɹəl dɪzæstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The city had suffered from a natural disaster, but with the help of government aid and community support, it was able to regain its feet and rebuild stronger than before.",
+                "The organization has moved mountains to provide aid to those affected by the natural disaster.",
+                "When the community came together to support those affected by the natural disaster, it was a reminder that love makes the world go round.",
+                "The parents had no choice but to abandon their house due to the natural disaster.",
+                "In the aftermath of a natural disaster, the affected community came together to support each other, demonstrating how two in distress makes sorrow less."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF0dXJhbCBkaXNhc3Rlcg&hash=f57fe856272fd7d5c9e3432a4c7e86a380f119f4&lang=en&cache-only=0",
+            "defineEn": "any destruction caused by the nature that results in a great amount of damage or the death of many, such as an earthquake, flood, etc.",
+            "defineVi": "bất kỳ sự tàn phá nào do thiên nhiên gây ra dẫn đến thiệt hại lớn hoặc cái chết của nhiều người, chẳng hạn như động đất, lũ lụt, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d6e391ea-2946-4932-9c58-23f927859d48",
+            "word": "volcanic eruption",
+            "phonetic": "vɑːlkænɪk ɪɹʌpʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now, of course, volcanic eruptions aren’t exactly regular.",
+                "That material was brought up through volcanic eruptions, which then built up into small volcanic islands above the ocean.",
+                "Our nuclear pile contains 15 times the energy of the Krakatoa volcanic eruption.",
+                "A lot of times these limitations are described in terms of some catastrophe: a volcanic eruption, a monsoon, a Chernobyl.",
+                "In this comic Godzilla is woken from slumber on the ocean floor by a massive volcanic eruption, not as a result of nuclear testing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm9sY2FuaWMgZXJ1cHRpb24&hash=456fb716b22b8bf06c9bd5dd6edd9a21129165e4&lang=en&cache-only=0",
+            "defineEn": "the sudden discharge of steam, ashes, and lava from a volcano",
+            "defineVi": "sự xả hơi nước, tro và dung nham đột ngột từ núi lửa",
+            "hasImg": true
+        },
+        {
+            "id": "95f2f67a-b4e2-43a6-9840-072543840ec9",
+            "word": "garbage",
+            "phonetic": "ɡɑːɹbɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I know you're upset, Sarah, but that doesn't give you a free pass to treat other people like garbage.",
+                "So, garbage is a resource.",
+                "So the shuttle command is garbage.",
+                "A stamper then packs in the garbage.",
+                "They basically eat our garbage!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FyYmFnZQ&hash=707768dcd486a55588c40ba3b916e1a70d96fa9f&lang=en&cache-only=0",
+            "defineEn": "household materials that have no use anymore",
+            "defineVi": "vật liệu gia đình không còn sử dụng nữa",
+            "hasImg": true
+        },
+        {
+            "id": "c40fbf8e-db9a-4bab-a0d5-996e5b1f5aa7",
+            "word": "waste",
+            "phonetic": "weɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Recycling waste saves energy.",
+                "This guy is a waste of skin!",
+                "He wasted a golden opportunity when he missed from the penalty spot.",
+                "This is your fault, you waste of skin!",
+                "The agent counsels them obliquely against waste, repeats the letter of the law, and smiles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FzdGU&hash=4bb13a00eaf36cbeb4b502d0cbd643df55fbf895&lang=en&cache-only=0",
+            "defineEn": "materials that have no use and are unwanted",
+            "defineVi": "vật liệu không sử dụng và không mong muốn"
+        },
+        {
+            "id": "3d48e15c-e711-4c82-80f9-362400626c54",
+            "word": "greenhouse gas",
+            "phonetic": "ɡɹiːnhaʊs ɡæs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These greenhouse gases do the same thing in our atmosphere. ",
+                "But making things like cement, steel, and plastic releases a lot of greenhouse gases.",
+                "In Bangladesh, Cambodia and Nepal, new approaches to rice production may dramatically decrease greenhouse gas emissions in the future.",
+                "It's a greenhouse gas.",
+                "And absorb a lot of greenhouse gases."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZW5ob3VzZSBnYXM&hash=14a58f37f3bd356dd8303e2b1773aa9d46da89bc&lang=en&cache-only=0",
+            "defineEn": "any type of gas, particularly carbon dioxide, that worsens or causes the greenhouse effect",
+            "defineVi": "bất kỳ loại khí nào, đặc biệt là carbon dioxide, làm trầm trọng thêm hoặc gây ra hiệu ứng nhà kính"
+        },
+        {
+            "id": "c543a406-6bb2-4bf1-aca2-1788ae5ca3d1",
+            "word": "greenhouse effect",
+            "phonetic": "ɡɹiːnhaʊs ɪfɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This produces the natural greenhouse effect. ",
+                "You've probably heard of the greenhouse effect.",
+                "Earth’s got a bit of a greenhouse effect problem too.",
+                "An out-of-control greenhouse effect means that Venus never cools below 437 °C.",
+                "The runaway greenhouse effect - is something that exists."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZW5ob3VzZSBlZmZlY3Q&hash=3c9cc63b22084bc171ee1c82e709c6c87a5c3e8a&lang=en&cache-only=0",
+            "defineEn": "a global problem that is caused by the increase of harmful gases such as carbon dioxide which results in gradual warming of the Earth",
+            "defineVi": "một vấn đề toàn cầu gây ra bởi sự gia tăng của các khí độc hại như carbon dioxide dẫn đến sự nóng lên dần dần của Trái đất"
+        },
+        {
+            "id": "395321e6-b27f-461b-9b4e-0c3bcb384d9a",
+            "word": "toxic",
+            "phonetic": "tɑːksɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The company culture was toxic, with a cutthroat environment and a focus on profits at all costs.",
+                "Rhubarb leaves are toxic and should never be eaten, as they contain high levels of oxalic acid.",
+                "She cut ties with toxic people in her life, and her mental health improved because away goes the devil when he finds the door shut against him.",
+                "was unaware that I was falling into the trap of toxic positivity.",
+                "Getting involved in a toxic relationship may provide the thrill of drama and excitement, but it can also lead to emotional abuse, manipulation, and heartbreak."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG94aWM&hash=09ccc0b017b3c347c44b2c9ebeaacc0701798385&lang=en&cache-only=0",
+            "defineEn": "containing or related to poison",
+            "defineVi": "có chứa hoặc liên quan đến chất độc",
+            "hasImg": true
+        },
+        {
+            "id": "9d1b33de-7173-40a5-af47-8d77b4df1002",
+            "word": "poisonous",
+            "phonetic": "pɔɪzənəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Poisonous giant hogweeds overgrow the banks of London’s Thames River.",
+                "Bitter flavors could signal poisonous foods.",
+                "His hat is poisonous, like a spear.",
+                "Basically, tires are poisonous for the environment.",
+                "It's poisonous."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9pc29ub3Vz&hash=77e3df6e176ab7171312ca1a8ee79e9c9fb17c26&lang=en&cache-only=0",
+            "defineEn": "containing poison",
+            "defineVi": "chứa chất độc",
+            "hasImg": true
+        },
+        {
+            "id": "4ba684c2-b115-4d9f-b336-0323a1f955b2",
+            "word": "air pollution",
+            "phonetic": "ɛɹ pəluːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Air pollution is terrible.",
+                "Hundreds of thousands of people die from air pollution every year.",
+                "Air pollution still remains one of the key environmental issues in the United States.",
+                "Every year, air pollution is responsible for six million premature deaths worldwide from heart attacks, strokes and diabetes.",
+                "In addition, smoke from vehicles causes serious air pollution in some cities. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWlyIHBvbGx1dGlvbg&hash=ea8aa00cb7df244a67c63f4010651115e4142378&lang=en&cache-only=0",
+            "defineEn": "the act of releasing harmful substances to the air",
+            "defineVi": "hành động giải phóng các chất có hại vào không khí",
+            "hasImg": true
+        },
+        {
+            "id": "321ecee2-3fcb-4351-a05d-8a596d5f660a",
+            "word": "smoke",
+            "phonetic": "smoʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Smoke appeared on the horizon.",
+                "He smoked a whole turkey and served it with a tangy barbecue sauce.",
+                "The outgoing president used smoke and mirrors to make the situation look better.",
+                "I smoked a joint an hour ago, and I'm still waiting to come up.",
+                "My presentation went up in smoke when the slideshow stopped working."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21va2U&hash=88e9ce4f9e1120c570be825eaa8ab214350342ca&lang=en&cache-only=0",
+            "defineEn": "a cloud of chemicals produced by burning something",
+            "defineVi": "một đám mây hóa chất được sản xuất bằng cách đốt cháy một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "95e6df87-cb01-4b73-b8b1-9250f3012b89",
+            "word": "power plant",
+            "phonetic": "paʊɚ plænt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The nuclear power plant released a small amount of radiation into the atmosphere after the incident.",
+                "Power plants deliver energy.",
+                "A coal-fired power plant produces cheap electricity for its customers and profits for its owners.",
+                "In Chile, power plant operators pay $5 for every metric ton of carbon dioxide that they release into the air.",
+                "The tire-fueled power plant in Turkey recycles 20,000 tons every year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG93ZXIgcGxhbnQ&hash=ae6b8452f4fdbed179a9134c3b16b04c3784803e&lang=en&cache-only=0",
+            "defineEn": "a large building in which electricity is generated",
+            "defineVi": "một tòa nhà lớn trong đó điện được tạo ra"
+        },
+        {
+            "id": "a3566f64-a2d3-4515-9bc3-4a9298a6765b",
+            "word": "to recycle",
+            "phonetic": "tə ɹᵻsaɪkəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Recycling waste saves energy.",
+                "When it comes to reducing waste, every little helps, from using reusable bags to recycling paper and plastic.",
+                "Down in the soil, a typical earthworm population recycles around two tons of organic matter per acre every year.",
+                "Only about 13.5% of that was recycled.",
+                "Globally, only 9% of plastics are recycled."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVjeWNsZQ&hash=da929b90740e53e8ec60e051e36161440668d1c6&lang=en&cache-only=0",
+            "defineEn": "to make a waste product usable again",
+            "defineVi": "để làm cho một sản phẩm chất thải có thể sử dụng một lần nữa",
+            "hasImg": true
+        },
+        {
+            "id": "539d767a-0291-483b-951f-8f9bb343b8c3",
+            "word": "recycling",
+            "phonetic": "ɹᵻsaɪklɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They collected glass bottles for a recycling project.",
+                "The manager of the recycling center took pride in the fact that they could find a use for almost any material that came their way.",
+                "Long term, recycling is more efficient.",
+                "Recycling alone can’t solve our waste problem.",
+                "Plastics recycling is failing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjeWNsaW5n&hash=83367c9b9a55ff3b0631cc9fd98b65530a746f85&lang=en&cache-only=0",
+            "defineEn": "the process of making waste products usable again",
+            "defineVi": "quá trình làm cho các sản phẩm thải bỏ có thể sử dụng lại"
+        },
+        {
+            "id": "e64c946b-840d-4f2c-9fe6-4944ef275d19",
+            "word": "renewable",
+            "phonetic": "ɹᵻnuːəbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Samantha is breaking new ground in the field of renewable energy, with her groundbreaking research on solar power.",
+                "The energy company's board of directors was composed entirely of men in gray suits who were resistant to investing in renewable energy sources.",
+                "Mostly, the Chinese government views renewable energy as a major economic opportunity.",
+                "Renewable energy causes one death every few decades.",
+                "Renewable energy needs wind turbines or solar panels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVuZXdhYmxl&hash=c9dc6f4d51344048553bb6871785b38ae8031328&lang=en&cache-only=0",
+            "defineEn": "describing a natural resource that can be replaced in an infinite way",
+            "defineVi": "mô tả một nguồn tài nguyên thiên nhiên có thể được thay thế một cách vô hạn"
+        },
+        {
+            "id": "03e6cc8e-cb28-4331-abd3-dff2124b39c3",
+            "word": "emergency",
+            "phonetic": "ɪmɜːdʒənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Emergency aid could save millions threatened with starvation.",
+                "He had a fast response to emergency situations.",
+                "The pilot's best bet was to make an emergency landing.",
+                "In the event of an actual emergency, you will be told what to do.",
+                "I have a dirt cheap phone that's only for emergencies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1lcmdlbmN5&hash=47646515a60a735415c9b49c3f113991e43cc2b7&lang=en&cache-only=0",
+            "defineEn": "an unexpected and usually dangerous situation needing immediate attention or action",
+            "defineVi": "một tình huống bất ngờ và thường nguy hiểm cần sự chú ý hoặc hành động ngay lập tức"
+        },
+        {
+            "id": "923208d1-ef9e-4ba1-9c1a-b1ab4cdabc1a",
+            "word": "to provide",
+            "phonetic": "tə pɹəvaɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The mountain provided a natural barrier between the two valleys.",
+                "The hotel provides fresh towels for the guests every day.",
+                "The tall oak tree provided shade on a hot summer day.",
+                "The coconut flakes provided a delightful crunch in the homemade granola.",
+                "The carob-covered almonds provided a delightful crunch and a hint of sweetness in every bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHJvdmlkZQ&hash=b62bb8b0785739dac343e4a601c890decd162686&lang=en&cache-only=0",
+            "defineEn": "to give someone the thing that they need or want",
+            "defineVi": "để cung cấp cho ai đó điều mà họ cần hoặc muốn"
+        },
+        {
+            "id": "a1414ff0-c831-4028-9fcc-40d13d9836b2",
+            "word": "to rot",
+            "phonetic": "tə ɹɑːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The team stopped the rot with a 5–0 win last night.",
+                "The company's recent financial scandal can be traced back to the CEO's unethical practices - fish rots from the head.",
+                "Eventually the tissue inside the rock rotted away.",
+                "When something decomposes, it breaks down, or rots.",
+                "Rotting food may have mold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcm90&hash=a982c9dde3b6ad08ca5e0bdef504db1b5c309ec0&lang=en&cache-only=0",
+            "defineEn": "to break down or destroy",
+            "defineVi": "để phá vỡ hoặc phá hủy"
+        },
+        {
+            "id": "7d6439a9-f01f-4e0b-b606-e3c7df7a8601",
+            "word": "to rot",
+            "phonetic": "tə ɹɑːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The team stopped the rot with a 5–0 win last night.",
+                "The company's recent financial scandal can be traced back to the CEO's unethical practices - fish rots from the head.",
+                "Eventually the tissue inside the rock rotted away.",
+                "When something decomposes, it breaks down, or rots.",
+                "Rotting food may have mold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcm90&hash=a982c9dde3b6ad08ca5e0bdef504db1b5c309ec0&lang=en&cache-only=0",
+            "defineEn": "to cause something to break down",
+            "defineVi": "để gây ra một cái gì đó để phá vỡ"
+        },
+        {
+            "id": "24d730c6-72db-49fe-9e2d-d8c0873d5666",
+            "word": "act of God",
+            "phonetic": "ækt ʌv ɡɑːd ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN0IG9mIEdvZA&hash=ce7bb0ddb219d38d64549f6ef822f40e509c4c1c&lang=en&cache-only=0",
+            "defineEn": "an earthquake, storm, or any other natural event that humans cannot prevent or control",
+            "defineVi": "động đất, bão hoặc bất kỳ sự kiện tự nhiên nào khác mà con người không thể ngăn chặn hoặc kiểm soát"
+        }
+    ]
+}

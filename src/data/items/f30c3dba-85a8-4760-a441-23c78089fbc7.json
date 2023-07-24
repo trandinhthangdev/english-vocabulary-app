@@ -1,0 +1,262 @@
+{
+    "id": "f30c3dba-85a8-4760-a441-23c78089fbc7",
+    "title": "Transportation",
+    "originalTitle": "Lesson 28",
+    "words": [
+        {
+            "id": "dd662866-dad9-4dd8-a6a0-f1dfacdbdc60",
+            "word": "car",
+            "phonetic": "kɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "See my car?",
+                "Our car has seen better days!",
+                "A car hit the barrier.",
+                "My father's car needs an oil change.",
+                "The car was doing 90 miles an hour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Fy&hash=0c1027a2f9bc8e99b7a34b8784a4165e3b7ffbca&lang=en&cache-only=0",
+            "defineEn": "a road vehicle that has four wheels, an engine, and a small number of seats for people",
+            "defineVi": "một phương tiện giao thông đường bộ có bốn bánh, một động cơ và một số ít chỗ ngồi cho người",
+            "hasImg": true
+        },
+        {
+            "id": "ccefc060-dc94-4f83-aebb-6fcd51fd0546",
+            "word": "motorcycle",
+            "phonetic": "moʊɾɚsaɪkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I spotted a beautiful vintage motorcycle at the bike show.",
+                "He rides his motorcycle to work every day.",
+                "She prefers the freedom and agility of a motorcycle over a car.",
+                "He wears a helmet for safety when riding his motorcycle.",
+                "He's saving up to buy a new motorcycle with better performance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90b3JjeWNsZQ&hash=af5d9df0212da28f409f209173ff802240c488c2&lang=en&cache-only=0",
+            "defineEn": "a vehicle with two wheels, powered by an engine",
+            "defineVi": "một chiếc xe có hai bánh, chạy bằng động cơ",
+            "hasImg": true
+        },
+        {
+            "id": "2809f90a-41d7-45ef-a526-8f019466e411",
+            "word": "bus",
+            "phonetic": "bʌs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Buses take priority over other vehicles on the road.",
+                "The bus hit the bridge.",
+                "The bus can take 60 passengers.",
+                "Buses to Oxford run every half hour.",
+                "A bus appeared around the corner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVz&hash=ece33930deb035075822c0942b6b8026fb15fe25&lang=en&cache-only=0",
+            "defineEn": "a large vehicle that carries many passengers by road",
+            "defineVi": "một chiếc xe lớn chở nhiều hành khách bằng đường bộ",
+            "hasImg": true
+        },
+        {
+            "id": "fd815902-e726-4c3a-b607-d67f462b3343",
+            "word": "truck",
+            "phonetic": "tɹʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The truck delivered a large shipment of goods to the warehouse.",
+                "The truck carried a load of construction materials to the building site.",
+                "But a truck driver saved her bacon.",
+                "We have no truck with that style of gutter journalism.",
+                "As an American, she had little truck with the painful formality of English life."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJ1Y2s&hash=ac26a9602c3de3e45b8f6cdbe521b3a72f63931b&lang=en&cache-only=0",
+            "defineEn": "a large, heavy road vehicle used for carrying goods",
+            "defineVi": "một phương tiện đường bộ lớn, hạng nặng được sử dụng để chở hàng hóa",
+            "hasImg": true
+        },
+        {
+            "id": "49dd1bde-ee5e-47fb-a135-80379e93a358",
+            "word": "train",
+            "phonetic": "tɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The train’s here at long last.",
+                "The train traveled through beautiful countryside.",
+                "Trains between London and Brighton run throughout the day.",
+                "To hold the train.",
+                "The slow train arrived at the station behind schedule."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhaW4&hash=c1b4f01b274baa72abf82f56f006c02cb4003696&lang=en&cache-only=0",
+            "defineEn": "a series of connected carriages or wagons pulled along a railroad line by a locomotive",
+            "defineVi": "một loạt các toa xe hoặc toa xe được kết nối với nhau do đầu máy kéo dọc theo một tuyến đường sắt",
+            "hasImg": true
+        },
+        {
+            "id": "97a50b3f-5de5-48d3-bb13-c235d1e6a08f",
+            "word": "taxi",
+            "phonetic": "tæksi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The taxi station is just a short walk from my apartment.",
+                "I took a taxi from my house to the train station.",
+                "The taxi driver helped me with my luggage.",
+                "The taxi dropped me off at the entrance of the restaurant.",
+                "The taxi driver drove us to the airport quickly and safely."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGF4aQ&hash=8e6c3c4d51583e084c5419dbb04887142e5ffa34&lang=en&cache-only=0",
+            "defineEn": "a car that has a driver who gets paid for taking people to places",
+            "defineVi": "một chiếc xe có tài xế được trả tiền để đưa mọi người đến những nơi",
+            "hasImg": true
+        },
+        {
+            "id": "587ff89e-cbfc-4e9e-8cc7-5378764c0d7a",
+            "word": "subway",
+            "phonetic": "sʌbweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subway map helped me navigate the different lines.",
+                "I like reading a book during my subway ride.",
+                "I prefer taking the subway instead of driving in the city.",
+                "There are designated seats for elderly and pregnant passengers on the subway.",
+                "In 2012, each Subway franchise generated an average of $482,000 a year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vid2F5&hash=61972b7d10cff235e44115242a189533d6d86d40&lang=en&cache-only=0",
+            "defineEn": "an underground railway system, typically in a big city",
+            "defineVi": "một hệ thống đường sắt ngầm, thường ở một thành phố lớn",
+            "hasImg": true
+        },
+        {
+            "id": "e3b9c597-2602-4bc5-823d-05299565c9d4",
+            "word": "airplane",
+            "phonetic": "ɛɹpleɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The airplane flew through the clouds on its way to the destination.",
+                "The airplane is a fast way to travel long distances.",
+                "I will be flying in an airplane to visit my family.",
+                "The Wright brothers blazed a trail in aviation by building the first successful airplane.",
+                "I always feel excited when the airplane takes off."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWlycGxhbmU&hash=9f3cf57a0f7012139fdd93a760e9f9194beb9754&lang=en&cache-only=0",
+            "defineEn": "a machine with fixed wings and at least one engine, which flies in the sky and moves people from one place to another",
+            "defineVi": "một cỗ máy có cánh cố định và ít nhất một động cơ, bay trên bầu trời và di chuyển con người từ nơi này sang nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "09bd24d5-e775-4956-9c46-248c5ec3394e",
+            "word": "helicopter",
+            "phonetic": "hɛlɪkɑːptɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The helicopter transported the injured person to the hospital.",
+                "The blades of the helicopter were turning slowly.",
+                "The helicopter blades spun rapidly as it prepared for takeoff.",
+                "We took a helicopter tour to get a bird's-eye view of the city.",
+                "The rescue team arrived in a helicopter to help the stranded hikers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVsaWNvcHRlcg&hash=710aa2a7d56ab4d53589f7b88e41335be2c2c087&lang=en&cache-only=0",
+            "defineEn": "a large aircraft with metal blades on top that go around",
+            "defineVi": "một chiếc máy bay lớn với những cánh kim loại phía trên bay vòng quanh",
+            "hasImg": true
+        },
+        {
+            "id": "4e95aebc-31c0-41d9-9b5d-706131272d06",
+            "word": "ship",
+            "phonetic": "ʃɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ship is holding a south-easterly course.",
+                "The captain navigated the ship through rough waters with skill and expertise.",
+                "Our ship changed course.",
+                "That ship of yours clearly has had her day.",
+                "Jane sure ran a tight ship around here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hpcA&hash=4f13bb7567d81a28e6e015e2593edf795e8737e9&lang=en&cache-only=0",
+            "defineEn": "a large boat, used for carrying passengers or goods across the sea",
+            "defineVi": "một chiếc thuyền lớn, được sử dụng để chở hành khách hoặc hàng hóa trên biển",
+            "hasImg": true
+        },
+        {
+            "id": "ffe08a33-9e71-4521-a44f-573ce6007a2b",
+            "word": "boat",
+            "phonetic": "boʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boat hit against an object under the surface of the water.",
+                "Your boat was sunk by a swordfish?",
+                "The boat captain guided us through the narrow canals of the city.",
+                "The boat hit a rock and broke in half.",
+                "The boat hit a rock and broke in half."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9hdA&hash=24ee2a46bf9999fe99dc2e5a586d7c941089d5a5&lang=en&cache-only=0",
+            "defineEn": "a type of vehicle that is small and is used to travel on water",
+            "defineVi": "một loại phương tiện nhỏ và được sử dụng để đi du lịch trên mặt nước",
+            "hasImg": true
+        },
+        {
+            "id": "e283510d-3ac5-48c9-a714-5efaa732cdb9",
+            "word": "ticket",
+            "phonetic": "tɪkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tickets were £25.",
+                "Tickets for the concert are like gold dust.",
+                "The tickets are selling like hot cakes",
+                "The ticket for the bus is valid for a single journey.",
+                "They checked our tickets at the entrance of the stadium."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGlja2V0&hash=366f2e76c0c68d0e0f393d4f2c9fd540cec5028c&lang=en&cache-only=0",
+            "defineEn": "a piece of paper, text, card, or image showing that we have paid to enter a place, travel with a public transport, etc.",
+            "defineVi": "một mảnh giấy, văn bản, thẻ hoặc hình ảnh cho thấy chúng tôi đã trả tiền để vào một địa điểm, di chuyển bằng phương tiện công cộng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8a34f7e4-2962-40c9-b05f-37b4ada68bc7",
+            "word": "station",
+            "phonetic": "steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The rebels held the radio station.",
+                "The taxi station is just a short walk from my apartment.",
+                "The slow train arrived at the station behind schedule.",
+                "The bus station is located in the city center.",
+                "On the way to the station she passed a cinema."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhdGlvbg&hash=b7a59ac64128127dd332f6a8909991884dc05a30&lang=en&cache-only=0",
+            "defineEn": "a place or building where we can get on or off a train or bus",
+            "defineVi": "một địa điểm hoặc tòa nhà nơi chúng ta có thể lên hoặc xuống xe lửa hoặc xe buýt",
+            "hasImg": true
+        },
+        {
+            "id": "18dc1ff0-8608-48e7-bf2b-864be38540b0",
+            "word": "airport",
+            "phonetic": "ɛɹpoːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Airport security was extra tight in the wake of yesterday's bomb attacks.",
+                "My mother drove us to the airport.",
+                "The taxi driver drove us to the airport quickly and safely.",
+                "The closing of the airport knocked our holiday plans on the head.",
+                "The journey to the airport takes about half an hour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWlycG9ydA&hash=85636aa0b2a99c38a3d8270814d4021018aef0cd&lang=en&cache-only=0",
+            "defineEn": "a large place where planes take off and land, with buildings and other facilities, in which passengers wait for their flights",
+            "defineVi": "một nơi rộng rãi, nơi máy bay cất cánh và hạ cánh, với các tòa nhà và cơ sở vật chất khác, trong đó hành khách đợi chuyến bay của họ",
+            "hasImg": true
+        },
+        {
+            "id": "8268eb16-37e4-4372-944d-069d2efafbe3",
+            "word": "train station",
+            "phonetic": "tɹeɪn steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The train station is busy during rush hour.",
+                "The train station is just a few blocks to the east of here.",
+                "I took a taxi from my house to the train station.",
+                "The train station platform was busy with people waiting for their trains.",
+                "He lingered indecisively outside the train station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhaW4gc3RhdGlvbg&hash=f541c95e2b16b1f6d309a1ca59793a09664b4535&lang=en&cache-only=0",
+            "defineEn": "a place where trains regularly stop for passengers to get on and off",
+            "defineVi": "nơi tàu hỏa thường xuyên dừng lại để hành khách lên xuống",
+            "hasImg": true
+        }
+    ]
+}

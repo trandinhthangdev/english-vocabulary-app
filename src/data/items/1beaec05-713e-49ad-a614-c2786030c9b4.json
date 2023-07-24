@@ -1,0 +1,432 @@
+{
+    "id": "1beaec05-713e-49ad-a614-c2786030c9b4",
+    "title": "Weather and Nature",
+    "originalTitle": "Lesson 21",
+    "words": [
+        {
+            "id": "c679b171-8c6f-4db4-8633-ed96daf9bacb",
+            "word": "weather",
+            "phonetic": "wɛðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bad weather brought chaos to the utility companies.",
+                "The weather was disagreeably hot.",
+                "The weather turned quite chilly in the afternoon.",
+                "The bad weather brought famine.",
+                "Good afternoon, the weather is perfect for a walk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VhdGhlcg&hash=b4a232573064706369e26c1ce65ccbda4f901d57&lang=en&cache-only=0",
+            "defineEn": "the temperature and other atmospheric conditions such as sunshine, rain, wind, etc.",
+            "defineVi": "nhiệt độ và các điều kiện khí quyển khác như nắng, mưa, gió, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "38eed54c-2031-4482-a904-5464c7b3c2c6",
+            "word": "fire",
+            "phonetic": "faɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hold your fire!",
+                "Who started the fire?",
+                "The firefighter bravely extinguished the house fire.",
+                "The government has played with fire.",
+                "A fire attack shall chill the enemy to the bone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlyZQ&hash=5594975a4de713f8a86ac24ee92ffc156a2b92d3&lang=en&cache-only=0",
+            "defineEn": "the result of something burning that often produces heat, flame, light, and smoke",
+            "defineVi": "kết quả của một cái gì đó cháy thường tạo ra nhiệt, ngọn lửa, ánh sáng và khói",
+            "hasImg": true
+        },
+        {
+            "id": "9fd063b8-3ce0-49aa-aea4-7736163b2cb9",
+            "word": "hot",
+            "phonetic": "hɑːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather was disagreeably hot.",
+                "The news came hot on the heels of another plane crash.",
+                "The factory closure follows hot on the heels of several others",
+                "The winter issue is hot off the press.",
+                "That hot guy had a good head on his shoulders."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90&hash=0da9ddb695c016e223f206638448aae9581d299f&lang=en&cache-only=0",
+            "defineEn": "having a high temperature or a high degree of heat",
+            "defineVi": "có nhiệt độ cao hoặc nhiệt độ cao",
+            "hasImg": true
+        },
+        {
+            "id": "bb3a6755-e5ec-4ec5-84d5-a5a4eacdd2c5",
+            "word": "cold",
+            "phonetic": "koʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He feels the cold a lot.",
+                "The film caught a cold over the outstanding debt.",
+                "Sarah’s got a cold.",
+                "On the day of the wedding, Brown experienced cold feet.",
+                "He's out cold and as still as a stone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
+            "defineEn": "having a temperature lower than the human body's average temperature",
+            "defineVi": "có nhiệt độ thấp hơn nhiệt độ trung bình của cơ thể con người",
+            "hasImg": true
+        },
+        {
+            "id": "e637c793-2fb0-4626-8ad8-4a1f2d263d0e",
+            "word": "sunny",
+            "phonetic": "sʌni ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The flowers bloomed under the sunny sky.",
+                "We often have a picnic in the park on sunny Sundays.",
+                "The sunny weather melted the snow, revealing patches of green grass.",
+                "He flew a kite in the park on a sunny day.",
+                "The sunny day encouraged us to go for a bike ride."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vubnk&hash=6366494c8fe69bcd974ead11499059698b6b5168&lang=en&cache-only=0",
+            "defineEn": "very bright because there is a lot of light coming from the sun",
+            "defineVi": "rất sáng vì có rất nhiều ánh sáng từ mặt trời",
+            "hasImg": true
+        },
+        {
+            "id": "4dec3dc9-89a8-45be-9f9a-546c83bab580",
+            "word": "cloud",
+            "phonetic": "klaʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My brother's heartbreak is casting a cloud over my wedding.",
+                "This clergyman was in the clouds.",
+                "On the seventh of September the clouds broke for the first time.",
+                "The clouds blocked the sun, creating a momentary shadow.",
+                "The airplane flew through the clouds on its way to the destination."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xvdWQ&hash=fe290c08bd0197ecd42d400eca10591ed2d1e867&lang=en&cache-only=0",
+            "defineEn": "a white or gray visible mass, made of very small drops of water, that floats in the sky",
+            "defineVi": "một khối có thể nhìn thấy màu trắng hoặc xám, được tạo thành từ những giọt nước rất nhỏ, lơ lửng trên bầu trời",
+            "hasImg": true
+        },
+        {
+            "id": "1dd95182-e3e5-4631-a783-76c2b65e6db4",
+            "word": "cloudy",
+            "phonetic": "klaʊdi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The cloudy sky created a dramatic backdrop for the sunset.",
+                "The weather forecast predicted a cloudy morning followed by clearing in the afternoon.",
+                "I carried an umbrella with me because the weather looked cloudy.",
+                "We decided to postpone our outdoor plans due to the cloudy weather.",
+                "I couldn't see any stars because it was too cloudy at night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xvdWR5&hash=cb7bd47f90acaf7f03f46c793fc4c55867b2a604&lang=en&cache-only=0",
+            "defineEn": "having many clouds up in the sky",
+            "defineVi": "có nhiều đám mây trên bầu trời",
+            "hasImg": true
+        },
+        {
+            "id": "e84c466d-4506-458d-9711-057258e99296",
+            "word": "rain",
+            "phonetic": "ɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Rain is the kiss of death for a barbecue.",
+                "Come rain or shine.",
+                "The team rained down blows on their opponents, overwhelming them with a flurry of punches.",
+                "Could I take a rain check?",
+                "This rain looks as if it has set in for the rest of the day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFpbg&hash=09fbc93ecfbb5abe6289222cc54dd3c4f58d9ee3&lang=en&cache-only=0",
+            "defineEn": "water that falls in small drops from the sky",
+            "defineVi": "nước rơi thành giọt nhỏ từ trên trời",
+            "hasImg": true
+        },
+        {
+            "id": "963f79dd-32c7-478d-86dc-e98ce93cc423",
+            "word": "rainy",
+            "phonetic": "ɹeɪni ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She found comfort in a warm bowl of creamy leek and potato soup on a rainy afternoon.",
+                "The rainy afternoon was perfect for staying in and reading a book.",
+                "I stayed indoors because it was a rainy day.",
+                "You may be disappointed when a rainy day puts the kibosh on your picnic plans.",
+                "I like to listen to the sound of raindrops falling on the roof during a rainy day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFpbnk&hash=9f7638ff1e37d0b6e0cbc14cd6393422a378aaa7&lang=en&cache-only=0",
+            "defineEn": "having or bringing a lot of rain",
+            "defineVi": "có hoặc mang lại rất nhiều mưa",
+            "hasImg": true
+        },
+        {
+            "id": "285aadec-3a0e-40a1-a5ec-bd61985e16bb",
+            "word": "snowy",
+            "phonetic": "snoʊi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The snowy landscape looked magical under the moonlight.",
+                "I took beautiful pictures of the snowy scenery during our winter hike.",
+                "We went skiing in the snowy mountains.",
+                "I wore warm boots to trudge through the snowy streets.",
+                "I put on my boots to go for a walk in the snowy park."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25vd3k&hash=54cdfeb37f3b1a568a280bdd22f757e3a2d3e159&lang=en&cache-only=0",
+            "defineEn": "‌(of a period of time or weather) having or bringing snow",
+            "defineVi": "‌(của một khoảng thời gian hoặc thời tiết) có hoặc mang theo tuyết",
+            "hasImg": true
+        },
+        {
+            "id": "d785237a-bb7a-411a-95a9-928451a1f7e5",
+            "word": "ice",
+            "phonetic": "aɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ice hockey is a beloved sport in Canada.",
+                "The hockey players glided effortlessly on the ice.",
+                "I've put a couple of bottles of champagne on ice .",
+                "One day before, the same message would not have cut any ice.",
+                "Michael always puts his personal matters on ice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWNl&hash=83d1666b106c16b732ab63530c38c815536289a5&lang=en&cache-only=0",
+            "defineEn": "frozen water, which has a solid state",
+            "defineVi": "nước đóng băng, có trạng thái rắn",
+            "hasImg": true
+        },
+        {
+            "id": "28fe231f-6aa7-47b2-9ed3-a6dce7bcad6a",
+            "word": "nature",
+            "phonetic": "neɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Swimming is second nature to Jane.",
+                "I feel at one with nature.",
+                "The beauty of nature is evident in the vibrant colors of a sunset.",
+                "He admired her intelligence and kind-hearted nature.",
+                "His kind and helpful nature is evident in the way he treats others."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF0dXJl&hash=6117b7c1510264ec341f12e48adfdbc99cb69272&lang=en&cache-only=0",
+            "defineEn": "everything that exists or happens on the earth, excluding ones that are made or controlled by human beings",
+            "defineVi": "mọi thứ tồn tại hoặc xảy ra trên trái đất, ngoại trừ những thứ được tạo ra hoặc kiểm soát bởi con người",
+            "hasImg": true
+        },
+        {
+            "id": "ce70b87e-1082-4148-a7c8-2f5f5d9e8680",
+            "word": "sun",
+            "phonetic": "sʌn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sun always rises in the east.",
+                "The sunflower turned its face towards the sun.",
+                "The afternoon sun casts a warm glow on the buildings and trees.",
+                "Every light is not the sun.",
+                "The children played happily under the sun."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vu&hash=38d88e07abd99bc51565301dc68d45a29711a578&lang=en&cache-only=0",
+            "defineEn": "the large, bright star in the sky that shines during the day and gives us light and heat",
+            "defineVi": "ngôi sao lớn, sáng trên bầu trời tỏa sáng vào ban ngày và cho chúng ta ánh sáng và nhiệt",
+            "hasImg": true
+        },
+        {
+            "id": "d4708c89-6b11-455c-aaf0-78a34122531f",
+            "word": "moon",
+            "phonetic": "muːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ha, yeah right, and the moon is made of cheese.",
+                "Right, and the moon is made of green cheese.",
+                "My boss promised the moon, but never gave me a raise.",
+                "He was over the moon about the ratings.",
+                "The night sky is filled with stars and a beautiful moon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9vbg&hash=59b1bdad2ddcd0d886adc0599cf0f7f96aaded70&lang=en&cache-only=0",
+            "defineEn": "the circular object going round the Earth, visible mostly at night",
+            "defineVi": "vật thể hình tròn quay quanh Trái đất, có thể nhìn thấy chủ yếu vào ban đêm",
+            "hasImg": true
+        },
+        {
+            "id": "fcb17023-c4d4-4267-80d0-31174ca8b808",
+            "word": "Earth",
+            "phonetic": "ɜːθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I had experienced the heaven on earth.",
+                "The Earth has diverse ecosystems, ranging from forests to deserts.",
+                "We spent our vacation in a real heaven on earth.",
+                "We live on planet Earth, which is our home.",
+                "She's very friendly and very down to earth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RWFydGg&hash=8ea80c17142464d27cda068a648c57e89a2ba8ba&lang=en&cache-only=0",
+            "defineEn": "a big round ball covered in land and water, on which we all live",
+            "defineVi": "một quả bóng tròn lớn bao phủ bởi đất và nước, trên đó tất cả chúng ta sống",
+            "hasImg": true
+        },
+        {
+            "id": "ab0848a4-6f31-4eba-966a-828e130ec192",
+            "word": "sky",
+            "phonetic": "skaɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cloudy sky created a dramatic backdrop for the sunset.",
+                "The sky, as if on cue, was overcast.",
+                "The colorful bird flew high in the sky.",
+                "The flowers bloomed under the sunny sky.",
+                "The night sky is filled with stars and a beautiful moon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2t5&hash=4a167b22b1e8a8acb8922d6cd35250fed5298b99&lang=en&cache-only=0",
+            "defineEn": "the space above the earth where stars and clouds, and the sun and the moon appear and can be seen from the earth",
+            "defineVi": "không gian phía trên trái đất nơi các ngôi sao và mây, mặt trời và mặt trăng xuất hiện và có thể nhìn thấy từ trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "dbfed57a-9c05-4641-b919-d8d75d57afd3",
+            "word": "river",
+            "phonetic": "ɹɪvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The river took a meandering bend through the picturesque valley.",
+                "The general had to get his troops across the river.",
+                "The scientists are taking water samples from the river.",
+                "The road runs parallel to the river.",
+                "The map shows the principal towns and rivers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cml2ZXI&hash=2e148962a682b534d3e07ce8d066f68528191346&lang=en&cache-only=0",
+            "defineEn": "a natural and continuous stream of water flowing in a channel to the sea, a lake, or another river",
+            "defineVi": "một dòng nước tự nhiên và liên tục chảy trong một kênh ra biển, hồ hoặc sông khác",
+            "hasImg": true
+        },
+        {
+            "id": "cfbb034b-6f10-4e18-8b96-9eb8b8e23793",
+            "word": "sea",
+            "phonetic": "siː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sea was breaking over the wrecked ship.",
+                "After numerous inspections, the correct answer to this dilemma still remains at sea.",
+                "The Caribbean sea was breaking gently on the shore.",
+                "he feels at sea with economics.",
+                "The cliff dropped down over a hundred feet to the sea below."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vh&hash=5aebe9c822d73737c0dd6e47e8c9c28a65312e93&lang=en&cache-only=0",
+            "defineEn": "the salt water that covers most of the earth’s surface and surrounds its continents and islands",
+            "defineVi": "nước mặn bao phủ hầu hết bề mặt trái đất và bao quanh các lục địa và đảo của nó",
+            "hasImg": true
+        },
+        {
+            "id": "276dd009-30f1-43b9-ae6e-cb4280f641e4",
+            "word": "mountain",
+            "phonetic": "maʊntɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mountain provided a natural barrier between the two valleys.",
+                "The mountain is a popular destination for climbers and hikers.",
+                "You're making a mountain out of a molehill.",
+                "Asian landscapes range from breathtaking mountains to stunning beaches.",
+                "They went farther north into the mountains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91bnRhaW4&hash=ea59668576bca4896a9e5901714438b8f88b90d5&lang=en&cache-only=0",
+            "defineEn": "a very tall and large natural structure that looks like a huge hill with a pointed top that is often covered in snow",
+            "defineVi": "một cấu trúc tự nhiên rất cao và lớn trông giống như một ngọn đồi khổng lồ với đỉnh nhọn thường được bao phủ bởi tuyết",
+            "hasImg": true
+        },
+        {
+            "id": "5416dd17-b371-49c1-affb-f96dd60b829a",
+            "word": "beach",
+            "phonetic": "biːtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The beach is a mile away.",
+                "We spent the day at the beach.",
+                "We packed our beach bag with sunscreen, towels, and beach toys.",
+                "She painted her toenails a vibrant shade of red for the beach vacation.",
+                "I always have a good time at the beach."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhY2g&hash=39e4d635cb5acb41ee43a09479c713473971f539&lang=en&cache-only=0",
+            "defineEn": "an area of sand or small stones next to the sea or a lake",
+            "defineVi": "một khu vực cát hoặc đá nhỏ bên cạnh biển hoặc hồ",
+            "hasImg": true
+        },
+        {
+            "id": "579ade5e-e641-4e76-afda-c23bc6fefca9",
+            "word": "forest",
+            "phonetic": "fɔːɹɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The forest is home to a diverse range of plant and animal species.",
+                "The forest provided us with shade on a hot summer day.",
+                "We saw a brown bear in the forest.",
+                "The hikers diligently searched the dense forest for the lost trail, using a map and compass as their guide.",
+                "He found an edible mushroom in the forest."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9yZXN0&hash=f7e5204a1d2cb53cf42e232a1ce72f478bd289db&lang=en&cache-only=0",
+            "defineEn": "a vast area of land that is covered with trees and shrubs",
+            "defineVi": "một vùng đất rộng lớn được bao phủ bởi cây cối và cây bụi",
+            "hasImg": true
+        },
+        {
+            "id": "43cb9ca6-8607-41d9-bb24-5b3de87b571b",
+            "word": "island",
+            "phonetic": "aɪlənd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The explosion wiped the island off the map.",
+                "Our dream destination for this year's vacation is a secluded tropical island.",
+                "The island had a famous lighthouse that guided ships safely to shore.",
+                "The island had stunning sunsets that painted the sky with vibrant hues.",
+                "Years of war have left their mark on these pretty islands."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aXNsYW5k&hash=b4ba16bf2fdbe845421c5526c527932548fc99b2&lang=en&cache-only=0",
+            "defineEn": "a piece of land surrounded by water",
+            "defineVi": "một mảnh đất được bao quanh bởi nước",
+            "hasImg": true
+        },
+        {
+            "id": "2ec9cecf-bf47-4fb3-9ae7-46d316ec771b",
+            "word": "star",
+            "phonetic": "stɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The stars twinkled brightly in the dark night sky.",
+                "She counted zero stars in the sky.",
+                "The night sky is filled with stars and a beautiful moon.",
+                "In the world of sports, a star athlete can be considered a big shot.",
+                "The night sky is black, except for the stars and the moon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rhcg&hash=a668830f867321684ac9d50d88bee87270c30989&lang=en&cache-only=0",
+            "defineEn": "(astronomy) a shining point found in large numbers in the night sky",
+            "defineVi": "(thiên văn học) một điểm sáng được tìm thấy với số lượng lớn trên bầu trời đêm",
+            "hasImg": true
+        },
+        {
+            "id": "5e842c80-f69a-43f4-8df8-729b3628f5cb",
+            "word": "tree",
+            "phonetic": "tɹiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This tree can reach a height of 24 metres.",
+                "The strong winds knocked down several trees on the road.",
+                "The birds built their nest in the tree.",
+                "A tree which will grow well in most types of soil.",
+                "The trees were covered in a blanket of snowy white."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJlZQ&hash=fc4c44ff97daa7c30cadde326a4b788f790733ab&lang=en&cache-only=0",
+            "defineEn": "a very tall plant with branches and leaves, that can live a long time",
+            "defineVi": "một loại cây rất cao có cành và lá, có thể sống lâu năm",
+            "hasImg": true
+        },
+        {
+            "id": "f54a8319-607c-43f5-9831-29b8769c266d",
+            "word": "flower",
+            "phonetic": "flaʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mom planted beautiful flowers in the front yard.",
+                "The flowers bloomed under the sunny sky.",
+                "The flowers died during a dry spell.",
+                "To give her flowers?",
+                "These flowers are found only in Africa."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxvd2Vy&hash=32969e7328f92f47fc48a7d1dbd4082e5dc64198&lang=en&cache-only=0",
+            "defineEn": "the colored or white part of a plant from which the seed or fruit develops",
+            "defineVi": "phần có màu hoặc màu trắng của cây mà từ đó hạt hoặc quả phát triển",
+            "hasImg": true
+        }
+    ]
+}

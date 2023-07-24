@@ -1,0 +1,466 @@
+{
+    "id": "1d651d6f-c863-4d0f-920f-99a2d6f688b5",
+    "title": "Emotions",
+    "originalTitle": "Lesson 43",
+    "words": [
+        {
+            "id": "1211d272-bd99-40b5-8b63-b839a9088d84",
+            "word": "emotion",
+            "phonetic": "ɪmoʊʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her emotions are an open book.",
+                "Love is a complex emotion that can bring immense joy and deep sorrow.",
+                "I always feel a mix of emotions when saying goodbye to loved ones at the airport.",
+                "When the judge announced the decision, the balloon went up, and emotions ran high in the courtroom.",
+                "It’s flesh and blood to feel such strong emotions at this time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1vdGlvbg&hash=e88a656f591587d4a93bc894451117628b2e5521&lang=en&cache-only=0",
+            "defineEn": "a strong feeling such as love, anger, etc.",
+            "defineVi": "một cảm giác mạnh mẽ như tình yêu, giận dữ, vv",
+            "hasImg": true
+        },
+        {
+            "id": "1a5aab95-2694-40d8-b11e-c8f450688799",
+            "word": "fear",
+            "phonetic": "fɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I fear no one.",
+                "Your fears are all in the mind.",
+                "Scientists fear that global warming has gone beyond the point of no return.",
+                "Fear got a hold of me, but I gave it a twirl anyways.",
+                "There are fears of a hidden agenda behind this new proposal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVhcg&hash=6e1f3f0d311d861b5aa876b19940c6db7f4a7644&lang=en&cache-only=0",
+            "defineEn": "a bad feeling that we get when we are afraid or worried",
+            "defineVi": "một cảm giác tồi tệ mà chúng ta nhận được khi chúng ta sợ hãi hoặc lo lắng",
+            "hasImg": true
+        },
+        {
+            "id": "ef0a363d-b3fe-4bbc-afd0-096cc42f0414",
+            "word": "anger",
+            "phonetic": "æŋɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her comment about my work piqued my anger.",
+                "His apology took the edge off her anger.",
+                "He gritted his teeth in anger.",
+                "She was beside herself with anger.",
+                "The driver knew that anger and haste hinder good counsel when he was cut off in traffic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5nZXI&hash=b5704c96358c617e7d9cc15be2a791dc833dd601&lang=en&cache-only=0",
+            "defineEn": "a strong feeling that we have when something bad has happened, so we might be unkind to someone or harm them",
+            "defineVi": "một cảm giác mạnh mẽ mà chúng ta có khi điều gì đó tồi tệ đã xảy ra, vì vậy chúng ta có thể không tử tế với ai đó hoặc làm hại họ",
+            "hasImg": true
+        },
+        {
+            "id": "7ceec112-d5de-4dbc-8130-f62d9b7ca5c1",
+            "word": "sadness",
+            "phonetic": "sædnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When she looked into his eyes, she could see the pain and sadness that he was trying so hard to hide.",
+                "Never mention rope in the house of a man who has been hanged, as it brings nothing but sadness and sorrow.",
+                "Sadness is an ephemeral reaction to something.",
+                "I had more sadness.",
+                "Ancient Greek doctors didn't view sadness that way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FkbmVzcw&hash=50913b0518eec3887c893ed00c672dffc5384bb3&lang=en&cache-only=0",
+            "defineEn": "the feeling of being sad and not happy",
+            "defineVi": "cảm giác buồn và không vui",
+            "hasImg": true
+        },
+        {
+            "id": "d09d6a00-fdb7-440c-ae3b-f212e86589c8",
+            "word": "happiness",
+            "phonetic": "hæpɪnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Money can't buy happiness.",
+                "She wore a true smile, showing her genuine happiness.",
+                "The wealthy businessman realized too late that a contented mind is a perpetual feast, and that money couldn't buy him true happiness.",
+                "She could not contain her happiness when meeting her childhood idol, and smiled from ear to ear the entire time.",
+                "Joe was tired of relying on others for his happiness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFwcGluZXNz&hash=141b0066215d4500f2f187b31354c0a3fc89356b&lang=en&cache-only=0",
+            "defineEn": "the feeling of being happy and well",
+            "defineVi": "cảm giác hạnh phúc và tốt",
+            "hasImg": true
+        },
+        {
+            "id": "0d49557f-d60e-4da7-8546-3eead9d4f429",
+            "word": "joy",
+            "phonetic": "dʒɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The baby has brought them great joy.",
+                "I was beside myself with joy.",
+                "She found true joy in spending time with her loved ones.",
+                "He jumped for joy on being told the news.",
+                "The boy's eyes lit up with joy when he saw the ice cream truck approaching the neighborhood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=am95&hash=47dd9ccdd3fe4862bc3b4c8900b44173016e2054&lang=en&cache-only=0",
+            "defineEn": "the feeling of great happiness",
+            "defineVi": "cảm giác hạnh phúc tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "c561a32f-40da-49aa-b338-be5edac92603",
+            "word": "disgust",
+            "phonetic": "dɪsɡʌst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She couldn't hide her grimace of disgust when she tasted the spoiled milk.",
+                "The student couldn't hide his disgust and grimaced when he saw the grade on his test.",
+                "No, they were disgusted.",
+                "Or you might learn disgust from others.",
+                "So disgust can help mold individual values and biases."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzZ3VzdA&hash=e9fd92035b501a5bd3e795287d494f466372bdd2&lang=en&cache-only=0",
+            "defineEn": "a strong feeling of distaste for someone or something",
+            "defineVi": "một cảm giác chán ghét mạnh mẽ cho một ai đó hoặc một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "6837e171-9fe1-4820-b1b9-6a2a6f3e8939",
+            "word": "surprise",
+            "phonetic": "sɚpɹaɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They still have some surprises up their sleeves.",
+                "As a loving husband, he surprises his wife with romantic gestures on special occasions.",
+                "They were surprised by the unique taste of burdock chips, a healthier alternative to regular potato chips.",
+                "I planned a surprise party for my little sister's birthday.",
+                "He surprised his guests at a dinner party by presenting a unique dessert twist on cheese fondue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VycHJpc2U&hash=08ac9d67bd2838a59579db6e902e8286f4a2db52&lang=en&cache-only=0",
+            "defineEn": "a mild feeling of shock we have when something unusual happens",
+            "defineVi": "một cảm giác sốc nhẹ mà chúng ta có khi có điều gì đó bất thường xảy ra",
+            "hasImg": true
+        },
+        {
+            "id": "b995af03-7989-4f85-801c-972428933988",
+            "word": "trust",
+            "phonetic": "tɹʌst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can't trust that guy.",
+                "You can trust Alfred.",
+                "I don't trust Jack.",
+                "Fast food chains removed pink slime from their menus to regain trust.",
+                "Be patient and trust in the process, rather than seeking instant gratification."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJ1c3Q&hash=7da60f1773995a53692274a46b82e5a972e8369d&lang=en&cache-only=0",
+            "defineEn": "the strong belief that someone is honest or something is true and so we can count on them",
+            "defineVi": "niềm tin mạnh mẽ rằng ai đó trung thực hoặc điều gì đó là đúng và vì vậy chúng ta có thể tin tưởng vào họ",
+            "hasImg": true
+        },
+        {
+            "id": "1c172bae-d3c3-469d-a553-0f8879059a14",
+            "word": "calmness",
+            "phonetic": "kɑːmnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And then I just had this calmness of being like, you can do this.",
+                "'You know?' said Bounderby, plainly astonished at the other man's calmness.",
+                "Can you feel the quiet, calmness?",
+                "I think when you’re fearless about this thing, that is dying, people cling to you, and you're a source of calmness and strength.",
+                "Among other things, that would also explain why near-death experiences cause calmness and peacefulness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FsbW5lc3M&hash=b0b7c641a06cbbcdda62dec0d7eac846a146da31&lang=en&cache-only=0",
+            "defineEn": "being quiet, peaceful, and without worries",
+            "defineVi": "yên tĩnh, yên bình và không lo lắng",
+            "hasImg": true
+        },
+        {
+            "id": "de7af641-c47f-475d-a061-91f6167cc827",
+            "word": "shame",
+            "phonetic": "ʃeɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The report names and shames companies that are not doing enough to fight industrial pollution.",
+                "Pardon my French, but that's a damned shame!",
+                "The teacher encouraged their students to tell the truth and shame the devil, even if it meant admitting to cheating or plagiarism.",
+                "Look, I'm just as upset as anyone, but I'm not willing to take part in some name and shame against everyone in the neighborhood!",
+                "The time limit is shame."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhbWU&hash=c1bd03bfa054d9640cb284182585e7ff08f9059c&lang=en&cache-only=0",
+            "defineEn": "an uneasy feeling that we get because of our own or someone else's mistake or bad manner",
+            "defineVi": "một cảm giác khó chịu mà chúng ta có được do sai lầm hoặc cách cư xử tồi tệ của chính mình hoặc của người khác",
+            "hasImg": true
+        },
+        {
+            "id": "f2e08900-2bbc-456e-900c-293d76b4e537",
+            "word": "hatred",
+            "phonetic": "heɪtɹɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The two countries were so consumed by their mutual hatred that they failed to see the benefits of working together, proving that hatred is as blind as love.",
+                "The two countries were so consumed by their mutual hatred that they failed to see the benefits of working together, proving that hatred is as blind as love.",
+                "The history professor believed that while great works of literature provide insights into the human condition, a great book is a great evil when its ideas are twisted to promote hatred and intolerance.",
+                "Our national hatred of taxes does have an upside.",
+                "Our radical Democrat opponents are driven by hatred, prejudice, and rage."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGF0cmVk&hash=3c07f056fd6dc8a275001b934853750197f0ef37&lang=en&cache-only=0",
+            "defineEn": "a very strong feeling of dislike",
+            "defineVi": "một cảm giác không thích rất mạnh mẽ",
+            "hasImg": true
+        },
+        {
+            "id": "6fb03094-fd4a-49a7-83cb-fad7b3aa5afc",
+            "word": "love",
+            "phonetic": "lʌv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After all, love will find a way.",
+                "He loved gardening.",
+                "They loved the sun-dried tomato and mozzarella-filled pansotti.",
+                "I love the vibrant green color of Granny Smith apples.",
+                "I love the crunch of romaine lettuce in my sandwiches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG92ZQ&hash=23bacb84d963fcc6fb074f92910ad265fd48c756&lang=en&cache-only=0",
+            "defineEn": "the very strong emotion we have for someone or something that is important to us and we like a lot and want to take care of",
+            "defineVi": "cảm xúc rất mạnh mẽ mà chúng ta dành cho ai đó hoặc điều gì đó quan trọng đối với chúng ta và chúng ta rất thích và muốn chăm sóc",
+            "hasImg": true
+        },
+        {
+            "id": "0e3a836b-a66b-4459-84e9-3b3d9b291053",
+            "word": "kindness",
+            "phonetic": "kaɪndnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her intelligence and kindness make her the perfect girlfriend.",
+                "Her actions reflect her kindness and compassion towards others.",
+                "Mary's kindness and generosity towards others has earned her love and respect from everyone she meets.",
+                "A little bit of kindness can go a long way in brightening someone's day.",
+                "We are so thankful for their kindness and generosity and we promise to pay it forward."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2luZG5lc3M&hash=2290d7707d2952b853cdc7f917366de26523dfa4&lang=en&cache-only=0",
+            "defineEn": "the quality of being caring toward people, animals, or plants",
+            "defineVi": "chất lượng quan tâm đến con người, động vật hoặc thực vật",
+            "hasImg": true
+        },
+        {
+            "id": "eac419eb-de7b-4469-b1cc-b489afe51723",
+            "word": "sympathy",
+            "phonetic": "sɪmpəθi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A little sympathy makes a world of difference to someone who's been badly treated.",
+                "Jack was struggling and found comfort in venting his problems to his brother Joe, looking for sympathy and validation.",
+                "The actor's grimace of pain was so convincing that the audience winced in sympathy.",
+                "I have some sympathy for them.",
+                "I got no sympathy from my wife."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ltcGF0aHk&hash=4fb2a00c63444b4911417da2d30c86245cbe5c90&lang=en&cache-only=0",
+            "defineEn": "feelings of care and understanding toward other people's emotions, especially sadness or suffering",
+            "defineVi": "cảm giác quan tâm và thấu hiểu cảm xúc của người khác, đặc biệt là nỗi buồn hoặc đau khổ",
+            "hasImg": true
+        },
+        {
+            "id": "5bb05d4c-73f3-47d7-bbda-f81e93aee869",
+            "word": "amusement",
+            "phonetic": "ɐmjuːzmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As the comedian told the joke, the audience grimaced in a mixture of amusement and discomfort.",
+                "Offers an amusement experience called \"1984: Survival Drama.\"",
+                "Amusement and anxiety are both considered high-arousal emotions, while contentment and sadness are considered low-arousal.",
+                "Amusement and anxiety are both considered high-arousal emotions, while contentment and sadness are considered low-arousal.",
+                "- Where do you go when you want - some amusement?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW11c2VtZW50&hash=3c2558785223f8e036b5cc5db94e0e71321f9168&lang=en&cache-only=0",
+            "defineEn": "a feeling we get when somebody or something is funny and exciting",
+            "defineVi": "một cảm giác chúng tôi nhận được khi ai đó hoặc một cái gì đó là hài hước và thú vị",
+            "hasImg": true
+        },
+        {
+            "id": "f86d0cc5-1564-4f71-b745-65598bb160df",
+            "word": "confusion",
+            "phonetic": "kənfjuːʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The announcement only succeeded in creating confusion.",
+                "The group of students working on the assignment found that adding more people to the team only led to confusion and inefficiency, proving how two boys are half a boy, and three boys are no boy at all.",
+                "The company had two CEOs, but they quickly realized that when two ride together one must ride behind, and eventually appointed one as the clear leader to avoid confusion and conflicts.",
+                "Confusion about eligibility for loan forgiveness is widespread.",
+                "The confusion takes away some of your sense of control."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZnVzaW9u&hash=5d7ac5dc7230c8bbdfb39364e74d787a491b179b&lang=en&cache-only=0",
+            "defineEn": "a state of being confused and not having a clear understanding of an action, behavior, etc.",
+            "defineVi": "một trạng thái bối rối và không hiểu rõ về một hành động, hành vi, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8bd06e3d-0d2f-41f3-a73a-748dfdfec074",
+            "word": "to laugh",
+            "phonetic": "tə læf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The politician's opponent laughed at his proposal during the debate.",
+                "Don't laugh!",
+                "My friends all had a good laugh, but at my expense.",
+                "To Thomas, her laugh sounded horribly like a growl.",
+                "You never laugh at my jokes!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGF1Z2g&hash=2df47c91785a3e18774ac06ce3b211f5e9ce1dec&lang=en&cache-only=0",
+            "defineEn": "to make happy sounds and move our face like we are smiling because something is funny",
+            "defineVi": "để tạo ra những âm thanh vui vẻ và di chuyển khuôn mặt của chúng tôi như thể chúng tôi đang cười vì điều gì đó buồn cười",
+            "hasImg": true
+        },
+        {
+            "id": "3b3ae28e-7966-4cca-a852-9166a613e1b1",
+            "word": "to cry",
+            "phonetic": "tə kɹaɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The baby cried its head off.",
+                "And now the poor thing is crying his heart out.",
+                "The child's cry of fear alerted the adults to the presence of a spider.",
+                "The protesters raised their cries for justice and equality in the streets.",
+                "The little girl cried uncontrollably after losing her favorite toy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3J5&hash=a5fcdf698ba4ffdde29966b36182e7f8ecfcf365&lang=en&cache-only=0",
+            "defineEn": "to have tears coming from your eyes as a result of a strong emotion such as sadness, pain, or sorrow",
+            "defineVi": "nước mắt chảy ra từ đôi mắt của bạn do một cảm xúc mạnh mẽ như buồn bã, đau đớn hoặc buồn bã",
+            "hasImg": true
+        },
+        {
+            "id": "3306c7e4-1c57-469d-aa50-2e6fd7db130e",
+            "word": "to smile",
+            "phonetic": "tə smaɪl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Both men wore confident smiles.",
+                "She smiled nervously.",
+                "She had a big smile on her face.",
+                "The old gentleman greeted everyone with a warm smile.",
+                "His wife smiled, recalling the old saying that a man is a lion in his own cause."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc21pbGU&hash=bcb6a766a28e3abee233d16f512f648e89fed5aa&lang=en&cache-only=0",
+            "defineEn": "to make our mouth curve upwards, often in a way that our teeth can be seen, to show that we are happy or amused",
+            "defineVi": "làm cho miệng của chúng ta cong lên, thường theo cách có thể nhìn thấy răng của chúng ta, để thể hiện rằng chúng ta đang vui vẻ hoặc thích thú",
+            "hasImg": true
+        },
+        {
+            "id": "e226a410-cdea-4e1d-9fd0-6e70bac81401",
+            "word": "to frown",
+            "phonetic": "tə fɹaʊn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She gave him a frown and told him to mind his manners.",
+                "When I asked my friend for feedback on my presentation, she gave me some tough criticism, but I knew that a friend's frown is better than a fool's smile, so I took her advice and made some changes that ultimately improved the outcome.",
+                "Don't frown now.",
+                "I would just frown.",
+                "That clown is frowning and running at me with a tiny cream pie."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZnJvd24&hash=5bd932f5e1eeda44915c58e4a5f7b1766256eb7c&lang=en&cache-only=0",
+            "defineEn": "to bring your eyebrows closer together showing anger, sadness or confusion",
+            "defineVi": "đưa lông mày của bạn lại gần nhau thể hiện sự tức giận, buồn bã hoặc bối rối",
+            "hasImg": true
+        },
+        {
+            "id": "591911b2-2c6a-43b5-9c46-c1ab9bd8d780",
+            "word": "to miss",
+            "phonetic": "tə mɪs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He never missed a televised basketball or football game.",
+                "I missed the part where that's my problem.",
+                "but we missed them.",
+                "She received a missed call from an unknown phone number.",
+                "You've missed your mark three times in a row."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWlzcw&hash=3731b154ab7ef388e275b354f0f5752901ee729a&lang=en&cache-only=0",
+            "defineEn": "to feel sad because we no longer can see someone or do something",
+            "defineVi": "cảm thấy buồn vì chúng ta không còn có thể nhìn thấy ai đó hoặc làm điều gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "79b7dde1-13fb-49dc-a3dc-6b4ff1c08826",
+            "word": "to worry",
+            "phonetic": "tə wʌɹi ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Don't worry.",
+                "They worried about an FBI fishing expedition.",
+                "Don’t worry.",
+                "Don't worry about it.",
+                "Don't worry about him."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd29ycnk&hash=1ff19c009d71e09ab28b46652cc33fc46ac859bd&lang=en&cache-only=0",
+            "defineEn": "to feel upset and nervous because we think about bad things that might happen to us or our problems",
+            "defineVi": "cảm thấy khó chịu và lo lắng vì chúng tôi nghĩ về những điều tồi tệ có thể xảy ra với chúng tôi hoặc các vấn đề của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "d73b6fd6-e7be-437c-87c7-823808e9afa7",
+            "word": "to surprise",
+            "phonetic": "tə sɚpɹaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They still have some surprises up their sleeves.",
+                "As a loving husband, he surprises his wife with romantic gestures on special occasions.",
+                "They were surprised by the unique taste of burdock chips, a healthier alternative to regular potato chips.",
+                "I planned a surprise party for my little sister's birthday.",
+                "He surprised his guests at a dinner party by presenting a unique dessert twist on cheese fondue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3VycHJpc2U&hash=595ce16cbab945e1d4d3842929666485c1e56d29&lang=en&cache-only=0",
+            "defineEn": "to make someone feel mildly shocked",
+            "defineVi": "để làm cho ai đó cảm thấy sốc nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "610af9a0-ef8f-497f-a84b-83d8c80750ce",
+            "word": "surprised",
+            "phonetic": "sɚpɹaɪzd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She was surprised to find Chinese cabbage at the grocery store.",
+                "I'm really surprised that the sequel even holds a candle to the original.",
+                "When I tasted the white sauce for the first time, I was pleasantly surprised by its delicate balance of flavors.",
+                "She was surprised to find that everyone had left.",
+                "Mark was surprised to find out that his close friend, Alex, swings both ways."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VycHJpc2Vk&hash=1c0f9f46ab6530605e7db78e0d9538a88eb243ef&lang=en&cache-only=0",
+            "defineEn": "feeling or showing surprise or wonder",
+            "defineVi": "cảm thấy hoặc thể hiện sự ngạc nhiên hoặc thắc mắc",
+            "hasImg": true
+        },
+        {
+            "id": "b83a609d-572f-4677-87b0-a4efd8c34b42",
+            "word": "to annoy",
+            "phonetic": "tʊ ɐnɔɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Investors from other countries will be annoyed that their Japanese competitors have once again stolen a march on them.",
+                "He takes great pleasure in annoying me.",
+                "Even tiny things can annoy you.",
+                "And it really annoys me when my therapist or other people,' 'Comment on my actions and appearance.'",
+                "And also annoying me."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYW5ub3k&hash=2917bf415ebc1bce2ab4c3edd008745a34f4191c&lang=en&cache-only=0",
+            "defineEn": "to make a person feel a little angry",
+            "defineVi": "để làm cho một người cảm thấy một chút tức giận",
+            "hasImg": true
+        },
+        {
+            "id": "b77f0160-b559-43c4-9e9a-3ecc4044ae7b",
+            "word": "scared",
+            "phonetic": "skɛɹd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Don't be scared to speak to him.",
+                "He watched a scary movie and got scared during the suspenseful scenes.",
+                "I was really scared when I encountered a bear in the wilderness.",
+                "You've got your rivals running scared.",
+                "The young boy was scared of the rocking boat at first, but his grandfather helped him find his sea legs and they spent the day fishing together."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NhcmVk&hash=392bfe4681afc8a9351e3aa7b8f98681e8434edb&lang=en&cache-only=0",
+            "defineEn": "afraid of something or someone",
+            "defineVi": "sợ một cái gì đó hoặc một ai đó",
+            "hasImg": true
+        }
+    ]
+}

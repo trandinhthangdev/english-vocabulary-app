@@ -1,0 +1,681 @@
+{
+    "id": "381a3689-51c5-4b69-a77f-a7fb9f749107",
+    "title": "Eating Out",
+    "originalTitle": "Eating Out",
+    "words": [
+        {
+            "id": "292747f4-b468-4568-8bae-6948ccd56be5",
+            "word": "restauranter",
+            "phonetic": "ɹɛstɹɑːntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVzdGF1cmFudGVy&hash=e2325434d5a7be64aa76e3715a27acd18fd05537&lang=en&cache-only=0",
+            "defineEn": "the proprietor of a restaurant",
+            "defineVi": "chủ sở hữu của một nhà hàng"
+        },
+        {
+            "id": "a6d21895-9e26-4691-926b-852922e864e3",
+            "word": "restaurant attendant",
+            "phonetic": "ɹɛstɹɑːnt ɐtɛndənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVzdGF1cmFudCBhdHRlbmRhbnQ&hash=0650e4facf9ba181e87d6f67e34da74e18be201c&lang=en&cache-only=0",
+            "defineEn": "someone employed to provide service in a dining room",
+            "defineVi": "ai đó thuê để cung cấp dịch vụ trong một phòng ăn"
+        },
+        {
+            "id": "54df36a4-0139-42b1-bc47-3fee8f872a95",
+            "word": "table service",
+            "phonetic": "teɪbəl sɜːvɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFibGUgc2VydmljZQ&hash=502977912729f3269c43751d161eab80637c8e26&lang=en&cache-only=0",
+            "defineEn": "tableware consisting of a complete set of articles (silver or dishware) for use at table",
+            "defineVi": "bộ đồ ăn bao gồm một bộ hoàn chỉnh (bạc hoặc bát đĩa) để sử dụng tại bàn"
+        },
+        {
+            "id": "56cb9c88-a352-4c8c-8d7b-9a96a3afe0d3",
+            "word": "Michelin Guide",
+            "phonetic": "mɪtʃɪlɪn ɡaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Michelin Guide is the Oscar's of the culinary realm."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWljaGVsaW4gR3VpZGU&hash=d04b1f1d5594c277063238154932fe592b1d1a66&lang=en&cache-only=0",
+            "defineEn": "a prestigious international restaurant rating system and guidebook that awards Michelin stars to restaurants based on their culinary excellence and quality of service",
+            "defineVi": "một hệ thống đánh giá nhà hàng quốc tế có uy tín và sách hướng dẫn trao tặng sao Michelin cho các nhà hàng dựa trên sự xuất sắc về ẩm thực và chất lượng dịch vụ của họ"
+        },
+        {
+            "id": "cbdb192a-abae-49cd-a151-27792c6419c7",
+            "word": "busboy",
+            "phonetic": "bʌsbɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVzYm95&hash=7e6c5422f96519554d60a049a5fcd2b29d3e0e92&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to clear tables and dirty dishes, etc. in a restaurant",
+            "defineVi": "người có công việc dọn bàn và dọn bát đĩa bẩn, v.v. trong nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "1d3412c2-57fe-4029-8672-69a0e074648d",
+            "word": "greeter",
+            "phonetic": "ɡɹiːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZXRlcg&hash=831ba10582993815ba927fc4b02e6b53cb6cdeff&lang=en&cache-only=0",
+            "defineEn": "a person who works in a restaurant, casino or shop, welcoming customers",
+            "defineVi": "một người làm việc trong một nhà hàng, sòng bạc hoặc cửa hàng, chào đón khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "0dcb8269-7090-4c21-bebd-ac4e47cb1c73",
+            "word": "kitchen porter",
+            "phonetic": "kɪtʃən poːɹɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a2l0Y2hlbiBwb3J0ZXI&hash=3433d0d79aedde5b24b39cee9b980f8cd2a05191&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to wash dishes and do other simple tasks in the kitchen of a hotel, restaurant, etc.",
+            "defineVi": "người có công việc là rửa bát đĩa và làm các công việc đơn giản khác trong nhà bếp của khách sạn, nhà hàng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "323f35c1-ad73-46b6-b563-bf0fcfda1d0c",
+            "word": "regular",
+            "phonetic": "ɹɛɡjʊlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The slow healing process of the wound required regular care.",
+                "Regular exercise is essential for the healthfulness of your body and mind.",
+                "For a gluten-free option, substitute regular flour with almond flour in the cake recipe.",
+                "A regular newsletter keeps people in touch with local events.",
+                "Regular investment of small amounts of money is an excellent way of building a nest egg."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVndWxhcg&hash=81bdd83bc51193700ab3a6a83607af0981bc229c&lang=en&cache-only=0",
+            "defineEn": "a person who buys something from a place or visits it very often",
+            "defineVi": "một người mua một cái gì đó từ một nơi hoặc truy cập nó rất thường xuyên"
+        },
+        {
+            "id": "1f2061f1-c679-4dc5-b00e-4d3d9749598d",
+            "word": "server",
+            "phonetic": "sɜːvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There were no servers. ",
+                "Come on super fast server.",
+                "First, open the Dropbox web server.",
+                "- I shipped you a 160 terabytes server.",
+                "Each server is a broad chat room that can host subgroups and private messages."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VydmVy&hash=564a2d8757587d5ea04f9c0f420571983e84c153&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to serve meals to customers in a restaurant",
+            "defineVi": "một người có công việc là để phục vụ bữa ăn cho khách hàng trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "c04f8bcf-e73a-417c-b3fa-de7ab20735be",
+            "word": "short-order cook",
+            "phonetic": "ʃɔːɹtɔːɹdɚ kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As legend has it, one day while Anderson was still a short-order cook in a local Wichita diner, he got frustrated that the meatballs he was cooking stuck to the grill, so he smashed one with his spatula."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQtb3JkZXIgY29vaw&hash=77fbf2711a5e3476e50046af5590e4c114581150&lang=en&cache-only=0",
+            "defineEn": "someone whose job is preparing food that can be quickly or easily cooked",
+            "defineVi": "ai đó có công việc là chuẩn bị thức ăn có thể nhanh chóng hoặc dễ dàng nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "8df0f242-1117-4f65-ae4f-c40371cf4473",
+            "word": "sommelier",
+            "phonetic": "sʌməljeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29tbWVsaWVy&hash=42fea0af8a6d15085e502c0b58ee7ab0670233a4&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+            "defineVi": "người phụ trách phục vụ rượu và giúp khách hàng chọn rượu trong nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "1f6bc343-0c21-449e-bc55-fff82244d3bd",
+            "word": "valet",
+            "phonetic": "væleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The valet is coming out.",
+                "And they’ve gone from that, from the top of the pyramid, to basically the valets, the security guards.",
+                "It's equipped with 33 sensors used for valet parking, advanced cruise control, facial recognition, and various safety features.",
+                "They take care of everything during your stay from valeting and detailing your car to checking in your baggage.",
+                "Fresh greens were harvested from the garden, usually chicory or dandelions or purslane, and a bowl of them would be presented to Monet by Marguerite’s husband, Paul, who was their valet and butler."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFsZXQ&hash=466e9c5f1753fa7b6344bbb75aaaacfb13dff6a1&lang=en&cache-only=0",
+            "defineEn": "someone whose job is parking customers' cars at restaurants or hotels",
+            "defineVi": "một người có công việc là đậu xe của khách hàng tại nhà hàng hoặc khách sạn",
+            "hasImg": true
+        },
+        {
+            "id": "8b204d89-5e79-49a1-baf9-5a935af52aed",
+            "word": "waiter",
+            "phonetic": "weɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The waiter opened the bottle of wine for the guests.",
+                "Our waiter cleared the empty plates from the table.",
+                "Throughout the evening, the waiter handled the busy restaurant.",
+                "The waiter patiently answered our questions about the ingredients in the dish.",
+                "The waiter recommended trying the dressed oysters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FpdGVy&hash=86972c42188709376457d2a12a67dedb6ab22528&lang=en&cache-only=0",
+            "defineEn": "a man who brings people food and drinks in restaurants, cafes, etc.",
+            "defineVi": "một người đàn ông mang thức ăn và đồ uống cho mọi người trong nhà hàng, quán cà phê, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "ebd96c92-6cb6-4fc1-98b9-ad5ab4b04b72",
+            "word": "waitress",
+            "phonetic": "weɪtɹəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our waitress poured water for everyone at the table.",
+                "The waitress took our orders and brought us our drinks.",
+                "Andrews' favorite waitress means well when she puts in a good word for him with Tierney.",
+                "I asked the waitress for the bill after finishing my meal.",
+                "We thanked the waitress for her excellent service before leaving the restaurant."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FpdHJlc3M&hash=9b82d623a8a2701e0dfb7b77a73d5bd571e4697c&lang=en&cache-only=0",
+            "defineEn": "a woman who brings people food and drinks in restaurants, cafes, etc.",
+            "defineVi": "một người phụ nữ mang thức ăn và đồ uống cho mọi người trong nhà hàng, quán cà phê, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "7e5e915d-bd6d-4b51-aa30-beafb34d68f7",
+            "word": "waitstaff",
+            "phonetic": "weɪtstæf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Each location has 40 employees, including cooks, bartenders and waitstaff.",
+                "I would say 30 percent of the employees, maybe, maybe more, in the grounds, kitchen, waitstaff, maintenance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FpdHN0YWZm&hash=74858b10a492b370b62a5dafc5137e01fbf80722&lang=en&cache-only=0",
+            "defineEn": "the group of people who wait on tables in a restaurant or bar, such as waiters and waitresses",
+            "defineVi": "nhóm người phục vụ trên bàn trong nhà hàng hoặc quán bar, chẳng hạn như bồi bàn và hầu bàn",
+            "hasImg": true
+        },
+        {
+            "id": "1872f2fa-363c-45da-9f01-28c2fc0f5302",
+            "word": "sommelier",
+            "phonetic": "waɪn stuːɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29tbWVsaWVy&hash=42fea0af8a6d15085e502c0b58ee7ab0670233a4&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+            "defineVi": "người phụ trách phục vụ rượu và giúp khách hàng chọn rượu trong nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "9cb0aa77-5312-4c1d-88e9-dde73660e5a5",
+            "word": "a la carte",
+            "phonetic": "ɑːlæ kɑːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They're buying a la carte features a little bit less frequently.",
+                "While some resorts will just charge for sitting at the à la carte restaurant, others will charge an additional fee for specific meals.",
+                "That's what's fun about our à la carte shop, is we're able to experiment, think outside of the box of our typical designs.",
+                "Anyway, the folks at LEGO want me to point you to their online and physical stores which, naturally, have the largest collection of lego sets, and also allow you to find and buy individual pieces a la carte for custom projects, get expert lego help, and with LEGO VIP you can get early access to new LEGO sets."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YSBsYSBjYXJ0ZQ&hash=06ca91d0ea912fc66bece95598583a6bc2732989&lang=en&cache-only=0",
+            "defineEn": "a menu in which each dish has a separate price",
+            "defineVi": "một thực đơn trong đó mỗi món ăn có một mức giá riêng",
+            "hasImg": true
+        },
+        {
+            "id": "64632ae6-8d94-4048-9073-01064f96e193",
+            "word": "bill",
+            "phonetic": "bɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father pays his bills at the beginning of the month.",
+                "Come on, Bill.",
+                "The bill has the President's seal of approval.",
+                "The bill was four votes shy of a majority.",
+                "His parents footed the bill for his college education."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
+            "defineEn": "a piece of printed paper that shows the amount of money a person has to pay for the meal they have had in a bar or restaurant",
+            "defineVi": "một mảnh giấy in cho thấy số tiền một người phải trả cho bữa ăn họ đã có trong một quán bar hoặc nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "c713e01a-d0e0-4de4-928d-f16e745bd248",
+            "word": "to book",
+            "phonetic": "tə bʊk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "This book bridges a gulf between the metaphysics literature and philosophy of mind literature.",
+                "The book raises many important questions.",
+                "Every age has its book, after all.",
+                "The movie follows the book faithfully.",
+                "The movie follows the book faithfully."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYm9vaw&hash=2eb44d188d1c352cdc6c435e389caf7127a7613e&lang=en&cache-only=0",
+            "defineEn": "to arrange and confirm a seat, ticket, room, or place on a transportation, accommodation, or event",
+            "defineVi": "để sắp xếp và xác nhận chỗ ngồi, vé, phòng hoặc địa điểm trên phương tiện giao thông, chỗ ở hoặc sự kiện",
+            "hasImg": true
+        },
+        {
+            "id": "ed1e98f3-845e-49c8-aa50-fcb6dcdc04f9",
+            "word": "booth",
+            "phonetic": "buːθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What were they all doing there, paying a small fortune for their showy booths to catch the politicians' eyes?",
+                "and your john wilks booth too?",
+                "Narrator: Local artists, ceramicists, bakers, and fellow florists also sold their products from socially distant booths.",
+                "You could open up a drizzle booth.",
+                "I didn't really officially get a booth"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9vdGg&hash=dfbb0e447cb4ea8bf404af0143563069ab63fc87&lang=en&cache-only=0",
+            "defineEn": "a place where customers of a bar or restaurant sit, with two high-backed seats and a table in the middle",
+            "defineVi": "nơi khách hàng của quán bar hoặc nhà hàng ngồi, có hai ghế dựa cao và một cái bàn ở giữa",
+            "hasImg": true
+        },
+        {
+            "id": "b80705e3-c86d-4c4e-a7d8-c73ac9a2e8a4",
+            "word": "check",
+            "phonetic": "tʃɛk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Check the remix.",
+                "The active ingredient checks the growth of bacteria.",
+                "Check the box next to the right answer.",
+                "I’ll check the dates.",
+                "Any baggage over five kilos must be checked."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlY2s&hash=d475fc5cf17be34f321fb592977c35823a6b3e4e&lang=en&cache-only=0",
+            "defineEn": "a small piece of paper showing the foods and drinks that we have ordered in a restaurant, cafe, etc. and the amount that we have to pay",
+            "defineVi": "một mảnh giấy nhỏ ghi những món ăn và thức uống mà chúng ta đã gọi ở nhà hàng, quán cà phê, v.v. và số tiền mà chúng ta phải trả",
+            "hasImg": true
+        },
+        {
+            "id": "0a38db8f-0ea5-4e2d-8d72-3680283f2f77",
+            "word": "corkage",
+            "phonetic": "kɔːɹkɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29ya2FnZQ&hash=c9af86eae8aec9c32f649bfa14ab4f55e1f438b5&lang=en&cache-only=0",
+            "defineEn": "an amount of money charged by a restaurant for drinking a wine that was bought from somewhere else by the customer",
+            "defineVi": "một số tiền được tính bởi một nhà hàng để uống một loại rượu được mua từ một nơi khác bởi khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "b48046c3-712e-4203-b9a1-ada0914f6bc6",
+            "word": "to dine out",
+            "phonetic": "tə daɪn aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGluZSBvdXQ&hash=b723bb6a0e75bd6f38d02959347821fa62f667fa&lang=en&cache-only=0",
+            "defineEn": "to have dinner in a restaurant or at someone else's home",
+            "defineVi": "ăn tối ở nhà hàng hoặc ở nhà người khác",
+            "hasImg": true
+        },
+        {
+            "id": "12775481-27be-485c-9fe3-4f721874be4d",
+            "word": "doggy bag",
+            "phonetic": "dɑːɡi bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No one goes home without a doggy bag or a second and third."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9nZ3kgYmFn&hash=02da0fbcad21ffe32e404979e9ed23ed44ec2460&lang=en&cache-only=0",
+            "defineEn": "a bag for taking home one's leftover food in a restaurant",
+            "defineVi": "một túi để mang về nhà thức ăn thừa của một người trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "279df45c-f65f-4fcb-8f27-c4899437176a",
+            "word": "gratuity",
+            "phonetic": "ɡɹætjuːɪɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enjoying luxury services like dinners out, salons, and high-end massages, it’s on you to factor in a gratuity for those who served you.",
+                "Receiving your bill in India, you’ll likely see that gratuity is included, though you might tip up to 10% if not.",
+                "Average to good service at restaurants, bars, hairdressers, cab drivers and spas comes with an expectation of a 15-25% standard gratuity.",
+                "They used to give aburi-mochi away for free and only sometimes received a small gratuity from pilgrims."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhdHVpdHk&hash=1d96a921ce29b3bedeb908fbd06f214ef405e9f1&lang=en&cache-only=0",
+            "defineEn": "an amount of money given to someone for their services",
+            "defineVi": "một số tiền trao cho ai đó cho các dịch vụ của họ",
+            "hasImg": true
+        },
+        {
+            "id": "7992ce9b-b3e2-414f-8313-32f3030d64df",
+            "word": "to tip",
+            "phonetic": "tə tɪp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Take a stock tip with a grain of salt.",
+                "Her name is on the tip of my tongue.",
+                "I had pins and needles in the tips of my fingers.",
+                "These great men on the wall had done so much to tip the scales in justice's favor.",
+                "Comb hair from tip to root, working out the knots at the end."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGlw&hash=6d48a866e37bd763e7765b13468fd3cf770eb6f4&lang=en&cache-only=0",
+            "defineEn": "to give a small amount of money to a waiter, driver, etc. to thank them for their services",
+            "defineVi": "đưa một số tiền nhỏ cho người phục vụ, tài xế, v.v. để cảm ơn vì sự phục vụ của họ",
+            "hasImg": true
+        },
+        {
+            "id": "d8ae1001-71d9-4299-a572-ca9d6013ba92",
+            "word": "table d'hote",
+            "phonetic": "teɪbəl diː bækslæʃ hoʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFibGUgZCdob3Rl&hash=3f71d25ca78651681c49b1e2f3da8888d79cc361&lang=en&cache-only=0",
+            "defineEn": "a menu with a complete meal and a limited number of choices at a set total price",
+            "defineVi": "một thực đơn với một bữa ăn hoàn chỉnh và một số lựa chọn hạn chế với tổng giá đã định",
+            "hasImg": true
+        },
+        {
+            "id": "fa69a572-dfb8-4005-8d78-1684ad8cd001",
+            "word": "tasting menu",
+            "phonetic": "teɪstɪŋ mɛnjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFzdGluZyBtZW51&hash=dec8c3571697ec2f4563faa1e391bb81955b393e&lang=en&cache-only=0",
+            "defineEn": "a curated selection of dishes offered by a restaurant, typically in multiple courses, designed to showcase the chef's culinary skills and creativity",
+            "defineVi": "tuyển chọn các món ăn do một nhà hàng cung cấp, thường là trong nhiều món, được thiết kế để thể hiện kỹ năng nấu nướng và sự sáng tạo của đầu bếp"
+        },
+        {
+            "id": "9d2acc4f-9990-460b-a920-c511c662e382",
+            "word": "delivery",
+            "phonetic": "dᵻlɪvɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That letter should go by special delivery.",
+                "He went for a job as a delivery driver.",
+                "They offer various postal services, such as express delivery and registered mail, at the post office.",
+                "Another growth driver for Taco Bell is delivery.",
+                "But border closures because of COVID-19 can slow down deliveries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVsaXZlcnk&hash=1ccdc475fa96de09a744fc3a15b12781ed0e52ed&lang=en&cache-only=0",
+            "defineEn": "the act or process of taking goods, letters, etc. to whomever they have been sent",
+            "defineVi": "hành động hoặc quy trình nhận hàng hóa, thư từ, v.v. cho bất kỳ ai mà chúng đã được gửi",
+            "hasImg": true
+        },
+        {
+            "id": "9e4fc5a5-7060-4974-a166-d68577c6f9e2",
+            "word": "dress code",
+            "phonetic": "dɹɛs koʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJlc3MgY29kZQ&hash=4d883804aac7db1a8a33ba172bcc392f9beb35c6&lang=en&cache-only=0",
+            "defineEn": "a set of rules specifying the correct manner of dress while on the premises of the institution (or specifying what manner of dress is prohibited)",
+            "defineVi": "một bộ quy tắc chỉ định cách ăn mặc phù hợp khi ở trong khuôn viên của tổ chức (hoặc chỉ định cách ăn mặc nào bị cấm)"
+        },
+        {
+            "id": "b7e57937-f8b9-4801-b5dd-a5d601ab4c1c",
+            "word": "reservation",
+            "phonetic": "ɹɛzɚveɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The restaurant reservation is for 8 o'clock tonight.",
+                "We can hold your reservation for three days.",
+                "Is there a table available for dinner reservations tonight?",
+                "They asked for his last name at the hotel check-in, to confirm his reservation.",
+                "We should spell our last names when making reservations to avoid any misunderstandings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzZXJ2YXRpb24&hash=ccb6c7360e3ab205074266d98a4324929e22a117&lang=en&cache-only=0",
+            "defineEn": "the act of arranging something, such as a place on an airplane, in a restaurant, or at a hotel to be kept for one to use later at a particular time",
+            "defineVi": "hành động sắp xếp một cái gì đó, chẳng hạn như một địa điểm trên máy bay, trong một nhà hàng hoặc tại một khách sạn để được giữ cho một người sử dụng sau này vào một thời điểm cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "1b8fb265-54d0-4ba1-ad85-7775dc9bece9",
+            "word": "maitre d'hotel",
+            "phonetic": "meɪɾɚ diː bækslæʃ hoʊtɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFpdHJlIGQnaG90ZWw&hash=d702211460b80b03bd5c9384b165495662b34405&lang=en&cache-only=0",
+            "defineEn": "a dining-room attendant who is in charge of the waiters and the seating of customers",
+            "defineVi": "một nhân viên phục vụ phòng ăn chịu trách nhiệm về người phục vụ và chỗ ngồi của khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "16a6ea80-8d49-4cc2-b7bf-4f93f6eba0b3",
+            "word": "vip",
+            "phonetic": "vɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These were our VIPs. ",
+                "Samsung has a VIP lounge.",
+                "And this is the new VIP area.",
+                "President Jair Bolsonaro uses an Airbus A319 for international trips and an Embraer VIP transport for short-haul flights.",
+                "And today we are at Dubai's VIP private terminal through which the really wealthy visitors to the Dubai Airshow would have traveled."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlw&hash=49a1ba00b002a08e05b29c649ce0dcd0f34aad22&lang=en&cache-only=0",
+            "defineEn": "an important or influential (and often overbearing) person",
+            "defineVi": "một người quan trọng hoặc có ảnh hưởng (và thường hống hách)"
+        },
+        {
+            "id": "3df37508-1506-4892-bb0c-27acbefd7d59",
+            "word": "cover charge",
+            "phonetic": "kʌvɚ tʃɑːɹdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y292ZXIgY2hhcmdl&hash=5a1e6457893e4f688a77e865fc99f565fbf8e796&lang=en&cache-only=0",
+            "defineEn": "the fee or amount of money that customers need to pay for occupying a table or entering the establishment",
+            "defineVi": "phí hoặc số tiền mà khách hàng cần phải trả để chiếm một bàn hoặc vào cơ sở"
+        },
+        {
+            "id": "3a623ac6-4bf0-4065-8d4f-666ee488c3ae",
+            "word": "menu",
+            "phonetic": "mɛnjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The menu featured a creative dish of beef plate tacos.",
+                "The menu features an innovative dish of Korean-style lamb chops.",
+                "The vegetarian menu offers a delicious black bean burrito as a protein-packed option.",
+                "They finally added a delicious veggie burger option to their menu.",
+                "The restaurant offered a diverse menu to cater to different tastes and dietary restrictions - horses for courses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVudQ&hash=62bfdc56a302048407ad361c54a4375336f40f17&lang=en&cache-only=0",
+            "defineEn": "a list of the different food available for a meal in a restaurant",
+            "defineVi": "một danh sách các loại thực phẩm khác nhau có sẵn cho một bữa ăn trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "178bc0c4-5e1d-4517-b89e-dc268096df88",
+            "word": "to order",
+            "phonetic": "tʊ ɔːɹdɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They ordered a mouthwatering venison burger from a trendy restaurant.",
+                "She ordered a takeaway meal of pizza and garlic bread for dinner.",
+                "We ordered takeout pizza for an easy dinner.",
+                "I ordered a bowl of delicious oxtail soup for the first time.",
+                "Three players got their marching orders last week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gb3JkZXI&hash=5a65cdc475df8ca6b86449c09bd01d556754013a&lang=en&cache-only=0",
+            "defineEn": "to ask for something, especially food, drinks, services, etc. in a restaurant, bar, or shop",
+            "defineVi": "để yêu cầu một cái gì đó, đặc biệt là thực phẩm, đồ uống, dịch vụ, vv trong một nhà hàng, quán bar, hoặc cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "243bc6da-5fdf-4ced-9f7c-b210536567d0",
+            "word": "service charge",
+            "phonetic": "sɜːvɪs tʃɑːɹdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you withdraw $100 from an out-of-network ATM, that $3 fee equates to a 3% service charge.",
+                "It turns out that simply they're adding what is called a regulatory service charge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VydmljZSBjaGFyZ2U&hash=d10c90f77d4895dc6bee3a6ea7921f39345ee1bb&lang=en&cache-only=0",
+            "defineEn": "an extra amount of money added to a bill in a restaurant, etc. for the services delivered to a customer",
+            "defineVi": "một khoản tiền bổ sung được thêm vào hóa đơn trong nhà hàng, v.v. cho các dịch vụ được giao cho khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "bfd43357-e2b5-4e8e-a361-89dd44f7a886",
+            "word": "tab",
+            "phonetic": "tæb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The magazine keeps tabs on the latest fashion trends.",
+                "We are keeping tabs on their movements.",
+                "Whenever we go out, my father picks up the tab.",
+                "It was revealed that the FBI kept tabs on him for years just because he once attended a meeting of a radical group.",
+                "Keep close tabs on the amount of feedback we get so that we know how many people this issue affects."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFi&hash=ad0cfc3e7eed59340f34c9d9253531c180c84f12&lang=en&cache-only=0",
+            "defineEn": "a bill for the meal one has been served in a restaurant",
+            "defineVi": "một hóa đơn cho bữa ăn đã được phục vụ trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "766d8bad-bdfc-4fd1-b4f4-30e7486d3934",
+            "word": "to wait",
+            "phonetic": "tə weɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Your car is waiting, sir.",
+                "C'm on the crowd is waiting.",
+                "We waited there for the better part of an hour.",
+                "What are you waiting for?",
+                "Leeds United had waited for success for eighteen years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd2FpdA&hash=74591c31ad6ebbfbb06b428dd2e259575e443fa8&lang=en&cache-only=0",
+            "defineEn": "to work in a restaurant serving meals to customers",
+            "defineVi": "làm việc trong một nhà hàng phục vụ bữa ăn cho khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "8f148ed9-bd91-41f6-a25d-e9b959adf3dd",
+            "word": "dumbwaiter",
+            "phonetic": "dʌmweɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHVtYndhaXRlcg&hash=88eded37a1ff6187fedecec870563ae0774f22b6&lang=en&cache-only=0",
+            "defineEn": "a small elevator or lifting device used to transport items such as food, dishes, or laundry between different floors of a building, typically in a commercial or residential setting",
+            "defineVi": "một thang máy nhỏ hoặc thiết bị nâng được sử dụng để vận chuyển các mặt hàng như thực phẩm, bát đĩa hoặc đồ giặt giữa các tầng khác nhau của tòa nhà, thường là trong môi trường thương mại hoặc dân cư"
+        },
+        {
+            "id": "163102ae-c407-4052-88d7-92ce20703a1c",
+            "word": "voucher",
+            "phonetic": "vaʊtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Urban parents demand school vouchers.",
+                "It's called voucher care.",
+                "And if you get a certain number of bonus points, then you get a voucher.",
+                "Like the Austrians, Friedman advocated privatization of many functions that have been assumed by government, famously proposing school vouchers and deregulation of the economy.",
+                "His main thought is that we need to expand these voucher programs for low-income families that will cap how much of their income can go to their basic needs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm91Y2hlcg&hash=9d0a1785ea5a9d936443013bc018e3ac2599a81e&lang=en&cache-only=0",
+            "defineEn": "a piece of printed paper used instead of money when buying something or to get a discount",
+            "defineVi": "một mảnh giấy in được sử dụng thay vì tiền khi mua một cái gì đó hoặc để được giảm giá",
+            "hasImg": true
+        },
+        {
+            "id": "a99f5255-de58-49a8-b17b-861341fc3005",
+            "word": "maitre d'",
+            "phonetic": "meɪɾɚ diː bækslæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFpdHJlIGQn&hash=acecdfa99dc2fbad9841eeaf7df5c846a7a2069a&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of the waiters and waitresses of a restaurant",
+            "defineVi": "một người phụ trách bồi bàn và phục vụ bàn của một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "bb0bcc03-020a-4d0b-abbf-f18769226a44",
+            "word": "maitre d'hotel",
+            "phonetic": "hɛdweɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFpdHJlIGQnaG90ZWw&hash=d702211460b80b03bd5c9384b165495662b34405&lang=en&cache-only=0",
+            "defineEn": "a dining-room attendant who is in charge of the waiters and the seating of customers",
+            "defineVi": "một nhân viên phục vụ phòng ăn chịu trách nhiệm về người phục vụ và chỗ ngồi của khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "ff21ba28-9288-448b-bf39-d389f3183de4",
+            "word": "dishwasher",
+            "phonetic": "dɪʃwɑːʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The dishwasher is making a strange noise.",
+                "I started off as a dishwasher making 25 cents an hour.",
+                "I applied to be a cashier, even a dishwasher.",
+                "Between the chefs, inventory crew, waiters, and dishwashers, it takes a team of 1,085 people to keep this massive operation going.",
+                "And this meant that increasing numbers of Americans had access things like television, and air conditioning, and dishwashers and air travel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzaHdhc2hlcg&hash=821141a5249e08f538d16e85211d7dadf9b544b9&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to wash dishes",
+            "defineVi": "ai đó có công việc là để rửa bát đĩa",
+            "hasImg": true
+        },
+        {
+            "id": "640e4359-5d06-4771-a00a-2ad241626b22",
+            "word": "bouncer",
+            "phonetic": "baʊnsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But herpesviruses reduce the cell’s production of those bouncer proteins, which dampens cells’ first line of defense.",
+                "- And don't forget about the angry bouncer who will be watching you the whole time.",
+                "Security officers and bouncers often use blacklights to verify IDs, and some countries embed phosphor strips in their more valuable paper currency, which means you can use a blacklight to check for counterfeiting.",
+                "They went into the bar to go talk to the bouncer.",
+                "Instead, exposure to some pathogens or vaccines seems to rev up our bodies' bouncers and trigger a state of heightened vigilance that lasts for a while after it deals with that initial challenge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym91bmNlcg&hash=a58fa6d5b78015aba28ce8fa3f2e99d3a41ccb92&lang=en&cache-only=0",
+            "defineEn": "a person whose duty is to throw troublemakers out of a bar or public meeting",
+            "defineVi": "một người có nhiệm vụ ném những kẻ gây rối ra khỏi quán bar hoặc cuộc họp công cộng"
+        },
+        {
+            "id": "2018b9a7-9b99-4135-824e-507c736279fd",
+            "word": "bartender",
+            "phonetic": "bɑːɹtɛndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bartender served a cocktail in a fancy glass.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "The bartender rimmed the cocktail glass with a touch of white sugar, adding a touch of sweetness to the drink.",
+                "The bartender slips her a mickey, and after a few minutes the world is just a blur to Peggy.",
+                "Bartender, can I get two shots?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFydGVuZGVy&hash=8cb13f946b4134f5d96d228783d028f29914ca81&lang=en&cache-only=0",
+            "defineEn": "a person who serves drinks at a bar",
+            "defineVi": "một người phục vụ đồ uống tại một quán bar",
+            "hasImg": true
+        },
+        {
+            "id": "6804ef0f-242f-49de-b5fa-903ee479acc9",
+            "word": "barman",
+            "phonetic": "bɑːɹmən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFybWFu&hash=e38d595abefedddbbee980bb1d285e099f0d4f3b&lang=en&cache-only=0",
+            "defineEn": "a man whose job involves mixing and serving drinks, particularly alcoholic drinks, in a bar",
+            "defineVi": "một người đàn ông có công việc liên quan đến pha chế và phục vụ đồ uống, đặc biệt là đồ uống có cồn, trong một quán bar",
+            "hasImg": true
+        },
+        {
+            "id": "1e0e709a-6e3f-4fd9-b399-516fa6586d07",
+            "word": "barmaid",
+            "phonetic": "bɑːɹmeɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFybWFpZA&hash=7b3b67244c2e7daaf66730b3d7847bba1066ebfc&lang=en&cache-only=0",
+            "defineEn": "a female bartender",
+            "defineVi": "một nữ nhân viên pha chế"
+        },
+        {
+            "id": "4e0631be-1d6e-4843-a2ea-f7ba3909781f",
+            "word": "open bar",
+            "phonetic": "oʊpən bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3BlbiBiYXI&hash=12b97eb271d91c79988ae274cdc965c787dda5ac&lang=en&cache-only=0",
+            "defineEn": "a service at an event or venue where alcoholic beverages are provided without additional charge and are available for guests to consume freely",
+            "defineVi": "một dịch vụ tại một sự kiện hoặc địa điểm nơi đồ uống có cồn được cung cấp miễn phí và có sẵn để khách tự do tiêu thụ"
+        }
+    ]
+}

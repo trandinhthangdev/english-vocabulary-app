@@ -1,0 +1,743 @@
+{
+    "id": "440fcb36-fdd2-40b3-90ae-2983395fdd2a",
+    "title": "Quantities and Containers",
+    "originalTitle": "Lesson 29",
+    "words": [
+        {
+            "id": "2d21511e-6d5f-438d-9681-bd86c6753e83",
+            "word": "Fahrenheit",
+            "phonetic": "fæɹənhaɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The incinerators burn the trash at 2,000 degrees Fahrenheit.",
+                "A polar bear's core temperature sits at about 98.6 degrees Fahrenheit.",
+                "Anyone with a temperature over 100.3 degrees Fahrenheit is denied boarding to their flight.",
+                "In Fahrenheit, 0° was the freezing point of saltwater and 96° the temperature of life.",
+                "It’s about 0 degrees Celsius or 32 degrees Fahrenheit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RmFocmVuaGVpdA&hash=77957e435acbcf9dc1bcf9885d284a2f6d834417&lang=en&cache-only=0",
+            "defineEn": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+            "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 212° và đóng băng ở 32°",
+            "hasImg": true
+        },
+        {
+            "id": "43f09cf6-8842-4438-a54b-1bbda570d900",
+            "word": "celsius",
+            "phonetic": "sɛlsɪəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The temperature outside is nineteen degrees Celsius.",
+                "The temperature dropped to minus eighty degrees Celsius in Antarctica.",
+                "This next layer down is between 4,000 and 6,000 degrees Celsius!",
+                "Here, temperatures reach 2 million degrees Celsius.",
+                "Global temperatures rapidly rose by six degrees celsius."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Vsc2l1cw&hash=2b5b28c67d25abc072df70fced6272b235916497&lang=en&cache-only=0",
+            "defineEn": "of or relating to the usage of a scale for measuring temperature in which water freezes at 0 degree and boils at 100 degrees",
+            "defineVi": "thuộc hoặc liên quan đến việc sử dụng thang đo nhiệt độ trong đó nước đóng băng ở 0 độ và sôi ở 100 độ",
+            "hasImg": true
+        },
+        {
+            "id": "bb2a8f4b-11ca-4c7e-be3a-a2fb62bff2d8",
+            "word": "centigrade",
+            "phonetic": "sɛntɪɡɹeɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Go up my chart and say that means it's five degrees Centigrade."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VudGlncmFkZQ&hash=65a912af100cad8a54983e53e28d53239e7cbb7e&lang=en&cache-only=0",
+            "defineEn": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+            "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 100° và đóng băng ở 0°",
+            "hasImg": true
+        },
+        {
+            "id": "bddbffc6-422b-4a8d-b29f-4e61fb30b810",
+            "word": "dozen",
+            "phonetic": "dʌzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their ruthless army crushed dozens of empires and brought them to heel.",
+                "They tried a dozen times all told.",
+                "The glass slipped from her hand and broke into a dozen pieces.",
+                "My aunt can get talking nineteen to the dozen if you get her on a topic she's passionate about.",
+                "To me it was six of one and half a dozen of the other."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG96ZW4&hash=53cd5045f17dd7baed43a733fa15d6de47aba412&lang=en&cache-only=0",
+            "defineEn": "a set of twelve",
+            "defineVi": "một bộ mười hai",
+            "hasImg": true
+        },
+        {
+            "id": "68ab9483-0fa4-4151-a3b5-9d532d84473e",
+            "word": "ounce",
+            "phonetic": "aʊns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The recipe called for eight ounces of flour, which is about one cup.",
+                "The doctors didn't think I would ever see the light of day because of my medical condition, so they were surprised when I was born a healthy 8 pounds, 10 ounces.",
+                "Instead of waiting for a heart attack to happen, it's better to start exercising and eating healthy as an ounce of prevention is worth a pound of cure.",
+                "So this boy weighs about 1.29 kg or two pounds 13.5 ounces as for our Radeon 1.32 kg, two point 14.",
+                "My cow is 1.905 ounces."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3VuY2U&hash=13b6c855969c3140e42002dafb293d154abd9841&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring weight equal to approximately 28.34 grams or 0.06 of a pound",
+            "defineVi": "một đơn vị đo trọng lượng bằng khoảng 28,34 gram hoặc 0,06 pound",
+            "hasImg": true
+        },
+        {
+            "id": "8f9e928b-681a-4c4e-a1b8-de9c5ff078d1",
+            "word": "gallon",
+            "phonetic": "ɡælən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Together, they make a gallon.",
+                "Today, that figure is around 30 gallons!",
+                "It averages 1.3 gallons per mile.",
+                "And a donkey produces under 1 gallon of milk per day.",
+                "It uses a gallon every two seconds in the hover."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FsbG9u&hash=375096762d724d813040f90f7d6c7645844d1b70&lang=en&cache-only=0",
+            "defineEn": "a unit, in the US, to measure the amount of a liquid equal to 3.79 liters",
+            "defineVi": "một đơn vị, ở Mỹ, để đo lượng chất lỏng bằng 3,79 lít",
+            "hasImg": true
+        },
+        {
+            "id": "045249c7-332b-45b6-a535-d1e225656244",
+            "word": "inch",
+            "phonetic": "ɪntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Nick's grown almost an inch in the last month.",
+                "Give him an inch and he'll take a mile.",
+                "The classroom ruler is marked in both inches and centimeters for easy measurement.",
+                "You give him and inch and he'll take a yard.",
+                "Giving him an inch would be a grave mistake."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jaA&hash=35bf20f2d6cf302cdbf76f14543de1f6fc110850&lang=en&cache-only=0",
+            "defineEn": "a unit of length equal to one-twelfth of a foot or 2.54 centimeters",
+            "defineVi": "một đơn vị chiều dài bằng một phần mười hai foot hoặc 2,54 cm",
+            "hasImg": true
+        },
+        {
+            "id": "56329245-0fc4-4fbd-a75a-c07cb0b4a8cb",
+            "word": "scale",
+            "phonetic": "skeɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scales have finally fallen from his eyes and he realises that he's made a dreadful mistake.",
+                "These great men on the wall had done so much to tip the scales in justice's favor.",
+                "I favor anything that tilts the scales in my direction.",
+                "It was only when he was arrested for theft that the scales fell from my eyes and I realised where his money came from.",
+                "Scaling a building."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NhbGU&hash=f99898ae61ebeee5138e87f4396f6d1366d78b87&lang=en&cache-only=0",
+            "defineEn": "the size, amount, or degree of one thing compared with another",
+            "defineVi": "kích thước, số lượng, hoặc mức độ của một điều so với khác"
+        },
+        {
+            "id": "e985251c-35ef-4fe4-b507-5227c032903b",
+            "word": "piece",
+            "phonetic": "piːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The piece raises the ghosts of a number of twentieth-century art ideas.",
+                "That piece of work just rejected my resume for the third time!",
+                "My mother went to pieces after his death.",
+                "he broke off a piece of his chocolate.",
+                "Play us that new piece."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGllY2U&hash=eef478a04c9accc95579134c49ae42ba9b838fd8&lang=en&cache-only=0",
+            "defineEn": "a part or a separate part of a larger item",
+            "defineVi": "một phần hoặc một phần riêng biệt của một mặt hàng lớn hơn",
+            "hasImg": true
+        },
+        {
+            "id": "06d6f835-c705-40c2-a458-05bc314815f2",
+            "word": "slice",
+            "phonetic": "slaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A slice of sweet orange adds a delightful touch to a cold glass of iced tea.",
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "He used swede slices as a healthier alternative to french fries.",
+                "I used slices of bully beef as a topping for my homemade pizza.",
+                "He added pepperoni slices to his homemade pasta sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xpY2U&hash=29288f98e6d314fa70d6895d4d7d3955e4792187&lang=en&cache-only=0",
+            "defineEn": "a small cut of a larger portion such as a piece of cake, pizza, etc.",
+            "defineVi": "một vết cắt nhỏ của một phần lớn hơn chẳng hạn như một miếng bánh, bánh pizza, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "0732a252-36d9-4489-9486-c0d799656b18",
+            "word": "loaf",
+            "phonetic": "loʊf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Use your loaf!",
+                "Yesterday he baked a loaf of whole wheat bread.",
+                "When he discovered a new millet-based bread recipe, he excitedly baked a loaf.",
+                "Sarah baked a homemade loaf of banana bread that smelled delicious.",
+                "She prepared a traditional molasses gingerbread loaf, filling her home with the warm aroma of spices."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9hZg&hash=91f265abbe7b3d3db0992d38a179d7c87a7b3cba&lang=en&cache-only=0",
+            "defineEn": "bread that has a particular shape and is baked in one piece, usually sliced before being served",
+            "defineVi": "bánh mì có hình dạng đặc biệt và được nướng thành từng miếng, thường được cắt lát trước khi phục vụ",
+            "hasImg": true
+        },
+        {
+            "id": "54343b70-f548-45ad-820a-2b8f0a9e0629",
+            "word": "bar",
+            "phonetic": "bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "er killer was finally put behind bars.",
+                "He has raised the bar for other filmmakers.",
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "Apple iPhone is really raising the bar with the latest model.",
+                "I washed my face and hands with a bar of soap."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFy&hash=ad2da7ff2333c91e5f56246cc478b9d3ea64829c&lang=en&cache-only=0",
+            "defineEn": "an amount of a substance in the shape of a block such as chocolate, soap, etc.",
+            "defineVi": "một lượng chất ở dạng khối như sô cô la, xà phòng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "6dbd05f8-8bba-4563-b6d5-9ea9b8d727c4",
+            "word": "roll",
+            "phonetic": "ɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Roll cellophane noodles, veggies, and shrimp in rice paper for tasty summer rolls.",
+                "Heads are rolling all over the place.",
+                "Heads will have to roll at board level.",
+                "When the boss finds out about the mistake, heads will roll.",
+                "I rolled the dice on a tool brand I haven't used before."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9sbA&hash=53ebc833fc607928882c19e9930c8d9c76dc1331&lang=en&cache-only=0",
+            "defineEn": "something or a set of things that are shaped by a tube or are like one",
+            "defineVi": "một cái gì đó hoặc một tập hợp những thứ được hình thành bởi một ống hoặc giống như một",
+            "hasImg": true
+        },
+        {
+            "id": "90085437-fc43-425c-b76c-2de67eccc11c",
+            "word": "number",
+            "phonetic": "nʌmbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His number's up this time.",
+                "The report includes a number of recommendations.",
+                "His confession involved a number of other politicians in the affair.",
+                "Thirteen is a prime number.",
+                "I had a brush with him a number of years ago."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVtYmVy&hash=7d74c4e0274e06f9518a58887aa30ec3e91f1969&lang=en&cache-only=0",
+            "defineEn": "the quantity of things or people",
+            "defineVi": "số lượng của sự vật hoặc con người",
+            "hasImg": true
+        },
+        {
+            "id": "a9073070-a3b7-464d-be08-b1757e8d2b75",
+            "word": "bunch",
+            "phonetic": "bʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gathered a bunch of sea kale from the shore.",
+                "She harvested a bunch of parsley from her rooftop garden.",
+                "She was given a huge bunch of flowers.",
+                "In my opinion, people are getting their panties in a bunch over this election.",
+                "They were followed down the street by a bunch of photographers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVuY2g&hash=9a182d34a9d90d67504e9c9198b173e98f07e871&lang=en&cache-only=0",
+            "defineEn": "a group of things sharing the same quality, usually connected to each other",
+            "defineVi": "một nhóm những thứ có cùng chất lượng, thường được kết nối với nhau",
+            "hasImg": true
+        },
+        {
+            "id": "0e1f840d-3a35-4fd6-a0b9-735f533783c5",
+            "word": "pile",
+            "phonetic": "paɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She found her keys under a pile of papers on her desk.",
+                "He savored the juicy bacon burger, piled high with crispy bacon, lettuce, tomato, and a tangy barbecue sauce.",
+                "He carefully selected the least overripe avocados from the pile.",
+                "On his return, when Pete saw the pile of files on his desk, he groaned inwardly.",
+                "All is grist that comes to the mill, he would tell his employees, as they sorted through piles of discarded items."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlsZQ&hash=0c7be7c1c2b8b87af8622868ec6f727f66888741&lang=en&cache-only=0",
+            "defineEn": "a large number or amount",
+            "defineVi": "một số lượng lớn hoặc số tiền"
+        },
+        {
+            "id": "ab0d9110-f3c9-4a19-94f4-3b1cd9eb7496",
+            "word": "row",
+            "phonetic": "ɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The classroom has rows of chairs for students.",
+                "United won four games in a row.",
+                "You've missed your mark three times in a row.",
+                "After the row in a pub he drove off in a huff.",
+                "With two wins in a row, our team is on course for the championship title."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm93&hash=07636e4adce90343ebf42d576faaaa0b4bd00359&lang=en&cache-only=0",
+            "defineEn": "a group of people or objects placed in a line",
+            "defineVi": "một nhóm người hoặc đối tượng được đặt trong một dòng",
+            "hasImg": true
+        },
+        {
+            "id": "31e87361-cf95-4bb6-96cc-4af83c14c9bf",
+            "word": "edge",
+            "phonetic": "ɛdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His apology took the edge off her anger.",
+                "That DJ's voice really sets my teeth on edge.",
+                "The new smartphone had the edge over the last product, with its larger screen and faster processor.",
+                "The online retailer had an edge over the other services with its faster shipping and wider selection of products.",
+                "Social workers operate on the razor’s edge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWRnZQ&hash=815ce64aec4ed765642049b2c1c1a6f54cb25ee7&lang=en&cache-only=0",
+            "defineEn": "the outer part of an area or object that is furthest from the center",
+            "defineVi": "phần bên ngoài của một khu vực hoặc đối tượng xa trung tâm nhất",
+            "hasImg": true
+        },
+        {
+            "id": "4b4811de-d340-42fa-880b-32c137d6dfd8",
+            "word": "container",
+            "phonetic": "kənteɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Each 180-litre container will hold up to three black bags of rubbish.",
+                "Each 180-litre container will hold up to three black bags of rubbish.",
+                "He carries a small container of stevia in his backpack to sweeten his drinks while on the go.",
+                "During a picnic in the park, I packed a container filled with chilled litchis.",
+                "I packed a container of sliced cantaloupe for a healthy snack during my picnic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udGFpbmVy&hash=41f6f039091341cd32639dfe3815a7ffdbfb2d1d&lang=en&cache-only=0",
+            "defineEn": "any object that can be used to store something in, such as a bottle, box, etc.",
+            "defineVi": "bất kỳ đối tượng nào có thể được sử dụng để lưu trữ một cái gì đó, chẳng hạn như chai, hộp, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "007e6fec-3a88-443c-88a1-768361360e01",
+            "word": "carton",
+            "phonetic": "kɑːɹtən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Milk cartons, Styrofoam cups, grocery store bags - a new plant in Indiana wants them all.",
+                "So this is chocolate milk carton.",
+                "In Eugene, Ore., we can't even recycle our milk cartons or yogurt containers anymore.",
+                "Suddenly, there were plastic garbage bags, stretchy plastic wrap, squeezable plastic bottles, takeaway cartons, and plastic containers for fruit, vegetables, and meat.",
+                "And that was an outer carton for press I think."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FydG9u&hash=2627d84953306328ce6dcc538c98e42ce48ca409&lang=en&cache-only=0",
+            "defineEn": "a quantity of something stored in a large container",
+            "defineVi": "một số lượng của một cái gì đó được lưu trữ trong một thùng chứa lớn",
+            "hasImg": true
+        },
+        {
+            "id": "829926ef-7b1f-4c9a-b753-208bdd062f5e",
+            "word": "case",
+            "phonetic": "keɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They still get cases of typhoid there.",
+                "After all, one case of the trots hardly spells disaster.",
+                "The Supreme Court heard the case on Tuesday.",
+                "The case was tried before a jury.",
+                "The latest skiing accident is a case in point."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzZQ&hash=9e762cdd45ccbbd42c6cd1a8f7aebc443203f726&lang=en&cache-only=0",
+            "defineEn": "a container in which goods can be stored",
+            "defineVi": "một container trong đó hàng hóa có thể được lưu trữ",
+            "hasImg": true
+        },
+        {
+            "id": "405ee3e8-614b-42a6-9411-c027be0a9c44",
+            "word": "pack",
+            "phonetic": "pæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Commuters packed like sardines on the evening train.",
+                "I packed an extra jacket for the camping trip.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "We packed sandwiches for our picnic in the park.",
+                "She packed a small bag of peanuts for her road trip."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFjaw&hash=b11908eb7e297a8d6245b344c3b3656997c98ba5&lang=en&cache-only=0",
+            "defineEn": "a paper or cardboard container that is used to store items of the same type within, such as cigarettes",
+            "defineVi": "hộp đựng bằng giấy hoặc bìa cứng được sử dụng để đựng các mặt hàng cùng loại bên trong, chẳng hạn như thuốc lá",
+            "hasImg": true
+        },
+        {
+            "id": "474effeb-a72b-4dad-8312-cece35f92fed",
+            "word": "packet",
+            "phonetic": "pækɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Can you pass me the sugar packet?",
+                "The restaurant offers saccharin packets alongside sugar and honey for customers who prefer a calorie-free option.",
+                "She always carries a packet of aspartame in her purse to use as a sweetener.",
+                "Sometimes different packets from the same message take different routes through a network.",
+                "Starting with packet switching."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+            "defineEn": "a small bag that can contain various things, such as tea, sugar, or spices",
+            "defineVi": "một túi nhỏ có thể chứa nhiều thứ khác nhau, chẳng hạn như trà, đường hoặc gia vị",
+            "hasImg": true
+        },
+        {
+            "id": "0d26bed1-2b72-489d-be9e-b5a8438b0287",
+            "word": "package",
+            "phonetic": "pækɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This package is for you.",
+                "The company is offering voluntary severance packages.",
+                "I sent the package by airmail.",
+                "My package got here faster than I could say Jack Robinson!",
+                "Verio provides around-the-clock network monitoring and technical support with all promotional packages."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFja2FnZQ&hash=0ca44364e9588f06b8b95f897c90ece7eabc9028&lang=en&cache-only=0",
+            "defineEn": "a box or container in which items are packed",
+            "defineVi": "một hộp hoặc thùng chứa trong đó các mặt hàng được đóng gói",
+            "hasImg": true
+        },
+        {
+            "id": "c2c9313e-0bd1-43a7-8784-2a835fe760a7",
+            "word": "mug",
+            "phonetic": "mʌɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The coffee in the mug was a dark.",
+                "Dana set the mug of tea down.",
+                "Baking soda sprinkled on a damp cloth effectively removed coffee and tea stains from cups and mugs.",
+                "The mug goes with my shirt.",
+                "Coffee mugs exist for coffee drinkers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVn&hash=71099b5b96cbe73ed8522be397f35956799e1030&lang=en&cache-only=0",
+            "defineEn": "a large cup that has no saucer and is used for drinking",
+            "defineVi": "một cái cốc lớn không có đĩa và được dùng để uống",
+            "hasImg": true
+        },
+        {
+            "id": "80e4f114-e806-43f2-940d-a41d1c63a76f",
+            "word": "jug",
+            "phonetic": "dʒʌɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That’s almost eight big jugs of milk! ",
+                "You’ll need an empty plastic jug, a marker, birdseed, and scissors.",
+                "Water and soda bottles, milk jugs, laundry detergent, yogurt cups and stuff like that are mostly made of these plastics.",
+                "Yeah, even if it didn't have a giant jug of cheese on the side.",
+                "As recorded by Cortés's lieutenant, the king had 50 jugs of the drink brought out and poured into golden cups."
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVn&hash=21db0697922bb0aa54e9ac80b7aef9d7becb295e&lang=en&cache-only=0",
+            "defineEn": "a deep round container with a handle and a narrow opening that is used for keeping liquids",
+            "defineVi": "một thùng tròn sâu có tay cầm và một lỗ hẹp được sử dụng để giữ chất lỏng"
+        },
+        {
+            "id": "4384e1b7-b8ed-4a9b-8828-dd63d9c52863",
+            "word": "jar",
+            "phonetic": "dʒɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gifted a jar of homemade butterscotch sauce to his neighbor.",
+                "He discovered a jar of homemade barberry jam in the pantry.",
+                "I brought you a jar of my homemade fruit curd as a gift.",
+                "The closed lid of the jar preserved the freshness of the food inside.",
+                "A lot of people had their hands in the cookie jar at the company."
+            ],
+            "audio": "https://tts.langeek.co/read?text=amFy&hash=e13dc8b26cebdc9da520920c9c749b1a9d23295f&lang=en&cache-only=0",
+            "defineEn": "a glass container with a lid to store food such as honey, jam, pickles, etc.",
+            "defineVi": "hộp thủy tinh có nắp đậy để đựng thực phẩm như mật ong, mứt, dưa chua, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "7c72f9aa-e3dd-48bb-a677-27674d7ac5c2",
+            "word": "tube",
+            "phonetic": "tuːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hollow macaroni tubes absorb the flavorful broth in the soup.",
+                "My father's company is going down the tubes because of the incompetent new CEO.",
+                "I tried, but it all went down the tube.",
+                "Stop up the other end of the tube, will you?",
+                "Water enters that tube through small openings around the squid’s head."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHViZQ&hash=aa2a33329c1c6fdd5a17f5db7a58efa543939857&lang=en&cache-only=0",
+            "defineEn": "a flexible container that is used to store thick liquids",
+            "defineVi": "một thùng chứa linh hoạt được sử dụng để lưu trữ chất lỏng dày",
+            "hasImg": true
+        },
+        {
+            "id": "045c513b-fee0-429c-9f6c-03d994bed0e6",
+            "word": "tray",
+            "phonetic": "tɹeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She moved the tray to a side table.",
+                "She crashed into a waiter and his tray of drinks went flying.",
+                "Those trays are loaded back into the trolleys.",
+                "Bring in the specimen tray.",
+                "- Bring the whole tray."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJheQ&hash=600d6a79bcd492ed83764ec6ab1cc1f2cb285046&lang=en&cache-only=0",
+            "defineEn": "a flat object with elevated edges used for holding or carrying food and drink",
+            "defineVi": "một vật phẳng với các cạnh cao được sử dụng để giữ hoặc mang thức ăn và đồ uống",
+            "hasImg": true
+        },
+        {
+            "id": "a2c03ad3-2b2d-4c54-9eee-6984f8f946de",
+            "word": "can",
+            "phonetic": "kæn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Good wine can make a meal.",
+                "95 per cent of the UK can now get superfast broadband.",
+                "Exercise can make a big difference to your state of health.",
+                "Can the ropes take the strain?",
+                "Daytime temperatures can reach 40°C."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Fu&hash=3cd76005b05f73b0b6f64626d6b97e602fa24b11&lang=en&cache-only=0",
+            "defineEn": "a container, made of metal, used for storing food or drink",
+            "defineVi": "một thùng chứa, làm bằng kim loại, được sử dụng để lưu trữ thực phẩm hoặc đồ uống",
+            "hasImg": true
+        },
+        {
+            "id": "c6487988-f628-407d-9279-2fed33f8e6bd",
+            "word": "basket",
+            "phonetic": "bæskɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I gathered a basket of sloes from the bushes near my house.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "The farmer harvested a basket of potatoes from the field, satisfied with a successful yield.",
+                "I placed the shiny red apple in the basket.",
+                "She was preparing a holiday gift basket and included a jar of apple butter, along with a selection of homemade jams."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFza2V0&hash=ea51ae2ed027662311c536da2417d6e893e3564e&lang=en&cache-only=0",
+            "defineEn": "an object, usually made of wicker or plastic, with a handle for carrying or keeping things",
+            "defineVi": "một đồ vật, thường được làm bằng liễu gai hoặc nhựa, có tay cầm để mang hoặc giữ đồ",
+            "hasImg": true
+        },
+        {
+            "id": "18bda019-3c82-420e-a82d-d138622f6382",
+            "word": "bucket",
+            "phonetic": "bʌkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The farmer used a bucket to collect fresh milk from the cow.",
+                "She ran hot water into the bucket.",
+                "He filled the bucket with sand to build a sandcastle.",
+                "When the old girl finally kicked the bucket there was no mention of yours truly in the will.",
+                "according to 2001 Census Report, in a population of 365 million is like drop in the bucket and in numerical terms it is a total failure."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVja2V0&hash=affea90cbc522f13d27df2fe4ae4fe3e99638c3e&lang=en&cache-only=0",
+            "defineEn": "a round open container, made of plastic or metal, with a handle used for keeping or carrying liquid",
+            "defineVi": "một hộp tròn mở, làm bằng nhựa hoặc kim loại, có tay cầm dùng để giữ hoặc mang chất lỏng",
+            "hasImg": true
+        },
+        {
+            "id": "cd92163f-d8c1-40ae-be45-5e41da311457",
+            "word": "extra",
+            "phonetic": "ɛkstɹə ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Airport security was extra tight in the wake of yesterday's bomb attacks.",
+                "They run extra trains during the rush hour.",
+                "Be extra careful with this one.",
+                "She turned her singing talent into extra money.",
+                "I packed an extra jacket for the camping trip."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0cmE&hash=ede5ef4b06446c5d32a21cfebd9727c472db6f31&lang=en&cache-only=0",
+            "defineEn": "more than enough or the amount needed",
+            "defineVi": "quá đủ hoặc số lượng cần thiết",
+            "hasImg": true
+        },
+        {
+            "id": "c6b68ace-717a-4452-a7e0-776bf58b7521",
+            "word": "maximum",
+            "phonetic": "mæksɪməm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He received the maximum sentence allowed by law.",
+                "She prefers to wear loose-fitting pants for maximum comfort.",
+                "With the judge handing down the maximum possible sentence, this monster will be paying the fiddler for the rest of his life.",
+                "But your velocity is maximum.",
+                "The maximum displacement happens right here in the middle where the player's hand pushes on the stick."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF4aW11bQ&hash=0c1137e161c5ce77664614110f0fba382f769a7a&lang=en&cache-only=0",
+            "defineEn": "the greatest amount, degree, or extent there is or is possible",
+            "defineVi": "số lượng, mức độ hoặc mức độ lớn nhất có hoặc có thể"
+        },
+        {
+            "id": "6d57dde8-b6e1-42ab-a981-92eed2c1cf6d",
+            "word": "minimum",
+            "phonetic": "mɪnɪməm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The investment manager targeted high rollers, demanding a minimum investment of $100,000.",
+                "The minimum bid was $10,000.",
+                "When is your minimum acceleration?",
+                "All drafted rookies require a minimum of four years on the team.",
+                "My wife puts in, minimum of 60 hours a week and sometimes 80."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluaW11bQ&hash=2b7bf55396ab66325e605f500e4f4f141ebc2b7e&lang=en&cache-only=0",
+            "defineEn": "the smallest amount, degree, or extent there is or is possible",
+            "defineVi": "số lượng, mức độ, hoặc phạm vi nhỏ nhất có hoặc có thể"
+        },
+        {
+            "id": "70365dcc-60d6-4e07-8b74-2835a681b216",
+            "word": "limited",
+            "phonetic": "lɪmɪɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "For a limited time, every car in our range is available for nothing down!",
+                "When Tim arrived home after his backpacking trip, he looked like he was just skin and bones from all the hiking and limited food.",
+                "When Sarah was a college student with limited funds, she found herself less interested in shopping and spending time in commercial areas, demonstrating how a moneyless man goes fast through the market.",
+                "Their options for employment were very limited.",
+                "The evidence base is somewhat limited."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGltaXRlZA&hash=d599136ac38b215baa678253a0d4a03f83516055&lang=en&cache-only=0",
+            "defineEn": "not being great in extent or amount",
+            "defineVi": "không lớn về mức độ hoặc số lượng"
+        },
+        {
+            "id": "9da35c5f-2e9e-434b-a0b8-7ce21dc4603d",
+            "word": "high",
+            "phonetic": "haɪ ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "The colorful bird flew high in the sky.",
+                "The prices at the luxury boutique were quite high.",
+                "Unfortunately, the price of short ribs can be quite high.",
+                "He had high expectations for the team's performance in the tournament.",
+                "They set high standards of customer service."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaA&hash=3cc614658c9a918812534f458ebda7ad9da1df22&lang=en&cache-only=0",
+            "defineEn": "at or to a great price, value, amount, degree, etc.",
+            "defineVi": "tại hoặc với một mức giá, giá trị, số lượng, mức độ tuyệt vời, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "bab5f101-cab1-4aba-b6e6-67c3278586c8",
+            "word": "double",
+            "phonetic": "dʌbəl ",
+            "partOfSpeechType": "determiner",
+            "examples": [
+                "Double cream adds indulgence to creamy pasta sauces.",
+                "His parents did a double take when he came home with a tattoo.",
+                "The kitchen had a double oven, allowing for simultaneous baking of different dishes.",
+                "Take your hot beverages to the next level by adding a splash of double cream to them.",
+                "When the price of skiing doubled, tourists voted with their feet and just stopped going."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG91Ymxl&hash=b3dd0135f219abf0318bcd73af2132cd533a8f89&lang=en&cache-only=0",
+            "defineEn": "twice in number or amount",
+            "defineVi": "hai lần về số lượng hoặc số lượng",
+            "hasImg": true
+        },
+        {
+            "id": "6c9c4b11-ff7d-4552-8194-bc4344327434",
+            "word": "half",
+            "phonetic": "hæf ",
+            "partOfSpeechType": "determiner",
+            "examples": [
+                "She went halves on gas.",
+                "Buses to Oxford run every half hour.",
+                "The journey to the airport takes about half an hour.",
+                "He never does things by halves.",
+                "I bought these shoes at half price."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFsZg&hash=1dce9609a3b70917d74a05c55e23203c6f570666&lang=en&cache-only=0",
+            "defineEn": "a half amount of something",
+            "defineVi": "một nửa số tiền của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "bf843049-a239-4640-96da-ba1197953dbf",
+            "word": "enough",
+            "phonetic": "ɪnʌf ",
+            "partOfSpeechType": "determiner",
+            "examples": [
+                "Take enough supplies.",
+                "Alright I had enough.",
+                "Are you warm enough?",
+                "Oh yes, enough said.",
+                "Even a dog knows enough to come out of the rain, Charlie."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5vdWdo&hash=804cdce449e181285a49ed9a41224289d962bd8a&lang=en&cache-only=0",
+            "defineEn": "as much or as many as is needed",
+            "defineVi": "nhiều hoặc nhiều như là cần thiết",
+            "hasImg": true
+        },
+        {
+            "id": "1eb773f7-7741-43cf-bf76-270a8b83e24e",
+            "word": "packet",
+            "phonetic": "pækɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Can you pass me the sugar packet?",
+                "The restaurant offers saccharin packets alongside sugar and honey for customers who prefer a calorie-free option.",
+                "She always carries a packet of aspartame in her purse to use as a sweetener.",
+                "Sometimes different packets from the same message take different routes through a network.",
+                "Starting with packet switching."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFja2V0&hash=cbe3d4893d663b990a2c3f709cb64d8226ecda60&lang=en&cache-only=0",
+            "defineEn": "goods that a packet holds",
+            "defineVi": "hàng hóa mà một gói giữ",
+            "hasImg": true
+        },
+        {
+            "id": "51906782-5e92-4e63-8be0-24a1d18a2864",
+            "word": "bit",
+            "phonetic": "bɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A bit of good fortune came my way.",
+                "They all did their bit during the war.",
+                "My grandfather was a bit of a rough diamond.",
+                "Our equipment is a bit behind the times.",
+                "Everyone should do their bit for the environment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yml0&hash=2c832637256b043495dcf6922a37c6cbb44dedd3&lang=en&cache-only=0",
+            "defineEn": "a small amount, quantity, or piece of something",
+            "defineVi": "một số lượng nhỏ, số lượng, hoặc mảnh của một cái gì đó"
+        },
+        {
+            "id": "9838289c-6d46-487f-9a59-970d6426f850",
+            "word": "pitcher",
+            "phonetic": "pɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He took the rookie pitcher under his wing.",
+                "He made a pitcher of homemade lemonade with freshly squeezed lemons.",
+                "The pitcher was doing well for the first four innings, then the wheels fell off in the fifth.",
+                "I still can't believe they traded their ace pitcher for next-to-nothing.",
+                "The company that relies too heavily on a single product or service may be vulnerable to market changes or competition, demonstrating how the pitcher goes so often to the well that it is broken at last."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+            "defineEn": "the quantity that is equal to a pitcher's capacity",
+            "defineVi": "số lượng tương đương với công suất của bình"
+        },
+        {
+            "id": "4d8b3d87-f2a8-453b-b0f1-14e62457872c",
+            "word": "pitcher",
+            "phonetic": "pɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He took the rookie pitcher under his wing.",
+                "He made a pitcher of homemade lemonade with freshly squeezed lemons.",
+                "The pitcher was doing well for the first four innings, then the wheels fell off in the fifth.",
+                "I still can't believe they traded their ace pitcher for next-to-nothing.",
+                "The company that relies too heavily on a single product or service may be vulnerable to market changes or competition, demonstrating how the pitcher goes so often to the well that it is broken at last."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGl0Y2hlcg&hash=7be6cda7743936aac5383d4373ad5099279b2b03&lang=en&cache-only=0",
+            "defineEn": "a deep round container with a handle and a lid used for pouring liquids",
+            "defineVi": "một thùng tròn sâu có tay cầm và nắp dùng để rót chất lỏng",
+            "hasImg": true
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "id": "ace104be-a064-4b4c-9a2e-1cfe8eaa5915",
+    "title": "Music",
+    "originalTitle": "Lesson 6",
+    "words": [
+        {
+            "id": "894068d0-df61-4acb-b3d9-4acdc25bb392",
+            "word": "keyboard",
+            "phonetic": "kiːboːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So keyboard, got my fancy mouse.",
+                "I use keyboards",
+                "Keyboard shortcuts for effects and presets.",
+                "Imagine a keyboard.",
+                "This keyboard is fantastic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2V5Ym9hcmQ&hash=6795ad3ad42bef404d81435ad660f5e8ed66e7d5&lang=en&cache-only=0",
+            "defineEn": "a type of electronic musical instrument with keys like those of a piano, which is able to make many different sounds",
+            "defineVi": "một loại nhạc cụ điện tử có các phím giống như đàn piano, có thể tạo ra nhiều âm thanh khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "6dccdd3d-b994-48a0-84a7-dcc35894c2d1",
+            "word": "trumpet",
+            "phonetic": "tɹʌmpɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Dave spent the whole evening blowing his own trumpet.",
+                "The elephant trumpeted loudly, announcing its presence in the jungle.",
+                "A trumpet, like many wind instruments, has very little flux.",
+                "I used to play the trumpet, too.",
+                "My dad gave me a trumpet when I was about 14."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJ1bXBldA&hash=cc8ebf2f2f3ef38b6479d016433acb8d96d3a32b&lang=en&cache-only=0",
+            "defineEn": "a musical instrument with a curved metal tube and one wide end, which is played by blowing into it while pressing and releasing its three buttons",
+            "defineVi": "một nhạc cụ có một ống kim loại cong và một đầu rộng, được chơi bằng cách thổi vào nó trong khi nhấn và thả ba nút của nó",
+            "hasImg": true
+        },
+        {
+            "id": "4fca6fc9-b782-420d-bf3f-15619c6c5dc0",
+            "word": "accordion",
+            "phonetic": "ɐkoːɹdiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So, this is the accordion folder.",
+                "You could fold paper to make an accordion book.",
+                "\"I love that Nikki Glaser, she plays the accordion!\"",
+                "Keeping one of those portable accordion folders in your bag works well when you’re away from home, and it combos well with a file box for longer-term storage.",
+                "I still love the accordion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3JkaW9u&hash=4e2180ece2215ef6cda9d9d30fa4a9d0ac32eda2&lang=en&cache-only=0",
+            "defineEn": "a box-like musical instrument that is held in both hands and is played by squeezing and stretching it while pressing its keys",
+            "defineVi": "một nhạc cụ giống như hộp được cầm bằng cả hai tay và được chơi bằng cách bóp và kéo dài nó trong khi nhấn các phím của nó",
+            "hasImg": true
+        },
+        {
+            "id": "56133e14-c17e-43f0-a6c1-b86da5eda10b",
+            "word": "cello",
+            "phonetic": "tʃɛloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We tried the cello first.",
+                "And the cello is just too big.",
+                "Long waves have a low frequency and pitch, like a mournful cello.",
+                "There's something about the Cello!",
+                "Yeah, she plays the cello, and she's really smart."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VsbG8&hash=d8704e20805bd3058ae02d204b3bb72eb1aa7f72&lang=en&cache-only=0",
+            "defineEn": "a large musical instrument of the violin family that is held upright and is played by pulling a bow across its strings",
+            "defineVi": "một nhạc cụ lớn thuộc họ vĩ cầm được giữ thẳng đứng và được chơi bằng cách kéo cung qua dây của nó",
+            "hasImg": true
+        },
+        {
+            "id": "76155e3b-452c-4a9d-b737-05c188fdb731",
+            "word": "clarinet",
+            "phonetic": "klæɹənɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Last time I hit a deer, I had my clarinet with me and I only got through like two songs and he was out.",
+                "Ah, clarinet never came in handy for anything unless maybe like you're driving",
+                "A clarinet, because it is shaped differently and made of different materials, amplifies some harmonics more than others.",
+                "I have two degrees in clarinet so, that's why I do comedy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhcmluZXQ&hash=9af62bd34e569e65cf2a61e437dad56bcfe9eb73&lang=en&cache-only=0",
+            "defineEn": "a musical instrument with a mouthpiece and keys, that is played by blowing into it",
+            "defineVi": "một nhạc cụ có ống ngậm và các phím, được chơi bằng cách thổi vào nó",
+            "hasImg": true
+        },
+        {
+            "id": "3b504317-64c3-48a6-baa8-702588dff27b",
+            "word": "flute",
+            "phonetic": "fluːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "To play the piano/violin/flute.",
+                "They play the flute.",
+                "Blow it like a flute.",
+                "This might be a sampled flute.",
+                "And to help him on his journey, she gives him the titular magic flute."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmx1dGU&hash=2126b6755a97c7d9cd2c978ea850861aa1fb4bb6&lang=en&cache-only=0",
+            "defineEn": "a tube-like musical instrument that is played by blowing over a hole while covering and uncovering its other holes",
+            "defineVi": "một nhạc cụ giống như ống được chơi bằng cách thổi qua một lỗ trong khi che và mở các lỗ khác của nó",
+            "hasImg": true
+        },
+        {
+            "id": "e2c7e89e-3b78-4fda-b567-ce5c545ff900",
+            "word": "saxophone",
+            "phonetic": "sæksəfoʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I was looking for the cool instruments, the saxophones and the trumpets.",
+                "Didn't Kenny G set the world record for the longest saxophone note because he can circular breathe?",
+                "Okay, but where are the samples that use one of jazz's most recognizable instruments, the saxophone?",
+                "(plays saxophone)",
+                "(plays saxophone) -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F4b3Bob25l&hash=2aa367e12e6458abc1c1b0376625edd13c6a2f6f&lang=en&cache-only=0",
+            "defineEn": "a curved metal wind instrument that is played by blowing into it while pressing its buttons",
+            "defineVi": "một nhạc cụ gió kim loại cong được chơi bằng cách thổi vào nó trong khi nhấn các nút của nó",
+            "hasImg": true
+        },
+        {
+            "id": "8369430d-3305-4550-b37f-b3318fa10bef",
+            "word": "band",
+            "phonetic": "bænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The band are playing 11 cities around the country.",
+                "In the distance a band was playing.",
+                "His favorite band is playing a concert on Friday night.",
+                "All members of the band equally share the band's profits.",
+                "The band hit the big time after their song was played on the radio."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFuZA&hash=df16324a46316e0aae97bc26de4871192235710b&lang=en&cache-only=0",
+            "defineEn": "a group of musicians and singers playing popular music",
+            "defineVi": "một nhóm nhạc sĩ và ca sĩ chơi nhạc nổi tiếng",
+            "hasImg": true
+        },
+        {
+            "id": "ebdc8332-7e1f-4f47-aaf6-4c50a4ce5b6b",
+            "word": "choir",
+            "phonetic": "kwaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After his voice broke, he left the choir.",
+                "He's just preaching to the choir.",
+                "Political satirist Andy Borowitz heads to San Francisco to preach to the choir.",
+                "The men who really need to hear the message don't come to the meetings, so I'm just preaching to the choir.",
+                "I don't know why he thought to join the school choir."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hvaXI&hash=8b7cf5b99959c2f5a2538de7c1d7cf0e5b4cd36b&lang=en&cache-only=0",
+            "defineEn": "a group of singers who perform together, particularly in religious ceremonies or in public",
+            "defineVi": "một nhóm ca sĩ biểu diễn cùng nhau, đặc biệt là trong các nghi lễ tôn giáo hoặc trước công chúng",
+            "hasImg": true
+        },
+        {
+            "id": "700f64ef-d9c1-4546-85e0-e4497a45d5b8",
+            "word": "conductor",
+            "phonetic": "kəndʌktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "the conductor shouted angrily.",
+                "the conductor asked.",
+                "'Yes,' said the conductor.",
+                "'I don't like this,' said the conductor.",
+                "These cables from Grano, they contain eight conductors within, so just imagine eight different copper strands inside here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZHVjdG9y&hash=2057ab933816df4c875b4034b4ae99093ac97eb9&lang=en&cache-only=0",
+            "defineEn": "someone who guides and directs an orchestra",
+            "defineVi": "một người hướng dẫn và chỉ đạo một dàn nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "7217fac7-6963-4adb-bf69-f7d1ad812064",
+            "word": "DJ",
+            "phonetic": "diːdʒeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That DJ's voice really sets my teeth on edge.",
+                "I know DJs absolutely hate that.",
+                "The moment validated DJ setups as musical instruments, and showed its capabilities as a tool for improvisation.",
+                "- K-Swift was a legendary DJ from Baltimore.",
+                "there was DJs spinning around."
+            ],
+            "audio": "https://tts.langeek.co/read?text=REo&hash=e30d9dbdc55c4b793a0621cb3c9036702e87d154&lang=en&cache-only=0",
+            "defineEn": "someone who plays popular recorded music at parties or on radio",
+            "defineVi": "một người chơi nhạc được ghi lại phổ biến tại các bữa tiệc hoặc trên đài phát thanh",
+            "hasImg": true
+        },
+        {
+            "id": "b7772ed0-e92f-4df3-8ed2-5df92b99815a",
+            "word": "performer",
+            "phonetic": "pɚfoːɹmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The daredevil performer, Max, shocked the audience by performing his entire circus act in his birthday suit.",
+                "As a musician, he knew that nine tailors make a man and that being proficient in multiple music genres was essential to his success as a performer and composer.",
+                "Performers live in the crew quarters on the lower decks.",
+                "The performers need their rest.",
+                "The highest performers also inaccurately rate their skillset, just in different ways."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyZm9ybWVy&hash=ddf5e7ab04f437f167f3b3a98634643c5346f7b6&lang=en&cache-only=0",
+            "defineEn": "someone who entertains an audience, such as an actor, singer, musician, etc.",
+            "defineVi": "một người giải trí cho khán giả, chẳng hạn như một diễn viên, ca sĩ, nhạc sĩ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "830e3489-ddb0-4a59-bbfc-6b886ec7db35",
+            "word": "pianist",
+            "phonetic": "piənɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The resident pianist will be tickling the ivories.",
+                "We attended a piano recital and were impressed by the young pianist's talent.",
+                "There’s a pianist, a violist and a cellist that are in the same place.",
+                "There's World-Renowned pianist who have been doing things with their hands like a Starcraft 2 player up into their 50s and 60s",
+                "There's word that the legendary jazz pianist Chick Corea has died."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGlhbmlzdA&hash=07d48353058a74dcbd10ee39dce355e7e21dc460&lang=en&cache-only=0",
+            "defineEn": "someone who plays the piano, particularly a professional one",
+            "defineVi": "một người chơi piano, đặc biệt là một người chuyên nghiệp",
+            "hasImg": true
+        },
+        {
+            "id": "bee3498c-dfc2-4b2a-831e-c14ea9a5d299",
+            "word": "violinist",
+            "phonetic": "vaɪəlɪnɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was replaced first by Andrew Haveron, and today violinist Daniel Rowland fills his shoes.",
+                "MIDORI, Violinist: I see different things.",
+                "This tape was recorded by a violinist.",
+                "Such concerts might feature himself as the star violinist.",
+                "Jeffrey Brown spoke with the world-renowned violinist for our arts and culture series, Canvas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlvbGluaXN0&hash=a74a563eb3ab3c8e5d464e0e92f178a989527b1e&lang=en&cache-only=0",
+            "defineEn": "someone who plays the violin",
+            "defineVi": "một người chơi vĩ cầm",
+            "hasImg": true
+        },
+        {
+            "id": "263d8795-85df-49c7-99be-3d03a480a24e",
+            "word": "drummer",
+            "phonetic": "dɹʌmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He began as a drummer.",
+                "Yeah, my drummer also, Zachary, was also with Springsteen.",
+                "I mean, what a great drummer.",
+                "You're a great drummer.",
+                "Just the guy in the drummer is over there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJ1bW1lcg&hash=685ae138983207d2df950fee107fc26b7cf7d0a8&lang=en&cache-only=0",
+            "defineEn": "someone who plays a drum or a set of drums in a band",
+            "defineVi": "một người chơi trống hoặc một bộ trống trong một ban nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "c80417f0-887d-4b21-bc83-dfb8cf2f9796",
+            "word": "album",
+            "phonetic": "ælbəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their last album sold millions.",
+                "The singer is in the spotlight for her new album release.",
+                "The album's success has put it at the top of the charts.",
+                "The new album by that band is going down a bomb with music fans all over the world.",
+                "The musician's new album is a masterpiece, with every song knocking it out of the park."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxidW0&hash=344d6f6b7bc4996297a28424a88f41983d817486&lang=en&cache-only=0",
+            "defineEn": "a number of music pieces or songs sold as a single item, normally on a CD or the internet",
+            "defineVi": "một số bản nhạc hoặc bài hát được bán dưới dạng một mặt hàng, thường là trên đĩa CD hoặc internet",
+            "hasImg": true
+        },
+        {
+            "id": "69609b57-000d-45c6-902b-d256ca99650b",
+            "word": "tape",
+            "phonetic": "teɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I ran the tape back.",
+                "I have raised an invoice for the tape.",
+                "He didn't know the tape was still running.",
+                "Transfer tape makes light work of re-gluing in the workshop.",
+                "- Take tape."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFwZQ&hash=646a6e7a62b6109f1e0b698c67991226c97e7df3&lang=en&cache-only=0",
+            "defineEn": "a thin magnetic material on which a piece of music is recorded",
+            "defineVi": "một vật liệu từ tính mỏng mà một bản nhạc được ghi lại",
+            "hasImg": true
+        },
+        {
+            "id": "3618e01b-6907-45d8-bc8c-aa5f05b5bb7c",
+            "word": "to tour",
+            "phonetic": "tə tʊɹ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We took a helicopter tour to get a bird's-eye view of the city.",
+                "The tour is free, but all meals are at your own expense.",
+                "We took a boat tour to explore the beautiful coastline.",
+                "They are planning a city tour to discover hidden gems and local attractions.",
+                "To go on a journey/tour/trip/cruise."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdG91cg&hash=ee61066a84e5d39ab3c13a6d76119d27d21584dd&lang=en&cache-only=0",
+            "defineEn": "to travel to different places to perform, such as putting on a concert",
+            "defineVi": "đi đến những nơi khác nhau để biểu diễn, chẳng hạn như tổ chức một buổi hòa nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "5eeba93e-2ad7-4f9a-93eb-4cc11a80e582",
+            "word": "to publish",
+            "phonetic": "tə pʌblɪʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The journalist published a wrong statement in the article.",
+                "She opened her heart to the wrong magazine, and it published a scandalous story.",
+                "fter he left publishing, he turned his hand to law.",
+                "My story is finally getting published!",
+                "After publishing her second book, it was another feather in her cap as an accomplished author."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcHVibGlzaA&hash=1ee680759fae3fe23cc371d6f8e7452f31e9d5d9&lang=en&cache-only=0",
+            "defineEn": "to publically distribute a piece of music for sale",
+            "defineVi": "phân phối công khai một bản nhạc để bán"
+        },
+        {
+            "id": "cd9f36ec-9742-4bad-94ce-1100dfad33e2",
+            "word": "chorus",
+            "phonetic": "koːɹəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Specifically, these ones called chorus waves.",
+                "The chorus the people, the community responds.",
+                "When he was introduced to the crowd here in Las Vegas tonight, a chorus of boos rained down on top of the French rider. -",
+                "The first lead will sing a line, then the group will respond with a chorus.",
+                "If we had radio antennas for ears, the Van Allen chorus would be detectable in the audible range of human hearing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hvcnVz&hash=17f99ef41794a91f778635d1c4a8aef80c213254&lang=en&cache-only=0",
+            "defineEn": "a section of a song or poem that follows each verse",
+            "defineVi": "một phần của một bài hát hoặc bài thơ sau mỗi câu"
+        },
+        {
+            "id": "20d17fd2-5587-4471-abcb-c2044a10687b",
+            "word": "beat",
+            "phonetic": "biːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Beat it!",
+                "Truly we have beaten swords into ploughshares!",
+                "Don't beat around the bush - get to the point!",
+                "They could easily have beaten us.",
+                "The team then beats a retreat from the mall, hoping no one noticed them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhdA&hash=b491158efccb3fc49adc3604d70327baf9d0eb09&lang=en&cache-only=0",
+            "defineEn": "a piece of music or a poem's main rhythm",
+            "defineVi": "một bản nhạc hoặc nhịp điệu chính của một bài thơ"
+        },
+        {
+            "id": "b58da0fc-87b6-4ac2-81c9-43890f14c2af",
+            "word": "lyric",
+            "phonetic": "lɪɹɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His lyrics in this song focus on describing his ability to keep going with his music, no matter what gets in the way of him.",
+                "The concert started off great, but it ended on a sour note when the singer forgot the lyrics to the final song.",
+                "Learn more lyrics.",
+                "♪ Is that the lyric?",
+                "Saying the lyrics."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bHlyaWM&hash=b1ec278468dc7592745575ed0fd90689b7777267&lang=en&cache-only=0",
+            "defineEn": "(plural) a song's words",
+            "defineVi": "(số nhiều) lời bài hát"
+        },
+        {
+            "id": "d2bb217b-bc8d-483c-9aeb-88363e12e4e0",
+            "word": "MP3 player",
+            "phonetic": "ɛmpiː θɹiː pleɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Frank: MP3 players are better CD players are better tape players.",
+                "An obvious next step was the rise of the MP3 and the MP3 player, popularized by Apple's iPod.",
+                "And then iPhone sort of made every MP3 player useless.",
+                "Very early on, most MP3 players were mostly the same, I think, so I didn't really switch around, and I, like, stuck with one for a long time.",
+                "The iPod became kind of like the face of, you know, portable MP3 players, and it made it really difficult for anyone else to compete."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TVAzIHBsYXllcg&hash=572e0e57a5831bea839a5a0aa4ad6d0df8d6b4ed&lang=en&cache-only=0",
+            "defineEn": "a small device used for listening to audio and MP3 files",
+            "defineVi": "một thiết bị nhỏ được sử dụng để nghe các tập tin âm thanh và MP3",
+            "hasImg": true
+        },
+        {
+            "id": "657105af-2ab4-49a2-8aab-543fba61098b",
+            "word": "headphones",
+            "phonetic": "hɛdfoʊnz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVhZHBob25lcw&hash=4003d9cce1621f02069e6731ca088bcac1b203e5&lang=en&cache-only=0",
+            "defineEn": "a device that has two pieces that cover our ears and we use to listen to music or sounds without others hearing",
+            "defineVi": "một thiết bị có hai miếng che tai của chúng ta và chúng ta sử dụng để nghe nhạc hoặc âm thanh mà người khác không nghe thấy",
+            "hasImg": true
+        },
+        {
+            "id": "8d802b08-dcaf-41ac-baa2-92865a6a10fc",
+            "word": "iPod",
+            "phonetic": "aɪ pɑːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Kim: And iPods still have a few uses.",
+                "Products like iPods might find usefulness in Apple's health and wellness line-up, too.",
+                "I call in my iPod.",
+                "And iPod sales exploded year after year.",
+                "In 2011, iPhone sales overtook the iPod."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aVBvZA&hash=6177ca576e6a00ba760f6f079f8c1ff7095e123f&lang=en&cache-only=0",
+            "defineEn": "an electronic device used for listening to audio files or for storing digital data",
+            "defineVi": "một thiết bị điện tử được sử dụng để nghe các tệp âm thanh hoặc để lưu trữ dữ liệu kỹ thuật số",
+            "hasImg": true
+        },
+        {
+            "id": "2139bf33-b6a8-42a8-a67f-d5ba30de9203",
+            "word": "microphone",
+            "phonetic": "maɪkɹəfoʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He pretended the carrot was a microphone and sang a silly song in front of the mirror.",
+                "The laser is now hitting the microphone.",
+                "I melted microphones instead of cones of ice cream.",
+                "Maybe the microphone will work.",
+                "My microphone isn't working."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWljcm9waG9uZQ&hash=47fbcc3c232a110d2cf52a06149c1e408341c407&lang=en&cache-only=0",
+            "defineEn": "a piece of equipment used for recording voices or sounds or for making one's voice louder",
+            "defineVi": "một phần của thiết bị được sử dụng để ghi lại giọng nói hoặc âm thanh hoặc để làm cho giọng nói của một người to hơn",
+            "hasImg": true
+        },
+        {
+            "id": "1b1fa297-aae6-4808-93ee-60049f6e2dc8",
+            "word": "karaoke",
+            "phonetic": "kæɹɪoʊki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's karaoke night.",
+                "You can have a karaoke or a dance party.",
+                "I mean, who doesn’t like a good Karaoke night?",
+                "At the karaoke club, the patrons asked us to do more They invited us to sit with them",
+                "I was offered a record deal, while singing at a karaoke bar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2FyYW9rZQ&hash=ac19a2d8ff78d88bc292ae303f029e0f0cde647f&lang=en&cache-only=0",
+            "defineEn": "a form of entertainment in which people sing the words of popular songs while a machine plays only their music",
+            "defineVi": "một hình thức giải trí trong đó mọi người hát lời của những bài hát nổi tiếng trong khi máy chỉ phát nhạc của họ",
+            "hasImg": true
+        },
+        {
+            "id": "dfd568b8-0c0c-45b3-a728-da185fd0bf5e",
+            "word": "songwriter",
+            "phonetic": "sɔŋɹaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As a successful singer-songwriter, she has a large fan base and is sought after by record labels.",
+                "The songwriter thought the show would be a success so he wanted a piece of the action.",
+                "And legendary singer/songwriter Bob Dylan has sold his entire catalog of songs to Universal Music Publishing Group.",
+                "A sometime songwriter himself, he says the process was a revelation.",
+                "I'm a music producer and songwriter and I've done a lot of work in the K-pop world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29uZ3dyaXRlcg&hash=05c8a7de36611ccc4e3580519bdcb6ef3d864bb3&lang=en&cache-only=0",
+            "defineEn": "someone who writes the words of songs and sometimes their music",
+            "defineVi": "một người viết những lời của bài hát và đôi khi âm nhạc của họ",
+            "hasImg": true
+        }
+    ]
+}

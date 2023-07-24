@@ -1,0 +1,483 @@
+{
+    "id": "c3a94a35-4b7e-4740-8b35-b6f503b2ad8c",
+    "title": "Lesson 1A",
+    "originalTitle": "Lesson 1A",
+    "words": [
+        {
+            "id": "6934d784-1d3d-498c-8c56-713c3485396b",
+            "word": "Monday",
+            "phonetic": "mʌndeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Today is Monday.",
+                "I'm going monk mode from Monday.",
+                "Jessica died Monday.",
+                "I have a team meeting every Monday afternoon.",
+                "After a fun weekend I was back in harness on Monday, handling paperwork at my desk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TW9uZGF5&hash=6215a2bef4336fd1300391af4c4c3a61683b3f70&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Sunday",
+            "defineVi": "‌ngày diễn ra sau chủ nhật",
+            "hasImg": true
+        },
+        {
+            "id": "58a7d194-d2ec-467f-ac22-f0d9e8e981e2",
+            "word": "Tuesday",
+            "phonetic": "tuːzdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tuesdays usually are my busiest days at work.",
+                "The Supreme Court heard the case on Tuesday.",
+                "The party will be on Tuesday, rain or shine.",
+                "I use Tuesdays to work on my personal projects and hobbies.",
+                "I meet my study group at the library on Tuesday afternoons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VHVlc2RheQ&hash=3210c0cd05faf5c5d924519532c2f5dd4d020f05&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Monday",
+            "defineVi": "‌ngày diễn ra sau thứ Hai",
+            "hasImg": true
+        },
+        {
+            "id": "5228f1b9-6721-4099-a806-5e78330f842f",
+            "word": "Wednesday",
+            "phonetic": "wɛnzdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Wednesday is my favorite day of the week.",
+                "I have a lunch date with my best friend every Wednesday.",
+                "Wednesday is the middle of the week.",
+                "The deal will be agreed on Wednesday, knock on wood.",
+                "They're going on holiday on Wednesday so they're all over the moon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=V2VkbmVzZGF5&hash=5e60619afbbd6dc9b20b5f3c781ac28f90d44ad4&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Tuesday",
+            "defineVi": "‌ngày diễn ra sau thứ ba",
+            "hasImg": true
+        },
+        {
+            "id": "23fcd70e-8f4b-410a-b899-a74c43d3f5d0",
+            "word": "Thursday",
+            "phonetic": "θɜːzdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Thursday is my daughter's favorite day of the week.",
+                "Thursday is the day after Wednesday and before Friday.",
+                "Thursday is almost the weekend.",
+                "I have a dentist appointment on Thursday.",
+                "Robbie opened his heart after a secret charity gig at London's Equinox club on Thursday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VGh1cnNkYXk&hash=20980ecb215b48d3caab03bcc3e5d0ab4e4669f8&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Wednesday",
+            "defineVi": "‌ngày diễn ra sau thứ Tư",
+            "hasImg": true
+        },
+        {
+            "id": "a8485024-4623-4bf1-85b2-cfeb832247d7",
+            "word": "Friday",
+            "phonetic": "fɹaɪdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The party is on Friday evening.",
+                "His favorite band is playing a concert on Friday night.",
+                "US President Joe Biden got the clean bill of health on Friday after a detailed physical examination.",
+                "My friend's birthday is on a Friday this year.",
+                "Matt came round each Friday, regular as clockwork."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RnJpZGF5&hash=a82f53c6efa662509a6bdf644a3de0d169c1d82e&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Thursday",
+            "defineVi": "‌ngày diễn ra sau thứ năm",
+            "hasImg": true
+        },
+        {
+            "id": "a4ee761a-9904-45a1-b8f2-e595854eb138",
+            "word": "Saturday",
+            "phonetic": "sæɾɚdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A large crowd watched the game on Saturday.",
+                "The team should walk it on Saturday.",
+                "Saturdays are when I plan and prepare meals for the upcoming week.",
+                "I look forward to Saturday evenings because I meet up with friends for dinner.",
+                "France are playing against Wales on Saturday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U2F0dXJkYXk&hash=50fb0539a87184fd5d10e40a8f987b349c02f5ab&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Friday",
+            "defineVi": "‌ngày diễn ra sau thứ sáu",
+            "hasImg": true
+        },
+        {
+            "id": "e505d487-e032-4d9d-a38a-3008a7b58189",
+            "word": "Sunday",
+            "phonetic": "sʌndeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Work on Sunday?",
+                "By Sunday morning she was running a temperature.",
+                "They gathered in the dining room for Sunday brunch.",
+                "Grandma's clabber pancakes are a family favorite for Sunday brunch.",
+                "She cooked a mouthwatering pheasant roast for her family's Sunday dinner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U3VuZGF5&hash=a6d1fb8b3bed11e67bdafbdd7fe3e71919c6473a&lang=en&cache-only=0",
+            "defineEn": "‌the day that takes place after Saturday",
+            "defineVi": "‌ngày diễn ra sau thứ bảy",
+            "hasImg": true
+        },
+        {
+            "id": "d898cec7-0e48-4e29-bc64-627666f5ed15",
+            "word": "zero",
+            "phonetic": "ziəɹoʊ ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "I have zero siblings.",
+                "I have zero dollars in my wallet.",
+                "She counted zero stars in the sky.",
+                "There were zero people in the park.",
+                "Reeve shot from zero to hero in the 1978 blockbuster, Superman."
+            ],
+            "audio": "https://tts.langeek.co/read?text=emVybw&hash=63268da05d7552e7feaf42c68eb3df50f6400ba6&lang=en&cache-only=0",
+            "defineEn": "the number 0; nothing of something",
+            "defineVi": "số 0; không có gì",
+            "hasImg": true
+        },
+        {
+            "id": "fff87617-5622-4d71-9845-8a13e86101d7",
+            "word": "one",
+            "phonetic": "wʌn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The teacher called out our names one by one for attendance.",
+                "A hundred cents make one euro.",
+                "The Maasai tribe is one of the indigenous tribes of Africa.",
+                "The appointment of a woman was one in the eye for male domination.",
+                "Neither one seems like the sharpest pencil in the box."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b25l&hash=7510caae6e9ec5f7634f0b4bda30314e59df12cd&lang=en&cache-only=0",
+            "defineEn": "the number 1; the number of sun in the sky",
+            "defineVi": "số 1; số mặt trời trên bầu trời",
+            "hasImg": true
+        },
+        {
+            "id": "1a04d765-9849-4d29-a457-72a653ed9360",
+            "word": "two",
+            "phonetic": "tuː ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Take two from ten.",
+                "Two could play at that game, smart guy.",
+                "The twins have two bicycles.",
+                "Two faces appeared at our window.",
+                "Better one house spoiled than two."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdv&hash=fd42ba2e71a4de966c960d7105865970f83328b2&lang=en&cache-only=0",
+            "defineEn": "the number 2; the number of wheels on a bicycle",
+            "defineVi": "số 2; số lượng bánh xe trên một chiếc xe đạp",
+            "hasImg": true
+        },
+        {
+            "id": "e2fa5a15-7fa3-45c8-b887-415d4eae48b8",
+            "word": "three",
+            "phonetic": "θɹiː ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Three players got their marching orders last week.",
+                "The clock said three o'clock.",
+                "The town is three miles away.",
+                "Three cheers for Sarah, whose brilliant goal at the last minute won us the game!",
+                "Detectives had closed the book on the Hornsey Murders case three years previously."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhyZWU&hash=573be2b3c3beb3e8826f815e695bc2ad8c173d28&lang=en&cache-only=0",
+            "defineEn": "the number 3; the number of sides in a triangle",
+            "defineVi": "số 3; số cạnh trong một tam giác",
+            "hasImg": true
+        },
+        {
+            "id": "dd8939d6-5982-411b-b2c7-32874c375625",
+            "word": "four",
+            "phonetic": "foːɹ ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The recipe serves four people.",
+                "This dish will serve four hungry people.",
+                "The storekeeper changed my dollar bill for four quarters.",
+                "Our dining table has four chairs around it.",
+                "The bill was four votes shy of a majority."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm91cg&hash=141dc6a14b813714ea77d9c58e4922bf57be9b06&lang=en&cache-only=0",
+            "defineEn": "the number 4; the number of seasons in a year",
+            "defineVi": "số 4; số mùa trong năm",
+            "hasImg": true
+        },
+        {
+            "id": "590c59b4-e123-4a88-9085-7f6d268e5d23",
+            "word": "five",
+            "phonetic": "faɪv ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Our cat has just had five kittens.",
+                "He did five years for manslaughter.",
+                "I gave it five out of ten.",
+                "Williams broke her opponent's serve five times.",
+                "Five pounds doesn't buy much nowadays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zml2ZQ&hash=a584ae2a1af7815a929d9b06b09f1c08ea35aaa0&lang=en&cache-only=0",
+            "defineEn": "the number 5; the number of fingers we have on one hand",
+            "defineVi": "số 5; số ngón tay chúng ta có trên một bàn tay",
+            "hasImg": true
+        },
+        {
+            "id": "be0f1f9d-6678-4e6d-a5bf-26d363880399",
+            "word": "six",
+            "phonetic": "sɪks ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Three and three is six.",
+                "He did six years for armed robbery.",
+                "The six years that followed his restoration.",
+                "Six people, and more at a pinch, could be seated comfortably at the table.",
+                "By six o'clock after a busy day I'm at the end of my rope."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2l4&hash=effdae981c6b82438dae5fd7b8ee03c49936b2e9&lang=en&cache-only=0",
+            "defineEn": "the number 6; the number of strings on some guitars",
+            "defineVi": "số 6; số lượng dây trên một số cây đàn guitar",
+            "hasImg": true
+        },
+        {
+            "id": "f3588a9e-3da3-4431-97a3-fdd918c74b7b",
+            "word": "seven",
+            "phonetic": "sɛvən ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The recipe called for seven ingredients.",
+                "The week is divided into seven days.",
+                "Over seven hundred Facebook users have already liked the company’s website.",
+                "It's a reminder that one year's seeding makes seven years' weeding.",
+                "In 1991, the Department of Transport was caught with its pants down and took seven months to produce the document needed to change legislation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V2ZW4&hash=205afabc9e2deebc9339d7cafcc6b3b86340c651&lang=en&cache-only=0",
+            "defineEn": "the number 7; the number of days in a week",
+            "defineVi": "số 7; số ngày trong một tuần",
+            "hasImg": true
+        },
+        {
+            "id": "4c656388-ec55-47a0-8c66-70c0db762e9d",
+            "word": "eight",
+            "phonetic": "eɪt ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The grounds covered eight acres.",
+                "The government has created eight new peers.",
+                "Eight people were held hostage for four months.",
+                "The recipe called for eight ounces of flour, which is about one cup.",
+                "I usually sleep for eight hours every night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWlnaHQ&hash=db2454bd76a7eba7a8eb3e19d0257b2ec3a1a8cc&lang=en&cache-only=0",
+            "defineEn": "the number 8; the number of legs on a spider",
+            "defineVi": "số 8; số lượng chân trên một con nhện",
+            "hasImg": true
+        },
+        {
+            "id": "23b0dc58-2e9b-482f-a15c-7963def72fd4",
+            "word": "nine",
+            "phonetic": "naɪn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The baseball team has nine players on the field at a time.",
+                "A wonder lasts but nine days.",
+                "I start work at nine.",
+                "Still on cloud nine weeks after winning the championship.",
+                "Surprisingly, nine of the 31 Republicans in the Assembly broke ranks to vote with the Democrats."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmluZQ&hash=d2a64f2239c1ca2e46ac7bbcc306738f251c126b&lang=en&cache-only=0",
+            "defineEn": "the number 9; the number of months in a normal pregnancy",
+            "defineVi": "số 9; số tháng trong một thai kỳ bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "a1d75583-fb62-4795-bbba-bceecdb835e5",
+            "word": "ten",
+            "phonetic": "tɛn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Take two from ten.",
+                "The clock says ten past two.",
+                "The soccer team has ten players on the field at a time.",
+                "He got ten years for armed robbery.",
+                "Your plane leaves in ten minutes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVu&hash=eeb4aaca620b7d05ba4b986bbff31cbc9c3a9118&lang=en&cache-only=0",
+            "defineEn": "the number 10; the number of fingers we have on both hands",
+            "defineVi": "số 10; số ngón tay chúng ta có trên cả hai bàn tay",
+            "hasImg": true
+        },
+        {
+            "id": "378d824a-689e-4f0f-989f-9da1aab5cd21",
+            "word": "eleven",
+            "phonetic": "ᵻlɛvən ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The clock struck eleven times, signaling the start of the event.",
+                "My little son knows that eleven is one more than ten.",
+                "Whenever our parents' fighting got up to eleven, my sister and I made ourselves scarce.",
+                "Some of the best nights we had when we were teenagers were spent just driving aimlessly, cranking the car stereo up to eleven.",
+                "My resume says five eleven."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxldmVu&hash=e9085da4016d96b0b0e8885755ea11d3f61f759f&lang=en&cache-only=0",
+            "defineEn": "the number 11; the number of players on a soccer team",
+            "defineVi": "số 11; số lượng cầu thủ trong một đội bóng đá",
+            "hasImg": true
+        },
+        {
+            "id": "1e6050a2-33e1-42a1-a365-786b97eff1c0",
+            "word": "twelve",
+            "phonetic": "twɛlv ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "My son reads twelve pages of his book every day.",
+                "There are twelve hours on a standard clock.",
+                "The year is divided into twelve months, with each month having its own unique characteristics.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "Twelve is dodec-."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlbHZl&hash=87a8fde5dbe18d75212c539bc78e23689aa374ee&lang=en&cache-only=0",
+            "defineEn": "the number 12; the number of months in a year",
+            "defineVi": "số 12; số tháng trong một năm",
+            "hasImg": true
+        },
+        {
+            "id": "a4d45271-5626-4df4-82fc-5fae2915361e",
+            "word": "thirteen",
+            "phonetic": "θɜːtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "Thirteen is a prime number.",
+                "I have thirteen stamps in my collection.",
+                "She's only thirteen and she already smokes like a chimney.",
+                "Despite thirteen years in the job, she has not lost her touch.",
+                "Hank has thirteen hundred."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpcnRlZW4&hash=75d1485dec8b7ac1b7fe12315b3066c3d805dfc9&lang=en&cache-only=0",
+            "defineEn": "the number 13; the number of weeks in a season",
+            "defineVi": "con số 13; số tuần trong một mùa",
+            "hasImg": true
+        },
+        {
+            "id": "167b3604-37e8-446b-9f80-9b7c69634299",
+            "word": "fourteen",
+            "phonetic": "foːɹtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "There are fourteen chapters in the novel I'm reading.",
+                "She was born fourteen years ago, and there are now fourteen candles on her birthday cake.",
+                "She was born fourteen years ago, and there are now fourteen candles on her birthday cake.",
+                "Fourteen is tetradec-.",
+                "When will you turn fourteen?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm91cnRlZW4&hash=5ce69b057082d821ecf9d0d639dd031bfaa45251&lang=en&cache-only=0",
+            "defineEn": "the number 14; the number of days in two weeks",
+            "defineVi": "số 14; số ngày trong hai tuần",
+            "hasImg": true
+        },
+        {
+            "id": "2020849a-73c0-4384-9e04-86c0072398a1",
+            "word": "fifteen",
+            "phonetic": "fɪftiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "There are fifteen students in our class.",
+                "Mr. Russell served as president of the Association for fifteen years.",
+                "He was fifteen, and his voice was just beginning to break.",
+                "I turned fifteen years old last week, and I celebrated my birthday with my friends.",
+                "\"Fifteen dollars,\" the owner answered."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlmdGVlbg&hash=21372cb58354a3e08ccf4302944426210ac8b86f&lang=en&cache-only=0",
+            "defineEn": "the number 15; the number of fingers in three hands",
+            "defineVi": "số 15; số ngón tay trong ba bàn tay",
+            "hasImg": true
+        },
+        {
+            "id": "d6a74afe-fee3-48f6-98b9-9897ee96f7d2",
+            "word": "sixteen",
+            "phonetic": "sɪkstiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "She has sixteen unread messages in her inbox.",
+                "There are sixteen chairs in the conference room.",
+                "At the age of sixteen he left home.",
+                "And I'm sixteen.",
+                "Sixteen is hexadec-."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2l4dGVlbg&hash=27f0bd820d499be1abdc2cd781b7b528cd314eea&lang=en&cache-only=0",
+            "defineEn": "the number 16; the number of pieces each side has in a game of chess",
+            "defineVi": "số 16; số quân mỗi bên có trong một ván cờ vua",
+            "hasImg": true
+        },
+        {
+            "id": "4bd3d00b-a664-4ad5-a586-6a6253ba28a1",
+            "word": "seventeen",
+            "phonetic": "sɛvəntiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "She bought seventeen books from the bookstore.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "She was not good at math, so she thought twelve plus five was seventeen, while it was actually seventeen.",
+                "Seventeen is heptadec-.",
+                "'Room seventeen,' says the woman at the desk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V2ZW50ZWVu&hash=63f00a62b03cc1e2147140923d972de8ed37a2d5&lang=en&cache-only=0",
+            "defineEn": "the number 17; the number of days in two weeks and three days",
+            "defineVi": "số 17; số ngày trong hai tuần và ba ngày",
+            "hasImg": true
+        },
+        {
+            "id": "d2f0700d-a30d-4467-9978-9e62d1fa54af",
+            "word": "eighteen",
+            "phonetic": "eɪtiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The legal drinking age in this country is eighteen.",
+                "Leeds United had waited for success for eighteen years.",
+                "He has been working at his job for eighteen years.",
+                "He’s only eighteen.",
+                "The Wrigley's brand name in twenty twenty, the gum industry's market value hit eighteen point six billion dollars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWlnaHRlZW4&hash=312860cf4b5cbb1970c04e4c253335784d64d1be&lang=en&cache-only=0",
+            "defineEn": "the number 18; the number of squares in three cubes",
+            "defineVi": "số 18; số ô vuông trong ba hình lập phương",
+            "hasImg": true
+        },
+        {
+            "id": "d371c820-40dc-4504-b95c-99ad75de3a9e",
+            "word": "nineteen",
+            "phonetic": "naɪntiːn ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The temperature outside is nineteen degrees Celsius.",
+                "Katy Jones is nineteen and comes from Birmingham.",
+                "My aunt can get talking nineteen to the dozen if you get her on a topic she's passionate about.",
+                "Sam came running nineteen to the dozen when he heard his son crying out to him from the back garden.",
+                "Nineteen percent say yes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmluZXRlZW4&hash=4166286f24ce0389c7b4465d8c4814777fdc6acd&lang=en&cache-only=0",
+            "defineEn": "the number 19; the number of months in a year and seven months",
+            "defineVi": "số 19; số tháng trong một năm bảy tháng",
+            "hasImg": true
+        },
+        {
+            "id": "cb202187-6c68-4b78-a804-ba8b9737cc6f",
+            "word": "twenty",
+            "phonetic": "twɛnti ",
+            "partOfSpeechType": "numeral",
+            "examples": [
+                "The distance between the two cities is twenty kilometers.",
+                "The clock struck twenty times at midnight.",
+                "By the next morning, over twenty of my friends had liked my new profile picture.",
+                "We lost twenty minutes changing a tire.",
+                "He worked in the oil industry for twenty years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlbnR5&hash=d16d77b8ffe3502fbb5c599f7afb366df857b8f9&lang=en&cache-only=0",
+            "defineEn": "the number 20; the number of fingers and toes that we have",
+            "defineVi": "số 20; số lượng ngón tay và ngón chân mà chúng ta có",
+            "hasImg": true
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "id": "9818b7f7-9096-4d34-9b34-665d2c51d4a7",
+    "title": "Non-alcoholic Drinks",
+    "originalTitle": "Non-alcoholic Drinks",
+    "words": [
+        {
+            "id": "cd071c6c-25fb-4f5a-b8e2-7232250f0246",
+            "word": "root beer",
+            "phonetic": "ɹuːt bɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cm9vdCBiZWVy&hash=57de48d77e1785b0b5539a3b749273fcf9697409&lang=en&cache-only=0",
+            "defineEn": "a type of carbonated soft drink that is usually flavored with extracts from the roots of sassafras or sarsaparilla plants, and often contains vanilla, wintergreen, and other flavorings",
+            "defineVi": "một loại nước ngọt có ga thường có hương vị chiết xuất từ rễ cây sassafras hoặc cây sarsaparilla và thường chứa vani, lộc đề xanh và các hương liệu khác"
+        },
+        {
+            "id": "807ee3d6-771f-4551-90ee-48309f5e862b",
+            "word": "kombucha",
+            "phonetic": "kɑːmbʌtʃə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Foods like kimchi, sauerkraut, tempeh, and kombucha provide variety and vitality to our diets.",
+                "Some examples of dietary probiotics are yogurt, sauerkraut, pickles, and kombucha, because these foods contain live bacteria you should check with your doctor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a29tYnVjaGE&hash=d8749bad59b202a2ccbbe7bcbf1b156d71398609&lang=en&cache-only=0",
+            "defineEn": "a fermented tea beverage that is typically made by adding a culture of bacteria and yeast to sweetened tea",
+            "defineVi": "một loại đồ uống trà lên men thường được tạo ra bằng cách thêm vi khuẩn và men vào trà ngọt"
+        },
+        {
+            "id": "14b32ca1-1f25-42d2-a50d-f21c41f6c375",
+            "word": "bubble tea",
+            "phonetic": "bʌbəl tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnViYmxlIHRlYQ&hash=4de63a992d7e9d6af3ee2f334e7e0403afc7452d&lang=en&cache-only=0",
+            "defineEn": "a Taiwanese tea-based beverage that typically contains black tea, milk, sugar, and chewy tapioca pearls or other toppings",
+            "defineVi": "một loại đồ uống làm từ trà của Đài Loan thường chứa trà đen, sữa, đường và trân châu bột sắn dai hoặc các loại toppings khác"
+        },
+        {
+            "id": "1e905d05-b29f-4c19-9fe4-614202101739",
+            "word": "licuado",
+            "phonetic": "lɪkjuːɑːdoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGljdWFkbw&hash=ffab6c6a803d2ead281968e19fba1711cd9564f5&lang=en&cache-only=0",
+            "defineEn": "a Spanish term that refers to a beverage made by blending fruits, vegetables, milk or yogurt, and often sweeteners",
+            "defineVi": "một thuật ngữ tiếng Tây Ban Nha đề cập đến một loại đồ uống được làm bằng cách trộn trái cây, rau, sữa hoặc sữa chua và thường là chất làm ngọt"
+        },
+        {
+            "id": "1f5be47f-c203-4001-80e4-6a3ae5d17866",
+            "word": "lassi",
+            "phonetic": "læsi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGFzc2k&hash=79b53a3ba894ca1d2cfb096dcada5876363ff7ec&lang=en&cache-only=0",
+            "defineEn": "a traditional yogurt-based drink from the Indian subcontinent, often flavored with fruits, spices, or herbs, and sometimes sweetened with sugar or honey",
+            "defineVi": "một thức uống truyền thống làm từ sữa chua từ tiểu lục địa Ấn Độ, thường có hương vị trái cây, gia vị hoặc thảo mộc, và đôi khi được làm ngọt bằng đường hoặc mật ong"
+        },
+        {
+            "id": "0c3c3608-80ae-4fe8-b840-ed9674654499",
+            "word": "frappe",
+            "phonetic": "fɹæp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJhcHBl&hash=5af18ecd3e11dec89e2b5d6bf4eb487ca21e5b66&lang=en&cache-only=0",
+            "defineEn": "a drink served with a lot of small pieces of ice",
+            "defineVi": "một thức uống phục vụ với rất nhiều miếng đá nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "a5da62bd-e9c7-43d7-a541-602fadecb816",
+            "word": "agua fresca",
+            "phonetic": "ɑːɡwə fɹɛskə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWd1YSBmcmVzY2E&hash=a494f7dd6e7fa115b4084f4530e3d23106945b31&lang=en&cache-only=0",
+            "defineEn": "a refreshing Mexican beverage made from fresh fruits, water, and sugar, often blended together to create a light and fruity drink",
+            "defineVi": "một loại đồ uống giải khát của Mexico được làm từ trái cây tươi, nước và đường, thường được pha trộn với nhau để tạo ra một loại đồ uống nhẹ và trái cây"
+        },
+        {
+            "id": "d78210cd-f1fb-4551-a41a-9b5538d03115",
+            "word": "ayran",
+            "phonetic": "ɛɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enjoy a glass of chilled ayran alongside your favorite kebab for a traditional Iranian meal.",
+                "Ayran pairs well with spicy dishes as it helps balance the heat with its creamy and tangy taste."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXlyYW4&hash=c96bd0c88a405448d03cc07b3b7be747642e01ba&lang=en&cache-only=0",
+            "defineEn": "a yogurt-based Turkish beverage, often flavored with herbs or spices, consumed as a drink or condiment",
+            "defineVi": "một loại đồ uống Thổ Nhĩ Kỳ làm từ sữa chua, thường có hương vị với các loại thảo mộc hoặc gia vị, được dùng làm đồ uống hoặc gia vị",
+            "hasImg": true
+        },
+        {
+            "id": "78b7b7b3-0745-43be-9a34-0dc1ec85cfff",
+            "word": "kvass",
+            "phonetic": "keɪvæs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a3Zhc3M&hash=fbd710bc3e7cc32427c244e9e5add106060a307f&lang=en&cache-only=0",
+            "defineEn": "a traditional fermented beverage that originated in Eastern Europe, typically made from rye bread or other grains, and often flavored with fruits or herbs",
+            "defineVi": "một loại đồ uống lên men truyền thống có nguồn gốc từ Đông Âu, thường được làm từ bánh mì lúa mạch đen hoặc các loại ngũ cốc khác và thường có hương vị trái cây hoặc thảo mộc"
+        },
+        {
+            "id": "5f9f43d1-57dc-4cd1-b6da-906f20dea84a",
+            "word": "ginger beer",
+            "phonetic": "dʒɪndʒɚ bɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It makes ginger beer.",
+                "Ferment the ginger to make ginger beer. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2luZ2VyIGJlZXI&hash=a6a08a7142186395a86cfc24aa5f3f8a061a1035&lang=en&cache-only=0",
+            "defineEn": "a sweet fizzy drink with ginger flavor, which is usually non-alcoholic",
+            "defineVi": "một thức uống có ga ngọt ngào với hương vị gừng, thường không cồn",
+            "hasImg": true
+        },
+        {
+            "id": "00c5ef8c-1727-4216-8126-bfaa60aea6fa",
+            "word": "atole",
+            "phonetic": "æɾoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXRvbGU&hash=be910c368b60bdbbd55ce65525d301fe78725cb5&lang=en&cache-only=0",
+            "defineEn": "corn meal that is cooked and eaten as mush or that is drunk as a thin gruel",
+            "defineVi": "bột ngô được nấu chín và ăn như bột nhão hoặc được uống như cháo loãng"
+        },
+        {
+            "id": "36a48125-3601-467c-a6ba-70ee7b410ca5",
+            "word": "horchata",
+            "phonetic": "hoːɹtʃɑːɾə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9yY2hhdGE&hash=a1b772b0b4b1ed872f5034a5d92c8fbfc2a1e658&lang=en&cache-only=0",
+            "defineEn": "a traditional Mexican and Spanish beverage made from rice or other grains, water, and sweeteners, often flavored with cinnamon or other spices",
+            "defineVi": "một loại đồ uống truyền thống của Mexico và Tây Ban Nha được làm từ gạo hoặc các loại ngũ cốc khác, nước và chất làm ngọt, thường có hương vị quế hoặc các loại gia vị khác"
+        },
+        {
+            "id": "4a7295c2-a0b7-434f-a8c3-bf378dfc9c5c",
+            "word": "boza",
+            "phonetic": "boʊzə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym96YQ&hash=2cd86f11f70b7bb39eb1def28c947df85b49b844&lang=en&cache-only=0",
+            "defineEn": "a fermented beverage made from grains such as wheat, corn, or millet, and sweetened with ingredients such as sugar, honey, or fruit",
+            "defineVi": "một loại đồ uống lên men được làm từ các loại ngũ cốc như lúa mì, ngô hoặc kê và được làm ngọt bằng các thành phần như đường, mật ong hoặc trái cây"
+        },
+        {
+            "id": "635de24d-48fd-498a-96d3-1573c46d6c9d",
+            "word": "iced tea",
+            "phonetic": "aɪst tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWNlZCB0ZWE&hash=8ce7965f77908e3b76c258a5f92433bc8c7c2102&lang=en&cache-only=0",
+            "defineEn": "a beverage made by steeping tea leaves in hot water, then cooling the resulting tea and serving it over ice",
+            "defineVi": "một loại đồ uống được làm bằng cách ngâm lá trà trong nước nóng, sau đó làm lạnh trà thu được và phục vụ trên đá",
+            "hasImg": true
+        },
+        {
+            "id": "11df33e7-60e0-48ab-a4cb-f7598e2d1b0b",
+            "word": "iced coffee",
+            "phonetic": "aɪst kɔfi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWNlZCBjb2ZmZWU&hash=bea5472cc0eacd7ea0a2eee3d1b8246baf939c0d&lang=en&cache-only=0",
+            "defineEn": "a type of coffee that is served cold, often over ice, often mixed with milk, cream, or sugar to make it taste better",
+            "defineVi": "một loại cà phê được phục vụ lạnh, thường có đá, thường được trộn với sữa, kem hoặc đường để làm cho nó ngon hơn"
+        },
+        {
+            "id": "edae4382-38b1-4ade-b606-903dd9451749",
+            "word": "soda",
+            "phonetic": "soʊdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We bought popcorn and soda to enjoy during the movie.",
+                "She bought popcorn and soda at the movie theater before the film started.",
+                "Baking soda served as a natural toothpaste alternative, gently whitening teeth and freshening breath.",
+                "You don't need to buy soda for the party.",
+                "Baking soda sprinkled on a damp cloth effectively removed coffee and tea stains from cups and mugs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29kYQ&hash=a4a8c59a6695500972b7a3402be10537f9cb36ca&lang=en&cache-only=0",
+            "defineEn": "a sweet fizzy drink that is not alcoholic",
+            "defineVi": "một thức uống có ga ngọt không cồn",
+            "hasImg": true
+        },
+        {
+            "id": "1a81c702-74d9-48dd-ace5-2cd8a5174aee",
+            "word": "lemonade",
+            "phonetic": "lɛməneɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boysenberry-infused lemonade was a crowd-pleaser at the summer picnic.",
+                "Make lemonade jelly by dissolving agar-agar in lemon juice and sweetened water.",
+                "The little boy ate biscuits and drank lemonade until he was as full as a tick.",
+                "My husband is making a refreshing blueberry lemonade to beat the summer heat.",
+                "A refreshing glass of greengage lemonade is the perfect way to beat the summer heat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVtb25hZGU&hash=5571c920b425daaa104455e9fef9a94301d6afae&lang=en&cache-only=0",
+            "defineEn": "a drink made with water, sugar, and lemon juice",
+            "defineVi": "một thức uống làm bằng nước, đường và nước cốt chanh",
+            "hasImg": true
+        },
+        {
+            "id": "3a2e34ee-c2d7-41fe-8e35-25edad7cd993",
+            "word": "cola",
+            "phonetic": "koʊlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And we're shipping more cola.",
+                "This guy is going to ship 50 cola cans to China.",
+                "Companies like Coca-Cola, Delta, Home Depot and UBS offered mostly broad statements supporting their insecure elections and voting rights.",
+                "With globalization came American brands like Coca-Cola, McDonald's, Pizza Hut and Domino's.",
+                "They've also landed endorsement deals and partnerships with brands like Coca-Cola, Hyundai, and Puma."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sYQ&hash=4bb0d16907fb6aef128fada74d9b6c03b8c13e61&lang=en&cache-only=0",
+            "defineEn": "a brown and sweet drink with gas and no alcohol in it",
+            "defineVi": "một thức uống màu nâu và ngọt có ga và không có cồn trong đó",
+            "hasImg": true
+        },
+        {
+            "id": "c0dfe0f5-7b46-47bf-b0a5-347fd554b9aa",
+            "word": "ginger ale",
+            "phonetic": "dʒɪndʒɚɹ eɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No, but Ginger ale has a very specific flavor to me.",
+                "I said Ginger ale, Diet Mountain Dew, and Cherry Coke.",
+                "To me Ginger ale was just a tasteless addition.",
+                "We both went real hard on Ginger ale.",
+                "All right, so I said Ginger ale, Diet Mountain Dew-- I definitely could taste the Mountain Dew."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2luZ2VyIGFsZQ&hash=9772119b5a1df4edf6bfbc77de7030bd10578d4b&lang=en&cache-only=0",
+            "defineEn": "a clear sparkling non-alcoholic drink with ginger flavor, usually mixed with alcoholic drinks",
+            "defineVi": "một loại đồ uống không cồn có ga trong suốt với hương vị gừng, thường được pha với đồ uống có cồn",
+            "hasImg": true
+        },
+        {
+            "id": "be35a8c1-b04e-4137-a679-6f7f4177b472",
+            "word": "barley water",
+            "phonetic": "bɑːɹli wɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFybGV5IHdhdGVy&hash=9f404e12ba06273bf1cd086d77ab77deecec3a37&lang=en&cache-only=0",
+            "defineEn": "a drink made by leaving barely in boiling water, usually with orange or lemon flavor",
+            "defineVi": "một thức uống được làm bằng cách hầu như không để lại trong nước sôi, thường có hương vị cam hoặc chanh",
+            "hasImg": true
+        },
+        {
+            "id": "a9978d3b-213f-4df7-bfc6-a013f00f0329",
+            "word": "kefir",
+            "phonetic": "kiːfɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can use kefir as a substitute for buttermilk in baking recipes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2VmaXI&hash=8f2c0d2b744a6a03f4865aa4c0523239214a43fa&lang=en&cache-only=0",
+            "defineEn": "a fermented dairy drink with probiotic properties, made from milk and kefir grains, used for drinking or cooking",
+            "defineVi": "một thức uống sữa lên men có đặc tính sinh học, được làm từ sữa và hạt kefir, được sử dụng để uống hoặc nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "7476ffc9-ef32-454d-b04c-eb46589aec09",
+            "word": "cold brew",
+            "phonetic": "koʊld bɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29sZCBicmV3&hash=d8b19e3470e92b613ba2478ae1b453c40f932953&lang=en&cache-only=0",
+            "defineEn": "a type of coffee that is steeped in cold water for an extended period of time, typically 12-24 hours",
+            "defineVi": "một loại cà phê được ngâm trong nước lạnh trong một thời gian dài, thường là 12-24 giờ"
+        },
+        {
+            "id": "aeea35a8-2d4e-4078-b8f0-e28813e0c4a0",
+            "word": "frappuccino",
+            "phonetic": "fɹæpuːtʃiːnoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Local media reported that some people even waited overnight for their Frappuccino fix.",
+                "The high-density plastics we use to make consumables (think water bottles, straws, and Frappuccino cups) are broken down by sun, waves, and curious critters until what’s left is less like garbage rafts and more like tiny bits of confetti, floating in soup.",
+                "By faking it, just for a frappuccino and some french fries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJhcHB1Y2Npbm8&hash=8bee009ff2f726e8e8af57e17c16aa8f3b82568e&lang=en&cache-only=0",
+            "defineEn": "a blended coffee-based beverage made with ice, milk, and flavored syrup, often topped with whipped cream",
+            "defineVi": "một loại đồ uống pha trộn từ cà phê được làm từ đá, sữa và xi-rô có hương vị, thường phủ kem tươi"
+        },
+        {
+            "id": "639d2ebc-e7bc-4d83-a940-b8c07601e1a9",
+            "word": "ade",
+            "phonetic": "ɐdɛ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRl&hash=9718693c83e0a31108757387c7a8c45cf9679832&lang=en&cache-only=0",
+            "defineEn": "a sweet, refreshing beverage made by combining fruit juice with sugar and water",
+            "defineVi": "một loại đồ uống ngọt, sảng khoái được làm bằng cách kết hợp nước ép trái cây với đường và nước"
+        },
+        {
+            "id": "7b6ed98d-f2dc-4975-bb33-e0bd9580bee6",
+            "word": "fruit juice",
+            "phonetic": "fɹuːt dʒuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXQganVpY2U&hash=af58c1396630657dcbafe121139ea3147f6d0ec8&lang=en&cache-only=0",
+            "defineEn": "a drink that is made by extracting the liquid that exists inside of fruits",
+            "defineVi": "một thức uống được làm bằng cách chiết xuất chất lỏng tồn tại bên trong trái cây",
+            "hasImg": true
+        },
+        {
+            "id": "f37de893-7473-4c33-819e-41808010be78",
+            "word": "club soda",
+            "phonetic": "klʌb soʊdə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2x1YiBzb2Rh&hash=65d20d5f1f0e23d407035d21b4bc538c10752ec9&lang=en&cache-only=0",
+            "defineEn": "a carbonated water that contains added minerals such as sodium bicarbonate, sodium chloride, and potassium sulfate, giving it a slightly salty taste",
+            "defineVi": "nước có ga có chứa các khoáng chất bổ sung như natri bicacbonat, natri clorua và kali sunfat, tạo cho nước có vị hơi mặn"
+        },
+        {
+            "id": "9dbb6f33-6101-4f5e-af29-4d729f3675fc",
+            "word": "limeade",
+            "phonetic": "laɪmeɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGltZWFkZQ&hash=316c970ed65325ff09a90fb7907bf81ed675b1b2&lang=en&cache-only=0",
+            "defineEn": "a sweetened sparkling drink with lime flavor",
+            "defineVi": "một thức uống lấp lánh ngọt ngào với hương vị chanh",
+            "hasImg": true
+        },
+        {
+            "id": "26783c32-87ba-4449-8391-0d0c5faebb8b",
+            "word": "fizz",
+            "phonetic": "fɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That creates a low-pressure zone that pulls dissolved gases out of the synovial fluid, just like the carbon dioxide that fizzes out of soda when you twist open the cap.",
+                "That fizzing you see?",
+                "And it’ll also make your cells fizz, because your cells also have catalase in them.",
+                "prospero101 asks, \"Why does root beer fizz so much more than other sodas?\"",
+                "(making fizzing sound) - Morale is a huge thing on the boat at all times."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zml6eg&hash=1a27f6a828c3a036583123cc55ba420c567af0e2&lang=en&cache-only=0",
+            "defineEn": "a carbonated drink that is similar to soda, often flavored with fruit juices or extracts, and often served over ice",
+            "defineVi": "một loại đồ uống có ga tương tự như soda, thường có hương vị của nước ép trái cây hoặc chất chiết xuất và thường được phục vụ trên đá"
+        },
+        {
+            "id": "ce1aee52-d568-4f90-af33-b526184cb7b4",
+            "word": "mixer",
+            "phonetic": "mɪksɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Go for a mixer.",
+                "One of the best KitchenAid stand mixer deals we ever saw.",
+                "To start the phyllo dough, Giorgos just three ingredients into a large mixer: flour, water, and salt.",
+                "That means that our electric mixer needs power.",
+                "I'm gonna get an electric mixer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWl4ZXI&hash=66d6b7fb4996923afd3a24c4daa126ddd7f59364&lang=en&cache-only=0",
+            "defineEn": "a non-alcoholic drink which can be mixed with alcohol",
+            "defineVi": "một thức uống không cồn có thể được trộn với rượu"
+        },
+        {
+            "id": "2fb3d4c2-7adc-4ab6-84fb-e1799c3dfc82",
+            "word": "tonic",
+            "phonetic": "tɑːnɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That’s the tonic.",
+                "It was a tonic. ",
+                "But most scientists call it tonic immobility, or TI.",
+                "But having their president there to thank them was a tonic.",
+                "Kelly Hopping: Traditionally it was used as a general tonic for immune support."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9uaWM&hash=3e0472c997b12eae0f329ea3557d12a296bea5da&lang=en&cache-only=0",
+            "defineEn": "a type of fizzy water that can be mixed with other drinks such as gin or vodka",
+            "defineVi": "một loại nước có ga có thể được trộn với các loại đồ uống khác như rượu gin hoặc rượu vodka",
+            "hasImg": true
+        },
+        {
+            "id": "0666a7a1-fbf4-4bfe-b92f-60f4324b5608",
+            "word": "smash",
+            "phonetic": "smæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In 1994, fragments of the comet Shoemaker-Levy 9 smashed into Jupiter.",
+                "Smash that like button!",
+                "A smashed dish lies on the floor.",
+                "I will smash your face to powder.",
+                "They were smashing cars in the streets. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21hc2g&hash=bc25f01472b4f39028708c58d0790d891f7c0321&lang=en&cache-only=0",
+            "defineEn": "a drink made by muddling or smashing ingredients together to release their flavors and create a refreshing beverage",
+            "defineVi": "một thức uống được làm bằng cách trộn hoặc đập các nguyên liệu lại với nhau để giải phóng hương vị của chúng và tạo ra một loại đồ uống giải khát"
+        },
+        {
+            "id": "7ad6cd35-f113-40e3-bda2-d37aaa4f4881",
+            "word": "Bovril",
+            "phonetic": "bɑːvɹəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Qm92cmls&hash=f93d86193a563e551ee8f6cacf908b8b8a0ca2c9&lang=en&cache-only=0",
+            "defineEn": "a type of dark substance made from beef, used in making drinks or cooking",
+            "defineVi": "một loại chất sẫm màu làm từ thịt bò, được sử dụng trong pha chế đồ uống hoặc nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "3b98de19-0874-436a-9b19-7d509e677618",
+            "word": "buttermilk",
+            "phonetic": "bʌɾɚmɪlk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He combined all-purpose flour with buttermilk and eggs to make a fluffy pancake batter for breakfast.",
+                "Adding buttermilk to mashed potatoes gives them a tangy and creamy flavor.",
+                "You can use kefir as a substitute for buttermilk in baking recipes.",
+                "He recommended using buttermilk in my pancake batter to achieve a light and fluffy texture.",
+                "I mean, any number of things, like a buttermilk dressing, toasted pecans or walnuts, or something."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVybWlsaw&hash=5b9037384fd80087166901ed408e1c704bd7e404&lang=en&cache-only=0",
+            "defineEn": "the liquid left after butter has been produced, which can be drunk or used in cooking",
+            "defineVi": "chất lỏng còn lại sau khi sản xuất bơ, có thể uống hoặc dùng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "0d6321b9-69db-4fca-a507-3e5258b54a19",
+            "word": "Coca-Cola",
+            "phonetic": "koʊkəkoʊlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Coca-Cola is a famous American soft drink.",
+                "Coca-Cola is a household name that is recognized around the world.",
+                "he exact ingredients of Coca-Cola are a trade secret.",
+                "But Coca-Cola drove this image home.",
+                "Coca-Cola launched this ad celebrating Fanta's 75th anniversary in 2015."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Q29jYS1Db2xh&hash=215ec117084d00f30b3c7c8ceaf5fd60816ec23a&lang=en&cache-only=0",
+            "defineEn": "the brand of a sweet and brown drink that has bubbles in it",
+            "defineVi": "nhãn hiệu đồ uống ngọt và nâu có bong bóng trong đó",
+            "hasImg": true
+        },
+        {
+            "id": "66a401f0-5746-4f69-b167-be8da9a3bafe",
+            "word": "cream soda",
+            "phonetic": "kɹiːm soʊdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This one says cream soda on it.",
+                "I went with Dr Pepper, almost went with Grape Soda, but I changed it out for Cream Soda and Squirt."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYW0gc29kYQ&hash=c05fc44eed731096e3591af85305083bb4c2e2a8&lang=en&cache-only=0",
+            "defineEn": "a sweet sparkling drink with vanilla flavor",
+            "defineVi": "một thức uống lấp lánh ngọt ngào với hương vị vani"
+        },
+        {
+            "id": "ad517e07-2372-4601-a79f-e7854ba10e6e",
+            "word": "Horlicks",
+            "phonetic": "hoːɹlɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=SG9ybGlja3M&hash=caa8150d121b2e9cbbc9b93e97fd8752bbd34e63&lang=en&cache-only=0",
+            "defineEn": "a sweet drink made with malted milk powder and hot milk",
+            "defineVi": "một thức uống ngọt làm từ sữa bột mạch nha và sữa nóng"
+        },
+        {
+            "id": "95cda28f-b1cf-423d-b00b-d3cd33a0e323",
+            "word": "orangeade",
+            "phonetic": "ɔɹɪndʒiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3JhbmdlYWRl&hash=901cd9e94e5fe6c14109cc17e0c9c872190eecef&lang=en&cache-only=0",
+            "defineEn": "a sweetened drink with orange flavor that in the UK it is carbonated but in the US it is consumed both with and without bubbles",
+            "defineVi": "một loại đồ uống ngọt có hương vị cam ở Anh, nó có ga nhưng ở Mỹ, nó được tiêu thụ cả có và không có bong bóng",
+            "hasImg": true
+        },
+        {
+            "id": "ba773cd1-9346-402d-861d-08aa90eb716b",
+            "word": "orange squash",
+            "phonetic": "ɔɹɪndʒ skwɑːʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3JhbmdlIHNxdWFzaA&hash=0a584762d82016b6b1150e1feb758527fcb7df7a&lang=en&cache-only=0",
+            "defineEn": "a thick sweetened drink made with orange juice and water",
+            "defineVi": "một thức uống ngọt đặc làm từ nước cam và nước",
+            "hasImg": true
+        },
+        {
+            "id": "4d8ca6ff-2807-42e9-8e18-ce152232de39",
+            "word": "sarsaparilla",
+            "phonetic": "sɑːɹsɐpɐɹɪlə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Common name is sarsaparilla tea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Fyc2FwYXJpbGxh&hash=7fef9ea4f634d3b63ae17e2aa45c512a7ad1b737&lang=en&cache-only=0",
+            "defineEn": "a fizzy drink with sarsaparilla flavor",
+            "defineVi": "một thức uống có ga với hương vị sarsaparilla",
+            "hasImg": true
+        }
+    ]
+}

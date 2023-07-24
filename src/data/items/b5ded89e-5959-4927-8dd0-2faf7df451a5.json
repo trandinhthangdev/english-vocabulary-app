@@ -1,0 +1,738 @@
+{
+    "id": "b5ded89e-5959-4927-8dd0-2faf7df451a5",
+    "title": "Lesson 6B",
+    "originalTitle": "Lesson 6B",
+    "words": [
+        {
+            "id": "8230980d-72bf-4172-ac35-07ad29ad2039",
+            "word": "tall",
+            "phonetic": "tɔːl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The tall building stands out among the other structures in the city.",
+                "The tall oak tree provided shade on a hot summer day.",
+                "The tall Texan ruffled some English feathers with his remarks.",
+                "After dinner she told me a tall tale about her pet.",
+                "To grow bigger/taller/older."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFsbA&hash=67ad474c0ed4441a0b3577da1645c311beb71679&lang=en&cache-only=0",
+            "defineEn": "(of a person or thing) having a height that is greater than what is thought to be the average height",
+            "defineVi": "(của một người hoặc vật) có chiều cao lớn hơn chiều cao được cho là trung bình",
+            "hasImg": true
+        },
+        {
+            "id": "dbd1325a-548d-47bf-9fb2-cdc6bb553c8f",
+            "word": "short",
+            "phonetic": "ʃɔːɹt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Short hair really becomes you.",
+                "The boss has a short fuse these days!",
+                "She made short work of her opponents.",
+                "We fell short of our goal in the competition.",
+                "As they say, short reckonings make long friends."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQ&hash=e11f4f3e15db8d39cc415db16e4047b2b9cf0ae0&lang=en&cache-only=0",
+            "defineEn": "(of a person) small in height; not tall",
+            "defineVi": "(của một người) nhỏ về chiều cao; không cao",
+            "hasImg": true
+        },
+        {
+            "id": "4a2b3146-cd11-4d53-ad70-5d860341eb06",
+            "word": "thin",
+            "phonetic": "θɪn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The carpet has worn thin in places.",
+                "She includes thin slices of celery in her diet.",
+                "Her husband disappeared into thin air for years.",
+                "They built the cell phone industry out of thin air in the mid-1980s.",
+                "She layered thin slices of prosciutto between crusty bread, fresh mozzarella, and sun-dried tomatoes for a gourmet panini."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhpbg&hash=a17218e7e376f108bf255494e16e1b10bf072ff0&lang=en&cache-only=0",
+            "defineEn": "(of people or animals) weighing less than what is thought to be healthy for their body",
+            "defineVi": "(của người hoặc động vật) cân nặng thấp hơn những gì được cho là lành mạnh cho cơ thể của họ",
+            "hasImg": true
+        },
+        {
+            "id": "f6ad6779-9896-4db4-b2f4-eda06f7e2f6c",
+            "word": "overweight",
+            "phonetic": "oʊvɚweɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "People who are overweight run a risk of a heart attack or stroke.",
+                "When he was overweight he used to spread a dollop of mayonnaise on his sandwiches.",
+                "The marathon runner was surprised to learn that his friend, who had always been overweight and inactive, had outlived many of their healthier peers, proving that a creaking door hangs longest.",
+                "For example, a transplant from an overweight donor cured a woman's diarrhea, but contributed to her obesity down the line.",
+                "One study, for example, found that overweight people lost an average of 15 pounds in the first month."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3ZlcndlaWdodA&hash=011316bd45cb03076ce39513771c8beef0bf15a2&lang=en&cache-only=0",
+            "defineEn": "weighing too much or more than what is desired or expected",
+            "defineVi": "cân quá nhiều hoặc nhiều hơn những gì mong muốn hoặc mong đợi",
+            "hasImg": true
+        },
+        {
+            "id": "0ec81ba1-9479-489d-9917-7e4e8ff2a568",
+            "word": "slim",
+            "phonetic": "slɪm ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Women wore slim dresses that came all the way to their shoes.",
+                "It otherwise looks very slim.",
+                "It's a slim wallet.",
+                "Like, that is a slim keyboard.",
+                "There’s a slim margin of time when Hedge can access the paintings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xpbQ&hash=624fe6dc16269f37bc13959dbf58b9a18887d1a5&lang=en&cache-only=0",
+            "defineEn": "thin, in an attractive way",
+            "defineVi": "mỏng, một cách hấp dẫn",
+            "hasImg": true
+        },
+        {
+            "id": "028d41c3-ce75-49f5-9b30-c638c0c0e486",
+            "word": "straight",
+            "phonetic": "stɹeɪt ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "She guessed the answer straight away.",
+                "The guard stood straight as a ramrod.",
+                "They clicked straight away.",
+                "He gives it to you straight.",
+                "Sometimes he spoke straight from the shoulder and sometimes in puzzles"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RyYWlnaHQ&hash=ea6523258864f606306b0de969acadf71f11e4e6&lang=en&cache-only=0",
+            "defineEn": "in a manner that is not curved",
+            "defineVi": "theo cách không cong",
+            "hasImg": true
+        },
+        {
+            "id": "b531d7d1-d20c-4781-9cdd-7482843aa554",
+            "word": "curly",
+            "phonetic": "kɜːli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He had long, curly eyelashes that framed his eyes.",
+                "His hair is curly and brown.",
+                "The version of the gene here is allele curly.",
+                "Little Doris has curly hair now, and I don't anymore.",
+                "So she has the gene right there for curly hair."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VybHk&hash=a4f52768bb0669b8644f53596532689265778d63&lang=en&cache-only=0",
+            "defineEn": "(of hair) having a lot of curls or waves",
+            "defineVi": "(tóc) có nhiều lọn hoặc gợn sóng",
+            "hasImg": true
+        },
+        {
+            "id": "7ef87e9b-4e72-47b8-b825-9bf9597152f3",
+            "word": "bald",
+            "phonetic": "bɔːld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He's as bald as a eagle.",
+                "At his young age, he became bald as an eagle.",
+                "Now he has become bald as a coot, with a shiny scalp that catches the sunlight.",
+                "Now he's as bald as a cue ball, and he rocks the look with confidence.",
+                "After trying various treatments and remedies for his thinning hair, Richard finally embraced his fate and now proudly embraces being as bald as a coot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFsZA&hash=2595b2b46b101172ebdb96fff3d9bc1d3bbe05d6&lang=en&cache-only=0",
+            "defineEn": "having little or no hair on the head",
+            "defineVi": "có ít hoặc không có tóc trên đầu",
+            "hasImg": true
+        },
+        {
+            "id": "b3d17898-e8c2-46e2-8584-3cda649b3fc9",
+            "word": "beard",
+            "phonetic": "bɪɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "he shaved his beard off.",
+                "Someone just bearded him in his den.",
+                "Today I walked straight into his office and bearded the lion in his den.",
+                "I will play Juliet, as soon as I shave my beard.",
+                "He had a beard that covered most of his face."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhcmQ&hash=2039b97428be71c71825f0c455299ce2c3482789&lang=en&cache-only=0",
+            "defineEn": "the hair that grow on the chin and sides of a man’s face",
+            "defineVi": "tóc mọc trên cằm và hai bên mặt của một người đàn ông",
+            "hasImg": true
+        },
+        {
+            "id": "17b155ce-c889-4fbc-a514-066ccdc6f304",
+            "word": "arm",
+            "phonetic": "ɑːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Both teams chanced their arms at every opportunity.",
+                "His arms dropped limply to his sides.",
+                "He moved his arm away from his face.",
+                "The mother gently cradled her newborn baby in her arms.",
+                "The proud uncle held his newborn nephew in his arms."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJt&hash=06f559c6a0ca6d672f59aca0a725c4f41d0c69fa&lang=en&cache-only=0",
+            "defineEn": "one of the two body parts that is connected to the shoulder and ends with fingers",
+            "defineVi": "một trong hai bộ phận cơ thể được nối với vai và kết thúc bằng ngón tay",
+            "hasImg": true
+        },
+        {
+            "id": "d19aacdc-778c-4e05-80c4-c9350887b69f",
+            "word": "back",
+            "phonetic": "bæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Election season always puts my dad's back up.",
+                "Dr. Jaffe pinned her ears back.",
+                "Right, pin back your ears, everyone.",
+                "I ran the tape back.",
+                "The enemy was driven back."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFjaw&hash=0a3bf8b888d830c8a6453e18f6de47c30d466fbb&lang=en&cache-only=0",
+            "defineEn": "the part of our body between our neck and our legs that we cannot see",
+            "defineVi": "phần cơ thể giữa cổ và chân mà chúng ta không thể nhìn thấy",
+            "hasImg": true
+        },
+        {
+            "id": "19018a4a-006e-4e0c-b04a-23c351d52255",
+            "word": "chin",
+            "phonetic": "tʃɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gently rested his chin on her shoulder.",
+                "The company took it on the chin as a symbol of the system in the Sixties.",
+                "She wore a chin strap to protect her jaw during sports activities.",
+                "She rested her chin on her hand, listening attentively to the conversation.",
+                "He scratched his chin, trying to recall the answer to the question."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbg&hash=174d607a349e5e6cfaf3af557823197aef33aec1&lang=en&cache-only=0",
+            "defineEn": "the lowest part of our face that is below our mouth",
+            "defineVi": "phần thấp nhất của khuôn mặt của chúng tôi là dưới miệng của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "e96fb83c-9edd-43c5-9ec5-2359daca0821",
+            "word": "ear",
+            "phonetic": "ɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mother gently cleaned her baby's ears with a cotton swab.",
+                "Her advice fell on deaf ears.",
+                "Her pleas for mercy fell on deaf ears.",
+                "Dr. Jaffe pinned her ears back.",
+                "The factory owners turned a deaf ear to the demands of the workers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFy&hash=a7e8b7c6e05285e6e7e890856e9888b01b6b79cd&lang=en&cache-only=0",
+            "defineEn": "each of the two body parts that we use for hearing",
+            "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mà chúng ta sử dụng để nghe",
+            "hasImg": true
+        },
+        {
+            "id": "53ce84e4-cbe4-43cf-8bdb-1f63bff3cfa1",
+            "word": "eye",
+            "phonetic": "aɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father has brown eyes.",
+                "The woman has eyes like a hawk!",
+                "A vase on a side table caught his eye.",
+                "The actor's intense bedroom eyes added an extra layer of allure to his performance.",
+                "The intense gaze from across the room, eyes on stalks, left no doubt about his attraction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXll&hash=f6db2d27d3e734403e211643841eb4f89c653156&lang=en&cache-only=0",
+            "defineEn": "a body part on our face that we have two of and use for seeing",
+            "defineVi": "một bộ phận cơ thể trên khuôn mặt của chúng ta mà chúng ta có hai và sử dụng để nhìn",
+            "hasImg": true
+        },
+        {
+            "id": "6d1b6b65-d3b4-4782-9fcf-ee843f5d248e",
+            "word": "face",
+            "phonetic": "feɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sunflower turned its face towards the sun.",
+                "His face wore a puzzled look.",
+                "Two faces appeared at our window.",
+                "After the surgery, his face was as white as a sheet.",
+                "After the car accident, her face was as white as a ghost."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFjZQ&hash=f7595e52373dd3b4089ceb5fb45e0ae7c01b59d3&lang=en&cache-only=0",
+            "defineEn": "the front part of our head, that is the place our eyes, lips, and nose are",
+            "defineVi": "phần trước của đầu chúng ta, đó là nơi có mắt, môi và mũi",
+            "hasImg": true
+        },
+        {
+            "id": "9185b978-edb8-4fc9-8f78-b8475d5e7ed0",
+            "word": "foot",
+            "phonetic": "fʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His parents footed the bill for his college education.",
+                "Not working my foot.",
+                "My father always had a lead foot.",
+                "Who will be footing the bill for the party?",
+                "I dipped my feet in the cool water of the river."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9vdA&hash=6d4f821157047db8b722f5225d10d1294600c49f&lang=en&cache-only=0",
+            "defineEn": "the body part that is at the end of our leg and we stand and walk on",
+            "defineVi": "phần cơ thể ở cuối chân của chúng ta và chúng ta đứng và đi",
+            "hasImg": true
+        },
+        {
+            "id": "84316314-c6ba-4418-8996-f8b0bedf8fb0",
+            "word": "finger",
+            "phonetic": "fɪŋɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fingers crossed!",
+                "A successful investor has his finger on the pulse of international business.",
+                "she has her fingers in a lot of pies.",
+                "She ran her fingers nervously through her hair.",
+                "The musician's fingers lightly touched the piano keys, creating a beautiful melody."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmluZ2Vy&hash=d29cd5dcbbb461f2929c916ba81dd84d2385b54d&lang=en&cache-only=0",
+            "defineEn": "each of the long thin parts that are connected to our hands, sometimes the thumb is not included",
+            "defineVi": "mỗi phần dài mỏng được nối với bàn tay của chúng tôi, đôi khi không bao gồm ngón tay cái",
+            "hasImg": true
+        },
+        {
+            "id": "cffd05c4-f1bc-4150-817f-f273be97df2d",
+            "word": "hand",
+            "phonetic": "hænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Canadian team handed the game to them on a silver plate.",
+                "The girl held her father's hand tightly.",
+                "She handed me a clean plate for dessert.",
+                "The police had the situation well in hand.",
+                "The prisoner held his head in his hands."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFuZA&hash=42372c981f552b4e6ec5da776f5b1bee27c6c04e&lang=en&cache-only=0",
+            "defineEn": "the part of our body that is at the end of our arm and we use to grab, move, or feel things",
+            "defineVi": "phần cơ thể nằm ở cuối cánh tay và chúng ta dùng để nắm lấy, di chuyển hoặc cảm nhận đồ vật",
+            "hasImg": true
+        },
+        {
+            "id": "e673a995-b045-4129-be23-f022718eb9fc",
+            "word": "head",
+            "phonetic": "hɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The baby cried its head off.",
+                "The prisoner held his head in his hands.",
+                "Heads are rolling all over the place.",
+                "Hold your head up.",
+                "Watch your head on the low ceiling."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhZA&hash=2abd8cb012e51c7b2b53b59f69b72bf289920647&lang=en&cache-only=0",
+            "defineEn": "the top part of our body, where our brain and face are located",
+            "defineVi": "phần trên cùng của cơ thể chúng ta, nơi đặt bộ não và khuôn mặt của chúng ta",
+            "hasImg": true
+        },
+        {
+            "id": "c08df117-b576-48e3-8114-6be31b15c3d6",
+            "word": "knee",
+            "phonetic": "niː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The company was on its knees.",
+                "She's the bee's knees.",
+                "I must have hit my knee.",
+                "The weight of the world pushed him to his knees.",
+                "He performed knee exercises to strengthen the muscles around the joint."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a25lZQ&hash=2d46c9f74da84a871ab175f4deb3cd5f27adfa25&lang=en&cache-only=0",
+            "defineEn": "the body part that is in the middle of the leg and helps it bend",
+            "defineVi": "phần cơ thể ở giữa chân và giúp nó uốn cong",
+            "hasImg": true
+        },
+        {
+            "id": "24ebaf4a-2abc-4b35-9381-1f49cb511615",
+            "word": "leg",
+            "phonetic": "lɛɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The business has legs.",
+                "The street vendor served flavorful turkey legs.",
+                "At a lively seafood restaurant, guests relished succulent crab legs.",
+                "She lost a leg in a car crash.",
+                "College tuitions cost an arm and leg nowadays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVn&hash=5f8f04ff0cf2f7301b58813e1b162bc9a90143e0&lang=en&cache-only=0",
+            "defineEn": "each of the two long body parts that we use when we walk",
+            "defineVi": "mỗi trong số hai bộ phận cơ thể dài mà chúng ta sử dụng khi đi bộ",
+            "hasImg": true
+        },
+        {
+            "id": "f94978d5-90d6-4f70-b2bd-174a7a55547c",
+            "word": "lip",
+            "phonetic": "lɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Rumors never passed her lips.",
+                "Not a drop of liquor has passed my lips.",
+                "Read my lips.",
+                "Read my lips.",
+                "My lips are sealed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlw&hash=fa1cbd7d95b7698a4cfbaa75f2f0e9eaf872e010&lang=en&cache-only=0",
+            "defineEn": "each of the two body parts that are soft and surround our mouth",
+            "defineVi": "mỗi bộ phận trong số hai bộ phận cơ thể mềm và bao quanh miệng của chúng ta",
+            "hasImg": true
+        },
+        {
+            "id": "e74028a2-7801-444b-8606-54c3f068e014",
+            "word": "mouth",
+            "phonetic": "maʊθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Watch your mouth!",
+                "My mouth felt completely dry.",
+                "The spicy beef jerky left a smoky aftertaste in my mouth.",
+                "The smell of the burgers on the grill made Jake's mouth water.",
+                "People held handkerchiefs over their mouths."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91dGg&hash=333caa91abe8c94fb4aeef40d7f27cd058122979&lang=en&cache-only=0",
+            "defineEn": "our body part that we use for eating, speaking, or breathing",
+            "defineVi": "bộ phận cơ thể của chúng ta mà chúng ta sử dụng để ăn, nói hoặc thở",
+            "hasImg": true
+        },
+        {
+            "id": "e7be2a82-5bc6-44cc-a492-bc87accb2216",
+            "word": "neck",
+            "phonetic": "nɛk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The doctor examined her neck for any signs of injury.",
+                "His parents are always breathing down his neck.",
+                "My debts are a millstone round my neck.",
+                "The bullet got him in the neck.",
+                "She wore a necklace around her neck."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVjaw&hash=9de013395b3339c27a4c2a894134f0c10d0c1667&lang=en&cache-only=0",
+            "defineEn": "the body part that is connecting the head to the shoulders",
+            "defineVi": "phần cơ thể nối đầu với vai",
+            "hasImg": true
+        },
+        {
+            "id": "67ce745a-194d-445f-b35d-0cd2ecfc71dd",
+            "word": "nose",
+            "phonetic": "noʊz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It really gets up my nose.",
+                "She wrinkled her nose at the taste of broccoli.",
+                "She wrinkled her nose at the strong smell.",
+                "He had a nose for trouble and a brilliant tactical mind.",
+                "She has a good nose for a bargain."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9zZQ&hash=65e4d6c128026d14e1d23b5b45ffe40507c0f09e&lang=en&cache-only=0",
+            "defineEn": "the body part that is in the middle of our face and we use to smell and breathe",
+            "defineVi": "phần cơ thể ở giữa khuôn mặt của chúng tôi và chúng tôi sử dụng để ngửi và thở",
+            "hasImg": true
+        },
+        {
+            "id": "4f522407-b491-4872-b491-71120392313f",
+            "word": "shoulder",
+            "phonetic": "ʃoʊldɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That hot guy had a good head on his shoulders.",
+                "The jacket sat beautifully on her shoulders.",
+                "He gently rested his chin on her shoulder.",
+                "He received a cold shoulder from his former friends after the argument.",
+                "She gave a shrug of her shoulders."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvdWxkZXI&hash=aa6c794c911628c3d4b3f9c5d63eca18f0f0f4f5&lang=en&cache-only=0",
+            "defineEn": "each of the two parts of the body between the top of the arms and the neck",
+            "defineVi": "mỗi bộ phận trong số hai bộ phận của cơ thể giữa đầu cánh tay và cổ",
+            "hasImg": true
+        },
+        {
+            "id": "a2e67438-a56e-4272-bb38-d5a45fd9cb84",
+            "word": "stomach",
+            "phonetic": "stʌmək ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The new soldiers had no stomach for a fight.",
+                "You must have a cast-iron stomach.",
+                "She felt a wave of nausea in her stomach during the car ride.",
+                "Do you get butterflies in your stomach when you have to talk to lots of people?",
+                "You must have a cast-iron stomach if you're eating pickles with peanut butter!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvbWFjaA&hash=3c26c90dc3cd981fc5b6bb4b0a52c40cbacd467e&lang=en&cache-only=0",
+            "defineEn": "the body part inside our body where the food that we eat goes",
+            "defineVi": "phần cơ thể bên trong cơ thể chúng ta, nơi thức ăn chúng ta ăn đi",
+            "hasImg": true
+        },
+        {
+            "id": "c00c43a8-6019-4b2f-81cc-576778c80b63",
+            "word": "tooth",
+            "phonetic": "tuːθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That DJ's voice really sets my teeth on edge.",
+                "He sank his teeth into an apple.",
+                "He gritted his teeth in anger.",
+                "Their teeth are sharp enough to break the skin.",
+                "Their teeth are sharp enough to break the skin."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9vdGg&hash=76542508bbfcfa92bc0a9f4cd92e4d8fad57cd1d&lang=en&cache-only=0",
+            "defineEn": "one of the things in our mouth that are hard and white and we use to chew and bite food with",
+            "defineVi": "một trong những thứ cứng và trắng trong miệng của chúng ta và chúng ta dùng để nhai và cắn thức ăn bằng",
+            "hasImg": true
+        },
+        {
+            "id": "608c0dd5-1080-4be1-9eba-e3981a686ec5",
+            "word": "thumb",
+            "phonetic": "θʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So it's the thumbs up for Brighton's latest nightclub.",
+                "He was very much under the thumb of his father.",
+                "In Japan a European stands out like a sore thumb.",
+                "I'm all thumbs when it comes to making bows.",
+                "They hope the audience will give a thumbs up to the TV series."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGh1bWI&hash=57a57c30013fb454cd17d45bdd460bf1e145fa47&lang=en&cache-only=0",
+            "defineEn": "the thick finger that has a different position than the other four",
+            "defineVi": "ngón dày có vị trí khác với bốn ngón còn lại",
+            "hasImg": true
+        },
+        {
+            "id": "a2e30646-4bbd-4d85-85cb-f8bc9484f5ff",
+            "word": "toe",
+            "phonetic": "toʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cut and thrust of the business world keeps entrepreneurs on their toes.",
+                "The pair went toe to toe until the third set, when Azarenka squandered two match points.",
+                "They won't stand toe to toe with us.",
+                "The pair went toe to toe until the third set, when Azarenka squandered two match points.",
+                "I keep my students on their toes with pop quizzes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9l&hash=84283c28d064bf30360bbd0c5b57fe4e1eec9dcf&lang=en&cache-only=0",
+            "defineEn": "each of the five parts sticking out from the foot",
+            "defineVi": "mỗi trong số năm phần nhô ra từ bàn chân",
+            "hasImg": true
+        },
+        {
+            "id": "f6ad9309-d154-4f80-8cd7-0b79b4fe11aa",
+            "word": "tongue",
+            "phonetic": "tʌŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tongues were wagging over their engagement.",
+                "Tongues wagged when another police car was parked in front of their house.",
+                "Snakes use their tongues to smell their surroundings.",
+                "Mother clicked her tongue and sighed.",
+                "I'm just biting my tongue for now."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9uZ3Vl&hash=78f1614b1f8e52c84ba2bbc0818335433e4e8ba8&lang=en&cache-only=0",
+            "defineEn": "the soft movable part inside the mouth used for tasting something or speaking",
+            "defineVi": "phần mềm di động bên trong miệng được sử dụng để nếm một cái gì đó hoặc nói",
+            "hasImg": true
+        },
+        {
+            "id": "1f66d9be-db64-4408-9992-22104442bef5",
+            "word": "to bite",
+            "phonetic": "tə baɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "By the will of his wife, he bit the bullet.",
+                "The bite had scarcely broken the skin.",
+                "The bite had scarcely broken the skin.",
+                "The street vendor served crispy trotter bites with a tangy dipping sauce at the food market.",
+                "Never bite the hand that feeds you Carol."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
+            "defineEn": "to cut into flesh using the teeth",
+            "defineVi": "để cắt vào thịt bằng cách sử dụng răng",
+            "hasImg": true
+        },
+        {
+            "id": "5b721f88-01c0-47ac-bcd2-61fbe834da20",
+            "word": "to clap",
+            "phonetic": "tə klæp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The movie finished, and the audience clapped.",
+                "The baby giggled and clapped its hands in delight.",
+                "The queen claps her hands again.",
+                "People are clapping.",
+                "No-- No clap?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2xhcA&hash=970fc97b3578ff5dd0bd213e0e2d97af8acaf2ee&lang=en&cache-only=0",
+            "defineEn": "to hit one's palms against each other, making a loud noise",
+            "defineVi": "đập lòng bàn tay vào nhau, tạo ra tiếng động lớn",
+            "hasImg": true
+        },
+        {
+            "id": "52fbadf2-e7de-494c-820c-c5c5334b09b2",
+            "word": "to kick",
+            "phonetic": "tə kɪk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She kicked the soccer ball with her foot.",
+                "He threw those kicks at lightning speed!",
+                "That kick of yours could have easily made mincemeat of my face.",
+                "The spicy sausage and mushroom fusilli had a nice kick of flavor.",
+                "The previous administration kicked the can down the road on climate change, and now we're facing the consequences."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8ga2ljaw&hash=da42a81e8cfa492976b0039cc16337caa23849a8&lang=en&cache-only=0",
+            "defineEn": "to hit something or someone with the foot",
+            "defineVi": "để đánh một cái gì đó hoặc ai đó với bàn chân",
+            "hasImg": true
+        },
+        {
+            "id": "31e2dd46-0b26-4d7a-aa2c-1ac37a71b8ea",
+            "word": "to nod",
+            "phonetic": "tə nɑːd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The teacher nodded approvingly at the student's answer.",
+                "She nodded in agreement with his statement.",
+                "He nodded his head to acknowledge his friend's suggestion.",
+                "The audience nodded in understanding as the speaker explained the concept.",
+                "They nodded at every platitude about making sacrifices today for a better tomorrow."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbm9k&hash=a16ffabfc84a448ea10a440184727980838e8e5e&lang=en&cache-only=0",
+            "defineEn": "to move one's head up and down as a sign of agreement, understanding, or greeting",
+            "defineVi": "di chuyển đầu của một người lên xuống như một dấu hiệu của sự đồng ý, hiểu biết hoặc lời chào",
+            "hasImg": true
+        },
+        {
+            "id": "ae8eb800-5c6d-4e76-98a2-bdd0c47b2e93",
+            "word": "to point",
+            "phonetic": "tə pɔɪnt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The compass needle always points north.",
+                "The problem has now reached crisis point.",
+                "I take your point.",
+                "No point in spoiling the ship for a ha'porth of tar",
+                "The line cuts the circle at two points."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcG9pbnQ&hash=5f68b6af0cb61829d8c0200ae73cd4436c50967a&lang=en&cache-only=0",
+            "defineEn": "to show the place or direction of someone or something by holding out a finger or an object",
+            "defineVi": "để hiển thị địa điểm hoặc hướng của một ai đó hoặc một cái gì đó bằng cách đưa ra một ngón tay hoặc một đối tượng",
+            "hasImg": true
+        },
+        {
+            "id": "ef7f28db-a748-4877-9f70-cbebbfd66966",
+            "word": "to smell",
+            "phonetic": "tə smɛl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The paneer curry smells amazing!",
+                "We smelled the strong scent of coconut in the air.",
+                "The smell of the burgers on the grill made Jake's mouth water.",
+                "The kitchen was filled with the smell of garlic.",
+                "She wrinkled her nose at the strong smell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc21lbGw&hash=33f39580c3d0f4710d2be254cea673d8f015e37f&lang=en&cache-only=0",
+            "defineEn": "to perceive or recognize a particular scent",
+            "defineVi": "để cảm nhận hoặc nhận ra một mùi hương cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "94355bcf-11d7-4d13-963b-f0cacb47a495",
+            "word": "to smile",
+            "phonetic": "tə smaɪl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Both men wore confident smiles.",
+                "She smiled nervously.",
+                "She had a big smile on her face.",
+                "The old gentleman greeted everyone with a warm smile.",
+                "His wife smiled, recalling the old saying that a man is a lion in his own cause."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc21pbGU&hash=bcb6a766a28e3abee233d16f512f648e89fed5aa&lang=en&cache-only=0",
+            "defineEn": "to make our mouth curve upwards, often in a way that our teeth can be seen, to show that we are happy or amused",
+            "defineVi": "làm cho miệng của chúng ta cong lên, thường theo cách có thể nhìn thấy răng của chúng ta, để thể hiện rằng chúng ta đang vui vẻ hoặc thích thú",
+            "hasImg": true
+        },
+        {
+            "id": "a54cd56c-48b4-4e5e-8fdb-49299b920578",
+            "word": "to stare",
+            "phonetic": "tə stɛɹ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The solution was staring me in the face.",
+                "We are staring bankruptcy in the face.",
+                "Failure was staring him in the face.",
+                "A rise in interest rates is staring us in the face.",
+                "Some of my patients are actually staring death in the face."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RhcmU&hash=0272acc7df4002a56880f91a51bc24a9468dabaa&lang=en&cache-only=0",
+            "defineEn": "to look at someone or something without moving the eyes or blinking, usually devoid of any expression or for a long time",
+            "defineVi": "nhìn vào ai đó hoặc cái gì đó mà không di chuyển mắt hoặc chớp mắt, thường không có bất kỳ biểu hiện nào hoặc trong một thời gian dài",
+            "hasImg": true
+        },
+        {
+            "id": "1f6efaef-a7a8-4488-bc2e-347e25b60913",
+            "word": "to taste",
+            "phonetic": "tə teɪst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The chef tasted the sauce with a small spoon.",
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "The sauce would kill the taste of the herbs.",
+                "Too much garlic killed the taste of the meat.",
+                "The cake tasted so good that everyone wanted a second slice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFzdGU&hash=0672b74b102981175193991ea74d3a14c5ce71db&lang=en&cache-only=0",
+            "defineEn": "to have a specific flavor",
+            "defineVi": "để có một hương vị cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "5fee445b-f997-4b8d-a97e-4bc9d2156f30",
+            "word": "to touch",
+            "phonetic": "tə tʌtʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She gently touched the soft fur of the cat.",
+                "A regular newsletter keeps people in touch with local events.",
+                "My parents were constantly in touch.",
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "The leather sofa adds a touch of elegance to the room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdG91Y2g&hash=f567ce6d5b530c41b3001434138c73a8ca094425&lang=en&cache-only=0",
+            "defineEn": "to put our hand or body part on a thing or person",
+            "defineVi": "để đặt bàn tay hoặc bộ phận cơ thể của chúng tôi trên một điều hoặc người",
+            "hasImg": true
+        },
+        {
+            "id": "b6a4a50e-94bf-43fd-9529-14b8ba9c30fe",
+            "word": "to whistle",
+            "phonetic": "tə wɪsəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Here, wet your whistle.",
+                "The whistle went for the end of the game.",
+                "He whistles constantly and it gets on Charlotte's nerves.",
+                "Your Jeep is as clean as a whistle.",
+                "Hearing the train whistle at night gives me itchy feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd2hpc3RsZQ&hash=f21842073e59e885d34e60b6812d7ca63a04050f&lang=en&cache-only=0",
+            "defineEn": "to make a high-pitched sound by forcing air out through one's partly closed lips",
+            "defineVi": "để tạo ra âm thanh the thé bằng cách đẩy không khí ra ngoài qua đôi môi khép hờ của một người",
+            "hasImg": true
+        },
+        {
+            "id": "caeab60a-c05d-41a0-a7fa-f937d118ba7b",
+            "word": "body",
+            "phonetic": "bɑːdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The gymnast effortlessly bent her body into a graceful arch during her routine.",
+                "Under stress, the body produces adrenalin.",
+                "The doctor examined her body to check for any signs of illness or injury.",
+                "The demonstrators marched in a body to the main square.",
+                "He dedicated himself body and soul to the education of young men."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9keQ&hash=f7a733a6c5b315d0682a60f3b15f02925b011363&lang=en&cache-only=0",
+            "defineEn": "our or an animal's hands, legs, head, and every other part together",
+            "defineVi": "tay, chân, đầu và mọi bộ phận khác của chúng ta hoặc động vật cùng với nhau",
+            "hasImg": true
+        }
+    ]
+}

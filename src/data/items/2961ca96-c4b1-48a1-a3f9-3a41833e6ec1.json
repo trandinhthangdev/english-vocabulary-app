@@ -1,0 +1,508 @@
+{
+    "id": "2961ca96-c4b1-48a1-a3f9-3a41833e6ec1",
+    "title": "Weather",
+    "originalTitle": "Lesson 17",
+    "words": [
+        {
+            "id": "64622975-aa94-41e6-82d4-33d2d8cc8091",
+            "word": "atmosphere",
+            "phonetic": "ætməsfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He enjoys the peaceful atmosphere of his home.",
+                "The nuclear power plant released a small amount of radiation into the atmosphere after the incident.",
+                "This city is known for its diverse population and multicultural atmosphere.",
+                "As the wind blew, the sweet scent of sassafras filled the air, creating a tranquil atmosphere.",
+                "I speak softly and carry a big stick to maintain a peaceful atmosphere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXRtb3NwaGVyZQ&hash=51a6d50176aa64a2c0f450718f4eab9c86534a18&lang=en&cache-only=0",
+            "defineEn": "the different types of gases that surround the earth or other planets",
+            "defineVi": "các loại khí khác nhau bao quanh trái đất hoặc các hành tinh khác"
+        },
+        {
+            "id": "1d30075e-e82e-4831-9b23-218ea0a582d8",
+            "word": "cloudy",
+            "phonetic": "klaʊdi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The cloudy sky created a dramatic backdrop for the sunset.",
+                "The weather forecast predicted a cloudy morning followed by clearing in the afternoon.",
+                "I carried an umbrella with me because the weather looked cloudy.",
+                "We decided to postpone our outdoor plans due to the cloudy weather.",
+                "I couldn't see any stars because it was too cloudy at night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xvdWR5&hash=cb7bd47f90acaf7f03f46c793fc4c55867b2a604&lang=en&cache-only=0",
+            "defineEn": "having many clouds up in the sky",
+            "defineVi": "có nhiều đám mây trên bầu trời",
+            "hasImg": true
+        },
+        {
+            "id": "3c9c9e7d-d446-4e07-a606-b31afab5d73b",
+            "word": "to flood",
+            "phonetic": "tə flʌd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Four people were killed when a train plunged into a flooded river.",
+                "The inexperienced DIY enthusiast tried to fix a complex plumbing problem, and caused a flood in the house.",
+                "The rising flood waters had driven her out of the village.",
+                "British retailers are flooding the U.S. fashion market.",
+                "Now, the tsunami flooded the nuclear plant."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmxvb2Q&hash=9292132ab21c3f7be2b5e25494c9d58c6f7b2233&lang=en&cache-only=0",
+            "defineEn": "to become covered or filled by water",
+            "defineVi": "để trở thành bao phủ hoặc lấp đầy bởi nước",
+            "hasImg": true
+        },
+        {
+            "id": "4979b575-df3f-456e-bf0d-2ea43e576543",
+            "word": "to freeze",
+            "phonetic": "tə fɹiːz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They froze sliced bananas and blended them into a creamy banana ice cream.",
+                "Make a large batch of pelmeni and freeze them for future meals.",
+                "It's best to blanch the green beans before freezing them for long-term storage.",
+                "White currants can be frozen and enjoyed later as a tasty addition to smoothie bowls.",
+                "Sam tries to wrap her brain around snow and freezing temperatures, but she's always lived in Florida, so real winter is not something she has experienced."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZnJlZXpl&hash=8194175dffa7d6f8052c0d040b20e7ca987eb2a6&lang=en&cache-only=0",
+            "defineEn": "(of the weather) to be very cold",
+            "defineVi": "(về thời tiết) rất lạnh",
+            "hasImg": true
+        },
+        {
+            "id": "cac6daa5-dc5b-4d5a-a751-4440236825b4",
+            "word": "hurricane",
+            "phonetic": "hɜːɹᵻkeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The homeowner didn't listen to the advice of experts to reinforce his house before the hurricane hit.",
+                "The devastation caused by the hurricane was for words.",
+                "Hurricanes bring high winds and treacherous rainfall.",
+                "And of course, hurricanes impact land animals, too.",
+                "This feedback loop turns hurricanes into self-sufficient engines of destruction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVycmljYW5l&hash=bc36635ca475bb82cfebc4df00da6f55fffe38af&lang=en&cache-only=0",
+            "defineEn": "a very strong and destructive wind that moves in circles, often seen in the Caribbean",
+            "defineVi": "một cơn gió rất mạnh và có sức tàn phá di chuyển theo vòng tròn, thường thấy ở vùng biển Caribe",
+            "hasImg": true
+        },
+        {
+            "id": "52032c04-dc84-4619-987e-0d88d522dc3c",
+            "word": "lightning",
+            "phonetic": "laɪtnɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The news traveled across the country like lightning.",
+                "He threw those kicks at lightning speed!",
+                "After that, things moved forward at lightning speed.",
+                "At lightning speed, Mary finished her exam and raced out of the classroom.",
+                "After a lightning strike hit a tree in our neighborhood, my mother said 'beware of an oak, it draws the stroke' and advised me to stay inside during thunderstorms."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlnaHRuaW5n&hash=81370759fef0c40dd79a15875e10d102191e341e&lang=en&cache-only=0",
+            "defineEn": "a bright flash, caused by electricity, in the sky or one that hits the ground from within the clouds",
+            "defineVi": "một tia sáng do điện gây ra trên bầu trời hoặc một tia sáng chạm đất từ trong các đám mây",
+            "hasImg": true
+        },
+        {
+            "id": "47fb581b-a7da-40e6-94cb-d019c012c16e",
+            "word": "to pour",
+            "phonetic": "tə poːɹ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Our waitress poured water for everyone at the table.",
+                "They poured the flavorful beef broth over the noodles.",
+                "He poured a generous amount of treacle over his warm pancakes",
+                "She poured orange juice into a clear glass.",
+                "Can you pour me a cup of grape juice, please?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcG91cg&hash=81081bfb6479dbc9247f5b3277502587ba7db628&lang=en&cache-only=0",
+            "defineEn": "to rain heavily and in a large amount",
+            "defineVi": "mưa to và với số lượng lớn",
+            "hasImg": true
+        },
+        {
+            "id": "95397a5d-5b3f-45eb-a815-3ce213db4526",
+            "word": "rainfall",
+            "phonetic": "ɹeɪnfɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Irregular rainfall led to a decline in swamplands in many corners of the world.",
+                "Low rainfall and winds allow testing almost every day of the year.",
+                "That change in rainfall transformed the environment from sagebrush to wooded grasslands and back again.",
+                "And the taste of the saffron depends on the rainfall, temperature, and soil.",
+                "Excessive rainfall can dilute the salt in the water, which could kill the oysters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFpbmZhbGw&hash=c74bb13ac007c6b53b9ac4d4494cd90961d9d075&lang=en&cache-only=0",
+            "defineEn": "the amount or the event of rain falling in a particular area in a given time",
+            "defineVi": "lượng hoặc sự kiện mưa rơi ở một khu vực cụ thể trong một thời gian nhất định",
+            "hasImg": true
+        },
+        {
+            "id": "05aceb3c-eeaa-4d33-9759-4d669c06b8f6",
+            "word": "snowfall",
+            "phonetic": "snoʊfɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Winter brings a peaceful silence, especially after a fresh snowfall.",
+                "The weather report says there will be snowfall tomorrow.",
+                "It’s these sources of water that are being rapidly depleted by humans, but slowly replenished by rain and snowfall.",
+                "With heavy snowfall, freezing temperatures, and a lack of resources, the fear of starvation was a very real thing.",
+                "Typically, cloud seeding is done in either mountainous areas during the winter, to increase snowfall, or in fairly arid areas during the summer, to increase the probability it will rain over smaller areas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c25vd2ZhbGw&hash=73baf0d43a1c6cee3cb9d5c6cd63e245a5a8ba77&lang=en&cache-only=0",
+            "defineEn": "the amount of snow that falls from the sky, or the time when it starts to snow during a period of time",
+            "defineVi": "lượng tuyết rơi từ trên trời xuống hoặc thời điểm bắt đầu có tuyết rơi trong một khoảng thời gian",
+            "hasImg": true
+        },
+        {
+            "id": "01ac7f2c-5df8-491c-a37e-17494accf425",
+            "word": "tornado",
+            "phonetic": "tɔːɹneɪdoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The idea hit me like a tornado.",
+                "The sirens sounded, warning of a tornado.",
+                "Tornadoes begin with a thunderstorm but not just any thunderstorm.",
+                "We had a tornado.",
+                "One tornado struck just after midnight in the city of Newnan, some 40 miles southwest of Atlanta."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9ybmFkbw&hash=6f1e25d98d7fc61ff3365c0ebf07251120f2c8e1&lang=en&cache-only=0",
+            "defineEn": "a strong and dangerous type of wind, which is formed like a turning cone, usually causing damage",
+            "defineVi": "một loại gió mạnh và nguy hiểm, được hình thành giống như một hình nón quay, thường gây ra thiệt hại",
+            "hasImg": true
+        },
+        {
+            "id": "ee8c46cf-7ac0-4e99-9285-dfbb0d19bca1",
+            "word": "avalanche",
+            "phonetic": "ævəlænʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But a storm or avalanche changes the landscape in the blink of an eye.",
+                "And it's like an avalanche.",
+                "Avalanche airbags inflate around a person tumbling and being buried by snow.",
+                "So an avalanche of nanoflares might generate enough energy to heat the atmosphere to the temperatures we measure.",
+                "This creates an avalanche effect, as each high-speed electron knocks out even more electrons and they all shoot through the cloud."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZhbGFuY2hl&hash=32fee7b893148423a51c2cc8437c8b39c066c2a1&lang=en&cache-only=0",
+            "defineEn": "large amounts of snow falling from mountains",
+            "defineVi": "một lượng lớn tuyết rơi từ trên núi",
+            "hasImg": true
+        },
+        {
+            "id": "f1b88fcf-ee60-4382-989f-9806afe66615",
+            "word": "blizzard",
+            "phonetic": "blɪzɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You're going skiing in this blizzard?",
+                "Last week's storm was small potatoes compared to the blizzard we had two years ago.",
+                "Imagine blizzards in Florida, Brazil, Kenya!",
+                "A blizzard is a kind of big snowstorm.",
+                "Blizzards start in the same way that some other powerful storms start: when two big areas of air meet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxpenphcmQ&hash=9d3e4ca8af9b7d2bca78eb50e40be7d19650787f&lang=en&cache-only=0",
+            "defineEn": "a storm with heavy snowfall and strong winds",
+            "defineVi": "một cơn bão với tuyết rơi dày và gió mạnh",
+            "hasImg": true
+        },
+        {
+            "id": "5059ca68-1cd8-4aae-ad10-c8ec3cd8c212",
+            "word": "drought",
+            "phonetic": "dɹaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Famine followed in the wake of the drought.",
+                "The entire region has been in the grip of a terrible drought.",
+                "One of the worst droughts in living memory scourged large parts of Africa, including Mozambique.",
+                "She was extremely sick, but we were waiting for a raindrop in the drought.",
+                "For many people, finding a job these days is like waiting for a raindrop in the drought."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJvdWdodA&hash=3a449dd424e02d3b1947ce4495fc0d28e160b704&lang=en&cache-only=0",
+            "defineEn": "a long period of time when there is not much raining",
+            "defineVi": "một thời gian dài khi không có nhiều mưa",
+            "hasImg": true
+        },
+        {
+            "id": "fce3a1a9-dfdd-4a94-b979-d7dcbbd97af5",
+            "word": "forecast",
+            "phonetic": "fɔːɹkæst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Church officials today forecast red ink of nearly $60 million this year.",
+                "J.C. Penney withdrew its financial forecast.",
+                "A 2019 Morgan Stanley report forecasted that the market for high speed travel could reach 800 billion dollars in annual sales by 2040.",
+                "The forecast does not include the COVID relief package now under consideration.",
+                "Economists have been baking into their forecasts a slowdown of economic growth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9yZWNhc3Q&hash=c1bfdaf7cf6da9e9260ac9e7bb288f06af9bc180&lang=en&cache-only=0",
+            "defineEn": "a prediction of what will happen such as a change in the weather",
+            "defineVi": "một dự đoán về những gì sẽ xảy ra chẳng hạn như một sự thay đổi trong thời tiết",
+            "hasImg": true
+        },
+        {
+            "id": "a26e0a46-e35e-446f-a7a4-bc734b02df7e",
+            "word": "typhoon",
+            "phonetic": "taɪfuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Typhoons are ones that happen in the northern West Pacific Ocean.",
+                "After a 1912 eruption in Alaska, for instance, the world experienced the fewest hurricanes and typhoons ever recorded.",
+                "When the Mongols returned a few years later with an even bigger army, another typhoon showed up and turned the invading fleet into driftwood.",
+                "But though the book features pirates, typhoons, high-speed chases, and giant squid, you shouldn’t expect a conventional seafaring adventure.",
+                "These are typhoon winds, I tell ya!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHlwaG9vbg&hash=dfd51a8d08e4d2b7e3c0261d6948a88311a23680&lang=en&cache-only=0",
+            "defineEn": "a tropical storm with violent winds moving in a circle, occurring in West Pacific Ocean",
+            "defineVi": "một cơn bão nhiệt đới với gió dữ dội di chuyển theo hình tròn, xảy ra ở Tây Thái Bình Dương",
+            "hasImg": true
+        },
+        {
+            "id": "ef6af75b-3a31-40ff-a8ec-7bf2db43effc",
+            "word": "acid rain",
+            "phonetic": "æsɪd ɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You can’t have acid rain if you don’t have an atmosphere.",
+                "And since Laki wasn't even a supervolcano, we're looking at acid rain for the next decade.",
+                "Sulfur dioxide interacts with water in the atmosphere and forms acid rain, typically leaving the atmosphere within a couple of years.",
+                "Instead, it turned out to mostly be an inferno of acid rain, one that, of all things, spins backwards!",
+                "I mean not just for statues, but acid rain has killed or harmed huge swaths of forests."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNpZCByYWlu&hash=f92ba517bc2eca91de878f0216a8e714429a7ab4&lang=en&cache-only=0",
+            "defineEn": "rain containing a great deal of acidic chemicals, caused by air pollution, which can harm the environment",
+            "defineVi": "mưa chứa nhiều hóa chất có tính axit, gây ra bởi ô nhiễm không khí, có thể gây hại cho môi trường",
+            "hasImg": true
+        },
+        {
+            "id": "7879386c-819c-40c7-bd3f-f9bc3c175309",
+            "word": "centigrade",
+            "phonetic": "sɛntɪɡɹeɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Go up my chart and say that means it's five degrees Centigrade."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VudGlncmFkZQ&hash=65a912af100cad8a54983e53e28d53239e7cbb7e&lang=en&cache-only=0",
+            "defineEn": "related to or using a temperature scale on which water boils at 100° and freezes at 0°",
+            "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 100° và đóng băng ở 0°",
+            "hasImg": true
+        },
+        {
+            "id": "40518a5a-8314-463b-8c01-973580eb46f5",
+            "word": "cyclone",
+            "phonetic": "saɪkloʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scientific term for these powerful storms is tropical cyclones.",
+                "This cyclone is going to have extremely high wind speeds and extremely heavy rainfall.",
+                "Cyclones and floods are happening more often. ",
+                "Powerful cyclones and hurricanes sometimes brought strong ocean winds over land. ",
+                "A typical tropical cyclone consumes the same amount of power as the entire United States."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3ljbG9uZQ&hash=e4f366061734f9aa64604940c582bf6d34fd563d&lang=en&cache-only=0",
+            "defineEn": "a violent storm with winds moving in circles",
+            "defineVi": "một cơn bão dữ dội với gió di chuyển trong vòng tròn",
+            "hasImg": true
+        },
+        {
+            "id": "a0bee73e-db59-468b-aac9-7af57e58472a",
+            "word": "downpour",
+            "phonetic": "daʊnpoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Southern Louisiana braced today for more downpours and more flooding this week.",
+                "Webspinners can easily drown if a downpour floods their gallery.",
+                "Others are scrambling to save livestock and bracing for more downpours.",
+                "Except now it's sunny, but like, literally fifteen minutes ago, there was a downpour.",
+                "It was blowing over the Northwestern Bahamas today, and already bringing high winds and downpours to South Florida."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG93bnBvdXI&hash=0d3b7035647ce2e4c9dd427dab6e659e78b445cc&lang=en&cache-only=0",
+            "defineEn": "a brief heavy rainfall",
+            "defineVi": "một lượng mưa lớn ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "55903492-da8c-4baf-b9c8-83dca425a755",
+            "word": "Fahrenheit",
+            "phonetic": "fæɹənhaɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The incinerators burn the trash at 2,000 degrees Fahrenheit.",
+                "A polar bear's core temperature sits at about 98.6 degrees Fahrenheit.",
+                "Anyone with a temperature over 100.3 degrees Fahrenheit is denied boarding to their flight.",
+                "In Fahrenheit, 0° was the freezing point of saltwater and 96° the temperature of life.",
+                "It’s about 0 degrees Celsius or 32 degrees Fahrenheit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RmFocmVuaGVpdA&hash=77957e435acbcf9dc1bcf9885d284a2f6d834417&lang=en&cache-only=0",
+            "defineEn": "related to or using a temperature scale on which water boils at 212° and freezes at 32°",
+            "defineVi": "liên quan đến hoặc sử dụng thang đo nhiệt độ trong đó nước sôi ở 212° và đóng băng ở 32°",
+            "hasImg": true
+        },
+        {
+            "id": "359b60b6-1f8a-4faf-a002-f0ec1d7058ce",
+            "word": "frost",
+            "phonetic": "fɹɔst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I need a cake with cream cheese frosting for my son's birthday.",
+                "Sarah made carrot cake with cream cheese frosting for a special occasion.",
+                "The gardener carefully wrapped the stem of the young tree with burlap to protect it from frost during winter.",
+                "When my father saw a clear moonlit sky in the evening, he always warned us that 'clear moon, frost soon' and advised us to bring in any plants that might be damaged by frost.",
+                "When my father saw a clear moonlit sky in the evening, he always warned us that 'clear moon, frost soon' and advised us to bring in any plants that might be damaged by frost."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJvc3Q&hash=ce22842b27bc0a2c829e34180dd686fec9cd9b4d&lang=en&cache-only=0",
+            "defineEn": "a weather condition during which the temperature drops below the freezing point and thin layers of ice are formed on the surfaces",
+            "defineVi": "một điều kiện thời tiết trong đó nhiệt độ giảm xuống dưới điểm đóng băng và các lớp băng mỏng được hình thành trên bề mặt",
+            "hasImg": true
+        },
+        {
+            "id": "632e32e8-491c-4174-9eb8-8eafe391f4c0",
+            "word": "monsoon",
+            "phonetic": "mɔnsuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This pushed the monsoons south again, closer to where they are now.",
+                "A lot of times these limitations are described in terms of some catastrophe: a volcanic eruption, a monsoon, a Chernobyl.",
+                "It was monsoon, we were really high in the mountains.",
+                "Right, but my point is that weak monsoons can be devastating to agriculture in Asia.",
+                "It means sea level rise, shrinking polar ice caps, and increased extreme weather events, like heatwaves and monsoons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9uc29vbg&hash=3941d949cf27cb4374bcf598474497f250272291&lang=en&cache-only=0",
+            "defineEn": "a period in the summer during which wind blows and rain falls in India or other hot South Asian countries",
+            "defineVi": "một khoảng thời gian vào mùa hè khi gió thổi và mưa rơi ở Ấn Độ hoặc các nước Nam Á nóng khác",
+            "hasImg": true
+        },
+        {
+            "id": "b3410114-4e13-494f-8322-5306adec7db4",
+            "word": "heat wave",
+            "phonetic": "hiːt weɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cooler objects, like the Earth, emit much longer heat waves, or terrestrial radiation. ",
+                "Almost every year breaks some horrible record, from the harshest heat waves to the most rapid glacier melt.",
+                "Do not leave an upright jazz bassist in a locked car during a heat wave.",
+                "That means longer and more intense heat waves, and stronger hurricanes and dangerous flooding.",
+                "The heat wave already brought triple-digit temperatures to the desert Southwest and is spreading elsewhere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhdCB3YXZl&hash=421d7caffc05bd7919efd77dabb74e9bca6818f9&lang=en&cache-only=0",
+            "defineEn": "a period of hot weather, usually hotter and longer than before",
+            "defineVi": "một thời kỳ thời tiết nóng, thường nóng hơn và dài hơn trước",
+            "hasImg": true
+        },
+        {
+            "id": "4f9fd936-0224-494e-b753-6608766276de",
+            "word": "humidity",
+            "phonetic": "hjuːmɪdᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Within a few days, though, the first warning sign would show up: humidity.",
+                "They love low humidity.",
+                "Our relative humidity was almost 60 percent.",
+                "A warm front, on the other hand, generally brings clear weather, but some serious humidity.",
+                "There's a lot of humidity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVtaWRpdHk&hash=1e6771aacda974f5e9ce800f3b5298d44ffd957a&lang=en&cache-only=0",
+            "defineEn": "the quality or condition of being humid",
+            "defineVi": "chất lượng hoặc tình trạng ẩm ướt",
+            "hasImg": true
+        },
+        {
+            "id": "4019d7d2-43ae-47cd-b80a-7dbd6eb3899d",
+            "word": "mist",
+            "phonetic": "mɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He used a spray bottle to mist the plants with water.",
+                "For all that we've learned about these ancient structures, most of their purpose has been lost in the mists of time.",
+                "Each plane sprays out a mist of seawater behind it.",
+                "If you've ever worn perfume, well I've got some unsettling news, you may have misted yourself with animal waste.",
+                "All of this was because of the gray mist covering everything, called fog."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlzdA&hash=f495d7570ea873e24f6c1ff40c6755dad3e0e903&lang=en&cache-only=0",
+            "defineEn": "a thin cloud of tiny drops of water or condensed vapor close to the ground or a water surface",
+            "defineVi": "một đám mây mỏng gồm những giọt nước nhỏ hoặc hơi ngưng tụ gần mặt đất hoặc mặt nước",
+            "hasImg": true
+        },
+        {
+            "id": "cdab26c0-476d-43d7-9dd1-69943f9f9045",
+            "word": "thunder",
+            "phonetic": "θʌndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The thunder had turned the milk.",
+                "The weather broke and thunder rumbled through a leaden sky.",
+                "Look at little baby's adorable thunder thighs!",
+                "Seeing her ex-boyfriend with another woman, Lisa couldn't hide her anger, and her face turned red, resembling a face like thunder.",
+                "The artist talked about their talent, but better to have less thunder in the mouth, and more lightning in the hand - we need to see their actual work to determine their true abilities."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGh1bmRlcg&hash=e63d96a379c05b24fe78b3586da8480b0d640b88&lang=en&cache-only=0",
+            "defineEn": "the loud crackling noise that is heard from the sky during a storm",
+            "defineVi": "tiếng nổ lớn được nghe thấy từ bầu trời trong một cơn bão",
+            "hasImg": true
+        },
+        {
+            "id": "c8157c8c-b006-422e-8abb-ee3edc3f2e82",
+            "word": "vapor",
+            "phonetic": "veɪpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At this point, the vapor forms droplets.",
+                "The mites get water vapor from them.",
+                "Water vapor is the same thing as water.",
+                "The cold glass makes water vapor in the air collect into liquid drops.",
+                "And in the troposphere, water vapor in the clouds is the enemy. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFwb3I&hash=b12fd74368feff0baf23ae05185764a56ed19bb2&lang=en&cache-only=0",
+            "defineEn": "extremely small drops of liquid in the air, resulted from the heating of the liquid",
+            "defineVi": "giọt chất lỏng cực nhỏ trong không khí, là kết quả của sự nóng lên của chất lỏng"
+        },
+        {
+            "id": "ea2b8ed7-44ba-40d9-9e7a-7d0807016698",
+            "word": "torrent",
+            "phonetic": "tɔɹənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ultimately, the torrent of discoveries coming out cosmic ray research was amazing.",
+                "Things like streaming video services, torrent sharing, even the idea of licensing media for marketplaces like iTunes are fairly new, and the law has struggled to keep pace with the emerging technology."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9ycmVudA&hash=4dff96f37c2accf01c6b014a88d224025b22c774&lang=en&cache-only=0",
+            "defineEn": "a powerful stream of water or other liquid that moves very fast",
+            "defineVi": "một dòng nước mạnh hoặc chất lỏng khác di chuyển rất nhanh",
+            "hasImg": true
+        },
+        {
+            "id": "04a4e3a3-1c38-41aa-94a7-c61d4463fa66",
+            "word": "to shower",
+            "phonetic": "tə ʃaʊɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He dropped the slippery soap in the shower.",
+                "He took a refreshing shower in the bathroom after a long day.",
+                "To take a bath/shower/wash.",
+                "She wrapped herself in a warm bath towel after the shower.",
+                "She organized shampoo and soap bottles in the shower caddy in the bathroom."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2hvd2Vy&hash=2d1035e67ba757bd7370640a2c3f4ac6b811c1ff&lang=en&cache-only=0",
+            "defineEn": "to rain or snow as if in a shower",
+            "defineVi": "mưa hoặc tuyết như thể đang tắm",
+            "hasImg": true
+        },
+        {
+            "id": "f26dc143-d205-46df-a389-6a9d9c4c7caa",
+            "word": "celsius",
+            "phonetic": "sɛlsɪəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The temperature outside is nineteen degrees Celsius.",
+                "The temperature dropped to minus eighty degrees Celsius in Antarctica.",
+                "This next layer down is between 4,000 and 6,000 degrees Celsius!",
+                "Here, temperatures reach 2 million degrees Celsius.",
+                "Global temperatures rapidly rose by six degrees celsius."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2Vsc2l1cw&hash=2b5b28c67d25abc072df70fced6272b235916497&lang=en&cache-only=0",
+            "defineEn": "Swedish astronomer who devised the centigrade thermometer (1701-1744)",
+            "defineVi": "Nhà thiên văn học Thụy Điển, người đã phát minh ra nhiệt kế bách phân (1701-1744)",
+            "hasImg": true
+        }
+    ]
+}

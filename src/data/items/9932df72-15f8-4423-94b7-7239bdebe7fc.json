@@ -1,0 +1,598 @@
+{
+    "id": "9932df72-15f8-4423-94b7-7239bdebe7fc",
+    "title": "Three-Dimensional Shapes",
+    "originalTitle": "Three-Dimensional Shapes",
+    "words": [
+        {
+            "id": "ef4ffee7-ce44-46a3-924f-1a3d855eab61",
+            "word": "solid",
+            "phonetic": "sɑːlɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They drove a tunnel through the solid rock.",
+                "If you're planning to start a business, it's important to have a solid business plan and some experience in the industry.",
+                "The chemical passes from a liquid to a solid state during the cooling process.",
+                "Joe warned him that 'a fool's bolt is soon shot' and advised him to take the time to develop a solid plan before making any drastic decisions.",
+                "The project's success will rely on getting the meat and potatoes right, ensuring the core components are solid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29saWQ&hash=5cf761efea8fd81409ce33e8058d6ab06e663129&lang=en&cache-only=0",
+            "defineEn": "(geometry) a shape that is not two-dimensional because it has height, width, and length",
+            "defineVi": "(hình học) một hình không có hai chiều vì nó có chiều cao, chiều rộng và chiều dài",
+            "hasImg": true
+        },
+        {
+            "id": "e899b91d-6dcd-46d3-88dd-5799c0a31d4a",
+            "word": "cube",
+            "phonetic": "kjuːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The agar cubes added a delightful chewiness to the tropical fruit salad.",
+                "She roasted the rutabaga cubes with olive oil and herbs.",
+                "I used a sugar cube to attract hummingbirds to my garden, placing it near their favorite flowers.",
+                "She made T-bone steak kebabs, threading cubes of marinated steak onto skewers with colorful vegetables.",
+                "My grandmother made strip steak kebabs, skewering marinated steak cubes with colorful bell peppers and onions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3ViZQ&hash=0cdf65c2a957f6ab295e6c2396fe487777c075fb&lang=en&cache-only=0",
+            "defineEn": "a figure, either hollow or solid, with six equally squared sides",
+            "defineVi": "một hình, rỗng hoặc đặc, có sáu cạnh vuông bằng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "1551b5b5-ace0-410b-99a8-59f36f648023",
+            "word": "cuboid",
+            "phonetic": "kjuːbɔɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Vib2lk&hash=250eeffe5ffa4f34a88954d3b382dc2fa1531c32&lang=en&cache-only=0",
+            "defineEn": "a rectangular parallelepiped",
+            "defineVi": "một hình bình hành hình chữ nhật",
+            "hasImg": true
+        },
+        {
+            "id": "cf2d8ed8-5b50-4b46-8da2-b21e8bbe8e5d",
+            "word": "spheroid",
+            "phonetic": "sfɛɹɔɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But the Earth is almost spheroid, or a slightly wonky sphere.",
+                "First made in 1569 by the Flemish cartographer Gerardus Mercator, this type of map basically turns the spheroid Earth into a cylinder.",
+                "And we’ve learned that the spheroid shape, rotation, revolution, and tilt of the Earth cause insolation, air temperature, pressure, and wind to form worldwide patterns that strongly depend on latitude.",
+                "Vesta is round…ish, what’s called an oblate spheroid, flattened a bit like a ball someone’s sitting on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BoZXJvaWQ&hash=2cc089fbc5f06d5ee621382ffb06cbbf843ef501&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid shape obtained by half-rotating an ellipse around one of its axis",
+            "defineVi": "(hình học) hình khối có được bằng cách quay một nửa hình elip quanh một trong các trục của nó",
+            "hasImg": true
+        },
+        {
+            "id": "d0b2851a-e8b5-478c-8cf6-b006718cec25",
+            "word": "sphere",
+            "phonetic": "sfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Earth is a sphere.",
+                "A sphere of the new stable Higgs Field, or true vacuum, grows at the speed of light in all directions.",
+                "Each concentric sphere is an era.",
+                "The smallest cloud droplets start out as these spheres.",
+                "They then put the spheres in a foggy wind tunnel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BoZXJl&hash=02249bd8a6db57cba1d01bdd732ad08202384774&lang=en&cache-only=0",
+            "defineEn": "(geometry) a round object that every point on its surface has the same distance from its center",
+            "defineVi": "(hình học) một vật thể tròn mà mọi điểm trên bề mặt của nó có cùng khoảng cách với tâm của nó",
+            "hasImg": true
+        },
+        {
+            "id": "1b53fdea-d1f0-49a4-b854-1d6a1616f455",
+            "word": "cone",
+            "phonetic": "koʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I accidentally dropped my ice cream cone on the ground, and it melted.",
+                "It took patience and precision to crack open the tough shell of the single-leaf pinyon pine cone.",
+                "Our cones detect fine detail and color.",
+                "Their eyes only have two cones.",
+                "Cycads have cones with seeds that are directly fertilized by pollen."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZQ&hash=6e668fa8e3f8987c920eadf6f5f3f2e0fa2ea36a&lang=en&cache-only=0",
+            "defineEn": "(geometry) a three dimensional shape with a circular base that rises to a single point",
+            "defineVi": "(hình học) hình ba chiều có đáy hình tròn đi lên từ một điểm",
+            "hasImg": true
+        },
+        {
+            "id": "09c11805-d6a2-43ee-863f-4b97335f5f60",
+            "word": "cylinder",
+            "phonetic": "sɪlɪndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But these cylinders represent proteins.",
+                "That's our cylinder.",
+                "A 12 cylinder version started at around eighty three thousand five hundred fifteen dollars.",
+                "You actually don't have cylinders like this.",
+                "We've got this big cylinder up front here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3lsaW5kZXI&hash=cb4f7679a4bf610b27f5536e70de8ec1a22af70a&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid or hollow shape with two circular bases at each end and straight parallel sides",
+            "defineVi": "(hình học) hình đặc hoặc rỗng có hai đáy hình tròn ở mỗi đầu và các cạnh thẳng song song",
+            "hasImg": true
+        },
+        {
+            "id": "36602fad-df9d-4f1f-a6aa-2078d43dcf58",
+            "word": "ellipsoid",
+            "phonetic": "ɪlɪpsɔɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These dense lumps of rock bump out from the ellipsoid and their mass gravitationally attracts oceans, while valleys in the ocean floor have less mass and the oceans flow away, shallower.",
+                "These aren't small changes, either - the level of the sea can vary by up to 100m from a uniform ellipsoid depending on the density of the Earth beneath it.",
+                "Well, water is held on Earth by gravity, so we could model the earth as a flattened & stretched spinning sphere and then calculate what height the oceans would settle to when pulled by gravity onto the surface of that ellipsoid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxsaXBzb2lk&hash=daf8bd779bc2074f1c4a1eee460d64aaca6b7943&lang=en&cache-only=0",
+            "defineEn": "a surface whose plane sections are all ellipses or circles",
+            "defineVi": "một bề mặt có các mặt phẳng là tất cả các hình elip hoặc hình tròn"
+        },
+        {
+            "id": "1c7994a4-0326-41dd-9ed2-bedeb51d3653",
+            "word": "hemisphere",
+            "phonetic": "hɛmɪsfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The left hemisphere controls the right side of our bodies, and vice versa. ",
+                "Hey fun fact, though: the western hemisphere has water too.",
+                "In one corner, the northern hemisphere is entering flu season.",
+                "And so both hemispheres are going to get the same amount of radiation from the sun.",
+                "All vertebrate brains consist of two hemispheres: the right and left."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVtaXNwaGVyZQ&hash=74eba366290e89e698c39a763a0741919745b755&lang=en&cache-only=0",
+            "defineEn": "either half of a sphere",
+            "defineVi": "một trong hai nửa của một hình cầu",
+            "hasImg": true
+        },
+        {
+            "id": "ea17e3da-89c5-4170-86da-4844bad93138",
+            "word": "polyhedron",
+            "phonetic": "pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A rectangular pyramid is a polyhedron.",
+                "So, for example, a cube is a polyhedron.",
+                "This is a polyhedron.",
+                "So this right over here is a polyhedron.",
+                "And a polyhedron is a three-dimensional shape that has flat surfaces and straight edges."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9seWhlZHJvbg&hash=bdc8b00fd2f169c7889f5a56089b579698b0e95f&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure formed by flat polygonal faces",
+            "defineVi": "(hình học) hình khối được tạo bởi các mặt đa giác phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "fe635882-3c67-4bb2-b321-c4ffd6240406",
+            "word": "trihedron",
+            "phonetic": "tɹaɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJpaGVkcm9u&hash=19a3dc1485af23cac45c7eac0bd18cb68dce2352&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure formed by three flat faces that intersect in a point",
+            "defineVi": "(hình học) hình khối tạo bởi ba mặt phẳng cắt nhau tại một điểm",
+            "hasImg": true
+        },
+        {
+            "id": "5d8f1714-ef31-4041-8d15-80fec36c410f",
+            "word": "tetrahedron",
+            "phonetic": "tɛtɹɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tetrahedrons can stack into different shapes as changes in temperature and pressure juggle them around.",
+                "The next diagonal has the tetrahedral numbers because similarly, you can stack that many spheres into tetrahedra."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGV0cmFoZWRyb24&hash=5b62ceb2c10d5377b6207ee048b303ab3ca0e0ba&lang=en&cache-only=0",
+            "defineEn": "(geometry) a polyhedron with four flat sides; a triangular pyramid",
+            "defineVi": "(hình học) khối đa diện có bốn mặt phẳng; một kim tự tháp tam giác",
+            "hasImg": true
+        },
+        {
+            "id": "7eef6b04-1b2e-4c4b-88ab-4ef9083209c2",
+            "word": "pentahedron",
+            "phonetic": "pɛntɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVudGFoZWRyb24&hash=0b622983743125a5cb2837f15a3e82cc61d1536c&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure with five flat faces",
+            "defineVi": "(hình học) hình khối có năm mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "8f9344ef-061a-4511-9a4f-dfb81194b496",
+            "word": "hexahedron",
+            "phonetic": "hɛksɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGV4YWhlZHJvbg&hash=448260084ad574b8feef0f4a98448f176f33c0c8&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure with six flat faces",
+            "defineVi": "(hình học) hình rắn có sáu mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "a61937b1-7a76-4865-8540-cdb6a135696d",
+            "word": "heptahedron",
+            "phonetic": "hɛptɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVwdGFoZWRyb24&hash=5542df7b6caecb78cc67ca0e735d9d5fe6efcdb7&lang=en&cache-only=0",
+            "defineEn": "a polyhedron with seven faces or sides",
+            "defineVi": "một khối đa diện có bảy mặt hoặc hai mặt",
+            "hasImg": true
+        },
+        {
+            "id": "d876745e-a65a-4245-8739-2ede3264da4e",
+            "word": "octahedron",
+            "phonetic": "ɑːktɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2N0YWhlZHJvbg&hash=581b20a3cafea7c0ebddbc26ecb7b8a55a79f45f&lang=en&cache-only=0",
+            "defineEn": "any polyhedron having eight plane faces",
+            "defineVi": "bất kỳ khối đa diện nào có tám mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "aaab7423-54f3-418a-a37f-e167ddfffa7b",
+            "word": "nonahedron",
+            "phonetic": "nɑːnæhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm9uYWhlZHJvbg&hash=9c0d63dc772632cada698bb2c7a45b61be3ae6d7&lang=en&cache-only=0",
+            "defineEn": "a polyhedron with nine faces or sides",
+            "defineVi": "một khối đa diện có chín mặt hoặc hai mặt",
+            "hasImg": true
+        },
+        {
+            "id": "81506508-e150-4777-95b3-b2d5287aeade",
+            "word": "decahedron",
+            "phonetic": "dᵻkɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVjYWhlZHJvbg&hash=40c259e3215b2f23a931ff5db6927593e86ed095&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid shape with ten flat faces",
+            "defineVi": "(hình học) hình khối có 10 mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "35273d5a-60a1-4c8d-8c05-66d174ba9bba",
+            "word": "dodecahedron",
+            "phonetic": "doʊdɛkɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Oh, it sure is It sure is so that was dodecahedron",
+                "So the next is a rhombic dodecahedron sweet?",
+                "and it's a dodecahedron, right?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9kZWNhaGVkcm9u&hash=aec1f63d79fb50ca2b6eb8550cbd873515392dc0&lang=en&cache-only=0",
+            "defineEn": "any polyhedron having twelve plane faces",
+            "defineVi": "bất kỳ khối đa diện nào có mười hai mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "e1a35562-0b0a-448e-be21-b2bc05f1b195",
+            "word": "icosahedron",
+            "phonetic": "aɪkəsɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their head is an icosahedron, a sort of dice with 20 faces and 30 edges."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWNvc2FoZWRyb24&hash=4c6e89e52f53d863b18223ad6bcdb887d807d638&lang=en&cache-only=0",
+            "defineEn": "any polyhedron having twenty plane faces",
+            "defineVi": "bất kỳ khối đa diện nào có hai mươi mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "bef690ac-10fe-4cd6-9bf5-c2b3c0e60902",
+            "word": "toroidal polyhedron",
+            "phonetic": "toːɹɔɪdəl pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG9yb2lkYWwgcG9seWhlZHJvbg&hash=4c445fdbc62839c135365aeeb5d6afac52f5ea26&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional shape that wraps around a torus or doughnut-like surface",
+            "defineVi": "một hình dạng ba chiều bao quanh một hình xuyến hoặc bề mặt giống như bánh rán",
+            "hasImg": true
+        },
+        {
+            "id": "aa7cde5d-9e41-43b0-ba9c-8f0f3573adb6",
+            "word": "prism",
+            "phonetic": "pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Instead of prisms, some ice crystals end up more like six-sided frisbees.",
+                "But one man saw this homespun genius through the prism of his own genius. ",
+                "But you can even make a prism out of a glass of water!",
+                "[Jono] That's prism.",
+                "When white light bounces off the back of a spherical raindrop, the light is spread into colors as if by a prism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpc20&hash=de53c76687580ce13d5b2e33522d6bdc2abeec69&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure with flat sides and two parallel ends of the same size and shape",
+            "defineVi": "(hình học) hình rắn có các cạnh phẳng và hai đầu song song có cùng kích thước và hình dạng",
+            "hasImg": true
+        },
+        {
+            "id": "d386ccf3-2d99-4d92-a5a1-83ea860bb914",
+            "word": "oblique prism",
+            "phonetic": "oʊbliːk pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2JsaXF1ZSBwcmlzbQ&hash=23ce4736b163643f6efa1086a67aa37309a6c038&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases not being perpendicular to the sides",
+            "defineVi": "một hình dạng ba chiều có một cặp đáy song song được nối với nhau bằng các mặt hình chữ nhật, với các đáy không vuông góc với các cạnh",
+            "hasImg": true
+        },
+        {
+            "id": "edb402b9-ba0c-436c-a8f5-8ca56d3f969a",
+            "word": "right prism",
+            "phonetic": "ɹaɪt pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmlnaHQgcHJpc20&hash=e6e35af27307e9b9d753ef0bde8e1be8ab95f89b&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional shape that has a pair of parallel bases connected by rectangular faces, with the bases being perpendicular to the sides",
+            "defineVi": "một hình dạng ba chiều có một cặp đáy song song được nối với nhau bằng các mặt hình chữ nhật, với các đáy vuông góc với các cạnh",
+            "hasImg": true
+        },
+        {
+            "id": "62d924aa-af1f-46ed-8c1f-7c308b159567",
+            "word": "uniform prism",
+            "phonetic": "juːnɪfɔːɹm pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW5pZm9ybSBwcmlzbQ&hash=ad3a05506e5a94e9e6ca99f5b5e2619015382d5b&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional shape that has two identical bases, and all sides are the same shape and size",
+            "defineVi": "một hình dạng ba chiều có hai đáy giống hệt nhau và tất cả các mặt đều có hình dạng và kích thước giống nhau",
+            "hasImg": true
+        },
+        {
+            "id": "bbf92f8a-a448-4f9b-9d7a-932d40e8b008",
+            "word": "triangular prism",
+            "phonetic": "tɹaɪæŋɡjʊlɚ pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJpYW5ndWxhciBwcmlzbQ&hash=ac844d240acaf1c561e59c8694ce25f6977463d7&lang=en&cache-only=0",
+            "defineEn": "a prism whose bases are triangles",
+            "defineVi": "lăng trụ có đáy là tam giác",
+            "hasImg": true
+        },
+        {
+            "id": "73846434-4a20-429c-ab3d-723b030b472e",
+            "word": "square prism",
+            "phonetic": "skwɛɹ pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJlIHByaXNt&hash=77bfa0693f57797c2270401b459a229b8e514f06&lang=en&cache-only=0",
+            "defineEn": "a type of uniform prism that has square bases and rectangular faces that connect the bases",
+            "defineVi": "một loại lăng kính đều có đáy hình vuông và các mặt hình chữ nhật nối các đáy"
+        },
+        {
+            "id": "8679f3e0-f225-43ea-98af-ec4f8983458e",
+            "word": "pentagonal prism",
+            "phonetic": "pɛntɐɡənəl pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBwcmlzbQ&hash=90f738334439388683e1ca511d7ff11abd77e02c&lang=en&cache-only=0",
+            "defineEn": "a type of uniform prism that has pentagonal bases and rectangular faces that connect the bases",
+            "defineVi": "một loại lăng kính đồng nhất có các đáy hình ngũ giác và các mặt hình chữ nhật nối các đáy",
+            "hasImg": true
+        },
+        {
+            "id": "ddf08f31-bf12-41bc-99c6-e5ad1ea5562d",
+            "word": "hexagonal prism",
+            "phonetic": "hɛksɐɡənəl pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHByaXNt&hash=8a90f7ff486a5d7d3e545516a682a42dac629fcb&lang=en&cache-only=0",
+            "defineEn": "a type of uniform prism that has hexagonal bases and rectangular faces that connect the bases",
+            "defineVi": "một loại lăng kính đồng nhất có các đáy hình lục giác và các mặt hình chữ nhật nối các đáy"
+        },
+        {
+            "id": "85cbde7c-50af-47d9-86e5-08c69417f278",
+            "word": "rhombohedron",
+            "phonetic": "ɹɑːmboʊhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmhvbWJvaGVkcm9u&hash=637c80cf603c0a41b19aca788677d90a247ebfc0&lang=en&cache-only=0",
+            "defineEn": "a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)",
+            "defineVi": "một hình bình hành được giới hạn bởi sáu mặt giống nhau (hoặc hình thoi hoặc hình bình hành)"
+        },
+        {
+            "id": "10cff173-e793-415d-b474-46b27ce97222",
+            "word": "parallelepiped",
+            "phonetic": "pæɹəlɛlɪpaɪpt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the case of running through the rain, you can figure that out using parallelepipeds again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyYWxsZWxlcGlwZWQ&hash=e6657729812c535f4b5e45c45fa50251148b97fc&lang=en&cache-only=0",
+            "defineEn": "a prism whose bases are parallelograms",
+            "defineVi": "lăng trụ có đáy là hình bình hành",
+            "hasImg": true
+        },
+        {
+            "id": "2880bdd2-b43d-489e-a684-2d4a1400b7a5",
+            "word": "hyperboloid",
+            "phonetic": "haɪpɚbɑːlɔɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHlwZXJib2xvaWQ&hash=6f0535d1e19586e4b210c3546485d2cf3d24ad56&lang=en&cache-only=0",
+            "defineEn": "a quadric surface generated by rotating a hyperbola around its main axis",
+            "defineVi": "một bề mặt tứ giác được tạo ra bằng cách xoay một hyperbola quanh trục chính của nó",
+            "hasImg": true
+        },
+        {
+            "id": "f9239c44-419b-4c79-b114-118780030952",
+            "word": "platonic solid",
+            "phonetic": "plætɑːnɪk sɑːlɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGxhdG9uaWMgc29saWQ&hash=607f77f7b1ffad34efc8e0530b2c5f6ca4c4005b&lang=en&cache-only=0",
+            "defineEn": "any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent",
+            "defineVi": "bất kỳ một trong năm vật rắn có các mặt là các đa giác đều bằng nhau và các góc của đa diện đều bằng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "f73e19e7-3a59-479c-a478-658f51ef2166",
+            "word": "star polyhedron",
+            "phonetic": "stɑːɹ pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RhciBwb2x5aGVkcm9u&hash=ba52a6b3c08db802fe0ae31c60fa09c77a65f67d&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape composed of multiple intersecting polygons that form a star-like structure",
+            "defineVi": "một hình dạng hình học ba chiều bao gồm nhiều đa giác giao nhau tạo thành một cấu trúc giống như ngôi sao"
+        },
+        {
+            "id": "30761ac9-a8c2-4fbe-bbc0-f8accb40d129",
+            "word": "Kepler-Poinsot polyhedron",
+            "phonetic": "kɛplɚpɔɪnsɑːt pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=S2VwbGVyLVBvaW5zb3QgcG9seWhlZHJvbg&hash=be326a8a59b3eedac900aa9b50cce37b7b58eb9d&lang=en&cache-only=0",
+            "defineEn": "a type of regular polyhedron in geometry, which is formed by extending the faces of a regular convex polyhedron to create new faces or facets",
+            "defineVi": "một loại đa diện đều trong hình học, được hình thành bằng cách mở rộng các mặt của một đa diện lồi đều để tạo các mặt hoặc mặt mới",
+            "hasImg": true
+        },
+        {
+            "id": "057acd33-579b-4d46-837d-8fba305cdae3",
+            "word": "Szilassi polyhedron",
+            "phonetic": "ʃɪlæsi pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U3ppbGFzc2kgcG9seWhlZHJvbg&hash=28eae8c8a8c20434a05f3c9ff3247ab9a0f39e89&lang=en&cache-only=0",
+            "defineEn": "a non-convex polyhedron in geometry that has an unusual property of having no faces that are triangles, despite being composed of triangular faces",
+            "defineVi": "một khối đa diện không lồi trong hình học có đặc tính khác thường là không có mặt nào là hình tam giác, mặc dù được tạo thành từ các mặt hình tam giác"
+        },
+        {
+            "id": "17663ccf-80f2-4c78-b7f9-3454aaa10140",
+            "word": "Csaszar polyhedron",
+            "phonetic": "siːsæszɑːɹ pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q3Nhc3phciBwb2x5aGVkcm9u&hash=8561397cc2320e8d28fbd56b0878fae110357f94&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional shape made up of 14 faces, 21 vertices, and 36 edges, with a symmetrical arrangement of polygons",
+            "defineVi": "một hình dạng ba chiều được tạo thành từ 14 mặt, 21 đỉnh và 36 cạnh, với sự sắp xếp đối xứng của các đa giác",
+            "hasImg": true
+        },
+        {
+            "id": "850be0b5-a149-4951-b071-1f23e2f6bd03",
+            "word": "uniform polyhedron",
+            "phonetic": "juːnɪfɔːɹm pɑːlɪhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW5pZm9ybSBwb2x5aGVkcm9u&hash=79c77921299a0bc500d8802f9b0ff373847dd9bd&lang=en&cache-only=0",
+            "defineEn": "a convex polyhedron in geometry that has regular polygons as its faces and is vertex-transitive",
+            "defineVi": "một đa diện lồi trong hình học có đa giác đều như các mặt của nó và là đỉnh bắc cầu",
+            "hasImg": true
+        },
+        {
+            "id": "96ecdd0b-42da-44ec-8889-444eb50f79e0",
+            "word": "Archimedean solid",
+            "phonetic": "ɑːɹkɪmɛdiən sɑːlɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QXJjaGltZWRlYW4gc29saWQ&hash=e1d128454ff558beb08646487c6f232c78ab926c&lang=en&cache-only=0",
+            "defineEn": "a semi-regular convex polyhedron in geometry that has a combination of regular polygons as its faces, with identical vertices and edges, and is vertex-transitive",
+            "defineVi": "một đa diện lồi nửa đều trong hình học có sự kết hợp của các đa giác đều làm các mặt của nó, với các đỉnh và cạnh giống hệt nhau và có tính chuyển tiếp đỉnh",
+            "hasImg": true
+        },
+        {
+            "id": "d35de40f-f321-401a-ac5f-51a85d19cb49",
+            "word": "snub dodecahedron",
+            "phonetic": "snʌb doʊdɛkɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c251YiBkb2RlY2FoZWRyb24&hash=542f7db9cb43dfbb34015026ddae4163a81a7f8b&lang=en&cache-only=0",
+            "defineEn": "a non-convex Archimedean solid with icosahedral symmetry, consisting of 80 equilateral triangles and 12 regular pentagons",
+            "defineVi": "một chất rắn Archimedes không lồi với đối xứng icosah thờ, bao gồm 80 tam giác đều và 12 ngũ giác đều",
+            "hasImg": true
+        },
+        {
+            "id": "4a982c9f-ca81-4ac7-ac28-682b79d8eb16",
+            "word": "pyramid",
+            "phonetic": "pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pyramids can be reached by public transport.",
+                "Pyramids are canceled.",
+                "Pyramid schemes can be incredibly destructive to individuals, communities, and even entire countries.",
+                "A rectangular pyramid is a polyhedron.",
+                "This time our pyramid is five cups high!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHlyYW1pZA&hash=595619b0554ffa87d6a6f979dbb6b36564f71334&lang=en&cache-only=0",
+            "defineEn": "a solid object with a square base and four triangular sides joined to a point on the top",
+            "defineVi": "một vật rắn có đáy là hình vuông và bốn cạnh là hình tam giác được nối với một điểm trên đỉnh",
+            "hasImg": true
+        },
+        {
+            "id": "453b67a5-d18a-49fe-a81c-f151c899c12a",
+            "word": "triangular-based pyramid",
+            "phonetic": "tɹaɪæŋɡjʊlɚbeɪst pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJpYW5ndWxhci1iYXNlZCBweXJhbWlk&hash=2f9a44db25ca6e37edd3c71f051495287b6189ea&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape with a triangular base and triangular faces that meet at a common vertex or apex point",
+            "defineVi": "một hình dạng hình học ba chiều với đáy hình tam giác và các mặt tam giác gặp nhau tại một đỉnh hoặc điểm đỉnh chung"
+        },
+        {
+            "id": "6df63766-9424-445f-b832-cdfef77f7e14",
+            "word": "square pyramid",
+            "phonetic": "skwɛɹ pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJlIHB5cmFtaWQ&hash=dd4763deabd2b5dbb1d460d44186b57d9d9fec39&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape with a square base and four triangular faces that meet at a common vertex or apex point",
+            "defineVi": "một hình dạng hình học ba chiều với một đáy hình vuông và bốn mặt hình tam giác gặp nhau tại một đỉnh chung hoặc điểm đỉnh",
+            "hasImg": true
+        },
+        {
+            "id": "03dab312-2495-4a37-82d6-003f36d63789",
+            "word": "pentagonal pyramid",
+            "phonetic": "pɛntɐɡənəl pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVudGFnb25hbCBweXJhbWlk&hash=338fee8b76a8aacfd3ee58f3d8bbccfe98d17040&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape with a pentagonal base and five triangular faces that meet at a common vertex or apex point",
+            "defineVi": "một hình dạng hình học ba chiều với đáy hình ngũ giác và năm mặt hình tam giác gặp nhau tại một đỉnh hoặc điểm đỉnh chung"
+        },
+        {
+            "id": "cb499cd9-1d00-415b-9e6c-3ef93c4db56f",
+            "word": "stellated dodecahedron",
+            "phonetic": "stɛleɪɾᵻd doʊdɛkɐhiːdɹən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RlbGxhdGVkIGRvZGVjYWhlZHJvbg&hash=7ca06088ba33685db9aed094e1ecf0785e38b708&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape formed by extending the faces of a regular dodecahedron to create additional triangular faces or spikes",
+            "defineVi": "một hình dạng hình học ba chiều được hình thành bằng cách mở rộng các mặt của một khối mười hai mặt thông thường để tạo ra các mặt hoặc gai hình tam giác bổ sung"
+        },
+        {
+            "id": "53052441-2a4c-4eaa-ad9e-b6589cb1eb67",
+            "word": "hexagonal pyramid",
+            "phonetic": "hɛksɐɡənəl pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGV4YWdvbmFsIHB5cmFtaWQ&hash=20ff38775dc07c8dc3d168de91e71d41b1d61469&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape with a hexagonal base and triangular faces that meet at a common vertex",
+            "defineVi": "một hình dạng hình học ba chiều với đáy hình lục giác và các mặt hình tam giác gặp nhau tại một đỉnh chung"
+        },
+        {
+            "id": "4a864790-1f79-4411-a45f-2bbed4654313",
+            "word": "heptagonal pyramid",
+            "phonetic": "hɛptɐɡənəl pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVwdGFnb25hbCBweXJhbWlk&hash=e4ba7d18e6be00f6fdf1f878e7a728a93f84ff1c&lang=en&cache-only=0",
+            "defineEn": "a three-dimensional geometric shape with a heptagonal base and triangular faces that meet at a common vertex",
+            "defineVi": "một hình dạng hình học ba chiều với đáy hình lục giác và các mặt hình tam giác gặp nhau tại một đỉnh chung",
+            "hasImg": true
+        },
+        {
+            "id": "2eb4170a-1c73-4bee-9203-c294de24256f",
+            "word": "octagonal pyramid",
+            "phonetic": "ɑːktɐɡənəl pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b2N0YWdvbmFsIHB5cmFtaWQ&hash=490736fc6ea060b5b68604bbc25e2d26dd1e550d&lang=en&cache-only=0",
+            "defineEn": "a geometric shape consisting of an octagonal base and triangular faces that converge to a single point or vertex at the top",
+            "defineVi": "một hình dạng hình học bao gồm một cơ sở hình bát giác và các mặt hình tam giác hội tụ tại một điểm hoặc một đỉnh ở trên cùng"
+        }
+    ]
+}

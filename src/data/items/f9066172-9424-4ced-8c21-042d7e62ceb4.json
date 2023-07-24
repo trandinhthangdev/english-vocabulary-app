@@ -1,0 +1,580 @@
+{
+    "id": "f9066172-9424-4ced-8c21-042d7e62ceb4",
+    "title": "I Didn't Choose the Urban Life!",
+    "originalTitle": "Lesson 58",
+    "words": [
+        {
+            "id": "f022cb11-8ec2-46ad-a827-4673b3faec94",
+            "word": "abandoned",
+            "phonetic": "ɐbændənd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWJhbmRvbmVk&hash=5885cf174aee5efa74eedfff62790d69993f5897&lang=en&cache-only=0",
+            "defineEn": "(of a building, car, etc.) left and not needed or used anymore",
+            "defineVi": "(của một tòa nhà, ô tô, v.v.) bị bỏ lại và không cần thiết hoặc sử dụng nữa",
+            "hasImg": true
+        },
+        {
+            "id": "ae7f91be-fc08-4cfb-a0eb-d9e9b588fb61",
+            "word": "classical",
+            "phonetic": "klæsɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "In classical mythology, the griffin has the body of a lion with the head and wings of an eagle.",
+                "Classical computer and other potential use comes from Wall Street.",
+                "So that’s classical conditioning.",
+                "This is all classical mechanics.",
+                "These qubits can solve problems exponentially faster than classical digital computers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhc3NpY2Fs&hash=604d05011281b0c1f48618b9ec0b1060a840060f&lang=en&cache-only=0",
+            "defineEn": "affected by or related to the culture of ancient Rome and Greece",
+            "defineVi": "bị ảnh hưởng bởi hoặc liên quan đến văn hóa của La Mã cổ đại và Hy Lạp"
+        },
+        {
+            "id": "1c705c0f-76c1-4bc5-84b7-d851a193148a",
+            "word": "external",
+            "phonetic": "ɛkstɜːnəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Snakes are cold-blooded animals, relying on external sources to regulate their body temperature.",
+                "I need to format my external hard drive before transferring files to it.",
+                "These animals don’t have protective external shells.",
+                "The external processor doesn't even get audio feedback.",
+                "Cigarettes generate high external costs on society."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0ZXJuYWw&hash=287dd47f7d78ee9d651b616a401cc0506f2a0e67&lang=en&cache-only=0",
+            "defineEn": "situated on or related to the outer surface of something or someone",
+            "defineVi": "nằm trên hoặc liên quan đến bề mặt bên ngoài của một cái gì đó hoặc ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "04830fe5-556c-478e-80d7-cbe5c3a41586",
+            "word": "industrial",
+            "phonetic": "ɪndʌstɹɪəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "An industrial machine like that can cut through any material like a knife through butter.",
+                "On Thursday the airline had to charter 10 aircraft to counter industrial action by its pilots, who are on a work-to-rule.",
+                "The report names and shames companies that are not doing enough to fight industrial pollution.",
+                "Meanwhile, technology was rapidly increasing industrial productivity.",
+                "But industrial engineers do things a bit differently."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5kdXN0cmlhbA&hash=f1589a024576c4986599d82fddd3b37a168935ae&lang=en&cache-only=0",
+            "defineEn": "related to the manufacturing or production of goods on a large scale",
+            "defineVi": "liên quan đến sản xuất hoặc sản xuất hàng hóa trên quy mô lớn",
+            "hasImg": true
+        },
+        {
+            "id": "6b6ad1ea-4d09-4c3a-8a2a-f2487b35f6d8",
+            "word": "open-plan",
+            "phonetic": "oʊpənplæn ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b3Blbi1wbGFu&hash=cabd1a0791c21e873cc3bf52bfe950015cbe840b&lang=en&cache-only=0",
+            "defineEn": "(of buildings or rooms) having no or few walls inside; therefore, with almost no divided parts",
+            "defineVi": "(của các tòa nhà hoặc phòng) không có hoặc có ít tường bên trong; do đó, hầu như không có phần nào bị chia cắt",
+            "hasImg": true
+        },
+        {
+            "id": "a6d44d00-ace1-4add-a80e-f3f54bc449e1",
+            "word": "spacious",
+            "phonetic": "speɪʃəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The corridor led into a spacious living room.",
+                "The airplane cabin was spacious and comfortable.",
+                "The campsite was set up on a spacious riverbank, providing a picturesque view of the flowing water.",
+                "This highly efficient design gave the tiny car a spacious interior.",
+                "It's pretty spacious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2lvdXM&hash=a143e6ad43e01fb2913c06415da0c209f5ed2f92&lang=en&cache-only=0",
+            "defineEn": "(of a room, house, etc.) large with a lot of space inside",
+            "defineVi": "(của một căn phòng, ngôi nhà, v.v.) lớn với nhiều không gian bên trong",
+            "hasImg": true
+        },
+        {
+            "id": "f40e22d8-737c-4512-9316-7b53df8bff7f",
+            "word": "to construct",
+            "phonetic": "tə kənstɹʌkt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The workers construct the building from the ground up.",
+                "He spent many weekends designing and constructing it, and his kids love playing in it.",
+                "Advanced software can then construct extremely detailed 3-D models of the pipe walls. ",
+                "An ant colony can construct complex structures.",
+                "In other words, your brain constructs your perceptions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc3RydWN0&hash=69a34b36878957d46aa4cd755f6933e9562e319e&lang=en&cache-only=0",
+            "defineEn": "to make or build a house, bridge, machine, etc.",
+            "defineVi": "để làm hoặc xây dựng một ngôi nhà, cây cầu, máy móc, vv",
+            "hasImg": true
+        },
+        {
+            "id": "db35d60f-3d93-47d4-9c36-708916aaf383",
+            "word": "brick",
+            "phonetic": "bɹɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The plan ran into a brick wall.",
+                "Traditional stores are now pursuing a bricks and clicks strategy.",
+                "You cannot make bricks without straw.",
+                "The news of her accident hit me like a ton of bricks.",
+                "I brought some brick cheese to go along with the crackers and grapes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJpY2s&hash=e66327ffb17a9c6e7c863116cdd6e386bc17f3c1&lang=en&cache-only=0",
+            "defineEn": "a block of baked clay, mostly used to build houses, walls, etc.",
+            "defineVi": "một khối đất sét nung, chủ yếu dùng để xây nhà, tường, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "132c5a81-0d91-4ae9-a29a-377d5d78f9c8",
+            "word": "column",
+            "phonetic": "kɑːlʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The newspaper has a column where readers can write in and ask for advice.",
+                "The man was such a bleeding-heart knee-jerk liberal that you could predict the rest of the column after reading the first sentence.",
+                "Draw the columns just like that.",
+                "This column here is Trump's face over the Little Rascals.",
+                "So each row now becomes a column."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sdW1u&hash=9a8ba8a0cc646c3e4f2ef6b311a7d591a443908e&lang=en&cache-only=0",
+            "defineEn": "an upright and tall pillar, often made of stone, supporting or decorating a structure or used as a monument",
+            "defineVi": "một cột thẳng đứng và cao, thường được làm bằng đá, hỗ trợ hoặc trang trí một cấu trúc hoặc được sử dụng làm tượng đài",
+            "hasImg": true
+        },
+        {
+            "id": "57af7472-4024-48a9-8ac0-b9c80cba1732",
+            "word": "concrete",
+            "phonetic": "kɑːŋkɹiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Leave the concrete to set for a few hours.",
+                "The CEO gave a great speech about the company's commitment to social responsibility, but talk is cheap unless they start implementing concrete actions to reduce their carbon footprint.",
+                "So the concrete is inherently stronger.",
+                "Concrete blocks therefore are very well suited for this type of construction.",
+                "The concrete industry uses about 3 trillion liters of water a year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uY3JldGU&hash=091b554dde500bac878936298c2c64c6d528db2c&lang=en&cache-only=0",
+            "defineEn": "a hard material used for building a house, etc. that is made of the mixture of cement, water, sand, and small stones",
+            "defineVi": "một vật liệu cứng được sử dụng để xây dựng một ngôi nhà, vv được làm từ hỗn hợp xi măng, nước, cát và đá nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "88157cc1-7d99-4acf-a850-ae7fe9f3222a",
+            "word": "development",
+            "phonetic": "dɪvɛləpmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The girls watched the development of this relationship with incredulity.",
+                "Permission for the development was granted in the teeth of opposition from local shopkeepers.",
+                "We'll watch for any developments.",
+                "Space movies have set the pace for the development of special effects.",
+                "The plans for the new development have raised angry protests from local residents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGV2ZWxvcG1lbnQ&hash=26e0a3fc5693dca5b0cb6b86df1453803a0c7e77&lang=en&cache-only=0",
+            "defineEn": "a piece of land that new buildings are built in",
+            "defineVi": "một mảnh đất mà tòa nhà mới được xây dựng trong"
+        },
+        {
+            "id": "a0042470-542c-4289-ad6a-e56070a05624",
+            "word": "digger",
+            "phonetic": "dɪɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "John's family had concerns about his fiancée, suspecting she might be a gold digger who was after his inheritance.",
+                "Wealthy bachelor Jimmy Norton, engaged to a gold digger, lies his way out of a speeding ticket by claiming to be on his way to visit his daughter at the Children's Hospital.",
+                "Charlotte's friends warned her about the guy she was dating, saying he had a reputation for dating wealthy women and being a gold digger.",
+                "So mole crabs have become champion diggers.",
+                "They're swimmers and sleepers, crawlers and diggers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlnZ2Vy&hash=24f1b6234c98d966b29257877e06c44c8f8b6747&lang=en&cache-only=0",
+            "defineEn": "a machine used for digging earth",
+            "defineVi": "một máy dùng để đào đất",
+            "hasImg": true
+        },
+        {
+            "id": "400703bf-0348-4274-a658-9afc8ca76da9",
+            "word": "passage",
+            "phonetic": "pæsɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We mark important passages in a book with a pencil underline.",
+                "Having a shot at driving a car when you are a teenager is a right of passage.",
+                "I know by heart that there are passages devoted to this in our substantial programme.",
+                "With that, a backlog of some 370 ships resumed their passage through the canal.",
+                "Gravity also alters the passage of time itself."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzc2FnZQ&hash=750466970c092a3b8c8def9f6fc6c135a4ebcbdc&lang=en&cache-only=0",
+            "defineEn": "a narrow way that provides access to rooms inside a building or between other buildings",
+            "defineVi": "một con đường hẹp cung cấp quyền truy cập vào phòng bên trong một tòa nhà hoặc giữa các tòa nhà khác",
+            "hasImg": true
+        },
+        {
+            "id": "851783e4-24a2-4338-a04a-d54045e4ce9e",
+            "word": "exit",
+            "phonetic": "ɛɡzɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We better stop at the next exit to make sure we don't run out of gas.",
+                "Frustrated with the congestion, he started elbowing through the packed hallway to reach the exit.",
+                "The flavor has exited the building.",
+                "Three Democratic candidates in three days have exited the Democratic race for president.",
+                "Bad exit, go back!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhpdA&hash=4056c96c98934dd93ddd25fe0f04b865e25a1ad9&lang=en&cache-only=0",
+            "defineEn": "a part of a road through which vehicles can move on to another",
+            "defineVi": "một phần của con đường mà các phương tiện có thể di chuyển sang một con đường khác",
+            "hasImg": true
+        },
+        {
+            "id": "2c65f8d9-3f09-4237-a64b-2e268f8c8e12",
+            "word": "hut",
+            "phonetic": "hʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There were no houses for them, and, living as they did during the hot season in badly ventilated huts, they died like flies.",
+                "Except for that whole chicken footed hut deal.",
+                "Hiding under her little hut.",
+                "The recruits spend about five minutes inside the gas hut.",
+                "She has arrived at Baba Yaga’s hut."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHV0&hash=81271e7343464aa95cf59263ad296d6759cd9485&lang=en&cache-only=0",
+            "defineEn": "a small simple house or shelter that usually has only one room",
+            "defineVi": "một ngôi nhà đơn giản nhỏ hoặc nơi trú ẩn mà thường chỉ có một phòng",
+            "hasImg": true
+        },
+        {
+            "id": "2100c0d1-1e81-4511-b80c-c9b86a6fcb8d",
+            "word": "to level",
+            "phonetic": "tə lɛvəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Water will always find its own level.",
+                "The Geiger counter detected high levels of radiation in the vicinity of the radioactive material.",
+                "As the saying goes, new levels, new devils.",
+                "The conflict has now reached a new level of intensity.",
+                "All through the hijacking the pilot kept a level head."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGV2ZWw&hash=5515a1d59479a6143f96da13e0381db0333286f2&lang=en&cache-only=0",
+            "defineEn": "to destroy a building, area, etc. completely",
+            "defineVi": "để phá hủy một tòa nhà, khu vực, vv hoàn toàn"
+        },
+        {
+            "id": "66183cc9-a556-46f4-ac4f-19e98d00849e",
+            "word": "to rebuild",
+            "phonetic": "tə ɹᵻbɪld ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "After the scandal, the politician worked hard to rebuild his reputation and live down the controversy.",
+                "The volunteers who helped rebuild the school after the earthquake are making a world of difference in the lives of the students and their families.",
+                "The city had suffered from a natural disaster, but with the help of government aid and community support, it was able to regain its feet and rebuild stronger than before.",
+                "After the disagreement, they decided to put their differences aside and work on rebuilding their friendship, so they are now on good terms.",
+                "The couple who had grown apart in their relationship understood that it is never too late to mend and worked together to strengthen their bond and rebuild their connection."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVidWlsZA&hash=dd86b14a6bb01fc1d98dd488a82e84f6dbacb009&lang=en&cache-only=0",
+            "defineEn": "to build something once again, after it has been destroyed or severely damaged",
+            "defineVi": "để xây dựng một cái gì đó một lần nữa, sau khi nó đã bị phá hủy hoặc hư hỏng nghiêm trọng"
+        },
+        {
+            "id": "131936c2-ed14-4d16-b81c-d805af42c4a0",
+            "word": "ruin",
+            "phonetic": "ɹuːɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The highly visible ruins serve as a reminder of the building's history.",
+                "The scandal ruined his reputation and now his name is mud.",
+                "The company's reputation was ruined by the scandal, and there was no unringing the bell.",
+                "In the world of social media, bad news travels fast, and a single post can ruin a person's reputation.",
+                "He handed in his notice at the bank and ruined his promising career."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cnVpbg&hash=ae139b151f8bf6289543fc2edc680aa843650f3d&lang=en&cache-only=0",
+            "defineEn": "the remains of a building after it has been seriously damaged or destroyed",
+            "defineVi": "phần còn lại của một tòa nhà sau khi nó đã bị hư hại nghiêm trọng hoặc bị phá hủy",
+            "hasImg": true
+        },
+        {
+            "id": "a1fc14cf-023a-4fec-a3b3-e8914f6ce95e",
+            "word": "curb",
+            "phonetic": "kɜːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He accidentally scuffed the toe of his leather dress shoes against the curb, leaving a small mark.",
+                "Police followed the car along Station Road where it mounted the curb again.",
+                "A new law is proposed to curb this type of blatantly dishonest description, and not before time",
+                "The curbs were imposed under the Obama administration.",
+                "As the virus has spread, both vacationers and business travelers have curb ed their plans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VyYg&hash=c8b1b02f9edd6785620f168cd690f73e7c2327a3&lang=en&cache-only=0",
+            "defineEn": "the raised edge at the side of a street, usually made of stone",
+            "defineVi": "mép nhô lên ở bên đường, thường làm bằng đá",
+            "hasImg": true
+        },
+        {
+            "id": "12ff5c07-8f4d-4ee9-8369-cbec642af9fe",
+            "word": "landfill",
+            "phonetic": "lændfɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "[Squeaks squeaks] Yep, landfill is another word for a dump.",
+                "None of this stuff ever had to go to landfill.",
+                "In the US alone, 11 million tons of clothing, shoes, and textiles end up in landfills every year.",
+                "Batteries from EVs will not go in landfills.",
+                "We use landfills to keep a community’s garbage in one area."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFuZGZpbGw&hash=34071815ba66722d4a08fe27d44c4512ea26673c&lang=en&cache-only=0",
+            "defineEn": "a piece of land under which waste material is buried",
+            "defineVi": "một mảnh đất dưới đó chất thải được chôn cất",
+            "hasImg": true
+        },
+        {
+            "id": "b91b3f9d-6c9e-47d8-aa11-31c1cbfcc4d9",
+            "word": "sewer",
+            "phonetic": "suːɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The company actually used this technique on the sewers under one of the most famous buildings in the United States, the White House, in Washington, D.C. ",
+                "For now, Kentucky's attorney general has successfully blocked Bevin's sewer bill in court.",
+                "Sewers, come get him!",
+                "She escaped through sewers, sewage water up to her neck.",
+                "The channels of the sewer system are lined with baked clay or plastic. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V3ZXI&hash=0626775bb7add94045bd50d88903e1dd25005298&lang=en&cache-only=0",
+            "defineEn": "a pipe built underground through which used water and waste matter from houses, factories, etc. is carried away",
+            "defineVi": "một đường ống được xây dựng dưới lòng đất qua đó nước đã qua sử dụng và chất thải từ nhà ở, nhà máy, v.v. được mang đi"
+        },
+        {
+            "id": "937099a8-21bf-4604-9467-b85137d34a11",
+            "word": "landmark",
+            "phonetic": "lændmɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Great Wall of China is a famous landmark in Asia.",
+                "The Statue of Liberty is a famous American landmark.",
+                "Paris, the capital city of France, is home to iconic landmarks such as the Eiffel Tower and Notre-Dame Cathedral.",
+                "Europe is home to famous landmarks like the Eiffel Tower, Colosseum, and Big Ben.",
+                "The Eiffel Tower is a famous landmark in France and attracts millions of tourists every year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFuZG1hcms&hash=a566ce1a4b102866c6e7628a947ce75e8ea8d216&lang=en&cache-only=0",
+            "defineEn": "a structure or a place that is historically important",
+            "defineVi": "một cấu trúc hoặc một nơi đó là lịch sử quan trọng",
+            "hasImg": true
+        },
+        {
+            "id": "c65dc4af-4bf1-4d17-8e20-9612c1be314d",
+            "word": "monument",
+            "phonetic": "mɑːnjuːmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That monument has been there since the year one.",
+                "Monuments were raised in honor of the dead.",
+                "A monument is an ideal.",
+                "A monument is an ideal.",
+                "New Confederate monuments in the 1880s and 1890s were promoting a return to white supremacy and institutional slavery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9udW1lbnQ&hash=8c3265361a0e65ed2246b5dac1d2821c0ea2951d&lang=en&cache-only=0",
+            "defineEn": "a structure built in honor of a public figure or a special event",
+            "defineVi": "một cấu trúc được xây dựng để vinh danh một nhân vật của công chúng hoặc một sự kiện đặc biệt"
+        },
+        {
+            "id": "9f60122a-3064-4712-939d-2c42a80cef89",
+            "word": "facility",
+            "phonetic": "fəsɪlᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He uses the apartment's laundry facilities to wash his clothes.",
+                "Adequate facilities already exist to serve the needs of people visting the town.",
+                "There are baby changing facilities in all our stores.",
+                "This facility processes up to a million tons of waste annually.",
+                "Each year, Ocean Spray facilities produce about 88 million cans of cranberry sauce, and 223 million bottles of juice!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFjaWxpdHk&hash=1f6d17f03987ef2438922aeb41d6267c60444f77&lang=en&cache-only=0",
+            "defineEn": "a place or a building that has a specific use",
+            "defineVi": "một nơi hoặc một tòa nhà có một sử dụng cụ thể"
+        },
+        {
+            "id": "1dadae9b-34b0-4fa6-a1f4-ad954343ebb1",
+            "word": "casino",
+            "phonetic": "kɐsiːnoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She may have won the jackpot at the casino, but she's still searching for her soulmate.",
+                "He couldn't resist the siren call of the slot machines and spent all his savings at the casino.",
+                "The casino was the size of two football fields.",
+                "All three casinos are facing bankruptcy.",
+                "They drive their RV to casinos."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzaW5v&hash=6a6dd6b5ce926b27f663af1eab782074a9fcbfdf&lang=en&cache-only=0",
+            "defineEn": "a place where people play and bet their money on gambling games",
+            "defineVi": "một nơi mà mọi người chơi và đặt cược tiền của họ vào các trò chơi cờ bạc",
+            "hasImg": true
+        },
+        {
+            "id": "38fee297-4c72-45a2-9e3d-a487406165f0",
+            "word": "courthouse",
+            "phonetic": "koːɹthaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Despite their families' objections, they followed their hearts and got hitched in a small, intimate ceremony at a local courthouse.",
+                "Immigration agents will also curtail arrests in or near courthouses.",
+                "He disappeared out into the prairie to another county courthouse to press cases.",
+                "Outside the courthouse today, a prayer vigil was held with the families of Floyd and 20-year-old Daunte Wright, killed a week ago in a police shooting.",
+                "For now, all eyes are on the courthouse, where a jury will decide whether former Minneapolis police officer Derek Chauvin is guilty of second-degree murder and manslaughter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y291cnRob3VzZQ&hash=a17f2bb0aeddc1acb1e0a59fefeb0877478b589b&lang=en&cache-only=0",
+            "defineEn": "a building containing law courts",
+            "defineVi": "một tòa nhà chứa các tòa án pháp luật"
+        },
+        {
+            "id": "030946d7-3075-4c47-abff-24ed10275072",
+            "word": "disco",
+            "phonetic": "dɪskoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s disco without the luxury.",
+                "Dr. Cole has been deejaying disco mornings.",
+                "Everything about disco and twirling around in furs under a disco ball.",
+                "Disco glasses-- sparkly glasses.",
+                "And an actual disco golf ball made by a crash course fan!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY28&hash=a5f1ca0b01bd7b1973723c779c3fda785225c31b&lang=en&cache-only=0",
+            "defineEn": "a place or party at which people dance to music",
+            "defineVi": "một địa điểm hoặc bữa tiệc mà mọi người nhảy theo nhạc",
+            "hasImg": true
+        },
+        {
+            "id": "fb0c06c6-11f7-474e-85e9-9f6546fa9aad",
+            "word": "nursing home",
+            "phonetic": "nɜːsɪŋ hoʊm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her family put her into a nursing home.",
+                "The last thing I wanted was for my parents to go into a nursing home, but in the end even I could see it was for the best.",
+                "Across the country, every state included nursing homes in their phase one vaccine rollouts.",
+                "In nursing homes, the numbers were especially troubling.",
+                "This includes nursing homes, skilled nursing facilities and assisted living facilities."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVyc2luZyBob21l&hash=cf515894a82abdb4b98dc4098f7e1e1d91ef48aa&lang=en&cache-only=0",
+            "defineEn": "a private institute where old people live and are taken care of",
+            "defineVi": "một viện tư nhân nơi người già sống và được chăm sóc",
+            "hasImg": true
+        },
+        {
+            "id": "109742df-18f1-447e-b8be-6d740654a76b",
+            "word": "schoolhouse",
+            "phonetic": "skuːlhaʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It just sounded kind of a fun, instead of one room schoolhouse, one world.",
+                "Some schools built kitchens connected to the schoolhouses where cooks and staff would make hot lunches or sandwiches for students in the early 20th century.",
+                "On the set when we were filming, when we were filming on the stage, our schoolhouse was kind of a oneroom schoolhouse.",
+                "On the set when we were filming, when we were filming on the stage, our schoolhouse was kind of a oneroom schoolhouse.",
+                "And then when we were on location, we filmed in the one room we went to school in the oneroom schoolhouse."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Nob29saG91c2U&hash=b7ab90b6335890b9c666f8626a060619662137ea&lang=en&cache-only=0",
+            "defineEn": "a small building, often in a village, that is used as a school",
+            "defineVi": "một tòa nhà nhỏ, thường là trong một ngôi làng, được sử dụng như một trường học"
+        },
+        {
+            "id": "c00c6e8f-b2dd-4f1a-9aad-1908c38fceb9",
+            "word": "structure",
+            "phonetic": "stɹʌktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We spent hours building structures with construction toys.",
+                "The tall building stands out among the other structures in the city.",
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "They're up in arms over the new management structure.",
+                "We examined the caryopsis of the rice grain under the microscope, observing its unique structure."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RydWN0dXJl&hash=fba9bea6c4a37b90293588bea22f8b0b3aeb5833&lang=en&cache-only=0",
+            "defineEn": "anything that is built from several parts, such as a house, bridge, etc.",
+            "defineVi": "bất cứ thứ gì được xây dựng từ nhiều bộ phận, chẳng hạn như một ngôi nhà, cây cầu, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "ef71bb81-1eda-4d2a-8380-73095851ea8e",
+            "word": "town hall",
+            "phonetic": "taʊn hɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bill Clinton had held town halls all around the country.",
+                "This odd skull went on display at Klagenfurt’s Town Hall, where it remained for hundreds of years.",
+                "Along the way, there have been police reports, lawsuits, town halls, blood tests and a lot of water samples.",
+                "David, I'm going to start with you on those two town halls.",
+                "[Narrator] From time to time, all over New England, we gather at our town hall to hammer out the public opinion in meetings like this."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG93biBoYWxs&hash=a728aa664018f32f9c8159991749e99978702bc0&lang=en&cache-only=0",
+            "defineEn": "a building in which the officials of a town work",
+            "defineVi": "một tòa nhà trong đó các quan chức của một thị trấn làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "1844fd43-ce7c-4d56-8a5d-3ebf731f4417",
+            "word": "funeral home",
+            "phonetic": "fjuːnɚɹəl hoʊm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Funeral homes have a unique business model.",
+                "Funeral homes are really overwhelmed.",
+                "Most funeral home directors are small business owners.",
+                "Funeral homes can charge upwards of 10 grand for a coffin.",
+                "Funeral homes began expanding beyond family-operated businesses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVuZXJhbCBob21l&hash=72c5722085cc0b36951383708e18317f965a386e&lang=en&cache-only=0",
+            "defineEn": "a place where dead bodies are prepared in order to be buried or burned",
+            "defineVi": "một nơi xác chết được chuẩn bị để chôn cất hoặc đốt cháy"
+        },
+        {
+            "id": "cb323b2d-e0ef-4cc8-89c3-e6ab318159ab",
+            "word": "graveyard",
+            "phonetic": "ɡɹeɪvjɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Then he, too, left the graveyard.",
+                "The graveyard was on a hill, about a mile from St Petersburg.",
+                "Even working in graveyards.",
+                "Sometimes, sand is a graveyard, full of dead bodies.",
+                "This is the graveyard system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhdmV5YXJk&hash=7b91eb371350b68a2f8dc99150b58ebc9239c71b&lang=en&cache-only=0",
+            "defineEn": "a piece of land where dead people are buried, often situated near a church",
+            "defineVi": "một mảnh đất nơi người chết được chôn cất, thường nằm gần một nhà thờ",
+            "hasImg": true
+        },
+        {
+            "id": "95434afd-7e8a-4987-b81a-4d314482ad33",
+            "word": "tomb",
+            "phonetic": "tuːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The tomb is guarded day and night by soldiers.",
+                "The exploration of an ancient Mayan burial site in Honduras uncovered the tomb of a young woman, confined there for 1.400 years. ",
+                "- They found it in ancient Egyptian tombs.",
+                "And next to the tomb, there was a word.",
+                "The President's wreath symbolizes the memorial tribute of a nation at the Tomb of the Unknown Soldier."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9tYg&hash=4d522556aeffca2b1477cd2e97a334608d4cc3c4&lang=en&cache-only=0",
+            "defineEn": "an overground or underground grave that is large in size and is often made of stone",
+            "defineVi": "một ngôi mộ trên mặt đất hoặc dưới lòng đất có kích thước lớn và thường được làm bằng đá",
+            "hasImg": true
+        },
+        {
+            "id": "37298f14-0dcf-456d-a47c-207bcc3c55fb",
+            "word": "depression",
+            "phonetic": "dᵻpɹɛʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After struggling with depression for years, taking up a new hobby like painting might do Jane a world of good.",
+                "John was a silent sufferer, never letting on to his colleagues that he was struggling with anxiety and depression.",
+                "This episode finds him deep in depression as divorce looms large.",
+                "Depression darkens my door and steals so many chunks of what makes me who I am.",
+                "Too much black bile, for example, causes depression."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwcmVzc2lvbg&hash=e97badb39be6db880c5316d35a258a2031312f00&lang=en&cache-only=0",
+            "defineEn": "a mental condition in which a person feels severe sadness and dejection, usually with physical symptoms such as insomnia, lethargy, etc.",
+            "defineVi": "một tình trạng tâm thần trong đó một người cảm thấy buồn bã và chán nản nghiêm trọng, thường có các triệu chứng thể chất như mất ngủ, thờ ơ, v.v.",
+            "hasImg": true
+        }
+    ]
+}

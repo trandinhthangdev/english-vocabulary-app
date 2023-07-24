@@ -1,0 +1,854 @@
+{
+    "id": "40369bc0-744c-4849-ae81-f7b92b1a3fa5",
+    "title": "Lesson 5B",
+    "originalTitle": "Lesson 5B",
+    "words": [
+        {
+            "id": "26b2e669-abc8-4651-81dd-2891561e33b0",
+            "word": "money",
+            "phonetic": "mʌni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The business is losing money.",
+                "Money can't buy happiness.",
+                "Money means nothing to him.",
+                "A lot of people give money to good causes.",
+                "My parents give me pocket money every week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9uZXk&hash=4178e5094d54a8d5b469b59d4a203aa9d6c9cf7c&lang=en&cache-only=0",
+            "defineEn": "something that people use to buy and sell goods and services, can be in the form of coins or paper bills",
+            "defineVi": "thứ mà mọi người sử dụng để mua và bán hàng hóa và dịch vụ, có thể ở dạng tiền xu hoặc hóa đơn giấy",
+            "hasImg": true
+        },
+        {
+            "id": "544822bc-41f8-4bbe-b71b-aad39ba1a32c",
+            "word": "money does not grow on trees",
+            "phonetic": "mʌni dʌznɑːt ɡɹoʊ ɔn tɹiːz ",
+            "partOfSpeechType": "sentence",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9uZXkgZG9lcyBub3QgZ3JvdyBvbiB0cmVlcw&hash=8952e8099b1621f494ba1767cd449d8cd827944f&lang=en&cache-only=0",
+            "defineEn": "used to imply that money is not easily obtained or available, and one should not waste it unnecessarily",
+            "defineVi": "được sử dụng để ngụ ý rằng tiền không dễ dàng kiếm được hoặc có sẵn, và người ta không nên lãng phí nó một cách không cần thiết"
+        },
+        {
+            "id": "eedff642-3c07-49ee-aa6e-22c5f07f47fe",
+            "word": "tight-fisted",
+            "phonetic": "taɪtfɪstᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGlnaHQtZmlzdGVk&hash=fa4d9e6790c9b0ecb4f540786e3a86c39ee50290&lang=en&cache-only=0",
+            "defineEn": "spending or giving money reluctantly",
+            "defineVi": "chi tiêu hoặc cho tiền một cách miễn cưỡng",
+            "hasImg": true
+        },
+        {
+            "id": "39451981-525d-4933-a69e-b22ff4b4b42a",
+            "word": "an arm and (a|) leg",
+            "phonetic": "ɐn ɑːɹm ænd ɐ lɛɡ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW4gYXJtIGFuZCBhIGxlZw&hash=dd759b81efee6e5f92aede8d655167d374410407&lang=en&cache-only=0",
+            "defineEn": "a large sum of money",
+            "defineVi": "một khoản tiền lớn",
+            "hasImg": true
+        },
+        {
+            "id": "52ba103c-e17e-4462-86af-67374ff8cfe3",
+            "word": "to [make] (both|) ends meet",
+            "phonetic": "tə meɪk boʊθ ɛndz miːt ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWFrZSBib3RoIGVuZHMgbWVldA&hash=bcd2c5d18709ed3dc1be4c6acd87996a1a209a96&lang=en&cache-only=0",
+            "defineEn": "to make enough money to pay for one's basic needs",
+            "defineVi": "để kiếm đủ tiền để trả cho nhu cầu cơ bản của một người",
+            "hasImg": true
+        },
+        {
+            "id": "f6c58917-47f5-4064-a2a9-6159d9fcaa3e",
+            "word": "(in|into) the red",
+            "phonetic": "ɪn slæʃ ɪntʊ ðə ɹɛd ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW4gdGhlIHJlZA&hash=79655e5fb26648081563c873c1b7e9472cbc8987&lang=en&cache-only=0",
+            "defineEn": "in debt due to spending more than one's earnings",
+            "defineVi": "mắc nợ do chi tiêu nhiều hơn thu nhập của một người",
+            "hasImg": true
+        },
+        {
+            "id": "7b8109ab-a05b-4cf7-a01e-232a1c93079e",
+            "word": "in the black",
+            "phonetic": "ɪnðə blæk ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW4gdGhlIGJsYWNr&hash=3f77cbfc6fead1500b4286db77e7e394014f0635&lang=en&cache-only=0",
+            "defineEn": "used to refer to something, particularly a bank account, that is providing one with a considerable amount of profit",
+            "defineVi": "được sử dụng để chỉ một cái gì đó, đặc biệt là tài khoản ngân hàng, đang mang lại cho một người một khoản lợi nhuận đáng kể",
+            "hasImg": true
+        },
+        {
+            "id": "16f73e41-6a99-4334-aba9-7e92d835e998",
+            "word": "rip-off",
+            "phonetic": "ɹɪpɔf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now we don't look at a lot of rip-off products, fake iPhones, fake iPods, things like that over on the main channel.",
+                "- These have got ta be one of the most blatant rip-offs of the AirPods Pro that I have ever seen.",
+                "We’ve seen this kind of criminal activity in all kinds of direct rip-off scams, but to do so to push fake news, and the fact that they can make enough money to support these large ecosystems of people, was actually pretty surprising. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmlwLW9mZg&hash=62bb0dcd3db18a58c773a3d5d1ed8205a6a41e06&lang=en&cache-only=0",
+            "defineEn": "something that costs a lot more than its real value",
+            "defineVi": "một cái gì đó có giá cao hơn rất nhiều so với giá trị thực của nó",
+            "hasImg": true
+        },
+        {
+            "id": "ba9216bc-7b2f-4ae9-8190-3b55057d0620",
+            "word": "to [tighten] {one's} belt",
+            "phonetic": "tə taɪʔn̩ wʌn bækslæʃ ɛs bɛlt ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGlnaHRlbiB7b25lJ3N9IGJlbHQ&hash=3237a860cc9c153f6e1135d65507f7ace208cb75&lang=en&cache-only=0",
+            "defineEn": "to lessen the amount of money or resources one uses compared to before, particularly due to having less available",
+            "defineVi": "để giảm bớt số tiền hoặc tài nguyên một người sử dụng so với trước đây, đặc biệt là do có sẵn ít hơn"
+        },
+        {
+            "id": "3f9585a7-e680-460c-a7d3-d92ce48c458f",
+            "word": "to [live] beyond {one's} means",
+            "phonetic": "tə lɪv bᵻjɔnd wʌn bækslæʃ ɛs miːnz ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGl2ZSBiZXlvbmQge29uZSdzfSBtZWFucw&hash=f98d78cfb0745278902a07eadf1bed1830f2a3f3&lang=en&cache-only=0",
+            "defineEn": "to spend in a way that exceeds one's income",
+            "defineVi": "chi tiêu theo cách vượt quá thu nhập của một người"
+        },
+        {
+            "id": "29121ecd-eae9-4cef-9beb-121fcd2d51bb",
+            "word": "budget",
+            "phonetic": "bʌdʒɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Budget cuts are putting the squeeze on scientific research.",
+                "The budget can be balanced by raising income taxes by 2 percent.",
+                "The project's success is walking on shaky ground due to frequent delays and budget issues.",
+                "The business owner did not create a budget or a marketing strategy, and the company failed within a year.",
+                "The latest budget over-eggs the pudding yet again, spreading resources across too many sectors without enough funds to actually fix any of them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVkZ2V0&hash=d4a97d7dce87c996f8ba0bee600976bc3ee3d8c7&lang=en&cache-only=0",
+            "defineEn": "the sum of money that is available to a person, an organization, etc. for a particular purpose and the plan according to which it will be spent",
+            "defineVi": "tổng số tiền có sẵn cho một người, một tổ chức, v.v. cho một mục đích cụ thể và kế hoạch theo đó nó sẽ được chi tiêu",
+            "hasImg": true
+        },
+        {
+            "id": "d6940917-7abe-401f-b4ed-fa9444821398",
+            "word": "deposit",
+            "phonetic": "dᵻpɑːzɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I always put my important documents in a safe deposit box at the bank because safe bind, safe find.",
+                "I went to the bank to deposit some money into my savings account.",
+                "The coal deposits of Britain match deposits in the Appalachian Mountains of eastern North America.",
+                "Deposits above and below Dickinsonia had a mixture of about 10 percent cholesteroids and about 75 percent stigmasteroids.",
+                "A collection of Boder material was deposited here in 1967."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwb3NpdA&hash=3733a7b03915d194bacb18a57c7ebf14d5954fd9&lang=en&cache-only=0",
+            "defineEn": "a sum of money that is paid before paying a total amount, particularly when buying something that is expensive",
+            "defineVi": "một khoản tiền được trả trước khi trả tổng số tiền, đặc biệt là khi mua thứ gì đó đắt tiền"
+        },
+        {
+            "id": "3639257c-35e7-4bd0-8f30-7f8021d1c244",
+            "word": "donation",
+            "phonetic": "doʊneɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The organization supports various charitable causes through donations.",
+                "I gave a small donation.",
+                "The donation was made under the auspices of the local historical society.",
+                "Reputable charities spend the lion's share of donations on aid and a tiny fraction on administration.",
+                "The volunteers worked together to collect donations for the local food drive."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9uYXRpb24&hash=ab6ebfd3138b2e451ab97c9bb36d23fb23464556&lang=en&cache-only=0",
+            "defineEn": "something that is voluntarily given to someone or an organization to help them, such as money, food, etc.",
+            "defineVi": "một cái gì đó được trao tự nguyện cho ai đó hoặc một tổ chức để giúp đỡ họ, chẳng hạn như tiền, thức ăn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "7a552d00-a9ae-43d3-8c9a-cc66f82aabde",
+            "word": "fare",
+            "phonetic": "fɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No city has escaped the recession, but Seattle has fared best by a long shot.",
+                "With the pandemic putting a damper on public transit, the automotive industry continued to fare well while other verticals may have seen larger sales dips.",
+                "The company found that reducing the number of features on their product resulted in better sales, proving that the fewer, the better fare.",
+                "The fare jumps to $490.",
+                "Version two didn't fare much better."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFyZQ&hash=1f48024e68e028880e2f242563bc4cf84885295b&lang=en&cache-only=0",
+            "defineEn": "the amount of money we pay to travel with a bus, taxi, plane, etc.",
+            "defineVi": "số tiền chúng tôi phải trả để đi du lịch bằng xe buýt, taxi, máy bay, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "97b131e0-2249-44c9-a482-891cd8def419",
+            "word": "fee",
+            "phonetic": "fiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Just complete the form, pay the fee, and Bob's your uncle!",
+                "They had to use part of their retirement nest egg to pay for their son’s college fees.",
+                "While our designs are tailored to specific needs, our styling fee suits all pockets alike.",
+                "She won the court case, but it was a Pyrrhic victory because she had to pay so much in legal fees.",
+                "Although the banks will still collect fees."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVl&hash=00f7afcc7d5f95ee20e5151e1d7c94a6050717c3&lang=en&cache-only=0",
+            "defineEn": "the money that is paid to a professional or an organization for their services",
+            "defineVi": "số tiền được trả cho một chuyên gia hoặc một tổ chức cho các dịch vụ của họ",
+            "hasImg": true
+        },
+        {
+            "id": "e265308c-bfd1-42fd-9f4b-e83dc7bedd97",
+            "word": "fine",
+            "phonetic": "faɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "For the first offence I was given a fine.",
+                "There's a fine line between humour and inappropriateness.",
+                "Our fine traditions give us a head start on the competition.",
+                "Farah ran a fine race to take the gold medal.",
+                "If he wants to play a game of cat and mouse, fine, I'll play."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmluZQ&hash=8dec2ec0eededa150f309e66ae15ceb62cb83080&lang=en&cache-only=0",
+            "defineEn": "an amount of money that must be paid as a legal punishment",
+            "defineVi": "một số tiền phải được trả như một hình phạt pháp lý",
+            "hasImg": true
+        },
+        {
+            "id": "b376fd2b-e046-4ef3-8ef1-0ab4aef19907",
+            "word": "grant",
+            "phonetic": "ɡɹænt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Permission for the development was granted in the teeth of opposition from local shopkeepers.",
+                "The immigration officer reviewed my passport before granting entry.",
+                "You just take it for granted that people over a certain age can drive.",
+                "I suppose I just took it for granted.",
+                "I suppose I just took it for granted that they were married."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbnQ&hash=96d31a94c456fc7603bee2ef81fe6e0cff669199&lang=en&cache-only=0",
+            "defineEn": "an amount of money given by the government or another organization for a specific purpose",
+            "defineVi": "một số tiền được cung cấp bởi chính phủ hoặc tổ chức khác cho một mục đích cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "fbdc2359-cf7c-4e97-ba25-54deed402591",
+            "word": "instalment",
+            "phonetic": "ɪnstɔːlmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5zdGFsbWVudA&hash=08b6566660a3dfc5ed6bb3b93b32069c78036203&lang=en&cache-only=0",
+            "defineEn": "a part of a larger sum of money that is paid in a scheduled series of payments over a specified period of time",
+            "defineVi": "một phần của một khoản tiền lớn hơn được thanh toán trong một loạt các khoản thanh toán theo lịch trình trong một khoảng thời gian xác định"
+        },
+        {
+            "id": "3a6c3c98-e2e1-4d14-8167-153888fc1048",
+            "word": "loan",
+            "phonetic": "loʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The new loan takes the total debt to $100 000.",
+                "He needs another loan, but the bank won't play.",
+                "The student worked multiple jobs to pay off her student loans, acknowledging that debt is the worst poverty.",
+                "They visited the bank to apply for a loan to purchase a car.",
+                "We'll be in smooth waters if we can secure a new loan extension from the bank."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9hbg&hash=1d58fe903eedb20a60367fdc7b5cea890333981e&lang=en&cache-only=0",
+            "defineEn": "a sum of money that is borrowed from a bank which should be returned with a certain rate of interest",
+            "defineVi": "một khoản tiền được vay từ ngân hàng sẽ được trả lại với một mức lãi suất nhất định",
+            "hasImg": true
+        },
+        {
+            "id": "3c36f23a-9cdd-4ae9-b7d9-fd8537187b7b",
+            "word": "lump sum",
+            "phonetic": "lʌmp sʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bHVtcCBzdW0&hash=93ed6af86127ccd3aa86e199a727297550367c8a&lang=en&cache-only=0",
+            "defineEn": "a single, large payment made in full, instead of smaller payments made over time",
+            "defineVi": "một khoản thanh toán lớn, duy nhất được thực hiện đầy đủ, thay vì các khoản thanh toán nhỏ hơn được thực hiện theo thời gian"
+        },
+        {
+            "id": "b8c1573d-d552-4652-becc-85878de5f37f",
+            "word": "quote",
+            "phonetic": "kwoʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Right out of the gate she shared a quote I think we can all relate to.",
+                "The article portrayed her as domineering by dropping quotes from her out of context.",
+                "Mean Girls quote!",
+                "But of course people only quote the sound bite.",
+                "Remember the quote?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVvdGU&hash=609f092d65fd198c19e3539a383e8b48e3a17894&lang=en&cache-only=0",
+            "defineEn": "(plural) another way of saying quotation marks",
+            "defineVi": "(số nhiều) một cách nói khác của dấu ngoặc kép",
+            "hasImg": true
+        },
+        {
+            "id": "53fccb5c-7a8b-410e-9fe0-5689c0f6f40b",
+            "word": "will",
+            "phonetic": "wɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Maybe this photograph will jog your memory.",
+                "His new world record will take some beating.",
+                "The center will serve the whole community.",
+                "The judge will have the last word on the divorce agreement.",
+                "A white blouse will show the blood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lsbA&hash=5935ae69b7e0ec1284f464f350c0cae28c2eb152&lang=en&cache-only=0",
+            "defineEn": "a person's intention or desire, especially one that is strong or persistent",
+            "defineVi": "ý định hoặc mong muốn của một người, đặc biệt là ý định mạnh mẽ hoặc dai dẳng"
+        },
+        {
+            "id": "5a1077dc-9575-40ba-9b4f-597ca5bcc18d",
+            "word": "society",
+            "phonetic": "səsaɪəɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A lack of investment in education can breed ignorance and apathy in a society.",
+                "The society's preoccupation with safety and stranger danger is just unbelievable.",
+                "Art serves an important function in our society.",
+                "In this particular society men rule the roost and women have a low status and few rights.",
+                "Thirty years up the river had made him a stranger to society."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29jaWV0eQ&hash=d7a1a9f99367eba25bb5a62bf4fc63ff8a4f597f&lang=en&cache-only=0",
+            "defineEn": "people in general, considered as an extensive and organized group sharing the same laws",
+            "defineVi": "mọi người nói chung, được coi là một nhóm rộng lớn và có tổ chức chia sẻ cùng một luật"
+        },
+        {
+            "id": "76db5350-5dd1-4290-b878-e87c7ba4b242",
+            "word": "consumer",
+            "phonetic": "kənsuːmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The consumer has been driving the economy for a number of years.",
+                "Consumer finance is not necessarily a money spinner any longer.",
+                "Today's consumers do not keep the Sabbath.",
+                "The dairy products market will also be driven by consumer demand.",
+                "The government has passed new legislation to protect consumers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uc3VtZXI&hash=42b490e8fe247957786c60555221a19c51c88708&lang=en&cache-only=0",
+            "defineEn": "someone who buys and uses services or goods",
+            "defineVi": "một người mua và sử dụng dịch vụ hoặc hàng hóa",
+            "hasImg": true
+        },
+        {
+            "id": "4baf1075-c302-4752-80d2-44b855868201",
+            "word": "standard of living",
+            "phonetic": "stændɚd ʌv lɪvɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Many families in this country are still behind the eight ball and do not enjoy the same standard of living that other people enjoy.",
+                "No one's standard of living would change.",
+                "Their standard of living is still lower than Americans.",
+                "You can improve their standard of living by supporting Crash Course at Patreon.",
+                "Historically, CO₂ emissions have been closely tied to a high standard of living."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhbmRhcmQgb2YgbGl2aW5n&hash=f009547aeb22a1874226f8f372ec0504890e5ced&lang=en&cache-only=0",
+            "defineEn": "the level of wealth, welfare, etc., available to an individual, group, country, etc.",
+            "defineVi": "mức độ giàu có, phúc lợi, v.v., có sẵn cho một cá nhân, nhóm, quốc gia, v.v."
+        },
+        {
+            "id": "5040fd70-8cf7-43c0-a82a-81be62770c8a",
+            "word": "income",
+            "phonetic": "ɪŋkʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His gambling was eating away at their income.",
+                "Retirement often brings with it a massive drop in income.",
+                "The budget can be balanced by raising income taxes by 2 percent.",
+                "He got on his soapbox and gave a passionate speech about income inequality.",
+                "Though it wasn't ideal, he knew that it was better to have some income than none at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jb21l&hash=32ff0b43239c1305cfe0bbf1ccd61364a69295d8&lang=en&cache-only=0",
+            "defineEn": "the money that is regularly earned from a job or through an investment",
+            "defineVi": "số tiền thường xuyên kiếm được từ một công việc hoặc thông qua một khoản đầu tư",
+            "hasImg": true
+        },
+        {
+            "id": "b969b029-4111-41f1-90c7-b3341363bb0e",
+            "word": "inflation",
+            "phonetic": "ɪnfleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Inflation was running at 26 per cent.",
+                "On the credit side, inflation has not risen this year.",
+                "Inflation will only get worse if the government doesn't do something right now to nip it in the bud.",
+                "The measures are irrelevant as far as inflation is concerned.",
+                "The economy is improving, but the other side of the coin is that inflation is becoming a bigger problem."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5mbGF0aW9u&hash=36b396070bf24317e54ed96e4d67372f430423bc&lang=en&cache-only=0",
+            "defineEn": "the condition in which a currency is losing its purchasing power and the prices generally increase",
+            "defineVi": "tình trạng trong đó một loại tiền tệ đang mất sức mua và giá thường tăng"
+        },
+        {
+            "id": "1ceb9983-b5a8-4f8f-aa12-4897216ce549",
+            "word": "cost of living",
+            "phonetic": "kɔst ʌv lɪvɪŋ ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29zdCBvZiBsaXZpbmc&hash=4f33e4c31249bf837362dd14c18e2b64ca1a839c&lang=en&cache-only=0",
+            "defineEn": "the amount of money required to maintain basic needs and expenses in a particular place or location",
+            "defineVi": "số tiền cần thiết để duy trì các nhu cầu và chi phí cơ bản ở một địa điểm hoặc địa điểm cụ thể"
+        },
+        {
+            "id": "8a672541-8b02-4f73-a22d-f45ec88547c1",
+            "word": "to afford",
+            "phonetic": "tʊ ɐfoːɹd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "You can afford a dollar for a good cause.",
+                "He could no longer afford to run a car.",
+                "I couldn't afford to waste petrol chasing rainbows as far as Leeds and back.",
+                "They can't afford to buy school books.",
+                "We can't afford to strain at gnats and swallow camels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYWZmb3Jk&hash=7c0d829f953ac77fb1d12a44d6a2ee03e63c246d&lang=en&cache-only=0",
+            "defineEn": "to be able to pay the cost of something",
+            "defineVi": "để có thể trả chi phí của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "b44e0f07-a506-4175-9de1-c85443640680",
+            "word": "to manage",
+            "phonetic": "tə mænɪdʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I could manage that.",
+                "We managed to raise him on his mobile phone.",
+                "We managed to lose our pursuers in the darkness.",
+                "I managed to find a solution to the problem.",
+                "The company managed to beat the clock on delivering its new system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWFuYWdl&hash=bce449726539553cd81ce023cc0ab1aa86ba9b8d&lang=en&cache-only=0",
+            "defineEn": "to control or handle something in a skillful or effective way",
+            "defineVi": "để kiểm soát hoặc xử lý một cái gì đó một cách khéo léo hoặc hiệu quả"
+        },
+        {
+            "id": "04b141a0-cff4-4c09-8346-0738092b3d6c",
+            "word": "account",
+            "phonetic": "ɐkaʊnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The end-of-year accounts show a loss.",
+                "Their bank account was in the red again.",
+                "John's bank account is in credit by $500.",
+                "Then the punishment of individuals invariably took account of the harm or damage done to the victim.",
+                "He gave a good account of himself in matches against Crewe and Chesterfield."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3VudA&hash=a14f9ecf7c006812f3c236dcb3be803b3ccf278a&lang=en&cache-only=0",
+            "defineEn": "an arrangement according to which a bank keeps and protects someone's money that can be taken out or added to",
+            "defineVi": "một sự sắp xếp theo đó một ngân hàng giữ và bảo vệ tiền của ai đó có thể được lấy ra hoặc thêm vào"
+        },
+        {
+            "id": "33f576a4-3148-4745-b91c-fb6a7c673970",
+            "word": "balance",
+            "phonetic": "bæləns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The subtle bitterness of artemisia balanced the sweetness of the dessert.",
+                "The game strikes a great balance between accessibility for younger players and a rewarding challenge for veterans of the genre.",
+                "The presence of green algae in water bodies can indicate the health and balance of the ecosystem.",
+                "The budget can be balanced by raising income taxes by 2 percent.",
+                "The monkey's long tail provided balance as it moved through the trees."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFsYW5jZQ&hash=27eaaffe8e5956b0cfeda893c0c63ae7a12f614a&lang=en&cache-only=0",
+            "defineEn": "the number showing the difference between the debit and credit sums of an account",
+            "defineVi": "số thể hiện sự khác biệt giữa số tiền ghi nợ và tín dụng của một tài khoản"
+        },
+        {
+            "id": "fa56c710-c99a-4f91-8d08-1c8d1cd8ad10",
+            "word": "transfer",
+            "phonetic": "tɹænsfɜː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I need to format my external hard drive before transferring files to it.",
+                "Transfer tape makes light work of re-gluing in the workshop.",
+                "And the iPod's FireWire connector transferred songs faster than USB.",
+                "Transfers are locking up everywhere.",
+                "So again, the bat can transfer the infection to other animals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNmZXI&hash=9df5ebe0ddf4bbe69fcb2e18bbccf49196ba0d6b&lang=en&cache-only=0",
+            "defineEn": "the act of moving someone or something from one place, person, or situation to another",
+            "defineVi": "hành động di chuyển ai đó hoặc một cái gì đó từ một nơi, người hoặc tình huống này sang nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "92c9e6f2-d156-40b2-96e3-a81db0ba88f7",
+            "word": "payment",
+            "phonetic": "peɪmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We look forward to receiving the payment at your earliest convenience.",
+                "Scott has been boxed into a corner with this mortgage payment that he cannot afford.",
+                "I bought a winter coat for nothing down and no payments due until February.",
+                "Sarah's family was surprised by how much the interest on their mortgage grew, and they struggled to keep up with payments.",
+                "Electronic payments have cannibalized checks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF5bWVudA&hash=43b24fc7f8f66cc2a627260ec0a68e46d8ede440&lang=en&cache-only=0",
+            "defineEn": "an amount of money that is paid",
+            "defineVi": "một số tiền được trả",
+            "hasImg": true
+        },
+        {
+            "id": "06397912-2e3c-4a6b-a71c-0851585ed3e9",
+            "word": "interest rate",
+            "phonetic": "ɪntɹɛst ɹeɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJlc3QgcmF0ZQ&hash=cb17193af297e7492ead20ff070e2e84c3044ca1&lang=en&cache-only=0",
+            "defineEn": "the amount that a lender charges a borrower for the use of money, typically calculated based on the amount of the loan and the length of the borrowing period",
+            "defineVi": "số tiền mà người cho vay tính phí người vay cho việc sử dụng tiền, thường được tính dựa trên số tiền của khoản vay và độ dài của thời hạn vay"
+        },
+        {
+            "id": "bc5e99d2-ba42-4afc-90e8-b1135fc902ee",
+            "word": "debt",
+            "phonetic": "dɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My debts are a millstone round my neck.",
+                "The new loan takes the total debt to $100 000.",
+                "As the saying goes, out of debt, out of danger.",
+                "The film caught a cold over the outstanding debt.",
+                "As the saying goes, interest on debt grows without rain."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVidA&hash=6fa55b4cc2d7441f93fb9ba095c536812988f5b5&lang=en&cache-only=0",
+            "defineEn": "an amount of money or a favor that is owed",
+            "defineVi": "một số tiền hoặc một ân huệ được nợ",
+            "hasImg": true
+        },
+        {
+            "id": "4312dfa7-0e35-4ffe-80df-f9c0cae3a105",
+            "word": "mortgage",
+            "phonetic": "mɔːɹɡɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mortgage on it has turned into a real yoke round my neck.",
+                "The mortgage on his house had become a millstone around his neck.",
+                "We've become poor as church mice ever since the bank raised the interest rates on our mortgage.",
+                "We've become poor as Job's turkeys ever since the bank raised the interest rates on our mortgage.",
+                "Scott has been boxed into a corner with this mortgage payment that he cannot afford."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ydGdhZ2U&hash=4643e28383d7a4feaf9004963be3f2a290f79bdc&lang=en&cache-only=0",
+            "defineEn": "an official contract or arrangement by which a bank gives money to someone as a loan to buy a house and the person must return the money with interest at monthly intervals",
+            "defineVi": "một hợp đồng hoặc thỏa thuận chính thức theo đó ngân hàng cho ai đó vay tiền để mua nhà và người đó phải trả lại tiền cùng với lãi suất hàng tháng",
+            "hasImg": true
+        },
+        {
+            "id": "7b2f22b1-0392-4e16-ad24-459701334965",
+            "word": "share",
+            "phonetic": "ʃɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Both drivers shared the blame for the accident.",
+                "My friend shared a bag of chocolate-covered macadamia nuts with us.",
+                "The locals generously shared their knowledge of manioc processing techniques.",
+                "All members of the band equally share the band's profits.",
+                "The HR department only shared the employee's personal information on a need-to-know basis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhcmU&hash=aa4cc106975a936c76b9a40b4bb015eb885829fc&lang=en&cache-only=0",
+            "defineEn": "the act of dividing or distributing something among a group of people",
+            "defineVi": "hành động phân chia hoặc phân phối một cái gì đó giữa một nhóm người"
+        },
+        {
+            "id": "979fbc49-b769-41e5-8dba-37f3ee07099f",
+            "word": "stock market",
+            "phonetic": "stɑːk mɑːɹkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The stock market rally resulted in a fat return on investment for many investors.",
+                "The stock market went haywire after the company's CEO resigned.",
+                "Hold on to your hat as the stock market zigs and zags!",
+                "The stock market was doing well, and investors were making a lot of money.",
+                "They are making a fortune by investing in the stock market."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvY2sgbWFya2V0&hash=3cbfd9f1e484b84065a0e2dd6f373828336a5066&lang=en&cache-only=0",
+            "defineEn": "the business of trading and exchanging shares of different companies",
+            "defineVi": "kinh doanh mua bán và trao đổi cổ phiếu của các công ty khác nhau"
+        },
+        {
+            "id": "cbdc75f0-a643-4ed0-94f3-5dd932d61d0c",
+            "word": "currency",
+            "phonetic": "kɜːɹənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The journalist's investigation uncovered a network of the gnomes of Zurich who were involved in manipulating global currency markets for their own benefit.",
+                "When counterfeit bills started circulating in the town, people became skeptical of using the genuine currency, leading to a decrease in the overall value of money in circulation, showing how bad money drives out good.",
+                "Devaluing our currency.",
+                "Nowadays, prisoners use postage stamps and even small packages of mackerel as currency.",
+                "The currency is worthless."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VycmVuY3k&hash=db6401b8d7910b87f159bc0629f72de4729dfb77&lang=en&cache-only=0",
+            "defineEn": "the type or system of money that is used by a country",
+            "defineVi": "loại hoặc hệ thống tiền được sử dụng bởi một quốc gia",
+            "hasImg": true
+        },
+        {
+            "id": "de6a8110-b9e2-43a7-aea6-697eb02961e6",
+            "word": "exchange rate",
+            "phonetic": "ɛkstʃeɪndʒ ɹeɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXhjaGFuZ2UgcmF0ZQ&hash=e3be9beeb670b4d3d1373e6743918a45fea2e37b&lang=en&cache-only=0",
+            "defineEn": "the value of a country's currency compared to another country's currency",
+            "defineVi": "giá trị của đồng tiền của một quốc gia so với đồng tiền của một quốc gia khác"
+        },
+        {
+            "id": "758f606e-8658-46e1-b8d0-5798d7b5f178",
+            "word": "bankrupt",
+            "phonetic": "bæŋkɹʌpt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "That nincompoop is going to bankrupt the entire company!",
+                "The company went bankrupt last year.",
+                "It went bankrupt within a year.",
+                "Unless somebody pulls a rabbit out of the hat by next week, we'll be bankrupt.",
+                "Sooner or later, that company will go bankrupt if they keep sitting on their laurels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFua3J1cHQ&hash=ee1f83464524ba36c155433976a008644ff67b14&lang=en&cache-only=0",
+            "defineEn": "(of organizations or people) legally declared as unable to pay their debts to creditors",
+            "defineVi": "(của tổ chức hoặc người) bị tuyên bố hợp pháp là không có khả năng trả nợ cho các chủ nợ"
+        },
+        {
+            "id": "19280cec-f5e9-4eea-ab9a-6609ea96b740",
+            "word": "recession",
+            "phonetic": "ɹᵻsɛʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "No city has escaped the recession, but Seattle has fared best by a long shot.",
+                "Many more businesses are feeling the chill wind of the recession.",
+                "The effects of the recession are being felt everywhere.",
+                "Before the recession, the country was on the pig's back, but the situation has changed greatly.",
+                "Britain is still in the grip of recession."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjZXNzaW9u&hash=3c29ed7e96a0ff01150911714331b6c96ac46fbf&lang=en&cache-only=0",
+            "defineEn": "a period of economic decline marked by a rise in unemployment and the fall in the GDP",
+            "defineVi": "một thời kỳ suy thoái kinh tế được đánh dấu bằng sự gia tăng thất nghiệp và giảm GDP"
+        },
+        {
+            "id": "6be63b91-ef97-42c9-b5ba-90c84bc0d094",
+            "word": "rich",
+            "phonetic": "ɹɪtʃ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The rich family owned a private jet.",
+                "The rich man bought a big house and a fancy car.",
+                "The rich businessman owned multiple luxurious cars.",
+                "Asparagus beanare rich in iron and vitamin K.",
+                "Asian cultures have a rich heritage of art, music, and dance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmljaA&hash=5371549ed8826faf60ccbef7166d7e90d1ec9cdb&lang=en&cache-only=0",
+            "defineEn": "owning a great amount of money or many things that cost a lot",
+            "defineVi": "sở hữu một số tiền lớn hoặc nhiều thứ có giá rất cao",
+            "hasImg": true
+        },
+        {
+            "id": "f50d5332-1abc-4545-8a1d-afb0c7c50807",
+            "word": "affluent",
+            "phonetic": "æfluːənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It can be challenging for someone from a different socioeconomic background to fit into an affluent community.",
+                "I can't sell the most affluent areas here.",
+                "But most affluent families go beyond these test prep books to help their children study for these exams.",
+                "Supporting a non-profit ambulance provider through donations can be tough for less affluent areas, as well as dense urban areas with high call volumes.",
+                "Competitors like American Express caters to a more affluent customer base with a higher average FICO score and Capital One serves subprime borrowers with an average score below that of Discover's customers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWZmbHVlbnQ&hash=39b33ceebcadadb600924a64c461826cc6becdec&lang=en&cache-only=0",
+            "defineEn": "possessing a great amount of riches and material goods",
+            "defineVi": "sở hữu một lượng lớn của cải và của cải vật chất",
+            "hasImg": true
+        },
+        {
+            "id": "7a29f4b5-84eb-4d97-9392-baed3c95915a",
+            "word": "loaded",
+            "phonetic": "loʊdᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Despite being one of the most accomplished musicians in the world, he never seeks attention or tries to show off his skills - a loaded wagon makes no noise.",
+                "It's a loaded question.",
+                "That is a loaded question.",
+                "This is a very loaded question.",
+                "It's not too loaded, it's not too heavy, but it still has a lot of flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9hZGVk&hash=8c821aa49efd0c92e9b1d1ddc3c6ce3a2c266e06&lang=en&cache-only=0",
+            "defineEn": "having a lot of money or financial resources",
+            "defineVi": "có nhiều tiền hoặc nguồn lực tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "b5e644a8-965d-4ad8-85e6-b05850f90296",
+            "word": "wealthy",
+            "phonetic": "wɛlθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Mrs. Richardson is really wealthy.",
+                "At the charity event, the wealthy businessman's joke had everyone in stitches.",
+                "His eye for the main chance and ruthless commercial instincts have made him one of the wealthiest men in Britain",
+                "The wealthy developer was able to skirt environmental regulations, while the poor homeowner faced steep fines for minor violations.",
+                "The wealthy businessman realized too late that a contented mind is a perpetual feast, and that money couldn't buy him true happiness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VhbHRoeQ&hash=edf90607383fc687f7013fa23e0d843cafb6bb98&lang=en&cache-only=0",
+            "defineEn": "having a large amount of money or valuable possessions",
+            "defineVi": "có một số tiền lớn hoặc tài sản có giá trị",
+            "hasImg": true
+        },
+        {
+            "id": "3b68b1cc-f354-4aa5-85f7-f4297d96e1b7",
+            "word": "well-off",
+            "phonetic": "wɛlɔf ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Most of her clients are well-off but not filthy rich.",
+                "The rich will be just as well-off.",
+                "They were well-off alchemists and medical doctors, and they called themselves Natural Philosophers.",
+                "And today, breastfeeding rates in the U.S. are significantly higher among well-off mothers.",
+                "Normally a young man from a not well-off family would give most of that money, and often all of that money, to his parents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VsbC1vZmY&hash=5f71316b38feeae2312835f3bd15c2b6454b3e3a&lang=en&cache-only=0",
+            "defineEn": "having enough money to cover one's expenses and maintain a desirable lifestyle",
+            "defineVi": "có đủ tiền để trang trải chi phí của một người và duy trì một lối sống mong muốn",
+            "hasImg": true
+        },
+        {
+            "id": "0cd85141-d421-445e-a4ca-6330dccca2c1",
+            "word": "poor",
+            "phonetic": "pʊɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His family is as poor as a Job's turkey.",
+                "The poor girl was almost beside herself.",
+                "My poor old car finally gave up the ghost.",
+                "That poor kid is shaking in his shoes up there on stage.",
+                "And now the poor thing is crying his heart out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9vcg&hash=d44898325ffbbacae019c833d1cd7a97f2baa329&lang=en&cache-only=0",
+            "defineEn": "owning a very small amount of money or a very small number of things",
+            "defineVi": "sở hữu một số tiền rất nhỏ hoặc một số lượng rất nhỏ của những thứ",
+            "hasImg": true
+        },
+        {
+            "id": "fd8ab286-7ae6-4e20-a333-b5298845efb8",
+            "word": "broke",
+            "phonetic": "bɹoʊk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "you're broke and you don't have work.",
+                "Jacobsen went for broke on the last nine holes and won the tournament.",
+                "The entrepreneur decided to go for broke and invest all his savings in his new business.",
+                "Broke again!",
+                "The broke person version of investing is having a friend with money."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJva2U&hash=1345f28101288f2421eb8f22b80a346170c0e2e2&lang=en&cache-only=0",
+            "defineEn": "not having any money",
+            "defineVi": "không có tiền",
+            "hasImg": true
+        },
+        {
+            "id": "559a32fc-e934-4371-8b5c-2f1b83244d65",
+            "word": "hard up",
+            "phonetic": "hɑːɹd ʌp ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFyZCB1cA&hash=d36f7c3d4c310b5d26a50046ee29fed84e989397&lang=en&cache-only=0",
+            "defineEn": "experiencing financial difficulties, often lacking money to cover basic expenses",
+            "defineVi": "gặp khó khăn về tài chính, thường thiếu tiền để trang trải các chi phí cơ bản",
+            "hasImg": true
+        },
+        {
+            "id": "afe41efd-d6eb-46d4-b2ad-aed456b2e719",
+            "word": "penniless",
+            "phonetic": "pɛnɪləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "By the way, he still managed to die penniless, and only 8 people attended his funeral because of his vitriolic ridicule of Christianity.",
+                "It transformed its once penniless founders into billionaires, established itself as a powerhouse in the fast-fashion world, and, at its peak, made $4.4 billion in revenue.",
+                "People are still penniless, so it's taking time.",
+                "Our government doesn't bat an eyelid and abandons us penniless and starving.",
+                "They have trouble finding one until they come to the door of the prostitute Shen Teh, who takes them in even though she’s penniless."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVubmlsZXNz&hash=f9eede7406b8d2160b62592acb2a49cd49300ad8&lang=en&cache-only=0",
+            "defineEn": "having no money or financial resources",
+            "defineVi": "không có tiền hoặc nguồn tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "24a708e0-1b3e-4bb9-9962-a9603a2dcf47",
+            "word": "grand",
+            "phonetic": "ɡɹænd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The grand unified theory is compact and elegant in mathematical terms.",
+                "The country celebrated its independence with a grand parade and fireworks.",
+                "In politics, people often make grand speeches but fail to take action.",
+                "The wise owls went to visit their grand kids in their scooters.",
+                "The grand finale of the performance is the crowning glory of the entire show, leaving the audience in awe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmQ&hash=0808e8773af519a1b3a119aab352397f413ef586&lang=en&cache-only=0",
+            "defineEn": "a thousand units of a currency",
+            "defineVi": "một nghìn đơn vị tiền tệ",
+            "hasImg": true
+        },
+        {
+            "id": "44ef3024-50e3-416f-a2ab-8469b7e4a73f",
+            "word": "buck",
+            "phonetic": "bʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The buck stops with him.",
+                "The buck stopped there with Carl.",
+                "The buck stops here with me.",
+                "The buck stops with the players, not with the manager or anybody else.",
+                "He looks a million bucks with his dapper suit and polished shoes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVjaw&hash=4ef3e4b6911c6d7a2de8ce837a7ba556e2eea5e2&lang=en&cache-only=0",
+            "defineEn": "one dollar",
+            "defineVi": "một đô la",
+            "hasImg": true
+        },
+        {
+            "id": "749d0244-7482-45a5-9e82-fbb7ce854b85",
+            "word": "quid",
+            "phonetic": "kwɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So about four, five months ago, I bought one for like 20 quid, sold it for 35, but now they're 90 pounds and I sold one in a bit better condition than David's for 90 pounds, they're about 100 dollars at the moment"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVpZA&hash=0f548670a19edcad77a13c6e15dc658c65eb2ad4&lang=en&cache-only=0",
+            "defineEn": "the currency of the United Kingdom, equivalent to one hundred pence",
+            "defineVi": "tiền tệ của Vương quốc Anh, tương đương với một trăm pence",
+            "hasImg": true
+        },
+        {
+            "id": "e42c47aa-a71d-429d-90df-e621112525de",
+            "word": "fiver",
+            "phonetic": "faɪvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zml2ZXI&hash=69fec458ed142fb5f1f1f4fdbf8cfad4dc2dc902&lang=en&cache-only=0",
+            "defineEn": "a piece of paper money worth five dollars that you can use to buy things",
+            "defineVi": "một tờ tiền giấy trị giá năm đô la mà bạn có thể sử dụng để mua đồ",
+            "hasImg": true
+        },
+        {
+            "id": "0e97826d-a150-4fb4-a99f-b6e7f49d72a7",
+            "word": "tenner",
+            "phonetic": "tɛnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGVubmVy&hash=f0d255dd11bb19f6f81ed0cac19e1683775ea5bf&lang=en&cache-only=0",
+            "defineEn": "a banknote with a value of ten units of a currency, typically ten pounds or ten dollars",
+            "defineVi": "một tờ tiền có giá trị mười đơn vị tiền tệ, thường là mười bảng Anh hoặc mười đô la",
+            "hasImg": true
+        }
+    ]
+}

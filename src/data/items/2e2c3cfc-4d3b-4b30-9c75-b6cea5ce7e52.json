@@ -1,0 +1,613 @@
+{
+    "id": "2e2c3cfc-4d3b-4b30-9c75-b6cea5ce7e52",
+    "title": "City and the Countryside",
+    "originalTitle": "Lesson 38",
+    "words": [
+        {
+            "id": "092a9ee5-8dc6-4e73-8cea-e019d0d67491",
+            "word": "countryside",
+            "phonetic": "kʌntɹɪsaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The train traveled through beautiful countryside.",
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue.",
+                "At a countryside farm festival, attendees line up for a taste of the famous trotter barbecue.",
+                "Ruinous new road schemes that desecrate the countryside.",
+                "My family and I often travel by car to visit relatives in the countryside."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y291bnRyeXNpZGU&hash=e6e5f745b0cf59767133dbd70880a5a37ab6ce2f&lang=en&cache-only=0",
+            "defineEn": "the area with farms, fields, and trees, that is outside cities and towns",
+            "defineVi": "khu vực có trang trại, cánh đồng và cây cối, nằm ngoài thành phố và thị trấn",
+            "hasImg": true
+        },
+        {
+            "id": "96d1c89c-1888-461d-b1a9-42ff97809bca",
+            "word": "village",
+            "phonetic": "vɪlɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Soon, with the return of the peasants and fishermen, the village comes to life again.",
+                "The road continues through the village of Knightwick.",
+                "Three villages have gone without water for days.",
+                "The village was set among olive groves on a hill.",
+                "The place still feels like a small fishing village."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlsbGFnZQ&hash=77c4e5f42d61e635f61596bcfd5239513d6824e1&lang=en&cache-only=0",
+            "defineEn": "a very small town located in the countryside",
+            "defineVi": "một thị trấn rất nhỏ nằm ở nông thôn",
+            "hasImg": true
+        },
+        {
+            "id": "33bfa64b-90c5-45a1-81fb-61500b095993",
+            "word": "the country",
+            "phonetic": "ðə kʌntɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The country celebrated its independence with a grand parade and fireworks.",
+                "At one stroke, the country lost two outstanding leaders.",
+                "The country is holding its first free elections for 20 years.",
+                "Men still hold most positions of power in this country.",
+                "The country was at a low ebb due to the recent war"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlIGNvdW50cnk&hash=7ae77295ca5e2ed95a69e83f21908faef84118c2&lang=en&cache-only=0",
+            "defineEn": "the area with farms, fields, and trees, outside cities and towns",
+            "defineVi": "khu vực có trang trại, cánh đồng và cây cối, bên ngoài thành phố và thị trấn",
+            "hasImg": true
+        },
+        {
+            "id": "ee28cc73-7414-40d7-a833-3b97fe1cb7ba",
+            "word": "rural",
+            "phonetic": "ɹʊɹɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Rural areas have been worst hit by the strike.",
+                "people living in rural areas.",
+                "Most people remain rural and poor and education is locked in a time warp relative to developed nations.",
+                "Living in such a small, rural town, there wasn't much to do for kicks other than drive around in our car all night.",
+                "Unlike their urban counterparts, rural hospitals have even fewer ventilators in stock."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cnVyYWw&hash=8d1bf37007ef386bdf33d866789474c122fde9df&lang=en&cache-only=0",
+            "defineEn": "relating to, in, or like the countryside and not the city",
+            "defineVi": "liên quan đến, trong, hoặc giống như vùng nông thôn chứ không phải thành phố",
+            "hasImg": true
+        },
+        {
+            "id": "8a07120f-0208-4514-a69e-fb2ad8031aac",
+            "word": "district",
+            "phonetic": "dɪstɹɪkt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That district attorney will chew you up and spit you out in the courtroom.",
+                "But the press caught them with their pants down and now the district attorney will press charges.",
+                "The politician gave a great speech about improving education, but fair words fill not the belly, and the schools in our district are still underfunded and understaffed.",
+                "Number one, districts have to have the same number of people.",
+                "Gerrymandering of districts is real."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzdHJpY3Q&hash=57cbd4918e88746d0109490c0cbbad380090d0a9&lang=en&cache-only=0",
+            "defineEn": "an area of a city or country with given official borders used for administrative purposes",
+            "defineVi": "một khu vực của một thành phố hoặc quốc gia có biên giới chính thức nhất định được sử dụng cho mục đích hành chính",
+            "hasImg": true
+        },
+        {
+            "id": "32e5bf70-fd02-4ce4-afcf-d04854057e56",
+            "word": "urban",
+            "phonetic": "ɜːbən ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Urban parents demand school vouchers.",
+                "And in cities, urban artisans wanted higher pay and an end to higher taxes.",
+                "Growth and innovation come from new urban corridors.",
+                "Others relocated to urban centers.",
+                "This urban legend was the perfect storm of fiction, fact, and spooky sensationalism."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXJiYW4&hash=b2f3189fc0347fb4cfa4e76c7339c97c12da3673&lang=en&cache-only=0",
+            "defineEn": "relating to, situated in, or characteristic of a city or town",
+            "defineVi": "liên quan đến, tọa lạc tại, hoặc đặc trưng của một thành phố hoặc thị trấn",
+            "hasImg": true
+        },
+        {
+            "id": "b936fc99-c2aa-45b7-8c47-4b545ae948ee",
+            "word": "downtown",
+            "phonetic": "daʊntaʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Kira’s new job is downtown.",
+                "I had never driven downtown.",
+                "So in early June of 2019, hundreds of thousands of protesters marched in downtown Hong Kong.",
+                "Take downtown Manhattan, for example.",
+                "Protests turned destructive in downtown Seattle tonight. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG93bnRvd24&hash=a0e71c5c318b087a9eeffa942b25d511495c4b5b&lang=en&cache-only=0",
+            "defineEn": "the main business area of a city or town located at its center",
+            "defineVi": "khu vực kinh doanh chính của một thành phố hoặc thị trấn nằm ở trung tâm của nó",
+            "hasImg": true
+        },
+        {
+            "id": "14effca1-52e1-4940-8dba-8aa6a1c1a7fd",
+            "word": "amusement park",
+            "phonetic": "ɐmjuːzmənt pɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The kids are having a field day at the amusement park, laughing and screaming on the rides.",
+                "I'm sure we will have a good time at the amusement park tomorrow.",
+                "The kids used their pester power to convince their parents to take them to the amusement park.",
+                "I was thinking amusement parks.",
+                "It's essentially an amusement park for a box."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW11c2VtZW50IHBhcms&hash=47a0f43a191002797723dbd497c30cfe1e306d22&lang=en&cache-only=0",
+            "defineEn": "a large place where people go and pay to have fun and enjoy games, rides, or other activities",
+            "defineVi": "một địa điểm rộng lớn nơi mọi người đến và trả tiền để vui chơi và thưởng thức các trò chơi, cưỡi ngựa hoặc các hoạt động khác",
+            "hasImg": true
+        },
+        {
+            "id": "beaca246-cf26-43bb-b162-a79ab675521e",
+            "word": "gas station",
+            "phonetic": "ɡæs steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's odd to me that someone so motivated by his career would punch below his weight with some gas station attendant like her.",
+                "Gas stations line the roads and highways across the United States, fueling the country's cars and trucks.",
+                "- Got them at a gas station.",
+                "Eventually, we pulled into a gas station near the airport.",
+                "It was in a Fastrip gas station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FzIHN0YXRpb24&hash=1dfb42aaeb28f59444a8cbf3653c8e11ba5e4c97&lang=en&cache-only=0",
+            "defineEn": "a place that sells fuel for cars, buses, bikes, etc.",
+            "defineVi": "một nơi bán nhiên liệu cho ô tô, xe buýt, xe đạp, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "eb56e146-23d7-4882-a335-6abad6a49c24",
+            "word": "police station",
+            "phonetic": "pəliːs steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Was it wiser to take the puppy to the police station or await David's reaction?",
+                "She was arrested and held in custody in a police station.",
+                "At the polices station It was 7.30 p.m.",
+                "Today, outside the Boulder police station, his patrol car served as a makeshift memorial.",
+                "Nick drove to the nearest police station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9saWNlIHN0YXRpb24&hash=5edf247a31520f0e3b39cd9993b8f98bf97a5b99&lang=en&cache-only=0",
+            "defineEn": "the office where a local police works",
+            "defineVi": "văn phòng nơi cảnh sát địa phương làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "24459a22-a658-4c34-bb5b-357efee786a7",
+            "word": "prison",
+            "phonetic": "pɹɪzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Prison guards looked the other way as the man was attacked by fellow prisoners.",
+                "well, I took a beating in prison and I kind of lost my hearing, you know.",
+                "Well, let me get it into perspective for you: each of us will get 10 years in prison if we're caught.",
+                "Hearing that the killer escaped prison sent shivers down my spine.",
+                "The program aims to set convicts on their feet after they've been released from prison."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpc29u&hash=946753fcf9a55c2d60c7dc746a5a06866e2b7008&lang=en&cache-only=0",
+            "defineEn": "a building where people who did something illegal such as stealing, murder, etc., are kept as a punishment",
+            "defineVi": "một tòa nhà nơi những người làm điều gì đó bất hợp pháp như trộm cắp, giết người, v.v., bị giam giữ như một hình phạt",
+            "hasImg": true
+        },
+        {
+            "id": "857364c5-4e46-411d-b015-e99e4daa85a0",
+            "word": "city hall",
+            "phonetic": "sɪɾi hɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The investigation blew the lid off corruption in city hall.",
+                "You can't fight city hall, after all.",
+                "the reporter who fought city hall.",
+                "She took the oath at City Hall and reflected on the city's explosive days of school desegregation, in the 1970s.",
+                "We went to Milwaukee's city hall to find the family's one college graduate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2l0eSBoYWxs&hash=e8957f74eb46f1fd9418e8c69d7da77780112820&lang=en&cache-only=0",
+            "defineEn": "a building in which people who manage a city work",
+            "defineVi": "một tòa nhà trong đó những người quản lý một thành phố làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "e8c692da-ca4d-46ab-a332-a525b982376b",
+            "word": "market",
+            "phonetic": "mɑːɹkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The market had ripe oranges with bright orange peels.",
+                "The market had vibrant yellow lemons on display.",
+                "The market is growing rapidly.",
+                "The seafood market showcased a mouthwatering display of fresh clams.",
+                "The market vendor displayed a variety of tropical fruits, each with its own unique-colored mesocarp."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFya2V0&hash=1d3bcea6d18ee779f48286435622d4ca45557091&lang=en&cache-only=0",
+            "defineEn": "a public place where people buy and sell groceries",
+            "defineVi": "một nơi công cộng nơi mọi người mua và bán hàng tạp hóa",
+            "hasImg": true
+        },
+        {
+            "id": "ec907057-0ea3-44a2-9ba8-934299f40185",
+            "word": "library",
+            "phonetic": "laɪbɹɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The library closes early on Sundays.",
+                "The library opens at 10 o'clock on weekdays.",
+                "The library is often quiet during weekdays.",
+                "The library is a great place to find books on various topics.",
+                "I meet my study group at the library on Tuesday afternoons."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlicmFyeQ&hash=d6807e6488f505253b10cfa3a567d8dcb70e8e76&lang=en&cache-only=0",
+            "defineEn": "a room or building in which collections of books, newspapers, etc. and sometimes films and music are kept for people to read or borrow",
+            "defineVi": "một căn phòng hoặc tòa nhà trong đó các bộ sưu tập sách, báo, v.v. và đôi khi là phim và nhạc được lưu giữ để mọi người đọc hoặc mượn",
+            "hasImg": true
+        },
+        {
+            "id": "0614e00c-e8c0-4ddc-804f-e51f67216aa9",
+            "word": "church",
+            "phonetic": "tʃɜːtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The church had a more important part to play in the community.",
+                "The Medieval church went to some lengths to specify the roles of particular stones in religious imagery.",
+                "We've become poor as church mice ever since the bank raised the interest rates on our mortgage.",
+                "There were nine church leaders in my group and all bared their hearts.",
+                "We stood outside the church, hoping to catch a glimpse of the bride."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2h1cmNo&hash=78622cb79b90da91ecf0305433aaa4532c6ae1cc&lang=en&cache-only=0",
+            "defineEn": "a building where Christians go to worship and practice their religion",
+            "defineVi": "một tòa nhà nơi các Kitô hữu đến thờ phượng và thực hành tôn giáo của họ",
+            "hasImg": true
+        },
+        {
+            "id": "c27b1dfc-7034-4c5c-95b6-bbebb8b69d4d",
+            "word": "mosque",
+            "phonetic": "mɑːsk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Paris' great mosque, with its North African design, is the spiritual home of France's six million Muslims.",
+                "They kept pigs in our mosques.",
+                "Financing of mosques will be more tightly controlled.",
+                "You can find it in mosques, madrasas, palaces and private homes.",
+                "In March 2019, another mass shooting occurred at two mosques in New Zealand, killing 49 people."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9zcXVl&hash=87df874bbe03be71441be53ec57da8d807dd9b04&lang=en&cache-only=0",
+            "defineEn": "a place of worship, used by Muslims",
+            "defineVi": "một nơi thờ phượng, được sử dụng bởi người Hồi giáo",
+            "hasImg": true
+        },
+        {
+            "id": "b7e0e0ed-40f9-4f90-9f6a-e4e5b2fc5f65",
+            "word": "temple",
+            "phonetic": "tɛmpəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The exceptional taste of Temple oranges makes them a prized ingredient in gourmet recipes.",
+                "As midnight approaches, Buddhist temples around the country begin ringing out the old year.",
+                "He applied a few drops of spikenard oil to his temples, finding relief from his headache.",
+                "Unlike regular oranges, Temple oranges have a distinct floral note that enhances their sweet and tangy flavor.",
+                "In the holy city of Varanasi, temples draw throngs of believers, who float oil lamps and marigolds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVtcGxl&hash=583544c3bc2cbf01dfd8ceff192a32c7c4d59d61&lang=en&cache-only=0",
+            "defineEn": "a building used for worshiping one or several gods, used by some religious communities, especially Buddhists and Hindus",
+            "defineVi": "một tòa nhà được sử dụng để thờ cúng một hoặc một số vị thần, được sử dụng bởi một số cộng đồng tôn giáo, đặc biệt là Phật giáo và Ấn Độ giáo",
+            "hasImg": true
+        },
+        {
+            "id": "82ace8c8-e538-4d37-b605-56698090aa23",
+            "word": "avenue",
+            "phonetic": "ævənuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We can't say it's impossible until we've explored all avenues.",
+                "They're using avenues like TikTok.",
+                "And because of that avenue, you've seen a shrinkage of the public markets.",
+                "There are legal avenues to enter our country.",
+                "if you have, if you, pursue the proper avenues."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZlbnVl&hash=53cedf1439d1101c5d54384a35d4904fbf5afb6c&lang=en&cache-only=0",
+            "defineEn": "a wide straight street in a town or a city, usually with buildings and trees on both sides",
+            "defineVi": "một con đường thẳng rộng trong thị trấn hoặc thành phố, thường có các tòa nhà và cây cối ở cả hai bên",
+            "hasImg": true
+        },
+        {
+            "id": "3cc97de7-4e16-47c4-bb70-be8a84f7496a",
+            "word": "alley",
+            "phonetic": "æli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s not exactly up my alley, but I’ll try it.",
+                "This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring.",
+                "it's tornado alley",
+                "We built a bowling alley in our parking lot.",
+                "That's right up my alley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxsZXk&hash=0475a90fed47b104f4de578c63700abb67613467&lang=en&cache-only=0",
+            "defineEn": "a narrow passage between or behind buildings",
+            "defineVi": "một lối đi hẹp giữa hoặc phía sau tòa nhà",
+            "hasImg": true
+        },
+        {
+            "id": "500e7288-2934-4bd2-891c-63fe21e1c106",
+            "word": "boulevard",
+            "phonetic": "buːlɪvɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But when people got to Chistoprudny, or Clear Ponds, in the center of Moscow, this old beautiful boulevard, it was packed.",
+                "And near Barcelona, Spain, wild boar descended from the hills and grazed in hedges that divide the boulevards.",
+                "The highways are a mad thatch of interstates, parkways, boulevards, and spurs, plus river crossings galore, each with its own virtues and inconveniences. ",
+                "A crowded, medieval city had been replaced with one that was much more open, cleaner, and safer, with wide boulevards, public gardens, and lots and lots of light.",
+                "The biking infrastructure in the U.S. can range from a parking protected bike lane, protected bike lanes, bicycle boulevards, off-street trails and paths, traffic cones, streets and traditional striped bike lanes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym91bGV2YXJk&hash=6611c8130a616b50d7dcd7ab8ac9d6247d4d8889&lang=en&cache-only=0",
+            "defineEn": "a wide street in a town or city, typically with trees on each side or in the middle",
+            "defineVi": "một con đường rộng trong thị trấn hoặc thành phố, thường có cây cối ở hai bên hoặc ở giữa",
+            "hasImg": true
+        },
+        {
+            "id": "32e485f8-dcd9-4744-92e9-148b4961792b",
+            "word": "traffic",
+            "phonetic": "tɹæfɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Every day about noon, traffic in town grinds to a halt.",
+                "to control the traffic congestion",
+                "You can hear the traffic from your room day and night.",
+                "Priority is given to traffic already on the roundabout.",
+                "The new traffic system worked up to a point, but it had its problems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhZmZpYw&hash=4cbd37effd77e2d88d2e5afc3fe5972d23b56bfb&lang=en&cache-only=0",
+            "defineEn": "the coming and going of cars, airplanes, etc. in an area at a particular time",
+            "defineVi": "sự đến và đi của ô tô, máy bay, v.v. trong một khu vực vào một thời điểm cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "34b2ff62-6550-46c2-9824-500270705462",
+            "word": "traffic jam",
+            "phonetic": "tɹæfɪk dʒæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I got stuck in the mother of all traffic jams.",
+                "Experts call them phantom traffic jams.",
+                "Traffic jams can be incredibly frustrating.",
+                "It's the traffic jam atop the world.",
+                "Ever been in a traffic jam with no obvious cause?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhZmZpYyBqYW0&hash=3d5ecdeb4d801b1e8cddecd429bd1c7f19da5b6b&lang=en&cache-only=0",
+            "defineEn": "a large number of bikes, cars, buses, etc. that are waiting in lines behind each other which move very slowly",
+            "defineVi": "một số lượng lớn xe đạp, ô tô, xe buýt, v.v. đang xếp hàng chờ nhau di chuyển rất chậm",
+            "hasImg": true
+        },
+        {
+            "id": "c0e6b6c9-d1ab-4771-a67e-ffd97fdf2645",
+            "word": "road",
+            "phonetic": "ɹoʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The road follows the track of the railway line.",
+                "The road runs parallel to the river.",
+                "The road continues through the village of Knightwick.",
+                "The road continues for three miles.",
+                "The road led away from the house directly to the lake."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9hZA&hash=ac3855acaf56bd0a2fe1166404f20636929ff61b&lang=en&cache-only=0",
+            "defineEn": "a hard wide way, open to cars, buses, etc. to travel along",
+            "defineVi": "một con đường rộng lớn, dành cho ô tô, xe buýt, v.v. đi dọc theo",
+            "hasImg": true
+        },
+        {
+            "id": "99d351dd-b9f9-4121-a4ce-3108f6a74c67",
+            "word": "highway",
+            "phonetic": "haɪweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The car turned right onto the highway.",
+                "That's highway robbery!",
+                "The cars run along the highway in a steady stream.",
+                "They travelled the highways and byways of Britain.",
+                "The speed limit on this highway is ninety kilometers per hour."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaHdheQ&hash=0b6f054c85cfd222ee0a66c6e0c4d54d7f480742&lang=en&cache-only=0",
+            "defineEn": "any major public road that connects cities or towns",
+            "defineVi": "bất kỳ con đường công cộng lớn nào kết nối các thành phố hoặc thị trấn",
+            "hasImg": true
+        },
+        {
+            "id": "71b68bc0-2e4b-4ea4-aff0-c0926f120231",
+            "word": "expressway",
+            "phonetic": "ɛkspɹɛsweɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Don't use the expressway shoulder.",
+                "The highest speed limit on any expressway in Japan is 120 kilometers per hour, or 75 miles per hour.",
+                "Illinois State Police closed the expressway's southbound lanes for three hours to clean up.",
+                "Your nervous system uses lightning-fast electrochemical action potentials, delivered by an expressway made of neurons to specific cells and organs.",
+                "And he agrees to meet me at a hotel just off the expressway."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwcmVzc3dheQ&hash=408d54562565772c039b68e1c27cf54122efcf6b&lang=en&cache-only=0",
+            "defineEn": "a wide highway in two opposite directions, providing a controlled access for motor vehicles that are moving fast in a populated city or district",
+            "defineVi": "một đường cao tốc rộng ở hai hướng ngược nhau, cung cấp khả năng tiếp cận có kiểm soát cho các phương tiện cơ giới đang di chuyển nhanh trong một thành phố hoặc quận đông dân cư",
+            "hasImg": true
+        },
+        {
+            "id": "417f0eea-080c-4715-b113-a5aefcdf6269",
+            "word": "bridge",
+            "phonetic": "bɹɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The universal language of art is bridging a divide.",
+                "This collection of stories bridges the gap between history and fiction.",
+                "This book bridges a gulf between the metaphysics literature and philosophy of mind literature.",
+                "The bus hit the bridge.",
+                "The children were dropping stones off the bridge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
+            "defineEn": "a structure built over a river, road, etc. that enables people or vehicles to go across one side to the other",
+            "defineVi": "một cấu trúc được xây dựng trên sông, đường, v.v. cho phép người hoặc phương tiện đi qua bên này sang bên kia",
+            "hasImg": true
+        },
+        {
+            "id": "b14a2bff-be6c-4ff5-8e99-8f27b6829a3d",
+            "word": "path",
+            "phonetic": "pæθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A path led down the hill.",
+                "A path that beats swords into plowshares.",
+                "She will follow a different path than her siblings.",
+                "They have followed a different path in their personal lives.",
+                "John will follow the path of least resistance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0aA&hash=b5e27ad65d9bccb7f4858f6129b2e00c5296edf1&lang=en&cache-only=0",
+            "defineEn": "the way or direction something or someone moves along",
+            "defineVi": "cách hoặc hướng một cái gì đó hoặc ai đó di chuyển cùng",
+            "hasImg": true
+        },
+        {
+            "id": "d3753a83-074d-47e3-aba8-ac507e132596",
+            "word": "square",
+            "phonetic": "skwɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They decorate the town square for holidays and special occasions.",
+                "The demonstrators marched in a body to the main square.",
+                "The people gathered in the town square to celebrate the victory.",
+                "If this doesn't work we're back to square one.",
+                "We'll have to go back at square one if the government pulls our funding on this project."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
+            "defineEn": "an open area in a city or town where two or more streets meet",
+            "defineVi": "một khu vực mở trong thành phố hoặc thị trấn nơi hai hoặc nhiều đường gặp nhau",
+            "hasImg": true
+        },
+        {
+            "id": "2ba17ad5-1763-4e6b-81d8-339f914fde36",
+            "word": "underpass",
+            "phonetic": "ʌndɚpæs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dW5kZXJwYXNz&hash=c9f94e1b39c9a29c6b0783089f71177a99b8d499&lang=en&cache-only=0",
+            "defineEn": "an underground tunnel or path that people can use to cross a road, railway, etc.",
+            "defineVi": "một đường hầm hoặc con đường ngầm mà mọi người có thể sử dụng để băng qua đường bộ, đường sắt, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "56be3353-24d2-4a83-a516-551c84187185",
+            "word": "noise",
+            "phonetic": "nɔɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The closed window blocked out the noise from the street.",
+                "The dishwasher is making a strange noise.",
+                "The sudden noise made her start.",
+                "Local residents have raised concerns about late-night noise.",
+                "The constant noise from the construction site vexed the residents of the neighborhood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9pc2U&hash=6ffb23c06185e4130abebb071ac7e8069357245a&lang=en&cache-only=0",
+            "defineEn": "sounds that are usually unwanted or loud",
+            "defineVi": "âm thanh thường không mong muốn hoặc lớn",
+            "hasImg": true
+        },
+        {
+            "id": "750ac452-1421-46d8-bb32-fe8a66fba0f4",
+            "word": "pollution",
+            "phonetic": "pəluːʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lower energy consumption means less pollution.",
+                "The politician's off-the-cuff remark about pollution stirred up a hornet's nest among environmentalists.",
+                "On the other hand, the noise and pollution can be overwhelming at times.",
+                "Lichen serves as an indicator of air quality due to its sensitivity to pollution.",
+                "We're not doing enough to protect the environment from pollution."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9sbHV0aW9u&hash=1dcbad915fd81d3c207f19f702042e4547f69ce0&lang=en&cache-only=0",
+            "defineEn": "a change in water, air, etc. that makes it harmful or dangerous",
+            "defineVi": "sự thay đổi trong nước, không khí, v.v. làm cho nó có hại hoặc nguy hiểm",
+            "hasImg": true
+        },
+        {
+            "id": "c2348c61-3266-49bf-b9ed-440996e0d0e5",
+            "word": "to cross",
+            "phonetic": "tə kɹɔs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Fingers crossed!",
+                "I crossed the street carefully at the pedestrian crosswalk.",
+                "Speaking that rudely to your teacher definitely crosses the line.",
+                "This article crossed a line and I am disgusted.",
+                "Crossing path with an old friend is always a pleasure."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3Jvc3M&hash=739959403e550e4464f41f6de1a3ebbc8cfeecc7&lang=en&cache-only=0",
+            "defineEn": "to go across or to the other side of something",
+            "defineVi": "để đi qua hoặc phía bên kia của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "823809b7-5853-4c69-be64-8796593a7439",
+            "word": "across",
+            "phonetic": "əkɹɑːs ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "The children skipped stones across the calm river surface.",
+                "The majestic horse galloped across the open field.",
+                "The general had to get his troops across the river.",
+                "The carpet only reached halfway across the room.",
+                "They pushed the heavy box across the room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNyb3Nz&hash=33fa70149ad859cfad0c526a58db37f24200c52a&lang=en&cache-only=0",
+            "defineEn": "from one side to the other side of something",
+            "defineVi": "từ bên này sang bên kia của cái gì",
+            "hasImg": true
+        },
+        {
+            "id": "3644bd30-59a5-4a80-b0be-6e288a8f734d",
+            "word": "to move",
+            "phonetic": "tə muːv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She moved her queen.",
+                "Things certainly move fast in the blogosphere.",
+                "She moved the tray to a side table.",
+                "We moved our chairs a little nearer.",
+                "She moved the ball toward the opponent's goal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbW92ZQ&hash=e59a3a204d7647bde2016efcae1344269cdd7b59&lang=en&cache-only=0",
+            "defineEn": "to go from one place to another; to change position",
+            "defineVi": "đi từ nơi này đến nơi khác; để thay đổi vị trí",
+            "hasImg": true
+        },
+        {
+            "id": "51958aed-53d6-4e60-80c3-1091ab3d39c2",
+            "word": "noisy",
+            "phonetic": "nɔɪzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We ate dinner in a noisy café.",
+                "The teacher took the student out of the noisy classroom to have a private conversation.",
+                "The party was ruined by a couple of noisy, rude gate-crashers.",
+                "Despite his wealth and fame, he often feels outside noisy, inside empty, longing for something more meaningful in his life.",
+                "We are so noisy!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9pc3k&hash=17baf34dc9b9dd3424391ff6c152451185be3048&lang=en&cache-only=0",
+            "defineEn": "making or having of a lot of unwanted sounds",
+            "defineVi": "tạo ra hoặc có nhiều âm thanh không mong muốn",
+            "hasImg": true
+        },
+        {
+            "id": "a816d3d4-1d68-4578-971d-64f10274104c",
+            "word": "local",
+            "phonetic": "loʊkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Local residents have raised concerns about late-night noise.",
+                "The locals generously shared their knowledge of manioc processing techniques.",
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community.",
+                "The local factory produces electronic components."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9jYWw&hash=fad67a4768875e64649aa985601d0be715f76cfa&lang=en&cache-only=0",
+            "defineEn": "related or belonging to a particular area or place that someone lives in or mentions",
+            "defineVi": "liên quan hoặc thuộc về một khu vực hoặc địa điểm cụ thể mà ai đó sống hoặc đề cập đến",
+            "hasImg": true
+        }
+    ]
+}

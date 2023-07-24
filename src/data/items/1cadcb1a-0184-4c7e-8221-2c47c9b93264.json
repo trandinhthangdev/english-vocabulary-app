@@ -1,0 +1,619 @@
+{
+    "id": "1cadcb1a-0184-4c7e-8221-2c47c9b93264",
+    "title": "Unit 1",
+    "originalTitle": "Unit 1",
+    "words": [
+        {
+            "id": "2c78e350-e373-41b7-8184-77943baf3875",
+            "word": "family",
+            "phonetic": "fæmɪli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Most families have one or two skeletons in the closet.",
+                "His family comes first.",
+                "His family is as poor as a Job's turkey.",
+                "Her family is English to the core.",
+                "My family goes on a vacation once a year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtaWx5&hash=e53c0dcfde61764d593b9f4fe0a9c2d3e4d00bee&lang=en&cache-only=0",
+            "defineEn": "people that are related to each other by blood or marriage, normally made up of a father, mother, and their children",
+            "defineVi": "những người có quan hệ huyết thống với nhau hoặc hôn nhân, thường bao gồm cha, mẹ và con cái của họ",
+            "hasImg": true
+        },
+        {
+            "id": "87086b31-d175-42b1-8c23-926b6151dad1",
+            "word": "mother",
+            "phonetic": "mʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The mother gently cradled her newborn baby in her arms.",
+                "My mother pickled radishes with vinegar and spices.",
+                "My mother throws that far away.",
+                "This picture shows my mother as a young woman.",
+                "My mother has blue eyes and black hair."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90aGVy&hash=d75032151c301990b21ab1f40620038c08a8969b&lang=en&cache-only=0",
+            "defineEn": "a child's female parent",
+            "defineVi": "cha mẹ của một đứa trẻ",
+            "hasImg": true
+        },
+        {
+            "id": "ddd9a3a4-9d7a-4951-a49a-1c5099a525f4",
+            "word": "wife",
+            "phonetic": "waɪf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My wife talked sense into me.",
+                "His wife drove him to Regent's Park.",
+                "He leaves a wife and two children.",
+                "As a loving husband, he surprises his wife with romantic gestures on special occasions.",
+                "My wife enjoys reading books in her free time during the week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lmZQ&hash=9cc4cf7cd3e1d99a1df649a31fefa7a35645966e&lang=en&cache-only=0",
+            "defineEn": "the lady you are officially married to",
+            "defineVi": "người phụ nữ bạn đã chính thức kết hôn",
+            "hasImg": true
+        },
+        {
+            "id": "afc6bfec-4a37-47f7-9adc-e3197507fb6b",
+            "word": "husband",
+            "phonetic": "hʌsbənd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her husband had been very involved in his work.",
+                "She lost her husband in the fire.",
+                "She lost her husband in the crowd.",
+                "Her husband disappeared into thin air for years.",
+                "She introduced her husband as a successful entrepreneur during the charity event."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVzYmFuZA&hash=fd1e3231a06255d855f0a1b7fb2b121fdac572bd&lang=en&cache-only=0",
+            "defineEn": "the man you are officially married to",
+            "defineVi": "người đàn ông bạn đã chính thức kết hôn",
+            "hasImg": true
+        },
+        {
+            "id": "dd88d3ac-6e80-4a1a-bcb5-90c558f9ef41",
+            "word": "father",
+            "phonetic": "fɑːðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fathers play a crucial role in their children's upbringing and development.",
+                "My father pays his bills at the beginning of the month.",
+                "My father has brown eyes.",
+                "Her father kept a grocer's shop.",
+                "My father always had a lead foot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF0aGVy&hash=8b49844f32762d6c79be86193a449311846fa0c1&lang=en&cache-only=0",
+            "defineEn": "a child's male parent",
+            "defineVi": "cha mẹ nam của một đứa trẻ",
+            "hasImg": true
+        },
+        {
+            "id": "fbdf5762-2dfd-4fb2-a80c-97243008c2eb",
+            "word": "child",
+            "phonetic": "tʃaɪld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children enjoyed a refreshing slice of watermelon on a hot summer day.",
+                "Parents often support their children financially during college.",
+                "The children threw the crumpled paper balls into the classroom trash can.",
+                "The children decorated their cupcakes on a colorful dish.",
+                "The children drank their juice from colorful plastic glasses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGQ&hash=31bd1d075c4b75f6f5c51c25b7169101aaa079d3&lang=en&cache-only=0",
+            "defineEn": "a young person who has not reached puberty or adulthood yet",
+            "defineVi": "một người trẻ chưa đến tuổi dậy thì hoặc trưởng thành",
+            "hasImg": true
+        },
+        {
+            "id": "c9c31947-9411-40de-9ed4-27e92320da97",
+            "word": "daughter",
+            "phonetic": "dɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The father proudly walked his daughter down the aisle on her wedding day.",
+                "My daughter always has her head in the clouds as she walks home from school.",
+                "My daughters love gur candies that their grandfather buys for them.",
+                "My daughter enjoys homemade popsicles I make with pomegranate juice.",
+                "Their daughter is as clever as they come."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGF1Z2h0ZXI&hash=77ff6bdc50635883d124500766eb34c32aae3e46&lang=en&cache-only=0",
+            "defineEn": "a person's female child",
+            "defineVi": "con gái của một người",
+            "hasImg": true
+        },
+        {
+            "id": "87ca771f-004e-414c-b7ed-d099743f82d1",
+            "word": "son",
+            "phonetic": "sʌn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My son reads twelve pages of his book every day.",
+                "My sister's son is my beloved nephew.",
+                "His son doesn't share his passion for athletics.",
+                "Your son is in high school already?",
+                "My son is coming home soon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29u&hash=4b9c77866033904e62e58cf1d81ed826e12d1887&lang=en&cache-only=0",
+            "defineEn": "a person's male child",
+            "defineVi": "con trai của một người",
+            "hasImg": true
+        },
+        {
+            "id": "55bfb7a3-a376-46c1-b17c-a807e8c714e1",
+            "word": "brother",
+            "phonetic": "bɹʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her brother is the bane of her life.",
+                "The three brothers took stock of the warehouse.",
+                "My brother always drinks smoothie after exercising.",
+                "My brother taught me the best way to cook spuds over the campfire.",
+                "She has one brother and two sisters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvdGhlcg&hash=61393eb7cc473b4eda7bf10932b623ae4d6e2f76&lang=en&cache-only=0",
+            "defineEn": "a man who shares a mother and father with us",
+            "defineVi": "một người đàn ông chia sẻ một người mẹ và cha với chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "3a6dcde3-dbb7-448c-bf5d-9038a1397574",
+            "word": "sister",
+            "phonetic": "sɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My sister has a job at a restaurant as a waitress.",
+                "My sister skillfully cooks a flavorful curry for dinner.",
+                "My sister has a girl crush on Billie Eilish.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "He loved his sister dearly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2lzdGVy&hash=e3f6556d90506c42ccf7f0b16654d10dc56ab040&lang=en&cache-only=0",
+            "defineEn": "a lady who shares a mother and father with us",
+            "defineVi": "một người phụ nữ chia sẻ một người mẹ và cha với chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "b435accb-0171-418a-b253-29bb183e8ad0",
+            "word": "grandmother",
+            "phonetic": "ɡɹændmʌðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandmother kept chickens in her back yard.",
+                "My grandmother made a dress for me.",
+                "My grandmother baked a batch of foxtail millet and chocolate chip cookies for us.",
+                "My grandmother makes the most amazing damson jam every summer.",
+                "The antique clock belongs to my grandmother."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmRtb3RoZXI&hash=0ca187a2ae4505700fe262dd7867b38fac278f5a&lang=en&cache-only=0",
+            "defineEn": "the woman who is our mom or dad's mother",
+            "defineVi": "người phụ nữ là mẹ của chúng tôi hoặc mẹ của cha",
+            "hasImg": true
+        },
+        {
+            "id": "bb466da3-9adc-41af-9c98-3106ce40b43e",
+            "word": "grandfather",
+            "phonetic": "ɡɹændfɑːðɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My grandfather was a man of few words.",
+                "My grandfather was a bit of a rough diamond.",
+                "My grandfather used to raise chickens on his farm.",
+                "My grandfather immigrated to America from a small European town.",
+                "My grandfather enjoys growing his own salad greens in his backyard garden."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhbmRmYXRoZXI&hash=1b6adec4fa98432f2497566c382e9dbeed7a84ab&lang=en&cache-only=0",
+            "defineEn": "the man who is our mom or dad's father",
+            "defineVi": "người đàn ông là cha hoặc mẹ của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "72cd2916-c422-4ae3-88b9-281406f961ce",
+            "word": "uncle",
+            "phonetic": "ʌŋkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The proud uncle held his newborn nephew in his arms.",
+                "His uncle is like a second father to him.",
+                "My uncle buys and sells antiques for a living.",
+                "We have a big family with many uncles and aunts.",
+                "You should ask your uncle to share stories about your family's history and traditions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5jbGU&hash=3a8d882968600493f2d37452279e6b11860da97d&lang=en&cache-only=0",
+            "defineEn": "the brother of our father or mother or their sibling's husband",
+            "defineVi": "anh trai của cha hoặc mẹ của chúng tôi hoặc chồng của anh chị em ruột của họ",
+            "hasImg": true
+        },
+        {
+            "id": "23306607-5ce7-4018-bf0c-ed7835abccc3",
+            "word": "aunt",
+            "phonetic": "ænt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Anne's aunt always sends her birthday cards and gifts.",
+                "My aunt is a really kind sister to my father.",
+                "Her aunt is very sweet but not all there.",
+                "My aunt and I are related by blood.",
+                "We have a big family with many uncles and aunts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXVudA&hash=d306a5a1811c98fd8fbe8361c782bef4b82995fc&lang=en&cache-only=0",
+            "defineEn": "the sister of our mother or father or their sibling's wife",
+            "defineVi": "em gái của mẹ hoặc cha của chúng tôi hoặc vợ của anh chị em ruột của họ",
+            "hasImg": true
+        },
+        {
+            "id": "de0f5d64-20c8-4881-ae9e-f5ccca711582",
+            "word": "cousin",
+            "phonetic": "kʌzən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her cousins are like siblings to her.",
+                "My cousin objected and he was not a minority of one.",
+                "Tom's cousin inherited a large sum of money from his parents, but he didn't have good money management skills.",
+                "I have a big family with lots of cousins and aunts and uncles.",
+                "Her cousin is like a brother to her, and they share many interests and hobbies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y291c2lu&hash=5bac5b30415ace73617b78a87405bd4678389b52&lang=en&cache-only=0",
+            "defineEn": "our aunt or uncle's child",
+            "defineVi": "con của dì hoặc chú của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "0b6ee8ad-9647-44d8-ba02-35699db6f705",
+            "word": "niece",
+            "phonetic": "niːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her niece is the youngest member of the family and everyone loves her.",
+                "Her niece is the only granddaughter in the family and is treated like a princess.",
+                "My niece is like a little sister to me, and I try to be a positive influence in her life.",
+                "She and her niece enjoy gardening and planting flowers in the backyard.",
+                "He loves spending time with his niece, teaching her how to play guitar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmllY2U&hash=5b54769c1e2125d7c62b8a69551520f692540dfb&lang=en&cache-only=0",
+            "defineEn": "our sister or brother's daughter, or the daughter of our husband or wife's siblings",
+            "defineVi": "con gái của chị gái hoặc anh trai của chúng tôi, hoặc con gái của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "7f7f2c91-e370-4edb-a58f-f578f2235f25",
+            "word": "nephew",
+            "phonetic": "nɛfjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The proud uncle held his newborn nephew in his arms.",
+                "My sister's son is my beloved nephew.",
+                "My nephew is coming to visit us this weekend.",
+                "I bought a toy for my nephew's birthday.",
+                "She loves spending time with her adorable nephews."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmVwaGV3&hash=acf9bbba0baead31c7e7b6fe0069aa9eeb976c5c&lang=en&cache-only=0",
+            "defineEn": "our sister or brother's son, or the son of our husband or wife's siblings",
+            "defineVi": "con trai của chị gái hoặc anh trai của chúng tôi, hoặc con trai của anh chị em ruột của chồng hoặc vợ của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "5dd2fff6-d7fc-4e00-8813-e952910506e2",
+            "word": "boyfriend",
+            "phonetic": "bɔɪfɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She brought her boyfriend to the party.",
+                "Has she got a new boyfriend?",
+                "She introduced her boyfriend to her parents during the family gathering.",
+                "Her boyfriend is an amateur race car driver who really lives on the edge.",
+                "Mentioning her new boyfriend just rubbed salt into the wound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym95ZnJpZW5k&hash=f5ce6f62035a674e2815ce5105f4bde368479ce1&lang=en&cache-only=0",
+            "defineEn": "a man that you love and are in a relationship with",
+            "defineVi": "một người đàn ông mà bạn yêu và đang trong một mối quan hệ với",
+            "hasImg": true
+        },
+        {
+            "id": "adc1548c-5c49-44c8-86f7-af2a6d220275",
+            "word": "girlfriend",
+            "phonetic": "ɡɜːlfɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her intelligence and kindness make her the perfect girlfriend.",
+                "\"Will you be my girlfriend?\"",
+                "He memorized his girlfriend's address by heart.",
+                "My girlfriend and I are planning a weekend getaway to the beach.",
+                "He introduced his girlfriend to his friends at the party last night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lybGZyaWVuZA&hash=cebf6aebce5bee24f38532e8aecd176c052d4830&lang=en&cache-only=0",
+            "defineEn": "‌a lady that you love and are in a relationship with",
+            "defineVi": "một người phụ nữ mà bạn yêu và đang có mối quan hệ với",
+            "hasImg": true
+        },
+        {
+            "id": "3f13e220-8233-4ff9-815c-1ecc258487a9",
+            "word": "horrible",
+            "phonetic": "hɔːɹɪbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "These comments are horrible.",
+                "The footage from this is absolutely horrible.",
+                "Babies' got horrible taste!",
+                "But the grammar is horrible.",
+                "Because the relationship with Peach was horrible."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9ycmlibGU&hash=3513a3b1ca7587c6e0da807143cb57780b8fd8b9&lang=en&cache-only=0",
+            "defineEn": "extremely unpleasant, bad, or disagreeable",
+            "defineVi": "cực kỳ khó chịu, xấu, hoặc khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "6482c6dc-9309-46f0-8a24-ff95cae07f79",
+            "word": "nice",
+            "phonetic": "naɪs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The garden looks nice.",
+                "The soft carpet feels nice under my feet.",
+                "The children were nice as pie.",
+                "This room would make a nice office.",
+                "The spicy sausage and mushroom fusilli had a nice kick of flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmljZQ&hash=7adede239e2ad9b42bb666247002d2c0d5f35f3a&lang=en&cache-only=0",
+            "defineEn": "providing pleasure and enjoyment",
+            "defineVi": "cung cấp niềm vui và hưởng thụ",
+            "hasImg": true
+        },
+        {
+            "id": "945700dc-e9a0-465a-aa57-c41d59963d68",
+            "word": "big",
+            "phonetic": "bɪɡ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The big fellow keeps a fish shop near the post office.",
+                "The government makes a big thing out of public support.",
+                "His dedication and hard work played a big part in the company's success.",
+                "The conference attracted many big names in the tech industry.",
+                "We're talking big money."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymln&hash=340cec77523732d5bc33f027cecb19ef75c4678d&lang=en&cache-only=0",
+            "defineEn": "large or above average in size, amount, degree, etc.",
+            "defineVi": "lớn hoặc trên mức trung bình về kích thước, số lượng, mức độ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "ca86972d-c549-4ba8-9b2d-352ef9978ee4",
+            "word": "small",
+            "phonetic": "smɔːl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Small cracks appeared in the wall.",
+                "That holiday cost me a small fortune.",
+                "This small restaurant is the best pound for pound in the city.",
+                "The whole may be smaller than the sum of its parts!",
+                "I gave a small donation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21hbGw&hash=7df44bdfe670afa5fa2f958b47b2ad3554cee646&lang=en&cache-only=0",
+            "defineEn": "little or below average in size, amount, degree, etc.",
+            "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c45c03d8-fbcc-4e7d-9955-91795f53c28f",
+            "word": "hot",
+            "phonetic": "hɑːt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather was disagreeably hot.",
+                "The news came hot on the heels of another plane crash.",
+                "The factory closure follows hot on the heels of several others",
+                "The winter issue is hot off the press.",
+                "That hot guy had a good head on his shoulders."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG90&hash=0da9ddb695c016e223f206638448aae9581d299f&lang=en&cache-only=0",
+            "defineEn": "having a high temperature or a high degree of heat",
+            "defineVi": "có nhiệt độ cao hoặc nhiệt độ cao",
+            "hasImg": true
+        },
+        {
+            "id": "aa7ccfe1-5069-4741-91f5-4b4ceeffb952",
+            "word": "cold",
+            "phonetic": "koʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He feels the cold a lot.",
+                "The film caught a cold over the outstanding debt.",
+                "Sarah’s got a cold.",
+                "On the day of the wedding, Brown experienced cold feet.",
+                "He's out cold and as still as a stone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sZA&hash=8875f66e2064a93958cd6d321da2787e7167f462&lang=en&cache-only=0",
+            "defineEn": "having a temperature lower than the human body's average temperature",
+            "defineVi": "có nhiệt độ thấp hơn nhiệt độ trung bình của cơ thể con người",
+            "hasImg": true
+        },
+        {
+            "id": "8fdd2efd-52bb-4fb2-9cae-4125c600fb74",
+            "word": "good",
+            "phonetic": "ɡʊd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The food looks good.",
+                "Good wine can make a meal.",
+                "Bad luck often brings good luck.",
+                "This information is as good as gold.",
+                "\"Your guess is as good as mine.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29vZA&hash=23dba10598e546d0d581f340c648d497a4e2bcb6&lang=en&cache-only=0",
+            "defineEn": "having a standard or quality that is satisfying",
+            "defineVi": "có tiêu chuẩn hoặc chất lượng thỏa mãn",
+            "hasImg": true
+        },
+        {
+            "id": "907f8247-4105-4d41-b29f-bb2ab2861f1d",
+            "word": "bad",
+            "phonetic": "bæd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Bad weather brought chaos to the utility companies.",
+                "Bad luck often brings good luck.",
+                "The bad weather brought famine.",
+                "Don’t use bad language.",
+                "Bad manners will get you nowhere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFk&hash=ba0e7eda3d140656dd10d32c2ec596c38ebb3e1a&lang=en&cache-only=0",
+            "defineEn": "having a standard or quality that is unsatisfying",
+            "defineVi": "có tiêu chuẩn hoặc chất lượng không thỏa mãn",
+            "hasImg": true
+        },
+        {
+            "id": "ff38cb0a-7b0a-4d2c-aa58-372e647ae71d",
+            "word": "cheap",
+            "phonetic": "tʃiːp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "Such cheap goods obviously rely on dirt cheap labor.",
+                "It was dirt cheap.",
+                "He found a cheap flight deal for his vacation.",
+                "She bought cheap headphones, but the sound quality was poor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlYXA&hash=0c343d67b95c937ba68b0929d033fd7c14b0c522&lang=en&cache-only=0",
+            "defineEn": "having a low price",
+            "defineVi": "có giá thấp",
+            "hasImg": true
+        },
+        {
+            "id": "8f76ac7f-bf20-4e4e-85fe-494e294e6862",
+            "word": "expensive",
+            "phonetic": "ɛkspɛnsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The new restaurant is expensive.",
+                "The hotel had expensive rates during the holiday season.",
+                "She bought an expensive dress for a special occasion.",
+                "He bought an expensive watch as a gift for his father.",
+                "The restaurant had expensive prices, but the food was delicious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZW5zaXZl&hash=49d271dd88283dc21453a8c2f272494ea30d4393&lang=en&cache-only=0",
+            "defineEn": "having a high price",
+            "defineVi": "có giá cao",
+            "hasImg": true
+        },
+        {
+            "id": "42c288d4-0bce-4dd2-953e-b56317c628bb",
+            "word": "old",
+            "phonetic": "oʊld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My father is quite old now",
+                "This thankless IT support job is really getting old.",
+                "This old house gives me the willies.",
+                "The old man gave up the ghost.",
+                "The old man considered his granddaughter thoughtfully."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2xk&hash=4760358aa3bbca48929cb4bab31f6097e8c8fea0&lang=en&cache-only=0",
+            "defineEn": "(of a person) in the later stages of life",
+            "defineVi": "(của một người) trong giai đoạn sau của cuộc đời",
+            "hasImg": true
+        },
+        {
+            "id": "ff924806-53d1-44cd-ad2a-c52b32b09359",
+            "word": "young",
+            "phonetic": "jʌŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The best professional musicians start young.",
+                "The young actress received an award for her outstanding performance.",
+                "Those young people have some guts.",
+                "That young woman was close as an oyster!",
+                "The young man was a twenty-one-year-old college student."
+            ],
+            "audio": "https://tts.langeek.co/read?text=eW91bmc&hash=98e17b97a56524f91b120fdf3018d0262bb60d98&lang=en&cache-only=0",
+            "defineEn": "still in the earlier stages of life",
+            "defineVi": "vẫn còn trong giai đoạn đầu của cuộc sống",
+            "hasImg": true
+        },
+        {
+            "id": "94b14d68-c504-44b6-b3f6-bc35cc1122cd",
+            "word": "slow",
+            "phonetic": "sloʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The slow train arrived at the station behind schedule.",
+                "The slow healing process of the wound required regular care.",
+                "The slow elevator took a long time to reach the desired floor.",
+                "Our progress has been fairly slow so far, but it's early days.",
+                "She had a slow learning pace but never gave up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2xvdw&hash=0f7b65292fe1032cddd34e63a2f2c3c8ae99d6a3&lang=en&cache-only=0",
+            "defineEn": "moving, happening, or being done at a speed that is low",
+            "defineVi": "di chuyển, xảy ra hoặc được thực hiện ở tốc độ thấp",
+            "hasImg": true
+        },
+        {
+            "id": "3411fa97-bbea-47e8-a9db-87b8af3e6957",
+            "word": "fast",
+            "phonetic": "fæst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Sales are growing fast.",
+                "Things certainly move fast in the blogosphere.",
+                "He takes bends much too fast.",
+                "The fast runner won the race by a wide margin.",
+                "He's going too fast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFzdA&hash=1073443ff3b1f337934c21034bd28a5c6a1c128e&lang=en&cache-only=0",
+            "defineEn": "having a high speed when moving or doing something",
+            "defineVi": "có tốc độ cao khi di chuyển hoặc làm gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "6d5d11ec-8e4b-4212-a273-86972cb58f37",
+            "word": "easy",
+            "phonetic": "iːzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Knowledge of cooking comes easy to him.",
+                "The whole procedure is as easy as ABC.",
+                "A ramp allows easy access for wheelchairs.",
+                "Using the camera was as easy as pie.",
+                "It's an easy exam."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFzeQ&hash=625c1df691f722a2783b32160c2c4f235bfed440&lang=en&cache-only=0",
+            "defineEn": "needing little skill or effort to do or understand",
+            "defineVi": "cần ít kỹ năng hoặc nỗ lực để làm hoặc hiểu",
+            "hasImg": true
+        },
+        {
+            "id": "ef8a7f32-c88a-4c45-9858-80dd446c5a21",
+            "word": "parent",
+            "phonetic": "pɛɹənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Parents often support their children financially during college.",
+                "His parents footed the bill for his college education.",
+                "My parents always took an interest in my hobbies.",
+                "My parents enjoyed a delicious calamari appetizer at the seaside restaurant.",
+                "My parents always drink orange juice for breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyZW50&hash=f2a00e6568c98c0531d50eea35e189d2fc3f328c&lang=en&cache-only=0",
+            "defineEn": "our mother or our father",
+            "defineVi": "mẹ của chúng tôi hoặc cha của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "dda8e2af-2699-4fb0-bcec-488626e72789",
+            "word": "difficult",
+            "phonetic": "dɪfɪkəlt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The separation from Julie was already difficult for Alex.",
+                "The boss always assigns difficult projects as a way of kicking the tires of new employees.",
+                "You've given yourselves a difficult task.",
+                "It may be too difficult for the trainee - small dog, tall weeds!",
+                "It’s difficult to do housework with the children under my feet all the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmljdWx0&hash=240fc97e0739c267bc1717fb651dc046f99c4d2b&lang=en&cache-only=0",
+            "defineEn": "needing a lot of work or skill to do, understand, or deal with",
+            "defineVi": "cần rất nhiều công việc hoặc kỹ năng để làm, hiểu hoặc giải quyết",
+            "hasImg": true
+        }
+    ]
+}

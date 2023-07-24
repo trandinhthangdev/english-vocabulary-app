@@ -1,0 +1,585 @@
+{
+    "id": "f2440a68-f90f-45e0-ad60-b96226d72fa8",
+    "title": "Describing Music",
+    "originalTitle": "Describing Music",
+    "words": [
+        {
+            "id": "f1152942-cd1a-4613-9393-2a3f583649c5",
+            "word": "acoustic",
+            "phonetic": "ɐkuːstɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The singer's acoustic performance showcased her raw talent, captivating the audience with the purity and emotion of her voice in its most authentic form.",
+                "Acoustic instruments like the acoustic guitar is pretty much everywhere.",
+                "Acoustic waveguides are specifically shaped tunnels that can amplify certain sounds.",
+                "And that is acoustic levitation.",
+                "Even the acoustics change when you enter a room with a work by Hicks in it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNvdXN0aWM&hash=cb322e6b23c2438c63d73bbb4272ee9809d4405a&lang=en&cache-only=0",
+            "defineEn": "(of a musical instrument) making a sound that is natural not amplified",
+            "defineVi": "(của một loại nhạc cụ) tạo ra âm thanh tự nhiên không khuếch đại",
+            "hasImg": true
+        },
+        {
+            "id": "9bc50955-f073-414a-938c-2ef941356c62",
+            "word": "staccato",
+            "phonetic": "stɐkɑːɾoʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Most dogs will get really excited if you used a high pitched staccato voice. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhY2NhdG8&hash=0841e375d516ceb066ad6d1659b32d611242f697&lang=en&cache-only=0",
+            "defineEn": "(music) marked by or composed of disconnected parts or sounds; cut short crisply",
+            "defineVi": "(âm nhạc) được đánh dấu bằng hoặc bao gồm các phần hoặc âm thanh rời rạc; cắt ngắn sắc nét"
+        },
+        {
+            "id": "a5dec9f6-c1fd-4a6c-be1b-82272eeb4d72",
+            "word": "mono",
+            "phonetic": "mɑːnoʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Only mono-brow, cannot drive certain vehicles.",
+                "They called it chronic mono, then chronic Epstein-Barr virus, then chronic fatigue syndrome.",
+                "For our purposes, we will continue with mono.",
+                "Mono speakers, that's a drag for me because the earpiece speaker is there.",
+                "I mean, it only had mono sound when I played that something in YouTube anyway."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ubw&hash=2321866e4247fbdf685321b4b165ae1e3eb46e8f&lang=en&cache-only=0",
+            "defineEn": "describing sound transmission, recording or reproduction that is transferred through a single channel",
+            "defineVi": "mô tả việc truyền, ghi hoặc tái tạo âm thanh được truyền qua một kênh duy nhất"
+        },
+        {
+            "id": "a7738e98-7487-4320-94cd-0eb3caf85185",
+            "word": "tuneless",
+            "phonetic": "tuːnləs ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHVuZWxlc3M&hash=ffbf6dc8d2c1d25e753154647d777c79185b6117&lang=en&cache-only=0",
+            "defineEn": "lacking a pleasant tune",
+            "defineVi": "thiếu một giai điệu dễ chịu"
+        },
+        {
+            "id": "78beec93-1c41-4f3f-8be4-d9dc39d7624a",
+            "word": "tuneful",
+            "phonetic": "tuːnfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHVuZWZ1bA&hash=42f8be019c89f71557186badb4d7f414b23c41f7&lang=en&cache-only=0",
+            "defineEn": "producing or having a musical tune, especially one that is pleasant",
+            "defineVi": "sản xuất hoặc có một giai điệu âm nhạc, đặc biệt là giai điệu dễ chịu"
+        },
+        {
+            "id": "579c173c-e4f2-4ade-b0ca-03cdab30f572",
+            "word": "tenor",
+            "phonetic": "tɛnɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "When Dr. Blasey Ford testifies, does the tenor of the room change? ",
+                "And that's when they brought forward Anita Hill, and the whole tenor, of course, changed, and it became a battle not over ideology but over personal behavior. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVub3I&hash=84db500e8a3a1697f8e57529f0b987ac7df3dc9e&lang=en&cache-only=0",
+            "defineEn": "of or close in range to the highest natural adult male voice",
+            "defineVi": "của hoặc gần với giọng nam trưởng thành tự nhiên cao nhất"
+        },
+        {
+            "id": "62e2877c-5fb3-4660-a8a4-e04bec44dcab",
+            "word": "vivace",
+            "phonetic": "vɪveɪs ",
+            "partOfSpeechType": "adverb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dml2YWNl&hash=675d670683d5cacbf958dc386c033dd3b751d5f5&lang=en&cache-only=0",
+            "defineEn": "lively, in music",
+            "defineVi": "sống động, trong âm nhạc"
+        },
+        {
+            "id": "7ec57faf-4fa2-44ec-9361-da23c0f85f59",
+            "word": "symphonic",
+            "phonetic": "sɪmfɑːnɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "That is what they're technically known in the orchestral world, in the symphonic world, as I am entering into.",
+                "It's been producing gongs since 1906, and its largest gong, an 80-inch symphonic model, retails for around $27,000."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ltcGhvbmlj&hash=3f030c6ecf8d4f6190ad581a5de07b9c59580ef5&lang=en&cache-only=0",
+            "defineEn": "connected with or in form of a symphony",
+            "defineVi": "kết nối với hoặc trong hình thức của một bản giao hưởng"
+        },
+        {
+            "id": "1c6b5962-6cba-4c1b-83e1-3c39d8ea84d8",
+            "word": "tuneful",
+            "phonetic": "mɛloʊdiəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHVuZWZ1bA&hash=42f8be019c89f71557186badb4d7f414b23c41f7&lang=en&cache-only=0",
+            "defineEn": "producing or having a musical tune, especially one that is pleasant",
+            "defineVi": "sản xuất hoặc có một giai điệu âm nhạc, đặc biệt là giai điệu dễ chịu"
+        },
+        {
+            "id": "a23aa5d4-b195-46a8-a473-31c332753c69",
+            "word": "melodic",
+            "phonetic": "mɛlɑːdɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We enjoyed hearing the bird's melodic song from afar.",
+                "He was still melodic.",
+                "This process is called melodic intonation therapy.",
+                "Melodic intonation therapy is typically used when there is such severe damage in the left hemisphere that it’s impossible to repair the neurons in that area.",
+                "So, melodic intonation therapy takes advantage of the right hemisphere’s ability to communicate through song, then slowly trains it to transform song into speech."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVsb2RpYw&hash=f6447201f99391b6743459ca527e08ef6c39731a&lang=en&cache-only=0",
+            "defineEn": "producing or containing a pleasant melody",
+            "defineVi": "sản xuất hoặc chứa một giai điệu dễ chịu"
+        },
+        {
+            "id": "866e45ec-0146-4539-b005-6e934d84a7c9",
+            "word": "major",
+            "phonetic": "meɪdʒɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Then again, some major thinkers are way ahead of the curve.",
+                "A major technological advancement like that is still light years away.",
+                "The country was hit by a major earthquake.",
+                "There are some major changes in the wind.",
+                "The city had to pick up the pieces after a major storm caused widespread damage and power outages."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFqb3I&hash=a1d6b106985ce5b8fdebcca4db23b60d058514c3&lang=en&cache-only=0",
+            "defineEn": "based on a scale in which the interval between the third and the fourth notes and the seventh and the eighth notes is a half step",
+            "defineVi": "dựa trên thang âm trong đó quãng nghỉ giữa nốt thứ ba và nốt thứ tư và nốt thứ bảy và nốt thứ tám là nửa cung",
+            "hasImg": true
+        },
+        {
+            "id": "a364a3d5-ff38-4a9d-a821-c58fc3bdb1ae",
+            "word": "live",
+            "phonetic": "laɪv ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "She lived a very peaceful life.",
+                "She lives just a stone's throw away from the beach.",
+                "He lives far from the city center.",
+                "He lived in a small town with friendly neighbors.",
+                "She lived in the same village from the cradle to the grave."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl2ZQ&hash=406867a04825bf06b5e64b1a275e214872c8b293&lang=en&cache-only=0",
+            "defineEn": "performed or recorded in front of an audience or as the mentioned event is taking place",
+            "defineVi": "được thực hiện hoặc ghi lại trước khán giả hoặc khi sự kiện được đề cập đang diễn ra",
+            "hasImg": true
+        },
+        {
+            "id": "44de8a1c-19aa-475d-9940-31db4484cd9d",
+            "word": "instrumental",
+            "phonetic": "ɪnstɹəmɛntəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My mother was super instrumental in so many aspects of my career.",
+                "He’s pretty instrumental in the transition. ",
+                "The Wall Street Journal called the firm instrumental in the energy companies transformation.",
+                "And Stephen Miller was very instrumental to that. ",
+                "I've very much instrumental in giving them good values."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zdHJ1bWVudGFs&hash=dba1af19153b4fc83210e9510b1fb59df2a2d5e4&lang=en&cache-only=0",
+            "defineEn": "(of music) made only by instruments, instead of being sung",
+            "defineVi": "(của âm nhạc) chỉ được thực hiện bởi nhạc cụ, thay vì được hát"
+        },
+        {
+            "id": "2b8f53cc-997c-4771-a75a-919413d96c8c",
+            "word": "harmonic",
+            "phonetic": "hɑːɹmɑːnɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Making us more harmonics.",
+                "Today's lesson is simple harmonic motion--",
+                "Simple harmonic motion is the whole idea of this lesson.",
+                "Harmonics can also be used to tune string instruments.",
+                "The higher frequencies are called overtones, or harmonics."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFybW9uaWM&hash=05d435e115eda67fc018f711924cbe1f2388aa9d&lang=en&cache-only=0",
+            "defineEn": "connected with or denoting a harmony or harmonics",
+            "defineVi": "kết nối với hoặc biểu thị một sự hài hòa hoặc hài hòa"
+        },
+        {
+            "id": "156307c8-03c9-4862-a7e4-f7053b322fa2",
+            "word": "grungy",
+            "phonetic": "ɡɹʌndʒi ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3J1bmd5&hash=e9b2d81837246920e52924987f538918ab11c7cf&lang=en&cache-only=0",
+            "defineEn": "connected with grunge rock music that has a loud guitar sound",
+            "defineVi": "kết nối với nhạc grunge rock có âm thanh guitar lớn"
+        },
+        {
+            "id": "3166e364-4129-4c48-a61c-4ad62f09c9c8",
+            "word": "sharp",
+            "phonetic": "ʃɑːɹp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Keep a sharp lookout for David.",
+                "With a sharp knife, the chef expertly removed the gristle from the pork chops.",
+                "He remained sharp as a tack.",
+                "She felt a sharp pain in her hand.",
+                "He's as sharp as a tack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hhcnA&hash=972244ec15676b3b56066aa40a8e754d81066927&lang=en&cache-only=0",
+            "defineEn": "having or emitting a high-pitched and sharp tone or tones",
+            "defineVi": "có hoặc phát ra âm sắc hoặc âm sắc cao và sắc nét"
+        },
+        {
+            "id": "f9c4a00f-8390-423e-bd30-63233b453f7b",
+            "word": "punky",
+            "phonetic": "pʌŋki ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVua3k&hash=a9ad0fa0233c166b51f93528fa7e97371b11819e&lang=en&cache-only=0",
+            "defineEn": "denoting or resembling punk rock in style",
+            "defineVi": "biểu thị hoặc giống với nhạc punk rock theo phong cách"
+        },
+        {
+            "id": "cafad56c-e68f-4d37-baac-6a70c1c7a4d6",
+            "word": "natural",
+            "phonetic": "nætʃɚɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The custard apple's natural sweetness makes it a perfect filling for homemade pies and tarts.",
+                "The mountain provided a natural barrier between the two valleys.",
+                "The natural tanginess of tamarind adds a unique twist to sauces, marinades, and soups.",
+                "He used turnip leaves as natural wrapping for steamed dumplings.",
+                "We used honey as a natural sweetener in our homemade salad dressing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
+            "defineEn": "(of a musical note) indicating that the note is neither sharp nor flat",
+            "defineVi": "(của một nốt nhạc) chỉ ra rằng nốt nhạc không sắc nét cũng không bằng phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "cab3e1fb-061f-41db-9a56-a89fdd634b8b",
+            "word": "minor",
+            "phonetic": "maɪnɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Minor celebrity status did not become Potter.",
+                "It's just a minor setback.",
+                "Harold had worked himself into a minor rage.",
+                "She had a brush with stardom in the eighties as a member of a minor pop band.",
+                "What began as a minor scuffle turned into a full-scale riot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlub3I&hash=f8b89e1df33a65fd76960164e37d776a5d7046ae&lang=en&cache-only=0",
+            "defineEn": "based on a scale in which the interval between the second and the third notes, the fifth and the sixth notes and the seventh and eighth notes is a half step",
+            "defineVi": "dựa trên thang âm trong đó quãng giữa nốt thứ hai và nốt thứ ba, nốt thứ năm và nốt thứ sáu và nốt thứ bảy và nốt thứ tám là nửa cung",
+            "hasImg": true
+        },
+        {
+            "id": "4341114e-93ec-431f-83f1-55bae76f4098",
+            "word": "atonal",
+            "phonetic": "eɪtoʊnəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXRvbmFs&hash=165eb4eaceb60e6baad102c08d16773c60206562&lang=en&cache-only=0",
+            "defineEn": "(of a piece of music) marked by a lack of tonality",
+            "defineVi": "(của một bản nhạc) được đánh dấu bằng sự thiếu âm điệu"
+        },
+        {
+            "id": "92143fdf-8643-4535-9dbb-f995684fc7b6",
+            "word": "ambient",
+            "phonetic": "æmbiənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Ambient sound fades in and plays throughout.",
+                "Ambient sound begins to rise.",
+                "So their body temperatures vary depending on the ambient temperature of their environment.",
+                "But they still include an ambient sound mode.",
+                "Room tone is the ambient noise of the room you're recording in."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudA&hash=a1f0263e7cc5198f843229c1aa0c230d97eec027&lang=en&cache-only=0",
+            "defineEn": "relating to the type of music that emphasizes on tone and atmosphere rather than traditional structure",
+            "defineVi": "liên quan đến thể loại âm nhạc nhấn mạnh vào giai điệu và bầu không khí hơn là cấu trúc truyền thống"
+        },
+        {
+            "id": "a2b943a1-21e2-408e-8510-d4c805140cab",
+            "word": "aleatory",
+            "phonetic": "ɐliːtoːɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWxlYXRvcnk&hash=814d7feb6fe9a297eafbb1e81c5bd2137d428e93&lang=en&cache-only=0",
+            "defineEn": "connected with or denoting musical compositions or other art forms that involve random choice using computer techniques",
+            "defineVi": "được kết nối với hoặc biểu thị các tác phẩm âm nhạc hoặc các hình thức nghệ thuật khác liên quan đến sự lựa chọn ngẫu nhiên bằng kỹ thuật máy tính"
+        },
+        {
+            "id": "14973a7c-e7a1-49e2-b870-ab66ee0c6c0a",
+            "word": "low",
+            "phonetic": "loʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Lower energy consumption means less pollution.",
+                "The orchard's yield of apples was lower this year due to unfavorable weather conditions.",
+                "The euro hit a record low in trading today.",
+                "Watch your head on the low ceiling.",
+                "The country was at a low ebb due to the recent war"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG93&hash=df64a23aeefb5c8ec4ec37d4752f869da3bb93dc&lang=en&cache-only=0",
+            "defineEn": "used of sounds and voices; low in pitch or frequency",
+            "defineVi": "sử dụng âm thanh và giọng nói; cao độ hoặc tần số thấp"
+        },
+        {
+            "id": "90780e0a-44a2-4609-a556-df0177f3c5ef",
+            "word": "brassy",
+            "phonetic": "bɹæsi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She's always just throwing that brassy, sassy, news reporter poon in your face."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhc3N5&hash=bd6424c00e4c5febc5bb920933157097eda7eb09&lang=en&cache-only=0",
+            "defineEn": "resembling the sound of a brass instrument",
+            "defineVi": "giống như âm thanh của một nhạc cụ bằng đồng"
+        },
+        {
+            "id": "ed4a466e-ad49-427e-a20d-a64d20fa7e81",
+            "word": "biphonic",
+            "phonetic": "baɪfɑːnɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmlwaG9uaWM&hash=c802ca9b8ba302e7e152422759fe0ead7e752037&lang=en&cache-only=0",
+            "defineEn": "describing a quality of music that involves the simultaneous production of two distinct pitches or tones, often with one serving as a drone or sustained pitch while the other carries the melody or rhythm",
+            "defineVi": "mô tả chất lượng âm nhạc liên quan đến việc tạo ra đồng thời hai cao độ hoặc âm điệu riêng biệt, thường với một âm vực đóng vai trò là âm vực hoặc cao độ duy trì trong khi âm còn lại mang giai điệu hoặc nhịp điệu"
+        },
+        {
+            "id": "2b0e4e39-55bb-454d-bc5e-26419dd27b62",
+            "word": "vocal",
+            "phonetic": "voʊkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The talented young singer gave the established artist a run for her money, impressing the audience with her exceptional vocal skills.",
+                "Vocal communication, like chirps, grunts, and songs, is key between individuals within a species.",
+                "It has the loudest vocals.",
+                "I strained my vocal chords.",
+                "Then, about halfway through the song, the vocals come in."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm9jYWw&hash=b943d47b916d36a364b99b9c44562e44c6afaad4&lang=en&cache-only=0",
+            "defineEn": "connected with or performed by singing",
+            "defineVi": "kết nối với hoặc thực hiện bằng cách ca hát"
+        },
+        {
+            "id": "1646fb0b-007e-40c1-9b9f-08581672988c",
+            "word": "rhythmic",
+            "phonetic": "ɹɪðmɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It's driven by rhythmic interactions.",
+                "Slugs drag themselves across the forest floor with rhythmic waves of muscular contractions.",
+                "But they also stimulate rhythmic movements, like walking.",
+                "This rhythmic configuration is found as the Cuban cinquillo, in the Puerto Rican bomba, and in Northern Romanian music.",
+                "That's sort of a rhythmic board book about acknowledging the commonality around all of us."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmh5dGhtaWM&hash=1f131f7fdaa8a0ec210935b1e07b14e1e9e7fc6a&lang=en&cache-only=0",
+            "defineEn": "recurring with measured regularity",
+            "defineVi": "định kỳ với tính đều đặn đo được"
+        },
+        {
+            "id": "c2e37c11-b190-491d-a997-961f0131843d",
+            "word": "musical",
+            "phonetic": "mjuːzɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The film pays homage to classic Hollywood musicals.",
+                "While growing up, he had been exposed to various musical genres at his mother's knee, developing a diverse appreciation for music.",
+                "Her last musical ran for six months on Broadway.",
+                "They have such a strong musical chemistry and perform flawlessly together.",
+                "Musicals are the gateway drug."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVzaWNhbA&hash=c7a3e11a7deeffea2a1b813f1d1b252ed7fcd1d7&lang=en&cache-only=0",
+            "defineEn": "relating to or containing music",
+            "defineVi": "liên quan đến hoặc có chứa âm nhạc"
+        },
+        {
+            "id": "78e78e7d-9a22-4d95-a416-c631e4f7c340",
+            "word": "orchestral",
+            "phonetic": "ɔːɹkᵻstɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "That is what they're technically known in the orchestral world, in the symphonic world, as I am entering into.",
+                "(uplifting orchestral music)",
+                "(dramatic orchestral music) - Really, you ate all the cookies?",
+                "(soaring orchestral music)",
+                "(dramatic orchestral music) - You could probably just finish the whole thing, right?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3JjaGVzdHJhbA&hash=4550cf56dc7fb9b260ea1fd99e5e8ff5ad35f3f3&lang=en&cache-only=0",
+            "defineEn": "relating to or composed for an orchestra",
+            "defineVi": "liên quan đến hoặc sáng tác cho một dàn nhạc"
+        },
+        {
+            "id": "a61fc60c-aef0-41bf-b48a-2616e1795c59",
+            "word": "classical",
+            "phonetic": "klæsɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "In classical mythology, the griffin has the body of a lion with the head and wings of an eagle.",
+                "Classical computer and other potential use comes from Wall Street.",
+                "So that’s classical conditioning.",
+                "This is all classical mechanics.",
+                "These qubits can solve problems exponentially faster than classical digital computers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhc3NpY2Fs&hash=604d05011281b0c1f48618b9ec0b1060a840060f&lang=en&cache-only=0",
+            "defineEn": "related to classical music",
+            "defineVi": "liên quan đến âm nhạc cổ điển",
+            "hasImg": true
+        },
+        {
+            "id": "07357047-2b4f-4c65-9717-4f306e5fc79f",
+            "word": "lyric",
+            "phonetic": "lɪɹɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His lyrics in this song focus on describing his ability to keep going with his music, no matter what gets in the way of him.",
+                "The concert started off great, but it ended on a sour note when the singer forgot the lyrics to the final song.",
+                "Learn more lyrics.",
+                "♪ Is that the lyric?",
+                "Saying the lyrics."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bHlyaWM&hash=b1ec278468dc7592745575ed0fd90689b7777267&lang=en&cache-only=0",
+            "defineEn": "(of a singing voice) having a light register and a melodic style",
+            "defineVi": "(của một giọng hát) có âm vực nhẹ và phong cách du dương"
+        },
+        {
+            "id": "3703c121-3831-472f-aa53-86d92442ceb4",
+            "word": "loud",
+            "phonetic": "laʊd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The music was far too loud for my liking.",
+                "The branch broke with a loud snap.",
+                "The loud noise made me jump out of my skin.",
+                "He gave a loud cry and fell to the floor.",
+                "The loud crash made everyone in the room sit up and take notice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG91ZA&hash=4288a67880cbd61001e7091c753d3621c5ca708d&lang=en&cache-only=0",
+            "defineEn": "(used chiefly as a direction or description in music) loud; with force",
+            "defineVi": "(được sử dụng chủ yếu như một hướng hoặc mô tả trong âm nhạc) to; với lực lượng"
+        },
+        {
+            "id": "ed7fe228-9bf3-4984-a033-dfc4ac6d4299",
+            "word": "funky",
+            "phonetic": "fʌŋki ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "- It smells really funky.",
+                "So, he's kind of got a funky ear.",
+                "The company's fun and funky decor is down to its Swedish work ethic.",
+                "That is a very funky bendy microphone.",
+                "Aliens, dinosaurs, and other funky objects cover the property."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVua3k&hash=5d52a7dfee300d7456d7353043a9948b159175db&lang=en&cache-only=0",
+            "defineEn": "(of jazz) having the soulful feeling of early blues",
+            "defineVi": "(của nhạc jazz) có cảm giác có hồn của nhạc blu thời kỳ đầu"
+        },
+        {
+            "id": "a78d6424-c06e-4133-a942-fc28a84a6741",
+            "word": "all-star",
+            "phonetic": "ɔːlstɑːɹ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "His high-scoring acrobatic game made him an All-Star 11 times.",
+                "It's my childhood best friend and Link's worst nightmare, the all-star of sweets and the champion of creeps, Cotton Candy Randy!",
+                "It was named for the 14 time, American League all-star baseball player Reggie Jackson.",
+                "All right, let's bet on the All-Star game.",
+                "Stars are just really huge balls of hot gas in space and deep in their centers all-stars are constantly generating an enormous amount of energy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxsLXN0YXI&hash=d278a32e67e60d0ffbd003afba0178fa907c2f6c&lang=en&cache-only=0",
+            "defineEn": "(of a performance) exceptional in quality or features highly skilled performers",
+            "defineVi": "(của một buổi biểu diễn) đặc biệt về chất lượng hoặc đặc trưng của những người biểu diễn có tay nghề cao"
+        },
+        {
+            "id": "a7d65a2f-47b0-47c9-bcd5-57e05d88e5e6",
+            "word": "solo",
+            "phonetic": "soʊloʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We gathered around as she performed a heartfelt solo on her violin.",
+                "Her solo work was fruitful.",
+                "Everybody has a solo but me.",
+                "No, I had a solo, too, though.",
+                "I'm saying Solo. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29sbw&hash=d7f125cd7d417c69bf04c30ade7afac1a472bce2&lang=en&cache-only=0",
+            "defineEn": "composed or performed by a single voice or instrument",
+            "defineVi": "sáng tác hoặc biểu diễn bởi một giọng nói hoặc nhạc cụ"
+        },
+        {
+            "id": "1ac26f25-f259-4877-9e4e-a632062a9819",
+            "word": "solid-body",
+            "phonetic": "sɑːlɪdbɑːdi ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29saWQtYm9keQ&hash=2654f652d52b1e15a1243c08aee722bb545bd7a9&lang=en&cache-only=0",
+            "defineEn": "describing any musical instrument that has a body made entirely from a solid block of wood or other solid material",
+            "defineVi": "mô tả bất kỳ nhạc cụ nào có thân được làm hoàn toàn từ một khối gỗ hoặc vật liệu rắn khác"
+        },
+        {
+            "id": "4c2c10b1-8724-4ba4-be3f-70d624e316e2",
+            "word": "pop",
+            "phonetic": "pɑːp ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My husband's favorite genre of music is pop.",
+                "James nervously popped the question to his girlfriend during a romantic dinner.",
+                "Cripps pink apples add a pop of color and a sweet-tart taste to my fruit salad.",
+                "I keep my students on their toes with pop quizzes.",
+                "Pop is a feast to the ears of many, but I despise it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9w&hash=571382523d99421296dc91e86260ce64f8188b97&lang=en&cache-only=0",
+            "defineEn": "(of music or art) new and of general appeal (especially among young people)",
+            "defineVi": "(về âm nhạc hoặc nghệ thuật) mới và hấp dẫn chung (đặc biệt là trong giới trẻ)"
+        },
+        {
+            "id": "7391e6a2-22a6-4bbe-ab29-d39f142c1473",
+            "word": "avant-garde",
+            "phonetic": "ævəntɡɑːɹd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Like other avant-gardes before it, surrealism drew inspiration from non-western or so-called primitive cultures which for them provided an alternative set of aesthetic and social values.",
+                "Corea was renowned for his avant-garde approach, and over his long career, he won 23 Grammy awards, the most for any jazz artist.",
+                "Impressionism was one of the first of a string of avant-garde art movements, each rejecting tradition and embracing the modern, promoting new ideas about what art could be and what it could do."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZhbnQtZ2FyZGU&hash=eba9c4b80549d0695522e7bd6c39f4ad85c7ad31&lang=en&cache-only=0",
+            "defineEn": "innovative, experimental, or unconventional in style or approach, especially in the arts",
+            "defineVi": "đổi mới, thử nghiệm hoặc độc đáo trong phong cách hoặc cách tiếp cận, đặc biệt là trong nghệ thuật",
+            "hasImg": true
+        },
+        {
+            "id": "908bffa4-7762-4afa-b2f9-085839ca1326",
+            "word": "treble",
+            "phonetic": "tɹɛbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Yeah, there's more mids and stuff on this one, as well, whereas this is more skewed towards bass and treble.",
+                "Kind of like a THX, like this big rising treble",
+                "But once I did this and had the separation between the bass and the treble in the mid range, they're pretty great.",
+                "There is a bit, again, looking at that frequency response curve, there's a bit of a dip in the highs where you can hear the really high trebles but kind of the mid treble, there's a dip there.",
+                "There is a bit, again, looking at that frequency response curve, there's a bit of a dip in the highs where you can hear the really high trebles but kind of the mid treble, there's a dip there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJlYmxl&hash=fa857fcd99184d843179031dc244bb102330fc40&lang=en&cache-only=0",
+            "defineEn": "having or denoting a high range",
+            "defineVi": "có hoặc biểu thị một phạm vi cao"
+        },
+        {
+            "id": "06dad236-a697-44dd-b659-475d95e9cb00",
+            "word": "on shuffle",
+            "phonetic": "ɔn ʃʌfəl ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Control + S on a PC or command + S on a Mac puts the current playlist on shuffle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b24gc2h1ZmZsZQ&hash=bb93917c08752ed04e391136caa5cccf89859907&lang=en&cache-only=0",
+            "defineEn": "(of tracks on a music player or an app) played randomly",
+            "defineVi": "(của các bản nhạc trên trình phát nhạc hoặc ứng dụng) được phát ngẫu nhiên"
+        },
+        {
+            "id": "e5746b64-f488-4a4d-b277-39913431b298",
+            "word": "a capella",
+            "phonetic": "ɐ keɪpɛlə ",
+            "partOfSpeechType": "adverb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YSBjYXBlbGxh&hash=07c0abdd38b6f7060d7ec54a334e74f18ef65867&lang=en&cache-only=0",
+            "defineEn": "without musical accompaniment",
+            "defineVi": "không có nhạc đệm",
+            "hasImg": true
+        }
+    ]
+}

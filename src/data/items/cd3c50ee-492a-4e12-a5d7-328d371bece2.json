@@ -1,0 +1,305 @@
+{
+    "id": "cd3c50ee-492a-4e12-a5d7-328d371bece2",
+    "title": "Types of Cats and Dogs",
+    "originalTitle": "Types of Cats and Dogs",
+    "words": [
+        {
+            "id": "eaae936c-88d3-4b08-b36c-d7a6b393335e",
+            "word": "assistance dog",
+            "phonetic": "ɐsɪstəns dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXNzaXN0YW5jZSBkb2c&hash=65e9055baa324a31253416aa06b0fe1462612b0c&lang=en&cache-only=0",
+            "defineEn": "a dog that is especially trained to aid, assist, or accompany a person with a disability",
+            "defineVi": "một con chó được huấn luyện đặc biệt để giúp đỡ, hỗ trợ hoặc đi cùng người khuyết tật",
+            "hasImg": true
+        },
+        {
+            "id": "e8120a0e-9c00-44fe-b4ba-ec5893580e7d",
+            "word": "detection dog",
+            "phonetic": "dɪtɛkʃən dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGV0ZWN0aW9uIGRvZw&hash=7dc631d3c392eb14a359c23130320d48307e1f40&lang=en&cache-only=0",
+            "defineEn": "a dog that is trained to use its senses to find something particular, such as drugs, explosives, etc.",
+            "defineVi": "một con chó được huấn luyện để sử dụng các giác quan của nó để tìm một thứ gì đó đặc biệt, chẳng hạn như ma túy, chất nổ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "4aee43c9-1899-44de-9bf9-35d4da49dd58",
+            "word": "hound",
+            "phonetic": "haʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In our office politics, Sally always tries to run with the hare and hunt with the hounds, telling both the clerical workers and the management that she thinks they should prevail.",
+                "Many have criticized the government of running with the hare and hunting with the hounds regarding the territorial dispute between the two nations.",
+                "Not hounding.",
+                "Take this, fresh hound.",
+                "He’s a hound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG91bmQ&hash=07c9777e85afb69c4f2df88077fc1368889e3436&lang=en&cache-only=0",
+            "defineEn": "any dog with a sharp sense of smell or sight that can run fast, used for hunting",
+            "defineVi": "bất kỳ con chó nào có khứu giác hoặc thị giác nhạy bén có thể chạy nhanh, được sử dụng để săn bắn",
+            "hasImg": true
+        },
+        {
+            "id": "e2e2cda9-2908-48a3-a4aa-a1da1eb0b5f1",
+            "word": "cur",
+            "phonetic": "kɜː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Vy&hash=ecbb33543b02ffa64951b915939472f3dd5375cf&lang=en&cache-only=0",
+            "defineEn": "an aggressive dog, especially one that is of mixed breeds or kept in poor conditions",
+            "defineVi": "một con chó hung dữ, đặc biệt là một con chó hỗn hợp hoặc được nuôi trong điều kiện tồi tệ",
+            "hasImg": true
+        },
+        {
+            "id": "ae665573-895e-470a-a5c6-fed60c045186",
+            "word": "sheepdog",
+            "phonetic": "ʃiːpdɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Working with sheep comes naturally to sheepdogs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hlZXBkb2c&hash=fcb10aa46a5d94cb53fdc3eedc78beef024329b2&lang=en&cache-only=0",
+            "defineEn": "any breed of dog that is used to herd the sheep",
+            "defineVi": "bất kỳ giống chó nào được sử dụng để chăn cừu",
+            "hasImg": true
+        },
+        {
+            "id": "157dd3c7-3c5b-48a5-a2d4-15fdf27192f6",
+            "word": "bird dog",
+            "phonetic": "bɜːd dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Here's the bird dog to strengthen your spine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlyZCBkb2c&hash=5ece54cd0b6108a547ca589139e0a75c39657574&lang=en&cache-only=0",
+            "defineEn": "a dog used for hunting that fetches the birds which are shot",
+            "defineVi": "một con chó được sử dụng để săn bắt những con chim bị bắn",
+            "hasImg": true
+        },
+        {
+            "id": "88c650b8-c904-4b7f-8182-999e0c69368f",
+            "word": "attack dog",
+            "phonetic": "ɐtæk dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXR0YWNrIGRvZw&hash=ebea43a746e96f6dc9f9d81ef43cce33344b807d&lang=en&cache-only=0",
+            "defineEn": "a dog that is trained to defend or protect its owner in face of a threat or danger",
+            "defineVi": "một con chó được huấn luyện để bảo vệ hoặc bảo vệ chủ nhân của nó trước mối đe dọa hoặc nguy hiểm",
+            "hasImg": true
+        },
+        {
+            "id": "fbacfb01-d279-4f98-8aa1-bff653ed3d8b",
+            "word": "hearing dog",
+            "phonetic": "hɪɹɪŋ dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVhcmluZyBkb2c&hash=c306e193d77cfb13a50002424339a31dfcfc3bfd&lang=en&cache-only=0",
+            "defineEn": "a professionally trained dog that guides people who are deaf or cannot hear properly",
+            "defineVi": "một con chó được huấn luyện chuyên nghiệp để hướng dẫn những người bị điếc hoặc nghe kém",
+            "hasImg": true
+        },
+        {
+            "id": "0d4b6d63-4fbb-4031-a11d-f7c1daea6dee",
+            "word": "gun dog",
+            "phonetic": "ɡʌn dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3VuIGRvZw&hash=c3613182dc601ca9ca4cfed46c4005b38eda1d95&lang=en&cache-only=0",
+            "defineEn": "a dog that is trained to fetch the birds that are shot in hunting",
+            "defineVi": "một con chó được huấn luyện để bắt những con chim bị bắn khi đi săn",
+            "hasImg": true
+        },
+        {
+            "id": "7c44d2fe-c062-4467-9795-d1f2a8d658e1",
+            "word": "police dog",
+            "phonetic": "pəliːs dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Future members of the Royal Canadian Mounted Police, known as the Mounties, train with police dogs like Baylee during their 26-week training at the academy.",
+                "These police dogs aren't looking for illegal drugs or explosives.",
+                "She was my partner as a police dog.",
+                "She was my partner as a police dog.",
+                "A veteran police dog with seven years of service, Baylee and her former partner Brent Bates dropped by the academy to show these cadets the ropes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9saWNlIGRvZw&hash=286e805f0d12be45a45dec69a5228aeb5577da7f&lang=en&cache-only=0",
+            "defineEn": "a dog that is trained to assist with police work, such as detecting drugs or threats",
+            "defineVi": "một con chó được huấn luyện để hỗ trợ công việc của cảnh sát, chẳng hạn như phát hiện ma túy hoặc các mối đe dọa",
+            "hasImg": true
+        },
+        {
+            "id": "0faa615f-3661-4210-81be-cf16c67fb71b",
+            "word": "Retriever",
+            "phonetic": "ɹᵻtɹiːvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=UmV0cmlldmVy&hash=fcd693468253fa5c5aa25bfe5d99fe86e4ef15d9&lang=en&cache-only=0",
+            "defineEn": "a gun dog that finds birds or other preys which are shot during hunting and fetches them intact",
+            "defineVi": "một con chó súng tìm thấy những con chim hoặc con mồi khác bị bắn trong khi đi săn và lấy chúng nguyên vẹn",
+            "hasImg": true
+        },
+        {
+            "id": "1bbc609f-00c0-48d1-8c0c-8f4517be5c7c",
+            "word": "guide dog",
+            "phonetic": "ɡaɪd dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He’s my guide dog, Gallop!",
+                "And when you understand how to listen and recognize that, you know where to aim a guide dog or a cane.",
+                "When it’s very very crowded, guide dogs can’t do their thing, canes can’t really do their thing, because it’s like hitting a thing, hitting a thing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3VpZGUgZG9n&hash=cf1eadd529a391cac7180fd0c5fa5a2fdd86eb7e&lang=en&cache-only=0",
+            "defineEn": "a dog that is professionally trained to lead the blind",
+            "defineVi": "một con chó được huấn luyện chuyên nghiệp để dẫn đường cho người mù",
+            "hasImg": true
+        },
+        {
+            "id": "9286a15c-4949-4660-82ba-28a7a09d75ff",
+            "word": "lapdog",
+            "phonetic": "læpdɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGFwZG9n&hash=788cbe42d5a65f41c6073ee19dd6be1df9b7b4c8&lang=en&cache-only=0",
+            "defineEn": "a small pet dog that can be held in the lap",
+            "defineVi": "một con chó cưng nhỏ có thể được giữ trong lòng",
+            "hasImg": true
+        },
+        {
+            "id": "e5978272-08cb-43eb-b8ac-45e005387778",
+            "word": "tracking dog",
+            "phonetic": "tɹækɪŋ dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhY2tpbmcgZG9n&hash=983957247e9f085e489b2e523be5f918693e8461&lang=en&cache-only=0",
+            "defineEn": "a dog that is able to detect, recognize, and follow a specific scent",
+            "defineVi": "một con chó có thể phát hiện, nhận biết và theo dõi một mùi hương cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "f192274d-d9e1-40cb-8247-c37ebe02c8a4",
+            "word": "running dog",
+            "phonetic": "ɹʌnɪŋ dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cnVubmluZyBkb2c&hash=91eaec63e5b87198a4b92b9bd797ed5b46dc26f0&lang=en&cache-only=0",
+            "defineEn": "any breed of dog that is developed to run in races or pull sledges",
+            "defineVi": "bất kỳ giống chó nào được phát triển để chạy trong các cuộc đua hoặc kéo xe trượt tuyết",
+            "hasImg": true
+        },
+        {
+            "id": "26bb4378-4502-4fa6-88f2-86cd898e5cd0",
+            "word": "sled dog",
+            "phonetic": "slɛd dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2xlZCBkb2c&hash=00e32ad84b29aa8feedaf90613d405cfa765cae5&lang=en&cache-only=0",
+            "defineEn": "a working dog specifically bred and trained for pulling sleds in snowy or icy conditions, known for their endurance, strength, and ability to withstand cold temperatures",
+            "defineVi": "một con chó lao động được nhân giống và huấn luyện đặc biệt để kéo xe trượt tuyết trong điều kiện băng giá hoặc tuyết, được biết đến với sức bền, sức mạnh và khả năng chịu được nhiệt độ lạnh"
+        },
+        {
+            "id": "3046288c-ff1d-4933-b3aa-8c7a06eefe33",
+            "word": "seizure-alert dog",
+            "phonetic": "siːʒɚɹɐlɜːt dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VpenVyZS1hbGVydCBkb2c&hash=5eb11770704544e42fe34d5a37ed0ff9ab1e03e7&lang=en&cache-only=0",
+            "defineEn": "a trained service dog that is able to detect and alert their owner to an oncoming seizure, providing valuable assistance and support to individuals with epilepsy or other seizure disorders",
+            "defineVi": "một con chó dịch vụ đã được huấn luyện có thể phát hiện và cảnh báo chủ nhân của chúng về một cơn co giật sắp tới, cung cấp sự trợ giúp và hỗ trợ có giá trị cho những người bị động kinh hoặc các rối loạn co giật khác"
+        },
+        {
+            "id": "aeb5ec57-c362-4dbd-9aa7-a01fe2b8b372",
+            "word": "pye-dog",
+            "phonetic": "paɪdɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHllLWRvZw&hash=5b64f32fcbe580cb2ecb8904638886da41e34ea3&lang=en&cache-only=0",
+            "defineEn": "a versatile and adaptable type of dog found in developing countries, known for their mixed-breed appearance and ability to thrive in diverse environments",
+            "defineVi": "một loại chó linh hoạt và dễ thích nghi được tìm thấy ở các nước đang phát triển, được biết đến với vẻ ngoài lai tạp và khả năng phát triển trong môi trường đa dạng"
+        },
+        {
+            "id": "727b8a1e-7c2f-4057-b3b8-60a9a47f6c68",
+            "word": "housedog",
+            "phonetic": "haʊsdɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG91c2Vkb2c&hash=a31ad8495274de156241e7f640439ba642f2f7dc&lang=en&cache-only=0",
+            "defineEn": "a type of dog that primarily lives indoors and serves as a companion and pet for their human family, providing companionship, comfort, and emotional support",
+            "defineVi": "một loại chó chủ yếu sống trong nhà và đóng vai trò là bạn đồng hành và thú cưng cho gia đình con người của chúng, mang đến sự đồng hành, thoải mái và hỗ trợ tinh thần",
+            "hasImg": true
+        },
+        {
+            "id": "ce347cc8-dd1b-4db9-97a2-6b4653ddf187",
+            "word": "coach dog",
+            "phonetic": "koʊtʃ dɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29hY2ggZG9n&hash=376abf84ffdfe5329d0be1683c5f2a3bb4451e20&lang=en&cache-only=0",
+            "defineEn": "a breed historically associated with horse-drawn carriages and fire engines, known for their distinctive spotted coat and energetic personality",
+            "defineVi": "một giống chó trong lịch sử gắn liền với xe ngựa và xe cứu hỏa, được biết đến với bộ lông đốm đặc biệt và tính cách năng động",
+            "hasImg": true
+        },
+        {
+            "id": "3851a8aa-11c5-4d7b-863f-0a1839be5d7b",
+            "word": "watchdog",
+            "phonetic": "wɑːtʃdɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An Israeli watchdog group says that nearly 2,600 new units got the green light.",
+                "In its latest report, the U.N.'s nuclear watchdog said Iran's stockpile of enriched uranium is roughly 15 times more than the limit set in the 2015 nuclear deal.",
+                "A watchdog group sued to make it public.",
+                "Federal watchdogs from agencies, including Justice, Defense, and Homeland Security, are now investigating the failure to protect Congress.",
+                "And watchdogs I have talked to you think that this disparity actually has improved, that things are getting better."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0Y2hkb2c&hash=1f8172121f21bf86251ebea0f7684aee398ce141&lang=en&cache-only=0",
+            "defineEn": "a dog that is used to keep watch on a place",
+            "defineVi": "một con chó được sử dụng để theo dõi trên một nơi",
+            "hasImg": true
+        },
+        {
+            "id": "1d0a47c2-83c8-402d-8a2c-12ef417c9128",
+            "word": "mouser",
+            "phonetic": "maʊsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A kitty might be a baby cat, or sort of fancy lap cat, while a mouser might be a cat that lives in a barn and kills rodents for a living."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91c2Vy&hash=8076037d7dd42c478419690fd9468ab413243a11&lang=en&cache-only=0",
+            "defineEn": "a cat that catches mice and rats",
+            "defineVi": "một con mèo bắt chuột và chuột",
+            "hasImg": true
+        },
+        {
+            "id": "a23a118a-07fe-4025-a171-0c417944d538",
+            "word": "pussycat",
+            "phonetic": "pʊsɪkæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHVzc3ljYXQ&hash=57957599c7f3f6e336e3ce630685927736bf3766&lang=en&cache-only=0",
+            "defineEn": "a familiar term used to refer to domestic cats in a playful or endearing manner",
+            "defineVi": "một thuật ngữ quen thuộc dùng để chỉ những con mèo trong nhà vui tươi hoặc đáng yêu",
+            "hasImg": true
+        },
+        {
+            "id": "520b366e-ce48-4ddf-98b7-61f21f912695",
+            "word": "alley cat",
+            "phonetic": "æli kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWxsZXkgY2F0&hash=add6b0cd6d37280beb2eedde8e0dbdee6538c4f0&lang=en&cache-only=0",
+            "defineEn": "a stray or feral cat that roams freely in urban or suburban areas without a permanent home or owner",
+            "defineVi": "một con mèo đi lạc hoặc hoang dã đi lang thang tự do trong các khu vực thành thị hoặc ngoại ô mà không có nhà hoặc chủ sở hữu cố định"
+        },
+        {
+            "id": "2870edd2-ccdf-46dc-a425-d30011b36741",
+            "word": "house cat",
+            "phonetic": "haʊs kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG91c2UgY2F0&hash=16c14cc43efbe5bb4614757c7608565e435bb5cd&lang=en&cache-only=0",
+            "defineEn": "a domesticated feline that lives indoors with their owners as a companion pet",
+            "defineVi": "một con mèo đã thuần hóa sống trong nhà với chủ nhân của chúng như một con vật cưng đồng hành"
+        }
+    ]
+}

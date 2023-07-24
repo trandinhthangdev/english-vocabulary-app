@@ -1,0 +1,567 @@
+{
+    "id": "ce604ffa-8399-4d48-9c22-8f99595c2669",
+    "title": "The Animal Kingdom",
+    "originalTitle": "The Animal Kingdom",
+    "words": [
+        {
+            "id": "693643a4-a59a-4866-94b3-28d35c65dc4a",
+            "word": "creature",
+            "phonetic": "kɹiːtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Certain species of fucoid algae serve as habitats for small marine creatures.",
+                "The whale was a big creature that swam in the ocean.",
+                "The monkey's intelligence and adaptability made it a fascinating creature to study.",
+                "That night the little creature did not stop crying and its pitiful little squeak tore at Aggie's heartstrings.",
+                "Reindeer moss, with its tufted form, provides a cozy bed for small creatures seeking shelter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYXR1cmU&hash=b6da05cde5537220a67c75e49f772c2c4d132485&lang=en&cache-only=0",
+            "defineEn": "any living thing that is able to move on its own, such as an animal, fish, etc.",
+            "defineVi": "bất kỳ sinh vật sống nào có thể tự di chuyển, chẳng hạn như động vật, cá, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "f7799e17-71f6-4e12-93bb-5c72d8f199bc",
+            "word": "wildlife",
+            "phonetic": "waɪldlaɪf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Canadian wildlife includes animals like bears, moose, beavers, and eagles.",
+                "The wildlife in our backyard enjoys the salmonberries as much as we do.",
+                "The plant is protected under the Wildlife and Countryside Act.",
+                "A variety of plants and wildlife thrive on the lush riverbank.",
+                "Africa is known for its diverse wildlife, including elephants, lions, and giraffes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lsZGxpZmU&hash=50aa19268f98c3196b39968071a31431d490882a&lang=en&cache-only=0",
+            "defineEn": "all wild animals, considered as a whole, living in the natural environment",
+            "defineVi": "tất cả các loài động vật hoang dã, được coi là một tổng thể, sống trong môi trường tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "5c8364ed-4d76-49af-ad6b-fc17d520e6d6",
+            "word": "species",
+            "phonetic": "spiːsiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the species name is catus.",
+                "And the species name is a nod to its crown-like mouth.",
+                "Their astounding numbers exist at the species level, as well.",
+                "But this eccentric bird is actually a species of nocturnal flightless parrot.",
+                "So the metro mosquitoes are arguably a new species - not just a subspecies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BlY2llcw&hash=9a40f2008702c0e20261cf2aa9c878a2e894860a&lang=en&cache-only=0",
+            "defineEn": "a group that animals, plants, etc. of the same type which are capable of producing healthy offspring with each other are divided into",
+            "defineVi": "một nhóm động vật, thực vật, v.v. cùng loại có khả năng sinh con khỏe mạnh với nhau được chia thành",
+            "hasImg": true
+        },
+        {
+            "id": "54c6fb36-e596-45ad-b19a-36aa282b7e51",
+            "word": "habitat",
+            "phonetic": "hæbɪtæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Certain species of fucoid algae serve as habitats for small marine creatures.",
+                "Brown algae create habitats and provide food for marine species.",
+                "Researchers study diatoms to better understand the environmental conditions of aquatic habitats.",
+                "They planted rosemary in their garden to attract bees and butterflies and create a beautiful natural habitat.",
+                "The endangered species was living on borrowed time as their habitat continued to be destroyed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFiaXRhdA&hash=06b382d6940b273530b682801cafefbb601977f2&lang=en&cache-only=0",
+            "defineEn": "the place or area in which certain animals, birds, or plants exist",
+            "defineVi": "địa điểm hoặc khu vực mà một số loài động vật, chim hoặc thực vật tồn tại",
+            "hasImg": true
+        },
+        {
+            "id": "d3a983bc-94dc-4745-9af0-cb6925c6c0d0",
+            "word": "freshwater",
+            "phonetic": "fɹɛʃwɔːɾɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Green algae, with its vibrant hues, adds a splash of color and life to freshwater ecosystems.",
+                "Other freshwater is under the ground. ",
+                "But hydra live in freshwater.",
+                "It can make its own freshwater.",
+                "And aquatic temnospondyls weren’t limited to freshwater."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJlc2h3YXRlcg&hash=6f19c896f20bf2f0fd0a1edd7028b6b429e73675&lang=en&cache-only=0",
+            "defineEn": "living in or taken from water that does not contain salt",
+            "defineVi": "sống trong hoặc lấy từ nước không chứa muối",
+            "hasImg": true
+        },
+        {
+            "id": "1f50ce42-c4a1-495e-af83-6bae0c3411e2",
+            "word": "saltwater",
+            "phonetic": "sɔltwɔːɾɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You can reduce the bitterness of sour gourd by soaking it in saltwater before cooking.",
+                "We did electrolysis on saltwater.",
+                "Those animals can drink saltwater, and the plants can use it to grow! ",
+                "In Fahrenheit, 0° was the freezing point of saltwater and 96° the temperature of life.",
+                "They're then kept in saltwater tanks and shipped live."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsdHdhdGVy&hash=4ce170e04503cd0f54ebb3ac91187131b8fc4986&lang=en&cache-only=0",
+            "defineEn": "living in or taken from water that contains salt or seawater",
+            "defineVi": "sống trong hoặc lấy từ nước có chứa muối hoặc nước biển",
+            "hasImg": true
+        },
+        {
+            "id": "f7a035c2-ad89-4731-9b62-8f3b7efab4bd",
+            "word": "beast",
+            "phonetic": "biːst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After hours of effort, the technicians finally broke the back of the beast and turned the electricity back on again.",
+                "Working in customer service, dealing with difficult customers is just the nature of the beast.",
+                "Beasts lived in the south under their king the tiger.",
+                "Mythical Beasts, many things have been mashed.",
+                "In the African wilderness, a wild beast desecrates your loved ones’ graves, and spawns disease and blight with just a glance in your direction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhc3Q&hash=cd46653d341ed6a1b25d9fdbd8a61c203c0b0970&lang=en&cache-only=0",
+            "defineEn": "an animal, usually a wild or dangerous one",
+            "defineVi": "một con vật, thường là một con vật hoang dã hoặc nguy hiểm",
+            "hasImg": true
+        },
+        {
+            "id": "d7e075ce-6e66-4081-be20-bbdea6670f01",
+            "word": "mammal",
+            "phonetic": "mæməl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In reality, mammals have a figure-eight circulation.",
+                "As a result, mammals evolved different-shaped teeth for different purposes.",
+                "venomous mammals do exist.",
+                "Mammals can breathe out of their butts.",
+                "These mammals are native to the Americas and Australia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFtbWFs&hash=53c63e4807cd21214619519f3ca7701d6d273f32&lang=en&cache-only=0",
+            "defineEn": "a class of animals to which humans, cows, lions, etc. belong, having warm blood, fur or hair and producing live offspring",
+            "defineVi": "một lớp động vật mà con người, bò, sư tử, v.v. thuộc về, có máu nóng, lông hoặc lông và sinh ra con cái sống",
+            "hasImg": true
+        },
+        {
+            "id": "0156c68e-3732-4bbd-bd7b-3c791c671ac6",
+            "word": "rodent",
+            "phonetic": "ɹoʊdənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Patagonian cavies are rodents.",
+                "These crafty rodents are the ultimate urbanites.",
+                "Where would they eat rodents?",
+                "Rodents use their incisors, or their front teeth, to bite.",
+                "And others were done on rodents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9kZW50&hash=d752db2410613d0abfac256bce02fa8aeab2b78d&lang=en&cache-only=0",
+            "defineEn": "any small mammal with a pair of strong front teeth, such as mice, hamsters, rats, etc.",
+            "defineVi": "bất kỳ động vật có vú nhỏ nào có một cặp răng cửa chắc khỏe, chẳng hạn như chuột nhắt, chuột đồng, chuột cống, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "5cc2230d-1bed-479f-8047-39529c304ba6",
+            "word": "amphibian",
+            "phonetic": "æmfɪbiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And like fish, amphibians lay eggs that don’t have protective shells.",
+                "But afterward, in the Triassic, some amphibians still held on.",
+                "See you, giant amphibians!",
+                "It shared its tropical forests and humid swamps with amphibians like Cochleosaurus, a giant, semiaquatic ambush predator - like, the amphibian version of today’s crocodiles.",
+                "When amphibians first wiggled their way out of the swamps and walked onto land."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1waGliaWFu&hash=2cc2017840129ddfad27973e8d9d453012f81341&lang=en&cache-only=0",
+            "defineEn": "any cold-blooded animal with the ability to live both on land and in water, such as toads, frogs, etc.",
+            "defineVi": "bất kỳ động vật máu lạnh nào có khả năng sống cả trên cạn và dưới nước, chẳng hạn như cóc, ếch, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "57746186-85d7-421f-9021-2d846b78c9ce",
+            "word": "reptile",
+            "phonetic": "ɹɛptaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Right from the start of the Mesozoic, reptiles were incredibly successful.",
+                "Ichthyosaurs were reptiles, like snakes and lizards.",
+                "These reptiles were true lizards, too.",
+                "After all, gators and lizards are both reptiles.",
+                "Today, amniotes include all reptiles, birds, and mammals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVwdGlsZQ&hash=9f29336cfe2e1a6e4018e05aeee544dac31b9899&lang=en&cache-only=0",
+            "defineEn": "a class of animals to which crocodiles, lizards, etc. belong, having cold blood and scaly skin",
+            "defineVi": "một lớp động vật thuộc về cá sấu, thằn lằn, v.v., có máu lạnh và da có vảy",
+            "hasImg": true
+        },
+        {
+            "id": "e1dd7de2-31f9-4496-b0be-5417dd6a62ee",
+            "word": "cold-blooded",
+            "phonetic": "koʊldblʌdᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Snakes are cold-blooded animals, relying on external sources to regulate their body temperature.",
+                "Reptiles and other cold-blooded animals stay warm by basking in the sun.",
+                "While cold-blooded murder is a possibility, the extremity of his injuries suggest a ritual sacrifice.",
+                "That means that temperature has a huge effect on cold-blooded reptiles.",
+                "You would think that evolution would have pushed us large animals back in the cold-blooded direction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sZC1ibG9vZGVk&hash=533a7b05eb9061a40f9b78d524b9df1e26889306&lang=en&cache-only=0",
+            "defineEn": "describing an animal that its body temperature changes depending on the temperature of its surroundings",
+            "defineVi": "mô tả một con vật mà nhiệt độ cơ thể của nó thay đổi tùy thuộc vào nhiệt độ của môi trường xung quanh",
+            "hasImg": true
+        },
+        {
+            "id": "6618b434-4876-4a10-a4b7-a82610654296",
+            "word": "primate",
+            "phonetic": "pɹaɪmeɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With the return of monkeys to Central America, the North American continent had native primates again.",
+                "But most primates have a more peaceful reputation.",
+                "Other primates, like macaques and marmosets, demonstrate similar patterns.",
+                "But these primates lived during a time of great change.",
+                "But some researchers support their primate status on the basis of the anatomy of their teeth and ankles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpbWF0ZQ&hash=910de580b369736430cac622c29881711ce11267&lang=en&cache-only=0",
+            "defineEn": "any mammalian animal that belongs to the same group as humans, such as monkeys, apes, lemurs, etc.",
+            "defineVi": "bất kỳ động vật có vú nào thuộc cùng nhóm với con người, chẳng hạn như khỉ, vượn, vượn cáo, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "04ff8a2d-5aa5-4bab-a77d-034d7736c5e4",
+            "word": "ape",
+            "phonetic": "eɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I've never understood that pop star's popularity, but kids just go ape over her music.",
+                "She went ape because I was half an hour late.",
+                "So the apes is eating watermelon?",
+                "Apes like us are the odd exception.",
+                "Or, in this case, ape see, ape do."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBl&hash=08104172dafd93aaab791020dc175c58f91efadd&lang=en&cache-only=0",
+            "defineEn": "a tailless animal similar to a monkey, such as chimpanzees and gorillas",
+            "defineVi": "một động vật cụt đuôi tương tự như một con khỉ, chẳng hạn như tinh tinh và khỉ đột",
+            "hasImg": true
+        },
+        {
+            "id": "d6ed3e99-1a17-43c9-bbf6-aaf41ca456ab",
+            "word": "venom",
+            "phonetic": "vɛnəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Animals with spines and stingers often use venom for defense.",
+                "In some fire-ant zones, fire ant venom causes more fatal reactions than bee stings.",
+                "A venomous bite delivers the venom straight to your bloodstream.",
+                "Paralyzing venom.",
+                "Now venom is different."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVub20&hash=41a497500768d9ddb1e490679a59e7fe7317a271&lang=en&cache-only=0",
+            "defineEn": "the poisonous substance produced by some snakes, scorpions, or spiders to kill their prey",
+            "defineVi": "chất độc được tạo ra bởi một số loài rắn, bọ cạp hoặc nhện để giết con mồi của chúng",
+            "hasImg": true
+        },
+        {
+            "id": "3f63cb55-5ae0-4177-a935-c9658d154ae3",
+            "word": "to sting",
+            "phonetic": "tə stɪŋ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Don't be fooled by his kind words, he's known to be manipulative - bees that have honey in their mouths have stings in their tails.",
+                "The alluring investment opportunity may promise great returns, but remember that honey is sweet, but the bee stings, and research the risks and potential downsides before committing your money.",
+                "Still stinging a little bit.",
+                "Are your lips stinging?",
+                "Honeybee stings are in the middle of the pain scale."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Rpbmc&hash=fe1cdca3e4e3aa4a5a5c344c2e939d93a0537790&lang=en&cache-only=0",
+            "defineEn": "(of an animal or insect) to pierce the skin of another animal or a human's body and usually inject poison, either while facing a threat or preying",
+            "defineVi": "(của động vật hoặc côn trùng) chọc thủng da của động vật khác hoặc cơ thể con người và thường tiêm chất độc, trong khi đối mặt với mối đe dọa hoặc con mồi",
+            "hasImg": true
+        },
+        {
+            "id": "fe055de4-1ddc-416f-aa23-0b27b1cd2512",
+            "word": "to camouflage",
+            "phonetic": "tə kæməflɑːʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Their baseline is camouflage.",
+                "They need that camouflage.",
+                "It's camouflaged.",
+                "Because that piece of seaweed on their heads is life-saving camouflage.",
+                "At this size they're very vulnerable to predation, so camouflage does play an important part of their surviving."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2Ftb3VmbGFnZQ&hash=dcdc121c58a93048a3fd42df05743e90528a4205&lang=en&cache-only=0",
+            "defineEn": "to make or become undetectable by resembling the color or shape of a surrounding",
+            "defineVi": "để làm cho hoặc trở nên không thể phát hiện được bằng cách giống với màu sắc hoặc hình dạng của xung quanh",
+            "hasImg": true
+        },
+        {
+            "id": "1303249e-a2c6-4c15-b6c8-3c185bf508b7",
+            "word": "to breed",
+            "phonetic": "tə bɹiːd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "A lack of investment in education can breed ignorance and apathy in a society.",
+                "I learned about different breeds of cows and their characteristics.",
+                "Excessive use of pesticides can breed resistance in pests, making them harder to control in the future.",
+                "He saw that his unhealthy habits were influencing his children's behavior, as like breeds like.",
+                "Sandra is a true New Yorker, born and bred in the heart of the city."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYnJlZWQ&hash=1d4213d24d7cf33a2ab9262d4d907746c1d5d878&lang=en&cache-only=0",
+            "defineEn": "(of animals) to have sex and produce young",
+            "defineVi": "(về động vật) giao hợp và đẻ con",
+            "hasImg": true
+        },
+        {
+            "id": "fd3649e0-3a57-4894-a7b0-6cc7f9245b0b",
+            "word": "to lay",
+            "phonetic": "tə leɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Careful planning laid the foundations for the nation’s economic miracle.",
+                "Her early research laid the foundation for many important medical discoveries.",
+                "The chicken laid an egg in the nesting box.",
+                "The media barely lays a glove on him.",
+                "Your article barely laid a glove on my arguments."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGF5&hash=de53d3058bf96b21c48f7ba19053d04d05c594d6&lang=en&cache-only=0",
+            "defineEn": "(of a bird, insect, fish, etc.) to produce eggs",
+            "defineVi": "(của một con chim, côn trùng, cá, v.v.) để sản xuất trứng",
+            "hasImg": true
+        },
+        {
+            "id": "48ecf81c-3406-4320-bcc9-21150cd57a00",
+            "word": "mate",
+            "phonetic": "meɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Pull the other leg, mate!",
+                "The cuckoo called across the trees to its mate.",
+                "I never wish to be in your place mate.",
+                "I am trying to run a tight ship at work but my team mates have not taken me seriously yet.",
+                "You can guess how that turned out mate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWF0ZQ&hash=fc88ed7e146675a5c98c79d26a7c2ddd026b615b&lang=en&cache-only=0",
+            "defineEn": "each of the pair of the animals or birds that are breeding",
+            "defineVi": "mỗi cặp động vật hoặc chim đang sinh sản"
+        },
+        {
+            "id": "0d0c4853-0fb2-471b-88d3-96f3293d79a2",
+            "word": "cub",
+            "phonetic": "kʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cubs win the World Series.",
+                "This cub is more wolf than dog.",
+                "The cub heard it, too.",
+                "The cub did not understand.",
+                "Only the grey cub opened his eyes again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vi&hash=e1167a6330ea565e4f4301e46ac791464b0e3fbc&lang=en&cache-only=0",
+            "defineEn": "a young carnivorous mammal, such as a bear, lion, fox, etc.",
+            "defineVi": "một động vật có vú ăn thịt trẻ, chẳng hạn như gấu, sư tử, cáo, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d082b49d-bcbe-496d-bbe7-46855a945a5a",
+            "word": "den",
+            "phonetic": "dɛn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Someone just bearded him in his den.",
+                "a young reporter thrown into the lion's den",
+                "Today I walked straight into his office and bearded the lion in his den.",
+                "I felt like I was walking into the lion's den when I went in front of the board for my annual review.",
+                "Coming in person seemed the decent thing for Lily to do, bearding the lion in her den, so to speak."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVu&hash=df8a49f1702d395896efe02bc5e77b6583855e99&lang=en&cache-only=0",
+            "defineEn": "the hidden place where a wild predatory animal lives",
+            "defineVi": "nơi ẩn náu nơi một loài động vật săn mồi hoang dã sống",
+            "hasImg": true
+        },
+        {
+            "id": "64657c99-84e7-48e3-bb8e-cea7c7d3d36d",
+            "word": "flock",
+            "phonetic": "flɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They drove a flock of sheep through the center of the city.",
+                "The new student quickly made friends with the other musicians, because birds of a feather flock together.",
+                "He knew that eagles fly alone, but sheep flock together, and that true progress requires breaking away from the herd.",
+                "The coach knew that pushing his players too hard could lead to injury and burnout, so he took care to balance training with rest and recovery, believing that it is part of a good shepherd to shear his flock not skin it.",
+                "For weeks around the 2020 presidential election, conservatives flocked to social media platform, Parler."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxvY2s&hash=4548234aadff159fe387e4c8a2ac883b9c08b669&lang=en&cache-only=0",
+            "defineEn": "a group of birds of the same type, flying and feeding together",
+            "defineVi": "một nhóm chim cùng loại, bay và kiếm ăn cùng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "0a562418-8576-467a-8123-6eafa49c0d1e",
+            "word": "herd",
+            "phonetic": "hɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I saw a group of sheep being herded by a shepherd and his dog.",
+                "We were lucky to witness a herd of elephants grazing peacefully in the savannah.",
+                "He says managing lawyers is like herding cats.",
+                "He knew that eagles fly alone, but sheep flock together, and that true progress requires breaking away from the herd.",
+                "The people herded sheep, cattle, yaks and camels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyZA&hash=210522fd76e0de4409a96d7e50a62c2126b453dc&lang=en&cache-only=0",
+            "defineEn": "a group of animals, such as cows, sheep, etc. that are from the same species, which move and feed together",
+            "defineVi": "một nhóm động vật, chẳng hạn như bò, cừu, v.v. cùng loài, di chuyển và kiếm ăn cùng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "653be5bf-0ffc-4501-a254-36fbbcc036c1",
+            "word": "pack",
+            "phonetic": "pæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Commuters packed like sardines on the evening train.",
+                "I packed an extra jacket for the camping trip.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "We packed sandwiches for our picnic in the park.",
+                "She packed a small bag of peanuts for her road trip."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFjaw&hash=b11908eb7e297a8d6245b344c3b3656997c98ba5&lang=en&cache-only=0",
+            "defineEn": "a group of animals of the same type hunting or living together, particularly wolves",
+            "defineVi": "một nhóm động vật cùng loại săn bắn hoặc sống cùng nhau, đặc biệt là sói",
+            "hasImg": true
+        },
+        {
+            "id": "8741634c-cac4-4754-ae03-e4c9054dddbb",
+            "word": "paw",
+            "phonetic": "pɔː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chopper paws got really down low.",
+                "So, paw again, a little bit more manipulation with that paw, and give a treat again.",
+                "Paws down, it was the biggest bear the world has ever known.",
+                "No, you won't give me your paw again?",
+                "Lots of animals have claws on their paws, from dogs and cats to squirrels to bears."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF3&hash=532e9e5f9284925c0b627ee4637849dff216dbc1&lang=en&cache-only=0",
+            "defineEn": "an animal's foot that has nails or claws",
+            "defineVi": "chân của một con vật có móng tay hoặc móng vuốt",
+            "hasImg": true
+        },
+        {
+            "id": "91e31098-5450-49b4-8d3d-ceec2287e0af",
+            "word": "claw",
+            "phonetic": "klɔː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lion's sharp teeth and claws are used for hunting.",
+                "and I will claw thee, so you better watch your back.",
+                "The politician maintained a pleasant facade but his opponents knew that cats hide their claws, so they remained wary of his true motives and ambitions.",
+                "In negotiations, a clever hawk hides its claws, which is why it's important to be strategic and hold back some of your bargaining chips until the right moment.",
+                "They say that in this town, it's claw me"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhdw&hash=04b2dc9c60c6b26cfe473f7c750bc97e40dcbb20&lang=en&cache-only=0",
+            "defineEn": "a sharp and curved nail on the toe of an animal or a bird",
+            "defineVi": "một cái móng sắc và cong trên ngón chân của một con vật hoặc một con chim",
+            "hasImg": true
+        },
+        {
+            "id": "b65a5bf9-d02d-4d79-bd14-3725e4026f5f",
+            "word": "beak",
+            "phonetic": "biːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bird had bright feathers and a long beak.",
+                "But this creature also had a beak.",
+                "They also had toothless beaks.",
+                "Here, its broad beak gives us a major lifestyle clue.",
+                "What lineage gave rise to these weird reptiles with beaks for mouths and retractable necks?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVhaw&hash=ffeffb783a82e7e22c35d079749e0d70b5f5834c&lang=en&cache-only=0",
+            "defineEn": "the hard or pointed part of a bird's mouth",
+            "defineVi": "phần cứng hoặc nhọn của miệng chim",
+            "hasImg": true
+        },
+        {
+            "id": "299a88ed-87d4-4a1a-b656-bc5f53039fea",
+            "word": "call",
+            "phonetic": "kɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hole calls the thief.",
+                "The organization called the new regulations a turning point in the campaign against smoking.",
+                "To call a meeting/strike.",
+                "A classic hot chocolate recipe calls for scalded milk to be mixed with cocoa powder and sugar.",
+                "You call that mercy?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FsbA&hash=b0c42ce124a819c56064b8a30f1173b323d48b96&lang=en&cache-only=0",
+            "defineEn": "the sound that a bird or an animal usually makes",
+            "defineVi": "âm thanh mà một con chim hoặc một con vật thường tạo ra",
+            "hasImg": true
+        },
+        {
+            "id": "6c328c1f-7671-467d-b902-23ebb2f377f8",
+            "word": "to domesticate",
+            "phonetic": "tə dəmɛstᵻkeɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Soon, they domesticated the first dairy animals: goats, sheep, and cattle.",
+                "Horses and beasts of burden, like donkeys and camels, were most likely domesticated this way.",
+                "The sugarcane plant was first domesticated around 8000 BC.",
+                "Humans soon domesticated that hybrid, known as Emmer wheat.",
+                "So, in a way, cats did domesticate themselves."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZG9tZXN0aWNhdGU&hash=737ddf5c3eb49f16d6d612eaad265abe55261335&lang=en&cache-only=0",
+            "defineEn": "to change a wild animal in order to adapt to human life or make a plant fit for cultivation",
+            "defineVi": "thay đổi một loài động vật hoang dã để thích nghi với cuộc sống của con người hoặc làm cho một loại cây phù hợp với việc trồng trọt",
+            "hasImg": true
+        },
+        {
+            "id": "12a1165e-528b-4c9a-b5d4-ffee107aae18",
+            "word": "extinct",
+            "phonetic": "ɛkstɪŋkt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Neanderthals went extinct about 40,000 years ago.",
+                "So within a couple of years, the isolated population of Edith's Checkerspot Butterflies went extinct.",
+                "[♪INTRO] Throughout our planet’s history, billions of species have gone extinct.",
+                "During the PETM, between 30 and 50 percent of all foram species went extinct.",
+                "They went extinct with the end of their worlds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0aW5jdA&hash=1f517092e331bc27ff869c8efab038ad1dd5deca&lang=en&cache-only=0",
+            "defineEn": "(of an animal, plant, etc.) not in existence anymore; not having any living members",
+            "defineVi": "(của một loài động vật, thực vật, v.v.) không còn tồn tại nữa; không có bất kỳ thành viên sống",
+            "hasImg": true
+        },
+        {
+            "id": "aaabab70-1f63-4d70-8c52-41f51fc7c1e6",
+            "word": "to migrate",
+            "phonetic": "tə maɪɡɹeɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Whales are incredible marine animals that migrate long distances.",
+                "These things can migrate thousands and thousands of miles.",
+                "The centrosomes migrate to the opposite ends of the cell.",
+                "Animals migrate for good reasons.",
+                "Those purple outer layer cells migrate out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWlncmF0ZQ&hash=a40795448a30611c84d5ea57816d700e08b0b355&lang=en&cache-only=0",
+            "defineEn": "(of fish or birds) to move to areas with different climates in order to breed or find food, according to seasons",
+            "defineVi": "(của cá hoặc chim) di chuyển đến các khu vực có khí hậu khác nhau để sinh sản hoặc tìm thức ăn, theo mùa",
+            "hasImg": true
+        },
+        {
+            "id": "c26ad221-ef14-4806-a3d6-726ad5210739",
+            "word": "veterinarian",
+            "phonetic": "vɛɾɚɹɪnɛɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'm an emergency and critical-care veterinarian at the Animal Medical Center in New York City.",
+                "Christian Walzer is a global veterinarian and executive director for the Wildlife Conservation Society.",
+                "Gladys became Uganda's chief veterinarian when she was 26.",
+                "Hi, I'm Dr. Ann Hohenhaus, I'm the staff veterinarian at the Animal Medical Center here in New York City.",
+                "If the animal is humanely euthanized by a veterinarian, the clinic usually offers the option of cremation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmV0ZXJpbmFyaWFu&hash=f2c6f806fdc6d83e0e14386a63b319a56c815a00&lang=en&cache-only=0",
+            "defineEn": "a doctor who is trained to treat animals",
+            "defineVi": "một bác sĩ được đào tạo để điều trị động vật",
+            "hasImg": true
+        }
+    ]
+}

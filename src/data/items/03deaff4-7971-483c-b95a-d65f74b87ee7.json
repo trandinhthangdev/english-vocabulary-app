@@ -1,0 +1,606 @@
+{
+    "id": "03deaff4-7971-483c-b95a-d65f74b87ee7",
+    "title": "Computer and Information",
+    "originalTitle": "Lesson 4",
+    "words": [
+        {
+            "id": "c977899a-57c7-44bf-90c4-c74b1657f1c3",
+            "word": "computer",
+            "phonetic": "kəmpjuːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My computer is placed on the desk in the office.",
+                "Two computers have gone AWOL from the office.",
+                "She can design computer programs like nobody's business.",
+                "Does the computer turn itself off?",
+                "The new computer is an all-in-one that integrates the monitor, CPU, and speakers into a single unit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcHV0ZXI&hash=786c7624c37d66b3bc24bf74d27d39297bac8bc8&lang=en&cache-only=0",
+            "defineEn": "an electronic device that stores and processes data",
+            "defineVi": "một thiết bị điện tử lưu trữ và xử lý dữ liệu",
+            "hasImg": true
+        },
+        {
+            "id": "a942d2d5-3638-45b5-ad05-630f9237faec",
+            "word": "information",
+            "phonetic": "ɪnfɚmeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This information is as good as gold.",
+                "The HR department only shared the employee's personal information on a need-to-know basis.",
+                "You can also get information on careers in social work from their website.",
+                "We received information that would load the dice in favor of our arguments.",
+                "I’ll pass the information on to our sales department."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5mb3JtYXRpb24&hash=65692ef8091562b38b166e673f0974eff7c959ba&lang=en&cache-only=0",
+            "defineEn": "facts, details, or knowledge about a thing or person",
+            "defineVi": "sự kiện, chi tiết, hoặc kiến thức về một điều hoặc người",
+            "hasImg": true
+        },
+        {
+            "id": "c63211e3-f486-4748-8680-3a6813b955f0",
+            "word": "chat",
+            "phonetic": "tʃæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "To have a chat/a conversation/a discussion/a talk.",
+                "They stayed up chatting about this and that.",
+                "Her grandchild lives in another country, but they video chat every week to stay in touch.",
+                "As the school bell rang, the boys rushed out of the classroom, laughing and chatting with their friends.",
+                "Sorry, but I can't stay to chat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhdA&hash=ca0e5f6739e2f6ab756762b138ccda488ebe76c3&lang=en&cache-only=0",
+            "defineEn": "the online exchange of messages between people on the Internet",
+            "defineVi": "trao đổi tin nhắn trực tuyến giữa mọi người trên Internet",
+            "hasImg": true
+        },
+        {
+            "id": "c02d9824-ae7e-4ac6-954d-929c33cf4915",
+            "word": "laptop",
+            "phonetic": "læptɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My laptop went haywire",
+                "The screen is the main part of a laptop.",
+                "I've had this laptop for five years now, and it's really on its last legs.",
+                "I accidentally spilled water on my laptop, and now it won't turn on.",
+                "You need to take your laptop to the technician."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFwdG9w&hash=8988c4411d6eb06ce193799a0083134d60827d95&lang=en&cache-only=0",
+            "defineEn": "a small computer that you can take with you wherever you go, and it sits on your lap or a table so you can use it",
+            "defineVi": "một máy tính nhỏ mà bạn có thể mang theo bên mình mọi lúc mọi nơi và đặt trên đùi hoặc trên bàn để bạn có thể sử dụng",
+            "hasImg": true
+        },
+        {
+            "id": "bb952718-7a5f-4067-a275-5c131032018a",
+            "word": "monitor",
+            "phonetic": "mɑːnɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Boston front office has been monitoring the Leonard situation from afar and almost always kicks the tires when a premier talent hits the trade market.",
+                "The new computer is an all-in-one that integrates the monitor, CPU, and speakers into a single unit.",
+                "Oh sure, our science teacher is a real barrel of fun, especially when he's the detention monitor.",
+                "Simply knowing that you could be monitoring them closely will cause your team members to take their time on the clock more seriously.",
+                "You can initiate policies until the cows come home, but unless they're monitored, you won't get results."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9uaXRvcg&hash=bc3d7532c650ef675a9ac4899646615dc814202c&lang=en&cache-only=0",
+            "defineEn": "a screen that shows information or images generated by a computer",
+            "defineVi": "một màn hình hiển thị thông tin hoặc hình ảnh được tạo bởi máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "64b1e660-cc0d-4110-afc2-9b55054cf012",
+            "word": "screen",
+            "phonetic": "skɹiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The screen is the main part of a laptop.",
+                "See yourself on the screen.",
+                "The report will come up on the screen in a moment.",
+                "Her eyes were glued firmly to the computer screen.",
+                "The clock on my computer screen shows the current time and date."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NyZWVu&hash=385c3555d6d4491b4bb0a9db80422bbf24d5f803&lang=en&cache-only=0",
+            "defineEn": "the flat panel on a television, computer, etc. on which images and information are displayed",
+            "defineVi": "bảng phẳng trên tivi, máy tính, v.v. trên đó hiển thị hình ảnh và thông tin",
+            "hasImg": true
+        },
+        {
+            "id": "1ed8a867-964e-435c-b4a3-5095c9ec7da3",
+            "word": "keyboard",
+            "phonetic": "kiːboːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So keyboard, got my fancy mouse.",
+                "I use keyboards",
+                "Keyboard shortcuts for effects and presets.",
+                "Imagine a keyboard.",
+                "This keyboard is fantastic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2V5Ym9hcmQ&hash=6795ad3ad42bef404d81435ad660f5e8ed66e7d5&lang=en&cache-only=0",
+            "defineEn": "a series of keys on a board or touchscreen that we can press or tap to type on a computer, typewriter, smartphone, etc.",
+            "defineVi": "một loạt các phím trên bảng hoặc màn hình cảm ứng mà chúng ta có thể nhấn hoặc chạm để gõ trên máy tính, máy đánh chữ, điện thoại thông minh, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "07375755-a98c-49a0-953d-d606f25b9d84",
+            "word": "mouse",
+            "phonetic": "maʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mice have small ears and a long tail.",
+                "I held the mouse by its tail.",
+                "I gave some cheese to the hungry mouse.",
+                "My friend's cat is playing with a toy mouse.",
+                "Mice can squeeze through small openings to enter a house."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW91c2U&hash=a18c5f8cd42cc436dfbb8fb3eea46162f70a9c29&lang=en&cache-only=0",
+            "defineEn": "a small, handheld device that we move across a flat surface to move the cursor on a computer screen",
+            "defineVi": "một thiết bị cầm tay nhỏ mà chúng ta di chuyển trên một bề mặt phẳng để di chuyển con trỏ trên màn hình máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "fba3b0f6-8308-440b-beed-1b534be54fe3",
+            "word": "printer",
+            "phonetic": "pɹɪntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The printer isn't working.",
+                "The printer is in full working order and is printing documents with high quality.",
+                "The interface can be used to drive a printer.",
+                "Can you stop the printer once it’s started?",
+                "The mailing was at a standstill until Joe from IT rode in on a white horse and unjammed our printer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpbnRlcg&hash=98df52539da9060c62ce7d9660403b710f9cd354&lang=en&cache-only=0",
+            "defineEn": "a machine, particularly one connected to a computer, that prints text or pictures onto paper",
+            "defineVi": "một máy, đặc biệt là máy được kết nối với máy tính, in văn bản hoặc hình ảnh lên giấy",
+            "hasImg": true
+        },
+        {
+            "id": "fb764f08-29cd-49d9-a920-58fdbe3f37da",
+            "word": "DVD",
+            "phonetic": "diːviːdiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The DVD comes with several bonus features.",
+                "Pick up my DVD called \"Mind Reps.\"",
+                "\"The Fantasy Sports Gamble\" is available on DVD.",
+                "Speeches by Wirathu would be distributed on DVDs around the communities. ",
+                "- That's the cover of the DVD."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RFZE&hash=bb6ed3f0da9328bd11d311cbe9ebbd6572eec5dc&lang=en&cache-only=0",
+            "defineEn": "a type of disc used to store a lot of files, games, music, videos, etc.",
+            "defineVi": "một loại đĩa được sử dụng để lưu trữ rất nhiều tệp, trò chơi, nhạc, video, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "21190eb0-2757-4949-bbae-d3596d461377",
+            "word": "calculator",
+            "phonetic": "kælkjʊleɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I always keep my calculator close at hand.",
+                "They use a calculator to help with complex math calculations.",
+                "So grab your calculator.",
+                "Grab your calculator.",
+                "My calculator, hit \"sin.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FsY3VsYXRvcg&hash=1ff0c72d0082f3037ea49f09a8e0c88b44396e30&lang=en&cache-only=0",
+            "defineEn": "a small electronic device or piece of software used to do mathematical operations",
+            "defineVi": "một thiết bị điện tử nhỏ hoặc một phần mềm được sử dụng để thực hiện các phép toán",
+            "hasImg": true
+        },
+        {
+            "id": "209a70d7-c95d-4313-99da-4279b029f5cc",
+            "word": "username",
+            "phonetic": "juːzɚneɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So my username, or my link is twitch.tv/rikkipoynterplays.",
+                "Your username in Fortnite is tied to your Epic Games account.",
+                "Underneath your profile name, you'll see your username.",
+                "You can search people by their name, their Venmo username, their phone number, or their email address.",
+                "If you all follow me on my social media, I have the usernames right down here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXNlcm5hbWU&hash=29223729df83bb4d0e207a4a94acb1dc3ad8a105&lang=en&cache-only=0",
+            "defineEn": "a unique identifier or name chosen by a user to represent themselves or their account in online platforms, websites, or social media",
+            "defineVi": "một mã định danh duy nhất hoặc tên do người dùng chọn để đại diện cho chính họ hoặc tài khoản của họ trên các nền tảng trực tuyến, trang web hoặc phương tiện truyền thông xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "5d41ead0-a21a-4498-ab13-995f301b5b28",
+            "word": "password",
+            "phonetic": "pæswɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Statistically, many people are reusing passwords.",
+                "So passwords present challenges across the board.",
+                "Passwords are like the cockroaches of the internet.",
+                "Enter your password.",
+                "Use different passwords across your different logins."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzc3dvcmQ&hash=e736ee8119e03b91861ad9f3c4b8e26f42e3d2ac&lang=en&cache-only=0",
+            "defineEn": "a secret group of letters or numbers that allows access to a computer system or service",
+            "defineVi": "một nhóm chữ cái hoặc số bí mật cho phép truy cập vào hệ thống hoặc dịch vụ máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "f04f79bc-2cf7-4134-9bc9-61e6af9524b9",
+            "word": "the Internet",
+            "phonetic": "ðɪ ɪntɚnɛt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Stay in touch with your customers via Internet.",
+                "The internet has changed the way people work.",
+                "Many schools don’t take full advantage of the Internet.",
+                "Through the internet we are able to reach a wider audience.",
+                "In the '90s, the bubble burst on Internet startups, but that didn't stop the success of online ventures"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlIEludGVybmV0&hash=c21bcaca2dce5225a379722856d6fdc44f158f18&lang=en&cache-only=0",
+            "defineEn": "‌a global computer network that allows users around the world to communicate with each other and exchange information",
+            "defineVi": "‌một mạng máy tính toàn cầu cho phép người dùng trên khắp thế giới liên lạc với nhau và trao đổi thông tin",
+            "hasImg": true
+        },
+        {
+            "id": "e4adada4-6ee5-48ca-941d-4031a5f62a3f",
+            "word": "website",
+            "phonetic": "wɛbsaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Over seven hundred Facebook users have already liked the company’s website.",
+                "The teacher withdrew the assignment from the class website.",
+                "Our website is the place to find answers to all your questions.",
+                "Further details can be found on our website.",
+                "You can also get information on careers in social work from their website."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2Vic2l0ZQ&hash=483f3cd0231e82e4f451bffe269507ff0787b931&lang=en&cache-only=0",
+            "defineEn": "a group of related data on the Internet with the same domain name published by a specific individual, organization, etc.",
+            "defineVi": "một nhóm dữ liệu liên quan trên Internet có cùng tên miền do một cá nhân, tổ chức cụ thể, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "238b0303-19ac-48b8-b26a-c1047ec9ca00",
+            "word": "web page",
+            "phonetic": "wɛb peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The histograms in the previous applets computed the total number of times each web page was visited at the current stage of the game.",
+                "There are a number of ways to add emphasis to words on a web page.",
+                "It all happens in a split second, every time you load a web page.",
+                "Pigeons, they tell us, can spot minute differences between web pages and will peck when a relevant result appears on the screen.",
+                "They use analytics tools that collect information sent by your device, including the web pages you visit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2ViIHBhZ2U&hash=888a3c2b7da0f606ed9c4a57c4b2ded575adee48&lang=en&cache-only=0",
+            "defineEn": "all the information in one part of a website",
+            "defineVi": "tất cả thông tin trong một phần của trang web",
+            "hasImg": true
+        },
+        {
+            "id": "3b18baa4-8f0e-4354-9cea-e6a2a9498030",
+            "word": "online",
+            "phonetic": "ɑːnlaɪn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The online retailer had an edge over the other services with its faster shipping and wider selection of products.",
+                "She left a positive review online for the restaurant where she ordered a pizza.",
+                "Many companies saw the advent of online retailing as a threat to their bricks and mortar business.",
+                "He searched online for reviews of the product before making a purchase.",
+                "Can you recommend any online resources for studying world history?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=b25saW5l&hash=dc8a1e891adcf50c16215d83c860203369c9f4a1&lang=en&cache-only=0",
+            "defineEn": "connected to other computer networks through the Internet; available through the Internet",
+            "defineVi": "kết nối với các mạng máy tính khác thông qua Internet; có sẵn thông qua Internet",
+            "hasImg": true
+        },
+        {
+            "id": "716da890-4a67-43af-bbb8-89ef30460c58",
+            "word": "email",
+            "phonetic": "iːmeɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The email went to everyone in the company.",
+                "I don't send emails blowing smoke up their asses.",
+                "I received an automated email from the accountant saying that she was out to lunch.",
+                "My coworker put her foot in it when she accidentally sent an email to the wrong person.",
+                "In the past, it was common to send handwritten letters but nowadays email is the preferred method of communication, other times, other manners."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1haWw&hash=81f61cf6757711fd5afec50a2b48610e3e33a57e&lang=en&cache-only=0",
+            "defineEn": "a system that is used to send and receive messages or documents via a network",
+            "defineVi": "một hệ thống được sử dụng để gửi và nhận tin nhắn hoặc tài liệu qua mạng",
+            "hasImg": true
+        },
+        {
+            "id": "3dfbb8e7-d507-4cda-ad0b-ccd0d13c3628",
+            "word": "message",
+            "phonetic": "mɛsɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "May I take a message?",
+                "I wrote a message to myself.",
+                "The message was finally getting through to him.",
+                "She has sixteen unread messages in her inbox.",
+                "The machine records your messages and you can answer them at your convenience."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVzc2FnZQ&hash=6773ed9649876ed7a289a00dc5c085a3edf90f02&lang=en&cache-only=0",
+            "defineEn": "a written or spoken piece of information or communication sent to or left for another person",
+            "defineVi": "một mẩu thông tin hoặc thông tin liên lạc bằng văn bản hoặc lời nói được gửi đến hoặc để lại cho người khác",
+            "hasImg": true
+        },
+        {
+            "id": "3684f231-5ed2-4520-a2b1-16411b985f65",
+            "word": "video",
+            "phonetic": "vɪdɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We were shown a training video.",
+                "The video gamer is leaving his opponent in the dust with his expert knowledge of the game mechanics and quick reflexes.",
+                "The video was produced and directed by filmmaker Neil Campbell.",
+                "Her grandchild lives in another country, but they video chat every week to stay in touch.",
+                "The student was struggling with a difficult math problem, but she happened to come across a helpful video tutorial online - she found herself in luck!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlkZW8&hash=78b3d528ae88ec8b44439c9284b7c65ab50ec035&lang=en&cache-only=0",
+            "defineEn": "a recording of sounds and images that are moving",
+            "defineVi": "một bản ghi âm thanh và hình ảnh đang chuyển động",
+            "hasImg": true
+        },
+        {
+            "id": "d6d37ad4-a278-4707-bc88-3aedd9058a75",
+            "word": "post",
+            "phonetic": "poʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lots of people had left comments under the post.",
+                "Mrs. Thatcher held the post of prime minister longer than anyone else last century.",
+                "On his retirement the post will cease to exist.",
+                "Ugh, Ross just posted pictures of him and Steve lounging on a beach in Hawaii.",
+                "The professor's office hours are posted on the door, indicating when he is available for student consultations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zdA&hash=a12053c42656d943ff66c3e48f61fb2f60b5b318&lang=en&cache-only=0",
+            "defineEn": "a piece of writing, image, etc. published online, usually on a social media website or application, or a blog",
+            "defineVi": "một đoạn văn bản, hình ảnh, v.v. được xuất bản trực tuyến, thường là trên trang web hoặc ứng dụng truyền thông xã hội hoặc blog",
+            "hasImg": true
+        },
+        {
+            "id": "c494113f-daa3-4043-a9a1-fd14b16215fd",
+            "word": "comment",
+            "phonetic": "kɑːmɛnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lots of people had left comments under the post.",
+                "Her comment about my work piqued my anger.",
+                "Bob's comment must have been close to home.",
+                "The Youtube comment sowed a seed of anger and untold frustrations which brought some questions to the forefront of her mind.",
+                "No one at the company could be reached for comment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWVudA&hash=c1150f216c114ace5894ada19b6b9ef4773bd0c3&lang=en&cache-only=0",
+            "defineEn": "a spoken or written remark that expresses an opinion or reaction",
+            "defineVi": "một nhận xét nói hoặc viết thể hiện một ý kiến hoặc phản ứng",
+            "hasImg": true
+        },
+        {
+            "id": "fdd21e85-d69f-4e58-9ed1-d4458d16ef63",
+            "word": "address",
+            "phonetic": "ɐdɹɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He memorized his girlfriend's address by heart.",
+                "The police officer took my name and address.",
+                "Give me your name and address.",
+                "The address is written in capital letters to ensure clarity.",
+                "I sent a letter to their address but haven't received a response yet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWRkcmVzcw&hash=9b2c92352b350afc2846ab17c3d74ea685022e5b&lang=en&cache-only=0",
+            "defineEn": "a series of letters and other characters that identifies a destination for email messages or the location of a website",
+            "defineVi": "một loạt các chữ cái và các ký tự khác xác định đích đến của email hoặc vị trí của một trang web",
+            "hasImg": true
+        },
+        {
+            "id": "87857e34-7fe5-458c-a361-051e1d2c5f87",
+            "word": "file",
+            "phonetic": "faɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The defence has filed a petition to stay proceedings.",
+                "Save the instructions to a new file.",
+                "Always keep a backup of the file.",
+                "Files can be read and written directly into the file system.",
+                "Check inside each file carefully to make sure nothing slips through the cracks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlsZQ&hash=79f064dcb473fa3fceeabd891bee91f7aa972bfb&lang=en&cache-only=0",
+            "defineEn": "a collection of data stored together in a computer, under a particular name",
+            "defineVi": "một tập hợp dữ liệu được lưu trữ cùng nhau trong một máy tính, dưới một tên cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "5543a447-d672-4ff7-9c68-703fdbb6dcaf",
+            "word": "document",
+            "phonetic": "dɑːkjuːmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A reporter obtained documents from the company under false pretenses.",
+                "The document was printed at the taxpayer's expense.",
+                "He presented a false document as evidence in the court case.",
+                "I always put my important documents in a safe deposit box at the bank because safe bind, safe find.",
+                "Please collect the documents from the receptionist before leaving the building."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9jdW1lbnQ&hash=be452427d2ccee509cab03be1a4fed0c52e744c3&lang=en&cache-only=0",
+            "defineEn": "a piece of written work that has a name that identifies it and is stored on a computer",
+            "defineVi": "một tác phẩm viết có tên xác định nó và được lưu trữ trên máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "d3d4e75f-a1da-41f2-ae09-166fb0e7b7b6",
+            "word": "to download",
+            "phonetic": "tə daʊnloʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She downloaded a new movie to watch on her laptop during the flight.",
+                "He downloaded a new app to help with productivity.",
+                "She downloaded a new album and is excited to listen to the new music.",
+                "We have made the necessary documents available for download on our website.",
+                "The tech company developed a new app, confident that 'if you build it, they will come' and download it to use for their everyday needs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZG93bmxvYWQ&hash=878153e01c95c4845d0f52480ac919a81ccfc8a9&lang=en&cache-only=0",
+            "defineEn": "to add data to a computer from the Internet or another computer",
+            "defineVi": "để thêm dữ liệu vào máy tính từ Internet hoặc máy tính khác",
+            "hasImg": true
+        },
+        {
+            "id": "c7715ff8-f999-4e10-a304-d8254815c339",
+            "word": "to upload",
+            "phonetic": "tʊ ʌploʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Upload a video.",
+                "It uploaded a bunch of gaming content.",
+                "Click \"Upload photo.\"",
+                "And they uploaded a video about their experience at a drive thru.",
+                "We uploaded the videos on Wednesday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdXBsb2Fk&hash=2784fa89ad076f979837a3783d5395bd2b6dbe2d&lang=en&cache-only=0",
+            "defineEn": "to send an electronic file such as a document, image, etc. from one digital device to another one, often by using the Internet",
+            "defineVi": "để gửi một tệp điện tử như tài liệu, hình ảnh, v.v. từ thiết bị kỹ thuật số này sang thiết bị kỹ thuật số khác, thường bằng cách sử dụng Internet",
+            "hasImg": true
+        },
+        {
+            "id": "4c0048ff-3bdd-4cdc-80ed-bdbd724c8631",
+            "word": "to click",
+            "phonetic": "tə klɪk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Just click the link below.",
+                "The cameras clicked away.",
+                "The bolt clicked into place.",
+                "They clicked straight away.",
+                "It all clicked into place."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2xpY2s&hash=f73db9937f83bdc5c0708917b1f3c0963b18f563&lang=en&cache-only=0",
+            "defineEn": "to select an item or function from a computer screen, etc. using a mouse or touchpad",
+            "defineVi": "để chọn một mục hoặc chức năng từ màn hình máy tính, v.v. bằng chuột hoặc bàn di chuột",
+            "hasImg": true
+        },
+        {
+            "id": "3a780781-57a7-4a39-aa0f-c6c54a55fbce",
+            "word": "to email",
+            "phonetic": "tʊ iːmeɪl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The email went to everyone in the company.",
+                "I don't send emails blowing smoke up their asses.",
+                "I received an automated email from the accountant saying that she was out to lunch.",
+                "My coworker put her foot in it when she accidentally sent an email to the wrong person.",
+                "In the past, it was common to send handwritten letters but nowadays email is the preferred method of communication, other times, other manners."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZW1haWw&hash=11b3cb12a4670584d6ba24df6c178a6717fd8f77&lang=en&cache-only=0",
+            "defineEn": "‌to send a message to someone by email; to send someone an email",
+            "defineVi": "‌để gửi tin nhắn cho ai đó qua email; để gửi cho ai đó một email",
+            "hasImg": true
+        },
+        {
+            "id": "7092b897-b264-4f84-990b-349ff5067e96",
+            "word": "to google",
+            "phonetic": "tə ɡuːɡəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "It’s as if Google is just so big now, the left hand doesn’t know what the right is doing, and thus different teams keep coming up with the same products.",
+                "I googled that one.",
+                "My mom's going to google this debacle.",
+                "My father Googles me a lot",
+                "Hey Google, unlock the garage. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ29vZ2xl&hash=426ee3d9404bf78c57b355a280f2b6deea43b7a9&lang=en&cache-only=0",
+            "defineEn": "to search the Internet for information about someone or something using the search engine Google",
+            "defineVi": "để tìm kiếm thông tin trên Internet về ai đó hoặc cái gì đó bằng cách sử dụng công cụ tìm kiếm Google",
+            "hasImg": true
+        },
+        {
+            "id": "50c683e9-33b6-4a83-9fad-5d2ce469516f",
+            "word": "to sign in",
+            "phonetic": "tə saɪn ɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2lnbiBpbg&hash=93be7af0f6acc4b7e47fd69f7c5b5793dbfc10c4&lang=en&cache-only=0",
+            "defineEn": "to enter a username and password in order to gain access to a website, computer, etc.",
+            "defineVi": "để nhập tên người dùng và mật khẩu để có quyền truy cập vào trang web, máy tính, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "12e3b5ef-fa75-4b36-b77c-8f7eab9c4abb",
+            "word": "to sign out",
+            "phonetic": "tə saɪn aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2lnbiBvdXQ&hash=82d20793e1c4b1b4f91700221760a9880684120a&lang=en&cache-only=0",
+            "defineEn": "to exit a computer account such as email, Instagram, etc. in a way that we have to re-enter our username and password when we want to use it again",
+            "defineVi": "để thoát tài khoản máy tính như email, Instagram, v.v. theo cách mà chúng ta phải nhập lại tên người dùng và mật khẩu khi muốn sử dụng lại",
+            "hasImg": true
+        },
+        {
+            "id": "c4fcc7b7-73a9-4759-a9b6-789aafc136af",
+            "word": "digital",
+            "phonetic": "dɪdʒɪɾəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I have a digital clock on my bedside table that shows the time in numbers.",
+                "With everything going digital and online, we're going to need some fresh blood if we want to remain a viable company in today's market.",
+                "Digital grocery is the next big battleground in e-commerce.",
+                "One of them is digital literacy.",
+                "In its second quarter of 2019, digital sales nearly doubled."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlnaXRhbA&hash=d96258ca70d0ccf7159d3d459a21792f98c3e466&lang=en&cache-only=0",
+            "defineEn": "(of signals or data) storing, using, or relating to data as series of the digits 0 and 1 in electronic signals",
+            "defineVi": "(của tín hiệu hoặc dữ liệu) lưu trữ, sử dụng hoặc liên quan đến dữ liệu dưới dạng chuỗi các chữ số 0 và 1 trong tín hiệu điện tử",
+            "hasImg": true
+        },
+        {
+            "id": "c154597a-effe-469c-9820-4bcbcaa64de2",
+            "word": "news",
+            "phonetic": "nuːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The news really made my day.",
+                "These dogs seldom make the news.",
+                "The news spread like wildfire.",
+                "News of interest cuts came in the nick of time for borrowers.",
+                "The news came hot on the heels of another plane crash."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV3cw&hash=840135256691cd1529cd9d39760911f07848060e&lang=en&cache-only=0",
+            "defineEn": "newly received information about recent and important events",
+            "defineVi": "thông tin mới nhận được về các sự kiện gần đây và quan trọng"
+        },
+        {
+            "id": "f489b62f-ac89-41fb-a098-5670eae92123",
+            "word": "image",
+            "phonetic": "ɪmɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Did your friend ask for permission to use the image?",
+                "The company is trying to create a young energetic image.",
+                "Many women feel pressure to maintain a youthful appearance as they age due to the harmful stereotype that 'a woman is as old as she looks', which can lead to body image issues and low self-esteem.",
+                "Images are captured in black and white to save hard disk space.",
+                "The photographer ventured into remote landscapes, capturing stunning images of untouched nature in the raw, free from any human intervention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW1hZ2U&hash=abcb1fc29bae919497512e19f0fe8476e645c89e&lang=en&cache-only=0",
+            "defineEn": "a representation of something, such as a person, object, or scene, created with a medium such as a photograph, painting, or drawing",
+            "defineVi": "một đại diện của một cái gì đó, chẳng hạn như một người, đối tượng hoặc cảnh, được tạo bằng phương tiện như ảnh, tranh hoặc bản vẽ",
+            "hasImg": true
+        },
+        {
+            "id": "763f1e6a-ecd7-4b30-a98b-fba8e8a366c9",
+            "word": "to copy",
+            "phonetic": "tə kɑːpi ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Her last book sold millions of copies.",
+                "I'll do a copy for you.",
+                "He sent me a copy of his new book.",
+                "Can you tell this copy from the original?",
+                "They’ve already sold over two million copies of their record."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29weQ&hash=97d40a0e7524992da8dd8ec0b3934b5275dd1e2d&lang=en&cache-only=0",
+            "defineEn": "to create a similar or identical version of something; to make something that is exactly like something else",
+            "defineVi": "để tạo ra một phiên bản tương tự hoặc giống hệt nhau của một cái gì đó; để làm một cái gì đó mà là chính xác như một cái gì đó khác",
+            "hasImg": true
+        }
+    ]
+}

@@ -1,0 +1,555 @@
+{
+    "id": "3e651423-a1f0-4fef-a115-f39564d3670e",
+    "title": "Cooks and Cuisine",
+    "originalTitle": "Cooks and Cuisine",
+    "words": [
+        {
+            "id": "448c57dd-c912-442d-89d6-9ecefce60be3",
+            "word": "cook",
+            "phonetic": "kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef cooks a delicious meal in the restaurant.",
+                "My sister skillfully cooks a flavorful curry for dinner.",
+                "Mix cooked conchiglie with cherry tomatoes, cucumbers, and a vinaigrette for a pasta salad.",
+                "He cooked a delicious wild rice and mushroom risotto for his vegetarian dinner.",
+                "She cooked a mouthwatering pheasant roast for her family's Sunday dinner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29vaw&hash=f9754c3c38ceb46cdd6576e6b0a8746b86b75170&lang=en&cache-only=0",
+            "defineEn": "a person who prepares and cooks food, especially as their job",
+            "defineVi": "một người chuẩn bị và nấu thức ăn, đặc biệt là công việc của họ",
+            "hasImg": true
+        },
+        {
+            "id": "29bbf4e0-290a-42b9-af3e-9846fe502b38",
+            "word": "chef",
+            "phonetic": "ʃɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef incorporated chunks of multiple fruits into a delectable dessert.",
+                "The chef peppers the steak with a blend of spices for a flavorful taste.",
+                "The chef used a secret blend of herbs and spices as the seasoning for the famous fried chicken.",
+                "The chef prepared a creamy tomato soup for lunch.",
+                "The chef used juniper berries as a key ingredient in her signature marinade for the grilled meat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZg&hash=11d6c3635cecc0c971dcf98383bb25c3d676c15a&lang=en&cache-only=0",
+            "defineEn": "a highly trained cook who often cooks for hotels or restaurants",
+            "defineVi": "một đầu bếp được đào tạo chuyên sâu thường nấu ăn cho khách sạn hoặc nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "e74f3a42-7d74-4f2a-b4f4-abf77ab07c38",
+            "word": "cookery",
+            "phonetic": "kʊkɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Despite the questionable quality of the food, they wolfed it down, knowing that hunger finds no fault with cookery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29va2VyeQ&hash=30b539bd1b7ed645ee6a7b9fbc78bf474311e4d4&lang=en&cache-only=0",
+            "defineEn": "the skill or activity of preparing food",
+            "defineVi": "kỹ năng hoặc hoạt động chuẩn bị thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "71cf69e3-29bd-43a7-af27-b75f1b277bdc",
+            "word": "cooking",
+            "phonetic": "kʊkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cooking is just not Emma's thing.",
+                "Knowledge of cooking comes easy to him.",
+                "She seasoned the meat with herbs and spices before cooking.",
+                "Apparently, Meg's cooking leaves a lot to be desired.",
+                "You can leave the cooking to me."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29va2luZw&hash=8d8e5e07cce6b70ad1212cda379a674f1c7b80a3&lang=en&cache-only=0",
+            "defineEn": "the act of preparing food by heat or mixing different ingredients",
+            "defineVi": "hành động chuẩn bị thức ăn bằng nhiệt hoặc trộn các thành phần khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "54579684-a620-491e-bc32-dee6222a265b",
+            "word": "cordon bleu",
+            "phonetic": "kɔːɹdən bluː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29yZG9uIGJsZXU&hash=d857d396c912e1ced32879f425106b31049d9a67&lang=en&cache-only=0",
+            "defineEn": "a chef famous for his great skill",
+            "defineVi": "một đầu bếp nổi tiếng với kỹ năng tuyệt vời của mình"
+        },
+        {
+            "id": "7072ba0d-3ed5-49aa-969f-71f57cc3994c",
+            "word": "cuisine",
+            "phonetic": "kwᵻziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "French cuisine is known for its delicious cheeses and wines.",
+                "The distinct taste and texture of kelp are appreciated in certain cuisines around the world.",
+                "In Asian cuisine, plum sauce is often used as a dipping sauce for spring rolls or dumplings.",
+                "Iceland moss is commonly used in traditional Scandinavian cuisine",
+                "We explored the regional cuisine, discovering a traditional dish of confit rabbit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vpc2luZQ&hash=0726fe0086765fb36c9e26e7de57812c88234e5f&lang=en&cache-only=0",
+            "defineEn": "a method or style of cooking that is specific to a country or region",
+            "defineVi": "một phương pháp hoặc phong cách nấu ăn dành riêng cho một quốc gia hoặc khu vực",
+            "hasImg": true
+        },
+        {
+            "id": "ceccaea3-aa27-4ef3-b257-5ff36f2ec10d",
+            "word": "culinary",
+            "phonetic": "kjʊlɪnɛɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Harvesting abalone for culinary purposes requires sustainable practices to ensure the long-term survival of it.",
+                "Nectarines can be used in various culinary creations, from pies and tarts to jams and chutneys.",
+                "They went on a culinary adventure and discovered a specialty restaurant that served long bone-in veal chops.",
+                "He crushed the dried capsules of the poppy flowers to extract the tiny seeds for culinary purposes.",
+                "Dulse is a rare gem in the culinary world, often sought after but not easily found."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VsaW5hcnk&hash=47f76a76e3907734967d73bc5b42d3ffc7d84289&lang=en&cache-only=0",
+            "defineEn": "of or relating to cooking",
+            "defineVi": "của hoặc liên quan đến nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "1958e26c-c5d7-4bbd-99d3-06e940e94ca7",
+            "word": "gourmet",
+            "phonetic": "ɡʊɹmeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She layered thin slices of prosciutto between crusty bread, fresh mozzarella, and sun-dried tomatoes for a gourmet panini.",
+                "The exceptional taste of Temple oranges makes them a prized ingredient in gourmet recipes.",
+                "The gourmet cooking class focused on mastering the art of cooking the perfect beefsteak.",
+                "As a specialty dish, the chef prepared a gourmet chevon rack, perfectly seared and served with a delicate herb-infused sauce.",
+                "She prepared a gourmet gigot of chicken, stuffed with herbs and wrapped in bacon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z291cm1ldA&hash=b8b4d049c55104d51fb64f9a44abaf11703e1246&lang=en&cache-only=0",
+            "defineEn": "someone who enjoys and knows about food and wine very much",
+            "defineVi": "một người thích và biết về thực phẩm và rượu vang rất nhiều"
+        },
+        {
+            "id": "de6d773b-7c24-46de-9859-4ea62561e59c",
+            "word": "haute cuisine",
+            "phonetic": "hɔːt kwᵻziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGF1dGUgY3Vpc2luZQ&hash=f15342677bc7d0f6d19994d1491a2c875e5eb715&lang=en&cache-only=0",
+            "defineEn": "(French) an elaborate and skillful manner of preparing food",
+            "defineVi": "(tiếng Pháp) cách chế biến thức ăn công phu và khéo léo"
+        },
+        {
+            "id": "23143cd8-dd15-4268-8bd1-4bb5c23da224",
+            "word": "nouvelle cuisine",
+            "phonetic": "nuːvɛl kwᵻziːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm91dmVsbGUgY3Vpc2luZQ&hash=c6135898c3e1f712da87b00541ec0fc609de3083&lang=en&cache-only=0",
+            "defineEn": "a school of French cooking that uses light sauces and tries to bring out the natural flavors of foods instead of making heavy use of butter and cream",
+            "defineVi": "một trường dạy nấu ăn của Pháp sử dụng nước sốt nhẹ và cố gắng làm nổi bật hương vị tự nhiên của thực phẩm thay vì sử dụng quá nhiều bơ và kem"
+        },
+        {
+            "id": "e0703c71-aefb-4b36-b39c-97f2bffb171f",
+            "word": "preparation",
+            "phonetic": "pɹɛpɚɹeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Make the necessary preparations.",
+                "After weeks of intense preparation, Jennifer is now on the other side of her job interview and eagerly awaits the results.",
+                "Joe's colleague was planning to quit his job and start his own business without any preparation or planning.",
+                "Don't get ahead of yourself and assume you'll win the competition without proper preparation.",
+                "The chef reminded the kitchen staff that haste makes waste, urging them to take their time and be careful in their food preparation to avoid costly mistakes and wasted ingredients."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlcGFyYXRpb24&hash=c54251573fc0472e2d2d7de38884ca241fb2b152&lang=en&cache-only=0",
+            "defineEn": "the act of preparing something (as food) by the application of heat",
+            "defineVi": "hành động chuẩn bị một cái gì đó (như thức ăn) bằng cách sử dụng nhiệt",
+            "hasImg": true
+        },
+        {
+            "id": "5df682eb-6d53-4b15-9a6b-4b0db2bf053a",
+            "word": "recipe",
+            "phonetic": "ɹɛsᵻpiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The recipe serves four people.",
+                "The recipe called for seven ingredients.",
+                "The recipe calls for thirty grams of sugar.",
+                "I never follow a recipe completely.",
+                "My favorite smoothie recipe always includes the juiciness of a Jaffa orange."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjaXBl&hash=a7724e768b8bb688a9dd2d15231a14b603eccc93&lang=en&cache-only=0",
+            "defineEn": "the instructions on how to cook a certain food",
+            "defineVi": "hướng dẫn cách nấu một món ăn nhất định",
+            "hasImg": true
+        },
+        {
+            "id": "49b492c9-724e-412b-8a1e-c66d1973893e",
+            "word": "short-order cook",
+            "phonetic": "ʃɔːɹtɔːɹdɚ kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As legend has it, one day while Anderson was still a short-order cook in a local Wichita diner, he got frustrated that the meatballs he was cooking stuck to the grill, so he smashed one with his spatula."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcnQtb3JkZXIgY29vaw&hash=77fbf2711a5e3476e50046af5590e4c114581150&lang=en&cache-only=0",
+            "defineEn": "someone whose job is preparing food that can be quickly or easily cooked",
+            "defineVi": "ai đó có công việc là chuẩn bị thức ăn có thể nhanh chóng hoặc dễ dàng nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "18904404-40f1-4754-a644-c9cc9933d00f",
+            "word": "caterer",
+            "phonetic": "keɪɾɚɹɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The caterer really pulled a rabbit out of a hat by producing 100 cupcakes with just 20 minutes' notice.",
+                "And that weakened sense of taste can cause a lot of problems for airline caterers, who have to modify every recipe to account for it.",
+                "I'm Tyco Ytt Director, actor, performer, stunt performer, performer performer, caterer and also data wrangler on movie sets.",
+                "We rely on expertise of the local caterers to advise us what fruit and vegetables in season, what fish is great this month and then we map that out over the course of the year.",
+                "But while U.S. airlines are making billions labor union leaders say many of the airline caterers in the U.S. who prepare first class meals for American, Delta and United are struggling to make ends meet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2F0ZXJlcg&hash=580533f6f6f9371b5fdb309e06e69f90af991d64&lang=en&cache-only=0",
+            "defineEn": "a person or company that provides food and drink for an event",
+            "defineVi": "một người hoặc công ty cung cấp thực phẩm và đồ uống cho một sự kiện"
+        },
+        {
+            "id": "8da72674-9a61-4af1-9ca2-38f7ef682729",
+            "word": "carhop",
+            "phonetic": "kɑːɹhɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I was a carhop at an A&W Root Beer stand."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FyaG9w&hash=f522a2e9c21d43affc7bf17d93837f3abe2f3080&lang=en&cache-only=0",
+            "defineEn": "a waiter at a drive-in restaurant",
+            "defineVi": "một người phục vụ tại một nhà hàng lái xe vào"
+        },
+        {
+            "id": "ac57264e-5b42-4290-8cfa-761dd4331c61",
+            "word": "commis chef",
+            "phonetic": "kɑːmɪz ʃɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWlzIGNoZWY&hash=e226a719daaae34a7d00e672692e838e526bc29b&lang=en&cache-only=0",
+            "defineEn": "‌a novice chef who works under the supervision of the head chef",
+            "defineVi": "‌một đầu bếp mới làm việc dưới sự giám sát của bếp trưởng",
+            "hasImg": true
+        },
+        {
+            "id": "a35ffaee-b590-4b06-9417-54dff6e15582",
+            "word": "prep cook",
+            "phonetic": "pɹɛp kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlcCBjb29r&hash=7c60da460e74312b08de2655076685337d961008&lang=en&cache-only=0",
+            "defineEn": "a kitchen staff member who prepares and preps ingredients, such as chopping and measuring, in advance of cooking in a restaurant or culinary setting",
+            "defineVi": "một nhân viên nhà bếp chuẩn bị và sơ chế nguyên liệu, chẳng hạn như cắt nhỏ và đo lường, trước khi nấu ăn trong nhà hàng hoặc môi trường ẩm thực"
+        },
+        {
+            "id": "a0ac8ad1-ea27-482e-a025-7dce37bdeb4c",
+            "word": "sous-chef",
+            "phonetic": "suːzʃɛf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Joining me in the kitchen today is my husband and sous-chef David."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cy1jaGVm&hash=43fde431d8b23e7cddd463bcbd0808dc222068fd&lang=en&cache-only=0",
+            "defineEn": "a cook who ranks second after the head chef in a professional restaurant",
+            "defineVi": "một đầu bếp đứng thứ hai sau bếp trưởng trong một nhà hàng chuyên nghiệp",
+            "hasImg": true
+        },
+        {
+            "id": "b018de87-a155-429e-8ae7-533927028770",
+            "word": "maitre d'",
+            "phonetic": "meɪɾɚ diː bækslæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFpdHJlIGQn&hash=acecdfa99dc2fbad9841eeaf7df5c846a7a2069a&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of the waiters and waitresses of a restaurant",
+            "defineVi": "một người phụ trách bồi bàn và phục vụ bàn của một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "5b43e387-72a9-4675-9910-e63c1c445c41",
+            "word": "chef de partie",
+            "phonetic": "ʃɛf də pɑːɹɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZiBkZSBwYXJ0aWU&hash=03ee2ba930f3e37e5c6289d3d52c015defcc3519&lang=en&cache-only=0",
+            "defineEn": "a chef who oversees and manages a specific section or station in a professional kitchen, responsible for preparing and cooking a specific type of food or aspect of a meal",
+            "defineVi": "một đầu bếp giám sát và quản lý một phần hoặc khu vực cụ thể trong một nhà bếp chuyên nghiệp, chịu trách nhiệm chuẩn bị và nấu một loại thực phẩm hoặc khía cạnh cụ thể của bữa ăn"
+        },
+        {
+            "id": "360bac1e-4065-40e7-97e1-3f4b0cbc7023",
+            "word": "line cook",
+            "phonetic": "laɪn kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGluZSBjb29r&hash=1d11060c9069604ebe4f97b4a66f221fec682e2c&lang=en&cache-only=0",
+            "defineEn": "a member of a kitchen staff who works on the cooking line, responsible for preparing and cooking food to order in a restaurant or culinary establishment",
+            "defineVi": "một thành viên của nhân viên nhà bếp làm việc trong dây chuyền nấu ăn, chịu trách nhiệm chuẩn bị và nấu thức ăn theo yêu cầu trong nhà hàng hoặc cơ sở ẩm thực"
+        },
+        {
+            "id": "7ef77219-d5c2-4ea4-a312-946458c134df",
+            "word": "relief cook",
+            "phonetic": "ɹᵻliːf kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVsaWVmIGNvb2s&hash=9789c2017edbf58f0a4a36e03768595cf85864d6&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who temporarily fills in for other cooks who are absent or unavailable, assisting in various sections or stations in a professional kitchen as needed",
+            "defineVi": "một đầu bếp hoặc đầu bếp tạm thời thay thế những đầu bếp khác vắng mặt hoặc không có mặt, hỗ trợ các bộ phận hoặc khu vực khác nhau trong nhà bếp chuyên nghiệp khi cần"
+        },
+        {
+            "id": "9abe5c8b-1738-4a6d-95cc-6bd91b575001",
+            "word": "entremetier",
+            "phonetic": "ɛntɹɛmɪɾiɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZW50cmVtZXRpZXI&hash=aeac8876c45629696f06f64e48a1a90854b522d6&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who is responsible for overseeing the preparation of soups, sauces, and side dishes",
+            "defineVi": "một đầu bếp hoặc đầu bếp chịu trách nhiệm giám sát việc chuẩn bị súp, nước sốt và các món ăn phụ"
+        },
+        {
+            "id": "5352ed10-394e-480d-b491-bc4818aa331d",
+            "word": "saucier",
+            "phonetic": "sɔːsiɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2F1Y2llcg&hash=cba58408e4413d6dbb1613ea53adf1d0abeefaed&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who specializes in preparing and cooking sauces",
+            "defineVi": "một đầu bếp hoặc đầu bếp chuyên chuẩn bị và nấu nước sốt"
+        },
+        {
+            "id": "d3a36488-58fd-4c1f-9c04-ebeae39ab75c",
+            "word": "garde manger",
+            "phonetic": "ɡɑːɹd meɪndʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FyZGUgbWFuZ2Vy&hash=82638c5c57232e74ceb98a19c57bf15b16fae638&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who is responsible for the preparation, assembly, and presentation of cold dishes",
+            "defineVi": "một đầu bếp hoặc đầu bếp chịu trách nhiệm chuẩn bị, lắp ráp và trình bày các món ăn nguội"
+        },
+        {
+            "id": "aede4458-ad1a-4adf-ade5-b2bf21714c15",
+            "word": "swing cook",
+            "phonetic": "swɪŋ kʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3dpbmcgY29vaw&hash=3391c6bcdf5801fe6ae9ef72c511822c6ad71732&lang=en&cache-only=0",
+            "defineEn": "a versatile cook who is able to work across different stations or sections in a professional kitchen, filling in for absent or busy cooks",
+            "defineVi": "một đầu bếp đa năng có thể làm việc ở các vị trí hoặc bộ phận khác nhau trong một nhà bếp chuyên nghiệp, bổ sung cho những đầu bếp vắng mặt hoặc bận rộn"
+        },
+        {
+            "id": "64dd37eb-d2e0-4722-a367-9a3dfbc2cefe",
+            "word": "patissier",
+            "phonetic": "pæɾɪsɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGF0aXNzaWVy&hash=2efd79b95c18059c7499c9e7eacdfa8c5bd28ede&lang=en&cache-only=0",
+            "defineEn": "a pastry chef or baker who specializes in the creation and preparation of desserts, pastries, and baked goods",
+            "defineVi": "một đầu bếp bánh ngọt hoặc thợ làm bánh chuyên sáng tạo và chuẩn bị các món tráng miệng, bánh ngọt và bánh nướng"
+        },
+        {
+            "id": "04a8ae07-de23-44a5-bf1d-294144207848",
+            "word": "poissonier",
+            "phonetic": "pɔɪsəniɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9pc3Nvbmllcg&hash=84772040e5bd37a4930702efbddf035b258b3a7a&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who specializes in the preparation and cooking of fish and seafood dishes",
+            "defineVi": "một đầu bếp hoặc đầu bếp chuyên chuẩn bị và nấu các món cá và hải sản"
+        },
+        {
+            "id": "ccfd114b-ef31-48c9-9b27-9e85291e408a",
+            "word": "grillardin",
+            "phonetic": "ɡɹɪlɑːɹdɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JpbGxhcmRpbg&hash=6baa55719b754298d88454382c6020ff4f58d484&lang=en&cache-only=0",
+            "defineEn": "a chef or cook who is responsible for cooking meats, particularly grilled or broiled meats",
+            "defineVi": "một đầu bếp hoặc đầu bếp chịu trách nhiệm nấu thịt, đặc biệt là thịt nướng hoặc nướng"
+        },
+        {
+            "id": "bd619e91-2bce-4754-a96e-2fe5909ea642",
+            "word": "maitre d'hotel",
+            "phonetic": "meɪɾɚ diː bækslæʃ hoʊtɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFpdHJlIGQnaG90ZWw&hash=d702211460b80b03bd5c9384b165495662b34405&lang=en&cache-only=0",
+            "defineEn": "a dining-room attendant who is in charge of the waiters and the seating of customers",
+            "defineVi": "một nhân viên phục vụ phòng ăn chịu trách nhiệm về người phục vụ và chỗ ngồi của khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "9879e29f-1f2e-4181-8970-235f353870c2",
+            "word": "sommelier",
+            "phonetic": "sʌməljeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29tbWVsaWVy&hash=42fea0af8a6d15085e502c0b58ee7ab0670233a4&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of serving wine and helping customers choose wine in a restaurant",
+            "defineVi": "người phụ trách phục vụ rượu và giúp khách hàng chọn rượu trong nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "160632ff-7cf2-4a1b-92d0-6d2ede0bd04d",
+            "word": "server",
+            "phonetic": "sɜːvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There were no servers. ",
+                "Come on super fast server.",
+                "First, open the Dropbox web server.",
+                "- I shipped you a 160 terabytes server.",
+                "Each server is a broad chat room that can host subgroups and private messages."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VydmVy&hash=564a2d8757587d5ea04f9c0f420571983e84c153&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to serve meals to customers in a restaurant",
+            "defineVi": "một người có công việc là để phục vụ bữa ăn cho khách hàng trong một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "f624c8b1-c673-49e3-a082-ccda51970f59",
+            "word": "busboy",
+            "phonetic": "bʌsbɔɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVzYm95&hash=7e6c5422f96519554d60a049a5fcd2b29d3e0e92&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to clear tables and dirty dishes, etc. in a restaurant",
+            "defineVi": "người có công việc dọn bàn và dọn bát đĩa bẩn, v.v. trong nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "f188d311-40b5-477b-97eb-3201339f93d0",
+            "word": "host",
+            "phonetic": "hoʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our hosts presented us with an embarrassment of riches.",
+                "Shall I take my host family a gift?",
+                "She hosted a gathering and served split-pea croquettes.",
+                "They hosted a brunch and prepared gluten-free pancakes using a blend of gluten-free flours.",
+                "They hosted a celebratory dinner and served a magnificent roasted guinea fowl."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9zdA&hash=af5d902e3be489bc26672232da7dff27a3d276a6&lang=en&cache-only=0",
+            "defineEn": "someone who invites guests to their home and is responsible for ensuring that they have a comfortable and enjoyable experience while they are there",
+            "defineVi": "một người mời khách đến nhà của họ và chịu trách nhiệm đảm bảo rằng họ có trải nghiệm thoải mái và thú vị khi họ ở đó",
+            "hasImg": true
+        },
+        {
+            "id": "515c9b03-1696-474a-bb9a-5c480b6354be",
+            "word": "hostess",
+            "phonetic": "hoʊstɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The party came to life when the host and hostess entered the room.",
+                "No delay, no attitude, no mistakes and managed like a dream by an unflappable, personable hostess who keeps everyone happy.",
+                "The Hostess snack cemented itself in kids' lunchboxes across America.",
+                "By 2015, Hostess was making 1 million Twinkies a day, 400 million a year, and $180 million in profit.",
+                "In 2016, Apollo and Metropoulos took Hostess public."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9zdGVzcw&hash=dc102b7a4c73f0e32b5bda31a8a580e3cefbde26&lang=en&cache-only=0",
+            "defineEn": "a woman whose job is greeting customers in a restaurant, etc.",
+            "defineVi": "một người phụ nữ có công việc chào đón khách hàng trong nhà hàng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "be29c5e3-ffeb-4fe8-81ac-285c57a377a9",
+            "word": "bartender",
+            "phonetic": "bɑːɹtɛndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bartender served a cocktail in a fancy glass.",
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "The bartender rimmed the cocktail glass with a touch of white sugar, adding a touch of sweetness to the drink.",
+                "The bartender slips her a mickey, and after a few minutes the world is just a blur to Peggy.",
+                "Bartender, can I get two shots?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFydGVuZGVy&hash=8cb13f946b4134f5d96d228783d028f29914ca81&lang=en&cache-only=0",
+            "defineEn": "a person who serves drinks at a bar",
+            "defineVi": "một người phục vụ đồ uống tại một quán bar",
+            "hasImg": true
+        },
+        {
+            "id": "468902d3-7cc0-4fa8-8ac5-f3bbe583b534",
+            "word": "taster",
+            "phonetic": "teɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You could get a job at the bird food factory as a taster!",
+                "- This is a really tough decision because Link, I agree with you that this must - this is Amp because I've noticed something - about you, you have a good citrus taster.",
+                "I need Clint to come and be a surrogate taster."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFzdGVy&hash=b7abb1dc3d2208a216ea905b152f515b80d3f825&lang=en&cache-only=0",
+            "defineEn": "someone who samples food or drink for its quality",
+            "defineVi": "ai đó lấy mẫu thức ăn hoặc đồ uống cho chất lượng của nó"
+        },
+        {
+            "id": "03404f9b-62bd-4dc4-93d3-ec6e1af290b6",
+            "word": "expediter",
+            "phonetic": "ɛkspədaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXhwZWRpdGVy&hash=d0ad0052e331d6e0d2364eb7c6648c9a64edaa2b&lang=en&cache-only=0",
+            "defineEn": "an individual who is responsible for coordinating and expediting the flow of food orders between the kitchen and the front of the house",
+            "defineVi": "một cá nhân chịu trách nhiệm điều phối và xúc tiến dòng đơn đặt hàng thực phẩm giữa nhà bếp và mặt tiền của ngôi nhà"
+        },
+        {
+            "id": "7d8c4a82-3b6e-4c5c-a753-d9a6457691d8",
+            "word": "food runner",
+            "phonetic": "fuːd ɹʌnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zm9vZCBydW5uZXI&hash=edbc1cf2160ca4a4a251fdeb61494d44497e58c1&lang=en&cache-only=0",
+            "defineEn": "a staff member who is responsible for delivering food orders from the kitchen to the dining area",
+            "defineVi": "một nhân viên chịu trách nhiệm chuyển các đơn đặt hàng thực phẩm từ nhà bếp đến khu vực ăn uống"
+        },
+        {
+            "id": "8e117df2-f185-4d48-82fc-618f928b873b",
+            "word": "home cooking",
+            "phonetic": "hoʊm kʊkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBjb29raW5n&hash=cd09b91957de7e9bffb5db70f1394b52a476ce5d&lang=en&cache-only=0",
+            "defineEn": "the practice of preparing and cooking meals at home",
+            "defineVi": "thực hành chuẩn bị và nấu các bữa ăn ở nhà"
+        },
+        {
+            "id": "92191fd3-93b0-42ce-b04b-35ab9b4443f5",
+            "word": "kosher",
+            "phonetic": "koʊʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We stocked our pantry with kosher snacks and drinks for our guests.",
+                "He made sure to buy kosher ingredients for the dinner party, respecting the dietary needs of his Jewish friends.",
+                "None of that looks kosher.",
+                "That's kosher that way.",
+                "There are five Jewish private schools here, several kosher restaurants."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a29zaGVy&hash=251cfd08c484eaaa488ace94959e12a505a0e478&lang=en&cache-only=0",
+            "defineEn": "food that fulfills the requirements of Jewish dietary law",
+            "defineVi": "thực phẩm đáp ứng các yêu cầu của luật ăn kiêng của người Do Thái"
+        },
+        {
+            "id": "92f07f61-7d73-478b-b6f9-e0c920debda2",
+            "word": "halal",
+            "phonetic": "hæləl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He asked the waiter if the restaurant served halal meat, as he was mindful of his dietary restrictions.",
+                "He decided to only consume halal meat to adhere to his religious beliefs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFsYWw&hash=84ce71bb012fcfe6d9247659ab232f253b5e6d79&lang=en&cache-only=0",
+            "defineEn": "the meat that is prepared and slaughtered according to Islamic dietary laws",
+            "defineVi": "thịt được chế biến và giết mổ theo luật ăn kiêng của người Hồi giáo"
+        },
+        {
+            "id": "96c6d8dc-3e4a-469a-a845-05872851dfb6",
+            "word": "cuisine minceur",
+            "phonetic": "kwᵻziːn mɪnsɜː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3Vpc2luZSBtaW5jZXVy&hash=c11a6b4993824c6eee960381b399cfa14d583e69&lang=en&cache-only=0",
+            "defineEn": "a style of cooking that emphasizes lightness, healthfulness, and the use of minimal fats and calories",
+            "defineVi": "một phong cách nấu ăn nhấn mạnh sự nhẹ nhàng, lành mạnh và sử dụng chất béo và calo tối thiểu"
+        }
+    ]
+}

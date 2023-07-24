@@ -1,0 +1,341 @@
+{
+    "id": "da99a0c1-4965-46b8-b832-07ceb941b461",
+    "title": "Printmaking",
+    "originalTitle": "Printmaking",
+    "words": [
+        {
+            "id": "479dd342-45d3-4469-b5d1-b94353b1321b",
+            "word": "collotype",
+            "phonetic": "kɑːlətaɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29sbG90eXBl&hash=567514e70e39ffe1940176d2737b4166083ff571&lang=en&cache-only=0",
+            "defineEn": "a photographic printing process that uses a gelatin-coated plate to produce high-quality prints with a wide tonal range and a delicate, velvety texture",
+            "defineVi": "một quy trình in ảnh sử dụng một tấm phủ gelatin để tạo ra các bản in chất lượng cao với dải màu rộng và kết cấu mượt mà, tinh tế"
+        },
+        {
+            "id": "f1ff2048-63cb-410e-b629-a75582555163",
+            "word": "computer printing",
+            "phonetic": "kəmpjuːɾɚ pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tcHV0ZXIgcHJpbnRpbmc&hash=1beb8263ff705ae57c2a33b9cda7339e910b459b&lang=en&cache-only=0",
+            "defineEn": "the process of producing printed materials, such as documents, graphics, or photographs, using a computer and a printer",
+            "defineVi": "quá trình sản xuất các tài liệu in, chẳng hạn như tài liệu, đồ họa hoặc ảnh, sử dụng máy tính và máy in"
+        },
+        {
+            "id": "e5738c05-762c-4da3-bb58-91190f356243",
+            "word": "dye-sublimation printing",
+            "phonetic": "daɪsʌblɪmeɪʃən pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHllLXN1YmxpbWF0aW9uIHByaW50aW5n&hash=9995b3dc5086be7fdd7ef1581d51303a9142e02d&lang=en&cache-only=0",
+            "defineEn": "a printing process that uses heat to transfer dye onto a substrate, such as paper or fabric, producing high-quality, long-lasting prints with vibrant colors and fine details",
+            "defineVi": "một quy trình in sử dụng nhiệt để chuyển thuốc nhuộm lên bề mặt, chẳng hạn như giấy hoặc vải, tạo ra các bản in chất lượng cao, bền lâu với màu sắc rực rỡ và chi tiết đẹp"
+        },
+        {
+            "id": "65cb91c2-8db0-44d2-bc9a-875549c3b911",
+            "word": "giclee",
+            "phonetic": "dʒɪkliː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2ljbGVl&hash=8eb14cd706680300fe5162877c6c2132280a087a&lang=en&cache-only=0",
+            "defineEn": "a high-quality digital printing process that uses specialized inkjet printers and archival quality inks to create fine art prints with exceptional color accuracy, clarity, and longevity",
+            "defineVi": "quy trình in kỹ thuật số chất lượng cao sử dụng máy in phun chuyên dụng và mực chất lượng lưu trữ để tạo ra các bản in mỹ thuật với độ chính xác, độ rõ nét và tuổi thọ màu đặc biệt"
+        },
+        {
+            "id": "226cced6-0e2b-4973-97b1-690a6704e65d",
+            "word": "inkjet printing",
+            "phonetic": "ɪŋkdʒɛt pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5ramV0IHByaW50aW5n&hash=ac34d7ccca0c13fd6e836dd2390802b1f15ad544&lang=en&cache-only=0",
+            "defineEn": "a digital printing process that uses small droplets of ink to produce high-quality, full-color prints on a variety of materials, including paper, fabric, and plastic",
+            "defineVi": "một quy trình in kỹ thuật số sử dụng các giọt mực nhỏ để tạo ra các bản in đầy màu sắc, chất lượng cao trên nhiều loại vật liệu, bao gồm giấy, vải và nhựa"
+        },
+        {
+            "id": "7aa90e9a-8d5b-4fa8-984e-c9df7d869c42",
+            "word": "laser printing",
+            "phonetic": "leɪzɚ pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGFzZXIgcHJpbnRpbmc&hash=c3a72e919d1ff99eae0326fe2d049ba55c162ab8&lang=en&cache-only=0",
+            "defineEn": "a digital printing process that uses a laser beam to transfer toner onto a substrate, typically paper, producing high-quality, fast, and precise prints",
+            "defineVi": "một quy trình in kỹ thuật số sử dụng chùm tia laze để chuyển mực lên bề mặt, điển hình là giấy, tạo ra các bản in chất lượng cao, nhanh và chính xác"
+        },
+        {
+            "id": "272dec41-59ec-491b-8943-f365bd89e82c",
+            "word": "solid ink",
+            "phonetic": "sɑːlɪd ɪŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29saWQgaW5r&hash=5f52343ca40251f2263fe16de571711b2a252e44&lang=en&cache-only=0",
+            "defineEn": "a digital printing process that uses solid sticks or blocks of ink that are melted and applied to a substrate, such as paper or fabric, producing high-quality, vibrant prints with sharp details and minimal waste",
+            "defineVi": "quy trình in kỹ thuật số sử dụng các que hoặc khối mực đặc được nấu chảy và bôi lên chất nền, chẳng hạn như giấy hoặc vải, tạo ra các bản in sống động, chất lượng cao với các chi tiết sắc nét và ít hao mực nhất"
+        },
+        {
+            "id": "f652a061-65dc-409a-8cf9-5d2344e77b2d",
+            "word": "thermal printing",
+            "phonetic": "θɜːməl pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGhlcm1hbCBwcmludGluZw&hash=b19ec1f0fdb84a8fe5a82c37b5f9f50cc1f61c7a&lang=en&cache-only=0",
+            "defineEn": "a digital printing process that uses heat to transfer ink or dye onto a substrate, typically paper or labels, producing high-quality, durable prints",
+            "defineVi": "một quy trình in kỹ thuật số sử dụng nhiệt để truyền mực hoặc thuốc nhuộm lên bề mặt, điển hình là giấy hoặc nhãn, tạo ra các bản in bền, chất lượng cao"
+        },
+        {
+            "id": "74aee219-b1bf-46e6-b9f3-0ba847ff90ab",
+            "word": "intaglio",
+            "phonetic": "ɪntæɡlɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50YWdsaW8&hash=69ea4951076532ac97dfb800a5b48918e6fac5cb&lang=en&cache-only=0",
+            "defineEn": "a printing technique in which the image is carved into the printing plate and the carved part holds the ink",
+            "defineVi": "một kỹ thuật in trong đó hình ảnh được khắc vào tấm in và phần khắc giữ mực"
+        },
+        {
+            "id": "c85f2051-0464-4bfc-8fca-0592fe74f483",
+            "word": "letterpress",
+            "phonetic": "lɛɾɚpɹɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Letterpress printing just can't compete with that kind of efficiency.",
+                "However, modern technology has made this kind of letterpress printing nearly obsolete."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGV0dGVycHJlc3M&hash=7a121c1fc0e6c35fccc927d8d7a11e3be17fa44c&lang=en&cache-only=0",
+            "defineEn": "a type of printing process that uses a raised plate with characters to transfer ink to paper",
+            "defineVi": "một loại quy trình in sử dụng một tấm nâng có ký tự để chuyển mực sang giấy"
+        },
+        {
+            "id": "ca542321-7e47-4787-9a23-0d62f5d0d87a",
+            "word": "linocut",
+            "phonetic": "lɪnəkʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlub2N1dA&hash=536b25b347f0ba791b4f009dc0aecd271a4fc7db&lang=en&cache-only=0",
+            "defineEn": "a type of relief printing process that uses a sheet of linoleum with a design cut into it to transfer ink to paper",
+            "defineVi": "một loại quy trình in phù điêu sử dụng một tấm vải sơn có thiết kế được cắt vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "01b0fd21-8a27-4ed5-ad20-61f053874c3e",
+            "word": "lithography",
+            "phonetic": "lɪθɑːɡɹəfi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A technique called the thin film lithography process allowed engineers to shrink the reader and writer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl0aG9ncmFwaHk&hash=5092eccb17eecdffe8cfcc3c5fcd3e7500f50a8c&lang=en&cache-only=0",
+            "defineEn": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+            "defineVi": "một loại quy trình in sử dụng một tấm đá hoặc kim loại phẳng có thiết kế được khắc vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "9e24d60c-98ca-45fe-8eae-1bc25f504702",
+            "word": "monotype",
+            "phonetic": "mɑːnoʊtaɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Each book begins in the foundry, where Brian Ferrett spends his day at a monotype machine from the 1890s making individual letters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ub3R5cGU&hash=8bd8a571dfbd162f94f745f0dbf0e9c15f74789b&lang=en&cache-only=0",
+            "defineEn": "a type of printing process that uses a metal or plastic plate with a design etched into it to transfer ink to paper",
+            "defineVi": "một loại quy trình in sử dụng một tấm kim loại hoặc nhựa có thiết kế được khắc vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "c206f90c-5aff-443e-b600-77562e12c182",
+            "word": "lithography",
+            "phonetic": "ɔfsɛt pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A technique called the thin film lithography process allowed engineers to shrink the reader and writer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl0aG9ncmFwaHk&hash=5092eccb17eecdffe8cfcc3c5fcd3e7500f50a8c&lang=en&cache-only=0",
+            "defineEn": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+            "defineVi": "một loại quy trình in sử dụng một tấm đá hoặc kim loại phẳng có thiết kế được khắc vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "55bb49d8-a5be-4c0a-9c3a-651de1e84a82",
+            "word": "lithography",
+            "phonetic": "plænəɡɹæfɪk pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A technique called the thin film lithography process allowed engineers to shrink the reader and writer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl0aG9ncmFwaHk&hash=5092eccb17eecdffe8cfcc3c5fcd3e7500f50a8c&lang=en&cache-only=0",
+            "defineEn": "a type of printing process that uses a flat stone or metal plate with a design etched into it to transfer ink to paper",
+            "defineVi": "một loại quy trình in sử dụng một tấm đá hoặc kim loại phẳng có thiết kế được khắc vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "f188ae6b-8d4f-47a5-a961-9dad8c69a782",
+            "word": "printing press",
+            "phonetic": "pɹɪntɪŋ pɹɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJpbnRpbmcgcHJlc3M&hash=a3079193580950176f962e06820e317ebcffe920&lang=en&cache-only=0",
+            "defineEn": "a type of printing machine that uses a flat metal plate with a design etched into it to transfer ink to paper",
+            "defineVi": "một loại máy in sử dụng một tấm kim loại phẳng với thiết kế được khắc vào đó để chuyển mực sang giấy"
+        },
+        {
+            "id": "7d9c2cd2-b9ee-4bb0-88f6-0657b6f29b0d",
+            "word": "relief printing",
+            "phonetic": "ɹᵻliːf pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVsaWVmIHByaW50aW5n&hash=2ed31a1bac7cea1e566e4aea234c28ff01a5ce03&lang=en&cache-only=0",
+            "defineEn": "a printing technique in which an image is carved in relief on a printing block, such as wood or linoleum, and ink is applied to the raised surface of the block before it is pressed onto paper or another substrate",
+            "defineVi": "một kỹ thuật in trong đó một hình ảnh được chạm nổi trên một khối in, chẳng hạn như gỗ hoặc vải sơn, và mực được bôi lên bề mặt nâng lên của khối trước khi nó được ép lên giấy hoặc chất nền khác"
+        },
+        {
+            "id": "0b589437-af87-46f8-b859-1fadb40241cc",
+            "word": "metalcut",
+            "phonetic": "mɛɾəlkʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWV0YWxjdXQ&hash=24be5752b562ae0b39712f4fb726dc0df8183d70&lang=en&cache-only=0",
+            "defineEn": "a printmaking technique that involves carving a metal plate, typically copper or zinc, with a chisel or graver to create an image",
+            "defineVi": "một kỹ thuật làm bản in bao gồm việc chạm khắc một tấm kim loại, điển hình là đồng hoặc kẽm, bằng một cái đục hoặc máy mài để tạo ra một hình ảnh"
+        },
+        {
+            "id": "3386675f-e9e3-4591-a2f6-65c353c46faf",
+            "word": "etching",
+            "phonetic": "ɛtʃɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXRjaGluZw&hash=fe4cbe0206fb3d53807869c16f7515583445c277&lang=en&cache-only=0",
+            "defineEn": "the art or process of cutting or carving designs or writings on a hard surface using an acid or a laser beam",
+            "defineVi": "nghệ thuật hoặc quy trình cắt hoặc chạm khắc các thiết kế hoặc chữ viết trên bề mặt cứng bằng cách sử dụng axit hoặc tia laze"
+        },
+        {
+            "id": "57ff29ce-1dac-4b2a-a63d-6858d3a1fe09",
+            "word": "wood engraving",
+            "phonetic": "wʊd ɛŋɡɹeɪvɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29vZCBlbmdyYXZpbmc&hash=7e925c01b7b3d8263498b0cc943c311b9667ae0d&lang=en&cache-only=0",
+            "defineEn": "a relief printing technique that involves carving a design into the end-grain of a block of wood, typically boxwood, using specialized engraving tools",
+            "defineVi": "một kỹ thuật in phù điêu liên quan đến việc khắc một thiết kế vào thớ gỗ cuối cùng, điển hình là gỗ hoàng dương, sử dụng các công cụ khắc chuyên dụng"
+        },
+        {
+            "id": "13b83fac-6329-46b8-a56d-61b54eee8449",
+            "word": "woodcut",
+            "phonetic": "wʊdkʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He was finishing his woodcut of Bryant to be displayed in the art exhibit at the fair.",
+                "There are many extremely affecting memorials that are figurative, including German artist Käthe Kollwitz’s 1920 woodcut",
+                "And people saw woodcuts of witches in flight or they heard about magicians on flying coats or carpets or they went to healers and unexpectedly died."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29vZGN1dA&hash=5f0aa44b942b32fd296e3f048c27c72986499554&lang=en&cache-only=0",
+            "defineEn": "a relief printing technique that involves carving a design into a block of wood, inking the surface, and then printing the image onto paper or another substrate",
+            "defineVi": "một kỹ thuật in phù điêu liên quan đến việc khắc một thiết kế vào một khối gỗ, phủ mực lên bề mặt, sau đó in hình ảnh lên giấy hoặc chất nền khác"
+        },
+        {
+            "id": "1f02fe3b-cdff-46bb-891f-f171aa37fad3",
+            "word": "screen printing",
+            "phonetic": "skɹiːn pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And then the finished shirts, called blanks, are usually sent to Europe or the United States for screen printing, and then sold."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NyZWVuIHByaW50aW5n&hash=3ded9a7b1234deff8947194e2734d6ebcfe8c865&lang=en&cache-only=0",
+            "defineEn": "the technique of putting a design or pattern of ink or metal on a surface through a screen of silk or fine material",
+            "defineVi": "kỹ thuật đưa một thiết kế hoặc mẫu mực hoặc kim loại lên bề mặt thông qua một màn lụa hoặc vật liệu mịn"
+        },
+        {
+            "id": "efe801ab-0c0f-487b-b297-ef9972dc83d0",
+            "word": "woodblock printing",
+            "phonetic": "wʊdblɑːk pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29vZGJsb2NrIHByaW50aW5n&hash=d3275ca519bc0a7f046c0d00802fd8b15413fc6b&lang=en&cache-only=0",
+            "defineEn": "a technique used in printmaking that involves the use of a carved wooden block to create a design or pattern on paper or fabric",
+            "defineVi": "một kỹ thuật được sử dụng trong sản xuất bản in liên quan đến việc sử dụng một khối gỗ được chạm khắc để tạo ra một thiết kế hoặc hoa văn trên giấy hoặc vải"
+        },
+        {
+            "id": "344c5c53-c432-4a92-8517-27e59aa7925e",
+            "word": "cerography",
+            "phonetic": "səɹɑːɡɹəfi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2Vyb2dyYXBoeQ&hash=1b08dff91fc499f6a7ff05d791a3bfa873665c2a&lang=en&cache-only=0",
+            "defineEn": "a printing process that involves engraving an image onto a ceramic plate, which is then inked and printed onto paper or another substrate",
+            "defineVi": "một quy trình in bao gồm khắc một hình ảnh lên một tấm gốm, sau đó được đổ mực và in lên giấy hoặc chất nền khác"
+        },
+        {
+            "id": "9752e528-74dc-4f74-bc48-831ed1e4c80b",
+            "word": "pointille",
+            "phonetic": "pɔɪntɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9pbnRpbGxl&hash=7953202ac433a3413cac951384ceff67180f4841&lang=en&cache-only=0",
+            "defineEn": "a printmaking technique in which dots of ink are applied in patterns to create tones, textures and images",
+            "defineVi": "một kỹ thuật in trong đó các chấm mực được áp dụng theo mẫu để tạo tông màu, kết cấu và hình ảnh"
+        },
+        {
+            "id": "404148cd-129f-46cf-b5d6-4e0fa01ce330",
+            "word": "mezzotint",
+            "phonetic": "mɛzətɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWV6em90aW50&hash=fed9374a2bf2887b701527f74b059a1fce644cac&lang=en&cache-only=0",
+            "defineEn": "an intaglio printing technique that involves roughening a metal plate with a special tool called a rocker to create a textured surface that can hold ink",
+            "defineVi": "một kỹ thuật in intaglio liên quan đến việc làm nhám một tấm kim loại bằng một công cụ đặc biệt gọi là máy lắc để tạo ra một bề mặt có kết cấu có thể giữ mực"
+        },
+        {
+            "id": "2347c787-6a17-4630-8389-78de86d52e87",
+            "word": "aquatint",
+            "phonetic": "əkwætɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXF1YXRpbnQ&hash=ff0b58252695290f456d352f5bd07fa69300f611&lang=en&cache-only=0",
+            "defineEn": "an etching technique that involves creating a tonal range on a metal plate by exposing it to an acid-resistant resin that is then heated",
+            "defineVi": "một kỹ thuật khắc liên quan đến việc tạo ra một dải âm trên một tấm kim loại bằng cách cho nó tiếp xúc với một loại nhựa kháng axit sau đó được nung nóng"
+        },
+        {
+            "id": "8f1ed998-98a2-4a43-93bd-3caa5eaadc75",
+            "word": "engraving",
+            "phonetic": "ɛŋɡɹeɪvɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "There are thousands of Mayan stone engravings.",
+                "And linguists have only recently decoded many hieroglyphs found on Mayan engravings.",
+                "In the mid-1800s, a German explorer crossing the Sahara encountered the paintings and engravings left behind by those early Holocene artists.",
+                "It's a story often hidden in plain sight, as in this 19th century engraving, intended to capture the campus in all its glory, there on a balcony, an enslaved woman holding the child of a professor.",
+                "The scientists concluded that, as the engravings evolved, they became more effective at provoking a cognitive response in the viewer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5ncmF2aW5n&hash=382510a088cb02951572c7a423eec575d662fe26&lang=en&cache-only=0",
+            "defineEn": "the art or process of carving an artistic shape or pattern on a hard material",
+            "defineVi": "nghệ thuật hoặc quá trình chạm khắc một hình dạng hoặc hoa văn nghệ thuật trên vật liệu cứng",
+            "hasImg": true
+        },
+        {
+            "id": "4a8b8725-6160-4ee5-95b1-0d2fe1dc2514",
+            "word": "drypoint",
+            "phonetic": "dɹaɪpɔɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJ5cG9pbnQ&hash=4ab149b1c340b5ef8bae0619a6f350609818c8bb&lang=en&cache-only=0",
+            "defineEn": "an intaglio printing technique that involves scratching an image directly onto a metal plate, typically copper, using a pointed tool",
+            "defineVi": "một kỹ thuật in intaglio liên quan đến việc cào một hình ảnh trực tiếp lên một tấm kim loại, điển hình là đồng, sử dụng một công cụ nhọn"
+        },
+        {
+            "id": "e86b0d69-dabe-4aef-acb8-3d4045f1339f",
+            "word": "digital printing",
+            "phonetic": "dɪdʒɪɾəl pɹɪntɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlnaXRhbCBwcmludGluZw&hash=cc0f52c6586ba9809163c162f7398aa04bf71898&lang=en&cache-only=0",
+            "defineEn": "a modern printing method that involves transferring digital images or text directly onto paper or other materials using a computer and a printer",
+            "defineVi": "một phương pháp in hiện đại liên quan đến việc chuyển hình ảnh hoặc văn bản kỹ thuật số trực tiếp lên giấy hoặc các vật liệu khác bằng máy tính và máy in"
+        },
+        {
+            "id": "17024376-d53b-4b51-9c9f-42565dc5dfe2",
+            "word": "hectograph",
+            "phonetic": "hɛktəɡɹæf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVjdG9ncmFwaA&hash=a5e04d5761048ddf61e92c82ae8d432825b3b4a9&lang=en&cache-only=0",
+            "defineEn": "a printing process that involves transferring ink from a master copy onto a gelatin pad, which can then be used to produce multiple copies of the original image or text using a press or by hand rubbing",
+            "defineVi": "một quy trình in liên quan đến việc chuyển mực từ bản sao chính lên một miếng gelatin, sau đó có thể được sử dụng để tạo ra nhiều bản sao của hình ảnh hoặc văn bản gốc bằng cách sử dụng máy ép hoặc bằng tay"
+        }
+    ]
+}

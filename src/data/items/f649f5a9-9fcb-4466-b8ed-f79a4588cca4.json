@@ -1,0 +1,619 @@
+{
+    "id": "f649f5a9-9fcb-4466-b8ed-f79a4588cca4",
+    "title": "Online Media",
+    "originalTitle": "Online Media",
+    "words": [
+        {
+            "id": "f2348393-80e2-420b-aba0-b2a9fe99a51c",
+            "word": "account",
+            "phonetic": "ɐkaʊnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The end-of-year accounts show a loss.",
+                "Their bank account was in the red again.",
+                "John's bank account is in credit by $500.",
+                "Then the punishment of individuals invariably took account of the harm or damage done to the victim.",
+                "He gave a good account of himself in matches against Crewe and Chesterfield."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3VudA&hash=a14f9ecf7c006812f3c236dcb3be803b3ccf278a&lang=en&cache-only=0",
+            "defineEn": "an arrangement based on which a user is given a private and personalized access to an online platform, application, or computer",
+            "defineVi": "một sự sắp xếp dựa trên đó người dùng được cấp quyền truy cập riêng tư và được cá nhân hóa vào một nền tảng, ứng dụng hoặc máy tính trực tuyến",
+            "hasImg": true
+        },
+        {
+            "id": "bb2d5094-0b22-4558-8963-efd16ad11349",
+            "word": "password",
+            "phonetic": "pæswɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Statistically, many people are reusing passwords.",
+                "So passwords present challenges across the board.",
+                "Passwords are like the cockroaches of the internet.",
+                "Enter your password.",
+                "Use different passwords across your different logins."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzc3dvcmQ&hash=e736ee8119e03b91861ad9f3c4b8e26f42e3d2ac&lang=en&cache-only=0",
+            "defineEn": "a confidential string of characters that a user chooses to secure their account and prevent unauthorized access",
+            "defineVi": "một chuỗi ký tự bí mật mà người dùng chọn để bảo mật tài khoản của họ và ngăn chặn truy cập trái phép"
+        },
+        {
+            "id": "a3729da7-73b1-4a6f-a46e-9a35c8fdf31b",
+            "word": "social bookmarking",
+            "phonetic": "soʊʃəl bʊkmɑːɹkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29jaWFsIGJvb2ttYXJraW5n&hash=a82f802bf93c695a7959e2aa56c7f078bfa406dd&lang=en&cache-only=0",
+            "defineEn": "(computing) an online service that enables users to add, edit and share bookmarks of web documents",
+            "defineVi": "(máy tính) một dịch vụ trực tuyến cho phép người dùng thêm, chỉnh sửa và chia sẻ dấu trang của tài liệu web"
+        },
+        {
+            "id": "1f234dd1-abd5-463d-80aa-3db952c850d4",
+            "word": "site",
+            "phonetic": "saɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The truck carried a load of construction materials to the building site.",
+                "They're going to build on the site of the old power station.",
+                "The constant noise from the construction site vexed the residents of the neighborhood.",
+                "The steel-toe boots are mandatory for workers in construction sites to ensure safety.",
+                "Developers want to build on the site of the old gasworks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2l0ZQ&hash=f22d98089aee0bc4fe9859b02e986203beac6d04&lang=en&cache-only=0",
+            "defineEn": "a website; a set of related pages on the internet located under a single domain name",
+            "defineVi": "một trang web; một tập hợp các trang có liên quan trên internet nằm dưới một tên miền duy nhất",
+            "hasImg": true
+        },
+        {
+            "id": "167751f1-076f-40e5-b9f8-e903994b4292",
+            "word": "online poll",
+            "phonetic": "ɑːnlaɪn poʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b25saW5lIHBvbGw&hash=e8f67d1c70c28a237ceb00068eca1737cbfa3642&lang=en&cache-only=0",
+            "defineEn": "a survey or questionnaire conducted through digital platforms or websites, allowing individuals to provide their opinions or vote on specific topics or questions using electronic devices connected to the internet",
+            "defineVi": "một cuộc khảo sát hoặc bảng câu hỏi được thực hiện thông qua các nền tảng hoặc trang web kỹ thuật số, cho phép các cá nhân đưa ra ý kiến hoặc bỏ phiếu về các chủ đề hoặc câu hỏi cụ thể bằng thiết bị điện tử được kết nối với internet"
+        },
+        {
+            "id": "4b04b47a-f0dd-4b52-ac2a-37826f362fff",
+            "word": "web",
+            "phonetic": "wɛb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I need to search the web for information about that topic.",
+                "She is planning to take a course in web design.",
+                "Your web browser has strong encryption in it.",
+                "You can watch their conversation our Web site.",
+                "I was actually just browsing the web"
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2Vi&hash=e5b7150c1d991fbcae44fdc967662e6568af4876&lang=en&cache-only=0",
+            "defineEn": "the interconnected network of websites and digital content accessible through the internet",
+            "defineVi": "mạng kết nối các trang web và nội dung kỹ thuật số có thể truy cập qua internet",
+            "hasImg": true
+        },
+        {
+            "id": "156789aa-b64f-4879-a7dd-3a2c88d19b0d",
+            "word": "blog",
+            "phonetic": "blɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He follows industry blogs and journals to keep up with trends in his profession.",
+                "I decided to start a fashion blog.",
+                "Check out his astronomy blog here.",
+                "Check out his blog, Quarks and Coffee, for more awesome stuff like this!",
+                "I would read that blog."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvZw&hash=12e6c9038c265b698df25944500e1431293b4558&lang=en&cache-only=0",
+            "defineEn": "a web page on which an individual or group of people regularly write about a topic of interest or their opinions or experiences, usually in an informal style",
+            "defineVi": "một trang web mà một cá nhân hoặc một nhóm người thường xuyên viết về một chủ đề quan tâm hoặc ý kiến hoặc kinh nghiệm của họ, thường là theo phong cách thân mật"
+        },
+        {
+            "id": "185cf294-6969-4549-8b74-11ab36ce56b6",
+            "word": "blogging",
+            "phonetic": "blɑːɡɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Squarespace has powerful blogging tools to share stories, photos, videos, and updates.",
+                "I've never really had fun doing actual blogging on makeup.",
+                "That's what social media and that's what the internet and blogging have always done really well. ",
+                "It’s got powerful blogging tools, so you can easily share stories, photos, videos, and updates.",
+                "The blogging platform also supports a sharing button that your visitors can use to share content on Facebook, Twitter, Reddit, and more."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvZ2dpbmc&hash=9159e026d64ca75cf0fcea6795841c60ab756223&lang=en&cache-only=0",
+            "defineEn": "the act or activity of writing about different things in a blog",
+            "defineVi": "hành động hoặc hoạt động viết về những điều khác nhau trong một blog",
+            "hasImg": true
+        },
+        {
+            "id": "e30633ec-e09c-4f0b-b8af-0645c8011b98",
+            "word": "web newspaper",
+            "phonetic": "wɛb nuːzpeɪpɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2ViIG5ld3NwYXBlcg&hash=dc42e6ec5cf9a77643ef8359fd5b789bc8813905&lang=en&cache-only=0",
+            "defineEn": "an online publication that delivers news and information through a website or digital platform, providing articles, reports, and multimedia content to readers over the internet",
+            "defineVi": "một ấn phẩm trực tuyến cung cấp tin tức và thông tin thông qua một trang web hoặc nền tảng kỹ thuật số, cung cấp các bài báo, báo cáo và nội dung đa phương tiện cho độc giả qua internet"
+        },
+        {
+            "id": "8176e252-c7cd-48f0-9edc-e78177faeeb9",
+            "word": "linklog",
+            "phonetic": "lɪŋklɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlua2xvZw&hash=f01073765bb8a6cc1ba1d57db9554958df8b2f56&lang=en&cache-only=0",
+            "defineEn": "a type of blog or website that primarily focuses on curating and sharing links to interesting or valuable online resources, articles, websites, or multimedia content, providing a collection of links for users to explore and discover",
+            "defineVi": "một loại blog hoặc trang web chủ yếu tập trung vào việc quản lý và chia sẻ liên kết đến các tài nguyên trực tuyến, bài báo, trang web hoặc nội dung đa phương tiện thú vị hoặc có giá trị, cung cấp một tập hợp các liên kết để người dùng tìm hiểu và khám phá"
+        },
+        {
+            "id": "e53c5e2b-db48-4fc8-aeac-d8f633b4b98d",
+            "word": "blogosphere",
+            "phonetic": "blɑːɡəsfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Things certainly move fast in the blogosphere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvZ29zcGhlcmU&hash=64bbfe9da9bf8adeeeb4d1a8f6384fbe22cd6f4d&lang=en&cache-only=0",
+            "defineEn": "the virtual space where all the personal blogs are and the network of people communicating",
+            "defineVi": "không gian ảo nơi có tất cả các blog cá nhân và mạng lưới những người giao tiếp"
+        },
+        {
+            "id": "9212e0b8-807d-4d9b-a397-9faf88eca63c",
+            "word": "home page",
+            "phonetic": "hoʊm peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What's up with your new picture on the home page?",
+                "The Google home page remains free of ads.",
+                "One obvious tactic was to sell advertising space on Google's home page.",
+                "Once you've signed in, you'll be taken to the Skype home page.",
+                "Let's return to the home page and customize some of Discord's settings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9tZSBwYWdl&hash=23ffd259609bfeade781d3cde6d49c03ee5ac176&lang=en&cache-only=0",
+            "defineEn": "the opening page of a website that introduces it and links the user to other pages",
+            "defineVi": "trang mở đầu của một trang web giới thiệu nó và liên kết người dùng với các trang khác",
+            "hasImg": true
+        },
+        {
+            "id": "37cb9b3d-3c44-4936-a48b-557ae2e1baed",
+            "word": "browser",
+            "phonetic": "bɹaʊzɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Your web browser has strong encryption in it.",
+                "Open the Google Chrome browser.",
+                "He called his browser the World Wide Web.",
+                "Microsoft's browser has since been eclipsed by the likes of Google's Chrome and Apple Safari.",
+                "Originally, these laptops just accessed the internet via Google's Chrome browser, nothing else."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvd3Nlcg&hash=ad58cfb0c9f1d9420461948d9a5ee58733b4a565&lang=en&cache-only=0",
+            "defineEn": "a computer program that enables the user to read or look at information on the Internet",
+            "defineVi": "một chương trình máy tính cho phép người dùng đọc hoặc xem thông tin trên Internet",
+            "hasImg": true
+        },
+        {
+            "id": "e2cecd96-0cf4-4b68-81db-24bc1c670c8e",
+            "word": "browser history",
+            "phonetic": "bɹaʊzɚ hɪstɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJvd3NlciBoaXN0b3J5&hash=fb442f4c7265b0bb701b68df09655804ab80acbf&lang=en&cache-only=0",
+            "defineEn": "a record or log of web pages and websites that a user has visited in a specific web browser",
+            "defineVi": "bản ghi hoặc nhật ký của các trang web và trang web mà người dùng đã truy cập trong một trình duyệt web cụ thể"
+        },
+        {
+            "id": "04ce02c4-8064-4bb1-b710-54b0259cae34",
+            "word": "landing page",
+            "phonetic": "lændɪŋ peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Unbounce is the landing page platform that helps you convert more visitors into leads, sales, and customers.",
+                "Head to Java.com and hit the red download button on the landing page.",
+                "Each seller has their own highly customizable landing page.",
+                "Although Nike's landing page still appears active on Amazon, the items there are being sold by third-party sellers.",
+                "Although the landing page says Walmart Plus is coming soon, the pandemic delayed its planned release in the spring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFuZGluZyBwYWdl&hash=50eb5236aa2d99469bb8640b3674d0c36c97a516&lang=en&cache-only=0",
+            "defineEn": "(computing) the first webpage that appears in response to a click on a link",
+            "defineVi": "(máy tính) trang web đầu tiên xuất hiện khi nhấp chuột vào một liên kết"
+        },
+        {
+            "id": "0e7c6443-a6c5-445f-9bea-2518135474a9",
+            "word": "web tracking",
+            "phonetic": "wɛb tɹækɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2ViIHRyYWNraW5n&hash=a80c30199c91b5ba67aca1b61a07f794ee4c0579&lang=en&cache-only=0",
+            "defineEn": "the practice of monitoring and recording user activities and behavior on websites or across the internet",
+            "defineVi": "thực hành giám sát và ghi lại các hoạt động và hành vi của người dùng trên các trang web hoặc trên internet"
+        },
+        {
+            "id": "649da140-f2dc-4e5a-bd51-e917bec5d7d6",
+            "word": "cookie",
+            "phonetic": "kʊki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She's a sharp cookie!",
+                "I added a generous amount of wholewheat flour to the cookie batter.",
+                "She baked a batch of delicious hazelnut cookies.",
+                "A lot of people had their hands in the cookie jar at the company.",
+                "I had a gluten-free cookie that was just as delicious as the regular ones."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29va2ll&hash=3bf9fc47c2be6246661c00346cd476c123aada4e&lang=en&cache-only=0",
+            "defineEn": "(computing) data that a web server sends to a browser and receives if the user visits the website again, used for identifying or tracking the user's activities",
+            "defineVi": "dữ liệu (máy tính) mà máy chủ web gửi đến trình duyệt và nhận được nếu người dùng truy cập lại trang web, được sử dụng để xác định hoặc theo dõi các hoạt động của người dùng"
+        },
+        {
+            "id": "48ab03e5-92fd-40f9-856f-27ebdb3e9260",
+            "word": "bookmark",
+            "phonetic": "bʊkmɑːɹk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It's a kitty bookmark.",
+                "And it has little bookmarks and stuff.",
+                "It's used as a bookmark.",
+                "Turn these following links into bookmarks in your browser for easy access.",
+                "But I could use it as a bookmark if I wanted"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9va21hcms&hash=4e74624501c427fc29965039f28cdf36f189e984&lang=en&cache-only=0",
+            "defineEn": "(computing) the marked address of a website or file for easier and faster access",
+            "defineVi": "(máy tính) địa chỉ được đánh dấu của trang web hoặc tệp để truy cập dễ dàng và nhanh hơn",
+            "hasImg": true
+        },
+        {
+            "id": "63bd887c-8989-4f43-a4cc-de632a2680c4",
+            "word": "web page",
+            "phonetic": "wɛb peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The histograms in the previous applets computed the total number of times each web page was visited at the current stage of the game.",
+                "There are a number of ways to add emphasis to words on a web page.",
+                "It all happens in a split second, every time you load a web page.",
+                "Pigeons, they tell us, can spot minute differences between web pages and will peck when a relevant result appears on the screen.",
+                "They use analytics tools that collect information sent by your device, including the web pages you visit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2ViIHBhZ2U&hash=888a3c2b7da0f606ed9c4a57c4b2ded575adee48&lang=en&cache-only=0",
+            "defineEn": "all the information in one part of a website",
+            "defineVi": "tất cả thông tin trong một phần của trang web",
+            "hasImg": true
+        },
+        {
+            "id": "0276b4bd-d3ee-446c-8512-f200df176d61",
+            "word": "search engine",
+            "phonetic": "sɜːtʃ ɛndʒɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their tools are Internet search engines, dictionaries, history books, telephones, and public records of every sort.",
+                "The obvious superiority of their search engine quickly attracted financial backing.",
+                "At the end of the day, it's a search engine just like Google.",
+                "Google's YouTube is the world's second largest search engine.",
+                "Use a search engine to look up the name of that site."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VhcmNoIGVuZ2luZQ&hash=d90b23759887971824c0a3c7787e520916746827&lang=en&cache-only=0",
+            "defineEn": "a computer program that searches the internet and finds information based on a word or group of words given to it",
+            "defineVi": "một chương trình máy tính tìm kiếm trên internet và tìm thông tin dựa trên một từ hoặc nhóm từ được cung cấp cho nó",
+            "hasImg": true
+        },
+        {
+            "id": "ec7f09e4-2145-49b6-981c-3ae931e86990",
+            "word": "surfing",
+            "phonetic": "sɜːfɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "had a stab at surfing once",
+                "Like many extreme sports, big wave surfing is male-dominated.",
+                "He was also the father of surfing.",
+                "Big wave surfing and independent filmmaking is fraught with doubt, uncertainty about where the money is going to come from, and rejection.",
+                "We all have different surfing personalities, and we take our surfboard out, and if there’s a certain political wave coming in, our personality may match the wave of that moment, and we’ll ride to shore into the presidency. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VyZmluZw&hash=781f4290f1ca9e567238fe80a871d8be64443fbe&lang=en&cache-only=0",
+            "defineEn": "the activity of spending a lot of time online navigating through different websites",
+            "defineVi": "hoạt động dành nhiều thời gian trực tuyến để điều hướng qua các trang web khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "fe620a58-0542-40ed-b903-3ce9c4e9e90f",
+            "word": "user group",
+            "phonetic": "juːzɚ ɡɹuːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dXNlciBncm91cA&hash=38b46250a12c5564bf16a9a5ba1a342f69203a96&lang=en&cache-only=0",
+            "defineEn": "an online community that is focused on using a particular computer technology and sharing information about it",
+            "defineVi": "một cộng đồng trực tuyến tập trung vào việc sử dụng một công nghệ máy tính cụ thể và chia sẻ thông tin về nó"
+        },
+        {
+            "id": "f0c7b9c0-13bc-430e-9828-f6f851c5ebfc",
+            "word": "visit",
+            "phonetic": "vɪzɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They visit their grandmother every weekend.",
+                "We sometimes visit our relatives during the holidays.",
+                "They often visit their grandparents on weekends.",
+                "We usually visit our grandparents during the holidays.",
+                "We visited a local smokehouse renowned for its mouthwatering brisket."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlzaXQ&hash=9dfcd0368c02985fa406cbb57c28c2362257e729&lang=en&cache-only=0",
+            "defineEn": "(computing) an occasion when a user goes to a particular webpage",
+            "defineVi": "(máy tính) một dịp khi người dùng truy cập một trang web cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "a5c3cb04-3950-4be1-abd0-09367a93d8a4",
+            "word": "live blog",
+            "phonetic": "laɪv blɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The band was given full control of their social media presence and we're encouraged to live blog their practices and daily lives."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGl2ZSBibG9n&hash=7dc74d58db6776178f96f4fa233702f4c7237295&lang=en&cache-only=0",
+            "defineEn": "a blog or a microblog that provides a real time commentary of an event as it is happening",
+            "defineVi": "một blog hoặc một tiểu blog cung cấp bình luận theo thời gian thực về một sự kiện khi nó đang diễn ra"
+        },
+        {
+            "id": "40ae0e3c-8315-4022-b8c3-8b33e31c4f99",
+            "word": "thread",
+            "phonetic": "θɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The patient's life was hanging by a thread.",
+                "The mayor's political future has been hanging by a thread since the fraud scandal.",
+                "She made T-bone steak kebabs, threading cubes of marinated steak onto skewers with colorful vegetables.",
+                "The detective still had one more loose thread to deal with before he was ready to close the case.",
+                "Last year, her dress was out at the elbows, exhibiting signs of wear with worn patches and loose threads."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhyZWFk&hash=384598131fdbd94d98edfddb52a9155fa3c59091&lang=en&cache-only=0",
+            "defineEn": "a sequence of linked messages on social media, email, etc.",
+            "defineVi": "một chuỗi các tin nhắn được liên kết trên phương tiện truyền thông xã hội, email, v.v."
+        },
+        {
+            "id": "d5b3400a-9f76-4549-86d8-d376b869593b",
+            "word": "blog post",
+            "phonetic": "blɑːɡ poʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I wrote a blog post.",
+                "It can be a blog post. ",
+                "In a September seven blog post, Robinhood updated users on its improvements and future changes to options trading.",
+                "Branson also said in a blog post on April 20th that he moved to Necker Island, which he purchased in 1975 for health reasons and not to dodge taxes.",
+                "When you create media, like a blog post or an Instagram, what is your responsibility to those who view it?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvZyBwb3N0&hash=0bc3092440e622597f6e441b44de709d83cb6605&lang=en&cache-only=0",
+            "defineEn": "any article or piece of information posted on a blog",
+            "defineVi": "bất kỳ bài báo hoặc mẩu thông tin nào được đăng trên blog"
+        },
+        {
+            "id": "a9afa8ef-b50d-46c5-b52a-4faab896cd9b",
+            "word": "blogroll",
+            "phonetic": "blɑːɡɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmxvZ3JvbGw&hash=339b0c8ec8f2ca749224201064bd9be7580ac0e6&lang=en&cache-only=0",
+            "defineEn": "a list of links on a blog to other websites that the owner thinks are useful",
+            "defineVi": "danh sách các liên kết trên blog đến các trang web khác mà chủ sở hữu nghĩ là hữu ích"
+        },
+        {
+            "id": "76a6613d-2401-47c5-a911-5a1b204aca19",
+            "word": "bulletin board",
+            "phonetic": "bʊlɪtɪn boːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnVsbGV0aW4gYm9hcmQ&hash=699e6a0ad3282ab0a435c3d7f4ce6f9007998c88&lang=en&cache-only=0",
+            "defineEn": "(computing) a computer network or an online website where users can leave messages and read other people's posts",
+            "defineVi": "(máy tính) mạng máy tính hoặc trang web trực tuyến nơi người dùng có thể để lại tin nhắn và đọc bài đăng của người khác"
+        },
+        {
+            "id": "553526b7-8f03-4924-8a5e-8ab1ce3e7263",
+            "word": "search bar",
+            "phonetic": "sɜːtʃ bɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VhcmNoIGJhcg&hash=767af7e4c4ff680f1acbed26f00440f412cdf5bc&lang=en&cache-only=0",
+            "defineEn": "a graphical interface element typically found on websites or applications that allows users to enter keywords, phrases, or queries to search for specific information or content within the provided platform",
+            "defineVi": "một thành phần giao diện đồ họa thường thấy trên các trang web hoặc ứng dụng cho phép người dùng nhập từ khóa, cụm từ hoặc truy vấn để tìm kiếm thông tin hoặc nội dung cụ thể trong nền tảng được cung cấp"
+        },
+        {
+            "id": "e45d88c6-18ec-4e01-b2ea-2f52da0793c6",
+            "word": "online forum",
+            "phonetic": "ɑːnlaɪn foːɹəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=b25saW5lIGZvcnVt&hash=97781b3c28a3b4b5f7b95bda7b9c17dd235bd3da&lang=en&cache-only=0",
+            "defineEn": "a web-based platform or website where users can engage in discussions, exchange ideas, ask questions, and share information on specific topics of interest",
+            "defineVi": "một nền tảng hoặc trang web dựa trên web nơi người dùng có thể tham gia thảo luận, trao đổi ý kiến, đặt câu hỏi và chia sẻ thông tin về các chủ đề quan tâm cụ thể"
+        },
+        {
+            "id": "14ecfc56-9ac6-465c-8a3b-3b0e7eb5d7af",
+            "word": "subscription",
+            "phonetic": "sʌbskɹɪpʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We have a TV subscription that gives us access to a variety of channels and programs.",
+                "I got a free subscription to a streaming service for a month, and even though the selection wasn't great, I watched as much as I could because free vinegar is sweeter than honey.",
+                "That subscription gives you access to tons of interactive courses, as well as the huge Brilliant community.",
+                "One method is through subscriptions.",
+                "Get a subscription for that kid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Vic2NyaXB0aW9u&hash=6b9fa85edc42fda380c11af3b61bc54dec77f526&lang=en&cache-only=0",
+            "defineEn": "the act of voluntarily signing up or enrolling to receive regular updates, content, or services from a particular source or provider",
+            "defineVi": "hành động tự nguyện đăng ký hoặc đăng ký để nhận các bản cập nhật, nội dung hoặc dịch vụ thường xuyên từ một nguồn hoặc nhà cung cấp cụ thể"
+        },
+        {
+            "id": "2a527420-7caa-4160-a358-7573bc7f8bb9",
+            "word": "platform",
+            "phonetic": "plætfɔːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Many businesses use the Salesforce platform for customer relationship management.",
+                "The train station platform was busy with people waiting for their trains.",
+                "The iPhone runs on the iOS platform.",
+                "Windows is a popular platform for PC gaming.",
+                "The online platform was offering free access to educational resources, but users had to provide personal information that was later sold to advertisers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhdGZvcm0&hash=d73fc3e8eea60a84fe18b21b3093b5871d7be0b1&lang=en&cache-only=0",
+            "defineEn": "a digital environment or software infrastructure that provides a foundation or framework for users or developers to create, interact, or exchange information, services, or content",
+            "defineVi": "môi trường kỹ thuật số hoặc cơ sở hạ tầng phần mềm cung cấp nền tảng hoặc khuôn khổ để người dùng hoặc nhà phát triển tạo, tương tác hoặc trao đổi thông tin, dịch vụ hoặc nội dung"
+        },
+        {
+            "id": "88183204-2d0b-4e08-83df-780361ea9434",
+            "word": "feedback",
+            "phonetic": "fiːdbæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The entrepreneur received a lot of feedback from friends and family on her new business idea.",
+                "The CEO of the company listened to the feedback of all employees, regardless of their rank or expertise.",
+                "The survey aimed to gather feedback from both adults and children.",
+                "The woman trusted her friend to give her honest feedback on her work, knowing that a friend's eye is a good mirror, and valued her insights in improving her performance.",
+                "If the proposal is rejected, we'll need to lick our wounds, gather feedback, and make improvements before submitting again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZGJhY2s&hash=7f00c598a00a121298fabb40be8e7fdc05dd7a57&lang=en&cache-only=0",
+            "defineEn": "information, criticism, or advice about a person's performance, a new product, etc. intended for improvement",
+            "defineVi": "thông tin, lời chỉ trích hoặc lời khuyên về hiệu suất của một người, một sản phẩm mới, v.v. nhằm mục đích cải thiện"
+        },
+        {
+            "id": "253246ba-b310-4030-b83d-bf1c6dc65313",
+            "word": "premium",
+            "phonetic": "pɹiːmiəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Even the production of the car sounded premium.",
+                "Hot diggity definitely feels premium.",
+                "And a relatively small portion of cars require a premium.",
+                "The brand has also gone premium.",
+                "Companies like Bobbie Baby and Sugar logix will likely enter the premium market first."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlbWl1bQ&hash=b586e8603a5d995f7e6c6c073b5cdc6b8fdac215&lang=en&cache-only=0",
+            "defineEn": "a superior or exclusive level of quality, features, or benefits associated with a product, service, or experience",
+            "defineVi": "mức chất lượng, tính năng hoặc lợi ích vượt trội hoặc độc quyền liên quan đến sản phẩm, dịch vụ hoặc trải nghiệm"
+        },
+        {
+            "id": "c84e515d-db9a-4e94-99bc-c8bd5b830822",
+            "word": "feed",
+            "phonetic": "fiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Feed the kitty.",
+                "The farmer fed the chickens with corn and grains.",
+                "They fed the carrot to their pet rabbit, who happily munched on it.",
+                "The old man sat on the park bench, feeding crumbs to the birds.",
+                "I took pity on the stray cat and fed him."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZA&hash=978bc5013b73f26c0a889d82bec1a28dadfc0109&lang=en&cache-only=0",
+            "defineEn": "a feature on a website that enables the users to be notified of the updated information without logging on the website",
+            "defineVi": "một tính năng trên trang web cho phép người dùng được thông báo về thông tin cập nhật mà không cần đăng nhập vào trang web"
+        },
+        {
+            "id": "5c5350b4-a830-4221-a15c-263fda647c56",
+            "word": "eBay",
+            "phonetic": "iː beɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "EBay will find appropriate categories for your item.",
+                "So eBay organizes things into subcategories.",
+                "Must sell on eBay.",
+                "And I love myself some ebay.",
+                "E-commerce platforms like eBay, Amazon and Alibaba have ushered in a golden age for counterfeiters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZUJheQ&hash=d50b23bd414c54143108ce1c50e55ea484297a0c&lang=en&cache-only=0",
+            "defineEn": "a website dedicated to the buying and selling of items that are put in an auction by users",
+            "defineVi": "một trang web dành riêng cho việc mua và bán các mặt hàng được người dùng đưa vào đấu giá"
+        },
+        {
+            "id": "15843a5f-6f84-425f-ad28-1113a7517720",
+            "word": "download",
+            "phonetic": "daʊnloʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She downloaded a new movie to watch on her laptop during the flight.",
+                "He downloaded a new app to help with productivity.",
+                "She downloaded a new album and is excited to listen to the new music.",
+                "We have made the necessary documents available for download on our website.",
+                "The tech company developed a new app, confident that 'if you build it, they will come' and download it to use for their everyday needs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG93bmxvYWQ&hash=15646fda782cb7d5a16eb51f13b3eec4fb612bad&lang=en&cache-only=0",
+            "defineEn": "the act of copying and saving digital files, such as documents, music, or videos, from the internet onto a computer or other electronic device",
+            "defineVi": "hành động sao chép và lưu các tệp kỹ thuật số, chẳng hạn như tài liệu, nhạc hoặc video, từ internet vào máy tính hoặc thiết bị điện tử khác",
+            "hasImg": true
+        },
+        {
+            "id": "6209365f-a52d-4864-838a-36275fbf8e62",
+            "word": "upload",
+            "phonetic": "ʌploʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Upload a video.",
+                "It uploaded a bunch of gaming content.",
+                "Click \"Upload photo.\"",
+                "And they uploaded a video about their experience at a drive thru.",
+                "We uploaded the videos on Wednesday."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXBsb2Fk&hash=ef1ea4e59e64341d007ce3dfa0fd192a73e18aec&lang=en&cache-only=0",
+            "defineEn": "the process of transferring or sending files, data, or content from a local device or computer to a remote server, network, or online platform",
+            "defineVi": "quá trình chuyển hoặc gửi tệp, dữ liệu hoặc nội dung từ thiết bị hoặc máy tính cục bộ đến máy chủ, mạng hoặc nền tảng trực tuyến từ xa"
+        },
+        {
+            "id": "69a056d8-cc6d-48ef-ab7e-5e12ca229192",
+            "word": "newsfeed",
+            "phonetic": "nuːzfiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And who knows what picture or joke or video will dominate your newsfeed next?",
+                "And who knows what picture or joke or video will dominate your newsfeed next?",
+                "Warding off the negative effects of algorithmic newsfeeds and filter bubbles is really hard.",
+                "The problem today is that your modern newsfeed is driven by social media, which rewards whoever can post first.",
+                "and she said that she came across this idea on her Facebook newsfeed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmV3c2ZlZWQ&hash=892a85dd1379e0229d5afbb85d64ca68a15f1eba&lang=en&cache-only=0",
+            "defineEn": "a continuously updated stream or list of news articles, updates, posts, or content that is delivered to users on a website or social media platform",
+            "defineVi": "một luồng hoặc danh sách các bài báo, cập nhật, bài đăng hoặc nội dung được cập nhật liên tục được gửi đến người dùng trên trang web hoặc nền tảng truyền thông xã hội"
+        },
+        {
+            "id": "70d92723-6ce1-4a72-aca5-6ce9d11f4a44",
+            "word": "username",
+            "phonetic": "juːzɚneɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So my username, or my link is twitch.tv/rikkipoynterplays.",
+                "Your username in Fortnite is tied to your Epic Games account.",
+                "Underneath your profile name, you'll see your username.",
+                "You can search people by their name, their Venmo username, their phone number, or their email address.",
+                "If you all follow me on my social media, I have the usernames right down here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXNlcm5hbWU&hash=29223729df83bb4d0e207a4a94acb1dc3ad8a105&lang=en&cache-only=0",
+            "defineEn": "a unique identifier or name chosen by a user to represent themselves or their account in online platforms, websites, or social media",
+            "defineVi": "một mã định danh duy nhất hoặc tên do người dùng chọn để đại diện cho chính họ hoặc tài khoản của họ trên các nền tảng trực tuyến, trang web hoặc phương tiện truyền thông xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "8b25dac6-abec-467b-b952-c268ef70d326",
+            "word": "page",
+            "phonetic": "peɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She turned a page noisily.",
+                "See page 158.",
+                "My son reads twelve pages of his book every day.",
+                "The story ran on page 4 of the print edition of the newspaper.",
+                "I ran my eyes over the page."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFnZQ&hash=5300c28800473b0c9b59eed83d5031ee62c5e969&lang=en&cache-only=0",
+            "defineEn": "all the data that can be seen on a screen at one time, such as a part of a website",
+            "defineVi": "tất cả dữ liệu có thể nhìn thấy trên màn hình cùng một lúc, chẳng hạn như một phần của trang web",
+            "hasImg": true
+        },
+        {
+            "id": "e6559a61-9663-4e4a-8ea8-24731692a8f4",
+            "word": "to skip",
+            "phonetic": "tə skɪp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The children skipped stones across the calm river surface.",
+                "The little girl skipped happily through the meadow, picking flowers along the way.",
+                "When I learned I was on live television, my heart skipped a beat.",
+                "Skipping breakfast before an exam is asking for trouble and can increase the likelihood of poor performance.",
+                "The children played along the riverbank, skipping stones into the water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2tpcA&hash=daca10f40647a58b7ee3db9f1f9f2ec9494d54f7&lang=en&cache-only=0",
+            "defineEn": "to deliberately and quickly move past or jump over certain sections or portions of media, such as audio tracks, video segments, or chapters",
+            "defineVi": "cố ý và nhanh chóng di chuyển qua hoặc nhảy qua các phần hoặc phần nhất định của phương tiện, chẳng hạn như bản âm thanh, phân đoạn video hoặc chương"
+        }
+    ]
+}

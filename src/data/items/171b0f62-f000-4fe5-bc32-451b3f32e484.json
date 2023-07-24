@@ -1,0 +1,646 @@
+{
+    "id": "171b0f62-f000-4fe5-bc32-451b3f32e484",
+    "title": "Book Production",
+    "originalTitle": "Book Production",
+    "words": [
+        {
+            "id": "de863eb6-9a3b-4150-a1e2-0cbb5319e133",
+            "word": "author",
+            "phonetic": "ɔːθɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The author abstracted key themes from the novel in her literary analysis.",
+                "The literary festival attracts renowned authors, publishers, and literary agents.",
+                "The famous author made a mint from royalties on his best-selling books.",
+                "The children's book author is a big noise in the publishing industry, with several award-winning books.",
+                "The author writes that this theory has now been disproved."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXV0aG9y&hash=2a2f06eaa38a6ea726d77465108ad4402776375a&lang=en&cache-only=0",
+            "defineEn": "a person who, as a job, writes books, articles, etc.",
+            "defineVi": "một người, như một công việc, viết sách, bài báo, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "38a7bb25-32b4-41e2-92bf-d2a53c728f99",
+            "word": "novelist",
+            "phonetic": "nɑːvɪlɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bestselling novelist.",
+                "You are in rare air for a novelist, for a writer.",
+                "Sir Walter Scott, like other novelists, wrote about the Middle Ages, but he too reached romantic intensity in part because of his opium addiction.",
+                "You’re not a prophet you’re a novelist, but novelist very often see into the future.",
+                "As fellow novelist Walter Mosley puts it: King’s phenomenal popularity is due to his almost instinctual understanding of the fears that form the psyche of America’s working class."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm92ZWxpc3Q&hash=fa4f498c056f17e27aec85e7b861133e00f47e5e&lang=en&cache-only=0",
+            "defineEn": "a writer who explores characters, events, and themes in depth through long narrative stories, particularly novels",
+            "defineVi": "một nhà văn khám phá các nhân vật, sự kiện và chủ đề một cách sâu sắc thông qua các câu chuyện kể dài, đặc biệt là tiểu thuyết",
+            "hasImg": true
+        },
+        {
+            "id": "5d08e560-774b-4ec3-b3c5-b7db876917e4",
+            "word": "copy editor",
+            "phonetic": "kɑːpi ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29weSBlZGl0b3I&hash=fb0c07c2915dda0d977c5aacb83e372e71059290&lang=en&cache-only=0",
+            "defineEn": "a professional who ensures that written material is clear, concise, and free of errors in grammar, spelling, and punctuation",
+            "defineVi": "một chuyên gia đảm bảo rằng tài liệu bằng văn bản rõ ràng, súc tích và không có lỗi ngữ pháp, chính tả và dấu câu"
+        },
+        {
+            "id": "ae680f9d-f65d-4066-848c-0bd84a756012",
+            "word": "structural editor",
+            "phonetic": "stɹʌktʃɚɹəl ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3RydWN0dXJhbCBlZGl0b3I&hash=b8d23b64dc6c7d5a4e0c51f478be06830b3dffca&lang=en&cache-only=0",
+            "defineEn": "a professional who works with an author to improve the overall structure, content, and organization of a manuscript",
+            "defineVi": "một chuyên gia làm việc với một tác giả để cải thiện cấu trúc tổng thể, nội dung và tổ chức của một bản thảo"
+        },
+        {
+            "id": "f8f79b0d-e07f-4113-ac6c-6ab664d0f2b8",
+            "word": "commissioning editor",
+            "phonetic": "kəmɪʃənɪŋ ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWlzc2lvbmluZyBlZGl0b3I&hash=5f47d783553aabc0db9cff2db9a218bef8bc604f&lang=en&cache-only=0",
+            "defineEn": "an editor responsible for acquiring and developing content, including books, articles, and other media, for a publishing company or other organization",
+            "defineVi": "một biên tập viên chịu trách nhiệm thu thập và phát triển nội dung, bao gồm sách, bài báo và các phương tiện truyền thông khác, cho một công ty xuất bản hoặc tổ chức khác"
+        },
+        {
+            "id": "af3f7dcb-e127-4369-9843-2ecef88b122f",
+            "word": "permissions editor",
+            "phonetic": "pɚmɪʃənz ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVybWlzc2lvbnMgZWRpdG9y&hash=fea99e6ec909228834bef624ef71792212fe03e8&lang=en&cache-only=0",
+            "defineEn": "a person responsible for obtaining permission to use copyrighted material in a book, such as images or excerpts from other publications",
+            "defineVi": "một người chịu trách nhiệm xin phép sử dụng tài liệu có bản quyền trong một cuốn sách, chẳng hạn như hình ảnh hoặc đoạn trích từ các ấn phẩm khác"
+        },
+        {
+            "id": "83c44913-3121-49b3-ae3f-aa86aa22b6cd",
+            "word": "content editor",
+            "phonetic": "kɑːntɛnt ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29udGVudCBlZGl0b3I&hash=f7b71e023336099b95cfe828358fb6cfd895dbc5&lang=en&cache-only=0",
+            "defineEn": "a professional who reviews and edits the content of a manuscript or document for style, tone, consistency, accuracy, and overall effectiveness",
+            "defineVi": "một chuyên gia xem xét và chỉnh sửa nội dung của bản thảo hoặc tài liệu về phong cách, giọng điệu, tính nhất quán, độ chính xác và hiệu quả tổng thể"
+        },
+        {
+            "id": "33a08bce-4502-42fb-a07b-af03f4524ca1",
+            "word": "sensitivity editor",
+            "phonetic": "sɛnsɪtɪvᵻɾi ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2Vuc2l0aXZpdHkgZWRpdG9y&hash=cac00b5be02c57d3e382a73233a35c59edae4827&lang=en&cache-only=0",
+            "defineEn": "a person who reads through a written work to identify and eliminate any potential biases, stereotypes, or insensitive language",
+            "defineVi": "một người đọc qua một tác phẩm viết để xác định và loại bỏ bất kỳ thành kiến, khuôn mẫu hoặc ngôn ngữ thiếu tế nhị tiềm ẩn nào"
+        },
+        {
+            "id": "1034461f-78f6-40a1-923a-03c528a20702",
+            "word": "line editor",
+            "phonetic": "laɪn ɛdɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGluZSBlZGl0b3I&hash=7b893979f95b38692abaa468431d533c6e71ce3a&lang=en&cache-only=0",
+            "defineEn": "a type of editor who focuses on improving the writing style and clarity of individual sentences and paragraphs in a manuscript",
+            "defineVi": "một loại biên tập viên tập trung vào việc cải thiện phong cách viết và sự rõ ràng của từng câu và đoạn văn trong bản thảo"
+        },
+        {
+            "id": "3d0dff96-fbc7-4b45-bc00-402af9a502c0",
+            "word": "bookseller",
+            "phonetic": "bʊksɛlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Booksellers should easily be able to move this biography of Lincoln.",
+                "I know my booksellers, and they know me! ",
+                "The name comes from Wilfrid Voynich, a Polish bookseller who came across the document at a Jesuit college in Italy in 1912.",
+                "The company acquired two online booksellers in Europe, and so we started expanding internationally. ",
+                "Sotheby's was founded in London in 1744 as a bookseller in 1955."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9va3NlbGxlcg&hash=bee0fb4e33eaf489e98105321df9e75a160d3fb3&lang=en&cache-only=0",
+            "defineEn": "a person or business that sells books to customers",
+            "defineVi": "một người hoặc doanh nghiệp bán sách cho khách hàng"
+        },
+        {
+            "id": "f757b946-34cc-42b4-98ed-09ecf1bf9df8",
+            "word": "copywriter",
+            "phonetic": "kɑːpɪɹaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Copywriters have been seen as just a cog in the big advertising machine.",
+                "In 1953, former copywriter Hugh Hefner saw a demand for a gentleman's magazine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29weXdyaXRlcg&hash=4d97cadbe25a0e8cfc515c6263f93e623fb92ed1&lang=en&cache-only=0",
+            "defineEn": "a professional writer who creates advertising and promotional materials, typically for businesses and organizations",
+            "defineVi": "một nhà văn chuyên nghiệp, người tạo ra các tài liệu quảng cáo và khuyến mại, điển hình cho các doanh nghiệp và tổ chức"
+        },
+        {
+            "id": "1a092502-adcc-4c17-b6f1-0a9751781f9c",
+            "word": "cover artist",
+            "phonetic": "kʌvɚɹ ɑːɹɾɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y292ZXIgYXJ0aXN0&hash=88b655bb1db94dc3c614b22f73449ddc2260a68a&lang=en&cache-only=0",
+            "defineEn": "the person responsible for creating the visual design and artwork for the front cover of a book",
+            "defineVi": "người chịu trách nhiệm tạo thiết kế hình ảnh và tác phẩm nghệ thuật cho bìa trước của một cuốn sách"
+        },
+        {
+            "id": "a2a8afcf-1e65-43f4-bc1b-f8ed4f40b1b5",
+            "word": "cover blurber",
+            "phonetic": "kʌvɚ blɜːbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y292ZXIgYmx1cmJlcg&hash=3d978b1734fcb33212f9e6f657b0743e7700be2f&lang=en&cache-only=0",
+            "defineEn": "someone who writes a brief endorsement or review of a book that appears on the book's cover or promotional materials",
+            "defineVi": "ai đó viết một lời chứng thực hoặc đánh giá ngắn gọn về một cuốn sách xuất hiện trên bìa sách hoặc tài liệu quảng cáo"
+        },
+        {
+            "id": "a512e8e4-7792-441c-a735-2d2c4914fd15",
+            "word": "fact-checker",
+            "phonetic": "fækttʃɛkɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fact-checkers are usually young, relatively inexperienced members of the editorial staff.",
+                "Daily newspapers do not generally employ separate fact-checkers.",
+                "And we are going to learn those skills together from the fact-checkers in the next episode.",
+                "It's a collab of fact-checkers around the world to bust some COVID-19 myths.",
+                "They've got a team of fact-checkers and journalists that investigate rumors circulating around the interwebs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFjdC1jaGVja2Vy&hash=5706375fe73be802a1913a47dda3c553e56be69d&lang=en&cache-only=0",
+            "defineEn": "a person who verifies the factual accuracy of information presented in a publication or other form of media",
+            "defineVi": "một người xác minh tính chính xác thực tế của thông tin được trình bày trong một ấn phẩm hoặc hình thức truyền thông khác"
+        },
+        {
+            "id": "c8a385fc-c8ac-4426-98ac-e20589d13d2f",
+            "word": "ghostwriter",
+            "phonetic": "ɡoʊstɹaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Using a ghostwriter?",
+                "The guy who’s the managing editor for me, Wynton Hall, is one of the great ghostwriters out there. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2hvc3R3cml0ZXI&hash=b813ee4602c16b858b24a3a17c990efa1a3a0ec0&lang=en&cache-only=0",
+            "defineEn": "an author whose work is published under someone else's name",
+            "defineVi": "một tác giả có tác phẩm được xuất bản dưới tên của người khác"
+        },
+        {
+            "id": "c3ab16e8-ede0-4052-8494-a879908bdeed",
+            "word": "indexer",
+            "phonetic": "ɪndɛksɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5kZXhlcg&hash=0646dc724c1cbf3fa1a7e41200945d9e5f6a1efe&lang=en&cache-only=0",
+            "defineEn": "a professional who creates an index for a book or other document, organizing its contents alphabetically or thematically for easy reference",
+            "defineVi": "một chuyên gia tạo mục lục cho một cuốn sách hoặc tài liệu khác, sắp xếp nội dung của nó theo thứ tự bảng chữ cái hoặc theo chủ đề để dễ dàng tham khảo"
+        },
+        {
+            "id": "7a77298a-c0e9-4d38-8bcc-e48f68c623a1",
+            "word": "literary agent",
+            "phonetic": "lɪɾɚɹɛɹi eɪdʒənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGl0ZXJhcnkgYWdlbnQ&hash=a7101873e48c6bfdea54948c900064b40719e7cd&lang=en&cache-only=0",
+            "defineEn": "a professional who represents writers and their written works to publishers, film producers, and other potential buyers",
+            "defineVi": "một chuyên gia đại diện cho các nhà văn và các tác phẩm viết của họ cho các nhà xuất bản, nhà sản xuất phim và những người mua tiềm năng khác"
+        },
+        {
+            "id": "845431db-43d3-4177-b4a1-dfc9900a0961",
+            "word": "audio engineer",
+            "phonetic": "ɔːdɪoʊ ɛndʒɪnɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YXVkaW8gZW5naW5lZXI&hash=a022d0b3990ed8f777bf845b38b82e2178876c69&lang=en&cache-only=0",
+            "defineEn": "sound professional responsible for recording, mixing, and editing audio to achieve desired results",
+            "defineVi": "chuyên gia âm thanh chịu trách nhiệm ghi, trộn và chỉnh sửa âm thanh để đạt được kết quả mong muốn"
+        },
+        {
+            "id": "bb9397b2-ccf2-44a0-bcfe-a422c1496f29",
+            "word": "poet",
+            "phonetic": "poʊɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This group of artists and poets is sometimes called the New York School.",
+                "The poet wrote, knowing that art is long and life is short, and hoping his verses would help him leave some small mark on the world beyond the span of his own life.",
+                "He's a poet, just like Jim Morrison! -",
+                "On the opposite side of this is poet and writer Sapphire, author of Push.",
+                "And poets and emo rockers love them for it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9ldA&hash=1317278901ec231da25d57fb20b7f0af943f73b1&lang=en&cache-only=0",
+            "defineEn": "a person who writes pieces of poetry",
+            "defineVi": "một người viết những mẩu thơ",
+            "hasImg": true
+        },
+        {
+            "id": "285e022f-944a-46dc-a471-75ce8849e749",
+            "word": "printer",
+            "phonetic": "pɹɪntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The printer isn't working.",
+                "The printer is in full working order and is printing documents with high quality.",
+                "The interface can be used to drive a printer.",
+                "Can you stop the printer once it’s started?",
+                "The mailing was at a standstill until Joe from IT rode in on a white horse and unjammed our printer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpbnRlcg&hash=98df52539da9060c62ce7d9660403b710f9cd354&lang=en&cache-only=0",
+            "defineEn": "a company or individual that produces books, magazines, newspapers, or other printed materials by applying ink to paper or other materials",
+            "defineVi": "một công ty hoặc cá nhân sản xuất sách, tạp chí, báo hoặc các tài liệu in khác bằng cách bôi mực lên giấy hoặc các tài liệu khác",
+            "hasImg": true
+        },
+        {
+            "id": "ef7690fc-daed-4c84-a446-2c8862b48fb2",
+            "word": "production manager",
+            "phonetic": "pɹədʌkʃən mænɪdʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Chris Loggins is Supervising producer for Daniel Tiger's Neighborhood, a Production Manager for a Peg Plus Cat and Odd Squad, and in addition to these roles, we are all parents too so we're speaking to you from the trenches ourselves."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvZHVjdGlvbiBtYW5hZ2Vy&hash=9b1de9e49ae1a4e5ab83460d7467ef8e6b23151a&lang=en&cache-only=0",
+            "defineEn": "a person responsible for overseeing the production process of a book, including printing, binding, and distribution",
+            "defineVi": "một người chịu trách nhiệm giám sát quá trình sản xuất sách, bao gồm in ấn, đóng sách và phân phối"
+        },
+        {
+            "id": "9c2f3edb-7598-4e59-b062-0996ea811b22",
+            "word": "proofreader",
+            "phonetic": "pɹuːfɹiːdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvb2ZyZWFkZXI&hash=48d38d08e13ed45430a91b596de3f2e5aa3e1bb2&lang=en&cache-only=0",
+            "defineEn": "someone whose job involves reading and marking the errors of a written or printed piece",
+            "defineVi": "ai đó có công việc liên quan đến việc đọc và đánh dấu các lỗi của một phần viết hoặc in"
+        },
+        {
+            "id": "2b067e36-c96a-4931-af6f-0840b6a48110",
+            "word": "publicist",
+            "phonetic": "pʌblɪsɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Listen I'm working on my publicist on a new date of birth.",
+                "Rabbi, listen, if you had a publicist here, they'd be pulling you out of this thing right now.",
+                "I am shocked that you had our talent booker reach out to his publicist, you have the connections.",
+                "He kind of allied himself with lawyers and publicists in order to create a public relations campaign to convince people that tear gas was the thing that law enforcement and security officials needed.",
+                "Like I'm so nervous he's going to get a publicist and really just go rogue with this."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVibGljaXN0&hash=50afb488771f8f2ad146b50f5e07f02851bf9c9a&lang=en&cache-only=0",
+            "defineEn": "a person whose job is to make a new actor, product, etc. known to the public",
+            "defineVi": "một người có nhiệm vụ làm cho một diễn viên, sản phẩm mới, v.v. được công chúng biết đến"
+        },
+        {
+            "id": "8b831e43-db45-4056-91f9-b7ba7edb9abf",
+            "word": "publisher",
+            "phonetic": "pʌblɪʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The literary festival attracts renowned authors, publishers, and literary agents.",
+                "We interviewed two successful publishers on how they're weathering the storm that's been a result of the Coronavirus.",
+                "Mark wasn't happy with his first draft of the book, but he's grateful for the chance to take a second bite at the cherry and revise it before submitting it to publishers.",
+                "He remained optimistic and confident despite facing multiple rejections from publishers, trusting that good things come to those who wait.",
+                "It connects its 160 7000 publisher."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHVibGlzaGVy&hash=fd0ca65fa41b1412c38eab053842933d0e9098e4&lang=en&cache-only=0",
+            "defineEn": "a person or firm that manages the preparation and public distribution of printed material such as books, newspapers, etc.",
+            "defineVi": "một người hoặc công ty quản lý việc chuẩn bị và phân phối công khai các tài liệu in như sách, báo, v.v."
+        },
+        {
+            "id": "a5534daa-eee5-4230-ac60-64fa4781e9ea",
+            "word": "rights manager",
+            "phonetic": "ɹaɪts mænɪdʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmlnaHRzIG1hbmFnZXI&hash=a0f587596a7b2f041ed701b01f492b53d44d8ace&lang=en&cache-only=0",
+            "defineEn": "a professional responsible for managing the intellectual property rights of an organization or individual",
+            "defineVi": "một chuyên gia chịu trách nhiệm quản lý quyền sở hữu trí tuệ của một tổ chức hoặc cá nhân"
+        },
+        {
+            "id": "b0685b0c-41b4-4369-81e9-30ec4b2acb8d",
+            "word": "transcriptionist",
+            "phonetic": "tɹænskɹɪpʃənɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNjcmlwdGlvbmlzdA&hash=7988b3b5211833e38165328ef3eb2cdedfab0f1b&lang=en&cache-only=0",
+            "defineEn": "a person who converts audio or video recordings into written or electronic text documents",
+            "defineVi": "một người chuyển đổi bản ghi âm thanh hoặc video thành tài liệu văn bản hoặc văn bản điện tử"
+        },
+        {
+            "id": "73b3a2b0-e4bb-4aec-8f6a-4786d44a455b",
+            "word": "translator",
+            "phonetic": "tɹænsleɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The translator went viral.",
+                "And they had a translator there.",
+                "The translator visas are officially called Special Immigration Visas, or SIVs.",
+                "The translator visas are officially called Special Immigration Visas, or SIVs.",
+                "Andy, you are my Chinese translator."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNsYXRvcg&hash=9ebb14c1081c5da187f99e2ce232a2708ad7b844&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to change written or spoken words from one language to another",
+            "defineVi": "một người có công việc là thay đổi các từ viết hoặc nói từ ngôn ngữ này sang ngôn ngữ khác",
+            "hasImg": true
+        },
+        {
+            "id": "e92ef50f-72cb-4324-b0a5-e03da36b2bc6",
+            "word": "typesetter",
+            "phonetic": "taɪpsɛɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHlwZXNldHRlcg&hash=28ed902b5bc68c306b519fc71aeca8391fbe43fe&lang=en&cache-only=0",
+            "defineEn": "a person or software program that arranges and sets the text, images, and other elements of a book or other printed material into a format ready for printing",
+            "defineVi": "một người hoặc chương trình phần mềm sắp xếp và đặt văn bản, hình ảnh và các thành phần khác của sách hoặc tài liệu in khác thành định dạng sẵn sàng để in"
+        },
+        {
+            "id": "efb58320-cc87-457c-bf39-7ff1ec1dc330",
+            "word": "typist",
+            "phonetic": "taɪpɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I had a typist in the other room.",
+                "Just like our new keyboard shirts won't make you a better typist.",
+                "They asked skilled typists, ones who had some formal training and lots of experience, to recall the locations of certain keys on the QWERTY keyboard.",
+                "What the researchers found was that skilled typists didn’t have a lot of familiarity with where the keys were, and couldn’t even fill in all of the keys that were supposed to be there.",
+                "In a series of experiments published in 2014, researchers based in Tennessee tested typists’ knowledge of where certain keys are on the keyboard."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHlwaXN0&hash=f0be8ca055acbf466e5d47f7b869d5f864d6b070&lang=en&cache-only=0",
+            "defineEn": "a person who types written or dictated material, often using a typewriter or computer keyboard",
+            "defineVi": "một người gõ tài liệu viết hoặc đọc chính tả, thường sử dụng máy đánh chữ hoặc bàn phím máy tính"
+        },
+        {
+            "id": "ba9b9506-d534-4738-a1a8-5d649df68187",
+            "word": "writer",
+            "phonetic": "ɹaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The writer drew inspiration from her life experiences, using them as grist for the mill of her creative process.",
+                "The writer's poetry is known for its abstract language and thought-provoking imagery.",
+                "On the whole, Soviet writers knew when they were putting their heads on the block.",
+                "I wear a lot of different hats - from writer to producer and artist.",
+                "We asked five successful writers to reveal some of the tricks of the trade."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d3JpdGVy&hash=6482a2bfbd4cbd6b1327c6e7779f824265ff7acc&lang=en&cache-only=0",
+            "defineEn": "someone whose job involves writing articles, books, stories, etc.",
+            "defineVi": "một người có công việc liên quan đến viết bài, sách, truyện, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c4121777-7899-4447-b54b-ea4b81efbc79",
+            "word": "distributor",
+            "phonetic": "dɪstɹɪbjuːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bulk of that ticket price goes back to the distributor.",
+                "Our distributor called us up to talk about our Amazon contract.",
+                "When a new group of painkillers emerged in the mid-90s, pharmaceutical companies and distributors saw a ripe market.",
+                "So hopefully, it'll get a distributor and be out later this year.",
+                "Well, it's being sold to Chinese distributors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzdHJpYnV0b3I&hash=bdcfa92f572b365ad1f0194f6d0833289be7ff6c&lang=en&cache-only=0",
+            "defineEn": "a company or organization that supplies and delivers products or materials from a manufacturer, supplier, or publisher to businesses, retailers, or end-users",
+            "defineVi": "một công ty hoặc tổ chức cung cấp và phân phối các sản phẩm hoặc vật liệu từ nhà sản xuất, nhà cung cấp hoặc nhà xuất bản cho các doanh nghiệp, nhà bán lẻ hoặc người dùng cuối"
+        },
+        {
+            "id": "dac70a23-9fde-4f52-8b3e-adff7f4de9f8",
+            "word": "poet",
+            "phonetic": "bɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This group of artists and poets is sometimes called the New York School.",
+                "The poet wrote, knowing that art is long and life is short, and hoping his verses would help him leave some small mark on the world beyond the span of his own life.",
+                "He's a poet, just like Jim Morrison! -",
+                "On the opposite side of this is poet and writer Sapphire, author of Push.",
+                "And poets and emo rockers love them for it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9ldA&hash=1317278901ec231da25d57fb20b7f0af943f73b1&lang=en&cache-only=0",
+            "defineEn": "a person who writes pieces of poetry",
+            "defineVi": "một người viết những mẩu thơ"
+        },
+        {
+            "id": "b6c5f2c4-9783-4df2-b9a2-50adf9273e7f",
+            "word": "biographer",
+            "phonetic": "baɪɑːɡɹəfɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Andrew Morton, a royal biographer, said Prince Harry's fiancee will pick up the baton from Princess Diana because Markle's age of 36 is the same as Princess Diana's when she passed away in 1997.",
+                "According to his biographer, Albert Glinsky, the trip had two purposes.",
+                "So his friend and biographer invented the story to give vaccines a glow-up in the public eye.",
+                "Theremin’s biographer, Glinsky, suggests that Theremin may have fled the US to escape personal debts.",
+                "Rose was the first biographer of Herbert Hoover, became a good friend of his."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlvZ3JhcGhlcg&hash=c0a2fb443149b46032c53be76188d6c022643d1f&lang=en&cache-only=0",
+            "defineEn": "someone who writes the story about the events of someone's life",
+            "defineVi": "một người viết câu chuyện về các sự kiện của cuộc sống của một ai đó"
+        },
+        {
+            "id": "efd90e19-1df5-408f-b6da-28084f121f92",
+            "word": "co-author",
+            "phonetic": "koʊɔːθɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fisseha Tekle was Amnesty report's co-author.",
+                "Jean-Baptiste Gallopin is a co-author of an Amnesty International investigation that verified social media videos, scanned satellite images, and interviewed survivors.",
+                "One of the co-authors of the study, Alixandra Barasch, suggests you might take pictures, but wait until after the experience to share them.",
+                "Benjamin Littenberg, one of the co-authors of the 2017 study, told the New York Times that the evidence wasn’t strong enough to make him change his diet.",
+                "I am a co-author of a report put out by Third Way, the NGO, essentially outlining what we think the U.S. government response should be specifically to the information operation against our elections."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y28tYXV0aG9y&hash=4403f98a1f6dd7142d1abce848c3cc050ddcd0ef&lang=en&cache-only=0",
+            "defineEn": "someone who writes a book, article, etc. with another author",
+            "defineVi": "một người viết một cuốn sách, bài viết, vv với một tác giả khác"
+        },
+        {
+            "id": "fee289a5-1b35-4992-ba62-3a386a8685b8",
+            "word": "collaborator",
+            "phonetic": "kəlæboːɹeɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And once the Europeans left, those local rulers, the upper classes, were seen as illegitimate collaborators.",
+                "In most cases, Europeans ruled their colonies with the help of, and sometimes completely through, intermediaries and collaborators.",
+                "And I love that for Christo and his collaborator Jeanne Claude, that was expressed not through a literal scream or hectic jabs of paint, but through such breathtaking installations as this monumental valley curtain from 1972.",
+                "For example, in one study, Tononi and his collaborators rounded up 11 volunteers and used a magnetic pulse to deliver a burst of stimulation to neurons in their brains.",
+                "I was actually snowboarding with my family and my collaborator, Barney Graham at the vaccine research center at the NIH called."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sbGFib3JhdG9y&hash=ff5f6e0a33e67c9d85c35bdfcb0f89a30627c5a6&lang=en&cache-only=0",
+            "defineEn": "someone who works with another person in order to create or produce something such as a book",
+            "defineVi": "một người làm việc với người khác để tạo ra hoặc sản xuất một cái gì đó chẳng hạn như một cuốn sách"
+        },
+        {
+            "id": "9572aa05-6a2b-4be3-aa97-842bde255fdf",
+            "word": "diarist",
+            "phonetic": "daɪɚɹɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A few days after Stanton died, George Templeton Strong, the famous New York diarist wrote good and evil were strangely blended in the character of this great war minister."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhcmlzdA&hash=74eb2b8d24f957361e67796e36543a416c6730d5&lang=en&cache-only=0",
+            "defineEn": "someone who keeps a diary, especially for the purpose of publication",
+            "defineVi": "một người giữ một cuốn nhật ký, đặc biệt là cho mục đích xuất bản"
+        },
+        {
+            "id": "131ece5f-122e-4b78-b015-ceb14551b5c5",
+            "word": "essayist",
+            "phonetic": "ɛseɪɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Moore was an illustrator and designer, and Cahun a poet, essayist, and photographer.",
+                "Today I want to talk about Gilman who was a feminist, humanist, sociologist, novelist, poet, and essayist."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXNzYXlpc3Q&hash=978da095f89b234d82dda5606eb54951194513b3&lang=en&cache-only=0",
+            "defineEn": "someone who writes essays to be published",
+            "defineVi": "một người viết tiểu luận được xuất bản"
+        },
+        {
+            "id": "b8b8857a-379a-4b10-a5bf-c7a4954fdf04",
+            "word": "hack",
+            "phonetic": "hæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We've actually begun employing prominent members of the hacking community to improve our cyber security, setting thieves to catch thieves, as it were.",
+                "The force is hacks.",
+                "Officials discovered the hack in December.",
+                "Got my hacks.",
+                "John Podesta email account was hacked only in March."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFjaw&hash=b1b89bb444f46fb6f9761049875a7a6b59e26eaf&lang=en&cache-only=0",
+            "defineEn": "an author or journalist who produces low-quality and dull work, aiming solely for commercial success",
+            "defineVi": "một tác giả hoặc nhà báo tạo ra tác phẩm chất lượng thấp và buồn tẻ, chỉ nhằm mục đích thành công về mặt thương mại"
+        },
+        {
+            "id": "030df507-35c4-4506-ab43-21c4e35d3877",
+            "word": "hagiographer",
+            "phonetic": "hædʒɪɑːɡɹəfɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFnaW9ncmFwaGVy&hash=c831582591c3d06ac4d33ade2c05ce3ba0b9ba75&lang=en&cache-only=0",
+            "defineEn": "a biographer who gives an idealized account of someone's life",
+            "defineVi": "một người viết tiểu sử đưa ra một tài khoản lý tưởng về cuộc sống của ai đó"
+        },
+        {
+            "id": "bc164d33-ae98-479f-a910-f2cd8a5f4e57",
+            "word": "historian",
+            "phonetic": "hɪstoːɹiən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The historian provided the right historical context for the event.",
+                "Ancient historians wrote of a lost continent beneath the ocean.",
+                "I would appreciate your help in putting me in touch with historians at the university.",
+                "She wants to pursue a degree in history and become a historian.",
+                "Historians have three theories."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlzdG9yaWFu&hash=f1c70c1ae98bf3cad62cc683da313a83f5437afb&lang=en&cache-only=0",
+            "defineEn": "someone who studies or records historical events",
+            "defineVi": "một người nghiên cứu hoặc ghi lại các sự kiện lịch sử"
+        },
+        {
+            "id": "baf787fc-ae9a-4e7a-bb30-84af43280ca7",
+            "word": "lexicographer",
+            "phonetic": "lɛksɪkɑːɡɹəfɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "All right, I’m gonna guess that it is noted lexicographer, Noah Webster.",
+                "Today, lexicographers have expanded word sourcing to include the dictionary’s users: tracking which words are most searched, and adding them to the dictionary.",
+                "It takes, at minimum, several trained linguists or lexicographers years of full-time work to create one.",
+                "And the people who write dictionaries, called lexicographers, still need some other way of figuring out what words mean."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNvZ3JhcGhlcg&hash=f52eac97dcafc94822111677eb163abbb273f361&lang=en&cache-only=0",
+            "defineEn": "a person whose job is to write and edit a dictionary",
+            "defineVi": "một người có công việc là viết và chỉnh sửa từ điển"
+        },
+        {
+            "id": "b48ac1be-9cdc-497b-aad0-755ff85b16b1",
+            "word": "literati",
+            "phonetic": "lɪɾɚɹɑːɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGl0ZXJhdGk&hash=80580613b0aa3c61c502acc470ebe192d2450531&lang=en&cache-only=0",
+            "defineEn": "well-educated and intelligent people who deal with literature or publishing",
+            "defineVi": "những người có học thức và thông minh làm việc với văn học hoặc xuất bản"
+        },
+        {
+            "id": "a2150bb9-9285-4632-b8e7-8ca9345d8870",
+            "word": "man of letters",
+            "phonetic": "mæn ʌv lɛɾɚz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFuIG9mIGxldHRlcnM&hash=e91110a2cb8a45805499a8161345d589f3cece30&lang=en&cache-only=0",
+            "defineEn": "a male literary author or scholar",
+            "defineVi": "một tác giả văn học nam hoặc học giả",
+            "hasImg": true
+        },
+        {
+            "id": "04bccc3f-6118-48cb-b2f0-51482d5b0961",
+            "word": "pamphleteer",
+            "phonetic": "pæmflɪtɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And that's especially true if you focus on the idea of liberty, as many of the pamphleteers did."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFtcGhsZXRlZXI&hash=4e86d89521cf41f33d49beb7cc2bc1309c56c5f5&lang=en&cache-only=0",
+            "defineEn": "someone who writes pamphlets, especially one who promotes partisan views on political issues",
+            "defineVi": "một người viết sách nhỏ, đặc biệt là một người thúc đẩy quan điểm đảng phái về các vấn đề chính trị"
+        },
+        {
+            "id": "ab400231-a387-4d98-8008-2e9fc2fbe736",
+            "word": "pen name",
+            "phonetic": "pɛn neɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Oxfordians say that Edward de Vere, the 17th Earl of Oxford, wrote the plays under the pen names William Shakespeare.",
+                "The term was named after British author Eric Blair known by his pen name George Orwell.",
+                "Then there are authors who take pen names to try and reconcile with their own identities from birth.",
+                "There are authors for whom a pen name felt necessary and then went onto regret them, like Toni Morrison, born Chloe Wofford.",
+                "Written and published in 1847 under the pen name Currer Bell, Jane Eyre concerns the life story of it’s titular heroine, from childhood up to her mid-20s."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVuIG5hbWU&hash=ca56b095975a510b50ef4bc9d63ef1511c5d2281&lang=en&cache-only=0",
+            "defineEn": "a name used by an author instead of their real name when writing or publishing their works",
+            "defineVi": "một tên được sử dụng bởi một tác giả thay vì tên thật của họ khi viết hoặc xuất bản tác phẩm của họ"
+        },
+        {
+            "id": "1dbce710-5242-44f7-8368-bbe4f64010ad",
+            "word": "satirist",
+            "phonetic": "sæɾɪɹɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Political satirist Andy Borowitz heads to San Francisco to preach to the choir."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F0aXJpc3Q&hash=854c0579acb72ad03b54737dee19ef15c3303f15&lang=en&cache-only=0",
+            "defineEn": "a person who writes or uses satires in order to criticize or humor someone or something",
+            "defineVi": "một người viết hoặc sử dụng châm biếm để chỉ trích hoặc hài hước ai đó hoặc một cái gì đó"
+        },
+        {
+            "id": "3db10942-d685-4743-a84d-fc2fe308591b",
+            "word": "storyteller",
+            "phonetic": "stoːɹitɛlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His new book shows him to be a first-rate storyteller.",
+                "Atwood is a master storyteller.",
+                "She was a great storyteller.",
+                "Well, David’s a storyteller.",
+                "Afrofuturist storytellers take advantage of the speculative nature of the genre by simultaneously creating new worlds and deconstructing the racial politics of this one."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rvcnl0ZWxsZXI&hash=97e4392aff3e169e6035f995a09a6b66acae1bd1&lang=en&cache-only=0",
+            "defineEn": "someone who is telling a story",
+            "defineVi": "ai đó đang kể một câu chuyện"
+        },
+        {
+            "id": "3e5dc2c8-f7ab-4dfa-8fc2-6b4db9c295b9",
+            "word": "wordsmith",
+            "phonetic": "wɜːdsmɪθ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yZHNtaXRo&hash=780f01a4ddab331c01f78ac9978466155842507d&lang=en&cache-only=0",
+            "defineEn": "someone who uses words skillfully, especially a gifted author",
+            "defineVi": "một người sử dụng từ khéo léo, đặc biệt là một tác giả tài năng"
+        },
+        {
+            "id": "1391786c-89d0-4c18-a6d4-f7a3ab7acadb",
+            "word": "book design",
+            "phonetic": "bʊk dɪzaɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym9vayBkZXNpZ24&hash=0b366f24b0833295ef7aef9064ac15225d35a1dd&lang=en&cache-only=0",
+            "defineEn": "the process of creating a visually appealing layout and structure for a book, including elements such as typography, page layout, images, and cover design",
+            "defineVi": "quá trình tạo bố cục và cấu trúc hấp dẫn trực quan cho một cuốn sách, bao gồm các yếu tố như kiểu chữ, bố cục trang, hình ảnh và thiết kế bìa"
+        }
+    ]
+}

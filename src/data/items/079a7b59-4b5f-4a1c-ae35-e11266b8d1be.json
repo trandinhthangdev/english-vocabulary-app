@@ -1,0 +1,635 @@
+{
+    "id": "079a7b59-4b5f-4a1c-ae35-e11266b8d1be",
+    "title": "Cat Breeds",
+    "originalTitle": "Cat Breeds",
+    "words": [
+        {
+            "id": "2090a837-f2f1-438d-9ef4-65ae3ff5bcfe",
+            "word": "Abyssinian",
+            "phonetic": "ɐbɪsɪniən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QWJ5c3Npbmlhbg&hash=077581e4e53dddf405ac54c0aa83210ef74f0350&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is short-haired and has a slender build",
+            "defineVi": "một giống mèo nhà có lông ngắn và thân hình mảnh khảnh",
+            "hasImg": true
+        },
+        {
+            "id": "d81df31b-e5af-4e59-9862-352adb6c8a10",
+            "word": "American Bobtail",
+            "phonetic": "ɐmɛɹɪkən bɑːbteɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QW1lcmljYW4gQm9idGFpbA&hash=ec415f0fa214fcdb45b626539af71f0c77e866bf&lang=en&cache-only=0",
+            "defineEn": "a rare breed of domestic cat with a short tail that was developed in the US",
+            "defineVi": "một giống mèo nhà quý hiếm có đuôi ngắn được phát triển ở Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "d5324c9b-4239-48d5-97e2-2429e00e6efe",
+            "word": "American Curl",
+            "phonetic": "ɐmɛɹɪkən kɜːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QW1lcmljYW4gQ3VybA&hash=e34c9c5056d8cf69f3e6750cfde76f82487731da&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat characterized by its folded ears, originally from the US",
+            "defineVi": "một giống mèo nhà có đặc điểm là đôi tai gập lại, có nguồn gốc từ Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "a0d50470-6cdd-4303-a6ba-9dff56904680",
+            "word": "American Shorthair",
+            "phonetic": "ɐmɛɹɪkən ʃɔːɹɾaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QW1lcmljYW4gU2hvcnRoYWly&hash=8ea394018ec92084a058054861f7ead90e3a449e&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat with a short coat that was brought to the US by European settlers",
+            "defineVi": "một giống mèo nhà có bộ lông ngắn được những người định cư châu Âu mang đến Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "2aa8ee12-3a60-4095-a97c-8738488cf6cc",
+            "word": "American Wirehair",
+            "phonetic": "ɐmɛɹɪkən waɪɚhɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QW1lcmljYW4gV2lyZWhhaXI&hash=1370ec85ec8f5a643a124504fb0628fb1f566cc0&lang=en&cache-only=0",
+            "defineEn": "a rare breed of domestic cat with rounded ears originated in upstate New York",
+            "defineVi": "một giống mèo nhà quý hiếm với đôi tai tròn có nguồn gốc ở ngoại ô New York",
+            "hasImg": true
+        },
+        {
+            "id": "a4a7beaf-67c0-432d-8cdc-d9653e5c8322",
+            "word": "Angora",
+            "phonetic": "æŋɡoːɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is an angora goat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QW5nb3Jh&hash=653d51c29e4207962a0d99fb20beaa736337b0fd&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is long-haired, naturally found in central Turkey",
+            "defineVi": "một giống mèo nhà lông dài, được tìm thấy tự nhiên ở miền trung Thổ Nhĩ Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "247982bb-e9ac-4e99-a0e1-010c67c5a1b8",
+            "word": "Bengal cat",
+            "phonetic": "bɛŋɡɔːl kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QmVuZ2FsIGNhdA&hash=4ee4acb723e2ac8d91c7418145900283688337c8&lang=en&cache-only=0",
+            "defineEn": "a cat breed with a spotted coat, developed from hybrids of domestic cats",
+            "defineVi": "một giống mèo có bộ lông đốm, được phát triển từ con lai của mèo nhà",
+            "hasImg": true
+        },
+        {
+            "id": "ec0aa5c7-d4cd-4aba-a275-5b7871b994f9",
+            "word": "Birman",
+            "phonetic": "bɜːmən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QmlybWFu&hash=3a62257105c06031f52e3bd51de0090f69d52e85&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed, also known as the sacred cat of Burma, which is long-haired and blue-eyed, with a colored face",
+            "defineVi": "một giống mèo nhà hay còn gọi là mèo thiêng của Miến Điện, có lông dài mắt xanh, mặt màu",
+            "hasImg": true
+        },
+        {
+            "id": "e6de286a-003d-4dd3-9da6-bbb4e8b1850d",
+            "word": "Bombay",
+            "phonetic": "bɑːmbeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'm from Bombay in India.",
+                "They came from Los Angeles and San Fransisco, or about the distance from Moscow to Bombay.",
+                "Raised in a close-knit Muslim community in Bombay, now Mumbai, India, prayer brought Zulfi enormous comfort."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Qm9tYmF5&hash=3566ec2df10455d1b324aedd1efad24010aa6c2e&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat with a short black coat that looks like a black panther",
+            "defineVi": "một giống mèo nhà có bộ lông ngắn màu đen trông giống như một con báo đen",
+            "hasImg": true
+        },
+        {
+            "id": "b8c3a73e-4beb-44c4-9000-6987f5f89ead",
+            "word": "British Shorthair",
+            "phonetic": "bɹɪɾɪʃ ʃɔːɹɾaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QnJpdGlzaCBTaG9ydGhhaXI&hash=299dd0342d40d6185c29fde92b4706a067193d50&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that has a dense short coat and a broad face, originated in Britain",
+            "defineVi": "một giống mèo nhà có bộ lông ngắn rậm rạp và khuôn mặt rộng, có nguồn gốc từ Anh",
+            "hasImg": true
+        },
+        {
+            "id": "e63b3f44-98c3-494b-9f68-a76b4229eac5",
+            "word": "Burmese cat",
+            "phonetic": "bɜːmiːz kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QnVybWVzZSBjYXQ&hash=83726f3d151b874ffc792acf8dfc218545009224&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed, originated in Burma and bred with the American Siamese",
+            "defineVi": "một giống mèo nhà, có nguồn gốc từ Miến Điện và được lai tạo với mèo Xiêm Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "0858e9f1-5441-4007-b472-69506fba6a60",
+            "word": "Burmilla",
+            "phonetic": "bɜːmɪlə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QnVybWlsbGE&hash=319f583d5f6448ed8bac353f4395c04f78bc2a9b&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originated in the UK that is a cross between a Burmese cat and a Persian Chinchilla",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Vương quốc Anh, là con lai giữa mèo Miến Điện và Chinchilla Ba Tư",
+            "hasImg": true
+        },
+        {
+            "id": "20b1c770-bc23-47f6-bce5-e7ea15df3746",
+            "word": "Chartreux",
+            "phonetic": "ʃɑːɹtɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2hhcnRyZXV4&hash=810468d9e9f01ebe0846195c269a4c4f851ed805&lang=en&cache-only=0",
+            "defineEn": "a rare breed of cat that is shorthaired and muscular, which is originally from France",
+            "defineVi": "một giống mèo quý hiếm có lông ngắn và cơ bắp, có nguồn gốc từ Pháp",
+            "hasImg": true
+        },
+        {
+            "id": "303958fc-ae4a-4ce3-a990-1ec026ee3479",
+            "word": "Chausie",
+            "phonetic": "tʃɔːsi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2hhdXNpZQ&hash=dfd072906470d822081bcb7073a4951b844ae531&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is large and looks exotic and is a hybrid of domestic and non-domestic cats",
+            "defineVi": "một giống mèo nhà lớn và trông kỳ lạ và là con lai giữa mèo nhà và mèo nhà",
+            "hasImg": true
+        },
+        {
+            "id": "6e81ef7d-16c2-47f6-b40d-da3c242890c2",
+            "word": "Cornish Rex",
+            "phonetic": "kɔːɹnɪʃ ɹɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q29ybmlzaCBSZXg&hash=2c8318993b4d0a197ae9eed7d52cb747a4f52afd&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat with no hair except an undercoat that is extremely soft to the touch",
+            "defineVi": "một giống mèo nhà không có lông ngoại trừ lớp lông tơ cực kỳ mềm khi chạm vào",
+            "hasImg": true
+        },
+        {
+            "id": "a8cd3c37-c32a-48ef-b2eb-41e0fa6be7b0",
+            "word": "Cymric",
+            "phonetic": "sɪmɹɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q3ltcmlj&hash=acdb9865ebc8f89f84b81d713052fbda476bd605&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat originated in Isle of Man that is a semi-long-haired variety of a Manx cat",
+            "defineVi": "một giống mèo nhà có nguồn gốc ở Isle of Man, là một giống mèo Manx lông dài",
+            "hasImg": true
+        },
+        {
+            "id": "0e310305-6306-426c-a092-4252972391b0",
+            "word": "Devon Rex",
+            "phonetic": "dɛvən ɹɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RGV2b24gUmV4&hash=20a2233ca9c61a7d5b255bf82734c8e393a261d6&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat with large ears and slender body that first emerged in England",
+            "defineVi": "một giống mèo nhà có đôi tai to và thân hình mảnh mai lần đầu tiên xuất hiện ở Anh",
+            "hasImg": true
+        },
+        {
+            "id": "7cc3eab6-0243-48b9-b286-240af92d0c3d",
+            "word": "Egyptian Mau",
+            "phonetic": "ɪdʒɪpʃən maʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RWd5cHRpYW4gTWF1&hash=237d79b1c7234cf1195eddcd03c55bec953073a8&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat originally from Egypt that is short-haired and has natural spots",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Ai Cập, lông ngắn và có đốm tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "0ac0242d-e457-4f66-8170-93a7f4f40669",
+            "word": "Exotic Shorthair",
+            "phonetic": "ɛɡzɑːɾɪk ʃɔːɹɾaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RXhvdGljIFNob3J0aGFpcg&hash=b6dfbc81f615290fa8fc6669066a0a1bdff31730&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat originally from the US that is a shorthaired version of the Persian",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Hoa Kỳ, là phiên bản ngắn của mèo Ba Tư",
+            "hasImg": true
+        },
+        {
+            "id": "89482207-c181-4e17-8005-e9f0a7175e54",
+            "word": "Havana Brown",
+            "phonetic": "hɐvænə bɹaʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=SGF2YW5hIEJyb3du&hash=68c99cc85474c2c297f94a0d2f8dabc8f9a9e691&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed rooted in England that is a hybrid of a brown Siamese and a black cat",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Anh, là con lai giữa mèo xiêm nâu và mèo đen",
+            "hasImg": true
+        },
+        {
+            "id": "c616c0e9-fde2-4569-9068-c5f76503197a",
+            "word": "Himalayan",
+            "phonetic": "hɪməleɪən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meanwhile, in the Himalayan mountains, languages follow valleys.",
+                "Himalayan bears have paler, reddish-brown fur, which seems awfully like the hair in the descriptions of the original Tibetan yetis.",
+                "Pink Himalayan salt has gathered a cult following.",
+                "Narrator: This is pink Himalayan salt.",
+                "Caterpillar fungus grows in the remote Tibetan Plateau in the Himalayan mountains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SGltYWxheWFu&hash=d9ce81773c0b93c1fbfd108380a990471dcae00d&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from the US that is a cross between a Persian and a Siamese",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Mỹ, là con lai giữa mèo Ba Tư và mèo Xiêm",
+            "hasImg": true
+        },
+        {
+            "id": "03ecbb74-271a-427e-b047-0c3066aff21c",
+            "word": "Japanese Bobtail",
+            "phonetic": "dʒæpəniːz bɑːbteɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=SmFwYW5lc2UgQm9idGFpbA&hash=204da412795c32a54c3d8af3e5bd5510812dcd0b&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from Japan that has a tail like a rabbit",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Nhật Bản có đuôi giống như một con thỏ",
+            "hasImg": true
+        },
+        {
+            "id": "c568f19c-270f-484d-a167-82b75e6c4956",
+            "word": "Javanese",
+            "phonetic": "dʒɑːvəniːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=SmF2YW5lc2U&hash=526cb04ae30b484e4a23c36f9e9c282f7f71252f&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with pointed ears and short hair that is an oriental type",
+            "defineVi": "một giống mèo nhà có tai nhọn và lông ngắn thuộc loại phương đông",
+            "hasImg": true
+        },
+        {
+            "id": "09e467bc-d210-47aa-b357-cfca790639d8",
+            "word": "Korat",
+            "phonetic": "koːɹæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=S29yYXQ&hash=d66426ff9f6eb372f49ef806588a80f1cb0b1896&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed native to Thailand that is medium-built and bluish gray with an alert face",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Thái Lan, có thân hình trung bình và màu xám xanh với khuôn mặt lanh lợi",
+            "hasImg": true
+        },
+        {
+            "id": "5bd089f9-3314-4439-9cb8-be2792aa3f39",
+            "word": "LaPerm",
+            "phonetic": "læ pɜːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=TGFQZXJt&hash=79ec770c32b42c54c023872e6834cdd09656314f&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with curly fur that is medium in size",
+            "defineVi": "một giống mèo nhà có bộ lông xoăn có kích thước trung bình",
+            "hasImg": true
+        },
+        {
+            "id": "8670afce-7aae-4cb5-b3d6-b9b3542419ac",
+            "word": "Maine Coon",
+            "phonetic": "meɪn kuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ooh, it's a Christmas card with a pug and a Maine Coon cat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWFpbmUgQ29vbg&hash=4bb989a421c54c5db60e7d51ec37733f565a3396&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed naturally found in the US, characterized by its large size and shaggy coat",
+            "defineVi": "một giống mèo nhà được tìm thấy tự nhiên ở Mỹ, đặc trưng bởi kích thước lớn và bộ lông xù xì",
+            "hasImg": true
+        },
+        {
+            "id": "d65cc1a9-292a-4737-a61e-f36b7eb7dfff",
+            "word": "Manx",
+            "phonetic": "mæŋks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They call them Manx comets, like the tailless Manx cat.",
+                "They call them Manx comets, like the tailless Manx cat.",
+                "It has characteristics similar to Welsh and other Celtic languages (such as Irish, Manx, Scottish, and Cornish) Quenya is the language of the Eldar after they return to Middle Earth - so it’s the primary language of high elves like Galadriel and Celeborn, but the elves of Lothlórien still speak Sindarin on the day to day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWFueA&hash=8d8a276e50aebe051b341437a8c502bfdb451986&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from the Isle of Man with a natural short tail",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Isle of Man với chiếc đuôi ngắn tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "59da2674-9097-4ee8-be23-1daab47fd9e8",
+            "word": "Munchkin",
+            "phonetic": "mʌntʃkɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Are you a Munchkin?'",
+                "What do they, they print it in, they punch it into the internet, said, \"she sounds like a cross between a munchkin and to sort of Katherine Hepburn on speed.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=TXVuY2hraW4&hash=c0cd1d7cb52b86ccc85e41b89b3320ff52fe390f&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with very short legs",
+            "defineVi": "một giống mèo nhà có chân rất ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "58240371-757b-4976-a4f5-63800af9bee3",
+            "word": "Nebelung",
+            "phonetic": "nɛbɪlʌŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=TmViZWx1bmc&hash=27edadc302068ce955117c472b4fd06baba80862&lang=en&cache-only=0",
+            "defineEn": "a rare domestic cat breed that is long-haired with a silver blue coat and wide green eyes",
+            "defineVi": "một giống mèo nhà quý hiếm có bộ lông dài màu xanh bạc và đôi mắt to màu xanh lá cây",
+            "hasImg": true
+        },
+        {
+            "id": "100adfe7-308f-42f3-8396-fac89ce5c5f7",
+            "word": "Norwegian Forest cat",
+            "phonetic": "noːɹwiːdʒən fɔːɹɪst kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Specifically, cats resembling the Norwegian forest cat.",
+                "The Norwegian forest cat’s prevalence in mythology (and as housepets) may account for the Yule Cat’s shaggy appearance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Tm9yd2VnaWFuIEZvcmVzdCBjYXQ&hash=9a974ceb6f215d2903ada88f4f299cb6913f94d6&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from Norway that has two coats to survive in a very cold climate",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Na Uy có hai lớp lông để tồn tại trong khí hậu rất lạnh",
+            "hasImg": true
+        },
+        {
+            "id": "79fcd17d-43ce-4b74-8936-ed61bada5739",
+            "word": "Ocicat",
+            "phonetic": "ɑːsɪkæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=T2NpY2F0&hash=ace5a0f1a7a3d0720501d86fd358fef9e1db4be2&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed that is spotted and is a hybrid of a Siamese and an Abyssinian",
+            "defineVi": "một giống mèo nhà được phát hiện và là con lai giữa mèo Xiêm và mèo Abyssinian",
+            "hasImg": true
+        },
+        {
+            "id": "e58a02dd-8f86-4863-8254-c1aae9fa6394",
+            "word": "Oriental Shorthair",
+            "phonetic": "oːɹɪɛntəl ʃɔːɹɾaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=T3JpZW50YWwgU2hvcnRoYWly&hash=153c6e709dde316fb22479500b3068b9b9c922f4&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed closely related to the Siamese with more coat colors and linear patterns",
+            "defineVi": "một giống mèo nhà có họ hàng gần với mèo Xiêm với nhiều màu lông và hoa văn tuyến tính",
+            "hasImg": true
+        },
+        {
+            "id": "ff749df4-7c2c-4c42-9beb-2739e7eacf14",
+            "word": "Persian cat",
+            "phonetic": "pɜːʒən kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "While he hasn't confirmed the breeds of his pets, fans speculate he has a teacup Pomeranian, a Korean Jindo, and a chinchilla Persian cat, all the expensive breeds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=UGVyc2lhbiBjYXQ&hash=d3699937de1fcf22df3e89092f57642bf8c05635&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is long-haired with a round face and a short muzzle",
+            "defineVi": "một giống mèo nhà có lông dài với khuôn mặt tròn và mõm ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "c82cd26e-b058-46cc-8705-03e92970d60d",
+            "word": "Pixie-bob",
+            "phonetic": "pɪksibɑːb ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=UGl4aWUtYm9i&hash=c13f01dc78a5ab4371f7d3489cd563b0fc93742e&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with a short tail that resembles a North American bobcat",
+            "defineVi": "một giống mèo nhà có đuôi ngắn giống linh miêu Bắc Mỹ",
+            "hasImg": true
+        },
+        {
+            "id": "cb6342dc-1cdf-442b-8dab-55023a0f3bc9",
+            "word": "Ragamuffin",
+            "phonetic": "ɹæɡɐmʌfɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=UmFnYW11ZmZpbg&hash=e6f5c180654804448d7cb45156f8cc82ee46348a&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originated in California characterized by its thick fur",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ California đặc trưng bởi bộ lông dày của nó",
+            "hasImg": true
+        },
+        {
+            "id": "be4ff9cc-55be-4d47-bd44-924a338ce4da",
+            "word": "Ragdoll",
+            "phonetic": "ɹæɡdɑːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Want a voodoo doll of your boss to kick around with ragdoll physics?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=UmFnZG9sbA&hash=74b3526e8da4227e949d476beec0408108dcf68e&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with a soft coat that is large and has blue eyes",
+            "defineVi": "một giống mèo nhà có bộ lông mềm, to và có đôi mắt xanh",
+            "hasImg": true
+        },
+        {
+            "id": "53ecef4e-1492-4b38-8cd3-c832c4668592",
+            "word": "Russian Blue",
+            "phonetic": "ɹʌʃən bluː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Yeah, Anton Chekhov was a kind of, uh, Russian blues man in some ways, even even deeper in the blues."
+            ],
+            "audio": "https://tts.langeek.co/read?text=UnVzc2lhbiBCbHVl&hash=3aca167fbef02dbc8bc586fc271f3e55cbf1832c&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from Russia with silvery blue coat and green eyes",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Nga với bộ lông màu xanh bạc và đôi mắt xanh lục",
+            "hasImg": true
+        },
+        {
+            "id": "0cc50409-403e-4bf0-80c0-9a54d9e3739b",
+            "word": "Scottish Fold",
+            "phonetic": "skɑːɾɪʃ foʊld ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U2NvdHRpc2ggRm9sZA&hash=c8121b883eb76fdb0c8051178709e61767b5e76f&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed characterized by folded ears that is originally from Scotland",
+            "defineVi": "một giống mèo nhà đặc trưng bởi đôi tai gấp lại có nguồn gốc từ Scotland",
+            "hasImg": true
+        },
+        {
+            "id": "cbcec679-af62-41e5-8a1c-aff2d040aaa8",
+            "word": "Selkirk Rex",
+            "phonetic": "sɛlkɜːk ɹɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U2Vsa2lyayBSZXg&hash=a6985adc67a95574eec878dfec324f3a8490e6e6&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with woolly curly fur",
+            "defineVi": "một giống mèo nhà với bộ lông xoăn như len",
+            "hasImg": true
+        },
+        {
+            "id": "fe8fec97-3010-468c-b382-2481f53f1ad2",
+            "word": "Siamese",
+            "phonetic": "saɪəmiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Rhett and Link are Siamese twins that were separated at the butt.",
+                "So I wanted the head of pediatric neurosurgery at Johns Hopkins in the series, the man the first person in the world to successfully separate Siamese twins joined at the brain.",
+                "Our second story involving human remains is that of Chang and Eng Bunker, known throughout the world as the original Siamese twins, whose bodies are now buried in North Carolina with a plaster cast of their conjoined torsos on display in Philadelphia's Mutter Museum."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U2lhbWVzZQ&hash=be1c407eb1ac04829b31b25ee2060b34ae792a09&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from Thailand that is short-haired and has a brown face",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Thái Lan, lông ngắn và mặt nâu",
+            "hasImg": true
+        },
+        {
+            "id": "20788797-d1e6-4ef9-a7e9-f4ef74182f40",
+            "word": "Siberian",
+            "phonetic": "saɪbiəɹɪən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In 1901, a group of scientists from St. Petersburg ventured into the Siberian tundra.",
+                "A reindeer herder found another carcass along a frozen Siberian river, this time on the Yamal Peninsula.",
+                "Even a 2017 genetic study of Siberian mammoth bones, teeth, tusks, and hair revealed that over two-thirds of their 98 mammoth fossils were male.",
+                "As we saw with our friend the horny Siberian hamster, some behaviors and their associated physical features are adapted to allow an animal to reproduce more, simply by being better at finding mates.",
+                "How does a tiny Siberian hamster find its mate, miles across the unforgiving tundra?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=U2liZXJpYW4&hash=38a24e3295aa0df23ebe9b17e32a650cc3b29d55&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed native to the forests of Russia that has three layers of coat",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ các khu rừng của Nga có ba lớp lông",
+            "hasImg": true
+        },
+        {
+            "id": "0c96110b-e2b0-44b5-8eba-f1f5ccefba55",
+            "word": "Singapura",
+            "phonetic": "sɪŋɡɐpʊɹɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U2luZ2FwdXJh&hash=50a2647bbaf82ac30813ede3f453830ca10a8c00&lang=en&cache-only=0",
+            "defineEn": "the smallest domestic cat breed that is originated in Singapore, with noticeably large eyes and ears",
+            "defineVi": "giống mèo nhà nhỏ nhất có nguồn gốc từ Singapore, với đôi mắt và đôi tai to rõ rệt",
+            "hasImg": true
+        },
+        {
+            "id": "e1fdecfb-6e94-4c8a-a1c2-fc4561b51e89",
+            "word": "Snowshoe cat",
+            "phonetic": "snoʊʃuː kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U25vd3Nob2UgY2F0&hash=664ba04d6b0d6cae410bd499eb482124637ef566&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed with white feet that was first taken from the Siamese in Philadelphia",
+            "defineVi": "một giống mèo nhà có chân trắng lần đầu tiên được lấy từ người Xiêm ở Philadelphia",
+            "hasImg": true
+        },
+        {
+            "id": "0d8460c0-c559-4937-b386-a2936dc67436",
+            "word": "Somali cat",
+            "phonetic": "səmɑːli kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U29tYWxpIGNhdA&hash=32492b4004acdccc0c0bb95e573e8a0185f83f62&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed originally from Somalia that is long-haired",
+            "defineVi": "một giống mèo nhà có nguồn gốc từ Somalia có lông dài",
+            "hasImg": true
+        },
+        {
+            "id": "abfc3e98-8b63-48e8-975d-bf2adf3efe4d",
+            "word": "Sphynx cat",
+            "phonetic": "sfɪŋks kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=U3BoeW54IGNhdA&hash=a86d63771a13832500457ae990745e5fafd528d2&lang=en&cache-only=0",
+            "defineEn": "a hairless domestic cat breed originated in Toronto",
+            "defineVi": "một giống mèo nhà không lông có nguồn gốc từ Toronto",
+            "hasImg": true
+        },
+        {
+            "id": "61fddbe3-be4c-42e4-b2ef-a3d4c661e167",
+            "word": "Tonkinese cat",
+            "phonetic": "tɔŋkaɪniːz kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VG9ua2luZXNlIGNhdA&hash=45a62bd6fd8a66267a832cb5e998d217bfcc1acb&lang=en&cache-only=0",
+            "defineEn": "a domestic cat breed that is a cross between the Siamese and the Burmese",
+            "defineVi": "một giống mèo nhà lai giữa mèo Xiêm và mèo Miến Điện",
+            "hasImg": true
+        },
+        {
+            "id": "43929bcf-14bd-4133-a4f6-35b3d5b336ba",
+            "word": "Toyger",
+            "phonetic": "tɔɪdʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VG95Z2Vy&hash=53b913d1617762708aed795db1f12f59213e6b70&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is like a toy tiger",
+            "defineVi": "một giống mèo nhà giống như một con hổ đồ chơi",
+            "hasImg": true
+        },
+        {
+            "id": "13dc568c-6ab8-4762-94a9-93ec49267a05",
+            "word": "Angora",
+            "phonetic": "tɜːkɪʃ æŋɡoːɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is an angora goat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QW5nb3Jh&hash=653d51c29e4207962a0d99fb20beaa736337b0fd&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is long-haired, naturally found in central Turkey",
+            "defineVi": "một giống mèo nhà lông dài, được tìm thấy tự nhiên ở miền trung Thổ Nhĩ Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "476a6177-8692-4214-a9d5-bc2fbb3e0cc9",
+            "word": "Turkish Van",
+            "phonetic": "tɜːkɪʃ væn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VHVya2lzaCBWYW4&hash=7762b439c14e0ca259a3620e9200a6220f9da445&lang=en&cache-only=0",
+            "defineEn": "a domestic breed of cat that is semi-long-haired and is originated in Southeast Turkey",
+            "defineVi": "một giống mèo nhà có lông bán dài và có nguồn gốc ở Đông Nam Thổ Nhĩ Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "ed1e3ec1-a414-4941-9167-c094a94a0d8e",
+            "word": "York Chocolate",
+            "phonetic": "jɔːɹk tʃɑːklət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=WW9yayBDaG9jb2xhdGU&hash=e344408eb566ea1c614e303d7e64440a65d3f5bc&lang=en&cache-only=0",
+            "defineEn": "a rare domestic cat breed with a long fluffy coat mostly chocolate brown in color",
+            "defineVi": "một giống mèo nhà quý hiếm với bộ lông dài mượt chủ yếu là màu nâu sô cô la",
+            "hasImg": true
+        },
+        {
+            "id": "65a13306-8cfa-440c-9c33-559824e5b8c1",
+            "word": "Tortoiseshell",
+            "phonetic": "tɔːɹɾəsʃɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So I think you might know tortoiseshell for glasses and jewelry.",
+                "If you're ever in a market in a different country and you come across a product that looks like this really pretty pattern, this tortoiseshell pattern, it might actually be from a hawksbill turtle.",
+                "So think twice about giving your money to something like that, because you could be unwittingly supporting the illegal trade of tortoiseshell and indirectly funding the killing of a turtle.",
+                "But it could be tinted and patterned to mimic more expensive materials like coral, tortoiseshell, amber, and mother-of-pearl.",
+                "And I went down the Google rabbit hole, and I started finding that traditional craftsmen would take the tortoiseshell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VG9ydG9pc2VzaGVsbA&hash=1b459a365a71183f61b631ec8a192ba5ccb0f80d&lang=en&cache-only=0",
+            "defineEn": "a domestic cat with black, brown, orange and white coat, which is usually female",
+            "defineVi": "một con mèo nhà có bộ lông màu đen, nâu, cam và trắng, thường là mèo cái"
+        },
+        {
+            "id": "e28c926e-e5b1-48c3-9787-218befa5b750",
+            "word": "Calico cat",
+            "phonetic": "kælɪkoʊ kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Q2FsaWNvIGNhdA&hash=30361fddab836168817351cb880eece471310e3d&lang=en&cache-only=0",
+            "defineEn": "a domestic cat known for its distinctive coat pattern featuring patches of white, orange, and black (or other dark colors)",
+            "defineVi": "một con mèo nhà được biết đến với kiểu lông đặc biệt có các mảng màu trắng, cam và đen (hoặc các màu tối khác)"
+        },
+        {
+            "id": "08593535-b3e9-4a5a-a7c6-d195d0f92ffb",
+            "word": "Tabby cat",
+            "phonetic": "tæbi kæt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VGFiYnkgY2F0&hash=e0ddd2986539681c7a36873cd5a84279b156d423&lang=en&cache-only=0",
+            "defineEn": "a domestic cat with a coat pattern characterized by stripes, swirls, and spots in various colors on a background of lighter fur",
+            "defineVi": "một con mèo nhà với kiểu lông được đặc trưng bởi các sọc, xoáy và đốm với nhiều màu sắc khác nhau trên nền lông sáng hơn"
+        }
+    ]
+}

@@ -1,0 +1,650 @@
+{
+    "id": "56f830c3-b0e2-4ecc-b25b-720c82b69287",
+    "title": "Computers Won't Byte!",
+    "originalTitle": "Lesson 13",
+    "words": [
+        {
+            "id": "78a71253-9103-448b-8e61-aba6c03e84db",
+            "word": "accessible",
+            "phonetic": "æksɛsəbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She's decided to strike a balance between fashionable and accessible.",
+                "She has a dog in the fight when it comes to the debate on healthcare reform since her family relies on accessible and affordable medical services.",
+                "You need accessible bathrooms.",
+                "Whichever one is more accessible to you.",
+                "Should voting be more or less accessible?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjZXNzaWJsZQ&hash=e37a1431866d07e9801255f879b60fe3fce6f97e&lang=en&cache-only=0",
+            "defineEn": "easily or able to be reached, entered, etc.",
+            "defineVi": "dễ dàng hoặc có thể tiếp cận, nhập, vv"
+        },
+        {
+            "id": "cb408763-2881-4ccc-82ef-53ac70f7c043",
+            "word": "analog",
+            "phonetic": "ænəlɑːɡ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Concordances were just analog Google.",
+                "Everything is analog.",
+                "The digital analog gauges look kinda cool.",
+                "And then the analog for acceleration is our angular acceleration, alpha.",
+                "So the physics analog to the linear force in the rotational world is rotational torque."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5hbG9n&hash=1df341da99bc7a9693eaad5ae04a4fda391d00bf&lang=en&cache-only=0",
+            "defineEn": "relating to or using signals in which information is represented through constant changing of physical quantities",
+            "defineVi": "liên quan đến hoặc sử dụng các tín hiệu trong đó thông tin được thể hiện thông qua sự thay đổi liên tục của các đại lượng vật lý",
+            "hasImg": true
+        },
+        {
+            "id": "97c5f92e-864e-44e6-9b20-0bb19efe59d5",
+            "word": "antivirus",
+            "phonetic": "æntɪvaɪɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "To make matters worse, antivirus programs had trouble finding the virus on an infected machine.",
+                "Antivirus programs help, but they can have trouble dealing with threats they’ve never seen before.",
+                "John McAfee, the developer of the antivirus software, has been indicted on fraud and money laundering charges.",
+                "Antivirus and IT companies knew it was there, but it was hard to stop it.",
+                "Only if they do so can they activate their most effective antivirus system: they save a part of the virus DNA in their own genetic code in a DNA archive called CRISPR."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW50aXZpcnVz&hash=39cbb48ecf6793e50aaae38de0815d20eaa9bae3&lang=en&cache-only=0",
+            "defineEn": "having the ability to protect a system from viruses by finding and destroying them",
+            "defineVi": "có khả năng bảo vệ hệ thống khỏi virus bằng cách tìm và tiêu diệt chúng"
+        },
+        {
+            "id": "b33aa48b-f109-43e3-bc08-33e682a7fa7c",
+            "word": "compatible",
+            "phonetic": "kəmpæɾᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Are healthy oceans compatible with an industrialized world? ",
+                "\"Your software is compatible with an IR blaster.\"",
+                "Your system is not compatible.",
+                "But also x86 compatible apps.",
+                "So, this battery is actually compatible with both cameras."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGF0aWJsZQ&hash=260d227b8393b41bf27ab4d80e61632633409154&lang=en&cache-only=0",
+            "defineEn": "having the ability to work with different devices, machines, etc.",
+            "defineVi": "có khả năng làm việc với các thiết bị, máy móc khác nhau, v.v."
+        },
+        {
+            "id": "05cb25be-082e-418d-b13b-e2dcb4c4492e",
+            "word": "down",
+            "phonetic": "daʊn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The children scarfed down the pizza at the birthday party.",
+                "Turn the mould upside down.",
+                "His parents are always breathing down his neck.",
+                "That song always sends a shiver down my spine.",
+                "A path led down the hill."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG93bg&hash=2d12df48405febe70f17b9b0afff95955d789097&lang=en&cache-only=0",
+            "defineEn": "(of a computer system) temporarily unavailable or out of order",
+            "defineVi": "(của một hệ thống máy tính) tạm thời không khả dụng hoặc không hoạt động"
+        },
+        {
+            "id": "631ab834-4a89-4c77-bf6c-96c0b6d75ac9",
+            "word": "interactive",
+            "phonetic": "ɪntɚɹæktɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "All art is interactive to some degree.",
+                "They're super interactive.",
+                "Brilliant offers interactive courses in science, math, engineering, and computer science.",
+                "so it’s a little bit interactive.",
+                "Thus a generation was empowered through interactive media."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJhY3RpdmU&hash=be2a1c2d701bcbb15041e808d352e2562ffb8287&lang=en&cache-only=0",
+            "defineEn": "describing the constant passage of data between a computer or other device and a user",
+            "defineVi": "mô tả việc truyền dữ liệu liên tục giữa máy tính hoặc thiết bị khác và người dùng"
+        },
+        {
+            "id": "13133b2a-75e5-4942-b82b-91c3ed8d0051",
+            "word": "Bluetooth",
+            "phonetic": "bluːtuːθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Add Bluetooth device.",
+                "\"Bluetooth connected.\"",
+                "Click \"Bluetooth.\"",
+                "On your phone, open your Bluetooth settings.",
+                "The motion blaster is connected to my PC via bluetooth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Qmx1ZXRvb3Ro&hash=6a5478cf3a1e94450ae03d879a7d3868b2315acd&lang=en&cache-only=0",
+            "defineEn": "the system through which different devices can be connected to each other over short distances wirelessly using radio waves",
+            "defineVi": "hệ thống qua đó các thiết bị khác nhau có thể được kết nối với nhau trong khoảng cách ngắn không dây bằng sóng vô tuyến",
+            "hasImg": true
+        },
+        {
+            "id": "c2d422e0-570c-4c09-84ea-53c8be692a70",
+            "word": "Blu-ray",
+            "phonetic": "bluːɹeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They’re kind of like big DVDs or Blu-rays.",
+                "And you have no use for it as a Blu-ray player?",
+                "Rogue One: A Star Wars Story will be available on Digital HD and Blu-ray on March 24th, Diego Luna everybody!",
+                "On the other hand, optical-based storage like DVD and Blu-ray also uses spinning discs, but with a reflective coating.",
+                "So, on the front, we've got our Blu-ray disk drive slot, on the other side we've got, wow, that's a really mushy button."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Qmx1LXJheQ&hash=7c1f1d53ce7a8c4aff2fb0435d8152297479115c&lang=en&cache-only=0",
+            "defineEn": "a type of blue disk on which large data such as high-definition videos can be stored",
+            "defineVi": "một loại đĩa màu xanh có thể lưu trữ dữ liệu lớn như video độ phân giải cao",
+            "hasImg": true
+        },
+        {
+            "id": "06dadebc-2732-4ae5-b364-27c4d90bd5e9",
+            "word": "USB",
+            "phonetic": "juːɛsbiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cable tip for the handle is micro USB.",
+                "Some USB-C cables are USB 3.1 Gen 2 cables.",
+                "And the iPod's FireWire connector transferred songs faster than USB.",
+                "USB type A. Power input is right there.",
+                "Gamers want red USB ports, maybe?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=VVNC&hash=274fa88d2bc51dd010b76e5bc87a3e2ff0ee14ee&lang=en&cache-only=0",
+            "defineEn": "the technology or system for connecting other devices to a computer",
+            "defineVi": "công nghệ hoặc hệ thống để kết nối các thiết bị khác với máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "1b26fd33-85d5-42b3-88f8-d05bd38971ad",
+            "word": "byte",
+            "phonetic": "baɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A modern computer processor, like an Intel Core i7, has thousands of different instructions and instruction variants, ranging from one to fifteen bytes long.",
+                "For example, a letter is represented in one byte, or eight bits, and your average photo takes up several megabytes, each of which is 8 million bits.",
+                "8 bits hold enough numbers to provide addresses for 256 bytes of our memory, but that’s all.",
+                "We’ll make a row of 8 of them, so we can store an 8 bit number - also known as a byte.",
+                "But if that same byte is sent over to our sound card, it might interpret it as one of 256 different spots mapped on to a sound wave."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ynl0ZQ&hash=4b25d7f3229897a99173d73116253cc5cf98416d&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring the size of computer data that equals 8 bits",
+            "defineVi": "một đơn vị để đo kích thước của dữ liệu máy tính bằng 8 bit"
+        },
+        {
+            "id": "575efe99-31a6-4e35-a331-72b61644e57d",
+            "word": "kilobyte",
+            "phonetic": "kɪləbaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We’re talking, like, five kilobytes of RAM.",
+                "Eight of these 1 and 0 bits make a byte, and a thousand of those make a kilobyte, and a thousand of those make a megabyte.",
+                "It also provided the most storage per cubic centimeter at the time, the Apollo Guidance Computer came with a whopping 36 kilobytes of memory.",
+                "It sent back only 5.2 million bits of data, or about 650 kilobytes, which is probably less than it takes to store half a second’s worth of the video you’re watching right now.",
+                "There isn’t a lot of space on a processor’s chip, so most caches are just kilobytes or maybe megabytes in size, where RAM is usually gigabytes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2lsb2J5dGU&hash=124a4c1527100b557a0623daa70b3f1e48a5299c&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring computer data that equals 1024 bytes",
+            "defineVi": "một đơn vị đo dữ liệu máy tính bằng 1024 byte"
+        },
+        {
+            "id": "7d11d65e-4402-461f-93de-06d6bc205590",
+            "word": "megabyte",
+            "phonetic": "mɛɡəbaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "700 megabytes a second.",
+                "At the time, other email providers offered up to 4 megabytes of storage.",
+                "Cracked 50 megabytes a second on wi-fi.",
+                "A gigabyte is about a 1,000 megabytes, or around 300 songs.",
+                "Over 700 megabytes of RAM would've been pretty insane."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVnYWJ5dGU&hash=4ce4f06d03f62e4f5b599925fd2e7ad06d29dda4&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring computer data that equals 1024 kilobytes",
+            "defineVi": "một đơn vị đo dữ liệu máy tính bằng 1024 kilobyte"
+        },
+        {
+            "id": "af463f44-5daa-495c-acda-37ce929f3740",
+            "word": "gigabyte",
+            "phonetic": "ɡɪɡəbaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A gigabyte is about a 1,000 megabytes, or around 300 songs.",
+                "And the pixel five has two gigabytes more Ram for a total of eight gigabytes of Ram.",
+                "- It has 8 gigabytes of RAM.",
+                "We have 128 gigabytes of RAM.",
+                "64 gigabytes actually isn't that much."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lnYWJ5dGU&hash=1bab54900e3c34cfe2f6d1c554844672a28f93c5&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring computer data that equals 1024 megabytes",
+            "defineVi": "một đơn vị đo dữ liệu máy tính bằng 1024 megabyte"
+        },
+        {
+            "id": "f0523de5-af26-4420-b4bd-9521f265fb56",
+            "word": "terabyte",
+            "phonetic": "tɛɹəbaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A terabyte is about a 1,000 gigabytes, or 300,000 songs.",
+                "That's a one terabyte.",
+                "- I shipped you a 160 terabytes server.",
+                "This is an eight terabyte drive.",
+                "a micro SD card slot, we saw that, with two terabytes max."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVyYWJ5dGU&hash=90c6a1ae02c860805d2708b80e5ac171077d48bc&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring computer data that equals 1024 gigabytes",
+            "defineVi": "một đơn vị đo dữ liệu máy tính bằng 1024 gigabyte"
+        },
+        {
+            "id": "d8ae5fde-72f5-4c00-87c5-c380880c1605",
+            "word": "backup",
+            "phonetic": "bækʌp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Always keep a backup of the file.",
+                "The backup quarterback had to make up for the injured starter and lead the team to victory.",
+                "I'm hot on the heels of the suspect, requesting immediate backup.",
+                "Let's backup all our important files before we make any changes to the system - better safe than sorry.",
+                "You can set it so that it does an automatic data backup at the end of each day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFja3Vw&hash=446a0377d1ce8a0be54221ec6efb1c6567ad5c83&lang=en&cache-only=0",
+            "defineEn": "(computing) a copy of computer data that can be used to restore lost or damaged data",
+            "defineVi": "(máy tính) một bản sao dữ liệu máy tính có thể được sử dụng để khôi phục dữ liệu bị mất hoặc bị hỏng"
+        },
+        {
+            "id": "1ce27c12-5751-446d-8431-1bb84f1278ad",
+            "word": "storage",
+            "phonetic": "stoːɹɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He used a tool storage box to organize his workshop.",
+                "The frozen berries included a color retention agent that prevented the vibrant red color from fading during storage.",
+                "It's best to blanch the green beans before freezing them for long-term storage.",
+                "Take holographic storage.",
+                "Storage should be extremely snappy on this machine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvcmFnZQ&hash=8d2ac891bcf8308bd58b4f67a644777df6517be3&lang=en&cache-only=0",
+            "defineEn": "the keeping of data on a computer, etc.",
+            "defineVi": "việc lưu giữ dữ liệu trên máy tính, v.v."
+        },
+        {
+            "id": "5fea95b8-49f8-46be-8b24-47278b1acfd5",
+            "word": "flash drive",
+            "phonetic": "flæʃ dɹaɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zmxhc2ggZHJpdmU&hash=d5fe0b17ee6fe5b03e24c9ea66d5ecffa4ace2e2&lang=en&cache-only=0",
+            "defineEn": "a small device used for storing data or transferring data between electronic devices",
+            "defineVi": "một thiết bị nhỏ được sử dụng để lưu trữ dữ liệu hoặc truyền dữ liệu giữa các thiết bị điện tử",
+            "hasImg": true
+        },
+        {
+            "id": "6e3771f9-401f-4533-bbf5-04cce47b7a2d",
+            "word": "hard disk",
+            "phonetic": "hɑːɹd dɪsk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFyZCBkaXNr&hash=07b6e88d74758f3d4fe578e02b1857a087c71aad&lang=en&cache-only=0",
+            "defineEn": "a disk on which data is stored, either inside or outside a computer",
+            "defineVi": "một đĩa mà dữ liệu được lưu trữ, bên trong hoặc bên ngoài máy tính",
+            "hasImg": true
+        },
+        {
+            "id": "3b90876e-1d31-4de5-b970-961d26557447",
+            "word": "ram",
+            "phonetic": "ɹæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Working for your last boss sure sounds like milking a ram to me.",
+                "People are sick of having advertising rammed down their throats.",
+                "- Battering ram your smoothie.",
+                "In this case, the bottleneck is RAM.",
+                "We got so much RAM."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFt&hash=ea2e55e1c59afdd1cfc43458bf8097436b162b1e&lang=en&cache-only=0",
+            "defineEn": "a type of computer memory tasked with temporarily storing data for a quicker access",
+            "defineVi": "một loại bộ nhớ máy tính được giao nhiệm vụ lưu trữ dữ liệu tạm thời để truy cập nhanh hơn",
+            "hasImg": true
+        },
+        {
+            "id": "b1205c49-a9ac-4909-b9eb-8c37b7595ccb",
+            "word": "cyberspace",
+            "phonetic": "saɪbɚspeɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But big threats to infrastructure aren’t just restricted to cyberspace!",
+                "One man in the U.K. mistakenly threw away the hard drive that had his key on it, and his $100 million worth of bitcoins are permanently trapped in cyberspace limbo, inaccessible to anyone ever.",
+                "In a future episode, we’ll look at how this global trust experiment has moved beyond the physical realm into the invisible world of cyberspace.",
+                "If you want to know more about how advertisers follow you through cyberspace check out our video, \"How Retailers Stalk You Online.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3liZXJzcGFjZQ&hash=ebcb10457e6fb0ec402103a1fc114570587db8be&lang=en&cache-only=0",
+            "defineEn": "the non-physical space in which communication over computer networks takes place",
+            "defineVi": "không gian phi vật lý trong đó giao tiếp qua mạng máy tính diễn ra"
+        },
+        {
+            "id": "cc4d1bd3-536b-479f-a5b3-052c552c4535",
+            "word": "data processing",
+            "phonetic": "deɪɾə pɹɑːsɛsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGF0YSBwcm9jZXNzaW5n&hash=63a450f72222badc6a787e139e6bc87d856da6fe&lang=en&cache-only=0",
+            "defineEn": "a set of actions done on data by a computer to have a certain result",
+            "defineVi": "một tập hợp các hành động được thực hiện trên dữ liệu bởi máy tính để có một kết quả nhất định"
+        },
+        {
+            "id": "48b6c2a3-2cbb-425d-a06f-42cefb84402e",
+            "word": "default",
+            "phonetic": "dᵻfɔlt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The person may have several loan defaults.",
+                "This is default.",
+                "He has a default position.",
+                "The island was spiraling toward default.",
+                "One really nice thing about the Apple ecosystem is, that default encryption."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVmYXVsdA&hash=7b7108663d80d4cb25568ae2ba3ea7c92d3cdf38&lang=en&cache-only=0",
+            "defineEn": "a predefined option based on which a computer or other device performs a particular task unless it is changed",
+            "defineVi": "một tùy chọn được xác định trước dựa trên đó máy tính hoặc thiết bị khác thực hiện một tác vụ cụ thể trừ khi nó bị thay đổi"
+        },
+        {
+            "id": "5c13ad21-9ae7-444f-bd01-7dcb2ba50870",
+            "word": "cursor",
+            "phonetic": "kɜːsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My broadband operator would take his cursor.",
+                "Put your mouse cursor over it.",
+                "Hover your cursor over the bottom right corner of the cell until you see a small black cross.",
+                "Once you press this command, your mouse cursor will turn into a crosshair.",
+                "You can run your cursor over footage in the import window to see a preview here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Vyc29y&hash=607f5746127fbcd1c96959bd7e58bc70fb329220&lang=en&cache-only=0",
+            "defineEn": "a movable mark on a computer screen that indicates where the user is working",
+            "defineVi": "một dấu di chuyển trên màn hình máy tính cho biết nơi người dùng đang làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "2ba86b31-59c1-468b-854b-3b7ced1ecad4",
+            "word": "display",
+            "phonetic": "dɪspleɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The market vendor displayed a variety of tropical fruits, each with its own unique-colored mesocarp.",
+                "The market had vibrant yellow lemons on display.",
+                "The Siemens display goes the whole hog.",
+                "The manager displayed a cold shoulder towards the employee who had made a mistake.",
+                "The seafood market showcased a mouthwatering display of fresh clams."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzcGxheQ&hash=e6b56a93c7ed32c8c995f11050f40a89124cd6d5&lang=en&cache-only=0",
+            "defineEn": "an electronic device that visually presents data",
+            "defineVi": "một thiết bị điện tử trình bày trực quan dữ liệu",
+            "hasImg": true
+        },
+        {
+            "id": "73cbe35b-78b9-411d-a177-3df48887275f",
+            "word": "drop-down menu",
+            "phonetic": "dɹɑːpdaʊn mɛnjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJvcC1kb3duIG1lbnU&hash=913238906b262fc5d07adbd5f52490b4fff96d9a&lang=en&cache-only=0",
+            "defineEn": "a list that presents different options on a computer screen and remains there until one option is chosen by the user",
+            "defineVi": "một danh sách trình bày các tùy chọn khác nhau trên màn hình máy tính và ở đó cho đến khi người dùng chọn một tùy chọn",
+            "hasImg": true
+        },
+        {
+            "id": "02e1c6c3-dbe4-4695-bd65-c57754c33b80",
+            "word": "hacker",
+            "phonetic": "hækɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The successful entrepreneur knew that an old poacher makes the best gamekeeper, so he hired a former hacker to help secure his company's online systems.",
+                "Joe realized the truth behind the wise words when the police hired a former hacker to uncover who had been stealing company secrets.",
+                "It's all too easy for hackers to exploit vulnerabilities and gain access to your data.",
+                "In December 2015, hackers cut power to around 225,000 people in Ukraine.",
+                "Hackers can't steal your private construction secrets."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFja2Vy&hash=512033b0a5754ba7737da96f878b5764d557e736&lang=en&cache-only=0",
+            "defineEn": "someone who uses computers to illegally access someone else's computer or phone",
+            "defineVi": "ai đó sử dụng máy tính để truy cập bất hợp pháp vào máy tính hoặc điện thoại của người khác",
+            "hasImg": true
+        },
+        {
+            "id": "7cfe0fd3-a684-4e59-9dec-1e0cbef82d9e",
+            "word": "help desk",
+            "phonetic": "hɛlp dɛsk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Generally speaking, a typical employee contacts a help desk about somewhere between six and ten times a year on password-related issues.",
+                "The help desk didn't know what to make of it.",
+                "A former Microsoft executive told CNN in 2018, that the company spends more than $2 million dollars each month in help desk calls, helping people to change their passwords.",
+                "Our research has shown that the average fully-loaded cost of a help desk call to reset a password is anywhere between $40 or $50 per call."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVscCBkZXNr&hash=4ccf97ed830fa9e8ec3c2e558a511216b80079b0&lang=en&cache-only=0",
+            "defineEn": "a service that gives information and support to the computer users, particularly those who work in the same place",
+            "defineVi": "một dịch vụ cung cấp thông tin và hỗ trợ cho người dùng máy tính, đặc biệt là những người làm việc ở cùng một nơi"
+        },
+        {
+            "id": "8dd09813-14bd-4061-a861-d6806b921e2e",
+            "word": "interface",
+            "phonetic": "ɪntɚfeɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The interface can be used to drive a printer.",
+                "Squarespace features a user-friendly interface, costume templates and 24/7 customer support.",
+                "These four interfaces are spatial, material, information, and energy.",
+                "The interface is fine for the most part.",
+                "The Aqua interface was a radical design change from previous versions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJmYWNl&hash=ae1c2dd3341cacf5b6465a29af4ccd7627f87bb6&lang=en&cache-only=0",
+            "defineEn": "(computing) the program through which a user can interact with a computer, especially its design and appearance",
+            "defineVi": "(máy tính) chương trình mà qua đó người dùng có thể tương tác với máy tính, đặc biệt là thiết kế và hình thức của nó"
+        },
+        {
+            "id": "1008d299-0f29-4aac-9508-768bd3e63bd0",
+            "word": "microprocessor",
+            "phonetic": "maɪkɹoʊpɹɑːsɛsɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Microprocessors do the calculations in the twinkling of an eye.",
+                "Google owns search, Intel owns microprocessor.",
+                "Microprocessors already run 10 million times faster than neurons, they don’t get tired, and computers aren’t limited in size by thick, bony skulls.",
+                "This era of integrated circuits, especially microprocessors, ushered in the third generation of computing.",
+                "If computers can multitask with a single microprocessor, then certainly the much bigger human brain can train itself to do the same and enjoy the benefits of increased productivity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWljcm9wcm9jZXNzb3I&hash=f853f9a1e76e33b4df28eb2f436433ccf6463f7e&lang=en&cache-only=0",
+            "defineEn": "a very small piece of electronic equipment in a computer programed to control all the functions of the CPU",
+            "defineVi": "một phần rất nhỏ của thiết bị điện tử trong máy tính được lập trình để điều khiển tất cả các chức năng của CPU",
+            "hasImg": true
+        },
+        {
+            "id": "a0873f29-0cc7-4c06-ab3c-ceb7969be271",
+            "word": "multimedia",
+            "phonetic": "mʌltɪmiːdiːə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "One of the first multimedia directors, Piscator created a theater that was overtly political.",
+                "Create a title for your post and write or attach your multimedia content.",
+                "Right-side Twix bars are the only ones that are acceptable for proper construction of any Twix-based multimedia.",
+                "And today we can enjoy realistic and imaginary multimedia delights even on hand-held devices.",
+                "I mean, I've made Twix based multimedia art installations before, and I always, always only use the right Twix bar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVsdGltZWRpYQ&hash=aa5d4f4a32e16e2c5aa93e6a588e4ecd71ca91f5&lang=en&cache-only=0",
+            "defineEn": "the application of images, text, audio, and video files collectively",
+            "defineVi": "việc áp dụng chung các tệp hình ảnh, văn bản, âm thanh và video"
+        },
+        {
+            "id": "a5aa8175-6be7-4e7a-9ae1-f19fd638a1b0",
+            "word": "pc",
+            "phonetic": "piːsiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Windows is a popular platform for PC gaming.",
+                "They sell PCs.",
+                "It comes out PC.",
+                "- Gaming PCs?",
+                "Then boot up your PC."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGM&hash=8be3448cae27fcf25fdf15d9ba2dbca0965ecc04&lang=en&cache-only=0",
+            "defineEn": "a personal computer that is used by one person",
+            "defineVi": "một máy tính cá nhân được sử dụng bởi một người",
+            "hasImg": true
+        },
+        {
+            "id": "d63e4295-7ca0-41ca-8da0-1b1c13842d65",
+            "word": "workstation",
+            "phonetic": "wɜːksteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And finally, the work surface turns the truck into a mobile workstation.",
+                "So there's two workstations per state room.",
+                "Maybe next time they'll send a workstation over.",
+                "That's basically, I mean, that's a workstation.",
+                "I kinda wish my workstation was a little bit more performancy right about now."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ya3N0YXRpb24&hash=ef1f6ad0cbf32ee62db2bf3522496fed826bfc69&lang=en&cache-only=0",
+            "defineEn": "a desktop computer that is connected to a network, which is more upgraded than a personal computer",
+            "defineVi": "một máy tính để bàn được kết nối với mạng, được nâng cấp hơn máy tính cá nhân"
+        },
+        {
+            "id": "e6115a70-9a7e-4f17-9fec-db4106721a24",
+            "word": "spreadsheet",
+            "phonetic": "spɹɛdʃiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Leave room on the spreadsheet to add the results later.",
+                "Do you know how to use spreadsheets?",
+                "Do you like Excel spreadsheets?",
+                "So I have an entire spreadsheet.",
+                "Spreadsheets and lists of Black businesses circulated all over social media."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ByZWFkc2hlZXQ&hash=1e20d197cc1f095cdea7d65a91e378c76b830fea&lang=en&cache-only=0",
+            "defineEn": "a computer program used for calculating data, especially financial data",
+            "defineVi": "một chương trình máy tính được sử dụng để tính toán dữ liệu, đặc biệt là dữ liệu tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "f5856132-cccc-4e57-b6b1-61aea4f26a8f",
+            "word": "to computerize",
+            "phonetic": "tə kəmpjuːɾɚɹaɪz ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He was a computer guy who had had an idea about the way to computerize federal medical systems.",
+                "They will pioneer technology like they computerized reservation systems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29tcHV0ZXJpemU&hash=c3cd26f1d473a54b1260d1a730cb8856b03fbb45&lang=en&cache-only=0",
+            "defineEn": "to use computers to perform a task or do a particular job",
+            "defineVi": "để sử dụng máy tính để thực hiện một nhiệm vụ hoặc làm một công việc cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "5600d737-f9ed-41a3-a01b-09f9a38975fc",
+            "word": "to encode",
+            "phonetic": "tʊ ɛŋkoʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Information is encoded in the structure of the molecule.",
+                "I like that outfit Encode your DNA.",
+                "Each sequence encodes a number that determines the intensity of that particular color.",
+                "Instead, each type of data is encoded in binary according to a separate set of rules.",
+                "Like many genes, it encodes a string of mRNA which encodes a protein."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZW5jb2Rl&hash=bd7604ece0728e1ebb09b65ced4ba4dd9e2532d3&lang=en&cache-only=0",
+            "defineEn": "to transform data into a coded form",
+            "defineVi": "để chuyển đổi dữ liệu thành dạng được mã hóa"
+        },
+        {
+            "id": "05a1d2d2-2086-4e0a-9f97-83b39029f1db",
+            "word": "to format",
+            "phonetic": "tə fɔːɹmæt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The essay needs to be formatted according to the MLA guidelines.",
+                "I need to format my external hard drive before transferring files to it.",
+                "It attempts to read a floppy disk without regard to its format.",
+                "The format is pretty simple.",
+                "I don't understand the podcast format."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZm9ybWF0&hash=8627309834d4fb922473ab45442055066e13d766&lang=en&cache-only=0",
+            "defineEn": "(computing) to prepare a storage device, such as a hard drive or USB, for use by deleting all the data on it and setting it up for a specific file system",
+            "defineVi": "(máy tính) để chuẩn bị một thiết bị lưu trữ, chẳng hạn như ổ cứng hoặc USB, để sử dụng bằng cách xóa tất cả dữ liệu trên thiết bị đó và thiết lập thiết bị cho một hệ thống tệp cụ thể"
+        },
+        {
+            "id": "b3658fbd-cd76-4ce4-92f3-b82f9a88b539",
+            "word": "to load",
+            "phonetic": "tə loʊd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The U.S. tax code now loads the dice in favor of private pension plans.",
+                "The blackberry bushes in our backyard were loaded with plump, juicy fruits.",
+                "Get a load of that dress Mag!",
+                "Get a load of George over there.",
+                "The truck carried a load of construction materials to the building site."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbG9hZA&hash=13367f5e4dcdea5dc1786caa32f649509e7ac37c&lang=en&cache-only=0",
+            "defineEn": "to move data or a program from a local storage device into the memory of a computer",
+            "defineVi": "để di chuyển dữ liệu hoặc chương trình từ thiết bị lưu trữ cục bộ vào bộ nhớ của máy tính"
+        },
+        {
+            "id": "ba774a3c-d6f4-4a61-aa86-91e953cbeb87",
+            "word": "to retrieve",
+            "phonetic": "tə ɹᵻtɹiːv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I left my phone in the taxi and had to call the company to retrieve it.",
+                "Then, retrieve a one-quarter inch refrigerator water supply line.",
+                "Retrieve the dough.",
+                "Place, retrieve, and return.",
+                "The RAM retrieves the value at that address, which is 00000011, or 3 in decimal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmV0cmlldmU&hash=e6f2dfde686334cfe955fd7188380e51381ebb62&lang=en&cache-only=0",
+            "defineEn": "to find and collect data stored on a computer",
+            "defineVi": "để tìm và thu thập dữ liệu được lưu trữ trên máy tính"
+        },
+        {
+            "id": "96ec277c-a1a9-4373-a615-c4b210771549",
+            "word": "to upgrade",
+            "phonetic": "tʊ ʌpɡɹeɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "You can always upgrade a bit further down the road if you want.",
+                "Sarah was content with her old phone and refused to upgrade it.",
+                "I think we should use the extra money to invest in some new computer upgrades, but it's the boss's call in the end.",
+                "The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car.",
+                "When Jack's friend suggested he upgrade his phone to the latest model, Jack replied, \"If it ain't broke, don't fix it.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdXBncmFkZQ&hash=932ecfb990337153660f9999e9e68ba577f29e59&lang=en&cache-only=0",
+            "defineEn": "to improve a machine, computer system, etc. in terms of efficiency, standards, etc.",
+            "defineVi": "để cải thiện máy móc, hệ thống máy tính, v.v. về hiệu quả, tiêu chuẩn, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "8bdc6d4f-0157-4204-8223-4c3e4b9d20a0",
+            "word": "to game",
+            "phonetic": "tə ɡeɪm ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The children played games in the yard.",
+                "Three cheers for Sarah, whose brilliant goal at the last minute won us the game!",
+                "The game strikes a great balance between accessibility for younger players and a rewarding challenge for veterans of the genre.",
+                "A large crowd watched the game on Saturday.",
+                "Two could play at that game, smart guy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ2FtZQ&hash=4a84b2c0ea4a6bb5432074eb73880278eb734909&lang=en&cache-only=0",
+            "defineEn": "to play computer or video games",
+            "defineVi": "để chơi máy tính hoặc trò chơi điện tử"
+        },
+        {
+            "id": "c58287cb-318b-4117-8990-b4afc50adf44",
+            "word": "SSD",
+            "phonetic": "ɛsɛsdiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And the SSDs are here too. -",
+                "We've got our SSD right here.",
+                "It's a 512 GB NVMe SSD.",
+                "The SSD comes in a nice little case and everything.",
+                "You just get your SSD that you can take out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U1NE&hash=94dafa15ef1f11c71b01683ebf5292fef1924859&lang=en&cache-only=0",
+            "defineEn": "a device fixed in a computer to store information, which retains data if power goes off and is much faster compared to a hard drive",
+            "defineVi": "một thiết bị cố định trong máy tính để lưu trữ thông tin, lưu giữ dữ liệu nếu mất điện và nhanh hơn nhiều so với ổ cứng"
+        }
+    ]
+}

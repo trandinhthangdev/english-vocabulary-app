@@ -1,0 +1,559 @@
+{
+    "id": "e2d14ab7-a551-4556-b26a-756b302486cc",
+    "title": "Travel and Tourism 2",
+    "originalTitle": "Lesson 36",
+    "words": [
+        {
+            "id": "2432ef60-9d2f-40e0-9900-609bc60b6f0e",
+            "word": "vacation",
+            "phonetic": "veɪkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I hate summer vacation.",
+                "The couple spent their vacation in a cozy cabin, billing and cooing by the fireplace.",
+                "My family goes on a vacation once a year.",
+                "To go on vacation.",
+                "We spent our vacation in a real heaven on earth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFjYXRpb24&hash=72663a7bd0ecb9c67bcc19d8a96469a8ff19e90a&lang=en&cache-only=0",
+            "defineEn": "a span of time which we do not work or go to school, and spend traveling or resting instead, particularly in a different city, country, etc.",
+            "defineVi": "một khoảng thời gian mà chúng ta không đi làm hay đi học mà thay vào đó là đi du lịch hoặc nghỉ ngơi, đặc biệt là ở một thành phố, quốc gia khác, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "643c201a-af66-4203-adab-207c60f27bcf",
+            "word": "adventure",
+            "phonetic": "ɐdvɛntʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The west is often associated with notions of freedom and adventure.",
+                "He scratches his itch for adventure by traveling to exotic destinations.",
+                "Adventure expeditions are growing in popularity, particularly among older Americans with money to burn.",
+                "My sister packed some Spanish limes in her picnic basket for a tangy snack on our outdoor adventure.",
+                "He took a big step forward to start his new adventure."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWR2ZW50dXJl&hash=fd2495b57b8dc60b683f08218f1cff2dc5e0cd78&lang=en&cache-only=0",
+            "defineEn": "an exciting or unusual experience, often involving risk or physical activity",
+            "defineVi": "một trải nghiệm thú vị hoặc bất thường, thường liên quan đến rủi ro hoặc hoạt động thể chất",
+            "hasImg": true
+        },
+        {
+            "id": "7cfc331e-bc9f-425c-9b88-e1501612a0c2",
+            "word": "journey",
+            "phonetic": "dʒɜːni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The journey home through the storm was absolute murder!",
+                "The journey to the airport takes about half an hour.",
+                "They had to continue their journey on foot.",
+                "The ticket for the bus is valid for a single journey.",
+                "The adventurer used the tail fat as a survival resource during their journey in the wilderness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=am91cm5leQ&hash=a4c8b67dc4fec212df96d0ade833d3272a0b5e35&lang=en&cache-only=0",
+            "defineEn": "the act of travelling between two or more places, especially when there is a long distance between them",
+            "defineVi": "hành động di chuyển giữa hai hoặc nhiều nơi, đặc biệt là khi có khoảng cách xa giữa chúng",
+            "hasImg": true
+        },
+        {
+            "id": "ca10ec06-5e41-462a-9f0a-a01bc9c89960",
+            "word": "cruise",
+            "phonetic": "kɹuːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cruise went very quickly.",
+                "They were cruising for a bruising.",
+                "To go on a journey/tour/trip/cruise.",
+                "Unless you've got your stuff together then you're cruising for a bruising",
+                "The Rhine River is one of the longest rivers in Germany and offers scenic boat cruises."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3J1aXNl&hash=c7ef11f6f19ad87e3b64e8a9f48a9bf94c1b3924&lang=en&cache-only=0",
+            "defineEn": "a journey taken by a ship for pleasure, especially one involving several destinations",
+            "defineVi": "một hành trình được thực hiện bởi một con tàu để giải trí, đặc biệt là một hành trình liên quan đến một số điểm đến",
+            "hasImg": true
+        },
+        {
+            "id": "6029f360-0877-461e-a614-15bb8a149f22",
+            "word": "trip",
+            "phonetic": "tɹɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our trip is still very much up in the air.",
+                "We often take weekend trips to nearby cities for sightseeing and relaxation.",
+                "During the camping trip, we played a game of charades around the campfire.",
+                "She packed a small bag of peanuts for her road trip.",
+                "She has had a good time on her trip so far."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJpcA&hash=4fea33089d07af70d5283e3df08f2f3005b26227&lang=en&cache-only=0",
+            "defineEn": "a journey that one goes on for pleasure or a particular purpose, generally for a short amount of time",
+            "defineVi": "một cuộc hành trình mà một người tiếp tục vì niềm vui hoặc một mục đích cụ thể, thường là trong một khoảng thời gian ngắn",
+            "hasImg": true
+        },
+        {
+            "id": "f6506eeb-f31f-4414-9a8e-fbb9fa489132",
+            "word": "foreign",
+            "phonetic": "fɔːɹən ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Foreign car manufacturers have made inroads into the European market.",
+                "The college runs summer courses for foreign students.",
+                "I've had it with foreign holidays.",
+                "He traveled to a foreign country where horseflesh was considered a delicacy.",
+                "Every so often, Claire has itchy feet and sets off for a foreign destination."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9yZWlnbg&hash=c86a5e2db9e2c23aa47e95e2b7a54861c567a931&lang=en&cache-only=0",
+            "defineEn": "in, from, or characteristic of a country or language other than one's own",
+            "defineVi": "trong, từ, hoặc đặc trưng của một quốc gia hoặc ngôn ngữ không phải của chính mình",
+            "hasImg": true
+        },
+        {
+            "id": "50d23594-99a4-41ba-b918-c36683b858d9",
+            "word": "foreigner",
+            "phonetic": "fɔːɹənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Also, foreigners played an important role.",
+                "Her two sons are foreigners.",
+                "When I arrived for the shoot, his entire lobby was full of foreigners.",
+                "About two-thirds of the foreigners are under the age of 12.",
+                "We are often viewed as foreigners and outsiders."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9yZWlnbmVy&hash=a5e779dcb37b1cf288217b016f11c10dd1f67977&lang=en&cache-only=0",
+            "defineEn": "someone who comes from a foreign country",
+            "defineVi": "một người đến từ nước ngoài",
+            "hasImg": true
+        },
+        {
+            "id": "5054ef58-08c7-4abf-a5aa-c9895373058c",
+            "word": "motel",
+            "phonetic": "moʊtɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "More people are coming from the motel.",
+                "Is there a motel?",
+                "After the action in the ring, Clay and three famous friends get together in a motel room for the real action, deeply personal debates over their work and responsibilities as Black men.",
+                "'There's a nice motel across the river.",
+                "Suddenly, Kenny remembers the girl at the motel desk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW90ZWw&hash=7f6c83a9b4ccb48fbba19aed2a2af41e6431fcfe&lang=en&cache-only=0",
+            "defineEn": "a hotel near the road suitable for people who are on a road trip, usually with rooms arranged in a row and parking places outside",
+            "defineVi": "một khách sạn gần đường thích hợp cho những người đi du lịch trên đường, thường có các phòng được sắp xếp theo dãy và bãi đậu xe bên ngoài",
+            "hasImg": true
+        },
+        {
+            "id": "a685f9d0-dd70-41ad-8880-6fa2df6a3af5",
+            "word": "cancelation",
+            "phonetic": "kænsɪleɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But cost cutting measures were starting to result in complaints about flight delays and cancelations, problems with baggage and issues with reservations and bookings.",
+                "Take a moment to make sure it’s clear what’s happening without velocity diagram: The change from one vector to the next, the little difference vector joining one tip to the next, will always have the same length, which was a consequence of the perfect cancelation that happens when mixing Kepler’s second law with the inverse square law."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FuY2VsYXRpb24&hash=9ba50d0d0343fea43a067cdf0b53498ca18522b7&lang=en&cache-only=0",
+            "defineEn": "the act of canceling a planned event or an order for something",
+            "defineVi": "hành động hủy bỏ một sự kiện theo kế hoạch hoặc một đơn đặt hàng cho một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "8948204a-a30e-48e7-9496-cd5e6326e9e6",
+            "word": "reservation",
+            "phonetic": "ɹɛzɚveɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The restaurant reservation is for 8 o'clock tonight.",
+                "We can hold your reservation for three days.",
+                "Is there a table available for dinner reservations tonight?",
+                "They asked for his last name at the hotel check-in, to confirm his reservation.",
+                "We should spell our last names when making reservations to avoid any misunderstandings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzZXJ2YXRpb24&hash=ccb6c7360e3ab205074266d98a4324929e22a117&lang=en&cache-only=0",
+            "defineEn": "the act of arranging something, such as a place on an airplane, in a restaurant, or at a hotel to be kept for one to use later at a particular time",
+            "defineVi": "hành động sắp xếp một cái gì đó, chẳng hạn như một địa điểm trên máy bay, trong một nhà hàng hoặc tại một khách sạn để được giữ cho một người sử dụng sau này vào một thời điểm cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "b31da6d4-9286-4f71-8e25-d7936b5d54f8",
+            "word": "to reserve",
+            "phonetic": "tə ɹɪzɜːv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "In our house, the bigger bedroom was always reserved for my older sister.",
+                "Reserve now and fly half-price.",
+                "Can you make a call to the restaurant and reserve a table for us?",
+                "The normally reserved and polite man became aggressive and confrontational when he was drunk, revealing a darker side of his personality.",
+                "Although he was reserved and often kept to himself, those who knew him well knew that he had a kind and generous heart."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVzZXJ2ZQ&hash=539c28f584e7392bf26fb3c603f067669fbd2174&lang=en&cache-only=0",
+            "defineEn": "to arrange something to be kept for later use",
+            "defineVi": "để sắp xếp một cái gì đó để được lưu giữ để sử dụng sau này",
+            "hasImg": true
+        },
+        {
+            "id": "714a0294-8e2d-4855-b13e-3c104d1b4589",
+            "word": "visa",
+            "phonetic": "viːzə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Visa be their actual measured performance in standardized testing.",
+                "Big tech companies, Apple, Alphabet, Amazon, Microsoft use H-1B visas.",
+                "Giants like MasterCard, Visa and Amex dominate the network market.",
+                "So nonimmigrant visas are generally temporary in nature.",
+                "The translator visas are officially called Special Immigration Visas, or SIVs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlzYQ&hash=31df391b93abcc1fb63a403716599b4a8285811e&lang=en&cache-only=0",
+            "defineEn": "an official mark on someone's passport that allows them to enter or stay in a country",
+            "defineVi": "một nhãn hiệu chính thức trên hộ chiếu của ai đó cho phép họ vào hoặc ở lại một quốc gia",
+            "hasImg": true
+        },
+        {
+            "id": "04633f79-4431-495a-b865-fa6ba26d4896",
+            "word": "to stay",
+            "phonetic": "tə steɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The store stays open late on Thursdays.",
+                "The TV stays on all day in their house.",
+                "Stay in touch with your customers via Internet.",
+                "Stay in touch with the latest technologies.",
+                "Enjoy your stay at our hotel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RheQ&hash=256dbde68aba3e7e5fee3bf3e23f1ba594dde196&lang=en&cache-only=0",
+            "defineEn": "to live somewhere for a short time, especially as a guest or visitor",
+            "defineVi": "sống ở đâu đó trong một thời gian ngắn, đặc biệt là với tư cách là khách hoặc du khách",
+            "hasImg": true
+        },
+        {
+            "id": "131b76cd-b4d7-4fc4-b49e-cfb17b6e60d0",
+            "word": "postcard",
+            "phonetic": "poʊstkɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A postcard showing the Wicklow Mountains.",
+                "Sure enough, Sergei Kovalev never received this postcard.",
+                "If you have not, for a January promo, each pledge, even a dollar pledge, will get you a postcard with a little handwritten letter from me.",
+                "Back in August, New Horizons sent NASA a grainy postcard with its first picture of Ultima Thule, and since then, the probe has been hurtling toward its target at about 14 kilometers per second.",
+                "I did get one postcard back from Brittani Louise Taylor, if that's her name, and she said thank you."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zdGNhcmQ&hash=20d5bbadd3ade639e31ea6227ab4d7e51f374f18&lang=en&cache-only=0",
+            "defineEn": "‌a card that usually has a picture on one side, used for sending messages by post without an envelope",
+            "defineVi": "‌thẻ thường có hình một mặt, dùng để gửi thư qua đường bưu điện không cần phong bì",
+            "hasImg": true
+        },
+        {
+            "id": "203f05d1-e9f7-4054-b146-cc53bf420055",
+            "word": "souvenir",
+            "phonetic": "suːvənɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I collected seashells as souvenirs from the beautiful island.",
+                "She bought a beautiful piece of European pottery as a souvenir.",
+                "Salesmen of unofficial souvenirs have also been doing a roaring trade.",
+                "Some species even have fingernails on their flippers, old souvenirs from their ancient days on land.",
+                "Simon showed us souvenirs like this jade cicada."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291dmVuaXI&hash=88a5eda4873d4095c11e6f48474e7bf014eabea0&lang=en&cache-only=0",
+            "defineEn": "something that we usually buy and bring back for other people from a place that we have visited on vacation",
+            "defineVi": "thứ gì đó mà chúng ta thường mua và mang về cho người khác từ một nơi mà chúng ta đã đến trong kỳ nghỉ",
+            "hasImg": true
+        },
+        {
+            "id": "1c66bd3e-cb07-4e3f-8f44-474231bd051f",
+            "word": "to visit",
+            "phonetic": "tə vɪzɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They visit their grandmother every weekend.",
+                "We sometimes visit our relatives during the holidays.",
+                "They often visit their grandparents on weekends.",
+                "We usually visit our grandparents during the holidays.",
+                "We visited a local smokehouse renowned for its mouthwatering brisket."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdmlzaXQ&hash=91c8b7064343f9ba09995690aeb3a43029cd9201&lang=en&cache-only=0",
+            "defineEn": "to go to somewhere for a short time, especially to see something",
+            "defineVi": "đi đến một nơi nào đó trong một thời gian ngắn, đặc biệt là để xem một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "0d74a135-0689-4d83-97e6-f25c1122d5e6",
+            "word": "to sightsee",
+            "phonetic": "tə saɪtsiː ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2lnaHRzZWU&hash=607e09fe5151806222a2a0405b3d95e28734ff02&lang=en&cache-only=0",
+            "defineEn": "to visit interesting and well-known places",
+            "defineVi": "đến thăm những nơi thú vị và nổi tiếng",
+            "hasImg": true
+        },
+        {
+            "id": "0bb55878-a6a5-482e-8995-8bef9c81cf9c",
+            "word": "to check in",
+            "phonetic": "tə tʃɛk ɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Check in.",
+                "Checking in.",
+                "Check in.",
+                "The sun checks in at minus 27.",
+                "First, he checks in with his architects Iktinos and Callicrates."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hlY2sgaW4&hash=534a5ab32e5314ea2590bce20bbaadb4e4f27559&lang=en&cache-only=0",
+            "defineEn": "to arrive and fill in your name in a hotel or airport",
+            "defineVi": "đến và điền vào tên của bạn trong một khách sạn hoặc sân bay",
+            "hasImg": true
+        },
+        {
+            "id": "94e5477d-2cd5-47d6-ae74-4d922d77e4d7",
+            "word": "to check out",
+            "phonetic": "tə tʃɛk aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Alice's husband had a roving eye, always checking out other women even when they were out together.",
+                "Check out the bag cam.",
+                "Check out their site.",
+                "Check out his astronomy blog here.",
+                "Check out the links in the description."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hlY2sgb3V0&hash=c4ed40daff39efeb881afc68d72073089bf12b26&lang=en&cache-only=0",
+            "defineEn": "to leave a hotel after returning your room key and paying the bill",
+            "defineVi": "rời khách sạn sau khi trả lại chìa khóa phòng và thanh toán hóa đơn",
+            "hasImg": true
+        },
+        {
+            "id": "d178cfb3-8225-4155-b966-2e25be9f1d92",
+            "word": "abroad",
+            "phonetic": "ɐbɹɔːd ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Many investors have turned their attention to opportunities abroad.",
+                "He had been abroad many times.",
+                "We plan to study abroad next year to experience different cultures.",
+                "I spent a year travelling abroad, and I lived on the smell of an oily rag to get by.",
+                "He enjoyed trying new foods while traveling abroad."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWJyb2Fk&hash=696be9f33d60d5362d33e0efb4e97b391c5b37d9&lang=en&cache-only=0",
+            "defineEn": "in or to a foreign country",
+            "defineVi": "Vào hoặc tới nước ngoài",
+            "hasImg": true
+        },
+        {
+            "id": "2a34a73f-e771-43c1-9527-90596e79c34b",
+            "word": "to change",
+            "phonetic": "tə tʃeɪndʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That experience changed my life.",
+                "The storekeeper changed my dollar bill for four quarters.",
+                "Leaves change colour in autumn.",
+                "The wind has changed direction.",
+                "The lights changed to green."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hhbmdl&hash=cfe58ecdbdf274fe64af4fdf5332fe5608faf329&lang=en&cache-only=0",
+            "defineEn": "to move or go from a vehicle, airplane, etc. to another in order to continue a journey",
+            "defineVi": "di chuyển hoặc đi từ phương tiện, máy bay, v.v. sang phương tiện khác để tiếp tục hành trình",
+            "hasImg": true
+        },
+        {
+            "id": "ce3b2012-4f79-4bf8-abaf-60311ba699df",
+            "word": "to fly",
+            "phonetic": "tə flaɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The colorful bird flew high in the sky.",
+                "\"And pigs can fly!\"",
+                "The airplane flew through the clouds on its way to the destination.",
+                "a black raven is flying across the night sky.",
+                "Birds can fly freely in the sky."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmx5&hash=572e2387383ac2d52a5cea0931a2251903006648&lang=en&cache-only=0",
+            "defineEn": "to travel or cross something in an aircraft",
+            "defineVi": "để đi du lịch hoặc băng qua một cái gì đó trong một chiếc máy bay",
+            "hasImg": true
+        },
+        {
+            "id": "1d1bb963-2c04-4b50-afbe-0afebddc7534",
+            "word": "to land",
+            "phonetic": "tə lænd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "A few weeks later, I landed my dream job.",
+                "The land dropped steeply away into a small valley.",
+                "Farmers cleared the land in order to raise cattle.",
+                "Our family line has presided over this land from the year dot.",
+                "Many families own plots of land to grow food."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGFuZA&hash=d7132c394fb6f5470e91cc214b034afa05fb01dc&lang=en&cache-only=0",
+            "defineEn": "to arrive and rest on the ground or another surface after being in the air",
+            "defineVi": "đến và nghỉ ngơi trên mặt đất hoặc bề mặt khác sau khi ở trong không khí",
+            "hasImg": true
+        },
+        {
+            "id": "78517b92-a54b-4595-a612-1dc2748b72a2",
+            "word": "to take off",
+            "phonetic": "tə teɪk ɔf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "When the police informer saw a friend, he took off like a rat up a drainpipe.",
+                "He will make a fortune if his invention takes off.",
+                "I watched the planes take off and land from the observation deck at the airport.",
+                "I always feel excited when the airplane takes off.",
+                "He was embarrassed by his moobs while taking off his shirt at the beach."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFrZSBvZmY&hash=fdfcfd75e901b6bef95f160c153b8a6a7fc9a812&lang=en&cache-only=0",
+            "defineEn": "to leave a surface and begin flying",
+            "defineVi": "để rời khỏi một bề mặt và bắt đầu bay",
+            "hasImg": true
+        },
+        {
+            "id": "250cfa51-a598-426b-a3a2-c09c3304ad68",
+            "word": "schedule",
+            "phonetic": "skɛdʒuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Programs are running a few minutes behind schedule this evening.",
+                "The slow train arrived at the station behind schedule.",
+                "The meeting is scheduled to start at half past nine, which is thirty minutes from now.",
+                "He felt a sharp pain in his tooth and scheduled a dental appointment.",
+                "The regulations are scheduled to go into effect next winter, and in the interim, we'll be working hard to make all of the appropriate changes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NoZWR1bGU&hash=4eb89f5236d2dbc2119d14203da078b4a8e624b2&lang=en&cache-only=0",
+            "defineEn": "a list or chart that shows the times at which trains, buses, planes, etc. leave and arrive",
+            "defineVi": "một danh sách hoặc biểu đồ hiển thị thời gian tàu hỏa, xe buýt, máy bay, v.v. khởi hành và đến nơi",
+            "hasImg": true
+        },
+        {
+            "id": "1de0328d-13a7-4e7f-93d3-d6642e9f71cb",
+            "word": "to wander",
+            "phonetic": "tə wɔndɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He allowed his mind to wander.",
+                "The lost dog wandered from pillar to post, searching for its owner in different neighborhoods.",
+                "Four brothers wandered this celestial realm.",
+                "Around 50 million years ago, a hippo-like animal wandered into the water.",
+                "He wanders away!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd2FuZGVy&hash=f3e02ccdfab9f49571ff89fe2684ad7ce6430a47&lang=en&cache-only=0",
+            "defineEn": "to walk around with no purpose and specific direction",
+            "defineVi": "đi loanh quanh không có mục đích và phương hướng cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "56e598a8-1779-4e04-8fdc-d05320eae63d",
+            "word": "arrival",
+            "phonetic": "ɚɹaɪvəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The parents eagerly awaited the arrival of their first baby.",
+                "With the arrival of spring, he eagerly anticipated the first harvest of Prussian asparagus to prepare a traditional Easter brunch.",
+                "The scent of wild cherry blossoms filled the air, signaling the arrival of spring.",
+                "With the arrival of the new year, it's time to ring out the old and set new goals for personal growth and development.",
+                "As the season changes, I can't wait for the first bite of a juicy Victoria plum to mark the arrival of summer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJyaXZhbA&hash=e1f4f4d5dc73ce9fb06d6e207a17d2f64507d37e&lang=en&cache-only=0",
+            "defineEn": "the act of arriving at a place from somewhere else",
+            "defineVi": "hành động đến một nơi từ một nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "f618eeb9-7646-48ee-bb26-2bce19d9dc6c",
+            "word": "departure",
+            "phonetic": "dᵻpɑːɹtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Right in the middle of the review is a left-handed compliment: the critic praises the actor for his \"startling career departure.\"",
+                "[Woman Over Speaker] Passengers on 1155 to Los Angeles, departure is now delayed to 11:15 am.",
+                "Twitter co-founder Evan Williams took the reins of the company after Dorsey's departure.",
+                "Some of that is due to the departure of the former CEO Brian Niccol.",
+                "A few hours before departure time, the cargo is tugged to a build station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwYXJ0dXJl&hash=44cd5590e103c04bba503ce1c2de3c6aa2ed3f92&lang=en&cache-only=0",
+            "defineEn": "the act of leaving, usually to begin a journey",
+            "defineVi": "hành động rời đi, thường là để bắt đầu một cuộc hành trình",
+            "hasImg": true
+        },
+        {
+            "id": "3185f291-f193-4f8d-a97a-521326415900",
+            "word": "customs",
+            "phonetic": "kʌstəmz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Customs officers have the right to check all baggage going through customs.",
+                "Earlier today, I spoke to Customs and Border Protection Executive Assistant Commissioner Brenda Smith.",
+                "Earlier today, I spoke to Customs and Border Protection Executive Assistant Commissioner Brenda Smith.",
+                "Customs and Border Patrol was like, no chance.",
+                "Ana Hinojosa is a Customs and Border Protection executive director."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VzdG9tcw&hash=8d9f35c7af6f5c068c1f2f251ce4c1cf8c795a7b&lang=en&cache-only=0",
+            "defineEn": "the place at an airport or port where passengers' bags are checked for illegal goods as they enter a country",
+            "defineVi": "địa điểm tại sân bay hoặc bến cảng nơi túi hành khách được kiểm tra hàng hóa bất hợp pháp khi họ nhập cảnh vào một quốc gia",
+            "hasImg": true
+        },
+        {
+            "id": "9dc69d3e-f65b-4967-9f1c-ddf8178ec946",
+            "word": "ride",
+            "phonetic": "ɹaɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The government rode roughshod over all opposition to the new measures.",
+                "We ride our bikes along the bike lane on the main street.",
+                "They are riding the crest of the wave at the moment.",
+                "He rides his motorcycle to work every day.",
+                "I gave my friend a ride home from the party last night."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmlkZQ&hash=470c150c804fea74022320af0e535fecda7aa109&lang=en&cache-only=0",
+            "defineEn": "a journey on a horse, bicycle, or automobile",
+            "defineVi": "một cuộc hành trình trên một con ngựa, xe đạp, hoặc ô tô",
+            "hasImg": true
+        },
+        {
+            "id": "abff5ad6-717d-496d-9d60-36265d81604f",
+            "word": "to leave",
+            "phonetic": "tə liːv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "His partner left the table in a fit of pique.",
+                "The spicy beef jerky left a smoky aftertaste in my mouth.",
+                "Red wine leaves a stain.",
+                "Leaves change colour in autumn.",
+                "The intense gaze from across the room, eyes on stalks, left no doubt about his attraction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGVhdmU&hash=215b7dfac8967d163c5ea6330f2454f1fc128251&lang=en&cache-only=0",
+            "defineEn": "to go away from somewhere or someone",
+            "defineVi": "đi khỏi một nơi nào đó hoặc một ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "c500ff27-9976-4f8d-93ff-2ae08e0a18f9",
+            "word": "to arrive",
+            "phonetic": "tʊ ɚɹaɪv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The slow train arrived at the station behind schedule.",
+                "Has the train from Bristol arrived?",
+                "The fast train arrived at the destination in no time.",
+                "Replies to the advertisement are arriving in fits and starts.",
+                "The elevator arrived after a couple of minutes of waiting."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYXJyaXZl&hash=2a6705ceb505b3554d894b0ff589d949c601c4ee&lang=en&cache-only=0",
+            "defineEn": "to reach a location, particularly as an end to a journey",
+            "defineVi": "để đạt được một địa điểm, đặc biệt là kết thúc một cuộc hành trình",
+            "hasImg": true
+        },
+        {
+            "id": "457eac30-79c5-49af-93fa-64b3978ab42f",
+            "word": "to cancel",
+            "phonetic": "tə kænsəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We had to cancel our outdoor plans due to the stormy weather.",
+                "They had a bad hair day on their vacation, encountering unexpected weather, canceled plans, and lost luggage.",
+                "The wheels fell off her career when she started taking drugs and cancelling concerts.",
+                "In the event that the performance is canceled, you can get your money back.",
+                "No, it got canceled, so I'm off the hook"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2FuY2Vs&hash=aa46a6c54dbd56f93b79fdc5c1bd8b5e71abde8f&lang=en&cache-only=0",
+            "defineEn": "to decide or tell that something arranged before will now not happen",
+            "defineVi": "để quyết định hoặc nói rằng một cái gì đó sắp xếp trước đây sẽ không xảy ra",
+            "hasImg": true
+        }
+    ]
+}

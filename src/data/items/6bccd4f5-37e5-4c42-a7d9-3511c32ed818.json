@@ -1,0 +1,533 @@
+{
+    "id": "6bccd4f5-37e5-4c42-a7d9-3511c32ed818",
+    "title": "Electronic Music",
+    "originalTitle": "Electronic Music",
+    "words": [
+        {
+            "id": "6b517bf6-4112-4d5f-abac-eebb5dec2366",
+            "word": "ambient music",
+            "phonetic": "æmbiənt mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCBtdXNpYw&hash=ccb49684aa3bfd2c516ffe7e6dd87a847d12f3dd&lang=en&cache-only=0",
+            "defineEn": "a genre of music known for its atmospheric and often electronic soundscapes, designed to create a relaxing and immersive listening experience",
+            "defineVi": "một thể loại âm nhạc được biết đến với âm thanh trong không khí và thường là điện tử, được thiết kế để tạo ra trải nghiệm nghe thư giãn và đắm chìm"
+        },
+        {
+            "id": "a1ab1834-eb69-41c4-8d89-bb20e1ac2374",
+            "word": "ambient pop",
+            "phonetic": "æmbiənt pɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCBwb3A&hash=90f9f6c62c70c14edcff5671730ffc1d39d0db2e&lang=en&cache-only=0",
+            "defineEn": "a subgenre of popular music that incorporates ambient elements, such as atmospheric textures and dreamy soundscapes, into its musical arrangements",
+            "defineVi": "một thể loại con của âm nhạc phổ biến kết hợp các yếu tố xung quanh, chẳng hạn như kết cấu khí quyển và âm thanh mơ mộng, vào sự sắp xếp âm nhạc của nó"
+        },
+        {
+            "id": "8406da9d-86e0-4222-8351-521b5279f425",
+            "word": "dark ambient",
+            "phonetic": "dɑːɹk æmbiənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGFyayBhbWJpZW50&hash=8ee5a19f4485fdda892588eddc4038b136d017ee&lang=en&cache-only=0",
+            "defineEn": "a subgenre of ambient music that is characterized by eerie, haunting, and often unsettling atmospheric sounds",
+            "defineVi": "một thể loại âm nhạc xung quanh được đặc trưng bởi âm thanh bầu không khí kỳ lạ, ám ảnh và thường gây lo lắng"
+        },
+        {
+            "id": "682f569f-91bb-471e-8649-cd6b167357c2",
+            "word": "ambient house",
+            "phonetic": "æmbiənt haʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCBob3VzZQ&hash=4e8b3532b11126dcfc3f804714263d9c21d1111a&lang=en&cache-only=0",
+            "defineEn": "a subgenre of electronic dance music that blends the beat of house music with relaxing and immersive sounds to create a chill atmosphere",
+            "defineVi": "một thể loại phụ của nhạc khiêu vũ điện tử pha trộn nhịp điệu của nhạc gia đình với âm thanh thư giãn và đắm chìm để tạo ra một bầu không khí thư giãn"
+        },
+        {
+            "id": "8c5a6ee1-2963-4982-a303-3e779822e68f",
+            "word": "ambient industrial",
+            "phonetic": "æmbiənt ɪndʌstɹɪəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCBpbmR1c3RyaWFs&hash=c57affa961900dbbb20d13d8331a07a10078f3be&lang=en&cache-only=0",
+            "defineEn": "a genre of experimental music that combines elements of ambient and industrial music, often featuring dark, atmospheric, and industrial sounds",
+            "defineVi": "một thể loại âm nhạc thử nghiệm kết hợp các yếu tố của âm nhạc công nghiệp và âm nhạc xung quanh, thường có âm thanh tối, khí quyển và công nghiệp"
+        },
+        {
+            "id": "4fe4999a-814a-444d-b2a0-c7b45d4160ba",
+            "word": "ambient techno",
+            "phonetic": "æmbiənt tɛknoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCB0ZWNobm8&hash=984883c1fca3b3b678b3072a3754f6324d26062a&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic music that combines elements of ambient and techno, often featuring repetitive beats, synthetic sounds, and atmospheric textures",
+            "defineVi": "một thể loại nhạc điện tử kết hợp các yếu tố của môi trường xung quanh và kỹ thuật, thường có các nhịp lặp đi lặp lại, âm thanh tổng hợp và kết cấu không khí"
+        },
+        {
+            "id": "67af37be-e024-4447-acfc-bdc907525785",
+            "word": "ambient dub",
+            "phonetic": "æmbiənt dʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW1iaWVudCBkdWI&hash=d76c02ea6d3b40fa5d8fa129e808d621ec86f883&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic music that blends elements of ambient and dub music, characterized by slow, spacious rhythms, echoing effects, and dub-inspired production techniques",
+            "defineVi": "một thể loại nhạc điện tử pha trộn các yếu tố của nhạc môi trường và nhạc lồng tiếng, được đặc trưng bởi nhịp điệu chậm rãi, rộng rãi, hiệu ứng vang vọng và kỹ thuật sản xuất lấy cảm hứng từ lồng tiếng"
+        },
+        {
+            "id": "8ccb438c-c22c-4d6d-bafa-e720d3745bce",
+            "word": "space music",
+            "phonetic": "speɪs mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2UgbXVzaWM&hash=19a666e259b9cce967c92670e5d21f9c611fe331&lang=en&cache-only=0",
+            "defineEn": "a genre of music that often features electronic instruments and creates a sense of floating and weightlessness, evoking the feeling of traveling through space",
+            "defineVi": "một thể loại âm nhạc thường có các nhạc cụ điện tử và tạo cảm giác bồng bềnh và không trọng lượng, gợi lên cảm giác du hành xuyên không gian"
+        },
+        {
+            "id": "24553fdc-ff0c-40f0-873b-e7a668ca3322",
+            "word": "dub",
+            "phonetic": "dʌb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This star is dubbed PDS 70.",
+                "His friends dubbed him the most interesting man in the world.",
+                "They dub it.",
+                "They dub it.",
+                "Oh they dub it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHVi&hash=3d8ff2b05199d1e0b6a23db8a03ebbc0de56a879&lang=en&cache-only=0",
+            "defineEn": "a style of West Indian electronic music that has a strong beat, influenced by reggae",
+            "defineVi": "một phong cách nhạc điện tử Tây Ấn Độ có nhịp điệu mạnh mẽ, chịu ảnh hưởng của reggae"
+        },
+        {
+            "id": "f95577fc-583e-48df-bdf6-f8424247f43e",
+            "word": "dungeon synth",
+            "phonetic": "dʌndʒən sɪnθ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHVuZ2VvbiBzeW50aA&hash=98646aeb9f915f19cb3f6f94c75b66cef6cf77aa&lang=en&cache-only=0",
+            "defineEn": "atmospheric fantasy-inspired music often created with synthesizers, evoking medieval and dungeon-like soundscapes",
+            "defineVi": "âm nhạc lấy cảm hứng từ giả tưởng trong khí quyển thường được tạo bằng bộ tổng hợp, gợi lên khung cảnh âm thanh thời trung cổ và ngục tối"
+        },
+        {
+            "id": "f57f56d1-8e19-40f9-9c13-d48b8e7e20a1",
+            "word": "hardstyle",
+            "phonetic": "hɑːɹdstaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFyZHN0eWxl&hash=69e5a8747fd883448e563be7817a3eb0ed2887ef&lang=en&cache-only=0",
+            "defineEn": "fast-paced electronic dance music with energetic beats, heavy basslines, and distinctive screeching synths",
+            "defineVi": "nhạc dance điện tử có nhịp độ nhanh với nhịp đập mạnh mẽ, âm trầm nặng và tiếng synth đặc biệt"
+        },
+        {
+            "id": "8be015ae-42ee-4bd7-a8c9-ea81dd815e19",
+            "word": "illbient",
+            "phonetic": "ɪlbiənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWxsYmllbnQ&hash=3ae0c1d92ce3ed658c75aef0a433552042236ccd&lang=en&cache-only=0",
+            "defineEn": "an experimental electronic genre blending ambient, hip-hop, and dub, known for its dark and futuristic soundscapes",
+            "defineVi": "một thể loại điện tử thử nghiệm pha trộn giữa môi trường xung quanh, hip-hop và lồng tiếng, được biết đến với âm thanh tối tăm và tương lai"
+        },
+        {
+            "id": "cb2f6f19-5acd-4fbf-bb58-7c097dbf74d6",
+            "word": "future bass",
+            "phonetic": "fjuːtʃɚ beɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnV0dXJlIGJhc3M&hash=a8551bd4b71471b2b38e67bab9fd9c132c4be6b7&lang=en&cache-only=0",
+            "defineEn": "an electronic genre known for its melodic, futuristic, and bass-heavy tracks with energetic beats, lush synths, and soulful vocal samples",
+            "defineVi": "một thể loại điện tử được biết đến với các bản nhạc du dương, tương lai và nhiều âm trầm với nhịp điệu tràn đầy năng lượng, synths tươi tốt và các mẫu giọng hát có hồn"
+        },
+        {
+            "id": "87893dd5-d967-4c1e-b8b8-6f2557396b3c",
+            "word": "new-age music",
+            "phonetic": "nuːeɪdʒ mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmV3LWFnZSBtdXNpYw&hash=9ab94b5233c01329c314f5e6555565b15a1425f4&lang=en&cache-only=0",
+            "defineEn": "a genre of ambient and spiritual music characterized by soothing and introspective soundscapes with influences from world music traditions",
+            "defineVi": "một thể loại âm nhạc xung quanh và tâm linh được đặc trưng bởi âm thanh nhẹ nhàng và nội tâm với những ảnh hưởng từ truyền thống âm nhạc thế giới"
+        },
+        {
+            "id": "85d6a791-ce79-4319-87e1-1dc25ded5bc3",
+            "word": "chill-out music",
+            "phonetic": "tʃɪlaʊt mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hpbGwtb3V0IG11c2lj&hash=fa348931b924bea0b73b704bb380a3436a868c72&lang=en&cache-only=0",
+            "defineEn": "a type of electronic downtempo music that is supposed to make the audience calm and relaxed",
+            "defineVi": "một loại nhạc downtempo điện tử được cho là làm cho khán giả bình tĩnh và thư giãn"
+        },
+        {
+            "id": "49dbf6a9-56ec-4214-8d21-174def8b720d",
+            "word": "house music",
+            "phonetic": "haʊs mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the next day, you remember the party as a whole, instead of smell of sweat, house music, Jen was there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG91c2UgbXVzaWM&hash=1b60b7376fc5f6d9b816db847ef0f2965f4a1365&lang=en&cache-only=0",
+            "defineEn": "a style of electronic dance music marked with a fast repetitive beat and a tempo of 110 to 130 bpm",
+            "defineVi": "một phong cách nhạc dance điện tử được đánh dấu bằng nhịp lặp lại nhanh và nhịp độ từ 110 đến 130 bpm",
+            "hasImg": true
+        },
+        {
+            "id": "45485c63-782a-4b9c-9d76-8f74ee11c579",
+            "word": "acid house",
+            "phonetic": "æsɪd haʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNpZCBob3VzZQ&hash=9da2beec9a44a79422c8fd092a21de0bf81e6e42&lang=en&cache-only=0",
+            "defineEn": "a subgenre of house music first developed in the US, marked with a fast steady beat and distorted synthesized sound effects, especially popular among those who take psychedelic drugs",
+            "defineVi": "một nhánh nhỏ của nhạc house được phát triển đầu tiên ở Mỹ, được đánh dấu bằng nhịp điệu nhanh và ổn định và các hiệu ứng âm thanh tổng hợp bị bóp méo, đặc biệt phổ biến đối với những người sử dụng thuốc gây ảo giác",
+            "hasImg": true
+        },
+        {
+            "id": "f301b49a-7e5c-4022-925a-436335a8572d",
+            "word": "industrial music",
+            "phonetic": "ɪndʌstɹɪəl mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5kdXN0cmlhbCBtdXNpYw&hash=1ca1322d2fa7068d160c664003cb08a86003570c&lang=en&cache-only=0",
+            "defineEn": "an experimental genre characterized by harsh, abrasive sounds, unconventional elements, and mechanical aesthetics, with roots in post-punk, noise, and electronic music",
+            "defineVi": "một thể loại thử nghiệm được đặc trưng bởi âm thanh khắc nghiệt, mài mòn, các yếu tố độc đáo và tính thẩm mỹ máy móc, bắt nguồn từ nhạc hậu punk, tiếng ồn và nhạc điện tử"
+        },
+        {
+            "id": "ee65250d-3205-4744-8844-79e9faa797e6",
+            "word": "techno",
+            "phonetic": "tɛknoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I like to make beat boxes and loops of techno, hip hop, things like that.",
+                "Got some Namco games, Techno's Peacoat, Interplay, Megacat and Atari games that I'm gonna be trying out on the Evercade handheld game console designed specifically for these older abandon-ware types of games.",
+                "(techno music playing)",
+                "(techno music) K-pop songs feature genre twists, mood changes, and unexpected musical turns.",
+                "(techno music) - I will give you one rice for your sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVjaG5v&hash=3dc39051c6a9cab5e67408ff5a097d5b43024199&lang=en&cache-only=0",
+            "defineEn": "a fast-paced style of electronic dance music with a few or no words",
+            "defineVi": "một phong cách nhạc dance điện tử nhịp độ nhanh với một vài từ hoặc không có lời",
+            "hasImg": true
+        },
+        {
+            "id": "374d98aa-80c2-44b2-ae81-082e77acfc04",
+            "word": "trance music",
+            "phonetic": "tɹæns mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhbmNlIG11c2lj&hash=e59bfd2f7ca648e1aaabd7d6e1ddab80dac61f79&lang=en&cache-only=0",
+            "defineEn": "a type of electronic dance music with hypnotic rhythms and sounds",
+            "defineVi": "một loại nhạc khiêu vũ điện tử với nhịp điệu và âm thanh thôi miên"
+        },
+        {
+            "id": "8ba6a3a5-f92d-45f2-9246-be88dda04c5e",
+            "word": "electronic rock",
+            "phonetic": "ᵻlɛktɹɑːnɪk ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb25pYyByb2Nr&hash=f74e850fc5d991c1b554246d85b4894b27509a32&lang=en&cache-only=0",
+            "defineEn": "a genre that combines rock and electronic music, featuring guitars, synthesizers, and electronic beats, resulting in a fusion of traditional rock instrumentation with electronic sounds",
+            "defineVi": "một thể loại kết hợp nhạc rock và nhạc điện tử, có ghi-ta, bộ tổng hợp và nhịp điện tử, dẫn đến sự kết hợp giữa nhạc cụ rock truyền thống với âm thanh điện tử"
+        },
+        {
+            "id": "7d7038ad-3b48-4997-b044-bedec8698b80",
+            "word": "deep house",
+            "phonetic": "diːp haʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVlcCBob3VzZQ&hash=dabd65da12ebaa5617cb4c3f36cfb9bbfef72e5e&lang=en&cache-only=0",
+            "defineEn": "genre of electronic dance music that has a slow and relaxed beat, with soulful vocals and a focus on melody and atmosphere",
+            "defineVi": "thể loại nhạc dance điện tử có nhịp điệu chậm và thoải mái, với giọng hát có hồn và tập trung vào giai điệu và bầu không khí"
+        },
+        {
+            "id": "f3c5f70a-b9f7-415e-b9c7-6b903640a36d",
+            "word": "nu-disco",
+            "phonetic": "nuːdɪskoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnUtZGlzY28&hash=66f49b735784f2dcd397d101847a201f07100ab7&lang=en&cache-only=0",
+            "defineEn": "a contemporary dance music genre with funky basslines, catchy melodies, and modern reinterpretations of classic disco elements",
+            "defineVi": "một thể loại nhạc khiêu vũ đương đại với âm trầm sôi nổi, giai điệu hấp dẫn và cách diễn giải lại hiện đại của các yếu tố disco cổ điển"
+        },
+        {
+            "id": "7572db78-a228-4dbb-9dc8-9cbfd4540095",
+            "word": "electro house",
+            "phonetic": "ɪlɛktɹoʊ haʊs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RybyBob3VzZQ&hash=359bec21f70e3c0d92a152e06b0a49234a864d75&lang=en&cache-only=0",
+            "defineEn": "a high-energy genre that combines house and electro music, featuring energetic beats, heavy basslines, and prominent synthesizers and electronic sounds",
+            "defineVi": "một thể loại năng lượng cao kết hợp nhạc house và nhạc điện tử, có nhịp đập mạnh mẽ, âm trầm nặng nề, bộ tổng hợp nổi bật và âm thanh điện tử"
+        },
+        {
+            "id": "55c52753-4e1d-4383-99ac-8e46d865fe3a",
+            "word": "electroacoustic music",
+            "phonetic": "ɪlɛktɹoʊɐkuːstɪk mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb2Fjb3VzdGljIG11c2lj&hash=0f2bafce7b13967496d70526581bc3251af9f359&lang=en&cache-only=0",
+            "defineEn": "an experimental genre that blends electronic and acoustic elements to create innovative and immersive soundscapes",
+            "defineVi": "một thể loại thử nghiệm pha trộn các yếu tố điện tử và âm thanh để tạo ra những âm thanh sáng tạo và đắm chìm"
+        },
+        {
+            "id": "82006c1b-c9d2-4796-88ba-583fc77f464b",
+            "word": "hardcore",
+            "phonetic": "hɑːɹdkoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And in response, protesters have embraced hardcore tactics.",
+                "We humans will never be as hardcore as velvet ants.",
+                "The African demon mole-rat. Sounds pretty hardcore, but they don't look particularly frightening.",
+                "Because it's hardcore energy with great taste.",
+                "But we can master some hardcore STEM skills with a little help from Brilliant!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFyZGNvcmU&hash=aff066b5903ab6b9210b5bdf908283191e6a26cc&lang=en&cache-only=0",
+            "defineEn": "an aggressive music genre with fast-paced, heavy sound, distorted guitars, shouted or screamed vocals, and raw, confrontational lyrics, originating from the punk rock scene",
+            "defineVi": "một thể loại âm nhạc mạnh mẽ với nhịp độ nhanh, âm thanh nặng nề, tiếng guitar méo mó, giọng hát hét lên hoặc hét lên và lời bài hát đối đầu thô bạo, bắt nguồn từ bối cảnh nhạc punk rock"
+        },
+        {
+            "id": "fb5a1431-c054-48b9-a0de-01cc2f472082",
+            "word": "dub techno",
+            "phonetic": "dʌb tɛknoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHViIHRlY2hubw&hash=85a67f90438ff177d82967a38e71ce439ba03890&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic music that combines dub and techno, characterized by deep, atmospheric, and repetitive sounds with echo-laden effects, spacious reverbs, pulsating rhythms, and minimalist arrangements",
+            "defineVi": "một thể loại nhạc điện tử kết hợp dub và techno, được đặc trưng bởi âm thanh sâu lắng, không khí và lặp đi lặp lại với hiệu ứng nhiều tiếng vang, âm vang rộng rãi, nhịp điệu rung động và cách sắp xếp tối giản"
+        },
+        {
+            "id": "fd3453d4-a2d3-43ef-b908-789660ecef33",
+            "word": "jungle music",
+            "phonetic": "dʒʌŋɡəl mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=anVuZ2xlIG11c2lj&hash=faa7e8c0d3e7d731a331a40e665fffba97c87e01&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic dance music rooted in the UK in the 1990s that has a fast drum beat and elements of hardcore and reggae",
+            "defineVi": "một thể loại nhạc dance điện tử bắt nguồn từ Vương quốc Anh vào những năm 1990 có nhịp trống nhanh và các yếu tố của hardcore và reggae"
+        },
+        {
+            "id": "2b242d7d-5ea5-405d-b9c5-4d97aad6a6a3",
+            "word": "electronica",
+            "phonetic": "ᵻlɛktɹɑːnɪkə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb25pY2E&hash=93f7f44074f11f96cd7078d6e948f3f116f988d9&lang=en&cache-only=0",
+            "defineEn": "a diverse genre of electronic music that blends experimental, ambient, and electronic styles to create unique and innovative soundscapes",
+            "defineVi": "một thể loại nhạc điện tử đa dạng kết hợp các phong cách thử nghiệm, môi trường xung quanh và điện tử để tạo ra những âm thanh độc đáo và sáng tạo"
+        },
+        {
+            "id": "637cc4e2-f5be-46b6-acd6-2d8719b88501",
+            "word": "Uk garage",
+            "phonetic": "juːkeɪ ɡɚɹɑːʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=VWsgZ2FyYWdl&hash=f080db8c707581897e36d5b6a3ce84913ac357e6&lang=en&cache-only=0",
+            "defineEn": "an electronic dance music that combines elements of house music with soul, first developed in the UK in early 1990s",
+            "defineVi": "một loại nhạc dance điện tử kết hợp các yếu tố của nhạc house với soul, được phát triển lần đầu tiên ở Anh vào đầu những năm 1990"
+        },
+        {
+            "id": "3afbbf3a-984b-406b-b460-85c2788e11cd",
+            "word": "dubstep",
+            "phonetic": "dʌbstɛp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You have the same hobbies, you both love dogs and kids, and neither of you listens to dubstep.",
+                "Whether it’s dubstep, or techno, or electro-swing, or darkstep, or acid jazz, the unique sounds, beats, and rhythms are only possible thanks to some pretty slick, but simple, technology.",
+                "so you just had straight singing and you could just loop that and then threw a dubstep instrumental underneath it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHVic3RlcA&hash=099aed25bba5df2b462b18ff3b886889db0c24bb&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic dance music with heavy basslines, syncopated rhythms, sparse arrangements, and a distinct 'wobble' sound",
+            "defineVi": "một thể loại nhạc khiêu vũ điện tử với âm trầm nặng, nhịp điệu đảo lộn, cách sắp xếp thưa thớt và âm thanh 'lắc lư' riêng biệt"
+        },
+        {
+            "id": "bbc34793-4d25-4c49-a0c6-94bc55ae2915",
+            "word": "intelligent dance music",
+            "phonetic": "ɪntɛlɪdʒənt dæns mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW50ZWxsaWdlbnQgZGFuY2UgbXVzaWM&hash=6be17a33796537030c7a2673b4a8b1f2d80fa3b9&lang=en&cache-only=0",
+            "defineEn": "an experimental electronic genre with complex beats, unconventional rhythms, and innovative sound design",
+            "defineVi": "một thể loại điện tử thử nghiệm với nhịp điệu phức tạp, nhịp điệu độc đáo và thiết kế âm thanh sáng tạo"
+        },
+        {
+            "id": "bb7ee7ed-79e0-4ae0-b98d-acc20c3a8f2d",
+            "word": "breakbeat",
+            "phonetic": "bɹeɪkbiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hiphop founding figures like DJ Kool Herc are credited with creating the breakbeat, which he did by playing two copies of the same record, and looping its break.",
+                "You know, it's like finding any other sample, like finding a breakbeat that was like a clean break that was super funky-- -",
+                "Sampling is the bread and butter of the pair's crosspollination, and honestly, we could devote a whole episode to jazz samples in rap solely from the late '80s and early '90s, but first, we have to acknowledge how the breakbeats of hiphop's early days predated the rise of rap sampling jazz, because those breakbeats were also taken from jazz cuts.",
+                "Sampling is the bread and butter of the pair's crosspollination, and honestly, we could devote a whole episode to jazz samples in rap solely from the late '80s and early '90s, but first, we have to acknowledge how the breakbeats of hiphop's early days predated the rise of rap sampling jazz, because those breakbeats were also taken from jazz cuts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWtiZWF0&hash=4e1c4acf99d9b3b3b5b7f2fcb6b6e87f85f53c24&lang=en&cache-only=0",
+            "defineEn": "an electronic music genre with syncopated rhythms, chopped-up drum samples, and distinctive 'breaks,' originating from hip hop and evolving into various sub-genres",
+            "defineVi": "một thể loại nhạc điện tử với nhịp điệu được đảo lộn, các mẫu trống được cắt nhỏ và 'đoạn ngắt' đặc biệt, bắt nguồn từ hip hop và phát triển thành nhiều thể loại phụ khác nhau"
+        },
+        {
+            "id": "cd858522-e691-4d2e-9a06-e84dcf934b55",
+            "word": "psychedelic trance",
+            "phonetic": "saɪkɪdɛlɪk tɹæns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hlZGVsaWMgdHJhbmNl&hash=a0b692cf90e10ae90d6f3a31bb9f8eda6aa31151&lang=en&cache-only=0",
+            "defineEn": "an electronic dance music genre known for its fast tempo, driving basslines, hypnotic melodies, and psychedelic soundscapes",
+            "defineVi": "một thể loại nhạc khiêu vũ điện tử được biết đến với nhịp độ nhanh, âm trầm, giai điệu thôi miên và âm thanh ảo giác"
+        },
+        {
+            "id": "484cdb9e-4ee2-4f95-8fb0-a928f15fe238",
+            "word": "electronic dance music",
+            "phonetic": "ᵻlɛktɹɑːnɪk dæns mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb25pYyBkYW5jZSBtdXNpYw&hash=1e539f678f70b10be9b3c241cf595fbfb399b994&lang=en&cache-only=0",
+            "defineEn": "a type of popular music with a strong beat that people dance to in clubs",
+            "defineVi": "một loại nhạc phổ biến với nhịp điệu mạnh mẽ mà mọi người nhảy theo trong các câu lạc bộ"
+        },
+        {
+            "id": "04132e71-0e6f-4496-87c3-9e5ba7b4716f",
+            "word": "drum and bass",
+            "phonetic": "dɹʌm ænd beɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJ1bSBhbmQgYmFzcw&hash=fca6aacddea8c734d0f621e40f2584e19e58c63e&lang=en&cache-only=0",
+            "defineEn": "a genre of dance music originally from the UK with a fast drumbeat and heavy bassline",
+            "defineVi": "một thể loại nhạc khiêu vũ có nguồn gốc từ Vương quốc Anh với nhịp trống nhanh và âm trầm nặng"
+        },
+        {
+            "id": "0f92c875-768b-42fd-b74d-6ab9112046dc",
+            "word": "acid techno",
+            "phonetic": "æsɪd tɛknoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWNpZCB0ZWNobm8&hash=5cbe590e797124fd8b34415ba970c6b392f8920e&lang=en&cache-only=0",
+            "defineEn": "an electronic dance music genre with squelchy synthesizer sounds, pounding beats, and a futuristic vibe",
+            "defineVi": "một thể loại nhạc dance điện tử với âm thanh tổng hợp chói tai, nhịp đập dồn dập và cảm giác tương lai"
+        },
+        {
+            "id": "133a295c-c857-4789-a750-c8edb254041b",
+            "word": "electronic body music",
+            "phonetic": "ᵻlɛktɹɑːnɪk bɑːdi mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3Ryb25pYyBib2R5IG11c2lj&hash=0480cf0dd62ad577c03eb1ef467cebd7ca03f4d6&lang=en&cache-only=0",
+            "defineEn": "a raw, aggressive, and danceable genre of electronic music known for its repetitive beats, distorted vocals, and industrial elements",
+            "defineVi": "một thể loại nhạc điện tử thô, mạnh mẽ và có thể nhảy được biết đến với nhịp điệu lặp đi lặp lại, giọng hát bị bóp méo và các yếu tố công nghiệp"
+        },
+        {
+            "id": "f2f75ecf-6d37-4baf-905b-a70ac5339832",
+            "word": "speedcore",
+            "phonetic": "spiːdkoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3BlZWRjb3Jl&hash=1b629bcfb35ad5db820c11e69687036571dc7f83&lang=en&cache-only=0",
+            "defineEn": "an extreme genre of hardcore techno with blistering fast beats, aggressive sounds, and high-energy tempos",
+            "defineVi": "một thể loại hardcore techno cực đỉnh với nhịp đập nhanh dồn dập, âm thanh mạnh mẽ và tiết tấu năng lượng cao"
+        },
+        {
+            "id": "6497f1b8-857a-49c9-b1b1-21adeaef8cf3",
+            "word": "rave music",
+            "phonetic": "ɹeɪv mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmF2ZSBtdXNpYw&hash=6153fc619d3aed3cdf53f1c09e5bd71805f3d1ee&lang=en&cache-only=0",
+            "defineEn": "a genre of electronic dance music that has fast tempos, heavy basslines, and repetitive beats to create an energetic and exciting atmosphere",
+            "defineVi": "một thể loại nhạc dance điện tử có nhịp độ nhanh, âm trầm nặng và nhịp lặp đi lặp lại để tạo ra bầu không khí tràn đầy năng lượng và phấn khích"
+        },
+        {
+            "id": "41cd1f52-d513-4ef8-af85-f06c9dcfc9d7",
+            "word": "drone music",
+            "phonetic": "dɹoʊn mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZHJvbmUgbXVzaWM&hash=d6f8bd75bb9c7ca4d6a26b5ce7dc56bfc4c1ed5f&lang=en&cache-only=0",
+            "defineEn": "an ambient genre of electronic music with sustained tones or sounds that create a hypnotic and immersive experience, evoking introspection and timelessness",
+            "defineVi": "một thể loại âm nhạc điện tử có môi trường xung quanh với âm sắc hoặc âm thanh bền vững tạo ra trải nghiệm mê hoặc và đắm chìm, gợi lên sự tự xem xét nội tâm và vượt thời gian"
+        },
+        {
+            "id": "cb298b1c-fb34-43de-b628-518211aef879",
+            "word": "synth-pop",
+            "phonetic": "sɪnθpɑːp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ludGgtcG9w&hash=a4334a34add25193c2edb88d890b13167b376f2e&lang=en&cache-only=0",
+            "defineEn": "a subgenre of wave music developed in 1980s that employs a heavy use of synthesizers and electronic instruments",
+            "defineVi": "một nhánh con của nhạc sóng được phát triển vào những năm 1980 sử dụng nhiều bộ tổng hợp và nhạc cụ điện tử"
+        },
+        {
+            "id": "2561b13a-ccf4-40c7-b347-7b406fedc72f",
+            "word": "glitch music",
+            "phonetic": "ɡlɪtʃ mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2xpdGNoIG11c2lj&hash=81123c5c81dbf43ba175cc2c69dc9e46c9cbc268&lang=en&cache-only=0",
+            "defineEn": "a subgenre of electronic music that is formed around the concept of aesthetic of failure during the 1990s, using glitch-based audio",
+            "defineVi": "một thể loại phụ của âm nhạc điện tử được hình thành xung quanh khái niệm thẩm mỹ của sự thất bại trong những năm 1990, sử dụng âm thanh dựa trên trục trặc"
+        },
+        {
+            "id": "f0ee8c14-fdad-481c-a03d-bdb84b1eee88",
+            "word": "dance-punk",
+            "phonetic": "dænspʌŋk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGFuY2UtcHVuaw&hash=3ab55444fa4eb9e9bdc244431958a749797b70b1&lang=en&cache-only=0",
+            "defineEn": "a genre that fuses punk rock and dance music, featuring energetic beats, punk-inspired instrumentation, and catchy melodies for a dynamic and vibrant sound",
+            "defineVi": "một thể loại kết hợp giữa nhạc punk rock và nhạc dance, có nhịp điệu sôi động, nhạc cụ lấy cảm hứng từ nhạc punk và giai điệu hấp dẫn để tạo ra âm thanh sống động và sôi động"
+        },
+        {
+            "id": "b9d27510-541e-4128-ad1f-496e33ed3aa0",
+            "word": "Eurodance",
+            "phonetic": "jʊɹɹoʊdəns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=RXVyb2RhbmNl&hash=4b8c22f445d149e03f5acc833b493456760bf0ba&lang=en&cache-only=0",
+            "defineEn": "upbeat electronic dance music with catchy melodies, energetic beats, and synthesized sounds that are dancefloor-friendly",
+            "defineVi": "nhạc dance điện tử lạc quan với giai điệu hấp dẫn, nhịp điệu tràn đầy năng lượng và âm thanh tổng hợp thân thiện với sàn nhảy"
+        },
+        {
+            "id": "99350e57-1ce4-456e-986d-3faac4b17a0d",
+            "word": "dance music",
+            "phonetic": "dæns mjuːzɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But you know, I come from dance music.",
+                "[Nahre] Electronic dance music has always been fertile ground for the blending of musical genres.",
+                "Then the researchers asked them to walk to the rhythm of Renaissance dance music.",
+                "- That brings us to the origin of the trap sound, and those roots extend even further back into the 80s with the invention of an instrument that had a massive impact on hip hop, dance music, and pop music, the Roland TR-808.",
+                "But it's not just remixes, Jersey Club Producers are also putting out original dance music that's played at clubs and festivals around the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFuY2UgbXVzaWM&hash=c0180d98ae592f3164acca3b1392bd8c435a9bb3&lang=en&cache-only=0",
+            "defineEn": "any music that is intended for dancing to, especially a type of electronic music with strong synthesized beat played in the clubs",
+            "defineVi": "bất kỳ loại nhạc nào dành cho khiêu vũ, đặc biệt là loại nhạc điện tử có nhịp tổng hợp mạnh được chơi trong các câu lạc bộ",
+            "hasImg": true
+        },
+        {
+            "id": "046ea0a7-f465-4dce-8b03-7b5b6751cc91",
+            "word": "disco",
+            "phonetic": "dɪskoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It’s disco without the luxury.",
+                "Dr. Cole has been deejaying disco mornings.",
+                "Everything about disco and twirling around in furs under a disco ball.",
+                "Disco glasses-- sparkly glasses.",
+                "And an actual disco golf ball made by a crash course fan!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY28&hash=a5f1ca0b01bd7b1973723c779c3fda785225c31b&lang=en&cache-only=0",
+            "defineEn": "a type of popular dance music characterized by hypnotic rhythm and repetitive lyrics with influences from soul",
+            "defineVi": "một loại nhạc khiêu vũ phổ biến được đặc trưng bởi nhịp điệu thôi miên và lời bài hát lặp đi lặp lại với những ảnh hưởng từ tâm hồn",
+            "hasImg": true
+        },
+        {
+            "id": "04dfe101-8942-42b0-9283-b333777ba57d",
+            "word": "disco polo",
+            "phonetic": "dɪskoʊ poʊloʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY28gcG9sbw&hash=0b8b412b7043ab6b1cf547dfd8d36d30660f4052&lang=en&cache-only=0",
+            "defineEn": "a popular dance music genre from Poland with catchy melodies, upbeat rhythms, and danceable beats, often featuring Polish lyrics and a fusion of electronic and traditional instrumentation",
+            "defineVi": "một thể loại nhạc khiêu vũ phổ biến từ Ba Lan với giai điệu hấp dẫn, nhịp điệu lạc quan và nhịp điệu dễ nhảy, thường có lời bài hát tiếng Ba Lan và sự kết hợp giữa nhạc cụ điện tử và truyền thống"
+        }
+    ]
+}

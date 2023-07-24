@@ -1,0 +1,498 @@
+{
+    "id": "9f41693a-98d3-4224-b912-6e3932de6b0b",
+    "title": "Meat and Dairy",
+    "originalTitle": "Lesson 7",
+    "words": [
+        {
+            "id": "5107275a-1fc9-42ec-8587-b0ac8534729e",
+            "word": "bacon",
+            "phonetic": "beɪkən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But a truck driver saved her bacon.",
+                "That bacon sandwich really hit the spot!",
+                "Blue cheese and bacon make an irresistible combination in a creamy spinach salad.",
+                "I wanted bacon and eggs for breakfast.",
+                "I cooked bacon to add a smoky flavor to my homemade baked beans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFjb24&hash=ca987ddca249116a1e929d94dfb952885722319e&lang=en&cache-only=0",
+            "defineEn": "meat from the back or sides of a pig, preserved by salt or smoke, usually sliced in thin narrow pieces",
+            "defineVi": "thịt từ lưng hoặc hai bên của lợn, được bảo quản bằng muối hoặc xông khói, thường được thái thành miếng mỏng và hẹp",
+            "hasImg": true
+        },
+        {
+            "id": "681c31b9-413d-418d-a1b9-a195955d9313",
+            "word": "red meat",
+            "phonetic": "ɹɛd miːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Poultry is a lean source of protein and a healthier alternative to red meat.",
+                "I've always had a taste for red meat, so I don't think I could ever be a vegetarian.",
+                "I opted for a lean cut of red meat, such as sirloin, to create a delicious and healthy stir-fry.",
+                "He grilled a juicy steak, savoring the flavor of the perfectly cooked red meat.",
+                "The National Institutes of Health and the World Health Organization have linked red meat consumption to heart disease and cancer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVkIG1lYXQ&hash=a42ee48f8229085b73ebb59550596cbf1e29d719&lang=en&cache-only=0",
+            "defineEn": "the meat such as beef and lamb that turn brown when cooked",
+            "defineVi": "thịt như thịt bò và thịt cừu chuyển sang màu nâu khi nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "c477e922-6fe2-4b5d-ae3d-a476cdcbd609",
+            "word": "white meat",
+            "phonetic": "waɪt miːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He prefers dark meat over white meat because he finds it juicier and more flavorful.",
+                "She cooked a flavorful and aromatic curry, using diced white meat as the main ingredient.",
+                "She prepared a healthy and satisfying turkey sandwich, using slices of lean white meat as the filling.",
+                "Do you want dark meat, white meat?",
+                "Some have pointed to white meat like chicken and fish as a healthier alternative."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2hpdGUgbWVhdA&hash=af12b08a62ecd5c87467ad18bf05f851372625d8&lang=en&cache-only=0",
+            "defineEn": "the meat such as chicken, rabbit, etc., that is pale in color",
+            "defineVi": "thịt như gà, thỏ, v.v., có màu nhạt",
+            "hasImg": true
+        },
+        {
+            "id": "cbd26b56-ef5e-43ed-97e1-0fd9e17e372b",
+            "word": "wing",
+            "phonetic": "wɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He took the rookie pitcher under his wing.",
+                "A new wing was added to the building.",
+                "Who's playing on the wing?",
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "She dusts the chicken wings with cornflour before frying them."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2luZw&hash=28225112da3a423cb871b914a16cafa9807f7621&lang=en&cache-only=0",
+            "defineEn": "meat from the wing of a duck, chicken, etc., eaten as food",
+            "defineVi": "thịt từ cánh vịt, gà, v.v., dùng làm thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "c8103690-a823-4725-ab39-78ad4ef2a833",
+            "word": "veal",
+            "phonetic": "viːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He cooked veal chops to perfection on the barbecue, seasoning them with herbs and spices for a mouthwatering grilled dish.",
+                "They went on a culinary adventure and discovered a specialty restaurant that served long bone-in veal chops.",
+                "They enjoyed a refreshing summer salad with grilled veal, mixed greens and seasonal fruits.",
+                "That's the veal cutlet Parmesan?",
+                "So I'm calling it veal skin."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVhbA&hash=74b323747eea70a23074657d590913c043b2ed1b&lang=en&cache-only=0",
+            "defineEn": "meat of a young cow",
+            "defineVi": "thịt bò non",
+            "hasImg": true
+        },
+        {
+            "id": "a5fd8c2d-a839-4abc-8074-0ee47c06d8bf",
+            "word": "turkey",
+            "phonetic": "tɜːki ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lingonberry sauce perfectly complemented the roasted turkey at Thanksgiving dinner.",
+                "The street vendor served flavorful turkey legs.",
+                "Turkey treads a tightrope in its approach to Russia.",
+                "She prefers boneless turkey breast for its ease of slicing.",
+                "His family is as poor as a Job's turkey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHVya2V5&hash=aa06d314b6d2c0d1fd749eb9ee25422e6d33b78d&lang=en&cache-only=0",
+            "defineEn": "meat of a turkey, eaten as food",
+            "defineVi": "thịt gà tây, ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "8146fc6d-212e-4e93-b200-ec0ef0de8c3a",
+            "word": "rib",
+            "phonetic": "ɹɪb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue.",
+                "She coated the pork ribs with a generous amount of piri-piri marinade.",
+                "They hosted a backyard cookout, serving mouthwatering ribs that were a hit with their guests.",
+                "She prepared a satisfying dish of pansotti stuffed with braised short rib and blue cheese.",
+                "She visited a renowned steakhouse and savored a mouthwatering plate of grilled lamb ribs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmli&hash=9d50d74a3453e1c17ff5ffc27aab95aa197bcfcb&lang=en&cache-only=0",
+            "defineEn": "a piece of meat with one or more rib bones",
+            "defineVi": "một miếng thịt với một hoặc nhiều xương sườn",
+            "hasImg": true
+        },
+        {
+            "id": "78a82efd-a5fa-415a-9b9c-a684e5d4661f",
+            "word": "rabbit",
+            "phonetic": "ɹæbɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The disease wiped out 40 million rabbits at a stroke.",
+                "The caterer really pulled a rabbit out of a hat by producing 100 cupcakes with just 20 minutes' notice.",
+                "I gave a carrot to the hungry rabbit.",
+                "I saw a fluffy white rabbit in our garden.",
+                "She once went down that political rabbit hole."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFiYml0&hash=4d12b5f99d6fc02b8be99b34cf5bcb31ce0f24d6&lang=en&cache-only=0",
+            "defineEn": "meat from a rabbit, eaten as food",
+            "defineVi": "thịt từ một con thỏ, ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "b3869b40-4f84-440b-93cb-2d3f195d1d58",
+            "word": "meatball",
+            "phonetic": "miːtbɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He and she discovered a family recipe that called for giblets in the meatball mixture.",
+                "These vegetarian meatballs are made with a mixture of mushrooms and textured vegetable protein.",
+                "They enjoyed a comforting bowl of angel hair with meatballs.",
+                "We love meatballs.",
+                "The meatball is great."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhdGJhbGw&hash=4ec0bbbfb5118031c1e550d3bfc6dfeae3301b8b&lang=en&cache-only=0",
+            "defineEn": "a ball of ground meat, served mostly hot in a sauce",
+            "defineVi": "một viên thịt xay, phục vụ chủ yếu nóng trong nước sốt",
+            "hasImg": true
+        },
+        {
+            "id": "5372af7c-28bc-494e-912d-a7dcf9543742",
+            "word": "seafood",
+            "phonetic": "siːfuːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Seafood lovers can relish a delightful dish of spaghetti with succulent shrimp, clams, and calamari.",
+                "The seafood market showcased a mouthwatering display of fresh clams.",
+                "At a lively seafood restaurant, guests relished succulent crab legs.",
+                "The restaurant offered a flavorful seafood ravioli, featuring a filling of shrimp and crab.",
+                "They celebrated their anniversary with a romantic seafood dinner at a waterfront restaurant"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VhZm9vZA&hash=da034319d263e2431e8dd593381a78dbacc5ceeb&lang=en&cache-only=0",
+            "defineEn": "any sea creature that is eaten as food such as fish, shrimp, and shellfish",
+            "defineVi": "bất kỳ sinh vật biển nào được dùng làm thức ăn như cá, tôm và động vật có vỏ",
+            "hasImg": true
+        },
+        {
+            "id": "38845b67-83de-4f0c-aed3-34b677330d11",
+            "word": "shellfish",
+            "phonetic": "ʃɛlfɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "they put shellfish on pizza.",
+                "You know, a shellfish?",
+                "Fish and shellfish are incredibly high in sulfur.",
+                "So, our seaweeds and shellfish require zero inputs, no fresh water, no fertilizer, no feed.",
+                "The tiny shellfish are grown in hatcheries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hlbGxmaXNo&hash=14122d21cc586036991668a17ebbfd72e6540355&lang=en&cache-only=0",
+            "defineEn": "a type of sea creature with a shell and edible flesh",
+            "defineVi": "một loại sinh vật biển có vỏ và thịt ăn được",
+            "hasImg": true
+        },
+        {
+            "id": "f5d48eec-20d1-4926-9bf8-9827503f47f1",
+            "word": "lobster",
+            "phonetic": "lɑːbstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We enjoyed lobster tails with creamy Bearnaise sauce.",
+                "She prepared a delicious lobster dish by frying it in clarified butter until it turned a perfect shade of golden brown.",
+                "He savored the succulent lobster tail with melted butter, enjoying every bite.",
+                "She ordered a whole lobster and cracked it open to reveal the tender meat inside.",
+                "Lobsters are arthropods, in the same large group as insects."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bG9ic3Rlcg&hash=f80df0c8e92db1bacb1968a8a1c27dda190def01&lang=en&cache-only=0",
+            "defineEn": "the meat of a lobster as food",
+            "defineVi": "thịt tôm hùm làm thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "39240540-672e-4562-8a67-ad72a3224588",
+            "word": "hamburger",
+            "phonetic": "hæmbɜːɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They grilled hamburgers and hot dogs for a casual summer dinner.",
+                "He savored a classic hamburger with cheese, lettuce, and tomato.",
+                "John: Here's your hamburger.",
+                "The restaurant offered a specialty hamburger steak dish.",
+                "They gathered around the picnic table, passing around a bottle of barbecue sauce to enhance the flavor of their hamburgers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFtYnVyZ2Vy&hash=99f627f14786b95a5a0dd5c63fd510b97932cd69&lang=en&cache-only=0",
+            "defineEn": "meat that has been finely chopped or ground using a machine or grinder",
+            "defineVi": "thịt đã được thái nhỏ hoặc xay bằng máy hoặc máy xay",
+            "hasImg": true
+        },
+        {
+            "id": "194eb9d8-9d5a-4be6-8ad3-3293d7a1f28f",
+            "word": "crab",
+            "phonetic": "kɹæb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At a lively seafood restaurant, guests relished succulent crab legs.",
+                "She prepared a delightful crab salad, combining chunks of sweet crab meat with crisp vegetables.",
+                "Eating a dressed crab salad made my day.",
+                "The restaurant offered a flavorful seafood ravioli, featuring a filling of shrimp and crab.",
+                "She prepared a delightful crab salad, combining chunks of sweet crab meat with crisp vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JhYg&hash=deda1fcfc0b6b0537f639edf0f317bfee3937500&lang=en&cache-only=0",
+            "defineEn": "the meat of a crab that can be eaten",
+            "defineVi": "thịt cua có thể ăn được",
+            "hasImg": true
+        },
+        {
+            "id": "972817b6-aad0-425e-8941-882fd979cc4f",
+            "word": "oyster",
+            "phonetic": "ɔɪstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Oyster mushrooms are known for their distinct flavor.",
+                "That young woman was close as an oyster!",
+                "She spread a dollop of cocktail sauce on her oysters.",
+                "She's as dumb as an oyster.",
+                "She's as close as an oyster."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3lzdGVy&hash=2c02d34e473c19ca339b3a44defd6c6e603db0c9&lang=en&cache-only=0",
+            "defineEn": "a type of shellfish that can be eaten both raw and cooked, some of which contain pearls inside",
+            "defineVi": "một loại động vật có vỏ có thể ăn sống và nấu chín, một số có chứa ngọc trai bên trong",
+            "hasImg": true
+        },
+        {
+            "id": "8fe8c898-49e7-4133-9ff5-d97d78373a1b",
+            "word": "joint",
+            "phonetic": "dʒɔɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My dad grilled a succulent pork joint with barbecue sauce for a backyard cookout.",
+                "Nobody lays a glove on your joint.",
+                "Mrs. Tinker puts my nose out of joint by bringing you the Lilies of the Field.",
+                "Ever since Bill got that traffic ticket, he's had his nose out of joint.",
+                "I smoked a joint an hour ago, and I'm still waiting to come up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=am9pbnQ&hash=7060cbece844a5297f8a05981f4bf489c20609d5&lang=en&cache-only=0",
+            "defineEn": "a large piece of meat for roasting",
+            "defineVi": "một miếng thịt lớn để nướng",
+            "hasImg": true
+        },
+        {
+            "id": "e020a6bb-60e1-49c1-9c77-644e32b0f9ab",
+            "word": "ham",
+            "phonetic": "hæm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ham had a smoky flavor.",
+                "The ham was glazed with a mixture of brown sugar and mustard.",
+                "A classic ham and Swiss cheese sandwich is always a crowd-pleaser for lunch.",
+                "She sliced the ham into thin strips and added it to her pasta dish.",
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFt&hash=1c255bac776ec5899c269a0eb36d7e3f01e14e0b&lang=en&cache-only=0",
+            "defineEn": "a type of meat cut from a pig's thigh, usually smoked or salted",
+            "defineVi": "một loại thịt cắt từ đùi lợn, thường được hun khói hoặc ướp muối",
+            "hasImg": true
+        },
+        {
+            "id": "84675fdb-53d3-40d9-b087-057d59e61cb8",
+            "word": "flesh",
+            "phonetic": "flɛʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The memory of all that blood made his flesh creep.",
+                "Just talking about snakes makes my flesh crawl.",
+                "The golden skin of the loquat contrasts beautifully with its vibrant orange flesh.",
+                "The roasted duck had a crispy skin and succulent flesh.",
+                "He dipped a spoon into the luscious flesh of the ripe cantaloupe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxlc2g&hash=2446754f10e3ed46de60c8a10391b288ad5aaf96&lang=en&cache-only=0",
+            "defineEn": "the soft part of the body of an animal, between the skin and bones",
+            "defineVi": "phần mềm của cơ thể động vật, giữa da và xương",
+            "hasImg": true
+        },
+        {
+            "id": "df7cd594-e075-4e8e-8804-1382749daba5",
+            "word": "duck",
+            "phonetic": "dʌk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The roasted duck had a crispy skin and succulent flesh.",
+                "He played ducks and drakes with his money.",
+                "At the family gathering, everyone enjoyed the supreme roasted duck.",
+                "Guests were impressed by the roasted duck with bread sauce.",
+                "He took to fatherhood like a duck to water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHVjaw&hash=0c1955d898a556b0a64c42c40f2342a283366bda&lang=en&cache-only=0",
+            "defineEn": "meat of a duck, eaten as food",
+            "defineVi": "thịt vịt, ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "6019b954-5fc1-4cf7-acb5-9307f9c14fe0",
+            "word": "cut",
+            "phonetic": "kʌt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The line cuts the circle at two points.",
+                "He's cutting his own throat.",
+                "Budget cuts are putting the squeeze on scientific research.",
+                "Cutting Jefferson a break?",
+                "He really cuts the ground from under my feet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3V0&hash=d16f1388479dd1933f1fbaa7dbf36f5a5619c760&lang=en&cache-only=0",
+            "defineEn": "a piece of meat cut from the body of an animal",
+            "defineVi": "một miếng thịt cắt từ cơ thể của một con vật",
+            "hasImg": true
+        },
+        {
+            "id": "16b6dc34-051a-48f5-8cfa-0932ba21f076",
+            "word": "breast",
+            "phonetic": "bɹɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She prefers boneless turkey breast for its ease of slicing.",
+                "He grilled a juicy chicken breast for his dinner.",
+                "The chicken breast supreme salad featured grilled chicken, mixed greens, cherry tomatoes, and a balsamic vinaigrette.",
+                "She made turkey breast wraps, filling tortillas with sliced turkey, cucumber, and a creamy ranch dressing.",
+                "My grandmother shared her recipe for succulent roast chicken breast, passed down through generations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYXN0&hash=f9e5e0b3f00c8a4b228021d24ab2216dfc0b5944&lang=en&cache-only=0",
+            "defineEn": "meat cut from the front part of the body of a bird",
+            "defineVi": "thịt cắt từ phần trước của cơ thể của một con chim",
+            "hasImg": true
+        },
+        {
+            "id": "dd259570-52f0-4073-885a-4d53f91948e3",
+            "word": "goose",
+            "phonetic": "ɡuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He roasted a plump goose for his family's Thanksgiving dinner.",
+                "You sent me on a wild goose chase.",
+                "She really cooked my goose today, when she told to the boss that I had come late to work.",
+                "The smart entrepreneur didn't invest in a risky business opportunity offered by a stranger online, remembering that it is a silly goose that comes to a fox's sermon.",
+                "Physicists searching for the hypothetical particle may be on a wild goose chase."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z29vc2U&hash=8a8d4d1e39486d8c1e807c0bd1e25c8d447662ff&lang=en&cache-only=0",
+            "defineEn": "meat of a goose, eaten as food",
+            "defineVi": "thịt ngỗng, ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "a0fdb300-8979-4fda-8e3f-8a236242d432",
+            "word": "Swiss cheese",
+            "phonetic": "swɪs tʃiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Swiss cheese can be a great choice for a picnic.",
+                "A classic ham and Swiss cheese sandwich is always a crowd-pleaser for lunch.",
+                "The suspect's alibi had more holes than Swiss cheese, and the jury didn't believe a word of it.",
+                "The government's explanation for the budget deficit had more holes than Swiss cheese, and many citizens were left feeling skeptical.",
+                "I made a salami and Swiss cheese omelette for breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U3dpc3MgY2hlZXNl&hash=18cea867c2f4702dceb8c868a1a02e4cb143d391&lang=en&cache-only=0",
+            "defineEn": "a type of hard cheese with many holes",
+            "defineVi": "một loại phô mai cứng có nhiều lỗ",
+            "hasImg": true
+        },
+        {
+            "id": "e7ab4b7d-3a27-4397-84bc-5e870dbf80fb",
+            "word": "blue cheese",
+            "phonetic": "bluː tʃiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Blue cheese crumbles are a tasty addition to burgers or salads.",
+                "Blue cheese and bacon make an irresistible combination in a creamy spinach salad.",
+                "Roquefort cheese is in the cheese section, next to the blue cheeses.",
+                "Spread a layer of blue cheese on your burger for an extra burst of flavor.",
+                "He enjoyed a blood sausage and blue cheese salad."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymx1ZSBjaGVlc2U&hash=a49dfafc9d299b445d88b28a402dbd7604d3f393&lang=en&cache-only=0",
+            "defineEn": "any type of cheese containing blue lines or mold",
+            "defineVi": "bất kỳ loại phô mai nào có đường màu xanh hoặc nấm mốc",
+            "hasImg": true
+        },
+        {
+            "id": "5603cdcd-f7fd-4ceb-b587-103711e106e0",
+            "word": "Cheddar",
+            "phonetic": "tʃɛdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I brought a cheese platter with Roquefort, Camembert, and Cheddar.",
+                "I love to make a grilled cheese sandwich with Cheddar cheese.",
+                "He enjoyed a chili cheese frankfurter, smothered in homemade chili sauce and melted cheddar cheese.",
+                "The Cheddar cheese melted perfectly on top of the homemade lasagna.",
+                "The classic beefburger was topped with melted cheddar cheese, crisp lettuce, and tangy pickles."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Q2hlZGRhcg&hash=8b6bdd0344ac0524648d8fd1787c750c6de68478&lang=en&cache-only=0",
+            "defineEn": "a type of hard yellow cheese from Cheddar, England",
+            "defineVi": "một loại phô mai vàng cứng từ Cheddar, Anh",
+            "hasImg": true
+        },
+        {
+            "id": "6a2cd4b1-b137-489c-bea5-84822470d9bb",
+            "word": "cream cheese",
+            "phonetic": "kɹiːm tʃiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mom stuffs pimientos with cream cheese and serves them as an appetizer at parties.",
+                "They mixed Welsh onion with cream cheese for a tasty spread on their morning bagels.",
+                "He mixed horseradish with cream cheese and spread it on crackers for a quick snack.",
+                "She discovered almond paste as a perfect substitute for cream cheese in her cheesecake recipe.",
+                "I love spreading cream cheese on my toasted bagel in the morning."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlYW0gY2hlZXNl&hash=50288c74707356341979a1099da5a41cb4e82a61&lang=en&cache-only=0",
+            "defineEn": "a type of smooth soft cheese that is made from unskimmed milk and cream",
+            "defineVi": "một loại phô mai mềm mịn được làm từ sữa và kem không béo",
+            "hasImg": true
+        },
+        {
+            "id": "8cb65eac-559b-4dc5-b9b6-316941722f1e",
+            "word": "Gouda",
+            "phonetic": "ɡaʊdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our dessert menu features a unique Gouda cheese ice cream drizzled with warm caramel sauce.",
+                "The market had a variety of cheese options, including Gouda, Brie, and Blue cheese.",
+                "Gouda has a mild and slightly nutty flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=R291ZGE&hash=0b815a1b0e39f90e83208e9c64484f0056f9258b&lang=en&cache-only=0",
+            "defineEn": "a yellow, round cheese from the Netherlands",
+            "defineVi": "một loại phô mai tròn, màu vàng từ Hà Lan",
+            "hasImg": true
+        },
+        {
+            "id": "0740dcc4-4064-480c-97f7-4e94a9fa4280",
+            "word": "yolk",
+            "phonetic": "joʊk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef prepared a creamy mushroom soup by adding a liaison of egg yolks and heavy cream.",
+                "- Josh: Is that yolk side?",
+                "And that yolk is real bad.",
+                "Dad yolks, gotta love em.",
+                "Unlike birds or turtles, our eggs don’t make a yolk, or even a shell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=eW9saw&hash=71483922891d745839e070eadd0bb4097f5443ec&lang=en&cache-only=0",
+            "defineEn": "the yellow part of an egg that is surrounded by a liquid",
+            "defineVi": "phần màu vàng của quả trứng được bao quanh bởi chất lỏng",
+            "hasImg": true
+        },
+        {
+            "id": "af8bf632-b74a-4bcd-9bf0-ac995177e126",
+            "word": "white",
+            "phonetic": "waɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bride's wedding dress is white.",
+                "A white blouse will show the blood.",
+                "They served white rice with the chicken curry.",
+                "After the surgery, his face was as white as a sheet.",
+                "After the car accident, her face was as white as a ghost."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2hpdGU&hash=edc5de0702153b6e04b951973edb7eb99812a93e&lang=en&cache-only=0",
+            "defineEn": "the liquid part of an egg that when cooked turns white",
+            "defineVi": "phần chất lỏng của trứng khi nấu chín chuyển sang màu trắng",
+            "hasImg": true
+        }
+    ]
+}

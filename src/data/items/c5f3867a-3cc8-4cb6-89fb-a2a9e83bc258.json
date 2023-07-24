@@ -1,0 +1,679 @@
+{
+    "id": "c5f3867a-3cc8-4cb6-89fb-a2a9e83bc258",
+    "title": "Lesson 5A",
+    "originalTitle": "Lesson 5A",
+    "words": [
+        {
+            "id": "b01f4843-7ebe-442f-946a-ae143a52bd8a",
+            "word": "fish",
+            "phonetic": "fɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef used fish paste as a filling for his sushi rolls",
+                "This fish is as dead as a herring.",
+                "I soon had the fish in a net.",
+                "The big fellow keeps a fish shop near the post office.",
+                "The colorful fish in the aquarium captured my attention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlzaA&hash=fdb92758151e316180093ddbf02f81bac6bfe227&lang=en&cache-only=0",
+            "defineEn": "an animal with a tail, gills and fins that lives in water",
+            "defineVi": "một con vật có đuôi, mang và vây sống dưới nước",
+            "hasImg": true
+        },
+        {
+            "id": "9cb51fb1-1b41-4cf8-9388-9cb1b8479b1a",
+            "word": "meat",
+            "phonetic": "miːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meat and mass never hindered man.",
+                "In my plant-based lasagna, I replaced the meat with textured vegetable protein.",
+                "She seasoned the meat with herbs and spices before cooking.",
+                "Too much garlic killed the taste of the meat.",
+                "As a vegetarian, I often substitute mozzarella for meat in my sandwiches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhdA&hash=c0f8d6677812f202675229cb0d0651f46355c72b&lang=en&cache-only=0",
+            "defineEn": "the flesh of animals and birds that can be eaten as food",
+            "defineVi": "thịt của động vật và chim có thể được ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "bd59d6b1-8406-4499-962b-8bc45e8f4697",
+            "word": "pasta",
+            "phonetic": "pɑːstə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The colorful bowtie pasta added a fun twist to the classic mac and cheese dish.",
+                "The earthy aroma of mushrooms adds depth to any pasta dish.",
+                "Double cream adds indulgence to creamy pasta sauces.",
+                "She stirred the creamy mushroom sauce into her pasta.",
+                "The fusilli pasta with marinara sauce is my favorite dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFzdGE&hash=32527ce38ea81e9e897d67c0864a5d62ddfb0f1c&lang=en&cache-only=0",
+            "defineEn": "an Italian food that is a mixture of flour, water, and at times eggs formed it into different shapes, typically eaten with a sauce when cooked",
+            "defineVi": "một món ăn của Ý là hỗn hợp của bột mì, nước và đôi khi là trứng tạo thành những hình dạng khác nhau, thường được ăn với nước sốt khi nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "849cfc49-4d5c-42dc-bfb2-220d6a0b91b0",
+            "word": "rice",
+            "phonetic": "ɹaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They served white rice with the chicken curry.",
+                "Rice is a staple food in many Asian countries.",
+                "I prefer brown rice over white rice for its nutritional benefits.",
+                "Leave the rice to cook for 20 minutes.",
+                "The rice cooks in boiling water until it becomes fluffy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmljZQ&hash=2a6e41f6c0fbd8fde2f21ea0659be9ef89f86870&lang=en&cache-only=0",
+            "defineEn": "a small and short grain that is white or brown and usually grown and eaten a lot in Asia",
+            "defineVi": "một loại hạt nhỏ và ngắn có màu trắng hoặc nâu và thường được trồng và ăn nhiều ở châu Á",
+            "hasImg": true
+        },
+        {
+            "id": "7f59e4fb-182b-4cb7-b063-f9918a6c8ab9",
+            "word": "yogurt",
+            "phonetic": "joʊɡɚt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mix yogurt with herbs and spices to create a flavorful marinade for chicken or fish.",
+                "Add a spoonful of yogurt to your smoothies for a creamier texture and a boost of probiotics.",
+                "As a health-conscious individual, he sprinkled ground flaxseed over his morning yogurt.",
+                "Yogurt can be used as a healthier alternative to sour cream in recipes like tacos, baked potatoes, or dips.",
+                "The children enjoyed eating yogurt with a colorful plastic spoon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=eW9ndXJ0&hash=f926c06d59bcc6c8e2665f9847cd14075ebede25&lang=en&cache-only=0",
+            "defineEn": "a thick liquid food that is made from milk and is eaten cold",
+            "defineVi": "một thức ăn lỏng dày được làm từ sữa và được ăn lạnh",
+            "hasImg": true
+        },
+        {
+            "id": "04314345-7a67-4831-bda3-4a063d6d0ae3",
+            "word": "vegetable",
+            "phonetic": "vɛdʒɪɾəbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They served fresh vegetables with a side of tangy salad cream.",
+                "She juices fresh vegetables every morning for a nutritious start to her day.",
+                "I tossed the roasted vegetables with olive oil and a sprinkle of salt and pepper.",
+                "Fresh vegetables like tomatoes, cucumbers, and lettuce make a delicious salad.",
+                "He sprinkled a pinch of ground anise over his roasted vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVnZXRhYmxl&hash=1835bc11ddce73275d86279a82b2e18e4b5a790a&lang=en&cache-only=0",
+            "defineEn": "a plant or a part of it that we can eat either raw or cooked",
+            "defineVi": "một loại cây hoặc một phần của nó mà chúng ta có thể ăn sống hoặc nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "5519032c-6da1-436a-9c83-e7b0c7f9d874",
+            "word": "potato",
+            "phonetic": "pəteɪɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef skillfully peeled the potato, preparing it for the delicious mashed potatoes.",
+                "The creamy potato salad was enhanced with crispy lardons of bacon.",
+                "The team's success is built on the meat and potatoes of hard work and dedication.",
+                "Britain grows 6,000,000 tons of potatoes a year.",
+                "The farmer harvested a basket of potatoes from the field, satisfied with a successful yield."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG90YXRv&hash=d5e172be4127e5cdef6d2b48ed01de63b616a228&lang=en&cache-only=0",
+            "defineEn": "a round vegetable that grows beneath the ground, has light brown skin, and is used cooked or fried",
+            "defineVi": "một loại rau tròn mọc dưới đất, có vỏ màu nâu nhạt và được dùng nấu chín hoặc chiên",
+            "hasImg": true
+        },
+        {
+            "id": "e5ecf43a-a89e-4bd6-ac65-c63d35d95f13",
+            "word": "salad",
+            "phonetic": "sæləd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enhance your salad with tangy bergamot orange for a dose of vitamin E.",
+                "Fresh vegetables like tomatoes, cucumbers, and lettuce make a delicious salad.",
+                "She prepared a delicious pea and mint salad for the family picnic.",
+                "He served the salad on a large ceramic plate.",
+                "The salad was elevated with a colorful salpicon of roasted vegetables and feta cheese."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsYWQ&hash=f86980bfdaa77bfa755d01eace7c8c2c2e447873&lang=en&cache-only=0",
+            "defineEn": "a mixture of usually raw vegetables, like lettuce, tomato, and cucumber, with a type of sauce and sometimes meat",
+            "defineVi": "một hỗn hợp thường là rau sống, như rau diếp, cà chua và dưa chuột, với một loại nước sốt và đôi khi là thịt",
+            "hasImg": true
+        },
+        {
+            "id": "bf5d0444-f165-4ec1-a6e4-1fec133c05b6",
+            "word": "fruit",
+            "phonetic": "fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The apple tree in our backyard produces juicy fruits every year.",
+                "They topped fruit tarts with mango coulis.",
+                "The chef incorporated chunks of multiple fruits into a delectable dessert.",
+                "The greengage is a seasonal fruit, typically available during the late summer months.",
+                "She cuts the fruit into bite-sized pieces for a fruit salad."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXQ&hash=ac81e5858aaa1bc9aec76aab5a6958817a06f3a7&lang=en&cache-only=0",
+            "defineEn": "something we can eat that grows on trees, plants, or bushes",
+            "defineVi": "thứ gì đó chúng ta có thể ăn mọc trên cây, thực vật hoặc bụi rậm",
+            "hasImg": true
+        },
+        {
+            "id": "1e61b6ca-5ed4-47de-b56f-e12e7c46fef6",
+            "word": "bread",
+            "phonetic": "bɹɛd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "They dipped their bread into a small bowl of balsamic vinegar and olive oil.",
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWQ&hash=887a28d2a7fa3a37ef4a658c95bc7c7bb24e1bac&lang=en&cache-only=0",
+            "defineEn": "a type of food made from flour, water and usually yeast mixed together and baked",
+            "defineVi": "một loại thực phẩm được làm từ bột mì, nước và thường là men trộn với nhau và nướng",
+            "hasImg": true
+        },
+        {
+            "id": "6e656d68-2e31-4089-b5ba-f5fa018f0780",
+            "word": "butter",
+            "phonetic": "bʌɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their bread and butter is reporting local events.",
+                "The paper’s bread and butter is reporting local events in a small community.",
+                "As a vegan, she substituted almond butter for traditional dairy-based spreads.",
+                "The mobile phone business was actually his bread and butter.",
+                "I accidentally buttered both sides of the bread when making a sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnV0dGVy&hash=b688b3f85d5ed92aabce633aa0c0172e4846bc9f&lang=en&cache-only=0",
+            "defineEn": "a soft, yellow food made from cream that we spread on bread or use in cooking",
+            "defineVi": "một loại thực phẩm mềm, màu vàng làm từ kem mà chúng ta phết lên bánh mì hoặc dùng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "27192831-a1a1-42e3-b2c1-a7f30fb782e2",
+            "word": "cheese",
+            "phonetic": "tʃiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Farmer's cheese adds a delightful creaminess to my morning bowl of granola and fruit.",
+                "Cheshire cheese has a unique flavor profile.",
+                "Danish Blue cheese is fantastic in vegetarian dishes.",
+                "Ha, yeah right, and the moon is made of cheese.",
+                "Sprinkling Parmesan cheese over pasta dishes adds a savory touch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNl&hash=1fa8dd3467af3a12758a4935b49ec75fb164be1e&lang=en&cache-only=0",
+            "defineEn": "a soft or hard food made from milk that is usually yellow or white in color",
+            "defineVi": "thức ăn mềm hoặc cứng làm từ sữa thường có màu vàng hoặc trắng",
+            "hasImg": true
+        },
+        {
+            "id": "1de53ed3-fd75-4815-9d96-99f9d5d5ed1a",
+            "word": "sugar",
+            "phonetic": "ʃʊɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Did you put sugar in my coffee?",
+                "We used brown sugar as a key ingredient in our homemade barbecue sauce.",
+                "Do you take sugar in your coffee?",
+                "A teaspoon of sugar can sweeten your morning coffee or tea.",
+                "The chef used grape sugar to caramelize the top of the crème brûlée."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VnYXI&hash=6579e0d85085ed46998fdd287cd9afdd49590b24&lang=en&cache-only=0",
+            "defineEn": "a sweet white or brown substance that is obtained from plants and used to make food and drinks sweet",
+            "defineVi": "một chất ngọt màu trắng hoặc nâu thu được từ thực vật và được sử dụng để làm thức ăn và đồ uống ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "4dd25386-ed8f-4dbe-acf7-5b363e770581",
+            "word": "sandwich",
+            "phonetic": "sændwɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend prefers a vegetarian sandwich with avocado and sprouts.",
+                "That bacon sandwich really hit the spot!",
+                "The street vendor served crispy chicken cutlet sandwiches with lettuce and mayonnaise.",
+                "We packed sandwiches for our picnic in the park.",
+                "you want a knuckle sandwich?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FuZHdpY2g&hash=c9ae6a869c748cf3bcfc9fc1b501946980ccdbfc&lang=en&cache-only=0",
+            "defineEn": "two pieces of bread with cheese, meat, etc. between them",
+            "defineVi": "hai miếng bánh mì với phô mai, thịt, v.v... ở giữa",
+            "hasImg": true
+        },
+        {
+            "id": "7e8a3be1-8217-4233-a99d-d99abd3e615c",
+            "word": "cereal",
+            "phonetic": "siəɹɪəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They use cereal as a crunchy topping for their homemade ice cream sundaes.",
+                "The children enjoyed a bowl of chocolate cereal with cold milk and a glass of orange juice for breakfast.",
+                "I start my day with a bowl of cereal and a splash of cold milk.",
+                "I enjoy starting my day with a bowl of cereal and a glass of dairy product, like milk or yogurt.",
+                "I added fresh youngberries to my cereal for a vibrant and nutritious breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VyZWFs&hash=015b56ed2fbef49ba2e279ff5a8f946c4b4978d0&lang=en&cache-only=0",
+            "defineEn": "food made from grain, eaten with milk particularly in the morning",
+            "defineVi": "thực phẩm làm từ ngũ cốc, ăn với sữa đặc biệt là vào buổi sáng",
+            "hasImg": true
+        },
+        {
+            "id": "f844c0c9-9c20-4fda-8e59-e9a69b7cd732",
+            "word": "chocolate",
+            "phonetic": "tʃɑːklət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chocolate mousse had a velvety consistency thanks to carrageen.",
+                "I baked a chocolate cake for my friend's birthday.",
+                "The chocolate is available by mail order, but at a price.",
+                "The unique flavor of physalis pairs wonderfully with dark chocolate in desserts.",
+                "he broke off a piece of his chocolate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hvY29sYXRl&hash=fd2f200de9f4fef3a5d5d1f248b3f6c6e0f936ad&lang=en&cache-only=0",
+            "defineEn": "a type of food that is brown and sweet and is made from ground cocoa seeds",
+            "defineVi": "một loại thực phẩm có màu nâu và ngọt và được làm từ hạt ca cao xay",
+            "hasImg": true
+        },
+        {
+            "id": "77953f11-c644-42b8-861e-1e96ebe8e024",
+            "word": "coffee",
+            "phonetic": "kɔfi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She made coffee for us all.",
+                "The coffee in the mug was a dark.",
+                "The coffee table was a dark wood color.",
+                "Surprisingly, the little café had the best coffee in town.",
+                "The little café had, surprisingly, the best coffee in town."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29mZmVl&hash=4c3fb90c40cc371b528be5a48c89e3e902e6d367&lang=en&cache-only=0",
+            "defineEn": "a drink that is made from mixing water with some crushed seeds, called coffee beans, usually hot and brown in color",
+            "defineVi": "một thức uống được làm từ nước trộn với một số hạt nghiền nhỏ, được gọi là hạt cà phê, thường nóng và có màu nâu",
+            "hasImg": true
+        },
+        {
+            "id": "0011d46e-1491-48e1-a0ab-93be2eac3c42",
+            "word": "tea",
+            "phonetic": "tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Spill the tea!",
+                "The aromatic wintergreen tea soothes her sore throat.",
+                "A cup of tea sounds perfect.",
+                "The restaurant served tea accompanied by delicate sugar lumps on the side.",
+                "Do you want some more tea?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVh&hash=b7657d4c14b9556d6b6da8f12dd4d9f2e35fcc2c&lang=en&cache-only=0",
+            "defineEn": "a hot drink that is made by soaking dried leaves, called tea leaves, in hot water",
+            "defineVi": "một thức uống nóng được làm bằng cách ngâm lá khô, được gọi là lá trà, trong nước nóng",
+            "hasImg": true
+        },
+        {
+            "id": "d1d6d2d7-5faf-404f-921c-517bf97ca978",
+            "word": "milk",
+            "phonetic": "mɪlk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The thunder had turned the milk.",
+                "The milk has turned.",
+                "The milk skin gives a unique texture to the homemade pudding.",
+                "\"Do you have any milk?\"",
+                "A classic hot chocolate recipe calls for scalded milk to be mixed with cocoa powder and sugar."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlsaw&hash=f67c76a77a7fe5bd77105803f37d3b6dd006135c&lang=en&cache-only=0",
+            "defineEn": "the white liquid we get from cows, sheep, or goats that we drink and use for making cheese, butter, etc.",
+            "defineVi": "chất lỏng màu trắng chúng ta lấy từ bò, cừu hoặc dê mà chúng ta uống và sử dụng để làm pho mát, bơ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "7b3c268c-92d8-42a1-b9cf-538c1a4f3aac",
+            "word": "water",
+            "phonetic": "wɔːɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our waitress poured water for everyone at the table.",
+                "Water will always find its own level.",
+                "My mother waters the plants in our garden every morning.",
+                "Police turned water cannon on the rioters.",
+                "The water boiled away."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0ZXI&hash=fd853ff5e3f42247c9f00b85e95c541093dd8ff0&lang=en&cache-only=0",
+            "defineEn": "a liquid with no smell, taste, or color, that falls from the sky as rain, and we use for washing, cooking, drinking, etc.",
+            "defineVi": "một chất lỏng không mùi, không vị, không màu, từ trên trời rơi xuống dưới dạng mưa, và chúng ta dùng để giặt giũ, nấu ăn, uống, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c38b5bb4-2f3a-4a98-b7b8-f08463d643c2",
+            "word": "orange juice",
+            "phonetic": "ɔɹɪndʒ dʒuːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Whenever I grill chicken, I love brushing it with a glaze made from king orange juice.",
+                "It's something about big man, orange juice, coffee shop.",
+                "So like orange juice, which is really just an aqueous solution of sugar and citric acid and a few other things, say the hydrogen concentration in your OJ is 3.2 x 10^-4 moles per liter.",
+                "You've got a bacon aftertaste with the orange juice is smacking you - right up front.",
+                "Oh, I see what the bit is here with the orange juice and now this."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3JhbmdlIGp1aWNl&hash=e9ba7a5e142e042aabd4bfd1423f3a8c8433efaf&lang=en&cache-only=0",
+            "defineEn": "a drink that is made from oranges",
+            "defineVi": "một thức uống được làm từ cam",
+            "hasImg": true
+        },
+        {
+            "id": "8c069d9d-3779-41f6-8ab1-d5c286e9b157",
+            "word": "wine",
+            "phonetic": "waɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Good wine can make a meal.",
+                "Red wine leaves a stain.",
+                "The California vineyards produce excellent wines.",
+                "The grapes are made into wine.",
+                "The waiter opened the bottle of wine for the guests."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2luZQ&hash=4f9e0e7eb2876257cd7105d69fff57401e236009&lang=en&cache-only=0",
+            "defineEn": "a drink that is alcoholic and mostly made from grape juice",
+            "defineVi": "một thức uống có cồn và chủ yếu được làm từ nước ép nho",
+            "hasImg": true
+        },
+        {
+            "id": "445a2ad9-5cc0-4b1f-a0f8-163ad4345584",
+            "word": "beer",
+            "phonetic": "bɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He makes beer using traditional methods.",
+                "He could murder a beer and a plate of fresh fish.",
+                "Wow, all that beer has left me feeling terrible this morning.",
+                "Gin, vodka, whisky, beer - you name it, I've got it.",
+                "Eve borrows money to buy expensive designer clothes - champagne taste on a beer budget!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVlcg&hash=859e18ca4f8f63c683041ecf38e9c62280d4005a&lang=en&cache-only=0",
+            "defineEn": "a drink that is alcoholic and made from different types of grain",
+            "defineVi": "một thức uống có cồn và được làm từ các loại ngũ cốc khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "c010a815-ebef-41d5-8836-734c6e220ef7",
+            "word": "scientist",
+            "phonetic": "saɪəntɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scientists are taking water samples from the river.",
+                "Scientists believe that a major breakthrough is on the horizon.",
+                "Scientists fear that global warming has gone beyond the point of no return.",
+                "The scientist presented an abstract theory that revolutionized our understanding of the universe.",
+                "Scientists worked day and night to break the code."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NpZW50aXN0&hash=3b6e253492e1bc4b136b5b727cfaf6aec96a7746&lang=en&cache-only=0",
+            "defineEn": "someone whose job or education is about science",
+            "defineVi": "một người có công việc hoặc giáo dục là về khoa học",
+            "hasImg": true
+        },
+        {
+            "id": "8b2d62cc-4755-4415-8c36-e08a805d128e",
+            "word": "doctor",
+            "phonetic": "dɑːktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Doctors couldn't stop the bleeding.",
+                "The doctor examined her neck for any signs of injury.",
+                "Somebody get a doctor!",
+                "The doctor will see you now.",
+                "The doctor used a small flashlight to examine her eyes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9jdG9y&hash=ca73dffd3b050170c1d206340314db5c1ca41ee5&lang=en&cache-only=0",
+            "defineEn": "someone who has studied medicine and treats sick or injured people",
+            "defineVi": "một người đã nghiên cứu y học và điều trị những người bị bệnh hoặc bị thương",
+            "hasImg": true
+        },
+        {
+            "id": "ba9aa461-ad46-4699-81cd-a4f0a2ca81a6",
+            "word": "sometimes",
+            "phonetic": "sʌmtaɪmz ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "The store sometimes offers discounts on certain items.",
+                "We sometimes have a barbecue in the backyard.",
+                "Sometimes darkness can show you the light.",
+                "She sometimes picked fights with other girls at school.",
+                "She sometimes practices yoga in the morning."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29tZXRpbWVz&hash=1d731b2d6abccaa930b2f6af512ab53c62a08bcf&lang=en&cache-only=0",
+            "defineEn": "on some occasions but not always",
+            "defineVi": "trong một số dịp nhưng không phải lúc nào",
+            "hasImg": true
+        },
+        {
+            "id": "52557f3d-c385-4a98-9893-d8f3e9acfa1a",
+            "word": "usually",
+            "phonetic": "juːʒuːəli ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "Tuesdays usually are my busiest days at work.",
+                "I usually have a peaceful sleep at night.",
+                "We usually have a family gathering on Thanksgiving.",
+                "The weather in this city is usually mild throughout the year.",
+                "The head teacher usually takes us for French."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dXN1YWxseQ&hash=86f2e07667d51aebd8e18647912525edd5333a3d&lang=en&cache-only=0",
+            "defineEn": "in most situations or under normal circumstances",
+            "defineVi": "trong hầu hết các tình huống hoặc trong các trường hợp bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "bb11ec09-2159-4ffd-8068-aa50d9c98fea",
+            "word": "early",
+            "phonetic": "ɜːli ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The library closes early on Sundays.",
+                "She sent the kids to bed early.",
+                "Her early research laid the foundation for many important medical discoveries.",
+                "Book early and save £50!",
+                "For some people, early morning jogging is their cup of tea."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFybHk&hash=184900ed75cfba878b7c4c4e0a885a7b3fafb6d4&lang=en&cache-only=0",
+            "defineEn": "happening or done before the usual, expected, or scheduled time",
+            "defineVi": "xảy ra hoặc thực hiện trước thời gian thông thường, dự kiến, hoặc theo lịch trình",
+            "hasImg": true
+        },
+        {
+            "id": "69de9011-b2b7-4fbc-9309-92088640869e",
+            "word": "healthy",
+            "phonetic": "hɛlθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Try some dried apricots as a healthy snack.",
+                "For a healthier alternative, she replaced all-purpose flour with whole wheat flour in her muffin recipe.",
+                "I ate a delicious apple for a healthy snack.",
+                "He used rutabaga slices as a healthy alternative to tortillas.",
+                "He used swede slices as a healthier alternative to french fries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhbHRoeQ&hash=7430efe180635d4e780bd8f65b1418c1ea652be5&lang=en&cache-only=0",
+            "defineEn": "not having physical or mental problems",
+            "defineVi": "không có vấn đề về thể chất hoặc tinh thần",
+            "hasImg": true
+        },
+        {
+            "id": "3769f4da-d921-4328-b500-4325fe5ccbc2",
+            "word": "traditional",
+            "phonetic": "tɹɐdɪʃənəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Traditional stores are now pursuing a bricks and clicks strategy.",
+                "In these traditional stories, no crime goes unpunished.",
+                "Traditional parents used to believe in laying down the law for their offspring.",
+                "Iceland moss is commonly used in traditional Scandinavian cuisine",
+                "The traditional English breakfast included a generous portion of kippers, served alongside eggs and bacon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhZGl0aW9uYWw&hash=be1299c8bcf071d27712e3b476f8be36fabd7ad5&lang=en&cache-only=0",
+            "defineEn": "belonging to or following the methods or thoughts that are old as opposed to new or different ones",
+            "defineVi": "thuộc về hoặc tuân theo các phương pháp hoặc suy nghĩ cũ trái ngược với những phương pháp hoặc suy nghĩ mới hoặc khác"
+        },
+        {
+            "id": "9a0db38c-ec31-4290-ba89-2af74f8b19e0",
+            "word": "important",
+            "phonetic": "ɪmpoːɹtənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The book raises many important questions.",
+                "We mark important passages in a book with a pencil underline.",
+                "It's very important.",
+                "Important new laws are already in the pipeline.",
+                "Saving money for the future is really important."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW1wb3J0YW50&hash=56ec8e7c01d41cee5c55f7f238195176ba6816fa&lang=en&cache-only=0",
+            "defineEn": "having a lot of value",
+            "defineVi": "có nhiều giá trị",
+            "hasImg": true
+        },
+        {
+            "id": "d2be07df-79ee-488c-baec-9d1e795abc07",
+            "word": "different",
+            "phonetic": "dɪfɹənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Everyone has different interests.",
+                "The figures tell a different story.",
+                "Actually, I wear several different hats.",
+                "He had a different perspective on the movie.",
+                "She studied different subjects in school, from math to history."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmVyZW50&hash=56d0cff4b3443dbeac5dc54ead4efe1093bc4e52&lang=en&cache-only=0",
+            "defineEn": "not like another thing or person in form, quality, nature, etc.",
+            "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "9cebd27f-3f29-4558-a911-2e35fde82812",
+            "word": "cafe",
+            "phonetic": "kæfeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel.",
+                "Surprisingly, the little café had the best coffee in town.",
+                "The little café had, surprisingly, the best coffee in town.",
+                "The café served a variety of coffee drinks, including cappuccino and macchiato.",
+                "She discovered a new café in the neighborhood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FmZQ&hash=9421e16162d634ea4b2314881412d7f668947a29&lang=en&cache-only=0",
+            "defineEn": "a small restaurant that sells drinks and meals",
+            "defineVi": "một nhà hàng nhỏ bán đồ uống và bữa ăn",
+            "hasImg": true
+        },
+        {
+            "id": "bee3273c-5dce-49e3-acb0-20267fbe0ab7",
+            "word": "home",
+            "phonetic": "hoʊm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The policeman hammered home the dangers of drinking and driving.",
+                "My son is coming home soon.",
+                "The forest is home to a diverse range of plant and animal species.",
+                "I pressed the issue home to them.",
+                "To hit a home run."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9tZQ&hash=81f3f81d500e0b71450cf5a7d611a31cb5fcd3e0&lang=en&cache-only=0",
+            "defineEn": "the place that we live in, usually with our family",
+            "defineVi": "nơi mà chúng tôi sống, thường là với gia đình của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "55146512-59ca-4bf1-8149-53f20980471e",
+            "word": "work",
+            "phonetic": "wɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The students worked their heart and soul on their project.",
+                "Not working my foot.",
+                "Soymilk works well as a substitute for milk in sauces and creamy pasta dishes.",
+                "My dad works forty hours a week.",
+                "To work clay."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29yaw&hash=bde9fca176d084c843248403edd2a402467aaed6&lang=en&cache-only=0",
+            "defineEn": "something that we do regularly to earn money",
+            "defineVi": "một cái gì đó mà chúng tôi làm thường xuyên để kiếm tiền",
+            "hasImg": true
+        },
+        {
+            "id": "89c57e69-c11b-4a27-b7e3-afe1d7c41e39",
+            "word": "soup",
+            "phonetic": "suːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The soup needs a little more seasoning.",
+                "My friend Prepared a nourishing soup with cellophane noodles, mushrooms, and bok choy.",
+                "We enjoyed hot cabbage soup on a chilly evening.",
+                "I always garnish my soup with a sprinkle of fresh herbs.",
+                "My grandma makes the best homemade chicken soup."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291cA&hash=67f29063b48162b01e8f9cbe5b0593e9428e7e45&lang=en&cache-only=0",
+            "defineEn": "liquid food cooked in water, typically containing small pieces of meat, fish, or vegetables",
+            "defineVi": "thức ăn lỏng được nấu trong nước, thường chứa những miếng thịt, cá hoặc rau nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "38fffe86-e8b5-4064-8553-21efa21fcea5",
+            "word": "green tea",
+            "phonetic": "ɡɹiːn tiː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlZW4gdGVh&hash=9d5872f6b6fd639487615d0b912517d61f01b1fd&lang=en&cache-only=0",
+            "defineEn": "a type of tea made from the leaves and buds of the tea plant, and it has a green color and a slightly bitter taste",
+            "defineVi": "một loại trà được làm từ lá và búp của cây trà, có màu xanh lục, vị hơi đắng",
+            "hasImg": true
+        },
+        {
+            "id": "5ca9465e-87c8-4855-80f2-0f2fd43cdf80",
+            "word": "toast",
+            "phonetic": "toʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The children enjoy peanut butter on toast.",
+                "My dad spread a thick layer of orange marmalade on my morning toast.",
+                "The café served a delicious breakfast sandwich with eggs, cheese, and ham on a toasted bagel.",
+                "They happily raised their glasses for a toast.",
+                "I toasted a slice of bread and spread peanut butter on it for breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9hc3Q&hash=ece571c03f7226e0908d8e6ba47d1512ad666150&lang=en&cache-only=0",
+            "defineEn": "a slice of bread that is brown on both sides because it has been heated",
+            "defineVi": "một lát bánh mì có màu nâu ở cả hai mặt vì nó đã được làm nóng",
+            "hasImg": true
+        },
+        {
+            "id": "94b00259-7c2d-4c90-922c-5a00bc2a79a7",
+            "word": "egg",
+            "phonetic": "ɛɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Eggs are a great source of protein.",
+                "The chicken laid an egg in the nesting box.",
+                "The eggs cook quickly in a hot frying pan.",
+                "I wanted bacon and eggs for breakfast.",
+                "The brunch special featured a beefburger with a sunny-side-up egg, crispy bacon, and a dollop of hollandaise sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWdn&hash=9442aaa358f96481306b74ee0ac4fb268e896189&lang=en&cache-only=0",
+            "defineEn": "an oval or round thing that is produced by a chicken and can be used for food",
+            "defineVi": "một thứ hình bầu dục hoặc tròn được sản xuất bởi một con gà và có thể được sử dụng cho thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "43782383-c7cc-405a-9513-c0b54b90e68c",
+            "word": "favourite",
+            "phonetic": "feɪvɹɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My favourite ice cream shop went out of business last summer.",
+                "This happens to be my favourite restaurant.",
+                "He'd walk around the house repeating his favourite sayings like a broken record.",
+                "He struck the right note with his future mother-in-low when he brought her a book on gardening - her favourite hobby!",
+                "So the favourites are the planner as a whole and this cover."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF2b3VyaXRl&hash=48961ec95f42ebd08bbca5b5368f7294701dda6e&lang=en&cache-only=0",
+            "defineEn": "liked or preferred the most among the rest that are from the same category",
+            "defineVi": "thích hoặc được ưa thích nhất trong số những thứ còn lại cùng loại"
+        }
+    ]
+}

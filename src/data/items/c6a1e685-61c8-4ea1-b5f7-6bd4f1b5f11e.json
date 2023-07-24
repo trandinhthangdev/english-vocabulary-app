@@ -1,0 +1,568 @@
+{
+    "id": "c6a1e685-61c8-4ea1-b5f7-6bd4f1b5f11e",
+    "title": "Money and Shopping",
+    "originalTitle": "Lesson 21",
+    "words": [
+        {
+            "id": "1fd06a7f-7d36-4d69-956d-031943df75e9",
+            "word": "cash",
+            "phonetic": "kæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I am short of cash at the moment.",
+                "He cashed in his chips last summer aged 65.",
+                "Andy cashed in his chips as soon as business started to slow down.",
+                "I just took the easy way out and gave him some cash.",
+                "He'd been helping himself to the money in the cash register."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzaA&hash=53b153d3b82c38f64a284c056fe78bb1be269140&lang=en&cache-only=0",
+            "defineEn": "money in bills or coins, rather than checks, credit, etc.",
+            "defineVi": "tiền dưới dạng hóa đơn hoặc tiền xu, thay vì séc, tín dụng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "414325ce-ab41-4daa-89c1-5001da288109",
+            "word": "dollar",
+            "phonetic": "dɑːlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The storekeeper changed my dollar bill for four quarters.",
+                "I have zero dollars in my wallet.",
+                "She has seventy dollars in her wallet.",
+                "You can afford a dollar for a good cause.",
+                "She looks a million dollars in her elegant evening gown and flawless makeup."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG9sbGFy&hash=bcf7f7ae678d62044591c219f7ae11b2faf766f3&lang=en&cache-only=0",
+            "defineEn": "the unit of money in the US, Canada, Australia and several other countries, equal to 100 cents",
+            "defineVi": "đơn vị tiền ở Hoa Kỳ, Canada, Úc và một số quốc gia khác, bằng 100 xu",
+            "hasImg": true
+        },
+        {
+            "id": "ec97b1af-7637-4f2c-889d-4aa44476eaa5",
+            "word": "euro",
+            "phonetic": "jʊɹɹoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A hundred cents make one euro.",
+                "The euro hit a record low in trading today.",
+                "I need to change some euros.",
+                "How much is a thousand pounds in euros?",
+                "The RemoveDEBRIS project has cost 15 million euro, or, about 17 million US dollars."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXVybw&hash=2ef46d9a9851055fe445d9901247c5d7a50ae1bf&lang=en&cache-only=0",
+            "defineEn": "the money that most countries in Europe use",
+            "defineVi": "tiền mà hầu hết các nước ở châu Âu sử dụng",
+            "hasImg": true
+        },
+        {
+            "id": "8e2af108-eb30-4eed-9ebd-df17af076bcd",
+            "word": "pound",
+            "phonetic": "paʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The brain weighs about three pounds.",
+                "My gal is pound for pound sweeter than chocolate.",
+                "I bought a pound of fresh meat from the butcher.",
+                "That one mistake left him thousands of pounds out of pocket.",
+                "l'd been pound foolish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG91bmQ&hash=2e183a6cfb9fc5037f77c7f3d533e8f21a39ebdc&lang=en&cache-only=0",
+            "defineEn": "the currency of the UK and some other countries that is equal to 100 pence",
+            "defineVi": "tiền tệ của Vương quốc Anh và một số quốc gia khác bằng 100 pence",
+            "hasImg": true
+        },
+        {
+            "id": "706c93a5-24eb-40e5-ac6c-e743681a5d74",
+            "word": "cent",
+            "phonetic": "sɛnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A hundred cents make one euro.",
+                "95 per cent of the UK can now get superfast broadband.",
+                "The region produces over 50 per cent of the country's wheat.",
+                "Inflation was running at 26 per cent.",
+                "The basic pay of the average worker has risen by 3 per cent."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VudA&hash=2845ebfefd1624e5109ad562702cf700de2069f2&lang=en&cache-only=0",
+            "defineEn": "a unit of money in some countries, equal to one hundredth of a dollar or euro",
+            "defineVi": "một đơn vị tiền ở một số quốc gia, bằng một phần trăm đô la hoặc euro",
+            "hasImg": true
+        },
+        {
+            "id": "7f891601-ad20-4b12-ab18-633a106d5e00",
+            "word": "penny",
+            "phonetic": "pɛni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Don't be penny-wise, Hawthorne.",
+                "We're all penny wise these days.",
+                "Nothing in life is free, no penny, no paternoster.",
+                "Over the years, he developed a reputation as a penny pincher who wouldn't spend money for anything.",
+                "Shaking his head, Jack said, \"A bad penny always turns up.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVubnk&hash=f1748e5e47eff0d320cc08c168daa8b1e1be1739&lang=en&cache-only=0",
+            "defineEn": "a unit of currency or coin used in several countries, equal to one hundredth of a dollar or pound",
+            "defineVi": "một đơn vị tiền tệ hoặc tiền xu được sử dụng ở một số quốc gia, bằng một phần trăm đô la hoặc bảng Anh",
+            "hasImg": true
+        },
+        {
+            "id": "7c7501fb-1a23-47cd-a0c0-7670453e40ff",
+            "word": "credit card",
+            "phonetic": "kɹɛdɪt kɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her credit card bills are enormous!",
+                "I pay for my groceries with my credit card.",
+                "John finally paid off his credit card debt and felt a huge weight lifted off his shoulders.",
+                "The couple enjoyed a luxurious vacation, but knew that their credit card bill would be waiting for them at home.",
+                "I lived on the edge using cash advances to pay one credit card with another until I finally found a job three months after graduation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3JlZGl0IGNhcmQ&hash=e75696c6c11445ac862edd916787fb81f20d72db&lang=en&cache-only=0",
+            "defineEn": "a plastic card, usually given to us by a bank, that we use to pay for goods and services",
+            "defineVi": "một thẻ nhựa, thường được ngân hàng cấp cho chúng tôi, mà chúng tôi sử dụng để thanh toán hàng hóa và dịch vụ",
+            "hasImg": true
+        },
+        {
+            "id": "3ec68ccc-fec4-48bd-adc3-e84a4da23668",
+            "word": "debit card",
+            "phonetic": "dɛbɪt kɑːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tap on \"credit or debit card.\"",
+                "Their money is placed on a debit card.",
+                "We're going to link a debit card to the account.",
+                "To add a bank account, credit card, or debit card, press \"Add bank or card.\"",
+                "You can link a credit card, debit card, or a PayPal account."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGViaXQgY2FyZA&hash=9cceae1c71442a9c36dbfb778dd8057421a851e1&lang=en&cache-only=0",
+            "defineEn": "a small plastic card we use to pay for what we buy with the money taken directly from our bank account",
+            "defineVi": "một thẻ nhựa nhỏ mà chúng tôi sử dụng để thanh toán cho những gì chúng tôi mua bằng số tiền được lấy trực tiếp từ tài khoản ngân hàng của chúng tôi",
+            "hasImg": true
+        },
+        {
+            "id": "66caebe0-3d95-45c4-abef-8346648c8ebb",
+            "word": "check",
+            "phonetic": "tʃɛk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Check the remix.",
+                "The active ingredient checks the growth of bacteria.",
+                "Check the box next to the right answer.",
+                "I’ll check the dates.",
+                "Any baggage over five kilos must be checked."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlY2s&hash=d475fc5cf17be34f321fb592977c35823a6b3e4e&lang=en&cache-only=0",
+            "defineEn": "‌a printed form that we can write an amount of money on, sign, and use instead of money to pay for things",
+            "defineVi": "‌một mẫu in mà chúng ta có thể viết một số tiền, ký tên và sử dụng thay vì tiền để thanh toán mọi thứ",
+            "hasImg": true
+        },
+        {
+            "id": "1368bb92-2378-4bc9-b85d-982aefbaf0a9",
+            "word": "receipt",
+            "phonetic": "ɹᵻsiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'll write you out a receipt.",
+                "If you bring the dress back with the receipt, you can change it.",
+                "Here's your receipt.",
+                "Then switch off read receipts.",
+                "CVS receipts are long."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjZWlwdA&hash=20e240ac13a9fd996f9ba3117c3f8080f504adab&lang=en&cache-only=0",
+            "defineEn": "a written or printed document that shows a number of goods or services which are bought or delivered are paid for",
+            "defineVi": "một tài liệu bằng văn bản hoặc in cho thấy một số hàng hóa hoặc dịch vụ được mua hoặc giao được trả tiền cho",
+            "hasImg": true
+        },
+        {
+            "id": "dfbbbd20-360a-4c3a-9f26-3060f15ef0c4",
+            "word": "bill",
+            "phonetic": "bɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My father pays his bills at the beginning of the month.",
+                "Come on, Bill.",
+                "The bill has the President's seal of approval.",
+                "The bill was four votes shy of a majority.",
+                "His parents footed the bill for his college education."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmlsbA&hash=7338efb8049a8ff015ef40e2dbb236db4acc13c0&lang=en&cache-only=0",
+            "defineEn": "a piece of paper money",
+            "defineVi": "một tờ tiền giấy",
+            "hasImg": true
+        },
+        {
+            "id": "9c2a315f-e2b9-493c-a933-e7dfe1e3316c",
+            "word": "price",
+            "phonetic": "pɹaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does the price include tax?",
+                "The price includes dinner, bed, and breakfast.",
+                "Many shops have raised their prices.",
+                "International companies set the price of oil.",
+                "The exorbitant prices are explainable in light of the facts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpY2U&hash=79cc9684b19c8fa84aae8f447bdfa8183bd40781&lang=en&cache-only=0",
+            "defineEn": "the amount of money required for buying or obtaining something",
+            "defineVi": "số tiền cần thiết để mua hoặc có được một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "7cbbe671-5d22-4774-909a-0e560f39f0da",
+            "word": "cost",
+            "phonetic": "kɔst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That holiday cost me a small fortune.",
+                "College tuitions cost an arm and leg nowadays.",
+                "Estimates put the war's cost at £1 million a day.",
+                "It will cost $1,500 to get the car back on the road.",
+                "The trip to the beach cost me $100, but I almost broke even after winning $90 in a contest."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29zdA&hash=69cb18634ad51e9bbdb0df51398ba9bccd0c14eb&lang=en&cache-only=0",
+            "defineEn": "an amount we pay to buy, do, or make something",
+            "defineVi": "một số tiền chúng tôi phải trả để mua, làm, hoặc thực hiện một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "c94455f9-369c-4c54-bc70-66de8a558704",
+            "word": "shopping",
+            "phonetic": "ʃɑːpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I hate shopping.",
+                "I've never really understood shopping therapy.",
+                "After a little light window-shopping, I had dinner in a super-stylish Japanese restaurant.",
+                "I saw a famous actress at the shopping mall today.",
+                "We hope you have a pleasant shopping experience."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcHBpbmc&hash=360edbd18c74152d2e579968b8f8347d4842d8a6&lang=en&cache-only=0",
+            "defineEn": "the act of buying goods from stores",
+            "defineVi": "hành động mua hàng hóa từ các cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "5f46f351-2b2f-44fd-86d6-81b6323521f6",
+            "word": "store",
+            "phonetic": "stoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The store sometimes offers discounts on certain items.",
+                "Traditional stores are now pursuing a bricks and clicks strategy.",
+                "The store is offering a discount of eighty percent off.",
+                "She stored canned goods and snacks in the kitchen pantry.",
+                "She stored homemade sauce in a glass bottle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvcmU&hash=3ee2f4a46bc5729b9bc89884de1f170d5fa1c948&lang=en&cache-only=0",
+            "defineEn": "a shop of any size or kind that sells goods",
+            "defineVi": "một cửa hàng thuộc mọi quy mô hoặc loại bán hàng hóa",
+            "hasImg": true
+        },
+        {
+            "id": "a51ee505-dd94-4ea2-a159-eb2d32d921ac",
+            "word": "clothes store",
+            "phonetic": "kloʊðz stoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2xvdGhlcyBzdG9yZQ&hash=87d2a207fe20130a708a53ee16c1166155da3de2&lang=en&cache-only=0",
+            "defineEn": "a shop or store that sells clothing",
+            "defineVi": "một cửa hàng hoặc cửa hàng bán quần áo",
+            "hasImg": true
+        },
+        {
+            "id": "dc2339fa-0fc2-4cf9-8b38-5f4d569fb364",
+            "word": "shopping bag",
+            "phonetic": "ʃɑːpɪŋ bæɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It comes in a shopping bag.",
+                "That’s about 15 plastic shopping bags worth for every meter of coastline on Earth.",
+                "These sturdy shopping bags consist of polyester, vinyl and other tough plastics, and are already used worldwide.",
+                "Families are showing up literally with shopping bags full of dietary supplements.",
+                "And it almost didn't happen because it came, the invitation to accept or not this honor, came in a brown envelope and it was put into a plastic shopping bag with a whole lot of other mail."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcHBpbmcgYmFn&hash=9eda26cfc558ddb83fbc9795b97d5b98091941ae&lang=en&cache-only=0",
+            "defineEn": "a bag made of cloth, paper, or plastic with two handles, used for carrying what you buy",
+            "defineVi": "một chiếc túi làm bằng vải, giấy hoặc nhựa có hai tay cầm, được sử dụng để đựng những thứ bạn mua",
+            "hasImg": true
+        },
+        {
+            "id": "5574545e-2c68-450b-9d18-16be45c09dd6",
+            "word": "shopping center",
+            "phonetic": "ʃɑːpɪŋ sɛntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The out-of-town shopping center will kill local trade.",
+                "The out-of-town shopping center will kill local trade.",
+                "By 1975, malls and shopping centers accounted for 33% of all retail sales in America.",
+                "In some shopping centers, the entire complement of stores is made up of franchises. ",
+                "In 1956, his design of a Southdale shopping center opened in Edina, Minnesota."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hvcHBpbmcgY2VudGVy&hash=df3e8498b5e90147d550341dd3e62a6dc867d70f&lang=en&cache-only=0",
+            "defineEn": "an area of stores or a group of stores built together in one area",
+            "defineVi": "một khu vực cửa hàng hoặc một nhóm các cửa hàng được xây dựng cùng nhau trong một khu vực",
+            "hasImg": true
+        },
+        {
+            "id": "eae1fd21-4eb4-42d7-b25c-56685c878e2d",
+            "word": "department",
+            "phonetic": "dᵻpɑːɹtmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The department led the world in cancer research.",
+                "The HR department only shared the employee's personal information on a need-to-know basis.",
+                "The department has devolved into chaos without her leadership.",
+                "The department has placed its plans on hold pending the results of the elections.",
+                "The police department has encouraged officers to walk the beat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwYXJ0bWVudA&hash=3b908088eada0a96c823c8975e77411e3c4e284e&lang=en&cache-only=0",
+            "defineEn": "an area within a large store where a specific category of goods are sold",
+            "defineVi": "một khu vực trong một cửa hàng lớn nơi bán một loại hàng hóa cụ thể"
+        },
+        {
+            "id": "3ff55836-170e-4747-a776-b5df2ee458ea",
+            "word": "customer",
+            "phonetic": "kʌstəmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef impressed the customers by his special dish of button mushrooms with crumbled feta cheese.",
+                "The bakery offered gluten-free options for customers with dietary restrictions.",
+                "Customer service calls went unanswered.",
+                "Our mascarpone cheesecake is a customer favorite",
+                "Customers feel they have been left up the creek without a paddle by the bank."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VzdG9tZXI&hash=683db48f39be401059f0de0fff541aa167650cdb&lang=en&cache-only=0",
+            "defineEn": "a person, organization, company, etc. that pays to get things from businesses or stores",
+            "defineVi": "một người, tổ chức, công ty, v.v. trả tiền để lấy đồ từ doanh nghiệp hoặc cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "6e4d65b0-e18b-4f07-868d-921d2e71781d",
+            "word": "item",
+            "phonetic": "aɪɾəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The store sometimes offers discounts on certain items.",
+                "He put the fragile items in a padded box for protection.",
+                "I buy groceries and household items at the supermarket every week.",
+                "The shirt has a pocket on the chest for small items.",
+                "The police apprehended the thief and recovered the stolen items."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aXRlbQ&hash=5b465bc2964a07db51c6212dc9ca83605fcd24b9&lang=en&cache-only=0",
+            "defineEn": "a single thing or object, especially one that is part of a list, set, or collection",
+            "defineVi": "một thứ hoặc đối tượng, đặc biệt là một thứ là một phần của danh sách, tập hợp hoặc bộ sưu tập"
+        },
+        {
+            "id": "7bf5297a-88a2-4ec1-9e82-33b6c5b5ebbd",
+            "word": "gift",
+            "phonetic": "ɡɪft ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gifted a jar of homemade butterscotch sauce to his neighbor.",
+                "Shall I take my host family a gift?",
+                "She received a new book as a gift.",
+                "I got an empty gift box.",
+                "She gifted me a jar of homemade confiture made from mixed berries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2lmdA&hash=bed85d337232b2c1445bf7f6c551d920de76ea3c&lang=en&cache-only=0",
+            "defineEn": "something that we give to someone because we like them, especially on a special occasion, or to say thank you",
+            "defineVi": "thứ gì đó mà chúng ta tặng cho ai đó vì chúng ta thích họ, đặc biệt là vào một dịp đặc biệt hoặc để nói lời cảm ơn",
+            "hasImg": true
+        },
+        {
+            "id": "5b6c3143-b268-43f4-b95b-4c26ef920a5b",
+            "word": "sale",
+            "phonetic": "seɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sales have lost steam in recent weeks.",
+                "Sales are growing fast.",
+                "Shares went on sale this morning.",
+                "Sales assistants are often on the receiving end of verbal abuse from customers.",
+                "The report showed an increase in sales."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FsZQ&hash=ce7bab7543732a9ac2dec3b724e54e737283dd2e&lang=en&cache-only=0",
+            "defineEn": "an occasion when a shop or business sells its goods at reduced prices",
+            "defineVi": "một dịp khi một cửa hàng hoặc doanh nghiệp bán hàng hóa của mình với giá giảm",
+            "hasImg": true
+        },
+        {
+            "id": "f9cbce53-543b-4366-a803-4525a8b57558",
+            "word": "cart",
+            "phonetic": "kɑːɹt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An industry-backed initiative petition with a large marketing budget overturned the apple cart.",
+                "She pushed the cart down the aisle at the grocery store.",
+                "They have put the cart before the horse.",
+                "You can take your pick of any dessert on the cart.",
+                "Aren't you putting the cart before the horse by deciding what to wear for the wedding before you've even been invited to it?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FydA&hash=ba93ac8f1de6db8172005f098347d1cb82da1f7c&lang=en&cache-only=0",
+            "defineEn": "a vehicle with two or four wheels that we use to carry heavy objects while shopping",
+            "defineVi": "một chiếc xe có hai hoặc bốn bánh mà chúng tôi sử dụng để chở vật nặng khi đi mua sắm",
+            "hasImg": true
+        },
+        {
+            "id": "c1d1571a-8c04-41f5-aaeb-97ddc87ebd49",
+            "word": "advertisement",
+            "phonetic": "ædvɚtaɪzmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Replies to the advertisement are arriving in fits and starts.",
+                "The team always thinks outside the box to come up with unique advertisements for all its clients.",
+                "He believes the average consumer is being led down the garden path by the promises in advertisements.",
+                "The advertisement told us very little about the product.",
+                "These recommendation engines, in a way, are advertisements."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWR2ZXJ0aXNlbWVudA&hash=4b1255e386ff5235b67ee1a2b79819815ecc85e3&lang=en&cache-only=0",
+            "defineEn": "any movie, picture, note, etc. designed to promote products or services to the public",
+            "defineVi": "bất kỳ bộ phim, hình ảnh, ghi chú, v.v. nào được thiết kế để quảng bá sản phẩm hoặc dịch vụ tới công chúng"
+        },
+        {
+            "id": "820611e5-ac5b-41e9-9ffa-7b81a5aa0164",
+            "word": "available",
+            "phonetic": "ɐveɪləbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The books in the library are available for checkout at their pleasure.",
+                "The new product will soon be available in stores nationwide.",
+                "For a limited time, every car in our range is available for nothing down!",
+                "The chocolate is available by mail order, but at a price.",
+                "The greengage is a seasonal fruit, typically available during the late summer months."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZhaWxhYmxl&hash=638efdc3fb7df2231ab1a83da332180452517d0f&lang=en&cache-only=0",
+            "defineEn": "ready for being used or acquired",
+            "defineVi": "sẵn sàng để được sử dụng hoặc mua lại"
+        },
+        {
+            "id": "f99ff63f-3312-4b34-bba2-3087a1577556",
+            "word": "free",
+            "phonetic": "fɹiː ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Everything was free",
+                "The museum has free admission on Fridays.",
+                "Nothing in life is free, no penny, no paternoster.",
+                "The press as always gave him a free pass as with so many other issues.",
+                "The country is holding its first free elections for 20 years."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJlZQ&hash=bba2a27a41fbe044187d5c0f5244cb6ed1783652&lang=en&cache-only=0",
+            "defineEn": "not requiring payment",
+            "defineVi": "không yêu cầu thanh toán",
+            "hasImg": true
+        },
+        {
+            "id": "61bd43e4-e8ef-4925-b282-faf03de3505b",
+            "word": "open",
+            "phonetic": "oʊpən ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The driver of the car opened the car door for the passengers.",
+                "The waiter opened the bottle of wine for the guests.",
+                "The library opens at 10 o'clock on weekdays.",
+                "right on cue the door opened",
+                "The store stays open late on Thursdays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3Blbg&hash=34a0e897f6d992598958d195c329d91edce4da65&lang=en&cache-only=0",
+            "defineEn": "ready to be used or provide a service to customers",
+            "defineVi": "sẵn sàng để được sử dụng hoặc cung cấp dịch vụ cho khách hàng",
+            "hasImg": true
+        },
+        {
+            "id": "bc9f98ba-4b8a-4044-99e6-b026341a262b",
+            "word": "closed",
+            "phonetic": "kloʊzd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "\"The discussion is closed.\"",
+                "The closed window blocked out the noise from the street.",
+                "The closed lid of the jar preserved the freshness of the food inside.",
+                "The meeting was held behind closed doors.",
+                "She received a closed envelope containing a surprise gift."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xvc2Vk&hash=13b5bd50da3f898ec13c184f8b4caccf476f691b&lang=en&cache-only=0",
+            "defineEn": "(especially of a store or public building) not open for people to buy something from or visit, often temporarily",
+            "defineVi": "(đặc biệt là cửa hàng hoặc tòa nhà công cộng) không mở cửa để mọi người mua hàng hoặc ghé thăm, thường là tạm thời",
+            "hasImg": true
+        },
+        {
+            "id": "86ee0b3f-d9ec-4b94-963b-fb9f8dca297f",
+            "word": "to spend",
+            "phonetic": "tə spɛnd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The father and son spent a delightful afternoon playing catch in the park.",
+                "Sailors spend the better part of their time at sea.",
+                "Reputable charities spend the lion's share of donations on aid and a tiny fraction on administration.",
+                "The couple spent their vacation in a cozy cabin, billing and cooing by the fireplace.",
+                "We spent hours building structures with construction toys."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3BlbmQ&hash=514717b318bd9cf1fa507fa11bb3a6fd6d144882&lang=en&cache-only=0",
+            "defineEn": "to use money as a payment for services, goods, etc.",
+            "defineVi": "sử dụng tiền như một khoản thanh toán cho các dịch vụ, hàng hóa, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "6aeace89-d365-4988-a7e0-5d2586301edd",
+            "word": "to offer",
+            "phonetic": "tʊ ɔfɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "On the credit side, the restaurant offers a wide range of choices.",
+                "Italy's Mediterranean climate and diverse geography offer a wide range of outdoor activities",
+                "The store sometimes offers discounts on certain items.",
+                "The vegetarian menu offers a delicious black bean burrito as a protein-packed option.",
+                "The textile store offers bolts of various fabrics, from cotton to linen."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gb2ZmZXI&hash=3016fd36f01db95e9f17726c6d3ade2e69a974ed&lang=en&cache-only=0",
+            "defineEn": "to make something available for use or sale",
+            "defineVi": "để làm cho một cái gì đó có sẵn để sử dụng hoặc bán"
+        },
+        {
+            "id": "d284d3bd-05b6-4bb7-85e1-a83cd3c7b322",
+            "word": "to save",
+            "phonetic": "tə seɪv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The goalie saved Johnson's long-range shot.",
+                "Save data frequently.",
+                "But a truck driver saved her bacon.",
+                "Save your breath, Tom.",
+                "To save a penalty."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2F2ZQ&hash=89a06fa419a9dc559941b967d3dcb789909a7b1c&lang=en&cache-only=0",
+            "defineEn": "to keep money to spend later",
+            "defineVi": "để giữ tiền để chi tiêu sau này",
+            "hasImg": true
+        },
+        {
+            "id": "33994092-8e94-468c-80f5-a112ed56721b",
+            "word": "(up) for sale",
+            "phonetic": "ʌp fɔːɹ seɪl ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dXAgZm9yIHNhbGU&hash=2c56df2cb780b747c193f2cf03ec81505a65f269&lang=en&cache-only=0",
+            "defineEn": "being offered for purchase, especially from the owner",
+            "defineVi": "được đề nghị mua, đặc biệt là từ chủ sở hữu",
+            "hasImg": true
+        },
+        {
+            "id": "0f9ed3cf-2340-4eed-92e4-563330dc6dbb",
+            "word": "amount",
+            "phonetic": "ɐmaʊnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enter these amounts on the credit side.",
+                "The chef sprinkled a generous amount of roe on the dish.",
+                "He poured a generous amount of treacle over his warm pancakes",
+                "They sprinkled a generous amount of caraway seeds over their roasted vegetables.",
+                "He spread a generous amount of tartar sauce on his fish sandwich."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1vdW50&hash=e615ba3f9e65d6866b97f663760959a3d6c2c93e&lang=en&cache-only=0",
+            "defineEn": "a sum of money",
+            "defineVi": "một khoản tiền",
+            "hasImg": true
+        }
+    ]
+}

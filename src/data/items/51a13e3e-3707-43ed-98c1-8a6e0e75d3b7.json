@@ -1,0 +1,758 @@
+{
+    "id": "51a13e3e-3707-43ed-98c1-8a6e0e75d3b7",
+    "title": "Types of Ingredients",
+    "originalTitle": "Types of Ingredients",
+    "words": [
+        {
+            "id": "3d657c76-6588-4f56-91fa-2b1753d4d3bb",
+            "word": "dairy product",
+            "phonetic": "dɛɹi pɹɑːdʌkt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGFpcnkgcHJvZHVjdA&hash=86759e2f1601986a927a1f487812c164c08622a7&lang=en&cache-only=0",
+            "defineEn": "milk or foods that are made from milk, such as butter and cheese",
+            "defineVi": "sữa hoặc thực phẩm làm từ sữa, chẳng hạn như bơ và pho mát",
+            "hasImg": true
+        },
+        {
+            "id": "7ae34cdd-cde5-42cd-b88b-5599d76c14d3",
+            "word": "condiment",
+            "phonetic": "kɑːndɪmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Olive oil and balsamic vinegar are classic condiments for dressing a fresh salad.",
+                "A squeeze of lemon juice can act as a refreshing condiment to brighten up seafood dishes.",
+                "You can use aioli as a versatile condiment for burgers, tacos, and even as a dip for vegetables.",
+                "Condiment is an essential part of a well-seasoned meal.",
+                "Rockweed can be blanched and pickled to create a tangy and crunchy condiment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZGltZW50&hash=c60fd97437b101addf08364ae71e40345ee3684d&lang=en&cache-only=0",
+            "defineEn": "a type of seasoning or sauce that is used to add flavor to food",
+            "defineVi": "một loại gia vị hoặc nước sốt được sử dụng để thêm hương vị cho thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "995b1746-4f00-4e4e-8cc2-d18d6770bdab",
+            "word": "herb",
+            "phonetic": "ɜːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You mind the cattle, Herb.",
+                "They discovered the delightful combination of lemon zest and herbs in their roasted vegetables.",
+                "Among all herbs, basil is my favorite.",
+                "The sauce would kill the taste of the herbs.",
+                "She roasted the rutabaga cubes with olive oil and herbs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyYg&hash=2c936b4a164cf201e0f40084df63aff9bcedd373&lang=en&cache-only=0",
+            "defineEn": "a plant with seeds, leaves, or flowers used for cooking or medicine, such as mint and parsley",
+            "defineVi": "một loại cây có hạt, lá hoặc hoa dùng để nấu ăn hoặc làm thuốc, chẳng hạn như bạc hà và rau mùi tây",
+            "hasImg": true
+        },
+        {
+            "id": "ac94059e-ea71-4c2e-a17e-9e3d3e430d77",
+            "word": "spice",
+            "phonetic": "spaɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The aromatic spice fills the kitchen with a delightful scent.",
+                "My mother pickled radishes with vinegar and spices.",
+                "High-tech gadgetry is the spice, but not the whole enchilada.",
+                "She seasoned the meat with herbs and spices before cooking.",
+                "She cooked the chitterlings with spices and served them as a traditional dish."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BpY2U&hash=3c0cd73bd501bc85e2c51005f6b586a76102c0d6&lang=en&cache-only=0",
+            "defineEn": "a type of dried plant with a pleasant smell used to add taste or color to the food",
+            "defineVi": "một loại cây khô có mùi dễ chịu được sử dụng để thêm hương vị hoặc màu sắc cho thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "56ee19fe-0950-4d8a-b224-fae4fc49805f",
+            "word": "sweetener",
+            "phonetic": "swiːʔn̩ɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I need a sweetener for my tea.",
+                "You can use gur as a sweetener in your homemade granola.",
+                "We used honey as a natural sweetener in our homemade salad dressing.",
+                "She adds jaggery to her homemade granola bars for a healthier sweetener option.",
+                "I prefer using honey as a natural sweetener in my morning oatmeal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3dlZXRlbmVy&hash=fdbb53775e4da7ef3b73731d73372b735dbdf327&lang=en&cache-only=0",
+            "defineEn": "a substance used to add sweetness to food or beverages",
+            "defineVi": "một chất được sử dụng để thêm vị ngọt cho thực phẩm hoặc đồ uống"
+        },
+        {
+            "id": "49114f96-94fc-4ebc-9bbe-a5f2eb20b26b",
+            "word": "cooking oil",
+            "phonetic": "kʊkɪŋ ɔɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29va2luZyBvaWw&hash=56889a60dbd40f32bb8fa3b216f4dcfe1d4ff904&lang=en&cache-only=0",
+            "defineEn": "a liquid fat derived from plants or animals used for cooking purposes",
+            "defineVi": "một chất béo lỏng có nguồn gốc từ thực vật hoặc động vật được sử dụng cho mục đích nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "11ce66f6-5d43-4bfa-a9ca-235f5bbb7f0d",
+            "word": "fat",
+            "phonetic": "fæt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The adventurer used the tail fat as a survival resource during their journey in the wilderness.",
+                "The fat is in the fire now, huh?",
+                "The stock market rally resulted in a fat return on investment for many investors.",
+                "The company's new product launch led to a fat increase in revenue.",
+                "She proudly served a fat hen-infused pesto at the neighborhood potluck."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmF0&hash=0e7432c9d518f59f91f5293a522793ca9ec23c2b&lang=en&cache-only=0",
+            "defineEn": "a substance taken from animals or plants and then processed so that it can be used in cooking",
+            "defineVi": "một chất lấy từ động vật hoặc thực vật và sau đó chế biến để nó có thể được sử dụng trong nấu ăn",
+            "hasImg": true
+        },
+        {
+            "id": "000906bc-b917-403c-950c-cf91ca312c69",
+            "word": "algae",
+            "phonetic": "ælɡiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brown algae have complex life cycles with genetic diversity.",
+                "REd algae adds a burst of color to the underwater landscape.",
+                "Fucoid algae add a unique texture and flavor to sushi rolls and seafood dishes.",
+                "Brown algae create habitats and provide food for marine species.",
+                "Green algae, with its vibrant hues, adds a splash of color and life to freshwater ecosystems."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxnYWU&hash=eaab3a219f086c09695cc1f7c389e62eee614e7c&lang=en&cache-only=0",
+            "defineEn": "plants without true roots, leaves, or stems, which grow in or near a body of water, such as seaweeds",
+            "defineVi": "thực vật không có rễ, lá hoặc thân thật, mọc trong hoặc gần một vùng nước, chẳng hạn như rong biển",
+            "hasImg": true
+        },
+        {
+            "id": "11821b6d-7cb1-4f33-bca9-8c1c704085b9",
+            "word": "fruit",
+            "phonetic": "fɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The apple tree in our backyard produces juicy fruits every year.",
+                "They topped fruit tarts with mango coulis.",
+                "The chef incorporated chunks of multiple fruits into a delectable dessert.",
+                "The greengage is a seasonal fruit, typically available during the late summer months.",
+                "She cuts the fruit into bite-sized pieces for a fruit salad."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJ1aXQ&hash=ac81e5858aaa1bc9aec76aab5a6958817a06f3a7&lang=en&cache-only=0",
+            "defineEn": "something we can eat that grows on trees, plants, or bushes",
+            "defineVi": "thứ gì đó chúng ta có thể ăn mọc trên cây, thực vật hoặc bụi rậm",
+            "hasImg": true
+        },
+        {
+            "id": "57ee5145-a1b0-48da-bfba-242ce3a52c6a",
+            "word": "fungi",
+            "phonetic": "fʌŋɡi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Fungi, such as mushrooms and truffles, add flavor to many dishes.",
+                "Fungi actually grow right on top of their own food.",
+                "See, fungi transport nutrients and water up from the soil through root-like structures called hyphae.",
+                "Fungi support their cell walls with a starchy polymer called chitin.",
+                "Fungi don’t fossilize well"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnVuZ2k&hash=56c953db9328f33f3b941b6e964ac30865c2a359&lang=en&cache-only=0",
+            "defineEn": "a diverse group of organisms that include mushrooms, yeasts, and molds, characterized by their ability to decompose organic matter",
+            "defineVi": "một nhóm sinh vật đa dạng bao gồm nấm, men và nấm mốc, được đặc trưng bởi khả năng phân hủy chất hữu cơ",
+            "hasImg": true
+        },
+        {
+            "id": "2419e99b-2a29-495f-b57a-0d1c0076466c",
+            "word": "vegetable",
+            "phonetic": "vɛdʒɪɾəbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They served fresh vegetables with a side of tangy salad cream.",
+                "She juices fresh vegetables every morning for a nutritious start to her day.",
+                "I tossed the roasted vegetables with olive oil and a sprinkle of salt and pepper.",
+                "Fresh vegetables like tomatoes, cucumbers, and lettuce make a delicious salad.",
+                "He sprinkled a pinch of ground anise over his roasted vegetables."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVnZXRhYmxl&hash=1835bc11ddce73275d86279a82b2e18e4b5a790a&lang=en&cache-only=0",
+            "defineEn": "a plant or a part of it that we can eat either raw or cooked",
+            "defineVi": "một loại cây hoặc một phần của nó mà chúng ta có thể ăn sống hoặc nấu chín",
+            "hasImg": true
+        },
+        {
+            "id": "878b3e0b-3b52-4f9f-9904-e41f2f92a61e",
+            "word": "flour",
+            "phonetic": "flaʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Next add the flour.",
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "For a gluten-free option, substitute regular flour with almond flour in the cake recipe.",
+                "For a healthier alternative, she replaced all-purpose flour with whole wheat flour in her muffin recipe.",
+                "The chef used tapioca flour to make crispy and delicious gluten-free cookies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmxvdXI&hash=e7213c0b3cdbb479f9a58d90fd840c4cf6fad2aa&lang=en&cache-only=0",
+            "defineEn": "a fine powder made by crushing wheat or other grains, used for making bread, cakes, pasta, etc.",
+            "defineVi": "một loại bột mịn được làm bằng cách nghiền lúa mì hoặc các loại ngũ cốc khác, được sử dụng để làm bánh mì, bánh ngọt, mì ống, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "4715733a-7c19-4fa0-8c2e-c2d8dc93e9cc",
+            "word": "grain",
+            "phonetic": "ɡɹeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The farmer fed the chickens with corn and grains.",
+                "Take a stock tip with a grain of salt.",
+                "She sprinkled some grains of paradise on her roasted vegetables.",
+                "My vegetarian friend enjoyed a nourishing adzuki bean grain bowl for lunch.",
+                "Autobiographies should be taken with a grain of salt."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhaW4&hash=30c398aaecc975a5338669e87fe7c640594433ca&lang=en&cache-only=0",
+            "defineEn": "small, hard seeds or that are harvested from cereal plants and used as a food source.",
+            "defineVi": "hạt nhỏ, cứng hoặc được thu hoạch từ cây ngũ cốc và được sử dụng làm nguồn thực phẩm.",
+            "hasImg": true
+        },
+        {
+            "id": "f3428a06-2b7a-423a-a85d-62b408ce1d73",
+            "word": "meat",
+            "phonetic": "miːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Meat and mass never hindered man.",
+                "In my plant-based lasagna, I replaced the meat with textured vegetable protein.",
+                "She seasoned the meat with herbs and spices before cooking.",
+                "Too much garlic killed the taste of the meat.",
+                "As a vegetarian, I often substitute mozzarella for meat in my sandwiches."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhdA&hash=c0f8d6677812f202675229cb0d0651f46355c72b&lang=en&cache-only=0",
+            "defineEn": "the flesh of animals and birds that can be eaten as food",
+            "defineVi": "thịt của động vật và chim có thể được ăn như thức ăn",
+            "hasImg": true
+        },
+        {
+            "id": "72901f8b-203f-4214-b733-74a431043d1b",
+            "word": "sugar",
+            "phonetic": "ʃʊɡɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Did you put sugar in my coffee?",
+                "We used brown sugar as a key ingredient in our homemade barbecue sauce.",
+                "Do you take sugar in your coffee?",
+                "A teaspoon of sugar can sweeten your morning coffee or tea.",
+                "The chef used grape sugar to caramelize the top of the crème brûlée."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VnYXI&hash=6579e0d85085ed46998fdd287cd9afdd49590b24&lang=en&cache-only=0",
+            "defineEn": "a sweet white or brown substance that is obtained from plants and used to make food and drinks sweet",
+            "defineVi": "một chất ngọt màu trắng hoặc nâu thu được từ thực vật và được sử dụng để làm thức ăn và đồ uống ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "5dd7e799-f8a5-4747-8d78-648916dc6175",
+            "word": "egg",
+            "phonetic": "ɛɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Eggs are a great source of protein.",
+                "The chicken laid an egg in the nesting box.",
+                "The eggs cook quickly in a hot frying pan.",
+                "I wanted bacon and eggs for breakfast.",
+                "The brunch special featured a beefburger with a sunny-side-up egg, crispy bacon, and a dollop of hollandaise sauce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWdn&hash=9442aaa358f96481306b74ee0ac4fb268e896189&lang=en&cache-only=0",
+            "defineEn": "an oval or round thing that is produced by a chicken and can be used for food",
+            "defineVi": "một thứ hình bầu dục hoặc tròn được sản xuất bởi một con gà và có thể được sử dụng cho thực phẩm",
+            "hasImg": true
+        },
+        {
+            "id": "7b6fcaa1-758d-48e0-b68d-8a8ba8bb9d1d",
+            "word": "starch",
+            "phonetic": "stɑːɹtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I added arrowroot starch to my homemade soup to thicken the broth.",
+                "You can use tapioca starch as a gluten-free alternative in baking recipes.",
+                "We prepared a mouthwatering gravy using manioc starch as a substitute for cornstarch.",
+                "Rice is a good source of starch and pairs well with stir-fried vegetables.",
+                "She transformed plain rice into a delightful rice pudding using manioc starch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhcmNo&hash=044c92ddcf08a3e271c83eb7d490ac8abeaa7312&lang=en&cache-only=0",
+            "defineEn": "a white carbohydrate food substance that exists in flour, potatoes, rice, etc.",
+            "defineVi": "một chất thực phẩm carbohydrate màu trắng tồn tại trong bột mì, khoai tây, gạo, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "609c19c6-776b-4c4e-bf6d-ce71fe2e6a6a",
+            "word": "yeast",
+            "phonetic": "jiːst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She mixed wheat flour, water, and yeast to make a dough for homemade bread.",
+                "He mixed enriched flour with yeast and warm water to make homemade dinner rolls.",
+                "We followed a traditional bread recipe, combining yeast, water, and bleached flour for a classic loaf.",
+                "Remember to always adjust the quantity of yeast extract according to your taste preferences.",
+                "She told me that yeast extract is a fantastic seasoning substitute for reducing sodium in my meals."
+            ],
+            "audio": "https://tts.langeek.co/read?text=eWVhc3Q&hash=fbf529c8ae6c95fddae7f70d82aef05623a7c5c4&lang=en&cache-only=0",
+            "defineEn": "a type of fungus capable of converting sugar into alcohol and carbon dioxide, used in making alcoholic drinks and for making bread swell",
+            "defineVi": "một loại nấm có khả năng chuyển hóa đường thành rượu và carbon dioxide, được sử dụng để pha chế đồ uống có cồn và làm phồng bánh mì",
+            "hasImg": true
+        },
+        {
+            "id": "3350cc45-81b2-4de1-b7b1-69984d7b4ba8",
+            "word": "stuffing",
+            "phonetic": "stʌfɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Grandma's secret stuffing recipe includes a combination of diced onions, celery, and fragrant herbs.",
+                "The stuffing adds a delightful texture and taste to the stuffed mushrooms, making them a crowd favorite.",
+                "She skillfully prepared a flavorful stuffing using the parson's nose as a base.",
+                "When he found out that he didn't get the job, it really knocked the stuffing out of him.",
+                "You write about the ballot stuffing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1ZmZpbmc&hash=f95b4b1b5574048f8d9f26d8a4b33fb0a1ad6385&lang=en&cache-only=0",
+            "defineEn": "a mixture of different ingredients cut up and used to stuff meat or vegetables",
+            "defineVi": "một hỗn hợp các thành phần khác nhau được cắt nhỏ và dùng để nhồi thịt hoặc rau",
+            "hasImg": true
+        },
+        {
+            "id": "5cc24409-1e5e-4b3b-b766-7748b51d77df",
+            "word": "poultry",
+            "phonetic": "poʊltɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Poultry is a lean source of protein and a healthier alternative to red meat.",
+                "I bought a whole chicken from the grocery store to make a delicious poultry dish for dinner.",
+                "She prepared a mouthwatering chicken curry using a blend of spices and tender pieces of poultry.",
+                "Americans consume more meat and poultry than any other country in the world.",
+                "This one on the poultry farm, where Rawda al-Bakour’s family had taken up home."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG91bHRyeQ&hash=6f4e6da38cb309179dd682375ed4c0fe11eeee2e&lang=en&cache-only=0",
+            "defineEn": "meat of chickens, turkeys, and ducks",
+            "defineVi": "thịt gà, gà tây và vịt",
+            "hasImg": true
+        },
+        {
+            "id": "6304c2c2-781a-4a3c-95e3-a6fbd3f622f1",
+            "word": "batter",
+            "phonetic": "bæɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That accident battered up the door of my car.",
+                "Batter up!",
+                "What's the key to a perfect tempura batter?",
+                "I added a generous amount of wholewheat flour to the cookie batter.",
+                "I added a tablespoon of powdered milk to my pancake batter for extra richness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmF0dGVy&hash=45d06a3a8cdd0b669aa91421a536f66cc645dbf3&lang=en&cache-only=0",
+            "defineEn": "a mixture consisting of flour, milk, and eggs, used for making pancakes, or for covering food before frying",
+            "defineVi": "một hỗn hợp bao gồm bột mì, sữa và trứng, được sử dụng để làm bánh kếp hoặc để bọc thực phẩm trước khi chiên",
+            "hasImg": true
+        },
+        {
+            "id": "ad041ad8-88d7-4f24-b026-99bd9a8e3d4d",
+            "word": "dough",
+            "phonetic": "doʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If my dad somehow finds out about all this, our cake is dough.",
+                "The homemade pasta dough is made with a simple mixture of flour, eggs, and a pinch of salt.",
+                "She carefully sprinkled sunflower seeds on top of her homemade bread dough.",
+                "The cookie dough is ready to be rolled into small balls and baked.",
+                "She spread a thick layer of tomato sauce on the pizza dough."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG91Z2g&hash=0748906d77e63977317862d3f4f11b7217280f42&lang=en&cache-only=0",
+            "defineEn": "a thick mixture of flour, liquid and sometimes yeast that is baked into bread or pastry",
+            "defineVi": "một hỗn hợp đặc của bột mì, chất lỏng và đôi khi men được nướng thành bánh mì hoặc bánh ngọt",
+            "hasImg": true
+        },
+        {
+            "id": "15f4570d-e4ab-43ad-8144-b0201e51ddce",
+            "word": "extract",
+            "phonetic": "ɛkstɹækt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They carefully extracted the stone from the nectarine, savoring the velvety flesh around it.",
+                "A touch of maple extract in the pancake batter gives them a delightful maple syrup taste.",
+                "He crushed the dried capsules of the poppy flowers to extract the tiny seeds for culinary purposes.",
+                "I love adding a dash of almond extract to my morning oatmeal.",
+                "I'm thinking of adding some meat extract to the marinade for the grilled chicken."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXh0cmFjdA&hash=2bba6f9bb91c369effc0d1574eed2f38ab2d88aa&lang=en&cache-only=0",
+            "defineEn": "a concentrated substance derived from a natural source, often used to add flavor or fragrance to food, beverages, or other products",
+            "defineVi": "một chất cô đặc có nguồn gốc tự nhiên, thường được sử dụng để thêm hương vị hoặc mùi thơm cho thực phẩm, đồ uống hoặc các sản phẩm khác"
+        },
+        {
+            "id": "a407262f-3288-4f4a-8c27-46424fb5c45e",
+            "word": "stock cube",
+            "phonetic": "stɑːk kjuːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A chicken stock cube is a great secret ingredient to elevate the taste of your mashed potatoes.",
+                "I added a stock cube to the simmering pot of chicken soup for extra flavor."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvY2sgY3ViZQ&hash=9062b67b4b6907d6d7a65d3145f9d5c494479054&lang=en&cache-only=0",
+            "defineEn": "a small cube made from dried vegetable or meat juices, used to flavor soups, etc.",
+            "defineVi": "một khối nhỏ làm từ nước ép rau hoặc thịt khô, được sử dụng để tạo hương vị cho súp, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "46e9f32f-3fbd-414d-832c-d4aea5c19c5c",
+            "word": "breadcrumbs",
+            "phonetic": "bɹɛdkɹʌmz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWRjcnVtYnM&hash=aad22418b77c1b4ab4903163ee44aa0461e23064&lang=en&cache-only=0",
+            "defineEn": "very small pieces of bread, used in cooking especially for coating items of food before frying",
+            "defineVi": "những miếng bánh mì rất nhỏ, được sử dụng trong nấu ăn, đặc biệt là để bọc thực phẩm trước khi chiên",
+            "hasImg": true
+        },
+        {
+            "id": "a25463d9-d522-427a-a964-1edece069efc",
+            "word": "confiture",
+            "phonetic": "kənfɪtʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She gifted me a jar of homemade confiture made from mixed berries.",
+                "I spread a spoonful of strawberry confiture on my toast for a sweet and tangy breakfast."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZml0dXJl&hash=5a692a3dd4aa92c7bc377eb8c8b67635bcd8c79b&lang=en&cache-only=0",
+            "defineEn": "a type of sweet spread made by cooking fruits with sugar",
+            "defineVi": "một loại phết ngọt được làm bằng cách nấu trái cây với đường",
+            "hasImg": true
+        },
+        {
+            "id": "f6a084ce-3d28-490b-b93b-12ab5c6f2654",
+            "word": "custard",
+            "phonetic": "kʌstɚd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Vanilla custard is a popular choice for filling pastries and cream puffs.",
+                "When hosting a dinner party, I like to surprise my guests with a custard apple-infused cocktail.",
+                "I used mashed canistel to make a delightful custard for my homemade ice cream.",
+                "Cream puff in Japan is usually stuffed with custard cream and it's so delicious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3VzdGFyZA&hash=7ca2646e6fb1681614c2aac1de232e62a8d4d0ea&lang=en&cache-only=0",
+            "defineEn": "a thick creamy sauce made with milk, eggs, sugar, flour or corn flour that is served hot on top of puddings, fruits, etc.",
+            "defineVi": "một loại nước sốt kem đặc làm từ sữa, trứng, đường, bột mì hoặc bột ngô dùng nóng trên bánh pudding, trái cây, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "5e342726-71eb-4274-b03c-b838302d8a32",
+            "word": "glaze",
+            "phonetic": "ɡleɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The ham was glazed with a mixture of brown sugar and mustard.",
+                "The chef brushed a sweet glaze made of honey and soy sauce onto the grilled salmon.",
+                "He marinated chicken in a tangy sorghum glaze before grilling it to perfection.",
+                "The donut shop offers a variety of glazes, including classic vanilla, chocolate, and colorful options like strawberry",
+                "They ordered individual mini meatloaves, topped with a tangy ketchup glaze."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2xhemU&hash=c41b9cd4aa77e2ffc0905d4c4fdb45af26a404d0&lang=en&cache-only=0",
+            "defineEn": "a glossy and transparent coating applied to food for added flavor, shine, or decorative purposes",
+            "defineVi": "một lớp phủ bóng và trong suốt được áp dụng cho thực phẩm để tăng thêm hương vị, độ bóng hoặc mục đích trang trí",
+            "hasImg": true
+        },
+        {
+            "id": "c81f02c8-afbd-4c4b-bafe-0b7bcaca3c6b",
+            "word": "icing",
+            "phonetic": "aɪsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The birthday cake was adorned with a personalized message written in blue icing.",
+                "The dinner was delicious, but the icing on the cake was when the chef sent out a complimentary dessert.",
+                "The icing on the cake are the sound effects.",
+                "The icing's coming down, but I don't see any water.",
+                "It was a cupcake with mayonnaise icing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWNpbmc&hash=22c0541a92f24980726e7196f8637a826993d73e&lang=en&cache-only=0",
+            "defineEn": "a mixing of sugar, water, egg and milk, used to decorate or cover cakes",
+            "defineVi": "hỗn hợp đường, nước, trứng và sữa, dùng để trang trí hoặc phủ bánh",
+            "hasImg": true
+        },
+        {
+            "id": "9525e4a1-c4f3-45dd-bed5-08513cadeb05",
+            "word": "filling",
+            "phonetic": "fɪlɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My vegetarian friend often uses beans as a filling for vegetarian tacos.",
+                "The chef used fish paste as a filling for his sushi rolls",
+                "The grilled chicken farfalle was a protein-packed and filling dish.",
+                "The custard apple's natural sweetness makes it a perfect filling for homemade pies and tarts.",
+                "I often use beans as a filling for vegetarian tacos."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlsbGluZw&hash=d65337f229e34a0ddf18aa3484544a8f43400be2&lang=en&cache-only=0",
+            "defineEn": "a combination of ingredients used as a filling for pastries, sandwiches, and other food items",
+            "defineVi": "một sự kết hợp của các thành phần được sử dụng làm nhân cho bánh ngọt, bánh mì và các mặt hàng thực phẩm khác",
+            "hasImg": true
+        },
+        {
+            "id": "5e4ef4b1-2976-440b-99c5-31a7df3b9f3c",
+            "word": "seasoning",
+            "phonetic": "siːzənɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The soup needs a little more seasoning.",
+                "The dill seasoning blended perfectly with the creamy sauce of the chicken pasta.",
+                "The chef used a secret blend of herbs and spices as the seasoning for the famous fried chicken.",
+                "I mashed the swede with butter and seasonings, creating a creamy side dish.",
+                "Seaweed can be ground into powder and used as a seasoning to add depth of flavor to dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vhc29uaW5n&hash=b8abbd979ff5ebbc20aa5dbaeeb2ec36b75bfaee&lang=en&cache-only=0",
+            "defineEn": "a substance or mixture added to food to enhance its flavor, typically consisting of herbs, spices and salt",
+            "defineVi": "một chất hoặc hỗn hợp được thêm vào thực phẩm để tăng hương vị của nó, thường bao gồm các loại thảo mộc, gia vị và muối",
+            "hasImg": true
+        },
+        {
+            "id": "cb61b3e6-4366-492b-9f4e-54b81570dbef",
+            "word": "gum",
+            "phonetic": "ɡʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By gum, he's a big lad!",
+                "By gum, I really mean it this time!",
+                "You can find aspartame in many sugar-free candies and gum.",
+                "Some candies have a glossy coating made with edible gum.",
+                "I looked it up, and by gum, she was right!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3Vt&hash=077bb3978b664e54692dda823111304de7a0e9b4&lang=en&cache-only=0",
+            "defineEn": "a substance extracted from plants that is typically sticky and viscous in nature",
+            "defineVi": "một chất được chiết xuất từ thực vật thường dính và nhớt trong tự nhiên"
+        },
+        {
+            "id": "9d6fab4d-76d7-48d4-8c62-ed0b53cc432a",
+            "word": "mincemeat",
+            "phonetic": "mɪnsmiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The professor made mincemeat of the speaker at the conference.",
+                "The kangaroo was making mincemeat of him.",
+                "That kick of yours could have easily made mincemeat of my face.",
+                "Last year's champions have been making mincemeat of the competition again this year.",
+                "This book makes mincemeat of the idea that Reagan was a dunce, amiable or otherwise."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWluY2VtZWF0&hash=356ad066ffa1bfaa4d00c9c61d2cb099b4bd5cc3&lang=en&cache-only=0",
+            "defineEn": "a mixture of chopped fruits, spices, and sometimes meat, traditionally used as a filling in pies and desserts",
+            "defineVi": "hỗn hợp các loại trái cây xắt nhỏ, gia vị và đôi khi là thịt, theo truyền thống được sử dụng làm nhân bánh nướng và món tráng miệng",
+            "hasImg": true
+        },
+        {
+            "id": "98fcbdb1-1541-4125-ae8f-72a17c9638b1",
+            "word": "meat extract",
+            "phonetic": "miːt ɛkstɹækt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWVhdCBleHRyYWN0&hash=29f6b4d0160141a6c07c1a30fd43dff452be04c2&lang=en&cache-only=0",
+            "defineEn": "a concentrated liquid or paste made from boiling or simmering meat to extract its flavor and nutrients",
+            "defineVi": "một chất lỏng hoặc bột nhão cô đặc được làm từ thịt sôi hoặc ninh để chiết xuất hương vị và chất dinh dưỡng của nó"
+        },
+        {
+            "id": "993bc23b-e4ab-4d85-9c86-e3a0e86f4341",
+            "word": "cheese",
+            "phonetic": "tʃiːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Farmer's cheese adds a delightful creaminess to my morning bowl of granola and fruit.",
+                "Cheshire cheese has a unique flavor profile.",
+                "Danish Blue cheese is fantastic in vegetarian dishes.",
+                "Ha, yeah right, and the moon is made of cheese.",
+                "Sprinkling Parmesan cheese over pasta dishes adds a savory touch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZXNl&hash=1fa8dd3467af3a12758a4935b49ec75fb164be1e&lang=en&cache-only=0",
+            "defineEn": "a soft or hard food made from milk that is usually yellow or white in color",
+            "defineVi": "thức ăn mềm hoặc cứng làm từ sữa thường có màu vàng hoặc trắng",
+            "hasImg": true
+        },
+        {
+            "id": "f39cc502-b790-451a-9f90-c63b749b8a6b",
+            "word": "consomme",
+            "phonetic": "kənsɑːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The consomme was served in a small cup as an appetizer before the main course.",
+                "The restaurant's signature dish is a consomme made from slow-cooked beef bones."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uc29tbWU&hash=d9d6126cec75b953ccfb37fbbdd7b4b418447f56&lang=en&cache-only=0",
+            "defineEn": "a clarified and concentrated soup made from rich stock or broth",
+            "defineVi": "một món súp được làm rõ và cô đặc được làm từ nước dùng hoặc nước dùng phong phú",
+            "hasImg": true
+        },
+        {
+            "id": "6f733dd6-d17c-4355-bf37-c6e2960d9d11",
+            "word": "garnish",
+            "phonetic": "ɡɑːɹnɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bartender garnished the cocktail with a twist of citrus rind.",
+                "They garnished their summer cocktails with a sprig of fresh angelica.",
+                "I always garnish my soup with a sprinkle of fresh herbs.",
+                "The chef carefully arranged the arugula leaves on the plate as a beautiful garnish.",
+                "Some high-end restaurants use gold leaf as a garnish for desserts and other dishes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FybmlzaA&hash=6db0c151efbc735bdb0d01a75505fdee69f69f83&lang=en&cache-only=0",
+            "defineEn": "a decorative or flavorful element added to a dish to enhance its visual appeal or taste.",
+            "defineVi": "một yếu tố trang trí hoặc hương vị được thêm vào một món ăn để tăng cường sự hấp dẫn hoặc hương vị trực quan của nó.",
+            "hasImg": true
+        },
+        {
+            "id": "a74a072f-da79-4ec2-99a9-27e6e741b432",
+            "word": "stock",
+            "phonetic": "stɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The three brothers took stock of the warehouse.",
+                "Take a stock tip with a grain of salt.",
+                "We stocked our pantry with kosher snacks and drinks for our guests.",
+                "The stock portfolio showed a steady yield, generating consistent profits for the shareholders.",
+                "While in hospital, Jeremy took stock of his life."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvY2s&hash=aae3220811dfb32989b984f95af6c1a63fedcd9e&lang=en&cache-only=0",
+            "defineEn": "a liquid that is made by cooking meat, bones, vegetables, or fish in water, used for making gravy or soup",
+            "defineVi": "một chất lỏng được tạo ra bằng cách nấu thịt, xương, rau hoặc cá trong nước, được sử dụng để làm nước thịt hoặc súp",
+            "hasImg": true
+        },
+        {
+            "id": "5f153c94-b6aa-4cac-9b08-1653a8a50ecb",
+            "word": "textured vegetable protein",
+            "phonetic": "tɛkstʃɚd vɛdʒɪɾəbəl pɹoʊtiːn ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGV4dHVyZWQgdmVnZXRhYmxlIHByb3RlaW4&hash=2bd64e2239912401edd5de037c3899cd73f3f5f2&lang=en&cache-only=0",
+            "defineEn": "a plant-based protein made from defatted soy flour used as a meat substitute in vegetarian and vegan dishes",
+            "defineVi": "một loại protein từ thực vật được làm từ bột đậu nành đã khử chất béo được sử dụng làm chất thay thế thịt trong các món ăn chay và thuần chay",
+            "hasImg": true
+        },
+        {
+            "id": "25f9ec00-ef3f-4ebd-abfe-262be1fa2757",
+            "word": "liaison",
+            "phonetic": "liːeɪzɑːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef prepared a creamy mushroom soup by adding a liaison of egg yolks and heavy cream.",
+                "The liaison of tomato paste and broth added depth and richness to the hearty stew.",
+                "Every public school is required to have a homeless liaison on staff.",
+                "The requirement 2.3 also does not apply to agency records liaison officers or other records management personnel who are not the designated agency records officer.",
+                "Bassem Awadallah, who was an informal liaison of the king to Saudi Crown Prince Mohammed bin Salman, what's the significance of his arrest?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlhaXNvbg&hash=20e7017f8b65ccfb697458a28cf4f3c22fa82ae4&lang=en&cache-only=0",
+            "defineEn": "a mixture of eggs, cream, or other ingredients used to thicken sauces or soups, often providing a smooth and rich texture",
+            "defineVi": "hỗn hợp trứng, kem hoặc các thành phần khác được sử dụng để làm đặc nước sốt hoặc súp, thường mang lại kết cấu mịn và phong phú"
+        },
+        {
+            "id": "0d741b0b-5404-4948-a275-a174f77c0a52",
+            "word": "mirepoix",
+            "phonetic": "maɪɚpwɑː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef instructed us to finely chop the mirepoix vegetables before adding them to the sauce.",
+                "I added a mirepoix of onions, carrots, and celery to my simmering soup for a flavorful base."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlyZXBvaXg&hash=a22c0f942b7f012d9fd0d2065646615f7895ab82&lang=en&cache-only=0",
+            "defineEn": "a diced vegetable mixture used in cooking for flavoring sauces, soups, and stews",
+            "defineVi": "một hỗn hợp rau thái hạt lựu được sử dụng trong nấu ăn để tạo hương vị cho nước sốt, súp và món hầm"
+        },
+        {
+            "id": "b74a2815-4834-4033-84d5-8f256c165574",
+            "word": "panada",
+            "phonetic": "pænɑːdə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The creamy panada added a velvety texture to the chicken croquettes.",
+                "The pastry was filled with a delicious panada of ground beef and onions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFuYWRh&hash=6e831a0258c14fbd8023572919d11c3dd5688db1&lang=en&cache-only=0",
+            "defineEn": "a dish made from bread/breadcrumbs and liquid, used in stuffing, dumplings, and as a thickener for soups and sauces",
+            "defineVi": "một món ăn làm từ bánh mì/vụn bánh mì và chất lỏng, được sử dụng trong nhồi, bánh bao, và làm chất làm đặc cho súp và nước sốt"
+        },
+        {
+            "id": "fb34090e-8b7f-4790-97dd-e3c3a1634769",
+            "word": "mash",
+            "phonetic": "mæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I mashed the swede with butter and seasonings, creating a creamy side dish.",
+                "The chef's special included a tender beef fillet served on a bed of creamy garlic mash.",
+                "She mashed chickpeas with garlic, lemon juice, and olive oil, creating a creamy and delicious homemade hummus.",
+                "I mashed the cooked earthnut peas and spread them on toast for a tasty and nutritious spread.",
+                "I used mashed canistel to make a delightful custard for my homemade ice cream."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFzaA&hash=a64a20a1a3d9196caaf863ce5f59298ec48c15e7&lang=en&cache-only=0",
+            "defineEn": "a mixture of food ingredients, typically cooked, that have been crushed or beaten together until they form a smooth texture",
+            "defineVi": "một hỗn hợp các thành phần thực phẩm, thường được nấu chín, đã được nghiền nát hoặc đánh với nhau cho đến khi chúng tạo thành một kết cấu mịn",
+            "hasImg": true
+        },
+        {
+            "id": "ba1c1f10-cfc5-418f-abe7-fec05041e4c7",
+            "word": "bouillon",
+            "phonetic": "buːɪlən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A spoonful of bouillon adds a burst of flavor to the steamed vegetables.",
+                "Notable among the notables were Godfrey of Bouillon, Bohemond of Taranto, and Raymond of Toulouse."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym91aWxsb24&hash=38771e07ecfbc0e5ae1e85b62fb93afc266db397&lang=en&cache-only=0",
+            "defineEn": "a type of broth made from boiling meat, vegetables, and herbs in water",
+            "defineVi": "một loại nước dùng làm từ thịt luộc, rau và các loại thảo mộc trong nước",
+            "hasImg": true
+        },
+        {
+            "id": "86efc8db-f957-43ea-b69d-21eff078c32a",
+            "word": "roux",
+            "phonetic": "ɹuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A well-made roux is the key to achieving a velvety and lump-free white sauce for your pasta dishes.",
+                "The roux acted as the base for the creamy cheese sauce in the lasagna, binding all the layers together.",
+                "- Something called a roux?",
+                "And of course, Cajuns often do a Gumbo where they are using more roux than okra to thicken it.",
+                "Well, Adam's not making the (bleep) roux so we're gonna go with this milk."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm91eA&hash=58e12b27e930960ded82bbb6a1ce697c0071c364&lang=en&cache-only=0",
+            "defineEn": "a mixture created by blending fat and flour together, used to thicken and add flavor to various dishes",
+            "defineVi": "một hỗn hợp được tạo ra bằng cách trộn chất béo và bột với nhau, được sử dụng để làm đặc và thêm hương vị cho các món ăn khác nhau"
+        },
+        {
+            "id": "dafbdc33-076c-497e-8ec0-58201b900e62",
+            "word": "salpicon",
+            "phonetic": "sælpɪkən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The salad was elevated with a colorful salpicon of roasted vegetables and feta cheese.",
+                "The bruschetta was served with a tangy tomato and basil salpicon on top."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FscGljb24&hash=7a55b43acda860d9c02d4db7f1799186fe612004&lang=en&cache-only=0",
+            "defineEn": "a mixture of diced/shredded ingredients with dressing/sauce, used as a filling or topping for dishes like salads or tacos",
+            "defineVi": "hỗn hợp các nguyên liệu thái hạt lựu/cắt nhỏ với nước xốt/nước xốt, được sử dụng làm nhân hoặc phủ cho các món ăn như sa lát hoặc bánh tét"
+        },
+        {
+            "id": "b1422d55-ee6d-4149-ac8e-ee9272d2d512",
+            "word": "timbale",
+            "phonetic": "tɪmbeɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The vegetarian timbale had roasted veggies, grains, and melted cheese.",
+                "The timbale cooked by my grandmother is filled with layers of seasoned meat, vegetables, and cheese."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGltYmFsZQ&hash=d589c67eec5b7685477a50eeadb98812f3d569b5&lang=en&cache-only=0",
+            "defineEn": "a savory or sweet dish made by baking ingredients in a mold or pastry shell.",
+            "defineVi": "một món ăn mặn hoặc ngọt được làm bằng cách nướng nguyên liệu trong khuôn hoặc vỏ bánh ngọt."
+        },
+        {
+            "id": "c670d78f-2a6c-4afc-985f-716fa65267ad",
+            "word": "topping",
+            "phonetic": "tɑːpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sour cherry compote is the perfect topping for pancakes or waffles.",
+                "I added mushrooms, onions, and bell peppers as toppings on my pizza.",
+                "I used slices of bully beef as a topping for my homemade pizza.",
+                "I always use mascarpone cheese as a light and creamy topping.",
+                "You can create delicious linguine dishes with your favorite toppings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9wcGluZw&hash=cf20f3c98f41c7582c055d4ad19058713d903eed&lang=en&cache-only=0",
+            "defineEn": "a layer of food that is spread over the top of a dish to make it taste or look better",
+            "defineVi": "một lớp thức ăn được trải lên trên cùng của một món ăn để làm cho nó ngon hơn hoặc trông đẹp mắt hơn",
+            "hasImg": true
+        }
+    ]
+}

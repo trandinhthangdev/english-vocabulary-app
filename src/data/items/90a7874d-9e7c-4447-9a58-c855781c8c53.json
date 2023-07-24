@@ -1,0 +1,687 @@
+{
+    "id": "90a7874d-9e7c-4447-9a58-c855781c8c53",
+    "title": "Cosmetics",
+    "originalTitle": "Cosmetics",
+    "words": [
+        {
+            "id": "ee56abd6-3650-4adb-9f15-db45f09bb767",
+            "word": "blusher",
+            "phonetic": "blʌʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ymx1c2hlcg&hash=cc43562bfc5d45679859cdf56b07414f0bcb7f44&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product worn on the cheeks to give them a warmer color",
+            "defineVi": "một sản phẩm mỹ phẩm đeo trên má để làm cho chúng có màu ấm hơn",
+            "hasImg": true
+        },
+        {
+            "id": "4da1028f-d20c-4a37-bcbf-3a26a5198486",
+            "word": "concealer",
+            "phonetic": "kənsiːlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So, I just wear concealer.",
+                "This concealer is old.",
+                "Who's using way too much concealer?",
+                "I'm using way too much concealer.",
+                "And yet, humans are expert concealers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VhbGVy&hash=fdf660b3d85cd139a61b071bad7706faf84a2a03&lang=en&cache-only=0",
+            "defineEn": "a skin-toned cosmetic used to hide dark circles around the eyes, age spots or other blemishes",
+            "defineVi": "một loại mỹ phẩm làm săn chắc da được sử dụng để che đi quầng thâm quanh mắt, đốm đồi mồi hoặc các nhược điểm khác",
+            "hasImg": true
+        },
+        {
+            "id": "7cb7fd50-a990-48b9-bfb5-fbbe57a8b842",
+            "word": "eyebrow pencil",
+            "phonetic": "aɪbɹaʊ pɛnsəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXllYnJvdyBwZW5jaWw&hash=94b3f6bdbf1d57b0f61ceb503e99e36090285abf&lang=en&cache-only=0",
+            "defineEn": "a cosmetic pencil used to improve or accentuate the shape of the eyebrows",
+            "defineVi": "một cây bút chì thẩm mỹ được sử dụng để cải thiện hoặc làm nổi bật hình dạng của lông mày",
+            "hasImg": true
+        },
+        {
+            "id": "ea66c4eb-7501-4e4e-89ac-4009bb1f6ff7",
+            "word": "eyeliner",
+            "phonetic": "aɪlaɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I only like brush tipped eyeliner.",
+                "I need some eyeliner.",
+                "Speaking of eyeliner.",
+                "And I do wear eyeliner.",
+                "It's got eyeliner and stuff all over it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXllbGluZXI&hash=ed50e94f448cb5eb17aaa396103cca02ce48d925&lang=en&cache-only=0",
+            "defineEn": "a usually black cosmetic that is worn at the edges of the eyes to make them appear more attractive or noticeable",
+            "defineVi": "một loại mỹ phẩm thường có màu đen được đeo ở viền mắt để làm cho chúng trông hấp dẫn hoặc đáng chú ý hơn",
+            "hasImg": true
+        },
+        {
+            "id": "c01c4f31-c995-44ed-ac30-d65c46dc777f",
+            "word": "eyeshadow",
+            "phonetic": "aɪʃɐdoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Eyeshadows have definitely gone down.",
+                "But eyeshadows last forever.",
+                "I like their eyeshadows OK.",
+                "But here is my eyeshadow palette.",
+                "Too Faced eyeshadow in Teddy Bear for my eyebrows."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXllc2hhZG93&hash=72f04c8b03bf8c97f5efde007134e176bea9f9ec&lang=en&cache-only=0",
+            "defineEn": "a colored cosmetic cream or powder applied to the eyelids or around the eyes to make them stand out or appear more attractive",
+            "defineVi": "một loại kem hoặc phấn mỹ phẩm có màu thoa lên mí mắt hoặc xung quanh mắt để làm cho chúng nổi bật hoặc trông hấp dẫn hơn",
+            "hasImg": true
+        },
+        {
+            "id": "bef9fc1e-35a2-4413-913a-8d20bbb2fe19",
+            "word": "face powder",
+            "phonetic": "feɪs paʊdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFjZSBwb3dkZXI&hash=f4b9abf6a390a2727506d754bf6bd0fe2869faf0&lang=en&cache-only=0",
+            "defineEn": "a skin-toned cosmetic powder applied to the face to make it less shiny and hide any blemishes",
+            "defineVi": "một loại phấn mỹ phẩm làm săn chắc da được thoa lên mặt để làm cho da bớt bóng và che đi các khuyết điểm",
+            "hasImg": true
+        },
+        {
+            "id": "b64c481f-32fc-4dd8-8881-561c9e5c5c11",
+            "word": "liner",
+            "phonetic": "laɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Here's your liners right there on the ground.",
+                "Captains navigate the cruise liners from the US, UK, and Italy.",
+                "This is the NYX Epic Ink liner in black.",
+                "Soldiers wore new plastic helmet liners and water-resistant vinyl raincoats.",
+                "But this is the Nyx matte liquid liner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGluZXI&hash=f7a45c9a8b1332c2e34eb70e4cbb9b0ca062540c&lang=en&cache-only=0",
+            "defineEn": "a cosmetic brush or pencil used for outlining or emphasizing a facial feature",
+            "defineVi": "một bàn chải mỹ phẩm hoặc bút chì được sử dụng để phác thảo hoặc nhấn mạnh một đặc điểm trên khuôn mặt",
+            "hasImg": true
+        },
+        {
+            "id": "4e5d5ad5-e8f1-4f0d-bafd-90eb6e8a8b88",
+            "word": "lip balm",
+            "phonetic": "lɪp bɑːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She applied lip balm to moisturize her dry lips.",
+                "I'm wearing a new lip balm today.",
+                "- What's this, a bunch of lip balm?",
+                "I always need a new lip balm, because I always lose mine.",
+                "That's mugs, T-shirts, posters, stickers, lip balm, beard oil, and a bigger discount on the bobble heads."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlwIGJhbG0&hash=3c01359580620267fd99ebaa959ffc848e4c0f69&lang=en&cache-only=0",
+            "defineEn": "a wax-like substance that is used on the lips to remedy cracked or dry lips",
+            "defineVi": "một chất giống như sáp được sử dụng trên môi để khắc phục môi bị nứt hoặc khô",
+            "hasImg": true
+        },
+        {
+            "id": "a7d0eca1-af81-4dc2-943b-b8ce4bef7ac3",
+            "word": "lip gloss",
+            "phonetic": "lɪp ɡlɔs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now I'm gravitating more towards regular lipsticks, and also, I like lip gloss.",
+                "All right, this is the Fussy lip gloss by Fenty Beauty.",
+                "I'm also liking lip gloss or sheer lip colors more now.",
+                "A long time ago, I was really into lip gloss, when I was younger, you know, when you're in high school.",
+                "I don't like a whole lot of lip gloss, but there's one in particular, I really love."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlwIGdsb3Nz&hash=4660ba0077013761a83d4b15a5e01c690eac12ac&lang=en&cache-only=0",
+            "defineEn": "a cosmetic substance applied to the lips to give them a shiny and solid color effect",
+            "defineVi": "một chất mỹ phẩm được thoa lên môi để tạo hiệu ứng bóng và đồng màu",
+            "hasImg": true
+        },
+        {
+            "id": "a5865069-574f-4e53-a3c0-cb3489afed82",
+            "word": "lip liner",
+            "phonetic": "lɪp laɪnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlwIGxpbmVy&hash=a7b75e480e1b9ad601943c27e67dd284d89d2ad9&lang=en&cache-only=0",
+            "defineEn": "a cosmetic put on the outline of the lips to prevent lipstick or lip gloss from spreading",
+            "defineVi": "một loại mỹ phẩm bôi lên đường viền của môi để ngăn son môi hoặc son bóng lan rộng",
+            "hasImg": true
+        },
+        {
+            "id": "1eed0589-ae28-495e-96c4-30c7f5fb3b47",
+            "word": "lipstick",
+            "phonetic": "lɪpstɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend's lipstick was red and made her lips stand out.",
+                "Investing more money on the project is like putting lipstick on a pig, might slow down our downfall but that's that.",
+                "I tell my children to be careful not to judge others based on appearances, because you can put lipstick on a pig, but it is still a pig.",
+                "Trying to make her love is like putting a lipstick on a pig I'm telling you.",
+                "I bought so many lipsticks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlwc3RpY2s&hash=4f699bbdd19ea993b304405805739c6c1d8a75e0&lang=en&cache-only=0",
+            "defineEn": "a waxy colored make-up that is worn on the lips",
+            "defineVi": "một lớp trang điểm màu sáp được đeo trên môi",
+            "hasImg": true
+        },
+        {
+            "id": "3ff865f0-99e7-4b16-bb70-ae64e617481a",
+            "word": "mascara",
+            "phonetic": "mæskɑːɹɹə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I need mascara in my life.",
+                "Going for mascara.",
+                "Oh, this is the mascara.",
+                "Especially if your mascara, your eyelashes aren't really thick.",
+                "On top of that, I have their tinted brow mascara in the same color."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFzY2FyYQ&hash=0143b8c10111dfa6cf7fc490b8b5f5996824b568&lang=en&cache-only=0",
+            "defineEn": "a black make-up used to lengthen or darken the eyelashes",
+            "defineVi": "một lớp trang điểm màu đen được sử dụng để kéo dài hoặc làm tối lông mi",
+            "hasImg": true
+        },
+        {
+            "id": "2194c380-58a3-472c-b68a-057860b6e4be",
+            "word": "powder puff",
+            "phonetic": "paʊdɚ pʌf ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG93ZGVyIHB1ZmY&hash=7d2be76053f9eefd12dfdd847beb7d7761d0cbbe&lang=en&cache-only=0",
+            "defineEn": "a soft fluffy pad that is used for putting powder on the face",
+            "defineVi": "một miếng bông mềm được sử dụng để đưa phấn lên mặt",
+            "hasImg": true
+        },
+        {
+            "id": "38b53aea-609c-4b4d-94e0-0fe6b9167721",
+            "word": "primer",
+            "phonetic": "pɹaɪmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So that it just sets that primer.",
+                "This is waterproof eyeshadow primer.",
+                "Okay, that concludes our quick primer on online privacy.",
+                "Another primer is applied to guarantee the correct adhesion between the cataphoresis and the base coat.",
+                "- They have the primer of being magical people, probably."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpbWVy&hash=ab1d4efc25e385191cf017aad1b6dede4ead8d8b&lang=en&cache-only=0",
+            "defineEn": "a  cosmetic product used to create a smooth base for makeup",
+            "defineVi": "mỹ phẩm dùng để tạo lớp nền mịn màng cho lớp trang điểm"
+        },
+        {
+            "id": "fc2f72ad-e202-4234-9c0d-a36abd176243",
+            "word": "foundation",
+            "phonetic": "faʊndeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Careful planning laid the foundations for the nation’s economic miracle.",
+                "Her early research laid the foundation for many important medical discoveries.",
+                "These arguments provide the foundation for Simmel's account of the contradictory nature of modern life.",
+                "What is stressed rather is that the same phenomenon provides the foundation for both historical tendencies.",
+                "Sarah and her husband have been happily married for ten years and have built a strong foundation of love and trust."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm91bmRhdGlvbg&hash=0c70a2e807e4bb778648712c2f084d4164a8a0fb&lang=en&cache-only=0",
+            "defineEn": "a substance in the form of cream, powder, or liquid applied to facial skin to prepare it for other cosmetics",
+            "defineVi": "một chất ở dạng kem, bột hoặc chất lỏng bôi lên da mặt để chuẩn bị cho các loại mỹ phẩm khác",
+            "hasImg": true
+        },
+        {
+            "id": "d81358d3-4314-4a00-a5c8-3d35867b490c",
+            "word": "blush",
+            "phonetic": "blʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Spare his blushes.",
+                "The manager spoke for his young employee in order to spare her blushes.",
+                "Liam whispered sweet nothings into Jane's ear, making her blush and smile.",
+                "I tried saving her blushes when she asked me to prom by saying I had no intention of going with anyone.",
+                "The way he looked at her, his eyes on stalks, made her blush and feel desired."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymx1c2g&hash=56e5a13df95356d43e63cdcec77dd29f3f90c0cf&lang=en&cache-only=0",
+            "defineEn": "the powder or cream that is put on the cheeks to make them look attractive by giving them color",
+            "defineVi": "phấn hoặc kem được thoa lên má để làm cho chúng trông hấp dẫn bằng cách tạo màu cho chúng",
+            "hasImg": true
+        },
+        {
+            "id": "16a8af8f-8ea7-4776-8e51-c91fc14c6419",
+            "word": "cheek color",
+            "phonetic": "tʃiːk kʌlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hlZWsgY29sb3I&hash=16e3aad0cf47d0c5ccb1540f51f3497842a902dc&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product, such as blush or cheek tint, used to add color and definition to the cheeks for a flushed or rosy appearance",
+            "defineVi": "một sản phẩm mỹ phẩm, chẳng hạn như má hồng hoặc phấn má, được sử dụng để thêm màu sắc và độ nét cho má để có vẻ ngoài ửng hồng hoặc ửng hồng",
+            "hasImg": true
+        },
+        {
+            "id": "1d299407-3d99-4a52-9ac8-52a1b9d112f2",
+            "word": "cc cream",
+            "phonetic": "siːsiː kɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2MgY3JlYW0&hash=05c6a6e4c806a9b296d8292a65fdf216ab41806b&lang=en&cache-only=0",
+            "defineEn": "a type of cosmetic product that combines the benefits of skincare and makeup, typically providing color correction, sun protection, hydration, and coverage",
+            "defineVi": "một loại mỹ phẩm kết hợp các lợi ích của chăm sóc da và trang điểm, thường cung cấp khả năng điều chỉnh màu sắc, chống nắng, dưỡng ẩm và che phủ"
+        },
+        {
+            "id": "c3cfa7a0-2736-4362-9e95-df60ca9a0196",
+            "word": "dd cream",
+            "phonetic": "diːdiː kɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGQgY3JlYW0&hash=adfa59e838ee7f00ed2a5f9fb0e38b784b5a5aa4&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product that combines skincare benefits with coverage and other cosmetic enhancements",
+            "defineVi": "một sản phẩm mỹ phẩm kết hợp các lợi ích chăm sóc da với độ che phủ và các cải tiến mỹ phẩm khác"
+        },
+        {
+            "id": "8fae4f98-97d4-4c46-87fe-ca41a415e567",
+            "word": "bb cream",
+            "phonetic": "biːbiː kɹiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmIgY3JlYW0&hash=22a2da42ff7b3225be067e00b74886dc5f4265d5&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product that combines skincare and makeup benefits, providing hydration, sun protection, color correction, and coverage in a single product",
+            "defineVi": "một sản phẩm mỹ phẩm kết hợp các lợi ích chăm sóc da và trang điểm, cung cấp độ ẩm, chống nắng, hiệu chỉnh màu sắc và độ che phủ trong một sản phẩm duy nhất"
+        },
+        {
+            "id": "ef78bcff-6914-4f56-bf27-78fa5ea1cac3",
+            "word": "highlighter",
+            "phonetic": "haɪlaɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The highlighter he used was green and helped him study.",
+                "I have one Urban Decay highlighter.",
+                "You have to have the highlighters in various colors.",
+                "You have to have the highlighters in various colors.",
+                "I now have cream or liquid blush and highlighter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaGxpZ2h0ZXI&hash=8494dcf0fdf67e0e233de7fe54f906b4282b0328&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product used to add a luminous glow or shimmer to specific areas of the face, such as the cheekbones",
+            "defineVi": "một sản phẩm mỹ phẩm được sử dụng để thêm ánh sáng rực rỡ hoặc ánh sáng lung linh cho các vùng cụ thể trên khuôn mặt, chẳng hạn như xương gò má",
+            "hasImg": true
+        },
+        {
+            "id": "a636ae46-61e1-42c9-8879-47d2240adec0",
+            "word": "setting spray",
+            "phonetic": "sɛɾɪŋ spɹeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2V0dGluZyBzcHJheQ&hash=de8f05b5790efc941a693b5c312cc4692b470f56&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product used to set and lock makeup in place for extended wear, providing a matte or dewy finish and helping to prevent smudging or fading",
+            "defineVi": "một sản phẩm mỹ phẩm được sử dụng để cố định và khóa lớp trang điểm trong thời gian dài, mang lại lớp nền mờ hoặc phủ sương và giúp ngăn ngừa nhòe hoặc phai màu"
+        },
+        {
+            "id": "02bf761a-66b2-419c-ab57-459fad465ed0",
+            "word": "setting powder",
+            "phonetic": "sɛɾɪŋ paʊdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Now, my oil makes me very, very oily and, uhm, so I have this - CoverFX - again, they sent this to me - Illuminating Setting Powder."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V0dGluZyBwb3dkZXI&hash=4d23d56a4ad550e2cc73a336a39926542f9708e3&lang=en&cache-only=0",
+            "defineEn": "a cosmetic powder used to set makeup, control shine, and improve makeup longevity by reducing oiliness and preventing creasing or smudging",
+            "defineVi": "một loại phấn mỹ phẩm được sử dụng để cố định lớp trang điểm, kiểm soát độ bóng và cải thiện tuổi thọ của lớp trang điểm bằng cách giảm dầu và ngăn ngừa nếp nhăn hoặc nhòe"
+        },
+        {
+            "id": "dfaae172-1c62-4dfa-a142-c071b6a830af",
+            "word": "bronzer",
+            "phonetic": "bɹɑːnzɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is the Physician's Formula butter bronzer.",
+                "This is the second time using this bronzer, and so far, I like it.",
+                "the lighter part with bronzer to try to make it less noticeable.",
+                "For bronzer, I have Milani Baked Bronzer in Dulce.",
+                "For bronzer, I have Milani Baked Bronzer in Dulce."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJvbnplcg&hash=3a977cd791f5b6716f72104bc64c055438b15456&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product for creating a sun-kissed or tanned look on the face or body with a hint of color for a warm, glowing complexion",
+            "defineVi": "một sản phẩm mỹ phẩm để tạo ra vẻ ngoài rám nắng hoặc rám nắng trên khuôn mặt hoặc cơ thể với một chút màu sắc để có làn da sáng, ấm áp"
+        },
+        {
+            "id": "818095b2-1d2b-4c2d-a738-66605417acbd",
+            "word": "scissors",
+            "phonetic": "sɪsɚz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But there is another reason why China is slow-rolling exports to the U.S., says Scissors.",
+                "Yumbu's RAZOR and PAIR of SCISSORS have given him the means to subsist and CARRY on the long JOURNEY from CONGO."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Npc3NvcnM&hash=330d3fe027d81455a7e407cd4902605c086cd9f5&lang=en&cache-only=0",
+            "defineEn": "a tool used to cut paper, cloth, etc. with two handles and two sharp edges, joined in the middle",
+            "defineVi": "một công cụ dùng để cắt giấy, vải, v.v. có hai tay cầm và hai cạnh sắc, được nối ở giữa",
+            "hasImg": true
+        },
+        {
+            "id": "abd2027f-2da0-4413-bdbc-130b961dfc8a",
+            "word": "tweezers",
+            "phonetic": "twiːzɚz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHdlZXplcnM&hash=f46a07516aacb332a7d4ee4d384c273c81db49c1&lang=en&cache-only=0",
+            "defineEn": "a small tool with two long parts that are joined at one end, used to pluck hairs out",
+            "defineVi": "một dụng cụ nhỏ có hai phần dài nối với nhau ở một đầu, dùng để nhổ lông",
+            "hasImg": true
+        },
+        {
+            "id": "98ca9973-a83b-4593-af2e-244ff3a33eda",
+            "word": "eyelash curler",
+            "phonetic": "aɪlæʃ kɜːlɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXllbGFzaCBjdXJsZXI&hash=7110e7676d8a9a9081ffc94a2ca1f1bafe5cea15&lang=en&cache-only=0",
+            "defineEn": "a beauty tool for curling and lifting eyelashes",
+            "defineVi": "một công cụ làm đẹp để uốn và nâng lông mi",
+            "hasImg": true
+        },
+        {
+            "id": "8c8e533b-00a3-4994-9970-fc53381705ad",
+            "word": "brush cleaner",
+            "phonetic": "bɹʌʃ kliːnɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YnJ1c2ggY2xlYW5lcg&hash=850f85f0121e03ccfa022d2b69578429e31f0ba5&lang=en&cache-only=0",
+            "defineEn": "a product or tool for cleaning makeup brushes, removing makeup residue, dirt, and bacteria to maintain their cleanliness and performance",
+            "defineVi": "một sản phẩm hoặc công cụ để làm sạch cọ trang điểm, loại bỏ cặn trang điểm, bụi bẩn và vi khuẩn để duy trì sự sạch sẽ và hiệu quả của chúng"
+        },
+        {
+            "id": "4296d25c-13aa-42c5-8a9d-a27f692c6953",
+            "word": "cosmetic sharpener",
+            "phonetic": "kɑːzmɛɾɪk ʃɑːɹpənɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29zbWV0aWMgc2hhcnBlbmVy&hash=8cb6755e27b67561b3b8bea49cb78f8e31ed073a&lang=en&cache-only=0",
+            "defineEn": "a tool for sharpening cosmetic pencils to maintain their precision by creating a sharp tip",
+            "defineVi": "một công cụ để mài bút chì mỹ phẩm để duy trì độ chính xác của chúng bằng cách tạo ra một đầu nhọn",
+            "hasImg": true
+        },
+        {
+            "id": "aedbbe96-2eeb-4e47-8304-e91ba5af03a3",
+            "word": "makeup spatula",
+            "phonetic": "meɪkʌp spætʃələ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFrZXVwIHNwYXR1bGE&hash=4dfbb28158ee5299c76a4a7149dcc4affe86a322&lang=en&cache-only=0",
+            "defineEn": "a tool for scooping, mixing, or applying makeup products with a flat or angled edge for precise and hygienic application",
+            "defineVi": "một công cụ để múc, trộn hoặc thoa các sản phẩm trang điểm có cạnh phẳng hoặc góc cạnh để sử dụng chính xác và hợp vệ sinh",
+            "hasImg": true
+        },
+        {
+            "id": "1cdffe55-c7ca-492d-a86d-f7e02e597d6b",
+            "word": "makeup mixing plate",
+            "phonetic": "meɪkʌp mɪksɪŋ pleɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFrZXVwIG1peGluZyBwbGF0ZQ&hash=fdeb9075a41ecc4860f037af70e642946001fbaa&lang=en&cache-only=0",
+            "defineEn": "a flat surface for customizing makeup products by blending different shades or textures for precise application",
+            "defineVi": "một bề mặt phẳng để tùy chỉnh các sản phẩm trang điểm bằng cách pha trộn các sắc thái hoặc kết cấu khác nhau cho ứng dụng chính xác",
+            "hasImg": true
+        },
+        {
+            "id": "6fac281c-911c-43ec-bb26-ee42ee68dd88",
+            "word": "finishing powder",
+            "phonetic": "fɪnɪʃɪŋ paʊdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmluaXNoaW5nIHBvd2Rlcg&hash=702427d09c59d3209b88fa45eb9213028e2c04a4&lang=en&cache-only=0",
+            "defineEn": "a cosmetic powder for setting makeup, blurring imperfections, and providing a smooth, polished finish",
+            "defineVi": "một loại phấn mỹ phẩm để cố định lớp trang điểm, làm mờ các khuyết điểm và mang lại lớp nền mịn màng, bóng bẩy"
+        },
+        {
+            "id": "97071ec8-780b-4a50-8c2a-ea9bf228d834",
+            "word": "spoolie brush",
+            "phonetic": "spuːli bɹʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3Bvb2xpZSBicnVzaA&hash=b40a8edf083e27abf4210b62a2cddad4d1dcb335&lang=en&cache-only=0",
+            "defineEn": "a brush with a small, spiral-shaped bristle head used for grooming eyebrows, separating eyelashes, or blending eyebrow or eyelash products",
+            "defineVi": "cọ có đầu lông nhỏ, hình xoắn ốc dùng để chải lông mày, tách mi hoặc trộn các sản phẩm lông mày hoặc lông mi",
+            "hasImg": true
+        },
+        {
+            "id": "873ff5d0-f90c-4bb6-95d4-c94ff8d3dad7",
+            "word": "eyebrow pomade",
+            "phonetic": "aɪbɹaʊ pɑːmeɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXllYnJvdyBwb21hZGU&hash=06d6267cad6211451bd2fc7b798ce11d0fea32d7&lang=en&cache-only=0",
+            "defineEn": "a makeup product for filling, defining, and shaping eyebrows with long-lasting color and hold",
+            "defineVi": "một sản phẩm trang điểm để làm đầy, xác định và định hình lông mày với màu sắc lâu trôi và giữ được"
+        },
+        {
+            "id": "35481587-08df-4282-ab29-5551cece7d9d",
+            "word": "makeup brush",
+            "phonetic": "meɪkʌp bɹʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFrZXVwIGJydXNo&hash=b70f99725c7a0b882668588b3ddfad68bf1c77cc&lang=en&cache-only=0",
+            "defineEn": "a tool with bristles for applying makeup with precision and control",
+            "defineVi": "một công cụ có lông để trang điểm với độ chính xác và kiểm soát"
+        },
+        {
+            "id": "2651de78-74ab-4ab4-bd51-7cf42f8d2d7e",
+            "word": "makeup sponge",
+            "phonetic": "meɪkʌp spʌndʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFrZXVwIHNwb25nZQ&hash=e3d33d019eed383e194c97bbdba6732ca570673b&lang=en&cache-only=0",
+            "defineEn": "a soft, porous tool for applying and blending makeup products for a flawless finish",
+            "defineVi": "một công cụ mềm, xốp để thoa và trộn các sản phẩm trang điểm để có một lớp nền hoàn hảo"
+        },
+        {
+            "id": "467b7446-96b6-4c6e-8cfd-38813520b12b",
+            "word": "cotton ball",
+            "phonetic": "kɑːʔn̩ bɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y290dG9uIGJhbGw&hash=3ba402047bef314262f2232559abc7e6265647ef&lang=en&cache-only=0",
+            "defineEn": "a small, round cotton fiber ball used for various cosmetic and personal care purposes",
+            "defineVi": "một quả bóng sợi bông tròn, nhỏ được sử dụng cho các mục đích chăm sóc cá nhân và mỹ phẩm khác nhau"
+        },
+        {
+            "id": "a5102706-4f39-47cd-b1d9-66c474ee7a7f",
+            "word": "Beautyblender",
+            "phonetic": "bjuːɾɪblɛndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QmVhdXR5YmxlbmRlcg&hash=3ac28fe6fffc2adb7a4248a3604a3c0bbfcf45db&lang=en&cache-only=0",
+            "defineEn": "a teardrop-shaped makeup sponge for applying and blending liquid or cream makeup products with a streak-free",
+            "defineVi": "một miếng bọt biển trang điểm hình giọt nước để thoa và trộn các sản phẩm trang điểm dạng lỏng hoặc kem mà không để lại vệt",
+            "hasImg": true
+        },
+        {
+            "id": "2700b526-feb3-4153-8dc8-fb0343a3d219",
+            "word": "blush brush",
+            "phonetic": "blʌʃ bɹʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ymx1c2ggYnJ1c2g&hash=f0f3503d5e7d364000e9f776a9a501a2f865c08b&lang=en&cache-only=0",
+            "defineEn": "a cosmetic tool for applying cheek color to the face, with soft bristles and a handle for precise application",
+            "defineVi": "một dụng cụ thẩm mỹ để thoa màu má lên mặt, có lông mềm và tay cầm để thoa chính xác",
+            "hasImg": true
+        },
+        {
+            "id": "e3bdd1f6-7e87-4829-bb6c-40317a44d54a",
+            "word": "fan brush",
+            "phonetic": "fæn bɹʌʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFuIGJydXNo&hash=3730c84c73e7c7b4d333e6e90efdda9b1778a3dd&lang=en&cache-only=0",
+            "defineEn": "a cosmetic tool with thin, flat bristles fanned out in a shape like a fan, used for applying and blending powder or highlighting products",
+            "defineVi": "một dụng cụ mỹ phẩm có lông bàn chải phẳng, mỏng xòe ra theo hình chiếc quạt, được sử dụng để thoa và trộn các sản phẩm phấn phủ hoặc phấn bắt sáng",
+            "hasImg": true
+        },
+        {
+            "id": "1c254c06-28d7-4241-bdc6-d71bb60ae172",
+            "word": "bindi",
+            "phonetic": "baɪndi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As an adult, Bindi gets salald Monday, Wednesdays, and Fridays.",
+                "So far, Bindi prefers to perch on her rocks or lounge in the corner on her clay mound.",
+                "And he's another quiet communicator like Bindi the bearded dragon.",
+                "So when Bindi's relaxed she's not gonna be doing a lot of movement.",
+                "Pogona vitticeps like Bindi, are very prominent and robust in the wild."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmluZGk&hash=e6afd87a7ae18139a852c5b40194ea323b2a03ce&lang=en&cache-only=0",
+            "defineEn": "a decorative dot worn on the forehead, typically by women in South Asia, symbolizing cultural or religious significance",
+            "defineVi": "một dấu chấm trang trí đeo trên trán, thường là của phụ nữ ở Nam Á, tượng trưng cho ý nghĩa văn hóa hoặc tôn giáo",
+            "hasImg": true
+        },
+        {
+            "id": "0df66d63-704b-40dc-b294-41088b3ee4b4",
+            "word": "compact",
+            "phonetic": "kəmpækt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The grand unified theory is compact and elegant in mathematical terms.",
+                "We are compacting the cardboard over there.",
+                "Yes it's quite compact.",
+                "Meshify 2 Compact user's guide.",
+                "It's a compact camera."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGFjdA&hash=659d1add19205700903d458d2e1efe986d272e12&lang=en&cache-only=0",
+            "defineEn": "a small, portable case or container that holds makeup products",
+            "defineVi": "một hộp nhỏ, di động hoặc hộp đựng các sản phẩm trang điểm"
+        },
+        {
+            "id": "c6e39ae6-8c4d-483e-aaea-f885592668d6",
+            "word": "greasepaint",
+            "phonetic": "ɡɹiːspeɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z3JlYXNlcGFpbnQ&hash=f62e2b65ccbc1f49309cb06477b94daf3e1a8b93&lang=en&cache-only=0",
+            "defineEn": "a type of heavy theatrical makeup commonly used for stage performances",
+            "defineVi": "một loại trang điểm sân khấu nặng thường được sử dụng cho các buổi biểu diễn trên sân khấu"
+        },
+        {
+            "id": "3625f46d-757d-452d-8030-3600b1c6dc25",
+            "word": "kajal",
+            "phonetic": "kædʒəl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=a2FqYWw&hash=2f19c54eabae65605accb26fb9b2d971786e6dcc&lang=en&cache-only=0",
+            "defineEn": "a dark-colored cosmetic used around the eyes for enhancing their appearance, popular in South Asian cultures",
+            "defineVi": "một loại mỹ phẩm tối màu được sử dụng quanh mắt để tăng vẻ ngoài của chúng, phổ biến ở các nền văn hóa Nam Á"
+        },
+        {
+            "id": "e7f03187-2318-44df-9387-b49b0fad947b",
+            "word": "kohl",
+            "phonetic": "koʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Kohl's, it's like Harrods for poor people!",
+                "You can buy a little bit of everything at Kohl's at affordable prices.",
+                "So far, Kohl's says results are promising.",
+                "J.C. Penney's sales growth and investor return lagged behind Macy's, Kohl's, T.J.Maxx and Nordstrom.",
+                "ABG later made a deal with discount retailer Kohl's to sell Juicy-branded products, effectively abandoning the brand's veneer of luxury for many loyal fans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a29obA&hash=827efc0523a9521b689980e236601267da275bc9&lang=en&cache-only=0",
+            "defineEn": "a traditional eye cosmetic, typically made from soot or charcoal, used to enhance the eyes and create a smoky, dramatic look",
+            "defineVi": "một loại mỹ phẩm mắt truyền thống, thường được làm từ bồ hóng hoặc than củi, được sử dụng để làm nổi bật đôi mắt và tạo ra một cái nhìn ấn tượng, khói"
+        },
+        {
+            "id": "e61f9c47-0410-4404-8574-d37d1d61c8af",
+            "word": "pancake",
+            "phonetic": "pæŋkeɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Grandma's clabber pancakes are a family favorite for Sunday brunch.",
+                "The fluffy pancakes owed their light texture to the addition of baking powder.",
+                "They shared golden-brown mung bean pancakes.",
+                "The fluffy pancakes were made from a simple batter of flour, eggs, milk, and a pinch of salt.",
+                "The ricotta adds a creamy texture and subtle tanginess to the pancakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFuY2FrZQ&hash=cba3d1feb86635172ce0796d97811dcf463b9737&lang=en&cache-only=0",
+            "defineEn": "a solid foundation in a compact form, applied with a sponge or brush for coverage and complexion enhancement",
+            "defineVi": "một lớp nền vững chắc ở dạng nhỏ gọn, được thoa bằng miếng bọt biển hoặc cọ để che phủ và tăng cường nước da"
+        },
+        {
+            "id": "2026a237-d742-4dbe-82a6-3807012e414e",
+            "word": "rouge",
+            "phonetic": "ɹuːʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cm91Z2U&hash=2573d85116f02e7d7c3fc0f959a04bba2cb3bf54&lang=en&cache-only=0",
+            "defineEn": "a cosmetic product used to add color and enhance the cheeks",
+            "defineVi": "một sản phẩm mỹ phẩm được sử dụng để thêm màu sắc và tăng cường má",
+            "hasImg": true
+        },
+        {
+            "id": "58436f69-9fb9-4eaf-a2d2-df2f2e61244c",
+            "word": "talc",
+            "phonetic": "tælk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Its headlights were made up of plastic and talc, a mineral that has to be mined.",
+                "But now, the coffee chaff replaces some of the talc, making the car part 20% lighter.",
+                "The chaff component meets all durability and performance requirements, and it can withstand high temperatures much better than talc."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFsYw&hash=d940ed9fddd6b8ca3f9300b84698e2af98713b5c&lang=en&cache-only=0",
+            "defineEn": "a soft mineral powder commonly used in personal care products for its absorbent and smoothing properties",
+            "defineVi": "một loại bột khoáng mềm thường được sử dụng trong các sản phẩm chăm sóc cá nhân nhờ đặc tính thấm hút và làm mịn"
+        },
+        {
+            "id": "235fede9-68fa-4f32-9a2f-dd33f71b04c8",
+            "word": "talcum powder",
+            "phonetic": "tælkəm paʊdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And I was also experimenting with putting talcum powder on my face, which is like pure white, because I thought that maybe it was my skin color that made me different."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFsY3VtIHBvd2Rlcg&hash=96ed40bd81b20e311c2cbef5590e9229f61ef1aa&lang=en&cache-only=0",
+            "defineEn": "a soft white powder, with a pleasant smell, applied to the skin to absorb moisture and prevent rashes",
+            "defineVi": "một loại bột trắng mềm, có mùi dễ chịu, thoa lên da để hút ẩm và ngăn ngừa phát ban",
+            "hasImg": true
+        },
+        {
+            "id": "888c86a5-e2cd-4eb8-a26b-8f0a57ad2f61",
+            "word": "fake eyelash",
+            "phonetic": "feɪk aɪlæʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmFrZSBleWVsYXNo&hash=cd4d856ec7c87bd0d98662e070e288246c698030&lang=en&cache-only=0",
+            "defineEn": "a cosmetic accessory applied to the eyelid or eyelashes to enhance the appearance of the eyes by adding length and volume",
+            "defineVi": "một phụ kiện thẩm mỹ áp dụng cho mí mắt hoặc lông mi để tăng vẻ ngoài của mắt bằng cách thêm chiều dài và khối lượng",
+            "hasImg": true
+        },
+        {
+            "id": "24af3b39-e530-4e7f-81a0-ed7f7c3c4f53",
+            "word": "eyelash extension",
+            "phonetic": "aɪlæʃ ɛkstɛnʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXllbGFzaCBleHRlbnNpb24&hash=c74980e1f0b4acf0df0c99c3a13850669b29a9f3&lang=en&cache-only=0",
+            "defineEn": "a cosmetic treatment in which individual synthetic or natural fibers are applied to the existing eyelashes",
+            "defineVi": "một phương pháp điều trị thẩm mỹ trong đó các sợi tổng hợp hoặc sợi tự nhiên riêng lẻ được áp dụng cho lông mi hiện có"
+        },
+        {
+            "id": "8dc2b7df-6f3d-4c46-b65d-ccf949375de9",
+            "word": "applicator",
+            "phonetic": "æplᵻkeɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The applicator makes the glue easy to use.",
+                "And you can take two cotton-tip applicators, like Q-tips, and just apply gentle downward and inward pressure around the pimple.",
+                "I love that, it makes it so much easier, and the applicator is, in my opinion, fantastic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXBwbGljYXRvcg&hash=f10af81768d4c1909a528b199722ed7ecc3013b4&lang=en&cache-only=0",
+            "defineEn": "a tool used to apply cosmetic products to the skin, such as brushes, sponges, wands, or pads",
+            "defineVi": "một công cụ được sử dụng để thoa các sản phẩm mỹ phẩm lên da, chẳng hạn như bàn chải, bọt biển, đũa phép hoặc miếng đệm",
+            "hasImg": true
+        },
+        {
+            "id": "73d2eed3-2e49-4cf5-a9f8-7a35d095f1e0",
+            "word": "makeup remover",
+            "phonetic": "meɪkʌp ɹᵻmuːvɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFrZXVwIHJlbW92ZXI&hash=fc0a9cbe516547c02014bb9efb248f5f7a55b586&lang=en&cache-only=0",
+            "defineEn": "a product used to cleanse and remove makeup from the skin",
+            "defineVi": "một sản phẩm được sử dụng để làm sạch và tẩy trang khỏi da",
+            "hasImg": true
+        }
+    ]
+}

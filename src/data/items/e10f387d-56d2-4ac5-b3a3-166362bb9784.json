@@ -1,0 +1,699 @@
+{
+    "id": "e10f387d-56d2-4ac5-b3a3-166362bb9784",
+    "title": "Syntactic Structures",
+    "originalTitle": "Syntactic Structures",
+    "words": [
+        {
+            "id": "78c58981-0919-4bcb-8818-a05ed349d83e",
+            "word": "phrase",
+            "phonetic": "fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His incorrect translation of the phrase caused a misunderstanding between the two parties.",
+                "I had to find out the hard way - to coin a phrase.",
+                "She was, to coin a phrase, swept off her feet.",
+                "My friend had a doll with a voice recorder that could say different phrases.",
+                "Although she didn't speak the language fluently, she was able to get by with basic phrases and gestures."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGhyYXNl&hash=e643c840cf0a3e79aa088913286e8c441f1173d8&lang=en&cache-only=0",
+            "defineEn": "a group of words put together that has meaning",
+            "defineVi": "một nhóm từ ghép lại với nhau có nghĩa"
+        },
+        {
+            "id": "d5e6c5ea-9858-4bb0-bbc4-24615f2cb923",
+            "word": "clause",
+            "phonetic": "klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The rental agreement had an escape clause that allowed the tenant to terminate the lease early if they needed to move for work purposes.",
+                "Verbs that take both the infinitive and the finite clause as their object.",
+                "And, indeed, the grandfather clauses in poll taxes and literacy tests had no racial language in it.",
+                "They object to a clause in the British government's Brexit deal with the European Union.",
+                "But the contracts clause of the U.S. Constitution prohibits states from impairing the obligation of contracts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xhdXNl&hash=58afe2835bdfc873450b4eac5b32b97cba9d72d7&lang=en&cache-only=0",
+            "defineEn": "(grammar) a group of words that contains a subject and a verb and functions as a unit within a sentence",
+            "defineVi": "(ngữ pháp) một nhóm từ chứa chủ ngữ và động từ và hoạt động như một đơn vị trong câu"
+        },
+        {
+            "id": "b405d652-23aa-4571-96d3-6a4035f4d9ff",
+            "word": "sentence",
+            "phonetic": "sɛntəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A sentence always starts with a capital letter.",
+                "What does this sentence mean?",
+                "He served an 18-month sentence for theft.",
+                "He is serving a ten-year jail sentence.",
+                "Read me that last sentence again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VudGVuY2U&hash=4b54a07dbda2f5eab3bcbe29c16a5b3fc885e789&lang=en&cache-only=0",
+            "defineEn": "a group of words that forms a statement, question, exclamation, or instruction, usually containing a verb",
+            "defineVi": "một nhóm từ tạo thành một tuyên bố, câu hỏi, cảm thán, hoặc hướng dẫn, thường chứa một động từ"
+        },
+        {
+            "id": "8c2d8302-526d-4e49-a73d-7fcef7ee6a47",
+            "word": "subject",
+            "phonetic": "sʌbdʒɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The professor knew his subject from the ground up.",
+                "She studied different subjects in school, from math to history.",
+                "We study different subjects like math, science, and English at school.",
+                "The loyal subjects bowed down before their king as a sign of reverence.",
+                "They exchanged views on every subject under the sun."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ViamVjdA&hash=84940577ecf6ded51b9ed839e05aea89d5fb9257&lang=en&cache-only=0",
+            "defineEn": "(grammar) a noun, pronoun or noun phrase that does the action of the verb, about which something is stated or in passive sentences is affected by the action of the verb",
+            "defineVi": "(ngữ pháp) một danh từ, đại từ hoặc cụm danh từ thực hiện hành động của động từ, về điều gì đó được nêu hoặc trong câu bị động bị ảnh hưởng bởi hành động của động từ"
+        },
+        {
+            "id": "a2b7800b-13b9-4b6f-bb10-b57d783ae4d3",
+            "word": "object",
+            "phonetic": "ɑːbdʒɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The boat hit against an object under the surface of the water.",
+                "My cousin objected and he was not a minority of one.",
+                "Workers scrambled to carry priceless objects out of harm's way.",
+                "She stepped on a sharp object and hurt her foot.",
+                "The metal rod began to bend under the weight of the heavy object."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b2JqZWN0&hash=f20fc8f13c40b68046143db6737c9074bab1dc08&lang=en&cache-only=0",
+            "defineEn": "(grammar) a noun or noun phrase that is affected by the action of the verb, or is followed by a preposition",
+            "defineVi": "(ngữ pháp) một danh từ hoặc cụm danh từ bị ảnh hưởng bởi hành động của động từ hoặc theo sau bởi một giới từ"
+        },
+        {
+            "id": "5ad5ae9f-f188-4ad7-8fc7-07c4df52eb25",
+            "word": "existential clause",
+            "phonetic": "ɛɡzɪstɛnʃəl klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZXhpc3RlbnRpYWwgY2xhdXNl&hash=72b9768050d7ad03da4d8750dfd73a625470f184&lang=en&cache-only=0",
+            "defineEn": "a type of clause that asserts the existence of something or someone, typically introduced by a verb or verb phrase expressing existence or occurrence",
+            "defineVi": "một loại mệnh đề khẳng định sự tồn tại của một cái gì đó hoặc một ai đó, thường được giới thiệu bởi một động từ hoặc cụm động từ thể hiện sự tồn tại hoặc sự xuất hiện"
+        },
+        {
+            "id": "a5931daf-906a-4772-91ef-e68aff683fa4",
+            "word": "word order",
+            "phonetic": "wɜːd ɔːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yZCBvcmRlcg&hash=b611eb6584ac1c16eedaea8111be02acb20b7a9a&lang=en&cache-only=0",
+            "defineEn": "the arrangement of words in a sentence, indicating the sequence in which the subject, verb, and other constituents appear",
+            "defineVi": "sự sắp xếp các từ trong một câu, cho biết trình tự xuất hiện của chủ ngữ, động từ và các thành phần khác"
+        },
+        {
+            "id": "2b2a0cf9-cc80-4e84-b2e8-d3529bbd654d",
+            "word": "predicate",
+            "phonetic": "pɹɛdᵻkeɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His presidency is predicated on that.",
+                "But the 2003 invasion of Iraq by the United States was predicated on two ideas.",
+                "And predicate calculus helps us find the meanings of certain words in those true sentences.",
+                "But this is all predicated, or this is all based on, this energy traveling through a medium.",
+                "But the whole notion of electrons, protons, they're all kind of predicated on this notion of charge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlZGljYXRl&hash=45121e9cdce538fb62e50f1cc8b4caafb2542105&lang=en&cache-only=0",
+            "defineEn": "a fundamental component of a sentence that contains the verb and provides information about the subject, including actions, states, or descriptions",
+            "defineVi": "một thành phần cơ bản của câu có chứa động từ và cung cấp thông tin về chủ đề, bao gồm các hành động, trạng thái hoặc mô tả"
+        },
+        {
+            "id": "50627247-74cf-4612-9b38-fed5154b42e9",
+            "word": "small clause",
+            "phonetic": "smɔːl klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c21hbGwgY2xhdXNl&hash=b04b0da5e8d07c81181779c1090a3e6f304dc002&lang=en&cache-only=0",
+            "defineEn": "a type of clause that lacks a main verb and functions as a single unit, typically consisting of a subject and a non-finite verb or adjective",
+            "defineVi": "một loại mệnh đề thiếu động từ chính và có chức năng như một đơn vị, thường bao gồm một chủ ngữ và một động từ hoặc tính từ không hữu hạn"
+        },
+        {
+            "id": "1e068dd6-7b94-41c8-8821-267a92137ec5",
+            "word": "attribute",
+            "phonetic": "ætɹɪbjuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I hired Jess only because she thinks quick on her feet, an attribute that you sadly do not possess.",
+                "This approach is different from the traditional view that make a salesperson become a fast-talker who inform averything about the product or services attributes and persuade the customer to buy and walk away with an order.",
+                "Research attributes this decline to the popularity of e-readers, the boom in chain bookstores, and of course, the lure of online retailers.",
+                "People often attribute such experiences to paranormal forces outside the sphere of material life.",
+                "Attributing a person's actions mainly to the situation, instead of his personality."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXR0cmlidXRl&hash=105d1b327b530204489777c530baf4f537a04b64&lang=en&cache-only=0",
+            "defineEn": "a word or phrase that describes or provides additional information about another word or phrase, typically modifying a noun",
+            "defineVi": "một từ hoặc cụm từ mô tả hoặc cung cấp thông tin bổ sung về một từ hoặc cụm từ khác, thường sửa đổi một danh từ"
+        },
+        {
+            "id": "973dbea0-cfae-4744-910d-652ba20d1127",
+            "word": "parse tree",
+            "phonetic": "pɑːɹs tɹiː ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFyc2UgdHJlZQ&hash=fd3fc928957d1c5a79ea45bc5fa9ab9827ce376d&lang=en&cache-only=0",
+            "defineEn": "a graphical representation of the syntactic structure of a sentence or a string of words in a formal language, illustrating how the components of the sentence are organized hierarchically according to the rules of a given grammar",
+            "defineVi": "một biểu diễn đồ họa về cấu trúc cú pháp của một câu hoặc một chuỗi từ trong một ngôn ngữ chính thức, minh họa cách các thành phần của câu được tổ chức theo thứ bậc theo các quy tắc của một ngữ pháp nhất định"
+        },
+        {
+            "id": "f8040b95-fc69-4faf-af7c-59672cce5893",
+            "word": "phrase structure grammar",
+            "phonetic": "fɹeɪz stɹʌktʃɚ ɡɹæmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGhyYXNlIHN0cnVjdHVyZSBncmFtbWFy&hash=d06dad12067a1e0002fc8440d1679b9fdb5bdf05&lang=en&cache-only=0",
+            "defineEn": "a formal framework in linguistics that describes the structure of sentences by using rules to generate hierarchical structures called phrases, capturing the relationships between words and phrases within a language",
+            "defineVi": "một khuôn khổ chính thức trong ngôn ngữ học mô tả cấu trúc của câu bằng cách sử dụng các quy tắc để tạo cấu trúc phân cấp được gọi là cụm từ, nắm bắt mối quan hệ giữa các từ và cụm từ trong một ngôn ngữ"
+        },
+        {
+            "id": "6c84b462-2848-4679-bd74-c6a0e4046a33",
+            "word": "determiner phrase",
+            "phonetic": "dɪtɜːmɪnɚ fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGV0ZXJtaW5lciBwaHJhc2U&hash=45ee530802507e6c2dce85d82e6a2e62e77d5c16&lang=en&cache-only=0",
+            "defineEn": "a structure composed of a determiner and a noun phrase, serving to specify the reference of the noun phrase",
+            "defineVi": "một cấu trúc bao gồm một từ hạn định và một cụm danh từ, dùng để xác định tham chiếu của cụm danh từ"
+        },
+        {
+            "id": "f7409f27-6976-4792-9eba-965ad8257379",
+            "word": "head word",
+            "phonetic": "hɛd wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVhZCB3b3Jk&hash=2af947479f2885c025a11ad9719859adf10eaaad&lang=en&cache-only=0",
+            "defineEn": "the main or central word in a phrase that determines the grammatical category and syntactic behavior of the entire phrase",
+            "defineVi": "từ chính hoặc từ trung tâm trong một cụm từ xác định phạm trù ngữ pháp và hành vi cú pháp của toàn bộ cụm từ"
+        },
+        {
+            "id": "a7723eeb-d98b-4a9b-8947-6b2898b08d38",
+            "word": "constituent",
+            "phonetic": "kənstɪtʃuːənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It captivated constituents.",
+                "That affects her constituents big time.",
+                "Constituents of the flue gas is what's in normal air, like nitrogen, carbon dioxide, moisture.",
+                "A phrase is a constituent that's sorta mid sized.",
+                "They worked together on constituent mail."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uc3RpdHVlbnQ&hash=39f1fe3de58fcf370443ffc49c7dc7fe214dffe1&lang=en&cache-only=0",
+            "defineEn": "a group of words that function together as a single unit within a sentence, typically forming a phrase or a clause",
+            "defineVi": "một nhóm từ hoạt động cùng nhau như một đơn vị trong một câu, thường tạo thành một cụm từ hoặc một mệnh đề"
+        },
+        {
+            "id": "9c507f4d-4fa8-412e-a00a-96c860191666",
+            "word": "independent clause",
+            "phonetic": "ɪndᵻpɛndənt klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A semicolon's job is to reunite two independent clauses that will benefit from one another's company because they refer to the same thing.",
+                "Another of its tasks is to link together independent clauses."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5kZXBlbmRlbnQgY2xhdXNl&hash=f3723f61240f9c3f301a058252cd84b0d4aa697c&lang=en&cache-only=0",
+            "defineEn": "(grammar) a group of words including a subject and a verb expressing a complete thought",
+            "defineVi": "(ngữ pháp) một nhóm từ bao gồm một chủ ngữ và một động từ diễn đạt một ý hoàn chỉnh"
+        },
+        {
+            "id": "c76cdaf4-6616-4025-b4f5-1a408f84f62b",
+            "word": "direct object",
+            "phonetic": "dᵻɹɛkt ɑːbdʒɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGlyZWN0IG9iamVjdA&hash=7ba7d8fb9c864049dfed8b88b0cac52b335a8e13&lang=en&cache-only=0",
+            "defineEn": "(grammar) a noun, pronoun or noun phrase that receives the action of a verb in a sentence",
+            "defineVi": "(ngữ pháp) danh từ, đại từ hoặc cụm danh từ nhận hành động của động từ trong câu"
+        },
+        {
+            "id": "5521491f-b4c2-4867-919a-1221beb30404",
+            "word": "argument",
+            "phonetic": "ɑːɹɡjuːmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These arguments provide the foundation for Simmel's account of the contradictory nature of modern life.",
+                "His argument rests on shaky ground.",
+                "The lawyer presented the right argument in court.",
+                "Your article barely laid a glove on my arguments.",
+                "He would start an argument at the drop of a hat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJndW1lbnQ&hash=72760f1d8bf8d1677b622f67a2325c945720f347&lang=en&cache-only=0",
+            "defineEn": "(grammar) any of the noun phrases in a clause that complete the meaning of the predicate",
+            "defineVi": "(ngữ pháp) bất kỳ cụm danh từ nào trong một mệnh đề hoàn thành ý nghĩa của vị ngữ"
+        },
+        {
+            "id": "3d1681f8-66a5-4570-9e8b-d1728dc46cc6",
+            "word": "if-clause",
+            "phonetic": "ɪfklɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aWYtY2xhdXNl&hash=758ca10947c1f33ecf8228fc45449cee8d57d199&lang=en&cache-only=0",
+            "defineEn": "a type of subordinate clause that introduces a condition or hypothetical situation, expressing the consequence that would follow if the condition is met",
+            "defineVi": "một loại mệnh đề cấp dưới giới thiệu một điều kiện hoặc tình huống giả định, thể hiện hệ quả sẽ xảy ra nếu điều kiện được đáp ứng"
+        },
+        {
+            "id": "64f9d69a-e023-49bc-843d-f7c406dcf799",
+            "word": "dependent clause",
+            "phonetic": "dᵻpɛndənt klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZGVwZW5kZW50IGNsYXVzZQ&hash=7a73b33bb7a9673a37ddbc8a3cdae3b5f06d4d56&lang=en&cache-only=0",
+            "defineEn": "(grammar) a group of words containing a subject and a verb that is not a sentence on its own but adds information to an independent clause",
+            "defineVi": "(ngữ pháp) một nhóm từ chứa một chủ ngữ và một động từ không phải là một câu riêng lẻ nhưng bổ sung thông tin cho một mệnh đề độc lập"
+        },
+        {
+            "id": "904d7f56-58e4-47d4-a619-efd5446ec527",
+            "word": "relative clause",
+            "phonetic": "ɹɛlətɪv klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our ear for sounds is established pretty early, but complicated features like relative clauses take several years to learn, and we learn new words our whole lives!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVsYXRpdmUgY2xhdXNl&hash=19706eaba97db3fd70df15fe0144f561e8c785a7&lang=en&cache-only=0",
+            "defineEn": "(grammar) a type of subordinate clause that provides additional information about a noun or pronoun in a sentence",
+            "defineVi": "(ngữ pháp) một loại mệnh đề phụ cung cấp thêm thông tin về danh từ hoặc đại từ trong câu"
+        },
+        {
+            "id": "23272fa8-0047-4294-958f-449cc2afc676",
+            "word": "prepositional phrase",
+            "phonetic": "pɹɛpəzɪʃənəl fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlcG9zaXRpb25hbCBwaHJhc2U&hash=2129f1c330cd1ff0896d08c84d7a7735a6cab60b&lang=en&cache-only=0",
+            "defineEn": "a group of words that begins with a preposition and typically includes a noun or pronoun, called the object of the preposition",
+            "defineVi": "một nhóm từ bắt đầu bằng một giới từ và thường bao gồm một danh từ hoặc đại từ, được gọi là đối tượng của giới từ"
+        },
+        {
+            "id": "30f0f28e-889e-43b9-88b4-86a36b3de063",
+            "word": "adverbial phrase",
+            "phonetic": "ædvɜːbɪəl fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWR2ZXJiaWFsIHBocmFzZQ&hash=c8176488f753dd4b0922541d07ecc70c44b3eba7&lang=en&cache-only=0",
+            "defineEn": "a group of words that functions as an adverb, modifying a verb, adjective, or adverb, and typically provides information about time, place, manner, or degree",
+            "defineVi": "một nhóm từ có chức năng như một trạng từ, sửa đổi một động từ, tính từ hoặc trạng từ và thường cung cấp thông tin về thời gian, địa điểm, cách thức hoặc mức độ"
+        },
+        {
+            "id": "0181edc1-df50-40ed-92fc-04d27409fb0e",
+            "word": "adjective phrase",
+            "phonetic": "ædʒɪktɪv fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRqZWN0aXZlIHBocmFzZQ&hash=736cbc023b18509203f99a15c3b0a20677452b8b&lang=en&cache-only=0",
+            "defineEn": "a group of words that functions as an adjective, modifying a noun or pronoun, and typically consists of an adjective and any accompanying words or modifiers",
+            "defineVi": "một nhóm từ có chức năng như một tính từ, sửa đổi một danh từ hoặc đại từ và thường bao gồm một tính từ và bất kỳ từ hoặc từ bổ nghĩa nào đi kèm"
+        },
+        {
+            "id": "67f545ee-ca6e-4f90-a501-cf3162b7aa45",
+            "word": "cumulative sentence",
+            "phonetic": "kjuːmjʊlətɪv sɛntəns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y3VtdWxhdGl2ZSBzZW50ZW5jZQ&hash=f25192166a046b197b712d89be734ade24eda96c&lang=en&cache-only=0",
+            "defineEn": "(grammar) an independent clause followed by one or more dependent clauses or phrases",
+            "defineVi": "(ngữ pháp) một mệnh đề độc lập theo sau bởi một hoặc nhiều mệnh đề hoặc cụm từ phụ thuộc"
+        },
+        {
+            "id": "3ad22a7c-98bb-4c7f-8247-f6971d36c1c7",
+            "word": "complement",
+            "phonetic": "kɑːmplɪmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lingonberry sauce perfectly complemented the roasted turkey at Thanksgiving dinner.",
+                "She wore a pink dress to the wedding, which complemented her rosy cheeks.",
+                "Terry had been searching for the Miss Right for a long time, someone who would be his perfect match and complement his personality and values.",
+                "James had always dreamed of finding his Ms Right, a woman who would complement him perfectly and share his values and interests",
+                "You complement that with much more scaled work. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGxlbWVudA&hash=a3e4762127bacddece26bb2efebf561562bd8de5&lang=en&cache-only=0",
+            "defineEn": "(grammar) a word, phrase or clause that is necessary to complete the meaning of a predication",
+            "defineVi": "(ngữ pháp) một từ, cụm từ hoặc mệnh đề cần thiết để hoàn thành nghĩa của vị ngữ"
+        },
+        {
+            "id": "c7dca0d2-3e77-432d-939c-6638ba17aa3a",
+            "word": "indirect object",
+            "phonetic": "ɪndɚɹɛkt ɑːbdʒɛkt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5kaXJlY3Qgb2JqZWN0&hash=7b14852b66e85a6ed1cfb2fd80915757443f4883&lang=en&cache-only=0",
+            "defineEn": "(grammar) a noun, noun phrase or pronoun that refers to a person or object for or to whom the action of the verb is done",
+            "defineVi": "(ngữ pháp) một danh từ, cụm danh từ hoặc đại từ dùng để chỉ một người hoặc đối tượng cho hoặc người mà hành động của động từ được thực hiện"
+        },
+        {
+            "id": "f06e0f5c-7369-41c4-9469-976f86971a63",
+            "word": "verb phrase",
+            "phonetic": "vɜːb fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmVyYiBwaHJhc2U&hash=91f51e9f7825af78dcec924d1f2129826de6bc74&lang=en&cache-only=0",
+            "defineEn": "a syntactic unit that consists of a verb and its associated components, such as objects, adverbs, or complements, and functions as the predicate of a sentence or clause",
+            "defineVi": "một đơn vị cú pháp bao gồm một động từ và các thành phần liên quan của nó, chẳng hạn như đối tượng, trạng từ hoặc bổ ngữ và có chức năng như vị ngữ của câu hoặc mệnh đề"
+        },
+        {
+            "id": "c09959f7-28f9-48bc-a622-4be153e68277",
+            "word": "adverb prepositional phrase",
+            "phonetic": "ædvɜːb pɹɛpəzɪʃənəl fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWR2ZXJiIHByZXBvc2l0aW9uYWwgcGhyYXNl&hash=7763270d5a710996b47672048564bf5107514943&lang=en&cache-only=0",
+            "defineEn": "a group of words that functions as an adverb and includes a preposition and its object, providing additional information about the verb, adjective, or adverb in the sentence",
+            "defineVi": "một nhóm từ có chức năng như một trạng từ và bao gồm một giới từ và tân ngữ của nó, cung cấp thêm thông tin về động từ, tính từ hoặc trạng từ trong câu"
+        },
+        {
+            "id": "12a09a46-6f15-43fd-8766-ed2b51540bc3",
+            "word": "noun clause",
+            "phonetic": "naʊn klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm91biBjbGF1c2U&hash=7542f332d4eec7ff30986949b478ec4082a2fd08&lang=en&cache-only=0",
+            "defineEn": "a dependent clause that functions as a noun in a sentence, typically serving as the subject or object of a verb or as the object of a preposition",
+            "defineVi": "một mệnh đề phụ thuộc có chức năng như một danh từ trong câu, thường đóng vai trò là chủ ngữ hoặc tân ngữ của động từ hoặc là tân ngữ của giới từ"
+        },
+        {
+            "id": "e040c4f7-734a-475b-8c11-bf929db1a19a",
+            "word": "noun phrase",
+            "phonetic": "naʊn fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm91biBwaHJhc2U&hash=564ccbbca20e416060ba278a9823cd677a1b90e1&lang=en&cache-only=0",
+            "defineEn": "a group of words centered around a noun that functions as a subject, object, or complement in a sentence, typically consisting of the noun itself along with any accompanying determiners, modifiers, or adjectives",
+            "defineVi": "một nhóm từ xoay quanh một danh từ có chức năng như một chủ ngữ, tân ngữ hoặc bổ ngữ trong câu, thường bao gồm chính danh từ đó cùng với bất kỳ từ hạn định, bổ ngữ hoặc tính từ đi kèm nào"
+        },
+        {
+            "id": "2be69170-89b2-433f-95fb-5d9e70c54012",
+            "word": "infinitive clause",
+            "phonetic": "ɪnfɪnᵻtɪv klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5maW5pdGl2ZSBjbGF1c2U&hash=35402a969b796db8ce275c827845babb690b54cb&lang=en&cache-only=0",
+            "defineEn": "a type of subordinate clause that uses an infinitive verb form as its main element and can function as a noun, adjective, or adverb in a sentence",
+            "defineVi": "một loại mệnh đề phụ sử dụng dạng động từ nguyên mẫu làm thành phần chính của nó và có thể hoạt động như một danh từ, tính từ hoặc trạng từ trong câu"
+        },
+        {
+            "id": "aebc9f61-fef4-46d8-a7c8-c625f80b6415",
+            "word": "finite clause",
+            "phonetic": "faɪnaɪt klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZmluaXRlIGNsYXVzZQ&hash=1b5d9e34bfe375780f6e7c58269bc062b0b8834c&lang=en&cache-only=0",
+            "defineEn": "a type of clause that contains a finite verb, which indicates tense, mood, and agreement with the subject, and can function as a complete sentence on its own",
+            "defineVi": "một loại mệnh đề có chứa một động từ hữu hạn, biểu thị căng thẳng, tâm trạng và sự đồng ý với chủ ngữ và có thể tự hoạt động như một câu hoàn chỉnh"
+        },
+        {
+            "id": "59248cd9-52e8-4db4-9c1b-6ba714ca7a6d",
+            "word": "gerund clause",
+            "phonetic": "dʒɛɹʌnd klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2VydW5kIGNsYXVzZQ&hash=9c9b47063b236c71a97d119408123f2707ad0171&lang=en&cache-only=0",
+            "defineEn": "a type of clause that includes a gerund, which is a verb form ending in \"-ing\" that functions as a noun, and it can act as a subject, object, or complement in a sentence",
+            "defineVi": "một loại mệnh đề bao gồm một danh động từ, là dạng động từ kết thúc bằng \"-ing\" có chức năng như một danh từ và nó có thể đóng vai trò là chủ ngữ, tân ngữ hoặc bổ ngữ trong câu"
+        },
+        {
+            "id": "e92da503-1f89-4d12-8222-1bc757fceadd",
+            "word": "syntactic pivot",
+            "phonetic": "sɪntæktɪk pɪvət ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ludGFjdGljIHBpdm90&hash=07876d363cf4fad2be6c3ff22d71cc75a65e0156&lang=en&cache-only=0",
+            "defineEn": "a grammatical role or syntactic function that a word or phrase can take in different clauses within a sentence, often in a pivot construction",
+            "defineVi": "một vai trò ngữ pháp hoặc chức năng cú pháp mà một từ hoặc cụm từ có thể đảm nhận trong các mệnh đề khác nhau trong một câu, thường là trong một cấu trúc trục"
+        },
+        {
+            "id": "1358c7ce-29b3-4def-8edf-13ad4e230def",
+            "word": "movement rule",
+            "phonetic": "muːvmənt ɹuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW92ZW1lbnQgcnVsZQ&hash=4c4968f222cb78c95da481d42dfdc0519b44343b&lang=en&cache-only=0",
+            "defineEn": "a syntactic operation that allows constituents to be displaced from their base position to another position in a sentence, often resulting in changes in word order or phrase structure",
+            "defineVi": "một hoạt động cú pháp cho phép các thành phần được chuyển từ vị trí cơ bản của chúng sang vị trí khác trong câu, thường dẫn đến thay đổi trật tự từ hoặc cấu trúc cụm từ"
+        },
+        {
+            "id": "6ab1c900-843d-4be9-ad83-bbaba8365994",
+            "word": "double negative",
+            "phonetic": "dʌbəl nɛɡətɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "One of the most maligned features of AAE's grammar is the so-called double negative.",
+                "A double positive and a double negative both result in a positive."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZG91YmxlIG5lZ2F0aXZl&hash=18f882339874384cec24feb73c37ce9d196c53ce&lang=en&cache-only=0",
+            "defineEn": "a positive statement that contains two negative elements to produce an emphatic effect",
+            "defineVi": "một tuyên bố tích cực có chứa hai yếu tố tiêu cực để tạo ra một hiệu ứng nhấn mạnh"
+        },
+        {
+            "id": "79dd14af-c5c3-4489-ac23-43c2ed83ad31",
+            "word": "modifier",
+            "phonetic": "mɑːdɪfaɪɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I would definitely have to get used to it or like assign like a modifier that I could press and drag or something."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9kaWZpZXI&hash=0932d8d72fa14b17febb214f4429645fa8dfa002&lang=en&cache-only=0",
+            "defineEn": "a word or phrase that provides additional information or clarification to another element in a sentence, often specifying, describing, or limiting its meaning",
+            "defineVi": "một từ hoặc cụm từ cung cấp thông tin bổ sung hoặc làm rõ cho một thành phần khác trong câu, thường xác định, mô tả hoặc giới hạn ý nghĩa của nó"
+        },
+        {
+            "id": "0315803a-8bf6-4786-b834-ce624b87ad90",
+            "word": "tag question",
+            "phonetic": "tæɡ kwɛstʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFnIHF1ZXN0aW9u&hash=815a51b1707c3ecd184f85118df0ec8a6fe7ed3a&lang=en&cache-only=0",
+            "defineEn": "(grammar) a short question added to the end of a statement that is formed form the same statement",
+            "defineVi": "(ngữ pháp) một câu hỏi ngắn được thêm vào cuối một câu được hình thành từ cùng một câu"
+        },
+        {
+            "id": "e3645a5d-ce02-4d5b-b34c-a63f6fd6d705",
+            "word": "A-not-A question",
+            "phonetic": "eɪnɑːɾə kwɛstʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=QS1ub3QtQSBxdWVzdGlvbg&hash=ac3ea998e197c835321aa7a9293f8f061b8cb210&lang=en&cache-only=0",
+            "defineEn": "a type of question structure in which the speaker presents two alternative choices or possibilities, typically using the same verb or adjective in both options, to inquire about the truth or preference of the statement",
+            "defineVi": "một loại cấu trúc câu hỏi trong đó người nói trình bày hai lựa chọn hoặc khả năng thay thế, thường sử dụng cùng một động từ hoặc tính từ trong cả hai lựa chọn, để hỏi về sự thật hoặc sở thích của tuyên bố"
+        },
+        {
+            "id": "8557b00f-6118-4816-b8bc-8721000cc016",
+            "word": "rising declarative",
+            "phonetic": "ɹaɪzɪŋ dᵻklæɹətɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmlzaW5nIGRlY2xhcmF0aXZl&hash=77cd98951f25c139c616eece0ea1d613d8542182&lang=en&cache-only=0",
+            "defineEn": "a sentence structure where the pitch contour of the speaker's voice rises at the end, typically transforming a statement into a question-like intonation pattern, often used for seeking confirmation or expressing uncertainty",
+            "defineVi": "một cấu trúc câu trong đó đường viền cao độ của giọng nói của người nói tăng lên ở cuối, thường biến một câu nói thành một mẫu ngữ điệu giống như câu hỏi, thường được sử dụng để tìm kiếm sự xác nhận hoặc thể hiện sự không chắc chắn"
+        },
+        {
+            "id": "484d0079-ed4a-4da1-84a5-08cd68ab5095",
+            "word": "yes-no question",
+            "phonetic": "jɛsnoʊ kwɛstʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=eWVzLW5vIHF1ZXN0aW9u&hash=3d58934ba4ac6f165884646e018d1858777cb049&lang=en&cache-only=0",
+            "defineEn": "a sentence structure used to inquire about information or seek confirmation, typically involving a verb-subject inversion and a question intonation pattern, and can be answered with a simple \"yes\" or \"no\"",
+            "defineVi": "một cấu trúc câu được sử dụng để hỏi về thông tin hoặc tìm kiếm sự xác nhận, thường liên quan đến đảo ngữ động từ-chủ ngữ và một mẫu ngữ điệu câu hỏi, và có thể được trả lời đơn giản bằng \"có\" hoặc \"không\""
+        },
+        {
+            "id": "0efd2c9e-0fbf-4cd1-b962-c26be786d675",
+            "word": "echo question",
+            "phonetic": "ɛkoʊ kwɛstʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWNobyBxdWVzdGlvbg&hash=8ef1277d99591bf5b0bcd3a95b9f5cffa578c0bd&lang=en&cache-only=0",
+            "defineEn": "a type of question that repeats or echoes part of a previous statement or question as a way of seeking clarification or emphasis",
+            "defineVi": "một loại câu hỏi lặp lại hoặc lặp lại một phần của câu hoặc câu hỏi trước đó như một cách để làm rõ hoặc nhấn mạnh"
+        },
+        {
+            "id": "33f5746e-fe80-4ec2-937d-1035ef43271c",
+            "word": "predicative expression",
+            "phonetic": "pɹɪdɪkətɪv ɛkspɹɛʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlZGljYXRpdmUgZXhwcmVzc2lvbg&hash=32aa7498e62e5439378dc615c35abacf081dd910&lang=en&cache-only=0",
+            "defineEn": "a grammatical construction that describes or attributes a property to the subject of a sentence",
+            "defineVi": "một cấu trúc ngữ pháp mô tả hoặc gán một thuộc tính cho chủ ngữ của câu"
+        },
+        {
+            "id": "c5ef5ad0-aacb-4dcd-83fb-6e31b3614029",
+            "word": "predicate-argument structure",
+            "phonetic": "pɹɛdᵻkeɪtɑːɹɡjuːmənt stɹʌktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlZGljYXRlLWFyZ3VtZW50IHN0cnVjdHVyZQ&hash=15ec8759192a7f4a35356163468cbd5b4473fe88&lang=en&cache-only=0",
+            "defineEn": "the relationship between a predicate and its associated arguments, describing how they are semantically and syntactically connected within a sentence",
+            "defineVi": "mối quan hệ giữa một vị ngữ và các đối số liên quan của nó, mô tả cách chúng được kết nối về mặt ngữ nghĩa và cú pháp trong một câu"
+        },
+        {
+            "id": "41bae024-b389-4f13-a0da-c10a6a3d02b5",
+            "word": "wh-movement",
+            "phonetic": "dʌbəljuːeɪtʃmuːvmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d2gtbW92ZW1lbnQ&hash=a49666dbfe77437138248b545c070f157e790173&lang=en&cache-only=0",
+            "defineEn": "a syntactic process where a wh-word moves from its original position to the beginning of a sentence or a clause for the purpose of forming a question or a relative clause",
+            "defineVi": "một quá trình cú pháp trong đó wh-word di chuyển từ vị trí ban đầu của nó đến đầu câu hoặc mệnh đề với mục đích tạo thành câu hỏi hoặc mệnh đề quan hệ"
+        },
+        {
+            "id": "de2beb90-f2e5-4604-9898-d583abf5d968",
+            "word": "preposition stranding",
+            "phonetic": "pɹɛpəzɪʃən stɹændɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJlcG9zaXRpb24gc3RyYW5kaW5n&hash=d04a42576f3245259716ea3da9549d4debe1ebcf&lang=en&cache-only=0",
+            "defineEn": "a syntactic construction where the preposition is separated from its complement and placed at the end of a sentence or clause",
+            "defineVi": "một cấu trúc cú pháp trong đó giới từ được tách ra khỏi bổ ngữ của nó và được đặt ở cuối câu hoặc mệnh đề"
+        },
+        {
+            "id": "f70f16d3-0049-4de1-8614-2ed5bd932f44",
+            "word": "branching",
+            "phonetic": "bɹæntʃɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The branching of iso-octane leads to a very different base peak from octane.",
+                "These fungi have countless branching, thread-like hyphae that together make up the mycelium.",
+                "The evolution of evolutionary thinking has gone from a simple linear model to an increasingly complex branching tree and now a braided stream.",
+                "They also form massive branching networks of the fungal threads, called mycelium, that can extend thousands of acres, connecting entire forests.",
+                "Mankind later found the sequence everywhere in nature, from sunflower seeds and flower petal arrangements, to the structure of a pineapple, even the branching of bronchi in the lungs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJhbmNoaW5n&hash=df133c4f7a3102916b9e929fa37ab62394056d46&lang=en&cache-only=0",
+            "defineEn": "the structural arrangement of constituents within a sentence, where a constituent can branch into multiple sub-constituents, indicating a hierarchical relationship and the presence of multiple levels of syntactic structure",
+            "defineVi": "sự sắp xếp cấu trúc của các thành phần trong một câu, trong đó một thành phần có thể phân nhánh thành nhiều thành phần phụ, biểu thị mối quan hệ thứ bậc và sự hiện diện của nhiều cấp độ cấu trúc cú pháp"
+        },
+        {
+            "id": "2a7618a5-892f-4252-b5ee-5d25aa12ac6f",
+            "word": "pied-piping",
+            "phonetic": "paɪdpaɪpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGllZC1waXBpbmc&hash=b8b0269748fd0f443e4fe57246cddf0a9d2112bc&lang=en&cache-only=0",
+            "defineEn": "a syntactic construction where a preposition or a wh-word, along with its associated noun or phrase, is moved to the front of a sentence, creating a more marked or emphasized structure",
+            "defineVi": "một cấu trúc cú pháp trong đó một giới từ hoặc một từ wh, cùng với danh từ hoặc cụm từ liên quan của nó, được di chuyển lên phía trước câu, tạo ra một cấu trúc được đánh dấu hoặc nhấn mạnh hơn"
+        },
+        {
+            "id": "ee8a52a7-6724-439a-b570-89a64ae2e7a0",
+            "word": "adposition phrase",
+            "phonetic": "ɐdpəzɪʃən fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRwb3NpdGlvbiBwaHJhc2U&hash=27bc90fac6e1288d3161b57811ad150e1a28fbe7&lang=en&cache-only=0",
+            "defineEn": "a phrase that consists of an adposition and its complement, which can be a noun, pronoun, or noun phrase, and functions to indicate spatial, temporal, or other relationships between elements in a sentence",
+            "defineVi": "một cụm từ bao gồm một giới từ và bổ ngữ của nó, có thể là một danh từ, đại từ hoặc cụm danh từ và có chức năng biểu thị các mối quan hệ không gian, thời gian hoặc các mối quan hệ khác giữa các thành phần trong câu"
+        },
+        {
+            "id": "39c8656e-4ee7-41d3-83f5-2dce079fea40",
+            "word": "inflectional phrase",
+            "phonetic": "ɪnflɛkʃənəl fɹeɪz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aW5mbGVjdGlvbmFsIHBocmFzZQ&hash=d9f7efb8402cb8fa2e821d537447e3513068796a&lang=en&cache-only=0",
+            "defineEn": "a syntactic structure that represents the inflectional properties of a word or phrase, including features such as tense, number, gender, and case, and is often associated with the functional category of a head word in a sentence",
+            "defineVi": "một cấu trúc cú pháp đại diện cho các thuộc tính thay thế của một từ hoặc cụm từ, bao gồm các tính năng như căng thẳng, số lượng, giới tính và trường hợp và thường được liên kết với danh mục chức năng của từ đầu trong câu"
+        },
+        {
+            "id": "78414f51-1546-4744-910f-0ba6f938bf11",
+            "word": "parasitic gap",
+            "phonetic": "pæɹəsɪɾɪk ɡæp ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGFyYXNpdGljIGdhcA&hash=666e6ea2077c9f2efd2f83de62918b79e55fc7b1&lang=en&cache-only=0",
+            "defineEn": "a type of syntactic construction in which a gap or empty position occurs in a sentence, typically within a relative clause, and is licensed by a distant antecedent outside that clause",
+            "defineVi": "một kiểu cấu trúc cú pháp trong đó một khoảng trống hoặc vị trí trống xuất hiện trong câu, điển hình là trong mệnh đề quan hệ và được cấp phép bởi một tiền đề xa bên ngoài mệnh đề đó"
+        },
+        {
+            "id": "9993c8ef-0236-402b-91ed-3b9c3e7e9567",
+            "word": "head-directionality parameter",
+            "phonetic": "hɛddᵻɹɛkʃənælᵻɾi pɚɹæmɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGVhZC1kaXJlY3Rpb25hbGl0eSBwYXJhbWV0ZXI&hash=4eb68f8e0f2b20bc1ad016e0e710f2dc2acc776b&lang=en&cache-only=0",
+            "defineEn": "a linguistic concept that refers to the variation in languages regarding the directionality of phrase structure, determining whether heads typically precede or follow their dependents within a sentence",
+            "defineVi": "một khái niệm ngôn ngữ đề cập đến sự thay đổi trong các ngôn ngữ liên quan đến tính định hướng của cấu trúc cụm từ, xác định xem các phần đầu thường đứng trước hay theo sau các phần phụ thuộc của chúng trong một câu"
+        },
+        {
+            "id": "3057f892-852c-4ea5-b9e0-c1081764b590",
+            "word": "empty category",
+            "phonetic": "ɛmpti kæɾɪɡɚɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZW1wdHkgY2F0ZWdvcnk&hash=f6617aff325d95beb737481431fd6d576583a31c&lang=en&cache-only=0",
+            "defineEn": "a syntactic position in a sentence that is not overtly realized by a word or phrase, but is necessary for grammatical structure and interpretation",
+            "defineVi": "một vị trí cú pháp trong một câu không được nhận ra một cách công khai bởi một từ hoặc cụm từ, nhưng cần thiết cho cấu trúc ngữ pháp và giải thích"
+        },
+        {
+            "id": "3c152674-ea6b-417a-994a-ebb604e84cad",
+            "word": "adjective clause",
+            "phonetic": "ædʒɪktɪv klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWRqZWN0aXZlIGNsYXVzZQ&hash=38293c6b8da20202617bceedbd8f99b632284a3d&lang=en&cache-only=0",
+            "defineEn": "a dependent clause that functions as an adjective, modifying a noun or pronoun by providing additional information or describing its attributes",
+            "defineVi": "một mệnh đề phụ thuộc có chức năng như một tính từ, sửa đổi một danh từ hoặc đại từ bằng cách cung cấp thông tin bổ sung hoặc mô tả các thuộc tính của nó"
+        },
+        {
+            "id": "fe899352-1e3d-467e-acf0-77984c270a58",
+            "word": "inversion",
+            "phonetic": "ɪnvɜːʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the inversion is really just the beginning of the recession warning.",
+                "The yield curve inversion I would not read too much into.",
+                "Given the yield curve inversion We inverted back in March",
+                "And perhaps most notably, after a 2006 yield curve inversion, his model accurately predicted the 2007 downturn that became the Great Recession.",
+                "Yes, we now have an inversion Even if the yield curve inversion happens again and happens persistently"
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW52ZXJzaW9u&hash=36415f1d7399cb0f4c52f4046ac43a7166a0d8cd&lang=en&cache-only=0",
+            "defineEn": "a change in normal word order, especially putting a verb before its subject",
+            "defineVi": "một sự thay đổi trong trật tự từ bình thường, đặc biệt là đặt một động từ trước chủ đề của nó"
+        },
+        {
+            "id": "de48d8f6-9f02-4de2-90e9-21ba8cc69082",
+            "word": "negative inversion",
+            "phonetic": "nɛɡətɪv ɪnvɜːʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVnYXRpdmUgaW52ZXJzaW9u&hash=7cce483d433ffe84538ca3aee6a23ecf32085b0f&lang=en&cache-only=0",
+            "defineEn": "a syntactic construction in which the negative particle and the subject of a sentence are inverted, often occurring in certain types of negated questions or sentences with negative adverbial expressions at the beginning",
+            "defineVi": "một cấu trúc cú pháp trong đó hạt phủ định và chủ ngữ của câu được đảo ngược, thường xuất hiện trong một số loại câu hỏi phủ định hoặc câu có biểu thức trạng từ phủ định ở đầu"
+        },
+        {
+            "id": "fd725cac-8f5f-4447-ae07-327662972eb1",
+            "word": "valency",
+            "phonetic": "veɪlənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dmFsZW5jeQ&hash=8fad8b835a82ce5e639406f01716f31071270c7b&lang=en&cache-only=0",
+            "defineEn": "the number and types of arguments that a verb can take in a sentence, determining the syntactic and semantic relationships between the verb and its arguments",
+            "defineVi": "số lượng và loại đối số mà động từ có thể đảm nhận trong câu, xác định mối quan hệ cú pháp và ngữ nghĩa giữa động từ và đối số của nó"
+        },
+        {
+            "id": "5fd89b5f-4dac-40ab-b6ec-7b492e694e5f",
+            "word": "elliptical clause",
+            "phonetic": "ɪlɪptɪkəl klɔːz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWxsaXB0aWNhbCBjbGF1c2U&hash=03c17d02f185f295a6a574853aab5a4ca1e01ea5&lang=en&cache-only=0",
+            "defineEn": "a type of clause in which some elements, usually the verb or other parts of the clause, are omitted, but their meaning is understood from the context",
+            "defineVi": "một loại mệnh đề trong đó một số thành phần, thường là động từ hoặc các phần khác của mệnh đề, bị bỏ qua, nhưng ý nghĩa của chúng được hiểu theo ngữ cảnh"
+        },
+        {
+            "id": "3436cc1a-7e2d-4e83-b420-6e73af253c90",
+            "word": "sluicing",
+            "phonetic": "sluːsɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2x1aWNpbmc&hash=a5c78b9ae3e6a24c9e2c3035df38eb26d3fa752c&lang=en&cache-only=0",
+            "defineEn": "a syntactic construction in which a question or a clause is reduced to a wh-phrase or a wh-word, leaving the rest of the sentence or the antecedent of the wh-phrase unpronounced but recoverable from the context",
+            "defineVi": "một cấu trúc cú pháp trong đó một câu hỏi hoặc một mệnh đề được rút gọn thành một cụm từ wh hoặc một từ wh, khiến phần còn lại của câu hoặc tiền đề của cụm từ wh không được phát âm nhưng có thể phục hồi được từ ngữ cảnh"
+        },
+        {
+            "id": "a02d19ab-35b7-426c-905d-5981faa2d150",
+            "word": "subject-auxiliary inversion",
+            "phonetic": "sʌbdʒɛktɔːksɪliəɹi ɪnvɜːʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3ViamVjdC1hdXhpbGlhcnkgaW52ZXJzaW9u&hash=3327c2bd3fc5353f971adca590f518fb8ba53c39&lang=en&cache-only=0",
+            "defineEn": "a syntactic phenomenon that involves reversing the order of the subject and auxiliary verb in a sentence, typically occurring in interrogative sentences, negation, and certain other sentence structures",
+            "defineVi": "một hiện tượng cú pháp liên quan đến việc đảo ngược thứ tự của chủ ngữ và trợ động từ trong câu, thường xảy ra trong câu nghi vấn, câu phủ định và một số cấu trúc câu khác"
+        }
+    ]
+}

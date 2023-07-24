@@ -1,0 +1,782 @@
+{
+    "id": "d8bb608f-81de-4ca2-9bf0-20d6cbee108e",
+    "title": "Morphology and Lexicology",
+    "originalTitle": "Morphology and Lexicology",
+    "words": [
+        {
+            "id": "18a765d6-5d0a-43e3-818d-0db1d8b98969",
+            "word": "abbreviation",
+            "phonetic": "ɐbɹiːvɪeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Programming languages like Python and C++ are kind of like languages, because they contain words and abbreviations that follow rules like grammar.",
+                "It’s now known as the K-Pg Extinction, after the German abbreviation for Cretaceous and Paleogene, the two periods whose boundary is marked by this event.",
+                "Which is why you have heard of polymerized tetrafluoroethylene, because it's super useful, either by its abbreviation, PTFE, or by its brand name Teflon.",
+                "So it was never really a big joke but it was in joke form and was enough of a distraction for the people to forget what we were doing so that when I go back to A L as the abbreviation people are like, oh man, that's a weird dude right there.",
+                "Well, when you factor in the number of letters, the variety of possible related words, and all their abbreviations and alternate spellings, they're pretty high."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWJicmV2aWF0aW9u&hash=b889ef5f89e198cf3384f795b910d95700ce5e6e&lang=en&cache-only=0",
+            "defineEn": "the shortened form of a word, etc.",
+            "defineVi": "dạng rút gọn của một từ, v.v."
+        },
+        {
+            "id": "39ead0a6-faa5-4f4b-a9ae-b081e9b2f2b0",
+            "word": "affixation",
+            "phonetic": "ɐfɪkseɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWZmaXhhdGlvbg&hash=f3d0c7acccf3b3afcd764b5eb85e949434f5c99f&lang=en&cache-only=0",
+            "defineEn": "a process in morphology where affixes, which are bound morphemes, are attached to a base or root morpheme to create new words or modify the meaning or grammatical function of existing words",
+            "defineVi": "một quá trình hình thái học trong đó các phụ tố, là các hình vị liên kết, được gắn vào một hình vị cơ sở hoặc gốc để tạo từ mới hoặc sửa đổi ý nghĩa hoặc chức năng ngữ pháp của các từ hiện có"
+        },
+        {
+            "id": "9688582d-8372-47c6-affa-e28a3b8b664b",
+            "word": "affix",
+            "phonetic": "ɐfɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Affixes can sometimes go inside a word.",
+                "But morphology isn’t always neat little packages of affixes.",
+                "The basic thinking was that the Moon, Sun, and stars were affixed to crystal spheres that spun around the Earth at different rates.",
+                "Sometimes one affix can hold more than one piece of information.",
+                "To further broaden our idea of morphology, we should mention, there are ways of building meaning in words that go beyond adding affixes all in a single row."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWZmaXg&hash=a67d39aa248436efc4f7a63f67c33e1096d57a6c&lang=en&cache-only=0",
+            "defineEn": "(grammar) a letter or group of letters added to the end or beginning of a word to change its meaning",
+            "defineVi": "(ngữ pháp) một chữ cái hoặc một nhóm chữ cái được thêm vào cuối hoặc đầu một từ để thay đổi nghĩa của từ đó"
+        },
+        {
+            "id": "96d0452a-aaef-44b6-9efb-741bb842e21f",
+            "word": "contraction",
+            "phonetic": "kəntɹækʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My contractions are about 15 minutes apart.",
+                "Length contraction, in contrast, compares positions at the same time according to the new perspective.",
+                "I’m having contractions this morning.",
+                "Length contraction, on the other hand, is a tad more complicated.",
+                "The Swedish government expects an economic contraction as deep as during the global financial crisis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udHJhY3Rpb24&hash=c6bef29a90618d4400ef7c31246a73b4d7b798b8&lang=en&cache-only=0",
+            "defineEn": "a short form of a word or a group of words used instead of the full form",
+            "defineVi": "một hình thức ngắn của một từ hoặc một nhóm các từ được sử dụng thay vì hình thức đầy đủ"
+        },
+        {
+            "id": "f74d816e-eb26-4928-859b-a57702681e32",
+            "word": "prefix",
+            "phonetic": "pɹiːfɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you have three carbons, the prefix is prop-.",
+                "Prop is our prefix.",
+                "It's in a ring, so we add the prefix cyclo- to it.",
+                "So we'll be dealing with hex- as a prefix.",
+                "The prefix 'ana' means 'back' that may help you remember the name of this phase, called anaphase."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJlZml4&hash=ccc1455a9211a747227c3049b670f1cc86d7648f&lang=en&cache-only=0",
+            "defineEn": "(grammar) a letter or a set of letters that are added to the beginning of a word to alter its meaning and make a new word",
+            "defineVi": "(ngữ pháp) một chữ cái hoặc một tập hợp các chữ cái được thêm vào đầu một từ để thay đổi nghĩa của từ đó và tạo ra một từ mới"
+        },
+        {
+            "id": "cc37bf42-44ec-432a-a2ca-422b534305f1",
+            "word": "ending",
+            "phonetic": "ɛndɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The film had a surprisingly emotional ending, leaving the audience in tears.",
+                "The book had a different ending than she expected.",
+                "\"Let's start our project with a clear plan and a positive attitude, because a good beginning makes a good ending,\" said the team leader.",
+                "That said, I have to admit that the ending was extremely clever.",
+                "The ending's a giant joke."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5kaW5n&hash=3a3133ef939b5b4a285429852c7453dc514c496f&lang=en&cache-only=0",
+            "defineEn": "the last part of a word, added to the main part",
+            "defineVi": "phần cuối cùng của một từ, được thêm vào phần chính"
+        },
+        {
+            "id": "aec102a4-f2dc-4d45-983b-fb1b022a19b3",
+            "word": "suffix",
+            "phonetic": "sʌfɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So it actually, the suffix of the word will involve the alcohol part.",
+                "The Russian Internet is called Runet because of the RU suffix.",
+                "At the end of the Old English period in the 1100s, English speakers dropped a lot of suffixes, changing the language’s grammar.",
+                "If you thought conjugating verbs with different suffixes was hard - imagine having to learn a completely different word each time!",
+                "Chemistry has a system of prefixes, suffixes, and numerals to tell you, in a word or two, the exact composition of an atom, or a compound."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VmZml4&hash=71c83b1a9e4b41aad34aae420ab2628fe739285f&lang=en&cache-only=0",
+            "defineEn": "(grammar) a letter or a set of letters that are added to the end of a word to alter its meaning and make a new word",
+            "defineVi": "(ngữ pháp) một chữ cái hoặc một tập hợp các chữ cái được thêm vào cuối một từ để thay đổi nghĩa của từ đó và tạo ra một từ mới"
+        },
+        {
+            "id": "564d06d4-1ad9-4a1b-9362-fac44f352108",
+            "word": "acronym",
+            "phonetic": "ækɹənɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Explaining acronyms?",
+                "SEAL is an acronym for Sea, Air and Land.",
+                "But the best thing for OCD in my opinion is another acronym.",
+                "- It's an acronym.",
+                "There is no acronym."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNyb255bQ&hash=44bb79759a5ee89eaf36fbbc2f13ee88f5c81f59&lang=en&cache-only=0",
+            "defineEn": "an abbreviation formed from the initial letters of a group of words, which can be pronounced as a word",
+            "defineVi": "một từ viết tắt được hình thành từ các chữ cái đầu tiên của một nhóm từ, có thể được phát âm là một từ"
+        },
+        {
+            "id": "df0f3b57-492f-4ab3-86e2-f7faa8298570",
+            "word": "blending",
+            "phonetic": "blɛndɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The last thing is the blending on the face.",
+                "It was actually a blending.",
+                "He’s the perfect blending of establishment and sort of red state-based politics in terms of his ideological views.",
+                "- It was this blending of styles that gave birth to brick city club music, which quickly became popular across the state of New Jersey.",
+                "[Nahre] Electronic dance music has always been fertile ground for the blending of musical genres."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxlbmRpbmc&hash=d1e47b514cfd039d1d32942b776a264cbd281d27&lang=en&cache-only=0",
+            "defineEn": "a process in language where two or more words are combined to create a new word that retains elements or sounds from the original words",
+            "defineVi": "một quá trình trong ngôn ngữ trong đó hai hoặc nhiều từ được kết hợp để tạo ra một từ mới giữ lại các yếu tố hoặc âm thanh từ các từ gốc"
+        },
+        {
+            "id": "48652fb2-0ef2-4218-ac3e-0ab41371b327",
+            "word": "neologism",
+            "phonetic": "niːoʊlədʒɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVvbG9naXNt&hash=a7dab85d083eb4bea3d8aebfbf62c3673d95ddd7&lang=en&cache-only=0",
+            "defineEn": "the process of inventing a word",
+            "defineVi": "quá trình phát minh ra một từ"
+        },
+        {
+            "id": "24c22f45-ac77-4f97-b85d-5e158a94dfc2",
+            "word": "numeronym",
+            "phonetic": "nuːmɚɹɑːnɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bnVtZXJvbnlt&hash=90d886ca147bec5d5d99e7bf761606264f16275d&lang=en&cache-only=0",
+            "defineEn": "a type of abbreviation in which a word or phrase is represented by a series of numbers, with the numbers typically corresponding to the number of letters omitted between the first and last letter of the word or phrase",
+            "defineVi": "một kiểu viết tắt trong đó một từ hoặc cụm từ được biểu thị bằng một dãy số, với các số thường tương ứng với số lượng chữ cái bị bỏ qua giữa chữ cái đầu tiên và chữ cái cuối cùng của từ hoặc cụm từ đó"
+        },
+        {
+            "id": "1b41c503-57f4-4d3e-90b1-2f0e7f208d30",
+            "word": "bound morpheme",
+            "phonetic": "baʊnd mɔːɹfiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym91bmQgbW9ycGhlbWU&hash=b954bbbc70fda654adeff173ef1256d2e8a9223b&lang=en&cache-only=0",
+            "defineEn": "a morpheme that cannot stand alone as an independent word and must be attached to other morphemes to convey meaning",
+            "defineVi": "một hình vị không thể đứng một mình như một từ độc lập và phải được gắn với các hình vị khác để truyền đạt ý nghĩa"
+        },
+        {
+            "id": "6228d95c-4704-42d9-ab3d-10b43068db61",
+            "word": "circumfix",
+            "phonetic": "sɜːkəmfɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The meaning of the word changes only with the addition of both parts of the circumfix."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2lyY3VtZml4&hash=c87c3395a3682dc5bb9211cfb73db34e1c79c346&lang=en&cache-only=0",
+            "defineEn": "a type of affix that consists of two parts, one attached to the beginning of a word and the other attached to the end",
+            "defineVi": "một loại phụ tố bao gồm hai phần, một phần gắn vào đầu từ và phần còn lại gắn vào phần cuối"
+        },
+        {
+            "id": "f517d17f-90b7-4f5e-aadf-c99478fee618",
+            "word": "transfixation",
+            "phonetic": "tɹænsfɪkseɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNmaXhhdGlvbg&hash=e84c47e22f6b064cb772dade641abb926475fca6&lang=en&cache-only=0",
+            "defineEn": "a morphological process in which a segment or a group of segments is inserted within a word, typically resulting in a change of the word's meaning or grammatical category",
+            "defineVi": "một quá trình hình thái trong đó một phân đoạn hoặc một nhóm các phân đoạn được chèn vào trong một từ, thường dẫn đến sự thay đổi nghĩa của từ hoặc loại ngữ pháp"
+        },
+        {
+            "id": "705ad20a-d6d9-4a29-810d-08519ac81d23",
+            "word": "analogy",
+            "phonetic": "ɐnælədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But the analogy holds.",
+                "I love that analogy.",
+                "The analogies are tricky.",
+                "My analogies always break down at some point.",
+                "So we use that analogy all the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5hbG9neQ&hash=d8ab8bde43f0e69306310147a7253c7e80936196&lang=en&cache-only=0",
+            "defineEn": "(linguistics) a process by which a new word or inflection is formed according to existing rules and regulations",
+            "defineVi": "(ngôn ngữ học) một quá trình mà một từ mới hoặc biến thể được hình thành theo các quy tắc và quy định hiện có"
+        },
+        {
+            "id": "ce6e769a-a707-4af2-9297-579de2166d89",
+            "word": "neologism",
+            "phonetic": "kɔɪnɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmVvbG9naXNt&hash=a7dab85d083eb4bea3d8aebfbf62c3673d95ddd7&lang=en&cache-only=0",
+            "defineEn": "the process of inventing a word",
+            "defineVi": "quá trình phát minh ra một từ"
+        },
+        {
+            "id": "b67c72f0-5fc1-4c41-85fd-7fdc83947892",
+            "word": "stem",
+            "phonetic": "stɛm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The gardener carefully wrapped the stem of the young tree with burlap to protect it from frost during winter.",
+                "They admired the sturdy stem of the oak tree, providing support to its branches and leaves.",
+                "As the rain poured, the thirsty plant absorbed water through its roots, nourishing its leaves and stems.",
+                "The differences in these properties stem mostly from the differences in their polarities.",
+                "And the stem contains the tens digits."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RlbQ&hash=e79e90ae543fee54acc6a891bc555e35f4884d87&lang=en&cache-only=0",
+            "defineEn": "the core or base form of a word to which affixes (prefixes, suffixes, infixes, etc.) can be attached",
+            "defineVi": "dạng cốt lõi hoặc cơ sở của một từ có thể gắn thêm (tiền tố, hậu tố, trung tố, v.v.)"
+        },
+        {
+            "id": "b533454e-75a9-45da-9aeb-f9e7f29a64a6",
+            "word": "root",
+            "phonetic": "ɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The laws were reformed root and branch.",
+                "The farmer harvested the tuberous roots of the yam plant.",
+                "Racism must be eliminated, roots and all.",
+                "It's time for a roots and all review of political donations.",
+                "I watched as the pig rooted around in the dirt for food."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9vdA&hash=56abf0681805fefc5383f82410e1a3d71eca084b&lang=en&cache-only=0",
+            "defineEn": "the core lexical unit from which words are derived and carries the central meaning of a word",
+            "defineVi": "đơn vị từ vựng cốt lõi mà từ đó các từ được bắt nguồn và mang ý nghĩa trung tâm của một từ"
+        },
+        {
+            "id": "95141185-83f2-4547-8491-00523ceb4112",
+            "word": "free morpheme",
+            "phonetic": "fɹiː mɔːɹfiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnJlZSBtb3JwaGVtZQ&hash=6fed7d809e36dfce80fbac1ec8fba29d364d47d9&lang=en&cache-only=0",
+            "defineEn": "a morpheme that can function as an independent word in a language",
+            "defineVi": "một hình vị có thể hoạt động như một từ độc lập trong một ngôn ngữ"
+        },
+        {
+            "id": "432a9da3-0023-4135-a6f0-356dd738cbd0",
+            "word": "infix",
+            "phonetic": "ɪnfɪks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This is called an infix, and in English, it primarily happens with swear words or pseudo-swears: fan-hecking-tastic."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5maXg&hash=bd48faf9667eff998101e3a985b0124be25fa86e&lang=en&cache-only=0",
+            "defineEn": "a type of bound morpheme that is inserted within a word, rather than being added as a prefix (before) or a suffix (after)",
+            "defineVi": "một loại hình vị liên kết được chèn vào trong một từ, thay vì được thêm vào dưới dạng tiền tố (trước) hoặc hậu tố (sau)"
+        },
+        {
+            "id": "959e1bac-63d1-42d5-b1cf-35e9bd91fe6d",
+            "word": "clitic",
+            "phonetic": "klɪɾɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2xpdGlj&hash=289b782b7567f76ac7fa25213a5543e563fef639&lang=en&cache-only=0",
+            "defineEn": "a linguistic element that functions as a word but behaves phonologically or syntactically as a bound morpheme, often attaching to other words and lacking independent stress or full syntactic independence",
+            "defineVi": "một yếu tố ngôn ngữ có chức năng như một từ nhưng hoạt động về mặt âm vị học hoặc cú pháp như một hình vị ràng buộc, thường gắn với các từ khác và thiếu trọng âm độc lập hoặc độc lập hoàn toàn về cú pháp"
+        },
+        {
+            "id": "ebf25310-e083-4633-bf57-82607a107683",
+            "word": "word formation",
+            "phonetic": "wɜːd fɔːɹmeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=d29yZCBmb3JtYXRpb24&hash=d17b59a55182b60f20e5b4f58f4402c4139a0660&lang=en&cache-only=0",
+            "defineEn": "the process of creating new words or modifying existing ones through morphological and lexical mechanisms in a language",
+            "defineVi": "quá trình tạo từ mới hoặc sửa đổi những từ hiện có thông qua các cơ chế hình thái và từ vựng trong một ngôn ngữ"
+        },
+        {
+            "id": "85e11d4d-f52c-44aa-8eb2-30180e73e34f",
+            "word": "lexeme",
+            "phonetic": "lɛksiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They call each of these units lexemes or lexical items, because they're the parts of a lexicon, which is another word for dictionary."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGV4ZW1l&hash=44c82a01e62e6344319e4f7fcfc2d3b8e1f42eca&lang=en&cache-only=0",
+            "defineEn": "(linguistics) a basic linguistic unit that is meaningful and underlies a set of words which are related through inflection",
+            "defineVi": "(ngôn ngữ học) một đơn vị ngôn ngữ cơ bản có ý nghĩa và làm cơ sở cho một tập hợp các từ có liên quan với nhau thông qua biến tố"
+        },
+        {
+            "id": "cb6bdb87-36b3-436f-8691-7c4bf7e0f40e",
+            "word": "derivation",
+            "phonetic": "dɛɹɪveɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And you should look up this derivation.",
+                "But if you're super curious, I'll do the derivation at the end of this video.",
+                "I'm not going to do the derivation here, even though it would have been awesome.",
+                "And its derivation will be actually quite similar to the one for springs and swings and things that are oscillating, which shows up a lot in physics.",
+                "The French Revolution asked new questions about the nature of people’s rights and the derivation of those rights."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVyaXZhdGlvbg&hash=6fea0f001dc933d00eb2ac49f6d0a1c4ef285676&lang=en&cache-only=0",
+            "defineEn": "a morphological process in language where new words are formed by adding affixes or making internal modifications to a base or root word, resulting in a change in meaning, part of speech, or both",
+            "defineVi": "một quá trình hình thái học trong ngôn ngữ trong đó các từ mới được hình thành bằng cách thêm các phụ tố hoặc thực hiện các sửa đổi bên trong đối với từ gốc hoặc từ gốc, dẫn đến thay đổi nghĩa, một phần của lời nói hoặc cả hai"
+        },
+        {
+            "id": "d4ac8131-17e9-4595-b399-ff8f4c67fe7e",
+            "word": "inflection",
+            "phonetic": "ɪnflɛkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "What was the inflection point for you? ",
+                "That was the inflection point. ",
+                "And I didn't give it proper inflection.",
+                "We're at a great inflection point in history.",
+                "JANAI NELSON, NAACP Legal Defense and Educational Fund: I'm seeing this verdict as a real inflection point."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5mbGVjdGlvbg&hash=a9dd0cf4e69a6f186f7a791378ee0167c48dc8ac&lang=en&cache-only=0",
+            "defineEn": "(grammar) a change in the structure of a word, usually adding a suffix, according to its grammatical function",
+            "defineVi": "(ngữ pháp) sự thay đổi cấu trúc của từ, thường là thêm hậu tố, tùy theo chức năng ngữ pháp của từ đó"
+        },
+        {
+            "id": "7c3438a9-640c-4c59-92a9-7dd5fc1af008",
+            "word": "back-formation",
+            "phonetic": "bækfɔːɹmeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YmFjay1mb3JtYXRpb24&hash=c3c2279a69a340071ab5eae0a0edb67089f9d64a&lang=en&cache-only=0",
+            "defineEn": "a word-formation process in which a new word is created by removing what is mistakenly perceived as a derivative affix from an existing word, often resulting in a shorter word with a different part of speech",
+            "defineVi": "một quá trình hình thành từ trong đó một từ mới được tạo ra bằng cách loại bỏ những gì bị hiểu nhầm là phụ tố phái sinh từ một từ hiện có, thường dẫn đến một từ ngắn hơn với một phần khác của bài phát biểu"
+        },
+        {
+            "id": "88bee2ea-fe16-40d3-a278-57ba50dc3def",
+            "word": "compounding",
+            "phonetic": "kɑːmpaʊndɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You're going to be continuous compounding.",
+                "This is formula for continuous compounding interest.",
+                "if they save an additional 1% of their salary by deducting $33 from their monthly paycheck and earn 6% compounding interest, they could increase their retirement savings by about $97,944."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcG91bmRpbmc&hash=a3bb25b56971a80fbec9bcf15cd997ac0fa426d9&lang=en&cache-only=0",
+            "defineEn": "a word-formation process in which two or more individual words are combined to create a new word, typically resulting in a compound with a meaning that is related to or derived from the meanings of the individual words",
+            "defineVi": "một quá trình hình thành từ trong đó hai hoặc nhiều từ riêng lẻ được kết hợp để tạo ra một từ mới, thường dẫn đến một từ ghép có nghĩa liên quan đến hoặc bắt nguồn từ nghĩa của các từ riêng lẻ"
+        },
+        {
+            "id": "a035f242-6fc9-45aa-8721-24b4be3e1850",
+            "word": "conversion",
+            "phonetic": "kənvɜːʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But conversion and yield only cover the beginning and end of the process.",
+                "Conversion disorder is also called functional neurologic symptom disorder. ",
+                "Depression and anxiety commonly occur with conversion disorder.",
+                "Engineers define problems like these in terms of conversion and yield.",
+                "We call them conversions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udmVyc2lvbg&hash=e7c313c87d6921a4e0b17587e17604250a84a65a&lang=en&cache-only=0",
+            "defineEn": "a word-formation process in which a word changes its grammatical category or part of speech without any accompanying morphological changes, such as when a noun becomes a verb or a verb becomes a noun",
+            "defineVi": "một quá trình hình thành từ trong đó một từ thay đổi phạm trù ngữ pháp hoặc một phần của bài phát biểu mà không có bất kỳ thay đổi hình thái đi kèm nào, chẳng hạn như khi danh từ trở thành động từ hoặc động từ trở thành danh từ"
+        },
+        {
+            "id": "14416290-dce0-490c-8435-78950a7c3652",
+            "word": "paradigm",
+            "phonetic": "pæɹədaɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And in sociology, theoretical paradigms are key.",
+                "That Reagan paradigm sort of faded away.",
+                "Next time, we'll introduce different theories of society, the basic paradigms of sociology.",
+                "So I expected kind of a similar paradigm.",
+                "Obviously, these three different paradigms provide radically different ways of looking at the social world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyYWRpZ20&hash=59f4cc64a75d3f836a456c299d2907a1c2bad0e4&lang=en&cache-only=0",
+            "defineEn": "a systematic arrangement of inflected forms or word forms that represent the different grammatical variations of a word or morpheme",
+            "defineVi": "một sự sắp xếp có hệ thống của các dạng biến cách hoặc dạng từ đại diện cho các biến thể ngữ pháp khác nhau của một từ hoặc hình vị"
+        },
+        {
+            "id": "a5e45a8e-f4d5-4d8e-ada5-ce87e6e7fb37",
+            "word": "lexicon",
+            "phonetic": "lɛksɪkən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The term has now entered the public lexicon.",
+                "Aztec physicians had an extensive anatomical lexicon.",
+                "This documented the color lexicons of 110 unwritten languages from around the world to try to get more data to support, reject, or modify the basic Kay and Berlin hypothesis.",
+                "And even as colors were introduced into the baby fashion lexicon, there wasn’t a clear cut formula down gender lines.",
+                "They call each of these units lexemes or lexical items, because they're the parts of a lexicon, which is another word for dictionary."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNvbg&hash=67e9824b3d7a865ef94565bb8332e4ea88c6dc4f&lang=en&cache-only=0",
+            "defineEn": "the complete set of meaningful units in a language or a branch of knowledge, or words or phrases that a speaker uses",
+            "defineVi": "tập hợp đầy đủ các đơn vị có ý nghĩa trong một ngôn ngữ hoặc một nhánh kiến thức, hoặc các từ hoặc cụm từ mà người nói sử dụng"
+        },
+        {
+            "id": "5a96c87d-88c4-4b90-9e74-d0d817725ba4",
+            "word": "clipping",
+            "phonetic": "klɪpɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They're reading press clippings and wiring home about them.",
+                "Then, the grown up wasps chew their way out, nibbling the edges away like fingernail clippings.",
+                "- You know, I still have all the newspaper clippings of Dante when he played in high school.",
+                "Or you can sort all that knowledge with one of those conspiracy investigation walls with pushpins, multiple colors of string, and newspaper clippings.",
+                "Okay, in 1988, Princeton University received an admissions application from Alexi Indris-Santana that included some above-average SAT scores, some newspaper clippings for track meets that he had won, showing that he was an incredible runner."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xpcHBpbmc&hash=a2b03e1ac746e912105babb24904724011d30f0d&lang=en&cache-only=0",
+            "defineEn": "a word-formation process in which a word is shortened by removing one or more syllables, usually from the beginning or end, resulting in a new word with the same or similar meaning as the original word",
+            "defineVi": "một quá trình hình thành từ trong đó một từ được rút ngắn bằng cách loại bỏ một hoặc nhiều âm tiết, thường là từ đầu hoặc cuối, dẫn đến một từ mới có nghĩa giống hoặc tương tự như từ gốc"
+        },
+        {
+            "id": "5d7ec8ba-4bb7-4b6a-95f1-4a708476b531",
+            "word": "hypocorism",
+            "phonetic": "haɪpoʊkoːɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aHlwb2NvcmlzbQ&hash=83c53a430f43532210c336ecde81de412891d29b&lang=en&cache-only=0",
+            "defineEn": "a word-formation process in which a word or name is modified to create a shorter, affectionate, or informal version, often used to express familiarity, endearment, or intimacy",
+            "defineVi": "một quá trình hình thành từ trong đó một từ hoặc tên được sửa đổi để tạo ra một phiên bản ngắn hơn, trìu mến hoặc thân mật, thường được sử dụng để thể hiện sự quen thuộc, quý mến hoặc thân mật"
+        },
+        {
+            "id": "c1450f86-a61f-4e15-a5b6-f5d13e5b1e6a",
+            "word": "morphemization",
+            "phonetic": "mɔːɹfɪmᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bW9ycGhlbWl6YXRpb24&hash=b88ecc2eedc6ec7418916cd6ee9bcfecb637db22&lang=en&cache-only=0",
+            "defineEn": "the process of creating or treating a group of phonological segments as a distinct morpheme, which carries meaning and can be combined with other morphemes to form words",
+            "defineVi": "quá trình tạo hoặc xử lý một nhóm các phân đoạn âm vị học như một hình thái riêng biệt, mang ý nghĩa và có thể được kết hợp với các hình thái khác để tạo thành từ"
+        },
+        {
+            "id": "939d536c-6838-4ebe-a983-5c9f813899de",
+            "word": "agglutination",
+            "phonetic": "ɐɡluːtᵻneɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And because antibodies have more than one binding site, they can bind to multiple antigens at the same time, in a process called agglutination."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWdnbHV0aW5hdGlvbg&hash=e7a6b22d214a2536938b45df997764066edc388e&lang=en&cache-only=0",
+            "defineEn": "a morphological process in language where affixes are added to a root or base word in a clear, one-to-one fashion, each affix typically expressing a single grammatical or semantic meaning, resulting in a string of affixes attached to the root without any change in the affixes themselves",
+            "defineVi": "một quá trình hình thái học trong ngôn ngữ trong đó các phụ tố được thêm vào một từ gốc hoặc từ gốc theo kiểu rõ ràng, một đối một, mỗi phụ tố thường biểu thị một ý nghĩa ngữ pháp hoặc ngữ nghĩa duy nhất, dẫn đến một chuỗi các phụ tố được gắn vào từ gốc mà không có bất kỳ thay đổi nào trong bản thân các phụ tố đó"
+        },
+        {
+            "id": "6f876249-c81b-46d6-8624-99738fe7364c",
+            "word": "lexical morpheme",
+            "phonetic": "lɛksɪkəl mɔːɹfiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbCBtb3JwaGVtZQ&hash=878e8362682fd215ff3996918954542018445011&lang=en&cache-only=0",
+            "defineEn": "a type of morpheme that carries the core lexical or semantic meaning of a word",
+            "defineVi": "một loại hình vị mang ý nghĩa từ vựng hoặc ngữ nghĩa cốt lõi của một từ"
+        },
+        {
+            "id": "d491e764-fa19-48ae-a96d-134f7e4bcc91",
+            "word": "vocabulary",
+            "phonetic": "voʊkæbjʊlɛɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They use online resources to study grammar and vocabulary in the language.",
+                "I learn new vocabulary everyday.",
+                "Like take your vocabulary, for example.",
+                "He had accumulated an immense vocabulary.",
+                "And there are dogs with very large vocabularies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm9jYWJ1bGFyeQ&hash=b20e328e0bedbeaae04076015b70cd1a4cf7cbb7&lang=en&cache-only=0",
+            "defineEn": "all the words used in a particular language or subject",
+            "defineVi": "tất cả các từ được sử dụng trong một ngôn ngữ hoặc chủ đề cụ thể"
+        },
+        {
+            "id": "584094bf-e1c6-401d-aaa4-22c6d199a8d9",
+            "word": "derivative",
+            "phonetic": "dᵻɹɪvətɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the derivative probably has a bit of a maximum point there or something.",
+                "The derivative is the slope.",
+                "But derivative is a big part of it.",
+                "Derivative of sine is cosine, and vice versa.",
+                "So what is the derivative?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVyaXZhdGl2ZQ&hash=4cd07357bbd80384d088e9900a3c9056dd6b54b2&lang=en&cache-only=0",
+            "defineEn": "(grammar) a word that is developed from another word or base",
+            "defineVi": "(ngữ pháp) một từ được phát triển từ một từ hoặc cơ sở khác"
+        },
+        {
+            "id": "dce53f74-6e27-4bc2-a2d4-541b528edb01",
+            "word": "base",
+            "phonetic": "beɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They've touched base with every political group on campus.",
+                "The company based its projections on shaky ground, leading to financial losses.",
+                "New shoots are just appearing at the base of the plant.",
+                "He's gone AWOL from his base.",
+                "Susan and Joseph went to second base during their weekend at the beach."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmFzZQ&hash=9abc9059c059fd5c45e3c439ed2de8b40932ae22&lang=en&cache-only=0",
+            "defineEn": "the form to which affixes or other morphological operations are added to create a new word",
+            "defineVi": "hình thức mà các phụ tố hoặc các hoạt động hình thái học khác được thêm vào để tạo ra một từ mới"
+        },
+        {
+            "id": "64d64f34-163d-4653-81b2-76b51fb23e6f",
+            "word": "nominalization",
+            "phonetic": "nɑːmɪnəlᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm9taW5hbGl6YXRpb24&hash=de60296af91e3e6615903b3bdabc167e45b94c76&lang=en&cache-only=0",
+            "defineEn": "a process in language where a word or phrase, typically a verb or an adjective, is transformed into a noun, either by adding a suffix or by changing its syntactic function, allowing the expression of concepts or actions as nominal entities",
+            "defineVi": "một quá trình trong ngôn ngữ trong đó một từ hoặc cụm từ, thường là động từ hoặc tính từ, được chuyển đổi thành danh từ, bằng cách thêm hậu tố hoặc bằng cách thay đổi chức năng cú pháp của nó, cho phép biểu đạt các khái niệm hoặc hành động dưới dạng các thực thể danh nghĩa"
+        },
+        {
+            "id": "fd1468e4-4379-44e9-b7f7-40c67c2a90c1",
+            "word": "lexicalization",
+            "phonetic": "lɛksɪkəlᵻzeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbGl6YXRpb24&hash=4cc05ecb4e7889533107000a6e7901335eb059af&lang=en&cache-only=0",
+            "defineEn": "a process in which a word or phrase evolves from being a combination of grammatical elements or a non-lexicalized expression to becoming an established lexical unit with its own meaning and usage",
+            "defineVi": "một quá trình trong đó một từ hoặc cụm từ phát triển từ một sự kết hợp của các yếu tố ngữ pháp hoặc một biểu thức không từ vựng để trở thành một đơn vị từ vựng được thiết lập với ý nghĩa và cách sử dụng riêng của nó"
+        },
+        {
+            "id": "3cd8d63c-98dd-4cb0-817f-481818c0734a",
+            "word": "diminutive",
+            "phonetic": "dᵻmɪnjuːtɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This diminutive creature is genderless, and its physical appearance across stories varies as widely as its name.",
+                "It's odd that we're instead of going more diminutive and thinner and slimmer and lighter, we're actually going to just bigger and larger and thicker and flipper."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGltaW51dGl2ZQ&hash=95400bad5596413726d581c323dc97a55f1ef37b&lang=en&cache-only=0",
+            "defineEn": "a word form or affix that is added to a base word to express smallness, endearment, or a sense of familiarity",
+            "defineVi": "một dạng từ hoặc phụ tố được thêm vào một từ cơ bản để thể hiện sự nhỏ bé, đáng yêu hoặc cảm giác quen thuộc"
+        },
+        {
+            "id": "c693fe72-a17e-4a8e-b2d3-ce5dd77cc4ca",
+            "word": "protologism",
+            "phonetic": "pɹoʊtoʊlədʒɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvdG9sb2dpc20&hash=1d75465b33352aa84a67d5c14c41545afffd272d&lang=en&cache-only=0",
+            "defineEn": "a newly created word or expression that has not yet gained widespread acceptance or recognition within a language community",
+            "defineVi": "một từ hoặc cụm từ mới được tạo ra chưa được chấp nhận hoặc công nhận rộng rãi trong cộng đồng ngôn ngữ"
+        },
+        {
+            "id": "1a21b8b0-e946-4501-9921-0688b581758c",
+            "word": "ghost word",
+            "phonetic": "ɡoʊst wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2hvc3Qgd29yZA&hash=66790c6f0b8f1f9206edb1db1ce016384ff77c75&lang=en&cache-only=0",
+            "defineEn": "a non-existent or erroneous word that has been mistakenly created and entered into a dictionary or other linguistic sources",
+            "defineVi": "một từ không tồn tại hoặc có lỗi đã được tạo nhầm và nhập vào từ điển hoặc các nguồn ngôn ngữ khác"
+        },
+        {
+            "id": "b2455839-c881-48ee-8de2-f39a01b459e5",
+            "word": "pseudoword",
+            "phonetic": "suːdoʊwɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHNldWRvd29yZA&hash=583068903c6fab4f2e65537c7f6fa086d835fab4&lang=en&cache-only=0",
+            "defineEn": "a string of letters or sounds that resemble real words but do not have any actual meaning or lexical representation in a particular language",
+            "defineVi": "một chuỗi các chữ cái hoặc âm thanh giống với từ thực nhưng không có bất kỳ ý nghĩa thực tế hoặc biểu diễn từ vựng nào trong một ngôn ngữ cụ thể"
+        },
+        {
+            "id": "2eb7a7cb-3598-4ff4-a366-91f4f1b02505",
+            "word": "nonce word",
+            "phonetic": "nɑːnsiː wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm9uY2Ugd29yZA&hash=8b7e515a46ef99e0a44a4d45091cd43c67073cda&lang=en&cache-only=0",
+            "defineEn": "a term or expression created and used for a specific occasion or context, typically with a limited or one-time purpose, and not intended for long-term or widespread usage",
+            "defineVi": "một thuật ngữ hoặc biểu thức được tạo và sử dụng cho một dịp hoặc ngữ cảnh cụ thể, thường với mục đích giới hạn hoặc một lần và không nhằm mục đích sử dụng lâu dài hoặc rộng rãi"
+        },
+        {
+            "id": "bb9f78ac-a866-455d-b2d4-255c0a858890",
+            "word": "hapax legomenon",
+            "phonetic": "hæpæks lɛɡoʊmnən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aGFwYXggbGVnb21lbm9u&hash=7a8ecd825a2a4536fb4dfcc302b95f9011461d90&lang=en&cache-only=0",
+            "defineEn": "a word or form that appears only once within a specific corpus or body of text",
+            "defineVi": "một từ hoặc hình thức chỉ xuất hiện một lần trong một văn bản hoặc nội dung cụ thể của văn bản"
+        },
+        {
+            "id": "55bbdad7-7a1b-4297-8ea7-b07b9aee63af",
+            "word": "morph",
+            "phonetic": "mɔːɹf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They just morph into money without a backward glance.",
+                "Tom Hanks has morphed into many characters over his storied film career.",
+                "They didn’t morph into the current residents of that area of the world, Hindu Indians or Muslim Pakistanis.",
+                "I guess my Thanksgiving spirit morphed into a vengeful poltergeist.",
+                "Even people close to you may not recognize the degree to which your thinking has morphed into delusions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ycGg&hash=9abbff046827e5d923c30368c3682f840918265d&lang=en&cache-only=0",
+            "defineEn": "the smallest meaningful unit of language that carries a distinct semantic or grammatical function and cannot be further divided into smaller parts with independent meaning",
+            "defineVi": "đơn vị ngôn ngữ có ý nghĩa nhỏ nhất mang chức năng ngữ nghĩa hoặc ngữ pháp riêng biệt và không thể chia thành các phần nhỏ hơn có ý nghĩa độc lập"
+        },
+        {
+            "id": "25adaf48-1518-49b9-8ccf-38ed7ddb4482",
+            "word": "morpheme",
+            "phonetic": "mɔːɹfiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Linguists call these units morphemes, and the study of them is morphology.",
+                "The root is often a free morpheme, like rabbit.",
+                "We can visualize morphemes as fitting together like the parts of a plant.",
+                "The same idea is a single word with many morphemes in Murrinhpatha and lots of other Australian languages.",
+                "To extend our plant metaphor, when we add a morpheme to a root, this new unit becomes the stem for the next morpheme."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9ycGhlbWU&hash=d4bddf7d269ee7af9d512139a94a67e545bda4a0&lang=en&cache-only=0",
+            "defineEn": "(linguistics) the smallest meaningful unit of a language that does not necessarily stand alone and cannot be divided",
+            "defineVi": "(ngôn ngữ học) đơn vị nhỏ nhất có nghĩa của ngôn ngữ không nhất thiết phải đứng một mình và không thể chia nhỏ"
+        },
+        {
+            "id": "e4759601-7742-4a97-a2a8-585c558f1bcb",
+            "word": "functional morpheme",
+            "phonetic": "fʌŋkʃənəl mɔːɹfiːm ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVuY3Rpb25hbCBtb3JwaGVtZQ&hash=cc743270dfcd8549cd1cb99167ba987aa726fbf7&lang=en&cache-only=0",
+            "defineEn": "a type of morpheme that conveys grammatical information and serves a functional role in a sentence, rather than carrying lexical or content-related meaning",
+            "defineVi": "một loại hình thái truyền đạt thông tin ngữ pháp và đóng vai trò chức năng trong câu, thay vì mang ý nghĩa liên quan đến từ vựng hoặc nội dung"
+        },
+        {
+            "id": "01056b4c-a65c-47ad-ad7d-774df9176873",
+            "word": "lexical unit",
+            "phonetic": "lɛksɪkəl juːnɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbCB1bml0&hash=59ad27a774c057f244bdc2fc9b42e872049a28c2&lang=en&cache-only=0",
+            "defineEn": "(linguistics) a word, a group of words or a part of word that has a meaning and forms the basic element of any language",
+            "defineVi": "(ngôn ngữ học) một từ, một nhóm từ hoặc một phần của từ có nghĩa và tạo thành yếu tố cơ bản của bất kỳ ngôn ngữ nào"
+        },
+        {
+            "id": "78bc4fa8-3385-4b8e-a440-fc33563b2e86",
+            "word": "portmanteau word",
+            "phonetic": "poːɹtmɐntoʊ wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cG9ydG1hbnRlYXUgd29yZA&hash=43f214085a09002d919d84f3371d96fa5c723e2f&lang=en&cache-only=0",
+            "defineEn": "a new word that is formed by the combination of two other words blending their meaning and sounds",
+            "defineVi": "một từ mới được hình thành bởi sự kết hợp của hai từ khác pha trộn ý nghĩa và âm thanh của chúng"
+        },
+        {
+            "id": "ad19ac4e-db90-4aca-8e72-2693da97d577",
+            "word": "lexis",
+            "phonetic": "lɛksɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aXM&hash=3dfcc84ea236d310ea6ed1b53ff4a21520f55037&lang=en&cache-only=0",
+            "defineEn": "(linguistics) all the words and phrases of a language, including the function words",
+            "defineVi": "(ngôn ngữ học) tất cả các từ và cụm từ của một ngôn ngữ, kể cả các từ chức năng"
+        },
+        {
+            "id": "771681d0-a34a-41b1-9aba-ca7df2e6d341",
+            "word": "word",
+            "phonetic": "wɜːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Words beginning with a vowel.",
+                "Mark my words.",
+                "Her words were music to my ears.",
+                "Words are failing me right now.",
+                "The children were following every word of the story intently."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29yZA&hash=f79cf07b0222b70999e65183c3855a8f39ca463d&lang=en&cache-only=0",
+            "defineEn": "(grammar) a unit of language that has a specific meaning",
+            "defineVi": "(ngữ pháp) một đơn vị ngôn ngữ có ý nghĩa cụ thể"
+        },
+        {
+            "id": "f0220e8b-0e0a-42ce-8542-e0bb43251b25",
+            "word": "collocation",
+            "phonetic": "kɑːloʊkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29sbG9jYXRpb24&hash=ee84d9d19a0ac946d9c91af805e862ed9b23728f&lang=en&cache-only=0",
+            "defineEn": "a particular combination of words that are used together very often",
+            "defineVi": "một sự kết hợp đặc biệt của các từ được sử dụng cùng nhau rất thường xuyên"
+        },
+        {
+            "id": "5ac2d8ca-39aa-4623-9040-d2f99561630b",
+            "word": "idiom",
+            "phonetic": "ɪdɪəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The friends would sometimes revert to playground idiom.",
+                "My friend tried explaining a few French idioms to me, but I'm afraid they were lost in translation.",
+                "And nothing was so irritating as the confident way he used archaic idiom.",
+                "from now on, i need you to give me original examples with different verb conjugations for every idiom that i give u, please use imaginary names in your examples",
+                "Anger and shouting simply aren’t a part of his idiom."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aWRpb20&hash=73abd6c22ed7ee07a425335b14e326d7c65eca68&lang=en&cache-only=0",
+            "defineEn": "a group of words or a phrase that has a meaning different from the literal interpretation of its individual words, often specific to a particular language or culture",
+            "defineVi": "một nhóm từ hoặc cụm từ có nghĩa khác với cách giải thích theo nghĩa đen của các từ riêng lẻ, thường dành riêng cho một ngôn ngữ hoặc nền văn hóa cụ thể"
+        },
+        {
+            "id": "c2c25f94-3d55-49eb-b442-742a9ebc7954",
+            "word": "lexical ambiguity",
+            "phonetic": "lɛksɪkəl æmbɪɡjuːɪɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbCBhbWJpZ3VpdHk&hash=a02ba7db5416d3acf2c2e15e9d1042dda9190845&lang=en&cache-only=0",
+            "defineEn": "a situation in which a word or phrase has multiple meanings or interpretations, often leading to confusion or uncertainty in understanding the intended message or context",
+            "defineVi": "một tình huống trong đó một từ hoặc cụm từ có nhiều nghĩa hoặc nhiều cách hiểu, thường dẫn đến nhầm lẫn hoặc không chắc chắn trong việc hiểu thông điệp hoặc ngữ cảnh dự định"
+        },
+        {
+            "id": "b3219691-a717-41fe-abbc-32df03abac5d",
+            "word": "reduplication",
+            "phonetic": "ɹᵻduːplɪkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmVkdXBsaWNhdGlvbg&hash=e0d797ba2ec66fe57aa199d1dc34b4c5aad4eb0b&lang=en&cache-only=0",
+            "defineEn": "the process of repeating or duplicating all or part of a word or morpheme to create a new form, often with a change in meaning or grammatical function",
+            "defineVi": "quá trình lặp lại hoặc sao chép tất cả hoặc một phần của một từ hoặc hình thái để tạo ra một hình thức mới, thường có sự thay đổi về ý nghĩa hoặc chức năng ngữ pháp"
+        },
+        {
+            "id": "929d68ee-6492-4f9e-b9f1-54479946519a",
+            "word": "blocking",
+            "phonetic": "blɑːkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It has RFID blocking.",
+                "So, apparently, ice blocking is a thing.",
+                "And companies like First Orion, Hiya and TNS Call Guardian partner with carriers to offer blocking and labeling.",
+                "All four major U.S. cell carriers now offer some form of detection and blocking.",
+                "Analysts say seat blocking is unlikely to last."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxvY2tpbmc&hash=673ea1c2cf752d057155d38c782185f99aacbd5c&lang=en&cache-only=0",
+            "defineEn": "a phenomenon where the presence of one linguistic form prevents the occurrence or acceptance of another form with a similar meaning or function",
+            "defineVi": "một hiện tượng trong đó sự hiện diện của một hình thức ngôn ngữ ngăn cản sự xuất hiện hoặc chấp nhận của một hình thức khác với một ý nghĩa hoặc chức năng tương tự"
+        },
+        {
+            "id": "a4fc28d6-6f21-48b3-b335-99b07c109191",
+            "word": "lexical rule",
+            "phonetic": "lɛksɪkəl ɹuːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGV4aWNhbCBydWxl&hash=8c64f2414785544fad36bd9ee055007ad69d40bd&lang=en&cache-only=0",
+            "defineEn": "a set of principles or patterns that govern the formation or derivation of words and their meanings within a particular language or lexical system",
+            "defineVi": "một tập hợp các nguyên tắc hoặc khuôn mẫu chi phối việc hình thành hoặc phát sinh từ và ý nghĩa của chúng trong một ngôn ngữ hoặc hệ thống từ vựng cụ thể"
+        },
+        {
+            "id": "375a3518-dec0-4707-baac-09e7c7fd672e",
+            "word": "sniglet",
+            "phonetic": "snɪɡlɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c25pZ2xldA&hash=133f4e0f2cf3f04fe79a634cd2b8e23eba7f44ba&lang=en&cache-only=0",
+            "defineEn": "a playful, made-up word used to describe something for which there is no existing term, often adding humor and creativity to language",
+            "defineVi": "một từ vui tươi, bịa đặt được sử dụng để mô tả một cái gì đó mà không có thuật ngữ hiện có, thường thêm sự hài hước và sáng tạo vào ngôn ngữ"
+        },
+        {
+            "id": "c2e42304-f75a-4c6c-8efd-dac16df35a4f",
+            "word": "phono-semantic matching",
+            "phonetic": "foʊnoʊsəmæntɪk mætʃɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGhvbm8tc2VtYW50aWMgbWF0Y2hpbmc&hash=2bdf2ad3ad638fa8bf0a09c15c3ebbfe6ccea0e1&lang=en&cache-only=0",
+            "defineEn": "the process in which a new word or morpheme is created by combining a sound component that resembles an existing word with a semantic component that reflects its meaning",
+            "defineVi": "quá trình trong đó một từ hoặc hình thái mới được tạo ra bằng cách kết hợp một thành phần âm thanh giống với một từ hiện có với một thành phần ngữ nghĩa phản ánh ý nghĩa của nó"
+        }
+    ]
+}

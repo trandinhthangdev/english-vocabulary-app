@@ -1,0 +1,601 @@
+{
+    "id": "0969dffe-7661-45d0-94ff-1a9decac5919",
+    "title": "Nature and Natural Disasters",
+    "originalTitle": "Lesson 20",
+    "words": [
+        {
+            "id": "81cc157e-d562-4972-a60e-2e8f80d4a1e3",
+            "word": "world",
+            "phonetic": "wɜːld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Intellectually, this man and I are worlds apart.",
+                "Her children mean the world to her.",
+                "The department led the world in cancer research.",
+                "The novel is worlds apart from his academic writings.",
+                "She had broken the world 100 meters record."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ybGQ&hash=5b1f3cf11604e7bd5e62a79fb9d1a687eda34ef7&lang=en&cache-only=0",
+            "defineEn": "the planet Earth, where we all live",
+            "defineVi": "hành tinh Trái đất, nơi tất cả chúng ta sống",
+            "hasImg": true
+        },
+        {
+            "id": "ea557248-b69e-4cb4-a9c3-447ddaa63426",
+            "word": "environment",
+            "phonetic": "ɛnvaɪɹənmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An environment that widens my mind.",
+                "Everyone should do their bit for the environment.",
+                "Not following safety guidelines is unacceptable in hazardous environments.",
+                "The company culture was toxic, with a cutthroat environment and a focus on profits at all costs.",
+                "They were completely at one with their environment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW52aXJvbm1lbnQ&hash=f13919fafccc9d1314233657ea894a50a46cc451&lang=en&cache-only=0",
+            "defineEn": "the natural world around us where people, animals, and plants live",
+            "defineVi": "thế giới tự nhiên xung quanh chúng ta, nơi con người, động vật và thực vật sinh sống",
+            "hasImg": true
+        },
+        {
+            "id": "5ab5f476-3943-4aea-9505-b8f050d4da73",
+            "word": "plant",
+            "phonetic": "plænt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My mom planted beautiful flowers in the front yard.",
+                "The child carefully planted caryopses of wildflowers in the garden.",
+                "He planted a gentle kiss on her cheek.",
+                "They have planted the seeds of their own destruction.",
+                "He planted arrowroot in his backyard garden."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGxhbnQ&hash=3e852761cedd57761156624e95de3a0df56f2fb1&lang=en&cache-only=0",
+            "defineEn": "a living thing that grows in ground or water; usually having leaves, stems, flowers, etc.",
+            "defineVi": "một sinh vật mọc trong đất hoặc nước; thường có lá, thân, hoa, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d3d7ea39-8179-48fd-b9b7-b9bbae0d038b",
+            "word": "ground",
+            "phonetic": "ɡɹaʊnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "More conservative candidates are losing ground in key battleground states.",
+                "As a health-conscious individual, he sprinkled ground flaxseed over his morning yogurt.",
+                "The company is gaining ground rapidly with its new product launch.",
+                "Her skirt almost reached the ground.",
+                "The grounds covered eight acres."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JvdW5k&hash=3e4d0110f5b9962054b0c0581cbe4d23d7730ab3&lang=en&cache-only=0",
+            "defineEn": "the surface layer of Earth that is solid and people walk on",
+            "defineVi": "lớp bề mặt của Trái đất rắn chắc và mọi người đi bộ trên",
+            "hasImg": true
+        },
+        {
+            "id": "923f0996-a526-4d20-8a2d-f44eafe5ac8b",
+            "word": "field",
+            "phonetic": "fiːld ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After all, fields have eyes, and woods have ears.",
+                "They turned the horse into the field.",
+                "To drive sheep into a field.",
+                "The majestic horse galloped across the open field.",
+                "The baseball team has nine players on the field at a time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmllbGQ&hash=34e0ce6e022f08ac00100a44897bf3d0d2f761ba&lang=en&cache-only=0",
+            "defineEn": "a piece of land in the country, especially one where crops are grown or animals are kept, typically surrounded by a fence, etc.",
+            "defineVi": "một mảnh đất trong nước, đặc biệt là nơi trồng trọt hoặc chăn nuôi, thường được bao quanh bởi một hàng rào, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "f5e92f18-7e14-4ca8-9aa9-d6e6c48b514e",
+            "word": "landscape",
+            "phonetic": "lændskeɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Asian landscapes range from breathtaking mountains to stunning beaches.",
+                "The old painting depicted a picturesque landscape from a bygone era.",
+                "The snowy landscape looked magical under the moonlight.",
+                "The full moon cast a soft glow on the landscape.",
+                "The African landscape is diverse, ranging from lush rainforests to vast deserts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFuZHNjYXBl&hash=2347b6a889d1d9664b4f5a15ac507a4af50b706f&lang=en&cache-only=0",
+            "defineEn": "a beautiful scene in the countryside that can be seen in one particular view",
+            "defineVi": "một cảnh đẹp ở vùng nông thôn có thể được nhìn thấy trong một góc nhìn cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "9071ae3b-d42d-4ccc-b93e-987cf1fb2c8f",
+            "word": "view",
+            "phonetic": "vjuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They exchanged views on every subject under the sun.",
+                "He holds strange views on education.",
+                "The course gives you a bird's eye view of European art history.",
+                "He takes the view that children are responsible for their own actions.",
+                "Being assigned to the General Secretariat provided a worm's-eye view of international diplomacy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlldw&hash=90f70a313e879029f4ff556e9ee8a0b55058e4d1&lang=en&cache-only=0",
+            "defineEn": "a place or an area that can be seen, and is usually beautiful",
+            "defineVi": "một nơi hoặc một khu vực có thể được nhìn thấy, và thường là đẹp",
+            "hasImg": true
+        },
+        {
+            "id": "c2dbaf2d-8296-4813-9fa5-b887f825d1db",
+            "word": "grass",
+            "phonetic": "ɡɹæs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The sunny weather melted the snow, revealing patches of green grass.",
+                "Don't let the grass grow under your feet, kid.",
+                "I need to cut the grass in the backyard with a lawnmower.",
+                "She learned the hard way that the grass is always greener on the other side.",
+                "I saw a lion hunting for prey in the tall grass."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3Jhc3M&hash=3b8f42ae9bc2cf092ac91d43c9a3ef062d317172&lang=en&cache-only=0",
+            "defineEn": "a plant with thin, short, and green upright leaves, commonly found in gardens, parks, etc.",
+            "defineVi": "một loại cây có lá thẳng đứng mỏng, ngắn và xanh, thường thấy trong vườn, công viên, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "a6181440-525b-4f13-bbba-d86f0104e688",
+            "word": "coast",
+            "phonetic": "koʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The coast is clear.",
+                "New York City is located on the east coast of the United States.",
+                "My brother went to see if the coast was clear, and we snuck out of our bedroom.",
+                "because by the middle of summer, the coast becomes home to big swarms of mosquitos and other biting insects!",
+                "The southern coast of the United States has a variety of different accents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29hc3Q&hash=c71db3d023f6d7164eee906e33b7bc7c27cd812c&lang=en&cache-only=0",
+            "defineEn": "the land near or next to a sea or ocean",
+            "defineVi": "vùng đất gần hoặc bên cạnh biển hoặc đại dương",
+            "hasImg": true
+        },
+        {
+            "id": "47146071-1c7a-4efb-8875-bdced04c172c",
+            "word": "hill",
+            "phonetic": "hɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A path led down the hill.",
+                "The village was set among olive groves on a hill.",
+                "They were driven to an unknown place in the hills.",
+                "The truck's engine roared as it climbed the steep hill.",
+                "An engineer suggested driving a tunnel through the Judean hills."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlsbA&hash=48476df7c72078e2c0d632e0f2b5286926b2bace&lang=en&cache-only=0",
+            "defineEn": "a naturally raised area of land that is higher than the land around it, but smaller than a mountain",
+            "defineVi": "một vùng đất được nâng lên tự nhiên cao hơn vùng đất xung quanh nó, nhưng nhỏ hơn một ngọn núi",
+            "hasImg": true
+        },
+        {
+            "id": "a2cdfd56-5819-4965-b018-6eaccdd309d0",
+            "word": "rock",
+            "phonetic": "ɹɑːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He now rocks a distinguished look with his silver strands.",
+                "Charity hits rock bottom in Emmerdale.",
+                "He's got rocks in his head.",
+                "Morale within the company was at rock bottom.",
+                "The boat rocked gently as we set sail on a sunny day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9jaw&hash=14572945f86261294e322eb029bb279dceec51c4&lang=en&cache-only=0",
+            "defineEn": "a piece of rock, standing or projecting above the earth's surface or in the sea",
+            "defineVi": "một mảnh đá, đứng hoặc nhô lên trên bề mặt trái đất hoặc trên biển",
+            "hasImg": true
+        },
+        {
+            "id": "e43ae786-842a-466e-9f09-1f7ca0b7ed72",
+            "word": "valley",
+            "phonetic": "væli ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In front of them the valley dropped sharply away from the road.",
+                "The land dropped steeply away into a small valley.",
+                "The river flows through the valley, creating a beautiful landscape.",
+                "The mountain provided a natural barrier between the two valleys.",
+                "The river took a meandering bend through the picturesque valley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFsbGV5&hash=0d559d333701dbc561508ced9fc3e196da64798e&lang=en&cache-only=0",
+            "defineEn": "a low area of land between mountains or hills, often with a river flowing through it",
+            "defineVi": "một vùng đất thấp giữa núi hoặc đồi, thường có một dòng sông chảy qua nó",
+            "hasImg": true
+        },
+        {
+            "id": "7eff8fd8-9e62-41c7-9e55-d03fb44a14a2",
+            "word": "lake",
+            "phonetic": "leɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The road led away from the house directly to the lake.",
+                "Sunlight played on the surface of the lake.",
+                "We enjoyed a picnic by the lake, and she surprised us with a brooklime-infused lemonade.",
+                "We saw a beautiful white swan swimming in the lake.",
+                "During the heatwave, the group of friends decided to cool off by skinny-dipping in the lake, enjoying the refreshing water in their birthday suits under the moonlight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFrZQ&hash=2dba95c14a3c0cab5e09962fbae9068e0078b6c9&lang=en&cache-only=0",
+            "defineEn": "a large area of water, surrounded by land",
+            "defineVi": "một khu vực rộng lớn của nước, bao quanh bởi đất",
+            "hasImg": true
+        },
+        {
+            "id": "34ca0309-2c7a-4cee-80e2-ce8788f99111",
+            "word": "the ocean",
+            "phonetic": "ðɪ oʊʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Ancient historians wrote of a lost continent beneath the ocean.",
+                "Such helps were like drop in the ocean.",
+                "The ocean's blue color amazed us.",
+                "We have sounded the depths of the ocean.",
+                "The ship sailed across the ocean, carrying cargo from one country to another."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGhlIG9jZWFu&hash=d6551fe4b49f9b9ccd6f613dc9a5b7d68607a612&lang=en&cache-only=0",
+            "defineEn": "the great mass of salt water that covers most of the Earth’s surface",
+            "defineVi": "khối lượng lớn nước muối bao phủ hầu hết bề mặt Trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "b7df85dc-9a07-4278-be81-44ad5b9e925c",
+            "word": "rainforest",
+            "phonetic": "ɹeɪnfɔːɹɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He discovered a new variety of legume while exploring the rainforest.",
+                "The explorer's epic journey through the Amazon rainforest lasted for months and covered thousands of miles.",
+                "The African landscape is diverse, ranging from lush rainforests to vast deserts.",
+                "And sure enough, rainforests get more rain than any other place on Earth.",
+                "Other biomes include tropical rainforest, tundra, deserts, and oceans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmFpbmZvcmVzdA&hash=001ae1746b57c6ef91dcea17144489f1db6c30ef&lang=en&cache-only=0",
+            "defineEn": "‌a thick, tropical forest with tall trees and consistently heavy rainfall",
+            "defineVi": "‌một khu rừng nhiệt đới rậm rạp với những cây cao và lượng mưa lớn liên tục",
+            "hasImg": true
+        },
+        {
+            "id": "e21d1270-f458-488a-b104-61da8d48d2dd",
+            "word": "wood",
+            "phonetic": "wʊd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Hunger drives the wolf out of the wood.",
+                "The wood is held in position by a clamp.",
+                "The track led us through a wood.",
+                "The coffee table was a dark wood color.",
+                "You're not seeing the woods for trees."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29vZA&hash=1cdc8208e79e7f55e6acea178afd0dd30d345d26&lang=en&cache-only=0",
+            "defineEn": "the hard material that the trunk and branches of a tree or shrub are made of, used for fuel or timber",
+            "defineVi": "vật liệu cứng mà thân và cành của cây hoặc bụi cây được làm bằng, được sử dụng làm nhiên liệu hoặc gỗ",
+            "hasImg": true
+        },
+        {
+            "id": "9023c60e-2216-49ae-aa67-463cb1902e01",
+            "word": "area",
+            "phonetic": "ɛɹiə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Government investment has brought thousands of new jobs to the area.",
+                "We have a cozy sitting area downstairs by the fireplace.",
+                "Rural areas have been worst hit by the strike.",
+                "The twentieth century saw dramatic changes in most areas of life.",
+                "Over the years, the company has broken fresh ground in many different areas, from technology to healthcare."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJlYQ&hash=4b08657f242fcd36c7a96d88eb65c8b4c2695617&lang=en&cache-only=0",
+            "defineEn": "a particular part or region of a city, country, or the world",
+            "defineVi": "một phần hoặc khu vực cụ thể của một thành phố, quốc gia hoặc thế giới",
+            "hasImg": true
+        },
+        {
+            "id": "29455fe1-8271-422a-bff6-ff950ec1eddc",
+            "word": "path",
+            "phonetic": "pæθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A path led down the hill.",
+                "A path that beats swords into plowshares.",
+                "She will follow a different path than her siblings.",
+                "They have followed a different path in their personal lives.",
+                "John will follow the path of least resistance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0aA&hash=b5e27ad65d9bccb7f4858f6129b2e00c5296edf1&lang=en&cache-only=0",
+            "defineEn": "a way or track that is built or is made by people walking over the same ground",
+            "defineVi": "một con đường hoặc con đường được xây dựng hoặc được thực hiện bởi những người đi bộ trên cùng một mặt đất",
+            "hasImg": true
+        },
+        {
+            "id": "727538ed-f2d9-4444-9dad-44d317202333",
+            "word": "natural",
+            "phonetic": "nætʃɚɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The custard apple's natural sweetness makes it a perfect filling for homemade pies and tarts.",
+                "The mountain provided a natural barrier between the two valleys.",
+                "The natural tanginess of tamarind adds a unique twist to sauces, marinades, and soups.",
+                "He used turnip leaves as natural wrapping for steamed dumplings.",
+                "We used honey as a natural sweetener in our homemade salad dressing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF0dXJhbA&hash=cf732dd4fedb6f26ab9f3a04be7546b108cbef27&lang=en&cache-only=0",
+            "defineEn": "found in, coming from or agreeing with nature",
+            "defineVi": "tìm thấy trong, đến từ hoặc phù hợp với tự nhiên",
+            "hasImg": true
+        },
+        {
+            "id": "525e57bd-f51c-457c-8615-81fe7b199e03",
+            "word": "disaster",
+            "phonetic": "dɪzæstɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After all, one case of the trots hardly spells disaster.",
+                "The current situation is spelling disaster for the project.",
+                "For Walter, disaster followed hard on the heels of his initial success.",
+                "This disaster comes hard on the heels of last week’s train crash.",
+                "Mary's idea of a holiday with her in-laws has disaster written all over it!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzYXN0ZXI&hash=d840dc1d0057057c6ee7c8443fa59a3b0d7ab70b&lang=en&cache-only=0",
+            "defineEn": "a sudden and unfortunate event that causes a great amount of damage, death and destruction",
+            "defineVi": "một sự kiện bất ngờ và không may gây ra một lượng lớn thiệt hại, cái chết và sự hủy diệt",
+            "hasImg": true
+        },
+        {
+            "id": "92a48679-435e-4d7f-85dd-813d9fb60b45",
+            "word": "flood",
+            "phonetic": "flʌd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Four people were killed when a train plunged into a flooded river.",
+                "The inexperienced DIY enthusiast tried to fix a complex plumbing problem, and caused a flood in the house.",
+                "The rising flood waters had driven her out of the village.",
+                "British retailers are flooding the U.S. fashion market.",
+                "Now, the tsunami flooded the nuclear plant."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxvb2Q&hash=bf7b0c5db4a02b4ad3ce249d6382a510671f7bd7&lang=en&cache-only=0",
+            "defineEn": "the rising of a body of water taking dry places and causing damages",
+            "defineVi": "sự dâng lên của một vùng nước chiếm những nơi khô ráo và gây ra thiệt hại",
+            "hasImg": true
+        },
+        {
+            "id": "6bfe8352-585e-4573-ac9e-03864a2bfd35",
+            "word": "earthquake",
+            "phonetic": "ɜːθkweɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The country was hit by a major earthquake.",
+                "The volunteers who helped rebuild the school after the earthquake are making a world of difference in the lives of the students and their families.",
+                "Earthquakes happen when the water rocks back and forth.",
+                "On the other hand, the earthquake created a massive demand for cars.",
+                "So the earthquake was roughly over here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFydGhxdWFrZQ&hash=f938f240266fb8b859a86301e717c49ba6e36cbe&lang=en&cache-only=0",
+            "defineEn": "the sudden movement and shaking of the Earth's surface, usually causing damage",
+            "defineVi": "sự chuyển động và rung chuyển đột ngột của bề mặt Trái đất, thường gây ra thiệt hại",
+            "hasImg": true
+        },
+        {
+            "id": "463b7d60-1b4c-4cb0-8306-aea83b3e0d9f",
+            "word": "hurricane",
+            "phonetic": "hɜːɹᵻkeɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The homeowner didn't listen to the advice of experts to reinforce his house before the hurricane hit.",
+                "The devastation caused by the hurricane was for words.",
+                "Hurricanes bring high winds and treacherous rainfall.",
+                "And of course, hurricanes impact land animals, too.",
+                "This feedback loop turns hurricanes into self-sufficient engines of destruction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVycmljYW5l&hash=bc36635ca475bb82cfebc4df00da6f55fffe38af&lang=en&cache-only=0",
+            "defineEn": "a very strong and destructive wind that moves in circles, often seen in the Caribbean",
+            "defineVi": "một cơn gió rất mạnh và có sức tàn phá di chuyển theo vòng tròn, thường thấy ở vùng biển Caribe",
+            "hasImg": true
+        },
+        {
+            "id": "e876efc0-e1d8-41af-825a-bc38fda4e639",
+            "word": "tornado",
+            "phonetic": "tɔːɹneɪdoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The idea hit me like a tornado.",
+                "The sirens sounded, warning of a tornado.",
+                "Tornadoes begin with a thunderstorm but not just any thunderstorm.",
+                "We had a tornado.",
+                "One tornado struck just after midnight in the city of Newnan, some 40 miles southwest of Atlanta."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG9ybmFkbw&hash=6f1e25d98d7fc61ff3365c0ebf07251120f2c8e1&lang=en&cache-only=0",
+            "defineEn": "a strong and dangerous type of wind, which is formed like a turning cone, usually causing damage",
+            "defineVi": "một loại gió mạnh và nguy hiểm, được hình thành giống như một hình nón quay, thường gây ra thiệt hại",
+            "hasImg": true
+        },
+        {
+            "id": "e3d69507-92fe-41d0-8f62-d1ebced69362",
+            "word": "famine",
+            "phonetic": "fæmɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bad weather brought famine.",
+                "Famine followed in the wake of the drought.",
+                "Whatever meager rations remained were sent to the troops fighting the war, so the civilian population faced the brunt of the famine.",
+                "Famines don't just happen naturally.",
+                "For the most part, famines have historically been man-made disasters."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtaW5l&hash=0381de03ce6c03f50183380dde1dbd3177ab9947&lang=en&cache-only=0",
+            "defineEn": "a situation where there is not enough food that causes hunger and death",
+            "defineVi": "một tình huống không có đủ thức ăn gây ra đói và chết",
+            "hasImg": true
+        },
+        {
+            "id": "de06028a-4124-481d-be8d-ebc78d4430d2",
+            "word": "avalanche",
+            "phonetic": "ævəlænʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But a storm or avalanche changes the landscape in the blink of an eye.",
+                "And it's like an avalanche.",
+                "Avalanche airbags inflate around a person tumbling and being buried by snow.",
+                "So an avalanche of nanoflares might generate enough energy to heat the atmosphere to the temperatures we measure.",
+                "This creates an avalanche effect, as each high-speed electron knocks out even more electrons and they all shoot through the cloud."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZhbGFuY2hl&hash=32fee7b893148423a51c2cc8437c8b39c066c2a1&lang=en&cache-only=0",
+            "defineEn": "large amounts of snow falling from mountains",
+            "defineVi": "một lượng lớn tuyết rơi từ trên núi",
+            "hasImg": true
+        },
+        {
+            "id": "0ff51ebb-fd48-4ced-9535-724b387583a0",
+            "word": "drought",
+            "phonetic": "dɹaʊt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Famine followed in the wake of the drought.",
+                "The entire region has been in the grip of a terrible drought.",
+                "One of the worst droughts in living memory scourged large parts of Africa, including Mozambique.",
+                "She was extremely sick, but we were waiting for a raindrop in the drought.",
+                "For many people, finding a job these days is like waiting for a raindrop in the drought."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJvdWdodA&hash=3a449dd424e02d3b1947ce4495fc0d28e160b704&lang=en&cache-only=0",
+            "defineEn": "a long period of time when there is not much raining",
+            "defineVi": "một thời gian dài khi không có nhiều mưa",
+            "hasImg": true
+        },
+        {
+            "id": "09f19d7d-dc36-41c7-9caa-24654fffa68d",
+            "word": "climate change",
+            "phonetic": "klaɪmət tʃeɪndʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We had a very interesting discussion about climate change.",
+                "The previous administration kicked the can down the road on climate change, and now we're facing the consequences.",
+                "I would like to raise an alarm bell today because of the fight against climate change.",
+                "The actor has become the poster boy for environmental activism, using his celebrity status to raise awareness about climate change.",
+                "We need to take action to address climate change."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xpbWF0ZSBjaGFuZ2U&hash=f8281ee5521e6a97585ab155fa50a2c9d60b0c66&lang=en&cache-only=0",
+            "defineEn": "a permanent change in global or regional climate patterns, including temperature, wind, and rainfall",
+            "defineVi": "một sự thay đổi vĩnh viễn trong các kiểu khí hậu toàn cầu hoặc khu vực, bao gồm nhiệt độ, gió và lượng mưa",
+            "hasImg": true
+        },
+        {
+            "id": "8fc99575-dd2f-4011-bffc-0a82d2e97ce9",
+            "word": "to happen",
+            "phonetic": "tə hæpən ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Accidents like this happen all the time.",
+                "The most recent incident happened only a week ago.",
+                "The same thing happened to me.",
+                "Change doesn't happen overnight.",
+                "The door happened to be unlocked."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaGFwcGVu&hash=23605c54de98438cb48b48b40ce829886798af4a&lang=en&cache-only=0",
+            "defineEn": "to take place, particularly with no plan",
+            "defineVi": "diễn ra, đặc biệt là không có kế hoạch"
+        },
+        {
+            "id": "a2d0a1e4-1602-4d29-82b9-9075305d1bfc",
+            "word": "terrible",
+            "phonetic": "tɛɹᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The team took a terrible beating.",
+                "You've made a terrible mess of this job.",
+                "I had terrible butterflies before I gave that talk in Venice.",
+                "The situation was terrible, but like many politicians he was attracted by troubled waters.",
+                "The entire region has been in the grip of a terrible drought."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVycmlibGU&hash=ca3af0076692da17af5cff9ad18e20f26d5b7191&lang=en&cache-only=0",
+            "defineEn": "very serious; causing harm or damage",
+            "defineVi": "rất nghiêm trọng; gây hại hoặc thiệt hại",
+            "hasImg": true
+        },
+        {
+            "id": "0a44ab7c-0555-4e07-acad-8dbffaa4dbf0",
+            "word": "northeast",
+            "phonetic": "nɔːɹθiːst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Northeast of here, that same uplift created the Rocky Mountains, and their snow-covered peaks.",
+                "The car sells especially well in the Northeast.",
+                "Will the Northeast get less snow?",
+                "In November, two monster storms slammed into Nicaragua’s northeast coast.",
+                "Almost 2,000 refugees have already left northeast Syria in the last week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9ydGhlYXN0&hash=27498d6c85acf85a45c9b86b5941402220cd15a4&lang=en&cache-only=0",
+            "defineEn": "the direction midway between north and east",
+            "defineVi": "hướng nằm giữa bắc và đông",
+            "hasImg": true
+        },
+        {
+            "id": "81d48fb7-cf8a-44e1-8616-64406da2785e",
+            "word": "northwest",
+            "phonetic": "nɔːɹθwɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "In the northwest, a hundred percent customer satisfaction was required.",
+                "And the same thing is happening across the Northwest.",
+                "Normally, potato production across the Northwest looks like this.",
+                "Have you ever seen the movie North by Northwest?",
+                "Idlib Province, in the northwest corner of Syria, is home to one of the biggest displacement crises in the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9ydGh3ZXN0&hash=6022356614d6b850ef8a4d92a2264b9248ac4fea&lang=en&cache-only=0",
+            "defineEn": "the direction midway between north and west",
+            "defineVi": "hướng nằm giữa bắc và tây",
+            "hasImg": true
+        },
+        {
+            "id": "8d5bde9d-3b9a-4fcc-be02-aef96f947bc1",
+            "word": "southeast",
+            "phonetic": "saʊθiːst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "3,000 to 5,000 students andcitizens left the square by the southeast corner.",
+                "The quake hit Tuesday afternoon near the Puebla state town of Raboso, 76 miles southeast of Mexico City.",
+                "There was an earthquake in Croatia, a little bit southeast of Zagreb.",
+                "The temple’s only entrance lies at the very southeast corner.",
+                "Staples like rice are grown in southeast Asia, maize and cassava in South America, and sorghum in Africa. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291dGhlYXN0&hash=e2ea01e4589f61b6905b9739e825326845d6d16a&lang=en&cache-only=0",
+            "defineEn": "the direction midway between south and east",
+            "defineVi": "hướng giữa nam và đông",
+            "hasImg": true
+        },
+        {
+            "id": "729777e2-c781-4619-851a-94ec2221e268",
+            "word": "southwest",
+            "phonetic": "saʊθwɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Southwest only flies Boeing 737's.",
+                "About 85 miles southwest of Salt Lake City is the US government's top-secret bioweapons lab.",
+                "The shutdown has devastated small business owners throughout southwest Georgia.",
+                "The underground Fordow site is located about 55 miles southwest of Tehran.",
+                "But Southwest still posted a profit of $741 million."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291dGh3ZXN0&hash=c311dae5895cef44b69d149ecd2de7770fbbd9a8&lang=en&cache-only=0",
+            "defineEn": "the direction midway between south and west",
+            "defineVi": "hướng giữa nam và tây",
+            "hasImg": true
+        },
+        {
+            "id": "f4fb046c-a333-49ba-9018-df14e5a6464c",
+            "word": "desert",
+            "phonetic": "dɛzɚt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Offenders should receive their just deserts.",
+                "The west is home to vast deserts, rolling plains, and majestic mountain ranges.",
+                "The incident showed that desert and reward seldom keep company.",
+                "The Earth has diverse ecosystems, ranging from forests to deserts.",
+                "The African landscape is diverse, ranging from lush rainforests to vast deserts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVzZXJ0&hash=b49bdd622ba1f3e37802b03a0063657b33b32885&lang=en&cache-only=0",
+            "defineEn": "a large, dry area of land with very few plants, typically one covered with sand",
+            "defineVi": "một vùng đất rộng lớn, khô ráo với rất ít thực vật, điển hình là một vùng phủ đầy cát",
+            "hasImg": true
+        }
+    ]
+}

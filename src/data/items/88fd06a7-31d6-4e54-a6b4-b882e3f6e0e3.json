@@ -1,0 +1,519 @@
+{
+    "id": "88fd06a7-31d6-4e54-a6b4-b882e3f6e0e3",
+    "title": "Unit 6",
+    "originalTitle": "Unit 6",
+    "words": [
+        {
+            "id": "03027475-e6cb-490b-9fc9-edb377f529a1",
+            "word": "feeling",
+            "phonetic": "fiːlɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The feeling of sickness soon passed.",
+                "The drug produces a feeling of excitement.",
+                "He had mixed feelings about the whole project.",
+                "Have you considered my feelings?",
+                "Have you considered my feelings?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVlbGluZw&hash=111f721be433253758a6ae5114d7ba9754a31525&lang=en&cache-only=0",
+            "defineEn": "something that one feels such as happiness, guilt, sadness, etc.",
+            "defineVi": "một cái gì đó mà một người cảm thấy như hạnh phúc, tội lỗi, buồn bã, vv",
+            "hasImg": true
+        },
+        {
+            "id": "c2c04207-5e16-4e83-b8ea-fabc5e5da616",
+            "word": "bored",
+            "phonetic": "boːɹd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "People will also simply get bored.",
+                "I was bored.",
+                "I was bored.",
+                "- I'm bored.",
+                "I'm bored."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9yZWQ&hash=28106b7b4124cb0670ae895f258348b1bcb43008&lang=en&cache-only=0",
+            "defineEn": "tired and unhappy because there is nothing to do or because we are no longer interested in something",
+            "defineVi": "mệt mỏi và không vui vì không có gì để làm hoặc vì chúng ta không còn hứng thú với điều gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "070bbafd-7028-4d0c-a0c9-eb38846980bc",
+            "word": "excited",
+            "phonetic": "ɛksaɪɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm excited about the next episode of my favorite TV show.",
+                "The children were excited to try the unusual-looking dragon fruit, an exotic accessory fruit.",
+                "The children were excited to learn about colors in art class.",
+                "We are excited to travel to our friend's wedding in another state.",
+                "She was excited to buy new clothes for the summer season."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhjaXRlZA&hash=be0ab3a8e615f993c632401d521f26ac12ef6d37&lang=en&cache-only=0",
+            "defineEn": "feeling very happy, interested, and energetic",
+            "defineVi": "cảm thấy rất hạnh phúc, thích thú và tràn đầy năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "d372ac5c-5005-4b8e-9ee4-9239c915dc43",
+            "word": "tired",
+            "phonetic": "taɪɚd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm tired of your playing fast and loose with me.",
+                "People will get tired of listening to him!",
+                "We're tired of hearing it!",
+                "I'm tired of working in this thankless IT support job.",
+                "I got tired of starting from square one again, man."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGlyZWQ&hash=900dfbede490b642f623fa25558dc54dbde91c14&lang=en&cache-only=0",
+            "defineEn": "needing to sleep or rest because of not having any more energy",
+            "defineVi": "cần ngủ hoặc nghỉ ngơi vì không còn năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "04e04d49-2cc4-42fb-976c-bf08ffc016bb",
+            "word": "disappointed",
+            "phonetic": "dɪsɐpɔɪntᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Taylor was bitterly disappointed to be dropped from the England side.",
+                "I'm disappointed about their decision, but I'm not losing any sleep over it.",
+                "I'm disappointed that I didn't get the job but that's the way the cookie crumbles.",
+                "We were left feeling rather disappointed.",
+                "I know you're disappointed, but you need to roll up your sleeves and redouble your efforts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzYXBwb2ludGVk&hash=85f143fe582e64ff31b1ddfb57a35006df50759f&lang=en&cache-only=0",
+            "defineEn": "not satisfied with something, especially because one expected otherwise",
+            "defineVi": "không hài lòng với một cái gì đó, đặc biệt là bởi vì một mong đợi khác",
+            "hasImg": true
+        },
+        {
+            "id": "a2a02534-e0e8-4818-8662-24efbb37c2b9",
+            "word": "worried",
+            "phonetic": "wʌɹid ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Police are worried that many crimes go unreported.",
+                "I'm not worried about my finances.",
+                "She was worried she was stuck in a dead-end job.",
+                "I'm worried that I didn't give a good account of myself in that job interview today.",
+                "I’m not worried about stepping on anybody’s toes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ycmllZA&hash=e8dcd4f18c931f67fa7080551d69f847706bbc28&lang=en&cache-only=0",
+            "defineEn": "feeling unhappy and afraid because of something that has happened or might happen",
+            "defineVi": "cảm thấy không vui và sợ hãi vì điều gì đó đã xảy ra hoặc có thể xảy ra",
+            "hasImg": true
+        },
+        {
+            "id": "be142d6b-81d6-4d1f-be0e-e5a0d30c0b09",
+            "word": "annoyed",
+            "phonetic": "ɐnɔɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I know you're annoyed to have gotten another parking ticket, but that's life.",
+                "I was, to put it mildly, annoyed.",
+                "Mom already seemed annoyed, but the fat really hit the fire when she found out that you'd been lying to her.",
+                "I'm annoyed.",
+                "It's actually spelled annoyed grunt."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5ub3llZA&hash=385a38312e0cdffd3e3a6482f55cd1f4c7969004&lang=en&cache-only=0",
+            "defineEn": "being angry to some extent",
+            "defineVi": "tức giận ở một mức độ nào đó",
+            "hasImg": true
+        },
+        {
+            "id": "d26176f1-df9e-4d97-89d8-c70ac738fcaa",
+            "word": "exciting",
+            "phonetic": "ɛksaɪɾɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Holy moly, this is exciting news!",
+                "The company CEO let the employees in on the exciting news about the upcoming merger.",
+                "Hockey is an exciting sport played on ice or field, with sticks and a small puck or ball.",
+                "Take the initiative and fill your life with exciting experiences.",
+                "They claim drag racing is the most exciting motor sport."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhjaXRpbmc&hash=5d7de4bb17f638e8bcb5acee6fe41d46d7f1fd05&lang=en&cache-only=0",
+            "defineEn": "making us feel interested, happy, and energetic",
+            "defineVi": "khiến chúng ta cảm thấy thích thú, hạnh phúc và tràn đầy năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "4e2c7db3-696e-41bc-9afb-5dda084ad4c0",
+            "word": "tiring",
+            "phonetic": "taɪɚɹɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It was a long and tiring day, but as the waiter brought me my dinner, I thought to myself, \"Well, this is more like it.\"",
+                "It's tiring.",
+                "And if you're having a really tiring day.",
+                "But it gets so tiring, it gets so exhausting.",
+                "There were months where I was on the road three out of four weeks, and it was tiring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGlyaW5n&hash=57602358cbbfc85da598c6266a1a0530a9887349&lang=en&cache-only=0",
+            "defineEn": "(particularly of an acivity) causing a feeling of physical or mental fatigue or exhaustion",
+            "defineVi": "(đặc biệt là một hoạt động) gây ra cảm giác mệt mỏi hoặc kiệt sức về thể chất hoặc tinh thần"
+        },
+        {
+            "id": "3cbf31a8-5114-4d12-8446-0ac565151c2d",
+            "word": "annoying",
+            "phonetic": "ɐnɔɪɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Interrupting others is annoying, so try to break the habit.",
+                "Interrupting others is annoying, so try to break the habit.",
+                "However, too much of a good thing can get annoying.",
+                "We finally got rid of your younger brother, he's so annoying!",
+                "Lines are super annoying."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5ub3lpbmc&hash=38ce143decfceea083577e89fd8bfe854cf1199b&lang=en&cache-only=0",
+            "defineEn": "causing slight anger",
+            "defineVi": "gây ra sự tức giận nhẹ",
+            "hasImg": true
+        },
+        {
+            "id": "1c197d5c-3e4d-4d1c-b3c3-1a5686ba1b38",
+            "word": "worrying",
+            "phonetic": "wʌɹiɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Then, in November 2015, health officials in Brazil raised alarm about a worrying trend.",
+                "That's worrying, because that would indicate to me that he's not just a middle-aged man that's just stupidly fallen in love with a young girl.",
+                "Champagne became the world's first wine-growing region to examine its carbon footprint and implement a carbon plan, as a result of worrying statistics.",
+                "It's a disturbing trend, for sure, and worrying, worrying conditions on the ground.",
+                "The presence or absence of the ruler during major media spectacles may also be a worrying sign, like in 2008 when Kim Jong-un's father and then leader was due at a major military parade to celebrate the country's founding."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d29ycnlpbmc&hash=299ad33188d30e56d69c27595db7330200df766a&lang=en&cache-only=0",
+            "defineEn": "causing someone to feel anxious or concerned about something, often due to the possibility of an uncertain or negative outcome",
+            "defineVi": "khiến ai đó cảm thấy lo lắng hoặc lo lắng về điều gì đó, thường là do khả năng xảy ra kết quả không chắc chắn hoặc tiêu cực",
+            "hasImg": true
+        },
+        {
+            "id": "1d39f1f5-815c-4883-8a24-3dadd761dae7",
+            "word": "disappointing",
+            "phonetic": "dɪsɐpɔɪntɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It's true that reality is disappointing.",
+                "She used the wrong ingredients in the recipe, resulting in a disappointing dish.",
+                "But then the wheels came off the bus in the final season, and now it's often derided as one of the most disappointing finales of all time.",
+                "After receiving the disappointing news, John's face turned dark and he had a face like thunder for the rest of the day.",
+                "And the speakers are pretty disappointing as well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzYXBwb2ludGluZw&hash=9a8bcc4830886fc39917d4f9c6e6314808647251&lang=en&cache-only=0",
+            "defineEn": "not fulfilling expectations",
+            "defineVi": "không đáp ứng mong đợi"
+        },
+        {
+            "id": "099bcfbb-8f07-44c5-9b15-df1eb1049286",
+            "word": "boring",
+            "phonetic": "boːɹɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The movie was as boring as they come.",
+                "It’s so boring, eating the same food day in, day out.",
+                "I have to do the same boring jobs day in day out.",
+                "The child nodded off to sleep during the boring lecture.",
+                "This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9yaW5n&hash=6fa81355354b30a5c965392171af28c5e406e1b7&lang=en&cache-only=0",
+            "defineEn": "making us feel tired and unsatisfied because of not being interesting",
+            "defineVi": "khiến chúng ta cảm thấy mệt mỏi và không hài lòng vì không thú vị",
+            "hasImg": true
+        },
+        {
+            "id": "acab3c75-8604-4764-9dd1-d0a9f046cc9d",
+            "word": "to go",
+            "phonetic": "tə ɡoʊ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The Siemens display goes the whole hog.",
+                "The cruise went very quickly.",
+                "My laptop went haywire",
+                "To go swimming/fishing/jogging.",
+                "The email went to everyone in the company."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ28&hash=a29af22a99b2c4ebaab92563d163caf4ad74d7f9&lang=en&cache-only=0",
+            "defineEn": "to travel or move from one location to another location",
+            "defineVi": "để đi du lịch hoặc di chuyển từ một địa điểm đến một địa điểm khác",
+            "hasImg": true
+        },
+        {
+            "id": "045e93b4-c378-4d70-a617-15295a9b542a",
+            "word": "holiday",
+            "phonetic": "hɑːlɪdeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That holiday cost me a small fortune.",
+                "The closing of the airport knocked our holiday plans on the head.",
+                "I'll always remember this holiday.",
+                "My favorite month is December because of the holidays.",
+                "We sometimes visit our relatives during the holidays."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9saWRheQ&hash=a9f80069d2e5f9c24741eed39895fc29a60dde5d&lang=en&cache-only=0",
+            "defineEn": "a period of recreation away from home or work",
+            "defineVi": "một khoảng thời gian giải trí xa nhà hoặc nơi làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "67a5c128-b567-43da-8140-a3a55e483492",
+            "word": "to become",
+            "phonetic": "tə bɪkʌm ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The unexpected challenges became grist for the mill of their problem-solving skills.",
+                "Short hair really becomes you.",
+                "The child will become an adult.",
+                "The new office block has become an expensive white elephant.",
+                "The old government program has become a sacred cow."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmVjb21l&hash=7c6c229c2ec2fc5187dad7080e9a293d36a41723&lang=en&cache-only=0",
+            "defineEn": "to start or grow to be",
+            "defineVi": "để bắt đầu hoặc phát triển để được"
+        },
+        {
+            "id": "5942b9d6-e9c9-40a2-8565-a0f03065010f",
+            "word": "millionaire",
+            "phonetic": "mɪliənɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He married a millionaire, and since then he's been living the life of Riley!",
+                "The successful entrepreneur knew that money makes money and used his initial profits to fund new business ventures that eventually made him a millionaire.",
+                "Even though the millionaire had a reputation for being difficult and unpleasant, he always had people around him, eager to curry favor and enjoy the benefits of his wealth.",
+                "Millionaires, billionaires.",
+                "Abby: After Vanderbilt's death, the island passed hands between millionaires."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlsbGlvbmFpcmU&hash=b04cec47ef896250f8db6fa1753bb0f904945b48&lang=en&cache-only=0",
+            "defineEn": "a person whose wealth amounts to or exceeds one million units of currency",
+            "defineVi": "một người có số tiền lên tới hoặc vượt quá một triệu đơn vị tiền tệ",
+            "hasImg": true
+        },
+        {
+            "id": "21b6d6d4-6214-4eac-a348-5dae9c080778",
+            "word": "to catch",
+            "phonetic": "tə kætʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The film caught a cold over the outstanding debt.",
+                "A vase on a side table caught his eye.",
+                "The new law caught them unawares.",
+                "He caught a glimpse of his reflection in the glass.",
+                "As she turned back, a movement across the lawn caught her eye."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2F0Y2g&hash=c01bfa7d58d709a9444848b1b3e370244b69aa67&lang=en&cache-only=0",
+            "defineEn": "to capture or grab something or someone using methods like hunting, chasing, or trapping",
+            "defineVi": "để chụp hoặc lấy một cái gì đó hoặc ai đó bằng cách sử dụng các phương pháp như săn bắn, đuổi theo hoặc bẫy",
+            "hasImg": true
+        },
+        {
+            "id": "80c71130-30d0-42f0-8072-74344836d2c0",
+            "word": "fish",
+            "phonetic": "fɪʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chef used fish paste as a filling for his sushi rolls",
+                "This fish is as dead as a herring.",
+                "I soon had the fish in a net.",
+                "The big fellow keeps a fish shop near the post office.",
+                "The colorful fish in the aquarium captured my attention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlzaA&hash=fdb92758151e316180093ddbf02f81bac6bfe227&lang=en&cache-only=0",
+            "defineEn": "an animal with a tail, gills and fins that lives in water",
+            "defineVi": "một con vật có đuôi, mang và vây sống dưới nước",
+            "hasImg": true
+        },
+        {
+            "id": "2964f3a3-625f-4163-a39e-5aa847bbccc6",
+            "word": "to have",
+            "phonetic": "tə hæv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That hot guy had a good head on his shoulders.",
+                "The hotel had expensive rates during the holiday season.",
+                "The group has a new CD in the pipeline.",
+                "The police had the situation well in hand.",
+                "The theatre company has several new productions in the pipeline for next season."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
+            "defineEn": "to eat or drink something",
+            "defineVi": "để ăn hoặc uống một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "72a85422-f8d3-4f5e-ad7c-7a2e8ba4e301",
+            "word": "lunch",
+            "phonetic": "lʌntʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does this pub do lunches?",
+                "The chef prepared a creamy tomato soup for lunch.",
+                "The employee took a lunch break in the cafeteria.",
+                "I made a delicious turkey and cheese sandwich for lunch.",
+                "I ate a sandwich and a half for lunch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bHVuY2g&hash=3fbf392c8676a321b91c2f08df8342a72dff5654&lang=en&cache-only=0",
+            "defineEn": "a meal eaten in the middle of the day",
+            "defineVi": "một bữa ăn vào giữa ngày",
+            "hasImg": true
+        },
+        {
+            "id": "ec8d96f3-d755-42e6-b4b9-22192fc32f73",
+            "word": "to [take] a nap",
+            "phonetic": "tə teɪk ɐ næp ",
+            "partOfSpeechType": "phrase",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFrZSBhIG5hcA&hash=70da60c997e94a71096f07aa056cc8d7d1333d28&lang=en&cache-only=0",
+            "defineEn": "to rest or sleep for a short period of time during the day",
+            "defineVi": "để nghỉ ngơi hoặc ngủ trong một khoảng thời gian ngắn trong ngày"
+        },
+        {
+            "id": "89ff3c9f-3f9a-4a33-b5f7-65721d7151b8",
+            "word": "siesta",
+            "phonetic": "siːɛstə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And that's what you call a siesta."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2llc3Rh&hash=3154607446742ad64430e08fe2bc5dadd3f89113&lang=en&cache-only=0",
+            "defineEn": "a short period of rest or sleep, typically taken during the afternoon",
+            "defineVi": "một thời gian nghỉ ngơi hoặc ngủ ngắn, thường được thực hiện vào buổi chiều"
+        },
+        {
+            "id": "fde0743e-0c5d-4c04-942f-a11f4c917287",
+            "word": "to earn",
+            "phonetic": "tʊ ɜːn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He earned his money by the sweat of his brow.",
+                "He certainly earned his place in the sun.",
+                "She earns money sitting for artists.",
+                "Mary's kindness and generosity towards others has earned her love and respect from everyone she meets.",
+                "Owing to legal changes, young barristers can no longer earn easy money on undefended divorces, which are now done by solicitors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWFybg&hash=53d79be9d91c5a15943803b479819267b3d70d93&lang=en&cache-only=0",
+            "defineEn": "to get money for the job that we do or services that we provide",
+            "defineVi": "để có được tiền cho công việc mà chúng tôi làm hoặc dịch vụ mà chúng tôi cung cấp",
+            "hasImg": true
+        },
+        {
+            "id": "ac0aec56-ae69-4b13-87c7-79e5d0896f90",
+            "word": "money",
+            "phonetic": "mʌni ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The business is losing money.",
+                "Money can't buy happiness.",
+                "Money means nothing to him.",
+                "A lot of people give money to good causes.",
+                "My parents give me pocket money every week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9uZXk&hash=4178e5094d54a8d5b469b59d4a203aa9d6c9cf7c&lang=en&cache-only=0",
+            "defineEn": "something that people use to buy and sell goods and services, can be in the form of coins or paper bills",
+            "defineVi": "thứ mà mọi người sử dụng để mua và bán hàng hóa và dịch vụ, có thể ở dạng tiền xu hoặc hóa đơn giấy",
+            "hasImg": true
+        },
+        {
+            "id": "b0363645-bda6-4ec4-9a57-a59553a363d3",
+            "word": "to sing",
+            "phonetic": "tə sɪŋ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "All newspapers sang from the same song sheet.",
+                "We sang songs to pass the time.",
+                "She can't sing for toffee.",
+                "Every night she sings the baby to sleep.",
+                "Cheerleaders from both schools sang the National Anthem before the start of the game and there were chills down my spine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2luZw&hash=b38c9cdf5b85aa98d3c9f515f33052f710140b5f&lang=en&cache-only=0",
+            "defineEn": "to use our voice in order to produce musical sounds in the form of a tune or song",
+            "defineVi": "sử dụng giọng nói của chúng tôi để tạo ra âm thanh âm nhạc dưới dạng một giai điệu hoặc bài hát",
+            "hasImg": true
+        },
+        {
+            "id": "3f7cd736-db1a-4365-95d7-c00b2ea68a82",
+            "word": "song",
+            "phonetic": "sɔŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Alice's song hits the airwaves.",
+                "That song always sends a shiver down my spine.",
+                "Fans have given the band's new song their seal of approval.",
+                "That band's new song is really off the hook!",
+                "She bought the painting for a song."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29uZw&hash=453d40d9a834f06c0bb84685374bcd6a451d5210&lang=en&cache-only=0",
+            "defineEn": "a piece of music that has words",
+            "defineVi": "một bản nhạc có lời",
+            "hasImg": true
+        },
+        {
+            "id": "09520813-c2cf-47e8-9482-8e0ca54ee3b0",
+            "word": "to start",
+            "phonetic": "tə stɑːɹt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "What time does the show start?",
+                "Start the engines!",
+                "The school semester starts next month.",
+                "Who started the fire?",
+                "The trail starts just outside the town."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3RhcnQ&hash=1d0e49ae28861dd0012d855f362411021ae940d9&lang=en&cache-only=0",
+            "defineEn": "to begin doing or using something that we were not doing or using before, and continue doing or using it",
+            "defineVi": "để bắt đầu làm hoặc sử dụng một cái gì đó mà chúng tôi đã không làm hoặc sử dụng trước đó và tiếp tục làm hoặc sử dụng nó",
+            "hasImg": true
+        },
+        {
+            "id": "5b8ab0e1-52e4-4f3b-92c5-76818edbced6",
+            "word": "business",
+            "phonetic": "bɪznəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Many more businesses are feeling the chill wind of the recession.",
+                "The business has already closed the books for this quarter.",
+                "The business is losing money.",
+                "The business has legs.",
+                "Many businesses use the Salesforce platform for customer relationship management."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVzaW5lc3M&hash=05385ff27a4a97f16285677f5b2378e28bce2ded&lang=en&cache-only=0",
+            "defineEn": "the activity of providing services or products in exchange for money",
+            "defineVi": "hoạt động cung cấp dịch vụ hoặc sản phẩm để đổi lấy tiền",
+            "hasImg": true
+        },
+        {
+            "id": "bf198b8c-842d-437c-9ad3-e7c5db96a4d3",
+            "word": "to walk",
+            "phonetic": "tə wɔːk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "A true leader walks the talk.",
+                "The old lady walked slowly with the support of her cane.",
+                "The father proudly walked his daughter down the aisle on her wedding day.",
+                "They walk their dogs every day.",
+                "She walked the horse around the ring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd2Fsaw&hash=3d09deb445ced60406d0944dd3203fabdb4eb252&lang=en&cache-only=0",
+            "defineEn": "to move forward at a regular speed by placing our feet in front of each other one by one",
+            "defineVi": "di chuyển về phía trước với tốc độ đều đặn bằng cách đặt chân của chúng ta trước mặt nhau từng cái một",
+            "hasImg": true
+        },
+        {
+            "id": "fbfc26cb-e676-49cd-9512-c19480d625d5",
+            "word": "village",
+            "phonetic": "vɪlɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Soon, with the return of the peasants and fishermen, the village comes to life again.",
+                "The road continues through the village of Knightwick.",
+                "Three villages have gone without water for days.",
+                "The village was set among olive groves on a hill.",
+                "The place still feels like a small fishing village."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlsbGFnZQ&hash=77c4e5f42d61e635f61596bcfd5239513d6824e1&lang=en&cache-only=0",
+            "defineEn": "a very small town located in the countryside",
+            "defineVi": "một thị trấn rất nhỏ nằm ở nông thôn",
+            "hasImg": true
+        }
+    ]
+}

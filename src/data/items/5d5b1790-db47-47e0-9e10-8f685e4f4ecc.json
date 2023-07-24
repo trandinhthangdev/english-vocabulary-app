@@ -1,0 +1,564 @@
+{
+    "id": "5d5b1790-db47-47e0-9e10-8f685e4f4ecc",
+    "title": "The Journey to Space",
+    "originalTitle": "Lesson 28",
+    "words": [
+        {
+            "id": "c4ed2eb1-11bf-48f1-a8ba-538098ade136",
+            "word": "alien",
+            "phonetic": "eɪliən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "the document purports to show evidence of the existence of aliens, but it's widely believed to be a hoax.",
+                "John thinks he can talk to aliens, he must have a number of screws loose.",
+                "It turns out that the supposed alien visitors people had been seeing were just a bunch of teenagers pulling a fast one on the town.",
+                "Get the laughing over about resident alien.",
+                "Every one is just alien."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxpZW4&hash=a7ee848c3be613f663d7a7fa897bc44d7e8115b6&lang=en&cache-only=0",
+            "defineEn": "a creature that is believed to exist in other worlds or planets",
+            "defineVi": "một sinh vật được cho là tồn tại ở các thế giới hoặc hành tinh khác",
+            "hasImg": true
+        },
+        {
+            "id": "17271b2e-7217-413a-b42a-66f74612ad00",
+            "word": "space",
+            "phonetic": "speɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Space movies have set the pace for the development of special effects.",
+                "The soft rug in the living room adds warmth to the space.",
+                "We lead the way in space technology.",
+                "The Persian carpet in the living room adds elegance and style to the space.",
+                "They've left a space here where you can put your name."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2U&hash=a180ab5d8e284fd406fc5ec691ffda09b7419613&lang=en&cache-only=0",
+            "defineEn": "the universe beyond the atmosphere of the earth",
+            "defineVi": "vũ trụ bên ngoài bầu khí quyển của trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "78284920-b873-417e-8c6f-149ebabc0ace",
+            "word": "outer space",
+            "phonetic": "aʊɾɚ speɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They've traveled to outer space.",
+                "This looks like something from outer space.",
+                "Since Russia first launched Sputnik in 1957, over 10,600 objects have been sent into outer space.",
+                "And to grow in large numbers, they need some help from outer space.",
+                "It merges fluently with outer space, where there's no atmosphere at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3V0ZXIgc3BhY2U&hash=41dfa2d97f3453524047454b906660e50ee094fe&lang=en&cache-only=0",
+            "defineEn": "the space outside the earth's atmosphere",
+            "defineVi": "không gian bên ngoài bầu khí quyển của trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "0b4920d2-72c9-463f-80b1-20c372f5020a",
+            "word": "universe",
+            "phonetic": "juːnɪvɜːs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scientist presented an abstract theory that revolutionized our understanding of the universe.",
+                "The discovery of new planets represents a quantum leap in astronomy, with the potential to deepen our understanding of the universe and our place in it.",
+                "Thank you universe for all the money landing into my lap easily.",
+                "Our understanding of how the universe came into existence.",
+                "Scientists disagree about how the universe was created."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5pdmVyc2U&hash=7dab87206be4a36f667fb80f81d1ad27f79a1424&lang=en&cache-only=0",
+            "defineEn": "all and everything that exists in the physical world, such as space, planets, galaxies, etc.",
+            "defineVi": "tất cả và mọi thứ tồn tại trong thế giới vật chất, chẳng hạn như không gian, hành tinh, thiên hà, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "a6de5fae-eead-4350-8e66-101694eb7579",
+            "word": "asteroid",
+            "phonetic": "æstɚɹɔɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Asteroids are millions of trillions of tons of rocks, metals, and ice.",
+                "Asteroids come in a few basic flavors.",
+                "What are these asteroids?",
+                "Yes, nuke the asteroid.",
+                "What IS an asteroid?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN0ZXJvaWQ&hash=cf25ef11fe4d1684c117b747da16d89a71c4edef&lang=en&cache-only=0",
+            "defineEn": "any of the rocky bodies orbiting the sun, ranging greatly in diameter and also found in large numbers between Jupiter and Mars",
+            "defineVi": "bất kỳ vật thể đá nào quay quanh mặt trời, có đường kính rất lớn và cũng được tìm thấy với số lượng lớn giữa Sao Mộc và Sao Hỏa",
+            "hasImg": true
+        },
+        {
+            "id": "59cb83e2-0000-4ea8-9b9a-fd4e286c6ff4",
+            "word": "black hole",
+            "phonetic": "blæk hoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Council is the Achilles heel of European democracy, if not the black hole.",
+                "Black holes skirt the line between science fiction and science fact.",
+                "You know, black holes.",
+                "A similar thing happens with black holes.",
+                "Black holes are the largest collections of pure violent energy in the universe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmxhY2sgaG9sZQ&hash=821216aa830b3a7f686f93179d055f611efcfc03&lang=en&cache-only=0",
+            "defineEn": "a place in the space with such high gravity that pulls in everything, even light",
+            "defineVi": "một nơi trong không gian có trọng lực cao đến mức kéo mọi thứ vào, kể cả ánh sáng",
+            "hasImg": true
+        },
+        {
+            "id": "87833dab-45e2-4bd2-8f49-4e5b87512219",
+            "word": "galaxy",
+            "phonetic": "ɡælɐksi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We used a telescope to observe distant stars and galaxies.",
+                "Sooo, galaxies are cannibals!",
+                "Many galaxies have companion, satellite galaxies.",
+                "The galaxy, over time, disappears.",
+                "Our galaxy is one of a hundred billion others."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2FsYXh5&hash=93708e681b66035ace6c7fecac1681b1f7e9eb56&lang=en&cache-only=0",
+            "defineEn": "a large number of star systems bound together by gravitational force",
+            "defineVi": "một số lượng lớn các hệ sao liên kết với nhau bằng lực hấp dẫn",
+            "hasImg": true
+        },
+        {
+            "id": "522b419e-182e-4c6c-92ca-76fec0eabf24",
+            "word": "solar system",
+            "phonetic": "soʊlɚ sɪstəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Earth is part of our solar system, orbiting around the sun.",
+                "After all, our Solar System has eight planets: four rocky spheres then four balls of gas.",
+                "The death of the Sun 4 billion years later marks the end of life in the solar system.",
+                "Solar systems are the rule, not the exception.",
+                "And that river of energy inflates our solar system."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29sYXIgc3lzdGVt&hash=e5b704207ac07c26b19dc0b4554bf014e0d32169&lang=en&cache-only=0",
+            "defineEn": "the sun and the group of planets orbiting around it, including the earth",
+            "defineVi": "mặt trời và nhóm hành tinh quay quanh nó, trong đó có trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "a43ac462-4dcc-452a-b118-cce1a41c0108",
+            "word": "Mercury",
+            "phonetic": "mɜːkjʊɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My answer is Mercury. -",
+                "So mercury is a transition metal.",
+                "Soon after, the barren planet crosses Mercury's orbit.",
+                "But Mercury’s perihelion precessed just a fraction of a degree per century too much.",
+                "But the mercury ended up at exactly the same level in both tubes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWVyY3VyeQ&hash=ba3f337da43645629cc3d9cbcc655142dfb8cb44&lang=en&cache-only=0",
+            "defineEn": "the 1st and the smallest planet of the solar system",
+            "defineVi": "hành tinh đầu tiên và nhỏ nhất của hệ mặt trời",
+            "hasImg": true
+        },
+        {
+            "id": "f63b8443-aa2b-4de6-bb2e-cff5454bb29e",
+            "word": "Venus",
+            "phonetic": "viːnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But on Venus, volcanic features make up 85% of the surface.",
+                "Take Venus.",
+                ", none is more mysterious than Venus.",
+                "Finally, in the 1960s, astronomers used radio telescopes to bounce radar pulses off of Venus.",
+                "Venus is hotter thanks to its atmosphere."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VmVudXM&hash=75cc89543cfcf4db4e5f01d9d1709cb312671492&lang=en&cache-only=0",
+            "defineEn": "the 2nd planet of the solar system located between Mercury and Earth",
+            "defineVi": "hành tinh thứ 2 của hệ mặt trời nằm giữa sao Thủy và trái đất",
+            "hasImg": true
+        },
+        {
+            "id": "1b67ced2-da51-4f6a-a366-11471ff5c049",
+            "word": "Mars",
+            "phonetic": "mɑːɹz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Move over, Mars!",
+                "Mars moons are very convenient.",
+                "Mars has two moons, Phobos and Deimos.",
+                "Mars has two small moons.",
+                "Mars changes the equation for flights with wings or rotors."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TWFycw&hash=1e38b5be890c08532601f92ae5b08596e4e03e99&lang=en&cache-only=0",
+            "defineEn": "the 4th planet of the solar system located between Earth and Jupiter",
+            "defineVi": "hành tinh thứ 4 của hệ mặt trời nằm giữa Trái đất và Sao Mộc",
+            "hasImg": true
+        },
+        {
+            "id": "f73b05de-d4f9-42cf-a2e5-b0c572c22e07",
+            "word": "Jupiter",
+            "phonetic": "dʒuːpɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The gas giants are Jupiter, Saturn, Uranus, and Neptune.",
+                "The math applied to Jupiter, too!",
+                "Jupiter has moons too.",
+                "In 1994, fragments of the comet Shoemaker-Levy 9 smashed into Jupiter.",
+                "Jupiter has methane in its atmosphere, Venus carbon dioxide."
+            ],
+            "audio": "https://tts.langeek.co/read?text=SnVwaXRlcg&hash=d6ccec456f5cccc0f06e3bd49169dfe02ca6f49d&lang=en&cache-only=0",
+            "defineEn": "the 5th and the largest planet of the solar system located between Mars and Saturn",
+            "defineVi": "hành tinh thứ 5 và lớn nhất của hệ mặt trời nằm giữa sao Hỏa và sao Thổ",
+            "hasImg": true
+        },
+        {
+            "id": "e45ad49a-1298-49a3-8248-2796313a39ef",
+            "word": "Saturn",
+            "phonetic": "sæɾɜːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Saturn is much bigger than Earth!",
+                "Saturn is one of the eight planets in our solar system.",
+                "This new model covers things like the shape of Earth’s orbit and its gravitational interactions with the planets out to Saturn.",
+                "The gas giants are Jupiter, Saturn, Uranus, and Neptune.",
+                "And in 2006, the Cassini spacecraft heard whistlers on Saturn."
+            ],
+            "audio": "https://tts.langeek.co/read?text=U2F0dXJu&hash=ca40fc17defc5b21778be0278f446155fe114e02&lang=en&cache-only=0",
+            "defineEn": "the 6th planet of the solar system located between Jupiter and Uranus, which has rings around it",
+            "defineVi": "hành tinh thứ 6 của hệ mặt trời nằm giữa Sao Mộc và Sao Thiên Vương, có các vành đai bao quanh nó",
+            "hasImg": true
+        },
+        {
+            "id": "21b9f6d2-149e-4983-9fba-371988c64c75",
+            "word": "Uranus",
+            "phonetic": "jʊɹɹænəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "By far the strangest seasons in our solar system happen on Uranus.",
+                "The gas giants are Jupiter, Saturn, Uranus, and Neptune.",
+                "On Uranus, though, that’s complicated.",
+                "Uranus sits sideways on its axis, probably thanks to a couple of collisions.",
+                "Voyager 2 passed Uranus back in 1986."
+            ],
+            "audio": "https://tts.langeek.co/read?text=VXJhbnVz&hash=ee33bc3e09579c98f0ee8eaa633b590994e06026&lang=en&cache-only=0",
+            "defineEn": "the 7th planet of the solar system with a blue-green color located between Saturn and Neptune",
+            "defineVi": "hành tinh thứ 7 của hệ mặt trời có màu xanh lam nằm giữa sao Thổ và sao Hải Vương",
+            "hasImg": true
+        },
+        {
+            "id": "2271375d-36ee-4259-90d7-35e2f00f5d43",
+            "word": "Neptune",
+            "phonetic": "nɛptuːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And finally, the furthest planet from the sun, and also the smallest gas giant, is Neptune!",
+                "Meanwhile, at Neptune, the temperatures are closer to -210°.",
+                "Neptune is probably the most underrated planet in the solar system.",
+                "The 14 moons of Neptune are a strange bunch.",
+                "The gas giants are Jupiter, Saturn, Uranus, and Neptune."
+            ],
+            "audio": "https://tts.langeek.co/read?text=TmVwdHVuZQ&hash=2bf50706133149ddedc5e138adee457daa73f5a5&lang=en&cache-only=0",
+            "defineEn": "the 8th planet of the solar system with a ring of icy particles around it",
+            "defineVi": "hành tinh thứ 8 của hệ mặt trời với một vòng các hạt băng giá xung quanh nó",
+            "hasImg": true
+        },
+        {
+            "id": "c5817aa0-c1d1-4bf1-b8a5-22ce39a24af0",
+            "word": "astronomy",
+            "phonetic": "ɐstɹɑːnəmi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The discovery of new planets represents a quantum leap in astronomy, with the potential to deepen our understanding of the universe and our place in it.",
+                "We explore the different branches of science, such as chemistry and astronomy.",
+                "Those machines aren’t doing astronomy, surely.",
+                "So nowadays, what’s astronomy?",
+                "Thanks to them, modern astronomy got kind of a late start."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN0cm9ub215&hash=c9ed74a87289f8eeef28ce45e2ee37d819a56061&lang=en&cache-only=0",
+            "defineEn": "a branch of science that studies space, planets, etc.",
+            "defineVi": "một nhánh của khoa học nghiên cứu không gian, các hành tinh, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "3d30ba99-98fe-46a8-8c22-8ac373d13e4e",
+            "word": "astronomer",
+            "phonetic": "ɐstɹɑːnəmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Initial launch of SpaceX's Starlink satellites in May of 2019 took astronomers by surprise.",
+                "Astronomers use a shorthand for this.",
+                "Astronomers use models all the time.",
+                "[♪ INTRO] About 200 years ago, astronomers had a bit of a debate on their hands.",
+                "Astronomers call this relationship resonance."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN0cm9ub21lcg&hash=3cb384d3194468504c582364bca013a54c653d0b&lang=en&cache-only=0",
+            "defineEn": "a scientist who studies or observes planets, stars, and other space phenomena",
+            "defineVi": "một nhà khoa học nghiên cứu hoặc quan sát các hành tinh, ngôi sao và các hiện tượng không gian khác",
+            "hasImg": true
+        },
+        {
+            "id": "0e2f2b40-704a-4c6f-a7da-51c452deeec8",
+            "word": "landing",
+            "phonetic": "lændɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pilot's best bet was to make an emergency landing.",
+                "And landing happens faster than that.",
+                "Sticks the landing.",
+                "- Landing in a crosswind situation requires a couple of different maneuvers.",
+                "We do vertical landings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFuZGluZw&hash=97015f23ddf2ab4ddebeac8c9cb5f0b6645f4baf&lang=en&cache-only=0",
+            "defineEn": "the act of settling on the ground by an aircraft or spacecraft",
+            "defineVi": "hành động định cư trên mặt đất bằng máy bay hoặc tàu vũ trụ",
+            "hasImg": true
+        },
+        {
+            "id": "39784aaf-3270-431a-9930-a30cbb0607b1",
+            "word": "outer",
+            "phonetic": "aʊɾɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "But that only sculpts our outer shell.",
+                "Earth's outer core is a liquid layer of iron and nickel, about 2,266 kilometers thick.",
+                "The outer membrane becomes more acidic than the matrix inside.",
+                "It also makes up the web’s outer frame.",
+                "These outer cells are called the trophoblasts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3V0ZXI&hash=e655b39085e6624ae3b074e55452e24f8b01ad10&lang=en&cache-only=0",
+            "defineEn": "located out of something or further from the center",
+            "defineVi": "nằm ngoài một cái gì đó hoặc xa hơn từ trung tâm"
+        },
+        {
+            "id": "75b3ce8a-8a12-4c52-a3c3-afcef5ed3592",
+            "word": "orbit",
+            "phonetic": "ɔːɹbɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Earth is part of our solar system, orbiting around the sun.",
+                "In the Milky Way, billions of stars orbit the galactic center.",
+                "Electrons orbit the atom core.",
+                "The purple whistle slowly orbits Taser stinky.",
+                "So this thing orbits very quickly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3JiaXQ&hash=c1feec6ed78a343e1bdfbad30ed74b92bead8566&lang=en&cache-only=0",
+            "defineEn": "the path an object in the space follows to move around a planet, star, etc.",
+            "defineVi": "con đường mà một vật thể trong không gian đi theo để di chuyển quanh một hành tinh, ngôi sao, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "c591dcca-8c78-4d38-b555-6e92fce70b39",
+            "word": "to orbit",
+            "phonetic": "tʊ ɔːɹbɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The Earth is part of our solar system, orbiting around the sun.",
+                "In the Milky Way, billions of stars orbit the galactic center.",
+                "Electrons orbit the atom core.",
+                "The purple whistle slowly orbits Taser stinky.",
+                "So this thing orbits very quickly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gb3JiaXQ&hash=64ac60646fd21b859293c7d6530d8ecdf9fadef5&lang=en&cache-only=0",
+            "defineEn": "to move around a star, planet, or a large object in the space",
+            "defineVi": "để di chuyển xung quanh một ngôi sao, hành tinh, hoặc một đối tượng lớn trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "4c30d043-d1f5-4dd9-9b8a-4495626e09d8",
+            "word": "rocket",
+            "phonetic": "ɹɑːkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The company rose like a rocket by trading sub-prime mortgages, and then fell like a stick when the housing bubble burst.",
+                "Everyone has their eyes on the young actress who has been rising like a rocket in the film industry.",
+                "Designing a website may be a lot of work but it’s not rocket science.",
+                "I love rockets.",
+                "Rockets struck at a military base outside Irbil."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm9ja2V0&hash=feedd3a15d18fc8ca414097031b758a9357c2e49&lang=en&cache-only=0",
+            "defineEn": "a spacecraft that moves up by the force of the gases produced when the fuel burns",
+            "defineVi": "một con tàu vũ trụ di chuyển lên nhờ lực của các khí được tạo ra khi nhiên liệu cháy",
+            "hasImg": true
+        },
+        {
+            "id": "2c80c8ec-975d-45d0-8557-62dc484590b1",
+            "word": "satellite",
+            "phonetic": "sæɾəlaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Even now, satellites can still detect some very weak magnetism in patches of Mars’ surface.",
+                "They do satellites.",
+                "Even relatively mild solar weather occasionally blocks radio communications or messes with satellites.",
+                "Satellite internet is ripe for government subsidies.",
+                "Satellite images are a key tool."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F0ZWxsaXRl&hash=ea119b54d28e90c80fc455c9882a1f727c26c9bd&lang=en&cache-only=0",
+            "defineEn": "an object sent into space to travel around the earth and send or receive information",
+            "defineVi": "một vật thể được gửi vào không gian để đi vòng quanh trái đất và gửi hoặc nhận thông tin",
+            "hasImg": true
+        },
+        {
+            "id": "a186c15f-e7b5-4183-9cfd-72dae805d0da",
+            "word": "to launch",
+            "phonetic": "tə lɑːntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The company's new product launch led to a fat increase in revenue.",
+                "The product launch went out with a bang, with a viral social media campaign and record-breaking sales numbers.",
+                "The activist group launched a campaign to expose the gnomes of Zurich and other powerful figures in the financial world, calling for greater regulation and oversight of the global financial system.",
+                "The company is gaining ground rapidly with its new product launch.",
+                "The company's new product launch is expected to do well in the market."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGF1bmNo&hash=6be157bb7adbfd46acdf7008486bc0ca35b8c1fb&lang=en&cache-only=0",
+            "defineEn": "to send an object, such as a satellite, missile, etc., into space",
+            "defineVi": "để gửi một đối tượng, chẳng hạn như một vệ tinh, tên lửa, vv, vào không gian",
+            "hasImg": true
+        },
+        {
+            "id": "59ea57d5-0c52-4d11-88bc-57dd3e99cd98",
+            "word": "takeoff",
+            "phonetic": "teɪkɔf ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The helicopter blades spun rapidly as it prepared for takeoff.",
+                "For a typical commercial jet, takeoff lasts only 30 to 35 seconds.",
+                "We do short takeoffs.",
+                "Both side boosters made a simultaneous successful landing back at Kennedy Space Center shortly after takeoff.",
+                "Rejected takeoffs are rare."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFrZW9mZg&hash=3b05a3507a46c7608d3f6a9f16cec051ff507562&lang=en&cache-only=0",
+            "defineEn": "the process by which an aircraft leaves the ground and starts to fly",
+            "defineVi": "quá trình một chiếc máy bay rời khỏi mặt đất và bắt đầu bay",
+            "hasImg": true
+        },
+        {
+            "id": "13f00c88-e732-4782-abc5-cf12edd7409f",
+            "word": "spacecraft",
+            "phonetic": "speɪskɹæft ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A few years later, a series of NASA’s Ranger spacecraft crashed into the Moon, too.",
+                "The spacecraft consisted of two really simple parts.",
+                "In the last couple of weeks, three agencies have sent spacecraft to the Red Planet.",
+                "So, NASA spacecraft go through a few phases.",
+                "But now and then, mission control crashes a spacecraft on purpose."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2VjcmFmdA&hash=57ae84fa7c215ebc2743ad3467492d9b2a012a51&lang=en&cache-only=0",
+            "defineEn": "a vehicle designed to travel in space",
+            "defineVi": "một phương tiện được thiết kế để đi du lịch trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "9511e6bb-5cda-4557-b23d-bda255c10d39",
+            "word": "spaceman",
+            "phonetic": "speɪsmən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The green blobs inside the barreleye fish's transparent skull are actually its eyes or two tiny spacemen!",
+                "Okay, well the good news is we've got our space backdrop, and we've got a spaceman and alien."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2VtYW4&hash=9f42f8b8476fd277e0f5123f009d5e8bbae9bd0f&lang=en&cache-only=0",
+            "defineEn": "someone who travels into space, such as an astronaut",
+            "defineVi": "một người du hành vào không gian, chẳng hạn như một phi hành gia",
+            "hasImg": true
+        },
+        {
+            "id": "5856ba09-1d6a-4d03-bbff-9035b059d7e1",
+            "word": "spaceship",
+            "phonetic": "speɪsʃɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I lost my spaceship.",
+                "- Samuel likes spaceships.",
+                "A spaceship in motion has momentum.",
+                "After a few months of travel our spaceship finally arrives at an asteroid.",
+                "Usually, fire inside a spaceship is very bad news."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2VzaGlw&hash=0cb2263ac7090c810394034f5737d10da2b6a498&lang=en&cache-only=0",
+            "defineEn": "a kind of spacecraft used by astronauts to explore in space",
+            "defineVi": "một loại tàu vũ trụ được sử dụng bởi các phi hành gia để khám phá trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "62ddc8ea-2b5a-46d5-bd74-e5b5eacf48ee",
+            "word": "space station",
+            "phonetic": "speɪs steɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- Catch up with the space station.",
+                "Also, say hello to robonaut, here on space station.",
+                "Any satellite, astronaut or space station in the way though will have a really bad time.",
+                "That’s almost 90 times farther than the Space Station!",
+                "Like NASA, it also has four suits aboard the space station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2Ugc3RhdGlvbg&hash=e934d280ca58bd51796c738cd9215964b36251c7&lang=en&cache-only=0",
+            "defineEn": "a large structure used as a long-term base for people to stay in space and conduct research",
+            "defineVi": "một cấu trúc lớn được sử dụng làm cơ sở lâu dài để mọi người ở trong không gian và tiến hành nghiên cứu",
+            "hasImg": true
+        },
+        {
+            "id": "3471cdfd-42af-4699-b4d6-3b06d1afc18e",
+            "word": "spacesuit",
+            "phonetic": "speɪssuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Traditionally, spacesuits are very expensive.",
+                "We're wearing spacesuits.",
+                "They all wore a white spacesuit.",
+                "Okay, so wear a spacesuit on the surface of Mars.",
+                "That leaves only four flight-ready spacesuits aboard the International Space Station."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2VzdWl0&hash=44b23c397eca5029f1dcfd081fa1569f7918f8b8&lang=en&cache-only=0",
+            "defineEn": "clothing used by astronauts while traveling in space",
+            "defineVi": "quần áo được các phi hành gia sử dụng khi du hành trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "bb973dfa-2340-49cf-988e-0e81025c8b82",
+            "word": "spacewalk",
+            "phonetic": "speɪswɔːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Spacewalks are exactly the same thing.",
+                "I'm talking spacewalks.",
+                "Spacewalks are a long day of putting out effort.",
+                "If you’re an astronaut, spacewalks are an important part of the job.",
+                "But, it turns out, spacewalks have nothing to do with your legs at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BhY2V3YWxr&hash=d0ce5d1785789715dd623cff2c30338e335ea529&lang=en&cache-only=0",
+            "defineEn": "a period during which an astronaut moves outside an aircraft in space",
+            "defineVi": "một khoảng thời gian trong đó một phi hành gia di chuyển bên ngoài một chiếc máy bay trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "d0d392aa-2ce5-4eba-a3b0-a8eb69a9546e",
+            "word": "telescope",
+            "phonetic": "tɛlᵻskoʊp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We used a telescope to observe distant stars and galaxies.",
+                "You want TELESCOPES!",
+                "Other telescopes picked up a burst of gamma rays and a flash of light, and, later, x-rays and radio signals, all from the same impact.",
+                "Other telescopes are less lucky.",
+                "This telescope is amazing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVsZXNjb3Bl&hash=d9cdedcfa2c680b3950eaed8431b2c7717579aec&lang=en&cache-only=0",
+            "defineEn": "a piece of equipment by which the far objects are made visible, especially in space",
+            "defineVi": "một phần của thiết bị mà các vật thể ở xa có thể nhìn thấy được, đặc biệt là trong không gian",
+            "hasImg": true
+        },
+        {
+            "id": "e8192251-56b7-41bf-996c-b1f0fab5f2cf",
+            "word": "voyage",
+            "phonetic": "vɔɪɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Columbus’ first voyage consisted of three ships.",
+                "For thousands of years, Polynesian navigators managed voyages like this without the help of modern navigational aids.",
+                "As with the Columbian Exchange, Cook's voyages to Australia remade the biological landscape.",
+                "Yet the voyage had to continue.",
+                "Darwin’s ideas about natural selection were born on a voyage around the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm95YWdl&hash=71df6caf2b61fca73c1602fe66b143e8992bb773&lang=en&cache-only=0",
+            "defineEn": "a long journey taken on a ship or spacecraft",
+            "defineVi": "một hành trình dài thực hiện trên một con tàu hoặc tàu vũ trụ",
+            "hasImg": true
+        }
+    ]
+}

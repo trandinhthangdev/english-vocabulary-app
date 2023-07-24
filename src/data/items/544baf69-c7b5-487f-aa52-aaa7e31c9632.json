@@ -1,0 +1,508 @@
+{
+    "id": "544baf69-c7b5-487f-aa52-aaa7e31c9632",
+    "title": "Mental Disorders",
+    "originalTitle": "Mental Disorders",
+    "words": [
+        {
+            "id": "42feb53c-8266-490c-9bb1-fd1d27414a7a",
+            "word": "disorder",
+            "phonetic": "dɪsoːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Their advice is not meant to send you down a rabbit hole, and involve you in chaos and disorder.",
+                "Jake's disordered eating habits have caused him to appear as skinny as a rail.",
+                "So conduct disorder.",
+                "And up to 18% develop postpartum anxiety disorders.",
+                "The biggest problem is diagnosing the disorder in the first place."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzb3JkZXI&hash=f5145bd0606030eba93bb3593b77d9bbdae11caf&lang=en&cache-only=0",
+            "defineEn": "a disease or a medical condition that prevents a part of the body or mind from functioning normally",
+            "defineVi": "một căn bệnh hoặc tình trạng y tế ngăn cản một phần cơ thể hoặc tâm trí hoạt động bình thường"
+        },
+        {
+            "id": "c488793f-50bc-4e4c-a057-4d0021041d33",
+            "word": "anxiety",
+            "phonetic": "æŋzaɪəɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My anxiety usually keeps me from taking time by the forelock.",
+                "Leave it to anxiety to put a situation out of perspective.",
+                "Jane's parents were worried about her anxiety, but they knew that care is no cure and encouraged her to seek professional help.",
+                "John was a silent sufferer, never letting on to his colleagues that he was struggling with anxiety and depression.",
+                "He took to practicing yoga every morning to help him manage his stress and anxiety."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW54aWV0eQ&hash=fba9f40d830c7a836f85bc7754c4133f3a9a730b&lang=en&cache-only=0",
+            "defineEn": "(psychiatry) a mental disorder of constant nervousness and worry, in which one expects something bad to happen with no valid reason",
+            "defineVi": "(tâm thần học) một rối loạn tâm thần thường xuyên căng thẳng và lo lắng, trong đó một người mong đợi điều gì đó tồi tệ xảy ra mà không có lý do chính đáng"
+        },
+        {
+            "id": "e623b2df-ef26-4b8b-a350-6f2b1aa2efd9",
+            "word": "mental",
+            "phonetic": "mɛntəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "She made a mental note to ask Alan about it.",
+                "Your brain needs mental stimulation to stay sharp, so if you don't challenge yourself intellectually, your cognitive abilities will decline - use it or lose it.",
+                "After attending the seminar on mental health, I became awake to the stigma surrounding mental illness and decided to become an advocate for greater awareness and understanding.",
+                "He was declared insane and ordered to be detained in a mental hospital at Her Majesty's pleasure.",
+                "Mental illness changes all the time."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVudGFs&hash=32dc443aeb3cb4eee4a17cfcf7cbd6f58d83c80d&lang=en&cache-only=0",
+            "defineEn": "relating to the health or state of the mind",
+            "defineVi": "liên quan đến sức khỏe hoặc trạng thái của tâm trí",
+            "hasImg": true
+        },
+        {
+            "id": "7246704e-88eb-4254-9ff1-253555b8c1f4",
+            "word": "depression",
+            "phonetic": "dᵻpɹɛʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After struggling with depression for years, taking up a new hobby like painting might do Jane a world of good.",
+                "John was a silent sufferer, never letting on to his colleagues that he was struggling with anxiety and depression.",
+                "This episode finds him deep in depression as divorce looms large.",
+                "Depression darkens my door and steals so many chunks of what makes me who I am.",
+                "Too much black bile, for example, causes depression."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwcmVzc2lvbg&hash=e97badb39be6db880c5316d35a258a2031312f00&lang=en&cache-only=0",
+            "defineEn": "a mental condition in which a person feels severe sadness and dejection, usually with physical symptoms such as insomnia, lethargy, etc.",
+            "defineVi": "một tình trạng tâm thần trong đó một người cảm thấy buồn bã và chán nản nghiêm trọng, thường có các triệu chứng thể chất như mất ngủ, thờ ơ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "b0cb4a70-2289-47ff-95c4-73cb4e64b6fe",
+            "word": "mania",
+            "phonetic": "meɪniə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Therefore not all Bipolar patients have Mania.",
+                "The introduction of steam boats set off a mania for canal building.",
+                "You can have mania that transitions straight down into depression.",
+                "And with your mania, your physical state explodes your feelings.",
+                "Mania is a state of hyper arousal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFuaWE&hash=33391fa2880b1a6ae2a4a460027f1d39232ee930&lang=en&cache-only=0",
+            "defineEn": "mental condition that causes extreme and unusual changes in one's energy level, mood, or emotions",
+            "defineVi": "tình trạng tâm thần gây ra những thay đổi cực đoan và bất thường về mức năng lượng, tâm trạng hoặc cảm xúc của một người"
+        },
+        {
+            "id": "ba57133e-8047-4dac-bdee-3925886a4acd",
+            "word": "dementia",
+            "phonetic": "dᵻmɛnʃə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "After the CEO announced that she had been diagnosed with dementia, her daughter gradually began taking the reins of the company.",
+                "Only a small percentage of older adults actually have dementia.",
+                "There's various aspects of dementia.",
+                "Alzheimer's disease is a form of progressive, irreversible dementia.",
+                "But this can happen with other forms of dementia, too."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVtZW50aWE&hash=ee6c4432f0894554906a4421414ef7e1ed9ce302&lang=en&cache-only=0",
+            "defineEn": "a mental condition that happens when the brain is damaged by disease or injury, causing memory loss and impairing the ability to think or make decisions",
+            "defineVi": "một tình trạng tâm thần xảy ra khi não bị tổn thương do bệnh tật hoặc chấn thương, gây mất trí nhớ và suy giảm khả năng suy nghĩ hoặc đưa ra quyết định"
+        },
+        {
+            "id": "4d6372a6-4764-427f-873e-78917925b982",
+            "word": "autism",
+            "phonetic": "ɔːtɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Take autism, for example.",
+                "Like all players on this special team, Shawn and Brad have autism. ",
+                "Autism is a neurological disorder that usually appears before a child's third birthday. ",
+                "Additionally, autism seems to run in families. ",
+                "Indeed, each person with autism may have a unique set of traits. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXV0aXNt&hash=e1152176d0733d97bac80ed5c7fb892659c2e188&lang=en&cache-only=0",
+            "defineEn": "a disorder that begins in early childhood, causing behavioral, social, and communication challenges",
+            "defineVi": "một chứng rối loạn bắt đầu từ thời thơ ấu, gây ra những thách thức về hành vi, xã hội và giao tiếp"
+        },
+        {
+            "id": "2a82af40-025e-4d56-bb7a-211ef6680826",
+            "word": "hyperactivity",
+            "phonetic": "haɪpɚɹæktɪvᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But stimulants and hyperactivity seem like a weird match.",
+                "This hyperactivity of the norepinephrine in your brain is thought to be causing the shock like feeling.",
+                "A true manic episode is an intense period of restless and often overly optimistic hyperactivity, during which your estimation of yourself and your ideas and your abilities can often get really skewed.",
+                "You may notice hyperactivity in your toddler, but this can be hard to distinguish between variations in behavior at that age.",
+                "The symptoms include fever, headache, nausea, vomiting, agitation, anxiety, confusion, hyperactivity, difficulty swallowing, excessive salivation, hallucinations, insomnia, and partial paralysis. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHlwZXJhY3Rpdml0eQ&hash=a1f08fb191cd59590f73744af63d1f56a28c8566&lang=en&cache-only=0",
+            "defineEn": "a state where a person is unusually active, is unable to stay focused or quiet for long, experienced mostly by children",
+            "defineVi": "trạng thái mà một người hoạt động bất thường, không thể tập trung hoặc im lặng lâu, hầu hết trẻ em đều trải qua"
+        },
+        {
+            "id": "dbb007a9-7770-456a-b0ab-6f2ac4e82331",
+            "word": "ADHD",
+            "phonetic": "eɪdiːeɪtʃdiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Also with ADHD, the loss of time has a cumulative effect.",
+                "With ADHD, procrastination is huge.",
+                "ADHD does not start at 40.",
+                "ADHD seems to do the opposite.",
+                "I talk more about ADHD as a brain disorder in this video."
+            ],
+            "audio": "https://tts.langeek.co/read?text=QURIRA&hash=bd0a8bcdf180801156162b1fa438f6e90aef4f5d&lang=en&cache-only=0",
+            "defineEn": "a condition, experienced mostly by children, making them seem restless, unable to keep focus, and act impulsively",
+            "defineVi": "một tình trạng mà hầu hết trẻ em đều trải qua, khiến chúng có vẻ bồn chồn, không thể tập trung và hành động bốc đồng"
+        },
+        {
+            "id": "504cf4b6-163e-4399-99c8-6e13eebf211d",
+            "word": "OCD",
+            "phonetic": "oʊsiːdiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Please do a video on OCD.",
+                "Often times people with OCD will have dysfunctional beliefs.",
+                "Many individuals with OCD actually understand the relationship between their obsessions and compulsions quite well.",
+                "These include depression, anxiety, OCD, PTSD, and psychosis.",
+                "Mandel has obsessive-compulsive disorder, OCD."
+            ],
+            "audio": "https://tts.langeek.co/read?text=T0NE&hash=719a1297034de440c9d6b04678dc1f46c2108da1&lang=en&cache-only=0",
+            "defineEn": "a disorder causing a person to have recurring unwanted thoughts or to do something such as cleaning or checking on something over and over",
+            "defineVi": "một chứng rối loạn khiến một người lặp đi lặp lại những suy nghĩ không mong muốn hoặc làm một việc gì đó chẳng hạn như dọn dẹp hoặc kiểm tra một thứ gì đó nhiều lần"
+        },
+        {
+            "id": "850809ee-6392-4673-98e6-08d2274f0ac2",
+            "word": "PTSD",
+            "phonetic": "piːtiːɛsdiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But PTSD coach has another problem.",
+                "Complex PTSD What is it?",
+                "Now, PTSD is Post Traumatic Stress Disorder.",
+                "There’s a lot of PTSD with that.",
+                "He was diagnosed with PTSD."
+            ],
+            "audio": "https://tts.langeek.co/read?text=UFRTRA&hash=c46263cc13d6e13e70c6ef0cb04920079a1ed4df&lang=en&cache-only=0",
+            "defineEn": "a disorder that is formed in a person who has experienced a very shocking or frightening event, causing them to have nightmares or flashbacks from the event",
+            "defineVi": "một rối loạn được hình thành ở một người đã trải qua một sự kiện rất sốc hoặc đáng sợ, khiến họ gặp ác mộng hoặc hồi tưởng về sự kiện đó"
+        },
+        {
+            "id": "5d39f810-3312-4c09-8e14-42df6d7d96e8",
+            "word": "panic attack",
+            "phonetic": "pænɪk ɐtæk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The stress of the job caused him to fall to pieces and have panic attacks.",
+                "And cause panic attacks.",
+                "Panic attacks can be part of anxiety disorders like PTSD, social anxiety disorder, OCD, and generalized anxiety disorder.",
+                "Panic attacks are not a diagnosis.",
+                "\"Is this a panic attack?\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFuaWMgYXR0YWNr&hash=252962b48bbd5c0aa2c0bd41559b753f91c28d84&lang=en&cache-only=0",
+            "defineEn": "a disorder causing one to suddenly feel intense anxiety or fear",
+            "defineVi": "một chứng rối loạn khiến một người đột nhiên cảm thấy lo lắng hoặc sợ hãi dữ dội"
+        },
+        {
+            "id": "e7d896a3-40a7-4cd8-ac8e-9b5437e6e4a1",
+            "word": "paranoia",
+            "phonetic": "pæɹənɔɪə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And out of that fear comes paranoia.",
+                "We also have a long history of a politics of racism, xenophobia, paranoia.",
+                "He has a paranoia impression of the United States and his power.",
+                "All of this opens the door for paranoia, depression, and delusions.",
+                "That was the beginning of his paranoia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyYW5vaWE&hash=32616acd42646a11cdacfeb0e3091bd0e8a5ad06&lang=en&cache-only=0",
+            "defineEn": "a mental disorder that causes a person to think they are very important or that others are trying to harm them",
+            "defineVi": "một chứng rối loạn tâm thần khiến một người nghĩ rằng họ rất quan trọng hoặc những người khác đang cố làm hại họ"
+        },
+        {
+            "id": "36cea1c0-5bd2-45fe-926f-d413bd51aac6",
+            "word": "paranoid",
+            "phonetic": "pæɹənɔɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You're paranoid.",
+                "Yeah, so the whole epic is incredibly paranoid about female sexuality.",
+                "Number five is suspiciousness or paranoid thinking.",
+                "Under stress, people with paranoid personality disorder can have brief psychotic episodes that last minutes to hours.",
+                "So that's paranoid personality disorder."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyYW5vaWQ&hash=68ea88d0058290a2babb67ec8cc773387b2b5852&lang=en&cache-only=0",
+            "defineEn": "suffering from a mental condition that causes one to believe other people are trying to harm one",
+            "defineVi": "mắc bệnh tâm thần khiến một người tin rằng những người khác đang cố làm hại mình"
+        },
+        {
+            "id": "4bb6e5f7-bd89-42b7-a985-f60e5f457ed9",
+            "word": "personality disorder",
+            "phonetic": "pɜːsənælᵻɾi dɪsoːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Personality disorders fall into this category.",
+                "But only one percent of the population actually has Anti-Social Personality Disorder.",
+                "People with antisocial personality disorder exhibit a lack of conscience, even towards friends and family members.",
+                "Now people with anti-social personality disorder lack a conscience.",
+                "Under stress, people with paranoid personality disorder can have brief psychotic episodes that last minutes to hours."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyc29uYWxpdHkgZGlzb3JkZXI&hash=196da14cff01cd73b8e1864c91ebecbae18bc3dd&lang=en&cache-only=0",
+            "defineEn": "any mental illness characterized by different patterns of social behavior, inability to form healthy interpersonal relationships and to function normally in society",
+            "defineVi": "bất kỳ bệnh tâm thần nào được đặc trưng bởi các kiểu hành vi xã hội khác nhau, không có khả năng hình thành các mối quan hệ giữa các cá nhân lành mạnh và hoạt động bình thường trong xã hội"
+        },
+        {
+            "id": "04a1bbaa-af24-4d89-9bca-402a1a8f03f2",
+            "word": "psychopath",
+            "phonetic": "saɪkoʊpæθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "like oh my god am I a psychopath?",
+                "Psychopaths don't let the feelings of others get in the way of what they want to do.",
+                "So next time somebody says to you, 'That person's a psychopath'.",
+                "I'm afraid I've turned into a psychopath.",
+                "So in your situation, I wouldn't expect a psychopath to quit his job, because he's afraid he may harm his boss."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvcGF0aA&hash=2169448c7d9f84b1ebd095c3c44ffd915e126d6e&lang=en&cache-only=0",
+            "defineEn": "someone with a severe mental condition that makes them prone to violent or antisocial behavior",
+            "defineVi": "người có tình trạng tâm thần nghiêm trọng khiến họ dễ có hành vi bạo lực hoặc chống đối xã hội"
+        },
+        {
+            "id": "2d3d206a-57ff-4074-9bcb-ea605f9eeecf",
+            "word": "sociopath",
+            "phonetic": "soʊsɪəpæθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sociopaths instead utilize pity to weave their way into our lives.",
+                "Only a small percentage of sociopaths are actually violent criminals.",
+                "People usually assume that sociopaths will instill fear in us.",
+                "Therefore, more female sociopaths are out in the world, roaming about, not locked away in prison.",
+                "And I look at that photo, I think, well, he's a sociopath."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29jaW9wYXRo&hash=fe6ffecb9e4eb2cecfd598a3269ca7401b984ca3&lang=en&cache-only=0",
+            "defineEn": "someone with a mental condition characterized by impulsive behavior, impaired remorse, and indifference to other people's feelings",
+            "defineVi": "người mắc bệnh tâm thần đặc trưng bởi hành vi bốc đồng, suy giảm khả năng hối hận và thờ ơ với cảm xúc của người khác"
+        },
+        {
+            "id": "bccb9b1e-8efa-4a59-9a54-52bc2588000f",
+            "word": "schizophrenia",
+            "phonetic": "skɪtsəfɹɛniə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But not all people with schizotypal personality disorder develop schizophrenia.",
+                "Or schizophrenia can cause false beliefs or sensations.",
+                "We treat schizophrenia with antipsychotic medications.",
+                "Schizophrenia causes cognitive problems like trouble with problem-solving and analysis.",
+                "Other research has connected IL-6 specifically to schizophrenia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2NoaXpvcGhyZW5pYQ&hash=2a4d621102119709d278b8c20bf37421e8f50ca6&lang=en&cache-only=0",
+            "defineEn": "a chronic mental disorder in which a person's ability to think, feel or behave is affected, often associated with the distortion of reality",
+            "defineVi": "một rối loạn tâm thần mãn tính trong đó khả năng suy nghĩ, cảm nhận hoặc hành vi của một người bị ảnh hưởng, thường liên quan đến sự biến dạng của thực tế"
+        },
+        {
+            "id": "ee851603-d80d-4099-9425-ff115285823a",
+            "word": "psychotic",
+            "phonetic": "saɪkɑːɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The psychotic symptoms are hallucinations, delusions, or severe thought or behavioral disorganization.",
+                "With psychotic depression, people can have persecutory delusions.",
+                "So who gets psychotic?",
+                "Clinicians sometimes call these micro psychotic episodes.",
+                "Under stress, people with paranoid personality disorder can have brief psychotic episodes that last minutes to hours."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvdGlj&hash=6c888bcb4bf5fa0fe2f033e60d92b5ac700adb08&lang=en&cache-only=0",
+            "defineEn": "(of a mental condition) affecting brain processes so severely that makes one unable to tell the difference between reality and fantasy",
+            "defineVi": "(về tình trạng tâm thần) ảnh hưởng nghiêm trọng đến các quá trình của não khiến người ta không thể phân biệt được đâu là thực và đâu là mộng"
+        },
+        {
+            "id": "b65368bb-3c16-4682-8a79-be4296f33be2",
+            "word": "borderline personality disorder",
+            "phonetic": "boːɹdɚlaɪn pɜːsənælᵻɾi dɪsoːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Borderline personality disorder is pervasive.",
+                "Which is Borderline Personality Disorder.",
+                "Dialectical behavior therapy was developed for borderline personality disorder.",
+                "People don't fully understand Borderline Personality Disorder.",
+                "I compared borderline personality disorder to bipolar disorder in this video."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9yZGVybGluZSBwZXJzb25hbGl0eSBkaXNvcmRlcg&hash=dcd50a348de63a5840c67c339de9e19939e34756&lang=en&cache-only=0",
+            "defineEn": "a mental illness that causes a person to act impulsively, to experience severe shifts in mood, and to be unable to form interpersonal relationships",
+            "defineVi": "một bệnh tâm thần khiến một người hành động bốc đồng, trải qua những thay đổi nghiêm trọng trong tâm trạng và không thể hình thành các mối quan hệ giữa các cá nhân"
+        },
+        {
+            "id": "a3e8dd82-aeda-4d92-b902-d7dc7c5bf111",
+            "word": "bipolar disorder",
+            "phonetic": "baɪpoʊlɚ dɪsoːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Mood swings are not Bipolar Disorder.",
+                "What is bipolar disorder?",
+                "With only confusing signals as a guide, people with bipolar disorder develop abnormal thoughts and behaviors.",
+                "With bipolar disorder, you have separate episodes of mania and depression.",
+                "So what causes bipolar disorder?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymlwb2xhciBkaXNvcmRlcg&hash=e05e3a2920b754cf8d4f4a6fcf109c660558cfc4&lang=en&cache-only=0",
+            "defineEn": "a chronic mental health condition marked by episodes of mania and depression",
+            "defineVi": "một tình trạng sức khỏe tâm thần mãn tính được đánh dấu bằng các giai đoạn hưng cảm và trầm cảm"
+        },
+        {
+            "id": "9ca00ce0-0a30-4b29-ab26-8edaa2a7eb12",
+            "word": "dissociative identity disorder",
+            "phonetic": "dɪsoʊsiətɪv aɪdɛntᵻɾi dɪsoːɹdɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I talk about dissociative identity disorder in this video right here.",
+                "Dissociative identity disorder develops when a person fails to form a total personality that integrates all aspects of yourself and your emotions.",
+                "I've gotten several questions on this topic of dissociative identity disorder, which used to be called multiple personality disorder.",
+                "So what happens with dissociative identity disorder is it interferes with your normal personality development.",
+                "One of the studies in the description found that people with dissociative identity disorder were found to have high levels of maladaptive daydreaming."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzc29jaWF0aXZlIGlkZW50aXR5IGRpc29yZGVy&hash=6985971082f319fe2c777a12cf7fe3126769f873&lang=en&cache-only=0",
+            "defineEn": "a psychological condition in which there are more than one personality in a person, each personality has different memories and patterns of behavior",
+            "defineVi": "một tình trạng tâm lý trong đó có nhiều hơn một nhân cách trong một người, mỗi nhân cách có những ký ức và kiểu hành vi khác nhau"
+        },
+        {
+            "id": "411dcbfd-413a-4d88-90b7-d61fcce5b3c4",
+            "word": "insomnia",
+            "phonetic": "ɪnsɑːmniə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Some people have insomnia.",
+                "I stands for insomnia.",
+                "Familial fatal insomnia usually affects adults as early as their 30s, though there have been a very small number of cases in teenagers.",
+                "This seemingly unsolvable loop is at the heart of insomnia, the world’s most common sleep disorder.",
+                "And I ended up with, like, really bad insomnia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zb21uaWE&hash=7de158723cbbb67277afbffed3f6ab4f8bc6ed62&lang=en&cache-only=0",
+            "defineEn": "a disorder in which one is unable to sleep or stay asleep",
+            "defineVi": "một rối loạn trong đó một người không thể ngủ hoặc ngủ"
+        },
+        {
+            "id": "616c5421-ee2f-433b-a01f-8d5b4c282f2b",
+            "word": "amnesia",
+            "phonetic": "æmniːʒə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The other major symptom is memory loss or amnesia.",
+                "Childhood amnesia starts to set in between the ripe old ages of 8 and 9.",
+                "There's an amnesia in the world about actually what's really going on with North Korea.",
+                "These are called retrograde and anterograde amnesia, respectively.",
+                "Now your blood alcohol content hits around .3%, and your hippocampus goes dark, and full amnesia sets in."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1uZXNpYQ&hash=76559ccf4d1b57395989bd17c3f07383dbfcb8b9&lang=en&cache-only=0",
+            "defineEn": "a severe medical condition that leads to partial or complete loss of memory",
+            "defineVi": "một tình trạng y tế nghiêm trọng dẫn đến mất trí nhớ một phần hoặc hoàn toàn"
+        },
+        {
+            "id": "acfba64b-55f1-4a7d-93ad-9cf43a2d1635",
+            "word": "egomania",
+            "phonetic": "iːɡoʊmeɪniə ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZWdvbWFuaWE&hash=e97d8e789a4c0ed8a15e6a9cf12e8035cd831488&lang=en&cache-only=0",
+            "defineEn": "a mental condition in which one is abnormally self-centered and self-interested",
+            "defineVi": "một tình trạng tinh thần trong đó một người tự coi mình là trung tâm và tư lợi một cách bất thường"
+        },
+        {
+            "id": "a52caf1c-7e44-453e-8780-0d2f6fa09ee6",
+            "word": "trauma",
+            "phonetic": "tɹɔːmə ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Trauma surgeons work tirelessly to save lives, but ultimately they realize there is a remedy for everything except death and must accept that some injuries are simply too severe.",
+                "I worry that all the trauma she's already been through at such a young age hardens her heart.",
+                "And trauma.",
+                "The attack evokes historic trauma, feelings of deep solidarity with all of the impacted families.",
+                "And you mentioned trauma."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhdW1h&hash=192d42b769bb153119a87e5caec94fe9fba870d4&lang=en&cache-only=0",
+            "defineEn": "a medical condition of the mind caused by extreme shock, which could last for a very long time",
+            "defineVi": "một tình trạng bệnh lý của tâm trí gây ra bởi cú sốc cực độ, có thể kéo dài trong một thời gian rất dài"
+        },
+        {
+            "id": "6cb2ba48-25f7-4cdc-9c18-508876a90a83",
+            "word": "self-harm",
+            "phonetic": "sɛlfhɑːɹm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Um, eating disorders and self-harm actually overlap a lot.",
+                "And a lot of this involves self-harm.",
+                "77 out of every 10,000 girls practice self-harmed that year, as opposed to 46 out of 10,000 in the years leading up to 2014.",
+                "I have a free self-harm workbook on KatiMorton.com.",
+                "And' to that end, what purpose does your self-harm serve?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VsZi1oYXJt&hash=ffac4d6c70cae5638a35d82514281c951b9b415d&lang=en&cache-only=0",
+            "defineEn": "the action of intentionally harming oneself, usually as a result of a mental disorder",
+            "defineVi": "hành động cố ý làm hại bản thân, thường là do rối loạn tâm thần"
+        },
+        {
+            "id": "6318ee10-5500-4068-a4a9-c14c37406cc8",
+            "word": "instability",
+            "phonetic": "ɪnstəbɪlᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The decision to pursue a career in the arts cuts both ways, as it can provide opportunities for creative expression but can also lead to financial instability and insecurity.",
+                "That instability contributes to tribal colleges' low graduation rate, just 19 percent.",
+                "But K-pop progressions often create harmonic instability by using suspensions.",
+                "So all signs point to financial instability and negative economic growth.",
+                "And the increased competition and influx of European weapons fueled warfare and instability that continues to this day."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zdGFiaWxpdHk&hash=5d389308dc42f9ba0ba9e080509d487bcf83c2af&lang=en&cache-only=0",
+            "defineEn": "tendency to unpredictable changes of mood or to behave erratically",
+            "defineVi": "xu hướng thay đổi tâm trạng không thể đoán trước hoặc cư xử thất thường"
+        },
+        {
+            "id": "ed3f43b7-3b5d-4f47-b686-e6dc38f03b4d",
+            "word": "complex",
+            "phonetic": "kɑːmplɛks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brown algae have complex life cycles with genetic diversity.",
+                "Love is a complex emotion that can bring immense joy and deep sorrow.",
+                "It makes light work of a complex process thanks to a series of easy-to-use wizards.",
+                "The professor delivered a lecture on abstract mathematics, exploring complex theories and formulas.",
+                "Understanding this complex legal document is Lombard Street to a China orange for most people."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGxleA&hash=b139ce05017655c11da2f4432aeb7650c9801fb3&lang=en&cache-only=0",
+            "defineEn": "a group of partly or completely repressed emotions or impulses that affect a person's behavior and patterns of thought",
+            "defineVi": "một nhóm các cảm xúc hoặc xung động bị kìm nén một phần hoặc hoàn toàn ảnh hưởng đến hành vi và kiểu suy nghĩ của một người"
+        },
+        {
+            "id": "44b1611e-2956-4bc8-b4a0-8d9091f27b3d",
+            "word": "suicidal",
+            "phonetic": "suːɪsaɪdəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Now, suicidal ideation means suicidal thoughts.",
+                "Now, suicidal ideation means suicidal thoughts.",
+                "He had had suicidal thoughts before.",
+                "Will suicidal thoughts completely go away?",
+                "Depression sucks, suicidal thoughts suck."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VpY2lkYWw&hash=372634c4595131b30ea2f1719e440281f3e1e7cd&lang=en&cache-only=0",
+            "defineEn": "dangerous and likely to be fatal; likely to cause a disaster",
+            "defineVi": "nguy hiểm và có khả năng gây tử vong; có khả năng gây ra thảm họa"
+        },
+        {
+            "id": "52c11afa-1119-4103-8d6c-95565fe577d6",
+            "word": "masochistic",
+            "phonetic": "mæsəkɪstɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bWFzb2NoaXN0aWM&hash=f7d66a4b71f3d6820a620c99c2bd5f4abd943162&lang=en&cache-only=0",
+            "defineEn": "gaining sexual satisfaction from being physically or mentally harmed or controlled",
+            "defineVi": "đạt được sự thỏa mãn tình dục từ việc bị tổn hại hoặc kiểm soát về thể chất hoặc tinh thần"
+        },
+        {
+            "id": "53587a7b-6257-44f0-9852-7434bd6c6cc1",
+            "word": "sadistic",
+            "phonetic": "sɐdɪstɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Thanks to his work and that of his colleagues, more than 300 women and girls have been rescued from horror and more than 1,500 sadistic traffickers have been put behind bars.",
+                "and we have one question: are sadistic strangers actually poisoning kids’ candy?",
+                "In the now-infamous experiment, university students were randomly assigned to be either a guard or prisoner, and within a matter of days the students assigned to be the guards had become so sadistic that the researchers were forced to stop the experiment.",
+                "They receive all the same forms that your employer and bank send to you, and as long as you're not itemizing deductions, they don't technically need you to do the homework like some kind of sadistic math teacher who will send you to prison for a wrong answer."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FkaXN0aWM&hash=191faef3eeec37d04f3d1ad015ad99d1134222b5&lang=en&cache-only=0",
+            "defineEn": "finding pleasure, particularly sexual pleasure in hurting others",
+            "defineVi": "tìm kiếm niềm vui, đặc biệt là niềm vui tình dục trong việc làm tổn thương người khác"
+        }
+    ]
+}

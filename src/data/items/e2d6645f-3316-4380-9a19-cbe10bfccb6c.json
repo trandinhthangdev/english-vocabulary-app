@@ -1,0 +1,666 @@
+{
+    "id": "e2d6645f-3316-4380-9a19-cbe10bfccb6c",
+    "title": "Let's Get Down to Business!",
+    "originalTitle": "Lesson 7",
+    "words": [
+        {
+            "id": "4508cba1-a2b6-41d9-a2b3-524d6509375f",
+            "word": "agency",
+            "phonetic": "eɪdʒənsi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our agency is a one-stop shop for all your travel needs.",
+                "The politician was suspected of being in league with the foreign spy agency to leak confidential information.",
+                "If we don't secure new funding soon, there is going to be a question mark over the future of this agency.",
+                "Despite accusations that the company was responsible for polluting the lake, it received a clean bill of health from the environmental agency after a thorough investigation.",
+                "The agency adopted a single-sign-on method back in 2017."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWdlbmN5&hash=e66ddfa592731a64124551dd125519326c98ebfc&lang=en&cache-only=0",
+            "defineEn": "a business or organization that provides services to other parties, especially by representing them in transactions",
+            "defineVi": "một doanh nghiệp hoặc tổ chức cung cấp dịch vụ cho các bên khác, đặc biệt là bằng cách đại diện cho họ trong các giao dịch"
+        },
+        {
+            "id": "246591e8-98d0-44cd-bd1e-f6d6048a8232",
+            "word": "corporation",
+            "phonetic": "kɔːɹpɚɹeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "John shook his head as another corporation was fined a relatively small amount for environmental damage and safety violations.",
+                "He said his lawyer would serve a writ to the multinational corporation within a week.",
+                "This law will help small businesses to compete on equal terms with large multinational corporations.",
+                "He lost his job for playing ducks and drakes with the fund of corporation.",
+                "Frank knew he was just a cog in the wheel of this giant corporation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29ycG9yYXRpb24&hash=51856556620772510e2de1ad847c4e974ae651f3&lang=en&cache-only=0",
+            "defineEn": "a company or group of people that are considered as a single unit by law",
+            "defineVi": "một công ty hoặc một nhóm người được coi là một đơn vị theo luật",
+            "hasImg": true
+        },
+        {
+            "id": "48d4777a-2f56-4d2b-a99f-bd37ea2698ac",
+            "word": "board",
+            "phonetic": "boːɹd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The board meeting painted a pretty grim picture.",
+                "The board agreed to sell the company.",
+                "The deal was completely open and above board.",
+                "Heads will have to roll at board level.",
+                "They jump off the diving board into the pool."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9hcmQ&hash=6dec2b1475a01601e90e4b9a96944e22bddf4af1&lang=en&cache-only=0",
+            "defineEn": "a group of people with the power to make decisions for an organization or company",
+            "defineVi": "một nhóm người có quyền quyết định cho một tổ chức hoặc công ty"
+        },
+        {
+            "id": "fd238e17-7253-4214-a1f2-2b81f767c812",
+            "word": "CEO",
+            "phonetic": "siːiːoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The company kicked off the CEO for embezzlement.",
+                "The CEO is the big wheel of the entire company, with control over all major decisions.",
+                "The company CEO let the employees in on the exciting news about the upcoming merger.",
+                "The new CEO made her bow at the company's annual shareholder meeting.",
+                "The company's new CEO is a big name in the financial world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Q0VP&hash=2969fe55e566808a01900a63d66a137f2c134da5&lang=en&cache-only=0",
+            "defineEn": "the highest-ranking person in a company",
+            "defineVi": "người cấp cao nhất trong một công ty",
+            "hasImg": true
+        },
+        {
+            "id": "b6a93953-3e41-46de-aac9-967b8e9e0365",
+            "word": "chairman",
+            "phonetic": "tʃɛɹmən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The chairman's resignation finally brought matters to a head.",
+                "Unlike most chairmen, he gets his hands dirty working alongside the other managers.",
+                "As the newly appointed Chairman of the Military Pensions Board assumes office and takes over the rein of affairs.",
+                "Its chairman is Louis DiPalma.",
+                "Here’s the state’s Republican chairman that year."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hhaXJtYW4&hash=4a3f61ba79a7b017ccae2060882072fde12197a5&lang=en&cache-only=0",
+            "defineEn": "someone who is in charge of a company, organization, etc. for a long term",
+            "defineVi": "một người chịu trách nhiệm về một công ty, tổ chức, v.v. trong một thời gian dài",
+            "hasImg": true
+        },
+        {
+            "id": "6f6a1eb1-87d1-4c93-9f1f-c485134f92d3",
+            "word": "entrepreneur",
+            "phonetic": "ɑːntɹɪpɹənʊɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The cut and thrust of the business world keeps entrepreneurs on their toes.",
+                "The entrepreneur received a lot of feedback from friends and family on her new business idea.",
+                "Entrepreneurs who are struggling to grow their businesses.",
+                "The young entrepreneur is quickly becoming a big noise in the world of startup companies.",
+                "She introduced her husband as a successful entrepreneur during the charity event."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW50cmVwcmVuZXVy&hash=5d959a06df011dde545ff215c7b766ec90f2d654&lang=en&cache-only=0",
+            "defineEn": "a person who starts a business, especially one who takes financial risks",
+            "defineVi": "một người bắt đầu kinh doanh, đặc biệt là một người chấp nhận rủi ro tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "1fd59aa1-2cc8-4667-bc62-4c6193bce989",
+            "word": "clerk",
+            "phonetic": "klɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The store clerk measured the length of the bolt to calculate the customer's purchase.",
+                "Although he was just a lowly clerk, he refused to be intimidated by his boss's authority - a cat may look at a king, and he had every right to question and challenge his supervisor's decisions.",
+                "First the clerk picked up an item. ",
+                "The clerk will call the roll.",
+                "That leaves clerks in a tight spot."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlcms&hash=255b576c70219b8770f8a378961ca3667e1d947e&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to keep records and do the routine tasks in an office, shop, etc.",
+            "defineVi": "ai đó có công việc là lưu giữ hồ sơ và thực hiện các công việc thường ngày trong văn phòng, cửa hàng, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "a20ff179-9387-4351-8f26-510f2ff56c45",
+            "word": "draft",
+            "phonetic": "dɹæft ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I’ve read your drafts and I advise you not to give up your day job.",
+                "With a gentle push, the window closed tightly, sealing out the draft.",
+                "Mark wasn't happy with his first draft of the book, but he's grateful for the chance to take a second bite at the cherry and revise it before submitting it to publishers.",
+                "The U.S. government drafted thousands of 18 to 21 year old men.",
+                "Did you draft that statement?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZHJhZnQ&hash=77fba2a700f5a107e37c24f5c7772c6bddcc33c3&lang=en&cache-only=0",
+            "defineEn": "a document ordering the bank to pay a specific amount of money to someone",
+            "defineVi": "một tài liệu yêu cầu ngân hàng trả một số tiền cụ thể cho ai đó"
+        },
+        {
+            "id": "7511e464-c7f0-45f3-8823-86d3c7b88a2b",
+            "word": "income",
+            "phonetic": "ɪŋkʌm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His gambling was eating away at their income.",
+                "Retirement often brings with it a massive drop in income.",
+                "The budget can be balanced by raising income taxes by 2 percent.",
+                "He got on his soapbox and gave a passionate speech about income inequality.",
+                "Though it wasn't ideal, he knew that it was better to have some income than none at all."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jb21l&hash=32ff0b43239c1305cfe0bbf1ccd61364a69295d8&lang=en&cache-only=0",
+            "defineEn": "the money that is regularly earned from a job or through an investment",
+            "defineVi": "số tiền thường xuyên kiếm được từ một công việc hoặc thông qua một khoản đầu tư",
+            "hasImg": true
+        },
+        {
+            "id": "01d7d422-bfc1-4124-82d1-34219bb3774c",
+            "word": "insurance",
+            "phonetic": "ɪnʃʊɹɹəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I called the insurance company about this claim, but they kept giving me the runaround.",
+                "Too many companies reckon without the pitfalls that make insurance like this an absolute necessity.",
+                "Many people end up paying through the nose for their car insurance policies.",
+                "John was a reckless driver when he was young, and now he has a criminal record and a hard time getting insurance.",
+                "Firms advertising cheap life insurance are actually charging many customers up to five times the going rate."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5zdXJhbmNl&hash=4685d27070102cba994897309213060bcf2cc615&lang=en&cache-only=0",
+            "defineEn": "the arrangement with an institute or agency according to which they guarantee to make up for the damages in the event of an accident or loss",
+            "defineVi": "thỏa thuận với một viện hoặc cơ quan theo đó họ đảm bảo bồi thường thiệt hại trong trường hợp xảy ra tai nạn hoặc mất mát"
+        },
+        {
+            "id": "55e24358-3ffd-41ef-8582-e86e1079688e",
+            "word": "market research",
+            "phonetic": "mɑːɹkɪt ɹᵻsɜːtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The answer is market research.",
+                "A major part of market research is analyzing competitors.",
+                "According to the U.S. Census, in 1998, market research and public polling firms made over $9.7 billion.",
+                "Ford did a lot of market research.",
+                "The biggest players in the industry globally are market research companies that have internal public opinion departments within their ranks."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFya2V0IHJlc2VhcmNo&hash=f5119b88186760d0b8e4a515c8bcd2349c66f3da&lang=en&cache-only=0",
+            "defineEn": "the act of gathering information about what people need or buy the most and why",
+            "defineVi": "hành động thu thập thông tin về những gì mọi người cần hoặc mua nhiều nhất và tại sao",
+            "hasImg": true
+        },
+        {
+            "id": "32d8336d-bd32-493a-9a3b-f7ae5acd0f29",
+            "word": "to contract",
+            "phonetic": "tə kəntɹækt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The company has held the advertising contract since 2005.",
+                "Contracts and leases to work the mines.",
+                "Our competitors obtained the contract by breaking every rule in the book.",
+                "That contract proved to be a millstone around his neck.",
+                "The company has won a contract to supply books and materials to schools."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29udHJhY3Q&hash=dbc92c1f895c97fc8d360b561ebdc5d78c7be2d6&lang=en&cache-only=0",
+            "defineEn": "to enter or make an official arrangement with someone",
+            "defineVi": "để nhập hoặc thực hiện một thỏa thuận chính thức với một ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "f677debb-33b9-47c2-8b53-5fd216b9d8af",
+            "word": "to establish",
+            "phonetic": "tʊ ɪstæblɪʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The court established, beyond any reasonable doubt, that the man was innocent.",
+                "We should go through the established channels for product development.",
+                "The lion's roar can be heard from miles away, establishing its dominance.",
+                "The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market.",
+                "It took some time, but eventually, they were able to establish speaking terms again."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZXN0YWJsaXNo&hash=bc61c08c86d0e48ae071c62bc0ffeafa7c3eeeb4&lang=en&cache-only=0",
+            "defineEn": "to create a company or organization with the intention of running it for a long term",
+            "defineVi": "để tạo ra một công ty hoặc tổ chức với ý định điều hành nó lâu dài",
+            "hasImg": true
+        },
+        {
+            "id": "850d58be-d12c-4fb5-a8e8-8eae1b8e3102",
+            "word": "to found",
+            "phonetic": "tə faʊnd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Samuel Chase's uncle founded the college.",
+                "STEPHANIE SY: Sulaiman, a therapist herself, founded the group Black Men Heal back in 2018. ",
+                "Automaker and energy company Tesla was founded in 2003.",
+                "The Austin, Texas-based company was founded by the Seiders brothers.",
+                "Another field was founded in the late 19th century: chemical engineering."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZm91bmQ&hash=37e6189e549f885226d791d1d8fb477cbf6f6ec5&lang=en&cache-only=0",
+            "defineEn": "to create or establish an organization or place, especially by providing the finances",
+            "defineVi": "để tạo hoặc thành lập một tổ chức hoặc địa điểm, đặc biệt là bằng cách cung cấp tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "0f130914-df45-4471-9191-8fa682ce7d84",
+            "word": "to fund",
+            "phonetic": "tə fʌnd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The scholarship fund had made a difference in a lot of people's lives.",
+                "The company's recent collapse has left their pension fund members up the creek.",
+                "He used his party's slush fund to buy votes in the election.",
+                "She lined her pockets with the company's funds to pay her debt.",
+                "The committee members promised to put the fund behind a development scheme for the impoverished area."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZnVuZA&hash=75db28e1fed9174b81a974449f60f2f5a3991b9a&lang=en&cache-only=0",
+            "defineEn": "to supply money for a special purpose",
+            "defineVi": "để cung cấp tiền cho một mục đích đặc biệt"
+        },
+        {
+            "id": "5349e1b5-7c04-4d83-8065-8957732fc85f",
+            "word": "to manufacture",
+            "phonetic": "tə mænjuːfæktʃɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Manufactured by CUI.",
+                "The vaccine was manufactured on the outskirts of this quiet town in Northern Belgium.",
+                "Before COVID-19, 60 percent of the world's vaccines were manufactured here.",
+                "Through the rest of the 20th century, it manufactured glass for everything from television sets to the windows and every manned American spacecraft mission from the Mercury program to the space shuttle.",
+                "He was manufacturing in the U.S."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWFudWZhY3R1cmU&hash=4872bdecc607fa1c7286cee47b3a6670620979ad&lang=en&cache-only=0",
+            "defineEn": "to produce products in large quantities by using machinery",
+            "defineVi": "để sản xuất sản phẩm với số lượng lớn bằng cách sử dụng máy móc",
+            "hasImg": true
+        },
+        {
+            "id": "c2f532af-b62b-4a6b-8e53-d28218e05e76",
+            "word": "to launch",
+            "phonetic": "tə lɑːntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The company's new product launch led to a fat increase in revenue.",
+                "The product launch went out with a bang, with a viral social media campaign and record-breaking sales numbers.",
+                "The activist group launched a campaign to expose the gnomes of Zurich and other powerful figures in the financial world, calling for greater regulation and oversight of the global financial system.",
+                "The company is gaining ground rapidly with its new product launch.",
+                "The company's new product launch is expected to do well in the market."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGF1bmNo&hash=6be157bb7adbfd46acdf7008486bc0ca35b8c1fb&lang=en&cache-only=0",
+            "defineEn": "to start an organized activity or operation",
+            "defineVi": "để bắt đầu một hoạt động có tổ chức hoặc hoạt động",
+            "hasImg": true
+        },
+        {
+            "id": "08a3f6eb-d133-427b-ac3c-91ddd8a9d6ae",
+            "word": "to ship",
+            "phonetic": "tə ʃɪp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The ship is holding a south-easterly course.",
+                "The captain navigated the ship through rough waters with skill and expertise.",
+                "Our ship changed course.",
+                "That ship of yours clearly has had her day.",
+                "Jane sure ran a tight ship around here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2hpcA&hash=35da5aec7234816da5b68bf16d7913e00742bc51&lang=en&cache-only=0",
+            "defineEn": "to send goods by a means of transport",
+            "defineVi": "gửi hàng hóa bằng phương tiện vận tải",
+            "hasImg": true
+        },
+        {
+            "id": "796560b6-efa9-4d56-bf5e-45b376980e83",
+            "word": "to sponsor",
+            "phonetic": "tə spɑːnsɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The rich philanthropist sponsored scholarships for underprivileged students.",
+                "My failure to find sponsors for the project was a monkey on my back for a long time.",
+                "We also held two very topical sponsored roundtable events this month which attempt to predict how the land lies in manufacturing and on spiralling inflation.",
+                "ASUS sponsored this unboxing of the RT-AX86U.",
+                "Not sponsored, just an affiliate link."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3BvbnNvcg&hash=6012407a48941c566e64eec376296c07256aac49&lang=en&cache-only=0",
+            "defineEn": "to cover the costs of a project, TV or radio program, activity, etc. and being advertized in the process",
+            "defineVi": "để trang trải chi phí cho một dự án, chương trình truyền hình hoặc đài phát thanh, hoạt động, v.v. và được quảng cáo trong quá trình này"
+        },
+        {
+            "id": "401fce00-c883-4bfe-a672-319dd01d7df3",
+            "word": "strategy",
+            "phonetic": "stɹæɾədʒi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An ostrich strategy for covid-19 is too risky.",
+                "The company abandoned its outdated marketing strategy in favor of a more innovative approach.",
+                "Traditional stores are now pursuing a bricks and clicks strategy.",
+                "When the company had already lost a major client, the sales team suggested a new strategy.",
+                "The company's new strategy seems to be on course, with positive results so far."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RyYXRlZ3k&hash=6c0e2570d309c247f0d10e2df78b7444d4d39847&lang=en&cache-only=0",
+            "defineEn": "an organized plan made to achieve a goal",
+            "defineVi": "một kế hoạch có tổ chức thực hiện để đạt được một mục tiêu"
+        },
+        {
+            "id": "035a1d1f-3b8c-4dd2-bde5-262bbc8f0a2d",
+            "word": "partnership",
+            "phonetic": "pɑːɹtnɚʃɪp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The business partnership had started out promising, but from the sweetest wine, the tartest vinegar - it ended in a messy legal battle.",
+                "They have committed to a lifetime of love and partnership by getting married.",
+                "I had to end my partnership with my friend, but it was better one house spoiled than two - if we had continued to work together, it would have ruined our friendship and our business.",
+                "This helped them avoid misunderstandings and build a strong business partnership.",
+                "The two rival companies decided to put their differences aside and play ball to develop a mutually beneficial partnership."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFydG5lcnNoaXA&hash=dedb71a6b62df413238736046360ea43b233dd19&lang=en&cache-only=0",
+            "defineEn": "a relationship between business partners",
+            "defineVi": "mối quan hệ giữa các đối tác kinh doanh",
+            "hasImg": true
+        },
+        {
+            "id": "d0e8499a-2e31-4bd3-bd41-12315d8669a6",
+            "word": "profit margin",
+            "phonetic": "pɹɑːfɪt mɑːɹdʒɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Billions of dollars are made with extreme profit margins.",
+                "Those cut into restaurants already thin profit margins.",
+                "And now trolling is becoming a tool to further profit margins.",
+                "Another factor, dragging down profit margins for some of the country's medium to smaller size airports.",
+                "- Because of the tight profit margins, the food quality wasn't as great as it probably should have been or could have been. -"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvZml0IG1hcmdpbg&hash=9e48395594525553c5c3c02129c9a0d4d3f7d974&lang=en&cache-only=0",
+            "defineEn": "the difference between the earnings and the costs in a business",
+            "defineVi": "sự khác biệt giữa thu nhập và chi phí trong một doanh nghiệp"
+        },
+        {
+            "id": "07221e4b-be85-4fc8-aa0e-f1aa264169a1",
+            "word": "stockholder",
+            "phonetic": "stɑːkhoʊldɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Stockholders took it on the chin yesterday as markets fell sharply.",
+                "There's stockholder litigation against Tesla that alleges it was a bad deal that never should have happened.",
+                "In other words, corporations can fail without, like, ruining their stockholders and directors.",
+                "But Tesla is dealing with a pretty high volume of lawsuits from small claims to stockholder litigation.",
+                "He founded the company in 1994, and today he's the CEO and largest stockholder, with a 16% stake in the company."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RvY2tob2xkZXI&hash=ff60094036e8533b49f26f6fb7e814c51e70c17e&lang=en&cache-only=0",
+            "defineEn": "someone who holds shares and stocks in a business",
+            "defineVi": "một người nắm giữ cổ phần và cổ phiếu trong một doanh nghiệp"
+        },
+        {
+            "id": "2f65f3ae-ffa0-4088-ad40-39d971aa3232",
+            "word": "union",
+            "phonetic": "juːniən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At precisely 6:45 a.m. the rowdiness ceases as Sailor, a union safety expert, takes the floor for his weekly lecture.",
+                "During the negotiations, the union was able to gain the upper hand when they drew first blood by presenting a compelling argument for their demands.",
+                "There was an eleventh-hour decision by the union to call off the strike.",
+                "The company threw down the gauntlet and told the union that this offer for a contract was final.",
+                "The government was determined to break the power of the trade unions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5pb24&hash=f031e9729789d3c9ee870c41949bbb5141281ef2&lang=en&cache-only=0",
+            "defineEn": "an organization formed by workers, especially in a particular industry, to protect their rights and improve their working conditions",
+            "defineVi": "một tổ chức được thành lập bởi người lao động, đặc biệt là trong một ngành cụ thể, để bảo vệ quyền của họ và cải thiện điều kiện làm việc của họ"
+        },
+        {
+            "id": "9cbe16c3-e239-4d39-ac5c-45705f3cc114",
+            "word": "tax evasion",
+            "phonetic": "tæks ɪveɪʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They did him for tax evasion.",
+                "But then in 1875, the tax evasion grew out of control.",
+                "There are also some federal crimes like tax evasion, mail fraud, and racketeering.",
+                "Some of the accusations ranged widely, like the financial fraud and tax evasion of The Unification Church founded in 1954 by Sun Myong Moon.",
+                "Before that point, the government needed to prosecute a related crime, like tax evasion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGF4IGV2YXNpb24&hash=048cf01182d2b05af4313537976c62042a10a738&lang=en&cache-only=0",
+            "defineEn": "the offense of not paying taxes",
+            "defineVi": "tội không nộp thuế"
+        },
+        {
+            "id": "4e174f5a-086b-45f4-8db8-4e5f1e60904c",
+            "word": "shipment",
+            "phonetic": "ʃɪpmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The truck delivered a large shipment of goods to the warehouse.",
+                "The boss blew a fuse when the shipment didn't arrive on time.",
+                "Narrator: Ed's Lobster Bar gets daily shipments of 150 to 200 pounds of fresh Maine lobster.",
+                "In 2018 and 2019, RV shipments had shown signs of decline after years of growth.",
+                "The outbound center handles shipments from trucks that will then be loaded onto planes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2hpcG1lbnQ&hash=cb7329a82cf80690f0bf6082e99eeb48cd0717bb&lang=en&cache-only=0",
+            "defineEn": "the act of transporting goods",
+            "defineVi": "hành vi vận chuyển hàng hóa"
+        },
+        {
+            "id": "0c242836-192b-41dd-b8c7-96d223fde3da",
+            "word": "fortune",
+            "phonetic": "fɔːɹtʃʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He gave away a fortune.",
+                "That holiday cost me a small fortune.",
+                "The novel follows the fortunes of a village community in Scotland.",
+                "He has made a fortune through his successful business ventures.",
+                "A bit of good fortune came my way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9ydHVuZQ&hash=d19accb73a8d45fe2a21e179b561988236657952&lang=en&cache-only=0",
+            "defineEn": "a very large sum of money",
+            "defineVi": "một số tiền rất lớn",
+            "hasImg": true
+        },
+        {
+            "id": "0fbd6c7d-503f-42da-83af-4404e67d06cf",
+            "word": "savings",
+            "phonetic": "seɪvɪŋz ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Over the long term, investing in stocks can provide higher returns than keeping your money in a savings account.",
+                "So we could put it into a savings account.",
+                "Now that you have a savings target in mind, set your money for this goal apart in some way.",
+                "So is it smarter to just keep your money in a savings account?",
+                "Well, one option is we could just put it into a savings account."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2F2aW5ncw&hash=a79eee892234624c808a4bba1d55443ad7a6ea46&lang=en&cache-only=0",
+            "defineEn": "the amount of money that one has saved, especially in a bank",
+            "defineVi": "số tiền mà một người đã tiết kiệm được, đặc biệt là trong một ngân hàng",
+            "hasImg": true
+        },
+        {
+            "id": "5bebb381-2cf1-435c-89b8-ea410e58190c",
+            "word": "wealthy",
+            "phonetic": "wɛlθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Mrs. Richardson is really wealthy.",
+                "At the charity event, the wealthy businessman's joke had everyone in stitches.",
+                "His eye for the main chance and ruthless commercial instincts have made him one of the wealthiest men in Britain",
+                "The wealthy developer was able to skirt environmental regulations, while the poor homeowner faced steep fines for minor violations.",
+                "The wealthy businessman realized too late that a contented mind is a perpetual feast, and that money couldn't buy him true happiness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VhbHRoeQ&hash=edf90607383fc687f7013fa23e0d843cafb6bb98&lang=en&cache-only=0",
+            "defineEn": "having a large amount of money or valuable possessions",
+            "defineVi": "có một số tiền lớn hoặc tài sản có giá trị",
+            "hasImg": true
+        },
+        {
+            "id": "205e63ce-0d23-4aee-a97a-546a5dbdbec6",
+            "word": "to come down",
+            "phonetic": "tə kʌm daʊn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "And he told ME, you know, no, Come Down, MA'AM, you can't GO up there, IT's Too Dangerous."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29tZSBkb3du&hash=384eaf508c8d618bcbf3001ba14d1f7c2f5e0ea1&lang=en&cache-only=0",
+            "defineEn": "to have a decrease in price, temperature, etc.",
+            "defineVi": "để giảm giá, nhiệt độ, vv"
+        },
+        {
+            "id": "7e15d48c-80b0-4b77-8a9f-06529fa8fd0b",
+            "word": "to live on",
+            "phonetic": "tə lɪv ɔn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Many people without jobs are living on the breadline.",
+                "She lives on the third floor of a residential building.",
+                "He was living on another planet.",
+                "We live on planet Earth, which is our home.",
+                "Sometimes I think he lives on another planet."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGl2ZSBvbg&hash=3e750920055ffd5ea12693831a22b146f14c9682&lang=en&cache-only=0",
+            "defineEn": "to have the amount of money needed to buy necessities",
+            "defineVi": "để có số tiền cần thiết để mua nhu yếu phẩm"
+        },
+        {
+            "id": "dc3812c9-4f93-4660-9c98-27b54f47b370",
+            "word": "to pay off",
+            "phonetic": "tə peɪ ɔf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "John finally paid off his credit card debt and felt a huge weight lifted off his shoulders.",
+                "The student worked multiple jobs to pay off her student loans, acknowledging that debt is the worst poverty.",
+                "I think if we invest in this project, it will pay off over the long run.",
+                "We've had to dig into our saving to pay off the debt.",
+                "After paying off my credit card, I am in credit by $500."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcGF5IG9mZg&hash=0d04632768329e0ba8e524f40b504768e295e952&lang=en&cache-only=0",
+            "defineEn": "to pay the full amount owed on a debt or loan",
+            "defineVi": "để trả toàn bộ số tiền nợ trên một khoản nợ hoặc khoản vay"
+        },
+        {
+            "id": "c60ab0e3-d852-40cd-9b27-7695f4cfceb7",
+            "word": "to set aside",
+            "phonetic": "tə sɛt ɐsaɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They never had to set aside the money.",
+                "First of all, tomorrow, the first day of the trial, that day is being set aside for arguments over the constitutionality of this trial.",
+                "Judy, the bill sets aside roughly $122 billion to help K-12 schools reopen.",
+                "You can set aside a certain time of the day to review your list of behaviors and track your progress.",
+                "Instead, you can set aside time that you can use to brainstorm some solutions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2V0IGFzaWRl&hash=f6afb837a18e61ad5797628472529631cd260e6d&lang=en&cache-only=0",
+            "defineEn": "to keep or save money, time, etc. for a specific purpose",
+            "defineVi": "để giữ hoặc tiết kiệm tiền, thời gian, vv cho một mục đích cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "2df8af5d-9ba6-409a-b6ab-dcff466b40d1",
+            "word": "discount",
+            "phonetic": "dɪskaʊnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The store sometimes offers discounts on certain items.",
+                "The store is offering a discount of eighty percent off.",
+                "She learned to look for deals and discounts and to avoid unnecessary purchases.",
+                "We encourage everyone to avail of the discounted rates for booking their hotel rooms in advance.",
+                "Don't forget to avail of the special discounts for students when purchasing your textbooks for the semester."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY291bnQ&hash=7e4837558d7b20a529bcab300f5196d322b7d664&lang=en&cache-only=0",
+            "defineEn": "the act of reducing the usual price of something",
+            "defineVi": "hành động giảm giá thông thường của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "1dce165a-0439-4a03-9c8f-4da79b4acfd4",
+            "word": "fee",
+            "phonetic": "fiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Just complete the form, pay the fee, and Bob's your uncle!",
+                "They had to use part of their retirement nest egg to pay for their son’s college fees.",
+                "While our designs are tailored to specific needs, our styling fee suits all pockets alike.",
+                "She won the court case, but it was a Pyrrhic victory because she had to pay so much in legal fees.",
+                "Although the banks will still collect fees."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVl&hash=00f7afcc7d5f95ee20e5151e1d7c94a6050717c3&lang=en&cache-only=0",
+            "defineEn": "the money that is paid to a professional or an organization for their services",
+            "defineVi": "số tiền được trả cho một chuyên gia hoặc một tổ chức cho các dịch vụ của họ",
+            "hasImg": true
+        },
+        {
+            "id": "47747297-a1a1-48f3-980a-66817d0379dd",
+            "word": "lending",
+            "phonetic": "lɛndɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But these new sub-prime lending practices were brand new.",
+                "The entire lending industry would be out of business with it.",
+                "With millions of dollars in revenue at stake, the lending industry is strongly opposed to any new regulation.",
+                "Here in South Dakota, the lending industry is fighting back using a ballot initiative itself.",
+                "Because of their size and scope, big banks are better at international banking and lending."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVuZGluZw&hash=cab35271edc4a77ff994421feff39cd0a41abde6&lang=en&cache-only=0",
+            "defineEn": "the act of giving money to someone or something and expecting it to be returned",
+            "defineVi": "hành động đưa tiền cho ai đó hoặc một cái gì đó và mong đợi nó được trả lại"
+        },
+        {
+            "id": "591fe8dd-ffcd-4da7-a448-bf02e56ff78f",
+            "word": "senior",
+            "phonetic": "siːnjɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I had a senior moment and just couldn’t think of his name.",
+                "There were hesitations, a gaffe, and one senior moment.",
+                "She started as an intern, but now she's a senior manager in just two years.",
+                "The museum offers discounted tickets for seniors and adults.",
+                "The circumstances in which his most senior colleague resigned has lost him face with the Americans."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VuaW9y&hash=19ee5486c2c13ed16410985c096a1e7595241498&lang=en&cache-only=0",
+            "defineEn": "of a high or higher status or rank than someone else",
+            "defineVi": "có địa vị hoặc cấp bậc cao hoặc cao hơn người khác",
+            "hasImg": true
+        },
+        {
+            "id": "b6c1fb99-3c49-49fa-aaf4-a86dac262ff0",
+            "word": "junior",
+            "phonetic": "dʒuːnjɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Only a brand-new, not-dry-behind-the-ears junior executive tries to run everything and tell everybody what to do.",
+                "When giving feedback to a junior colleague, it's important to be tactful and gentle.",
+                "I was Junior.",
+                "They called him Junior.",
+                "Georgia's junior senator, Kelly Loeffler, was at the same January 2020 briefing as Burr."
+            ],
+            "audio": "https://tts.langeek.co/read?text=anVuaW9y&hash=c7424e2be0cfd4f6f2d82fe6649ed88ef6dd73c7&lang=en&cache-only=0",
+            "defineEn": "low or lower in rank than someone",
+            "defineVi": "thấp hoặc thấp hơn trong cấp bậc hơn một ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "f92f6efb-8df6-4d4d-b1d0-940b4b198518",
+            "word": "refund",
+            "phonetic": "ɹᵻfʌnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I'm afraid we can't offer you a refund for that item.",
+                "Tom tried to cheat on his taxes to get a bigger refund, but he got caught and had to pay penalties and fines.",
+                "Luckily, Albani and the anonymous guest eventually received refunds.",
+                "Demanded a refund from their home state Senator Josh Hawley.",
+                "Wilson also received a refund for her year old brownies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVmdW5k&hash=c784e96691c468ab5ab3c5c5d08741ded89121d3&lang=en&cache-only=0",
+            "defineEn": "an amount of money that is paid back because of returning goods to a store or one overpaying for something",
+            "defineVi": "một số tiền được trả lại do trả lại hàng hóa cho cửa hàng hoặc trả quá nhiều cho một cái gì đó"
+        },
+        {
+            "id": "af5c3c8f-2fa8-4037-a592-b01c06a328cf",
+            "word": "to speak",
+            "phonetic": "tə spiːk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "His frame spoke tiredness.",
+                "He spoke the final words of the play.",
+                "The brochure speaks of beautiful secluded grounds.",
+                "My mother spoke Russian.",
+                "Please speak more slowly."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3BlYWs&hash=6d30ebf9b713503cc57376e8cc08814ebaa9f248&lang=en&cache-only=0",
+            "defineEn": "to deliver a speech to a group of people",
+            "defineVi": "để cung cấp một bài phát biểu cho một nhóm người",
+            "hasImg": true
+        }
+    ]
+}

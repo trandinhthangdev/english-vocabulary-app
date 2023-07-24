@@ -1,0 +1,513 @@
+{
+    "id": "0b2e274b-3d9b-45cf-b373-55fa86473a27",
+    "title": "Shapes and Sizes",
+    "originalTitle": "Lesson 4",
+    "words": [
+        {
+            "id": "bcb71f0e-f085-4cd9-95ad-9954c076bcb9",
+            "word": "breadth",
+            "phonetic": "bɹɛdθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He came within a hair's breadth of winning the race.",
+                "A slate fell off the roof and missed the child by a hair's breadth.",
+                "We saw it over the breadth of the Putin states information and propaganda operations.",
+                "Those consoles were praised at the time for their breadth of content and specs and largely saw rave reviews.",
+                "When Amazon heard about the breadth of the issue, they took over the case."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJlYWR0aA&hash=496c822eab6081c3f8d6865f53b350f1008365d1&lang=en&cache-only=0",
+            "defineEn": "the distance between two sides of something",
+            "defineVi": "khoảng cách giữa hai bên của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "e5445536-ba02-4733-8475-e9a741f9d543",
+            "word": "depth",
+            "phonetic": "dɛpθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The earthy aroma of mushrooms adds depth to any pasta dish.",
+                "We have sounded the depths of the ocean.",
+                "Coconut milk adds richness and depth of flavor to homemade coconut shrimp.",
+                "Children should be supervised when out of their depth.",
+                "Add depth to your creamy soup by including finely chopped chanterelle mushrooms in the recipe."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwdGg&hash=e89293f1d5ff6e3726741bc003333966a8540d97&lang=en&cache-only=0",
+            "defineEn": "the distance below the top surface of something",
+            "defineVi": "khoảng cách bên dưới bề mặt trên cùng của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "977f7460-bfaa-4f33-b03a-3269fa9d57b0",
+            "word": "height",
+            "phonetic": "haɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This tree can reach a height of 24 metres.",
+                "The baby's height was measured in centimeters at the doctor's office.",
+                "The bread flour helped the dough rise beautifully, resulting in a loaf with a lofty height.",
+                "Equip yourself with five practical strategies that help you win the uphill battle and take your project professional career to new heights.",
+                "Tom, who is vertically challenged, has a great sense of humor and often jokes about his height."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVpZ2h0&hash=9ba95b5d3071420f6ea16c254e8d77fe7ced86c8&lang=en&cache-only=0",
+            "defineEn": "the distance from the top to the bottom of something or someone",
+            "defineVi": "khoảng cách từ trên xuống dưới của một cái gì đó hoặc một ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "93b66696-09c9-458c-b84a-bb7f300bd488",
+            "word": "length",
+            "phonetic": "lɛŋθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The bookcase runs the length of the room.",
+                "The length of the pencil is 15 centimeters.",
+                "The store clerk measured the length of the bolt to calculate the customer's purchase.",
+                "The Medieval church went to some lengths to specify the roles of particular stones in religious imagery.",
+                "He went to extreme lengths to learn the truth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGVuZ3Ro&hash=551518f99dd4cb010e71bfc0dd9dc7c00f89b9bd&lang=en&cache-only=0",
+            "defineEn": "the distance from one end to the other end of an object that shows how long it is",
+            "defineVi": "khoảng cách từ đầu này đến đầu kia của một vật cho biết nó dài bao nhiêu",
+            "hasImg": true
+        },
+        {
+            "id": "0ef00e5e-5cf3-400f-aaad-db2229aff22a",
+            "word": "weight",
+            "phonetic": "weɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The judge's ruling carries significant weight in the legal community.",
+                "She always pulls her weight.",
+                "The marathon runner lost so much weight during the race that he appeared skin and bone at the finish line.",
+                "He felt the weight of the heavy burden on his shoulders.",
+                "The bag broke under the weight of the bottles inside it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VpZ2h0&hash=d478289a44d5185244b8c5271e9073dfa64f38c3&lang=en&cache-only=0",
+            "defineEn": "the heaviness of something or someone; how heavy something or someone is, which can be measured",
+            "defineVi": "sức nặng của một cái gì đó hoặc ai đó; thứ gì đó hoặc ai đó nặng bao nhiêu, có thể đo được",
+            "hasImg": true
+        },
+        {
+            "id": "bd639754-ae6c-4806-bf7c-153a2ddb06cb",
+            "word": "width",
+            "phonetic": "wɪtθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The width of the bookshelf is 120 centimeters.",
+                "So this has width b as well.",
+                "What is the width of Mike's dog pen?",
+                "You add the two widths.",
+                "but you lose some width."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2lkdGg&hash=cb55e317b93fed0e398d44a6ff5e85f2d613e859&lang=en&cache-only=0",
+            "defineEn": "the distance of something from side to side",
+            "defineVi": "khoảng cách của một cái gì đó từ bên này sang bên kia",
+            "hasImg": true
+        },
+        {
+            "id": "9dbdd71d-8469-4a99-91e1-5e294b326cdb",
+            "word": "dimension",
+            "phonetic": "dᵻmɛnʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "But they certainly view China as a threat of such dimensions that their minds boggle.",
+                "Policy has so many dimensions, so many subsets, so many different nuances. ",
+                "The dimensions cancel out.",
+                "It has dimension k.",
+                "Add your item packaging dimensions here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGltZW5zaW9u&hash=aa969b12787880c2d687e0ace2afc5f37b03abdd&lang=en&cache-only=0",
+            "defineEn": "a measure of the height, length, or width of an object in a certain direction",
+            "defineVi": "thước đo chiều cao, chiều dài hoặc chiều rộng của một đối tượng theo một hướng nhất định",
+            "hasImg": true
+        },
+        {
+            "id": "8119167e-69fc-4b57-928f-309f4442ec8f",
+            "word": "bulky",
+            "phonetic": "bʌlki ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Is it too bulky?",
+                "One - It is bulky.",
+                "From the front it's bulky.",
+                "These are big, bulky items.",
+                "I don't really like a bulky thing around my phone."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVsa3k&hash=9c09c2132d5d93de2e999b985de8f51d8dcb01d2&lang=en&cache-only=0",
+            "defineEn": "of large size in a way that takes too much space",
+            "defineVi": "có kích thước lớn theo cách chiếm quá nhiều không gian",
+            "hasImg": true
+        },
+        {
+            "id": "cbc82d9e-d925-4fd6-919b-4708aff989eb",
+            "word": "compact",
+            "phonetic": "kəmpækt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The grand unified theory is compact and elegant in mathematical terms.",
+                "We are compacting the cardboard over there.",
+                "Yes it's quite compact.",
+                "Meshify 2 Compact user's guide.",
+                "It's a compact camera."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tcGFjdA&hash=659d1add19205700903d458d2e1efe986d272e12&lang=en&cache-only=0",
+            "defineEn": "formed in a way that uses space efficiently; smaller than usual",
+            "defineVi": "được hình thành theo cách sử dụng không gian hiệu quả; nhỏ hơn bình thường",
+            "hasImg": true
+        },
+        {
+            "id": "7662456e-deb9-4257-bc4d-af5e48ff5300",
+            "word": "enormous",
+            "phonetic": "ɪnoːɹməs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Her credit card bills are enormous!",
+                "True, there wasn't always an enormous difference between letting the interviewees speak for themselves and giving them enough rope.",
+                "The challenge of powerful imagesfor an authoritarian state is enormous.",
+                "The recognition value of this brand is enormous. ",
+                "The Amazon rainforest is enormous."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5vcm1vdXM&hash=ed170edc68f20a1a556f4bb8aaf3778b39f68b8f&lang=en&cache-only=0",
+            "defineEn": "extremely large in size or quantity",
+            "defineVi": "cực kỳ lớn về kích thước hoặc số lượng",
+            "hasImg": true
+        },
+        {
+            "id": "5dfccefe-387d-4633-9a64-527040c0c2e0",
+            "word": "huge",
+            "phonetic": "hjuːdʒ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Cable TV reaches a huge audience.",
+                "Two huge fountains were playing outside the entrance.",
+                "She was given a huge bunch of flowers.",
+                "The company's latest advertising campaign was a huge success, hitting it out of the park with record-breaking sales and customer engagement.",
+                "A huge white elephant of a house that needed ten thousand spent on it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aHVnZQ&hash=183a83087d4c9c1525c421b12b298a310c62defa&lang=en&cache-only=0",
+            "defineEn": "very large in size, or great in degree or amount",
+            "defineVi": "rất lớn về kích thước, hoặc lớn về mức độ hoặc số lượng",
+            "hasImg": true
+        },
+        {
+            "id": "5342ab7c-431a-45a9-807b-c6437f067920",
+            "word": "tiny",
+            "phonetic": "taɪni ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I heard the tiny squeak of a mouse in the walls.",
+                "Cobbled streets run down to a tiny harbor.",
+                "The strawberry's bright red skin was dotted with tiny seeds, adding texture to its sweet taste.",
+                "It's just a tiny scratch on the car!",
+                "We organized a tea party for our dolls with tiny cups and saucers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGlueQ&hash=c9158fe778cb0112bfefe001da2664adde4fb3e8&lang=en&cache-only=0",
+            "defineEn": "extremely small",
+            "defineVi": "cực nhỏ",
+            "hasImg": true
+        },
+        {
+            "id": "9f778856-74ea-4558-a1d2-dce9d23e35c5",
+            "word": "narrow",
+            "phonetic": "næɹoʊ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The boat captain guided us through the narrow canals of the city.",
+                "Tip No. 4: Narrow your field of focus.",
+                "The gap between retail investors and institutional traders has narrowed.",
+                "The president’s strategy on race and on other issues has just narrowed his path to re-election.",
+                "Slower waves make narrower wakes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmFycm93&hash=7ed46ca39cff9631c1cd2ba0cf408ba1c202378d&lang=en&cache-only=0",
+            "defineEn": "having a small width in comparison with the length",
+            "defineVi": "có chiều rộng nhỏ so với chiều dài",
+            "hasImg": true
+        },
+        {
+            "id": "25c48054-070f-4edc-9860-a84ed00afc08",
+            "word": "angle",
+            "phonetic": "æŋɡəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You must have that angle off down pat.",
+                "The dancers performed a mesmerizing abstract routine, blending fluid movements with unexpected angles and shapes.",
+                "Angles save lives!",
+                "The angle is 37.",
+                "So we know that angle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5nbGU&hash=6a90834a3c9d8745f3840c01465fb82036ba5965&lang=en&cache-only=0",
+            "defineEn": "the space between two lines or surfaces that are joined, measured in degrees or radians",
+            "defineVi": "khoảng cách giữa hai đường hoặc bề mặt được nối với nhau, được đo bằng độ hoặc radian",
+            "hasImg": true
+        },
+        {
+            "id": "7b870ed5-5d19-4346-ac27-7791d92fb77c",
+            "word": "circular",
+            "phonetic": "sɜːkjʊlɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He applied toothpaste to his toothbrush and started brushing his teeth in circular motions.",
+                "Their nucleus is pretty circular.",
+                "I can circular breathe.",
+                "I say circular motion.",
+                "Now, do a circular settee."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2lyY3VsYXI&hash=a58b36a2280d46a07dcd78ee7365ea516f9e162e&lang=en&cache-only=0",
+            "defineEn": "formed or having a shape like a circle",
+            "defineVi": "hình thành hoặc có một hình dạng giống như một vòng tròn",
+            "hasImg": true
+        },
+        {
+            "id": "f0af2376-15de-4a46-9229-e6ba018b2f3f",
+            "word": "concentric",
+            "phonetic": "kənsɛntɹɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Each concentric sphere is an era.",
+                "Surrounded by concentric rings of bone.",
+                "The key insight is to look at a grid as a series of concentric squares.",
+                "Layering multiple patterns using concentric wheels lets us create more complex rhythms.",
+                "If you look at the concentric circles, here you have a couple of million people who wanted to see the IRA content. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uY2VudHJpYw&hash=9ad34233ab3024a24d74e60e860e2798279d6a2b&lang=en&cache-only=0",
+            "defineEn": "describing circles, arcs, or rings that have the same center",
+            "defineVi": "mô tả các vòng tròn, vòng cung hoặc vòng có cùng tâm",
+            "hasImg": true
+        },
+        {
+            "id": "254accfa-80e4-4927-a107-ea4ca2c1327b",
+            "word": "cube",
+            "phonetic": "kjuːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The agar cubes added a delightful chewiness to the tropical fruit salad.",
+                "She roasted the rutabaga cubes with olive oil and herbs.",
+                "I used a sugar cube to attract hummingbirds to my garden, placing it near their favorite flowers.",
+                "She made T-bone steak kebabs, threading cubes of marinated steak onto skewers with colorful vegetables.",
+                "My grandmother made strip steak kebabs, skewering marinated steak cubes with colorful bell peppers and onions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3ViZQ&hash=0cdf65c2a957f6ab295e6c2396fe487777c075fb&lang=en&cache-only=0",
+            "defineEn": "a figure, either hollow or solid, with six equally squared sides",
+            "defineVi": "một hình, rỗng hoặc đặc, có sáu cạnh vuông bằng nhau",
+            "hasImg": true
+        },
+        {
+            "id": "d2f9bc1c-e48d-4070-a037-c07341e6434a",
+            "word": "pyramid",
+            "phonetic": "pɪɹɐmɪd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The pyramids can be reached by public transport.",
+                "Pyramids are canceled.",
+                "Pyramid schemes can be incredibly destructive to individuals, communities, and even entire countries.",
+                "A rectangular pyramid is a polyhedron.",
+                "This time our pyramid is five cups high!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHlyYW1pZA&hash=595619b0554ffa87d6a6f979dbb6b36564f71334&lang=en&cache-only=0",
+            "defineEn": "a solid object with a square base and four triangular sides joined to a point on the top",
+            "defineVi": "một vật rắn có đáy là hình vuông và bốn cạnh là hình tam giác được nối với một điểm trên đỉnh",
+            "hasImg": true
+        },
+        {
+            "id": "a0f65fd1-faf8-43f9-a236-67712af4ef55",
+            "word": "diagonal",
+            "phonetic": "daɪæɡənəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Then we have to draw the diagonals.",
+                "We actually have to draw these diagonals here.",
+                "Look at the diagonals.",
+                "In 1992, the team drilled diagonal tunnels to remove 38 cubic meters of soil from under the tower’s north end.",
+                "The next diagonal has the tetrahedral numbers because similarly, you can stack that many spheres into tetrahedra."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhZ29uYWw&hash=bb17c9383643134b2c3cff609de675c6a70d9418&lang=en&cache-only=0",
+            "defineEn": "(of a straight line) joining opposite corners of a flat shape at an angle",
+            "defineVi": "(của một đường thẳng) nối các góc đối diện của một hình phẳng theo một góc",
+            "hasImg": true
+        },
+        {
+            "id": "1c1494d2-f28d-4f0e-b097-ea9c57e89812",
+            "word": "horizontal",
+            "phonetic": "hɔːɹɪzɔntəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The German flag consists of three horizontal stripes: black, red, and gold.",
+                "But the dunes were horizontal.",
+                "Horizontal movement, feeling good.",
+                "First is horizontal drilling.",
+                "Well, horizontal gene transfer is one reason for it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9yaXpvbnRhbA&hash=e7e0aad4dfa4ea84155d0e398fb0caba1cd92b6f&lang=en&cache-only=0",
+            "defineEn": "going across and parallel to the ground and not up or down",
+            "defineVi": "đi ngang và song song với mặt đất và không lên hoặc xuống",
+            "hasImg": true
+        },
+        {
+            "id": "d9c3cad0-f9cb-4303-8e48-14f5109e924d",
+            "word": "vertical",
+            "phonetic": "vɜːɾɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "With the pandemic putting a damper on public transit, the automotive industry continued to fare well while other verticals may have seen larger sales dips.",
+                "In some countries, skyscraper cemeteries enable vertical burials.",
+                "We do vertical landings.",
+                "Because your slope goes vertical.",
+                "Vertical acceleration doesn't affect the perpendicular sideways motion."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmVydGljYWw&hash=94d7944bd5307f8988f1da73b09f307ea2201315&lang=en&cache-only=0",
+            "defineEn": "going straight up and down from a level surface or line; at an angle of 90 degrees with a flat surface",
+            "defineVi": "đi thẳng lên và xuống từ một bề mặt hoặc đường thẳng; một góc 90 độ với mặt phẳng",
+            "hasImg": true
+        },
+        {
+            "id": "19430ffc-27e8-4253-988b-55d258e14b54",
+            "word": "oval",
+            "phonetic": "oʊvəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I draw the oval of the head.",
+                "Amanda had an oval face shape.",
+                "Over time, that oval gradually turned into the perfectly circular orbit it has now.",
+                "But the one end of the oval is flattened out.",
+                "To reattach, align the oval shapes on the AirPod with the ear tips."
+            ],
+            "audio": "https://tts.langeek.co/read?text=b3ZhbA&hash=e156ded81d2bb6df2bcfb1a0cfdf5998cf50a075&lang=en&cache-only=0",
+            "defineEn": "rounded in shape but wider in one direction, such as the shape of an egg",
+            "defineVi": "hình tròn nhưng rộng hơn theo một hướng, chẳng hạn như hình quả trứng",
+            "hasImg": true
+        },
+        {
+            "id": "ee004116-266d-4487-a747-3225021dc0fe",
+            "word": "parallel",
+            "phonetic": "pæɹəlɛl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The road runs parallel to the river.",
+                "The two experiments are run in parallel.",
+                "So the list of unpleasant side effects of cancer treatment parallels these tissue types: hair loss, skin rashes, nausea, vomiting, fatigue, weight loss, and pain.",
+                "So these two sides are parallel.",
+                "A 2016 Wells Fargo report draws parallels between the milk and coffee industries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFyYWxsZWw&hash=534508d8b42b4377cbb4bf465db12517549086be&lang=en&cache-only=0",
+            "defineEn": "being of the same distance from each other at every point and not converging",
+            "defineVi": "có cùng khoảng cách với nhau tại mọi điểm và không hội tụ",
+            "hasImg": true
+        },
+        {
+            "id": "39119481-9e97-4fc8-a227-bef0a7d2f305",
+            "word": "prism",
+            "phonetic": "pɹɪzəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Instead of prisms, some ice crystals end up more like six-sided frisbees.",
+                "But you can even make a prism out of a glass of water!",
+                "[Jono] That's prism.",
+                "When white light bounces off the back of a spherical raindrop, the light is spread into colors as if by a prism.",
+                "Inside that high cloud, there’s prisms arranged in all different directions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJpc20&hash=de53c76687580ce13d5b2e33522d6bdc2abeec69&lang=en&cache-only=0",
+            "defineEn": "(geometry) a solid figure with flat sides and two parallel ends of the same size and shape",
+            "defineVi": "(hình học) hình rắn có các cạnh phẳng và hai đầu song song có cùng kích thước và hình dạng",
+            "hasImg": true
+        },
+        {
+            "id": "4729e519-a627-47ea-bfbf-fa40babe9e74",
+            "word": "rectangular",
+            "phonetic": "ɹɛktæŋɡjʊlɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A rectangular pyramid is a polyhedron.",
+                "I'll make it a magenta rectangular pyramid.",
+                "Of course unless you have a rectangular one.",
+                "Most icebergs look similar to this at first, although this one is exceptionally rectangular.",
+                "But this isn't the only net for this rectangular pyramid."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjdGFuZ3VsYXI&hash=61d26ca4ce82dd3e90f459a25b0a5c5c8bff0f86&lang=en&cache-only=0",
+            "defineEn": "shaped like a rectangle, with four right angles",
+            "defineVi": "có dạng hình chữ nhật, có bốn góc vuông",
+            "hasImg": true
+        },
+        {
+            "id": "edbfab5c-8e7b-4fe1-9cd6-65c7408c16db",
+            "word": "semicircle",
+            "phonetic": "sɛmɪsɜːkəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A group of people who worked at Namale had formed a semicircle to sing a traditional Fiji farewell song."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VtaWNpcmNsZQ&hash=608966517f1cddefc3cef8dcba22095acbd5c7d9&lang=en&cache-only=0",
+            "defineEn": "any half of a circle",
+            "defineVi": "nửa hình tròn bất kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "55a2269c-f5d9-43a3-bf6b-366e2d3a9063",
+            "word": "sphere",
+            "phonetic": "sfɪɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Earth is a sphere.",
+                "A sphere of the new stable Higgs Field, or true vacuum, grows at the speed of light in all directions.",
+                "Each concentric sphere is an era.",
+                "The smallest cloud droplets start out as these spheres.",
+                "They then put the spheres in a foggy wind tunnel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BoZXJl&hash=02249bd8a6db57cba1d01bdd732ad08202384774&lang=en&cache-only=0",
+            "defineEn": "(geometry) a round object that every point on its surface has the same distance from its center",
+            "defineVi": "(hình học) một vật thể tròn mà mọi điểm trên bề mặt của nó có cùng khoảng cách với tâm của nó",
+            "hasImg": true
+        },
+        {
+            "id": "e4e74716-a555-430f-91b2-b33bdacc0d67",
+            "word": "round",
+            "phonetic": "ɹaʊnd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "My debts are a millstone round my neck.",
+                "The hairstylist used a round brush to create curls.",
+                "Glaring round at the solitary embryo sheepskin, who quaked in his shoes.",
+                "The mortgage on it has turned into a real yoke round my neck.",
+                "You can buy strawberries all year round, but at a price."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cm91bmQ&hash=34ce8fbc7fb0b9ad4c72b60949f85719f0ccccce&lang=en&cache-only=0",
+            "defineEn": "shaped like a circle or ball; having the shape or form of a circle or ball",
+            "defineVi": "có hình tròn hoặc quả bóng; có hình dạng hoặc dạng của một vòng tròn hoặc quả bóng",
+            "hasImg": true
+        },
+        {
+            "id": "112eb347-1d58-4ab0-8dfe-2b225df176fa",
+            "word": "triangular",
+            "phonetic": "tɹaɪæŋɡjʊlɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You got this triangular type stuff.",
+                "So this is a triangular line.",
+                "Our rib cages have actually become more cylindrical barrel-shaped and less triangular over time.",
+                "And then I'm going to have four triangular flat surfaces.",
+                "Then, you’d use the triangular arms to measure the angle between the horizon and the Sun or a particular star."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJpYW5ndWxhcg&hash=522a975df5235ce0eabb81075cf2c022d4e09e39&lang=en&cache-only=0",
+            "defineEn": "having three sides and three angles; shaped like a triangle",
+            "defineVi": "có ba cạnh và ba góc; hình tam giác",
+            "hasImg": true
+        },
+        {
+            "id": "eb6f8259-f840-4c59-8f1f-c3aca2dcfb91",
+            "word": "symmetry",
+            "phonetic": "sɪmətɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Another pervasive thing is symmetry.",
+                "We definitely like symmetry.",
+                "Just take facial symmetry.",
+                "They had trilateral symmetry!",
+                "So you see the symmetry."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ltbWV0cnk&hash=4cdb927db7e79e7298efba5596a20752886ed690&lang=en&cache-only=0",
+            "defineEn": "the quality of having two halves that are exactly the same, which are separated by an axis",
+            "defineVi": "chất lượng có hai nửa giống hệt nhau, được phân tách bằng một trục",
+            "hasImg": true
+        }
+    ]
+}

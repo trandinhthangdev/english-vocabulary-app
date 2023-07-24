@@ -1,0 +1,911 @@
+{
+    "id": "afea87b8-566b-4eba-8b80-568eb77ac776",
+    "title": "Eating",
+    "originalTitle": "Eating",
+    "words": [
+        {
+            "id": "29aa32bf-78e9-4d27-87ef-c3e4bdc686b6",
+            "word": "to eat",
+            "phonetic": "tʊ iːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The factory employee was eating lunc in the cafeteria.",
+                "so I ate my fill.",
+                "I eat pizza on Wednesdays.",
+                "I ate a delicious apple for a healthy snack.",
+                "I ate a handful of sweet grapes for a refreshing snack."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWF0&hash=759b9e5a7f9c35e0ec93c2400d3543df874f4539&lang=en&cache-only=0",
+            "defineEn": "to put food into the mouth, then chew and swallow it",
+            "defineVi": "để đưa thức ăn vào miệng, sau đó nhai và nuốt nó",
+            "hasImg": true
+        },
+        {
+            "id": "717079fd-e9e9-4754-9570-e9e8c6f37ebe",
+            "word": "to swallow",
+            "phonetic": "tə swɔloʊ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "One swallow does not make a summer in sports.",
+                "He accidentally swallowed a pip while eating the juicy watermelon.",
+                "I swallowed my pride and phoned him.",
+                "The people seem to have swallowed the government's promises hook, line, and sinker.",
+                "I watched as the snake swallowed its prey whole."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3dhbGxvdw&hash=db5556aa2004158d393af5cddb81a149bc9c3a7a&lang=en&cache-only=0",
+            "defineEn": "to cause food, drink, or another substance to pass from the mouth down into the stomach through the esophagus, using the muscles of the throat",
+            "defineVi": "làm cho thức ăn, đồ uống hoặc một chất khác đi từ miệng xuống dạ dày qua thực quản, sử dụng các cơ của cổ họng"
+        },
+        {
+            "id": "9e99cbb8-da7d-474c-87a6-7352e8e89fa6",
+            "word": "to have",
+            "phonetic": "tə hæv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That hot guy had a good head on his shoulders.",
+                "The hotel had expensive rates during the holiday season.",
+                "The group has a new CD in the pipeline.",
+                "The police had the situation well in hand.",
+                "The theatre company has several new productions in the pipeline for next season."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaGF2ZQ&hash=f50f008a97735633f0ac679f3f12de346952ff3e&lang=en&cache-only=0",
+            "defineEn": "to eat or drink something",
+            "defineVi": "để ăn hoặc uống một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "7ffcce15-738b-40ba-9ced-8d5fc5d1f278",
+            "word": "to consume",
+            "phonetic": "tə kənsuːm ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Consuming prunes may have a positive impact on heart health by reducing LDL cholesterol levels.",
+                "Her new job was so consuming that she barely had time for anything else.",
+                "Public education campaigns highlight potential health risks of consuming pink slime products.",
+                "Consuming milk can help maintain healthy skin due to the presence of vitamin A.",
+                "He decided to only consume halal meat to adhere to his religious beliefs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
+            "defineEn": "eat up completely, as with great appetite",
+            "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "5a8b44ad-d6b6-4803-a7f0-0fad6279aa45",
+            "word": "to taste",
+            "phonetic": "tə teɪst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The chef tasted the sauce with a small spoon.",
+                "The pith of the citrus fruit added a bitter taste to the juice.",
+                "The sauce would kill the taste of the herbs.",
+                "Too much garlic killed the taste of the meat.",
+                "The cake tasted so good that everyone wanted a second slice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFzdGU&hash=0672b74b102981175193991ea74d3a14c5ce71db&lang=en&cache-only=0",
+            "defineEn": "to be able to recognize the flavor of something by eating or drinking it",
+            "defineVi": "để có thể nhận ra hương vị của một cái gì đó bằng cách ăn hoặc uống nó",
+            "hasImg": true
+        },
+        {
+            "id": "2b27ba55-55bf-42fa-909c-1ccee44eaed5",
+            "word": "to touch",
+            "phonetic": "tə tʌtʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She gently touched the soft fur of the cat.",
+                "A regular newsletter keeps people in touch with local events.",
+                "My parents were constantly in touch.",
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "The leather sofa adds a touch of elegance to the room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdG91Y2g&hash=f567ce6d5b530c41b3001434138c73a8ca094425&lang=en&cache-only=0",
+            "defineEn": "consume",
+            "defineVi": "tiêu thụ"
+        },
+        {
+            "id": "180db19d-d775-4751-aa27-12ace080ea67",
+            "word": "to try",
+            "phonetic": "tə tɹaɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I tried a new coffee blend with hints of chocolate and caramel.",
+                "Try some dried apricots as a healthy snack.",
+                "Give sweetsop a try!",
+                "Have you tried this new coffee?",
+                "The case was tried before a jury."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdHJ5&hash=4f5ca1cf7faae85aa97139d6b332410f679bc50f&lang=en&cache-only=0",
+            "defineEn": "to test something by doing or using it to find out if it is suitable, useful, good, etc.",
+            "defineVi": "để kiểm tra một cái gì đó bằng cách thực hiện hoặc sử dụng nó để tìm hiểu xem nó có phù hợp, hữu ích, tốt hay không, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "fd378906-183d-4442-92c4-6805be29e3de",
+            "word": "to take",
+            "phonetic": "tə teɪk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Take your pick.",
+                "His new world record will take some beating.",
+                "His apology took the edge off her anger.",
+                "Things like this take time.",
+                "The river took a meandering bend through the picturesque valley."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdGFrZQ&hash=218a7b24f2f9192973800c7366909ef3421d1aec&lang=en&cache-only=0",
+            "defineEn": "to consume something as food, drink, medication, or drugs",
+            "defineVi": "để tiêu thụ một cái gì đó như thực phẩm, đồ uống, thuốc, hoặc ma túy",
+            "hasImg": true
+        },
+        {
+            "id": "1bd3eaad-5156-4f61-994e-1a2b8edb926f",
+            "word": "to ingest",
+            "phonetic": "tʊ ɪndʒɛst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They ingested the lead from bullets that were left in animals that had been hunted.",
+                "If humans ingest the eggs, the larva hatch and travel into our brain, causing serious neurological impairments including loss of coordination, seizures, coma, and death. ",
+                "That's right, in the 17th century, well before Advil, Europeans would ingest ground up mummies for headaches.",
+                "For example, omega 6 and 3 fatty acids are called essential fatty acids, because your body can’t make them, so they have to be ingested.",
+                "If you're going to be putting chemicals on fruit and vegetables that you are then going to ingest, you're putting yourself more in harm's way."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW5nZXN0&hash=4c7c92f05df74ef5b25ea0ab83bad9250b8cb2dd&lang=en&cache-only=0",
+            "defineEn": "serve oneself to, or consume regularly",
+            "defineVi": "phục vụ bản thân, hoặc tiêu thụ thường xuyên"
+        },
+        {
+            "id": "c8fa2aa7-33cc-4f7a-8c14-43e1ea01eb43",
+            "word": "consumption",
+            "phonetic": "kənsʌmpʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lower energy consumption means less pollution.",
+                "I have decided to cut down on my consumption of dairy products due to lactose intolerance.",
+                "Consumption of fluid milk plummeted from 247 pounds per person in 1975 to 146 pounds per person in 2018.",
+                "Cheese consumption has more than doubled since the mid 1970s.",
+                "Butter consumption also rose in the same time from about four point seven pounds to five point eight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uc3VtcHRpb24&hash=b775a4794bd735f2dae1d23373aaf120d4520467&lang=en&cache-only=0",
+            "defineEn": "the process of taking food into the body through the mouth (as by eating)",
+            "defineVi": "quá trình đưa thức ăn vào cơ thể qua miệng (như khi ăn)"
+        },
+        {
+            "id": "0dc4bec4-2e03-4671-893a-682d10c3b040",
+            "word": "to dine",
+            "phonetic": "tə daɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She wined and dined her guests with a gourmet dinner.",
+                "He wines and dines his clients to build strong relationships.",
+                "George loved to live large, dining at fine French restaurants.",
+                "It dined on sauropods with its meat cleaver teeth.",
+                "They mostly dine on insects, small reptiles, birds, and rodents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGluZQ&hash=51f8e87a750a8bbe959d3b71bcb3be082b7652ad&lang=en&cache-only=0",
+            "defineEn": "to have dinner",
+            "defineVi": "ăn tối",
+            "hasImg": true
+        },
+        {
+            "id": "af37fdf7-6486-4247-a77d-5be99daaae28",
+            "word": "to dine in",
+            "phonetic": "tə daɪn ɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGluZSBpbg&hash=ebb5123232cb5925a786ef64e3fd32d8869fb3ff&lang=en&cache-only=0",
+            "defineEn": "eat at home",
+            "defineVi": "ăn ở nhà"
+        },
+        {
+            "id": "01f31933-4e62-4c50-a198-1074714816c3",
+            "word": "to dine out",
+            "phonetic": "tə daɪn aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGluZSBvdXQ&hash=b723bb6a0e75bd6f38d02959347821fa62f667fa&lang=en&cache-only=0",
+            "defineEn": "to have dinner in a restaurant or at someone else's home",
+            "defineVi": "ăn tối ở nhà hàng hoặc ở nhà người khác",
+            "hasImg": true
+        },
+        {
+            "id": "8a8bb21f-d3bc-4d84-9faa-1308179060c9",
+            "word": "to dine in",
+            "phonetic": "tʊ iːt ɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGluZSBpbg&hash=ebb5123232cb5925a786ef64e3fd32d8869fb3ff&lang=en&cache-only=0",
+            "defineEn": "eat at home",
+            "defineVi": "ăn ở nhà"
+        },
+        {
+            "id": "f0ee36b3-4cc8-4f61-b561-ba3a6ba64351",
+            "word": "to eat out",
+            "phonetic": "tʊ iːt aʊt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The average millennial eats out 5 times a week!",
+                "So instead of eating out five nights a week, let's redirect it and only go three.",
+                "So spittlebugs have options when deciding where to eat out.",
+                "According to a June 2020 poll by Datassential, a food industry marketing research firm, 47% of people plan to avoid eating out entirely in the future.",
+                "And buying healthy food at the grocery store does precommit you to cooking at home rather than eating out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWF0IG91dA&hash=f1b7fbe1c59c71c9df57517cd33afe5e3e64def0&lang=en&cache-only=0",
+            "defineEn": "to eat in a restaurant, etc. rather than at one's home",
+            "defineVi": "ăn trong một nhà hàng, vv hơn là ở nhà của một người",
+            "hasImg": true
+        },
+        {
+            "id": "409837cc-9f1c-4681-9ecc-9a838685bca8",
+            "word": "to fill up",
+            "phonetic": "tə fɪl ʌp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "It filled up time on cable television.",
+                "OK, so the water from the WRT tank is filling up the torpedo tube itself.",
+                "First things first, we've got ta fill up the tank.",
+                "Fill up with it.",
+                "It can fill up 270 pints a minute."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmlsbCB1cA&hash=58dac635ac483149db8a143dfb3bc30752da2597&lang=en&cache-only=0",
+            "defineEn": "eat until one is sated",
+            "defineVi": "ăn cho đến khi no"
+        },
+        {
+            "id": "b2128b1c-115e-42de-808f-393b91db5852",
+            "word": "to finish",
+            "phonetic": "tə fɪnɪʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The team finished the race in first place.",
+                "You just finished your book?",
+                "She finishes her piano practice at 7 o'clock.",
+                "I've finished my work.",
+                "She always finishes her work assignments by the end of the week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
+            "defineEn": "finish eating all the food on one's plate or on the table",
+            "defineVi": "ăn hết thức ăn trên đĩa hoặc trên bàn"
+        },
+        {
+            "id": "3dc1020b-3c4c-4154-8dad-02561e667f6d",
+            "word": "to get down",
+            "phonetic": "tə ɡɛt daʊn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He got down from the ladder.",
+                "I must get down to booking the hotels.",
+                "It's time I got down to thinking about that essay.",
+                "The situation was so serious that after a few polite exchanges they quickly got down to brass tacks.",
+                "Drill instructor: Get down!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ2V0IGRvd24&hash=dc244bda8c09b94efd798a728f8780efc581b80d&lang=en&cache-only=0",
+            "defineEn": "pass through the esophagus as part of eating or drinking",
+            "defineVi": "đi qua thực quản như một phần của việc ăn hoặc uống"
+        },
+        {
+            "id": "6e48e051-3782-4388-84bc-64ea46c50c8a",
+            "word": "to indulge",
+            "phonetic": "tʊ ɪndʌldʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She had a sweet tooth craving, so she indulged in a peanut butter and jelly sandwich.",
+                "For the most part, I eat a healthy diet, but sometimes I indulge in junk food.",
+                "Jane usually ate a healthy diet, but she indulged in a slice of chocolate cake every once in a while.",
+                "Mary has a soft spot for homemade cookies and can never resist indulging in a freshly baked batch.",
+                "She is letting herself go by neglecting her exercise routine and indulging in unhealthy eating habits, which is affecting her overall well-being."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW5kdWxnZQ&hash=249adaa61d6ee1987c5aac3aace66be66ba6f1e0&lang=en&cache-only=0",
+            "defineEn": "to allow oneself to do or have something that one enjoys, particularly something that might be bad for one",
+            "defineVi": "để cho phép bản thân làm hoặc có một cái gì đó mà một người thích, đặc biệt là một cái gì đó có thể là xấu cho một"
+        },
+        {
+            "id": "2f2b821e-f905-49b9-95de-8942773a9c7d",
+            "word": "to nosh",
+            "phonetic": "tə nɑːʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "But it's not just our leftovers they're noshing on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbm9zaA&hash=1007d4c4d97bba4e4a5eb2a980c38dcd1604e94a&lang=en&cache-only=0",
+            "defineEn": "eat a snack; eat lightly",
+            "defineVi": "ăn quà vặt; ăn nhẹ"
+        },
+        {
+            "id": "48cfb0ce-688b-412e-a811-9e8fb2e12b4b",
+            "word": "to lunch",
+            "phonetic": "tə lʌntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Does this pub do lunches?",
+                "The chef prepared a creamy tomato soup for lunch.",
+                "The employee took a lunch break in the cafeteria.",
+                "I made a delicious turkey and cheese sandwich for lunch.",
+                "I ate a sandwich and a half for lunch."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbHVuY2g&hash=1e320bf5653a6efcde7fe1e02903880fd84c1076&lang=en&cache-only=0",
+            "defineEn": "to eat lunch, particularly at a restaurant",
+            "defineVi": "ăn trưa, đặc biệt là tại một nhà hàng",
+            "hasImg": true
+        },
+        {
+            "id": "e6e2e20d-7a20-423e-bf6b-fd836768a9ce",
+            "word": "to breakfast",
+            "phonetic": "tə bɹɛkfəst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "My parents always drink orange juice for breakfast.",
+                "The new secretary made a dog's breakfast out of the filing system.",
+                "They serve breakfast at all hours.",
+                "Breakfast is served until 9 am.",
+                "Your breakfast is coming soon."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYnJlYWtmYXN0&hash=050a18e46629f4920a3e5fe1c431b85acfd4dad6&lang=en&cache-only=0",
+            "defineEn": "eat an early morning meal",
+            "defineVi": "ăn một bữa sáng sớm"
+        },
+        {
+            "id": "62eb19df-c6ca-4267-94bc-a1d5280f7418",
+            "word": "to touch",
+            "phonetic": "tə pɑːɹteɪk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She gently touched the soft fur of the cat.",
+                "A regular newsletter keeps people in touch with local events.",
+                "My parents were constantly in touch.",
+                "The Rangpur slices added a vibrant touch to my summer fruit salad.",
+                "The leather sofa adds a touch of elegance to the room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gdG91Y2g&hash=f567ce6d5b530c41b3001434138c73a8ca094425&lang=en&cache-only=0",
+            "defineEn": "consume",
+            "defineVi": "tiêu thụ"
+        },
+        {
+            "id": "21963e77-7218-4b36-9140-5cc358790510",
+            "word": "to finish",
+            "phonetic": "tə pɑːlɪʃ ɔf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The team finished the race in first place.",
+                "You just finished your book?",
+                "She finishes her piano practice at 7 o'clock.",
+                "I've finished my work.",
+                "She always finishes her work assignments by the end of the week."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmluaXNo&hash=6fa402de8cf57b02abcf2ca54d90f753323b97fe&lang=en&cache-only=0",
+            "defineEn": "finish eating all the food on one's plate or on the table",
+            "defineVi": "ăn hết thức ăn trên đĩa hoặc trên bàn"
+        },
+        {
+            "id": "1b05d8c8-0c5f-4ca3-bd05-98801f2568b9",
+            "word": "to sup",
+            "phonetic": "tə sʌp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Hey, sup Jono, how you doing?",
+                "So you can actually make use of those PCA lanes or super, super fast storage."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Vw&hash=6d713d5af9fc51052d46d40e1432fc38a6b1b28d&lang=en&cache-only=0",
+            "defineEn": "take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon",
+            "defineVi": "đưa thức ăn đặc hoặc lỏng vào miệng từng chút một bằng cách uống hoặc ăn bằng thìa"
+        },
+        {
+            "id": "8503d522-8104-4a8d-8871-c226f41a6ded",
+            "word": "to bite",
+            "phonetic": "tə baɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "By the will of his wife, he bit the bullet.",
+                "The bite had scarcely broken the skin.",
+                "The bite had scarcely broken the skin.",
+                "The street vendor served crispy trotter bites with a tangy dipping sauce at the food market.",
+                "Never bite the hand that feeds you Carol."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYml0ZQ&hash=ee9210b097ea1df8f23f7ae644c185769cba91a6&lang=en&cache-only=0",
+            "defineEn": "to cut into flesh using the teeth",
+            "defineVi": "để cắt vào thịt bằng cách sử dụng răng",
+            "hasImg": true
+        },
+        {
+            "id": "c52d0921-9713-49f8-a791-ec7ac5b584ff",
+            "word": "to bolt",
+            "phonetic": "tə boʊlt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The textile store offers bolts of various fabrics, from cotton to linen.",
+                "The bolt clicked into place.",
+                "The mechanic replaced the rusted bolt with a new one.",
+                "The construction worker used a heavy-duty bolt to connect the steel beams.",
+                "The dressmaker purchased a bolt of silk to create a stunning gown."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYm9sdA&hash=0c23e585a6b3e6600436d566357957674f8b5e10&lang=en&cache-only=0",
+            "defineEn": "eat hastily without proper chewing",
+            "defineVi": "ăn vội vàng mà không nhai kỹ"
+        },
+        {
+            "id": "df5ea807-9967-465f-bde1-9056afa7c1a4",
+            "word": "bon appetit",
+            "phonetic": "bɑːn æpɪtiːt ",
+            "partOfSpeechType": "interjection",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Ym9uIGFwcGV0aXQ&hash=db9ff92eca11f5cd2c339fe10c835298373f951e&lang=en&cache-only=0",
+            "defineEn": "a French expression used to wish someone a good appetite or enjoyable meal before they start eating",
+            "defineVi": "một thành ngữ Pháp được sử dụng để chúc ai đó ngon miệng hoặc một bữa ăn thú vị trước khi họ bắt đầu ăn"
+        },
+        {
+            "id": "7008fa92-f324-4e55-8f97-9f6307b7c54d",
+            "word": "to champ",
+            "phonetic": "tə tʃæmp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Keep it up champ!",
+                "Life's not exactly a bowl of cherries when you're an international champ.",
+                "I expect you're champing at the bit, so we'll get things going as soon as we can.",
+                "The champ is still here undefeated!",
+                "They’re champs!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hhbXA&hash=e4c9ffd214128f08ca8d206cd6dbbe9d60cc755b&lang=en&cache-only=0",
+            "defineEn": "chew noisily",
+            "defineVi": "nhai ồn ào"
+        },
+        {
+            "id": "ca7e2c5c-5b43-47c5-a5ca-3fbfc05bf671",
+            "word": "to choke down",
+            "phonetic": "tə tʃoʊk daʊn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hva2UgZG93bg&hash=28974c01ad9cefc9640ba7d8335c040a7208d859&lang=en&cache-only=0",
+            "defineEn": "to eat or swallow something with difficulty or reluctance",
+            "defineVi": "ăn hoặc nuốt một cái gì đó khó khăn hoặc miễn cưỡng"
+        },
+        {
+            "id": "47eab5d0-84ad-4146-aa99-ebb013cb8354",
+            "word": "to champ",
+            "phonetic": "tə tʃɑːmp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Keep it up champ!",
+                "Life's not exactly a bowl of cherries when you're an international champ.",
+                "I expect you're champing at the bit, so we'll get things going as soon as we can.",
+                "The champ is still here undefeated!",
+                "They’re champs!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hhbXA&hash=e4c9ffd214128f08ca8d206cd6dbbe9d60cc755b&lang=en&cache-only=0",
+            "defineEn": "chew noisily",
+            "defineVi": "nhai ồn ào"
+        },
+        {
+            "id": "e7c30f94-7ac8-4972-ac4c-cfae0f8b6e15",
+            "word": "to chew",
+            "phonetic": "tə tʃuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "That district attorney will chew you up and spit you out in the courtroom.",
+                "He chewed his food with his mouth closed, showing good manners.",
+                "Chewing on a clove can help alleviate a toothache.",
+                "We bit off more than we could chew in our original reform proposals.",
+                "Sarah's face looked like a bulldog chewing a wasp when she saw that her favorite dress was ruined."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2hldw&hash=35c76e6e494ff0bdc4d5b5db21a92d4320d2564d&lang=en&cache-only=0",
+            "defineEn": "to bite and crush food into smaller pieces with the teeth to make it easier to swallow",
+            "defineVi": "cắn và nghiền thức ăn thành những miếng nhỏ hơn bằng răng để dễ nuốt hơn",
+            "hasImg": true
+        },
+        {
+            "id": "29c2c3a8-7060-464a-9be1-e59d9764642a",
+            "word": "to crunch",
+            "phonetic": "tə kɹʌntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The ridged macaroni adds crunch to the classic salad.",
+                "The coconut flakes provided a delightful crunch in the homemade granola.",
+                "The crispy skin of the parson's nose offered a satisfying crunch with each bite.",
+                "I love the crunch of romaine lettuce in my sandwiches.",
+                "The carob-covered almonds provided a delightful crunch and a hint of sweetness in every bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY3J1bmNo&hash=5ec7c9ec2ba048a1f6a16fa636d563f0b010ffd3&lang=en&cache-only=0",
+            "defineEn": "to crush or grind something loudly and noisily, often with the teeth",
+            "defineVi": "để nghiền nát hoặc nghiền một cái gì đó to và ồn ào, thường là bằng răng",
+            "hasImg": true
+        },
+        {
+            "id": "e04c9b7d-ab66-4bc0-bd6d-776ead532363",
+            "word": "to consume",
+            "phonetic": "tə dᵻmɑːlɪʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Consuming prunes may have a positive impact on heart health by reducing LDL cholesterol levels.",
+                "Her new job was so consuming that she barely had time for anything else.",
+                "Public education campaigns highlight potential health risks of consuming pink slime products.",
+                "Consuming milk can help maintain healthy skin due to the presence of vitamin A.",
+                "He decided to only consume halal meat to adhere to his religious beliefs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
+            "defineEn": "eat up completely, as with great appetite",
+            "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "ca225ede-6b39-459e-8072-1a0f987e5c95",
+            "word": "to devour",
+            "phonetic": "tə dɪvaʊɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "As a kid, I used to enjoy picking off the maraschino cherries from my mom's homemade fruitcake before devouring the rest of it.",
+                "The children were hungry and eagerly devoured their food.",
+                "The chickens pecked at the corncob, eagerly devouring the remaining bits of corn.",
+                "As a leader, it's important to be confident and assertive, because make yourself all honey and the flies will devour you.",
+                "They devour hydroids."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGV2b3Vy&hash=3ce6bc8bc411891bccbade71593160fe67d08768&lang=en&cache-only=0",
+            "defineEn": "eat greedily",
+            "defineVi": "ăn uống tham lam"
+        },
+        {
+            "id": "50f39350-a59c-4a85-846b-3e5ef046bfa5",
+            "word": "to diet",
+            "phonetic": "tə daɪət ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He followed a strict diet.",
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "We existed on a diet of rice.",
+                "She includes thin slices of celery in her diet.",
+                "They lived frugally off a diet of beans and lentils."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlldA&hash=215ef18e10564233d1ce597d1f86c19cf04c1c7d&lang=en&cache-only=0",
+            "defineEn": "to eat small amounts or particular kinds of food, especially to lose weight",
+            "defineVi": "ăn một lượng nhỏ hoặc các loại thực phẩm cụ thể, đặc biệt là để giảm cân",
+            "hasImg": true
+        },
+        {
+            "id": "8fbd8e17-bcdb-4250-af0c-03459edccc76",
+            "word": "to dig in",
+            "phonetic": "tə dɪɡ ɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlnIGlu&hash=8572a20c18801dd68cbf0c2f221ab113dbf573df&lang=en&cache-only=0",
+            "defineEn": "eat heartily",
+            "defineVi": "ăn tận tình"
+        },
+        {
+            "id": "f5fda691-6449-43d2-8841-16a8d0165007",
+            "word": "to consume",
+            "phonetic": "tə daʊn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Consuming prunes may have a positive impact on heart health by reducing LDL cholesterol levels.",
+                "Her new job was so consuming that she barely had time for anything else.",
+                "Public education campaigns highlight potential health risks of consuming pink slime products.",
+                "Consuming milk can help maintain healthy skin due to the presence of vitamin A.",
+                "He decided to only consume halal meat to adhere to his religious beliefs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29uc3VtZQ&hash=9cdfa562337f095e3d243fa4a940af48099490dd&lang=en&cache-only=0",
+            "defineEn": "eat up completely, as with great appetite",
+            "defineVi": "ăn hết sạch, như với sự thèm ăn tuyệt vời",
+            "hasImg": true
+        },
+        {
+            "id": "d7356a4d-b7dc-4b64-8868-1df7ee0b5102",
+            "word": "to eat up",
+            "phonetic": "tʊ iːt ʌp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Narrator: Delivery alone ate up 36% of revenue.",
+                "Eat up. ",
+                "and you just eat up mile after mile.",
+                "If we look at it on a global scale, our meaty diet is literally eating up the planet.",
+                "At the same time, your dendritic cells, other phagocytes, they will eat up the viruses and then they'll present them on their surfaces."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZWF0IHVw&hash=b3cb4053f3e67f6593674e571d460f629c9fc0cf&lang=en&cache-only=0",
+            "defineEn": "to eat food completely or finish a meal",
+            "defineVi": "để ăn thức ăn hoàn toàn hoặc kết thúc một bữa ăn"
+        },
+        {
+            "id": "e42a264f-6fc6-42a1-a2f5-86d2dc6e733b",
+            "word": "to gobble",
+            "phonetic": "tə ɡɑːbəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Gobble the cobble.",
+                "so if you ever hear a turkey make that gobble gobble sound you know it's a Tom turkey",
+                "so if you ever hear a turkey make that gobble gobble sound you know it's a Tom turkey"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ29iYmxl&hash=c8432ca1b023ac7a41ba4b2e1cec9ab389600c1f&lang=en&cache-only=0",
+            "defineEn": "to eat something quickly and greedily, often making loud and rapid swallowing sounds",
+            "defineVi": "ăn một cái gì đó một cách nhanh chóng và ngấu nghiến, thường phát ra âm thanh nuốt lớn và nhanh",
+            "hasImg": true
+        },
+        {
+            "id": "90134fa9-4b64-4b36-a1ae-afda1047a8c4",
+            "word": "to gulp",
+            "phonetic": "tə ɡʌlp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "When his head broke the surface he took in deep gulps of air.",
+                "They gulp and swallow water almost constantly.",
+                "Its needle-like teeth hook squid one half its size and its jaws can gulp them down.",
+                "He gulps air into his body to create enough internal pressure to pop the top of his old shell.",
+                "Mine are all down with two big gulps of cola."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ3VscA&hash=b931da864e988927bdc4eee37a0057897b44741f&lang=en&cache-only=0",
+            "defineEn": "to swallow hurriedly or greedily or in one draught",
+            "defineVi": "nuốt vội vàng hoặc tham lam hoặc trong một bản nháp"
+        },
+        {
+            "id": "f6addd76-86a5-4727-89e2-1562a07d4000",
+            "word": "to guzzle",
+            "phonetic": "tə ɡʌzəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The two losers in that particular round have to guzzle a bever-age.",
+                "Okay, our first guzzle is mayo soda.",
+                "But the roots of Pycnandra acuminata guzzle up that metal, and the plant has about 250 grams of nickel per kilogram of sap.",
+                "Animal products are guzzling up tons of food, but they only make up 18% of the calories humans eat.",
+                "- Or you're gonna guzzle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ3V6emxl&hash=e7d07fc0e1d99ad9fce82b28896569452ad50dae&lang=en&cache-only=0",
+            "defineEn": "drink greedily or as if with great thirst",
+            "defineVi": "uống một cách ngấu nghiến hoặc như thể rất khát"
+        },
+        {
+            "id": "c179e192-a0fd-4561-82c4-758d875332ac",
+            "word": "to lick",
+            "phonetic": "tə lɪk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The children eagerly licked their fingers after dipping them into a bowl of brown sugar.",
+                "A better teacher would have licked him into shape.",
+                "As the saying goes, one who handles honey, licks his fingers.",
+                "Ann won’t do a lick of work around the house.",
+                "The little boy eagerly licked his ice cream, trying to catch every last bit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbGljaw&hash=b9bfd2e9dafdc2c6d15d79e18b1868a7df8b815b&lang=en&cache-only=0",
+            "defineEn": "to pass the tongue over a surface, typically to taste or consume something",
+            "defineVi": "để vượt qua lưỡi trên một bề mặt, điển hình là nếm hoặc tiêu thụ một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "a9069f88-63bb-40be-99d6-e3cf1f5432af",
+            "word": "to munch",
+            "phonetic": "tə mʌntʃ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We enjoyed a picnic in the park, munching on pistachios while soaking up the warm sun.",
+                "They fed the carrot to their pet rabbit, who happily munched on it.",
+                "In fact, people in the United States munched through four billion of them in 2014 alone.",
+                "And he munched on them a little bit.",
+                "Instead they munch on what's above ground."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbXVuY2g&hash=7c432f7dc9c846571b9fa21b35a80fd32c8ff40d&lang=en&cache-only=0",
+            "defineEn": "to chew steadily or vigorously, often making a crunching sound",
+            "defineVi": "nhai đều đặn hoặc mạnh mẽ, thường tạo ra âm thanh lạo xạo",
+            "hasImg": true
+        },
+        {
+            "id": "b7e9966b-586d-4365-b561-df8e2ea16be0",
+            "word": "to nibble",
+            "phonetic": "tə nɪbəl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The goats eagerly nibbled on the cardoon leaves.",
+                "The squirrel nibbled on the pericarp of the hazelnut, trying to access the tasty kernel hidden inside.",
+                "They climb up here nibble on hay.",
+                "Nibbling on the flower’s anthers detaches the pollen.",
+                "We also saw a deer nibbling on some plants!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbmliYmxl&hash=a79368fc896719126624370e780ff63bb67def58&lang=en&cache-only=0",
+            "defineEn": "eat intermittently; take small bites of",
+            "defineVi": "ăn ngắt quãng; cắn những miếng nhỏ"
+        },
+        {
+            "id": "57e9995e-0d79-4ee3-9ece-74a1783d31b9",
+            "word": "to peck at",
+            "phonetic": "tə pɛk æt ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gcGVjayBhdA&hash=0690aca6e037df2d6ce7c10bebd5e24115cd0c1b&lang=en&cache-only=0",
+            "defineEn": "eat like a bird",
+            "defineVi": "ăn như một con chim"
+        },
+        {
+            "id": "3f9ab26d-0d85-4489-bb67-1ca82435a0a6",
+            "word": "to peck at",
+            "phonetic": "tə pɪk æt ",
+            "partOfSpeechType": "verb",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dG8gcGVjayBhdA&hash=0690aca6e037df2d6ce7c10bebd5e24115cd0c1b&lang=en&cache-only=0",
+            "defineEn": "eat like a bird",
+            "defineVi": "ăn như một con chim"
+        },
+        {
+            "id": "143c6951-505b-42e4-af4c-ab4ea2986891",
+            "word": "to savor",
+            "phonetic": "tə seɪvɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He savored a classic hamburger with cheese, lettuce, and tomato.",
+                "He savored the juicy bacon burger, piled high with crispy bacon, lettuce, tomato, and a tangy barbecue sauce.",
+                "She savors every bite of her beef satay, dipping it into the satay sauce for an extra burst of deliciousness.",
+                "He savored a bowl of piping hot masala soup, filled with vegetables, lentils, and aromatic spices.",
+                "He savored the succulent lobster tail with melted butter, enjoying every bite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2F2b3I&hash=de864210e8eb7717ecb4332435284c117f7b74d5&lang=en&cache-only=0",
+            "defineEn": "to fully appreciate and enjoy the flavor or aroma of a food or drink as much as possible, particularly by slowly consuming it",
+            "defineVi": "để đánh giá đầy đủ và tận hưởng hương vị hoặc mùi thơm của thức ăn hoặc đồ uống càng nhiều càng tốt, đặc biệt là bằng cách tiêu thụ nó từ từ",
+            "hasImg": true
+        },
+        {
+            "id": "269af36c-6f7c-42c0-9375-8e90e4e6ac98",
+            "word": "to scarf",
+            "phonetic": "tə skɑːɹf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The children scarfed down the pizza at the birthday party.",
+                "Someone has taken my scarf.",
+                "He scarfs his breakfast every morning before heading to work.",
+                "Should I add a scarf to this jacket or would it be gilding the lily?",
+                "Should I add a scarf to this jacket or would it be gilding the lily?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2NhcmY&hash=7e380cca7d037d071e4858e935bdaea1e7c1929a&lang=en&cache-only=0",
+            "defineEn": "to eat or drink quickly or eagerly",
+            "defineVi": "ăn hoặc uống một cách nhanh chóng hoặc háo hức"
+        },
+        {
+            "id": "8430eb42-ffc4-4633-bc72-fa829215a8cc",
+            "word": "to nosh",
+            "phonetic": "tə snæk ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "But it's not just our leftovers they're noshing on."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbm9zaA&hash=1007d4c4d97bba4e4a5eb2a980c38dcd1604e94a&lang=en&cache-only=0",
+            "defineEn": "eat a snack; eat lightly",
+            "defineVi": "ăn quà vặt; ăn nhẹ"
+        },
+        {
+            "id": "ecac1c72-ceb5-4019-a97c-e5444b80bfe5",
+            "word": "to spoon",
+            "phonetic": "tə spuːn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The spoon dropped with a clatter from her hand.",
+                "She spooned a velvety hollandaise sauce over her grilled asparagus",
+                "He dipped a spoon into the luscious flesh of the ripe cantaloupe.",
+                "The chef tasted the sauce with a small spoon.",
+                "The boy was born with a silver spoon in his mouth."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc3Bvb24&hash=6985f869bdff86deacdbab6e62871d1fea7f4c6b&lang=en&cache-only=0",
+            "defineEn": "scoop up or take up with a spoon",
+            "defineVi": "múc lên hoặc lấy bằng thìa"
+        },
+        {
+            "id": "1f941218-4491-431d-ba0c-e81326062c1e",
+            "word": "to wolf",
+            "phonetic": "tə wʊlf ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Hunger drives the wolf out of the wood.",
+                "He's a wolf in lamb's clothing.",
+                "We all met that wolf in sheep's clothing I guess at least once a life.",
+                "He has cried wolf so many times that people have stopped trusting him.",
+                "This keeps the wolves from the door and allows individuals time to sort themselves out."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gd29sZg&hash=470577d6279ba981650a8eade533c3039db267a7&lang=en&cache-only=0",
+            "defineEn": "eat hastily",
+            "defineVi": "ăn vội vàng",
+            "hasImg": true
+        },
+        {
+            "id": "36578e07-ff84-49b4-9c4a-d495d818370b",
+            "word": "to feast",
+            "phonetic": "tə fiːst ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The garden is a feast for the eyes.",
+                "The audience at the fashion show feasted their eyes on the stunning runway models, showcasing the latest designer collections.",
+                "His sketches are always a feast to the eyes.",
+                "Jazz has always been a feast to my ears.",
+                "Pop is a feast to the ears of many, but I despise it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZmVhc3Q&hash=dd4a7476c76cefd078db02807c125d81d4a87dab&lang=en&cache-only=0",
+            "defineEn": "partake in a feast or banquet",
+            "defineVi": "tham gia một bữa tiệc hoặc bữa tiệc"
+        },
+        {
+            "id": "c79e9507-cfb4-4e47-87e2-15a4b00817fa",
+            "word": "to binge",
+            "phonetic": "tə bɪndʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Binged it.",
+                "That's binge eating disorder.",
+                "Binge drinking and alcoholism are a totally different ballgame.",
+                "Or you're binging all day.",
+                "This could be binge eating."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYmluZ2U&hash=62803c1f424c38053845e5cd9604f3fb857fc97e&lang=en&cache-only=0",
+            "defineEn": "to drink or eat excessively",
+            "defineVi": "uống hoặc ăn quá mức",
+            "hasImg": true
+        },
+        {
+            "id": "7b05873b-e974-4cae-b381-ea2695697945",
+            "word": "to overeat",
+            "phonetic": "tʊ oʊvɚɹiːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "My mother often warned me that gluttony kills more than the sword in an attempt to get me to eat more nutritiously and avoid overeating.",
+                "And then we overeat on it., because we're so hungry.",
+                "This is good, since chinchillas can easily overeat foods that are too high in sugar and water content, which will seriously throw off their sensitive digestive system.",
+                "If you’re there for the service and the atmosphere, you can get that without overeating to the point of discomfort or leaving uneaten food behind.",
+                "And so they won't eat when their body actually needs them to, or they may overeat and it can be really difficult for us."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gb3ZlcmVhdA&hash=0c54b1df137a00da453637ad450a0dd6b0baa90e&lang=en&cache-only=0",
+            "defineEn": "to eat excessively, especially to the point that makes one feel sick or uncomfortable",
+            "defineVi": "ăn quá mức, đặc biệt là đến mức khiến người ta cảm thấy buồn nôn hoặc khó chịu",
+            "hasImg": true
+        },
+        {
+            "id": "cb43c51a-c731-46a2-b09b-e5c6768410de",
+            "word": "to gorge",
+            "phonetic": "tə ɡoːɹdʒ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "A canyon is a deep gorge or gully in the earth.",
+                "And it's from a cable car into a gorge.",
+                "As the future queens gorge, the royal jelly triggers other phases of development that workers don’t experience, like the formation of ovaries for laying eggs.",
+                "But they can’t just sit around gorging themselves all day.",
+                "In summer, they may be able to gorge themselves on aquatic plants that are much richer in sodium."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZ29yZ2U&hash=3fa423b15bdd8c84921ec545267676c29c8e0118&lang=en&cache-only=0",
+            "defineEn": "overeat or eat immodestly; make a pig of oneself",
+            "defineVi": "ăn quá nhiều hoặc ăn uống vô độ; làm một con lợn của chính mình",
+            "hasImg": true
+        },
+        {
+            "id": "d59a8765-9b25-475f-910f-87f48247483d",
+            "word": "to pack away",
+            "phonetic": "tə pæk ɐweɪ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Now, the cell can control what sections of DNA are packed away by removing or adding molecules to the DNA or the histones themselves."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcGFjayBhd2F5&hash=ba538492f3910e6a74ddb6970ec9315809dc46af&lang=en&cache-only=0",
+            "defineEn": "to eat a large amount of food quickly or with gusto",
+            "defineVi": "ăn một lượng lớn thức ăn một cách nhanh chóng hoặc với sự thích thú"
+        },
+        {
+            "id": "10662732-00a1-4030-8a66-05adab64b031",
+            "word": "to devour",
+            "phonetic": "tə pɪɡ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "As a kid, I used to enjoy picking off the maraschino cherries from my mom's homemade fruitcake before devouring the rest of it.",
+                "The children were hungry and eagerly devoured their food.",
+                "The chickens pecked at the corncob, eagerly devouring the remaining bits of corn.",
+                "As a leader, it's important to be confident and assertive, because make yourself all honey and the flies will devour you.",
+                "They devour hydroids."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGV2b3Vy&hash=3ce6bc8bc411891bccbade71593160fe67d08768&lang=en&cache-only=0",
+            "defineEn": "eat greedily",
+            "defineVi": "ăn uống tham lam",
+            "hasImg": true
+        },
+        {
+            "id": "3a178366-3382-49a3-ba7c-66a37de4528c",
+            "word": "to slurp",
+            "phonetic": "tə slɜːp ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "- He slurped.",
+                "And slurp out the innards.",
+                "Then, with a few jerky movements, they slurp the snail out.",
+                "Can I slurp it?",
+                "Hey, you're not slurping, man."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gc2x1cnA&hash=d797d74bc74cc0ae944f4a4db01fd4fbb6920b89&lang=en&cache-only=0",
+            "defineEn": "to eat or drink noisily by inhaling a liquid or soft food, such as soup or noodles, often with a distinctive, impolite sound",
+            "defineVi": "ăn hoặc uống ồn ào bằng cách hít thức ăn lỏng hoặc mềm, chẳng hạn như súp hoặc mì, thường có âm thanh đặc biệt, bất lịch sự"
+        }
+    ]
+}

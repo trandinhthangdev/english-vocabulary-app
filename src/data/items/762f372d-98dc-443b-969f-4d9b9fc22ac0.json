@@ -1,0 +1,574 @@
+{
+    "id": "762f372d-98dc-443b-969f-4d9b9fc22ac0",
+    "title": "Mathematics and Measurement",
+    "originalTitle": "Mathematics and Measurement",
+    "words": [
+        {
+            "id": "148a0725-1e98-40e8-91c8-a1d5d5a2bae4",
+            "word": "watt",
+            "phonetic": "wɑːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "One joule per second equals one watt.",
+                "For some context, cell-phone camera lights put out about 1 watt.",
+                "The most powerful pickup truck in America puts out about 350,000 watts.",
+                "So this one's using only about 2 watts.",
+                "Today, the world uses 3 trillion watts of electricity."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2F0dA&hash=1a45ede44b3b16a609f2a797cda5030ba42f6263&lang=en&cache-only=0",
+            "defineEn": "the standard unit for measuring electrical power corresponding to the rate of energy consumption in an electric circuit, equal to one joule per second",
+            "defineVi": "đơn vị tiêu chuẩn để đo công suất điện tương ứng với tốc độ tiêu thụ năng lượng trong mạch điện, bằng một joule trên giây"
+        },
+        {
+            "id": "3cd2aca0-a798-4c9e-b10a-15ab69fcee1c",
+            "word": "volt",
+            "phonetic": "voʊlt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The voltage is 16 volts.",
+                "Two of them are five volt addressable.",
+                "It'll do 12 volts, one and a half amps.",
+                "- We've only got 30 volts between lines one and three. -",
+                "So this is running a 25.2 volts."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dm9sdA&hash=4ed35ab699cec13583a4c296c9f3824e9983ee0b&lang=en&cache-only=0",
+            "defineEn": "the standard unit of electromotive force, which measures the strength of an electrical current that is sent around an electrical system",
+            "defineVi": "đơn vị tiêu chuẩn của lực điện động, đo cường độ của dòng điện được gửi xung quanh hệ thống điện"
+        },
+        {
+            "id": "653973bf-b1b1-436f-af80-2cdb018c6727",
+            "word": "rpm",
+            "phonetic": "ɑːɹpiːɛm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These probably blow at like 15,000 RPM.",
+                "Interestingly, they've configured the fans to run it very different RPMs.",
+                "When you said the motor itself is at 1600 RPMs?",
+                "If you guys have seen our video on the Blowie Matron, it goes up to about 11,000 RPM, and it will legitimately chop your finger off if it ends up there.",
+                "For example, in the IgnitionControl object, there might be functions to set the RPM of the engine, check the spark plug voltage, as well as fire the individual spark plugs."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cnBt&hash=8f5e8e00c553667a3a0a8dbae57064cf5b27f78e&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring the speed of an engine, a computer hard drive, etc.",
+            "defineVi": "một đơn vị đo tốc độ của động cơ, ổ cứng máy tính, v.v."
+        },
+        {
+            "id": "8fd9054e-428a-461d-a41b-d57793854d8e",
+            "word": "amp",
+            "phonetic": "æmp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "He put another amp in it.",
+                "That can do up to 10 amps.",
+                "Well I got Amp",
+                "It'll do 12 volts, one and a half amps.",
+                "It's set up for DC amps."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW1w&hash=7e21481b136fbfec3db22f9485a26d5d0dee8d42&lang=en&cache-only=0",
+            "defineEn": "a unit of measurement used to determine the strength of an electrical current",
+            "defineVi": "một đơn vị đo lường được sử dụng để xác định cường độ dòng điện"
+        },
+        {
+            "id": "eafbc62c-09fa-4caf-a982-350254ae32f6",
+            "word": "karat",
+            "phonetic": "kæɹət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "However, if that was divided up equally for every person on Earth, we'd all get roughly an ounce of pure, 24 karat gold each.",
+                "Because he convinced generations of otherwise reasonable folks that there’s a difference between razors made for men and women, and marketed a version of women’s razor plated in 14 karat gold so that it would make a great gift."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2FyYXQ&hash=48a70fd2140b7209a1c626fb3f1134e5f7d081d2&lang=en&cache-only=0",
+            "defineEn": "a unit to measure the purity of gold, the purest gold being 24 karats",
+            "defineVi": "một đơn vị để đo độ tinh khiết của vàng, vàng tinh khiết nhất là 24 karat",
+            "hasImg": true
+        },
+        {
+            "id": "a9827004-90a3-4b91-9c3d-0a93fd4599b8",
+            "word": "c",
+            "phonetic": "siː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Daytime temperatures can reach 40°C.",
+                "If a = b and b = c it follows that a = c.",
+                "I suggest grabbing a few navel oranges for their delicious taste and vitamin C content.",
+                "C is 1.",
+                "C is for companionship."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Yw&hash=31fcb83b4f0ddd79f40125935a40dce862f971e7&lang=en&cache-only=0",
+            "defineEn": "a metric unit of measurement used to determine the temperature of a place or thing based on which water boils at 100° and freezes at 0° under standard conditions",
+            "defineVi": "một đơn vị đo lường số liệu được sử dụng để xác định nhiệt độ của một địa điểm hoặc vật dựa trên đó nước sôi ở 100° và đóng băng ở 0° trong điều kiện tiêu chuẩn",
+            "hasImg": true
+        },
+        {
+            "id": "09e635ea-7cc8-4b93-bfe2-1f0722cfd7ba",
+            "word": "cl",
+            "phonetic": "siːɛl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "CL's Lifted, I love the song.",
+                "I am a CL fan.",
+                "CL isn't signing.",
+                "CL's Lifted just came out.",
+                "CL wanted to show ASL."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2w&hash=ede2271edc0c436393cf83079ab760f7b191ec78&lang=en&cache-only=0",
+            "defineEn": "a metric unit of measurement equal to one-hundredth of a liter",
+            "defineVi": "một đơn vị đo lường số liệu bằng một phần trăm lít"
+        },
+        {
+            "id": "73c66710-2b91-452b-8d02-bd5c4bddbc5f",
+            "word": "fluid ounce",
+            "phonetic": "fluːɪd aʊns ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zmx1aWQgb3VuY2U&hash=6f48060a11096c5e766d83d459183805aeb60774&lang=en&cache-only=0",
+            "defineEn": "a unit to measure liquids which is equal to 0.028 liters in the measurement used in the UK and some other countries, and 0.03 liters in that of the US",
+            "defineVi": "một đơn vị đo chất lỏng bằng 0,028 lít trong phép đo được sử dụng ở Anh và một số quốc gia khác, và 0,03 lít ở Hoa Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "bc3df415-b1a7-46b1-8648-0aa356f43982",
+            "word": "fps",
+            "phonetic": "ɛfpiːɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Looks like 80 to 90 FPS.",
+                "So we're right around 100 FPS.",
+                "The frame rates can go up to 240, 480, and 960 FPS.",
+                "You can shoot in 24 FPS.",
+                "I gained like 10 FPS for $1,400."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnBz&hash=022ba7e74da1564843a24086c81db1697215287b&lang=en&cache-only=0",
+            "defineEn": "a unit of measurement used to determine the speed or velocity of something",
+            "defineVi": "một đơn vị đo lường được sử dụng để xác định tốc độ hoặc vận tốc của một cái gì đó"
+        },
+        {
+            "id": "78ce3380-4f39-4a74-90c6-71d2c7da9b1a",
+            "word": "hertz",
+            "phonetic": "hɜːts ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This one has got 120 Hertz.",
+                "240 hertz is just so sick.",
+                "60 hertz is a downer.",
+                "Yeah, it, the hertz hurt.",
+                "1080p, 120 hertz is so awesome."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVydHo&hash=035db572e0279cae9fb14e02d9c5ca392400582a&lang=en&cache-only=0",
+            "defineEn": "a unit that is used in measurement of the frequency of sound and radio waves",
+            "defineVi": "một đơn vị được sử dụng để đo tần số của âm thanh và sóng vô tuyến"
+        },
+        {
+            "id": "51ef73f9-f828-46cd-97a5-049a5c164e3a",
+            "word": "horsepower",
+            "phonetic": "hɔːɹspaʊɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- I mean human horsepower.",
+                "On E85, that goes up to 1600 horsepower.",
+                "It will have 495 horsepower.",
+                "Ben Turner: They make 2,380 shaft horsepower, each side.",
+                "The i4 comes with 523 horsepower."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aG9yc2Vwb3dlcg&hash=44ee4b4596248d2de2392d0051dfac990be01e93&lang=en&cache-only=0",
+            "defineEn": "a unit for measuring an engine's power",
+            "defineVi": "một đơn vị để đo sức mạnh của động cơ"
+        },
+        {
+            "id": "b89d5fc0-d384-4e19-a87e-dfc9d3931509",
+            "word": "km/h",
+            "phonetic": "keɪɛm slæʃ eɪtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "At its lowest point, the tether’s tip is dashing through the atmosphere at around 12,000km/h.",
+                "While this isn't exactly easy, it’s still much cheaper than getting a big tin can, filled with rocket fuel, to go 40,000km/h.",
+                "In the opposite direction, the tether could pick up a vehicle travelling through Mars’ thin atmosphere at only about 1,000km/h not much faster than our airliners on Earth, and fling it back to Earth to be caught and lowered down.",
+                "And from this, we can estimate that, while the larger dinosaur was plodding along at a leisurely 7 kilometers per hour, Wintonopus and Skartopus were moving at 16km/h and 12km/hr respectively."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a21o&hash=e76e0de13568b0ba683d59b6bfac041a9cd23ca7&lang=en&cache-only=0",
+            "defineEn": "a unit of measurement adopted by the metric system used to determine the speed of an object",
+            "defineVi": "một đơn vị đo lường được sử dụng bởi hệ thống số liệu được sử dụng để xác định tốc độ của một vật thể"
+        },
+        {
+            "id": "c6df0257-0d71-4a9d-8d9a-8fa32dc7b683",
+            "word": "lb",
+            "phonetic": "ɛlbiː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Of course it would be lovely to have hand-lettered save-the-dates on 100 lb.",
+                "He’s a Netherland Dwarf rabbit which means that he’s only going to be about 2 lbs, so not much bigger than this.",
+                "Once he figures out where the target is going to be, then he has to be accurate enough and well timed enough with a 70lb bow to hit that target."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGI&hash=b2fbc6e6a2f4d88cea5e2c9974359cd2fda97f52&lang=en&cache-only=0",
+            "defineEn": "a unit of measurement that equals 454 grams or 16 ounces and is used to determine the weight of something",
+            "defineVi": "một đơn vị đo lường bằng 454 gram hoặc 16 ounce và được sử dụng để xác định trọng lượng của một thứ gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "5fe70e0e-97f4-4777-8566-8ee4f47b559a",
+            "word": "pint",
+            "phonetic": "paɪnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "You cannot get a quart into a pint pot, so it's important to set achievable goals.",
+                "The pints travel along the Spiral Hardener, a corkscrew-shaped conveyor belt inside a freezer.",
+                "It can fill up 270 pints a minute.",
+                "At this point, six pints every hour are pulled off the line for quality testing.",
+                "They're not eating a pint of honey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGludA&hash=312fd209f480c4d1218c9409bde8d78ec47b2f28&lang=en&cache-only=0",
+            "defineEn": "a unit to measure liquids and some dry goods, there are 8 pints in a gallon, and it is equal to 0.568 of a liter in the United Kingdom and some other countries, and 0.473 of a liter in the United States",
+            "defineVi": "một đơn vị đo chất lỏng và một số mặt hàng khô, có 8 panh trong một gallon và nó bằng 0,568 lít ở Vương quốc Anh và một số quốc gia khác, và 0,473 lít ở Hoa Kỳ",
+            "hasImg": true
+        },
+        {
+            "id": "e495f860-1ed5-4dd2-9ed8-4fb96322abad",
+            "word": "cube",
+            "phonetic": "kjuːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The agar cubes added a delightful chewiness to the tropical fruit salad.",
+                "She roasted the rutabaga cubes with olive oil and herbs.",
+                "I used a sugar cube to attract hummingbirds to my garden, placing it near their favorite flowers.",
+                "She made T-bone steak kebabs, threading cubes of marinated steak onto skewers with colorful vegetables.",
+                "My grandmother made strip steak kebabs, skewering marinated steak cubes with colorful bell peppers and onions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3ViZQ&hash=0cdf65c2a957f6ab295e6c2396fe487777c075fb&lang=en&cache-only=0",
+            "defineEn": "the number that is the result of a number multiplied by itself three times",
+            "defineVi": "số là kết quả của một số nhân với chính nó ba lần"
+        },
+        {
+            "id": "75cadf83-b287-48b4-8e53-eba301a4112f",
+            "word": "square",
+            "phonetic": "skwɛɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They decorate the town square for holidays and special occasions.",
+                "The demonstrators marched in a body to the main square.",
+                "The people gathered in the town square to celebrate the victory.",
+                "If this doesn't work we're back to square one.",
+                "We'll have to go back at square one if the government pulls our funding on this project."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJl&hash=84375fcb232426978fab61ef6cf2a8828931386e&lang=en&cache-only=0",
+            "defineEn": "the second exponent of any given number produced when multiplied by itself",
+            "defineVi": "số mũ thứ hai của bất kỳ số đã cho nào được tạo ra khi nhân với chính nó"
+        },
+        {
+            "id": "788b0a3c-cfc9-4c16-9931-fea859d7dae5",
+            "word": "square root",
+            "phonetic": "skwɛɹ ɹuːt ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c3F1YXJlIHJvb3Q&hash=713cf09a6b0e4eec23f0610f6e45c321a13822bd&lang=en&cache-only=0",
+            "defineEn": "a number that produces a particular number when multiplied by itself",
+            "defineVi": "một số tạo ra một số cụ thể khi nhân với chính nó"
+        },
+        {
+            "id": "6a4cf928-5fa0-40ec-85e9-1c56e15066f1",
+            "word": "variable",
+            "phonetic": "vɛɹɪəbəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Just the variables look a little bit more complicated.",
+                "Northern France's variable conditions are the first factor for elevated prices.",
+                "It stores a variable, like a number, and also a pointer.",
+                "The time in months is the independent variable.",
+                "a_with_b is just a variable."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmFyaWFibGU&hash=c2905b415aa7d43303a2a38ed7731cf01baeafd4&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a quantity that is capable of assuming different values in a calculation",
+            "defineVi": "(toán học) đại lượng có khả năng nhận các giá trị khác nhau trong một phép tính"
+        },
+        {
+            "id": "a00fa90f-b312-4054-a707-1eab01ab1993",
+            "word": "tape measure",
+            "phonetic": "teɪp mɛʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=dGFwZSBtZWFzdXJl&hash=3e94464b13395366e8e0ee781356a098330b8d3a&lang=en&cache-only=0",
+            "defineEn": "a long, thin piece of plastic, cloth, or flexible metal marked at graded intervals, used for measuring the length or height of something",
+            "defineVi": "một miếng nhựa, vải hoặc kim loại dẻo dài và mỏng được đánh dấu theo các khoảng cách đã được phân loại, được sử dụng để đo chiều dài hoặc chiều cao của một thứ gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "ad0c0557-6309-430f-a36f-691b07c4c7af",
+            "word": "array",
+            "phonetic": "ɚɹeɪ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Our laughers are arrayed before us.",
+                "However, the costliest creams contain an array of extravagant additions.",
+                "Skylab’s power came from two large solar panel arrays.",
+                "Its huge array of dishes gives ALMA the highest sensitivity of any millimeter/submillimeter telescope in the world.",
+                "But this socialist wave still represented a diverse array of definitions and opinions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJyYXk&hash=252d1bfeaf94ac886065b06a2c440142a54f28f2&lang=en&cache-only=0",
+            "defineEn": "a group of numbers, mathematical symbols or values, arranged in columns and rows",
+            "defineVi": "một nhóm các số, ký hiệu toán học hoặc giá trị, được sắp xếp theo cột và hàng"
+        },
+        {
+            "id": "db4393b5-fd76-4425-ae07-9a3bff5bc661",
+            "word": "axis",
+            "phonetic": "æksɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Earth rotates on its axis, causing day and night.",
+                "So that axis is time.",
+                "The X axis marks distance from Earth, and the Y axis tracks the passage of time.",
+                "And then this one here was our principal axis.",
+                "These axes are called roll, pitch and yaw. "
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXhpcw&hash=3a74108c7692c0eaeb058829cead065490b3f854&lang=en&cache-only=0",
+            "defineEn": "a real or imaginary line about which an object rotates",
+            "defineVi": "một đường thực hoặc tưởng tượng mà một đối tượng quay"
+        },
+        {
+            "id": "869886a3-5fb5-4504-8936-c1db40094c62",
+            "word": "calculus",
+            "phonetic": "kælkjʊləs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Although she wasn't naturally gifted at math, her hard work and dedication paid off when she aced her calculus final - proving that bought wit is the best wit.",
+                "It's not scary calculus.",
+                "And predicate calculus helps us find the meanings of certain words in those true sentences.",
+                "It's just our basic calculus.",
+                "In the calculus playlist, we came up with a rationale for Euler's formula."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FsY3VsdXM&hash=4da1b358eb6c1027ba1424058eaffcf42a059404&lang=en&cache-only=0",
+            "defineEn": "the branch of mathematics that comprises differentials and integrals",
+            "defineVi": "ngành toán học bao gồm vi phân và tích phân",
+            "hasImg": true
+        },
+        {
+            "id": "af83d9aa-167b-4680-a2f0-12799f68a279",
+            "word": "denominator",
+            "phonetic": "dᵻnɑːmᵻneɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Common denominator is 6.",
+                "The denominator is the assets, $10 million.",
+                "The denominator is n squared",
+                "The common denominator is 100.",
+                "So this fraction, the numerator here is less than the denominator."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVub21pbmF0b3I&hash=144e69ed9b57b6b220f7fde3fa05aab41decab1f&lang=en&cache-only=0",
+            "defineEn": "the number below the line in a fraction that shows how many parts the numerator divides into",
+            "defineVi": "số bên dưới dòng trong một phân số cho biết tử số chia thành bao nhiêu phần"
+        },
+        {
+            "id": "c685ec84-71a2-4724-8125-dbf9512e9902",
+            "word": "numerator",
+            "phonetic": "nuːmɚɹeɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Multiply the numerators.",
+                "So this fraction, the numerator here is less than the denominator.",
+                "The numerator is going to grow much faster than the denominator.",
+                "So we swap the numerator and the denominator.",
+                "This whole simplification, we're just simplifying the numerator."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bnVtZXJhdG9y&hash=185493bf3870ef663d548741bf41428fd17dbdcf&lang=en&cache-only=0",
+            "defineEn": "Fractional number above the line",
+            "defineVi": "Số phân số phía trên dòng"
+        },
+        {
+            "id": "a2aac0d5-6560-4b34-9cb6-91ef753a65eb",
+            "word": "common denominator",
+            "phonetic": "kɑːmən dᵻnɑːmᵻneɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbW9uIGRlbm9taW5hdG9y&hash=cf7490c8f9286d6658befb9c0167298e1588bf5d&lang=en&cache-only=0",
+            "defineEn": "(mathematics) a number divisible by all the numbers that are below the line in a set of fractions",
+            "defineVi": "(toán học) một số chia hết cho tất cả các số nằm dưới dòng trong một tập hợp các phân số"
+        },
+        {
+            "id": "58b68856-79df-4401-a17d-3da3312105ab",
+            "word": "chaos theory",
+            "phonetic": "keɪɑːs θiəɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2hhb3MgdGhlb3J5&hash=28fe84e7b5e42c6e19152dd542ad82ecc45291d1&lang=en&cache-only=0",
+            "defineEn": "(mathematics) an interdisciplinary theory about complex systems that obey particular laws but appear to have little or no order",
+            "defineVi": "(toán học) một lý thuyết liên ngành về các hệ thống phức tạp tuân theo các quy luật cụ thể nhưng dường như có rất ít hoặc không có trật tự"
+        },
+        {
+            "id": "d77f5372-5f72-4532-9efe-ff39ea06b82e",
+            "word": "game theory",
+            "phonetic": "ɡeɪm θiəɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Z2FtZSB0aGVvcnk&hash=62cd05dd8891f5bc9f2b82e22324ea09cb3e6e83&lang=en&cache-only=0",
+            "defineEn": "a branch of mathematics that studies the strategies of dealing with competitive situations involving conflict of interests, especially in business, war, etc.",
+            "defineVi": "một nhánh của toán học nghiên cứu các chiến lược đối phó với các tình huống cạnh tranh liên quan đến xung đột lợi ích, đặc biệt là trong kinh doanh, chiến tranh, v.v."
+        },
+        {
+            "id": "12a4c72c-90cc-4774-a40c-4127d9e4d7dd",
+            "word": "coordinate",
+            "phonetic": "koʊɔːɹdᵻnət ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That coordinate is negative one, zero.",
+                "What's its coordinates?",
+                "They coordinate with the harbormaster to beach ships.",
+                "Now, the second coordinate tells you increments of v2.",
+                "The Y coordinate is negative one."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29vcmRpbmF0ZQ&hash=1491d37d596681d2c688a2807583d74363e7c50e&lang=en&cache-only=0",
+            "defineEn": "any set of numbers that represent an exact position on a map or graph",
+            "defineVi": "bất kỳ bộ số nào đại diện cho một vị trí chính xác trên bản đồ hoặc đồ thị"
+        },
+        {
+            "id": "d4ce4651-5e62-471e-bc71-d8330749f4b9",
+            "word": "gradient",
+            "phonetic": "ɡɹeɪdiənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Go back down the gradient.",
+                "Like, I think the gradient of the flow across the entire thing. -",
+                "This salty medulla also creates a concentration gradient between the medulla and the filtrate which we're going to need in the final step of pee-making.",
+                "And then that gradient is used to actually produce ATP.",
+                "Now once that gradient forms, these guys want to get back in."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JhZGllbnQ&hash=fd16c3576446322b0b2b4486826aacaa221863a0&lang=en&cache-only=0",
+            "defineEn": "the rate of change of temperature, pressure, etc. between one part and another",
+            "defineVi": "tốc độ thay đổi nhiệt độ, áp suất, v.v. giữa bộ phận này với bộ phận khác"
+        },
+        {
+            "id": "a2555ad2-ec79-497e-bc9e-fdcf8a4be235",
+            "word": "prime number",
+            "phonetic": "pɹaɪm nʌmbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJpbWUgbnVtYmVy&hash=0cf2398225ae4ec552a6ab081a02e7bb2e9c24ed&lang=en&cache-only=0",
+            "defineEn": "a number greater than 1 with only two devisors which can be itself or 1",
+            "defineVi": "một số lớn hơn 1 chỉ có hai ước số có thể là chính nó hoặc 1"
+        },
+        {
+            "id": "6495e702-7506-4242-98c5-897000bb347c",
+            "word": "cardinal number",
+            "phonetic": "kɑːɹdɪnəl nʌmbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y2FyZGluYWwgbnVtYmVy&hash=48bb455d83857d161d73244f42b7417d6fed8e86&lang=en&cache-only=0",
+            "defineEn": "a number indicating the quantity and not order",
+            "defineVi": "một số chỉ số lượng và không đặt hàng"
+        },
+        {
+            "id": "a98e740d-87b7-4449-b459-e218932d9bcb",
+            "word": "irrational number",
+            "phonetic": "ɪɹæʃənəl nʌmbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=aXJyYXRpb25hbCBudW1iZXI&hash=c21e552be35b3a461cc84e5453bd084fb8c84ba5&lang=en&cache-only=0",
+            "defineEn": "a number incapable of being expressed as a ratio of two integers",
+            "defineVi": "một số không thể được biểu thị dưới dạng tỷ lệ của hai số nguyên"
+        },
+        {
+            "id": "7d78476f-dce3-43fa-990c-249fb180bb57",
+            "word": "rational number",
+            "phonetic": "ɹæʃənəl nʌmbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmF0aW9uYWwgbnVtYmVy&hash=caa31311987f4848da4317e6fc88758686dc42f6&lang=en&cache-only=0",
+            "defineEn": "a number that can be expressed as the fraction of two integers",
+            "defineVi": "một số có thể được biểu thị dưới dạng phân số của hai số nguyên"
+        },
+        {
+            "id": "40767825-621b-4792-84a3-1e9dd72c9a69",
+            "word": "mean",
+            "phonetic": "miːn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lower energy consumption means less pollution.",
+                "Her children mean the world to her.",
+                "Your friendship means a great deal to me.",
+                "They mean no harm.",
+                "They mean no harm."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVhbg&hash=1de005e38c80a0d092609cdf2a0112a33aca4a4e&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the average value of a set of quantities calculated by adding them, and dividing them by the total number of the quantities",
+            "defineVi": "(toán học) giá trị trung bình của một tập hợp các đại lượng được tính bằng cách cộng chúng lại và chia chúng cho tổng số lượng",
+            "hasImg": true
+        },
+        {
+            "id": "af984a73-59e7-4529-b9c8-5f5d71763777",
+            "word": "perimeter",
+            "phonetic": "pɚɹɪmɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "So the perimeter is 78 feet.",
+                "So what's its perimeter?",
+                "So the perimeter here, we could add 2 repeatedly five times.",
+                "That style of fixture, a sphere, a dome, with a perimeter metal is basically the bare-bones construction method of a flush mount.",
+                "So what is the perimeter of this pentagon in gnus?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGVyaW1ldGVy&hash=0f02b1f46cb0e4b1dcd4fa48a4bed5812411b03d&lang=en&cache-only=0",
+            "defineEn": "the total length of the external boundary of something",
+            "defineVi": "tổng chiều dài của ranh giới bên ngoài của một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "f413c724-e6ac-4f8e-9d92-100aa2bdcf2c",
+            "word": "tangent",
+            "phonetic": "tændʒənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She went off on a tangent about what happened to her last summer.",
+                "He always goes off at a tangent when we talk about something serious.",
+                "Tangent is opposite over adjacent.",
+                "Tangent is opposite over adjacent.",
+                "Tangent of theta equals my coefficient of friction."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGFuZ2VudA&hash=5ec15010863556614d5daa93c3b6c828fba05f5e&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the ratio of the opposite to the adjacent side of a triangle that has one angle of 90°",
+            "defineVi": "(toán học) tỷ lệ của cạnh đối diện với cạnh kề của một tam giác có một góc bằng 90°"
+        },
+        {
+            "id": "cd28ee69-f282-4b71-a0a2-f267d5a4e545",
+            "word": "sine",
+            "phonetic": "saɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Two ways of writing the inverse sine function.",
+                "So 20 sine 37.",
+                "a, b, sine theta.",
+                "Sine of what is square root of 2 over 2?",
+                "So then the rate of change of the rate of change of sine is negative sine."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2luZQ&hash=55c1b40ada9fafdfb2da448b9d6e714025904b30&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the ratio of the length of the side opposite the given angle to the length of the hypotenuse",
+            "defineVi": "(toán học) tỷ lệ độ dài của cạnh đối diện với góc đã cho với độ dài của cạnh huyền"
+        },
+        {
+            "id": "b136b076-0bba-44b8-a5d9-907e61499372",
+            "word": "cosine",
+            "phonetic": "koʊsaɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cosine of 30 degrees is square root of 3 over 2.",
+                "Cosine of 0 is 1.",
+                "Cosine of 0 is 1.",
+                "Cosine of 45 is root 2 over 2.",
+                "Derivative of sine is cosine, and vice versa."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29zaW5l&hash=671c522ad3368c1713a28089cd9d040e931841c3&lang=en&cache-only=0",
+            "defineEn": "(mathematics) the ratio of the adjacent side to the hypotenuse",
+            "defineVi": "(toán học) tỉ số của cạnh kề với cạnh huyền"
+        },
+        {
+            "id": "dea05db5-d1f6-4408-b923-8a68bba9e710",
+            "word": "cotangent",
+            "phonetic": "koʊtændʒənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "And cotangent of 2x is equal to 1 over tangent of 2x.",
+                "It was cotangent of 2x over the cosecant of x.",
+                "So it was the limit as x approaches 0 of cotangent of 2x.",
+                "So it's going to be equal to cotangent squared of x.",
+                "Cotangent of 2x, we said, was cosine of 2x over sine of 2x."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y290YW5nZW50&hash=e235d0e65a111d59372f6ee9884d5e4eaee81dd8&lang=en&cache-only=0",
+            "defineEn": "the ratio of the side adjacent to a particular acute angle to the side opposite the angle, in a right-angled triangle",
+            "defineVi": "tỷ lệ của cạnh kề với một góc nhọn cụ thể với cạnh đối diện với góc đó, trong một tam giác vuông"
+        }
+    ]
+}

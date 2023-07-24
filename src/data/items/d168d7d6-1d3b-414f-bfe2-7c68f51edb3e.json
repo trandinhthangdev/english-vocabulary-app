@@ -1,0 +1,646 @@
+{
+    "id": "d168d7d6-1d3b-414f-bfe2-7c68f51edb3e",
+    "title": "Social Media",
+    "originalTitle": "Social Media",
+    "words": [
+        {
+            "id": "8b8b573a-2ccb-49e7-b71e-9239619b0222",
+            "word": "profile picture",
+            "phonetic": "pɹoʊfaɪl pɪktʃɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cHJvZmlsZSBwaWN0dXJl&hash=d1632d37e6bd926bbedcfe67cf7bc02a6472d67a&lang=en&cache-only=0",
+            "defineEn": "a small image that represents an individual or entity on social media platforms or online profiles",
+            "defineVi": "một hình ảnh nhỏ đại diện cho một cá nhân hoặc tổ chức trên các nền tảng truyền thông xã hội hoặc hồ sơ trực tuyến"
+        },
+        {
+            "id": "d9abd65c-8eb5-4776-8944-975171d0dab2",
+            "word": "cover photo",
+            "phonetic": "kʌvɚ foʊɾoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y292ZXIgcGhvdG8&hash=86537434535f7720dd97a71df2eeb945af20a319&lang=en&cache-only=0",
+            "defineEn": "the prominent and customizable image displayed at the top of a social media profile or webpage, often used to visually represent the individual or brand",
+            "defineVi": "hình ảnh nổi bật và có thể tùy chỉnh được hiển thị ở đầu trang web hoặc hồ sơ truyền thông xã hội, thường được sử dụng để đại diện trực quan cho cá nhân hoặc thương hiệu"
+        },
+        {
+            "id": "5051ce18-f7e2-40b9-a20d-214bb4d9bb69",
+            "word": "profile",
+            "phonetic": "pɹoʊfaɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Cheshire cheese has a unique flavor profile.",
+                "By the next morning, over twenty of my friends had liked my new profile picture.",
+                "Maintaining a low profile has never been Maggie's strongest suit.",
+                "Give your contact details and follow this with a brief profile of yourself.",
+                "He's been in a little trouble recently so he's trying to keep a low profile."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHJvZmlsZQ&hash=5ace2ac2c8f2b60d9256d3ce4c682f536dcfd14d&lang=en&cache-only=0",
+            "defineEn": "the personal details and other information that someone posts online on a social media platform",
+            "defineVi": "chi tiết cá nhân và thông tin khác mà ai đó đăng trực tuyến trên nền tảng truyền thông xã hội"
+        },
+        {
+            "id": "9ac8d4ec-8fb9-4082-bf32-3a9539f60d86",
+            "word": "bio",
+            "phonetic": "baɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His bio included hunts for Bigfoot and the Loch Ness Monster.",
+                "Put it in your bio!",
+                "- Everything's very bio available, too.",
+                "Quarantine Together has no pictures, no bios and no screening methods.",
+                "The bio has to do with tissue, but the psychosocial are these other complex elements."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ymlv&hash=c58b08866709b1c5ff5216080266013c4b655190&lang=en&cache-only=0",
+            "defineEn": "a short written description or summary that provides information about a person, often used in social media profiles or online platforms to provide an introduction or overview of oneself",
+            "defineVi": "một mô tả hoặc tóm tắt bằng văn bản ngắn cung cấp thông tin về một người, thường được sử dụng trong hồ sơ mạng xã hội hoặc nền tảng trực tuyến để giới thiệu hoặc tổng quan về bản thân"
+        },
+        {
+            "id": "9c24407b-832e-4b92-ad33-782e1ecf97fe",
+            "word": "following",
+            "phonetic": "fɑːloʊɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Jake missed his friend's birthday party, but he made it up to her by organizing a surprise gathering with their mutual friends the following week.",
+                "She thought that being an influencer was a gravy train, but soon realized that building a following requires hard work and dedication.",
+                "Now, consider the following.",
+                "The following spring, the adult bee chews its way out.",
+                "The following year, construction on the tower foundations finally began."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zm9sbG93aW5n&hash=896126927e6134e1a2550d2bfd3cf5c4db9e11b7&lang=en&cache-only=0",
+            "defineEn": "the act of subscribing or adding someone's social media account or profile to receive updates, posts, or content from that individual or entity in one's own feed or timeline",
+            "defineVi": "hành động đăng ký hoặc thêm tài khoản hoặc hồ sơ mạng xã hội của ai đó để nhận thông tin cập nhật, bài đăng hoặc nội dung từ cá nhân hoặc tổ chức đó trong nguồn cấp dữ liệu hoặc dòng thời gian của chính họ"
+        },
+        {
+            "id": "4d7d91eb-a4f0-478e-80fc-89e614145cf2",
+            "word": "like",
+            "phonetic": "laɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Over seven hundred Facebook users have already liked the company’s website.",
+                "He likes the comfortable seats and big screen at the movie theater.",
+                "By the next morning, over twenty of my friends had liked my new profile picture.",
+                "Like the commandments written in stone.",
+                "Such helps were like drop in the ocean."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGlrZQ&hash=8ebd96a821ea318ea0d4b905a330a1822df2581f&lang=en&cache-only=0",
+            "defineEn": "something by which a person can show their interest in or approval of a post shared on social media, a blog, etc. by tapping a specific button",
+            "defineVi": "thứ gì đó mà một người có thể thể hiện sự quan tâm hoặc phê duyệt bài đăng được chia sẻ trên phương tiện truyền thông xã hội, blog, v.v. bằng cách nhấn vào một nút cụ thể",
+            "hasImg": true
+        },
+        {
+            "id": "dab1495c-436f-46c9-88ca-14a88a369f39",
+            "word": "comment",
+            "phonetic": "kɑːmɛnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lots of people had left comments under the post.",
+                "Her comment about my work piqued my anger.",
+                "Bob's comment must have been close to home.",
+                "The Youtube comment sowed a seed of anger and untold frustrations which brought some questions to the forefront of her mind.",
+                "No one at the company could be reached for comment."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29tbWVudA&hash=c1150f216c114ace5894ada19b6b9ef4773bd0c3&lang=en&cache-only=0",
+            "defineEn": "a spoken or written remark that expresses an opinion or reaction",
+            "defineVi": "một nhận xét nói hoặc viết thể hiện một ý kiến hoặc phản ứng",
+            "hasImg": true
+        },
+        {
+            "id": "c32bd526-0d47-4927-8626-a5707992f896",
+            "word": "timeline",
+            "phonetic": "taɪmlaɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "As a project manager, I try to be realistic about timelines and resources.",
+                "What's the timeline?",
+                "But the timeline is really the big issue.",
+                "The rest of the assets will move up on your timeline.",
+                "So the timeline here doesn’t exactly add up."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGltZWxpbmU&hash=6c4bca98521a866d71d29ab696ab2e0e83c50ee3&lang=en&cache-only=0",
+            "defineEn": "a list of the online activities of a user on a social media platform in a chronological order",
+            "defineVi": "danh sách các hoạt động trực tuyến của người dùng trên nền tảng truyền thông xã hội theo thứ tự thời gian"
+        },
+        {
+            "id": "e99c3697-5479-424b-a649-852040a09c9f",
+            "word": "story",
+            "phonetic": "stoːɹi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The superintendent believed Lancaster's story.",
+                "The tabloid press ran the story.",
+                "The story ran on page 4 of the print edition of the newspaper.",
+                "The true story inspired many people around the world.",
+                "The figures tell a different story."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3Rvcnk&hash=6df6687bc2f5a43a54241df4c8d9a695bce8cc6e&lang=en&cache-only=0",
+            "defineEn": "a temporary visual content shared on social media platforms for a limited duration, typically 24 hours, allowing users to share updates and moments in an ephemeral format",
+            "defineVi": "một nội dung trực quan tạm thời được chia sẻ trên các nền tảng truyền thông xã hội trong một khoảng thời gian giới hạn, thường là 24 giờ, cho phép người dùng chia sẻ các cập nhật và khoảnh khắc ở định dạng tạm thời"
+        },
+        {
+            "id": "6b7de044-eb5f-46dd-a930-41be03d55be7",
+            "word": "post",
+            "phonetic": "poʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Lots of people had left comments under the post.",
+                "Mrs. Thatcher held the post of prime minister longer than anyone else last century.",
+                "On his retirement the post will cease to exist.",
+                "Ugh, Ross just posted pictures of him and Steve lounging on a beach in Hawaii.",
+                "The professor's office hours are posted on the door, indicating when he is available for student consultations."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zdA&hash=a12053c42656d943ff66c3e48f61fb2f60b5b318&lang=en&cache-only=0",
+            "defineEn": "a piece of writing, image, etc. published online, usually on a social media website or application, or a blog",
+            "defineVi": "một đoạn văn bản, hình ảnh, v.v. được xuất bản trực tuyến, thường là trên trang web hoặc ứng dụng truyền thông xã hội hoặc blog",
+            "hasImg": true
+        },
+        {
+            "id": "96be84bb-e966-4b71-9fd5-c92b276d590b",
+            "word": "status",
+            "phonetic": "stæɾəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Minor celebrity status did not become Potter.",
+                "The media speculated about the celebrity couple's relationship status, wondering if they were an item or just good friends.",
+                "In this particular society men rule the roost and women have a low status and few rights.",
+                "She went on Facebook and changed her relationship status.",
+                "The actor has become the poster boy for environmental activism, using his celebrity status to raise awareness about climate change."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhdHVz&hash=a1c3d5aec8e2b6ac072ee295ee30036a5bde8f11&lang=en&cache-only=0",
+            "defineEn": "information that one shares on social media to show their current mood, opinion, or situation",
+            "defineVi": "thông tin mà một người chia sẻ trên phương tiện truyền thông xã hội để thể hiện tâm trạng, quan điểm hoặc tình huống hiện tại của họ"
+        },
+        {
+            "id": "ad24ab69-1fc6-49a7-8a2a-0ca396b2576b",
+            "word": "feed",
+            "phonetic": "fiːd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Feed the kitty.",
+                "The farmer fed the chickens with corn and grains.",
+                "They fed the carrot to their pet rabbit, who happily munched on it.",
+                "The old man sat on the park bench, feeding crumbs to the birds.",
+                "I took pity on the stray cat and fed him."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVlZA&hash=978bc5013b73f26c0a889d82bec1a28dadfc0109&lang=en&cache-only=0",
+            "defineEn": "a personalized and constantly updated stream of content from accounts that a user follows, allowing them to view and engage with the latest posts, photos, and videos in a central place",
+            "defineVi": "luồng nội dung được cá nhân hóa và cập nhật liên tục từ các tài khoản mà người dùng theo dõi, cho phép họ xem và tương tác với các bài đăng, ảnh và video mới nhất ở vị trí trung tâm"
+        },
+        {
+            "id": "59c4dba6-51eb-4be4-8b99-579783fcf8b4",
+            "word": "DM",
+            "phonetic": "diːɛm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "People would just slide in your DM's and say hateful things.",
+                "Change your DM settings using the icon here, which will enable you to change the theme of the window and mute messages.",
+                "Sliding into someone’s DMs is a thing.",
+                "Leave them a comment, a DM, tweet, whatever, simply asking them to caption their videos.",
+                "But he sent his followers after me because I didn't answer his dm about his boyfriend's issues."
+            ],
+            "audio": "https://tts.langeek.co/read?text=RE0&hash=debdf677a0cf2d4e184ff3df1f565fdafba4b40d&lang=en&cache-only=0",
+            "defineEn": "a message sent on a social media platform that is available only to the recipient",
+            "defineVi": "một tin nhắn được gửi trên một nền tảng truyền thông xã hội chỉ dành cho người nhận"
+        },
+        {
+            "id": "017ea7dd-4d5b-4001-9ebb-45fa55e86942",
+            "word": "notification",
+            "phonetic": "noʊɾɪfɪkeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Notifications coming out of every single social media.",
+                "Allow notifications.",
+                "My notifications are blowing up.",
+                "Where's the notification?",
+                "Hit that notification bell."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm90aWZpY2F0aW9u&hash=e3a9d3469da798bd1335dc5a4a11736e7addc1a3&lang=en&cache-only=0",
+            "defineEn": "an alert or message sent to inform a user about an event or activity on a social media platform or digital service",
+            "defineVi": "một cảnh báo hoặc tin nhắn được gửi để thông báo cho người dùng về một sự kiện hoặc hoạt động trên nền tảng truyền thông xã hội hoặc dịch vụ kỹ thuật số"
+        },
+        {
+            "id": "376df5be-780d-47bf-a957-7e9d6d4f1eec",
+            "word": "friend",
+            "phonetic": "fɹɛnd ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Friends shared a platter of crispy chicken wings with tangy dipping sauces at the sports bar.",
+                "The new student quickly made friends with the other musicians, because birds of a feather flock together.",
+                "My friends enjoyed tangy barbecue gammon skewers at the summer barbecue.",
+                "My friend prefers a vegetarian sandwich with avocado and sprouts.",
+                "My friends enjoyed smoky beef rib chops at the countryside barbecue."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJpZW5k&hash=5e74cc46adc85945ef3be3fac90f3f092f8114c9&lang=en&cache-only=0",
+            "defineEn": "a person that one adds to the list of contacts of their account on the social media",
+            "defineVi": "một người mà một người thêm vào danh sách liên hệ của tài khoản của họ trên phương tiện truyền thông xã hội"
+        },
+        {
+            "id": "fabdd85f-228a-4625-978d-8052092aac5d",
+            "word": "friend request",
+            "phonetic": "fɹɛnd ɹᵻkwɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you could think back to just some of the A tagline you've seen for some other well-known brands that give extra get extra, the extra pep talks, the real friend request this year, you know, some of the Doublemint commercials that I'm sure you could probably recite by heart.",
+                "And how is it that you actually can ensure that you're verifying who you're accepting and what friend request you’re accepting is safe? "
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZnJpZW5kIHJlcXVlc3Q&hash=18d40aa1370ca5bcc1edf762f739dcab485b9409&lang=en&cache-only=0",
+            "defineEn": "a request in which one asks someone else to follow their activity on social media",
+            "defineVi": "một yêu cầu trong đó một người yêu cầu người khác theo dõi hoạt động của họ trên phương tiện truyền thông xã hội"
+        },
+        {
+            "id": "44f226d4-2a7d-4a22-bea1-08318651ad8e",
+            "word": "engagement",
+            "phonetic": "ɛŋɡeɪdʒmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tongues were wagging over their engagement.",
+                "The company's latest advertising campaign was a huge success, hitting it out of the park with record-breaking sales and customer engagement.",
+                "All engagement really helps the channel growth.",
+                "The other one is Arctic engagement.",
+                "I just see the engagement."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW5nYWdlbWVudA&hash=aea86971e89982f44bc53c8918f99df83230e1b8&lang=en&cache-only=0",
+            "defineEn": "the level of interaction, involvement, or participation that users have with content on a social media platform, such as likes, comments, shares, and other forms of active engagement that indicate user interest and involvement",
+            "defineVi": "mức độ tương tác, tham gia hoặc tham gia mà người dùng có với nội dung trên nền tảng truyền thông xã hội, chẳng hạn như lượt thích, nhận xét, chia sẻ và các hình thức tương tác tích cực khác cho thấy sự quan tâm và tham gia của người dùng"
+        },
+        {
+            "id": "d7b134fd-b8f3-41d1-91c3-97ec009d7121",
+            "word": "activity log",
+            "phonetic": "æktɪvᵻɾi lɔɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YWN0aXZpdHkgbG9n&hash=908300668a97fbbf551c0303911cfc67f9ea124a&lang=en&cache-only=0",
+            "defineEn": "a chronological record or history of a user's actions, interactions, and activities on a social media platform, providing a detailed log of their past engagements, posts, comments, likes, and other interactions for reference or review",
+            "defineVi": "bản ghi thời gian hoặc lịch sử các hành động, tương tác và hoạt động của người dùng trên nền tảng truyền thông xã hội, cung cấp nhật ký chi tiết về các tương tác, bài đăng, nhận xét, lượt thích và các tương tác khác trong quá khứ của họ để tham khảo hoặc xem xét"
+        },
+        {
+            "id": "f3fb8c79-5d30-493d-ac6e-c7be60415b66",
+            "word": "highlight",
+            "phonetic": "haɪlaɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Public education campaigns highlight potential health risks of consuming pink slime products.",
+                "The teacher highlighted the correct steps to solve the math problem.",
+                "The bakery showcased a special maple sugar cake as the highlight of their seasonal menu.",
+                "We watched a documentary that highlighted the rich history of African civilizations.",
+                "I tried to discourage him from quitting his job by highlighting the potential risks and uncertainties."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlnaGxpZ2h0&hash=fb622ce40f2a4bf7b3f4ca469c9a56ee7b87cc1b&lang=en&cache-only=0",
+            "defineEn": "a feature on social media platforms that allows users to showcase or emphasize specific content by making it more prominent or visible",
+            "defineVi": "một tính năng trên các nền tảng truyền thông xã hội cho phép người dùng giới thiệu hoặc nhấn mạnh nội dung cụ thể bằng cách làm cho nội dung đó nổi bật hoặc dễ thấy hơn"
+        },
+        {
+            "id": "537595d1-18c7-45d1-b09e-56fe5efae4ac",
+            "word": "pm",
+            "phonetic": "piːɛm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lecture begins at 8pm.",
+                "She hits the hay every night at 10 pm.",
+                "Every evening at 8 PM, as regular as clockwork, my dad sits in his armchair and reads the newspaper for exactly 45 minutes.",
+                "4:00 PM is essentially the 60th minute.",
+                "The test begins at 1:59 PM."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG0&hash=876727e7b860b0d7411c6705eec15c62a51bb5d5&lang=en&cache-only=0",
+            "defineEn": "a private message sent on a social media platform, online forum, etc.",
+            "defineVi": "một tin nhắn riêng được gửi trên một nền tảng truyền thông xã hội, diễn đàn trực tuyến, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "bf7747a4-79f1-4bbd-adb1-7820105a661f",
+            "word": "tweet",
+            "phonetic": "twiːt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "YouTube videos, news articles, Tumblr posts, tweets get lots of attention.",
+                "Instead, what the president's doing is tweeting.",
+                "Tweeting it.",
+                "His tweets provided the script for Fox News.",
+                "Show the tweet!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHdlZXQ&hash=9751c309d29b5ebf8952a0435696ed088f9e1864&lang=en&cache-only=0",
+            "defineEn": "a message or post on Twitter",
+            "defineVi": "một tin nhắn hoặc bài đăng trên Twitter",
+            "hasImg": true
+        },
+        {
+            "id": "ca7e2604-67a1-4563-953e-1f83c42ad257",
+            "word": "vlog",
+            "phonetic": "viːlɔɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "She posts vlogs sometimes.",
+                "I have a vlog.",
+                "Thank you Rikki, I enjoyed your vlogs.",
+                "I do private vlogs over there every month.",
+                "She's posted a few vlogs now."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmxvZw&hash=1f8ecba1e6972393732b40846c61dc4d08105fe9&lang=en&cache-only=0",
+            "defineEn": "a form of video content, often published on websites or social media platforms, where individuals or content creators share their personal experiences, expertise, or opinions through recorded videos in a blog-like format",
+            "defineVi": "một dạng nội dung video, thường được xuất bản trên các trang web hoặc nền tảng truyền thông xã hội, nơi các cá nhân hoặc người tạo nội dung chia sẻ kinh nghiệm, chuyên môn hoặc ý kiến cá nhân của họ thông qua các video được ghi ở định dạng giống như blog"
+        },
+        {
+            "id": "8aec1344-891d-4cb9-9430-1d21d9894554",
+            "word": "vlogging",
+            "phonetic": "viːlɔɡɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I've done vlogging and stuff",
+                "This is a vlogging camera with 960 FPS.",
+                "So this is their Vlogging Kit, which is an accessory package, which we will look at in a second, but this does not come with the camera.",
+                "I am seriously impressed by the price and on top of that on release Sony is offering this at 749 U.S. and they're also offering the Vlogging Kit, which is usually $210 at 149.",
+                "And now you're vlogging, dude."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmxvZ2dpbmc&hash=2f9ea9a40ca93ff614e2527349897dc52aa80c17&lang=en&cache-only=0",
+            "defineEn": "the act of updating a blog or a social media account by short videos on a regular basis",
+            "defineVi": "hành động cập nhật blog hoặc tài khoản mạng xã hội bằng các video ngắn một cách thường xuyên"
+        },
+        {
+            "id": "4ff3bba0-fd79-44e0-9c75-a2f8f9ba2997",
+            "word": "group",
+            "phonetic": "ɡɹuːp ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The group has a new CD in the pipeline.",
+                "We passed a group of students outside the theatre.",
+                "As with all diseases, certain groups will be more at risk than others.",
+                "A retail group which sets great store by traditional values.",
+                "The group is drawing up plans to run trains on key routes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z3JvdXA&hash=d3ac88e14f6fb7ab91d5ca007609916bd2a900b8&lang=en&cache-only=0",
+            "defineEn": "a dedicated online community or space where users with shared interests can join, interact, and collaborate in discussions and content sharing",
+            "defineVi": "một cộng đồng hoặc không gian trực tuyến chuyên dụng nơi người dùng có chung sở thích có thể tham gia, tương tác và cộng tác trong các cuộc thảo luận và chia sẻ nội dung"
+        },
+        {
+            "id": "15490809-50d6-4d90-9b39-cd4f87a0b516",
+            "word": "flash mob",
+            "phonetic": "flæʃ mɑːb ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "- It brings volunteers, experts, and resources together like a flash mob.",
+                "Which brings us back to the Reddit flash mob.",
+                "You can also use ultracold temperatures to create something called a Bose-Einstein condensate: a weird state of matter where atoms move in perfect unison, like some kind of quantum flash mob."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Zmxhc2ggbW9i&hash=5aadda6c6361d4641a06fb5f6c18db8b77d08d49&lang=en&cache-only=0",
+            "defineEn": "a large group of people organized using social media who gather together publicly at an exact time, do something for a short time and then disperse",
+            "defineVi": "một nhóm lớn những người được tổ chức bằng phương tiện truyền thông xã hội, những người tụ tập công khai với nhau vào một thời điểm chính xác, làm điều gì đó trong một thời gian ngắn rồi giải tán"
+        },
+        {
+            "id": "365a5b25-53ff-4ac5-8392-a1fdc927f2dd",
+            "word": "flash mobbing",
+            "phonetic": "flæʃ mɑːbɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Zmxhc2ggbW9iYmluZw&hash=de7904e17daedd8a81029cec7f239fee0f6a3acc&lang=en&cache-only=0",
+            "defineEn": "an act of organizing a large group of people using social media to gather them together publicly at an exact time, doing something for a short time and then dispersing",
+            "defineVi": "một hành động tổ chức một nhóm lớn người sử dụng phương tiện truyền thông xã hội để tập hợp họ lại với nhau một cách công khai vào một thời điểm chính xác, làm điều gì đó trong một thời gian ngắn và sau đó phân tán"
+        },
+        {
+            "id": "19895be8-fb13-4da2-bca5-f70f322f7474",
+            "word": "recommendation",
+            "phonetic": "ɹɛkəmɛndeɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The report includes a number of recommendations.",
+                "She asked friends and family for recommendations on where to find affordable caviar.",
+                "We get most of our work through word-of-mouth recommendations.",
+                "When a student goes AWOL repeatedly, the Principal determines the appropriate disciplinary action, up to and including recommendation for discharge.",
+                "The neighborhood bookstore, despite the rise of online retailers, is alive and kicking, offering personalized recommendations and hosting book signings that draw in book lovers from the community."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjb21tZW5kYXRpb24&hash=9d61711198a36cebe3c234499f590995f5480ea6&lang=en&cache-only=0",
+            "defineEn": "personalized suggestions provided to users on social media platforms and other digital services, based on their preferences and interactions",
+            "defineVi": "đề xuất được cá nhân hóa được cung cấp cho người dùng trên các nền tảng truyền thông xã hội và các dịch vụ kỹ thuật số khác, dựa trên sở thích và tương tác của họ"
+        },
+        {
+            "id": "1a6612d6-b460-4231-86b8-e6bd63e73423",
+            "word": "algorithm",
+            "phonetic": "ælɡɚɹɪθəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "When discussing the limitations of artificial intelligence, I point out that even the most advanced algorithms can make mistakes, for even Homer nods.",
+                "Fighting Facebook's algorithm!",
+                "This algorithms was more sophisticated.",
+                "Computer algorithms are all around us.",
+                "Now, nature-inspired algorithms can get a bit out of hand."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxnb3JpdGht&hash=35aceb6d5333a13c322bd523cbe893bd9f445fc5&lang=en&cache-only=0",
+            "defineEn": "a set of rules or instructions used by social media platforms and other digital systems to process, analyze, and determine the content, recommendations, or outcomes presented to users based on various factors such as their behavior, preferences, or trends",
+            "defineVi": "một bộ quy tắc hoặc hướng dẫn được sử dụng bởi các nền tảng truyền thông xã hội và các hệ thống kỹ thuật số khác để xử lý, phân tích và xác định nội dung, đề xuất hoặc kết quả được trình bày cho người dùng dựa trên các yếu tố khác nhau như hành vi, sở thích hoặc xu hướng của họ"
+        },
+        {
+            "id": "e43558c2-f7db-4e05-ab21-461940b2c9fc",
+            "word": "social network",
+            "phonetic": "soʊʃəl nɛtwɜːk ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c29jaWFsIG5ldHdvcms&hash=516cb56033b829463a628415d664fb10b01309a9&lang=en&cache-only=0",
+            "defineEn": "a digital platform or online service that enables individuals to connect, communicate, and interact with others, allowing users to create profiles, share content, and engage in social interactions within a virtual community",
+            "defineVi": "một nền tảng kỹ thuật số hoặc dịch vụ trực tuyến cho phép các cá nhân kết nối, giao tiếp và tương tác với những người khác, cho phép người dùng tạo hồ sơ, chia sẻ nội dung và tham gia vào các tương tác xã hội trong một cộng đồng ảo"
+        },
+        {
+            "id": "936f40e9-3983-4b94-a238-221b4810f2a1",
+            "word": "social networking",
+            "phonetic": "soʊʃəl nɛtwɜːkɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The global social networking site, so intrinsically connected to and supported by users, is certainly more than the sum of its parts.",
+                "In South Africa, the social networking company worked with Vast to connect with the underserved communities to Wi-Fi.",
+                "I understood it was in the social networking space. ",
+                "But then two, they seemed a little bit too smart to be working on social networking. ",
+                "Social networking instead of working On getting to know each other better How does that filtered picture taste Since your dessert has gone to waste?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c29jaWFsIG5ldHdvcmtpbmc&hash=0d3af62d0e9b922edccc3aef3908b48e89711f4f&lang=en&cache-only=0",
+            "defineEn": "the use of online platforms and applications, such as Facebook, Twitter, or LinkedIn, to connect and communicate with others, share information, and build relationships",
+            "defineVi": "việc sử dụng các nền tảng và ứng dụng trực tuyến, chẳng hạn như Facebook, Twitter hoặc LinkedIn, để kết nối và giao tiếp với những người khác, chia sẻ thông tin và xây dựng mối quan hệ"
+        },
+        {
+            "id": "0e2bec1f-eab3-4c53-b995-9fab45cc89e6",
+            "word": "content",
+            "phonetic": "kɑːntɛnt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "With its higher protein content, bread flour gives breads a stronger structure and a chewier texture.",
+                "She valued the high nutritional content and low-calorie nature of asparagus in his diet.",
+                "People often judge a book by its cover without reading the contents.",
+                "Avocado's high fiber content can aid in digestion and help promote a healthy gut.",
+                "I often include nopal in my smoothies for its high fiber content and nutrient-rich properties."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udGVudA&hash=5283aca2cf9afafdd4ed37a1da95167d5bb387f5&lang=en&cache-only=0",
+            "defineEn": "any form of information, media, or material that is created, published, or shared on digital platforms, including text, images, videos, articles, podcasts, and more",
+            "defineVi": "bất kỳ dạng thông tin, phương tiện hoặc tài liệu nào được tạo, xuất bản hoặc chia sẻ trên nền tảng kỹ thuật số, bao gồm văn bản, hình ảnh, video, bài báo, podcast, v.v."
+        },
+        {
+            "id": "b68d3eeb-2d67-4f77-a707-3789961bbbcd",
+            "word": "native video",
+            "phonetic": "neɪɾɪv vɪdɪoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bmF0aXZlIHZpZGVv&hash=448c4217cef31c52a92a9c7de67d6d84dd1614d8&lang=en&cache-only=0",
+            "defineEn": "videos that are uploaded and played directly within the social media platform, rather than being shared from external video hosting sites",
+            "defineVi": "các video được tải lên và phát trực tiếp trong nền tảng truyền thông xã hội, thay vì được chia sẻ từ các trang web lưu trữ video bên ngoài"
+        },
+        {
+            "id": "a632f536-2b49-487a-9332-c69c9fbf0bed",
+            "word": "reel",
+            "phonetic": "ɹiːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Brick and mortar stores were reeling to.",
+                "The company is still reeling from the fallout.",
+                "Meanwhile, residents in Gaza were reeling from ongoing Israeli airstrikes.",
+                "Meanwhile, residents in Gaza were reeling from ongoing Israeli airstrikes.",
+                "Italy's economy has been reeling since the 2008 global economic crisis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVlbA&hash=be77e70f6f4500eaa399adef8fb9f4e5b1f2c64b&lang=en&cache-only=0",
+            "defineEn": "a feature or format found in some social media platforms, such as Instagram, that allows users to create and share short, vertical videos in a scrollable, full-screen format",
+            "defineVi": "một tính năng hoặc định dạng được tìm thấy trong một số nền tảng truyền thông xã hội, chẳng hạn như Instagram, cho phép người dùng tạo và chia sẻ các video ngắn, dọc ở định dạng toàn màn hình có thể cuộn được"
+        },
+        {
+            "id": "f261a674-0e90-4014-bb09-aec348f25fca",
+            "word": "archive",
+            "phonetic": "ɑːɹkaɪv ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Enjoy the archives in the meantime.",
+                "Going into the archives.",
+                "It could be an archive.",
+                "and I search the archives for quotes about him from Angela Merkel, everybody.",
+                "Honda pulled the passport name out of its archives for a new sport utility."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJjaGl2ZQ&hash=f4d20f864ac597d0ee2fa129ed92eb6aff3a3b1c&lang=en&cache-only=0",
+            "defineEn": "a feature on social media platforms or websites that allows users to store and access their past posts, stories, or content in a separate and organized collection",
+            "defineVi": "một tính năng trên các nền tảng truyền thông xã hội hoặc trang web cho phép người dùng lưu trữ và truy cập các bài đăng, câu chuyện hoặc nội dung trước đây của họ trong một bộ sưu tập riêng biệt và có tổ chức"
+        },
+        {
+            "id": "4894ea33-2519-4783-8d95-fae91b752e91",
+            "word": "meme",
+            "phonetic": "miːm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The viral internet meme that gained immense popularity for a brief period became a ten-day wonder, with people sharing and referencing it widely before it faded from the online spotlight.",
+                "Memes are some of the most easily recognizable images of our generation.",
+                "Apple's high prices reached meme proportions during the announcement of its Mac Pro in June 2019.",
+                "What's the meme?",
+                "I love that meme so much."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVtZQ&hash=6c0190ebf29758d53cadc383be8839ac7433cb96&lang=en&cache-only=0",
+            "defineEn": "a video, image, etc. that has been altered to act as a joke or to tease someone, used and quickly spread by internet users",
+            "defineVi": "một video, hình ảnh, v.v. đã được chỉnh sửa để làm trò đùa hoặc trêu chọc ai đó, được người dùng internet sử dụng và lan truyền nhanh chóng"
+        },
+        {
+            "id": "af267027-42c0-4b11-8250-16dec1fda891",
+            "word": "FOMO",
+            "phonetic": "foʊmoʊ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Studies have found negative correlations between FOMO and psychological needs satisfaction.",
+                "And then there’s good old-fashioned FOMO.",
+                "So, the FOMO is real, and it sucks.",
+                "You don't have this fomo with other people like doing more fun things.",
+                "And one might be best described as a kind of philosophical FOMO."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Rk9NTw&hash=4d653fbf594642d7cff8b5e5122ba92ff67dd865&lang=en&cache-only=0",
+            "defineEn": "the anxiety of feeling excluded from interesting or enjoyable experiences others are partaking in, often intensified by social media updates",
+            "defineVi": "sự lo lắng về cảm giác bị loại trừ khỏi những trải nghiệm thú vị hoặc thú vị mà những người khác đang tham gia, thường được tăng cường bởi các cập nhật trên mạng xã hội"
+        },
+        {
+            "id": "633d83bd-7365-4e77-9a0b-c33bba0257b4",
+            "word": "selfie",
+            "phonetic": "sɛlfi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Selfie with the rear camera because I'm so crazy.",
+                "You take a selfie with your democracy sausage.",
+                "You win a fan selfie.",
+                "Everyone wants a selfie, everybody.",
+                "The unhappiest selfie anyone has ever taken."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2VsZmll&hash=f342610d64552258df9cfc1b7d6022b88b9b8fbe&lang=en&cache-only=0",
+            "defineEn": "a photo of a person that is taken by the same person, usually shared on social media",
+            "defineVi": "một bức ảnh của một người được chụp bởi cùng một người, thường được chia sẻ trên phương tiện truyền thông xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "d320b29b-85c4-4e6e-9421-04b735620d7f",
+            "word": "handle",
+            "phonetic": "hændəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Throughout the evening, the waiter handled the busy restaurant.",
+                "The handle came loose.",
+                "Some artists have to be handled with kid gloves.",
+                "The metal handle became hot when left in the sun.",
+                "He couldn't handle the heat of the chili pepper and reached for a glass of water."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFuZGxl&hash=40989f0aaa6ba20b9fc1885f75d417945b0ead16&lang=en&cache-only=0",
+            "defineEn": "someone's username on an online forum or social media platform",
+            "defineVi": "tên người dùng của ai đó trên diễn đàn trực tuyến hoặc nền tảng truyền thông xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "3de3eb61-6ca5-4d1f-8b6f-81dc0ba07667",
+            "word": "troll",
+            "phonetic": "tɹoʊl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Early versions describe the troll with 300 heads, fifteen tails, goat horns, long ears, and a beard.",
+                "By the end of the 2016 election, Russian trolls could reach millions of Americans through their social media accounts.",
+                "Trolls are more likely to be males with psychopathy and sadism traits.",
+                "Trolls can use bots and other forms of automation to help in their efforts.",
+                "Don't troll in the captions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJvbGw&hash=541af4dd194d01dd6897ccb5ae7d82661195003a&lang=en&cache-only=0",
+            "defineEn": "(computing) someone who posts hostile, irrelevant, or offensive comments on a website or social media to annoy others",
+            "defineVi": "(máy tính) người đăng những bình luận thù địch, không liên quan hoặc xúc phạm trên một trang web hoặc phương tiện truyền thông xã hội để làm phiền người khác"
+        },
+        {
+            "id": "c040c7fd-59f5-4d5f-be7d-d03d6513d3ad",
+            "word": "dislike",
+            "phonetic": "dɪslaɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I took a dislike to him.",
+                "He dislikes the taste of celery and avoids it in his meals.",
+                "Dees disliked all editors on principle, but he had to admit that this one at least gave credit where credit was due.",
+                "My son dislikes the taste of cayenne pepper as he finds it too spicy.",
+                "The person who pursued their passion and found fulfillment in their work was happier than the person who had a high-paying job but disliked what they did."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzbGlrZQ&hash=7391740fc39c3556577fee6f7d9799be265195e9&lang=en&cache-only=0",
+            "defineEn": "the expression of negative sentiment or a lack of approval towards a post, comment, or content on social media platforms, serving as the opposite of the \"like\" button",
+            "defineVi": "biểu hiện của tình cảm tiêu cực hoặc thiếu sự chấp thuận đối với một bài đăng, bình luận hoặc nội dung trên các nền tảng truyền thông xã hội, đóng vai trò ngược lại với nút \"thích\""
+        },
+        {
+            "id": "53c720ea-153d-421a-96f3-7ec1fe464e06",
+            "word": "avatar",
+            "phonetic": "ævɐtɑːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Tap your profile's avatar at the top left corner of the screen.",
+                "He's an avatar.",
+                "Users can change their avatar's look, accessories or tools.",
+                "In Roblox, players create an avatar they use in different games on the platform.",
+                "But I don't know those avatars!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXZhdGFy&hash=709f23f04caff2700db1a01125d39b0774ed37af&lang=en&cache-only=0",
+            "defineEn": "an image that is the representation of a player in a game or an account on social media",
+            "defineVi": "một hình ảnh đại diện cho một người chơi trong một trò chơi hoặc một tài khoản trên phương tiện truyền thông xã hội",
+            "hasImg": true
+        },
+        {
+            "id": "9a0c10b6-15aa-4190-b7ce-351e4271a5cc",
+            "word": "filter",
+            "phonetic": "fɪltɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "If you try to replace the oil filter on the engine now, you're just closing the stable door after the horse has bolted.",
+                "With data filtering one pays the price of decreasing the effective library redundancy and increasing the number of hybridisations.",
+                "At the top, filter your investments between stocks and Bitcoin.",
+                "Your kidneys filter out excess waste and water from your bloodstream.",
+                "Got a filter on the top there."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmlsdGVy&hash=b3652ee1fe009119e9b1e886b5023c2318b507a4&lang=en&cache-only=0",
+            "defineEn": "a tool or feature used on social media platforms or photo editing apps to modify or enhance photos and videos by applying various effects or adjustments for a desired visual outcome",
+            "defineVi": "một công cụ hoặc tính năng được sử dụng trên các nền tảng truyền thông xã hội hoặc ứng dụng chỉnh sửa ảnh để sửa đổi hoặc nâng cao ảnh và video bằng cách áp dụng các hiệu ứng hoặc điều chỉnh khác nhau để có kết quả hình ảnh mong muốn"
+        }
+    ]
+}

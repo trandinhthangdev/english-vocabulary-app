@@ -1,0 +1,791 @@
+{
+    "id": "b5af5fa5-9019-46a1-9a36-ebdaa060a9cd",
+    "title": "Lesson 5B",
+    "originalTitle": "Lesson 5B",
+    "words": [
+        {
+            "id": "318ffc91-6bbc-442b-b2a5-17d5556a44b6",
+            "word": "castle",
+            "phonetic": "kæsəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "European architecture is known for its stunning cathedrals and castles.",
+                "She visited an old castle and marveled at its medieval architecture.",
+                "The ancient castle has stood for over a century, preserving its grandeur and history for hundreds of years.",
+                "Buying a house shouldn't be a castle in the air for the youth.",
+                "A small river runs into the sea at one side of the castle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FzdGxl&hash=6d39a50dbda32dc445d2db7b83d3d032100383c9&lang=en&cache-only=0",
+            "defineEn": "a large and strong building that is protected against attacks, in which the royal family lives",
+            "defineVi": "một tòa nhà lớn và mạnh mẽ được bảo vệ chống lại các cuộc tấn công, trong đó gia đình hoàng gia sống",
+            "hasImg": true
+        },
+        {
+            "id": "f58f4569-0588-4fa9-af13-48d6e499e2db",
+            "word": "cathedral",
+            "phonetic": "kɐθiːdɹəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "European architecture is known for its stunning cathedrals and castles.",
+                "These cathedrals are above politics.",
+                "The cathedral at Salisbury is over 750 years old.",
+                "It's like a cathedral ceiling.",
+                "It's the world's largest Gothic cathedral."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2F0aGVkcmFs&hash=e11d91de0699eb32109d2b3bd1ea4bbc7eb61395&lang=en&cache-only=0",
+            "defineEn": "the largest and most important church of a specific area, which is controlled by a bishop",
+            "defineVi": "nhà thờ lớn nhất và quan trọng nhất của một khu vực cụ thể, được kiểm soát bởi một giám mục",
+            "hasImg": true
+        },
+        {
+            "id": "0882dffe-77ac-43c6-96df-2c36abf718ad",
+            "word": "church",
+            "phonetic": "tʃɜːtʃ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The church had a more important part to play in the community.",
+                "The Medieval church went to some lengths to specify the roles of particular stones in religious imagery.",
+                "We've become poor as church mice ever since the bank raised the interest rates on our mortgage.",
+                "There were nine church leaders in my group and all bared their hearts.",
+                "We stood outside the church, hoping to catch a glimpse of the bride."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2h1cmNo&hash=78622cb79b90da91ecf0305433aaa4532c6ae1cc&lang=en&cache-only=0",
+            "defineEn": "a building where Christians go to worship and practice their religion",
+            "defineVi": "một tòa nhà nơi các Kitô hữu đến thờ phượng và thực hành tôn giáo của họ",
+            "hasImg": true
+        },
+        {
+            "id": "0a8974e6-a945-47b6-b024-cc1196f8c020",
+            "word": "city",
+            "phonetic": "sɪɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The city has put the brakes on further spending.",
+                "The band are playing 11 cities around the country.",
+                "The company are playing 11 cities around the country.",
+                "The book paints a vivid picture of life in the city.",
+                "The city of Paris lies on the banks of the Seine River."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2l0eQ&hash=a356ce3002eac7171f94f7cd560875bd4e138f5c&lang=en&cache-only=0",
+            "defineEn": "a larger and more populated town",
+            "defineVi": "một thị trấn lớn hơn và đông dân cư hơn",
+            "hasImg": true
+        },
+        {
+            "id": "71e03fc9-d16e-45a5-823a-5557b4c61a13",
+            "word": "town",
+            "phonetic": "taʊn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The town is three miles away.",
+                "The rebels held the town for many weeks.",
+                "The French army held the town for three days.",
+                "Posters for the gig appeared all over town.",
+                "I know this town like the back of my hand."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG93bg&hash=56f3e329d84d5f5e49ee1a08c6b8aa7549677f49&lang=en&cache-only=0",
+            "defineEn": "an area with human population that is smaller than a city and larger than a village",
+            "defineVi": "một khu vực có dân số nhỏ hơn một thành phố và lớn hơn một ngôi làng",
+            "hasImg": true
+        },
+        {
+            "id": "8f0bc6e8-9b2a-47aa-9bc6-81d2f1f4ef04",
+            "word": "north",
+            "phonetic": "nɔːɹθ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The compass needle always points north.",
+                "They went farther north into the mountains.",
+                "The north side of the building gets the most sunlight in the morning.",
+                "Many migratory birds fly south for the winter and return north in the spring.",
+                "The compass needle points to the north when you're facing south."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9ydGg&hash=c79410db143b580dc3ad09373b687ac91b04e2f2&lang=en&cache-only=0",
+            "defineEn": "near, toward, facing, in, or from the north",
+            "defineVi": "gần, về phía, đối mặt, trong hoặc từ phía bắc",
+            "hasImg": true
+        },
+        {
+            "id": "c583371f-ec9e-44a0-9f2b-b63495c556e6",
+            "word": "south",
+            "phonetic": "saʊθ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Many migratory birds fly south for the winter and return north in the spring.",
+                "The south of the country is known for its beautiful beaches.",
+                "The south of the city is more residential, while the north is more commercial.",
+                "They were both raised in the South.",
+                "Everyone in the gang went south when they learned that the police had discovered their hideout."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c291dGg&hash=f5f36c81a21b5ba503ca4949b8c6ed76d4e180b0&lang=en&cache-only=0",
+            "defineEn": "situated in or toward the south",
+            "defineVi": "nằm trong hoặc hướng về phía nam",
+            "hasImg": true
+        },
+        {
+            "id": "8e4a30ae-d04d-4f08-8a40-c52327510cb4",
+            "word": "coast",
+            "phonetic": "koʊst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The coast is clear.",
+                "New York City is located on the east coast of the United States.",
+                "My brother went to see if the coast was clear, and we snuck out of our bedroom.",
+                "because by the middle of summer, the coast becomes home to big swarms of mosquitos and other biting insects!",
+                "The southern coast of the United States has a variety of different accents."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29hc3Q&hash=c71db3d023f6d7164eee906e33b7bc7c27cd812c&lang=en&cache-only=0",
+            "defineEn": "the land near or next to a sea or ocean",
+            "defineVi": "vùng đất gần hoặc bên cạnh biển hoặc đại dương",
+            "hasImg": true
+        },
+        {
+            "id": "d916f753-254f-4447-86b6-adc3c01230db",
+            "word": "east",
+            "phonetic": "iːst ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The house looks east.",
+                "The east is known for its rich cultural heritage.",
+                "The sun always rises in the east.",
+                "The sun rises in the east and sets in the west.",
+                "The wind is blowing from the east today."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWFzdA&hash=3b571c6c58bf5b36e9f47d3b741dc57257dbe4bf&lang=en&cache-only=0",
+            "defineEn": "near, toward, facing, in, or from the east",
+            "defineVi": "gần, về phía, đối mặt, trong hoặc từ phía đông",
+            "hasImg": true
+        },
+        {
+            "id": "27926c12-f126-4318-9ce4-83db564f8c46",
+            "word": "west",
+            "phonetic": "wɛst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The west is known for its stunning landscapes and breathtaking sunsets.",
+                "The west is often associated with notions of freedom and adventure.",
+                "The west is home to vast deserts, rolling plains, and majestic mountain ranges.",
+                "The sun rises in the east and sets in the west.",
+                "The west is where the day ends and the night begins."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2VzdA&hash=38c8ea1eea28ff58359b786218c9b968a6c9a16f&lang=en&cache-only=0",
+            "defineEn": "the direction towards which the sun goes down, which is on the left side of a person facing north",
+            "defineVi": "hướng mặt trời lặn, nằm ở phía bên trái của một người hướng về phía bắc",
+            "hasImg": true
+        },
+        {
+            "id": "12eac84b-5729-46b3-acce-bec4e290059f",
+            "word": "small",
+            "phonetic": "smɔːl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Small cracks appeared in the wall.",
+                "That holiday cost me a small fortune.",
+                "This small restaurant is the best pound for pound in the city.",
+                "The whole may be smaller than the sum of its parts!",
+                "I gave a small donation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c21hbGw&hash=7df44bdfe670afa5fa2f958b47b2ad3554cee646&lang=en&cache-only=0",
+            "defineEn": "little or below average in size, amount, degree, etc.",
+            "defineVi": "ít hoặc dưới mức trung bình về kích thước, số lượng, mức độ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "28166e92-5503-4d18-ac29-317b7d1cebc8",
+            "word": "medium-sized",
+            "phonetic": "miːdiəmsaɪzd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Medium-sized stars like our Sun are more interesting.",
+                "We need a medium-sized allevyn pad cut in half.",
+                "A medium-sized pumpkin spice latte can have about 48 grams of sugar, which is a quarter of a cup or about 37 gummy bears.",
+                "For medium-sized stones up to about ten millimeters, one option is pulverizing them with soundwaves.",
+                "And next came a layer of medium-sized animals, including horses and small camels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVkaXVtLXNpemVk&hash=0fef97a209262d90e3098b0971dde16590923f50&lang=en&cache-only=0",
+            "defineEn": "having a size that is not small or big",
+            "defineVi": "có kích thước không nhỏ không lớn",
+            "hasImg": true
+        },
+        {
+            "id": "8a58825e-3de1-4059-bab6-6a9772faec3e",
+            "word": "large",
+            "phonetic": "lɑːɹdʒ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Most characters in his movies are somewhat larger than life.",
+                "A large crowd watched the game on Saturday.",
+                "He left a large estate.",
+                "A large bus was sitting outside.",
+                "The truck delivered a large shipment of goods to the warehouse."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFyZ2U&hash=ac7f7a176b5776132d6a05b97680a69ad7845edd&lang=en&cache-only=0",
+            "defineEn": "big or above average in amount or size",
+            "defineVi": "lớn hoặc trên trung bình về số lượng hoặc kích thước",
+            "hasImg": true
+        },
+        {
+            "id": "917cb8ef-0a73-400c-9a73-2f47cee71c7b",
+            "word": "boring",
+            "phonetic": "boːɹɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The movie was as boring as they come.",
+                "It’s so boring, eating the same food day in, day out.",
+                "I have to do the same boring jobs day in day out.",
+                "The child nodded off to sleep during the boring lecture.",
+                "This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Ym9yaW5n&hash=6fa81355354b30a5c965392171af28c5e406e1b7&lang=en&cache-only=0",
+            "defineEn": "making us feel tired and unsatisfied because of not being interesting",
+            "defineVi": "khiến chúng ta cảm thấy mệt mỏi và không hài lòng vì không thú vị",
+            "hasImg": true
+        },
+        {
+            "id": "74686a7c-c91e-4b31-b3c7-ef775a44a931",
+            "word": "crowded",
+            "phonetic": "kɹaʊdᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The elevator doors opened, revealing a crowded lobby.",
+                "She wore a mask that covered her mouth and nose in crowded places.",
+                "The artist's painting depicted a crowded city street, with the figures in the painting appearing isolated and alone, capturing the theme of 'a great city, a great solitude'.",
+                "For Amy, attending crowded parties is not her cup of tea.",
+                "Kelly giggled as she caught Josh making sheep's eyes at her across the crowded room."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y3Jvd2RlZA&hash=cfbca383e3330a446c69ee123a0aec78871aece4&lang=en&cache-only=0",
+            "defineEn": "(of a space) filled with things or people",
+            "defineVi": "(của một không gian) chứa đầy đồ vật hoặc con người",
+            "hasImg": true
+        },
+        {
+            "id": "a62bfa6a-3eb9-4032-adf6-151afeacd72f",
+            "word": "dangerous",
+            "phonetic": "deɪndʒɚɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A dangerous policy that runs the risk of failure.",
+                "These foods are potentially dangerous, yet nobody thinks twice before handing them out to their loved ones.",
+                "It's known as the most dangerous part of the city.",
+                "When it comes to cybersecurity, there is no little enemy, and even a seemingly harmless email or file can contain a dangerous virus or malware.",
+                "The student kept procrastinating on their assignments and projects, and eventually learned the hard way that delays are dangerous when they failed their exams."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFuZ2Vyb3Vz&hash=991ccfa8a0a2070d41a832e21dccb58d23ad09af&lang=en&cache-only=0",
+            "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+            "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+            "hasImg": true
+        },
+        {
+            "id": "230537c8-9196-48d0-a1ff-4679806e45e4",
+            "word": "modern",
+            "phonetic": "mɑːdɚn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The farmer employs modern agricultural techniques to maximize the yield of his soybean crop.",
+                "He worked in a modern office building with large windows.",
+                "These arguments provide the foundation for Simmel's account of the contradictory nature of modern life.",
+                "You actually like modern jazz, do you?",
+                "The French Revolution had a significant impact on shaping modern France."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9kZXJu&hash=fc4ed27141eab3c7e913b8266434abd45e782edd&lang=en&cache-only=0",
+            "defineEn": "related to the most recent time or to the present time",
+            "defineVi": "liên quan đến thời gian gần đây nhất hoặc đến thời điểm hiện tại",
+            "hasImg": true
+        },
+        {
+            "id": "cf0e1e82-4acc-4e7c-97b2-3996f0e0382d",
+            "word": "noisy",
+            "phonetic": "nɔɪzi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We ate dinner in a noisy café.",
+                "The teacher took the student out of the noisy classroom to have a private conversation.",
+                "The party was ruined by a couple of noisy, rude gate-crashers.",
+                "Despite his wealth and fame, he often feels outside noisy, inside empty, longing for something more meaningful in his life.",
+                "We are so noisy!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=bm9pc3k&hash=17baf34dc9b9dd3424391ff6c152451185be3048&lang=en&cache-only=0",
+            "defineEn": "making or having of a lot of unwanted sounds",
+            "defineVi": "tạo ra hoặc có nhiều âm thanh không mong muốn",
+            "hasImg": true
+        },
+        {
+            "id": "441f5ddb-0224-421b-99b0-b84a2003304a",
+            "word": "polluted",
+            "phonetic": "pəluːɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Spills from a single oil tanker can contribute 200,000 tons of oil to the already polluted oceans. ",
+                "And places like Singapore are so polluted by light that people’s eyes never fully adjust to the dark.",
+                "They took a polluted lake next to a highway and cleaned it out.",
+                "Polluted water and air take decades to cleanse them of human impacts, but cleaning up the night skies is easy.",
+                "They pulled the liners out of them and left the polluted material right on the ground."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9sbHV0ZWQ&hash=5dc4be6cbdea41ffbbc0dad5be70acab46356ee9&lang=en&cache-only=0",
+            "defineEn": "containing harmful or dirty substances",
+            "defineVi": "chứa các chất độc hại hoặc bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "0a9ad077-d907-4cbf-9b16-da61e25dc76f",
+            "word": "clean",
+            "phonetic": "kliːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The mother gently cleaned her baby's ears with a cotton swab.",
+                "A new broom sweeps clean, after all.",
+                "Sarah cleans the kitchen counters with a sponge.",
+                "She had to clean her dirty car after a long road trip.",
+                "She cleans the dining room after each meal."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2xlYW4&hash=a0d18d02811d602beb54e3d34b00f8b29c978faf&lang=en&cache-only=0",
+            "defineEn": "not having any stains, bacteria, marks, or dirt",
+            "defineVi": "không có bất kỳ vết bẩn, vi khuẩn, dấu vết hoặc bụi bẩn",
+            "hasImg": true
+        },
+        {
+            "id": "7ac7f939-df07-4d2e-87c6-4a44eac76f21",
+            "word": "empty",
+            "phonetic": "ɛmpti ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The house has sat empty for two years.",
+                "Our waiter cleared the empty plates from the table.",
+                "I got an empty gift box.",
+                "He emptied the full trash can into the larger dumpster outside.",
+                "I placed my bag on the empty chair next to me."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1wdHk&hash=a743e96333a8242f2973547f016aabd78ddef2f5&lang=en&cache-only=0",
+            "defineEn": "with no one or nothing inside",
+            "defineVi": "không có ai hoặc không có gì bên trong",
+            "hasImg": true
+        },
+        {
+            "id": "7b95d347-7dd0-4ec9-8cc5-27bcfc7a3163",
+            "word": "exciting",
+            "phonetic": "ɛksaɪɾɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Holy moly, this is exciting news!",
+                "The company CEO let the employees in on the exciting news about the upcoming merger.",
+                "Hockey is an exciting sport played on ice or field, with sticks and a small puck or ball.",
+                "Take the initiative and fill your life with exciting experiences.",
+                "They claim drag racing is the most exciting motor sport."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhjaXRpbmc&hash=5d7de4bb17f638e8bcb5acee6fe41d46d7f1fd05&lang=en&cache-only=0",
+            "defineEn": "making us feel interested, happy, and energetic",
+            "defineVi": "khiến chúng ta cảm thấy thích thú, hạnh phúc và tràn đầy năng lượng",
+            "hasImg": true
+        },
+        {
+            "id": "c7543785-c43d-4b75-a367-86f2f728f14c",
+            "word": "historic",
+            "phonetic": "hɪstɔːɹɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Ottawa, the capital city of Canada, is home to many national museums and historic landmarks.",
+                "The benefit is historic.",
+                "The attack evokes historic trauma, feelings of deep solidarity with all of the impacted families.",
+                "Every era of SNL is historic in its own way.",
+                "The historic drop quickly sent shockwaves through the U.S. financial market."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlzdG9yaWM&hash=d40669d3f849e143cd1d79c002ef5f487629da23&lang=en&cache-only=0",
+            "defineEn": "having great importance or effect in history",
+            "defineVi": "có tầm quan trọng lớn hoặc ảnh hưởng trong lịch sử"
+        },
+        {
+            "id": "7cbf1a82-c1bb-44eb-8c83-148826c3b24d",
+            "word": "interesting",
+            "phonetic": "ɪntɹɛstɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You raise some interesting points.",
+                "We had a very interesting discussion about climate change.",
+                "It's an interesting proposal.",
+                "All of them had an interesting story to tell.",
+                "The game's premise and mechanics are interesting, but there's just no meat on the bone when it comes to story and gameplay variety."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJlc3Rpbmc&hash=26e0a5915ada5c6c31b28532ee37d9f30afd19ad&lang=en&cache-only=0",
+            "defineEn": "catching and keeping our attention because of being unusual, exciting, etc.",
+            "defineVi": "thu hút và giữ sự chú ý của chúng tôi vì khác thường, thú vị, v.v."
+        },
+        {
+            "id": "6053704f-af5c-404e-ad62-9ff4d356f408",
+            "word": "quiet",
+            "phonetic": "kwaɪət ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The library is often quiet during weekdays.",
+                "Be quiet, please.",
+                "We lead a very quiet life.",
+                "Surprisingly, the quiet neighborhood came alive with vibrant festivities during the annual festival.",
+                "You've been awfully quiet tonight, honey."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVpZXQ&hash=437416576a2b0948a05d2838d59cd9fc5bd97411&lang=en&cache-only=0",
+            "defineEn": "making very little noise or no noise at all",
+            "defineVi": "tạo ra rất ít tiếng ồn hoặc không có tiếng ồn nào cả",
+            "hasImg": true
+        },
+        {
+            "id": "74dabcc7-b723-4c23-8dfd-1b9ca8d74ac0",
+            "word": "safe",
+            "phonetic": "seɪf ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Keep your passport in a safe place.",
+                "After all, the highest branch is not the safest roost.",
+                "You can feel as safe as houses here with electric entrance gates.",
+                "Don't worry, Uncle Tim, your future is safe in our hands.",
+                "I always put my important documents in a safe deposit box at the bank because safe bind, safe find."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2FmZQ&hash=3e67fa5139504d250baa4657c76f6c74576e8ba8&lang=en&cache-only=0",
+            "defineEn": "being without danger or harm",
+            "defineVi": "không có nguy hiểm hoặc tổn hại",
+            "hasImg": true
+        },
+        {
+            "id": "7d578d7d-000e-4519-afa0-657d0cdce422",
+            "word": "bridge",
+            "phonetic": "bɹɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The universal language of art is bridging a divide.",
+                "This collection of stories bridges the gap between history and fiction.",
+                "This book bridges a gulf between the metaphysics literature and philosophy of mind literature.",
+                "The bus hit the bridge.",
+                "The children were dropping stones off the bridge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnJpZGdl&hash=aa3a1de665607f96791a2091b80ffdef472aa568&lang=en&cache-only=0",
+            "defineEn": "a structure built over a river, road, etc. that enables people or vehicles to go across one side to the other",
+            "defineVi": "một cấu trúc được xây dựng trên sông, đường, v.v. cho phép người hoặc phương tiện đi qua bên này sang bên kia",
+            "hasImg": true
+        },
+        {
+            "id": "39c7cd58-1b27-4b21-ab3b-a05ef33d364d",
+            "word": "canal",
+            "phonetic": "kənæl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "They built canals to bring water from the river.",
+                "The boat captain guided us through the narrow canals of the city.",
+                "Venice is a city in Italy known for its beautiful canals and gondola rides.",
+                "Your alimentary canal, for example, includes several organs with specific functions.",
+                "In modern amphibians, reptiles, birds, and mammals, that canal acts as a pathway for nerves and blood vessels."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2FuYWw&hash=687d97fc87be0f021a856127531fdcfcaa61b035&lang=en&cache-only=0",
+            "defineEn": "a long and artificial passage built and filled with water for ships to travel along or used to transfer water to other places",
+            "defineVi": "một lối đi dài và nhân tạo được xây dựng và chứa đầy nước để tàu thuyền đi lại hoặc dùng để chuyển nước đến những nơi khác",
+            "hasImg": true
+        },
+        {
+            "id": "853aa2c1-7727-45cc-b792-3383c264f682",
+            "word": "wall",
+            "phonetic": "wɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The plan ran into a brick wall.",
+                "Small cracks appeared in the wall.",
+                "She decorated the walls of her bedroom with pictures and posters.",
+                "He's bouncing off the walls.",
+                "The artwork on the wall was a mix of colors and textures."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FsbA&hash=7ce80503fc636b82b2a5ebcf4ec3a8b790d1ca1b&lang=en&cache-only=0",
+            "defineEn": "an upright structure, usually made of brick, concrete, or stone that is made to divide, protect, or surround a place",
+            "defineVi": "một cấu trúc thẳng đứng, thường được làm bằng gạch, bê tông hoặc đá được tạo ra để phân chia, bảo vệ hoặc bao quanh một nơi",
+            "hasImg": true
+        },
+        {
+            "id": "0fdb102c-25dc-453b-b5d9-439d6af3b5f1",
+            "word": "department store",
+            "phonetic": "dᵻpɑːɹtmənt stoːɹ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Last month, that enemy was Swedish department store H&M.",
+                "Two large department stores at either end, connected by smaller shops in between.",
+                "And across the street is Joy's Department Store.",
+                "Shares fell eighty five percent as a department store.",
+                "It was a department store for suburban America, not just a mass merchant to rural America."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVwYXJ0bWVudCBzdG9yZQ&hash=2c39d1fef3cac879d065b76df37e27ad084ad278&lang=en&cache-only=0",
+            "defineEn": "a large store, divided into several parts, each selling different types of goods",
+            "defineVi": "một cửa hàng lớn, được chia thành nhiều phần, mỗi phần bán các loại hàng hóa khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "aaa31dbb-fa46-432e-a8d4-b8f170e38914",
+            "word": "harbor",
+            "phonetic": "hɑːɹbɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The hotel looks out over the harbor.",
+                "Cobbled streets run down to a tiny harbor.",
+                "Jennifer had been harboring the hots for her gym instructor, Alex.",
+                "My parents always caution me against taking risks, but I remind them that a ship in a harbor is safe, but that is not what a ship is for, and that I need to venture outside of my comfort zone to achieve my true potential.",
+                "The ponds with the most malformed amphibians were also harboring an infection of trematodes, a type of flatworm, particularly one named Ribeiroia."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGFyYm9y&hash=640a55479def527d3b0b3fa9eb5e7d3f2f72e4f0&lang=en&cache-only=0",
+            "defineEn": "an area of water close to the land where it has been made safe by strong walls for ships to take shelter",
+            "defineVi": "một vùng nước gần đất liền nơi nó đã được làm cho an toàn bởi những bức tường vững chắc để tàu trú ẩn",
+            "hasImg": true
+        },
+        {
+            "id": "fd8a3a90-6e8f-4535-89c7-f4ae6921f3b8",
+            "word": "hill",
+            "phonetic": "hɪl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "A path led down the hill.",
+                "The village was set among olive groves on a hill.",
+                "They were driven to an unknown place in the hills.",
+                "The truck's engine roared as it climbed the steep hill.",
+                "An engineer suggested driving a tunnel through the Judean hills."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGlsbA&hash=48476df7c72078e2c0d632e0f2b5286926b2bace&lang=en&cache-only=0",
+            "defineEn": "a naturally raised area of land that is higher than the land around it, but smaller than a mountain",
+            "defineVi": "một vùng đất được nâng lên tự nhiên cao hơn vùng đất xung quanh nó, nhưng nhỏ hơn một ngọn núi",
+            "hasImg": true
+        },
+        {
+            "id": "a4db6ed1-cf03-46fa-9235-9ab36cc77668",
+            "word": "lake",
+            "phonetic": "leɪk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The road led away from the house directly to the lake.",
+                "Sunlight played on the surface of the lake.",
+                "We enjoyed a picnic by the lake, and she surprised us with a brooklime-infused lemonade.",
+                "We saw a beautiful white swan swimming in the lake.",
+                "During the heatwave, the group of friends decided to cool off by skinny-dipping in the lake, enjoying the refreshing water in their birthday suits under the moonlight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bGFrZQ&hash=2dba95c14a3c0cab5e09962fbae9068e0078b6c9&lang=en&cache-only=0",
+            "defineEn": "a large area of water, surrounded by land",
+            "defineVi": "một khu vực rộng lớn của nước, bao quanh bởi đất",
+            "hasImg": true
+        },
+        {
+            "id": "cbd6df45-8cce-4017-a224-9bd8575a400f",
+            "word": "market",
+            "phonetic": "mɑːɹkɪt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The market had ripe oranges with bright orange peels.",
+                "The market had vibrant yellow lemons on display.",
+                "The market is growing rapidly.",
+                "The seafood market showcased a mouthwatering display of fresh clams.",
+                "The market vendor displayed a variety of tropical fruits, each with its own unique-colored mesocarp."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFya2V0&hash=1d3bcea6d18ee779f48286435622d4ca45557091&lang=en&cache-only=0",
+            "defineEn": "a public place where people buy and sell groceries",
+            "defineVi": "một nơi công cộng nơi mọi người mua và bán hàng tạp hóa",
+            "hasImg": true
+        },
+        {
+            "id": "4478c2ce-e00c-420f-bee5-7ea2cd471747",
+            "word": "mosque",
+            "phonetic": "mɑːsk ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Paris' great mosque, with its North African design, is the spiritual home of France's six million Muslims.",
+                "They kept pigs in our mosques.",
+                "Financing of mosques will be more tightly controlled.",
+                "You can find it in mosques, madrasas, palaces and private homes.",
+                "In March 2019, another mass shooting occurred at two mosques in New Zealand, killing 49 people."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9zcXVl&hash=87df874bbe03be71441be53ec57da8d807dd9b04&lang=en&cache-only=0",
+            "defineEn": "a place of worship, used by Muslims",
+            "defineVi": "một nơi thờ phượng, được sử dụng bởi người Hồi giáo",
+            "hasImg": true
+        },
+        {
+            "id": "9c10b27d-2616-4ef9-b59f-6cdf22f98b87",
+            "word": "museum",
+            "phonetic": "mjuːziəm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The museum has free admission on Fridays.",
+                "The museum had an impressive collection of European art.",
+                "The museum curator collects antique artworks for the museum's collection.",
+                "The museum showcased artifacts from different civilizations spanning over a hundred years.",
+                "The museum is a fascinating place to learn about history and art."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVzZXVt&hash=86fcd1ce44bb65f7d92c77d50eaa201761a864b2&lang=en&cache-only=0",
+            "defineEn": "a place where important cultural, artistic, historical, or scientific objects are kept and shown to the public",
+            "defineVi": "nơi lưu giữ và trưng bày các vật thể văn hóa, nghệ thuật, lịch sử hoặc khoa học quan trọng cho công chúng",
+            "hasImg": true
+        },
+        {
+            "id": "cfcdc742-7458-4033-9020-5e1551788ed7",
+            "word": "palace",
+            "phonetic": "pælɪs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Around 200 000 visitors each year come to see the summer palace.",
+                "Palace intrigue shakes one of the Middle East's most historically stable monarchies.",
+                "'Where is your palace?'",
+                "In an instant, the palace dissolved around them.",
+                "My home is my palace in reality."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGFsYWNl&hash=60e25c6b8bfc9132e0c2a48988f144fdd4474c0f&lang=en&cache-only=0",
+            "defineEn": "a large and impressively designed house that is often the official house of a powerful individual such as a president or king",
+            "defineVi": "một ngôi nhà lớn và được thiết kế ấn tượng, thường là nhà chính thức của một cá nhân quyền lực như tổng thống hoặc vua",
+            "hasImg": true
+        },
+        {
+            "id": "83b8bfd5-e634-4669-ab12-ff0481e36684",
+            "word": "ruin",
+            "phonetic": "ɹuːɪn ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The highly visible ruins serve as a reminder of the building's history.",
+                "The scandal ruined his reputation and now his name is mud.",
+                "The company's reputation was ruined by the scandal, and there was no unringing the bell.",
+                "In the world of social media, bad news travels fast, and a single post can ruin a person's reputation.",
+                "He handed in his notice at the bank and ruined his promising career."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cnVpbg&hash=ae139b151f8bf6289543fc2edc680aa843650f3d&lang=en&cache-only=0",
+            "defineEn": "the remains of a building after it has been seriously damaged or destroyed",
+            "defineVi": "phần còn lại của một tòa nhà sau khi nó đã bị hư hại nghiêm trọng hoặc bị phá hủy",
+            "hasImg": true
+        },
+        {
+            "id": "53645675-8310-4c22-9772-99f0ba3a515d",
+            "word": "shopping centre",
+            "phonetic": "ʃɑːpɪŋ sɛntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2hvcHBpbmcgY2VudHJl&hash=c2af0bfcffc6e552b8ade8f4a3095f57a71a1bd2&lang=en&cache-only=0",
+            "defineEn": "a group of shops, restaurants, etc. built together in one area or large building",
+            "defineVi": "một nhóm các cửa hàng, nhà hàng, vv được xây dựng cùng nhau trong một khu vực hoặc tòa nhà lớn",
+            "hasImg": true
+        },
+        {
+            "id": "7b723fe5-b1fa-4b24-84a3-1bb426de0ca6",
+            "word": "shopping mall",
+            "phonetic": "ʃɑːpɪŋ mɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2hvcHBpbmcgbWFsbA&hash=d4006e840de78ef8e0722323baec42ec071f6e4b&lang=en&cache-only=0",
+            "defineEn": "‌a large building or enclosed area that consists of a group of shops",
+            "defineVi": "‌một tòa nhà lớn hoặc khu vực khép kín bao gồm một nhóm cửa hàng",
+            "hasImg": true
+        },
+        {
+            "id": "770e1352-35e6-4281-92a2-f32149e494bc",
+            "word": "statue",
+            "phonetic": "stætʃuː ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The Statue of Liberty is a famous American landmark.",
+                "She felt compelled to bow down in front of the statue, overwhelmed by its beauty.",
+                "That baby statue was hung.",
+                "It’s a statue.",
+                "A stone grave statue of a young child is there as well."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3RhdHVl&hash=2213e0f10a2b479d08edc080351b053c898b0675&lang=en&cache-only=0",
+            "defineEn": "a large object made of a hard material such as stone in order to look like a person or animal",
+            "defineVi": "một vật thể lớn làm bằng vật liệu cứng như đá để trông giống người hoặc động vật",
+            "hasImg": true
+        },
+        {
+            "id": "81c795b0-cd1d-477f-86ef-5784fe6fa015",
+            "word": "synagogue",
+            "phonetic": "sɪnɐɡɑːɡ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It was a small synagogue.",
+                "Here's one of the most remarkable things about this synagogue.",
+                "Tehran is a city with 13 synagogues.",
+                "He arrived at the synagogue as the massacre began.",
+                "In Germany, a court today sentenced a white supremacist gunman to life in prison for attacking a synagogue on Yom Kippur in 2019."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3luYWdvZ3Vl&hash=b53e799a9a68da0b5bc929bcb8ff7f0f0bf3d922&lang=en&cache-only=0",
+            "defineEn": "a place of worship and religious study for Jews",
+            "defineVi": "một nơi thờ phượng và nghiên cứu tôn giáo cho người Do Thái",
+            "hasImg": true
+        },
+        {
+            "id": "1818938c-4bad-4dc9-9c5c-e11c8ecb7f69",
+            "word": "temple",
+            "phonetic": "tɛmpəl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The exceptional taste of Temple oranges makes them a prized ingredient in gourmet recipes.",
+                "As midnight approaches, Buddhist temples around the country begin ringing out the old year.",
+                "He applied a few drops of spikenard oil to his temples, finding relief from his headache.",
+                "Unlike regular oranges, Temple oranges have a distinct floral note that enhances their sweet and tangy flavor.",
+                "In the holy city of Varanasi, temples draw throngs of believers, who float oil lamps and marigolds."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVtcGxl&hash=583544c3bc2cbf01dfd8ceff192a32c7c4d59d61&lang=en&cache-only=0",
+            "defineEn": "a building used for worshiping one or several gods, used by some religious communities, especially Buddhists and Hindus",
+            "defineVi": "một tòa nhà được sử dụng để thờ cúng một hoặc một số vị thần, được sử dụng bởi một số cộng đồng tôn giáo, đặc biệt là Phật giáo và Ấn Độ giáo",
+            "hasImg": true
+        },
+        {
+            "id": "40248055-fd47-4b17-9abe-a2c9ba54544c",
+            "word": "town hall",
+            "phonetic": "taʊn hɔːl ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Bill Clinton had held town halls all around the country.",
+                "This odd skull went on display at Klagenfurt’s Town Hall, where it remained for hundreds of years.",
+                "Along the way, there have been police reports, lawsuits, town halls, blood tests and a lot of water samples.",
+                "David, I'm going to start with you on those two town halls.",
+                "In a town hall last night, President Biden projected that enough vaccine will be available to inoculate all Americans by the end of July."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG93biBoYWxs&hash=a728aa664018f32f9c8159991749e99978702bc0&lang=en&cache-only=0",
+            "defineEn": "a building in which the officials of a town work",
+            "defineVi": "một tòa nhà trong đó các quan chức của một thị trấn làm việc",
+            "hasImg": true
+        },
+        {
+            "id": "cb6c40de-8a63-4971-b790-9940abbba972",
+            "word": "religious",
+            "phonetic": "ɹᵻlɪdʒəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Religious instruction is banned in all state schools in the country.",
+                "He has very firmly held religious beliefs.",
+                "In many cases religious persecution is the cause of people fleeing their country.",
+                "The Medieval church went to some lengths to specify the roles of particular stones in religious imagery.",
+                "For the past couple of years, the chattering classes have argued about whether the religious right is in decline."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVsaWdpb3Vz&hash=abc9c41f33e5b5a7ff8de25adc670a5c3e520fff&lang=en&cache-only=0",
+            "defineEn": "related to a religion",
+            "defineVi": "liên quan đến một tôn giáo",
+            "hasImg": true
+        },
+        {
+            "id": "85b2ac1e-184e-42d4-8db8-f466c50bec0b",
+            "word": "building",
+            "phonetic": "bɪldɪŋ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The school building has a playground for the students.",
+                "The workers construct the building from the ground up.",
+                "The tall building stands out among the other structures in the city.",
+                "The monastery was several three-storey buildings.",
+                "The truck carried a load of construction materials to the building site."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVpbGRpbmc&hash=963fbf1fc2753dd180763a21b78ec467a4dc62dc&lang=en&cache-only=0",
+            "defineEn": "a structure that has walls, a roof, and sometimes many levels, like an apartment, house, school, etc.",
+            "defineVi": "một cấu trúc có tường, mái nhà và đôi khi có nhiều tầng, như căn hộ, nhà ở, trường học, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "d91fce4c-0c68-463e-947e-e49bed234855",
+            "word": "monument",
+            "phonetic": "mɑːnjuːmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "That monument has been there since the year one.",
+                "Monuments were raised in honor of the dead.",
+                "A monument is an ideal.",
+                "A monument is an ideal.",
+                "New Confederate monuments in the 1880s and 1890s were promoting a return to white supremacy and institutional slavery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9udW1lbnQ&hash=8c3265361a0e65ed2246b5dac1d2821c0ea2951d&lang=en&cache-only=0",
+            "defineEn": "a structure built in honor of a public figure or a special event",
+            "defineVi": "một cấu trúc được xây dựng để vinh danh một nhân vật của công chúng hoặc một sự kiện đặc biệt"
+        }
+    ]
+}

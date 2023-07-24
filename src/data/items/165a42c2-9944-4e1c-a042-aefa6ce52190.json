@@ -1,0 +1,932 @@
+{
+    "id": "165a42c2-9944-4e1c-a042-aefa6ce52190",
+    "title": "Unit 6",
+    "originalTitle": "Unit 6",
+    "words": [
+        {
+            "id": "3f635450-dc3b-43f2-8673-9bddcedd8bea",
+            "word": "artist",
+            "phonetic": "ɑːɹɾɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "An artist working in oils.",
+                "Some artists have to be handled with kid gloves.",
+                "The artist mixed different colors to create a masterpiece.",
+                "The artist sought to abstract the essence of nature in her paintings.",
+                "The artist decided to withdraw their painting from the exhibit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJ0aXN0&hash=7a27ac12c33b77a508175e6287243d4332431b62&lang=en&cache-only=0",
+            "defineEn": "someone who creates drawings, sculptures, paintings, etc. either as their job or hobby",
+            "defineVi": "ai đó tạo ra các bản vẽ, tác phẩm điêu khắc, tranh vẽ, v.v. như công việc hoặc sở thích của họ",
+            "hasImg": true
+        },
+        {
+            "id": "0dc7c7ef-5d5d-4389-9c15-3cdf2807ee5c",
+            "word": "photographer",
+            "phonetic": "fətɑːɡɹəfɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The rumor ran through the pack of photographers.",
+                "The photographer zoomed in on the flower to capture its intricate details.",
+                "They were followed down the street by a bunch of photographers.",
+                "He finally lost his cool with a photographer and threatened to hit him.",
+                "The photographer ventured into remote landscapes, capturing stunning images of untouched nature in the raw, free from any human intervention."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGhvdG9ncmFwaGVy&hash=66af12509ae5e2b32b43edb082dc5fd5b8bed86e&lang=en&cache-only=0",
+            "defineEn": "someone whose hobby or job is taking photographs",
+            "defineVi": "ai đó có sở thích hoặc công việc là chụp ảnh",
+            "hasImg": true
+        },
+        {
+            "id": "f96b5ea1-ab78-4e5c-9974-710af6601d58",
+            "word": "actor",
+            "phonetic": "æktɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The director praised the actor for their outstanding performance in the movie.",
+                "The actor is hitting the big time with his new movie.",
+                "The talented actor effortlessly portrayed a wide range of characters, from a hero to a villain.",
+                "Many actors dream of winning prestigious awards for their performances.",
+                "Right in the middle of the review is a left-handed compliment: the critic praises the actor for his \"startling career departure.\""
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWN0b3I&hash=ff51d3cf52dbdb212c09682c85250cde406d0147&lang=en&cache-only=0",
+            "defineEn": "someone whose job involves performing in movies, plays, or series",
+            "defineVi": "ai đó có công việc liên quan đến việc biểu diễn trong phim, vở kịch hoặc sê-ri",
+            "hasImg": true
+        },
+        {
+            "id": "036bf976-0f1f-4dc8-81b5-9a56d0c0d925",
+            "word": "politician",
+            "phonetic": "pɑːlɪtɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Politicians think they can easily lead people by the nose.",
+                "Politicians again failed to reach an agreement.",
+                "The politician is riding on the wave of public support, with high approval ratings and successful campaigns.",
+                "The media portrayed the politician in a bad light, focusing only on their past mistakes.",
+                "The politician made his bow at the campaign rally and gave a passionate speech to the crowd."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9saXRpY2lhbg&hash=416a86905d00d0a9ff1d8cb8696a0701b5eb7702&lang=en&cache-only=0",
+            "defineEn": "someone who works in the government or a law-making organization",
+            "defineVi": "một người làm việc trong chính phủ hoặc một tổ chức làm luật",
+            "hasImg": true
+        },
+        {
+            "id": "c42aa9d8-1e7a-426b-9729-7d77b1e74b4f",
+            "word": "builder",
+            "phonetic": "bɪldɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Many banks have cut commercial builders off cold turkey.",
+                "The builders may have adhered to the letter of the law, but not its spirit.",
+                "Of the participating builders in the survey, 66 percent said they turned a profit in 1993.",
+                "The builders had done a really nice job.",
+                "But Roman road builders took the art of logistics to another level."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YnVpbGRlcg&hash=073aef4a03e57b569bfdedae9165960636337d93&lang=en&cache-only=0",
+            "defineEn": "someone who builds or repairs houses and buildings, often as a job",
+            "defineVi": "một người xây dựng hoặc sửa chữa nhà và các tòa nhà, thường là một công việc",
+            "hasImg": true
+        },
+        {
+            "id": "55e11913-3758-466e-8a38-e06826d7bfbd",
+            "word": "accountant",
+            "phonetic": "ɐkaʊntənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His accountant had been cooking the books for years.",
+                "When it comes to the new tax reform, the new accountant really knows her onions.",
+                "I received an automated email from the accountant saying that she was out to lunch.",
+                "The accountant was tasked with managing the company's finances, but she was caught embezzling funds for her own benefit.",
+                "It would probably pay you to hire an accountant."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWNjb3VudGFudA&hash=7ab751a23659e66924f630a2d8b4e7d99581a3b2&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to keep or check financial accounts",
+            "defineVi": "ai đó có công việc là để giữ hoặc kiểm tra tài khoản tài chính",
+            "hasImg": true
+        },
+        {
+            "id": "bfca89e0-6cd7-4647-8f79-38446e879068",
+            "word": "economist",
+            "phonetic": "ɪkɑːnəmɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "It seems clear that a compromise, half-way solution had equally been ruled out by Government, Opposition, economists, press, TV, Uncle Tom Cobleigh and all.",
+                "\"The economy is booming right now, but we have to be prepared for when things slow down because what goes up must come down,\" cautioned the economist.",
+                "Economists evaluate the effectiveness of a healthcare system on three criteria: Access, Cost, and Quality.",
+                "Economists call this jobless growth.",
+                "Economists call that deflation."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWNvbm9taXN0&hash=c6a08dec0a7fe899964b5f41924a248fe7946c6a&lang=en&cache-only=0",
+            "defineEn": "someone who is an expert in economics",
+            "defineVi": "một người là một chuyên gia về kinh tế",
+            "hasImg": true
+        },
+        {
+            "id": "76c39294-9cf3-42d1-a5ee-639aef86e423",
+            "word": "musician",
+            "phonetic": "mjuːzɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The best professional musicians start young.",
+                "The new student quickly made friends with the other musicians, because birds of a feather flock together.",
+                "Musicians can also put their money where their mouths are and play benefit gigs.",
+                "The magazine features interviews with musicians and reviews of new albums.",
+                "The musician's fingers lightly touched the piano keys, creating a beautiful melody."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bXVzaWNpYW4&hash=c88f3fdfa3b057a881d43e1f0d5f64d748080b73&lang=en&cache-only=0",
+            "defineEn": "someone who plays a musical instrument or writes music, especially as a profession",
+            "defineVi": "một người chơi nhạc cụ hoặc viết nhạc, đặc biệt là một nghề",
+            "hasImg": true
+        },
+        {
+            "id": "28da198a-3987-41e2-b3d4-6cbdf9b21691",
+            "word": "interpreter",
+            "phonetic": "ɪntɜːpɹɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I do not know what the interpreter said, but under no circumstances did I mean that I had a problem with you, not by any stretch of the imagination.",
+                "And the woman writes, 'Interpreter?'",
+                "So many protests, so many protests do not have interpreters.",
+                "Finally, interpreters work in pairs.",
+                "I love that interpreter."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW50ZXJwcmV0ZXI&hash=8452dfce3494207f5d0dec15c644620c9111caf4&lang=en&cache-only=0",
+            "defineEn": "someone who verbally changes the words of a language into another",
+            "defineVi": "ai đó bằng lời nói thay đổi các từ của một ngôn ngữ sang một ngôn ngữ khác",
+            "hasImg": true
+        },
+        {
+            "id": "eb90aeed-b401-43b0-b597-9a366b016898",
+            "word": "translator",
+            "phonetic": "tɹænsleɪɾɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The translator went viral.",
+                "And they had a translator there.",
+                "The translator visas are officially called Special Immigration Visas, or SIVs.",
+                "The translator visas are officially called Special Immigration Visas, or SIVs.",
+                "But the document was either read in Spanish or Latin, often with no translators."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHJhbnNsYXRvcg&hash=9ebb14c1081c5da187f99e2ce232a2708ad7b844&lang=en&cache-only=0",
+            "defineEn": "someone whose job is to change written or spoken words from one language to another",
+            "defineVi": "một người có công việc là thay đổi các từ viết hoặc nói từ ngôn ngữ này sang ngôn ngữ khác",
+            "hasImg": true
+        },
+        {
+            "id": "d6c2a23a-352d-4667-84c0-d49e1292d926",
+            "word": "inventor",
+            "phonetic": "ɪnvɛntɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The machine takes its name from its inventor.",
+                "The inventor who sold their patent for a large sum of money also had to give up the right to profit from the invention in the future.",
+                "The inventor believed that even though his idea seemed impossible to implement, it was still achievable with time, patience, perseverance, effort, and faith, as difficult is done at once, the impossible takes a little longer.",
+                "Despite facing criticism and doubt from his peers, the young inventor persevered and ultimately succeeded in creating a groundbreaking new technology - he who laughs last laughs loudest.",
+                "Inventors have proposed plenty of ideas."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW52ZW50b3I&hash=70bc5b7a5df29399fbd3746ddc97586428daea3b&lang=en&cache-only=0",
+            "defineEn": "someone who makes or designs something that did not exist before",
+            "defineVi": "một người làm hoặc thiết kế một cái gì đó không tồn tại trước đây",
+            "hasImg": true
+        },
+        {
+            "id": "033c303a-fe3a-4c8a-af35-f1765372d241",
+            "word": "electrician",
+            "phonetic": "ᵻlɛktɹɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Today, those younger boys are the electricians and the plumbers.",
+                "Atlanta electrician Tonya Hicks sees the same bias in her community, even though unemployment is famously much higher for African Americans.",
+                "She now works with electrician Brian LaMorte, who graduated from Towson University in Maryland with a computer degree.",
+                "That's the path that a lot of electricians take.",
+                "In college, would you have thought that you would become an electrician?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZWxlY3RyaWNpYW4&hash=e20b8ab61201f5b5799c2fda1e8685b1184c9f83&lang=en&cache-only=0",
+            "defineEn": "someone who deals with electrical equipment, such as repairing or installing them",
+            "defineVi": "một người liên quan đến thiết bị điện, chẳng hạn như sửa chữa hoặc cài đặt chúng",
+            "hasImg": true
+        },
+        {
+            "id": "871fc5e2-b2e2-47d9-9124-71005ba79256",
+            "word": "farmer",
+            "phonetic": "fɑːɹmɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The farmer harvested a bountiful crop of watermelons from his fields.",
+                "The farmer harvested the tuberous roots of the yam plant.",
+                "The farmer harvested the fresh broccoli florets from the garden for market.",
+                "The farmer witnessed the birth of a baby calf in the barn.",
+                "The farmer fed the chickens with corn and grains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFybWVy&hash=346e81d9e04f9535cd9e8650b2ec9d9d3ca98c10&lang=en&cache-only=0",
+            "defineEn": "someone who has a farm or manages a farm",
+            "defineVi": "một người có một trang trại hoặc quản lý một trang trại",
+            "hasImg": true
+        },
+        {
+            "id": "66536c27-84ba-42b4-8349-bda4630f2442",
+            "word": "assistant",
+            "phonetic": "ɐsɪstənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Sales assistants are often on the receiving end of verbal abuse from customers.",
+                "She made him her assistant.",
+                "My assistant is threatening to leave.",
+                "She stole the shoes from under the assistant's nose.",
+                "The assistant manager is standing in for the store manager while she is on maternity leave."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXNzaXN0YW50&hash=e01d7db145078df6b15d8c542f6e3e5e7fd580bc&lang=en&cache-only=0",
+            "defineEn": "a person who helps someone in their work",
+            "defineVi": "một người giúp ai đó trong công việc của họ",
+            "hasImg": true
+        },
+        {
+            "id": "462b3db1-ec59-47bf-b0b8-1851bee1cc3d",
+            "word": "receptionist",
+            "phonetic": "ɹᵻsɛpʃənɪst ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The receptionist led the way to the boardroom.",
+                "The receptionist sat behind the desk, welcoming visitors.",
+                "The receptionist informed me that the manager is not available at the moment.",
+                "Please collect the documents from the receptionist before leaving the building.",
+                "I mean, I'm a receptionist at Soul Cycle."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVjZXB0aW9uaXN0&hash=c45778d9e115b3ce8d9986d086ba6c0ff2f35f3c&lang=en&cache-only=0",
+            "defineEn": "a person who greets and deals with people arriving at or calling a hotel, office building, doctor's office, etc.",
+            "defineVi": "một người chào đón và giao dịch với những người đến hoặc gọi đến khách sạn, tòa nhà văn phòng, văn phòng bác sĩ, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "3493174e-c3ae-45e8-a6db-5f886ce0f8e7",
+            "word": "reservation",
+            "phonetic": "ɹɛzɚveɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The restaurant reservation is for 8 o'clock tonight.",
+                "We can hold your reservation for three days.",
+                "Is there a table available for dinner reservations tonight?",
+                "They asked for his last name at the hotel check-in, to confirm his reservation.",
+                "We should spell our last names when making reservations to avoid any misunderstandings."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVzZXJ2YXRpb24&hash=ccb6c7360e3ab205074266d98a4324929e22a117&lang=en&cache-only=0",
+            "defineEn": "a protected area of land where wild animals can live without being hunted or disturbed by human activities",
+            "defineVi": "một vùng đất được bảo vệ nơi động vật hoang dã có thể sinh sống mà không bị săn bắt hoặc quấy rầy bởi các hoạt động của con người",
+            "hasImg": true
+        },
+        {
+            "id": "301255d1-1473-4b03-a09a-d1381eeb5f15",
+            "word": "to reserve",
+            "phonetic": "tə ɹɪzɜːv ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "In our house, the bigger bedroom was always reserved for my older sister.",
+                "Reserve now and fly half-price.",
+                "Can you make a call to the restaurant and reserve a table for us?",
+                "The normally reserved and polite man became aggressive and confrontational when he was drunk, revealing a darker side of his personality.",
+                "Although he was reserved and often kept to himself, those who knew him well knew that he had a kind and generous heart."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcmVzZXJ2ZQ&hash=539c28f584e7392bf26fb3c603f067669fbd2174&lang=en&cache-only=0",
+            "defineEn": "to set something aside and keep it for future use",
+            "defineVi": "để đặt một cái gì đó sang một bên và giữ nó để sử dụng trong tương lai"
+        },
+        {
+            "id": "cec66965-a5e6-4ab1-a2e9-91ba9123629d",
+            "word": "fame",
+            "phonetic": "feɪm ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "I follow fame.",
+                "Her fame was bought at the expense of her marriage.",
+                "Fame hasn't really changed him.",
+                "In my experience, common fame is seldom to blame.",
+                "The sudden fame has turned her head, making her behave arrogantly and disregard others' opinions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtZQ&hash=5046a0460d7476a45fdb92b7479840e300c29297&lang=en&cache-only=0",
+            "defineEn": "a state of being widely known or recognized, usually because of notable achievements, talents, or actions",
+            "defineVi": "trạng thái được biết đến hoặc công nhận rộng rãi, thường là do những thành tích, tài năng hoặc hành động đáng chú ý",
+            "hasImg": true
+        },
+        {
+            "id": "799e5854-6793-4698-be3d-d3593fc301b5",
+            "word": "famous",
+            "phonetic": "feɪməs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "This store is famous for its bait and switch tactics.",
+                "The famous author made a mint from royalties on his best-selling books.",
+                "The Black Forest in Germany is famous for its beautiful scenery and delicious cake.",
+                "I saw a famous actress at the shopping mall today.",
+                "My sister's famous sweet cherry jam is a family favorite."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmFtb3Vz&hash=ef9ded7d95792328240ced8ffd35d098b6841f3b&lang=en&cache-only=0",
+            "defineEn": "known by a lot of people",
+            "defineVi": "được nhiều người biết đến",
+            "hasImg": true
+        },
+        {
+            "id": "c961c46a-3497-4053-8caa-7b8e1d61226a",
+            "word": "explanation",
+            "phonetic": "ɛksplɐneɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Alan's explanation just muddies the issue!",
+                "Your explanation is too complicated!",
+                "The explanation went completely over my head.",
+                "His explanation is totally full of prunes and doesn't answer the question at all.",
+                "The government's explanation for the budget deficit had more holes than Swiss cheese, and many citizens were left feeling skeptical."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZXhwbGFuYXRpb24&hash=55fe82c4c3552192bf1bdee5bc2cab0eef2984d1&lang=en&cache-only=0",
+            "defineEn": "information or details that are given to make something clear or easier to understand",
+            "defineVi": "thông tin hoặc chi tiết được đưa ra để làm cho một cái gì đó rõ ràng hoặc dễ hiểu hơn"
+        },
+        {
+            "id": "44b9a14c-5871-4d98-83d7-9abddaffb9f9",
+            "word": "to explain",
+            "phonetic": "tʊ ɛkspleɪn ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "She explained the rules of the game to the new players.",
+                "Can you explain this math concept to me?",
+                "They explained the procedure for submitting the application form.",
+                "They explained the process of making a paper airplane step by step.",
+                "He explained the plot of the movie to his friend who hadn't seen it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZXhwbGFpbg&hash=c09dff50785d1072fd505d8568908e84d47c7c8c&lang=en&cache-only=0",
+            "defineEn": "to make something clear and easy to understand by giving more information about it",
+            "defineVi": "để làm cho một cái gì đó rõ ràng và dễ hiểu bằng cách cung cấp thêm thông tin về nó",
+            "hasImg": true
+        },
+        {
+            "id": "500d4d6c-9112-4f16-8a43-88343fe0a5b2",
+            "word": "difference",
+            "phonetic": "dɪfɹəns ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The scholarship fund had made a difference in a lot of people's lives.",
+                "Exercise can make a big difference to your state of health.",
+                "It could mean the difference between a red-letter day and an empty basket.",
+                "Make a difference by doing what?",
+                "He got the hook, reportedly due to differences with his co-star."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmVyZW5jZQ&hash=c898195fbf798de6c9956461e967cee140390385&lang=en&cache-only=0",
+            "defineEn": "the way that two or more people or things are different from each other",
+            "defineVi": "cách mà hai hoặc nhiều người hoặc vật khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "a4ca94d6-3f6b-45e8-94c0-76f48327c0ec",
+            "word": "different",
+            "phonetic": "dɪfɹənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Everyone has different interests.",
+                "The figures tell a different story.",
+                "Actually, I wear several different hats.",
+                "He had a different perspective on the movie.",
+                "She studied different subjects in school, from math to history."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlmZmVyZW50&hash=56d0cff4b3443dbeac5dc54ead4efe1093bc4e52&lang=en&cache-only=0",
+            "defineEn": "not like another thing or person in form, quality, nature, etc.",
+            "defineVi": "không giống sự vật, con người khác về hình thức, phẩm chất, bản chất, v.v.",
+            "hasImg": true
+        },
+        {
+            "id": "9f82b890-c683-4c86-9088-2f9f11214f26",
+            "word": "invitation",
+            "phonetic": "ɪnvɪteɪʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The lunch invitation was clearly a fishing expedition to obtain information about his private life.",
+                "There were doubts as to whether she was included in the invitation.",
+                "It's time we returned their invitation.",
+                "And an invitation to join the press conference.",
+                "Xu Xian had just received yet another invitation to the opening ceremony of the new Jin Shan Temple."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW52aXRhdGlvbg&hash=7b989781c39b79dc110e5032d71d99073282e4f4&lang=en&cache-only=0",
+            "defineEn": "a written or spoken request to someone, asking them to attend a party or event",
+            "defineVi": "một yêu cầu bằng văn bản hoặc nói cho ai đó, yêu cầu họ tham dự một bữa tiệc hoặc sự kiện",
+            "hasImg": true
+        },
+        {
+            "id": "e96f63fa-b402-4e41-badc-b79224157cf4",
+            "word": "to invite",
+            "phonetic": "tʊ ɪnvaɪt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The security expert warned the business owner that a bad padlock invites a picklock.",
+                "The water was so inviting that I couldn't resist taking a dip in the sea.",
+                "The farmer proudly displayed a plump fowl at the market, inviting customers to savor its flavorful meat.",
+                "To some extent such insistent emphasis hammers the argument home, rather than inviting the reader to engage with it.",
+                "I was tickled pink to be invited."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW52aXRl&hash=85e06736f16ff765d898adcb195d89bec509024e&lang=en&cache-only=0",
+            "defineEn": "to make a formal or friendly request to someone to be present somewhere or to participate in something",
+            "defineVi": "để đưa ra một yêu cầu chính thức hoặc thân thiện với ai đó để có mặt ở đâu đó hoặc tham gia vào một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "f16b0f2d-c102-4f07-a4bd-2ebea7eaee12",
+            "word": "danger",
+            "phonetic": "deɪndʒɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The policeman hammered home the dangers of drinking and driving.",
+                "As the saying goes, out of debt, out of danger.",
+                "The Thompson family business was in danger of falling apart after a major financial setback.",
+                "It is in danger of becoming all things to all people.",
+                "The society's preoccupation with safety and stranger danger is just unbelievable."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFuZ2Vy&hash=ec1495d3b073a3c9f9a54983cc85fac7a6ee7ceb&lang=en&cache-only=0",
+            "defineEn": "the likelihood of experiencing harm, damage, or injury",
+            "defineVi": "khả năng bị tổn hại, thiệt hại hoặc thương tích",
+            "hasImg": true
+        },
+        {
+            "id": "c9c6914c-6b2a-4996-bfd2-ac948c51087b",
+            "word": "dangerous",
+            "phonetic": "deɪndʒɚɹəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A dangerous policy that runs the risk of failure.",
+                "These foods are potentially dangerous, yet nobody thinks twice before handing them out to their loved ones.",
+                "It's known as the most dangerous part of the city.",
+                "When it comes to cybersecurity, there is no little enemy, and even a seemingly harmless email or file can contain a dangerous virus or malware.",
+                "The student kept procrastinating on their assignments and projects, and eventually learned the hard way that delays are dangerous when they failed their exams."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGFuZ2Vyb3Vz&hash=991ccfa8a0a2070d41a832e21dccb58d23ad09af&lang=en&cache-only=0",
+            "defineEn": "capable of harming or injuring a person or destroying or damaging a thing",
+            "defineVi": "có khả năng làm hại hoặc làm bị thương một người hoặc phá hủy hoặc làm hỏng một thứ",
+            "hasImg": true
+        },
+        {
+            "id": "e9efd5d1-118a-4b0e-9ebc-fd3434b63692",
+            "word": "decision",
+            "phonetic": "dᵻsɪʒən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The decision is in the hands of the judge.",
+                "The decision comes in a case brought by the residents of a small town in Alabama.",
+                "This decision is, I feel, a huge mistake.",
+                "I can’t make a decision just yet.",
+                "The company's profits are on the rocks due to poor management decisions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVjaXNpb24&hash=957b5d56d8a685289089bebaecce1daad0f5ac1b&lang=en&cache-only=0",
+            "defineEn": "a choice or judgment that is made after adequate consideration or thought",
+            "defineVi": "một sự lựa chọn hoặc phán đoán được thực hiện sau khi xem xét đầy đủ hoặc suy nghĩ",
+            "hasImg": true
+        },
+        {
+            "id": "b62a4daa-f2a6-41fa-93cf-c1d691d83430",
+            "word": "to decide",
+            "phonetic": "tə dᵻsaɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "A mixture of skill and good luck decided the outcome of the game.",
+                "The courts decided in favor of the New York claimants.",
+                "The Appeal Court decided in their favour.",
+                "The case will be decided by a jury.",
+                "The government decided to abandon the proposed legislation due to public opposition."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGVjaWRl&hash=8969aa509b6a4aee013e9f9c604ea3c46f19248d&lang=en&cache-only=0",
+            "defineEn": "to think carefully about different things and choose one of them",
+            "defineVi": "suy nghĩ cẩn thận về những điều khác nhau và chọn một trong số họ",
+            "hasImg": true
+        },
+        {
+            "id": "7950edf9-2a63-4a32-ac7d-97e21c9d4313",
+            "word": "success",
+            "phonetic": "səksɛs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "His dedication and hard work played a big part in the company's success.",
+                "She achieved great success at a young age.",
+                "The team's success is built on the meat and potatoes of hard work and dedication.",
+                "The success of the project is in your hands.",
+                "Success has many fathers, failure is an orphan, indeed."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VjY2Vzcw&hash=3c1d05a796899913f40a3ef714794ccda97fe1e2&lang=en&cache-only=0",
+            "defineEn": "the fact of reaching or achieving what one tried for or desired",
+            "defineVi": "thực tế đạt được hoặc đạt được những gì một người đã cố gắng hoặc mong muốn",
+            "hasImg": true
+        },
+        {
+            "id": "de7f038f-1933-45de-8961-21363c5ca756",
+            "word": "successful",
+            "phonetic": "səksɛsfəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "A successful investor has his finger on the pulse of international business.",
+                "She introduced her husband as a successful entrepreneur during the charity event.",
+                "We asked five successful writers to reveal some of the tricks of the trade.",
+                "He has made a fortune through his successful business ventures.",
+                "Emily's father went under the knife yesterday for a successful heart surgery."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3VjY2Vzc2Z1bA&hash=59f6df1629cee43009ff20969a1e6c14a383d0c1&lang=en&cache-only=0",
+            "defineEn": "getting the results wanted or hoped",
+            "defineVi": "nhận được kết quả mong muốn hoặc hy vọng",
+            "hasImg": true
+        },
+        {
+            "id": "a190e304-0a0c-4f9a-ac6d-66f11d53ee14",
+            "word": "student",
+            "phonetic": "stuːdənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Students with disabilities have priority access to the lift.",
+                "The teacher praised the students for their good manners.",
+                "Other students followed her lead and boycotted lectures.",
+                "The classroom has rows of chairs for students.",
+                "The students worked their heart and soul on their project."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1ZGVudA&hash=95580be3325a44940e195a5a3325d6034d1fc60d&lang=en&cache-only=0",
+            "defineEn": "a person who is studying at a school, university, or college",
+            "defineVi": "một người đang học tại một trường học, trường đại học, hoặc cao đẳng",
+            "hasImg": true
+        },
+        {
+            "id": "037b7fce-b01b-4cf3-9a21-10b5e4d76415",
+            "word": "study",
+            "phonetic": "stʌdi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "My friend studied the nutritional benefits of different legumes for her research project.",
+                "We study the history of our country in social studies class.",
+                "She studied different subjects in school, from math to history.",
+                "We study different subjects like math, science, and English at school.",
+                "Researchers study diatoms to better understand the environmental conditions of aquatic habitats."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3R1ZHk&hash=2097b3f782215c2a8f777e35d85a798163d9ad66&lang=en&cache-only=0",
+            "defineEn": "a detailed and careful consideration and examination",
+            "defineVi": "xem xét và kiểm tra chi tiết và cẩn thận",
+            "hasImg": true
+        },
+        {
+            "id": "ec3dfef1-52e6-473a-9ea3-e251719bddc3",
+            "word": "collection",
+            "phonetic": "kəlɛkʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "This collection of stories bridges the gap between history and fiction.",
+                "The museum had an impressive collection of European art.",
+                "These books belong in the library's rare collection.",
+                "The museum curator collects antique artworks for the museum's collection.",
+                "I have thirteen stamps in my collection."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29sbGVjdGlvbg&hash=a6e0c9156d977a8c3f2b03db44415d0d9230cad8&lang=en&cache-only=0",
+            "defineEn": "a group of particular objects put together and considered as a whole",
+            "defineVi": "một nhóm các đối tượng cụ thể đặt lại với nhau và được coi là một tổng thể",
+            "hasImg": true
+        },
+        {
+            "id": "9b570a14-8e6d-483b-823c-aeb2a43909c6",
+            "word": "to collect",
+            "phonetic": "tə kəlɛkt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The museum curator collects antique artworks for the museum's collection.",
+                "His clubs are collecting dust now.",
+                "I collected seashells as souvenirs from the beautiful island.",
+                "They collected glass bottles for a recycling project.",
+                "John collects rare stamps from around the world."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY29sbGVjdA&hash=51cab3486f071ee80a82211787d01477ef5c53e2&lang=en&cache-only=0",
+            "defineEn": "to gather or bring together things from different places or people",
+            "defineVi": "để thu thập hoặc tập hợp những thứ từ những nơi khác nhau hoặc những người",
+            "hasImg": true
+        },
+        {
+            "id": "68fe6060-720f-49c6-9c34-8592a5db1510",
+            "word": "kindness",
+            "phonetic": "kaɪndnəs ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Her intelligence and kindness make her the perfect girlfriend.",
+                "Her actions reflect her kindness and compassion towards others.",
+                "Mary's kindness and generosity towards others has earned her love and respect from everyone she meets.",
+                "A little bit of kindness can go a long way in brightening someone's day.",
+                "We are so thankful for their kindness and generosity and we promise to pay it forward."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2luZG5lc3M&hash=2290d7707d2952b853cdc7f917366de26523dfa4&lang=en&cache-only=0",
+            "defineEn": "an action that is caring, kind, or helpful",
+            "defineVi": "một hành động quan tâm, tử tế, hoặc hữu ích",
+            "hasImg": true
+        },
+        {
+            "id": "57713a96-e6cf-42fa-b739-f76dac591d1c",
+            "word": "kind",
+            "phonetic": "kaɪnd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The companies are two of a kind.",
+                "Thank you, you're very kind.",
+                "My aunt is a really kind sister to my father.",
+                "Thank you for your kind words, they made my day.",
+                "The lost child was helped by a kind police officer to find their way home."
+            ],
+            "audio": "https://tts.langeek.co/read?text=a2luZA&hash=789164b00c38d8c6f6401a8f1c7c6720ddb7c0d7&lang=en&cache-only=0",
+            "defineEn": "friendly and nice to others; caring about other people's feelings",
+            "defineVi": "thân thiện và dễ mến với người khác; quan tâm đến cảm xúc của người khác",
+            "hasImg": true
+        },
+        {
+            "id": "56e2b979-7c52-4e93-b5d8-0d6073a0de23",
+            "word": "argument",
+            "phonetic": "ɑːɹɡjuːmənt ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These arguments provide the foundation for Simmel's account of the contradictory nature of modern life.",
+                "His argument rests on shaky ground.",
+                "The lawyer presented the right argument in court.",
+                "Your article barely laid a glove on my arguments.",
+                "He would start an argument at the drop of a hat."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXJndW1lbnQ&hash=72760f1d8bf8d1677b622f67a2325c945720f347&lang=en&cache-only=0",
+            "defineEn": "a discussion, typically a serious one, between two or more people with different views",
+            "defineVi": "một cuộc thảo luận, điển hình là một cuộc thảo luận nghiêm túc, giữa hai hoặc nhiều người có quan điểm khác nhau",
+            "hasImg": true
+        },
+        {
+            "id": "22934991-1ade-4ecc-83e9-3218b94a0354",
+            "word": "to argue",
+            "phonetic": "tʊ ɑːɹɡjuː ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "They were always arguing about money, chores, and even the smallest things.",
+                "For the past couple of years, the chattering classes have argued about whether the religious right is in decline.",
+                "The prosecutor argued that the defendant should be sentenced to life imprisonment at the court's pleasure, given the severity of the crime.",
+                "One person argued the toss for four hours before he agreed to pay.",
+                "We used to argue a lot, but that's all water under the bridge now."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYXJndWU&hash=9a444fc8d1250de576887a53ca15bd9f5a14c7a4&lang=en&cache-only=0",
+            "defineEn": "to speak to someone often angrily because one disagrees with them",
+            "defineVi": "nói chuyện với ai đó thường giận dữ vì một người không đồng ý với họ",
+            "hasImg": true
+        },
+        {
+            "id": "218980dd-513c-4d8f-a5dc-7fa396c6275e",
+            "word": "to execute",
+            "phonetic": "tʊ ɛksᵻkjuːt ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "More specifically, executing his uncle.",
+                "The whole thing is pretty beautifully executed.",
+                "Only one of us can be executed.",
+                "Since yesterday, the Israeli Defense Forces executed hundreds of attacks on Hamas and Islamic Jihad in Gaza.",
+                "Since yesterday, the Israeli Defense Forces executed hundreds of attacks on Hamas and Islamic Jihad in Gaza."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZXhlY3V0ZQ&hash=7e84ce7028a3d39381101d60d34c00d4dc782bed&lang=en&cache-only=0",
+            "defineEn": "to kill someone, especially as a legal penalty",
+            "defineVi": "để giết một ai đó, đặc biệt là một hình phạt pháp lý"
+        },
+        {
+            "id": "43aeebd6-7940-4f16-af1d-215869f85802",
+            "word": "to announce",
+            "phonetic": "tʊ ɐnaʊns ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The cop announced that the body in the dumpster was dead as a doornail.",
+                "After months of anticipation, the couple announced that they have a bun in the oven.",
+                "The trial has run its course, and the verdict will be announced tomorrow.",
+                "When the judge announced the decision, the balloon went up, and emotions ran high in the courtroom.",
+                "When they announced her name as the winner, she cried out in disbelief."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYW5ub3VuY2U&hash=6ae71b91505d376772c8687e44de4c4ee6707b3d&lang=en&cache-only=0",
+            "defineEn": "to make plans or decisions known by officially telling people about them",
+            "defineVi": "để thực hiện các kế hoạch hoặc quyết định được biết đến bằng cách chính thức nói với mọi người về họ",
+            "hasImg": true
+        },
+        {
+            "id": "1df19c5e-82ee-4cf3-8e32-7834f7a9c85a",
+            "word": "to avoid",
+            "phonetic": "tʊ ɐvɔɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "He avoided serious injury following a head-first fall on to the ice.",
+                "Avoid showing him the beers, or he’ll inform your parents.",
+                "She uses organic gardening methods in her garden, avoiding harmful chemicals.",
+                "He avoided consuming saturated fatty acids in his diet to maintain a healthy lifestyle.",
+                "He read the food label carefully to avoid products containing trans fatty acids."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gYXZvaWQ&hash=18027e0d7656d4e09cd9913090f4a92c3a39a984&lang=en&cache-only=0",
+            "defineEn": "to try to stay away from someone or something; to stop doing something",
+            "defineVi": "cố gắng tránh xa ai đó hoặc cái gì đó; dừng lại làm một cái gì đó",
+            "hasImg": true
+        },
+        {
+            "id": "012ad362-f2d6-4897-b5fa-c810750336ee",
+            "word": "to invade",
+            "phonetic": "tʊ ɪnveɪd ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "Tapeworms, for example, invade your intestines.",
+                "Cellular freebooters could invade another group.",
+                "They invade these cracks and fissures.",
+                "Even Space Invader has invaded space.",
+                "They invaded the southern region of Korea in 1950."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gaW52YWRl&hash=b6b765ef4c573c3c586eaaa71948ab0a5a39467d&lang=en&cache-only=0",
+            "defineEn": "to enter a territory using armed forces in order to occupy or take control of it",
+            "defineVi": "để vào một lãnh thổ sử dụng lực lượng vũ trang để chiếm hoặc kiểm soát nó"
+        },
+        {
+            "id": "f7880126-1bd9-4b14-824c-db2077f68c8d",
+            "word": "tax",
+            "phonetic": "tæks ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Does the price include tax?",
+                "The tax increase sounded the death knell for the business.",
+                "Tax rises have made some inroads into the country's national debt.",
+                "The U.S. tax code now loads the dice in favor of private pension plans.",
+                "The carbon tax will inevitably lead to an increase in energy bills."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGF4&hash=01adc108dde0e4024cde2148defa800e14afe952&lang=en&cache-only=0",
+            "defineEn": "a sum of money that has to be paid, based on one’s income, to the government so it can provide people with different kinds of public services",
+            "defineVi": "một khoản tiền phải trả, dựa trên thu nhập của một người, cho chính phủ để chính phủ có thể cung cấp cho mọi người các loại dịch vụ công cộng khác nhau"
+        },
+        {
+            "id": "f1f25434-2271-4c38-a2ae-0b6046794146",
+            "word": "reminder",
+            "phonetic": "ɹᵻmaɪndɚ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "The highly visible ruins serve as a reminder of the building's history.",
+                "It's a reminder that expectation is better than realization.",
+                "It's a reminder that one year's seeding makes seven years' weeding.",
+                "It's a reminder that faith and spirituality can be powerful forces in promoting love, compassion, and togetherness.",
+                "It's a reminder to always value human life and to act with compassion and respect for others."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cmVtaW5kZXI&hash=76e56cc2913f86730ac21fb1f73e826b752be02f&lang=en&cache-only=0",
+            "defineEn": "an experience that causes you to remember something",
+            "defineVi": "một kinh nghiệm khiến bạn nhớ một cái gì đó"
+        },
+        {
+            "id": "e5229733-4d2b-4523-8981-abdc5b02dbe7",
+            "word": "to rule",
+            "phonetic": "tə ɹuːl ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The house rules are crystal clear.",
+                "The teacher ruled the classroom with a heavy hand, rarely allowing any freedom or creativity.",
+                "She explained the rules of the game to the new players.",
+                "In this particular society men rule the roost and women have a low status and few rights.",
+                "The new rules should help cut the red tape for farmers."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gcnVsZQ&hash=c4df9e8041c5a6151755c4e04554d13a531e3628&lang=en&cache-only=0",
+            "defineEn": "to control and be in charge of a country",
+            "defineVi": "kiểm soát và chịu trách nhiệm về một quốc gia"
+        },
+        {
+            "id": "68e21ff7-37c1-472f-a520-7ce7a9ccc4c9",
+            "word": "to mince",
+            "phonetic": "tə mɪns ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "I added some diced vegetables to the mince to make a delicious meat sauce for pasta.",
+                "He will be remembered as a principled journalist, who expressed his views without mincing his words and enjoyed respect of his community.",
+                "For a quick and easy dinner, she cooked the mince with tomato sauce and served it over rice.",
+                "While they’re in, we mince two cloves of garlic and chop 4 sprigs of parsley.",
+                "LISA DESJARDINS: Not a guy to mince words, he says politicians could have avoided this."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gbWluY2U&hash=5ece0cd2aa0e431273eddde26a072cf4e2b4f1e4&lang=en&cache-only=0",
+            "defineEn": "to cut meat or other food into very small pieces, usually using a meat grinder",
+            "defineVi": "để cắt thịt hoặc thực phẩm khác thành miếng rất nhỏ, thường sử dụng một máy xay thịt",
+            "hasImg": true
+        },
+        {
+            "id": "16b4feaa-a124-4f4b-a4a5-51fb70939c3f",
+            "word": "sewage",
+            "phonetic": "suːɪdʒ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Charile Mae Holcomb is sick and tired of seeing sewage in her backyard.",
+                "Many treatment plants even seed their sludge with a bit of microbe-filled sewage, too.",
+                "She escaped through sewers, sewage water up to her neck.",
+                "That could mean higher water and sewage bills for everyone.",
+                "Basically all of Vadodara’s sewage is dumped directly into it."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2V3YWdl&hash=e6eb4cd6883b9b299fd493d5cfe1a1e73e1dacae&lang=en&cache-only=0",
+            "defineEn": "the wastewater or used water that contains various types of contaminants, including human and household waste, from residential, commercial, or industrial sources",
+            "defineVi": "nước thải hoặc nước đã sử dụng có chứa nhiều loại chất gây ô nhiễm khác nhau, bao gồm cả chất thải của con người và hộ gia đình, từ các nguồn dân cư, thương mại hoặc công nghiệp"
+        },
+        {
+            "id": "c1ea354c-25b8-4840-8778-57cbca70bd63",
+            "word": "possibility",
+            "phonetic": "pɑːsəbɪlᵻɾi ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "We are considering various possibilities.",
+                "Support the possibility of keeping a lid on tax increases.",
+                "The morning is a time of new beginnings and possibilities.",
+                "Moving to London is certainly a possibility - I wouldn't dismiss it out of hand.",
+                "Don't worry about the possibility of getting a flat tire on your road trip, never trouble trouble till trouble troubles you."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zc2liaWxpdHk&hash=fd66a315a10326be014c442651b431b803e68279&lang=en&cache-only=0",
+            "defineEn": "the quality of having the capacity to improve, succeed, or develop into something in the future",
+            "defineVi": "chất lượng có khả năng cải thiện, thành công hoặc phát triển thành một cái gì đó trong tương lai"
+        },
+        {
+            "id": "29c6b327-1400-4422-b647-97f6a99a0717",
+            "word": "to capture",
+            "phonetic": "tə kæptʃɚ ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "The colorful fish in the aquarium captured my attention.",
+                "The firm has captured the lion’s share of the UK market.",
+                "The talented artist painted a beautiful portrait of a woman, capturing her strength and inner beauty on the canvas.",
+                "I took a photo of the mountain peak, capturing its majestic beauty.",
+                "The photographer zoomed in on the flower to capture its intricate details."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gY2FwdHVyZQ&hash=7dc4eba13b3df86fe3161bd5086e520fadf55457&lang=en&cache-only=0",
+            "defineEn": "to catch an animal or a person and keep them as a prisoner",
+            "defineVi": "để bắt một con vật hoặc một người và giữ chúng như một tù nhân",
+            "hasImg": true
+        },
+        {
+            "id": "48a22f50-ed4b-4b79-a07a-3d296e09f04a",
+            "word": "possible",
+            "phonetic": "pɑːsᵻbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "It is possible that parents have lost sight of their children as a result of their own problems.",
+                "It is possible to go without food for a few days.",
+                "Sorry, it's not possible to lend you my car.",
+                "The CEO is meeting her opposite number at Fukuda Electronics to discuss a possible joint venture.",
+                "I think it's possible to find a balance, you know?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=cG9zc2libGU&hash=86d4c656da04e5a6c6c5bd2c624c7ffb4c0d74ef&lang=en&cache-only=0",
+            "defineEn": "able to exist, happen, or be done",
+            "defineVi": "có thể tồn tại, xảy ra, hoặc được thực hiện",
+            "hasImg": true
+        },
+        {
+            "id": "7a4bc667-a2c1-48b2-a08f-b9c42777521f",
+            "word": "discussion",
+            "phonetic": "dɪskʌʃən ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "These discussions held little interest for Lucy.",
+                "\"The discussion is closed.\"",
+                "The discussion was over my head.",
+                "He has already held discussions with Irish shareholders.",
+                "We had a very interesting discussion about climate change."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzY3Vzc2lvbg&hash=7462e6078d9f39e0669963b1a583dc20f139535e&lang=en&cache-only=0",
+            "defineEn": "a conversation with someone about a serious subject",
+            "defineVi": "một cuộc trò chuyện với ai đó về một chủ đề nghiêm túc",
+            "hasImg": true
+        },
+        {
+            "id": "adadb76b-7b28-405c-a04c-587bfa3391b3",
+            "word": "to discuss",
+            "phonetic": "tə dɪskʌs ",
+            "partOfSpeechType": "verb",
+            "examples": [
+                "We discuss current scientific advancements and discoveries in science class.",
+                "We discussed what punishment should be given to the boys.",
+                "We discussed our favorite movie scenes with our friends after watching a film.",
+                "The doctor made a call to the patient to discuss the test results.",
+                "The parents attended the school meeting to discuss their child's progress."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dG8gZGlzY3Vzcw&hash=baaa6cf9eccdbb91de3b23861d342c969b9a2728&lang=en&cache-only=0",
+            "defineEn": "to talk or have a discussion about something with someone",
+            "defineVi": "để nói chuyện hoặc có một cuộc thảo luận về một cái gì đó với một ai đó",
+            "hasImg": true
+        },
+        {
+            "id": "5253ed6a-817f-4cf7-84c2-72818b0eb913",
+            "word": "health",
+            "phonetic": "hɛlθ ",
+            "partOfSpeechType": "noun",
+            "examples": [
+                "Health services are lining the drug companies’ pockets, according to the report.",
+                "The presence of green algae in water bodies can indicate the health and balance of the ecosystem.",
+                "Years of smoking and drinking has taken a toll on her health.",
+                "Support your thyroid health by incorporating bladderwrack supplements into your daily routine.",
+                "Public education campaigns highlight potential health risks of consuming pink slime products."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhbHRo&hash=548e05f3da57f5ab1cf715323f420f0484dcb80f&lang=en&cache-only=0",
+            "defineEn": "the general condition of a person's mind or body",
+            "defineVi": "tình trạng chung của tâm trí hoặc cơ thể của một người"
+        },
+        {
+            "id": "e7dcbbb4-113a-486a-a437-c308975a91ac",
+            "word": "healthy",
+            "phonetic": "hɛlθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Try some dried apricots as a healthy snack.",
+                "For a healthier alternative, she replaced all-purpose flour with whole wheat flour in her muffin recipe.",
+                "I ate a delicious apple for a healthy snack.",
+                "He used rutabaga slices as a healthy alternative to tortillas.",
+                "He used swede slices as a healthier alternative to french fries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVhbHRoeQ&hash=7430efe180635d4e780bd8f65b1418c1ea652be5&lang=en&cache-only=0",
+            "defineEn": "not having physical or mental problems",
+            "defineVi": "không có vấn đề về thể chất hoặc tinh thần",
+            "hasImg": true
+        }
+    ]
+}

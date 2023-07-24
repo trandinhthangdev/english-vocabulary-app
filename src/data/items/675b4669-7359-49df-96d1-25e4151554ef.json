@@ -1,0 +1,815 @@
+{
+    "id": "675b4669-7359-49df-96d1-25e4151554ef",
+    "title": "Describing Health and Sickness",
+    "originalTitle": "Describing Health and Sickness",
+    "words": [
+        {
+            "id": "2a49fb62-55e7-4023-aa2c-f4903663cf88",
+            "word": "autoimmune",
+            "phonetic": "ɔːɾoʊɪmjuːn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Alisa Grishman, a Pittsburgh disability rights advocate, has six autoimmune diseases.",
+                "In other words, schizophrenia may be an autoimmune condition.",
+                "And for some autoimmune conditions, the disparity is even higher.",
+                "Decades of research has found a lot of overlap between schizophrenia and autoimmune diseases.",
+                "These are a hallmark of certain kinds of autoimmune disease."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXV0b2ltbXVuZQ&hash=d9782f2f83c5b800736fdc157b166efb016ed3d4&lang=en&cache-only=0",
+            "defineEn": "of or relating to the immune response of the body against substance normally present in the body",
+            "defineVi": "của hoặc liên quan đến phản ứng miễn dịch của cơ thể chống lại chất thường có trong cơ thể"
+        },
+        {
+            "id": "048354e7-20c4-4ee4-b5c1-349ab2b584c9",
+            "word": "communicable",
+            "phonetic": "kəmjuːnɪkəbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=Y29tbXVuaWNhYmxl&hash=5ce92c46e2f5bf504c43a6edaabb6506a69e0e1a&lang=en&cache-only=0",
+            "defineEn": "(of disease) capable of being transmitted by infection",
+            "defineVi": "(bệnh) có khả năng lây truyền qua nhiễm trùng",
+            "hasImg": true
+        },
+        {
+            "id": "11705e90-621d-4ccd-bb49-bb82120e15aa",
+            "word": "chronic",
+            "phonetic": "kɹɑːnɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "After months of chronic pain, Jake decided to go under the knife and have his knee joint replaced.",
+                "John had been putting off seeing a doctor about his chronic back pain, but finally took his wife's advice and made an appointment.",
+                "Another leading cause of memory problems is chronic stress.",
+                "Well, I have chronic pain.",
+                "Because I have chronic pain?"
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2hyb25pYw&hash=430bbaef6d03be2e11a7d9dc4a1bddd313e419d4&lang=en&cache-only=0",
+            "defineEn": "(of an illness) difficult to cure and long-lasting",
+            "defineVi": "(về bệnh) khó chữa và kéo dài"
+        },
+        {
+            "id": "8ee0caf4-af5f-4c02-924d-e4b5b3dbe63f",
+            "word": "catching",
+            "phonetic": "kætʃɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "That's because, in the U.S., Wild Atlantic Salmon is ENDANGERED, so CATCHING it is ILLEGAL."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2F0Y2hpbmc&hash=265c07f570f588242c940a91164bef99c4c2ac2b&lang=en&cache-only=0",
+            "defineEn": "(of disease or illness) likely to be transmitted from one person to another",
+            "defineVi": "(bệnh tật) có khả năng truyền từ người này sang người khác",
+            "hasImg": true
+        },
+        {
+            "id": "74d28f7e-eb97-47b1-83d8-0dcbe32b395c",
+            "word": "benign",
+            "phonetic": "bᵻnaɪn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Yes the freckles are benign!",
+                "But, in Asian myths, dragons are often benign.",
+                "There’s even a term for this: benign masochism.",
+                "See, sometimes, the BRAF mutation just causes benign moles instead of melanoma.",
+                "But inflation isn’t just some benign force."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YmVuaWdu&hash=ec6fbf6960185e52e60c14c56d992030d2789dd4&lang=en&cache-only=0",
+            "defineEn": "(of an ilness) not fatal or harmful",
+            "defineVi": "(của một căn bệnh) không gây tử vong hoặc có hại"
+        },
+        {
+            "id": "278aa22b-7c15-4885-af58-60165554bd62",
+            "word": "autistic",
+            "phonetic": "ɔːtɪstɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Michael stressed over the prospect of finding a new school for his autistic son yet again after two moves in three years, knowing that three moves are as bad as a fire for his son's specialized educational needs.",
+                "Autistic people live normal lives, fantastic lives.",
+                "I'm not autistic.",
+                "Also my friend Destiny is a deaf autistic artist.",
+                "This is common in autistic people, to my knowledge."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXV0aXN0aWM&hash=3d73925297a7c45c34d831820844a6cb0990ca3c&lang=en&cache-only=0",
+            "defineEn": "affected by or referring to autism",
+            "defineVi": "bị ảnh hưởng bởi hoặc đề cập đến bệnh tự kỷ"
+        },
+        {
+            "id": "aafa34a0-77f3-4950-b248-4bc51689716b",
+            "word": "asymptomatic",
+            "phonetic": "æsɪmptəmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Some are asymptomatic.",
+                "\"Asymptomatic people aren't contagious.\"",
+                "This mystery about asymptomatic COVID-19 has spurred a ton of research into the inner workings of our immune system.",
+                "By contrast, some asymptomatic people may have extra-robust interferons that throw a wrench into the virus’s plans early in the game.",
+                "We knew nothing about asymptomatic spread."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN5bXB0b21hdGlj&hash=f0066fdd0a5e897aef08f9d0992f407663430049&lang=en&cache-only=0",
+            "defineEn": "having no symptoms of illness or disease",
+            "defineVi": "không có triệu chứng ốm đau hoặc bệnh tật"
+        },
+        {
+            "id": "50618805-1d76-4ffe-90d6-159220088e93",
+            "word": "congenital",
+            "phonetic": "kəndʒɛnɪɾəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "We call that congenital esotropia.",
+                "Others have congenital prosopagnosia.",
+                "Luckily, such congenital conditions are very rare.",
+                "Sacks’s face blindness is congenital, but it may also be acquired through disease or injury to that same region of the brain.",
+                "Lea, now 35, was born with a congenital disability called osteogenesis imperfecta, or brittle bone disease."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29uZ2VuaXRhbA&hash=2867e8880bb9a5ff071b6824a2ced21ce64e2e4b&lang=en&cache-only=0",
+            "defineEn": "having a disease since birth but not necessarily hereditary",
+            "defineVi": "mắc bệnh từ khi sinh ra nhưng không nhất thiết là do di truyền"
+        },
+        {
+            "id": "e9f29a4a-819a-4eb3-8ffd-95b7590b1f19",
+            "word": "contagious",
+            "phonetic": "kənteɪdʒəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Even though she was fully aware of the risks, Susan refused to take the necessary precautions to prevent the spread of a contagious disease, proving that selfishness knows no bound.",
+                "The woman saw that when she smiled and greeted others warmly, they were more likely to respond in kind, recognizing that courtesy is contagious.",
+                "Pink eye is contagious.",
+                "Viral conjunctivitis is really, really contagious.",
+                "- Corruption is, in a way, contagious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y29udGFnaW91cw&hash=6e1354d01bdb54160c5ef020f1103d9285961e68&lang=en&cache-only=0",
+            "defineEn": "(of a disease) transmittable from one person to another through close contact",
+            "defineVi": "(về bệnh) có thể truyền từ người này sang người khác qua tiếp xúc gần gũi",
+            "hasImg": true
+        },
+        {
+            "id": "7efaf1bd-a8b2-4ff5-8016-511fab38aba4",
+            "word": "degenerative",
+            "phonetic": "dᵻdʒɛnɚɹətɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "And his bones bore the signs of painful degenerative joint disease throughout his right lower leg, possibly the result of a major injury to the right half of his body.",
+                "But the increased emphasis on the role of degenerative processes has brought a decades-old hypothesis back to the forefront.",
+                "When I later have a degenerative disease they'll say that was when they knew that.",
+                "He had a healed fracture in his right foot and a painful degenerative joint disease throughout that foot, ankle, and knee, possibly caused by some serious trauma to the right half of his body.",
+                "In fact, researchers know that an overload of subconcussive hits is linked to a degenerative brain disease known as Chronic Traumatic Encephalopathy, or CTE."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGVnZW5lcmF0aXZl&hash=9c84f89d34843dc957e7ff07fa1671b1237ea6b2&lang=en&cache-only=0",
+            "defineEn": "(of illness) marked by gradual deterioration of organs and cells along with loss of function",
+            "defineVi": "(bệnh tật) được đánh dấu bằng sự suy thoái dần dần của các cơ quan và tế bào cùng với sự mất chức năng"
+        },
+        {
+            "id": "1e1bd509-f622-4f14-886d-062910beba2f",
+            "word": "febrile",
+            "phonetic": "fɛbɹaɪl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "With the inability to identify coronavirus outside a test febrile screening's have become one of the only methods to quickly spot those who may be exhibiting symptoms of the virus.",
+                "False negatives means you're letting someone that's febrile or that has a fever into the facility.",
+                "Remember everyone who presents with a respiratory illness, everyone who presents with a febrile illness come the fall is going to get is going to need to get ruled out for covid first."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZmVicmlsZQ&hash=e28aefec08812df56a1b1c80713649e6b3c98acb&lang=en&cache-only=0",
+            "defineEn": "of or relating to or characterized by fever",
+            "defineVi": "của, liên quan đến hoặc đặc trưng bởi sốt",
+            "hasImg": true
+        },
+        {
+            "id": "bcf56265-8252-4c7c-b467-85bf74e6ac5b",
+            "word": "fulminant",
+            "phonetic": "fʊlmɪnənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=ZnVsbWluYW50&hash=a1baeab344b72a1153bc153a891efa5c603655b4&lang=en&cache-only=0",
+            "defineEn": "sudden and severe",
+            "defineVi": "đột ngột và nghiêm trọng"
+        },
+        {
+            "id": "0312101c-82ee-401d-adf0-7a4464eaa1f3",
+            "word": "incurable",
+            "phonetic": "ɪŋkjʊɹɹəbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Cancers become almost incurable once they metastasize.",
+                "In 1917, doctors proposed an outlandish treatment for syphilis, the incurable bacterial infection that had ravaged Europe for centuries.",
+                "In the paper, researchers looked into using VLRs to treat a kind of incurable brain cancer.",
+                "The effects are physical, mental, emotional and incurable.",
+                "And it’s one that researchers are fervently trying to solve, because it could reveal new ways of treating these usually incurable and often devastating conditions."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5jdXJhYmxl&hash=caadc402900a98bbd3e917b17651861120d957bf&lang=en&cache-only=0",
+            "defineEn": "(of a disease or a sick person) impossible to cure or unresponsive to treatment",
+            "defineVi": "(của một căn bệnh hoặc một người bệnh) không thể chữa khỏi hoặc không đáp ứng với điều trị"
+        },
+        {
+            "id": "6b30a6b4-1163-4a93-995c-c1edca976a8b",
+            "word": "infectious",
+            "phonetic": "ɪnfɛkʃəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Her infectious laughter and radiant smile made him crazy.",
+                "Some strains are far more infectious Reporter:",
+                "It is very infectious, though.",
+                "It might be infectious.",
+                "And it's infectious."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5mZWN0aW91cw&hash=82995e6b7340a9527843e4c5fad5f613806a008f&lang=en&cache-only=0",
+            "defineEn": "(of a disease or disease-causing organism) likely to be transmitted from one person, animal, or plant to another in a rapid manner",
+            "defineVi": "(của bệnh hoặc sinh vật gây bệnh) có khả năng truyền từ người, động vật hoặc thực vật này sang người khác một cách nhanh chóng",
+            "hasImg": true
+        },
+        {
+            "id": "8addecd5-90ee-4fc8-aa39-3c8c45791be5",
+            "word": "inflammatory",
+            "phonetic": "ɪnflæmətoːɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Your second line of defense is your inflammatory response.",
+                "Early-responding inflammatory cells, like neutrophils and macrophages, respond to the emergency call.",
+                "As inflammatory markers are higher in people with depression and bipolar disorder.",
+                "Because, really, the inflammatory response is essentially the initial field of battle of our immune system.",
+                "And at the end of the day, acne is an inflammatory condition."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aW5mbGFtbWF0b3J5&hash=7a8d6c9c7f821fb1fc83f1bfde7b3841e8748799&lang=en&cache-only=0",
+            "defineEn": "characterized or caused by inflammation",
+            "defineVi": "đặc trưng hoặc gây ra bởi viêm"
+        },
+        {
+            "id": "d450cc6b-79f8-49d9-9522-8724541fe987",
+            "word": "malignant",
+            "phonetic": "məlɪɡnənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Malignant cancers are complex systems that constantly evolve and adapt.",
+                "But when a cancer isn’t going to be malignant, treating it doesn’t really prevent anything.",
+                "Instead, they’re indolent: even though they’re malignant in the sense that they can spread between tissues, they spread so slowly that ultimately don’t cause symptoms.",
+                "The stem cells themselves are not cancerous, but these mutations can interfere with the process of differentiation and result in malignant blood cells.",
+                "The upside to all this is that widespread screening programs have helped scientists discover ways to distinguish between dangerous malignant cancers and harmless ones."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFsaWduYW50&hash=af74642ae1b522584a1c14b4b30c904dea192714&lang=en&cache-only=0",
+            "defineEn": "(of a tumor or disease) uncontrollable and likely to be fatal",
+            "defineVi": "(của một khối u hoặc bệnh) không thể kiểm soát và có khả năng gây tử vong"
+        },
+        {
+            "id": "b7ef83fb-aa8f-40d9-8081-dbfa656cddec",
+            "word": "mentally",
+            "phonetic": "mɛntəli ",
+            "partOfSpeechType": "adverb",
+            "examples": [
+                "He found the process of writing a book to be mentally consuming, as he was constantly thinking about the plot and characters.",
+                "The other team was eating us alive both physically and mentally.",
+                "How do you break someone psychologically, mentally, or emotionally?",
+                "I mentally patted myself on the back for managing to keep my cool.",
+                "Yesterday, she had felt like something the cat brought in after staying up all night studying, mentally drained and sleep-deprived."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWVudGFsbHk&hash=235f44f327ed730fa52d175cef4655386b2ae3f1&lang=en&cache-only=0",
+            "defineEn": "of or relating to one's mind",
+            "defineVi": "của hoặc liên quan đến tâm trí của một người"
+        },
+        {
+            "id": "e9ec9b80-90d6-4307-8bc1-bacc7f366162",
+            "word": "mild",
+            "phonetic": "maɪld ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The weather in this city is usually mild throughout the year.",
+                "Almond-leaved pear has a mild sweetness and a hint of almond taste.",
+                "I like the mild spiciness and crisp texture that green pepper adds to my omelettes.",
+                "His favorite season is spring, when the weather is mild and the flowers are in full bloom.",
+                "I'm not a fan of spicy foods, but I really enjoy the mild flavor of yellow capsicum."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWlsZA&hash=edabbd4ec8047d66b28e2d3c393a3788f3155b73&lang=en&cache-only=0",
+            "defineEn": "not much, serious, or strong",
+            "defineVi": "không nhiều, nghiêm trọng, hoặc mạnh mẽ",
+            "hasImg": true
+        },
+        {
+            "id": "a2de58f9-832d-4f9a-b939-bee23121fd56",
+            "word": "morbid",
+            "phonetic": "mɔːɹbɪd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Morbidity or morbid is a clinical term for disease state.",
+                "This is kinda morbid.",
+                "Primary is morbid fear of childbirth in a woman who has no previous experience of pregnancy.",
+                "You're like wow, we've introduced this very morbid notion to a whole generation.",
+                "Let's not get too morbid around here."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bW9yYmlk&hash=f845d50cc56067ccd9fec4b3ab6ab83b944c0142&lang=en&cache-only=0",
+            "defineEn": "caused by or altered by or manifesting disease or pathology",
+            "defineVi": "gây ra bởi hoặc bị thay đổi bởi hoặc biểu hiện bệnh hoặc bệnh lý"
+        },
+        {
+            "id": "098acc6c-a86a-486d-8b10-7ac9c25185cc",
+            "word": "pathological",
+            "phonetic": "pæθəlɑːdʒɪkəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Not every emotional response is pathological.",
+                "Not all fear or depressed mood is pathological.",
+                "So that's pathological lying.",
+                "And among those pathological bones, 2% are the result of trauma, like fractures.",
+                "A pathological level of problems with intimacy include having little desire for emotional closeness."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cGF0aG9sb2dpY2Fs&hash=953e4828fd7f9b13f292cde5412170162edceb45&lang=en&cache-only=0",
+            "defineEn": "relating to or caused by an illness or disease",
+            "defineVi": "liên quan đến hoặc gây ra bởi một căn bệnh hoặc bệnh tật"
+        },
+        {
+            "id": "70e1a1eb-79a6-41ca-a621-851b631c124e",
+            "word": "psychosomatic",
+            "phonetic": "saɪkoʊsəmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The apparent symptoms have been explained as everything from hormonal changes to a psychosomatic condition.",
+                "If they can't find a specific trigger or reason for the pain were told that it's not happening and that it's psychosomatic that we're doing in our head.",
+                "You know we talked before about psychosomatic symptoms, where something that's happening mentally for us can manifest itself physically."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cHN5Y2hvc29tYXRpYw&hash=a405e228190799352a210d7e9efe10ede3c1834f&lang=en&cache-only=0",
+            "defineEn": "(of a physical illness) caused or aggravated by mental factors, such as stress and anxiety",
+            "defineVi": "(của một căn bệnh thể chất) gây ra hoặc trầm trọng hơn bởi các yếu tố tinh thần, chẳng hạn như căng thẳng và lo lắng"
+        },
+        {
+            "id": "6a0f4ea0-1a26-493f-8779-6cca9be5b251",
+            "word": "quiescent",
+            "phonetic": "kwɪɛsənt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "And just like in most major galaxies, this black hole is currently quiescent.",
+                "These are called quiescent galaxies because at some point in the galaxy’s life, its star formation stopped.",
+                "Their autopsy revealed the characteristic signs of strangulation: the quiescent galaxies had much higher levels of heavy metals than the living, star-forming galaxies."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cXVpZXNjZW50&hash=e6d6aca699c736649a385c798dfd1ca93750ac22&lang=en&cache-only=0",
+            "defineEn": "(pathology) causing no symptoms",
+            "defineVi": "(bệnh học) không gây triệu chứng"
+        },
+        {
+            "id": "21adc9aa-3b6f-4f28-930b-cc5efd8e8378",
+            "word": "rheumatic",
+            "phonetic": "ɹuːmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cmhldW1hdGlj&hash=690aeb5d0735d6114586fe72ea64188822e6cbc0&lang=en&cache-only=0",
+            "defineEn": "of or pertaining to arthritis",
+            "defineVi": "của hoặc liên quan đến viêm khớp"
+        },
+        {
+            "id": "524d83bd-4c37-4762-baf0-f548662aa5cd",
+            "word": "terminal",
+            "phonetic": "tɜːmɪnəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The terminal has two MetroNap sleep pods.",
+                "Different objects have different terminal velocities, depending on their surface area, their mass, things like that.",
+                "But we have a terminal.",
+                "This is terminal velocity.",
+                "Terminal is KGX."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dGVybWluYWw&hash=a723d2925375f0970c007adef99a896f875a8ae5&lang=en&cache-only=0",
+            "defineEn": "(of an illness) having no cure and gradually leading to death",
+            "defineVi": "(của một căn bệnh) không có thuốc chữa và dần dần dẫn đến cái chết"
+        },
+        {
+            "id": "37f2fba2-23fd-43c5-822f-6e9b1345c957",
+            "word": "tubercular",
+            "phonetic": "tuːbɚkjʊlɚ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Plus, it was just kind of a tubercular era, so I thought I would try to capture it by bringing you my husky voice."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dHViZXJjdWxhcg&hash=17d43d22a8b384f6e4aa0d13b29bd2ea742e4fbb&lang=en&cache-only=0",
+            "defineEn": "relating to or suffering from tuberculosis, a severe and contagious infection that mainly affects one's lungs",
+            "defineVi": "liên quan đến hoặc mắc bệnh lao, một bệnh nhiễm trùng nặng và dễ lây lan, chủ yếu ảnh hưởng đến phổi của một người"
+        },
+        {
+            "id": "12f1a341-8f41-4ebe-bcc1-6005f4eab11e",
+            "word": "aggressive",
+            "phonetic": "ɐɡɹɛsɪv ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The company's ex-CEO was known for his aggressive management style.",
+                "The normally reserved and polite man became aggressive and confrontational when he was drunk, revealing a darker side of his personality.",
+                "The two lawyers were both known for their aggressive tactics, so when they faced each other in court, it was a case of when Greek meets Greek, then comes the tug of war.",
+                "The squirrels got aggressive, a hallmark of frustration.",
+                "Windows updates are notoriously aggressive."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWdncmVzc2l2ZQ&hash=15a2ec45fe228ea2b8111bffb2241d4276121e5f&lang=en&cache-only=0",
+            "defineEn": "(of sickness or disease) tending to spread in a rapid manner",
+            "defineVi": "(bệnh tật) có xu hướng lây lan nhanh chóng"
+        },
+        {
+            "id": "17b02632-8f70-47b5-916c-884aa16e9a73",
+            "word": "allergic",
+            "phonetic": "ɐlɜːdʒɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Lots of people are allergic to it.",
+                "Most people are just allergic to it.",
+                "I'm allergic.",
+                "In a clinical trial, one in four patients developed severe allergic reactions to the drug.",
+                "I'm allergic to nothing."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YWxsZXJnaWM&hash=714ef9d82331134de397a3d30af2a16596581b5c&lang=en&cache-only=0",
+            "defineEn": "caused by or relating to allergy",
+            "defineVi": "gây ra bởi hoặc liên quan đến dị ứng"
+        },
+        {
+            "id": "c8f485bc-5fec-4e6e-acd5-2cbed8302103",
+            "word": "anemic",
+            "phonetic": "ɐniːmɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=YW5lbWlj&hash=0d3690ee9ff65867c74b9bd24caccce79d587e21&lang=en&cache-only=0",
+            "defineEn": "relating to or suffering from anemia (having decreased number of blood cells circulating the body and carrying oxygen)",
+            "defineVi": "liên quan đến hoặc bị thiếu máu (giảm số lượng tế bào máu lưu thông trong cơ thể và mang oxy)"
+        },
+        {
+            "id": "1162264c-5ed2-4368-ab27-1331536bafb7",
+            "word": "asthmatic",
+            "phonetic": "æzmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "These medications help asthmatics both control and prevent their asthma symptoms.",
+                "If an asthmatic is exposed to a trigger, the smooth rings of muscle that circle the small airways in their lungs contract and become narrow."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YXN0aG1hdGlj&hash=226fc7a6859d01dc13134eb007e9f4ae9a174e1d&lang=en&cache-only=0",
+            "defineEn": "relating to breathing with a whistling sound",
+            "defineVi": "liên quan đến hơi thở với một âm thanh huýt sáo"
+        },
+        {
+            "id": "ab117a5b-26d7-42df-8d97-ed5a8715667e",
+            "word": "diabetic",
+            "phonetic": "daɪəbɛɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Most diabetics need two to four vials per month.",
+                "Alec’s official cause of death was diabetic ketoacidosis.",
+                "Some diabetics live day-to-day and week-to-week on supplies.",
+                "I'm diabetic, man.",
+                "Many diabetics, not all diabetics, but many diabetics need to take insulin daily."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlhYmV0aWM&hash=556d53f0a7285cf9f8343240402215b795e66cf5&lang=en&cache-only=0",
+            "defineEn": "of or relating to or causing diabetes",
+            "defineVi": "của, liên quan đến hoặc gây ra bệnh tiểu đường"
+        },
+        {
+            "id": "6b3b28e8-9d6d-46d1-936d-89cf67331f82",
+            "word": "diseased",
+            "phonetic": "dɪziːzd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "And this is the diseased side.",
+                "Or it could be a toxin or a diseased cell within your own body.",
+                "And as you can imagine, this increases the level of health hazards in your home when you have diseased animals living there.",
+                "These birds have evolved the lowest gastric pH in the animal kingdom, allowing them to digest diseased carrion and waste without becoming sick.",
+                "Some scientists have noticed links between various infections and Alzheimer’s disease, like that some infections can cause plaques to form in animal models, or that certain microbes show up more often in diseased brains."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZGlzZWFzZWQ&hash=7c3dbe7eac400d3083beea06f7e60d449fd8912b&lang=en&cache-only=0",
+            "defineEn": "caused or affected by a disease",
+            "defineVi": "gây ra hoặc bị ảnh hưởng bởi một căn bệnh",
+            "hasImg": true
+        },
+        {
+            "id": "0113f6bf-bda1-41bb-a2b6-27abe61bbef6",
+            "word": "emaciated",
+            "phonetic": "iːmeɪsɪeɪɾᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Represented in Taino carvings and figurines with a swollen back and emaciated arms, the caracaracol is both cursed and blessed to be a conduit between worlds.",
+                "They have a heart made of ice—--and despite their unending hunger for human flesh, they remain emaciated.",
+                "That was just a mild little remark to lead up to the fact that I lost 20 plus pounds before I shot this movie partly because I wanted to look you know, emaciated and ill and old, which Charles Xavier is in this movie, but I was also thinking a little bit about Mr. Jackman and you know there is one moment and it's not done with a cut."
+            ],
+            "audio": "https://tts.langeek.co/read?text=ZW1hY2lhdGVk&hash=f180f8aee61a07fd65ad071a65cf6fcd7eda7627&lang=en&cache-only=0",
+            "defineEn": "looking thin, pale, or exhausted due to prolonged period of suffering, anxiety, or starvation",
+            "defineVi": "trông gầy gò, xanh xao hoặc kiệt sức do đau khổ, lo lắng hoặc đói khát kéo dài",
+            "hasImg": true
+        },
+        {
+            "id": "5e2007a5-f64c-4c60-be5a-d3721a05e7f4",
+            "word": "life-limiting",
+            "phonetic": "laɪflɪmɪɾɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bGlmZS1saW1pdGluZw&hash=0c516e631456309518ca62776558754f79728068&lang=en&cache-only=0",
+            "defineEn": "denoting an incurable chronic illness or a medical condition that will eventually lead to patient's death",
+            "defineVi": "biểu thị một căn bệnh mãn tính không thể chữa khỏi hoặc một tình trạng y tế cuối cùng sẽ dẫn đến cái chết của bệnh nhân"
+        },
+        {
+            "id": "6cf6fbe0-c9c2-4e0b-81a9-c08aba65ae14",
+            "word": "malarial",
+            "phonetic": "mælɛɹɪəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Step 2: Hope that malarial fevers clear the syphilis."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bWFsYXJpYWw&hash=5a06edee346456cd03a2430df8116b1ed7159944&lang=en&cache-only=0",
+            "defineEn": "of or infected by malaria, a chronic disease that is caused by the bite of specific types of mosquito",
+            "defineVi": "bị hoặc bị nhiễm bệnh sốt rét, một căn bệnh mãn tính gây ra bởi vết cắn của một số loại muỗi"
+        },
+        {
+            "id": "7d6bc85d-8930-4594-9339-e82c8980d76a",
+            "word": "nauseous",
+            "phonetic": "nɔːsɪəs ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "After the heavy drinking session, Mark woke up feeling nauseous.",
+                "After eating some expired seafood, Mark felt extremely nauseous and eventually had to rush to the bathroom to toss his cookies.",
+                "After eating the spoiled food, John felt nauseous and ended up puking his guts out.",
+                "After eating the questionable seafood, Tom started to feel nauseous and appeared green around the gills.",
+                "- I'm feeling nauseous."
+            ],
+            "audio": "https://tts.langeek.co/read?text=bmF1c2VvdXM&hash=ed98ed6556b76bc96848c8b78767e31114c15488&lang=en&cache-only=0",
+            "defineEn": "causing or able to cause nausea",
+            "defineVi": "gây ra hoặc có thể gây buồn nôn"
+        },
+        {
+            "id": "2fce1595-6a9c-4b6a-a3bd-ea6582695745",
+            "word": "viral",
+            "phonetic": "vaɪɚɹəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The product launch went out with a bang, with a viral social media campaign and record-breaking sales numbers.",
+                "The social media influencer is in the limelight for their latest viral post.",
+                "The viral video that captured a dog riding a skateboard became a one-day wonder, quickly spreading across social media and garnering millions of views.",
+                "After a series of failed albums, Emily's music career got a new lease on life when her latest single became a viral sensation.",
+                "The viral internet meme that gained immense popularity for a brief period became a ten-day wonder, with people sharing and referencing it widely before it faded from the online spotlight."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlyYWw&hash=49aa2146ced8848201a3308263d20b10eaf1b567&lang=en&cache-only=0",
+            "defineEn": "of, related to, or caused by a virus or viruses",
+            "defineVi": "của, liên quan đến, hoặc do vi-rút hoặc vi-rút gây ra",
+            "hasImg": true
+        },
+        {
+            "id": "4b7bfcd4-9fb0-469f-bbb3-4654b10c243c",
+            "word": "virulent",
+            "phonetic": "vɪɹələnt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Wickliffe was the leader of the virulent pro-slavery movement.",
+                "In particularly virulent cases, this damage can be lethal.",
+                "But it wasn’t a virulent flu or poorly-chosen mushrooms that caused their deaths.",
+                "Fortunately, while Ebola is highly virulent, several factors limit its contagiousness.",
+                "It wasn't particularly virulent, so that the number of deaths in 2009 among the general population was even less than a regular seasonal flu, even though there were many, many more infections."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dmlydWxlbnQ&hash=0543cd0a049c796d93578e895d9950317c3200b9&lang=en&cache-only=0",
+            "defineEn": "infectious; having the ability to cause disease",
+            "defineVi": "truyền nhiễm; có khả năng gây bệnh"
+        },
+        {
+            "id": "bf12fd31-2b63-45b6-9fa2-300ed83a2cb1",
+            "word": "notifiable",
+            "phonetic": "noʊɾɪfaɪəbəl ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=bm90aWZpYWJsZQ&hash=1ba282f5fc8716d9a215d67e0e7026539347b9d4&lang=en&cache-only=0",
+            "defineEn": "(of a disease or a crime) so chronic or serious that requires official notification and must be reported to the appropriate authorities",
+            "defineVi": "(về bệnh tật hoặc tội phạm) mãn tính hoặc nghiêm trọng đến mức cần phải thông báo chính thức và phải được báo cáo cho cơ quan có thẩm quyền thích hợp"
+        },
+        {
+            "id": "416b7caa-301c-49d7-a879-fd0faf178a1d",
+            "word": "peaky",
+            "phonetic": "piːki ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGVha3k&hash=56e1e73c2856a5d249b8f6ea07965e4a54241e82&lang=en&cache-only=0",
+            "defineEn": "looking pale or being slightly ill",
+            "defineVi": "trông nhợt nhạt hoặc hơi ốm"
+        },
+        {
+            "id": "5bd66e42-4c33-439c-93fc-5e714a6d9556",
+            "word": "celiac",
+            "phonetic": "sɛliæk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Celiac disease is present in one in every 100 to 200 persons in the U.S. When blood tests suggest the possibility of celiac, the diagnosis is confirmed with a biopsy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Y2VsaWFj&hash=9ba3ab5f71ee088cf5ac4a05b06b1246db19bb97&lang=en&cache-only=0",
+            "defineEn": "affected by or belonging to celiac disease, a serious autoimmune disease and a digestive disorder that is triggered by eating foods that contain gluten",
+            "defineVi": "bị ảnh hưởng hoặc thuộc về bệnh celiac, một bệnh tự miễn dịch nghiêm trọng và rối loạn tiêu hóa do ăn thực phẩm có chứa gluten"
+        },
+        {
+            "id": "c2898e97-60a0-4746-9bfa-67f8de933e54",
+            "word": "symptomatic",
+            "phonetic": "sɪmptəmæɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "And then, over the summer, I had a complete symptomatic relapse.",
+                "Moderna and BioNTech looked for any symptomatic COVID-19 after two doses of vaccine or placebo shots, and counted those as cases in their trials.",
+                "In the largest COVID vaccine trial yet, AstraZeneca's was 79 percent effective in preventing symptomatic infections.",
+                "It's 79 percent effective at preventing symptomatic infections, and 25 million people in Europe have already received it.",
+                "And if you're in the symptomatic stage you should certainly have virus that's enough there to detect."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3ltcHRvbWF0aWM&hash=ad982b3f522b6e81e898641c609a77a073bf7548&lang=en&cache-only=0",
+            "defineEn": "characteristic or indicative of a disease",
+            "defineVi": "đặc trưng hoặc dấu hiệu của bệnh"
+        },
+        {
+            "id": "d943e364-27c4-45fa-8b0c-c64e22a1c3eb",
+            "word": "wasted",
+            "phonetic": "weɪstᵻd ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "And that means less wasted concrete!",
+                "That’s a lot of wasted iron!",
+                "Even a little bit of dripping can add up to a lot of wasted water. ",
+                "So, yeah, that's a lot of wasted energy.",
+                "But it's a lot of wasted energy."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2FzdGVk&hash=25d05d8e825b2bfb80a974701b5db3c81b5113ad&lang=en&cache-only=0",
+            "defineEn": "weak and thin, especially as a result of old age or an illness",
+            "defineVi": "yếu và gầy, đặc biệt là do tuổi già hoặc bệnh tật"
+        },
+        {
+            "id": "3b6a2b6a-5e53-4f08-ac9e-4ed1e5f5d0f8",
+            "word": "undernourished",
+            "phonetic": "ʌndɚnɜːɹɪʃt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "For some of the groups transitioning to agriculture the variation in their diets declined drastically and some even seem to have been undernourished.",
+                "And here's where the really is some happiness and peace and puppies and rainbows: there are fewer undernourished people today than there ever have been at any point in centuries."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5kZXJub3VyaXNoZWQ&hash=740071a17329efaab973175981a36285921b02b4&lang=en&cache-only=0",
+            "defineEn": "not adequately fed or nourished therefore in bad health",
+            "defineVi": "không được cho ăn hoặc nuôi dưỡng đầy đủ do đó sức khỏe kém",
+            "hasImg": true
+        },
+        {
+            "id": "96d1d1ee-d8cf-496f-a701-74f92cd47dfe",
+            "word": "unfit",
+            "phonetic": "ʌnfɪt ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "\"Your parents were unfit!\"",
+                "Unfit species die out.",
+                "Yucca Mountain is unfit as a repository site for nuclear waste because of the impact it would have on national transportation.",
+                "This man, Trump, is simply unfit to serve as president, to serve as the commander-in-chief.",
+                "In policing, the physical demands are unpredictable, and it's difficult to do your job well or safely if you are unfit."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5maXQ&hash=a70130b14bdec6ea0bb8d1f400731e2229de9fba&lang=en&cache-only=0",
+            "defineEn": "incapable of doing something due to being ill or not in a good physical condition",
+            "defineVi": "không có khả năng làm một cái gì đó do bị bệnh hoặc không ở trong tình trạng thể chất tốt"
+        },
+        {
+            "id": "ecc13137-a3e2-4ead-aea8-bd02caccd816",
+            "word": "unhealthy",
+            "phonetic": "ʌnhɛlθi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "He saw that his unhealthy habits were influencing his children's behavior, as like breeds like.",
+                "Due to his sedentary lifestyle and unhealthy eating habits, John started experiencing middle-aged spread in his 40s, resulting in a noticeable increase in his waistline.",
+                "Ignoring warning signs of a heart attack and continuing to smoke and eat unhealthy foods is asking for a heart attack and can increase the likelihood of serious health problems.",
+                "Nina's modeling career pressured her to be as skinny as a rail, leading to unhealthy habits.",
+                "She is letting herself go by neglecting her exercise routine and indulging in unhealthy eating habits, which is affecting her overall well-being."
+            ],
+            "audio": "https://tts.langeek.co/read?text=dW5oZWFsdGh5&hash=cf02b41b04d7a1b9c7c072f05814dc41b9ffa626&lang=en&cache-only=0",
+            "defineEn": "not having a good physical or mental condition",
+            "defineVi": "không có tình trạng thể chất hoặc tinh thần tốt",
+            "hasImg": true
+        },
+        {
+            "id": "e68d17a1-1e8f-473a-8680-29f74dd0b3e2",
+            "word": "weak",
+            "phonetic": "wiːk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "The success of a business is only as great as the least successful department within it, as a chain is only as strong as its weakest link.",
+                "She said hello to me and I went weak in the knees.",
+                "Tim had been sick for a week, and he was still as weak as a kitten.",
+                "But the problem is that Lady Macbeth states that Macbeth is weak for having too much milk of human kindness.",
+                "The announcement made me weak at the knees."
+            ],
+            "audio": "https://tts.langeek.co/read?text=d2Vhaw&hash=3e38a2e6acb92d4ac8666c7b7e35abf0b8451567&lang=en&cache-only=0",
+            "defineEn": "not physically strong; having little energy or physical strength",
+            "defineVi": "thể chất không cường tráng; có ít năng lượng hoặc sức mạnh thể chất",
+            "hasImg": true
+        },
+        {
+            "id": "5772be40-50db-4227-82f6-70a081616099",
+            "word": "run-down",
+            "phonetic": "ɹʌndaʊn ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "One family Mazen helps, the Ibrahims, live in a three-room apartment in the run-down Jabu Mohsen (ph) neighborhood."
+            ],
+            "audio": "https://tts.langeek.co/read?text=cnVuLWRvd24&hash=3af7c31ecea346cc5caa703ca805e81ea4b5fb82&lang=en&cache-only=0",
+            "defineEn": "feeling exhausted, unwell, or slightly ill, particularly after an intense physical activity",
+            "defineVi": "cảm thấy kiệt sức, không khỏe hoặc hơi ốm, đặc biệt là sau một hoạt động thể chất cường độ cao"
+        },
+        {
+            "id": "f84ea03f-ea19-4d40-a8bf-c1e04e24d727",
+            "word": "seasick",
+            "phonetic": "siːsɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Despite his efforts to hide it, John felt seasick on the boat and seemed green about the gills.",
+                "I was seasick as a dog, just throwing up and retching and \"Get me off!\"",
+                "Chuck was seasick the entire five years.",
+                "Well I was never seasick again, strange enough.",
+                "It’s enough to make anyone seasick!"
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2Vhc2ljaw&hash=169126669bf52695f4a6b42d7eb7de685d11d590&lang=en&cache-only=0",
+            "defineEn": "feeling sick or nauseous due to the motion of the ship or boat one is traveling with",
+            "defineVi": "cảm thấy buồn nôn hoặc buồn nôn do chuyển động của tàu hoặc thuyền mà người đó đang đi cùng",
+            "hasImg": true
+        },
+        {
+            "id": "3a8a0c08-e8b4-43d5-ae3e-bc9765e99a9d",
+            "word": "sick",
+            "phonetic": "sɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "I'm sick of your foolishness.",
+                "I'm sick of your foolishness.",
+                "You get sick to the back teeth with it.",
+                "I am sick to death of hearing your excuses.",
+                "He was sick of being the butt of their jokes."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c2ljaw&hash=a5805361affec775c355800f4876dd6d23f4860c&lang=en&cache-only=0",
+            "defineEn": "not in a good and healthy physical or mental state",
+            "defineVi": "không ở trạng thái thể chất hoặc tinh thần tốt và khỏe mạnh",
+            "hasImg": true
+        },
+        {
+            "id": "7fb2b2e7-c0db-4c7b-9fde-e74c5f61b051",
+            "word": "splitting",
+            "phonetic": "splɪɾɪŋ ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Splitting footage allows you to edit different parts of the same footage.",
+                "Splitting in half repeatedly like this has a logarithmic relationship with the number of items - trust me!",
+                "It's the splitting of the nucleus or the replication of the nucleus into two separate nucleuses.",
+                "And each of these have the same exact genetic complement as that first zygote, and it keeps splitting.",
+                "So by the end of telophase I, you have the actual cytoplasm splitting during telophase right there, and the nuclear envelope is forming."
+            ],
+            "audio": "https://tts.langeek.co/read?text=c3BsaXR0aW5n&hash=7b5d69d686cf71a1cad42f809da0cd821bbf2d0b&lang=en&cache-only=0",
+            "defineEn": "(of a headache) severe or massive",
+            "defineVi": "(đau đầu) nghiêm trọng hoặc ồ ạt",
+            "hasImg": true
+        },
+        {
+            "id": "4680e623-c0d2-414f-8c68-3f09cf7186b8",
+            "word": "hereditary",
+            "phonetic": "hɚɹɛdətɛɹi ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "[Narrator] Unlike DNA changes to RNA are not hereditary.",
+                "This limitation is strictly hereditary no cats can open treat bags with their thumbs because no cats have opposable thumbs.",
+                "Based on current research, this condition is likely hereditary and also involves the FFA, but scientists are still looking into that.",
+                "The Abbasids kept the idea of a hereditary monarchy, but they moved the capital of the empire to Baghdad, and they were much more welcoming of other non-Arab Muslims into positions of power.",
+                "They actually remain conscious the whole time, but thanks to a hereditary genetic disorder their muscles often fail to relax after contracting thanks to a mutation in a muscle chloride channel."
+            ],
+            "audio": "https://tts.langeek.co/read?text=aGVyZWRpdGFyeQ&hash=4acd2294ad25ac829bc019ba711e4d20d42aef36&lang=en&cache-only=0",
+            "defineEn": "(of a disease or characteristic) able to be passed on to a child through the genes of its parents",
+            "defineVi": "(của một căn bệnh hoặc đặc điểm) có thể được truyền cho một đứa trẻ thông qua gen của cha mẹ nó",
+            "hasImg": true
+        },
+        {
+            "id": "32755f7d-8ace-4e8d-98a5-ed7bb2a0dc93",
+            "word": "genetic",
+            "phonetic": "dʒɪnɛɾɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "Brown algae have complex life cycles with genetic diversity.",
+                "Genetic conditions like diabetes and high blood pressure often run in families, and it's important to be aware of your family history for early detection and prevention.",
+                "Alex's genetics make him prone to premature aging, and he often looks like he's on the wrong side of sixty, even though he's in his fifties.",
+                "Genetics are a part of it.",
+                "The last comparison is genetics."
+            ],
+            "audio": "https://tts.langeek.co/read?text=Z2VuZXRpYw&hash=1be0922e89e5e74943d108b0e81ac00d84b198df&lang=en&cache-only=0",
+            "defineEn": "(of diseases) passed on from one's parents; related to genes",
+            "defineVi": "(về bệnh tật) do cha mẹ truyền lại; liên quan đến gen",
+            "hasImg": true
+        },
+        {
+            "id": "4041ed0a-ad24-4405-a982-f75a7098452d",
+            "word": "anorexic",
+            "phonetic": "ænoːɹɛksɪk ",
+            "partOfSpeechType": "adjective",
+            "examples": [
+                "You're anorexic.",
+                "I think they're anorexic.",
+                "Sometimes the two diagnoses can be difficult to discern, especially because someone may shift back and forth between anorexic diagnostic features and bulimic diagnostic features.",
+                "A bulimic body may not be as obviously underweight as an anorexic one, but that addictive cycle of binging and purging can seriously damage the whole digestive system, leading to irregular heartbeat, inflammation of the esophagus and mouth, tooth decay and staining, irregular bowel movements, peptic ulcers, pancreatitis, and other organ damage."
+            ],
+            "audio": "https://tts.langeek.co/read?text=YW5vcmV4aWM&hash=e877777baad287ece7a49bd2ef9504d6908c4290&lang=en&cache-only=0",
+            "defineEn": "involving or suffering from anorexia",
+            "defineVi": "liên quan hoặc mắc chứng chán ăn"
+        },
+        {
+            "id": "6d34bdc9-51da-41fd-8261-23808769fc98",
+            "word": "pinched",
+            "phonetic": "pɪntʃt ",
+            "partOfSpeechType": "adjective",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=cGluY2hlZA&hash=cd7968ab2122497dd1120dacc1b283484615cb2f&lang=en&cache-only=0",
+            "defineEn": "extremely emaciated, particularly due to illness, lack of food, or exposure to cold",
+            "defineVi": "cực kỳ hốc hác, đặc biệt là do bệnh tật, thiếu ăn hoặc tiếp xúc với lạnh"
+        },
+        {
+            "id": "0e70e52c-a741-4b7b-bcb6-69bb5b9f6844",
+            "word": "sea legs",
+            "phonetic": "siː lɛɡz ",
+            "partOfSpeechType": "noun",
+            "examples": [],
+            "audio": "https://tts.langeek.co/read?text=c2VhIGxlZ3M&hash=dcfef8809d7138e654e71cb44d5c05b8ad3cc80e&lang=en&cache-only=0",
+            "defineEn": "an individual's ability to walk without stumbling and resist getting seasick while on a moving ship",
+            "defineVi": "khả năng của một cá nhân để đi bộ mà không vấp ngã và chống say sóng khi ở trên một con tàu đang di chuyển"
+        }
+    ]
+}
