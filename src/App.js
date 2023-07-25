@@ -2,9 +2,9 @@ import data from "./data/data.json";
 import { useState } from "react";
 import SubCategory from "./components/SubCategory";
 import { IoIosArrowBack } from "react-icons/io";
-import {BsFillPrinterFill} from "react-icons/bs"
+import { BsFillPrinterFill } from "react-icons/bs";
 import LogoIcon from "./assets/logo.png";
-import {Link} from "react-router-dom";
+import { Link } from "react-router-dom";
 const App = (props) => {
     const [categoryActive, setCategoryActive] = useState(null);
     const [subCategory, setSubCategoryActive] = useState(null);
@@ -13,10 +13,14 @@ const App = (props) => {
         <div className="flex bg-white text-gray-800">
             <div className="w-[300px] max-md:w-full h-[100vh] flex flex-col">
                 <div
-                    className="flex items-center justify-center cursor-pointer"
+                    className="flex flex-col items-center p-1 cursor-pointer"
                     onClick={() => setCategoryActive(null)}
                 >
-                    <img className="h-[50px]" src={LogoIcon} />
+                    <img className="w-[36px] h-[36px]" src={LogoIcon} />
+                    <div className="text-sm font-bold">
+                        English Vocabulary App
+                    </div>
+                    <div className="text-xs italic">@trandinhthangdev</div>
                 </div>
                 <div className="flex-1 overflow-y-auto">
                     {data.map((item, index) => {
@@ -84,8 +88,11 @@ const App = (props) => {
                         <div className="text-xl font-bold flex-1">
                             {categoryActive.title}
                         </div>
-                        <Link to={`/print-word-in-category/${categoryActive.id}`} className="cursor-pointer mr-4">
-                                <BsFillPrinterFill className="text-2xl text-blue-400"/>
+                        <Link
+                            to={`/print-word-in-category/${categoryActive.id}`}
+                            className="cursor-pointer mr-4"
+                        >
+                            <BsFillPrinterFill className="text-2xl text-blue-400" />
                         </Link>
                     </div>
                     <div className="flex-1 overflow-y-auto px-4">
