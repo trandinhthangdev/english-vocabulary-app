@@ -3,6 +3,7 @@ import { useState } from "react";
 import SubCategory from "./components/SubCategory";
 import { IoIosArrowBack } from "react-icons/io";
 import { BsFillPrinterFill } from "react-icons/bs";
+import {FcList} from "react-icons/fc";
 import LogoIcon from "./assets/logo.png";
 import { Link } from "react-router-dom";
 const App = (props) => {
@@ -100,6 +101,12 @@ const App = (props) => {
                             className="cursor-pointer mr-4"
                         >
                             <BsFillPrinterFill className="text-2xl text-blue-400" />
+                        </Link>
+                        <Link
+                            to={`/print-word-list-in-category/${categoryActive.id}`}
+                            className="cursor-pointer mr-4"
+                        >
+                            <FcList className="text-2xl text-blue-400" />
                         </Link>
                     </div>
                     <div className="flex-1 overflow-y-auto px-4">

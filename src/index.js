@@ -11,6 +11,7 @@ import {
 } from "react-router-dom";
 import ViewTableWord from "./components/ViewTableWord";
 import PrintWordInCategory from "./components/PrintWordInCategory";
+import PrintWordListInCategory from "./components/PrintWordListInCategory";
 const router = createBrowserRouter([
     {
         path: "/",
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
     {
         path: "/print-word-in-category/:id",
         element: <PrintWordInCategory />,
+    },
+    {
+        path: "/print-word-list-in-category/:id",
+        element: <PrintWordListInCategory />,
     },
 ]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
