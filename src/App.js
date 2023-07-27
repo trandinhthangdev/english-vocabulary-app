@@ -60,8 +60,15 @@ const App = (props) => {
                                                                 src={require(`./assets/categories/${itemCat.id}.png`)}
                                                             />
                                                         </div>
-                                                        <div className="pl-2 text-gray-700">
-                                                            {itemCat.title}
+                                                        <div className="flex-1 pl-2 flex flex-col items-start">
+                                                            <div className="text-gray-700">
+                                                                {itemCat.title}
+                                                            </div>
+                                                            <div className="font-bold italic text-blue-600">
+                                                                {
+                                                                    itemCat.nbWords
+                                                                }
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 );

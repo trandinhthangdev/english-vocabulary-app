@@ -25,19 +25,28 @@ const PrintWordInCategory = (props) => {
                             Shadowing English App
                         </div>
                         <div className="text-xs italic">@trandinhthangdev</div>
-                    </div>{" "}
+                    </div>
                 </Link>
             </div>
             <table className="table-auto">
                 <tbody>
                     <tr>
-                        <th
+                        <td
                             colSpan={2}
                             align="center"
                             className="text-[24px] font-bold"
                         >
                             {data.title}
-                        </th>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td
+                            colSpan={2}
+                            align="center"
+                            className="text-[18px] font-bold text-blue-500"
+                        >
+                            {data.nbWords}
+                        </td>
                     </tr>
                     {data.items.map((item) => {
                         return (
