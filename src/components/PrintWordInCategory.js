@@ -57,9 +57,13 @@ const PrintWordInCategory = (props) => {
                                         align="center"
                                         className="text-[18px] font-bold py-4"
                                     >
-                                        {item.title}
+                                        {item.title}{" "}
+                                        <span className="text-blue-500">
+                                            ({item.nbWords})
+                                        </span>
                                     </td>
                                 </tr>
+
                                 <SubCategoryItem id={item.id} />
                             </>
                         );
