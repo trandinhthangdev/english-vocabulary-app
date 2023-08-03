@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, {useEffect, useState} from "react";
 import { Link, useParams } from "react-router-dom";
 import SubCategoryItem from "./SubCategoryItem";
 import LogoIcon from "../assets/logo.png";

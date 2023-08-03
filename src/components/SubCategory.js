@@ -98,30 +98,30 @@ const SubCategory = (props) => {
                     <CiViewTable />
                 </Link> */}
             </div>
-            <div className="flex items-center justify-center px-4">
-                {steps.map((step, index) => {
-                    return (
-                        <>
-                            <div
-                                className={`h-full cursor-pointer flex flex-col items-center px-2 py-1 rounded-lg max-sm:text-sm ${
-                                    currentStep === step.code
-                                        ? "bg-blue-300 text-white"
-                                        : ""
-                                }`}
-                                onClick={() => {
-                                    setCurrentStep(step.code);
-                                }}
-                            >
-                                <step.icon className="text-xl max-sm:text-sm" />
-                                <div className="text-center">{step.name}</div>
-                            </div>
-                            {index !== steps.length - 1 && (
-                                <div className="w-[50px] h-[5px] bg-blue-300"></div>
-                            )}
-                        </>
-                    );
-                })}
-            </div>
+            {/*<div className="flex items-center justify-center px-4">*/}
+            {/*    {steps.map((step, index) => {*/}
+            {/*        return (*/}
+            {/*            <>*/}
+            {/*                <div*/}
+            {/*                    className={`h-full cursor-pointer flex flex-col items-center px-2 py-1 rounded-lg max-sm:text-sm ${*/}
+            {/*                        currentStep === step.code*/}
+            {/*                            ? "bg-blue-300 text-white"*/}
+            {/*                            : ""*/}
+            {/*                    }`}*/}
+            {/*                    onClick={() => {*/}
+            {/*                        setCurrentStep(step.code);*/}
+            {/*                    }}*/}
+            {/*                >*/}
+            {/*                    <step.icon className="text-xl max-sm:text-sm" />*/}
+            {/*                    <div className="text-center">{step.name}</div>*/}
+            {/*                </div>*/}
+            {/*                {index !== steps.length - 1 && (*/}
+            {/*                    <div className="w-[50px] h-[5px] bg-blue-300"></div>*/}
+            {/*                )}*/}
+            {/*            </>*/}
+            {/*        );*/}
+            {/*    })}*/}
+            {/*</div>*/}
             <div className="flex-1 overflow-y-auto p-4">
                 {showStepContent()}
             </div>

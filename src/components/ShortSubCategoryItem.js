@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import WordCell from "./WordCell";
 const ShortSubCategoryItem = (props) => {
     const {
         id
